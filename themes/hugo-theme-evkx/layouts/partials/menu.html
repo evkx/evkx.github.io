@@ -34,7 +34,7 @@
             {{ range sort . "Weight"}}
                 <li>
                     {{.Pre}}
-                    <a href="{{.URL}}">{{safeHTML .Name}}</a>
+                    <a href="{{.RelPermalink}}">{{safeHTML .Name}}</a>
                     {{.Post}}
                 </li>
             {{end}}
@@ -56,9 +56,9 @@
  {{with .sect}}
   {{if .IsSection}}
     {{safeHTML .Params.head}}
-    <li data-nav-id="{{.URL}}" class="dd-item 
+    <li data-nav-id="{{.RelPermalink}}" class="dd-item 
         {{if .IsAncestor $currentNode }}parent{{end}}
-        {{if eq .UniqueID $currentNode.UniqueID}}active{{end}}
+        {{if eq .File.UniqueID $currentNode.File.UniqueID}}active{{end}}
         {{if .Params.alwaysopen}}parent{{end}}
         ">
       <a href="{{ .RelPermalink}}">
@@ -109,8 +109,8 @@
     </li>
   {{else}}
     {{ if not .Params.Hidden }}
-      <li data-nav-id="{{.URL}}" class="dd-item
-     {{if eq .UniqueID $currentNode.UniqueID}}active{{end}}
+      <li data-nav-id="{{.RelPermalink}}" class="dd-item
+     {{if eq .File.UniqueID $currentNode.File.UniqueID}}active{{end}}
       ">
         <a href="{{ .RelPermalink}}">
         <span>{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</span> 
