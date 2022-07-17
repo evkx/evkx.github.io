@@ -387,13 +387,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 488px; height: 1px; padding-top: 21px; margin-left: 221px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
-                                Chargecurve for xyxyxyxyxy
+                                Charging curve for xyxyxyxyxy
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="465" y="30" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    Chargecurve for xyxyxyxyxy
+                    Charging curve for xyxyxyxyxy
                 </text>
             </switch>
         </g>
