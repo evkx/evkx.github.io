@@ -1199,7 +1199,7 @@ pre .copy-to-clipboard:hover {
 
 
 /* Dont show external-link-symbol for images */
-figure a[href^=http]:not([href*='altinn.no']):not([href*='basefarm.net']):not([href*='local.altinn'])::after {
+figure a[href^=http]:not([href*='evkx.net']):not([href*='media.evkx.net']):not([href*='local.altinn'])::after {
     display: inline-block;
     width: 0;
     margin-left: 0;
@@ -1207,8 +1207,8 @@ figure a[href^=http]:not([href*='altinn.no']):not([href*='basefarm.net']):not([h
 }
 
 /* Remove external link icons in header and footer */ 
-.a-header a[href^=http]:not([href*='altinn.no']):not([href*='basefarm.net']):not([href*='local.altinn'])::after,
-.an-footer a[href^=http]:not([href*='altinn.no']):not([href*='basefarm.net']):not([href*='local.altinn'])::after {
+.a-header a[href^=http]:not([href*='evkx.net']):not([href*='media.evkx.net']):not([href*='local.altinn'])::after,
+.an-footer a[href^=http]:not([href*='evkx.net']):not([href*='media.evkx.net']):not([href*='local.altinn'])::after {
     display: none;
 }
 
