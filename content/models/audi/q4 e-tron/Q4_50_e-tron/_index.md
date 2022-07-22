@@ -31,6 +31,8 @@ You can order Audi Q4 50 e-tron with an alternative sport suspension. The sport 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
+Dynamic steering is an optional feature on Audi Q4 50 e-tron. Dynamic steering varies the steering ratio as a function of driving speed. 
+
 ## Exterior
 
 You can choose between 8 different paint colors when ordering this model. 

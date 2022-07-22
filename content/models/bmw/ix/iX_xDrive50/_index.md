@@ -37,6 +37,8 @@ The suspension is fully adaptive suspension both on the front and rear axle. Hei
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
+Dynamic steering is an standard feature on BMW iX xDrive50. Dynamic steering varies the steering ratio as a function of driving speed. This model has rear wheel steering as an standard feature.  
+
 ## Exterior
 
 You can choose between 9 different paint colors when ordering this model. 

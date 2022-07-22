@@ -41,6 +41,7 @@ weight: 30
 |Frontal area|2,82|
 |Overhang angle front|18,8|
 |Overhang angle rear|20,8|
+|Turning circle|13|
 
 ## Driver Assistance
 |Spec|Value|
