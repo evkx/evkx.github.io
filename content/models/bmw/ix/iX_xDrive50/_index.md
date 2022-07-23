@@ -29,13 +29,13 @@ The suspension is fully adaptive suspension both on the front and rear axle. Hei
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
-Dynamic steering is an standard feature on BMW iX xDrive50. Dynamic steering varies the steering ratio as a function of driving speed. In addition, this model has rear-wheel steering as a standard feature.  
+Dynamic steering is standard on BMW iX xDrive50. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 
 ## Exterior
 
 You can choose between 9 different paint colors when ordering this model. 
 
-The car has four regular doors and a tailgate. The tailgate is electric powered and have kick-sensor as optional equipment. 
+The car has four regular doors and a tailgate. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
 
 ## Interior & comfort
 
@@ -55,6 +55,7 @@ The following standard and optional functionality are available on the standard 
  - massage (optional)
 
 You can choose from 7 different materials/colors for this seat type. 
+
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
 
 You can choose from two different climate systems. The standard climate system supports different temperatures in two zone for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
@@ -74,7 +75,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 The BMW iX xDrive50 has several standard and optional driver assistance systems for better safety and comfort.
 
-The BMW iX xDrive50 has a lane-keeping assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if it leaves its lane.
+The BMW iX xDrive50 has a lane-keeping assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 Cruise control is a standard system on the BMW iX xDrive50. The cruise control system helps the driver keep a set speed. 
 

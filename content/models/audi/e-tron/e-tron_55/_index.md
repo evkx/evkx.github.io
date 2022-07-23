@@ -39,7 +39,7 @@ You can order Audi e-tron 55 with an alternative Adaptive Air Suspension Sport s
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
-Dynamic steering is an standard feature on Audi e-tron 55. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is standard on Audi e-tron 55. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ## Exterior
 
@@ -50,7 +50,7 @@ The black optics design package is an option. This package includes a black sing
 
 You can choose between 10 wheels with sizes from 19 to 22 inches. 
 
-The car has four regular doors and a tailgate. The tailgate is electric powered and have kick-sensor as optional equipment. 
+The car has four regular doors and a tailgate. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
 
 ## Interior & comfort
 
@@ -135,7 +135,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 The Audi e-tron 55 has several standard and optional driver assistance systems for better safety and comfort.
 
-The Audi e-tron 55 has a lane-keeping assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if it leaves its lane.
+The Audi e-tron 55 has a lane-keeping assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 Cruise control is a standard system on the Audi e-tron 55. The cruise control system helps the driver keep a set speed. 
 

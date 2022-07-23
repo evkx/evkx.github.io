@@ -39,7 +39,7 @@ You can order Audi Q4 50 e-tron with an alternative sport suspension. The sport 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
-Dynamic steering is an optional feature on Audi Q4 50 e-tron. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is optional on Audi Q4 50 e-tron. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ## Exterior
 
@@ -93,7 +93,7 @@ In addition, with the optional in-car navigation system, you get the help you ne
 
 The Audi Q4 50 e-tron has several standard and optional driver assistance systems for better safety and comfort.
 
-The Audi Q4 50 e-tron has a lane-keeping assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if it leaves its lane.
+The Audi Q4 50 e-tron has a lane-keeping assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 Cruise control is a standard system on the Audi Q4 50 e-tron. The cruise control system helps the driver keep a set speed. 
 
