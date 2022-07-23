@@ -60,6 +60,16 @@ You can choose between 11 wheels with sizes from 19 to 21 inches.
 
 The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrical powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
 
+You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/exterior_1_st.jpg" alt="Audi Q4 50 e-tron" title="Audi Q4 50 e-tron">
+</a>
+<figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
+
+
 ## Interior & comfort
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
