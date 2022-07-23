@@ -1,7 +1,7 @@
 ---
 title: BMW iX xDrive50
 linktitle: iX xDrive50
-description: BMW iX xDrive50 is a luxury SUV with a WLTP range of up to 631 km (392 miles). We have all the details. 
+description: BMW iX xDrive50 is an all-electric luxury SUV with a WLTP range of up to 631 km (392 miles). We have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

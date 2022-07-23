@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 55
 linktitle: e-tron 55
-description: Audi e-tron 55 is a luxury SUV with a WLTP range of up to 441 km (274 miles). We have all the details. 
+description: Audi e-tron 55 is an all-electric luxury SUV with a WLTP range of up to 441 km (274 miles). We have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -56,7 +56,7 @@ The car has four regular doors and a tailgate. The electric-powered tailgate has
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
-There is only one seat type available in the Audi e-tron 55. 
+You can choose between five seat types in the Audi e-tron 55. 
 
 The following standard and optional functionality are available on the standard seat. 
 

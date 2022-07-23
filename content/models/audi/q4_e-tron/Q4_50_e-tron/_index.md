@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 50 e-tron
 linktitle: Q4 50 e-tron
-description: Audi Q4 50 e-tron is a luxury SUV with a WLTP range of up to 488 km (303 miles). We have all the details. 
+description: Audi Q4 50 e-tron is an all-electric premium SUV with a WLTP range of up to 488 km (303 miles). We have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -28,6 +28,14 @@ The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 7
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 9 hours and 56 minutes to drive. This will requires three charge sessions charging from 7% to 74%. The total time lost for charging will be 96 minutes.   
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 57 minutes. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/battery_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/battery_1_st.jpg" alt="Audi Q4 50 e-tron" title="Audi Q4 50 e-tron">
+</a>
+<figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
+
 
 ## Drivetrain
 
@@ -56,7 +64,7 @@ The car has four regular doors and a tailgate. You can choose an option to have 
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
-There is only one seat type available in the Audi Q4 50 e-tron. 
+You can choose between two seat types in the Audi Q4 50 e-tron. 
 
 The following standard and optional functionality are available on the standard seat. 
 
@@ -78,11 +86,27 @@ The following standard and optional functionality are available on the sport sea
 
 You can choose from 4 different materials/colors for this seat type. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/frontseats_1_st.jpg" alt="Audi Q4 50 e-tron" title="Audi Q4 50 e-tron">
+</a>
+<figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
+
+
 ## User interface and control
 
 Audi Q4 50 e-tron has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/screens_1_st.jpg" alt="Audi Q4 50 e-tron" title="Audi Q4 50 e-tron">
+</a>
+<figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
+
 
 ## Infotainment
 
@@ -108,3 +132,10 @@ Efficiency assist is a standard system that helps the driver to drive preemptive
 The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passenger. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The max trailer load on a braked trailer is 1200 and unbraked 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/trunk_1_st.jpg" alt="Audi Q4 50 e-tron" title="Audi Q4 50 e-tron">
+</a>
+<figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
