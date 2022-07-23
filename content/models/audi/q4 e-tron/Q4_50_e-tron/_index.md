@@ -9,11 +9,11 @@ weight: 10
 
 ## Performance
 
-The Audi Q4 50 e-tron has a maximum power with boost of 300KW (408hp). Without boost, it is 265KW (360hp). Torque is rated to 664nm with boost and 561 without boost. The 0-100km/h sprint (0-62mph) is performed in 5,7 seconds with boost and 6,6 seconds without boost. The top speed is 200 kph. 
+With overboost, the Audi Q4 50 e-tron has a maximum power of 300KW (408hp). Without overboost, it is 265KW (360hp). Torque is rated to 664nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 5,7 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 kph. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have an 5,4kWh buffer for protection. (6,6%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 488km to 412km, depending on the equipment. The consumption is between 15,7kWh/100km for the basic version and 18,6kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have 5,4kWh reserved as a buffer for protection. (6,6%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 488km to 412km, depending on the equipment. The consumption is between 15,7kWh/100km for the basic version and 18,6kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 71 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 66% resulting in an actual charge speed including time loss on 96kW. Each charge session would take 28 minutes and 10 seconds. 
 
@@ -25,9 +25,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Audi Q4 50 e-tron has an all-wheel drive system supported by two motors. One on each axle. 
 
-The standard suspension have a fixed height, but it as an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
+The standard suspension has a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
 
-You can order Audi Q4 50 e-tron with an alternative sport suspension. The sport suspension have a fixed height and damping. The ground clearance with this suspension is 165 mm. 
+You can order Audi Q4 50 e-tron with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
@@ -38,9 +38,11 @@ Dynamic steering is an optional feature on Audi Q4 50 e-tron. Dynamic steering v
 You can choose between 8 different paint colors when ordering this model. 
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
 
-Audi Q4 50 e-tron can be delivered with a black optics design package. This includes a black single-frame grille, black bezels around the windows, and, if equipped with rails, black rails.
+The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
 You can choose between 11 wheels with sizes from 19 to 21 inches. 
+
+The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrical powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
 
 ## Interior & comfort
 
@@ -52,7 +54,6 @@ The following standard and optional functionality are available on the standard 
 
  - electric adjustment (optional)
  - height adjustable headrest (standard)
- - length adjustable headrest (optional)
  - heating (optional)
  - memory driver seat (optional)
 
@@ -71,13 +72,13 @@ You can choose from 4 different materials/colors for this seat type.
 
 ## User interface and control
 
-Audi Q4 50 e-tron has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there are one screens in top of center consol. The  screen behind the steering wheel is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
+Audi Q4 50 e-tron has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
 ## Infotainment
 
-You can choose amongst two different sound systems on the Audi Q4 50 e-tron. With the Audi Sound system, you get 6 channels and 8 speakers max system output of 180 watts. With the Sonos Sound System, you get 10 channels and 10 speakers max system output of 580 watts. 
+You can choose amongst two different sound systems on the Audi Q4 50 e-tron. With the Audi Sound system, you get six channels and eight speakers max system output of 180 watts. With the Sonos Sound System, you get ten channels and ten speakers max system output of 580 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 50 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Driver assistance
@@ -90,7 +91,7 @@ Cruise control is a standard system on the Audi Q4 50 e-tron. The cruise control
 
 Adaptive cruise control is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
 
-Adaptive Cruise assist is an optional system on the Audi Q4 50 e-tron.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance as well as in lane guidance. As a result, Adaptive Cruise assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
+Adaptive Cruise assist is an optional system on the Audi Q4 50 e-tron.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance, and lane guidance. As a result, Adaptive Cruise assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
 
 Efficiency assist is a standard system that helps the driver to drive preemptively and save energy. 
 
@@ -98,4 +99,4 @@ Efficiency assist is a standard system that helps the driver to drive preemptive
 
 The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passenger. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The max trailer load on a braked trailer is 1200 kg and unbraked 750kg. 
+You can order the car with a towbar. The max trailer load on a braked trailer is 1200 and unbraked 750kg. 

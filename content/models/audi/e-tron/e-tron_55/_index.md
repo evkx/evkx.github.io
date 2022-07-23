@@ -17,11 +17,11 @@ weight: 10
 
 ## Performance
 
-The Audi e-tron 55 has a maximum power with boost of 300KW (408hp). Without boost, it is 265KW (360hp). Torque is rated to 664nm with boost and 561 without boost. The 0-100km/h sprint (0-62mph) is performed in 5,7 seconds with boost and 6,6 seconds without boost. The top speed is 200 kph. 
+With overboost, the Audi e-tron 55 has a maximum power of 300KW (408hp). Without overboost, it is 265KW (360hp). Torque is rated to 664nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 5,7 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 kph. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 95kWh and a net capacity of 86,5kWh, meaning you have an 8,5kWh buffer for protection. (8,9%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 441km to 369km, depending on the equipment. The consumption is between 19,6kWh/100km for the basic version and 23,4kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 95kWh and a net capacity of 86,5kWh, meaning you have 8,5kWh reserved as a buffer for protection. (8,9%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 441km to 369km, depending on the equipment. The consumption is between 19,6kWh/100km for the basic version and 23,4kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 14% to 83% resulting in an actual charge speed including time loss on 117kW. Each charge session would take 31 minutes and 32 seconds. 
 
@@ -46,9 +46,11 @@ Dynamic steering is an standard feature on Audi e-tron 55. Dynamic steering vari
 You can choose between 14 different paint colors when ordering this model. 
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
 
-Audi e-tron 55 can be delivered with a black optics design package. This includes a black single-frame grille, black bezels around the windows, and, if equipped with rails, black rails.
+The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
 You can choose between 10 wheels with sizes from 19 to 22 inches. 
+
+The car has four regular doors and a tailgate. The tailgate is electric powered and have kick-sensor as optional equipment. 
 
 ## Interior & comfort
 
@@ -126,7 +128,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose amongst two different sound systems on the Audi e-tron 55. With the Audi Sound system, you get 10 channels and 10 speakers max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 channels and 16 speakers max system output of 700 watts. 
+You can choose amongst two different sound systems on the Audi e-tron 55. With the Audi Sound system, you get ten channels and ten speakers max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 channels and 16 speakers max system output of 700 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron 55 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Driver assistance
@@ -139,7 +141,7 @@ Cruise control is a standard system on the Audi e-tron 55. The cruise control sy
 
 Adaptive cruise control is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
 
-Adaptive Cruise assist is an optional system on the Audi e-tron 55.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance as well as in lane guidance. As a result, Adaptive Cruise assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
+Adaptive Cruise assist is an optional system on the Audi e-tron 55.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance, and lane guidance. As a result, Adaptive Cruise assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
 
 Efficiency assist is a standard system that helps the driver to drive preemptively and save energy. 
 
@@ -147,11 +149,4 @@ Efficiency assist is a standard system that helps the driver to drive preemptive
 
 The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75kg. Max weight is 3170kg, and with the base weight of 2520 kg, you can max load 650 kg, including driver and passenger. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The max trailer load on a braked trailer is 1800 kg and unbraked 750kg. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/trunk_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55">
-</a>
-<figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
+You can order the car with a towbar. The max trailer load on a braked trailer is 1800 and unbraked 750kg. 

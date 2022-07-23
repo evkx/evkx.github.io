@@ -7,21 +7,13 @@ weight: 10
 <!-- markdownlint-disable MD033 -->
 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/main_1_st.jpg" alt="BMW iX xDrive50" title="BMW iX xDrive50">
-</a>
-<figcaption><h4>BMW iX xDrive50</h4></figcaption></figur>
-
-
 ## Performance
 
 The BMW iX xDrive50 has a maximum power of 385KW (523hp). The total torque is 765nm. The 0-100km/h sprint (0-62mph) is performed in 4,6 seconds. The top speed is 200 kph. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 111kWh and a net capacity of 105,2kWh, meaning you have an 5,8kWh buffer for protection. (5,2%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 631km to 550km, depending on the equipment. The consumption is between 16,7kWh/100km for the basic version and 19,1kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 111kWh and a net capacity of 105,2kWh, meaning you have 5,8kWh reserved as a buffer for protection. (5,2%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 631km to 550km, depending on the equipment. The consumption is between 16,7kWh/100km for the basic version and 19,1kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 195kW. A full charge from 0 - 100% would take 73 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 10% to 76% resulting in an actual charge speed including time loss on 143kW. Each charge session would take 29 minutes and 14 seconds. 
 
@@ -37,11 +29,13 @@ The suspension is fully adaptive suspension both on the front and rear axle. Hei
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
-Dynamic steering is an standard feature on BMW iX xDrive50. Dynamic steering varies the steering ratio as a function of driving speed. This model has rear wheel steering as an standard feature.  
+Dynamic steering is an standard feature on BMW iX xDrive50. Dynamic steering varies the steering ratio as a function of driving speed. In addition, this model has rear-wheel steering as a standard feature.  
 
 ## Exterior
 
 You can choose between 9 different paint colors when ordering this model. 
+
+The car has four regular doors and a tailgate. The tailgate is electric powered and have kick-sensor as optional equipment. 
 
 ## Interior & comfort
 
@@ -61,14 +55,6 @@ The following standard and optional functionality are available on the standard 
  - massage (optional)
 
 You can choose from 7 different materials/colors for this seat type. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/frontseat_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/frontseat_1_st.jpg" alt="BMW iX xDrive50" title="BMW iX xDrive50">
-</a>
-<figcaption><h4>BMW iX xDrive50</h4></figcaption></figur>
-
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
 
 You can choose from two different climate systems. The standard climate system supports different temperatures in two zone for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
@@ -79,17 +65,9 @@ BMW iX xDrive50 has twin screens on a shared frame mounted with brackets on top 
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/screens_1_st.jpg" alt="BMW iX xDrive50" title="BMW iX xDrive50">
-</a>
-<figcaption><h4>BMW iX xDrive50</h4></figcaption></figur>
-
-
 ## Infotainment
 
-You can choose amongst two different sound systems on the BMW iX xDrive50. With the Harman Kardon Surround Sound system, you get 18 channels and 18 speakers max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get  channels and 30 speakers max system output of 1615 watts. 
+You can choose amongst two different sound systems on the BMW iX xDrive50. With the Harman Kardon Surround Sound system, you get 18 channels and 18 speakers max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get NULL channels and 30 speakers max system output of 1615 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW iX xDrive50 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Driver assistance
@@ -108,11 +86,4 @@ As an optional system, BMW iX xDrive50 can be equipped with autonomous driving c
 
 The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1750 liters. On the roof, you can load up to 75kg. Max weight is 3135kg, and with the base weight of 2510 kg, you can max load 625 kg, including driver and passenger. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The max trailer load on a braked trailer is 2500 kg and unbraked 750kg. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/trunk_1_st.jpg" alt="BMW iX xDrive50" title="BMW iX xDrive50">
-</a>
-<figcaption><h4>BMW iX xDrive50</h4></figcaption></figur>
+You can order the car with a towbar. The max trailer load on a braked trailer is 2500 and unbraked 750kg. 
