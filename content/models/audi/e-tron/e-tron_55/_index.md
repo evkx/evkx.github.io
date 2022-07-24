@@ -131,6 +131,9 @@ A head-up display is an optional system that presents speed and other important 
 You can choose amongst two different sound systems on the Audi e-tron 55. With the Audi Sound system, you get ten channels and ten speakers max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 channels and 16 speakers max system output of 700 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron 55 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+## Lights
+
+You can choose between three types of headlights for the Audi e-tron 55. The standard headlights use LED technology.  Headlights based on LED Matrix technology is available as an option. Headlights based on LED Digital Matrix technology is available as an option. taillight.etronledbar
 ## Driver assistance
 
 The Audi e-tron 55 has several standard and optional driver assistance systems for better safety and comfort.
