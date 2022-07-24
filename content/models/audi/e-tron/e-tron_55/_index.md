@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 55
 linktitle: e-tron 55
-description: Audi e-tron 55 is an all-electric luxury SUV with a WLTP range of up to 441 km (274 miles). We have all the details. 
+description: Audi e-tron 55 is an all-electric luxury SUV with a WLTP range of up to 441 km (274 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -23,9 +23,9 @@ With overboost, the Audi e-tron 55 has a maximum power of 300KW (408hp). Without
 
 The battery has a gross capacity of 95kWh and a net capacity of 86,5kWh, meaning you have 8,5kWh reserved as a buffer for protection. (8,9%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 441km to 369km, depending on the equipment. The consumption is between 19,6kWh/100km for the basic version and 23,4kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 14% to 83% resulting in an actual charge speed including time loss on 117kW. Each charge session would take 31 minutes and 32 seconds. 
+The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 9% to 77% resulting in an actual charge speed including time loss on 119kW. Each charge session would take 30 minutes and 42 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 9 hours and 54 minutes to drive. This will requires three charge sessions charging from 10% to 81%. The total time lost for charging will be 94 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 9 hours and 53 minutes to drive. This will requires three charge sessions charging from 8% to 79%. The total time lost for charging will be 93 minutes.   
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 51 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 55 minutes. 
 
@@ -133,7 +133,7 @@ You can choose amongst two different sound systems on the Audi e-tron 55. With t
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron 55 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
 
-You can choose between three types of headlights for the Audi e-tron 55. The standard headlights use LED technology.  Headlights based on LED Matrix technology is available as an option. Headlights based on LED Digital Matrix technology is available as an option. taillight.etronledbar
+You can choose between three types of headlights for the Audi e-tron 55. The standard headlights use LED technology.  Headlights based on LED Matrix technology is available as an option. Headlights based on LED Digital Matrix technology is available as an option. The standard taillights use LED technology.  
 ## Driver assistance
 
 The Audi e-tron 55 has several standard and optional driver assistance systems for better safety and comfort.
@@ -153,3 +153,10 @@ Efficiency assist is a standard system that helps the driver to drive preemptive
 The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75kg. Max weight is 3170kg, and with the base weight of 2520 kg, you can max load 650 kg, including driver and passenger. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The max trailer load on a braked trailer is 1800 and unbraked 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/trunk_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55">
+</a>
+<figcaption><h4>Audi e-tron 55</h4></figcaption></figur>

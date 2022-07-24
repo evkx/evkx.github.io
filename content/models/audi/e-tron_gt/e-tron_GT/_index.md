@@ -1,0 +1,153 @@
+---
+title: Audi e-tron GT
+linktitle: e-tron GT
+description: Audi e-tron GT is an all-electric luxury Coupe with a WLTP range of up to 488 km (303 miles). EVKX.net have all the details. 
+weight: 10
+---
+<!-- markdownlint-disable MD033 -->
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+</a>
+<figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+
+
+## Performance
+
+With overboost, the Audi e-tron GT has a maximum power of 390KW (530hp). Without overboost, it is 350KW (476hp). Torque is rated to 664nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,1 seconds with overboost and 4,5 seconds without overboost. The top speed is 245 kph. 
+
+## Battery, range, and charging
+
+The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have 9,7kWh reserved as a buffer for protection. (10,4%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 488km to 448km, depending on the equipment. The consumption is between 17,2kWh/100km for the basic version and 18,7kWh/100km for the top trim version for the WLTP standard test. 
+
+The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 17 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 67% resulting in an actual charge speed including time loss on 171kW. Each charge session would take 19 minutes and 46 seconds. 
+
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 9 hours and 15 minutes to drive. This will requires three charge sessions charging from 3% to 66%. The total time lost for charging will be 55 minutes.   
+
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
+
+## Drivetrain
+
+Audi e-tron GT has an all-wheel drive system supported by two motors. One on each axle. 
+
+The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
+
+You can order Audi e-tron GT with an alternative Adaptive Air Suspension Sport suspension. The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
+
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+
+Dynamic steering is standard on Audi e-tron GT. Dynamic steering varies the steering ratio as a function of driving speed. 
+
+## Exterior
+
+You can choose between 14 different paint colors when ordering this model. 
+ In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
+
+The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
+
+You can choose between 10 wheels with sizes from 19 to 22 inches. 
+
+The car has four regular doors and a tailgate. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
+
+## Interior & comfort
+
+You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
+
+You can choose between five seat types in the Audi e-tron GT. 
+
+The following standard and optional functionality are available on the standard seat. 
+
+ - electric adjustment (optional)
+ - height adjustable headrest (standard)
+ - length adjustable headrest (optional)
+ - heating (optional)
+ - memory driver seat (optional)
+
+You can choose from 4 different materials/colors for this seat type. 
+
+The following standard and optional functionality are available on the sport seat. 
+
+ - electric adjustment (optional)
+ - height adjustable headrest (standard)
+ - length adjustable headrest (optional)
+ - heating (optional)
+ - memory driver seat (optional)
+ - electric lumbar support (standard)
+ - adjustable thigh support (standard)
+
+You can choose from 3 different materials/colors for this seat type. 
+
+The following standard and optional functionality are available on the s-line sport seat. 
+
+ - electric adjustment (optional)
+ - height adjustable headrest (standard)
+ - length adjustable headrest (optional)
+ - heating (optional)
+ - memory driver seat (optional)
+ - electric lumbar support (standard)
+ - adjustable thigh support (standard)
+
+You can choose from 4 different materials/colors for this seat type. 
+
+The following standard and optional functionality are available on the s sport seat. 
+
+ - electric adjustment (optional)
+ - heating (optional)
+ - memory driver seat (optional)
+ - electric lumbar support (standard)
+ - adjustable thigh support (standard)
+ - integrated headrest (standard)
+
+You can choose from 4 different materials/colors for this seat type. 
+
+The following standard and optional functionality are available on the multicontour seat. 
+
+ - electric adjustment (standard)
+ - height adjustable headrest (standard)
+ - length adjustable headrest (standard)
+ - heating (standard)
+ - memory driver seat (standard)
+ - memory passenger seat (standard)
+ - electric lumbar support (standard)
+ - adjustable side support back (standard)
+ - adjustable side support bottom (standard)
+ - adjustable side support bottom (standard)
+ - ventilation (optional)
+ - massage (optional)
+
+You can choose from 4 different materials/colors for this seat type. 
+
+## User interface and control
+
+Audi e-tron GT has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there are two different screens. The  screen behind the steering wheel is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. The touch screen at the bottom of the center console is 8,6 inches large and has a 1280 x 660 pixels resolution. 
+
+A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+
+## Infotainment
+
+You can choose amongst two different sound systems on the Audi e-tron GT. With the Audi Sound system, you get ten channels and ten speakers max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 channels and 16 speakers max system output of 700 watts. 
+
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron GT supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+## Lights
+
+You can choose between three types of headlights for the Audi e-tron GT. The standard headlights use LED technology.  Headlights based on LED Matrix technology is available as an option. Headlights based on LED Digital Matrix technology is available as an option. The standard taillights use LED technology.  
+## Driver assistance
+
+The Audi e-tron GT has several standard and optional driver assistance systems for better safety and comfort.
+
+The Audi e-tron GT has a lane-keeping assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+
+Cruise control is a standard system on the Audi e-tron GT. The cruise control system helps the driver keep a set speed. 
+
+Adaptive cruise control is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
+
+Adaptive Cruise assist is an optional system on the Audi e-tron GT.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance, and lane guidance. As a result, Adaptive Cruise assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
+
+Efficiency assist is a standard system that helps the driver to drive preemptively and save energy. 
+
+## Transporation capabilities
+
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75kg. Max weight is 3170kg, and with the base weight of 2520 kg, you can max load 650 kg, including driver and passenger. Some options can increase the base weight and reduce the max loading weight. 
