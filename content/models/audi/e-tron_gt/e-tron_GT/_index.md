@@ -17,7 +17,7 @@ weight: 10
 
 ## Performance
 
-With overboost, the Audi e-tron GT has a maximum power of 390KW (530hp). Without overboost, it is 350KW (476hp). Torque is rated to 664nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,1 seconds with overboost and 4,5 seconds without overboost. The top speed is 245 kph. 
+With overboost, the Audi e-tron GT has a maximum power of 390KW (530hp). Without overboost, it is 350KW (476hp). Torque is rated to 640nm with overboost and 630 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,1 seconds with overboost and 4,5 seconds without overboost. The top speed is 245 kph. 
 
 ## Battery, range, and charging
 

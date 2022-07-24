@@ -17,7 +17,7 @@ weight: 10
 
 ## Performance
 
-With overboost, the Audi Q4 50 e-tron has a maximum power of 300KW (408hp). Without overboost, it is 265KW (360hp). Torque is rated to 664nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 5,7 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 kph. 
+With overboost, the Audi Q4 50 e-tron has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). Torque is rated to 460nm with overboost and 425 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,2 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 kph. 
 
 ## Battery, range, and charging
 

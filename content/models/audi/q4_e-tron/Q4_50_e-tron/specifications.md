@@ -8,10 +8,10 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|265|
-|Peak electrical output boost in kW|300|
-|Electrical torque output in Nm|561|
-|Electrical torque output boost in Nm|664|
+|Peak electrical output in kW|195|
+|Peak electrical output boost in kW|220|
+|Electrical torque output in Nm|425|
+|Electrical torque output boost in Nm|460|
 
 ## Range & Consumption
 |Spec|Value|
