@@ -123,6 +123,17 @@ A head-up display is an optional system that presents speed and other important 
 You can choose amongst two different sound systems on the Audi Q4 50 e-tron. With the Audi Sound system, you get six channels and eight speakers max system output of 180 watts. With the Sonos Sound System, you get ten channels and ten speakers max system output of 580 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 50 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+## Lights
+
+You can choose between two types of headlights for the Audi Q4 50 e-tron. The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/lights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/lights_1_st.jpg" alt="Daytime running lights Audi Q4 e-tron" title="Daytime running lights Audi Q4 e-tron">
+</a>
+<figcaption><h4>Daytime running lights Audi Q4 e-tron</h4></figcaption></figur>
+
 ## Driver assistance
 
 The Audi Q4 50 e-tron has several standard and optional driver assistance systems for better safety and comfort.
