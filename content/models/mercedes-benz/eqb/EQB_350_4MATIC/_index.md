@@ -33,7 +33,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Mercedes-Benz EQB 350 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
 
-The standard suspension has a fixed height and damping. The ground clearance with this suspension is 200 mm. 
+
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 

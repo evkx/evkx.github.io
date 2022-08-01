@@ -54,7 +54,7 @@ The car has four regular doors and a tailgate. The electric-powered tailgate has
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
-You can order the car with tinted windows from B-pillar and back. 
+You can order the car with tinted windows from B-pillar and back. As an option, you can equip the model with double-glazed side windows. These windows reduce cabin noise. 
 
 ## Interior & comfort
 
@@ -134,6 +134,8 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 
 
+The second row has a standard three-seat bench with a 40:20:40 split. In addition, you can fold down the seats to increase the cargo space.  
+
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/frontseats_1.jpg">
@@ -141,6 +143,8 @@ You can choose from 4 different materials/colors for this seat type. <br />
 </a>
 <figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
 
+
+You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 
 ## User interface and control
 
@@ -174,7 +178,7 @@ The Audi e-tron 55 has a **lane-keeping** assistant as a standard system. This s
 
 **Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
 
-Adaptive Cruise assist is an optional system on the Audi e-tron 55.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance, and lane guidance. As a result, Adaptive Cruise assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
+**Adaptive Cruise Assist** is an optional system on the Audi e-tron 55.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance, and lane guidance. As a result, Adaptive Cruise Assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
 
 **Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 

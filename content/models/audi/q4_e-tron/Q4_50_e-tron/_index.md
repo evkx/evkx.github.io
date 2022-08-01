@@ -102,6 +102,8 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 
 
+The second row has a standard three-seat bench with a 40:20:40 split. In addition, you can fold down the seats to increase the cargo space.  
+
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/frontseats_1.jpg">
@@ -109,6 +111,8 @@ You can choose from 4 different materials/colors for this seat type. <br />
 </a>
 <figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
 
+
+You can choose from two different climate systems. The 1-zone climate system supports only controlling one common zone for the whole car. The 3-zone climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
 
 ## User interface and control
 
@@ -150,7 +154,7 @@ The Audi Q4 50 e-tron has a **lane-keeping** assistant as a standard system. Thi
 
 **Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
 
-Adaptive Cruise assist is an optional system on the Audi Q4 50 e-tron.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance, and lane guidance. As a result, Adaptive Cruise assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
+**Adaptive Cruise Assist** is an optional system on the Audi Q4 50 e-tron.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance, and lane guidance. As a result, Adaptive Cruise Assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
 
 **Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 

@@ -124,7 +124,7 @@ The Audi e-tron GT has a **lane-keeping** assistant as a standard system. This s
 
 **Adaptive cruise control** is an standard driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
 
-Adaptive Cruise assist is an optional system on the Audi e-tron GT.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance, and lane guidance. As a result, Adaptive Cruise assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
+**Adaptive Cruise Assist** is an optional system on the Audi e-tron GT.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance, and lane guidance. As a result, Adaptive Cruise Assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
 
 **Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 
