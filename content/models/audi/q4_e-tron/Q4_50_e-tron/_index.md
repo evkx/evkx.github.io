@@ -62,6 +62,8 @@ The car has four regular doors and a tailgate. You can choose an option to have 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
+You can order the car with tinted windows from B-pillar and back. 
+
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/exterior_1.jpg">
@@ -74,27 +76,31 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
-You can choose between two seat types in the Audi Q4 50 e-tron. 
+You can choose two seat types for the front row in the Audi Q4 50 e-tron. 
 
-The following standard and optional functionality are available on the standard seat. 
+The following functionalities are available on the **standard** seat. 
 
  - electric adjustment (optional)
- - height adjustable headrest (standard)
+ - height adjustable headrest 
  - heating (optional)
  - memory driver seat (optional)
 
-You can choose from 4 different materials/colors for this seat type. 
+You can choose from 4 different materials/colors for this seat type. <br />
+<br />
 
-The following standard and optional functionality are available on the sport seat. 
+
+The following functionalities are available on the **sport** seat. 
 
  - electric adjustment (optional)
  - heating (optional)
  - memory driver seat (optional)
- - electric lumbar support (standard)
- - adjustable thigh support (standard)
- - integrated headrest (standard)
+ - electric lumbar support 
+ - adjustable thigh support 
+ - integrated headrest 
 
-You can choose from 4 different materials/colors for this seat type. 
+You can choose from 4 different materials/colors for this seat type. <br />
+<br />
+
 
 
 <figur>
@@ -120,7 +126,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose amongst two different sound systems on the Audi Q4 50 e-tron. With the Audi Sound system, you get six channels and eight speakers max system output of 180 watts. With the Sonos Sound System, you get ten channels and ten speakers max system output of 580 watts. 
+You can choose from two different sound systems on the Audi Q4 50 e-tron. With the Audi Sound system, you get six channels and eight speakers max system output of 180 watts. With the Sonos Sound System, you get ten channels and ten speakers max system output of 580 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 50 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
@@ -138,17 +144,17 @@ You can choose between two types of headlights for the Audi Q4 50 e-tron. The st
 
 The Audi Q4 50 e-tron has several standard and optional driver assistance systems for better safety and comfort.
 
-The Audi Q4 50 e-tron has a lane-keeping assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The Audi Q4 50 e-tron has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
-Cruise control is a standard system on the Audi Q4 50 e-tron. The cruise control system helps the driver keep a set speed. 
+**Cruise control** is a standard system on the Audi Q4 50 e-tron. The cruise control system helps the driver keep a set speed. 
 
-Adaptive cruise control is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
+**Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
 
 Adaptive Cruise assist is an optional system on the Audi Q4 50 e-tron.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance, and lane guidance. As a result, Adaptive Cruise assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
 
-Efficiency assist is a standard system that helps the driver to drive preemptively and save energy. 
+**Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 
-## Transporation capabilities
+## Transportation capabilities
 
 The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passenger. Some options can increase the base weight and reduce the max loading weight. 
 

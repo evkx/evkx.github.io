@@ -53,7 +53,7 @@ weight: 30
 |----|-----|
 |Lane keeping|Yes (Audi Active Lane Assist), standard equipment|
 |Cruise control|Yes, standard equipment|
-|Adaptive cruise control|Yes, optional equipment (option PCC )|
+|Adaptive cruise control|Yes, standard equipment|
 |Autonomous driving|Yes (Adaptive cruise assist), optional equipment (option PCC )|
 |Lane departure warning|Yes (Audi Active Lane Assist), standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
@@ -77,7 +77,7 @@ weight: 30
 |Cross traffic assist|Yes (Audi Collision Avoidance Assist), optional equipment (option PCC )|
 |Speed limiter|Yes, standard equipment|
 |Efficiency assist|Yes (Audi Efficency Assist), standard equipment|
-|Collision Avoidance|Yes (Audi Collision Avoidance Assist), optional equipment (option PCC )|
+|Collision Avoidance|Yes (Audi Collision Avoidance Assist), standard equipment|
 |Traffic Sign Recognition|Yes (Audi Traffic Sign Recongition), optional equipment (option PCC )|
 |Night Vision|Yes (Night Vision Assist), optional equipment (option 9R1 )|
 

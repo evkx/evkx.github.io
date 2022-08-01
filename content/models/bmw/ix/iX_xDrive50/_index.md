@@ -59,18 +59,20 @@ You can choose between different types of seat materials and interior styling. T
 
 There is only one front seat type available in the BMW iX xDrive50. 
 
-The following standard and optional functionality are available on the standard seat. 
+The following functionalities are available on the **standard** seat. 
 
- - electric adjustment (standard)
- - heating (standard)
+ - electric adjustment 
+ - heating 
  - memory driver seat (optional)
  - memory passenger seat (optional)
  - adjustable side support back (optional)
- - integrated headrest (standard)
+ - integrated headrest 
  - ventilation (optional)
  - massage (optional)
 
-You can choose from 7 different materials/colors for this seat type. 
+You can choose from 7 different materials/colors for this seat type. <br />
+<br />
+
 
 
 <figur>
@@ -100,25 +102,25 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose amongst two different sound systems on the BMW iX xDrive50. With the Harman Kardon Surround Sound system, you get 18 channels and 18 speakers max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get NULL channels and 30 speakers max system output of 1615 watts. 
+You can choose from two different sound systems on the BMW iX xDrive50. With the Harman Kardon Surround Sound system, you get 18 channels and 18 speakers max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get NULL channels and 30 speakers max system output of 1615 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW iX xDrive50 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
 
-You can choose between two types of headlights for the BMW iX xDrive50. The standard headlights use LED technology.  Headlights based on laser technology is available as an option. The standard taillights use LED technology.  
+You can choose between two types of headlights for the BMW iX xDrive50. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
 ## Driver assistance
 
 The BMW iX xDrive50 has several standard and optional driver assistance systems for better safety and comfort.
 
-The BMW iX xDrive50 has a lane-keeping assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The BMW iX xDrive50 has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
-Cruise control is a standard system on the BMW iX xDrive50. The cruise control system helps the driver keep a set speed. 
+**Cruise control** is a standard system on the BMW iX xDrive50. The cruise control system helps the driver keep a set speed. 
 
-Adaptive cruise control is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
+**Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
 
-As an optional system, BMW iX xDrive50 can be equipped with autonomous driving capabilities that can steer the car and adjust speed depending on the environment. 
+**Autonomous driving** capabilities are available as an optional system. The system can steer the car and adjust speed depending on the environment. 
 
-## Transporation capabilities
+## Transportation capabilities
 
 The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1750 liters. On the roof, you can load up to 75kg. Max weight is 3135kg, and with the base weight of 2510 kg, you can max load 625 kg, including driver and passenger. Some options can increase the base weight and reduce the max loading weight. 
 
