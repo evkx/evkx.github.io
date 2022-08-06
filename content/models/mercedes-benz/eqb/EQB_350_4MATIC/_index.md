@@ -109,6 +109,8 @@ The third row has an optional two-seat bench with a 50:50 split. You can fold do
 <figcaption><h4>Mercedes-Benz EQB 350 4MATIC</h4></figcaption></figur>
 
 
+You can choose from two different climate systems. The standard climate system supports only controlling one common zone for the whole car. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. 
+
 ## User interface and control
 
 Mercedes-Benz EQB 350 4MATIC has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel on the left of the frame is 10,25 inches large and has a 1920x720 pixels resolution. The touch screen at the right part of the shared frame is 10,25 inches large and has a 1920x720 pixels resolution. 

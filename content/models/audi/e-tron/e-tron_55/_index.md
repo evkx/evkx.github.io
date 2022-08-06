@@ -56,6 +56,14 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 You can order the car with tinted windows from B-pillar and back. As an option, you can equip the model with double-glazed side windows. These windows reduce cabin noise. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/exterior_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55">
+</a>
+<figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
+
+
 ## Interior & comfort
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 

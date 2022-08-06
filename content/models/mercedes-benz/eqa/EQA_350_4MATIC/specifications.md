@@ -1,5 +1,5 @@
 ---
-title: Mercedes-Benz EQB specifications
+title: Mercedes-Benz EQA specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -14,30 +14,30 @@ weight: 30
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|423|
-|Basic trim WLTP consumption with charging loss|18,1|
-|Basic trim WLTP consumption|15,721040189125295508274231680|
-|Top trim WLTP range|388|
+|Basic trim WLTP range|438|
+|Basic trim WLTP consumption with charging loss|17,5|
+|Basic trim WLTP consumption|15,182648401826484018264840180|
+|Top trim WLTP range|411|
 |Top trim WLTP consumption with charging loss|19,7|
-|Top trim WLTP consumption|17,139175257731958762886597940|
+|Top trim WLTP consumption|16,180048661800486618004866180|
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
+|Battery gross|69,7|
 |Battery net|66,5|
 |Max DC charging|112|
 
 ## Dimensions
 |Spec|Value|
 |----|-----|
-|Length|4682|
-|Height|1624|
+|Length|4463|
+|Height|1620|
 |Width excluding mirrors|1834|
 |Widht including mirrors|2020|
-|Wheelbase|2829|
+|Wheelbase|2729|
 |Track width front|1585|
 |Track width rear|1584|
-|Drag coefficient|0,287|
 |Turning circle|11,7|
 
 ## Driver Assistance

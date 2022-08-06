@@ -1,5 +1,5 @@
 ---
-title: Mercedes-Benz EQB specifications
+title: Mercedes-Benz EQE specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,37 +8,38 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|215|
-|Electrical torque output in Nm|520|
+|Peak electrical output in kW|350|
+|Electrical torque output in Nm|858|
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|423|
-|Basic trim WLTP consumption with charging loss|18,1|
-|Basic trim WLTP consumption|15,721040189125295508274231680|
-|Top trim WLTP range|388|
-|Top trim WLTP consumption with charging loss|19,7|
-|Top trim WLTP consumption|17,139175257731958762886597940|
+|Basic trim WLTP range|534|
+|Basic trim WLTP consumption with charging loss|19,6|
+|Basic trim WLTP consumption|16,966292134831460674157303370|
+|Top trim WLTP range|463|
+|Top trim WLTP consumption with charging loss|22,4|
+|Top trim WLTP consumption|19,568034557235421166306695460|
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
-|Battery net|66,5|
-|Max DC charging|112|
+|Battery gross|100|
+|Battery net|90,6|
+|Max DC charging|170|
 
 ## Dimensions
 |Spec|Value|
 |----|-----|
-|Length|4682|
-|Height|1624|
-|Width excluding mirrors|1834|
-|Widht including mirrors|2020|
-|Wheelbase|2829|
+|Length|4946|
+|Height|1620|
+|Width excluding mirrors|1906|
+|Widht including mirrors|2104|
+|Wheelbase|3104|
 |Track width front|1585|
 |Track width rear|1584|
-|Drag coefficient|0,287|
-|Turning circle|11,7|
+|Drag coefficient|0,22|
+|Turning circle|12,5|
 
 ## Driver Assistance
 |Spec|Value|
