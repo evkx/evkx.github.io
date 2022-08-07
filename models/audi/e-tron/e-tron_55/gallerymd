@@ -1,0 +1,54 @@
+---
+title: Audi e-tron 55 gallery
+linktitle: Image Gallery
+description: imagegallery
+weight: 10
+---
+<!-- markdownlint-disable MD033 -->
+<div class="pswp-gallery pswp-gallery--single-column" id="my - gallery">
+<a href="models/audi/e-tron/e-tron_55/exterior_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1999" 
+target="_blank">
+<img src="" alt="" />
+</a>
+<a href="models/audi/e-tron/e-tron_55/frontseats_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1999" 
+target="_blank">
+<img src="" alt="" />
+</a>
+<a href="models/audi/e-tron/e-tron_55/interior_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2249" 
+target="_blank">
+<img src="" alt="" />
+</a>
+<a href="models/audi/e-tron/e-tron_55/main_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2250" 
+target="_blank">
+<img src="" alt="" />
+</a>
+<a href="models/audi/e-tron/e-tron_55/screens_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="" alt="" />
+</a>
+<a href="models/audi/e-tron/e-tron_55/trunk_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1999" 
+target="_blank">
+<img src="" alt="" />
+</a>
+</div>
+<script type="module">
+  import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';
+    const lightbox = new PhotoSwipeLightbox({
+       gallery: '#my-gallery',
+        children: 'a',
+        pswpModule: () => import('/js/photoswipe.esm.js')
+    });
+lightbox.init();
+</script>

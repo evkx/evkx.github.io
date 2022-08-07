@@ -1,0 +1,24 @@
+---
+title: Audi e-tron GT gallery
+linktitle: Image Gallery
+description: imagegallery
+weight: 10
+---
+<!-- markdownlint-disable MD033 -->
+<div class="pswp-gallery pswp-gallery--single-column" id="my - gallery">
+<a href="models/audi/e-tron_gt/e-tron_gt/main_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="" alt="" />
+</a>
+</div>
+<script type="module">
+  import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';
+    const lightbox = new PhotoSwipeLightbox({
+       gallery: '#my-gallery',
+        children: 'a',
+        pswpModule: () => import('/js/photoswipe.esm.js')
+    });
+lightbox.init();
+</script>
