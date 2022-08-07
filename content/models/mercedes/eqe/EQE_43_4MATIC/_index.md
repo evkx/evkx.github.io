@@ -29,6 +29,14 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/charging_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC">
+</a>
+<figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
+
+
 ## Drivetrain
 
 Mercedes-AMG EQE 43 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
