@@ -23,7 +23,7 @@ With overboost, the Audi e-tron 55 has a maximum power of 300KW (408hp). Without
 
 The battery has a gross capacity of 95kWh and a net capacity of 86,5kWh, meaning you have 8,5kWh reserved as a buffer for protection. (8,9%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 441km to 369km, depending on the equipment. The consumption is between 19,6kWh/100km for the basic version and 23,4kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 45 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 9% to 81% resulting in an actual charge speed including time loss on 122kW. Each charge session would take 31 minutes and 40 seconds. 
+The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 42 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 81% resulting in an actual charge speed including time loss on 123kW. Each charge session would take 33 minutes and 56 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 9 hours and 50 minutes to drive. This will requires three charge sessions charging from 9% to 80%. The total time lost for charging will be 91 minutes.   
 
@@ -37,7 +37,7 @@ The suspension is fully adaptive suspension both on the front and rear axle. Hei
 
 You can order Audi e-tron 55 with an alternative Adaptive Air Suspension Sport suspension. The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 Dynamic steering is standard on Audi e-tron 55. Dynamic steering varies the steering ratio as a function of driving speed. 
 
@@ -156,9 +156,7 @@ You can choose from two different climate systems. The 2-zone climate system sup
 
 ## User interface and control
 
-Audi e-tron 55 has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there are two different screens. The  screen behind the steering wheel is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. The touch screen at the bottom of the center console is 8,6 inches large and has a 1280 x 660 pixels resolution. 
-
-A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+Audi e-tron 55 has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there are two different screens. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. The touch screen at the bottom of the center console is 8,6 inches large and has a 1280 x 660 pixels resolution. 
 
 
 <figur>
@@ -168,6 +166,8 @@ A head-up display is an optional system that presents speed and other important 
 <figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
 
 
+A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+
 ## Infotainment
 
 You can choose from two different sound systems on the Audi e-tron 55. With the Audi Sound system, you get ten channels and ten speakers max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 channels and 16 speakers max system output of 700 watts. 
@@ -175,7 +175,7 @@ You can choose from two different sound systems on the Audi e-tron 55. With the 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron 55 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
 
-You can choose between three types of headlights for the Audi e-tron 55. The standard headlights use LED technology.  Headlights based on LED Matrix technology is available as an option. LED Matrix, is an adaptive system that works by splitting the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. lights.technology.option.leddigitalmatrix In addition, the standard taillights use LED technology. 
+You can choose between three types of headlights for the Audi e-tron 55. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. lights.technology.option.leddigitalmatrix In addition, the standard taillights use LED technology. 
 ## Driver assistance
 
 The Audi e-tron 55 has several standard and optional driver assistance systems for better safety and comfort.
@@ -192,9 +192,9 @@ The Audi e-tron 55 has a **lane-keeping** assistant as a standard system. This s
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75kg. Max weight is 3170kg, and with the base weight of 2520 kg, you can max load 650 kg, including driver and passenger. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75kg. Max weight is 3170kg, and with the base weight of 2520 kg, you can max load 650 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The max trailer load on a braked trailer is 1800 and unbraked 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, 750kg. 
 
 
 <figur>

@@ -37,7 +37,7 @@ Audi e-tron GT has an all-wheel drive system supported by two motors. One on eac
 
 You can order Audi e-tron GT with an alternative Adaptive Air Suspension suspension. The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 125 mm and max 165 mm. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 Dynamic steering is standard on Audi e-tron GT. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 
@@ -102,7 +102,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 ## User interface and control
 
-Audi e-tron GT has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
+Audi e-tron GT has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
@@ -130,6 +130,6 @@ The Audi e-tron GT has a **lane-keeping** assistant as a standard system. This s
 
 ## Transportation capabilities
 
-On the roof, you can load up to 75kg. Max weight is 2860kg, and with the base weight of 2340 kg, you can max load 520 kg, including driver and passenger. Some options can increase the base weight and reduce the max loading weight. 
+On the roof, you can load up to 75kg. Max weight is 2860kg, and with the base weight of 2340 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 

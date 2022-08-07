@@ -45,7 +45,7 @@ The standard suspension has a fixed height but an optional damping adjustment. T
 
 You can order Audi Q4 50 e-tron with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 Dynamic steering is optional on Audi Q4 50 e-tron. Dynamic steering varies the steering ratio as a function of driving speed. 
 
@@ -116,9 +116,7 @@ You can choose from two different climate systems. The 1-zone climate system sup
 
 ## User interface and control
 
-Audi Q4 50 e-tron has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
-
-A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+Audi Q4 50 e-tron has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
 
 
 <figur>
@@ -127,6 +125,8 @@ A head-up display is an optional system that presents speed and other important 
 </a>
 <figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
 
+
+A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
 ## Infotainment
 
@@ -160,9 +160,9 @@ The Audi Q4 50 e-tron has a **lane-keeping** assistant as a standard system. Thi
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passenger. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The max trailer load on a braked trailer is 1200 and unbraked 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
 
 
 <figur>

@@ -1,7 +1,7 @@
 ---
-title: Mercedes EQC 400 4MATIC charging curve
+title: Mercedes-Benz EQC 400 4MATIC charging curve
 linktitle: Charging curve
-description: Here you find the charging curve for Mercedes EQC 400 4MATIC. 
+description: Here you find the charging curve for Mercedes-Benz EQC 400 4MATIC. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

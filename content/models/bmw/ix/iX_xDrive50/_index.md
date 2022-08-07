@@ -35,7 +35,7 @@ BMW iX xDrive50 has an all-wheel drive system supported by two motors. One on ea
 
 The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 193 mm and max 223 mm. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 Dynamic steering is standard on BMW iX xDrive50. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 
@@ -90,8 +90,6 @@ You can choose from two different climate systems. The standard climate system s
 
 BMW iX xDrive50 has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel on the left of the frame is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 14,9 inches large and has a 2880 x 1080 pixels resolution. 
 
-A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
-
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/screens_1.jpg">
@@ -99,6 +97,8 @@ A head-up display is an optional system that presents speed and other important 
 </a>
 <figcaption><h4>BMW iX xDrive50</h4></figcaption></figur>
 
+
+A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
 ## Infotainment
 
@@ -122,9 +122,9 @@ The BMW iX xDrive50 has a **lane-keeping** assistant as a standard system. This 
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1750 liters. On the roof, you can load up to 75kg. Max weight is 3135kg, and with the base weight of 2510 kg, you can max load 625 kg, including driver and passenger. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1750 liters. On the roof, you can load up to 75kg. Max weight is 3135kg, and with the base weight of 2510 kg, you can max load 625 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The max trailer load on a braked trailer is 2500 and unbraked 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2500, and on unbraked, 750kg. 
 
 
 <figur>

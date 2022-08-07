@@ -1,7 +1,7 @@
 ---
-title: Mercedes EQA 350 4MATIC charging curve
+title: Mercedes-Benz EQA 350 4MATIC charging curve
 linktitle: Charging curve
-description: Here you find the charging curve for Mercedes EQA 350 4MATIC. 
+description: Here you find the charging curve for Mercedes-Benz EQA 350 4MATIC. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

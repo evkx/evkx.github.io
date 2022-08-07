@@ -97,7 +97,7 @@ weight: 30
 |Channels|7|
 |Total effect|225|
 
-### Burmester surround soundystem
+### Burmester Surround Soundsystem
 |Spec|Value|
 |----|-----|
 |Number of speakers|13|

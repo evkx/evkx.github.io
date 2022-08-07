@@ -1,7 +1,7 @@
 ---
-title: Mercedes EQE 43 4MATIC charging curve
+title: Mercedes-AMG EQE 43 4MATIC charging curve
 linktitle: Charging curve
-description: Here you find the charging curve for Mercedes EQE 43 4MATIC. 
+description: Here you find the charging curve for Mercedes-AMG EQE 43 4MATIC. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
