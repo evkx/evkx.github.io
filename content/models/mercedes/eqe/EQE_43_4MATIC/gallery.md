@@ -9,7 +9,7 @@ weight: 10
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/charging_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/charging_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="2001" 
+data-pswp-height="2000" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/charging_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" />
 </a>
@@ -19,6 +19,13 @@ data-pswp-width="3000"
 data-pswp-height="2027" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/exterior_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/exterior_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/exterior_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/exterior_2_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/frontseats_1.jpg"

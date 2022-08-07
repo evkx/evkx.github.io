@@ -7,6 +7,14 @@ weight: 10
 <!-- markdownlint-disable MD033 -->
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/main_1_st.jpg" alt="Mercedes-Benz EQA 350 4MATIC" title="Mercedes-Benz EQA 350 4MATIC">
+</a>
+<figcaption><h4>Mercedes-Benz EQA 350 4MATIC</h4></figcaption></figur>
+
+
 ## Performance
 
 The Mercedes-Benz EQA 350 4MATIC has a maximum power of 215KW (292hp). The total torque is 520nm. The 0-100km/h sprint (0-62mph) is performed in 6 seconds. The top speed is 160 kph. 
@@ -20,6 +28,14 @@ The maximum DC charging speed is 112kW. A full charge from 0 - 100% would take 4
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 10 hours and 9 minutes to drive. This will requires three charge sessions charging from 3% to 80%. The total time lost for charging will be 109 minutes.   
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 2 minutes. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/charging_1_st.jpg" alt="Mercedes-Benz EQA 350 4MATIC" title="Mercedes-Benz EQA 350 4MATIC">
+</a>
+<figcaption><h4>Mercedes-Benz EQA 350 4MATIC</h4></figcaption></figur>
+
 
 ## Drivetrain
 
@@ -41,6 +57,14 @@ You can choose between 6 wheels with sizes from 18 to 19 inches.
 The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1_st.jpg" alt="Mercedes-Benz EQA 350 4MATIC" title="Mercedes-Benz EQA 350 4MATIC">
+</a>
+<figcaption><h4>Mercedes-Benz EQA 350 4MATIC</h4></figcaption></figur>
+
 
 ## Interior & comfort
 
@@ -83,11 +107,27 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 The second row has a standard three-seat bench with a 40:20:40 split. In addition, you can fold down the seats to increase the cargo space.  
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" alt="Mercedes-Benz EQA 350 4MATIC" title="Mercedes-Benz EQA 350 4MATIC">
+</a>
+<figcaption><h4>Mercedes-Benz EQA 350 4MATIC</h4></figcaption></figur>
+
+
 You can choose from two different climate systems. The standard climate system supports only controlling one common zone for the whole car. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. 
 
 ## User interface and control
 
 Mercedes-Benz EQA 350 4MATIC has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel on the left of the frame is 10,25 inches large and has a 1920x720 pixels resolution. The touch screen at the right part of the shared frame is 10,25 inches large and has a 1920x720 pixels resolution. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" alt="Mercedes-Benz EQA 350 4MATIC" title="Mercedes-Benz EQA 350 4MATIC">
+</a>
+<figcaption><h4>Mercedes-Benz EQA 350 4MATIC</h4></figcaption></figur>
+
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
@@ -103,6 +143,14 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/lights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/lights_1_st.jpg" alt="Mercedes-Benz EQA 350 4MATIC" title="Mercedes-Benz EQA 350 4MATIC">
+</a>
+<figcaption><h4>Mercedes-Benz EQA 350 4MATIC</h4></figcaption></figur>
+
 ## Driver assistance
 
 The Mercedes-Benz EQA 350 4MATIC has several standard and optional driver assistance systems for better safety and comfort.
