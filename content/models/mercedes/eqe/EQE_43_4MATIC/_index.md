@@ -52,7 +52,7 @@ Dynamic steering is standard on Mercedes-AMG EQE 43 4MATIC. Dynamic steering var
 You can choose between 11 different paint colors when ordering this model. 
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
-exterior.styling.amgnight
+The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions. 
 
 You can choose between 4 wheels with sizes from 20 to 21 inches. 
 
@@ -124,7 +124,7 @@ Two different screen setups are available on the Mercedes-AMG EQE 43 4MATIC.
 
 The standard layout has the following configuration. The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen in the middle of the center console is 12,8 inches large and has a 1888x1728 pixels resolution. 
 
-The optional MBUX Hyperscreen layout has the following configuration. Behind the steering wheel is a digital instrument cluster, and in the center console, there are two different screens. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
+The optional MBUX Hyperscreen layout has the following configuration. Behind the steering wheel is a digital instrument cluster. In addition, there is one infotainment screen in the center console  and one in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
 
 
 <figur>
@@ -142,7 +142,7 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-You can choose from two different sound systems on the Mercedes-AMG EQE 43 4MATIC. With the Advanced Soundsystem, you get seven channels and nine speakers max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine channels and 13 speakers max system output of 590 watts. 
+You can choose from two different sound systems on the Mercedes-AMG EQE 43 4MATIC. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-AMG EQE 43 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
@@ -165,6 +165,8 @@ The Mercedes-AMG EQE 43 4MATIC has a **lane-keeping** assistant as a standard sy
 **Cruise control** is a standard system on the Mercedes-AMG EQE 43 4MATIC. The cruise control system helps the driver keep a set speed. 
 
 **Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
+
+**Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 
 **Autonomous driving** capabilities are available as an optional system. The system can steer the car and adjust speed depending on the environment. 
 

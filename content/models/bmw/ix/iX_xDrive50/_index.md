@@ -102,7 +102,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose from two different sound systems on the BMW iX xDrive50. With the Harman Kardon Surround Sound system, you get 18 channels and 18 speakers max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get NULL channels and 30 speakers max system output of 1615 watts. 
+You can choose from two different sound systems on the BMW iX xDrive50. With the Harman Kardon Surround Sound system, you get 18 amplifier channels and 18 speakers with a max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get NULL amplifier channels and 30 speakers with a max system output of 1615 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW iX xDrive50 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights

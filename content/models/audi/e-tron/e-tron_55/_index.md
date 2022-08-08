@@ -170,7 +170,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose from two different sound systems on the Audi e-tron 55. With the Audi Sound system, you get ten channels and ten speakers max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 channels and 16 speakers max system output of 700 watts. 
+You can choose from two different sound systems on the Audi e-tron 55. With the Audi Sound system, you get ten amplifier channels and ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 amplifier channels and 16 speakers with a max system output of 700 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron 55 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
@@ -185,6 +185,8 @@ The Audi e-tron 55 has a **lane-keeping** assistant as a standard system. This s
 **Cruise control** is a standard system on the Audi e-tron 55. The cruise control system helps the driver keep a set speed. 
 
 **Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
+
+**Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 
 **Adaptive Cruise Assist** is an optional system on the Audi e-tron 55.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance, and lane guidance. As a result, Adaptive Cruise Assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
 

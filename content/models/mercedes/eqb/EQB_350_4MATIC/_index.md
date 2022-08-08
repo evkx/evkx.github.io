@@ -131,7 +131,7 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-You can choose from two different sound systems on the Mercedes-Benz EQB 350 4MATIC. With the Standard, you get five channels and seven speakers max system output of 100 watts. With the Advanced Soundsystem, you get seven channels and nine speakers max system output of 225 watts. 
+You can choose from two different sound systems on the Mercedes-Benz EQB 350 4MATIC. With the Standard, you get five amplifier channels and seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-Benz EQB 350 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
@@ -146,6 +146,8 @@ The Mercedes-Benz EQB 350 4MATIC has a **lane-keeping** assistant as a standard 
 **Cruise control** is a standard system on the Mercedes-Benz EQB 350 4MATIC. The cruise control system helps the driver keep a set speed. 
 
 **Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
+
+**Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 
 **Autonomous driving** capabilities are available as an optional system. The system can steer the car and adjust speed depending on the environment. 
 
