@@ -21,11 +21,11 @@ The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 484KW (658hp). The total 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 112kWh and a net capacity of 107,8kWh, meaning you have 4,2kWh reserved as a buffer for protection. (3,8%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 570km to 513km, depending on the equipment. The consumption is between 18,9kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 120kWh and a net capacity of 107,8kWh, meaning you have 12,2kWh reserved as a buffer for protection. (10,2%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 570km to 513km, depending on the equipment. The consumption is between 18,9kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 63 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 62% resulting in an actual charge speed including time loss on 130kW. Each charge session would take 30 minutes and 46 seconds. 
+The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 34 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25,2kWh/100km, 1000km will take 9 hours and 26 minutes to drive. This will requires two charge sessions charging from 2% to 69%. The total time lost for charging will be 67 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25,2kWh/100km, 1000km will take 9 hours and 21 minutes to drive. This will requires two charge sessions charging from 1% to 68%. The total time lost for charging will be 62 minutes.   
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 53 minutes. 
 
@@ -50,11 +50,9 @@ Dynamic steering is standard on Mercedes-AMG EQS 53 4MATIC+. Dynamic steering va
 ## Exterior
 
 You can choose between 11 different paint colors when ordering this model. 
- In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
-
 The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions. 
 
-You can choose between 4 wheels with sizes from 20 to 21 inches. 
+You can choose between 4 wheels with sizes from 21 to 22 inches. 
 
 The car has four regular doors and a boot lid for the trunk. 
 
@@ -120,11 +118,7 @@ You can choose from two different climate systems. The THERMOTRONIC climate syst
 
 ## User interface and control
 
-Two different screen setups are available on the Mercedes-AMG EQS 53 4MATIC+. 
-
-The standard layout has the following configuration. The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen in the middle of the center console is 12,8 inches large and has a 1888x1728 pixels resolution. 
-
-The optional MBUX Hyperscreen layout has the following configuration. Behind the steering wheel is a digital instrument cluster. In addition, there is one infotainment screen in the center console  and one in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
+Mercedes-AMG EQS 53 4MATIC+ has multiple integrated screens. Behind the steering wheel is a digital instrument cluster. In addition, there is one infotainment screen in the center console  and one in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
 
 
 <figur>
@@ -164,7 +158,7 @@ The Mercedes-AMG EQS 53 4MATIC+ has a **lane-keeping** assistant as a standard s
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 430 liters. With the rear seat down, it is 895 liters. On the roof, you can load up to 100kg. Max weight is 3225kg, and with the base weight of 2580 kg, you can max load 645 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100kg. Max weight is 3225kg, and with the base weight of 2580 kg, you can max load 645 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 

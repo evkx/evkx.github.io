@@ -23,9 +23,9 @@ With overboost, the Audi e-tron GT has a maximum power of 390KW (530hp). Without
 
 The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have 9,7kWh reserved as a buffer for protection. (10,4%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 488km to 448km, depending on the equipment. The consumption is between 17,2kWh/100km for the basic version and 18,7kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 17 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 67% resulting in an actual charge speed including time loss on 171kW. Each charge session would take 19 minutes and 46 seconds. 
+The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65% resulting in an actual charge speed including time loss on 165kW. Each charge session would take 19 minutes and 53 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 8 minutes to drive. This will requires three charge sessions charging from 3% to 58%. The total time lost for charging will be 49 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 10 minutes to drive. This will requires three charge sessions charging from 3% to 58%. The total time lost for charging will be 51 minutes.   
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
 

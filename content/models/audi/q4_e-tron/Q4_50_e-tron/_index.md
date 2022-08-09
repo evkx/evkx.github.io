@@ -23,9 +23,9 @@ With overboost, the Audi Q4 50 e-tron has a maximum power of 220KW (299hp). With
 
 The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have 5,4kWh reserved as a buffer for protection. (6,6%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 488km to 412km, depending on the equipment. The consumption is between 15,7kWh/100km for the basic version and 18,6kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 54% resulting in an actual charge speed including time loss on 93kW. Each charge session would take 24 minutes and 43 seconds. 
+The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53% resulting in an actual charge speed including time loss on 89kW. Each charge session would take 24 minutes and 11 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 1 minutes to drive. This will requires four charge sessions charging from 6% to 57%. The total time lost for charging will be 101 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 5 minutes to drive. This will requires four charge sessions charging from 6% to 57%. The total time lost for charging will be 105 minutes.   
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 57 minutes. 
 

@@ -23,9 +23,9 @@ The Mercedes-AMG EQE 43 4MATIC has a maximum power of 350KW (476hp). The total t
 
 The battery has a gross capacity of 96,12kWh and a net capacity of 90,6kWh, meaning you have 5,52kWh reserved as a buffer for protection. (5,7%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 533km to 462km, depending on the equipment. The consumption is between 17,0kWh/100km for the basic version and 19,6kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 53 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 65% resulting in an actual charge speed including time loss on 126kW. Each charge session would take 27 minutes and 6 seconds. 
+The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 55 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 64% resulting in an actual charge speed including time loss on 121kW. Each charge session would take 28 minutes and 48 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25,2kWh/100km, 1000km will take 9 hours and 37 minutes to drive. This will requires three charge sessions charging from 2% to 62%. The total time lost for charging will be 77 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25,2kWh/100km, 1000km will take 9 hours and 40 minutes to drive. This will requires three charge sessions charging from 2% to 62%. The total time lost for charging will be 81 minutes.   
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
 
