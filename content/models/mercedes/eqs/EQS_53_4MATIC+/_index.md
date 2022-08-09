@@ -23,7 +23,7 @@ The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 484KW (658hp). The total 
 
 The battery has a gross capacity of 120kWh and a net capacity of 107,8kWh, meaning you have 12,2kWh reserved as a buffer for protection. (10,2%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 570km to 513km, depending on the equipment. The consumption is between 18,9kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 34 seconds. 
+The maximum DC charging speed is 210kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 34 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25,2kWh/100km, 1000km will take 9 hours and 21 minutes to drive. This will requires two charge sessions charging from 1% to 68%. The total time lost for charging will be 62 minutes.   
 
@@ -54,7 +54,7 @@ The optional AMG Night Package finishes selected exterior elements in high-gloss
 
 You can choose between 4 wheels with sizes from 21 to 22 inches. 
 
-The car has four regular doors and a boot lid for the trunk. 
+The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
@@ -141,7 +141,7 @@ You can choose from two different sound systems on the Mercedes-AMG EQS 53 4MATI
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-AMG EQS 53 4MATIC+ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
 
-You can choose between two types of headlights for the Mercedes-AMG EQS 53 4MATIC+. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 ## Driver assistance
 
 The Mercedes-AMG EQS 53 4MATIC+ has several standard and optional driver assistance systems for better safety and comfort.

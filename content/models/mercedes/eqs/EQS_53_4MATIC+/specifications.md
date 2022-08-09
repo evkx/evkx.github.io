@@ -26,7 +26,7 @@ weight: 30
 |----|-----|
 |Battery gross|120|
 |Battery net|107,8|
-|Max DC charging|170|
+|Max DC charging|210|
 
 ## Dimensions
 |Spec|Value|
