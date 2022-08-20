@@ -44,7 +44,7 @@ You can order Audi e-tron GT with an alternative Adaptive Air Suspension suspens
 Dynamic steering is standard on Audi e-tron GT. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 ### Brakes
 
-You can choose between different brakes. The standard option brakes uses regular cast iron discs. The front discs are 360mm and the rear discs are 358mm. The front discs are 410mm and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm and the rear discs are 410mm. 
+You can choose between different brakes. The standard option brakes use regular cast-iron discs. The front discs are 360mm, and the rear discs are 358mm. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm, and the rear discs are 410mm. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
@@ -122,7 +122,7 @@ You can choose from two different sound systems on the Audi e-tron GT. With the 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron GT supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
 
-You can choose between three types of headlights for the Audi e-tron GT. The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+You can choose between three types of headlights for the Audi e-tron GT. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
 ## Driver assistance
 
 The Audi e-tron GT has several standard and optional driver assistance systems for better safety and comfort.

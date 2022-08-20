@@ -50,7 +50,7 @@ The suspension is fully adaptive suspension both on the front and rear axle. Hei
 Dynamic steering is standard on Mercedes-AMG EQS 53 4MATIC+. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 ### Brakes
 
-You can choose between different brakes. The standard option brakes uses regular cast iron discs. The second option brakes uses ceramic discs. 
+You can choose between different brakes. The standard option brakes use regular cast-iron discs. The second option brakes uses ceramic discs. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 

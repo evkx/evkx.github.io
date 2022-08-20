@@ -48,7 +48,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 Porsche Taycan has a rear-wheel drive system supported by one motor on the rear axle. 
 
-The Standard suspension has a fixed height but an damping adjustment. The ground clearance with this suspension is 127 mm. 
+The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 127 mm. 
 
 You can order Porsche Taycan with an alternative Adaptive Air Suspension suspension. The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 103 mm and max 127 mm. 
 ### Steering
@@ -56,7 +56,7 @@ You can order Porsche Taycan with an alternative Adaptive Air Suspension suspens
 Dynamic steering is standard on Porsche Taycan. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
 ### Brakes
 
-You can choose between different brakes. The standard option brakes uses regular cast iron discs. The front discs are 360mm and the rear discs are 358mm. The second option brakes uses cast iron disc that has been coated with tungsten. The front discs are 410mm and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm and the rear discs are 410mm. 
+You can choose between different brakes. The standard option brakes use regular cast-iron discs. The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a cast-iron disc coated with tungsten carbide. It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm, and the rear discs are 410mm. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
@@ -65,11 +65,11 @@ Regenerative braking is available in several modes. The most efficient is automa
 You can choose between 17 different paint colors when ordering this model. 
 
 You can also choose several styling options to make your car more unique. 
-The optional SportDesign package contains a specially designed upper part front apron, specially designed sideskirts in Black with inlays painted in exterior color specially designed rear diffusor in Black with side fins painted in exterior color, front licence plate carrier painted in exterior color
+The optional SportDesign package contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in exterior color specially designed rear diffusor in Black with side fins painted in exterior color, front licence plate carrier painted in exterior color. 
 
- The optional SportDesign package Carbon contains specially designed upper part front apron, lower part front apron with inlays in carbon, specially designed sideskirts in Black with inlays in carbon, specially designed rear diffusor in Black with side fins in carbon, front licence plate carrier painted in exterior color
+ The optional SportDesign package Carbon contains a specially designed upper part front apron, lower part front apron with inlays in carbon, specially designed side skirts in Black with inlays in carbon, specially designed rear diffusor in Black with side fins in carbon, front licence plate carrier painted in exterior color. 
 
-The optional SportDesign package HighGloss black contains s- specially designed upper part front apron, specially designed sideskirts in Black with inlays painted in Black (high-gloss), specially designed rear diffusor in Black with side fins painted in Black (high-gloss),front licence plate carrier painted in exterior color
+The optional SportDesign package HighGloss black contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in Black (high-gloss), specially designed rear diffusor in Black with side fins painted in Black (high-gloss),front licence plate carrier painted in exterior color. 
 
 You can choose between 8 wheels with sizes from 19 to 21 inches. 
 
@@ -131,7 +131,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 You can choose two seat types for the second row in the Porsche Taycan. 
 
-The standard option is two integrated seats in the second row.The following functionalities are available on this option. 
+The standard option is two integrated seats in the second row. The following functionalities are available on this option. 
 
  - heating (optional)
  - integrated headrest 
@@ -170,7 +170,7 @@ You can choose from three different sound systems on the Porsche Taycan. With th
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Taycan supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
 
-You can choose between three types of headlights for the Porsche Taycan. The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the Porsche Taycan. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 
 
 <figur>

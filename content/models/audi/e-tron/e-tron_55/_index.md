@@ -42,6 +42,9 @@ You can order Audi e-tron 55 with an alternative Adaptive Air Suspension Sport s
 ### Steering
 
 Dynamic steering is standard on Audi e-tron 55. Dynamic steering varies the steering ratio as a function of driving speed. 
+### Brakes
+
+
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 

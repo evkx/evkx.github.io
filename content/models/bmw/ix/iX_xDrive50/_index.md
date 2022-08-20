@@ -40,6 +40,9 @@ The suspension is fully adaptive suspension both on the front and rear axle. Hei
 ### Steering
 
 Dynamic steering is standard on BMW iX xDrive50. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+### Brakes
+
+
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 

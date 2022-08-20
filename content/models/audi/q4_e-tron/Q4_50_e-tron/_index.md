@@ -44,12 +44,15 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Audi Q4 50 e-tron has an all-wheel drive system supported by two motors. One on each axle. 
 
-The standard suspension has a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
+The standard suspension has steel springs with a fixed height, but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
 
 You can order Audi Q4 50 e-tron with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm. 
 ### Steering
 
 Dynamic steering is optional on Audi Q4 50 e-tron. Dynamic steering varies the steering ratio as a function of driving speed. 
+### Brakes
+
+The front brakes are discs brakes while the rear are drum brakes. The front discs are 375mm. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
