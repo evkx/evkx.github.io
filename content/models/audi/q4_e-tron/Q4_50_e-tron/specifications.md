@@ -8,29 +8,14 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|195|
-|Peak electrical output boost in kW|220|
-|Electrical torque output in Nm|425|
-|Electrical torque output boost in Nm|460|
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|488|
-|Basic trim WLTP consumption with charging loss|17,9|
-|Basic trim WLTP consumption|15,696721311475409836065573770|
-|Top trim WLTP range|412|
-|Top trim WLTP consumption with charging loss|21,4|
-|Top trim WLTP consumption|18,592233009708737864077669900|
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
-|Battery gross|82|
-|Battery net|76,6|
-|Max DC charging|125|
-|Number of modules|12|
-|Cell architecture|96s3p|
 
 ## Dimensions
 |Spec|Value|

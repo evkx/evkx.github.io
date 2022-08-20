@@ -3,7 +3,7 @@
     <g>
         <path d="M 1080 1091 L 40 1091 Q 30 1091 30 1081 L 30 36" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 30 791 L 1080 791" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
-       <path d="M 30  881 40  821 50  791 60  686 70  686 80  683 90  683 100  683 110  680 120  680 130  677 140  677 150  674 160  671 170  668 180  668 190  665 200  665 210  662 220  665 230  665 240  665 250  662 260  662 270  662 280  662 290  662 300  662 310  659 320  659 330  659 340  659 350  659 360  659 370  659 380  659 390  659 400  656 410  656 420  656 430  656 440  656 450  656 460  653 470  653 480  653 490  653 500  653 510  653 520  653 530  653 540  650 550  650 560  650 570  650 580  650 590  647 600  647 610  647 620  644 630  644 640  644 650  641 660  641 670  641 680  641 690  638 700  638 710  635 720  635 730  635 740  635 750  635 760  635 770  635 780  632 790  632 800  632 810  632 820  632 830  650 840  782 850  764 860  776 870  785 880  824 890  800 900  821 910  833 920  845 930  851 940  857 950  863 960  869 970  881 980  887 990  896 1000  908 1010  911 1020  926 1030  932 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+       <path d="M 30  833 40  830 50  617 60  584 70  428 80  329 90  350 100  350 110  350 120  350 130  362 140  362 150  338 160  332 170  332 180  329 190  326 200  323 210  323 220  323 230  317 240  314 250  317 260  311 270  311 280  308 290  308 300  305 310  305 320  305 330  296 340  296 350  308 360  308 370  308 380  299 390  359 400  356 410  356 420  356 430  356 440  353 450  353 460  353 470  353 480  353 490  350 500  350 510  350 520  347 530  344 540  407 550  404 560  407 570  467 580  467 590  464 600  464 610  521 620  518 630  521 640  551 650  551 660  548 670  563 680  575 690  575 700  572 710  608 720  602 730  602 740  632 750  629 760  629 770  731 780  728 790  725 800  725 810  725 820  722 830  821 840  839 850  872 860  905 870  932 880  959 890  977 900  983 910  992 920  962 930  929 940  893 950  956 960  986 970  992 980  1016 990  992 1000  1001 1010  1019 1020  1043 1030  1061 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -394,13 +394,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1136px; margin-left: 51px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
-                                Charging curve for Audi e-tron 55
+                                Charging curve for Porsche Taycan
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="610" y="1145" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    Charging curve for Audi e-tron 55
+                    Charging curve for Porsche Taycan
                 </text>
             </switch>
         </g>

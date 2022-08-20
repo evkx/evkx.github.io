@@ -1,5 +1,5 @@
 ---
-title: BMW iX specifications
+title: Mercedes EQC specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -20,17 +20,14 @@ weight: 30
 ## Dimensions
 |Spec|Value|
 |----|-----|
-|Length|4953|
-|Height|1696|
-|Width excluding mirrors|1967|
-|Wheelbase|3000|
-|Track width front|1659|
-|Track width rear|1688|
-|Drag coefficient|0,25|
-|Frontal area|2,82|
-|Overhang angle front|18,8|
-|Overhang angle rear|20,8|
-|Turning circle|13|
+|Length|4762|
+|Height|1624|
+|Width excluding mirrors|1884|
+|Wheelbase|2873|
+|Track width front|1624|
+|Track width rear|1624|
+|Drag coefficient|0,27|
+|Turning circle|11,8|
 
 ## Driver Assistance
 |Spec|Value|
@@ -43,8 +40,8 @@ weight: 30
 |Drowsiness Alert|Yes, standard equipment|
 |Automatic Parallel Parking|Yes, optional equipment|
 |Backup camera|Yes, optional equipment|
-|360 camera|Yes, optional equipment (option PCZ )|
-|Rear cross traffic alert|Yes (Cross traffic assist rear), optional equipment (option PCM )|
+|360 camera|Yes, optional equipment|
+|Rear cross traffic alert|Yes, optional equipment|
 |Rear parking sensors|Yes, standard equipment|
 |Front parking sensors|Yes, standard equipment|
 |Side parking sensors|Yes, standard equipment|
@@ -54,35 +51,42 @@ weight: 30
 |Automatic emergency braking|Yes, standard equipment|
 |Brake assist|Yes, standard equipment|
 |Traction control|Yes, standard equipment|
-|Left turn crash avoidance|Not available|
+|Left turn crash avoidance|Yes, optional equipment|
 |Forward Collision Warning|Yes, optional equipment|
 |Electronic stability control|Yes, standard equipment|
 |Temperature warning|Yes, standard equipment|
-|Cross traffic assist|Not available|
+|Cross traffic assist|Yes, optional equipment|
 |Speed limiter|Yes, standard equipment|
 |Efficiency assist|Not available|
-|Collision Avoidance|Yes (Driving Assistant Professional), optional equipment|
+|Collision Avoidance|Yes, optional equipment|
 |Traffic Sign Recognition|Yes, optional equipment|
 |Night Vision|Not available|
 
 ## Infotainment
 |Spec|Value|
 |----|-----|
-|Android Auto support|Yes, standard equipment|
-|Apple Carplay support|Yes, standard equipment|
+|Android Auto support|Yes, optional equipment|
+|Apple Carplay support|Yes, optional equipment|
 |In Car navigation|Yes, standard equipment|
-|Number of avaiable sound systems|2|
+|Number of avaiable sound systems|3|
 
-### Harman Kardon Surround Sound system
+### Standard
 |Spec|Value|
 |----|-----|
-|Number of speakers|18|
-|Channels|18|
-|Total effect|655|
+|Number of speakers|7|
+|Channels|5|
+|Total effect|100|
 
-### Bowers & Wilkins Diamond surround sound system
+### Advanced Soundsystem
 |Spec|Value|
 |----|-----|
-|Number of speakers|30|
-|Channels||
-|Total effect|1615|
+|Number of speakers|9|
+|Channels|7|
+|Total effect|225|
+
+### Burmester Surround Soundsystem
+|Spec|Value|
+|----|-----|
+|Number of speakers|13|
+|Channels|9|
+|Total effect|590|

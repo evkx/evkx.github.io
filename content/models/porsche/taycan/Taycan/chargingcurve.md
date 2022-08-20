@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron GT charging curve
+title: Porsche Taycan charging curve
 linktitle: Charging curve
-description: Here you find the charging curve for Audi e-tron GT. 
+description: Here you find the charging curve for Porsche Taycan. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
