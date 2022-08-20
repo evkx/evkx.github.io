@@ -1,0 +1,42 @@
+---
+title: Mercedes-Benz EQC 400 4MATIC gallery
+linktitle: Image Gallery
+description: imagegallery
+weight: 10
+---
+<!-- markdownlint-disable MD033 -->
+<div class="pswp-gallery pswp-gallery--single-column" id="my - gallery">
+<a href="models/mercedes/eqc/eqc_400_4matic/frontseats_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1931" 
+target="_blank">
+<img src="" alt="" />
+</a>
+<a href="models/mercedes/eqc/eqc_400_4matic/main_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="" alt="" />
+</a>
+<a href="models/mercedes/eqc/eqc_400_4matic/screens_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1721" 
+target="_blank">
+<img src="" alt="" />
+</a>
+<a href="models/mercedes/eqc/eqc_400_4matic/trunk_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2170" 
+target="_blank">
+<img src="" alt="" />
+</a>
+</div>
+<script type="module">
+  import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';
+    const lightbox = new PhotoSwipeLightbox({
+       gallery: '#my-gallery',
+        children: 'a',
+        pswpModule: () => import('/js/photoswipe.esm.js')
+    });
+lightbox.init();
+</script>

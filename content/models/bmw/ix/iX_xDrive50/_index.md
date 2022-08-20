@@ -43,6 +43,8 @@ Dynamic steering is standard on BMW iX xDrive50. Dynamic steering varies the ste
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+
 ## Exterior
 
 You can choose between 9 different paint colors when ordering this model. 
@@ -104,9 +106,11 @@ BMW iX xDrive50 has twin screens on a shared frame mounted with brackets on top 
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
+A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+
 ## Infotainment
 
-You can choose from two different sound systems on the BMW iX xDrive50. With the Harman Kardon Surround Sound system, you get 18 amplifier channels and 18 speakers with a max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get NULL amplifier channels and 30 speakers with a max system output of 1615 watts. 
+You can choose from two different sound systems on the BMW iX xDrive50. With the Harman Kardon Surround Sound system, you get 18 amplifier amplifier channels and 18 speakers with a with a max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get NULL amplifier amplifier channels and 30 speakers with a with a max system output of 1615 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW iX xDrive50 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
