@@ -26,23 +26,16 @@
     {{end}}
     
     <script src="{{"js/jquery-2.x.min.js" | relURL}}"></script>
-
     {{ partial "custom-head.html" . }}
-
     <style>
       :root #header + #content > #left > #rlblock_left {
         display:none !important;
       }
     </style>
-
-
   </head>
   <body class="a-page" data-url="{{ .RelPermalink }}">
     {{ partial "topbar.html" . }}
-
-    {{ if and (.IsHome) (.Params.jumbotron) }}
-      {{ partial "jumbotron.html" . }}
-    {{end}}
+ 
     {{ partial "toparticle.html" . }}
     <div class="container pt-2 pt-md-3 pt-lg-5">
     <div class="row adocs-featuredBlocks">
