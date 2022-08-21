@@ -7,6 +7,14 @@ weight: 10
 <!-- markdownlint-disable MD033 -->
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450+/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450+/main_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+</a>
+<figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
+
+
 ## Performance
 
 The Mercedes-EQ EQS 450+ has a maximum power of 265KW (360hp). The total torque is 800nm. The 0-100km/h sprint (0-62mph) is performed in 5,6 seconds. The top speed is 210 kph. 
@@ -55,6 +63,14 @@ The car has four regular doors and a tailgate. The tailgate is electric powered 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450+/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450+/exterior_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+</a>
+<figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
+
+
 ## Interior & comfort
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
@@ -93,6 +109,14 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 5 different materials/colors for this seat type. <br />
 <br />
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450+/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450+/frontseats_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+</a>
+<figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
 You can choose two seat types for the second row in the Mercedes-EQ EQS 450+. 
 
 ### Second row seats
@@ -110,6 +134,14 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
  - heating (optional)
  - adjustable side support back 
  - ventilation 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450+/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450+/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+</a>
+<figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
+
 
 ### Climate system
 
@@ -156,3 +188,10 @@ The Mercedes-EQ EQS 450+ has a **lane-keeping** assistant as a standard system. 
 The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100kg. Max weight is 3060kg, and with the base weight of 2540 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450+/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450+/trunk_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+</a>
+<figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
