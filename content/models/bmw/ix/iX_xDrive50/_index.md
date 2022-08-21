@@ -37,9 +37,11 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 BMW iX xDrive50 has an all-wheel drive system supported by two motors. One on each axle. 
 
 The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 193 mm and max 223 mm. 
+
 ### Steering
 
 Dynamic steering is standard on BMW iX xDrive50. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+
 ### Brakes
 
 

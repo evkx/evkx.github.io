@@ -47,9 +47,11 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 Mercedes-AMG EQS 53 4MATIC+ has a rear-wheel drive system supported by one motor on the rear axle. 
 
 The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
+
 ### Steering
 
 Dynamic steering is standard on Mercedes-AMG EQS 53 4MATIC+. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+
 ### Brakes
 
 You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The front discs are 415mm, and the rear discs are 378mm. The second option brakes uses ceramic discs. The front discs are 440mm, and the rear discs are 378mm. 

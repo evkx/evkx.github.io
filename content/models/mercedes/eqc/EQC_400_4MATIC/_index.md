@@ -37,9 +37,11 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 Mercedes-EQ EQC 400 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
 
 The Adaptive Air Suspension suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 97 mm. 
+
 ### Steering
 
 Dynamic steering is standard on Mercedes-EQ EQC 400 4MATIC. Dynamic steering varies the steering ratio as a function of driving speed. 
+
 ### Brakes
 
 The rear and front brakes are cast-iron discs. 

@@ -51,9 +51,11 @@ Porsche Taycan has a rear-wheel drive system supported by one motor on the rear 
 The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 127 mm. 
 
 You can order Porsche Taycan with an alternative Adaptive Air Suspension suspension. The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 103 mm and max 127 mm. 
+
 ### Steering
 
 Dynamic steering is standard on Porsche Taycan. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
+
 ### Brakes
 
 You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a cast-iron disc coated with tungsten carbide. It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm, and the rear discs are 410mm. 

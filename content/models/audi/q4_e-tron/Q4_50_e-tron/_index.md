@@ -47,9 +47,11 @@ Audi Q4 50 e-tron has an all-wheel drive system supported by two motors. One on 
 The standard suspension has steel springs with a fixed height, but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
 
 You can order Audi Q4 50 e-tron with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm. 
+
 ### Steering
 
 Dynamic steering is optional on Audi Q4 50 e-tron. Dynamic steering varies the steering ratio as a function of driving speed. 
+
 ### Brakes
 
 

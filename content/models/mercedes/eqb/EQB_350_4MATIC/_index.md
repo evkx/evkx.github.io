@@ -37,9 +37,11 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 Mercedes-EQ EQB 350 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
 
 
+
 ### Steering
 
 Dynamic steering is standard on Mercedes-EQ EQB 350 4MATIC. Dynamic steering varies the steering ratio as a function of driving speed. 
+
 ### Brakes
 
 The rear and front brakes are cast-iron discs. 

@@ -39,9 +39,11 @@ Audi e-tron 55 has an all-wheel drive system supported by two motors. One on eac
 The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
 
 You can order Audi e-tron 55 with an alternative Adaptive Air Suspension Sport suspension. The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
+
 ### Steering
 
 Dynamic steering is standard on Audi e-tron 55. Dynamic steering varies the steering ratio as a function of driving speed. 
+
 ### Brakes
 
 The rear and front brakes are cast-iron discs. The front discs are 375mm, and the rear discs are 350mm. 

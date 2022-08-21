@@ -45,9 +45,11 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 Mercedes-AMG EQE 43 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
 
 The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
+
 ### Steering
 
 Dynamic steering is standard on Mercedes-AMG EQE 43 4MATIC. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+
 ### Brakes
 
 You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The second option brakes uses ceramic discs. 
