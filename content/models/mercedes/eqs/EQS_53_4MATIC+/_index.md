@@ -19,6 +19,8 @@ weight: 10
 
 The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 484KW (658hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) is performed in 3,8 seconds. The top speed is 220 kph. 
 
+If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 560KW (761hp). The total torque is 1020nm. The 0-100km/h sprint (0-62mph) is performed in 3,4 seconds. The top speed is 250 kph. 
+
 ## Battery, range, and charging
 
 The battery has a gross capacity of 120kWh and a net capacity of 107,8kWh, meaning you have 12,2kWh reserved as a buffer for protection. (10,2%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 570km to 513km, depending on the equipment. The consumption is between 18,9kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. 
@@ -50,7 +52,7 @@ The suspension is fully adaptive suspension both on the front and rear axle. Hei
 Dynamic steering is standard on Mercedes-AMG EQS 53 4MATIC+. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 ### Brakes
 
-You can choose between different brakes. The standard option brakes use regular cast-iron discs. The second option brakes uses ceramic discs. 
+You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The front discs are 415mm, and the rear discs are 378mm. The second option brakes uses ceramic discs. The front discs are 440mm, and the rear discs are 378mm. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
@@ -77,7 +79,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
-You can choose two seat types for the front row in the Mercedes-AMG EQS 53 4MATIC+. 
+There are two seat types you can choose from for the front row in the Mercedes-AMG EQS 53 4MATIC+. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -111,12 +113,12 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <br />
 You can choose two seat types for the second row in the Mercedes-AMG EQS 53 4MATIC+. 
 
-The standard option is a three-seat bench with a standard split where each section can be folded down to increase the cargo space. The following functionalities are available on this option. 
+The standard option is a three-seat bench with a standard split where you can fold each section separately to increase the cargo space. The following functionalities are available on this option. 
 
  - height adjustable headrest 
  - heating (optional)
 
-The standard option is a three-seat bench with a standard split where each section can be folded down to increase the cargo space. The following functionalities are available on this option. 
+The standard option is a three-seat bench with a standard split where you can fold each section separately to increase the cargo space. The following functionalities are available on this option. 
 
  - height adjustable headrest 
  - heating (optional)

@@ -52,7 +52,7 @@ You can order Audi Q4 50 e-tron with an alternative sport suspension. The sport 
 Dynamic steering is optional on Audi Q4 50 e-tron. Dynamic steering varies the steering ratio as a function of driving speed. 
 ### Brakes
 
-The front brakes are discs brakes while the rear are drum brakes. The front discs are 375mm. 
+
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
@@ -63,7 +63,7 @@ You can choose between 8 different paint colors when ordering this model.
 You can also choose several styling options to make your car more unique. 
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
 
-The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
+The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and, if equipped with rails, black rails.
 
 You can choose between 11 wheels with sizes from 19 to 21 inches. 
 
@@ -85,7 +85,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
-You can choose two seat types for the front row in the Audi Q4 50 e-tron. 
+There are two seat types you can choose from for the front row in the Audi Q4 50 e-tron. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -111,7 +111,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 
 
-The second row has a standard three-seat bench with a 40:20:40 split where each section can be folded down to increase the cargo space.  
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
 
 
 <figur>

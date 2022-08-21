@@ -42,7 +42,7 @@ The Adaptive Air Suspension suspension has steel springs with a fixed height, bu
 Dynamic steering is standard on Mercedes-EQ EQC 400 4MATIC. Dynamic steering varies the steering ratio as a function of driving speed. 
 ### Brakes
 
-
+The rear and front brakes are cast-iron discs. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 

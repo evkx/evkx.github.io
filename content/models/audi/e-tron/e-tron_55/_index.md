@@ -44,7 +44,7 @@ You can order Audi e-tron 55 with an alternative Adaptive Air Suspension Sport s
 Dynamic steering is standard on Audi e-tron 55. Dynamic steering varies the steering ratio as a function of driving speed. 
 ### Brakes
 
-
+The rear and front brakes are cast-iron discs. The front discs are 375mm, and the rear discs are 350mm. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
@@ -55,7 +55,7 @@ You can choose between 61 different paint colors when ordering this model.
 You can also choose several styling options to make your car more unique. 
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
 
-The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
+The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and, if equipped with rails, black rails.
 
 You can choose between 10 wheels with sizes from 19 to 22 inches. 
 
@@ -77,7 +77,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
-You can choose five seat types for the front row in the Audi e-tron 55. 
+There are five seat types you can choose from for the front row in the Audi e-tron 55. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -151,7 +151,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 
 
-The second row has a standard three-seat bench with a 40:20:40 split where each section can be folded down to increase the cargo space.  
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
 
 
 <figur>
@@ -184,7 +184,7 @@ You can choose from two different sound systems on the Audi e-tron 55. With the 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron 55 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
 
-You can choose between three types of headlights for the Audi e-tron 55. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. lights.technology.option.leddigitalmatrix In addition, the standard taillights use LED technology. 
+You can choose between three types of headlights for the Audi e-tron 55. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
 ## Driver assistance
 
 The Audi e-tron 55 has several standard and optional driver assistance systems for better safety and comfort.

@@ -50,7 +50,7 @@ Mercedes-EQ EQA 350 4MATIC has an all-wheel drive system supported by two motors
 Dynamic steering is standard on Mercedes-EQ EQA 350 4MATIC. Dynamic steering varies the steering ratio as a function of driving speed. 
 ### Brakes
 
-
+The rear and front brakes are cast-iron discs. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
@@ -77,7 +77,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
-You can choose two seat types for the front row in the Mercedes-EQ EQA 350 4MATIC. 
+There are two seat types you can choose from for the front row in the Mercedes-EQ EQA 350 4MATIC. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -112,7 +112,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <br />
 
 
-The second row has a standard three-seat bench with a 40:20:40 split where each section can be folded down to increase the cargo space.  
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
 
 
 <figur>

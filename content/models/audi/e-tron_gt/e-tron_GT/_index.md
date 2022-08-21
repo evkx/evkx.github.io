@@ -44,7 +44,7 @@ You can order Audi e-tron GT with an alternative Adaptive Air Suspension suspens
 Dynamic steering is standard on Audi e-tron GT. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 ### Brakes
 
-You can choose between different brakes. The standard option brakes use regular cast-iron discs. The front discs are 360mm, and the rear discs are 358mm. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm, and the rear discs are 410mm. 
+You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The front discs are 360mm, and the rear discs are 358mm. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm, and the rear discs are 410mm. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
@@ -55,7 +55,7 @@ You can choose between 54 different paint colors when ordering this model.
 You can also choose several styling options to make your car more unique. 
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
 
-The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
+The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and, if equipped with rails, black rails.
 
 You can choose between 7 wheels with sizes from 19 to 21 inches. 
 
@@ -65,7 +65,7 @@ The car has four regular doors and a tailgate. The electric-powered tailgate has
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
-You can choose three seat types for the front row in the Audi e-tron GT. 
+There are three seat types you can choose from for the front row in the Audi e-tron GT. 
 
 The following functionalities are available on the **sport** seat. 
 

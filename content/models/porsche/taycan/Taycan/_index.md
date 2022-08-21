@@ -56,7 +56,7 @@ You can order Porsche Taycan with an alternative Adaptive Air Suspension suspens
 Dynamic steering is standard on Porsche Taycan. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
 ### Brakes
 
-You can choose between different brakes. The standard option brakes use regular cast-iron discs. The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a cast-iron disc coated with tungsten carbide. It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm, and the rear discs are 410mm. 
+You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a cast-iron disc coated with tungsten carbide. It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm, and the rear discs are 410mm. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
@@ -87,7 +87,7 @@ The car has four regular doors and a tailgate. The electric-powered tailgate has
 
 You can choose between different types of seats, seat materials, and interior styling. This model offers a four-seat layout or an optional 4+1 layout. 
 
-You can choose three seat types for the front row in the Porsche Taycan. 
+There are three seat types you can choose from for the front row in the Porsche Taycan. 
 
 The following functionalities are available on the **Comfort** seat. 
 
