@@ -108,14 +108,6 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <br />
 
 
-### Second row seat
-
-
-
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
-
-The third row has an optional two-seat bench with a 50:50 split. You can fold down the seats when not used to create a larger cargo capacity. 
-
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/frontseats_1.jpg">
@@ -123,6 +115,14 @@ The third row has an optional two-seat bench with a 50:50 split. You can fold do
 </a>
 <figcaption><h4>Mercedes-EQ EQB 350 4MATIC</h4></figcaption></figur>
 
+
+### Second row seat
+
+
+
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
+
+The third row has an optional two-seat bench with a 50:50 split. You can fold down the seats when not used to create a larger cargo capacity. 
 
 ### Climate system
 

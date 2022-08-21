@@ -61,14 +61,6 @@ The car has four regular doors and a tailgate. The tailgate is electric powered.
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" title="Mercedes-EQ EQC 400 4MATIC">
-</a>
-<figcaption><h4>Mercedes-EQ EQC 400 4MATIC</h4></figcaption></figur>
-
-
 ## User interface and control
 
 Mercedes-EQ EQC 400 4MATIC has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel on the left of the frame is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 10,1 inches large and has a 1540 x 720 pixels resolution. 

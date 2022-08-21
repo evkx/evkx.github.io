@@ -46,7 +46,7 @@ Dynamic steering is standard on Audi e-tron GT. Dynamic steering varies the stee
 
 ### Brakes
 
-You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The front discs are 360mm, and the rear discs are 358mm. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm, and the rear discs are 410mm. 
+You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a cast-iron disc coated with tungsten carbide. It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm, and the rear discs are 410mm. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 

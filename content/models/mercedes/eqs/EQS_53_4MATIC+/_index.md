@@ -44,7 +44,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 ## Drivetrain
 
-Mercedes-AMG EQS 53 4MATIC+ has a rear-wheel drive system supported by one motor on the rear axle. 
+Mercedes-AMG EQS 53 4MATIC+ has an all-wheel drive system supported by two motors. One on each axle. 
 
 The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
 
@@ -115,6 +115,14 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 5 different materials/colors for this seat type. <br />
 <br />
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/frontseats_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+">
+</a>
+<figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
 You can choose two seat types for the second row in the Mercedes-AMG EQS 53 4MATIC+. 
 
 ### Second row seats
@@ -132,14 +140,6 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
  - heating (optional)
  - adjustable side support back 
  - ventilation 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/frontseats_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
-
 
 ### Climate system
 

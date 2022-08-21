@@ -115,12 +115,6 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 
 
-### Second row seat
-
-
-
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
-
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/frontseats_1.jpg">
@@ -128,6 +122,12 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 </a>
 <figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
 
+
+### Second row seat
+
+
+
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
 
 ### Climate system
 

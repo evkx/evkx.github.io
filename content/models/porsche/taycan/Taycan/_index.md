@@ -133,6 +133,14 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/frontseats_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
+</a>
+<figcaption><h4>Porsche Taycan</h4></figcaption></figur>
 You can choose two seat types for the second row in the Porsche Taycan. 
 
 ### Second row seats
@@ -148,14 +156,6 @@ The second option is two integrated seats in the second row with a third smaller
 
  - heating (optional)
  - integrated headrest 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/frontseats_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
-</a>
-<figcaption><h4>Porsche Taycan</h4></figcaption></figur>
-
 
 ## User interface and control
 
