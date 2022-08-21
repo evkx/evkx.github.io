@@ -67,6 +67,8 @@ The car has four regular doors and a tailgate. The electric-powered tailgate has
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
+### First row seats
+
 There are three seat types you can choose from for the front row in the Audi e-tron GT. 
 
 The following functionalities are available on the **sport** seat. 

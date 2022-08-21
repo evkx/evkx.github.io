@@ -79,6 +79,8 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
+### First row seats
+
 There are five seat types you can choose from for the front row in the Audi e-tron 55. 
 
 The following functionalities are available on the **standard** seat. 
@@ -153,6 +155,10 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 
 
+### Second row seat
+
+
+
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
 
 
@@ -162,6 +168,8 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 </a>
 <figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
 
+
+### Climate system
 
 You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 

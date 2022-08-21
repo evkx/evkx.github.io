@@ -89,6 +89,8 @@ The car has four regular doors and a tailgate. The electric-powered tailgate has
 
 You can choose between different types of seats, seat materials, and interior styling. This model offers a four-seat layout or an optional 4+1 layout. 
 
+### First row seats
+
 There are three seat types you can choose from for the front row in the Porsche Taycan. 
 
 The following functionalities are available on the **Comfort** seat. 
@@ -132,6 +134,10 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 You can choose two seat types for the second row in the Porsche Taycan. 
+
+### Second row seats
+
+
 
 The standard option is two integrated seats in the second row. The following functionalities are available on this option. 
 

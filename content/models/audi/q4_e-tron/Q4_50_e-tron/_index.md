@@ -87,6 +87,8 @@ You can order the car with tinted windows from B-pillar and back.
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
+### First row seats
+
 There are two seat types you can choose from for the front row in the Audi Q4 50 e-tron. 
 
 The following functionalities are available on the **standard** seat. 
@@ -113,6 +115,10 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 
 
+### Second row seat
+
+
+
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
 
 
@@ -122,6 +128,8 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 </a>
 <figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
 
+
+### Climate system
 
 You can choose from two different climate systems. The 1-zone climate system supports only controlling one common zone for the whole car. The 3-zone climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
 

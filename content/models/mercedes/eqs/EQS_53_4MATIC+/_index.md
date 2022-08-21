@@ -81,6 +81,8 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
+### First row seats
+
 There are two seat types you can choose from for the front row in the Mercedes-AMG EQS 53 4MATIC+. 
 
 The following functionalities are available on the **standard** seat. 
@@ -115,12 +117,16 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <br />
 You can choose two seat types for the second row in the Mercedes-AMG EQS 53 4MATIC+. 
 
-The standard option is a three-seat bench with a standard split where you can fold each section separately to increase the cargo space. The following functionalities are available on this option. 
+### Second row seats
+
+
+
+The standard option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. The following functionalities are available on this option. 
 
  - height adjustable headrest 
  - heating (optional)
 
-The standard option is a three-seat bench with a standard split where you can fold each section separately to increase the cargo space. The following functionalities are available on this option. 
+The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. The following functionalities are available on this option. 
 
  - height adjustable headrest 
  - heating (optional)
@@ -134,6 +140,8 @@ The standard option is a three-seat bench with a standard split where you can fo
 </a>
 <figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
 
+
+### Climate system
 
 You can choose from two different climate systems. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. The THERMATIC climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 

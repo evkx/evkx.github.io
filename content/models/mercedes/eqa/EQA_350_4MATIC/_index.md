@@ -79,6 +79,8 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
+### First row seats
+
 There are two seat types you can choose from for the front row in the Mercedes-EQ EQA 350 4MATIC. 
 
 The following functionalities are available on the **standard** seat. 
@@ -114,6 +116,10 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <br />
 
 
+### Second row seat
+
+
+
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
 
 
@@ -123,6 +129,8 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 </a>
 <figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
 
+
+### Climate system
 
 You can choose from two different climate systems. The standard climate system supports only controlling one common zone for the whole car. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. 
 
