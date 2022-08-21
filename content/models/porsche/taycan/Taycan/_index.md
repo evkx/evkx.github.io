@@ -179,14 +179,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 You can choose between two types of headlights for the Porsche Taycan. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/lights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/lights_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
-</a>
-<figcaption><h4>Porsche Taycan</h4></figcaption></figur>
-
 ## Driver assistance
 
 The Porsche Taycan has several standard and optional driver assistance systems for better safety and comfort.

@@ -155,14 +155,6 @@ In addition, with the optional in-car navigation system, you get the help you ne
 ## Lights
 
 You can choose between two types of headlights for the Audi Q4 50 e-tron. The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/lights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/lights_1_st.jpg" alt="Daytime running lights Audi Q4 e-tron" title="Daytime running lights Audi Q4 e-tron">
-</a>
-<figcaption><h4>Daytime running lights Audi Q4 e-tron</h4></figcaption></figur>
-
 ## Driver assistance
 
 The Audi Q4 50 e-tron has several standard and optional driver assistance systems for better safety and comfort.

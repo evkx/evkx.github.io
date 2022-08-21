@@ -1,7 +1,7 @@
 ---
-title: Mercedes-AMG EQE 43 4MATIC
-linktitle: EQE 43 4MATIC
-description: Mercedes-AMG EQE 43 4MATIC is an all-electric luxury sedan with a WLTP range of up to 533 km (331 miles). EVKX.net have all the details. 
+title: Mercedes-AMG EQE 53 4MATIC+
+linktitle: EQE 53 4MATIC+
+description: Mercedes-AMG EQE 53 4MATIC+ is an all-electric luxury sedan with a WLTP range of up to 526 km (327 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,19 +9,21 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/main_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/main_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
 </a>
-<figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
 
 
 ## Performance
 
-The Mercedes-AMG EQE 43 4MATIC has a maximum power of 350KW (476hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) is performed in 4,2 seconds. The top speed is 210 kph. 
+The Mercedes-AMG EQE 53 4MATIC+ has a maximum power of 460KW (625hp). The total torque is 950nm. The 0-100km/h sprint (0-62mph) is performed in 3,5 seconds. The top speed is 220 kph. 
+
+If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE 53 4MATIC+ has a maximum power of 505KW (687hp). The total torque is 100nm. The 0-100km/h sprint (0-62mph) is performed in 3,3 seconds. The top speed is 240 kph. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 96,12kWh and a net capacity of 90,6kWh, meaning you have 5,52kWh reserved as a buffer for protection. (5,7%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 533km to 462km, depending on the equipment. The consumption is between 17,0kWh/100km for the basic version and 19,6kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 96,12kWh and a net capacity of 90,56kWh, meaning you have 5,56kWh reserved as a buffer for protection. (5,8%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 526km to 459km, depending on the equipment. The consumption is between 17,2kWh/100km for the basic version and 19,7kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 55 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 64% resulting in an actual charge speed including time loss on 121kW. Each charge session would take 28 minutes and 48 seconds. 
 
@@ -30,25 +32,25 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 6 minutes. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/charging_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/charging_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
 </a>
-<figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
 
 
 ## Drivetrain
 
-Mercedes-AMG EQE 43 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
+Mercedes-AMG EQE 53 4MATIC+ has an all-wheel drive system supported by two motors. One on each axle. 
 
 The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
 
 ### Steering
 
-Dynamic steering is standard on Mercedes-AMG EQE 43 4MATIC. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is standard on Mercedes-AMG EQE 53 4MATIC+. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -71,21 +73,13 @@ The car has four regular doors and a boot lid for the trunk.
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/exterior_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC">
-</a>
-<figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
-
-
 ## Interior & comfort
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
 ### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-AMG EQE 43 4MATIC. 
+There are two seat types you can choose from for the front row in the Mercedes-AMG EQE 53 4MATIC+. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -121,10 +115,10 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/frontseats_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/frontseats_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
 </a>
-<figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
 
 
 ### Second row seat
@@ -133,13 +127,21 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/secondrowseats_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
+</a>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
+
+
 ### Climate system
 
 You can choose from two different climate systems. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. The THERMATIC climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 
 ## User interface and control
 
-Two different screen setups are available on the Mercedes-AMG EQE 43 4MATIC. 
+Two different screen setups are available on the Mercedes-AMG EQE 53 4MATIC+. 
 
 The standard layout has the following configuration. The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen in the middle of the center console is 12,8 inches large and has a 1888x1728 pixels resolution. 
 
@@ -147,10 +149,10 @@ The optional MBUX Hyperscreen layout has the following configuration. Behind the
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/screens_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/screens_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
 </a>
-<figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
 
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
@@ -161,27 +163,27 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-You can choose from two different sound systems on the Mercedes-AMG EQE 43 4MATIC. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
+You can choose from two different sound systems on the Mercedes-AMG EQE 53 4MATIC+. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-AMG EQE 43 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-AMG EQE 53 4MATIC+ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
 
-You can choose between two types of headlights for the Mercedes-AMG EQE 43 4MATIC. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the Mercedes-AMG EQE 53 4MATIC+. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/headlights_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/headlights_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
 </a>
-<figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
 
 ## Driver assistance
 
-The Mercedes-AMG EQE 43 4MATIC has several standard and optional driver assistance systems for better safety and comfort.
+The Mercedes-AMG EQE 53 4MATIC+ has several standard and optional driver assistance systems for better safety and comfort.
 
-The Mercedes-AMG EQE 43 4MATIC has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The Mercedes-AMG EQE 53 4MATIC+ has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
-**Cruise control** is a standard system on the Mercedes-AMG EQE 43 4MATIC. The cruise control system helps the driver keep a set speed. 
+**Cruise control** is a standard system on the Mercedes-AMG EQE 53 4MATIC+. The cruise control system helps the driver keep a set speed. 
 
 **Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
 
@@ -197,7 +199,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/trunk_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/trunk_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
 </a>
-<figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>

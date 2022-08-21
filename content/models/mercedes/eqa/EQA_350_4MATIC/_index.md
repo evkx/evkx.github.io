@@ -160,14 +160,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/lights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/lights_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC">
-</a>
-<figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
-
 ## Driver assistance
 
 The Mercedes-EQ EQA 350 4MATIC has several standard and optional driver assistance systems for better safety and comfort.
