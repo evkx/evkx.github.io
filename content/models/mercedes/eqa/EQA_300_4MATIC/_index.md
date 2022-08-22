@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQA 350 4MATIC
-linktitle: EQA 350 4MATIC
+title: Mercedes-EQ EQA 300 4MATIC
+linktitle: EQA 300 4MATIC
 description: intro.crossover.premium
 weight: 10
 ---
@@ -9,15 +9,15 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/main_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/main_1_st.jpg" alt="Mercedes-EQ EQA 300 4MATIC" title="Mercedes-EQ EQA 300 4MATIC">
 </a>
-<figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
+<figcaption><h4>Mercedes-EQ EQA 300 4MATIC</h4></figcaption></figur>
 
 
 ## Performance
 
-The Mercedes-EQ EQA 350 4MATIC has a maximum power of 215KW (292hp). The total torque is 520nm. The 0-100km/h sprint (0-62mph) is performed in 6 seconds. The top speed is 160 kph. 
+The Mercedes-EQ EQA 300 4MATIC has a maximum power of 168KW (228hp). The total torque is 390nm. The 0-100km/h sprint (0-62mph) is performed in 7,7 seconds. The top speed is 160 kph. 
 
 ## Battery, range, and charging
 
@@ -32,23 +32,15 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 2 minutes. 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/charging_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC">
-</a>
-<figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
-
-
 ## Drivetrain
 
-Mercedes-EQ EQA 350 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
+Mercedes-EQ EQA 300 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
 
 
 
 ### Steering
 
-Dynamic steering is standard on Mercedes-EQ EQA 350 4MATIC. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is standard on Mercedes-EQ EQA 300 4MATIC. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -69,10 +61,10 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQA 300 4MATIC" title="Mercedes-EQ EQA 300 4MATIC">
 </a>
-<figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
+<figcaption><h4>Mercedes-EQ EQA 300 4MATIC</h4></figcaption></figur>
 
 
 ## Interior & comfort
@@ -81,7 +73,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-EQ EQA 350 4MATIC. 
+There are two seat types you can choose from for the front row in the Mercedes-EQ EQA 300 4MATIC. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -118,10 +110,10 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQA 300 4MATIC" title="Mercedes-EQ EQA 300 4MATIC">
 </a>
-<figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
+<figcaption><h4>Mercedes-EQ EQA 300 4MATIC</h4></figcaption></figur>
 
 
 ### Second row seat
@@ -136,14 +128,14 @@ You can choose from two different climate systems. The standard climate system s
 
 ## User interface and control
 
-Mercedes-EQ EQA 350 4MATIC has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel on the left of the frame is 10,25 inches large and has a 1920x720 pixels resolution. The touch screen at the right part of the shared frame is 10,25 inches large and has a 1920x720 pixels resolution. 
+Mercedes-EQ EQA 300 4MATIC has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel on the left of the frame is 10,25 inches large and has a 1920x720 pixels resolution. The touch screen at the right part of the shared frame is 10,25 inches large and has a 1920x720 pixels resolution. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQA 300 4MATIC" title="Mercedes-EQ EQA 300 4MATIC">
 </a>
-<figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
+<figcaption><h4>Mercedes-EQ EQA 300 4MATIC</h4></figcaption></figur>
 
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
@@ -154,19 +146,19 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-You can choose from two different sound systems on the Mercedes-EQ EQA 350 4MATIC. With the Standard, you get five amplifier channels and seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. 
+You can choose from two different sound systems on the Mercedes-EQ EQA 300 4MATIC. With the Standard, you get five amplifier channels and seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQA 350 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQA 300 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 ## Driver assistance
 
-The Mercedes-EQ EQA 350 4MATIC has several standard and optional driver assistance systems for better safety and comfort.
+The Mercedes-EQ EQA 300 4MATIC has several standard and optional driver assistance systems for better safety and comfort.
 
-The Mercedes-EQ EQA 350 4MATIC has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The Mercedes-EQ EQA 300 4MATIC has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
-**Cruise control** is a standard system on the Mercedes-EQ EQA 350 4MATIC. The cruise control system helps the driver keep a set speed. 
+**Cruise control** is a standard system on the Mercedes-EQ EQA 300 4MATIC. The cruise control system helps the driver keep a set speed. 
 
 **Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
 
