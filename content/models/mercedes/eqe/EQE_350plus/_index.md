@@ -7,14 +7,6 @@ weight: 10
 <!-- markdownlint-disable MD033 -->
 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350+/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350+/main_1_st.jpg" alt="Mercedes-EQ EQE 350+" title="Mercedes-EQ EQE 350+">
-</a>
-<figcaption><h4>Mercedes-EQ EQE 350+</h4></figcaption></figur>
-
-
 ## Performance
 
 The Mercedes-EQ EQE 350+ has a maximum power of 215KW (292hp). The total torque is 565nm. The 0-100km/h sprint (0-62mph) is performed in 6,4 seconds. The top speed is 210 kph. 
@@ -31,14 +23,6 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 2 minutes. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350+/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350+/charging_1_st.jpg" alt="Mercedes-EQ EQE 350+" title="Mercedes-EQ EQE 350+">
-</a>
-<figcaption><h4>Mercedes-EQ EQE 350+</h4></figcaption></figur>
-
 
 ## Drivetrain
 
@@ -111,14 +95,6 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <br />
 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350+/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350+/frontseats_1_st.jpg" alt="Mercedes-EQ EQE 350+" title="Mercedes-EQ EQE 350+">
-</a>
-<figcaption><h4>Mercedes-EQ EQE 350+</h4></figcaption></figur>
-
-
 ### Second row seat
 
 
@@ -136,14 +112,6 @@ Two different screen setups are available on the Mercedes-EQ EQE 350+.
 The standard layout has the following configuration. The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen in the middle of the center console is 12,8 inches large and has a 1888x1728 pixels resolution. 
 
 The optional MBUX Hyperscreen layout has the following configuration. Behind the steering wheel is a digital instrument cluster. In addition, there is one infotainment screen in the center console  and one in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350+/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350+/screens_1_st.jpg" alt="Mercedes-EQ EQE 350+" title="Mercedes-EQ EQE 350+">
-</a>
-<figcaption><h4>Mercedes-EQ EQE 350+</h4></figcaption></figur>
-
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
@@ -178,10 +146,3 @@ The Mercedes-EQ EQE 350+ has a **lane-keeping** assistant as a standard system. 
 The cargo capacity in the trunk is 430 liters. With the rear seat down, it is 895 liters. On the roof, you can load up to 100kg. Max weight is 2880kg, and with the base weight of 2310 kg, you can max load 570 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350+/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350+/trunk_1_st.jpg" alt="Mercedes-EQ EQE 350+" title="Mercedes-EQ EQE 350+">
-</a>
-<figcaption><h4>Mercedes-EQ EQE 350+</h4></figcaption></figur>

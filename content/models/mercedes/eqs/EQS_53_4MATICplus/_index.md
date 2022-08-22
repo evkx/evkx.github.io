@@ -7,14 +7,6 @@ weight: 10
 <!-- markdownlint-disable MD033 -->
 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/main_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
-
-
 ## Performance
 
 The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 484KW (658hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) is performed in 3,8 seconds. The top speed is 220 kph. 
@@ -33,14 +25,6 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 53 minutes. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/charging_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
-
 
 ## Drivetrain
 
@@ -68,14 +52,6 @@ You can choose between 4 wheels with sizes from 21 to 22 inches.
 The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/exterior_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
-
 
 ## Interior & comfort
 
@@ -115,14 +91,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 5 different materials/colors for this seat type. <br />
 <br />
-
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/frontseats_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
 You can choose two seat types for the second row in the Mercedes-AMG EQS 53 4MATIC+. 
 
 ### Second row seats
@@ -148,14 +116,6 @@ You can choose from two different climate systems. The THERMOTRONIC climate syst
 ## User interface and control
 
 Mercedes-AMG EQS 53 4MATIC+ has multiple integrated screens. Behind the steering wheel is a digital instrument cluster. In addition, there is one infotainment screen in the center console  and one in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/screens_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
-
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
@@ -190,10 +150,3 @@ The Mercedes-AMG EQS 53 4MATIC+ has a **lane-keeping** assistant as a standard s
 The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100kg. Max weight is 3225kg, and with the base weight of 2580 kg, you can max load 645 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4matic+/trunk_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>

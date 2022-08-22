@@ -7,14 +7,6 @@ weight: 10
 <!-- markdownlint-disable MD033 -->
 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/main_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
-
-
 ## Performance
 
 The Mercedes-AMG EQE 53 4MATIC+ has a maximum power of 460KW (625hp). The total torque is 950nm. The 0-100km/h sprint (0-62mph) is performed in 3,5 seconds. The top speed is 220 kph. 
@@ -33,14 +25,6 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 6 minutes. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/charging_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
-
 
 ## Drivetrain
 
@@ -113,27 +97,11 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <br />
 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/frontseats_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
-
-
 ### Second row seat
 
 
 
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/secondrowseats_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
-
 
 ### Climate system
 
@@ -146,14 +114,6 @@ Two different screen setups are available on the Mercedes-AMG EQE 53 4MATIC+.
 The standard layout has the following configuration. The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen in the middle of the center console is 12,8 inches large and has a 1888x1728 pixels resolution. 
 
 The optional MBUX Hyperscreen layout has the following configuration. Behind the steering wheel is a digital instrument cluster. In addition, there is one infotainment screen in the center console  and one in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/screens_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
-
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
@@ -169,14 +129,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 You can choose between two types of headlights for the Mercedes-AMG EQE 53 4MATIC+. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/headlights_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
-
 ## Driver assistance
 
 The Mercedes-AMG EQE 53 4MATIC+ has several standard and optional driver assistance systems for better safety and comfort.
@@ -196,10 +148,3 @@ The Mercedes-AMG EQE 53 4MATIC+ has a **lane-keeping** assistant as a standard s
 The cargo capacity in the trunk is 430 liters. With the rear seat down, it is 895 liters. On the roof, you can load up to 100kg. Max weight is 3095kg, and with the base weight of 2450 kg, you can max load 645 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4matic+/trunk_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
-</a>
-<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
