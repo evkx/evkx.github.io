@@ -21,7 +21,7 @@ With overboost, the Audi e-tron 55 has a maximum power of 300KW (408hp). Without
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 95kWh and a net capacity of 86,5kWh, meaning you have 8,5kWh reserved as a buffer for protection. (8,9%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 441km to 369km, depending on the equipment. The consumption is between 19,6kWh/100km for the basic version and 23,4kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 95kWh and a net capacity of 86,5kWh, meaning you have a 8,5kWh buffer for protection. (8,9%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 441km to 369km, depending on the equipment. The consumption is between 19,6kWh/100km for the basic version and 23,4kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 45 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 81% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 34 minutes and 24 seconds. 
 
@@ -59,7 +59,7 @@ You can also choose several styling options to make your car more unique.
 
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and, if equipped with rails, black rails.
 
-You can choose between 10 wheels with sizes from 19 to 22 inches. 
+Additionally, you can choose between 10 wheels with sizes from 19 to 22 inches. 
 
 The car has four regular doors and a tailgate. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
 
@@ -163,7 +163,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
 
 
-### Second row seat
+### Second-row seat
 
 
 

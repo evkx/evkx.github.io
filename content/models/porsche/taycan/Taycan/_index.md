@@ -26,14 +26,14 @@ With the optional Performance Battery Plus battery, you get other performance nu
 Porsche Taycan has two battery options with different specifications. Below you see how this affects range and charging. 
 ### Performance Battery
 
-The battery has a gross capacity of 79,2kWh and a net capacity of 71kWh, meaning you have 8,2kWh reserved as a buffer for protection. (10,4%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 431km to 354km, depending on the equipment. The consumption is between 16,5kWh/100km for the basic version and 20,1kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 79,2kWh and a net capacity of 71kWh, meaning you have a 8,2kWh buffer for protection. (10,4%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 431km to 354km, depending on the equipment. The consumption is between 16,5kWh/100km for the basic version and 20,1kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 225kW. A full charge from 0 - 100% would take 45 minutes, while a more common scenario of 10-80% would take 19 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 67% resulting in an actual charge speed including time loss on 136kW. Each charge session would take 21 minutes and 2 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 26 minutes to drive. This will requires three charge sessions charging from 0% to 70%. The total time lost for charging will be 66 minutes.   
 ### Performance Battery Plus
 
-The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have 9,7kWh reserved as a buffer for protection. (10,4%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 484km to 407km, depending on the equipment. The consumption is between 16,5kWh/100km for the basic version and 20,1kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 484km to 407km, depending on the equipment. The consumption is between 16,5kWh/100km for the basic version and 20,1kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65% resulting in an actual charge speed including time loss on 165kW. Each charge session would take 19 minutes and 53 seconds. 
 
@@ -73,7 +73,7 @@ The optional SportDesign package contains a specially designed upper part front 
 
 The optional SportDesign package HighGloss black contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in Black (high-gloss), specially designed rear diffusor in Black with side fins painted in Black (high-gloss),front licence plate carrier painted in exterior color. 
 
-You can choose between 8 wheels with sizes from 19 to 21 inches. 
+Additionally, you can choose between 8 wheels with sizes from 19 to 21 inches. 
 
 The car has four regular doors and a tailgate. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
 

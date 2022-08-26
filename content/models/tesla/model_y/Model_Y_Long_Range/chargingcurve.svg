@@ -3,7 +3,7 @@
     <g>
         <path d="M 1080 1091 L 40 1091 Q 30 1091 30 1081 L 30 36" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 30 791 L 1080 791" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
-       <path d="M 30  1073 40  1054 50  1035 60  1016 70  791 80  770 90  770 100  770 110  767 120  764 130  761 140  761 150  761 160  761 170  758 180  758 190  758 200  755 210  755 220  755 230  755 240  755 250  752 260  752 270  752 280  755 290  755 300  752 310  755 320  755 330  755 340  758 350  761 360  761 370  761 380  761 390  764 400  764 410  767 420  767 430  767 440  767 450  770 460  770 470  770 480  770 490  773 500  776 510  776 520  779 530  779 540  782 550  782 560  782 570  785 580  791 590  791 600  794 610  797 620  797 630  800 640  800 650  803 660  803 670  809 680  812 690  814 700  816 710  819 720  821 730  823 740  826 750  828 760  830 770  833 780  835 790  837 800  839 810  845 820  851 830  857 840  863 850  869 860  875 870  881 880  887 890  893 900  899 910  905 920  911 930  922 940  933 950  944 960  954 970  965 980  976 990  986 1000  989 1010  1001 1020  1025 1030  1031 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+       <path d="M 30  791 40  782 50  767 60  767 70  767 80  767 90  401 100  386 110  371 120  356 130  341 140  353 150  392 160  431 170  458 180  491 190  500 200  512 210  521 220  527 230  542 240  554 250  566 260  575 270  578 280  590 290  596 300  605 310  614 320  620 330  629 340  638 350  647 360  653 370  662 380  674 390  677 400  686 410  695 420  701 430  707 440  716 450  722 460  725 470  737 480  740 490  749 500  755 510  761 520  767 530  776 540  782 550  788 560  794 570  800 580  809 590  812 600  818 610  824 620  836 630  839 640  848 650  854 660  854 670  860 680  863 690  866 700  869 710  872 720  875 730  878 740  881 750  884 760  890 770  893 780  896 790  899 800  905 810  908 820  908 830  911 840  917 850  923 860  932 870  941 880  947 890  956 900  962 910  965 920  968 930  974 940  977 950  983 960  986 970  995 980  1001 990  1010 1000  1016 1010  1025 1020  1037 1030  1052 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -394,13 +394,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1136px; margin-left: 51px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
-                                Charging curve for Mercedes-EQ EQA 250
+                                Charging curve for Tesla Model Y Long Range
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="610" y="1145" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    Charging curve for Mercedes-EQ EQA 250
+                    Charging curve for Tesla Model Y Long Range
                 </text>
             </switch>
         </g>

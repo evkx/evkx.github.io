@@ -21,7 +21,7 @@ The Mercedes-EQ EQE 350+ has a maximum power of 215KW (292hp). The total torque 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 96,12kWh and a net capacity of 89kWh, meaning you have 7,12kWh reserved as a buffer for protection. (7,4%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 639km to 550km, depending on the equipment. The consumption is between 13,9kWh/100km for the basic version and 16,2kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 96,12kWh and a net capacity of 89kWh, meaning you have a 7,12kWh buffer for protection. (7,4%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 639km to 550km, depending on the equipment. The consumption is between 13,9kWh/100km for the basic version and 16,2kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 54 minutes, while a more common scenario of 10-80% would take 28 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 64% resulting in an actual charge speed including time loss on 121kW. Each charge session would take 27 minutes and 24 seconds. 
 
@@ -65,7 +65,7 @@ You can also choose several styling options to make your car more unique.
 
 The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions. 
 
-You can choose between 13 wheels with sizes from 19 to 21 inches. 
+Additionally, you can choose between 13 wheels with sizes from 19 to 21 inches. 
 
 The car has four regular doors and a boot lid for the trunk. 
 
@@ -119,7 +119,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <figcaption><h4>Mercedes-EQ EQE 350+</h4></figcaption></figur>
 
 
-### Second row seat
+### Second-row seat
 
 
 

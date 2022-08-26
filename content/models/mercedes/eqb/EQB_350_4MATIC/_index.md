@@ -53,7 +53,7 @@ Regenerative braking is available in several modes. The most efficient is automa
 You can choose between 10 different paint colors when ordering this model. 
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
-You can choose between 6 wheels with sizes from 18 to 19 inches. 
+Additionally, you can choose between 6 wheels with sizes from 18 to 19 inches. 
 
 The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
 
@@ -116,11 +116,15 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <figcaption><h4>Mercedes-EQ EQB 350 4MATIC</h4></figcaption></figur>
 
 
-### Second row seat
+### Second-row seat
 
 
 
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
+
+### Third-row seats
+
+
 
 The third row has an optional two-seat bench with a 50:50 split. You can fold down the seats when not used to create a larger cargo capacity. 
 

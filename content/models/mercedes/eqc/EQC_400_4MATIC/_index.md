@@ -21,7 +21,7 @@ The Mercedes-EQ EQC 400 4MATIC has a maximum power of 300KW (408hp). The total t
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 86kWh and a net capacity of 80kWh, meaning you have 6kWh reserved as a buffer for protection. (7,0%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 432km to 400km, depending on the equipment. The consumption is between 18,5kWh/100km for the basic version and 20,0kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 86kWh and a net capacity of 80kWh, meaning you have a 6kWh buffer for protection. (7,0%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 432km to 400km, depending on the equipment. The consumption is between 18,5kWh/100km for the basic version and 20,0kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 112kW. A full charge from 0 - 100% would take 67 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 67% resulting in an actual charge speed including time loss on 82kW. Each charge session would take 35 minutes and 30 seconds. 
 
@@ -53,7 +53,7 @@ Regenerative braking is available in several modes. The most efficient is automa
 You can choose between 11 different paint colors when ordering this model. 
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
-You can choose between 10 wheels with sizes from 19 to 21 inches. 
+Additionally, you can choose between 10 wheels with sizes from 19 to 21 inches. 
 
 The car has four regular doors and a tailgate. The tailgate is electric powered. 
 

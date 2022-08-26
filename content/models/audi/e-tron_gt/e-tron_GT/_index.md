@@ -21,7 +21,7 @@ With overboost, the Audi e-tron GT has a maximum power of 390KW (530hp). Without
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have 9,7kWh reserved as a buffer for protection. (10,4%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 488km to 448km, depending on the equipment. The consumption is between 17,2kWh/100km for the basic version and 18,7kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 488km to 448km, depending on the equipment. The consumption is between 17,2kWh/100km for the basic version and 18,7kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65% resulting in an actual charge speed including time loss on 165kW. Each charge session would take 19 minutes and 53 seconds. 
 
@@ -59,7 +59,7 @@ You can also choose several styling options to make your car more unique.
 
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and, if equipped with rails, black rails.
 
-You can choose between 7 wheels with sizes from 19 to 21 inches. 
+Additionally, you can choose between 7 wheels with sizes from 19 to 21 inches. 
 
 The car has four regular doors and a tailgate. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
 

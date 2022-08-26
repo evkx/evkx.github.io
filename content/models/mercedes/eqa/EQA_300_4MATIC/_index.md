@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQA 300 4MATIC
 linktitle: EQA 300 4MATIC
-description: intro.crossover.premium
+description: Mercedes-EQ EQA 300 4MATIC is an all-electric premium crossover with a WLTP range of up to 438 km (272 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -21,7 +21,7 @@ The Mercedes-EQ EQA 300 4MATIC has a maximum power of 168KW (228hp). The total t
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 69,7kWh and a net capacity of 66,5kWh, meaning you have 3,2kWh reserved as a buffer for protection. (4,6%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 438km to 411km, depending on the equipment. The consumption is between 15,2kWh/100km for the basic version and 16,2kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 69,7kWh and a net capacity of 66,5kWh, meaning you have a 3,2kWh buffer for protection. (4,6%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 438km to 411km, depending on the equipment. The consumption is between 15,2kWh/100km for the basic version and 16,2kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 112kW. A full charge from 0 - 100% would take 46 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 76% resulting in an actual charge speed including time loss on 81kW. Each charge session would take 36 minutes and 59 seconds. 
 
@@ -53,7 +53,7 @@ Regenerative braking is available in several modes. The most efficient is automa
 You can choose between 10 different paint colors when ordering this model. 
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
-You can choose between 6 wheels with sizes from 18 to 19 inches. 
+Additionally, you can choose between 6 wheels with sizes from 18 to 19 inches. 
 
 The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
 
@@ -116,7 +116,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <figcaption><h4>Mercedes-EQ EQA 300 4MATIC</h4></figcaption></figur>
 
 
-### Second row seat
+### Second-row seat
 
 
 
