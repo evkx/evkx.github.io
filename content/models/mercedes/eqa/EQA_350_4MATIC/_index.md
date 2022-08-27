@@ -173,8 +173,6 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 ## Driver assistance
 
 The Mercedes-EQ EQA 350 4MATIC has several standard and optional driver assistance systems for better safety and comfort.
-
-**Cruise control** is a standard system on the Mercedes-EQ EQA 350 4MATIC. The cruise control system helps the driver keep a set speed. 
 ### Safety systems
 
 

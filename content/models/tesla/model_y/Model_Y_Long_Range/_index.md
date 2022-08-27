@@ -162,8 +162,6 @@ The standard headlights use LED technology.
 ## Driver assistance
 
 The Tesla Model Y Long Range has several standard and optional driver assistance systems for better safety and comfort.
-
-**Cruise control** is a standard system on the Tesla Model Y Long Range. The cruise control system helps the driver keep a set speed. 
 ### Safety systems
 
 

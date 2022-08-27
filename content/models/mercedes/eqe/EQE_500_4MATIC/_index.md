@@ -190,8 +190,6 @@ You can choose between two types of headlights for the Mercedes-EQ EQE 500 4MATI
 ## Driver assistance
 
 The Mercedes-EQ EQE 500 4MATIC has several standard and optional driver assistance systems for better safety and comfort.
-
-**Cruise control** is a standard system on the Mercedes-EQ EQE 500 4MATIC. The cruise control system helps the driver keep a set speed. 
 ### Safety systems
 
 

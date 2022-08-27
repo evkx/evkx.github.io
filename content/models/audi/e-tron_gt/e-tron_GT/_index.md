@@ -139,8 +139,6 @@ You can choose between three types of headlights for the Audi e-tron GT. The sta
 
 The Audi e-tron GT has several standard and optional driver assistance systems for better safety and comfort.
 
-**Cruise control** is a standard system on the Audi e-tron GT. The cruise control system helps the driver keep a set speed. 
-
 **Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
@@ -149,6 +147,18 @@ The Audi e-tron GT has several standard and optional driver assistance systems f
 The Audi e-tron GT has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+### Driving Automation
+
+The Audi e-tron GT offers driving automation on level 1 or 2, depending on the equipment level.
+
+With the   level 1 system, you get the  driving automation features. 
+- Automatic parallel parking. (optional) 
+
+
+With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above. 
+- Adaptive Cruise control. 
+- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+
 
 ## Transportation capabilities
 

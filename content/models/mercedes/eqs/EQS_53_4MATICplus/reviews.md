@@ -16,3 +16,6 @@ weight: 80
 ### Out of Spec Reviews: I Drive The Mercedes-AMG EQS 53 For The First Time! The First Electric AMG 20.12.2021
 
 {{< youtube QqhmCtoLwX8 >}}
+### Autogefühl: Level 3 Autonomous Driving with the Mercedes EQS ! Self-Driving EV test 25.07.2021
+
+{{< youtube TEBg1LsVTCo >}}

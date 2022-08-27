@@ -94,8 +94,6 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Driver assistance
 
 The Mercedes-EQ EQC 400 4MATIC has several standard and optional driver assistance systems for better safety and comfort.
-
-**Cruise control** is a standard system on the Mercedes-EQ EQC 400 4MATIC. The cruise control system helps the driver keep a set speed. 
 ### Safety systems
 
 

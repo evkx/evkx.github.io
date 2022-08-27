@@ -132,8 +132,6 @@ You can choose between two types of headlights for the BMW iX xDrive50. The stan
 ## Driver assistance
 
 The BMW iX xDrive50 has several standard and optional driver assistance systems for better safety and comfort.
-
-**Cruise control** is a standard system on the BMW iX xDrive50. The cruise control system helps the driver keep a set speed. 
 ### Safety systems
 
 

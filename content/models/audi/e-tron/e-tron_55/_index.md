@@ -207,8 +207,6 @@ You can choose between three types of headlights for the Audi e-tron 55. The sta
 
 The Audi e-tron 55 has several standard and optional driver assistance systems for better safety and comfort.
 
-**Cruise control** is a standard system on the Audi e-tron 55. The cruise control system helps the driver keep a set speed. 
-
 **Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
@@ -222,6 +220,7 @@ The Audi e-tron 55 has a **lane-keeping** assistant as a standard system. This s
 The Audi e-tron 55 offers driving automation on level 1 or 2, depending on the equipment level.
 
 With the   level 1 system, you get the  driving automation features. 
+- Cruise control. 
 - Automatic parallel parking. (optional) 
 
 

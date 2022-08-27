@@ -167,8 +167,6 @@ You can choose between two types of headlights for the Audi Q4 50 e-tron. The st
 
 The Audi Q4 50 e-tron has several standard and optional driver assistance systems for better safety and comfort.
 
-**Cruise control** is a standard system on the Audi Q4 50 e-tron. The cruise control system helps the driver keep a set speed. 
-
 **Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 

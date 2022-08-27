@@ -186,15 +186,29 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Driver assistance
 
 The Mercedes-AMG EQS 53 4MATIC+ has several standard and optional driver assistance systems for better safety and comfort.
-
-**Cruise control** is a standard system on the Mercedes-AMG EQS 53 4MATIC+. The cruise control system helps the driver keep a set speed. 
 ### Safety systems
 
 
 
 The Mercedes-AMG EQS 53 4MATIC+ has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
-**Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+**Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+### Driving Automation
+
+driverassistance.drivingautomation.intro.multiplelevels123
+
+With the Driver Assistance Package  level 1 system, you get the  driving automation features. 
+- Adaptive Cruise control. 
+- Automatic parallel parking. (optional) 
+
+
+With the Driver Assistance Package Plus  level 2 system, you get additional driving automation features to the ones listed above. 
+- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+
+
+With the DRIVE PILOT  level 3 system, you get additional driving automation features to the ones listed above.
+- Automatic lane change. 
+
 
 ## Transportation capabilities
 
