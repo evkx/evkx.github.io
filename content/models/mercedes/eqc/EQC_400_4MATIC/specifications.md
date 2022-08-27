@@ -32,13 +32,9 @@ weight: 30
 ## Driver Assistance
 |Spec|Value|
 |----|-----|
-|Lane keeping|Yes, standard equipment|
-|Cruise control|Yes, standard equipment|
-|Adaptive cruise control|Yes, optional equipment|
-|Autonomous driving|Yes, optional equipment|
+|Lane keeping|Yes (Active Lane keeping Assist), standard equipment|
 |Lane departure warning|Yes, standard equipment|
-|Drowsiness Alert|Yes, standard equipment|
-|Automatic Parallel Parking|Yes, optional equipment|
+|Drowsiness Alert|Yes (Attention Assist), standard equipment|
 |Backup camera|Yes, optional equipment|
 |360 camera|Yes, optional equipment|
 |Rear cross traffic alert|Yes, optional equipment|

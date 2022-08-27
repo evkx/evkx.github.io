@@ -101,6 +101,14 @@ The Mercedes-EQ EQC 400 4MATIC has several standard and optional driver assistan
 The Mercedes-EQ EQC 400 4MATIC has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+### Driving Automation
+
+The Mercedes-EQ EQC 400 4MATIC offers driving automation on level 1. 
+
+With the Driver Assistance Package  level 1 system, you get the  driving automation features. 
+- Adaptive Cruise control. 
+- Automatic parallel parking. (optional) 
+
 
 ## Transportation capabilities
 
