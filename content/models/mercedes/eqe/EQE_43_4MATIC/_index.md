@@ -196,7 +196,19 @@ The Mercedes-AMG EQE 43 4MATIC has several standard and optional driver assistan
 
 The Mercedes-AMG EQE 43 4MATIC has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
-**Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+**Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+### Driving Automation
+
+The Mercedes-AMG EQE 43 4MATIC offers driving automation on level 1 or 2, depending on the equipment level.
+
+With the Driver Assistance Package  level 1 system, you get the  driving automation features. 
+- Adaptive Cruise control. 
+- Automatic parallel parking. (optional) 
+
+
+With the Driver Assistance Package Plus  level 2 system, you get additional driving automation features to the ones listed above. 
+- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+
 
 ## Transportation capabilities
 
