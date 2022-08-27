@@ -177,12 +177,12 @@ The Tesla Model Y Long Range offers driving automation on level 2 or 3, dependin
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features. 
 - Adaptive Cruise control. 
-- Autosteer functionality keeps the car in your lane and slows down traffic. The system limits how long you can drive without touching the steering wheel. 
+- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above. 
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target by itself. 
-- Automatic parallel parking. 
+- Automatic parallel parking.  
 - Automatic lane change. 
 
 
