@@ -23,9 +23,9 @@ The Mercedes-EQ EQA 300 4MATIC has a maximum power of 168KW (228hp). The total t
 
 The battery has a gross capacity of 69,7kWh and a net capacity of 66,5kWh, meaning you have a 3,2kWh buffer for protection. (4,6%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 438km to 411km, depending on the equipment. The consumption is between 15,2kWh/100km for the basic version and 16,2kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 112kW. A full charge from 0 - 100% would take 46 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 76% resulting in an actual charge speed including time loss on 81kW. Each charge session would take 36 minutes and 59 seconds. 
+The maximum DC charging speed is 112kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 70% resulting in an actual charge speed including time loss on 84kW. Each charge session would take 31 minutes and 19 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 10 hours and 13 minutes to drive. This will requires three charge sessions charging from 3% to 80%. The total time lost for charging will be 114 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 10 hours and 10 minutes to drive. This will requires four charge sessions charging from 4% to 62%. The total time lost for charging will be 111 minutes.   
 ### Onboard charger
 
 
@@ -172,6 +172,13 @@ The Mercedes-EQ EQA 300 4MATIC has several standard and optional driver assistan
 The Mercedes-EQ EQA 300 4MATIC has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+### Driving Automation
+
+The Mercedes-EQ EQA 300 4MATIC offers driving automation on level 1. 
+
+With the Driver Assistance Package  level 1 system, you get the  driving automation features. 
+- Adaptive Cruise control. 
+
 
 ## Transportation capabilities
 

@@ -34,15 +34,11 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes (Active Lane keeping Assist), standard equipment|
-|Cruise control|Yes, standard equipment|
-|Adaptive cruise control|Yes (Active Distance Assist), optional equipment|
-|Autonomous driving|Yes (Active Steering Assist), optional equipment|
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes (Attention Assist), standard equipment|
-|Automatic Parallel Parking|Yes (Actie Parking Assist), optional equipment|
 |Backup camera|Yes, optional equipment|
 |360 camera|Yes, optional equipment|
-|Rear cross traffic alert|Yes, optional equipment (option Cross Tra̱ffic Alert )|
+|Rear cross traffic alert|Yes, optional equipment|
 |Rear parking sensors|Yes, standard equipment|
 |Front parking sensors|Yes, standard equipment|
 |Side parking sensors|Yes, standard equipment|
