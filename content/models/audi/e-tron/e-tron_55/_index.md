@@ -75,7 +75,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 <figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
 
 
-## Interior & comfort
+## Interior
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
@@ -169,9 +169,17 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
 
-### Climate system
+## Climate system
 
 You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
+
+## Comfort
+
+Audi e-tron 55 has several features to make your life as a driver or passenger more comfortable. 
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
 
 ## User interface and control
 
@@ -199,17 +207,16 @@ You can choose between three types of headlights for the Audi e-tron 55. The sta
 
 The Audi e-tron 55 has several standard and optional driver assistance systems for better safety and comfort.
 
-The Audi e-tron 55 has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
-
 **Cruise control** is a standard system on the Audi e-tron 55. The cruise control system helps the driver keep a set speed. 
 
-**Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
+**Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
+### Safety systems
+
+
+
+The Audi e-tron 55 has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
-
-**Adaptive Cruise Assist** is an optional system on the Audi e-tron 55.  The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance, and lane guidance. As a result, Adaptive Cruise Assist can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes, and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path that it follows.
-
-**Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 
 ## Transportation capabilities
 

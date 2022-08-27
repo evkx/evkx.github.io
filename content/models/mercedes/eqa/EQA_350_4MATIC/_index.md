@@ -75,7 +75,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 <figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
 
 
-## Interior & comfort
+## Interior
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
@@ -130,9 +130,19 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
 
-### Climate system
+## Climate system
 
 You can choose from two different climate systems. The standard climate system supports only controlling one common zone for the whole car. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. 
+
+## Comfort
+
+Mercedes-EQ EQA 350 4MATIC has several features to make your life as a driver or passenger more comfortable. 
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
+
+You have wireless charging for your phone.  
 
 ## User interface and control
 
@@ -164,15 +174,14 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 The Mercedes-EQ EQA 350 4MATIC has several standard and optional driver assistance systems for better safety and comfort.
 
+**Cruise control** is a standard system on the Mercedes-EQ EQA 350 4MATIC. The cruise control system helps the driver keep a set speed. 
+### Safety systems
+
+
+
 The Mercedes-EQ EQA 350 4MATIC has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
-**Cruise control** is a standard system on the Mercedes-EQ EQA 350 4MATIC. The cruise control system helps the driver keep a set speed. 
-
-**Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
-
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
-
-**Autonomous driving** capabilities are available as an optional system. The system can steer the car and adjust speed depending on the environment. 
 
 ## Transportation capabilities
 

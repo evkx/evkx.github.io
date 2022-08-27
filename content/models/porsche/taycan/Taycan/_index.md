@@ -85,7 +85,7 @@ The car has four regular doors and a tailgate. The electric-powered tailgate has
 <figcaption><h4>Porsche Taycan</h4></figcaption></figur>
 
 
-## Interior & comfort
+## Interior
 
 You can choose between different types of seats, seat materials, and interior styling. This model offers a four-seat layout or an optional 4+1 layout. 
 
@@ -157,6 +157,14 @@ The second option is two integrated seats in the second row with a third smaller
  - heating (optional)
  - integrated headrest 
 
+## Comfort
+
+Porsche Taycan has several features to make your life as a driver or passenger more comfortable. 
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
+
 ## User interface and control
 
 Porsche Taycan has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. For the passenger, there is an optional screen. The touch screen behind the steering wheel integrated into the dashboard is 16,8 inches large. The touch screen at the top of the center console is 10,9 inches large. The touch screen at the bottom of the center console is 8,4 inches large. The touch screen in front of the passenger in the dashboard is 10,9 inches large. 
@@ -183,17 +191,16 @@ You can choose between two types of headlights for the Porsche Taycan. The stand
 
 The Porsche Taycan has several standard and optional driver assistance systems for better safety and comfort.
 
-The Porsche Taycan has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
-
 **Cruise control** is a standard system on the Porsche Taycan. The cruise control system helps the driver keep a set speed. 
 
-**Adaptive cruise control** is an standard driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
+**Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
+### Safety systems
+
+
+
+The Porsche Taycan has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
-
-**Autonomous driving** capabilities are available as an optional system. The system can steer the car and adjust speed depending on the environment. 
-
-**Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 
 ## Transportation capabilities
 

@@ -57,7 +57,7 @@ The car has four regular doors and a tailgate. The tailgate is electric powered 
 
 There is only one roof for this model. The standard is a panoramic roof. 
 
-As standard the windows from B-pillar and back is tinted. 
+The windows from B-pillar and back are tinted. 
 
 
 <figur>
@@ -67,9 +67,9 @@ As standard the windows from B-pillar and back is tinted.
 <figcaption><h4>Tesla Model Y Long Range</h4></figcaption></figur>
 
 
-## Interior & comfort
+## Interior
 
-There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three seats in the rear. 
+There is one seat type you can select in different materials. In addition, the model offers a traditional five-seat layout or an optional seven-seat layout. 
 
 ### First row seats
 
@@ -123,9 +123,21 @@ The third row has an optional two-seat bench with a 50:50 split. You can fold do
 <figcaption><h4>Tesla Model Y Long Range</h4></figcaption></figur>
 
 
-### Climate system
+## Climate system
 
 There is one climate system available. The standard climate system supports only controlling one common zone for the whole car. 
+
+## Comfort
+
+Tesla Model Y Long Range has several features to make your life as a driver or passenger more comfortable. 
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
+
+The steering wheel is electrically adjustable. 
+
+You have wireless charging for your phone.  
 
 ## User interface and control
 
@@ -141,7 +153,7 @@ Tesla Model Y Long Range has a single screen. The dashboard’s center has a sin
 
 ## Infotainment
 
-There is one type of sound system available for the Tesla Model Y Long Range. With the Tesla Premium Sound, you get five amplifier channels and 13 speakers with a max system output of 560 watts. 
+One type of sound system is available for the Tesla Model Y Long Range. With the Tesla Premium Sound, you get five amplifier channels and 13 speakers with a max system output of 560 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 ## Lights
@@ -151,18 +163,36 @@ The standard headlights use LED technology.
 
 The Tesla Model Y Long Range has several standard and optional driver assistance systems for better safety and comfort.
 
+**Cruise control** is a standard system on the Tesla Model Y Long Range. The cruise control system helps the driver keep a set speed. 
+### Safety systems
+
+
+
 The Tesla Model Y Long Range has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
-**Cruise control** is a standard system on the Tesla Model Y Long Range. The cruise control system helps the driver keep a set speed. 
-
-**Adaptive cruise control** is an standard driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
-
 **Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+### Driving Automation
 
-**Autonomous driving** capabilities are available as an optional system. The system can steer the car and adjust speed depending on the environment. 
+The Tesla Model Y Long Range offers driving automation on level 2 or 3, depending on the equipment level. 
+
+With the Basic Autopilot  level 2 system, you get the following driving automation features. 
+- Adaptive Cruise control. 
+- Autosteer functionality keeps the car in your lane and slows down traffic. The system limits how long you can drive without touching the steering wheel. 
+
+
+With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above. 
+- Advance cruise control that follows navigation and turns off and on major roads to reach the target by itself. 
+- Automatic parallel parking. 
+- Automatic lane change. 
+
+
+With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above.
+- Traffic light control - follow traffic lights. 
+- Stop sign control - follow stop signs. 
+
 
 ## Transportation capabilities
 
 The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 2158 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
+A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 

@@ -34,11 +34,9 @@ weight: 30
 |----|-----|
 |Lane keeping|Yes, standard equipment|
 |Cruise control|Yes, standard equipment|
-|Adaptive cruise control|Yes, standard equipment|
 |Autonomous driving|Yes, optional equipment|
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
-|Automatic Parallel Parking|Not available|
 |Backup camera|Yes, optional equipment|
 |360 camera|Not available|
 |Rear cross traffic alert|Not available|

@@ -57,9 +57,17 @@ Additionally, you can choose between 10 wheels with sizes from 19 to 21 inches.
 
 The car has four regular doors and a tailgate. The tailgate is electric powered. 
 
-## Interior & comfort
+## Interior
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
+
+## Comfort
+
+Mercedes-EQ EQC 400 4MATIC has several features to make your life as a driver or passenger more comfortable. 
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
 
 ## User interface and control
 
@@ -87,15 +95,14 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 The Mercedes-EQ EQC 400 4MATIC has several standard and optional driver assistance systems for better safety and comfort.
 
+**Cruise control** is a standard system on the Mercedes-EQ EQC 400 4MATIC. The cruise control system helps the driver keep a set speed. 
+### Safety systems
+
+
+
 The Mercedes-EQ EQC 400 4MATIC has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
-**Cruise control** is a standard system on the Mercedes-EQ EQC 400 4MATIC. The cruise control system helps the driver keep a set speed. 
-
-**Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
-
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
-
-**Autonomous driving** capabilities are available as an optional system. The system can steer the car and adjust speed depending on the environment. 
 
 ## Transportation capabilities
 

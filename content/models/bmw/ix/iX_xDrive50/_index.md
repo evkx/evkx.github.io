@@ -62,7 +62,7 @@ The car has four regular doors and a tailgate. The electric-powered tailgate has
 <figcaption><h4>BMW iX xDrive50</h4></figcaption></figur>
 
 
-## Interior & comfort
+## Interior
 
 You can choose between different types of seat materials and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
@@ -95,9 +95,17 @@ You can choose from 7 different materials/colors for this seat type. <br />
 
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
 
-### Climate system
+## Climate system
 
 You can choose from two different climate systems. The standard climate system supports different temperatures in two zone for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
+
+## Comfort
+
+BMW iX xDrive50 has several features to make your life as a driver or passenger more comfortable. 
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
 
 ## User interface and control
 
@@ -125,13 +133,12 @@ You can choose between two types of headlights for the BMW iX xDrive50. The stan
 
 The BMW iX xDrive50 has several standard and optional driver assistance systems for better safety and comfort.
 
-The BMW iX xDrive50 has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
-
 **Cruise control** is a standard system on the BMW iX xDrive50. The cruise control system helps the driver keep a set speed. 
+### Safety systems
 
-**Adaptive cruise control** is an optional driver assist system. The adaptive cruise control system helps the driver keep a set speed and adjust the speed automatically based on traffic. Very convenient to have in rush traffic. 
 
-**Autonomous driving** capabilities are available as an optional system. The system can steer the car and adjust speed depending on the environment. 
+
+The BMW iX xDrive50 has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 ## Transportation capabilities
 
