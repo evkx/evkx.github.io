@@ -23,7 +23,7 @@ If you are not happy enough with the standard performance, you can add the AMG D
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 107,8kWh, meaning you have a 12,2kWh buffer for protection. (10,2%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 570km to 513km, depending on the equipment. The consumption is between 18,9kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 120kWh and a net capacity of 107,8kWh, meaning you have a 12,2kWh buffer for protection. (10,2%).  The WLTP range varies from 570 to 513 km (354-319 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 18,9kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 210kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 34 seconds. 
 
@@ -180,6 +180,8 @@ This model also has an optional gesture control system that lets you control spe
 You can choose from two different sound systems on the Mercedes-AMG EQS 53 4MATIC+. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-AMG EQS 53 4MATIC+ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+
+The models is equipped with 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
@@ -197,7 +199,7 @@ The Mercedes-AMG EQS 53 4MATIC+ has a **lane-keeping** assistant as a standard s
 
 driverassistance.drivingautomation.intro.multiplelevels123
 
-With the Driver Assistance Package  level 1 system, you get the  driving automation features. 
+With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
 - Adaptive Cruise control. 
 - Automatic parallel parking. (optional) 
 

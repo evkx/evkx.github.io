@@ -21,7 +21,7 @@ The Mercedes-EQ EQA 250 has a maximum power of 168KW (228hp). The total torque i
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 69,7kWh and a net capacity of 66,5kWh, meaning you have a 3,2kWh buffer for protection. (4,6%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 438km to 411km, depending on the equipment. The consumption is between 15,2kWh/100km for the basic version and 16,2kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 69,7kWh and a net capacity of 66,5kWh, meaning you have a 3,2kWh buffer for protection. (4,6%).  The WLTP range varies from 438 to 411 km (272-255 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,2kWh/100km for the basic version and 16,2kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 112kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 70% resulting in an actual charge speed including time loss on 84kW. Each charge session would take 31 minutes and 19 seconds. 
 
@@ -34,7 +34,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-drivetrain.drivesetup.OneMotorFrontAxle
+Mercedes-EQ EQA 250 has a front-wheel drive system supported by one motor on the front axle. 
 
 
 
@@ -159,6 +159,8 @@ This model also has an optional gesture control system that lets you control spe
 You can choose from two different sound systems on the Mercedes-EQ EQA 250. With the Standard, you get five amplifier channels and seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQA 250 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+
+The models is equipped with 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
@@ -176,7 +178,7 @@ The Mercedes-EQ EQA 250 has a **lane-keeping** assistant as a standard system. T
 
 The Mercedes-EQ EQA 250 offers driving automation on level 1. 
 
-With the Driver Assistance Package  level 1 system, you get the  driving automation features. 
+With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
 - Adaptive Cruise control. 
 
 

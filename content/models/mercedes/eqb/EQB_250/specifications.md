@@ -21,13 +21,13 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |Length|4684|
-|Height|1701|
+|Height|1688|
 |Width excluding mirrors|1834|
 |Widht including mirrors|2020|
 |Wheelbase|2829|
-|Track width front|1585|
-|Track width rear|1584|
-|Drag coefficient|0,287|
+|Track width front|1588|
+|Track width rear|1589|
+|Drag coefficient|0,286|
 |Turning circle|11,7|
 
 ## Driver Assistance

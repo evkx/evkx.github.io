@@ -21,7 +21,7 @@ With overboost, the Audi e-tron 55 has a maximum power of 300KW (408hp). Without
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 95kWh and a net capacity of 86,5kWh, meaning you have a 8,5kWh buffer for protection. (8,9%). The range varies based on the equipment trim. Based on the WLTP standard test, the range varies from 441km to 369km, depending on the equipment. The consumption is between 19,6kWh/100km for the basic version and 23,4kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 95kWh and a net capacity of 86,5kWh, meaning you have a 8,5kWh buffer for protection. (8,9%).  The WLTP range varies from 441 to 369 km (274-229 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 19,6kWh/100km for the basic version and 23,4kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 45 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 81% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 34 minutes and 24 seconds. 
 
@@ -200,6 +200,8 @@ A head-up display is an optional system that presents speed and other important 
 You can choose from two different sound systems on the Audi e-tron 55. With the Audi Sound system, you get ten amplifier channels and ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 amplifier channels and 16 speakers with a max system output of 700 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron 55 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+
+The models is equipped with 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 You can choose between three types of headlights for the Audi e-tron 55. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
@@ -219,7 +221,7 @@ The Audi e-tron 55 has a **lane-keeping** assistant as a standard system. This s
 
 The Audi e-tron 55 offers driving automation on level 1 or 2, depending on the equipment level.
 
-With the   level 1 system, you get the  driving automation features. 
+With the   level 1 system, you get the following driving automation features. 
 - Cruise control. 
 - Automatic parallel parking. (optional) 
 

@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Auto Express: The Mercedes EQB has NO rivals: review 29.07.2022
+
+{{< youtube XUfkbiiq4CY >}}
 ### Bjørn Nyland: Mercedes EQB 350 4Matic 1000 km challenge 26.02.2022
 
 {{< youtube 9scbesiwCBk >}}
@@ -13,3 +16,6 @@ weight: 80
 ### Bjørn Nyland: Mercedes EQB 350 4Matic range test 22.02.2022
 
 {{< youtube mbLL74uObwg >}}
+### carbuyer: New Mercedes EQB in-depth review: seven-seat EV! 22.02.2022
+
+{{< youtube XUfkbiiq4CY >}}
