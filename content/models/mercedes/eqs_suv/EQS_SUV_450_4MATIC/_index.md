@@ -1,7 +1,7 @@
 ---
-title: Mercedes-EQ EQS 450+
-linktitle: EQS 450+
-description: Mercedes-EQ EQS 450+ is an all-electric luxury sedan with a WLTP range of up to 783 km (487 miles). EVKX.net have all the details. 
+title: Mercedes-EQ EQS SUV 450 4MATIC
+linktitle: EQS SUV 450 4MATIC
+description: Mercedes-EQ EQS SUV 450 4MATIC is an all-electric luxury sedan with a WLTP range of up to 696 km (433 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,23 +9,23 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_suv_450_4matic/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_suv_450_4matic/main_1_st.jpg" alt="Mercedes-EQ EQS SUV 450 4MATIC" title="Mercedes-EQ EQS SUV 450 4MATIC">
 </a>
-<figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
+<figcaption><h4>Mercedes-EQ EQS SUV 450 4MATIC</h4></figcaption></figur>
 
 
 ## Performance
 
-The Mercedes-EQ EQS 450+ has a maximum power of 265KW (360hp). The total torque is 800nm. The 0-100km/h sprint (0-62mph) is performed in 5,6 seconds. The top speed is 210 kph. 
+The Mercedes-EQ EQS SUV 450 4MATIC has a maximum power of 265KW (360hp). The total torque is 800nm. The 0-100km/h sprint (0-62mph) is performed in 5,6 seconds. The top speed is 210 kph. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%).  The WLTP range varies from 783 to 642 km (487-399 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 13,8kWh/100km for the basic version and 16,9kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%).  The WLTP range varies from 696 to 582 km (433-362 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,6kWh/100km for the basic version and 18,6kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 210kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 41 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 20kWh/100km, 1000km will take 9 hours and 0 minutes to drive. This will requires two charge sessions charging from 1% to 44%. The total time lost for charging will be 40 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 7 minutes to drive. This will requires two charge sessions charging from 1% to 53%. The total time lost for charging will be 48 minutes.   
 ### Onboard charger
 
 
@@ -34,13 +34,13 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 ## Drivetrain
 
-Mercedes-EQ EQS 450+ has a rear-wheel drive system supported by one motor on the rear axle. 
+Mercedes-EQ EQS SUV 450 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
 
 The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
 
 ### Steering
 
-Dynamic steering is standard on Mercedes-EQ EQS 450+. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is standard on Mercedes-EQ EQS SUV 450 4MATIC. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -63,21 +63,13 @@ The car has four regular doors and a tailgate. The tailgate is electric powered 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/exterior_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
-</a>
-<figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
-
-
 ## Interior
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
 ### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-EQ EQS 450+. 
+There are two seat types you can choose from for the front row in the Mercedes-EQ EQS SUV 450 4MATIC. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -113,11 +105,11 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/frontseats_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_suv_450_4matic/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_suv_450_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQS SUV 450 4MATIC" title="Mercedes-EQ EQS SUV 450 4MATIC">
 </a>
-<figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
-You can choose two seat types for the second row in the Mercedes-EQ EQS 450+. 
+<figcaption><h4>Mercedes-EQ EQS SUV 450 4MATIC</h4></figcaption></figur>
+You can choose two seat types for the second row in the Mercedes-EQ EQS SUV 450 4MATIC. 
 
 ### Second row seats
 
@@ -137,10 +129,10 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_suv_450_4matic/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_suv_450_4matic/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQS SUV 450 4MATIC" title="Mercedes-EQ EQS SUV 450 4MATIC">
 </a>
-<figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
+<figcaption><h4>Mercedes-EQ EQS SUV 450 4MATIC</h4></figcaption></figur>
 
 
 ## Climate system
@@ -149,7 +141,7 @@ You can choose from two different climate systems. The THERMOTRONIC climate syst
 
 ## Comfort
 
-Mercedes-EQ EQS 450+ has several features to make your life as a driver or passenger more comfortable. 
+Mercedes-EQ EQS SUV 450 4MATIC has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -161,11 +153,19 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Two different screen setups are available on the Mercedes-EQ EQS 450+. 
+Two different screen setups are available on the Mercedes-EQ EQS SUV 450 4MATIC. 
 
 The standard layout has the following configuration. The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen in the middle of the center console is 12,8 inches large and has a 1888x1728 pixels resolution. 
 
 The optional MBUX Hyperscreen layout has the following configuration. Behind the steering wheel is a digital instrument cluster. In addition, there is one infotainment screen in the center console  and one in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_suv_450_4matic/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_suv_450_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQS SUV 450 4MATIC" title="Mercedes-EQ EQS SUV 450 4MATIC">
+</a>
+<figcaption><h4>Mercedes-EQ EQS SUV 450 4MATIC</h4></figcaption></figur>
+
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
@@ -175,9 +175,9 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-You can choose from two different sound systems on the Mercedes-EQ EQS 450+. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
+You can choose from two different sound systems on the Mercedes-EQ EQS SUV 450 4MATIC. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQS 450+ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQS SUV 450 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The models is equipped with 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
@@ -185,12 +185,12 @@ The models is equipped with 4 USB-C connections as standard. As an option you ca
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 ## Driver assistance
 
-The Mercedes-EQ EQS 450+ has several standard and optional driver assistance systems for better safety and comfort.
+The Mercedes-EQ EQS SUV 450 4MATIC has several standard and optional driver assistance systems for better safety and comfort.
 ### Safety systems
 
 
 
-The Mercedes-EQ EQS 450+ has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The Mercedes-EQ EQS SUV 450 4MATIC has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
@@ -215,10 +215,3 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100kg. Max weight is 3060kg, and with the base weight of 2540 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/trunk_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
-</a>
-<figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
