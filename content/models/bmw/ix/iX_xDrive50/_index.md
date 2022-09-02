@@ -54,6 +54,8 @@ You can choose between 9 different paint colors when ordering this model.
 
 The car has four regular doors and a tailgate. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
 
+You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
+
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/exterior_1.jpg">
@@ -137,6 +139,19 @@ The BMW iX xDrive50 has several standard and optional driver assistance systems 
 
 
 The BMW iX xDrive50 has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+### Driving Automation
+
+The BMW iX xDrive50 offers driving automation on level 1 or 2, depending on the equipment level.
+
+With the Driving Assistant  level 1 system, you get the following driving automation features. 
+- Cruise control. 
+- Automatic parallel parking. (optional) 
+
+
+With the Driving Assistant Professional  level 2 system, you get additional driving automation features to the ones listed above. 
+- Adaptive Cruise control. 
+- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+
 
 ## Transportation capabilities
 

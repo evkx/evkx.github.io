@@ -20,10 +20,10 @@ weight: 30
 ## Dimensions
 |Spec|Value|
 |----|-----|
-|Length|5216|
-|Height|1512|
-|Width excluding mirrors|1926|
-|Widht including mirrors|2125|
+|Length|5125|
+|Height|1718|
+|Width excluding mirrors|1959|
+|Widht including mirrors|2157|
 |Wheelbase|3210|
 |Track width front|1667|
 |Track width rear|1682|

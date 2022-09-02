@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS SUV 450 4MATIC
 linktitle: EQS SUV 450 4MATIC
-description: Mercedes-EQ EQS SUV 450 4MATIC is an all-electric luxury sedan with a WLTP range of up to 696 km (433 miles). EVKX.net have all the details. 
+description: Mercedes-EQ EQS SUV 450 4MATIC is an all-electric luxury sedan with a WLTP range of up to 660 km (410 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -21,11 +21,11 @@ The Mercedes-EQ EQS SUV 450 4MATIC has a maximum power of 265KW (360hp). The tot
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%).  The WLTP range varies from 696 to 582 km (433-362 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,6kWh/100km for the basic version and 18,6kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%).  The WLTP range varies from 660 to 540 km (410-336 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 16,4kWh/100km for the basic version and 20,1kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 210kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 41 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 7 minutes to drive. This will requires two charge sessions charging from 1% to 53%. The total time lost for charging will be 48 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 9 hours and 12 minutes to drive. This will requires two charge sessions charging from 1% to 58%. The total time lost for charging will be 52 minutes.   
 ### Onboard charger
 
 

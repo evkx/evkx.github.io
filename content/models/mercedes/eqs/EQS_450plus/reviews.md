@@ -4,6 +4,12 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Bjørn Nyland: Mercedes EQS 450+ 1000 km challenge 02.09.2022
+
+{{< youtube Wu-NKWTCCSI >}}
+### Bjørn Nyland: Mercedes EQS 450+ range test 30.08.2022
+
+{{< youtube NaZ-YELrYVc >}}
 ### InsideEVs US: 2022 Mercedes EQS 450+: InsideEVs 70 MPH Range Test 01.05.2022
 
 {{< youtube SAXt5LNtDNg >}}
