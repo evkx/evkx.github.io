@@ -38,7 +38,7 @@ Audi e-tron GT has an all-wheel drive system supported by two motors. One on eac
 
 
 
-You can order Audi e-tron GT with an alternative Adaptive Air Suspension suspension. The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 125 mm and max 165 mm. 
+You can order Audi e-tron GT with an alternative Adaptive Air Suspension suspension. The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 125 mm and max 165 mm. 
 
 ### Steering
 

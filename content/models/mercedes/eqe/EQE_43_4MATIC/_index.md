@@ -44,7 +44,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 Mercedes-AMG EQE 43 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
+The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
 
 ### Steering
 

@@ -1,0 +1,171 @@
+---
+title: BYD Tang EV600
+linktitle: Tang EV600
+description: BYD Tang EV600 is an all-electric SUV with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
+weight: 10
+---
+<!-- markdownlint-disable MD033 -->
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600">
+</a>
+<figcaption><h4>BYD Tang EV600</h4></figcaption></figur>
+
+
+## Performance
+
+The BYD Tang EV600 has a maximum power of 380KW (517hp). The total torque is 680nm. The 0-100km/h sprint (0-62mph) is performed in 4,6 seconds. The top speed is 180 kph. 
+
+## Battery, range, and charging
+
+The battery has a gross capacity of 90kWh and a net capacity of 86,4kWh, meaning you have a 3,6kWh buffer for protection. (4,0%).  The WLTP range is 400 km (249 mi).   The consumption is 21,6kWh/100km for the WLTP standard test. 
+
+The maximum DC charging speed is 110kW. A full charge from 0 - 100% would take 67 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 59% resulting in an actual charge speed including time loss on 93kW. Each charge session would take 31 minutes and 37 seconds. 
+
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 31,7kWh/100km, 1000km will take 10 hours and 50 minutes to drive. This will requires five charge sessions charging from 5% to 59%. The total time lost for charging will be 150 minutes.   
+### Onboard charger
+
+
+
+For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 20 minutes. 
+
+## Drivetrain
+
+BYD Tang EV600 has an all-wheel drive system supported by two motors. One on each axle. 
+
+The  suspension has a fixed height and damping. The ground clearance with this suspension is 190 mm. 
+
+### Steering
+
+Dynamic steering is standard on BYD Tang EV600. Dynamic steering varies the steering ratio as a function of driving speed. 
+
+### Brakes
+
+The rear and front brakes are cast-iron discs. 
+
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+
+## Exterior
+
+You can choose between 5 different paint colors when ordering this model. 
+
+The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
+
+There is only one roof for this model. The standard is a panoramic roof. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exterior_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600">
+</a>
+<figcaption><h4>BYD Tang EV600</h4></figcaption></figur>
+
+
+## Interior
+
+You can choose between different types of seats, seat materials, and interior styling. 
+
+### First row seats
+
+Only one front seat type is available in the BYD Tang EV600. 
+
+The following functionalities are available on the **standard** seat. 
+
+ - electric adjustment 
+ - height adjustable headrest 
+ - heating 
+ - memory driver seat 
+ - memory passenger seat 
+ - electric lumbar support 
+ - adjustable thigh support 
+ - ventilation 
+
+You can choose from 3 different materials/colors for this seat type. <br />
+<br />
+
+
+### Second-row seat
+
+
+
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600">
+</a>
+<figcaption><h4>BYD Tang EV600</h4></figcaption></figur>
+
+
+### Third-row seats
+
+
+
+For the third row there is an two seat bench with 50:50 split. You can fold down the seats when not used to create a larger cargo capacity. 
+
+## Climate system
+
+There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. 
+
+## Comfort
+
+BYD Tang EV600 has several features to make your life as a driver or passenger more comfortable. 
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
+
+The steering wheel is electrically adjustable. 
+
+You have wireless charging for your phone.  
+
+## User interface and control
+
+BYD Tang EV600 has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large. The touch screen in the dashboard's center  is 12,8 inches large. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/screens_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600">
+</a>
+<figcaption><h4>BYD Tang EV600</h4></figcaption></figur>
+
+
+## Infotainment
+
+You can choose from two different sound systems on the BYD Tang EV600. With the Surroundsystem, you get seven amplifier channels and seven speakers with a max system output of  watts. With the Premium sound system, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
+
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
+
+The models is equipped with 4 USB-A connections as standard. 
+## Lights
+
+The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+## Driver assistance
+
+The BYD Tang EV600 has several standard and optional driver assistance systems for better safety and comfort.
+### Safety systems
+
+
+
+The BYD Tang EV600 has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+
+**Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+### Driving Automation
+
+The BYD Tang EV600 offers driving automation on level 1. 
+
+With the   level 1 system, you get the following driving automation features. 
+- Adaptive Cruise control. 
+- Automatic parallel parking. (optional) 
+
+
+## Transportation capabilities
+
+The cargo capacity in the trunk is 192 liters. With the rear seat down, it is 763 liters. On the roof, you can load up to 100kg. Max weight is 3099kg, and with the base weight of 2440 kg, you can max load 659 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 

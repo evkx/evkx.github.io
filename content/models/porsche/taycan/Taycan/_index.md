@@ -50,7 +50,7 @@ Porsche Taycan has a rear-wheel drive system supported by one motor on the rear 
 
 The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 127 mm. 
 
-You can order Porsche Taycan with an alternative Adaptive Air Suspension suspension. The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 103 mm and max 127 mm. 
+You can order Porsche Taycan with an alternative Adaptive Air Suspension suspension. The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 103 mm and max 127 mm. 
 
 ### Steering
 
@@ -143,7 +143,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <figcaption><h4>Porsche Taycan</h4></figcaption></figur>
 
 
-### Second row seats
+### Second-row seats
 
 You can choose two seat types for the second row in the Porsche Taycan. 
 

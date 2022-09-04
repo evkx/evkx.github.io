@@ -36,9 +36,9 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 Audi e-tron 55 has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
+The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
 
-You can order Audi e-tron 55 with an alternative Adaptive Air Suspension Sport suspension. The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
+You can order Audi e-tron 55 with an alternative Adaptive Air Suspension Sport suspension. The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
 
 ### Steering
 

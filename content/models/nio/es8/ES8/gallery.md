@@ -62,6 +62,13 @@ data-pswp-height="1686"
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/nio/es8/es8/headlights_1_st.jpg" alt="Nio ES8" />
 </a>
+<a href="https://media.evkx.net/multimedia/models/nio/es8/es8/interior_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/interior_1.jpg"
+data-pswp-width="800"
+data-pswp-height="600" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/interior_1_st.jpg" alt="Nio ES8" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1.jpg"
 data-pswp-width="2880"

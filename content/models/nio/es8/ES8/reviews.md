@@ -4,9 +4,6 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
-### Bjørn Nyland: Nio ES8, e-tron, Mach-e and Tesla charging comparison 21.10.2022
-
-{{< youtube 5RaNuZLJav8 >}}
 ### Bjørn Nyland: Nio ES8 battery swap at Vestby, Norway 25.08.2022
 
 {{< youtube VmWL1hZQmD0 >}}
@@ -22,6 +19,9 @@ weight: 80
 ### Bjørn Nyland: Nio ES8 driving impressions, software & summary 27.10.2021
 
 {{< youtube jIXp0DCGFPg >}}
+### Bjørn Nyland: Nio ES8, e-tron, Mach-e and Tesla charging comparison 21.10.2021
+
+{{< youtube 5RaNuZLJav8 >}}
 ### Bjørn Nyland: Nio ES8 range test 19.10.2021
 
 {{< youtube 70CSw9SroWs >}}

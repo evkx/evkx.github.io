@@ -44,7 +44,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 Mercedes-EQ EQS 580 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
+The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
 
 ### Steering
 
@@ -119,7 +119,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <figcaption><h4>Mercedes-EQ EQS 580 4MATIC</h4></figcaption></figur>
 
 
-### Second row seats
+### Second-row seats
 
 You can choose two seat types for the second row in the Mercedes-EQ EQS 580 4MATIC. 
 

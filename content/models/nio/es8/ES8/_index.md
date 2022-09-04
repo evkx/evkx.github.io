@@ -21,22 +21,35 @@ The Nio ES8 has a maximum power of 400KW (544hp). The total torque is 725nm. The
 
 ## Battery, range, and charging
 
+Nio ES8 has two battery options with different specifications. Below you see how this affects range and charging. 
+### 100kWh
+
 The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%).  The WLTP range is 460 km (286 mi).   The consumption is 19,6kWh/100km for the WLTP standard test. 
 
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 83 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 72% resulting in an actual charge speed including time loss on 79kW. Each charge session would take 44 minutes and 24 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 11 hours and 1 minutes to drive. This will requires four charge sessions charging from 8% to 67%. The total time lost for charging will be 162 minutes.   
+### 75kWh
+
+The battery has a gross capacity of 75kWh and a net capacity of 69kWh, meaning you have a 6kWh buffer for protection. (8,0%).  The WLTP range is 350 km (218 mi).   The consumption is 19,6kWh/100km for the WLTP standard test. 
+
+The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 63 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74% resulting in an actual charge speed including time loss on 76kW. Each charge session would take 36 minutes and 17 seconds. 
+
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 11 hours and 21 minutes to drive. This will requires five charge sessions charging from 7% to 74%. The total time lost for charging will be 181 minutes.   
 ### Onboard charger
 
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 10 minutes. 
+### Battery swap
+
+This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 90% SOC. The battery swap takes 7 minutes. 
 
 ## Drivetrain
 
 Nio ES8 has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 111 mm and max 161 mm. 
+The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 111 mm and max 161 mm. 
 
 ### Steering
 
@@ -82,6 +95,8 @@ The following functionalities are available on the **standard** seat.
  - memory passenger seat 
  - ventilation 
  - massage 
+ - leg support for passenger 
+ - footrest for passenger 
 
 You can choose from 3 different materials/colors for this seat type. <br />
 <br />
@@ -95,7 +110,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
 
 
-### Second row seats
+### Second-row seats
 
 You can choose two seat types for the second row in the Nio ES8. 
 
@@ -107,6 +122,7 @@ The standard option is a three-seat bench with a 60:40 split where you can fold 
 The standard option is two captain chairs. The following functionalities are available on this option. 
 
  - height adjustable headrest 
+ - heating (optional)
 
 ### Third-row seats
 
@@ -154,7 +170,7 @@ You can choose from two different sound systems on the Nio ES8. With the Surroun
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The models is equipped with 1 USB-C connections as standard. 
+The models is equipped with 3 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
@@ -175,7 +191,7 @@ The Nio ES8 has several standard and optional driver assistance systems for bett
 
 The Nio ES8 has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
-**Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+**Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
 The Nio ES8 offers driving automation on level 1 or 2, depending on the equipment level.
