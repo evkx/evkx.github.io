@@ -117,11 +117,11 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" title="Mercedes-EQ EQS 580 4MATIC">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 580 4MATIC</h4></figcaption></figur>
-You can choose two seat types for the second row in the Mercedes-EQ EQS 580 4MATIC. 
+
 
 ### Second row seats
 
-
+You can choose two seat types for the second row in the Mercedes-EQ EQS 580 4MATIC. 
 
 The standard option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. The following functionalities are available on this option. 
 

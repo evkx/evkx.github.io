@@ -1,7 +1,7 @@
 ---
 title: Nio ES8
 linktitle: ES8
-description: intro.suv.mid
+description: Nio ES8 is an all-electric SUV with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -21,7 +21,7 @@ The Nio ES8 has a maximum power of 400KW (544hp). The total torque is 725nm. The
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%).  The WLTP range varies from 500 to 460 km (311-286 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 18,0kWh/100km for the basic version and 19,6kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%).  The WLTP range is 460 km (286 mi).   The consumption is 19,6kWh/100km for the WLTP standard test. 
 
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 83 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 72% resulting in an actual charge speed including time loss on 79kW. Each charge session would take 44 minutes and 24 seconds. 
 
@@ -30,17 +30,17 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 5 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 10 minutes. 
 
 ## Drivetrain
 
 Nio ES8 has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 170 mm and max 170 mm. 
+The suspension is fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 111 mm and max 161 mm. 
 
 ### Steering
 
-Dynamic steering is standard on Nio ES8. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is standard on Nio ES8. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -80,8 +80,7 @@ The following functionalities are available on the **standard** seat.
  - heating 
  - memory driver seat 
  - memory passenger seat 
- - electric lumbar support (optional)
- - ventilation (optional)
+ - ventilation 
  - massage 
 
 You can choose from 3 different materials/colors for this seat type. <br />
@@ -94,11 +93,11 @@ You can choose from 3 different materials/colors for this seat type. <br />
 <img src="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_1_st.jpg" alt="Nio ES8" title="Nio ES8">
 </a>
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
-You can choose two seat types for the second row in the Nio ES8. 
+
 
 ### Second row seats
 
-
+You can choose two seat types for the second row in the Nio ES8. 
 
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. The following functionalities are available on this option. 
 
@@ -151,7 +150,7 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-One type of sound system is available for the Nio ES8. With the Surroundsystem, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
+You can choose from two different sound systems on the Nio ES8. With the Surroundsystem, you get seven amplifier channels and seven speakers with a max system output of  watts. With the Premium sound system, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
@@ -179,7 +178,7 @@ The Nio ES8 has a **lane-keeping** assistant as a standard system. This system h
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
-driverassistance.drivingautomation.intro.multiplelevels123
+The Nio ES8 offers driving automation on level 1 or 2, depending on the equipment level.
 
 With the NIO Pilot Selected Pack  level 1 system, you get the following driving automation features. 
 - Adaptive Cruise control. 
@@ -189,10 +188,6 @@ With the NIO Pilot Selected Pack  level 1 system, you get the following driving 
 With the NIO Pilot Complete Pack  level 2 system, you get additional driving automation features to the ones listed above. 
 - Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target by itself. 
-
-
-With the DRIVE PILOT  level 3 system, you get additional driving automation features to the ones listed above.
-- Automatic lane change. 
 
 
 ## Transportation capabilities

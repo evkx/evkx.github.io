@@ -141,11 +141,11 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/frontseats_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
 </a>
 <figcaption><h4>Porsche Taycan</h4></figcaption></figur>
-You can choose two seat types for the second row in the Porsche Taycan. 
+
 
 ### Second row seats
 
-
+You can choose two seat types for the second row in the Porsche Taycan. 
 
 The standard option is two integrated seats in the second row. The following functionalities are available on this option. 
 
