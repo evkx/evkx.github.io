@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Bjørn Nyland: BYD Tang Sunday driving 15.08.2022
+
+{{< youtube orlMDDNyRgY >}}
 ### Bjørn Nyland: BYD Tang driving impressions and summary 14.08.2022
 
 {{< youtube jOu146EoX-M >}}

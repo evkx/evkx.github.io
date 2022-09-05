@@ -46,7 +46,7 @@ Dynamic steering is standard on BYD Tang EV600. Dynamic steering varies the stee
 
 The rear and front brakes are cast-iron discs. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available through one-pedal driving combined with blended brakes. Adaptive regen or coasting is not available in this model. 
 
 ## Exterior
 
@@ -55,6 +55,8 @@ You can choose between 5 different paint colors when ordering this model.
 The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
 
 There is only one roof for this model. The standard is a panoramic roof. 
+
+The windows from B-pillar and back are tinted. 
 
 
 <figur>
@@ -76,6 +78,7 @@ The following functionalities are available on the **standard** seat.
 
  - electric adjustment 
  - height adjustable headrest 
+ - length adjustable headrest 
  - heating 
  - memory driver seat 
  - memory passenger seat 
@@ -157,11 +160,16 @@ The BYD Tang EV600 has a **lane-keeping** assistant as a standard system. This s
 **Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
-The BYD Tang EV600 offers driving automation on level 1. 
+The BYD Tang EV600 offers driving automation on level 1 or 2, depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
 - Adaptive Cruise control. 
 - Automatic parallel parking. (optional) 
+
+
+With the Smart Pilot  level 2 system, you get additional driving automation features to the ones listed above. 
+- Cruise control. 
+- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 ## Transportation capabilities
