@@ -14,6 +14,19 @@ weight: 10
 </a>
 <figcaption><h4>Tesla Model Y Long Range</h4></figcaption></figur>
 
+We have separated our description of Tesla Model Y Long Range into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+
+- [Performance](#performance)
+- [Battery, range, and charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Driver assistance](#driver-assistance)
+- [Transportation capabilities](#transportation-capabilities)
+
 
 ## Performance
 
@@ -77,11 +90,11 @@ Only one front seat type is available in the Tesla Model Y Long Range.
 
 The following functionalities are available on the **standard** seat. 
 
- - electric adjustment 
- - height adjustable headrest 
- - heating 
- - memory driver seat 
- - memory passenger seat 
+- electric adjustment 
+- height adjustable headrest 
+- heating 
+- memory driver seat 
+- memory passenger seat 
 
 You can choose from 2 different materials/colors for this seat type. <br />
 <br />
@@ -99,7 +112,8 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+
 
 
 <figur>
@@ -113,7 +127,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-The third row has an optional two-seat bench with a 50:50 split. You can fold down the seats when not used to create a larger cargo capacity. 
+The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
 
 
 <figur>

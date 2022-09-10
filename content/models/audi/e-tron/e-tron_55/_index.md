@@ -14,6 +14,19 @@ weight: 10
 </a>
 <figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
 
+We have separated our description of Audi e-tron 55 into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+
+- [Performance](#performance)
+- [Battery, range, and charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Driver assistance](#driver-assistance)
+- [Transportation capabilities](#transportation-capabilities)
+
 
 ## Performance
 
@@ -36,9 +49,9 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 Audi e-tron 55 has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
 
-You can order Audi e-tron 55 with an alternative Adaptive Air Suspension Sport suspension. The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
+You can order Audi e-tron 55 with an alternative Adaptive Air Suspension Sport suspension. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
 
 ### Steering
 
@@ -85,11 +98,11 @@ There are five seat types you can choose from for the front row in the Audi e-tr
 
 The following functionalities are available on the **standard** seat. 
 
- - electric adjustment (optional)
- - height adjustable headrest 
- - length adjustable headrest (optional)
- - heating (optional)
- - memory driver seat (optional)
+- electric adjustment (optional)
+- height adjustable headrest 
+- length adjustable headrest (optional)
+- heating (optional)
+- memory driver seat (optional)
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />
@@ -97,13 +110,13 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **sport** seat. 
 
- - electric adjustment (optional)
- - height adjustable headrest 
- - length adjustable headrest (optional)
- - heating (optional)
- - memory driver seat (optional)
- - electric lumbar support 
- - adjustable thigh support 
+- electric adjustment (optional)
+- height adjustable headrest 
+- length adjustable headrest (optional)
+- heating (optional)
+- memory driver seat (optional)
+- electric lumbar support 
+- adjustable thigh support 
 
 You can choose from 3 different materials/colors for this seat type. <br />
 <br />
@@ -111,13 +124,13 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **s-line sport** seat. 
 
- - electric adjustment (optional)
- - height adjustable headrest 
- - length adjustable headrest (optional)
- - heating (optional)
- - memory driver seat (optional)
- - electric lumbar support 
- - adjustable thigh support 
+- electric adjustment (optional)
+- height adjustable headrest 
+- length adjustable headrest (optional)
+- heating (optional)
+- memory driver seat (optional)
+- electric lumbar support 
+- adjustable thigh support 
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />
@@ -125,12 +138,12 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **s sport** seat. 
 
- - electric adjustment (optional)
- - heating (optional)
- - memory driver seat (optional)
- - electric lumbar support 
- - adjustable thigh support 
- - integrated headrest 
+- electric adjustment (optional)
+- heating (optional)
+- memory driver seat (optional)
+- electric lumbar support 
+- adjustable thigh support 
+- integrated headrest 
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />
@@ -138,18 +151,18 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **multicontour** seat. 
 
- - electric adjustment 
- - height adjustable headrest 
- - length adjustable headrest 
- - heating 
- - memory driver seat 
- - memory passenger seat 
- - electric lumbar support 
- - adjustable side support back 
- - adjustable side support bottom 
- - adjustable side support bottom 
- - ventilation (optional)
- - massage (optional)
+- electric adjustment 
+- height adjustable headrest 
+- length adjustable headrest 
+- heating 
+- memory driver seat 
+- memory passenger seat 
+- electric lumbar support 
+- adjustable side support back 
+- adjustable side support bottom 
+- adjustable side support bottom 
+- ventilation (optional)
+- massage (optional)
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />
@@ -167,7 +180,8 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+
 
 ## Climate system
 

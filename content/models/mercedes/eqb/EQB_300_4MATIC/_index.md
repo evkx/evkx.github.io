@@ -14,6 +14,19 @@ weight: 10
 </a>
 <figcaption><h4>Mercedes-EQ EQB 300 4MATIC</h4></figcaption></figur>
 
+We have separated our description of Mercedes-EQ EQB 300 4MATIC into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+
+- [Performance](#performance)
+- [Battery, range, and charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Driver assistance](#driver-assistance)
+- [Transportation capabilities](#transportation-capabilities)
+
 
 ## Performance
 
@@ -77,14 +90,14 @@ There are two seat types you can choose from for the front row in the Mercedes-E
 
 The following functionalities are available on the **standard** seat. 
 
- - electric adjustment (optional)
- - height adjustable headrest 
- - length adjustable headrest (optional)
- - heating (optional)
- - memory driver seat (optional)
- - memory passenger seat (optional)
- - electric lumbar support (optional)
- - ventilation (optional)
+- electric adjustment (optional)
+- height adjustable headrest 
+- length adjustable headrest (optional)
+- heating (optional)
+- memory driver seat (optional)
+- memory passenger seat (optional)
+- electric lumbar support (optional)
+- ventilation (optional)
 
 You can choose from 6 different materials/colors for this seat type. <br />
 <br />
@@ -92,17 +105,17 @@ You can choose from 6 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **multicontour** seat. 
 
- - electric adjustment 
- - height adjustable headrest 
- - length adjustable headrest 
- - heating 
- - memory driver seat 
- - memory passenger seat 
- - electric lumbar support 
- - adjustable side support back 
- - adjustable side support bottom 
- - ventilation (optional)
- - massage 
+- electric adjustment 
+- height adjustable headrest 
+- length adjustable headrest 
+- heating 
+- memory driver seat 
+- memory passenger seat 
+- electric lumbar support 
+- adjustable side support back 
+- adjustable side support bottom 
+- ventilation (optional)
+- massage 
 
 You can choose from 5 different materials/colors for this seat type. <br />
 <br />
@@ -120,13 +133,15 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+
+- height adjustable headrest 
 
 ### Third-row seats
 
 
 
-The third row has an optional two-seat bench with a 50:50 split. You can fold down the seats when not used to create a larger cargo capacity. 
+The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
 
 ## Climate system
 

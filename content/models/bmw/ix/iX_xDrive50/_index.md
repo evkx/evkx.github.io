@@ -14,6 +14,19 @@ weight: 10
 </a>
 <figcaption><h4>BMW iX xDrive50</h4></figcaption></figur>
 
+We have separated our description of BMW iX xDrive50 into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+
+- [Performance](#performance)
+- [Battery, range, and charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Driver assistance](#driver-assistance)
+- [Transportation capabilities](#transportation-capabilities)
+
 
 ## Performance
 
@@ -36,7 +49,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 BMW iX xDrive50 has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 193 mm and max 223 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 193 mm and max 223 mm. 
 
 ### Steering
 
@@ -74,14 +87,14 @@ Only one front seat type is available in the BMW iX xDrive50.
 
 The following functionalities are available on the **standard** seat. 
 
- - electric adjustment 
- - heating 
- - memory driver seat (optional)
- - memory passenger seat (optional)
- - adjustable side support back (optional)
- - integrated headrest 
- - ventilation (optional)
- - massage (optional)
+- electric adjustment 
+- heating 
+- memory driver seat (optional)
+- memory passenger seat (optional)
+- adjustable side support back (optional)
+- integrated headrest 
+- ventilation (optional)
+- massage (optional)
 
 You can choose from 7 different materials/colors for this seat type. <br />
 <br />

@@ -14,6 +14,19 @@ weight: 10
 </a>
 <figcaption><h4>Porsche Taycan</h4></figcaption></figur>
 
+We have separated our description of Porsche Taycan into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+
+- [Performance](#performance)
+- [Battery, range, and charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Driver assistance](#driver-assistance)
+- [Transportation capabilities](#transportation-capabilities)
+
 
 ## Performance
 
@@ -50,7 +63,7 @@ Porsche Taycan has a rear-wheel drive system supported by one motor on the rear 
 
 The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 127 mm. 
 
-You can order Porsche Taycan with an alternative Adaptive Air Suspension suspension. The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 103 mm and max 127 mm. 
+You can order Porsche Taycan with an alternative Adaptive Air Suspension suspension. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 103 mm and max 127 mm. 
 
 ### Steering
 
@@ -95,11 +108,11 @@ There are three seat types you can choose from for the front row in the Porsche 
 
 The following functionalities are available on the **Comfort** seat. 
 
- - electric adjustment 
- - heating (optional)
- - memory driver seat (optional)
- - electric lumbar support 
- - integrated headrest 
+- electric adjustment 
+- heating (optional)
+- memory driver seat (optional)
+- electric lumbar support 
+- integrated headrest 
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />
@@ -107,11 +120,11 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **Comfortseats with memory** seat. 
 
- - electric adjustment 
- - heating 
- - memory driver seat (optional)
- - electric lumbar support 
- - adjustable thigh support 
+- electric adjustment 
+- heating 
+- memory driver seat (optional)
+- electric lumbar support 
+- adjustable thigh support 
 
 You can choose from 2 different materials/colors for this seat type. <br />
 <br />
@@ -119,17 +132,17 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **Sportsseats Plus** seat. 
 
- - electric adjustment 
- - heating 
- - memory driver seat 
- - memory passenger seat 
- - electric lumbar support 
- - adjustable side support back 
- - adjustable side support bottom 
- - adjustable thigh support 
- - integrated headrest 
- - ventilation 
- - massage (optional)
+- electric adjustment 
+- heating 
+- memory driver seat 
+- memory passenger seat 
+- electric lumbar support 
+- adjustable side support back 
+- adjustable side support bottom 
+- adjustable thigh support 
+- integrated headrest 
+- ventilation 
+- massage (optional)
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />
@@ -147,15 +160,15 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 You can choose two seat types for the second row in the Porsche Taycan. 
 
-The standard option is two integrated seats in the second row. The following functionalities are available on this option. 
+The standard option is two integrated seats in the second row. In addition, the following functionalities are available. 
 
- - heating (optional)
- - integrated headrest 
+- heating (optional)
+- integrated headrest 
 
-The second option is two integrated seats in the second row with a third smaller seat in between. The following functionalities are available on this option. 
+The second option is two integrated seats in the second row with a third smaller seat in between. In addition, the following functionalities are available. 
 
- - heating (optional)
- - integrated headrest 
+- heating (optional)
+- integrated headrest 
 
 ## Comfort
 

@@ -14,6 +14,19 @@ weight: 10
 </a>
 <figcaption><h4>Hongqi E-HS9 Exclusive</h4></figcaption></figur>
 
+We have separated our description of Hongqi E-HS9 Exclusive into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+
+- [Performance](#performance)
+- [Battery, range, and charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Driver assistance](#driver-assistance)
+- [Transportation capabilities](#transportation-capabilities)
+
 
 ## Performance
 
@@ -36,7 +49,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Hongqi E-HS9 Exclusive has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 260 mm and max 200 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 200 mm and max 260 mm. 
 
 ### Steering
 
@@ -74,14 +87,14 @@ Only one front seat type is available in the Hongqi E-HS9 Exclusive.
 
 The following functionalities are available on the **standard** seat. 
 
- - electric adjustment 
- - height adjustable headrest 
- - heating 
- - memory driver seat 
- - memory passenger seat 
- - electric lumbar support 
- - ventilation 
- - massage 
+- electric adjustment 
+- height adjustable headrest 
+- heating 
+- memory driver seat 
+- memory passenger seat 
+- electric lumbar support 
+- ventilation 
+- massage 
 
 You can choose from 3 different materials/colors for this seat type. <br />
 <br />
@@ -91,15 +104,22 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 
 
+For the second row, this model has two captain chairs. In addition, the following functionalities are available. 
+
+- electric adjustment 
+- height adjustable headrest 
+- heating 
+- ventilation 
+
 ### Third-row seats
 
 
 
-For the third row there is an two seat bench with 50:50 split. You can fold down the seats when not used to create a larger cargo capacity. 
+The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
 
 ## Climate system
 
-There is one climate system available. The 6-zone climate system supports different temperatures in six zones. The driver, passenger, and two zones both in the 2. and 3. row. 
+There is one climate system available. The 6-zone climate system supports different temperatures in six zones: The driver, passenger, and two zones, both in the 2. and 3. row.
 
 ## Comfort
 

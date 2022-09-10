@@ -14,6 +14,19 @@ weight: 10
 </a>
 <figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
 
+We have separated our description of Audi Q4 50 e-tron into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+
+- [Performance](#performance)
+- [Battery, range, and charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Driver assistance](#driver-assistance)
+- [Transportation capabilities](#transportation-capabilities)
+
 
 ## Performance
 
@@ -93,10 +106,10 @@ There are two seat types you can choose from for the front row in the Audi Q4 50
 
 The following functionalities are available on the **standard** seat. 
 
- - electric adjustment (optional)
- - height adjustable headrest 
- - heating (optional)
- - memory driver seat (optional)
+- electric adjustment (optional)
+- height adjustable headrest 
+- heating (optional)
+- memory driver seat (optional)
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />
@@ -104,12 +117,12 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **sport** seat. 
 
- - electric adjustment (optional)
- - heating (optional)
- - memory driver seat (optional)
- - electric lumbar support 
- - adjustable thigh support 
- - integrated headrest 
+- electric adjustment (optional)
+- heating (optional)
+- memory driver seat (optional)
+- electric lumbar support 
+- adjustable thigh support 
+- integrated headrest 
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />
@@ -127,7 +140,8 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+
 
 ## Climate system
 

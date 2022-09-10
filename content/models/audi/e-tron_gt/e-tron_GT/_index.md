@@ -14,6 +14,19 @@ weight: 10
 </a>
 <figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
 
+We have separated our description of Audi e-tron GT into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+
+- [Performance](#performance)
+- [Battery, range, and charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Driver assistance](#driver-assistance)
+- [Transportation capabilities](#transportation-capabilities)
+
 
 ## Performance
 
@@ -38,7 +51,7 @@ Audi e-tron GT has an all-wheel drive system supported by two motors. One on eac
 
 
 
-You can order Audi e-tron GT with an alternative Adaptive Air Suspension suspension. The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 125 mm and max 165 mm. 
+You can order Audi e-tron GT with an alternative Adaptive Air Suspension suspension. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 125 mm and max 165 mm. 
 
 ### Steering
 
@@ -73,11 +86,11 @@ There are three seat types you can choose from for the front row in the Audi e-t
 
 The following functionalities are available on the **sport** seat. 
 
- - electric adjustment 
- - heating (optional)
- - memory driver seat (optional)
- - electric lumbar support 
- - integrated headrest 
+- electric adjustment 
+- heating (optional)
+- memory driver seat (optional)
+- electric lumbar support 
+- integrated headrest 
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />
@@ -85,11 +98,11 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **sport plus** seat. 
 
- - electric adjustment 
- - heating 
- - memory driver seat (optional)
- - electric lumbar support 
- - adjustable thigh support 
+- electric adjustment 
+- heating 
+- memory driver seat (optional)
+- electric lumbar support 
+- adjustable thigh support 
 
 You can choose from 2 different materials/colors for this seat type. <br />
 <br />
@@ -97,17 +110,17 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **sport pro** seat. 
 
- - electric adjustment 
- - heating 
- - memory driver seat 
- - memory passenger seat 
- - electric lumbar support 
- - adjustable side support back 
- - adjustable side support bottom 
- - adjustable thigh support 
- - integrated headrest 
- - ventilation 
- - massage (optional)
+- electric adjustment 
+- heating 
+- memory driver seat 
+- memory passenger seat 
+- electric lumbar support 
+- adjustable side support back 
+- adjustable side support bottom 
+- adjustable thigh support 
+- integrated headrest 
+- ventilation 
+- massage (optional)
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />

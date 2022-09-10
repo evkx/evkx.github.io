@@ -14,6 +14,19 @@ weight: 10
 </a>
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
 
+We have separated our description of Nio ES8 into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+
+- [Performance](#performance)
+- [Battery, range, and charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Driver assistance](#driver-assistance)
+- [Transportation capabilities](#transportation-capabilities)
+
 
 ## Performance
 
@@ -49,7 +62,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio ES8 has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 111 mm and max 161 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 111 mm and max 161 mm. 
 
 ### Steering
 
@@ -88,15 +101,15 @@ Only one front seat type is available in the Nio ES8.
 
 The following functionalities are available on the **standard** seat. 
 
- - electric adjustment 
- - height adjustable headrest 
- - heating 
- - memory driver seat 
- - memory passenger seat 
- - ventilation 
- - massage 
- - leg support for passenger 
- - footrest for passenger 
+- electric adjustment 
+- height adjustable headrest 
+- heating 
+- memory driver seat 
+- memory passenger seat 
+- ventilation 
+- massage 
+- leg support for passenger 
+- footrest for passenger 
 
 You can choose from 3 different materials/colors for this seat type. <br />
 <br />
@@ -114,21 +127,21 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 You can choose two seat types for the second row in the Nio ES8. 
 
-The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. The following functionalities are available on this option. 
+The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
- - electric adjustment 
- - heating (optional)
+- electric adjustment 
+- heating (optional)
 
-The standard option is two captain chairs. The following functionalities are available on this option. 
+The standard option is two captain chairs. In addition, the following functionalities are available. 
 
- - height adjustable headrest 
- - heating (optional)
+- height adjustable headrest 
+- heating (optional)
 
 ### Third-row seats
 
 
 
-For the third row there is an two seat bench with 50:50 split. You can fold down the seats when not used to create a larger cargo capacity. 
+The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
 
 ## Climate system
 

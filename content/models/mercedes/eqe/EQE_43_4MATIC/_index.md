@@ -14,6 +14,19 @@ weight: 10
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
 
+We have separated our description of Mercedes-AMG EQE 43 4MATIC into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+
+- [Performance](#performance)
+- [Battery, range, and charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Driver assistance](#driver-assistance)
+- [Transportation capabilities](#transportation-capabilities)
+
 
 ## Performance
 
@@ -44,7 +57,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 Mercedes-AMG EQE 43 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is a fully adaptive suspension both on the front and rear axle. Height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
 
 ### Steering
 
@@ -89,13 +102,13 @@ There are two seat types you can choose from for the front row in the Mercedes-A
 
 The following functionalities are available on the **standard** seat. 
 
- - electric adjustment 
- - height adjustable headrest 
- - heating 
- - memory driver seat 
- - memory passenger seat 
- - electric lumbar support (optional)
- - ventilation (optional)
+- electric adjustment 
+- height adjustable headrest 
+- heating 
+- memory driver seat 
+- memory passenger seat 
+- electric lumbar support (optional)
+- ventilation (optional)
 
 You can choose from 6 different materials/colors for this seat type. <br />
 <br />
@@ -103,17 +116,17 @@ You can choose from 6 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **multicontour** seat. 
 
- - electric adjustment 
- - height adjustable headrest 
- - length adjustable headrest 
- - heating 
- - memory driver seat 
- - memory passenger seat 
- - electric lumbar support 
- - adjustable side support back 
- - adjustable side support bottom 
- - ventilation (optional)
- - massage 
+- electric adjustment 
+- height adjustable headrest 
+- length adjustable headrest 
+- heating 
+- memory driver seat 
+- memory passenger seat 
+- electric lumbar support 
+- adjustable side support back 
+- adjustable side support bottom 
+- ventilation (optional)
+- massage 
 
 You can choose from 5 different materials/colors for this seat type. <br />
 <br />
@@ -131,7 +144,14 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+
+- height adjustable headrest 
+- heating (optional)
+
+You can choose from 6 different materials/colors for this seat type. <br />
+<br />
+
 
 ## Climate system
 
