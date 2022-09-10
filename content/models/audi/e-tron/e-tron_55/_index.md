@@ -61,7 +61,7 @@ Dynamic steering is standard on Audi e-tron 55. Dynamic steering varies the stee
 
 The rear and front brakes are cast-iron discs. The front discs are 375mm, and the rear discs are 350mm. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 

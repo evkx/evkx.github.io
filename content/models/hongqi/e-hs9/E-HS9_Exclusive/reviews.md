@@ -10,6 +10,18 @@ weight: 80
 ### Bjørn Nyland: Hongqi E-HS9, BYD Tang, Nio ES8 & Audi e-tron charging battle 09.09.2022
 
 {{< youtube 6EI0aLbQe_g >}}
+### Bjørn Nyland: Hongqi E-HS9 range test 08.09.2022
+
+{{< youtube czqnvPf1vic >}}
+### Bjørn Nyland: Hongqi E-HS9 headlights test 07.09.2022
+
+{{< youtube h3QucSxCJjE >}}
+### Bjørn Nyland: Hongqi E-HS9 banana box test 06.09.2022
+
+{{< youtube BGOjQGlPd8M >}}
+### Nybiltester: Hongqi E-HS9 på helgetest 15.07.2022
+
+{{< youtube CiZQJrld1uk >}}
 ### Nybiltester: Hongqi E-HS9 (English) weekend test 09.07.2022
 
 {{< youtube aHdbE9lXgME >}}

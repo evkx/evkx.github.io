@@ -69,7 +69,7 @@ Dynamic steering is standard on Mercedes-AMG EQS 53 4MATIC+. Dynamic steering va
 
 You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The front discs are 415mm, and the rear discs are 378mm. The second option brakes uses ceramic discs. The front discs are 440mm, and the rear discs are 378mm. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 

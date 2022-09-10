@@ -59,7 +59,7 @@ Dynamic steering is standard on Hongqi E-HS9 Exclusive. Dynamic steering varies 
 
 The rear and front brakes are cast-iron discs. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -79,7 +79,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. 
+You can choose between different types of seats, seat materials, and interior styling. The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row. 
 
 ### First row seats
 
@@ -135,7 +135,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Hongqi E-HS9 Exclusive has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, in center of dashboard there is a infotainment screen, in center consol there is a screen for climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16,2 inches large. The touch screen in the dashboard's center  is 16,2 inches large. The touch screen in front of the passenger in the dashboard is 16,2 inches large. The touch screen in the middle of the center console is 10,2 inches large. 
+Hongqi E-HS9 Exclusive has multiple integrated screens. Behind the steering wheel is a digital instrument cluster. In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16,2 inches large. The touch screen in the dashboard's center  is 16,2 inches large. The touch screen in front of the passenger in the dashboard is 16,2 inches large. The touch screen in the middle of the center console is 10,2 inches large. 
 
 
 <figur>
@@ -151,7 +151,7 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-One type of sound system is available for the Hongqi E-HS9 Exclusive. With the soundsystem, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
+One type of sound system is available for the Hongqi E-HS9 Exclusive. With the Hongqi sound system, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
@@ -179,11 +179,10 @@ The Hongqi E-HS9 Exclusive has a **lane-keeping** assistant as a standard system
 **Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
+The Hongqi E-HS9 Exclusive offers driving automation on level 1. 
 
-
-With the   level 2 system, you get the following driving automation features. 
+With the   level 1 system, you get the following driving automation features. 
 - Adaptive Cruise control. 
-- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 - Automatic parallel parking.  
 
 

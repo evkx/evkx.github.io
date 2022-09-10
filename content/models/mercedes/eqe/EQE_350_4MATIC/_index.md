@@ -67,7 +67,7 @@ Dynamic steering is standard on Mercedes-EQ EQE 350 4MATIC. Dynamic steering var
 
 You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The second option brakes uses ceramic discs. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
