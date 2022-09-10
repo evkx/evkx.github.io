@@ -141,7 +141,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Tesla Model 3 Long Range has a single screen. The dashboard’s center has a single screen for car information and infotainment. The  screen in the dashboard's center  is 15 inches large and has a 2200 x 1300 pixels resolution. 
+Tesla Model 3 Long Range has a single screen. The dashboard’s center has a single screen for car information and infotainment. The  screen on the dashboard's center  is 15 inches large and has a 2200 x 1300 pixels resolution. 
 
 
 <figur>

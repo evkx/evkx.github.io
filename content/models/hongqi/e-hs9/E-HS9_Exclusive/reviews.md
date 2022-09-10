@@ -1,0 +1,24 @@
+---
+title: Hongqi E-HS9 reviews
+linktitle: Reviews
+description: See below for reviews
+weight: 80
+---
+### Bjørn Nyland: Hongqi E-HS9 1000 km challenge 10.09.2022
+
+{{< youtube 6EI0aLbQe_g >}}
+### Bjørn Nyland: Hongqi E-HS9, BYD Tang, Nio ES8 & Audi e-tron charging battle 09.09.2022
+
+{{< youtube 6EI0aLbQe_g >}}
+### Nybiltester: Hongqi E-HS9 (English) weekend test 09.07.2022
+
+{{< youtube aHdbE9lXgME >}}
+### Norsk elbilforening: Presidentbil for folket. 02.11.2021
+
+{{< youtube EeRzKpHlGaM >}}
+### Finansavisen: Testet i Norge: Elbilen Hongqi E-HS9 – gigantisk 7-seters luksus fra kina 18.10.2021
+
+{{< youtube rd7TU8LEp-U >}}
+### Kris Rifa: Hongqi E-HS9 Test Drive | Large 7-Seat Electric SUV | The Asians Are Coming! 16.10.2021
+
+{{< youtube pKqv9KY4pSU >}}

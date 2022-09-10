@@ -128,7 +128,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-BYD Tang EV600 has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large. The touch screen in the dashboard's center  is 12,8 inches large. 
+BYD Tang EV600 has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large. The touch screen on the dashboard's center  is 12,8 inches large. 
 
 
 <figur>
