@@ -11,19 +11,19 @@ weight: 30
 |Peak electrical output in kW|265|
 |Electrical torque output in Nm|800|
 |Top speed|210|
-|0-100kph (0-62 mph)|5,6|
+|0-100kph (0-62 mph)|6|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|660|
-|Basic trim WLTP consumption|16,4|
-|Basic trim WLTP consumption with charging loss|18,2|
-|Top trim WLTP range|540|
-|Top trim WLTP consumption|20,1|
-|Top trim WLTP consumption with charging loss|22,9|
+|Basic trim WLTP range|611|
+|Basic trim WLTP consumption|17,7|
+|Basic trim WLTP consumption with charging loss|20,2|
+|Top trim WLTP range|511|
+|Top trim WLTP consumption|21,2|
+|Top trim WLTP consumption with charging loss|24,3|
 
 
 
@@ -32,7 +32,7 @@ weight: 30
 |----|-----|
 |Battery gross|120|
 |Battery net|108,4|
-|Max DC charging|210|
+|Max DC charging|200|
 
 
 
@@ -44,10 +44,10 @@ weight: 30
 |Width excluding mirrors|1959|
 |Widht including mirrors|2157|
 |Wheelbase|3210|
-|Track width front|1667|
-|Track width rear|1682|
-|Drag coefficient|0,23|
-|Turning circle|11,9|
+|Track width front|1168|
+|Track width rear|1681|
+|Drag coefficient|0,288|
+|Turning circle|11|
 
 ## Driver Assistance
 |Spec|Value|

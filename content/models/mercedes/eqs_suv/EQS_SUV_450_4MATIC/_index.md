@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS SUV 450 4MATIC
 linktitle: EQS SUV 450 4MATIC
-description: Mercedes-EQ EQS SUV 450 4MATIC is an all-electric luxury sedan with a WLTP range of up to 660 km (410 miles). EVKX.net have all the details. 
+description: Mercedes-EQ EQS SUV 450 4MATIC is an all-electric luxury sedan with a WLTP range of up to 611 km (380 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -30,20 +30,20 @@ We have separated our description of Mercedes-EQ EQS SUV 450 4MATIC into section
 
 ## Performance
 
-The Mercedes-EQ EQS SUV 450 4MATIC has a maximum power of 265KW (360hp). The total torque is 800nm. The 0-100km/h sprint (0-62mph) is performed in 5,6 seconds. The top speed is 210 kph. 
+The Mercedes-EQ EQS SUV 450 4MATIC has a maximum power of 265KW (360hp). The total torque is 800nm. The 0-100km/h sprint (0-62mph) is performed in 6 seconds. The top speed is 210 kph. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%).  The WLTP range varies from 660 to 540 km (410-336 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 16,4kWh/100km for the basic version and 20,1kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%).  The WLTP range varies from 611 to 511 km (380-318 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 17,7kWh/100km for the basic version and 21,2kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 210kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 41 seconds. 
+The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 41 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 9 hours and 12 minutes to drive. This will requires two charge sessions charging from 1% to 58%. The total time lost for charging will be 52 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 9 hours and 25 minutes to drive. This will requires three charge sessions charging from 1% to 48%. The total time lost for charging will be 65 minutes.   
 ### Onboard charger
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 55 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 51 minutes. 
 
 ## Drivetrain
 
@@ -63,14 +63,14 @@ Regenerative braking is available in several modes. The most efficient is automa
 
 ## Exterior
 
-You can choose between 11 different paint colors when ordering this model. 
+You can choose between 9 different paint colors when ordering this model. 
 
 You can also choose several styling options to make your car more unique. 
 exterior.styling.night
 
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
-Additionally, you can choose between 9 wheels with sizes from 19 to 22 inches. 
+Additionally, you can choose between 4 wheels with sizes from 21 to 22 inches. 
 
 The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
 
@@ -78,7 +78,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
+You can choose between different types of seats, seat materials, and interior styling. In addition, the model offers a traditional five-seat layout or an optional seven-seat layout. 
 
 ### First row seats
 
@@ -124,26 +124,33 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <figcaption><h4>Mercedes-EQ EQS SUV 450 4MATIC</h4></figcaption></figur>
 
 
-### Second-row seats
+### Second-row seat
 
-You can choose two seat types for the second row in the Mercedes-EQ EQS SUV 450 4MATIC. 
 
-The standard option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
-- height adjustable headrest 
-- heating (optional)
-
-The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - height adjustable headrest 
 - heating (optional)
-- adjustable side support back 
-- ventilation 
 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_suv_450_4matic/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_suv_450_4matic/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQS SUV 450 4MATIC" title="Mercedes-EQ EQS SUV 450 4MATIC">
+</a>
+<figcaption><h4>Mercedes-EQ EQS SUV 450 4MATIC</h4></figcaption></figur>
+
+
+### Third-row seats
+
+
+
+The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_suv_450_4matic/thirdrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_suv_450_4matic/thirdrowseats_1_st.jpg" alt="Mercedes-EQ EQS SUV 450 4MATIC" title="Mercedes-EQ EQS SUV 450 4MATIC">
 </a>
 <figcaption><h4>Mercedes-EQ EQS SUV 450 4MATIC</h4></figcaption></figur>
 
@@ -225,6 +232,6 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100kg. Max weight is 3060kg, and with the base weight of 2540 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 645 liters. With the rear seat down, it is 2100 liters. On the roof, you can load up to 100kg. Max weight is 3375kg, and with the base weight of 2730 kg, you can max load 645 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, 750kg. 
