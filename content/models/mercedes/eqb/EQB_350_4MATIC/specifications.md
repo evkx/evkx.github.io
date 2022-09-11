@@ -1,5 +1,5 @@
 ---
-title: Mercedes EQB specifications
+title: Mercedes-EQ EQB 350 4MATIC specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,14 +8,33 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
+|Peak electrical output in kW|215|
+|Electrical torque output in Nm|520|
+|Top speed|160|
+|0-100kph (0-62 mph)|6,2|
+
+
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
+|Basic trim WLTP range|423|
+|Basic trim WLTP consumption|15,7|
+|Basic trim WLTP consumption with charging loss|18,1|
+|Top trim WLTP range|388|
+|Top trim WLTP consumption|17,1|
+|Top trim WLTP consumption with charging loss|19,7|
+
+
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
+|Battery gross|69,7|
+|Battery net|66,5|
+|Max DC charging|112|
+
+
 
 ## Dimensions
 |Spec|Value|

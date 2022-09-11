@@ -1,5 +1,5 @@
 ---
-title: Mercedes EQE specifications
+title: Mercedes-AMG EQE 53 4MATIC+ specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,14 +8,41 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
+|Peak electrical output in kW|460|
+|Electrical torque output in Nm|950|
+|Top speed|220|
+|0-100kph (0-62 mph)|3,5|
+
+
+|Spec|Value|
+|----|-----|
+|Peak electrical output in kW|505|
+|Electrical torque output in Nm|100|
+|Top speed|240|
+|0-100kph (0-62 mph)|3,3|
+
+
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
+|Basic trim WLTP range|526|
+|Basic trim WLTP consumption|17,2|
+|Basic trim WLTP consumption with charging loss|20,2|
+|Top trim WLTP range|459|
+|Top trim WLTP consumption|19,7|
+|Top trim WLTP consumption with charging loss|22,6|
+
+
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
+|Battery gross|96,12|
+|Battery net|90,56|
+|Max DC charging|170|
+
+
 
 ## Dimensions
 |Spec|Value|

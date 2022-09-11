@@ -8,14 +8,44 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
+|Peak electrical output in kW|400|
+|Electrical torque output in Nm|725|
+|Top speed|200|
+|0-100kph (0-62 mph)|4,9|
+
+
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
+|WLTP range|460|
+|WLTP consumption|19,6|
+|WLTP consumption with charging loss|23|
+
+
+|Spec|Value|
+|----|-----|
+|WLTP range|350|
+|WLTP consumption|19,6|
+|WLTP consumption with charging loss|23|
+
+
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
+|Battery gross|100|
+|Battery net|90|
+|Max DC charging|120|
+
+
+|Spec|Value|
+|----|-----|
+|Battery gross|75|
+|Battery net|69|
+|Max DC charging|120|
+
+
 
 ## Dimensions
 |Spec|Value|
@@ -71,11 +101,9 @@ weight: 30
 |----|-----|
 |Number of speakers|7|
 |Channels|7|
-|Total effect||
 
 ### Premium sound system
 |Spec|Value|
 |----|-----|
 |Number of speakers|12|
 |Channels|7|
-|Total effect||

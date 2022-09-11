@@ -1,5 +1,5 @@
 ---
-title: Mercedes EQC specifications
+title: Mercedes-EQ EQC 400 4MATIC specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,14 +8,35 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
+|Peak electrical output in kW|300|
+|Electrical torque output in Nm|760|
+|Top speed|180|
+|0-100kph (0-62 mph)|5,1|
+
+
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
+|Basic trim WLTP range|432|
+|Basic trim WLTP consumption|18,5|
+|Basic trim WLTP consumption with charging loss|21,6|
+|Top trim WLTP range|400|
+|Top trim WLTP consumption|20,0|
+|Top trim WLTP consumption with charging loss|23,4|
+
+
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
+|Battery gross|86|
+|Battery net|80|
+|Max DC charging|112|
+|Number of modules|6|
+|Cell architecture|96s4p|
+
+
 
 ## Dimensions
 |Spec|Value|

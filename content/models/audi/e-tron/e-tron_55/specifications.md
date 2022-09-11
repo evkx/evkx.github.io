@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron specifications
+title: Audi e-tron 55 specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,14 +8,38 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
+|Peak electrical output in kW|265|
+|Peak electrical output boost in kW|300|
+|Electrical torque output in Nm|561|
+|Electrical torque output boost in Nm|664|
+|Top speed|200|
+|0-100kph (0-62 mph)|6,6|
+|0-100kph (0-62 mph) boost|5,7|
+
+
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
+|Basic trim WLTP range|441|
+|Basic trim WLTP consumption|19,6|
+|Basic trim WLTP consumption with charging loss|22,2|
+|Top trim WLTP range|369|
+|Top trim WLTP consumption|23,4|
+|Top trim WLTP consumption with charging loss|26,1|
+
+
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
+|Battery gross|95|
+|Battery net|86,5|
+|Max DC charging|150|
+|Number of modules|36|
+|Cell architecture|108s4p|
+
+
 
 ## Dimensions
 |Spec|Value|

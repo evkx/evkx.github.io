@@ -1,5 +1,5 @@
 ---
-title: Tesla Model Y specifications
+title: Tesla Model Y Long Range specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,14 +8,33 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
+|Peak electrical output in kW|324|
+|Electrical torque output in Nm|493|
+|Top speed|217|
+|0-100kph (0-62 mph)|5|
+
+
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
+|Basic trim WLTP range|542|
+|Basic trim WLTP consumption|13,8|
+|Basic trim WLTP consumption with charging loss|16,9|
+|Top trim WLTP range|533|
+|Top trim WLTP consumption|14,1|
+|Top trim WLTP consumption with charging loss|17,1|
+
+
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
+|Battery gross|82|
+|Battery net|75|
+|Max DC charging|250|
+
+
 
 ## Dimensions
 |Spec|Value|

@@ -1,5 +1,5 @@
 ---
-title: Mercedes EQS SUV specifications
+title: Mercedes-EQ EQS SUV 450 4MATIC specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,14 +8,33 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
+|Peak electrical output in kW|265|
+|Electrical torque output in Nm|800|
+|Top speed|210|
+|0-100kph (0-62 mph)|5,6|
+
+
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
+|Basic trim WLTP range|660|
+|Basic trim WLTP consumption|16,4|
+|Basic trim WLTP consumption with charging loss|18,2|
+|Top trim WLTP range|540|
+|Top trim WLTP consumption|20,1|
+|Top trim WLTP consumption with charging loss|22,9|
+
+
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
+|Battery gross|120|
+|Battery net|108,4|
+|Max DC charging|210|
+
+
 
 ## Dimensions
 |Spec|Value|

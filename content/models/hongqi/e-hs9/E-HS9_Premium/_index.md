@@ -1,7 +1,7 @@
 ---
-title: Hongqi E-HS9 Exclusive
-linktitle: E-HS9 Exclusive
-description: Hongqi E-HS9 Exclusive is an all-electric SUV with a WLTP range of up to 465 km (289 miles). EVKX.net have all the details. 
+title: Hongqi E-HS9 Premium
+linktitle: E-HS9 Premium
+description: Hongqi E-HS9 Premium is an all-electric SUV with a WLTP range of up to 465 km (289 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,12 +9,12 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/main_1_st.jpg" alt="Hongqi E-HS9 Exclusive" title="Hongqi E-HS9 Exclusive">
+<a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg" alt="Hongqi E-HS9 Premium" title="Hongqi E-HS9 Premium">
 </a>
-<figcaption><h4>Hongqi E-HS9 Exclusive</h4></figcaption></figur>
+<figcaption><h4>Hongqi E-HS9 Premium</h4></figcaption></figur>
 
-We have separated our description of Hongqi E-HS9 Exclusive into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of Hongqi E-HS9 Premium into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -30,7 +30,7 @@ We have separated our description of Hongqi E-HS9 Exclusive into sections. If yo
 
 ## Performance
 
-The Hongqi E-HS9 Exclusive has a maximum power of 405KW (551hp). The total torque is 670nm. The 0-100km/h sprint (0-62mph) is performed in 4,9 seconds. The top speed is 200 kph. 
+The Hongqi E-HS9 Premium has a maximum power of 405KW (551hp). The total torque is 670nm. The 0-100km/h sprint (0-62mph) is performed in 4,9 seconds. The top speed is 200 kph. 
 
 ## Battery, range, and charging
 
@@ -47,13 +47,13 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-Hongqi E-HS9 Exclusive has an all-wheel drive system supported by two motors. One on each axle. 
+Hongqi E-HS9 Premium has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 170 mm and max 260 mm. 
+The  suspension has steel springs with a fixed height, but an optional damping adjustment. The ground clearance with this suspension is 200 mm. 
 
 ### Steering
 
-Dynamic steering is standard on Hongqi E-HS9 Exclusive. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is standard on Hongqi E-HS9 Premium. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -72,19 +72,19 @@ There is only one roof for this model. The standard is a panoramic roof.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/exterior_1_st.jpg" alt="Hongqi E-HS9 Exclusive" title="Hongqi E-HS9 Exclusive">
+<a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_1_st.jpg" alt="Hongqi E-HS9 Premium" title="Hongqi E-HS9 Premium">
 </a>
-<figcaption><h4>Hongqi E-HS9 Exclusive</h4></figcaption></figur>
+<figcaption><h4>Hongqi E-HS9 Premium</h4></figcaption></figur>
 
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row. 
+You can choose between different types of seats, seat materials, and interior styling. The seat layout is seven seats with two in front, three seats in the second row and two seats on third row. 
 
 ### First row seats
 
-Only one front seat type is available in the Hongqi E-HS9 Exclusive. 
+Only one front seat type is available in the Hongqi E-HS9 Premium. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -95,7 +95,6 @@ The following functionalities are available on the **standard** seat.
 - memory passenger seat 
 - electric lumbar support 
 - ventilation 
-- massage 
 
 You can choose from 2 different materials/colors for this seat type. <br />
 <br />
@@ -105,12 +104,10 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 
-For the second row, this model has two captain chairs. In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
-- electric adjustment 
 - height adjustable headrest 
 - heating 
-- ventilation 
 
 ### Third-row seats
 
@@ -124,7 +121,7 @@ There is one climate system available. The 6-zone climate system supports differ
 
 ## Comfort
 
-Hongqi E-HS9 Exclusive has several features to make your life as a driver or passenger more comfortable. 
+Hongqi E-HS9 Premium has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -136,14 +133,14 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Hongqi E-HS9 Exclusive has multiple integrated screens. Behind the steering wheel is a digital instrument cluster. In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16,2 inches large. The touch screen in the dashboard's center  is 16,2 inches large. The touch screen in front of the passenger in the dashboard is 16,2 inches large. The touch screen in the middle of the center console is 10,2 inches large. 
+Hongqi E-HS9 Premium has multiple integrated screens. Behind the steering wheel is a digital instrument cluster. In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16,2 inches large. The touch screen in the dashboard's center  is 16,2 inches large. The touch screen in front of the passenger in the dashboard is 16,2 inches large. The touch screen in the middle of the center console is 10,2 inches large. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/screens_1_st.jpg" alt="Hongqi E-HS9 Exclusive" title="Hongqi E-HS9 Exclusive">
+<a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/screens_1_st.jpg" alt="Hongqi E-HS9 Premium" title="Hongqi E-HS9 Premium">
 </a>
-<figcaption><h4>Hongqi E-HS9 Exclusive</h4></figcaption></figur>
+<figcaption><h4>Hongqi E-HS9 Premium</h4></figcaption></figur>
 
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
@@ -152,7 +149,7 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-One type of sound system is available for the Hongqi E-HS9 Exclusive. With the Hongqi sound system, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
+One type of sound system is available for the Hongqi E-HS9 Premium. With the Hongqi sound system, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
@@ -163,19 +160,19 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/headlights_1_st.jpg" alt="Hongqi E-HS9 Exclusive" title="Hongqi E-HS9 Exclusive">
+<a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/headlights_1_st.jpg" alt="Hongqi E-HS9 Premium" title="Hongqi E-HS9 Premium">
 </a>
-<figcaption><h4>Hongqi E-HS9 Exclusive</h4></figcaption></figur>
+<figcaption><h4>Hongqi E-HS9 Premium</h4></figcaption></figur>
 
 ## Driver assistance
 
-The Hongqi E-HS9 Exclusive has several standard and optional driver assistance systems for better safety and comfort.
+The Hongqi E-HS9 Premium has several standard and optional driver assistance systems for better safety and comfort.
 ### Safety systems
 
 
 
-The Hongqi E-HS9 Exclusive has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The Hongqi E-HS9 Premium has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 **Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
@@ -190,6 +187,6 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Transportation capabilities
 
-On the roof, you can load up to 100kg. Max weight is 3180kg, and with the base weight of 2630 kg, you can max load 550 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+On the roof, you can load up to 100kg. Max weight is 3205kg, and with the base weight of 2660 kg, you can max load 545 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 

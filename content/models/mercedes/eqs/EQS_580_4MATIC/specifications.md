@@ -1,5 +1,5 @@
 ---
-title: Mercedes EQS specifications
+title: Mercedes-EQ EQS 580 4MATIC specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,14 +8,33 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
+|Peak electrical output in kW|385|
+|Electrical torque output in Nm|858|
+|Top speed|210|
+|0-100kph (0-62 mph)|4,3|
+
+
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
+|Basic trim WLTP range|692|
+|Basic trim WLTP consumption|15,7|
+|Basic trim WLTP consumption with charging loss|17,7|
+|Top trim WLTP range|583|
+|Top trim WLTP consumption|18,6|
+|Top trim WLTP consumption with charging loss|21,2|
+
+
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
+|Battery gross|120|
+|Battery net|108,4|
+|Max DC charging|210|
+
+
 
 ## Dimensions
 |Spec|Value|

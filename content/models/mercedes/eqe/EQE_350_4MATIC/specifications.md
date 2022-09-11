@@ -1,5 +1,5 @@
 ---
-title: Mercedes EQE specifications
+title: Mercedes-EQ EQE 350 4MATIC specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,14 +8,33 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
+|Peak electrical output in kW|215|
+|Electrical torque output in Nm|565|
+|Top speed|210|
+|0-100kph (0-62 mph)|6,3|
+
+
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
+|Basic trim WLTP range|597|
+|Basic trim WLTP consumption|15,2|
+|Basic trim WLTP consumption with charging loss|17,5|
+|Top trim WLTP range|507|
+|Top trim WLTP consumption|17,9|
+|Top trim WLTP consumption with charging loss|20,8|
+
+
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
+|Battery gross|96,12|
+|Battery net|90,6|
+|Max DC charging|170|
+
+
 
 ## Dimensions
 |Spec|Value|
