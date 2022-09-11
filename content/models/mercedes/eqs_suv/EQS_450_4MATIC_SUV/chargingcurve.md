@@ -1,7 +1,7 @@
 ---
-title: Mercedes-EQ EQS SUV 450 4MATIC charging curve
+title: Mercedes-EQ EQS 450 4MATIC SUV charging curve
 linktitle: Charging curve
-description: Here you find the charging curve for Mercedes-EQ EQS SUV 450 4MATIC. 
+description: Here you find the charging curve for Mercedes-EQ EQS 450 4MATIC SUV. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

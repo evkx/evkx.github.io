@@ -1,5 +1,5 @@
 ---
-title: Mercedes-EQ EQS SUV 450 4MATIC specifications
+title: Mercedes-EQ EQS 450 4MATIC SUV specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
