@@ -149,10 +149,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 - height adjustable headrest 
 - heating (optional)
 
-You can choose from 6 different materials/colors for this seat type. <br />
-<br />
-
-
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/secondrowseats_1.jpg">

@@ -149,10 +149,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 - height adjustable headrest 
 - heating (optional)
 
-You can choose from 6 different materials/colors for this seat type. <br />
-<br />
-
-
 ## Climate system
 
 You can choose from two different climate systems. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. The THERMATIC climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 

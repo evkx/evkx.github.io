@@ -65,9 +65,11 @@ Regenerative braking is available in several modes. The most efficient is automa
 
 You can choose between 9 different paint colors when ordering this model. 
 
-The car has four regular doors and a tailgate. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
+The car has four regular doors and a tailgate. Soft close are an optional function for the regular doors. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
+
+You can order the car with tinted windows from B-pillar and back. 
 
 
 <figur>
@@ -108,6 +110,23 @@ You can choose from 7 different materials/colors for this seat type. <br />
 <figcaption><h4>BMW iX xDrive50</h4></figcaption></figur>
 
 
+### Second-row seat
+
+
+
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+
+- heating (optional)
+- integrated headrest 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/secondrowseats_1_st.jpg" alt="BMW iX xDrive50" title="BMW iX xDrive50">
+</a>
+<figcaption><h4>BMW iX xDrive50</h4></figcaption></figur>
+
+
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
 
 ## Climate system
@@ -121,6 +140,10 @@ BMW iX xDrive50 has several features to make your life as a driver or passenger 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
 Keyless go makes it possible to start the car without needing to use the key. 
+
+The steering wheel is electrically adjustable. 
+
+You have wireless charging for your phone.  
 
 ## User interface and control
 
@@ -141,6 +164,8 @@ A head-up display is an optional system that presents speed and other important 
 You can choose from two different sound systems on the BMW iX xDrive50. With the Harman Kardon Surround Sound system, you get 18 amplifier channels and 18 speakers with a max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get NULL amplifier channels and 30 speakers with a max system output of 1615 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW iX xDrive50 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+
+The models is equipped with 6 USB-C connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the BMW iX xDrive50. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
