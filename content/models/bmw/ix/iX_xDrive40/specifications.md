@@ -1,5 +1,5 @@
 ---
-title: BMW iX M60 specifications
+title: BMW iX xDrive40 specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,30 +8,30 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|455|
-|Electrical torque output in Nm|765|
-|Top speed|250|
-|0-100kph (0-62 mph)|3,8|
+|Peak electrical output in kW|240|
+|Electrical torque output in Nm|630|
+|Top speed|200|
+|0-100kph (0-62 mph)|6,1|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|561|
-|Basic trim WLTP consumption|18,8|
-|Basic trim WLTP consumption with charging loss|21,9|
-|Top trim WLTP range|502|
-|Top trim WLTP consumption|21,0|
-|Top trim WLTP consumption with charging loss|24,5|
+|Basic trim WLTP range|425|
+|Basic trim WLTP consumption|16,7|
+|Basic trim WLTP consumption with charging loss|19,3|
+|Top trim WLTP range|372|
+|Top trim WLTP consumption|19,1|
+|Top trim WLTP consumption with charging loss|22,5|
 
 
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
-|Battery gross|111|
-|Battery net|105,2|
+|Battery gross|76,6|
+|Battery net|71|
 
 
 
@@ -42,9 +42,9 @@ weight: 30
 |Height|1696|
 |Width excluding mirrors|1967|
 |Wheelbase|3000|
-|Track width front|1661|
-|Track width rear|1691|
-|Drag coefficient|0,26|
+|Track width front|1659|
+|Track width rear|1688|
+|Drag coefficient|0,25|
 |Frontal area|2,82|
 |Overhang angle front|18,8|
 |Overhang angle rear|20,8|

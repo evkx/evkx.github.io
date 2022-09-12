@@ -4,24 +4,12 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
-### Bjørn Nyland: BMW iX xDrive50 driving impressions and summary 19.02.2022
+### Autogefühl: BMW iX M60 driving REVIEW - vibrating launch control in front of Tesla Gig 25.05.2022
 
-{{< youtube 3KRZYN1BRmA >}}
-### Bjørn Nyland: BMW iX xDrive50 interior review 18.02.2022
+{{< youtube Q434xhO4agY >}}
+### Chasing Cars: It’s seriously FAST for an EV! (BMW iX M60 2022 review) 25.05.2022
 
-{{< youtube 58QRVX8lGPg >}}
-### Bjørn Nyland: BMW iX xDrive50 1000 km challenge 14.02.2022
+{{< youtube uN7B6kI2aJ0 >}}
+### Autogefühl: BMW iX M60 Premiere of the big BMW M performance EV SUV! 05.01.2022
 
-{{< youtube neKrJN5C4Ck >}}
-### Bjørn Nyland: ABMW iX xDrive50 banana box test 13.02.2022
-
-{{< youtube ffXFLj3Sxw8 >}}
-### Bjørn Nyland: BMW iX, i4, iX3 and Mercedes EQS charging comparison 13.02.2022
-
-{{< youtube KVg9sbFMoEw >}}
-### Bjørn Nyland: BMW iX xDrive50 range test 12.02.2022
-
-{{< youtube VsY_wmpDuOc >}}
-### Autogefühl: BMW iX FULL REVIEW xDrive 50 AWD - world’s best big EV SUV? 29.09.2021
-
-{{< youtube qBU5-2LTKj8 >}}
+{{< youtube 9VV7NyZXcgk >}}
