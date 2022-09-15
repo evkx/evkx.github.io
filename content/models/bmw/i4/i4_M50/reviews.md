@@ -7,6 +7,24 @@ weight: 80
 ### Bjørn Nyland: BMW i4 M50 summer range test 17.08.2022
 
 {{< youtube NQWIlDeR9MI >}}
+### Munro Live: A Look Underneath the BMW i4 M50 Undercarriage 18.07.2022
+
+{{< youtube avgitxhLe8A >}}
+### Out of Spec Reviews: What!? Beating Autopilot?! The BMW i4 Takes On Our Hogback Challenge W/ Active Driving Assistant Pro 01.07.2022
+
+{{< youtube mIPurpi7jhM >}}
+### Out of Spec Reviews: I Take You On A Full Tour Of The Electric BMW i4 M50! 14.05.2022
+
+{{< youtube 7eSUn54o5sU >}}
+### Bjørn Nyland: BMW i4 M50 driving impressions and summary 11.02.2022
+
+{{< youtube xrYgvkeUR6U >}}
+### Bjørn Nyland: BMW i4 M50 interior review 10.02.2022
+
+{{< youtube yvXKUsydwX8 >}}
+### Bjørn Nyland: BMW i4 M50 1000 km challenge 09.02.2022
+
+{{< youtube nKWCWXPjlIY >}}
 ### Autogefühl: BMW i4 M50 driving REVIEW - the German midsize EV sedan against the Tesla Model 3! 13.10.2021
 
 {{< youtube Hl1O7vik5Sk >}}

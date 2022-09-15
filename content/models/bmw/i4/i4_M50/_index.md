@@ -1,7 +1,7 @@
 ---
 title: BMW i4 M50
 linktitle: i4 M50
-description: BMW i4 M50 is an all-electric luxury sedan with a WLTP range of up to 631 km (392 miles). EVKX.net have all the details. 
+description: BMW i4 M50 is an all-electric luxury sedan with a WLTP range of up to 521 km (324 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -34,11 +34,11 @@ The BMW i4 M50 has a maximum power of 400KW (544hp). The total torque is 795nm. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 83,9kWh and a net capacity of 80,7kWh, meaning you have a 3,2kWh buffer for protection. (3,8%).  The WLTP range varies from 631 to 550 km (392-342 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 12,8kWh/100km for the basic version and 14,7kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 83,9kWh and a net capacity of 80,7kWh, meaning you have a 3,2kWh buffer for protection. (3,8%).  The WLTP range varies from 521 to 416 km (324-259 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,5kWh/100km for the basic version and 19,4kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 44 minutes, while a more common scenario of 10-80% would take 24 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 56% resulting in an actual charge speed including time loss on 127kW. Each charge session would take 20 minutes and 15 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 56 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 50% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 19 minutes and 20 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 9 hours and 21 minutes to drive. This will requires three charge sessions charging from 3% to 57%. The total time lost for charging will be 62 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 9 hours and 27 minutes to drive. This will requires three charge sessions charging from 2% to 56%. The total time lost for charging will be 67 minutes.   
 ### Onboard charger
 
 
@@ -165,7 +165,7 @@ You can choose from two different sound systems on the BMW i4 M50. With the Harm
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW i4 M50 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 6 USB-C connections as standard. 
+The models is equipped with 4 USB-C connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the BMW i4 M50. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
@@ -193,6 +193,6 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1750 liters. On the roof, you can load up to 75kg. Max weight is 3135kg, and with the base weight of 2510 kg, you can max load 625 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 470 liters. With the rear seat down, it is 1290 liters. On the roof, you can load up to 75kg. Max weight is 2735kg, and with the base weight of 2510 kg, you can max load 225 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2500, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
