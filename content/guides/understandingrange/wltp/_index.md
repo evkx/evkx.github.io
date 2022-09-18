@@ -60,8 +60,10 @@ For models with these options, the manufacturer needs to take two tests. One tes
 
 The manufacturer can calculate the range for different options setups from these numbers.
 
-## How correct is it
+## How correct is it?
 
 Running a test without AC, heating, and lights at 23 degrees Celcius will not give correct consumption in many real-world scenarios.
 
 In the worst-case scenario, driving on a highway in heavy rain in cold weather would probably give only 50-60% percent of the stated WLTP range.  
+
+In the EVKX.net model database, we include both max and minimum WLTP range together with the expected real-world range. 
