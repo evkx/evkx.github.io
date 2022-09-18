@@ -10,7 +10,7 @@ The tests is defined by United States Environmental Protection Agency.
 
 ## How is it tested
 
-The EPA test cycles are [defined](https://www.fueleconomy.gov/feg/fe_test_schedules.shtml) by EPA and [test procedure](https://www.sae.org/standards/content/j1634_202104/) by SAE
+The EPA test cycles are [defined](https://www.fueleconomy.gov/feg/fe_test_schedules.shtml) by EPA and [test procedure](https://www.fueleconomy.gov/feg/pdfs/EPA%20test%20procedure%20for%20EVs-PHEVs-11-14-2017.pdf) by SAE
 
 There are two estimates in this cycle, the urban estimate represented by the UDDS (Urban Dynamometer Driving Schedule) and the highway estimate represented by the HWFET (Highway Fuel Economy Test).
 
@@ -47,7 +47,4 @@ The result is adjusted with an adjusment factor (standardf 0.7) to adjust for re
 
 The EPA tests is considered to give more close to real world numbers 
 
-In EVKX.net modeldatabase we have listed the EPA result for the models.  EPA also have it own [search](https://www.fueleconomy.gov/feg/powerSearch.jsp)
-
-
-https://www.fueleconomy.gov/feg/pdfs/EPA%20test%20procedure%20for%20EVs-PHEVs-11-14-2017.pdf
+In EVKX.net modeldatabase we have listed the EPA result for the models.  EPA also have it own [search](https://www.fueleconomy.gov/feg/PowerSearch.do?action=PowerSearch&year1=2021&year2=2023&minmsrpsel=0&maxmsrpsel=0&city=0&highway=0&combined=0&cbftelectricity=Electricity&YearSel=2021-2023&MakeSel=&MarClassSel=&FuelTypeSel=Electricity&VehTypeSel=&TranySel=&DriveTypeSel=&CylindersSel=&MpgSel=000&sortBy=Comb&Units=&url=SearchServlet&opt=new&minmsrp=0&maxmsrp=0&minmpg=0&maxmpg=0&sCharge=&tCharge=&startstop=&cylDeact=&rowLimit=200)

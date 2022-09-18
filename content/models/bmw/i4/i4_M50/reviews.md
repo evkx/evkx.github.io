@@ -4,6 +4,12 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Bjørn Nyland: BMW i4 M50 overheats with restricted power and charging during 1000 km challenge 18.08.2022
+
+{{< youtube Q0LaUx5I_28 >}}
+### Bjørn Nyland: BMW i4 M50 driven until the battery died 18.08.2022
+
+{{< youtube OIi_8OXfLeg >}}
 ### Bjørn Nyland: BMW i4 M50 summer range test 17.08.2022
 
 {{< youtube NQWIlDeR9MI >}}

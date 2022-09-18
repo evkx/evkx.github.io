@@ -34,7 +34,7 @@ The BMW i4 M50 has a maximum power of 400KW (544hp). The total torque is 795nm. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 83,9kWh and a net capacity of 80,7kWh, meaning you have a 3,2kWh buffer for protection. (3,8%).  The WLTP range varies from 521 to 416 km (324-259 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,5kWh/100km for the basic version and 19,4kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 83,9kWh and a net capacity of 80,7kWh, meaning you have a 3,2kWh buffer for protection. (3,8%).  The [WLTP range](../../../../guides/understandingrange/wltp) varies from 521 to 416 km (324-259 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,5kWh/100km for the basic version and 19,4kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 56 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 50% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 19 minutes and 20 seconds. 
 
@@ -71,7 +71,7 @@ Regenerative braking is available in several modes. The most efficient is automa
 
 ## Exterior
 
-You can choose between 9 different paint colors when ordering this model. 
+You can choose between 12 different paint colors when ordering this model. 
 
 The car has four regular doors and a tailgate. Soft close are an optional function for the regular doors. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
 

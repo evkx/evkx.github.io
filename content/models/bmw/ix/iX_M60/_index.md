@@ -34,7 +34,7 @@ The BMW iX M60 has a maximum power of 455KW (619hp). The total torque is 765nm. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 111kWh and a net capacity of 105,2kWh, meaning you have a 5,8kWh buffer for protection. (5,2%).  The WLTP range varies from 561 to 502 km (349-312 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 18,8kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 111kWh and a net capacity of 105,2kWh, meaning you have a 5,8kWh buffer for protection. (5,2%).  The [WLTP range](../../../../guides/understandingrange/wltp) varies from 561 to 502 km (349-312 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 18,8kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 58 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 53% resulting in an actual charge speed including time loss on 135kW. Each charge session would take 23 minutes and 25 seconds. 
 
