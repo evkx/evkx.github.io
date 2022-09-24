@@ -146,7 +146,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 12 inches large and has a 1920 x 720 pixels resolution. The touch screen on the dashboard's center  is 12,4 inches large and has a 2880 x 1080 pixels resolution. 
+The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The touch screen on the dashboard's center  is 12,3 inches large. 
 
 
 <figur>
