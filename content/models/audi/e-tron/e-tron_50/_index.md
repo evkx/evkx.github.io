@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 50
 linktitle: e-tron 50
-description: Audi e-tron 50 is an all-electric luxury SUV with a WLTP range of up to 351 km (218 miles). EVKX.net have all the details. 
+description: Audi e-tron 50 is an all-electric luxury SUV with a WLTP range of up to 341 km (212 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -34,7 +34,7 @@ The Audi e-tron 50 has a maximum power of 230KW (313hp). The total torque is 540
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 71kWh and a net capacity of 64kWh, meaning you have a 7kWh buffer for protection. (9,9%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 351 to 286 km (218-178 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 18,2kWh/100km for the basic version and 22,4kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 71kWh and a net capacity of 64kWh, meaning you have a 7kWh buffer for protection. (9,9%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 341 to 282 km (212-175 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 18,8kWh/100km for the basic version and 22,7kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 72% resulting in an actual charge speed including time loss on 92kW. Each charge session would take 28 minutes and 30 seconds. 
 
@@ -261,7 +261,7 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75kg. Max weight is 3170kg, and with the base weight of 2520 kg, you can max load 650 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75kg. Max weight is 3040kg, and with the base weight of 2370 kg, you can max load 670 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, 750kg. 
 

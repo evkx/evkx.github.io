@@ -4,18 +4,15 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
-### Bjørn Nyland: Audi e-tron 55 Black Edition driving impressions & summary 09.04.2022
+### Bjørn Nyland: Audi e-tron 50 1000 km challenge 19.01.2020
 
-{{< youtube djc3yBJIpFU >}}
-### Bjørn Nyland: Audi e-tron 55 Black Edition 1000 km challenge 06.04.2022
+{{< youtube mzQVpp2OA-0 >}}
+### Bjørn Nyland: Audi e-tron 50 Geilo test 18.01.2020
 
-{{< youtube gGG2A11yWwI >}}
-### Bjørn Nyland: Audi e-tron 55 Black Edition Geilo test 02.04.2022
+{{< youtube EcK2cf4ZglI >}}
+### Bjørn Nyland: Audi e-tron 50 vs 55 charging compared 16.01.2020
 
-{{< youtube Q8OJGeeAX7o >}}
-### Bjørn Nyland: Audi e-tron 55 Black Edition range test 01.04.2022
+{{< youtube -qO03G3T7Ww >}}
+### Bjørn Nyland: Audi e-tron 50 winter range test 15.01.2020
 
-{{< youtube qlRAHHjaDfQ >}}
-### Kris Rifa: Audi Q4 E-Tron vs Audi E-Tron | Comparison Test | Big E-Tron vs Baby E-Tron 18.06.2021
-
-{{< youtube nR7ckW5DrN0 >}}
+{{< youtube pPROK8jjGJM >}}
