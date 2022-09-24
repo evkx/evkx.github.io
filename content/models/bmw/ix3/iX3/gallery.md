@@ -6,6 +6,13 @@ weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+<a href="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/centerconsol_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/centerconsol_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2249" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/centerconsol_1_st.jpg" alt="BMW iX3" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/charging_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/charging_1.jpg"
 data-pswp-width="3000"
@@ -44,7 +51,7 @@ target="_blank">
 <a href="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="2249" 
+data-pswp-height="2250" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_1_st.jpg" alt="BMW iX3" />
 </a>
@@ -61,6 +68,13 @@ data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_3_st.jpg" alt="BMW iX3" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="2249" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_4_st.jpg" alt="BMW iX3" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/secondrowseats_1.jpg"
@@ -82,6 +96,13 @@ data-pswp-width="3000"
 data-pswp-height="2121" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/trunk_2_st.jpg" alt="BMW iX3" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/wheels_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/wheels_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2002" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/wheels_1_st.jpg" alt="BMW iX3" />
 </a>
 </div>
 <script type="module">

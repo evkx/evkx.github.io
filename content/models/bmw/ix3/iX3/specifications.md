@@ -57,7 +57,6 @@ weight: 30
 |Autonomous driving|Yes, optional equipment|
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
-|Automatic Parallel Parking|Yes, optional equipment|
 |Reversing camera|Yes, optional equipment|
 |360 camera|Yes, optional equipment (option PCZ )|
 |Rear cross traffic alert|Yes, optional equipment|

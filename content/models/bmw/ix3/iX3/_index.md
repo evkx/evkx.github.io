@@ -183,6 +183,7 @@ The BMW iX3 has a **lane-keeping** assistant as a standard system. This system h
 With the Driving Assistant Professional  level 2 system, you get the following driving automation features. 
 - Adaptive Cruise control. 
 - Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- Automatic parallel parking. (optional) 
 
 
 ## Transportation capabilities
