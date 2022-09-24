@@ -34,7 +34,7 @@ The BMW iX xDrive40 has a maximum power of 240KW (326hp). The total torque is 63
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 76,6kWh and a net capacity of 71kWh, meaning you have a 5,6kWh buffer for protection. (7,3%).  The [WLTP range](../../../../guides/understandingrange/wltp) varies from 425 to 372 km (264-231 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 16,7kWh/100km for the basic version and 19,1kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 76,6kWh and a net capacity of 71kWh, meaning you have a 5,6kWh buffer for protection. (7,3%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 425 to 372 km (264-231 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 16,7kWh/100km for the basic version and 19,1kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 42% resulting in an actual charge speed including time loss on 93kW. Each charge session would take 19 minutes and 43 seconds. 
 
@@ -49,7 +49,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 BMW iX xDrive40 has an all-wheel drive system supported by two motors. One on each axle. 
 
-The Adaptive Air Suspension suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 202 mm. 
+The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 202 mm. 
 
 You can order BMW iX xDrive40 with an alternative Adaptive Air Suspension suspension. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 193 mm and max 223 mm. 
 

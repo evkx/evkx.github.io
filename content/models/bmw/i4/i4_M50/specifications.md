@@ -8,9 +8,9 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|400|
-|Electrical torque output in Nm|795|
-|Top speed|225|
+|Peak electrical output in kW|250|
+|Electrical torque output in Nm|430|
+|Top speed|190|
 |0-100kph (0-62 mph)|3,9|
 
 
@@ -58,7 +58,7 @@ weight: 30
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
 |Automatic Parallel Parking|Yes, optional equipment|
-|Backup camera|Yes, optional equipment|
+|Reversing camera|Yes, optional equipment|
 |360 camera|Yes, optional equipment (option PCZ )|
 |Rear cross traffic alert|Yes, optional equipment|
 |Rear parking sensors|Yes, standard equipment|
@@ -89,15 +89,16 @@ weight: 30
 |In Car navigation|Yes, standard equipment|
 |Number of avaiable sound systems|2|
 
+### Hifi Sound system
+|Spec|Value|
+|----|-----|
+|Number of speakers|10|
+|Channels|7|
+|Total effect|200|
+
 ### Harman Kardon Surround Sound system
 |Spec|Value|
 |----|-----|
-|Number of speakers|18|
-|Channels|18|
-|Total effect|655|
-
-### Bowers & Wilkins Diamond surround sound system
-|Spec|Value|
-|----|-----|
-|Number of speakers|30|
-|Total effect|1615|
+|Number of speakers|17|
+|Channels|9|
+|Total effect|445|

@@ -65,7 +65,7 @@ weight: 30
 |Autonomous driving|Yes (Adaptive cruise assist), optional equipment (option PCC )|
 |Lane departure warning|Yes (Audi Active Lane Assist), standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
-|Backup camera|Yes, optional equipment|
+|Reversing camera|Yes, optional equipment|
 |360 camera|Yes, optional equipment (option PCZ )|
 |Rear cross traffic alert|Yes (Cross traffic assist rear), optional equipment (option PCM )|
 |Rear parking sensors|Yes (Parking system plus), standard equipment|

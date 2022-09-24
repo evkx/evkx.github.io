@@ -34,7 +34,7 @@ The Mercedes-EQ EQS 450 4MATIC has a maximum power of 265KW (360hp). The total t
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%).  The [WLTP range](../../../../guides/understandingrange/wltp) varies from 696 to 582 km (433-362 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,6kWh/100km for the basic version and 18,6kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 696 to 582 km (433-362 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,6kWh/100km for the basic version and 18,6kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 210kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 41 seconds. 
 

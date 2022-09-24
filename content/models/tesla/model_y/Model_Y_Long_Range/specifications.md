@@ -56,7 +56,7 @@ weight: 30
 |Autonomous driving|Yes, optional equipment|
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
-|Backup camera|Yes, optional equipment|
+|Reversing camera|Yes, optional equipment|
 |360 camera|Not available|
 |Rear cross traffic alert|Not available|
 |Rear parking sensors|Yes, standard equipment|

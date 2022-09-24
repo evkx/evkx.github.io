@@ -1,7 +1,7 @@
 ---
 title: BMW i4 M50
 linktitle: i4 M50
-description: BMW i4 M50 is an all-electric luxury sedan with a WLTP range of up to 521 km (324 miles). EVKX.net have all the details. 
+description: intro.sedan.premium
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -30,15 +30,15 @@ We have separated our description of BMW i4 M50 into sections. If you do not wan
 
 ## Performance
 
-The BMW i4 M50 has a maximum power of 400KW (544hp). The total torque is 795nm. The 0-100km/h sprint (0-62mph) is performed in 3,9 seconds. The top speed is 225 kph. 
+The BMW i4 M50 has a maximum power of 250KW (340hp). The total torque is 430nm. The 0-100km/h sprint (0-62mph) is performed in 3,9 seconds. The top speed is 190 kph. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 83,9kWh and a net capacity of 80,7kWh, meaning you have a 3,2kWh buffer for protection. (3,8%).  The [WLTP range](../../../../guides/understandingrange/wltp) varies from 521 to 416 km (324-259 mi), depending on car options. Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,5kWh/100km for the basic version and 19,4kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 83,9kWh and a net capacity of 80,7kWh, meaning you have a 3,2kWh buffer for protection. (3,8%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 521 to 416 km (324-259 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,5kWh/100km for the basic version and 19,4kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 56 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 50% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 19 minutes and 20 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 9 hours and 27 minutes to drive. This will requires three charge sessions charging from 2% to 56%. The total time lost for charging will be 67 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 190kWh/100km, 1000km will take 23 hours and 48 minutes to drive. This will requires 48 charge sessions charging from 3% to 50%. The total time lost for charging will be 928 minutes.   
 ### Onboard charger
 
 
@@ -57,7 +57,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 BMW i4 M50 has an all-wheel drive system supported by two motors. One on each axle. 
 
-
+The  suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 125 mm. 
 
 ### Steering
 
@@ -72,8 +72,9 @@ Regenerative braking is available in several modes. The most efficient is automa
 ## Exterior
 
 You can choose between 12 different paint colors when ordering this model. 
+Additionally, you can choose between 7 wheels with sizes from 18 to 20 inches. 
 
-The car has four regular doors and a tailgate. Soft close are an optional function for the regular doors. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
+The car has four regular doors and a tailgate. Soft close are an optional function for the regular doors. The tailgate is electric powered. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
@@ -89,24 +90,40 @@ You can order the car with tinted windows from B-pillar and back.
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
+You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
 ### First row seats
 
-Only one front seat type is available in the BMW i4 M50. 
+There are two seat types you can choose from for the front row in the BMW i4 M50. 
 
 The following functionalities are available on the **standard** seat. 
 
-- electric adjustment 
+- electric adjustment (optional)
+- height adjustable headrest 
 - heating 
 - memory driver seat (optional)
 - memory passenger seat (optional)
+- electric lumbar support (optional)
 - adjustable side support back (optional)
 - integrated headrest 
 - ventilation (optional)
-- massage (optional)
 
-You can choose from 7 different materials/colors for this seat type. <br />
+You can choose from 21 different materials/colors for this seat type. <br />
+<br />
+
+
+The following functionalities are available on the **M Sport** seat. 
+
+- electric adjustment 
+- height adjustable headrest 
+- heating 
+- memory driver seat (optional)
+- memory passenger seat (optional)
+- electric lumbar support (optional)
+- adjustable side support back 
+- integrated headrest 
+
+You can choose from 21 different materials/colors for this seat type. <br />
 <br />
 
 
@@ -161,7 +178,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose from two different sound systems on the BMW i4 M50. With the Harman Kardon Surround Sound system, you get 18 amplifier channels and 18 speakers with a max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get NULL amplifier channels and 30 speakers with a max system output of 1615 watts. 
+You can choose from two different sound systems on the BMW i4 M50. With the Hifi Sound system, you get seven amplifier channels and ten speakers with a max system output of 200 watts. With the Harman Kardon Surround Sound system, you get nine amplifier channels and 17 speakers with a max system output of 445 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW i4 M50 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
@@ -193,6 +210,6 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 470 liters. With the rear seat down, it is 1290 liters. On the roof, you can load up to 75kg. Max weight is 2735kg, and with the base weight of 2510 kg, you can max load 225 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 470 liters. With the rear seat down, it is 1290 liters. On the roof, you can load up to 75kg. Max weight is 2605kg, and with the base weight of 2050 kg, you can max load 555 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 

@@ -53,7 +53,7 @@ weight: 30
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
 |Automatic Parallel Parking|Yes, optional equipment|
-|Backup camera|Yes, optional equipment|
+|Reversing camera|Yes, optional equipment|
 |360 camera|Yes, standard equipment|
 |Rear cross traffic alert|Yes, standard equipment|
 |Rear parking sensors|Yes, standard equipment|

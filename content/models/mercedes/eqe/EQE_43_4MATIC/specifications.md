@@ -57,7 +57,7 @@ weight: 30
 |Adaptive cruise control|Yes (Active Distance Assist), optional equipment|
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes (Attention Assist), standard equipment|
-|Backup camera|Yes, optional equipment|
+|Reversing camera|Yes, optional equipment|
 |360 camera|Yes, optional equipment|
 |Rear cross traffic alert|Not available|
 |Rear parking sensors|Yes, standard equipment|

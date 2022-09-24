@@ -93,7 +93,7 @@ weight: 30
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
 |Automatic Parallel Parking|Yes (Remote ParkAssist), optional equipment (option 7X5 )|
-|Backup camera|Yes, optional equipment|
+|Reversing camera|Yes, optional equipment|
 |360 camera|Yes, optional equipment (option PCZ )|
 |Rear cross traffic alert|Yes (Cross traffic assist rear), optional equipment (option PCM )|
 |Rear parking sensors|Yes (Park Assist), standard equipment|
