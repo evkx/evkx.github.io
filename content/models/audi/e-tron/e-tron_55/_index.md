@@ -225,6 +225,14 @@ The models is equipped with 2 USB-C connections as standard. As an option you ca
 ## Lights
 
 You can choose between three types of headlights for the Audi e-tron 55. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/headlights_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55">
+</a>
+<figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
+
 ## Driver assistance
 
 The Audi e-tron 55 has several standard and optional driver assistance systems for better safety and comfort.

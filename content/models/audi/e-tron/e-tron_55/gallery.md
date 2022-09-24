@@ -20,6 +20,13 @@ data-pswp-height="1999"
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/frontseats_1_st.jpg" alt="Audi e-tron 55" />
 </a>
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/headlights_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/headlights_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2249" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/headlights_1_st.jpg" alt="Audi e-tron 55" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/interior_1.jpg"
 data-pswp-width="3000"
