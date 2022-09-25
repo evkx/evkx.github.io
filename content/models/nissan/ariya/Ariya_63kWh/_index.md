@@ -97,7 +97,7 @@ The following functionalities are available on the **standard** seat.
 - memory passenger seat (optional)
 - ventilation (optional)
 
-You can choose from 4 different materials/colors for this seat type. <br />
+You can choose from 5 different materials/colors for this seat type. <br />
 <br />
 
 
