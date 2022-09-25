@@ -6,6 +6,14 @@ weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_sr/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_sr/main_1_st.jpg" alt="Nissan Ariya SR" title="Nissan Ariya SR">
+</a>
+<figcaption><h4>Nissan Ariya SR</h4></figcaption></figur>
+
 We have separated our description of Nissan Ariya SR into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
@@ -41,7 +49,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 7,2KW c
 
 Nissan Ariya SR has a front-wheel drive system supported by one motor on the front axle. 
 
-The standard suspension has steel springs with a fixed height, but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
+The standard suspension has a fixed height and damping. The ground clearance with this suspension is 180 mm. 
 
 ### Steering
 
@@ -69,6 +77,14 @@ The car has four regular doors and a tailgate. You can choose an option to have 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
 You can order the car with tinted windows from B-pillar and back. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_sr/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_sr/exterior_1_st.jpg" alt="Nissan Ariya SR" title="Nissan Ariya SR">
+</a>
+<figcaption><h4>Nissan Ariya SR</h4></figcaption></figur>
+
 
 ## Interior
 
@@ -112,6 +128,14 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 Nissan Ariya SR has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_sr/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_sr/screens_1_st.jpg" alt="Nissan Ariya SR" title="Nissan Ariya SR">
+</a>
+<figcaption><h4>Nissan Ariya SR</h4></figcaption></figur>
+
+
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
 ## Infotainment
@@ -140,3 +164,10 @@ The Nissan Ariya SR has a **lane-keeping** assistant as a standard system. This 
 The cargo capacity in the trunk is 468 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 1725 kg, you can max load 995 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_sr/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_sr/trunk_1_st.jpg" alt="Nissan Ariya SR" title="Nissan Ariya SR">
+</a>
+<figcaption><h4>Nissan Ariya SR</h4></figcaption></figur>
