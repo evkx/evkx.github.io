@@ -63,9 +63,10 @@ Regenerative braking is available in several modes. The most efficient is automa
 
 ## Exterior
 
-You can choose between 8 different paint colors when ordering this model. 
+You can choose between 6 different paint colors when ordering this model. 
+Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
 
-The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrical powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
+The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
@@ -91,8 +92,9 @@ The following functionalities are available on the **standard** seat.
 
 - electric adjustment (optional)
 - height adjustable headrest 
-- heating (optional)
+- heating 
 - memory driver seat (optional)
+- ventilation (optional)
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />
@@ -104,10 +106,11 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
+- heating (optional)
 
 ## Climate system
 
-You can choose from two different climate systems. The 1-zone climate system supports only controlling one common zone for the whole car. The 3-zone climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. 
 
 ## Comfort
 
@@ -117,9 +120,15 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
+The steering wheel is electrically adjustable. 
+
+comfort.easyentryseatcomfort.easyentryseat
+
+You have wireless charging for your phone.  
+
 ## User interface and control
 
-Nissan Ariya SR has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 12,3 inches large and has a 1540 x 720 pixels resolution. 
+Nissan Ariya SR has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel on the left of the frame is 12,3 inches large. The touch screen at the right part of the shared frame is 12,3 inches large. 
 
 
 <figur>
@@ -133,9 +142,9 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-One type of sound system is available for the Nissan Ariya SR. With the Audi Sound system, you get six amplifier channels and eight speakers with a max system output of 180 watts. 
+You can choose from two different sound systems on the Nissan Ariya SR. With the Sound system, you get four amplifier channels and six speakers with a max system output of  watts. With the BOSE Premium Sound System, you get six amplifier channels and ten speakers with a max system output of  watts. 
 
-In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Nissan Ariya SR supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Nissan Ariya SR supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
 
 You can choose between two types of headlights for the Nissan Ariya SR. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 

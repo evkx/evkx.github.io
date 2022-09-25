@@ -84,4 +84,17 @@ weight: 30
 |----|-----|
 |Android Auto support|Yes, standard equipment|
 |Apple Carplay support|Yes, standard equipment|
-|In Car navigation|Yes (MMI Navigation plus), optional equipment|
+|In Car navigation|Yes, standard equipment|
+|Number of avaiable sound systems|2|
+
+### Sound system
+|Spec|Value|
+|----|-----|
+|Number of speakers|6|
+|Channels|4|
+
+### BOSE Premium Sound System
+|Spec|Value|
+|----|-----|
+|Number of speakers|10|
+|Channels|6|
