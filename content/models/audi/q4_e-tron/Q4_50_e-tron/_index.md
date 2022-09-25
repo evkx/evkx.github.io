@@ -146,6 +146,14 @@ The standard option is a three-seat bench with a 60:40 split where you can fold 
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/secondrowseats_1_st.jpg" alt="Audi Q4 50 e-tron" title="Audi Q4 50 e-tron">
+</a>
+<figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
+
+
 ## Climate system
 
 You can choose from two different climate systems. The 1-zone climate system supports only controlling one common zone for the whole car. The 3-zone climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
@@ -184,6 +192,14 @@ In addition, with the optional in-car navigation system, you get the help you ne
 ## Lights
 
 You can choose between two types of headlights for the Audi Q4 50 e-tron. The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron/headlights_1_st.jpg" alt="Audi Q4 50 e-tron" title="Audi Q4 50 e-tron">
+</a>
+<figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
+
 ## Driver assistance
 
 The Audi Q4 50 e-tron has several standard and optional driver assistance systems for better safety and comfort.
