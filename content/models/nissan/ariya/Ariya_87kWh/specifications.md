@@ -8,7 +8,7 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|160|
+|Peak electrical output in kW|178|
 |Electrical torque output in Nm|300|
 |Top speed|160|
 |0-100kph (0-62 mph)|7,5|
@@ -18,11 +18,11 @@ weight: 30
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|403|
-|Basic trim WLTP consumption|21,6|
-|Basic trim WLTP consumption with charging loss|17,6|
-|Top trim WLTP range|359|
-|Top trim WLTP consumption|24,2|
+|Basic trim WLTP range|533|
+|Basic trim WLTP consumption|16,3|
+|Basic trim WLTP consumption with charging loss|18,1|
+|Top trim WLTP range|475|
+|Top trim WLTP consumption|18,3|
 |Top trim WLTP consumption with charging loss|18,5|
 
 

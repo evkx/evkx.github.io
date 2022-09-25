@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh
 linktitle: Ariya 87kWh
-description: Nissan Ariya 87kWh is an all-electric crossover with a WLTP range of up to 403 km (250 miles). EVKX.net have all the details. 
+description: Nissan Ariya 87kWh is an all-electric crossover with a WLTP range of up to 533 km (331 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -30,11 +30,11 @@ We have separated our description of Nissan Ariya 87kWh into sections. If you do
 
 ## Performance
 
-The Nissan Ariya 87kWh has a maximum power of 160KW (218hp). The total torque is 300nm. The 0-100km/h sprint (0-62mph) is performed in 7,5 seconds. The top speed is 160 kph. 
+The Nissan Ariya 87kWh has a maximum power of 178KW (242hp). The total torque is 300nm. The 0-100km/h sprint (0-62mph) is performed in 7,5 seconds. The top speed is 160 kph. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 91kWh and a net capacity of 87kWh, meaning you have a 4kWh buffer for protection. (4,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 403 to 359 km (250-223 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 21,6kWh/100km for the basic version and 24,2kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 91kWh and a net capacity of 87kWh, meaning you have a 4kWh buffer for protection. (4,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 533 to 475 km (331-295 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 16,3kWh/100km for the basic version and 18,3kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 73 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 84% resulting in an actual charge speed including time loss on 79kW. Each charge session would take 54 minutes and 7 seconds. 
 
