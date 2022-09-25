@@ -36,9 +36,9 @@ The Nissan Ariya 87kWh has a maximum power of 178KW (242hp). The total torque is
 
 The battery has a gross capacity of 91kWh and a net capacity of 87kWh, meaning you have a 4kWh buffer for protection. (4,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 533 to 475 km (331-295 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 16,3kWh/100km for the basic version and 18,3kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 73 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 84% resulting in an actual charge speed including time loss on 79kW. Each charge session would take 54 minutes and 7 seconds. 
+The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 71 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 84% resulting in an actual charge speed including time loss on 82kW. Each charge session would take 52 minutes and 23 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 10 hours and 20 minutes to drive. This will requires three charge sessions charging from 2% to 61%. The total time lost for charging will be 120 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 10 hours and 15 minutes to drive. This will requires three charge sessions charging from 2% to 61%. The total time lost for charging will be 115 minutes.   
 ### Onboard charger
 
 
@@ -173,7 +173,7 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 468 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 1725 kg, you can max load 995 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 468 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2400kg, and with the base weight of 1875 kg, you can max load 525 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 
