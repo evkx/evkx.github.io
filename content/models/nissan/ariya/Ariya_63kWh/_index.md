@@ -59,7 +59,7 @@ Dynamic steering is optional on Nissan Ariya 63kWh. Dynamic steering varies the 
 
 The rear and front brakes are cast-iron discs. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in two modes. You can use one-pedal driving or you can coast and use the blended brakes to regen. 
 
 ## Exterior
 
