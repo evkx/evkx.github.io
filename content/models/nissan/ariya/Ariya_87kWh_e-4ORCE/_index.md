@@ -6,6 +6,14 @@ weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE">
+</a>
+<figcaption><h4>Nissan Ariya 87kWh e-4ORCE</h4></figcaption></figur>
+
 We have separated our description of Nissan Ariya 87kWh e-4ORCE into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
@@ -30,7 +38,7 @@ The battery has a gross capacity of 91kWh and a net capacity of 87kWh, meaning y
 
 The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 71 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 84% resulting in an actual charge speed including time loss on 82kW. Each charge session would take 52 minutes and 23 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 10 hours and 15 minutes to drive. This will requires three charge sessions charging from 2% to 61%. The total time lost for charging will be 115 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 10 hours and 29 minutes to drive. This will requires three charge sessions charging from 2% to 69%. The total time lost for charging will be 130 minutes.   
 ### Onboard charger
 
 
@@ -63,6 +71,14 @@ The car has four regular doors and a tailgate. The tailgate is electric powered 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
 The windows from B-pillar and back are tinted. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE">
+</a>
+<figcaption><h4>Nissan Ariya 87kWh e-4ORCE</h4></figcaption></figur>
+
 
 ## Interior
 
@@ -113,6 +129,14 @@ You have wireless charging for your phone.
 
 Nissan Ariya 87kWh e-4ORCE has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel on the left of the frame is 12,3 inches large. The touch screen at the right part of the shared frame is 12,3 inches large. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE">
+</a>
+<figcaption><h4>Nissan Ariya 87kWh e-4ORCE</h4></figcaption></figur>
+
+
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
@@ -152,3 +176,10 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 The cargo capacity in the trunk is 415 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2400kg, and with the base weight of 1875 kg, you can max load 525 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE">
+</a>
+<figcaption><h4>Nissan Ariya 87kWh e-4ORCE</h4></figcaption></figur>
