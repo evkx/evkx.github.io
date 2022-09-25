@@ -10,6 +10,9 @@ weight: 80
 ### Out of Spec Reviews: I Drive The 500hp Tri-Motor Audi E-Tron S For The First Time! 10.10.2021
 
 {{< youtube hlu-UxCKKFo >}}
+### carwow: Audi e-tron S Sportback: Quicker and better than a Model X? 26.02.2021
+
+{{< youtube 3gBU5EvM1KM >}}
 ### Nybiltester: Test av Audi e-Tron 60 S Sportback 12.12.2020
 
 {{< youtube uxjwT4XkXBs >}}
