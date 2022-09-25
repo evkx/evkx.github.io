@@ -49,7 +49,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 Nissan Ariya 87kWh has a front-wheel drive system supported by one motor on the front axle. 
 
-The standard suspension has a fixed height and damping. The ground clearance with this suspension is 185 mm. 
+The standard suspension has a fixed height and damping. The ground clearance with this suspension is 180 mm. 
 
 ### Steering
 
