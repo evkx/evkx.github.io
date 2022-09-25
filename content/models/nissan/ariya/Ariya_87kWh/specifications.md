@@ -1,5 +1,5 @@
 ---
-title: Nissan Ariya 63kWh specifications
+title: Nissan Ariya 87kWh specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -19,10 +19,10 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |Basic trim WLTP range|403|
-|Basic trim WLTP consumption|15,6|
+|Basic trim WLTP consumption|21,6|
 |Basic trim WLTP consumption with charging loss|17,6|
 |Top trim WLTP range|359|
-|Top trim WLTP consumption|17,5|
+|Top trim WLTP consumption|24,2|
 |Top trim WLTP consumption with charging loss|18,5|
 
 
@@ -30,8 +30,8 @@ weight: 30
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
-|Battery gross|66|
-|Battery net|63|
+|Battery gross|91|
+|Battery net|87|
 |Max DC charging|130|
 |Cell architecture|96S2P|
 

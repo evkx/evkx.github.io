@@ -63,7 +63,7 @@ Regenerative braking is available in two modes. You can use one-pedal driving or
 
 ## Exterior
 
-You can choose between 6 different paint colors when ordering this model. 
+You can choose between 9 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
 
 The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
