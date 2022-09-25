@@ -136,11 +136,14 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <figcaption><h4>Audi Q4 50 e-tron</h4></figcaption></figur>
 
 
-### Second-row seat
+### Second-row seats
+
+You can choose two seat types for the second row in the Audi Q4 50 e-tron. 
+
+The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
 
-
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
 
 ## Climate system
@@ -154,6 +157,10 @@ Audi Q4 50 e-tron has several features to make your life as a driver or passenge
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
 Keyless go makes it possible to start the car without needing to use the key. 
+
+The steering wheel is electrically adjustable. 
+
+You have wireless charging for your phone.  
 
 ## User interface and control
 

@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Bjørn Nyland: Nissan Ariya headlights test 25.09.2022
+
+{{< youtube Ximtggrs1ZY >}}
 ### Nybiltester: Nissan Ariya 63kWt Advance - helgetest (i Norge) 19.08.2022
 
 {{< youtube KmAZynL3lrk >}}
