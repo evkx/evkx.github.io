@@ -145,7 +145,7 @@ One type of sound system is available for the Nissan Ariya SR. With the Audi Sou
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Nissan Ariya SR supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
 
-You can choose between two types of headlights for the Nissan Ariya SR. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. In addition, you can choose between two types of taillights. taillight.standardtaillight.etronledbar
+You can choose between two types of headlights for the Nissan Ariya SR. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 ## Driver assistance
 
 The Nissan Ariya SR has several standard and optional driver assistance systems for better safety and comfort.
