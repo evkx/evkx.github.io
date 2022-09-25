@@ -1,5 +1,5 @@
 ---
-title: Nissan Ariya SR specifications
+title: Nissan Ariya 63kWh specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -87,7 +87,7 @@ weight: 30
 |In Car navigation|Yes, standard equipment|
 |Number of avaiable sound systems|2|
 
-### Sound system
+### DAB Audiosystem
 |Spec|Value|
 |----|-----|
 |Number of speakers|6|
