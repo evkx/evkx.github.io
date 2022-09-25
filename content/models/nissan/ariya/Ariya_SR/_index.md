@@ -43,13 +43,13 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 7,2KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 45 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 7,2KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 45 minutes. 
 
 ## Drivetrain
 
 Nissan Ariya SR has a front-wheel drive system supported by one motor on the front axle. 
 
-The standard suspension has a fixed height and damping. The ground clearance with this suspension is 180 mm. 
+The standard suspension has a fixed height and damping. The ground clearance with this suspension is 185 mm. 
 
 ### Steering
 
@@ -57,7 +57,7 @@ Dynamic steering is optional on Nissan Ariya SR. Dynamic steering varies the ste
 
 ### Brakes
 
-
+The rear and front brakes are cast-iron discs. 
 
 Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
@@ -65,18 +65,11 @@ Regenerative braking is available in several modes. The most efficient is automa
 
 You can choose between 8 different paint colors when ordering this model. 
 
-You can also choose several styling options to make your car more unique. 
-exterior.styling.audisline
-
-exterior.styling.blackoptics
-
-Additionally, you can choose between 11 wheels with sizes from 19 to 21 inches. 
-
 The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrical powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
-You can order the car with tinted windows from B-pillar and back. 
+The windows from B-pillar and back are tinted. 
 
 
 <figur>
@@ -126,7 +119,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 ## User interface and control
 
-Nissan Ariya SR has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
+Nissan Ariya SR has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 12,3 inches large and has a 1540 x 720 pixels resolution. 
 
 
 <figur>
@@ -149,15 +142,22 @@ You can choose between two types of headlights for the Nissan Ariya SR. The stan
 ## Driver assistance
 
 The Nissan Ariya SR has several standard and optional driver assistance systems for better safety and comfort.
-
-**Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
 
 
 The Nissan Ariya SR has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
-**Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+**Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+### Driving Automation
+
+
+
+With the ProPILOT  level 2 system, you get the following driving automation features. 
+- Adaptive Cruise control. 
+- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- Automatic parallel parking. (optional) 
+
 
 ## Transportation capabilities
 
