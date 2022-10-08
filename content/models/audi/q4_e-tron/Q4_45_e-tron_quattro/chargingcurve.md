@@ -1,7 +1,7 @@
 ---
-title: Audi Q4 50 e-tron charging curve
+title: Audi Q4 45 e-tron quattro charging curve
 linktitle: Charging curve
-description: Here you find the charging curve for Audi Q4 50 e-tron. 
+description: Here you find the charging curve for Audi Q4 45 e-tron quattro. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
