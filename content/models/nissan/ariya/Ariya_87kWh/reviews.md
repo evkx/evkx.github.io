@@ -4,15 +4,24 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Bjørn Nyland: Nissan Ariya 63/87 kWh FWD driving impressions & summary 08.10.2022
+
+{{< youtube rpzxbMFsY6c >}}
+### Bjørn Nyland: I drove Nissan Ariya 87 kWh until the battery died 07.10.2022
+
+{{< youtube OR5JRd0g_Q8 >}}
+### Bjørn Nyland: Nissan Ariya 87 kWh FWD 1000 km challenge 06.10.2022
+
+{{< youtube 0vQdPwn11CQ >}}
+### Bjørn Nyland: Nissan Ariya 87 kWh range test 05.10.2022
+
+{{< youtube l-JDSCfqvXI >}}
+### Bjørn Nyland: Nissan Ariya Evolve LED Matrix headlights test 02.10.2022
+
+{{< youtube djSg8Py3fAs >}}
+### Bjørn Nyland: Nissan Ariya 63 & 87 kWh charging battle vs Volvo C40 and VW ID5 01.10.2022
+
+{{< youtube rpzxbMFsY6c >}}
 ### Bjørn Nyland: Nissan Ariya headlights test 25.09.2022
 
 {{< youtube Ximtggrs1ZY >}}
-### Nybiltester: Nissan Ariya 63kWt Advance - helgetest (i Norge) 19.08.2022
-
-{{< youtube KmAZynL3lrk >}}
-### Autogefühl: Nissan Ariya driving REVIEW - suddenly the best EV ?? 27.05.2022
-
-{{< youtube fOgrj_cHkpE >}}
-### Fully Charged Show: Nissan Ariya: It Was Worth The Wait!! 23.03.2022
-
-{{< youtube he64g8bL7QY >}}

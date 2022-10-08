@@ -36,9 +36,9 @@ The Nissan Ariya 87kWh has a maximum power of 178KW (242hp). The total torque is
 
 The battery has a gross capacity of 91kWh and a net capacity of 87kWh, meaning you have a 4kWh buffer for protection. (4,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 533 to 475 km (331-295 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 16,3kWh/100km for the basic version and 18,3kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 71 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 84% resulting in an actual charge speed including time loss on 82kW. Each charge session would take 52 minutes and 23 seconds. 
+The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 60 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 65% resulting in an actual charge speed including time loss on 92kW. Each charge session would take 36 minutes and 41 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 10 hours and 15 minutes to drive. This will requires three charge sessions charging from 2% to 61%. The total time lost for charging will be 115 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24,5kWh/100km, 1000km will take 10 hours and 3 minutes to drive. This will requires three charge sessions charging from 2% to 63%. The total time lost for charging will be 104 minutes.   
 ### Onboard charger
 
 
