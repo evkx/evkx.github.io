@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 40 e-tron
 linktitle: Q4 40 e-tron
-description: Audi Q4 40 e-tron is an all-electric premium SUV with a WLTP range of up to 488 km (303 miles). EVKX.net have all the details. 
+description: Audi Q4 40 e-tron is an all-electric premium SUV with a WLTP range of up to 521 km (324 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -30,11 +30,11 @@ We have separated our description of Audi Q4 40 e-tron into sections. If you do 
 
 ## Performance
 
-The Audi Q4 40 e-tron has a maximum power of 160KW (218hp). The total torque is 425nm. The 0-100km/h sprint (0-62mph) is performed in 8,5 seconds. The top speed is 160 kph. 
+The Audi Q4 40 e-tron has a maximum power of 160KW (218hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) is performed in 8,5 seconds. The top speed is 160 kph. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6,6%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 488 to 412 km (303-256 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,7kWh/100km for the basic version and 18,6kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6,6%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 521 to 447 km (324-278 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 14,7kWh/100km for the basic version and 17,1kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53% resulting in an actual charge speed including time loss on 89kW. Each charge session would take 24 minutes and 11 seconds. 
 
@@ -189,6 +189,8 @@ A head-up display is an optional system that presents speed and other important 
 You can choose from two different sound systems on the Audi Q4 40 e-tron. With the Audi Sound system, you get six amplifier channels and eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten amplifier channels and ten speakers with a max system output of 580 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 40 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+
+The models is equipped with 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 You can choose between two types of headlights for the Audi Q4 40 e-tron. The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 
@@ -209,9 +211,20 @@ The Audi Q4 40 e-tron has several standard and optional driver assistance system
 
 
 
-The Audi Q4 40 e-tron has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
-
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+### Driving Automation
+
+The Audi Q4 40 e-tron offers driving automation on level 1 or 2, depending on the equipment level.
+
+With the   level 1 system, you get the following driving automation features. 
+- Cruise control. 
+- Automatic parallel parking. (optional) 
+
+
+With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above. 
+- Adaptive Cruise control. 
+- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+
 
 ## Transportation capabilities
 

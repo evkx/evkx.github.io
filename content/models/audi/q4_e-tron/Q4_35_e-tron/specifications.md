@@ -1,5 +1,5 @@
 ---
-title: Audi Q4 40 e-tron specifications
+title: Audi Q4 35 e-tron specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,33 +8,33 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|160|
+|Peak electrical output in kW|125|
 |Electrical torque output in Nm|310|
 |Top speed|160|
-|0-100kph (0-62 mph)|8,5|
+|0-100kph (0-62 mph)|9|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|521|
-|Basic trim WLTP consumption|14,7|
-|Basic trim WLTP consumption with charging loss|17,3|
-|Top trim WLTP range|447|
-|Top trim WLTP consumption|17,1|
-|Top trim WLTP consumption with charging loss|20|
+|Basic trim WLTP range|357|
+|Basic trim WLTP consumption|1,5|
+|Basic trim WLTP consumption with charging loss|16,4|
+|Top trim WLTP range|323|
+|Top trim WLTP consumption|1,7|
+|Top trim WLTP consumption with charging loss|18,2|
 
 
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
-|Battery gross|82|
-|Battery net|76,6|
+|Battery gross|55|
+|Battery net|5,5|
 |Max DC charging|125|
-|Number of modules|12|
-|Cell architecture|96s3p|
+|Number of modules|8|
+|Cell architecture|96s2p|
 
 
 

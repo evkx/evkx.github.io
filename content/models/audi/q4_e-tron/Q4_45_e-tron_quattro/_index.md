@@ -189,6 +189,8 @@ A head-up display is an optional system that presents speed and other important 
 You can choose from two different sound systems on the Audi Q4 45 e-tron quattro. With the Audi Sound system, you get six amplifier channels and eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten amplifier channels and ten speakers with a max system output of 580 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 45 e-tron quattro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+
+The models is equipped with 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 You can choose between two types of headlights for the Audi Q4 45 e-tron quattro. The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 
@@ -209,9 +211,20 @@ The Audi Q4 45 e-tron quattro has several standard and optional driver assistanc
 
 
 
-The Audi Q4 45 e-tron quattro has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
-
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+### Driving Automation
+
+The Audi Q4 45 e-tron quattro offers driving automation on level 1 or 2, depending on the equipment level.
+
+With the   level 1 system, you get the following driving automation features. 
+- Cruise control. 
+- Automatic parallel parking. (optional) 
+
+
+With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above. 
+- Adaptive Cruise control. 
+- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+
 
 ## Transportation capabilities
 
