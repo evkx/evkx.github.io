@@ -1,7 +1,7 @@
 ---
-title: Audi Q4 35 e-tron
-linktitle: Q4 35 e-tron
-description: Audi Q4 35 e-tron is an all-electric premium SUV with a WLTP range of up to 357 km (222 miles). EVKX.net have all the details. 
+title: Audi Q4 Sportback 35 e-tron
+linktitle: Q4 Sportback 35 e-tron
+description: Audi Q4 Sportback 35 e-tron is an all-electric premium SUV with a WLTP range of up to 349 km (217 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,12 +9,12 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/main_1_st.jpg" alt="Audi Q4 Sportback 35 e-tron" title="Audi Q4 Sportback 35 e-tron">
 </a>
-<figcaption><h4>Audi Q4 35 e-tron</h4></figcaption></figur>
+<figcaption><h4>Audi Q4 Sportback 35 e-tron</h4></figcaption></figur>
 
-We have separated our description of Audi Q4 35 e-tron into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of Audi Q4 Sportback 35 e-tron into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -30,11 +30,11 @@ We have separated our description of Audi Q4 35 e-tron into sections. If you do 
 
 ## Performance
 
-The Audi Q4 35 e-tron has a maximum power of 125KW (170hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) is performed in 9 seconds. The top speed is 160 kph. 
+The Audi Q4 Sportback 35 e-tron has a maximum power of 125KW (170hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) is performed in 9 seconds. The top speed is 160 kph. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 55kWh and a net capacity of 51,5kWh, meaning you have a 3,5kWh buffer for protection. (6,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 357 to 323 km (222-201 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 14,4kWh/100km for the basic version and 15,9kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 55kWh and a net capacity of 51,5kWh, meaning you have a 3,5kWh buffer for protection. (6,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 349 to 317 km (217-197 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 14,8kWh/100km for the basic version and 16,2kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 44 minutes, while a more common scenario of 10-80% would take 24 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 57% resulting in an actual charge speed including time loss on 81kW. Each charge session would take 19 minutes and 21 seconds. 
 
@@ -45,25 +45,17 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 7,2KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 9 minutes. 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/battery_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/battery_1_st.jpg" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
-</a>
-<figcaption><h4>Audi Q4 35 e-tron</h4></figcaption></figur>
-
-
 ## Drivetrain
 
-Audi Q4 35 e-tron has a rear-wheel drive system supported by one motor on the rear axle. 
+Audi Q4 Sportback 35 e-tron has a rear-wheel drive system supported by one motor on the rear axle. 
 
 The standard suspension has steel springs with a fixed height, but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
 
-You can order Audi Q4 35 e-tron with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm. 
+You can order Audi Q4 Sportback 35 e-tron with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm. 
 
 ### Steering
 
-Dynamic steering is optional on Audi Q4 35 e-tron. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is optional on Audi Q4 Sportback 35 e-tron. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -90,10 +82,10 @@ You can order the car with tinted windows from B-pillar and back.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/exterior_1_st.jpg" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/exterior_1_st.jpg" alt="Audi Q4 Sportback 35 e-tron" title="Audi Q4 Sportback 35 e-tron">
 </a>
-<figcaption><h4>Audi Q4 35 e-tron</h4></figcaption></figur>
+<figcaption><h4>Audi Q4 Sportback 35 e-tron</h4></figcaption></figur>
 
 
 ## Interior
@@ -102,7 +94,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are two seat types you can choose from for the front row in the Audi Q4 35 e-tron. 
+There are two seat types you can choose from for the front row in the Audi Q4 Sportback 35 e-tron. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -130,15 +122,15 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/frontseats_1_st.jpg" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/frontseats_1_st.jpg" alt="Audi Q4 Sportback 35 e-tron" title="Audi Q4 Sportback 35 e-tron">
 </a>
-<figcaption><h4>Audi Q4 35 e-tron</h4></figcaption></figur>
+<figcaption><h4>Audi Q4 Sportback 35 e-tron</h4></figcaption></figur>
 
 
 ### Second-row seats
 
-You can choose two seat types for the second row in the Audi Q4 35 e-tron. 
+You can choose two seat types for the second row in the Audi Q4 Sportback 35 e-tron. 
 
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
@@ -148,10 +140,10 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/secondrowseats_1_st.jpg" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/secondrowseats_1_st.jpg" alt="Audi Q4 Sportback 35 e-tron" title="Audi Q4 Sportback 35 e-tron">
 </a>
-<figcaption><h4>Audi Q4 35 e-tron</h4></figcaption></figur>
+<figcaption><h4>Audi Q4 Sportback 35 e-tron</h4></figcaption></figur>
 
 
 ## Climate system
@@ -160,7 +152,7 @@ You can choose from two different climate systems. The 1-zone climate system sup
 
 ## Comfort
 
-Audi Q4 35 e-tron has several features to make your life as a driver or passenger more comfortable. 
+Audi Q4 Sportback 35 e-tron has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -172,39 +164,39 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Audi Q4 35 e-tron has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
+Audi Q4 Sportback 35 e-tron has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/screens_1_st.jpg" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/screens_1_st.jpg" alt="Audi Q4 Sportback 35 e-tron" title="Audi Q4 Sportback 35 e-tron">
 </a>
-<figcaption><h4>Audi Q4 35 e-tron</h4></figcaption></figur>
+<figcaption><h4>Audi Q4 Sportback 35 e-tron</h4></figcaption></figur>
 
 
 A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
 
 ## Infotainment
 
-You can choose from two different sound systems on the Audi Q4 35 e-tron. With the Audi Sound system, you get six amplifier channels and eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten amplifier channels and ten speakers with a max system output of 580 watts. 
+You can choose from two different sound systems on the Audi Q4 Sportback 35 e-tron. With the Audi Sound system, you get six amplifier channels and eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten amplifier channels and ten speakers with a max system output of 580 watts. 
 
-In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 35 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 Sportback 35 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The models is equipped with 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
-You can choose between two types of headlights for the Audi Q4 35 e-tron. The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 
+You can choose between two types of headlights for the Audi Q4 Sportback 35 e-tron. The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/headlights_1_st.jpg" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/headlights_1_st.jpg" alt="Audi Q4 Sportback 35 e-tron" title="Audi Q4 Sportback 35 e-tron">
 </a>
-<figcaption><h4>Audi Q4 35 e-tron</h4></figcaption></figur>
+<figcaption><h4>Audi Q4 Sportback 35 e-tron</h4></figcaption></figur>
 
 ## Driver assistance
 
-The Audi Q4 35 e-tron has several standard and optional driver assistance systems for better safety and comfort.
+The Audi Q4 Sportback 35 e-tron has several standard and optional driver assistance systems for better safety and comfort.
 
 **Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
@@ -214,7 +206,7 @@ The Audi Q4 35 e-tron has several standard and optional driver assistance system
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
-The Audi Q4 35 e-tron offers driving automation on level 1 or 2, depending on the equipment level.
+The Audi Q4 Sportback 35 e-tron offers driving automation on level 1 or 2, depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
 - Cruise control. 
@@ -234,7 +226,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/trunk_1_st.jpg" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/trunk_1_st.jpg" alt="Audi Q4 Sportback 35 e-tron" title="Audi Q4 Sportback 35 e-tron">
 </a>
-<figcaption><h4>Audi Q4 35 e-tron</h4></figcaption></figur>
+<figcaption><h4>Audi Q4 Sportback 35 e-tron</h4></figcaption></figur>

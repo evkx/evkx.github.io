@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 45 e-tron quattro
 linktitle: Q4 45 e-tron quattro
-description: Audi Q4 45 e-tron quattro is an all-electric premium SUV with a WLTP range of up to 488 km (303 miles). EVKX.net have all the details. 
+description: Audi Q4 45 e-tron quattro is an all-electric premium SUV with a WLTP range of up to 512 km (318 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -34,7 +34,7 @@ The Audi Q4 45 e-tron quattro has a maximum power of 195KW (265hp). The total to
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6,6%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 488 to 412 km (303-256 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,7kWh/100km for the basic version and 18,6kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6,6%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 512 to 434 km (318-270 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,0kWh/100km for the basic version and 17,6kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53% resulting in an actual charge speed including time loss on 89kW. Each charge session would take 24 minutes and 11 seconds. 
 

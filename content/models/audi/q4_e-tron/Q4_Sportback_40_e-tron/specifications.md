@@ -1,5 +1,5 @@
 ---
-title: Audi Q4 45 e-tron quattro specifications
+title: Audi Q4 Sportback 40 e-tron specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,22 +8,22 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|195|
-|Electrical torque output in Nm|425|
-|Top speed|180|
-|0-100kph (0-62 mph)|6,9|
+|Peak electrical output in kW|160|
+|Electrical torque output in Nm|310|
+|Top speed|160|
+|0-100kph (0-62 mph)|8,5|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|512|
-|Basic trim WLTP consumption|15,0|
-|Basic trim WLTP consumption with charging loss|17,1|
-|Top trim WLTP range|434|
-|Top trim WLTP consumption|17,6|
-|Top trim WLTP consumption with charging loss|20,2|
+|Basic trim WLTP range|528|
+|Basic trim WLTP consumption|14,5|
+|Basic trim WLTP consumption with charging loss|16,7|
+|Top trim WLTP range|452|
+|Top trim WLTP consumption|16,9|
+|Top trim WLTP consumption with charging loss|19,5|
 
 
 
@@ -42,17 +42,17 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |Length|4588|
-|Height|1632|
+|Height|1614|
 |Width excluding mirrors|1865|
 |Widht including mirrors|2108|
 |Wheelbase|2764|
 |Track width front|1587|
 |Track width rear|165|
-|Drag coefficient|0,28|
+|Drag coefficient|0,27|
 |Frontal area|2,56|
 |Overhang angle front|16,9|
 |Overhang angle rear|19,4|
-|Turning circle|11,5|
+|Turning circle|10,2|
 
 ## Driver Assistance
 |Spec|Value|

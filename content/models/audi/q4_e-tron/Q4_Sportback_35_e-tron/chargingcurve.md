@@ -1,7 +1,7 @@
 ---
-title: Audi Q4 35 e-tron charging curve
+title: Audi Q4 Sportback 35 e-tron charging curve
 linktitle: Charging curve
-description: Here you find the charging curve for Audi Q4 35 e-tron. 
+description: Here you find the charging curve for Audi Q4 Sportback 35 e-tron. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
