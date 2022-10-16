@@ -1,7 +1,7 @@
 ---
-title: Volkswagen ID.4 Pro 4MOTION
-linktitle: ID.4 Pro 4MOTION
-description: Volkswagen ID.4 Pro 4MOTION is an all-electric SUV with a WLTP range of up to 510 km (317 miles). EVKX.net have all the details. 
+title: Volkswagen ID.4 Pro
+linktitle: ID.4 Pro
+description: Volkswagen ID.4 Pro is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,12 +9,12 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION">
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/main_1_st.jpg" alt="Volkswagen ID.4 Pro" title="Volkswagen ID.4 Pro">
 </a>
-<figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
+<figcaption><h4>Volkswagen ID.4 Pro</h4></figcaption></figur>
 
-We have separated our description of Volkswagen ID.4 Pro 4MOTION into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of Volkswagen ID.4 Pro into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -30,11 +30,11 @@ We have separated our description of Volkswagen ID.4 Pro 4MOTION into sections. 
 
 ## Performance
 
-The Volkswagen ID.4 Pro 4MOTION has a maximum power of 195KW (265hp). The total torque is 425nm. The 0-100km/h sprint (0-62mph) is performed in 6,9 seconds. The top speed is 180 kph. 
+The Volkswagen ID.4 Pro has a maximum power of 128KW (174hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) is performed in 10,4 seconds. The top speed is 160 kph. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 510 to 409 km (317-254 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,1kWh/100km for the basic version and 18,8kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 529 to 409 km (329-254 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 14,6kWh/100km for the basic version and 18,8kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43% resulting in an actual charge speed including time loss on 101kW. Each charge session would take 19 minutes and 43 seconds. 
 
@@ -45,17 +45,25 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/charging_1_st.jpg" alt="Volkswagen ID.4 Pro" title="Volkswagen ID.4 Pro">
+</a>
+<figcaption><h4>Volkswagen ID.4 Pro</h4></figcaption></figur>
+
+
 ## Drivetrain
 
-Volkswagen ID.4 Pro 4MOTION has an all-wheel drive system supported by two motors. One on each axle. 
+Volkswagen ID.4 Pro has a rear-wheel drive system supported by one motor on the rear axle. 
 
 The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
 
-You can order Volkswagen ID.4 Pro 4MOTION with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm. 
+You can order Volkswagen ID.4 Pro with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm. 
 
 ### Steering
 
-Dynamic steering is optional on Volkswagen ID.4 Pro 4MOTION. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is optional on Volkswagen ID.4 Pro. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -76,10 +84,10 @@ You can order the car with tinted windows from B-pillar and back.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION">
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/exterior_1_st.jpg" alt="Volkswagen ID.4 Pro" title="Volkswagen ID.4 Pro">
 </a>
-<figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
+<figcaption><h4>Volkswagen ID.4 Pro</h4></figcaption></figur>
 
 
 ## Interior
@@ -88,7 +96,7 @@ You can choose between two types of seats with preconfigured materials. The seat
 
 ### First row seats
 
-There are two seat types you can choose from for the front row in the Volkswagen ID.4 Pro 4MOTION. 
+There are two seat types you can choose from for the front row in the Volkswagen ID.4 Pro. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -120,10 +128,10 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/frontseats_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION">
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/frontseats_1_st.jpg" alt="Volkswagen ID.4 Pro" title="Volkswagen ID.4 Pro">
 </a>
-<figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
+<figcaption><h4>Volkswagen ID.4 Pro</h4></figcaption></figur>
 
 
 ### Second-row seat
@@ -135,10 +143,10 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION">
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/secondrowseats_1_st.jpg" alt="Volkswagen ID.4 Pro" title="Volkswagen ID.4 Pro">
 </a>
-<figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
+<figcaption><h4>Volkswagen ID.4 Pro</h4></figcaption></figur>
 
 
 ## Climate system
@@ -147,7 +155,7 @@ You can choose from two different climate systems. The 2-zone Climatronic climat
 
 ## Comfort
 
-Volkswagen ID.4 Pro 4MOTION has several features to make your life as a driver or passenger more comfortable. 
+Volkswagen ID.4 Pro has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -157,7 +165,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Two different screen setups are available on the Volkswagen ID.4 Pro 4MOTION. 
+Two different screen setups are available on the Volkswagen ID.4 Pro. 
 
 The standard layout has the following configuration. Behind the steering wheel is a digital instrument cluster mounted on the steering wheel column, and on top of the dashboard is a multifunction screen. The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 10 inches large. 
 
@@ -165,47 +173,47 @@ The optional  layout has the following configuration. Behind the steering wheel 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION">
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/screens_1_st.jpg" alt="Volkswagen ID.4 Pro" title="Volkswagen ID.4 Pro">
 </a>
-<figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
+<figcaption><h4>Volkswagen ID.4 Pro</h4></figcaption></figur>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose between two sound systems on the Volkswagen ID.4 Pro 4MOTION. With the Sound system, you get six amplifier channels and six speakers with a max system output of 140 watts. With the Volkswagen Soundsystem, you get 12 amplifier channels and six speakers with a max system output of 450 watts. 
+You can choose between two sound systems on the Volkswagen ID.4 Pro. With the Sound system, you get six amplifier channels and six speakers with a max system output of 140 watts. With the Volkswagen Soundsystem, you get 12 amplifier channels and six speakers with a max system output of 450 watts. 
 
-In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID.4 Pro 4MOTION supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID.4 Pro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The models is equipped with 4 USB-C connections as standard. 
 ## Lights
 
-You can choose between two types of headlights for the Volkswagen ID.4 Pro 4MOTION. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
+You can choose between two types of headlights for the Volkswagen ID.4 Pro. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/headlights_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION">
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/headlights_1_st.jpg" alt="Volkswagen ID.4 Pro" title="Volkswagen ID.4 Pro">
 </a>
-<figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
+<figcaption><h4>Volkswagen ID.4 Pro</h4></figcaption></figur>
 
 ## Driver assistance
 
-The Volkswagen ID.4 Pro 4MOTION has several standard and optional driver assistance systems for better safety and comfort.
+The Volkswagen ID.4 Pro has several standard and optional driver assistance systems for better safety and comfort.
 
 **Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
 
 
-The Volkswagen ID.4 Pro 4MOTION has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The Volkswagen ID.4 Pro has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
-The Volkswagen ID.4 Pro 4MOTION offers driving automation on level 1 or 2, depending on the equipment level.
+The Volkswagen ID.4 Pro offers driving automation on level 1 or 2, depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
 - Adaptive Cruise control. 
@@ -221,11 +229,11 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 The cargo capacity in the trunk is 543 liters. With the rear seat down, it is 1575 liters. On the roof, you can load up to 75kg. Max weight is 2750kg, and with the base weight of 2164 kg, you can max load 586 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, 750kg. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION">
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/trunk_1_st.jpg" alt="Volkswagen ID.4 Pro" title="Volkswagen ID.4 Pro">
 </a>
-<figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
+<figcaption><h4>Volkswagen ID.4 Pro</h4></figcaption></figur>
