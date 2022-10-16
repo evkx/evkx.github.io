@@ -84,7 +84,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
+You can choose between two types of seats. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
 ### First row seats
 
@@ -109,6 +109,7 @@ The following functionalities are available on the **ergoActive Top-Sport** seat
 - electric lumbar support 
 - adjustable thigh support 
 - integrated headrest 
+- massage 
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />
@@ -126,7 +127,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 
 
@@ -171,7 +172,7 @@ You can choose between two sound systems on the Volkswagen ID.4 GTX 4MOTION. Wit
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID.4 GTX 4MOTION supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
+The models is equipped with 4 USB-C connections as standard. 
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  

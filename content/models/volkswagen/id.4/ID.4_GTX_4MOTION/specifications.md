@@ -90,8 +90,8 @@ weight: 30
 ## Infotainment
 |Spec|Value|
 |----|-----|
-|Android Auto support|Yes (Smartphone Interface), optional equipment (option IU1 )|
-|Apple Carplay support|Yes (Smartphone Interface), optional equipment (option IU1 )|
+|Android Auto support|Yes, standard equipment|
+|Apple Carplay support|Yes, standard equipment|
 |In Car navigation|Yes (Discover Pro), optional equipment|
 |Number of avaiable sound systems|2|
 
