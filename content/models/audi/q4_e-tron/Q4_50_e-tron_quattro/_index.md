@@ -57,7 +57,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Audi Q4 50 e-tron quattro has an all-wheel drive system supported by two motors. One on each axle. 
 
-The standard suspension has steel springs with a fixed height, but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
+The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
 
 You can order Audi Q4 50 e-tron quattro with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm. 
 
@@ -69,7 +69,7 @@ Dynamic steering is optional on Audi Q4 50 e-tron quattro. Dynamic steering vari
 
 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -182,11 +182,11 @@ Audi Q4 50 e-tron quattro has multiple integrated screens. Behind the steering w
 <figcaption><h4>Audi Q4 50 e-tron quattro</h4></figcaption></figur>
 
 
-A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose from two different sound systems on the Audi Q4 50 e-tron quattro. With the Audi Sound system, you get six amplifier channels and eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten amplifier channels and ten speakers with a max system output of 580 watts. 
+You can choose between two sound systems on the Audi Q4 50 e-tron quattro. With the Audi Sound system, you get six amplifier channels and eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten amplifier channels and ten speakers with a max system output of 580 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 50 e-tron quattro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

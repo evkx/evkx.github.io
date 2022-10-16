@@ -67,7 +67,7 @@ Dynamic steering is standard on Mercedes-EQ EQA 350 4MATIC. Dynamic steering var
 
 The rear and front brakes are cast-iron discs. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -175,7 +175,7 @@ Mercedes-EQ EQA 350 4MATIC has twin screens on a shared frame mounted with brack
 <figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
 
 
-A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
 
@@ -183,7 +183,7 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-You can choose from two different sound systems on the Mercedes-EQ EQA 350 4MATIC. With the Standard, you get five amplifier channels and seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. 
+You can choose between two sound systems on the Mercedes-EQ EQA 350 4MATIC. With the Standard, you get five amplifier channels and seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQA 350 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

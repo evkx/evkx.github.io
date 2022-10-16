@@ -67,7 +67,7 @@ Dynamic steering is standard on BMW i4 M50. Dynamic steering varies the steering
 
 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -174,11 +174,11 @@ BMW i4 M50 has twin screens on a shared frame mounted with brackets on top of th
 <figcaption><h4>BMW i4 M50</h4></figcaption></figur>
 
 
-A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose from two different sound systems on the BMW i4 M50. With the Hifi Sound system, you get seven amplifier channels and ten speakers with a max system output of 200 watts. With the Harman Kardon Surround Sound system, you get nine amplifier channels and 17 speakers with a max system output of 445 watts. 
+You can choose between two sound systems on the BMW i4 M50. With the Hifi Sound system, you get seven amplifier channels and ten speakers with a max system output of 200 watts. With the Harman Kardon Surround Sound system, you get nine amplifier channels and 17 speakers with a max system output of 445 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW i4 M50 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

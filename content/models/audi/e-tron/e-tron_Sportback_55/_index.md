@@ -61,7 +61,7 @@ Dynamic steering is standard on Audi e-tron Sportback 55. Dynamic steering varie
 
 The rear and front brakes are cast-iron discs. The front discs are 375mm, and the rear discs are 350mm. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -221,11 +221,11 @@ Audi e-tron Sportback 55 has multiple integrated screens. Behind the steering wh
 <figcaption><h4>Audi e-tron Sportback 55</h4></figcaption></figur>
 
 
-A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose from two different sound systems on the Audi e-tron Sportback 55. With the Audi Sound system, you get ten amplifier channels and ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 amplifier channels and 16 speakers with a max system output of 700 watts. 
+You can choose between two sound systems on the Audi e-tron Sportback 55. With the Audi Sound system, you get ten amplifier channels and ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 amplifier channels and 16 speakers with a max system output of 700 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron Sportback 55 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

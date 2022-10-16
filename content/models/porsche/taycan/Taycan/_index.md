@@ -73,7 +73,7 @@ Dynamic steering is standard on Porsche Taycan. Dynamic steering varies the stee
 
 You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a cast-iron disc coated with tungsten carbide. It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm, and the rear discs are 410mm. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -190,11 +190,11 @@ Porsche Taycan has multiple integrated screens. Behind the steering wheel is a d
 <figcaption><h4>Porsche Taycan</h4></figcaption></figur>
 
 
-A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose from three different sound systems on the Porsche Taycan. With the Porsche Sound system, you get ten amplifier channels and ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 amplifier channels and 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 amplifier channels and 21 speakers with a max system output of 1455 watts. 
+You can choose between three sound systems on the Porsche Taycan. With the Porsche Sound system, you get ten amplifier channels and ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 amplifier channels and 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 amplifier channels and 21 speakers with a max system output of 1455 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Taycan supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights

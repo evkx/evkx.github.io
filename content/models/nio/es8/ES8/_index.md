@@ -72,7 +72,7 @@ Dynamic steering is standard on Nio ES8. Dynamic steering varies the steering ra
 
 The rear and front brakes are cast-iron discs. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -171,7 +171,7 @@ The  screen behind the steering wheel mounted into the dashboard is 9,8 inches l
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
 
 
-A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
 
@@ -179,7 +179,7 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-You can choose from two different sound systems on the Nio ES8. With the Surroundsystem, you get seven amplifier channels and seven speakers with a max system output of  watts. With the Premium sound system, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
+You can choose between two sound systems on the Nio ES8. With the Surroundsystem, you get seven amplifier channels and seven speakers with a max system output of  watts. With the Premium sound system, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 

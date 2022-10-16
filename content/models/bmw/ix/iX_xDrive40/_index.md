@@ -61,7 +61,7 @@ Dynamic steering is standard on BMW iX xDrive40. Dynamic steering varies the ste
 
 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -159,11 +159,11 @@ BMW iX xDrive40 has twin screens on a shared frame mounted with brackets on top 
 <figcaption><h4>BMW iX xDrive40</h4></figcaption></figur>
 
 
-A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose from two different sound systems on the BMW iX xDrive40. With the Harman Kardon Surround Sound system, you get 18 amplifier channels and 18 speakers with a max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get NULL amplifier channels and 30 speakers with a max system output of 1615 watts. 
+You can choose between two sound systems on the BMW iX xDrive40. With the Harman Kardon Surround Sound system, you get 18 amplifier channels and 18 speakers with a max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get NULL amplifier channels and 30 speakers with a max system output of 1615 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW iX xDrive40 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

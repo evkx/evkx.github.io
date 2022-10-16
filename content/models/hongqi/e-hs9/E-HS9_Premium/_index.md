@@ -49,7 +49,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Hongqi E-HS9 Premium has an all-wheel drive system supported by two motors. One on each axle. 
 
-The  suspension has steel springs with a fixed height, but an optional damping adjustment. The ground clearance with this suspension is 200 mm. 
+The  suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 200 mm. 
 
 ### Steering
 

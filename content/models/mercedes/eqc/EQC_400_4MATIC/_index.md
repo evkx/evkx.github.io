@@ -59,7 +59,7 @@ Dynamic steering is standard on Mercedes-EQ EQC 400 4MATIC. Dynamic steering var
 
 The rear and front brakes are cast-iron discs. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -94,11 +94,11 @@ Mercedes-EQ EQC 400 4MATIC has twin screens on a shared frame mounted with brack
 <figcaption><h4>Mercedes-EQ EQC 400 4MATIC</h4></figcaption></figur>
 
 
-A head-up display is an optional system that presents speed and other important driver information just in front of the driver in the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose from three different sound systems on the Mercedes-EQ EQC 400 4MATIC. With the Standard, you get five amplifier channels and seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
+You can choose between three sound systems on the Mercedes-EQ EQC 400 4MATIC. With the Standard, you get five amplifier channels and seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQC 400 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 ## Lights
