@@ -1,7 +1,7 @@
 ---
-title: Volkswagen ID.4 GTX 4MOTION charging curve
+title: Volkswagen ID.4 Pro 4MOTION charging curve
 linktitle: Charging curve
-description: Here you find the charging curve for Volkswagen ID.4 GTX 4MOTION. 
+description: Here you find the charging curve for Volkswagen ID.4 Pro 4MOTION. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
