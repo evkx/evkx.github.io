@@ -36,7 +36,7 @@ If you are not happy enough with the standard performance, you can add the AMG D
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 96,12kWh and a net capacity of 90,6kWh, meaning you have a 5,52kWh buffer for protection. (5,7%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 470 to 375 km (292-233 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 19,3kWh/100km for the basic version and 24,2kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 95,8kWh and a net capacity of 90,6kWh, meaning you have a 5,2kWh buffer for protection. (5,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 470 to 375 km (292-233 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 19,3kWh/100km for the basic version and 24,2kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 55 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 64% resulting in an actual charge speed including time loss on 121kW. Each charge session would take 28 minutes and 48 seconds. 
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 Mercedes-AMG EQE SUV 53 4MATIC+ has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 181 mm and max 206 mm. 
 
 ### Steering
 
@@ -187,7 +187,7 @@ You can choose between two sound systems on the Mercedes-AMG EQE SUV 53 4MATIC+.
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-AMG EQE SUV 53 4MATIC+ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
+The models is equipped with 4 USB-C connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the Mercedes-AMG EQE SUV 53 4MATIC+. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 

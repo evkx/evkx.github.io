@@ -6,6 +6,14 @@ weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" alt="Volkswagen ID.5 GTX 4MOTION" title="Volkswagen ID.5 GTX 4MOTION">
+</a>
+<figcaption><h4>Volkswagen ID.5 GTX 4MOTION</h4></figcaption></figur>
+
 We have separated our description of Volkswagen ID.5 GTX 4MOTION into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
@@ -66,6 +74,14 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 You can order the car with tinted windows from B-pillar and back. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/exterior_1_st.jpg" alt="Volkswagen ID.5 GTX 4MOTION" title="Volkswagen ID.5 GTX 4MOTION">
+</a>
+<figcaption><h4>Volkswagen ID.5 GTX 4MOTION</h4></figcaption></figur>
+
+
 ## Interior
 
 You can choose between two types of seats with preconfigured materials. The seat layout is the traditional five seats with two in front and three seats in the rear. 
@@ -99,11 +115,27 @@ You can choose from 1 different materials/colors for this seat type. <br />
 <br />
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/frontseats_1_st.jpg" alt="Volkswagen ID.5 GTX 4MOTION" title="Volkswagen ID.5 GTX 4MOTION">
+</a>
+<figcaption><h4>Volkswagen ID.5 GTX 4MOTION</h4></figcaption></figur>
+
+
 ### Second-row seat
 
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/secondrowseats_1_st.jpg" alt="Volkswagen ID.5 GTX 4MOTION" title="Volkswagen ID.5 GTX 4MOTION">
+</a>
+<figcaption><h4>Volkswagen ID.5 GTX 4MOTION</h4></figcaption></figur>
 
 
 ## Climate system
@@ -128,6 +160,14 @@ The standard layout has the following configuration. Behind the steering wheel i
 
 The optional  layout has the following configuration. Behind the steering wheel is a digital instrument cluster mounted on the steering wheel column, and on top of the dashboard is a multifunction screen. The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12 inches large and has a 1920 x 869 pixels resolution. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/screens_1_st.jpg" alt="Volkswagen ID.5 GTX 4MOTION" title="Volkswagen ID.5 GTX 4MOTION">
+</a>
+<figcaption><h4>Volkswagen ID.5 GTX 4MOTION</h4></figcaption></figur>
+
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
@@ -140,6 +180,14 @@ The models is equipped with 4 USB-C connections as standard.
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/headlights_1_st.jpg" alt="Volkswagen ID.5 GTX 4MOTION" title="Volkswagen ID.5 GTX 4MOTION">
+</a>
+<figcaption><h4>Volkswagen ID.5 GTX 4MOTION</h4></figcaption></figur>
+
 ## Driver assistance
 
 The Volkswagen ID.5 GTX 4MOTION has several standard and optional driver assistance systems for better safety and comfort.
@@ -171,3 +219,10 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 543 liters. With the rear seat down, it is 1575 liters. On the roof, you can load up to 75kg. Max weight is 2750kg, and with the base weight of 2164 kg, you can max load 586 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/trunk_1_st.jpg" alt="Volkswagen ID.5 GTX 4MOTION" title="Volkswagen ID.5 GTX 4MOTION">
+</a>
+<figcaption><h4>Volkswagen ID.5 GTX 4MOTION</h4></figcaption></figur>

@@ -38,9 +38,10 @@ weight: 30
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
-|Battery gross|96,12|
+|Battery gross|95,8|
 |Battery net|90,6|
 |Max DC charging|170|
+|Cell architecture|90s4p|
 
 
 
