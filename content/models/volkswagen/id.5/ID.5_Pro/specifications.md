@@ -1,5 +1,5 @@
 ---
-title: Volkswagen ID.5 GTX 4MOTION specifications
+title: Volkswagen ID.5 Pro specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,21 +8,18 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|195|
-|Peak electrical output boost in kW|220|
-|Electrical torque output in Nm|425|
-|Electrical torque output boost in Nm|460|
-|Top speed|180|
-|0-100kph (0-62 mph)|6,9|
-|0-100kph (0-62 mph) boost|6,3|
+|Peak electrical output in kW|128|
+|Electrical torque output in Nm|310|
+|Top speed|160|
+|0-100kph (0-62 mph)|10,4|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|496|
-|Basic trim WLTP consumption|15,5|
+|Basic trim WLTP range|529|
+|Basic trim WLTP consumption|14,6|
 |Basic trim WLTP consumption with charging loss|17,9|
 |Top trim WLTP range|409|
 |Top trim WLTP consumption|18,8|
@@ -44,17 +41,18 @@ weight: 30
 ## Dimensions
 |Spec|Value|
 |----|-----|
-|Length|4599|
-|Height|1615|
-|Width excluding mirrors|1852|
+|Length|4582|
+|Height|1637|
+|Width excluding mirrors|1865|
 |Widht including mirrors|2108|
-|Wheelbase|2771|
+|Wheelbase|2764|
 |Track width front|1587|
-|Track width rear|1567|
-|Drag coefficient|0,27|
+|Track width rear|1562|
+|Drag coefficient|0,28|
+|Frontal area|2,56|
 |Overhang angle front|16,9|
 |Overhang angle rear|19,4|
-|Turning circle|11,57|
+|Turning circle|11,6|
 
 ## Driver Assistance
 |Spec|Value|

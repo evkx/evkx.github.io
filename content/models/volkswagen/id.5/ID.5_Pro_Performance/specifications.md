@@ -1,5 +1,5 @@
 ---
-title: Volkswagen ID.5 GTX 4MOTION specifications
+title: Volkswagen ID.5 Pro Performance specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,21 +8,18 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|195|
-|Peak electrical output boost in kW|220|
-|Electrical torque output in Nm|425|
-|Electrical torque output boost in Nm|460|
-|Top speed|180|
-|0-100kph (0-62 mph)|6,9|
-|0-100kph (0-62 mph) boost|6,3|
+|Peak electrical output in kW|150|
+|Electrical torque output in Nm|310|
+|Top speed|160|
+|0-100kph (0-62 mph)|8,4|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|496|
-|Basic trim WLTP consumption|15,5|
+|Basic trim WLTP range|529|
+|Basic trim WLTP consumption|14,6|
 |Basic trim WLTP consumption with charging loss|17,9|
 |Top trim WLTP range|409|
 |Top trim WLTP consumption|18,8|
@@ -51,10 +48,8 @@ weight: 30
 |Wheelbase|2771|
 |Track width front|1587|
 |Track width rear|1567|
-|Drag coefficient|0,27|
-|Overhang angle front|16,9|
-|Overhang angle rear|19,4|
-|Turning circle|11,57|
+|Drag coefficient|0,26|
+|Turning circle|10,2|
 
 ## Driver Assistance
 |Spec|Value|
