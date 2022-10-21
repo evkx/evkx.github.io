@@ -49,9 +49,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Volkswagen ID.5 GTX 4MOTION has an all-wheel drive system supported by two motors. One on each axle. 
 
-The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
+The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 170 mm. 
 
-You can order Volkswagen ID.5 GTX 4MOTION with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm. 
+You can order Volkswagen ID.5 GTX 4MOTION with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 153 mm. 
 
 ### Steering
 
