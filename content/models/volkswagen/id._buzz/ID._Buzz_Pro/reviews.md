@@ -28,3 +28,9 @@ weight: 80
 ### Autogefühl: IVW ID Buzz driving REVIEW passenger vs cargo - will the EV Microbus convince Multivan T7 customers? 07.09.2022
 
 {{< youtube RP2CgARYit8 >}}
+### Jay Lenos's Garage: Gabriel Iglesias & Jay Voyage In The Volkswagen Buzz | CNBC Prime 07.09.2022
+
+{{< youtube PjLAFovXHjY >}}
+### Out of Spec Reviews: I Drive The Volkswagen ID. Buzz For The First Time! 07.09.2022
+
+{{< youtube XKv2BOrq-HU >}}

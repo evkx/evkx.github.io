@@ -154,6 +154,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
+comfort.easyentryseatcomfort.easyentryseat
+
 You have wireless charging for your phone.  
 
 ## User interface and control
@@ -198,12 +200,12 @@ The Volkswagen ID. Buzz Pro offers driving automation on level 1 or 2, depending
 
 With the   level 1 system, you get the following driving automation features. 
 - Adaptive Cruise control. 
+- Automatic parallel parking. (optional) 
 
 
 With the Assistantpackage plus  level 2 system, you get additional driving automation features to the ones listed above. 
 - Cruise control. 
 - Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- Automatic parallel parking. (optional) 
 
 
 ## Transportation capabilities
