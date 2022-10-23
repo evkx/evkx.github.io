@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Bjørn Nyland: VW ID Buzz driving impressions & summary 23.10.2022
+
+{{< youtube r1SN83r-LEg >}}
 ### Bjørn Nyland: I drove VW ID Buzz until the battery died 22.10.2022
 
 {{< youtube oByKcNZ8l7o >}}
