@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Out of Spec Reviews: 2023 Mercedes EQB 350 4MATIC 70mph Highway Range Test 22.10.2022
+
+{{< youtube UqJE14hDZPI >}}
 ### Auto Express: The Mercedes EQB has NO rivals: review 29.07.2022
 
 {{< youtube XUfkbiiq4CY >}}
