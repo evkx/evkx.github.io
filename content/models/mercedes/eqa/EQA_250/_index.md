@@ -195,7 +195,7 @@ The Mercedes-EQ EQA 250 has a **lane-keeping** assistant as a standard system. T
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
-The Mercedes-EQ EQA 250 offers driving automation on level 1. 
+driverassistance.drivingautomation.intro.level1
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
 - Adaptive Cruise control. 

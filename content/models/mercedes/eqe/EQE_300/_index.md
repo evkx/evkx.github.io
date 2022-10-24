@@ -38,7 +38,7 @@ The battery has a gross capacity of 96,12kWh and a net capacity of 89kWh, meanin
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 54 minutes, while a more common scenario of 10-80% would take 28 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 64% resulting in an actual charge speed including time loss on 121kW. Each charge session would take 27 minutes and 24 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21,0kWh/100km, 1000km will take 9 hours and 20 minutes to drive. This will requires two charge sessions charging from 2% to 70%. The total time lost for charging will be 60 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 20,0kWh/100km, 1000km will take 9 hours and 15 minutes to drive. This will requires two charge sessions charging from 2% to 65%. The total time lost for charging will be 56 minutes.   
 ### Onboard charger
 
 
@@ -185,7 +185,7 @@ You can choose between two sound systems on the Mercedes-EQ EQE 300. With the Ad
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQE 300 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
+The models is equipped with 2 USB-C connections as standard. As an option you can get additional 4 USB-C connections. 
 ## Lights
 
 You can choose between two types of headlights for the Mercedes-EQ EQE 300. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
