@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Long Range
 linktitle: Model 3 Long Range
-description: Tesla Model 3 Long Range is an all-electric crossover with a WLTP range of up to 602 km (374 miles). EVKX.net have all the details. 
+description: intro.sedan.mid
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

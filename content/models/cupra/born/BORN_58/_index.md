@@ -49,7 +49,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 CUPRA BORN 58 has a rear-wheel drive system supported by one motor on the rear axle. 
 
-The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 150 mm. 
+The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 131 mm. 
 
 ### Steering
 

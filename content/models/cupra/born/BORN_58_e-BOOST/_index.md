@@ -49,7 +49,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 CUPRA BORN 58 e-BOOST has a rear-wheel drive system supported by one motor on the rear axle. 
 
-The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 150 mm. 
+The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 131 mm. 
 
 ### Steering
 
@@ -194,6 +194,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0kg. Max weight is 2270kg, and with the base weight of 1765 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0kg. Max weight is 2280kg, and with the base weight of 1785 kg, you can max load 495 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
