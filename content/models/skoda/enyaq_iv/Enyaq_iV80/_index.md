@@ -82,7 +82,7 @@ The car has four regular doors and a tailgate. You can choose an option to have 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can not open the panoramic roof but can block the light with a curtain.  
 
-You can order the car with tinted windows from B-pillar and back. 
+The windows from B-pillar and back are tinted. 
 
 
 <figur>
@@ -105,7 +105,7 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment (optional)
 - height adjustable headrest 
 - heating (optional)
-- memory driver seat (optional)
+- memory driver seat 
 - electric lumbar support (optional)
 - adjustable thigh support 
 - massage (optional)
@@ -118,7 +118,7 @@ The following functionalities are available on the **Sport** seat.
 
 - electric adjustment (optional)
 - heating 
-- memory driver seat (optional)
+- memory driver seat 
 - electric lumbar support 
 - adjustable thigh support 
 - integrated headrest 
@@ -153,7 +153,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 ## Climate system
 
-You can choose from two different climate systems. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. The 3-zone climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
+There is one climate system available. The 3-zone climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
 
 ## Comfort
 
@@ -181,14 +181,14 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the SKODA Enyaq iV80. With the Sound system, you get four amplifier channels and four speakers with a max system output of 80 watts. With the Canton Soundsystem, you get eight amplifier channels and 12 speakers with a max system output of 550 watts. 
+You can choose between two sound systems on the SKODA Enyaq iV80. With the Sound system, you get four amplifier channels and eight speakers with a max system output of 80 watts. With the Canton Soundsystem, you get eight amplifier channels and ten speakers with a max system output of 550 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the SKODA Enyaq iV80 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The models is equipped with 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
-Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  
 
 
 <figur>
@@ -208,24 +208,20 @@ The SKODA Enyaq iV80 has several standard and optional driver assistance systems
 
 The SKODA Enyaq iV80 has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
-**Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+**Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
-The SKODA Enyaq iV80 offers driving automation on level 1 or 2, depending on the equipment level.
 
-With the   level 1 system, you get the following driving automation features. 
+
+With the MAX  level 2 system, you get the following driving automation features. 
 - Adaptive Cruise control. 
-
-
-With the MAX  level 2 system, you get additional driving automation features to the ones listed above. 
-- Cruise control. 
 - Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 - Automatic parallel parking. (optional) 
 
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 543 liters. With the rear seat down, it is 1575 liters. On the roof, you can load up to 75kg. Max weight is 2540kg, and with the base weight of 2032 kg, you can max load 508 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 1710 liters. On the roof, you can load up to 75kg. Max weight is 2540kg, and with the base weight of 2032 kg, you can max load 508 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, 750kg. 
 

@@ -1,5 +1,5 @@
 ---
-title: SKODA Enyaq iV80 specifications
+title: SKODA Enyaq iV80x specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,22 +8,22 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|150|
-|Electrical torque output in Nm|310|
+|Peak electrical output in kW|195|
+|Electrical torque output in Nm|425|
 |Top speed|160|
-|0-100kph (0-62 mph)|8,6|
+|0-100kph (0-62 mph)|6,9|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|534|
-|Basic trim WLTP consumption|14,4|
-|Basic trim WLTP consumption with charging loss|16,7|
-|Top trim WLTP range|510|
-|Top trim WLTP consumption|15,1|
-|Top trim WLTP consumption with charging loss|18,4|
+|Basic trim WLTP range|514|
+|Basic trim WLTP consumption|15,0|
+|Basic trim WLTP consumption with charging loss|16,9|
+|Top trim WLTP range|496|
+|Top trim WLTP consumption|15,5|
+|Top trim WLTP consumption with charging loss|17,4|
 
 
 
