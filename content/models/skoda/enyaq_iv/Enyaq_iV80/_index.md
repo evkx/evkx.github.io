@@ -57,9 +57,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 SKODA Enyaq iV80 has a rear-wheel drive system supported by one motor on the rear axle. 
 
-The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
+The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 186 mm. 
 
-You can order SKODA Enyaq iV80 with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm. 
+You can order SKODA Enyaq iV80 with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 171 mm. 
 
 ### Steering
 
@@ -73,7 +73,9 @@ Regenerative braking is available in several modes. The most efficient is automa
 
 ## Exterior
 
-You can choose between 8 different paint colors when ordering this model. 
+You can choose between 9 different paint colors when ordering this model. 
+exterior.styling.sportline
+
 Additionally, you can choose between 5 wheels with sizes from 19 to 21 inches. 
 
 The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrical powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
@@ -108,11 +110,11 @@ The following functionalities are available on the **standard** seat.
 - adjustable thigh support 
 - massage (optional)
 
-You can choose from 2 different materials/colors for this seat type. <br />
+You can choose from 5 different materials/colors for this seat type. <br />
 <br />
 
 
-The following functionalities are available on the **ergoActive Top-Sport** seat. 
+The following functionalities are available on the **Sport** seat. 
 
 - electric adjustment (optional)
 - heating 
@@ -179,7 +181,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the SKODA Enyaq iV80. With the Sound system, you get four amplifier channels and four speakers with a max system output of 80 watts. With the Canton Soundsystem, you get 12 amplifier channels and six speakers with a max system output of 450 watts. 
+You can choose between two sound systems on the SKODA Enyaq iV80. With the Sound system, you get four amplifier channels and four speakers with a max system output of 80 watts. With the Canton Soundsystem, you get eight amplifier channels and 12 speakers with a max system output of 550 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the SKODA Enyaq iV80 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
@@ -215,7 +217,7 @@ With the   level 1 system, you get the following driving automation features.
 - Adaptive Cruise control. 
 
 
-With the Assistantpackage plus  level 2 system, you get additional driving automation features to the ones listed above. 
+With the MAX  level 2 system, you get additional driving automation features to the ones listed above. 
 - Cruise control. 
 - Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 - Automatic parallel parking. (optional) 

@@ -101,6 +101,6 @@ weight: 30
 ### Canton Soundsystem
 |Spec|Value|
 |----|-----|
-|Number of speakers|6|
-|Channels|12|
-|Total effect|450|
+|Number of speakers|12|
+|Channels|8|
+|Total effect|550|
