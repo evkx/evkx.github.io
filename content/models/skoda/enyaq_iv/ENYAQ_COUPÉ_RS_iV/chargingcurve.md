@@ -1,7 +1,7 @@
 ---
-title: SKODA Enyaq iV80x charging curve
+title: SKODA ENYAQ COUPÉ RS iV charging curve
 linktitle: Charging curve
-description: Here you find the charging curve for SKODA Enyaq iV80x. 
+description: Here you find the charging curve for SKODA ENYAQ COUPÉ RS iV. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

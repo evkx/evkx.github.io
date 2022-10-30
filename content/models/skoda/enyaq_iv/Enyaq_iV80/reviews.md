@@ -7,6 +7,9 @@ weight: 80
 ### Kris Rifa: I drove the Skoda Enyaq IV80 down to 0% | This is what happened AND this is how far I got! 18.05.2021
 
 {{< youtube q35pd1WnsTM >}}
+### Kris Rifa: Why The Skoda Enyaq Is Better Than The VW ID4! 16.05.2021
+
+{{< youtube JfEZrhem5pk >}}
 ### Bjørn Nyland: Skoda Enyaq iV 80 1000 km challenge 11.05.2021
 
 {{< youtube EYLQzWnALE4 >}}
