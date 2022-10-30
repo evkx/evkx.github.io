@@ -4,6 +4,15 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Kris Rifa: DON'T BUY A Skoda Enyaq Coupe Before Watching This! 06.10.2022
+
+{{< youtube uebnKXdXH04 >}}
+### Kris Rifa: Skoda Enyaq Coupe vRS 610km Range Test (NHSR V2.0) 02.10.2022
+
+{{< youtube 8m-IcX5yR1s >}}
+### Kris Rifa: Skoda Enyaq Coupe vRS | Motorway Range Test 23.09.2022
+
+{{< youtube Eduqi_9XJYM >}}
 ### Bjørn Nyland: Skoda Enyaq Coupé RS driving impressions and summary 28.07.2022
 
 {{< youtube 0Mjb2ufPbjY >}}
