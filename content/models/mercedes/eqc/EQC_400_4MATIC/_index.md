@@ -34,7 +34,7 @@ The Mercedes-EQ EQC 400 4MATIC has a maximum power of 300KW (408hp). The total t
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 86kWh and a net capacity of 80kWh, meaning you have a 6kWh buffer for protection. (7,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 432 to 400 km (268-249 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 18,5kWh/100km for the basic version and 20,0kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 86kWh and a net capacity of 80kWh, meaning you have a 6kWh buffer for protection. (7,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 432 to 400 km (268-249 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,5kWh/100km for the basic version and 20,0kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 112kW. A full charge from 0 - 100% would take 67 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 67% resulting in an actual charge speed including time loss on 82kW. Each charge session would take 35 minutes and 30 seconds. 
 
@@ -59,7 +59,7 @@ Dynamic steering is standard on Mercedes-EQ EQC 400 4MATIC. Dynamic steering var
 
 The rear and front brakes are cast-iron discs. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 

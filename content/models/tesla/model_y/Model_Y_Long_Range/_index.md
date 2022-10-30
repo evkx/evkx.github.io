@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Long Range
 linktitle: Model Y Long Range
-description: Tesla Model Y Long Range is an all-electric crossover with a WLTP range of up to 542 km (337 miles). EVKX.net have all the details. 
+description: Tesla Model Y Long Range is an all-electric coupe SUV with a WLTP range of up to 542 km (337 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -34,7 +34,7 @@ The Tesla Model Y Long Range has a maximum power of 324KW (441hp). The total tor
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 75kWh, meaning you have a 7kWh buffer for protection. (8,5%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 542 to 533 km (337-331 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 13,8kWh/100km for the basic version and 14,1kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 82kWh and a net capacity of 75kWh, meaning you have a 7kWh buffer for protection. (8,5%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 542 to 533 km (337-331 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,8kWh/100km for the basic version and 14,1kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 46% resulting in an actual charge speed including time loss on 109kW. Each charge session would take 17 minutes and 55 seconds. 
 
@@ -66,7 +66,7 @@ Regenerative braking is available through one-pedal driving. Adaptive regen or c
 You can choose between 5 different paint colors when ordering this model. 
 Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches. 
 
-The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
+The car has four regular doors and a tailgate. The tailgate is electric-powered and has a kick-sensor as standard. 
 
 There is only one roof for this model. The standard is a panoramic roof. 
 

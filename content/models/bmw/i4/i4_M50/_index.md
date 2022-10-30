@@ -34,7 +34,7 @@ The BMW i4 M50 has a maximum power of 250KW (340hp). The total torque is 430nm. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 83,9kWh and a net capacity of 80,7kWh, meaning you have a 3,2kWh buffer for protection. (3,8%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 521 to 416 km (324-259 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,5kWh/100km for the basic version and 19,4kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 83,9kWh and a net capacity of 80,7kWh, meaning you have a 3,2kWh buffer for protection. (3,8%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 521 to 416 km (324-259 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,5kWh/100km for the basic version and 19,4kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 56 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 50% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 19 minutes and 20 seconds. 
 
@@ -67,7 +67,7 @@ Dynamic steering is standard on BMW i4 M50. Dynamic steering varies the steering
 
 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -182,7 +182,7 @@ You can choose between two sound systems on the BMW i4 M50. With the Hifi Sound 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW i4 M50 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 4 USB-C connections as standard. 
+The model has 4 USB-C connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the BMW i4 M50. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 

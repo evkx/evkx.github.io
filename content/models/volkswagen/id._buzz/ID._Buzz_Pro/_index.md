@@ -34,7 +34,7 @@ The Volkswagen ID. Buzz Pro has a maximum power of 150KW (204hp). The total torq
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 418 to 410 km (260-255 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 18,4kWh/100km for the basic version and 18,8kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 418 to 410 km (260-255 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,4kWh/100km for the basic version and 18,8kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45% resulting in an actual charge speed including time loss on 110kW. Each charge session would take 19 minutes and 52 seconds. 
 
@@ -67,14 +67,14 @@ Dynamic steering is optional on Volkswagen ID. Buzz Pro. Dynamic steering varies
 
 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
 You can choose between 12 different paint colors when ordering this model. 
 Additionally, you can choose between 5 wheels with sizes from 19 to 21 inches. 
 
-The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrical powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
+The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrically powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
 
 There is only one roof for this model. The standard is just a regular roof. 
 
@@ -178,7 +178,7 @@ One type of sound system is available for the Volkswagen ID. Buzz Pro. With the 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID. Buzz Pro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 5 USB-C connections as standard. 
+The model has 5 USB-C connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the Volkswagen ID. Buzz Pro. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 

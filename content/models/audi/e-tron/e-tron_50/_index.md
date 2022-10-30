@@ -34,7 +34,7 @@ The Audi e-tron 50 has a maximum power of 230KW (313hp). The total torque is 540
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 71kWh and a net capacity of 64kWh, meaning you have a 7kWh buffer for protection. (9,9%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 341 to 282 km (212-175 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 18,8kWh/100km for the basic version and 22,7kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 71kWh and a net capacity of 64kWh, meaning you have a 7kWh buffer for protection. (9,9%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 341 to 282 km (212-175 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,8kWh/100km for the basic version and 22,7kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 72% resulting in an actual charge speed including time loss on 92kW. Each charge session would take 28 minutes and 30 seconds. 
 
@@ -61,7 +61,7 @@ Dynamic steering is standard on Audi e-tron 50. Dynamic steering varies the stee
 
 The rear and front brakes are cast-iron discs. The front discs are 375mm, and the rear discs are 350mm. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -221,7 +221,7 @@ You can choose between two sound systems on the Audi e-tron 50. With the Audi So
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron 50 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
+The model has 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 You can choose between three types of headlights for the Audi e-tron 50. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 

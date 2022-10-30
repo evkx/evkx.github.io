@@ -34,7 +34,7 @@ The Mercedes-EQ EQB 250 has a maximum power of 140KW (190hp). The total torque i
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 69,7kWh and a net capacity of 66,5kWh, meaning you have a 3,2kWh buffer for protection. (4,6%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 474 to 423 km (295-263 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 14,0kWh/100km for the basic version and 15,7kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 69,7kWh and a net capacity of 66,5kWh, meaning you have a 3,2kWh buffer for protection. (4,6%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 474 to 423 km (295-263 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,0kWh/100km for the basic version and 15,7kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 112kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 70% resulting in an actual charge speed including time loss on 84kW. Each charge session would take 31 minutes and 19 seconds. 
 
@@ -59,7 +59,7 @@ Dynamic steering is standard on Mercedes-EQ EQB 250. Dynamic steering varies the
 
 The rear and front brakes are cast-iron discs. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -68,7 +68,7 @@ You can choose between 10 different paint colors when ordering this model.
 
 Additionally, you can choose between 6 wheels with sizes from 18 to 19 inches. 
 
-The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
+The car has four regular doors and a tailgate. The tailgate is electric-powered and has a kick-sensor as standard. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
@@ -181,7 +181,7 @@ You can choose between two sound systems on the Mercedes-EQ EQB 250. With the St
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQB 250 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
+The model has 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

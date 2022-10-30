@@ -36,7 +36,7 @@ If you are not happy enough with the standard performance, you can add the AMG D
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 107,8kWh, meaning you have a 12,2kWh buffer for protection. (10,2%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 570 to 513 km (354-319 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 18,9kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 120kWh and a net capacity of 107,8kWh, meaning you have a 12,2kWh buffer for protection. (10,2%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 570 to 513 km (354-319 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,9kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 210kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 34 seconds. 
 
@@ -69,7 +69,7 @@ Dynamic steering is standard on Mercedes-AMG EQS 53 4MATIC+. Dynamic steering va
 
 You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The front discs are 415mm, and the rear discs are 378mm. The second option brakes uses ceramic discs. The front discs are 440mm, and the rear discs are 378mm. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -78,7 +78,7 @@ The optional AMG Night Package finishes selected exterior elements in high-gloss
 
 Additionally, you can choose between 4 wheels with sizes from 21 to 22 inches. 
 
-The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
+The car has four regular doors and a tailgate. The tailgate is electric-powered and has a kick-sensor as standard. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
@@ -194,7 +194,7 @@ You can choose between two sound systems on the Mercedes-AMG EQS 53 4MATIC+. Wit
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-AMG EQS 53 4MATIC+ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
+The model has 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 

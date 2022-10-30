@@ -34,7 +34,7 @@ The Audi Q4 45 e-tron quattro has a maximum power of 195KW (265hp). The total to
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6,6%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 512 to 434 km (318-270 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,0kWh/100km for the basic version and 17,6kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6,6%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 512 to 434 km (318-270 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,0kWh/100km for the basic version and 17,6kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53% resulting in an actual charge speed including time loss on 89kW. Each charge session would take 24 minutes and 11 seconds. 
 
@@ -69,7 +69,7 @@ Dynamic steering is optional on Audi Q4 45 e-tron quattro. Dynamic steering vari
 
 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -82,7 +82,7 @@ The black optics design package is an option. This package includes a black sing
 
 Additionally, you can choose between 11 wheels with sizes from 19 to 21 inches. 
 
-The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrical powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
+The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrically powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
@@ -190,7 +190,7 @@ You can choose between two sound systems on the Audi Q4 45 e-tron quattro. With 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 45 e-tron quattro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
+The model has 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 You can choose between two types of headlights for the Audi Q4 45 e-tron quattro. The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 

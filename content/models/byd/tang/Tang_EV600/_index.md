@@ -65,7 +65,7 @@ Regenerative braking is available through one-pedal driving combined with blende
 
 You can choose between 5 different paint colors when ordering this model. 
 
-The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
+The car has four regular doors and a tailgate. The tailgate is electric-powered and has a kick-sensor as standard. 
 
 There is only one roof for this model. The standard is a panoramic roof. 
 

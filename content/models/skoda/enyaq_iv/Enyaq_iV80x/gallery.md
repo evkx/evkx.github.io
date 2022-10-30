@@ -62,6 +62,13 @@ data-pswp-height="2001"
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_3_st.jpg" alt="SKODA Enyaq iV80x" />
 </a>
+<a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="2001" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_4_st.jpg" alt="SKODA Enyaq iV80x" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/headlights_1.jpg"
 data-pswp-width="3000"
@@ -82,6 +89,13 @@ data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/interior_2_st.jpg" alt="SKODA Enyaq iV80x" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/interior_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/interior_3.jpg"
+data-pswp-width="3000"
+data-pswp-height="2001" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/interior_3_st.jpg" alt="SKODA Enyaq iV80x" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1.jpg"
@@ -110,6 +124,13 @@ data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_3_st.jpg" alt="SKODA Enyaq iV80x" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="2001" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_4_st.jpg" alt="SKODA Enyaq iV80x" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_1.jpg"

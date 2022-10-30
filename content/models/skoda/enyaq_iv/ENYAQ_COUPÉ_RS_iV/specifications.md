@@ -49,12 +49,12 @@ weight: 30
 |Width excluding mirrors|1879|
 |Widht including mirrors|2148|
 |Wheelbase|2768|
-|Track width front|1587|
-|Track width rear|1562|
-|Drag coefficient|0,258|
-|Overhang angle front|15,4|
-|Overhang angle rear|16,7|
-|Turning circle|9,3|
+|Track width front|1600|
+|Track width rear|1573|
+|Drag coefficient|0,248|
+|Overhang angle front|14,3|
+|Overhang angle rear|17,3|
+|Turning circle|10,8|
 
 ## Driver Assistance
 |Spec|Value|

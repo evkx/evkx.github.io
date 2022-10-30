@@ -34,7 +34,7 @@ The Volkswagen ID.3 Pro S has a maximum power of 150KW (204hp). The total torque
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 553 to 548 km (344-341 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 13,9kWh/100km for the basic version and 14,1kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 553 to 548 km (344-341 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,9kWh/100km for the basic version and 14,1kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 66 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53% resulting in an actual charge speed including time loss on 89kW. Each charge session would take 24 minutes and 17 seconds. 
 
@@ -59,14 +59,14 @@ Dynamic steering is optional on Volkswagen ID.3 Pro S. Dynamic steering varies t
 
 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
 You can choose between 5 different paint colors when ordering this model. 
 Additionally, you can choose between 3 wheels with sizes from 18 to 20 inches. 
 
-The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrical powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
+The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrically powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can not open the panoramic roof but can block the light with a curtain.  
 
@@ -159,7 +159,7 @@ You can choose between two sound systems on the Volkswagen ID.3 Pro S. With the 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID.3 Pro S supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 4 USB-C connections as standard. 
+The model has 4 USB-C connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the Volkswagen ID.3 Pro S. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 

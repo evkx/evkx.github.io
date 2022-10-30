@@ -34,7 +34,7 @@ The Nissan Ariya 87kWh has a maximum power of 178KW (242hp). The total torque is
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 91kWh and a net capacity of 87kWh, meaning you have a 4kWh buffer for protection. (4,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 533 to 475 km (331-295 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 16,3kWh/100km for the basic version and 18,3kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 91kWh and a net capacity of 87kWh, meaning you have a 4kWh buffer for protection. (4,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 533 to 475 km (331-295 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,3kWh/100km for the basic version and 18,3kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 60 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 65% resulting in an actual charge speed including time loss on 92kW. Each charge session would take 36 minutes and 41 seconds. 
 
@@ -66,7 +66,7 @@ Regenerative braking is available in two modes. You can use one-pedal driving or
 You can choose between 9 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
 
-The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
+The car has four regular doors and a tailgate. The tailgate is electric-powered and has a kick-sensor as standard. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 

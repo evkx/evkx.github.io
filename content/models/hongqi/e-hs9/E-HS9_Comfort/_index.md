@@ -66,7 +66,7 @@ Regenerative braking is available through one-pedal driving. Adaptive regen or c
 You can choose between 6 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 21 to 22 inches. 
 
-The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
+The car has four regular doors and a tailgate. The tailgate is electric-powered and has a kick-sensor as standard. 
 
 There is only one roof for this model. The standard is a panoramic roof. 
 
@@ -153,7 +153,7 @@ One type of sound system is available for the Hongqi E-HS9 Comfort. With the Hon
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The models is equipped with 1 USB-C connections as standard. The models is equipped with 3 USB-A connections as standard. 
+The model has 1 USB-C connections as standard. The models is equipped with 3 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

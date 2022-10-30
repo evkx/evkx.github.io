@@ -72,14 +72,14 @@ Dynamic steering is standard on Nio ES8. Dynamic steering varies the steering ra
 
 The rear and front brakes are cast-iron discs. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
 You can choose between 5 different paint colors when ordering this model. 
 Additionally, you can choose between 4 wheels with sizes from 19 to 21 inches. 
 
-The car has four regular doors and a tailgate. The tailgate is electric powered and has a kick-sensor as standard. 
+The car has four regular doors and a tailgate. The tailgate is electric-powered and has a kick-sensor as standard. 
 
 There is only one roof for this model. The standard is a panoramic roof. 
 

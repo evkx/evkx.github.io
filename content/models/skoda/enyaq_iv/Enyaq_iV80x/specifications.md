@@ -18,12 +18,9 @@ weight: 30
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|514|
-|Basic trim WLTP consumption|15,0|
-|Basic trim WLTP consumption with charging loss|16,9|
-|Top trim WLTP range|496|
-|Top trim WLTP consumption|15,5|
-|Top trim WLTP consumption with charging loss|17,4|
+|WLTP range|504|
+|WLTP consumption|15,3|
+|WLTP consumption with charging loss|17,2|
 
 
 
@@ -51,7 +48,7 @@ weight: 30
 |Drag coefficient|0,258|
 |Overhang angle front|15,4|
 |Overhang angle rear|16,7|
-|Turning circle|9,3|
+|Turning circle|10,8|
 
 ## Driver Assistance
 |Spec|Value|

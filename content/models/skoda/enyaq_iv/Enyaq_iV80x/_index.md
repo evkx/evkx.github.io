@@ -1,7 +1,7 @@
 ---
 title: SKODA Enyaq iV80x
 linktitle: Enyaq iV80x
-description: SKODA Enyaq iV80x is an all-electric SUV with a WLTP range of up to 514 km (319 miles). EVKX.net have all the details. 
+description: SKODA Enyaq iV80x is an all-electric SUV with a WLTP range of up to 504 km (313 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -34,7 +34,7 @@ The SKODA Enyaq iV80x has a maximum power of 195KW (265hp). The total torque is 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 514 to 496 km (319-308 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 15,0kWh/100km for the basic version and 15,5kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 504 km (313 mi).   The consumption is 15,3kWh/100km for the WLTP standard test. 
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43% resulting in an actual charge speed including time loss on 101kW. Each charge session would take 19 minutes and 43 seconds. 
 
@@ -57,7 +57,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 SKODA Enyaq iV80x has an all-wheel drive system supported by two motors. One on each axle. 
 
-The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 186 mm. 
+The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 187 mm. 
 
 You can order SKODA Enyaq iV80x with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 171 mm. 
 
@@ -69,7 +69,7 @@ Dynamic steering is optional on SKODA Enyaq iV80x. Dynamic steering varies the s
 
 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -78,7 +78,7 @@ exterior.styling.sportline
 
 Additionally, you can choose between 5 wheels with sizes from 19 to 21 inches. 
 
-The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrical powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
+The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrically powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can not open the panoramic roof but can block the light with a curtain.  
 
@@ -153,7 +153,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 ## Climate system
 
-There is one climate system available. The 3-zone climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
+There is one climate system available. The 3-zone Climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
 
 ## Comfort
 
@@ -185,7 +185,7 @@ You can choose between two sound systems on the SKODA Enyaq iV80x. With the Soun
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the SKODA Enyaq iV80x supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
+The model has 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  
@@ -223,7 +223,7 @@ With the MAX  level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 1710 liters. On the roof, you can load up to 75kg. Max weight is 2750kg, and with the base weight of 2117 kg, you can max load 633 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
 
 
 <figur>

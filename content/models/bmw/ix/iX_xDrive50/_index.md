@@ -34,7 +34,7 @@ The BMW iX xDrive50 has a maximum power of 385KW (523hp). The total torque is 76
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 111kWh and a net capacity of 105,2kWh, meaning you have a 5,8kWh buffer for protection. (5,2%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 631 to 550 km (392-342 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 16,7kWh/100km for the basic version and 19,1kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 111kWh and a net capacity of 105,2kWh, meaning you have a 5,8kWh buffer for protection. (5,2%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 631 to 550 km (392-342 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,7kWh/100km for the basic version and 19,1kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 58 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 53% resulting in an actual charge speed including time loss on 135kW. Each charge session would take 23 minutes and 25 seconds. 
 
@@ -59,7 +59,7 @@ Dynamic steering is standard on BMW iX xDrive50. Dynamic steering varies the ste
 
 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -165,7 +165,7 @@ You can choose between two sound systems on the BMW iX xDrive50. With the Harman
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW iX xDrive50 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 6 USB-C connections as standard. 
+The model has 6 USB-C connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the BMW iX xDrive50. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 

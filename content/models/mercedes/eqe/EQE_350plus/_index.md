@@ -34,7 +34,7 @@ The Mercedes-EQ EQE 350+ has a maximum power of 215KW (292hp). The total torque 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 96,12kWh and a net capacity of 89kWh, meaning you have a 7,12kWh buffer for protection. (7,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 639 to 550 km (397-342 mi). Bigger wheels are an example of an option that increases consumption and reduces range.   The consumption is between 13,9kWh/100km for the basic version and 16,2kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 96,12kWh and a net capacity of 89kWh, meaning you have a 7,12kWh buffer for protection. (7,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 639 to 550 km (397-342 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,9kWh/100km for the basic version and 16,2kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 54 minutes, while a more common scenario of 10-80% would take 28 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 64% resulting in an actual charge speed including time loss on 121kW. Each charge session would take 27 minutes and 24 seconds. 
 
@@ -67,7 +67,7 @@ Dynamic steering is standard on Mercedes-EQ EQE 350+. Dynamic steering varies th
 
 You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The second option brakes uses ceramic discs. 
 
-Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and use regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
 
 ## Exterior
 
@@ -185,7 +185,7 @@ You can choose between two sound systems on the Mercedes-EQ EQE 350+. With the A
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQE 350+ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The models is equipped with 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
+The model has 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 You can choose between two types of headlights for the Mercedes-EQ EQE 350+. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
