@@ -59,7 +59,6 @@ weight: 30
 |Lane keeping|Yes (Audi Active Lane Assist), standard equipment|
 |Lane departure warning|Yes (Audi Active Lane Assist), standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
-|Automatic Parallel Parking|Yes (Audi park assist), optional equipment (option 7X5 )|
 |Reversing camera|Yes, optional equipment|
 |360 camera|Yes, optional equipment (option PCZ )|
 |Rear cross traffic alert|Yes (Cross traffic assist rear), optional equipment (option PCM )|

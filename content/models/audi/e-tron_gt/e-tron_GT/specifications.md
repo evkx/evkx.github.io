@@ -61,8 +61,6 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes (Audi Active Lane Assist), standard equipment|
-|Cruise control|Yes, standard equipment|
-|Autonomous driving|Yes (Adaptive cruise assist), optional equipment (option PCC )|
 |Lane departure warning|Yes (Audi Active Lane Assist), standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
 |Reversing camera|Yes, optional equipment|
