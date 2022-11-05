@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron Sportback S
-linktitle: e-tron Sportback S
-description: Audi e-tron Sportback S is an all-electric luxury coupe SUV with a WLTP range of up to 379 km (236 miles). EVKX.net have all the details. 
+title: Audi e-tron S Sportback
+linktitle: e-tron S Sportback
+description: Audi e-tron S Sportback is an all-electric luxury coupe SUV with a WLTP range of up to 379 km (236 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,12 +9,12 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_sportback_s/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_sportback_s/main_1_st.jpg" alt="Audi e-tron Sportback S" title="Audi e-tron Sportback S">
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/main_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback">
 </a>
-<figcaption><h4>Audi e-tron Sportback S</h4></figcaption></figur>
+<figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>
 
-We have separated our description of Audi e-tron Sportback S into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of Audi e-tron S Sportback into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -30,7 +30,7 @@ We have separated our description of Audi e-tron Sportback S into sections. If y
 
 ## Performance
 
-With overboost, the Audi e-tron Sportback S has a maximum power of 370KW (503hp). Without overboost, it is 320KW (435hp). The torque is 973nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,5 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 kph. 
+With overboost, the Audi e-tron S Sportback has a maximum power of 370KW (503hp). Without overboost, it is 320KW (435hp). The torque is 973nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,5 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 kph. 
 
 ## Battery, range, and charging
 
@@ -47,15 +47,15 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 ## Drivetrain
 
-Audi e-tron Sportback S has an all-wheel drive system supported by two motors. One on each axle. 
+Audi e-tron S Sportback has an all-wheel drive system supported by two motors. One on each axle. 
 
 The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
 
-You can order Audi e-tron Sportback S with an alternative Adaptive Air Suspension Sport suspension. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
+You can order Audi e-tron S Sportback with an alternative Adaptive Air Suspension Sport suspension. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
 
 ### Steering
 
-Dynamic steering is standard on Audi e-tron Sportback S. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is standard on Audi e-tron S Sportback. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -78,10 +78,10 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_sportback_s/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_sportback_s/exterior_1_st.jpg" alt="Audi e-tron Sportback S" title="Audi e-tron Sportback S">
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/exterior_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback">
 </a>
-<figcaption><h4>Audi e-tron Sportback S</h4></figcaption></figur>
+<figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>
 
 
 ## Interior
@@ -90,7 +90,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are three seat types you can choose from for the front row in the Audi e-tron Sportback S. 
+There are three seat types you can choose from for the front row in the Audi e-tron S Sportback. 
 
 The following functionalities are available on the **s-line sport** seat. 
 
@@ -140,10 +140,10 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_sportback_s/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_sportback_s/frontseats_1_st.jpg" alt="Audi e-tron Sportback S" title="Audi e-tron Sportback S">
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/frontseats_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback">
 </a>
-<figcaption><h4>Audi e-tron Sportback S</h4></figcaption></figur>
+<figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>
 
 
 ### Second-row seat
@@ -153,13 +153,17 @@ You can choose from 4 different materials/colors for this seat type. <br />
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 
+You can choose from 1 different materials/colors for this seat type. <br />
+<br />
+
+
 ## Climate system
 
 You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 
 ## Comfort
 
-Audi e-tron Sportback S has several features to make your life as a driver or passenger more comfortable. 
+Audi e-tron S Sportback has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -173,43 +177,43 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Audi e-tron Sportback S has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there are two different screens. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. The touch screen at the bottom of the center console is 8,6 inches large and has a 1280 x 660 pixels resolution. 
+Audi e-tron S Sportback has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there are two different screens. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. The touch screen at the bottom of the center console is 8,6 inches large and has a 1280 x 660 pixels resolution. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_sportback_s/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_sportback_s/screens_1_st.jpg" alt="Audi e-tron Sportback S" title="Audi e-tron Sportback S">
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/screens_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback">
 </a>
-<figcaption><h4>Audi e-tron Sportback S</h4></figcaption></figur>
+<figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose between two sound systems on the Audi e-tron Sportback S. With the Audi Sound system, you get ten amplifier channels and ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 amplifier channels and 16 speakers with a max system output of 700 watts. 
+You can choose between two sound systems on the Audi e-tron S Sportback. With the Audi Sound system, you get ten amplifier channels and ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 amplifier channels and 16 speakers with a max system output of 700 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron Sportback S supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron S Sportback supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
-You can choose between three types of headlights for the Audi e-tron Sportback S. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
+You can choose between three types of headlights for the Audi e-tron S Sportback. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
 ## Driver assistance
 
-The Audi e-tron Sportback S has several standard and optional driver assistance systems for better safety and comfort.
+The Audi e-tron S Sportback has several standard and optional driver assistance systems for better safety and comfort.
 
 **Efficiency assist** is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
 
 
-The Audi e-tron Sportback S has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The Audi e-tron S Sportback has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
-The Audi e-tron Sportback S offers driving automation on level 1 or 2, depending on the equipment level.
+The Audi e-tron S Sportback offers driving automation on level 1 or 2, depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
 - Cruise control. 
@@ -229,7 +233,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_sportback_s/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_sportback_s/trunk_1_st.jpg" alt="Audi e-tron Sportback S" title="Audi e-tron Sportback S">
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback">
 </a>
-<figcaption><h4>Audi e-tron Sportback S</h4></figcaption></figur>
+<figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>

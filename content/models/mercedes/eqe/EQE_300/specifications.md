@@ -53,8 +53,6 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes (Active Lane keeping Assist), standard equipment|
-|Cruise control|Yes, standard equipment|
-|Adaptive cruise control|Yes (Active Distance Assist), optional equipment|
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes (Attention Assist), standard equipment|
 |Reversing camera|Yes, optional equipment|

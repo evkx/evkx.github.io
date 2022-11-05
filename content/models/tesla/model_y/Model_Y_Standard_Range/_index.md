@@ -115,6 +115,10 @@ You can choose from 2 different materials/colors for this seat type. <br />
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 
+You can choose from 1 different materials/colors for this seat type. <br />
+<br />
+
+
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_standard_range/secondrowseats_1.jpg">
@@ -170,6 +174,8 @@ Tesla Model Y Standard Range has a single screen. The dashboard’s center has a
 One type of sound system is available for the Tesla Model Y Standard Range. With the Tesla Premium Sound, you get five amplifier channels and 13 speakers with a max system output of 560 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
+
+
 ## Lights
 
 The standard headlights use LED technology.  

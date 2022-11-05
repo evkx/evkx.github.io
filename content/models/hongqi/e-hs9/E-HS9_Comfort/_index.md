@@ -109,6 +109,10 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - height adjustable headrest 
 - heating 
 
+You can choose from 1 different materials/colors for this seat type. <br />
+<br />
+
+
 ### Third-row seats
 
 

@@ -63,7 +63,6 @@ weight: 30
 |Lane keeping|Yes (Active Lane keeping Assist), standard equipment|
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes (Attention Assist), standard equipment|
-|Automatic Parallel Parking|Yes (Actie Parking Assist), optional equipment|
 |Reversing camera|Yes, optional equipment|
 |360 camera|Yes, standard equipment|
 |Rear cross traffic alert|Not available|

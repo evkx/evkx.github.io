@@ -126,6 +126,10 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 
 
+## Climate system
+
+There is one climate system available. 
+
 ## Comfort
 
 Audi e-tron GT has several features to make your life as a driver or passenger more comfortable. 
@@ -145,6 +149,8 @@ A head-up display is an optional system that presents speed and other important 
 You can choose between two sound systems on the Audi e-tron GT. With the Audi Sound system, you get ten amplifier channels and ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 amplifier channels and 16 speakers with a max system output of 700 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron GT supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+
+
 ## Lights
 
 You can choose between three types of headlights for the Audi e-tron GT. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 

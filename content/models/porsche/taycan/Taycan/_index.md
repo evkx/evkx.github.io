@@ -165,10 +165,22 @@ The standard option is two integrated seats in the second row. In addition, the 
 - heating (optional)
 - integrated headrest 
 
+You can choose from 1 different materials/colors for this seat type. <br />
+<br />
+
+
 The second option is two integrated seats in the second row with a third smaller seat in between. In addition, the following functionalities are available. 
 
 - heating (optional)
 - integrated headrest 
+
+You can choose from 1 different materials/colors for this seat type. <br />
+<br />
+
+
+## Climate system
+
+There is one climate system available. 
 
 ## Comfort
 
@@ -197,6 +209,8 @@ A head-up display is an optional system that presents speed and other important 
 You can choose between three sound systems on the Porsche Taycan. With the Porsche Sound system, you get ten amplifier channels and ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 amplifier channels and 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 amplifier channels and 21 speakers with a max system output of 1455 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Taycan supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+
+
 ## Lights
 
 You can choose between two types of headlights for the Porsche Taycan. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 

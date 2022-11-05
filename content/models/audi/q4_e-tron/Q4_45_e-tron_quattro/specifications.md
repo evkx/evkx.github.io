@@ -57,6 +57,7 @@ weight: 30
 ## Driver Assistance
 |Spec|Value|
 |----|-----|
+|Lane keeping||
 |Lane departure warning|Yes (Audi Active Lane Assist), standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
 |Reversing camera|Yes, optional equipment|

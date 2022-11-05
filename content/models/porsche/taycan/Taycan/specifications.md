@@ -87,12 +87,8 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes, standard equipment|
-|Cruise control|Yes, standard equipment|
-|Adaptive cruise control|Yes, standard equipment|
-|Autonomous driving|Yes (Adaptive cruise assist), optional equipment (option PCC )|
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
-|Automatic Parallel Parking|Yes (Remote ParkAssist), optional equipment (option 7X5 )|
 |Reversing camera|Yes, optional equipment|
 |360 camera|Yes, optional equipment (option PCZ )|
 |Rear cross traffic alert|Yes (Cross traffic assist rear), optional equipment (option PCM )|

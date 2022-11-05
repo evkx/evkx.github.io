@@ -74,6 +74,29 @@ The car has four regular doors and a tailgate. The tailgate is electric powered.
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
+### First row seats
+
+Only one front seat type is available in the Mercedes-EQ EQC 400 4MATIC. 
+
+The following functionalities are available on the **** seat. 
+
+
+You can choose from 1 different materials/colors for this seat type. <br />
+<br />
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" title="Mercedes-EQ EQC 400 4MATIC">
+</a>
+<figcaption><h4>Mercedes-EQ EQC 400 4MATIC</h4></figcaption></figur>
+
+
+## Climate system
+
+There is one climate system available. 
+
 ## Comfort
 
 Mercedes-EQ EQC 400 4MATIC has several features to make your life as a driver or passenger more comfortable. 
@@ -101,6 +124,8 @@ A head-up display is an optional system that presents speed and other important 
 You can choose between three sound systems on the Mercedes-EQ EQC 400 4MATIC. With the Standard, you get five amplifier channels and seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQC 400 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 

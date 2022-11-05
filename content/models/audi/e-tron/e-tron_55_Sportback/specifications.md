@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron Sportback 55 specifications
+title: Audi e-tron 55 Sportback specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30

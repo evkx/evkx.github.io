@@ -112,6 +112,10 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - electric adjustment 
 - heating (optional)
 
+You can choose from 1 different materials/colors for this seat type. <br />
+<br />
+
+
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/secondrowseats_1.jpg">

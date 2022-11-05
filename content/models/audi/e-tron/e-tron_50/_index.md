@@ -183,6 +183,10 @@ You can choose from 4 different materials/colors for this seat type. <br />
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 
+You can choose from 1 different materials/colors for this seat type. <br />
+<br />
+
+
 ## Climate system
 
 You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
