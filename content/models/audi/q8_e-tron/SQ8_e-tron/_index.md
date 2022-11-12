@@ -36,7 +36,7 @@ With overboost, the Audi SQ8 e-tron has a maximum power of 370KW (503hp). Withou
 
 The battery has a gross capacity of 114kWh and a net capacity of 106kWh, meaning you have a 8kWh buffer for protection. (7,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 494 to 454 km (307-282 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 21,5kWh/100km for the basic version and 23,3kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 66 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 74% resulting in an actual charge speed including time loss on 122kW. Each charge session would take 37 minutes and 58 seconds. 
+The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 66 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 74% resulting in an actual charge speed including time loss on 122kW. Each charge session would take 37 minutes and 58 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 46 minutes to drive. This will requires three charge sessions charging from 16% to 71%. The total time lost for charging will be 87 minutes.   
 ### Onboard charger
