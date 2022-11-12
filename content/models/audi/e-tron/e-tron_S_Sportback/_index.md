@@ -34,16 +34,16 @@ With overboost, the Audi e-tron S Sportback has a maximum power of 370KW (503hp)
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 95kWh and a net capacity of 86,5kWh, meaning you have a 8,5kWh buffer for protection. (8,9%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 379 to 347 km (236-216 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 22,8kWh/100km for the basic version and 24,9kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 95kWh and a net capacity of 86kWh, meaning you have a 9kWh buffer for protection. (9,5%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 379 to 347 km (236-216 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 22,7kWh/100km for the basic version and 24,8kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 45 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 81% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 34 minutes and 24 seconds. 
+The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 44 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 81% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 34 minutes and 14 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 29kWh/100km, 1000km will take 10 hours and 4 minutes to drive. This will requires three charge sessions charging from 2% to 81%. The total time lost for charging will be 105 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 10 hours and 0 minutes to drive. This will requires three charge sessions charging from 4% to 80%. The total time lost for charging will be 100 minutes.   
 ### Onboard charger
 
 
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 51 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 55 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 49 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 54 minutes. 
 
 ## Drivetrain
 

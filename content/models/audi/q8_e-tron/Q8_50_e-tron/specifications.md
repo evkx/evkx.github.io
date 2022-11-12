@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron S specifications
+title: Audi Q8 50 e-tron specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,25 +8,22 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|320|
-|Peak electrical output boost in kW|370|
-|Electrical torque output in Nm|561|
-|Electrical torque output boost in Nm|973|
+|Peak electrical output in kW|230|
+|Electrical torque output in Nm|540|
 |Top speed|200|
-|0-100kph (0-62 mph)|6,6|
-|0-100kph (0-62 mph) boost|4,5|
+|0-100kph (0-62 mph)|6,8|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|374|
-|Basic trim WLTP consumption|23,0|
-|Basic trim WLTP consumption with charging loss|26,1|
-|Top trim WLTP range|344|
-|Top trim WLTP consumption|25,0|
-|Top trim WLTP consumption with charging loss|28,4|
+|Basic trim WLTP range|491|
+|Basic trim WLTP consumption|18,1|
+|Basic trim WLTP consumption with charging loss|20,1|
+|Top trim WLTP range|406|
+|Top trim WLTP consumption|21,9|
+|Top trim WLTP consumption with charging loss|24,0|
 
 
 
@@ -34,10 +31,10 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |Battery gross|95|
-|Battery net|86|
-|Max DC charging|150|
-|Number of modules|36|
-|Cell architecture|108s4p|
+|Battery net|89|
+|Max DC charging|120|
+|Number of modules|27|
+|Cell architecture|108s3p|
 
 
 
@@ -49,10 +46,10 @@ weight: 30
 |Width excluding mirrors|1935|
 |Widht including mirrors|2189|
 |Wheelbase|2927|
-|Track width front|1683|
-|Track width rear|1683|
+|Track width front|1655|
+|Track width rear|1655|
 |Drag coefficient|0,28|
-|Frontal area|2,71|
+|Frontal area|2,65|
 |Overhang angle front|15|
 |Overhang angle rear|20|
 

@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron S specifications
+title: Audi SQ8 Sportback e-tron specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -21,20 +21,20 @@ weight: 30
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|374|
-|Basic trim WLTP consumption|23,0|
-|Basic trim WLTP consumption with charging loss|26,1|
-|Top trim WLTP range|344|
-|Top trim WLTP consumption|25,0|
-|Top trim WLTP consumption with charging loss|28,4|
+|Basic trim WLTP range|513|
+|Basic trim WLTP consumption|20,7|
+|Basic trim WLTP consumption with charging loss|23,5|
+|Top trim WLTP range|469|
+|Top trim WLTP consumption|22,6|
+|Top trim WLTP consumption with charging loss|27,0|
 
 
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
-|Battery gross|95|
-|Battery net|86|
+|Battery gross|114|
+|Battery net|106|
 |Max DC charging|150|
 |Number of modules|36|
 |Cell architecture|108s4p|
@@ -45,13 +45,13 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |Length|4901|
-|Height|1629|
+|Height|1615|
 |Width excluding mirrors|1935|
 |Widht including mirrors|2189|
 |Wheelbase|2927|
 |Track width front|1683|
 |Track width rear|1683|
-|Drag coefficient|0,28|
+|Drag coefficient|0,26|
 |Frontal area|2,71|
 |Overhang angle front|15|
 |Overhang angle rear|20|

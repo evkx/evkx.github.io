@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron S specifications
+title: Audi SQ8 e-tron specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -21,20 +21,20 @@ weight: 30
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|374|
-|Basic trim WLTP consumption|23,0|
-|Basic trim WLTP consumption with charging loss|26,1|
-|Top trim WLTP range|344|
-|Top trim WLTP consumption|25,0|
-|Top trim WLTP consumption with charging loss|28,4|
+|Basic trim WLTP range|494|
+|Basic trim WLTP consumption|21,5|
+|Basic trim WLTP consumption with charging loss|24,6|
+|Top trim WLTP range|454|
+|Top trim WLTP consumption|23,3|
+|Top trim WLTP consumption with charging loss|28,0|
 
 
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
-|Battery gross|95|
-|Battery net|86|
+|Battery gross|114|
+|Battery net|106|
 |Max DC charging|150|
 |Number of modules|36|
 |Cell architecture|108s4p|
