@@ -6,6 +6,14 @@ weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD">
+</a>
+<figcaption><h4>Toyota bZ4X AWD</h4></figcaption></figur>
+
 We have separated our description of Toyota bZ4X AWD into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
@@ -51,6 +59,14 @@ You can choose between 1 different paint colors when ordering this model.
 
 You can order the car with tinted windows from B-pillar and back. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD">
+</a>
+<figcaption><h4>Toyota bZ4X AWD</h4></figcaption></figur>
+
+
 ## Interior
 
 
@@ -81,6 +97,14 @@ You can choose from 1 different materials/colors for this seat type. <br />
 <br />
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD">
+</a>
+<figcaption><h4>Toyota bZ4X AWD</h4></figcaption></figur>
+
+
 ## Climate system
 
 There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. 
@@ -93,6 +117,14 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD">
+</a>
+<figcaption><h4>Toyota bZ4X AWD</h4></figcaption></figur>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -123,3 +155,10 @@ With the standard system the model offers no driving automation.
 On the roof, you can load up to 80kg. Max weight is 2530kg, and with the base weight of 2015 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD">
+</a>
+<figcaption><h4>Toyota bZ4X AWD</h4></figcaption></figur>
