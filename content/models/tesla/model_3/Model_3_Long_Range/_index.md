@@ -90,7 +90,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-There is one seat type you can select in different materials. In addition, the model offers a traditional five-seat layout or an optional seven-seat layout. 
+There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
 ### First row seats
 
@@ -134,12 +134,6 @@ You can choose from 1 different materials/colors for this seat type. <br />
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
-
-### Third-row seats
-
-
-
-The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
 
 ## Climate system
 

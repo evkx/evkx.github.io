@@ -80,7 +80,7 @@ weight: 30
 |Efficiency assist|Yes (Audi Efficency Assist), standard equipment|
 |Collision Avoidance|Yes (Audi Collision Avoidance Assist), optional equipment (option PCC )|
 |Traffic Sign Recognition|Yes (Audi Traffic Sign Recongition), optional equipment (option PCC )|
-|Night Vision|Yes (Night Vision Assist), optional equipment (option 9R1 )|
+|Night Vision|Not available|
 
 ## Infotainment
 |Spec|Value|
