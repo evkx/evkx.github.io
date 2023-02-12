@@ -1,0 +1,13 @@
+{
+  "common": {
+    "error": "Feil",
+    "restart": "Start på nytt"
+  },
+  "evsearch":{
+    "title" : "Elbilsøk",
+    "searchresult": "Matchende elbiler",
+    "specifications": "Specifications",
+    "maxpower": "Max power ",
+    "topspeed": "Top speed "
+  }
+}
