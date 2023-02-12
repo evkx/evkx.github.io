@@ -10,12 +10,11 @@
     <title>{{ .Title }} :: EVKX.net</title>
     {{end}}
     <link rel="shortcut icon" href="{{"images/favicon.png" | relURL}}" type="image/x-icon" />
-    <link href="{{"css/nucleus.css" | relURL}}" rel="stylesheet">
     <link href="{{"css/font-awesome.min.css" | relURL}}" rel="stylesheet">
     <link href="{{"css/hybrid.css" | relURL}}" rel="stylesheet">
     <link href="{{"css/horsey.css" | relURL}}" rel="stylesheet">
     <link href="{{"css/fortawesome.css" | relURL}}" rel="stylesheet">
-    <link href="{{"css/designsystem.css" | relURL}}" rel="stylesheet">
+    <link href="{{"css/evkx.css" | relURL}}" rel="stylesheet">
     {{with .Site.Params.themeStyle}}
     <link href="{{(printf "css/%s.css" .) | relURL}}" rel="stylesheet">
     {{else}}
