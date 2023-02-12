@@ -1,18 +1,46 @@
 
 <!DOCTYPE html>
 <html lang="no" style="background-color: #1EADF7;">
-<head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/src/assets/altinn-logo.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="EVKX Search">
-    <meta name="keywords" content="EVKX Search">
-    <link rel="stylesheet" href="/public/assets/entrypoint-984b9dc7.css">
-    <title>EVKX Search</title>
-</head>
-<body>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {{ partial "meta.html" . }}
+        {{if .IsHome}}
+        <title>Electric Vehicle Knowledge eXchange- Everything about all-electric cars</title>
+        {{else}}
+        <title>{{ .Title }} :: EVKX.net</title>
+        {{end}}
+        <link rel="shortcut icon" href="{{"images/favicon.png" | relURL}}" type="image/x-icon" />
+        <link href="{{"css/nucleus.css" | relURL}}" rel="stylesheet">
+        <link href="{{"css/font-awesome.min.css" | relURL}}" rel="stylesheet">
+        <link href="{{"css/hybrid.css" | relURL}}" rel="stylesheet">
+        <link href="{{"css/horsey.css" | relURL}}" rel="stylesheet">
+        <link href="{{"css/fortawesome.css" | relURL}}" rel="stylesheet">
+        <link href="{{"css/designsystem.css" | relURL}}" rel="stylesheet">
+        {{with .Site.Params.themeStyle}}
+        <link href="{{(printf "css/%s.css" .) | relURL}}" rel="stylesheet">
+        {{else}}
+        <link href="{{"css/theme.css" | relURL}}" rel="stylesheet">
+        {{end}}
+        {{with .Site.Params.themeVariant}}
+          <link href="{{(printf "css/theme-%s.css" .) | relURL}}" rel="stylesheet">
+        {{end}}
+        
+        <script src="{{"js/jquery-2.x.min.js" | relURL}}"></script>
+        {{ partial "custom-head.html" . }}
+        <style>
+          :root #header + #content > #left > #rlblock_left {
+            display:none !important;
+          }
+        </style>
+            <link rel="stylesheet" href="/public/assets/entrypoint.css">
+      </head>
+
+<body class="a-page" data-url="{{ .RelPermalink }}">
+    {{ partial "topbar.html" . }}
     <div id="root"></div>
-    <script type="module" src="/public/assets/entrypoint-d4a9b566.js"></script>
+    <script type="module" src="/public/assets/entrypoint.js"></script>
+    {{ partial "footer-content.html" . }}
 </body>
 </html>
 
