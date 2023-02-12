@@ -1494,11 +1494,11 @@ ul.a-text.a-bullet-list:not(.connected-bullets):not(.no-decoration):not(.a-list)
 
 /* Large ingress even if its placed inside a-text */
 .a-text .a-leadText {
-    font-size: 1.8rem;
+    font-size: 1.3rem;
 }
 @media (min-width: 768px) {
     .a-text .a-leadText {
-        font-size: 2rem; 
+        font-size: 1.25rem; 
     }
 }
 
