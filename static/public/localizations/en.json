@@ -4,6 +4,13 @@
     "restart": "Restart"
   },
   "evsearch":{
-    "title" : "EV Search"
+    "title" : "EV Search",
+    "searchresult": "matching models",
+    "specifications": "Specifications",
+    "maxpower": "Max power ",
+    "topspeed": "Top speed ",
+    "sortorder": "Sort order",
+    "brandfilter": "Brand filter",
+    "loading": "Loading"
   }
 }
