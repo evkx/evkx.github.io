@@ -4,6 +4,12 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Kris Rifa: Hongqi E-HS9 | 610km Range Test (Norwegian High Speed Run) 12.02.2023
+
+{{< youtube F8bxg55VLd0 >}}
+### Kris Rifa: Hongqi E-HS9 Motorway Range Test 10.02.2023
+
+{{< youtube jXZDI6y46eg >}}
 ### Bjørn Nyland: Hongqi E-HS9 1000 km challenge 10.09.2022
 
 {{< youtube OHkYox9TJJM >}}

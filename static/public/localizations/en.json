@@ -11,6 +11,10 @@
     "topspeed": "Top speed ",
     "sortorder": "Sort order",
     "brandfilter": "Brand filter",
-    "loading": "Loading"
+    "loading": "Loading",
+    "sortorderbrand": "Brand, model",
+    "sortorderrange":"WLTP range minimum trim",
+    "sortordernetsize":"Usable battery small -> large",
+    "sortordernetsizedesc":"Usable battery large -> small"
   }
 }
