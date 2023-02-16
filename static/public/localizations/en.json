@@ -15,6 +15,10 @@
     "sortorderbrand": "Brand, model",
     "sortorderrange":"WLTP range minimum trim",
     "sortordernetsize":"Usable battery small -> large",
-    "sortordernetsizedesc":"Usable battery large -> small"
+    "sortordernetsizedesc":"Usable battery large -> small",
+    "specnetbattery": "Usable battery",
+    "specwltpconsumption": "Calculated WLTP consumption",
+    "specwltprange": "WLTP range base trim",
+    "specificationshiglihts": "Higlights of model specifications"
   }
 }
