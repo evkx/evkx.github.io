@@ -1,13 +1,13 @@
 {
   "entrypoint.css": {
-    "file": "assets/entrypoint-df12c8cd.css",
+    "file": "assets/entrypoint-4d1a6134.css",
     "src": "entrypoint.css"
   },
   "entrypoint.js": {
     "css": [
-      "assets/entrypoint-df12c8cd.css"
+      "assets/entrypoint-4d1a6134.css"
     ],
-    "file": "assets/entrypoint-b399d1fb.js",
+    "file": "assets/entrypoint-eb3bf46e.js",
     "isEntry": true,
     "src": "entrypoint.js"
   }

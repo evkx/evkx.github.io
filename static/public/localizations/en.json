@@ -17,8 +17,9 @@
     "sortordernetsize":"Usable battery small -> large",
     "sortordernetsizedesc":"Usable battery large -> small",
     "specnetbattery": "Usable battery",
-    "specwltpconsumption": "Calculated WLTP consumption",
+    "specwltpconsumption": "WLTP consumption",
     "specwltprange": "WLTP range base trim",
-    "specificationshiglihts": "Higlights of model specifications"
+    "specificationshiglihts": "Higlights of model specifications",
+    "zeroto100": "0-100km/h"
   }
 }
