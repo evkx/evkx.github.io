@@ -32,7 +32,7 @@ weight: 30
 |----|-----|
 |Battery gross|71,4|
 |Battery net|64|
-|Max DC charging|239|
+|Max DC charging|100|
 |Number of modules|1|
 |Cell architecture|96s1p|
 
