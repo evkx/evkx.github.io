@@ -84,6 +84,7 @@ The following functionalities are available on the **** seat.
 - electric adjustment 
 - heating 
 - memory driver seat 
+- ventilation (optional)
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />
@@ -95,7 +96,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **** seat. 
 
-- heating 
+- heating (optional)
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />

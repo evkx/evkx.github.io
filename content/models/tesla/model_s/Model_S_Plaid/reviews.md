@@ -7,6 +7,9 @@ weight: 80
 ### Bjørn Nyland: Tesla Model S Plaid yoke wheel review 17.02.2023
 
 {{< youtube qIrcx-3O1XE >}}
+### Out of Spec Reviews: The Tesla Model S Plaid Goes Way Farther Than We Thought In Our 70-MPH Highway Range Test 11.11.2022
+
+{{< youtube upKm1irRqGM >}}
 ### Out of Spec Reviews: Cargo & Interior Space - Lucid Air vs Tesla Model S 06.10.2022
 
 {{< youtube 1CgDvrM8lm8 >}}

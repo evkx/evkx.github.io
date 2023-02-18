@@ -34,16 +34,16 @@ The Tesla Model S Plaid has a maximum power of 760KW (1033hp). The total torque 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 100kWh and a net capacity of 95kWh, meaning you have a 5kWh buffer for protection. (5,0%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 600 km (373 mi).   The consumption is 15,8kWh/100km for the WLTP standard test. 
+The battery has a gross capacity of 100kWh and a net capacity of 96kWh, meaning you have a 4kWh buffer for protection. (4,0%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 600 km (373 mi).   The consumption is 16,0kWh/100km for the WLTP standard test. 
 
-The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 79 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 48% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 16 minutes and 26 seconds. 
+The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 80 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 47% resulting in an actual charge speed including time loss on 143kW. Each charge session would take 16 minutes and 9 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 18,5kWh/100km, 1000km will take 8 hours and 58 minutes to drive. This will requires two charge sessions charging from 5% to 53%. The total time lost for charging will be 39 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 18,5kWh/100km, 1000km will take 8 hours and 58 minutes to drive. This will requires two charge sessions charging from 5% to 52%. The total time lost for charging will be 38 minutes.   
 ### Onboard charger
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 38 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 43 minutes. 
 
 ## Drivetrain
 

@@ -19,7 +19,7 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |WLTP range|600|
-|WLTP consumption|15,8|
+|WLTP consumption|16,0|
 |WLTP consumption with charging loss|18,7|
 
 
@@ -28,7 +28,7 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |Battery gross|100|
-|Battery net|95|
+|Battery net|96|
 |Max DC charging|250|
 |Cell architecture|110s72p|
 
