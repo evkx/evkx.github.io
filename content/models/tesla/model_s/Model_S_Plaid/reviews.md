@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Bjørn Nyland: Tesla Model S Plaid yoke wheel review 17.02.2023
+
+{{< youtube qIrcx-3O1XE >}}
 ### Out of Spec Reviews: Cargo & Interior Space - Lucid Air vs Tesla Model S 06.10.2022
 
 {{< youtube 1CgDvrM8lm8 >}}
