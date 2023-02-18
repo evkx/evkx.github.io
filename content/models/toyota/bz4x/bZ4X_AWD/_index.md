@@ -36,9 +36,9 @@ The Toyota bZ4X AWD has a maximum power of 160KW (218hp). The total torque is 33
 
 The battery has a gross capacity of 71,4kWh and a net capacity of 64kWh, meaning you have a 7,4kWh buffer for protection. (10,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 470 to 415 km (292-258 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,6kWh/100km for the basic version and 15,4kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 163 minutes, while a more common scenario of 10-80% would take 67 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 32% resulting in an actual charge speed including time loss on 55kW. Each charge session would take 22 minutes and 9 seconds. 
+The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 160 minutes, while a more common scenario of 10-80% would take 52 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 42% resulting in an actual charge speed including time loss on 76kW. Each charge session would take 21 minutes and 47 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 11 hours and 21 minutes to drive. This will requires nine charge sessions charging from 0% to 29%. The total time lost for charging will be 181 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 34 minutes to drive. This will requires six charge sessions charging from 1% to 45%. The total time lost for charging will be 135 minutes.   
 ### Onboard charger
 
 
@@ -58,6 +58,8 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 You can choose between 1 different paint colors when ordering this model. 
 
 
+
+You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
 You can order the car with tinted windows from B-pillar and back. 
 
@@ -133,9 +135,9 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-One type of sound system is available for the Toyota bZ4X AWD. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+You can choose between two sound systems on the Toyota bZ4X AWD. With the Toyota, you get NULL amplifier channels and six speakers with a max system output of  watts. With the JBL Premium Sound, you get NULL amplifier channels and nine speakers with a max system output of  watts. 
 
-
+As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

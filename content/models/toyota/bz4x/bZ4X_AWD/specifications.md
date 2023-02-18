@@ -83,3 +83,14 @@ weight: 30
 |Android Auto support||
 |Apple Carplay support||
 |In Car navigation||
+|Number of avaiable sound systems|2|
+
+### Toyota
+|Spec|Value|
+|----|-----|
+|Number of speakers|6|
+
+### JBL Premium Sound
+|Spec|Value|
+|----|-----|
+|Number of speakers|9|
