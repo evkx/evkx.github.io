@@ -20,6 +20,7 @@
     "specwltpconsumption": "WLTP consumption",
     "specwltprange": "WLTP range base trim",
     "specificationshiglihts": "Higlights of model specifications",
-    "zeroto100": "0-100km/h"
+    "zeroto100": "0-100km/h",
+    "chargingspeed": "Max/Average DC charging speed"
   }
 }
