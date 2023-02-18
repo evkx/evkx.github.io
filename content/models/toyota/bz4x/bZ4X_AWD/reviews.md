@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Autogefühl: Toyota bZ4X driving REVIEW with AWD and winter range test! 11.01.2023
+
+{{< youtube xuwuXj-574w >}}
 ### EV Pulse: 2023 Toyota bZ4X AWD Charge Curve Test: How Slow is Too Slow? 09.06.2022
 
 {{< youtube QzCpbQT-cq4 >}}
