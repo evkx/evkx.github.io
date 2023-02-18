@@ -70,6 +70,8 @@ Additionally, you can choose between 10 wheels with sizes from 19 to 21 inches.
 
 The car has four regular doors and a tailgate. The tailgate is electric powered. 
 
+There is only one roof for this model. 
+
 ## Interior
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 

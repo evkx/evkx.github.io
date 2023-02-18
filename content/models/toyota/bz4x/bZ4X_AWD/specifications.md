@@ -32,7 +32,7 @@ weight: 30
 |----|-----|
 |Battery gross|71,4|
 |Battery net|64|
-|Max DC charging|100|
+|Max DC charging|147|
 |Number of modules|1|
 |Cell architecture|96s1p|
 
@@ -55,10 +55,11 @@ weight: 30
 |Lane keeping||
 |Lane departure warning||
 |Drowsiness Alert||
-|Reversing camera||
-|360 camera||
+|Reversing camera|Yes, standard equipment|
+|360 camera|Yes, optional equipment|
 |Rear cross traffic alert||
-|Rear parking sensors||
+|Rear parking sensors|Yes, optional equipment|
+|Front parking sensors|Yes, optional equipment|
 |Side parking sensors||
 |Hill descent assist||
 |Hill start assist||
@@ -80,9 +81,9 @@ weight: 30
 ## Infotainment
 |Spec|Value|
 |----|-----|
-|Android Auto support||
-|Apple Carplay support||
-|In Car navigation||
+|Android Auto support|Yes, standard equipment|
+|Apple Carplay support|Yes, standard equipment|
+|In Car navigation|Yes, optional equipment|
 |Number of avaiable sound systems|2|
 
 ### Toyota

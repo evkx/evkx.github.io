@@ -90,6 +90,8 @@ Additionally, you can choose between 8 wheels with sizes from 19 to 21 inches.
 
 The car has four regular doors and a tailgate. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
 
+There is only one roof for this model. 
+
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/exterior_1.jpg">

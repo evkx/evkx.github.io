@@ -76,6 +76,8 @@ Additionally, you can choose between 7 wheels with sizes from 19 to 21 inches.
 
 The car has four regular doors and a tailgate. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
 
+You can choose between two types of roofs on this model. The standard is a panoramic roof. 
+
 ## Interior
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 

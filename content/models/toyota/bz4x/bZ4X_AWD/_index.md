@@ -36,20 +36,24 @@ The Toyota bZ4X AWD has a maximum power of 160KW (218hp). The total torque is 33
 
 The battery has a gross capacity of 71,4kWh and a net capacity of 64kWh, meaning you have a 7,4kWh buffer for protection. (10,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 470 to 415 km (292-258 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,6kWh/100km for the basic version and 15,4kWh/100km for the top trim version for the WLTP standard test. 
 
-The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 160 minutes, while a more common scenario of 10-80% would take 52 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 42% resulting in an actual charge speed including time loss on 76kW. Each charge session would take 21 minutes and 47 seconds. 
+The maximum DC charging speed is 147kW. A full charge from 0 - 100% would take 141 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 47% resulting in an actual charge speed including time loss on 88kW. Each charge session would take 19 minutes and 9 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 34 minutes to drive. This will requires six charge sessions charging from 1% to 45%. The total time lost for charging will be 135 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 14 minutes to drive. This will requires five charge sessions charging from 1% to 53%. The total time lost for charging will be 115 minutes.   
 ### Onboard charger
 
 
+
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 6,6KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 41 minutes. You can also select an optional onboard charger that supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes. 
 
 ## Drivetrain
 
 Toyota bZ4X AWD has an all-wheel drive system supported by two motors. One on each axle. 
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm. 
+The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm. 
 
 ### Brakes
+
+
 
 
 
@@ -79,11 +83,12 @@ You can order the car with tinted windows from B-pillar and back.
 
 Only one front seat type is available in the Toyota bZ4X AWD. 
 
-The following functionalities are available on the **** seat. 
+The following functionalities are available on the **standard** seat. 
 
-- electric adjustment 
+- electric adjustment (optional)
+- height adjustable headrest 
 - heating 
-- memory driver seat 
+- memory driver seat (optional)
 - ventilation (optional)
 
 You can choose from 1 different materials/colors for this seat type. <br />
@@ -122,7 +127,11 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
+Two different screen setups are available on the Toyota bZ4X AWD. 
 
+The standard layout has the following configuration. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen at the top of the center console is 8,9 inches large. 
+
+The optional  layout has the following configuration. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen at the top of the center console is 12,3 inches large. 
 
 
 <figur>
@@ -138,10 +147,12 @@ A head-up display is an optional system that presents speed and other important 
 
 You can choose between two sound systems on the Toyota bZ4X AWD. With the Toyota, you get NULL amplifier channels and six speakers with a max system output of  watts. With the JBL Premium Sound, you get NULL amplifier channels and nine speakers with a max system output of  watts. 
 
-As an option you can get additional 2 USB-C connections. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Toyota bZ4X AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+
+The model has 4 USB-C connections as standard. 
 ## Lights
 
-The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the Toyota bZ4X AWD. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 ## Driver assistance
 
 The Toyota bZ4X AWD has several standard and optional driver assistance systems for better safety and comfort.
@@ -153,6 +164,7 @@ The Toyota bZ4X AWD has several standard and optional driver assistance systems 
 
 
 With the standard system the model offers no driving automation. 
+- Adaptive Cruise control. 
 
 
 ## Transportation capabilities

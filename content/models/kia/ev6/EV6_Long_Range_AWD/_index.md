@@ -49,6 +49,8 @@ You can choose between 1 different paint colors when ordering this model.
 
 
 
+There is only one roof for this model. 
+
 You can order the car with tinted windows from B-pillar and back. 
 
 ## Interior
