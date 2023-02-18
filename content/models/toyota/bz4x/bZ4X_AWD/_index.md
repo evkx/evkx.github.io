@@ -159,6 +159,8 @@ The Toyota bZ4X AWD has several standard and optional driver assistance systems 
 ### Safety systems
 
 
+
+**Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
 

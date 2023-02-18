@@ -1,5 +1,5 @@
 ---
-title: Toyota bZ4X AWD specifications
+title: Toyota bZ4X FWD specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -18,12 +18,12 @@ weight: 30
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|470|
-|Basic trim WLTP consumption|13,6|
-|Basic trim WLTP consumption with charging loss|16,2|
-|Top trim WLTP range|415|
-|Top trim WLTP consumption|15,4|
-|Top trim WLTP consumption with charging loss|18,0|
+|Basic trim WLTP range|516|
+|Basic trim WLTP consumption|12,4|
+|Basic trim WLTP consumption with charging loss|14,4|
+|Top trim WLTP range|442|
+|Top trim WLTP consumption|14,5|
+|Top trim WLTP consumption with charging loss|16,7|
 
 
 
