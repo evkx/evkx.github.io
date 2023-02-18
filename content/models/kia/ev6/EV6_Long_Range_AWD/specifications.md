@@ -21,8 +21,8 @@ weight: 30
 |Basic trim WLTP range|528|
 |Basic trim WLTP consumption|14,0|
 |Basic trim WLTP consumption with charging loss|16,5|
-|Top trim WLTP range|504|
-|Top trim WLTP consumption|14,7|
+|Top trim WLTP range|484|
+|Top trim WLTP consumption|15,3|
 |Top trim WLTP consumption with charging loss|17,2|
 
 
@@ -32,7 +32,8 @@ weight: 30
 |----|-----|
 |Battery gross|77,4|
 |Battery net|74|
-|Max DC charging|239|
+|Max DC charging|233|
+|Cell architecture|192s2p|
 
 
 
