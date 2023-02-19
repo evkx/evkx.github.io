@@ -44,8 +44,8 @@ weight: 30
 |Height|1605|
 |Width excluding mirrors|1890|
 |Wheelbase|3000|
-|Track width front|1631|
-|Track width rear|1641|
+|Track width front|1628|
+|Track width rear|1637|
 |Drag coefficient|0,28|
 |Turning circle|12|
 
