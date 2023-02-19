@@ -68,6 +68,7 @@ Regenerative braking is available in several modes. The most efficient is automa
 ## Exterior
 
 You can choose between 10 different paint colors when ordering this model. 
+Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
 
 
 
