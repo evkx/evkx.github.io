@@ -13,6 +13,9 @@ weight: 80
 ### Kris Rifa: Kia EV6 GT Line Exterior & Interior | COMPLETE TOUR 16.12.2021
 
 {{< youtube nWA23eoF2vE >}}
+### Kris Rifa: Kia EV6 Motorway Range Test 15.12.2021
+
+{{< youtube 8Jqy9SBzmjo >}}
 ### Bjørn Nyland: Kia EV6 driving impressions 27.11.2021
 
 {{< youtube j4PS35BI4gk >}}
@@ -22,9 +25,15 @@ weight: 80
 ### Bjørn Nyland: Kia EV6 and Hyundai Ioniq 5 battery overheating explained 24.11.2021
 
 {{< youtube YoWETRlSCoc >}}
+### Bjørn Nyland: Kia EV6 AWD GT-Line range test 19.11.2021
+
+{{< youtube e-wywx-Tu7M >}}
 ### Bjørn Nyland: Kia EV6 headlights test 15.11.2021
 
 {{< youtube FBSNmsdfR9A >}}
+### Fully Charged Show: This Electric Car is out of this world! | Kia EV6 Review 23.09.2021
+
+{{< youtube jb5bhI1pzTM >}}
 ### Out of Spec Reviews: Incredible Charging Speed But Not Without Issues? Kia EV6 Prototype Charging Testing From 0-100% 15.09.2021
 
 {{< youtube 06Zxt-oMKYI >}}

@@ -1,5 +1,5 @@
 ---
-title: Kia EV6 Long Range AWD specifications
+title: Kia EV6 Long Range 2WD specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -18,11 +18,11 @@ weight: 30
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|506|
-|Basic trim WLTP consumption|14,6|
-|Basic trim WLTP consumption with charging loss|17,2|
-|Top trim WLTP range|484|
-|Top trim WLTP consumption|15,3|
+|Basic trim WLTP range|528|
+|Basic trim WLTP consumption|14,0|
+|Basic trim WLTP consumption with charging loss|16,5|
+|Top trim WLTP range|504|
+|Top trim WLTP consumption|14,7|
 |Top trim WLTP consumption with charging loss|17,2|
 
 

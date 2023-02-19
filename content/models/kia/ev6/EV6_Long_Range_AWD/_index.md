@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Long Range AWD
 linktitle: EV6 Long Range AWD
-description: Kia EV6 Long Range AWD is an all-electric crossover with a WLTP range of up to 528 km (328 miles). EVKX.net have all the details. 
+description: Kia EV6 Long Range AWD is an all-electric crossover with a WLTP range of up to 506 km (314 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -34,11 +34,11 @@ The Kia EV6 Long Range AWD has a maximum power of 239KW (325hp). The total torqu
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 528 to 484 km (328-301 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,0kWh/100km for the basic version and 15,3kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 506 to 484 km (314-301 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,6kWh/100km for the basic version and 15,3kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 38 minutes, while a more common scenario of 10-80% would take 16 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 76% resulting in an actual charge speed including time loss on 152kW. Each charge session would take 22 minutes and 59 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 20kWh/100km, 1000km will take 9 hours and 11 minutes to drive. This will requires two charge sessions charging from 0% to 86%. The total time lost for charging will be 51 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 9 hours and 15 minutes to drive. This will requires three charge sessions charging from 1% to 63%. The total time lost for charging will be 56 minutes.   
 ### Onboard charger
 
 
@@ -67,7 +67,7 @@ Regenerative braking is available in several modes. The most efficient is automa
 
 ## Exterior
 
-You can choose between 10 different paint colors when ordering this model. 
+You can choose between 11 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
 
 
