@@ -21,6 +21,18 @@
     "specwltprange": "WLTP range base trim",
     "specificationshiglihts": "Higlights of model specifications",
     "zeroto100": "0-100km/h",
-    "chargingspeed": "Max/Average DC charging speed"
+    "chargingspeed": "Max/Average DC charging speed",
+    "maxpowersort": "Power more > less",
+    "topspeedsort": "Top speed more >less",
+    "maxdcchargingsort": "Max DC Charging",
+    "nominalvoltagesort": "Nominal voltage",
+    "sort0100kmh": "0-100km/h" ,
+    "sort1000kmdrivingtime": "Calculated 1000km challenge driving time",
+    "sort1000kmaveragespeed": "1000km average speed",
+    "travelspeedwltpcyclus":"Travel speed WLTP cyclus",
+    "travelspeed120kmh": "Travel speed 120km/h",
+    "averagechargingspeed0100":"Average Charging speed 0-100%",
+    "averagechargingspeed10100": "Average Charging speed 10-100%",
+    "averagechargingspeed1080":"Average Charging speed 10-80%"
   }
 }
