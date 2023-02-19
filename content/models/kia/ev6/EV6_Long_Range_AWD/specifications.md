@@ -52,12 +52,12 @@ weight: 30
 ## Driver Assistance
 |Spec|Value|
 |----|-----|
-|Lane keeping||
-|Lane departure warning||
+|Lane keeping|Yes, standard equipment|
+|Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert||
 |Reversing camera|Yes, standard equipment|
 |360 camera|Yes (Surround View Monitor), optional equipment|
-|Rear cross traffic alert||
+|Rear cross traffic alert|Yes, standard equipment|
 |Rear parking sensors||
 |Front parking sensors||
 |Side parking sensors||
@@ -66,17 +66,17 @@ weight: 30
 |AntiLock Braking System|Yes, standard equipment|
 |Automatic emergency braking||
 |Brake assist||
-|Traction control||
+|Traction control|Yes, standard equipment|
 |Left turn crash avoidance||
 |Forward Collision Warning||
 |Electronic stability control|Yes, standard equipment|
 |Temperature warning||
-|Cross traffic assist||
+|Cross traffic assist|Yes, standard equipment|
 |Speed limiter||
 |Efficiency assist||
 |Collision Avoidance|Yes, standard equipment|
 |Traffic Sign Recognition|Yes, standard equipment|
-|Night Vision||
+|Night Vision|Not available|
 
 ## Infotainment
 |Spec|Value|

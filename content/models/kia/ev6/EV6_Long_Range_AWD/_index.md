@@ -183,13 +183,16 @@ The Kia EV6 Long Range AWD has several standard and optional driver assistance s
 
 
 
+The Kia EV6 Long Range AWD has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+
 **Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
 
 
-With the standard system the model offers no driving automation. 
+With the   level 2 system, you get the following driving automation features. 
 - Adaptive Cruise control. 
+- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 ## Transportation capabilities
