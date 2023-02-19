@@ -30,7 +30,7 @@ We have separated our description of Kia EV6 Long Range 2WD into sections. If yo
 
 ## Performance
 
-The Kia EV6 Long Range 2WD has a maximum power of 239KW (325hp). The total torque is 605nm. The 0-100km/h sprint (0-62mph) is performed in 5,2 seconds. The top speed is 185 kph. 
+The Kia EV6 Long Range 2WD has a maximum power of 168KW (228hp). The total torque is 350nm. The 0-100km/h sprint (0-62mph) is performed in 7,3 seconds. The top speed is 185 kph. 
 
 ## Battery, range, and charging
 

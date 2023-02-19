@@ -1,5 +1,5 @@
 ---
-title: Kia EV6 Long Range 2WD specifications
+title: Kia EV6 Standard Range 2WD specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,32 +8,29 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|168|
+|Peak electrical output in kW|125|
 |Electrical torque output in Nm|350|
 |Top speed|185|
-|0-100kph (0-62 mph)|7,3|
+|0-100kph (0-62 mph)|8,5|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|528|
-|Basic trim WLTP consumption|14,0|
-|Basic trim WLTP consumption with charging loss|16,5|
-|Top trim WLTP range|504|
-|Top trim WLTP consumption|14,7|
-|Top trim WLTP consumption with charging loss|17,2|
+|WLTP range|394|
+|WLTP consumption|13,7|
+|WLTP consumption with charging loss|16,6|
 
 
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
-|Battery gross|77,4|
-|Battery net|74|
+|Battery gross|58|
+|Battery net|54|
 |Max DC charging|233|
-|Cell architecture|192s2p|
+|Cell architecture|144s2p|
 
 
 

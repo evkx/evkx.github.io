@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Kris Rifa: Hongqi E-HS9 | The Chinese Rolls-Royce 19.02.2023
+
+{{< youtube Cw-vimwPe4o >}}
 ### Kris Rifa: Hongqi E-HS9 | 610km Range Test (Norwegian High Speed Run) 12.02.2023
 
 {{< youtube F8bxg55VLd0 >}}
