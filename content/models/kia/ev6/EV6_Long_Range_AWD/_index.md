@@ -98,8 +98,9 @@ The following functionalities are available on the **** seat.
 - heating 
 - memory driver seat 
 - electric lumbar support (optional)
+- ventilation (optional)
 
-You can choose from 2 different materials/colors for this seat type. <br />
+You can choose from 6 different materials/colors for this seat type. <br />
 <br />
 
 
@@ -131,7 +132,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 <figcaption><h4>Kia EV6 Long Range AWD</h4></figcaption></figur>
 
 
-There is only one type of steering wheel available. 
+There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
 
 ## Climate system
 
@@ -159,9 +160,11 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-One type of sound system is available for the Kia EV6 Long Range AWD. With the Standard, you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+You can choose between two sound systems on the Kia EV6 Long Range AWD. With the Standard, you get four amplifier channels and six speakers with a max system output of  watts. With the Meridian Premium Sound System, you get eight amplifier channels and 14 speakers with a max system output of  watts. 
 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Kia EV6 Long Range AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
+The model has 4 USB-C connections as standard. The models is equipped with 1 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

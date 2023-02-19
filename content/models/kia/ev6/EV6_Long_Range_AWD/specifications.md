@@ -46,6 +46,7 @@ weight: 30
 |Wheelbase|2900|
 |Track width front|1631|
 |Track width rear|1641|
+|Drag coefficient|0,28|
 |Turning circle|11,9|
 
 ## Driver Assistance
@@ -61,8 +62,8 @@ weight: 30
 |Front parking sensors||
 |Side parking sensors||
 |Hill descent assist||
-|Hill start assist||
-|AntiLock Braking System||
+|Hill start assist|Yes, standard equipment|
+|AntiLock Braking System|Yes, standard equipment|
 |Automatic emergency braking||
 |Brake assist||
 |Traction control||
@@ -80,6 +81,19 @@ weight: 30
 ## Infotainment
 |Spec|Value|
 |----|-----|
-|Android Auto support||
-|Apple Carplay support||
-|In Car navigation||
+|Android Auto support|Yes, standard equipment|
+|Apple Carplay support|Yes, standard equipment|
+|In Car navigation|Yes, standard equipment|
+|Number of avaiable sound systems|2|
+
+### Standard
+|Spec|Value|
+|----|-----|
+|Number of speakers|6|
+|Channels|4|
+
+### Meridian Premium Sound System
+|Spec|Value|
+|----|-----|
+|Number of speakers|14|
+|Channels|8|
