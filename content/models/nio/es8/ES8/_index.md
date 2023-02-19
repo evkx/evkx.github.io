@@ -151,6 +151,8 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 There is one climate system available. The 3-zone climate system supports different temperatures in three zones for the driver, passenger, and backseat. 

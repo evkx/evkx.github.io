@@ -162,6 +162,8 @@ You can choose from 1 different materials/colors for this seat type. <br />
 <figcaption><h4>Audi Q4 40 e-tron</h4></figcaption></figur>
 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 You can choose from two different climate systems. The 1-zone climate system supports only controlling one common zone for the whole car. The 3-zone climate system supports different temperatures in three zones for the driver, passenger, and backseat. 

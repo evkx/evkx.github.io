@@ -95,6 +95,8 @@ You can choose from 1 different materials/colors for this seat type. <br />
 <figcaption><h4>Mercedes-EQ EQC 400 4MATIC</h4></figcaption></figur>
 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 There is one climate system available. 

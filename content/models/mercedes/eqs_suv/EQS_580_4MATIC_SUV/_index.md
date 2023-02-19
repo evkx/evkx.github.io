@@ -167,6 +167,8 @@ The third row has an optional two-seat bench with a 50:50 split. Again, you can 
 <figcaption><h4>Mercedes-EQ EQS 580 4MATIC SUV</h4></figcaption></figur>
 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 You can choose from two different climate systems. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. The THERMATIC climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 

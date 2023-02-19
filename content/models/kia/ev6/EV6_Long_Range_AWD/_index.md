@@ -57,19 +57,21 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Kia EV6 Long Range AWD has an all-wheel drive system supported by two motors. One on each axle. 
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm. 
+The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm. 
 
 ### Brakes
 
 
 
+Regenerative braking is available in several modes. The most efficient is automatic regen. In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable one-pedal driving. 
+
 ## Exterior
 
-You can choose between 2 different paint colors when ordering this model. 
+You can choose between 10 different paint colors when ordering this model. 
 
 
 
-There is only one roof for this model. 
+You can choose between two types of roofs on this model. The standard is just a regular roof. The standard is a panoramic roof. 
 
 You can order the car with tinted windows from B-pillar and back. 
 
@@ -83,7 +85,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 ## Interior
 
-
+You can choose between different types of seat materials and interior styling. 
 
 ### First row seats
 
@@ -92,10 +94,12 @@ Only one front seat type is available in the Kia EV6 Long Range AWD.
 The following functionalities are available on the **** seat. 
 
 - electric adjustment 
+- height adjustable headrest 
 - heating 
 - memory driver seat 
+- electric lumbar support (optional)
 
-You can choose from 1 different materials/colors for this seat type. <br />
+You can choose from 2 different materials/colors for this seat type. <br />
 <br />
 
 
@@ -111,7 +115,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 
-The following functionalities are available on the **** seat. 
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - heating 
 
@@ -127,6 +131,8 @@ You can choose from 1 different materials/colors for this seat type. <br />
 <figcaption><h4>Kia EV6 Long Range AWD</h4></figcaption></figur>
 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. 
@@ -139,7 +145,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-
+Kia EV6 Long Range AWD has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel on the left of the frame is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 12,3 inches large and has a 2880 x 1080 pixels resolution. 
 
 
 <figur>
@@ -153,7 +159,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-One type of sound system is available for the Kia EV6 Long Range AWD. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+One type of sound system is available for the Kia EV6 Long Range AWD. With the Standard, you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
 
 
 ## Lights
@@ -173,16 +179,19 @@ The Kia EV6 Long Range AWD has several standard and optional driver assistance s
 ### Safety systems
 
 
+
+**Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
 
 
 With the standard system the model offers no driving automation. 
+- Adaptive Cruise control. 
 
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1260 liters. On the roof, you can load up to 80kg. Max weight is 2530kg, and with the base weight of 2015 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1260 liters. On the roof, you can load up to 80kg. Under the hood there is frunk with more storage room. This frunk is 20 liter. Max weight is 2530kg, and with the base weight of 2015 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
 

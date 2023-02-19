@@ -143,6 +143,8 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 You can choose from two different climate systems. The standard climate system supports only controlling one common zone for the whole car. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. 

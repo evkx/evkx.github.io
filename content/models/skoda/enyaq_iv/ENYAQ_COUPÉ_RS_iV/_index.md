@@ -137,6 +137,8 @@ You can choose from 1 different materials/colors for this seat type. <br />
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 There is one climate system available. The 3-zone Climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. 

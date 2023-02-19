@@ -141,6 +141,8 @@ You can choose from 6 different materials/colors for this seat type. <br />
 <br />
 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 You can choose from two different climate systems. The standard climate system supports only controlling one common zone for the whole car. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. 

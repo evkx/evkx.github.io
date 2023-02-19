@@ -125,6 +125,8 @@ You can choose from 1 different materials/colors for this seat type. <br />
 <figcaption><h4>Volkswagen ID.3 Pro</h4></figcaption></figur>
 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 You can choose from two different climate systems. The 1-zone Climatronic climate system supports only controlling one common zone for the whole car. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. 

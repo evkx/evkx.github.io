@@ -141,6 +141,8 @@ The third row has an optional two-seat bench with a 50:50 split. Again, you can 
 <figcaption><h4>Tesla Model Y Long Range</h4></figcaption></figur>
 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 There is one climate system available. The standard climate system supports only controlling one common zone for the whole car. 

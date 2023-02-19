@@ -157,6 +157,8 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC</h4></figcaption></figur>
 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 You can choose from two different climate systems. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. The THERMATIC climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 

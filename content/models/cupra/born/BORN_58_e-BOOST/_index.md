@@ -121,6 +121,8 @@ You can choose from 1 different materials/colors for this seat type. <br />
 <br />
 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 There is one climate system available. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. 

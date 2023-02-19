@@ -195,6 +195,8 @@ You can choose from 1 different materials/colors for this seat type. <br />
 <figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
 
 
+There is only one type of steering wheel available. 
+
 ## Climate system
 
 You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 

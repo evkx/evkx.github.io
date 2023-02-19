@@ -54,10 +54,11 @@ weight: 30
 |Lane keeping||
 |Lane departure warning||
 |Drowsiness Alert||
-|Reversing camera||
-|360 camera||
+|Reversing camera|Yes, standard equipment|
+|360 camera|Yes (Surround View Monitor), optional equipment|
 |Rear cross traffic alert||
 |Rear parking sensors||
+|Front parking sensors||
 |Side parking sensors||
 |Hill descent assist||
 |Hill start assist||
@@ -67,13 +68,13 @@ weight: 30
 |Traction control||
 |Left turn crash avoidance||
 |Forward Collision Warning||
-|Electronic stability control||
+|Electronic stability control|Yes, standard equipment|
 |Temperature warning||
 |Cross traffic assist||
 |Speed limiter||
 |Efficiency assist||
-|Collision Avoidance||
-|Traffic Sign Recognition||
+|Collision Avoidance|Yes, standard equipment|
+|Traffic Sign Recognition|Yes, standard equipment|
 |Night Vision||
 
 ## Infotainment
