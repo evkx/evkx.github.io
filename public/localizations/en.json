@@ -33,6 +33,10 @@
     "travelspeed120kmh": "Travel speed 120km/h",
     "averagechargingspeed0100":"Average Charging speed 0-100%",
     "averagechargingspeed10100": "Average Charging speed 10-100%",
-    "averagechargingspeed1080":"Average Charging speed 10-80%"
+    "averagechargingspeed1080":"Average Charging speed 10-80%",
+    "trunksize": "Trunk size", 
+    "maxtrunksize": "Max Trunk size (seats down)",
+    "maxload": "Max load including driver", 
+    "maxtrailer": "Max braked trailer size"
   }
 }
