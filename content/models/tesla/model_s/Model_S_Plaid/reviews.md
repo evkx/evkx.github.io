@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Bjørn Nyland: Tesla Model S Plaid range test 22.02.2023
+
+{{< youtube bPFBz4BfbNg >}}
 ### Bjørn Nyland: Tesla Model S Plaid headlights test 19.02.2023
 
 {{< youtube RdGGd8B5Itw >}}
