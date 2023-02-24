@@ -7,9 +7,15 @@ weight: 80
 ### Bjørn Nyland: Tesla Model S Plaid range test 22.02.2023
 
 {{< youtube bPFBz4BfbNg >}}
+### Bjørn Nyland: Tesla Model S Plaid acceleration, braking and active noise cancelling 21.02.2023
+
+{{< youtube r6BhufJxD1Q >}}
 ### Bjørn Nyland: Tesla Model S Plaid headlights test 19.02.2023
 
 {{< youtube RdGGd8B5Itw >}}
+### Bjørn Nyland: Tesla Model S Plaid 1000 km challenge 19.02.2023
+
+{{< youtube HjNSZYFAlNE >}}
 ### Bjørn Nyland: Tesla Model S Plaid yoke wheel review 17.02.2023
 
 {{< youtube qIrcx-3O1XE >}}
