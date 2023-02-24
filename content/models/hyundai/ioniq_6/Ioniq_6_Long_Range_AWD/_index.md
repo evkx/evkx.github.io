@@ -6,6 +6,14 @@ weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" alt="Hyundai Ioniq 6 Long Range AWD" title="Hyundai Ioniq 6 Long Range AWD">
+</a>
+<figcaption><h4>Hyundai Ioniq 6 Long Range AWD</h4></figcaption></figur>
+
 We have separated our description of Hyundai Ioniq 6 Long Range AWD into sections. If you do not want to read the full article now, you can click on the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
@@ -60,6 +68,14 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 You can order the car with tinted windows from B-pillar and back. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/exterior_1_st.jpg" alt="Hyundai Ioniq 6 Long Range AWD" title="Hyundai Ioniq 6 Long Range AWD">
+</a>
+<figcaption><h4>Hyundai Ioniq 6 Long Range AWD</h4></figcaption></figur>
+
+
 ## Interior
 
 You can choose between different types of seat materials and interior styling. 
@@ -81,6 +97,14 @@ You can choose from 2 different materials/colors for this seat type. <br />
 <br />
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/frontseats_1_st.jpg" alt="Hyundai Ioniq 6 Long Range AWD" title="Hyundai Ioniq 6 Long Range AWD">
+</a>
+<figcaption><h4>Hyundai Ioniq 6 Long Range AWD</h4></figcaption></figur>
+
+
 ### Second-row seat
 
 
@@ -91,6 +115,14 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/secondrowseats_1_st.jpg" alt="Hyundai Ioniq 6 Long Range AWD" title="Hyundai Ioniq 6 Long Range AWD">
+</a>
+<figcaption><h4>Hyundai Ioniq 6 Long Range AWD</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
@@ -109,6 +141,14 @@ You have wireless charging for your phone.
 
 Hyundai Ioniq 6 Long Range AWD has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a digital instrument cluster, and on the right part, there is a multifunction screen. The  screen behind the steering wheel on the left of the frame is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 12,3 inches large and has a 2880 x 1080 pixels resolution. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/screens_1_st.jpg" alt="Hyundai Ioniq 6 Long Range AWD" title="Hyundai Ioniq 6 Long Range AWD">
+</a>
+<figcaption><h4>Hyundai Ioniq 6 Long Range AWD</h4></figcaption></figur>
+
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
@@ -121,6 +161,14 @@ The model has 4 USB-C connections as standard. The models is equipped with 1 USB
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/headlights_1_st.jpg" alt="Hyundai Ioniq 6 Long Range AWD" title="Hyundai Ioniq 6 Long Range AWD">
+</a>
+<figcaption><h4>Hyundai Ioniq 6 Long Range AWD</h4></figcaption></figur>
+
 ## Driver assistance
 
 The Hyundai Ioniq 6 Long Range AWD has several standard and optional driver assistance systems for better safety and comfort.

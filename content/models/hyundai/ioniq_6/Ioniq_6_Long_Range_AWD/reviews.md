@@ -1,5 +1,5 @@
 ---
-title: Hyundai Ioniq 5 reviews
+title: Hyundai Ioniq 6 reviews
 linktitle: Reviews
 description: See below for reviews
 weight: 80
