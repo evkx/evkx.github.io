@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Autogefühl: Nissan Ariya e-4ORCE (AWD) driving REVIEW with winter test! 18.02.2023
+
+{{< youtube rpzxbMFsY6c >}}
 ### Bjørn Nyland: I drove Nissan Ariya 87 kWh until the battery died 07.10.2022
 
 {{< youtube OR5JRd0g_Q8 >}}

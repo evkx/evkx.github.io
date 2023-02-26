@@ -1,7 +1,7 @@
 ---
 title: Nio EL7
 linktitle: EL7
-description: Nio EL7 is an all-electric SUV with a WLTP range of up to 513 km (319 miles). EVKX.net have all the details. 
+description: Nio EL7 is an all-electric SUV with a WLTP range of up to 580 km (360 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -37,18 +37,18 @@ The Nio EL7 has a maximum power of 480KW (653hp). The total torque is 850nm. The
 Nio EL7 has two battery options with different specifications. Below you see how this affects range and charging. 
 ### 100kWh
 
-The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 513 to 486 km (319-302 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,5kWh/100km for the basic version and 18,5kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 580 to 505 km (360-314 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,5kWh/100km for the basic version and 17,8kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 83 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 72% resulting in an actual charge speed including time loss on 79kW. Each charge session would take 44 minutes and 24 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 10 hours and 37 minutes to drive. This will requires three charge sessions charging from 7% to 74%. The total time lost for charging will be 137 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 23 minutes to drive. This will requires three charge sessions charging from 8% to 68%. The total time lost for charging will be 123 minutes.   
 ### 75kWh
 
-The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 394 to 372 km (245-231 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,5kWh/100km for the basic version and 18,5kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 445 to 385 km (277-239 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,5kWh/100km for the basic version and 17,8kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 140kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74% resulting in an actual charge speed including time loss on 77kW. Each charge session would take 37 minutes and 57 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 10 hours and 56 minutes to drive. This will requires four charge sessions charging from 6% to 77%. The total time lost for charging will be 157 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 41 minutes to drive. This will requires four charge sessions charging from 7% to 71%. The total time lost for charging will be 141 minutes.   
 ### Onboard charger
 
 
@@ -93,7 +93,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
+You can choose between different types of seat materials and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
 ### First row seats
 
@@ -127,7 +127,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - electric adjustment 
 - heating (optional)
