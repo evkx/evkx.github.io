@@ -42,7 +42,7 @@ weight: 30
 |----|-----|
 |Battery gross|100|
 |Battery net|90|
-|Max DC charging|140|
+|Max DC charging|126|
 |Cell architecture|96s1p|
 
 
@@ -50,7 +50,7 @@ weight: 30
 |----|-----|
 |Battery gross|75|
 |Battery net|70,5|
-|Max DC charging|120|
+|Max DC charging|140|
 |Cell architecture|118s1p|
 
 
@@ -58,14 +58,12 @@ weight: 30
 ## Dimensions
 |Spec|Value|
 |----|-----|
-|Length|4912|
-|Height|1720|
+|Length|5101|
+|Height|1509|
 |Width excluding mirrors|1987|
-|Widht including mirrors|2271|
-|Wheelbase|2960|
-|Track width front|1668|
-|Track width rear|1672|
-|Drag coefficient|0,29|
+|Widht including mirrors|2202|
+|Wheelbase|3060|
+|Drag coefficient|0,208|
 |Turning circle|12,4|
 
 ## Driver Assistance
@@ -103,16 +101,3 @@ weight: 30
 |Android Auto support|Not available|
 |Apple Carplay support|Not available|
 |In Car navigation|Yes, standard equipment|
-|Number of avaiable sound systems|2|
-
-### Surroundsystem
-|Spec|Value|
-|----|-----|
-|Number of speakers|7|
-|Channels|7|
-
-### Premium sound system
-|Spec|Value|
-|----|-----|
-|Number of speakers|12|
-|Channels|7|
