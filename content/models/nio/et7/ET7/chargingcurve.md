@@ -1,7 +1,7 @@
 ---
-title: Nio EL7 charging curve
+title: Nio ET7 charging curve
 linktitle: Charging curve
-description: Here you find the charging curve for Nio EL7. 
+description: Here you find the charging curve for Nio ET7. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
