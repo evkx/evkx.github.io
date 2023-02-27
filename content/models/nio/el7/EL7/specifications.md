@@ -18,22 +18,22 @@ weight: 30
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|580|
-|Basic trim WLTP consumption|15,5|
-|Basic trim WLTP consumption with charging loss|19,0|
-|Top trim WLTP range|505|
-|Top trim WLTP consumption|17,8|
+|Basic trim WLTP range|513|
+|Basic trim WLTP consumption|17,5|
+|Basic trim WLTP consumption with charging loss|21,5|
+|Top trim WLTP range|486|
+|Top trim WLTP consumption|18,5|
 |Top trim WLTP consumption with charging loss|22,7|
 
 
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|445|
-|Basic trim WLTP consumption|15,5|
-|Basic trim WLTP consumption with charging loss|19,3|
-|Top trim WLTP range|385|
-|Top trim WLTP consumption|17,8|
-|Top trim WLTP consumption with charging loss|22,3|
+|Basic trim WLTP range|394|
+|Basic trim WLTP consumption|17,5|
+|Basic trim WLTP consumption with charging loss|21,8|
+|Top trim WLTP range|372|
+|Top trim WLTP consumption|18,5|
+|Top trim WLTP consumption with charging loss|23,1|
 
 
 
