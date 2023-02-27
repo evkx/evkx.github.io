@@ -37,6 +37,9 @@
     "trunksize": "Trunk size", 
     "maxtrunksize": "Max Trunk size (seats down)",
     "maxload": "Max load including driver", 
-    "maxtrailer": "Max braked trailer size"
+    "maxtrailer": "Max braked trailer size",
+    "maxgroundclearance": "Max ground clearance",
+    "mingroundclearance": "Minimum ground clearance",
+    "suspensionheightadjustment": "Suspensions height adjustment"
   }
 }
