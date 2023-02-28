@@ -1,5 +1,5 @@
 ---
-title: Nio ET7 specifications
+title: Nio ET5 specifications
 linktitle: Specifications
 description: See below for specifications
 weight: 30
@@ -8,32 +8,32 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|360|
-|Electrical torque output in Nm|700|
+|Peak electrical output in kW|480|
+|Electrical torque output in Nm|850|
 |Top speed|200|
-|0-100kph (0-62 mph)|4|
+|0-100kph (0-62 mph)|3,9|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|590|
-|Basic trim WLTP consumption|15,3|
-|Basic trim WLTP consumption with charging loss|18,6|
-|Top trim WLTP range|540|
-|Top trim WLTP consumption|16,7|
-|Top trim WLTP consumption with charging loss|20,4|
+|Basic trim WLTP range|580|
+|Basic trim WLTP consumption|15,5|
+|Basic trim WLTP consumption with charging loss|19,0|
+|Top trim WLTP range|505|
+|Top trim WLTP consumption|17,8|
+|Top trim WLTP consumption with charging loss|22,7|
 
 
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|456|
-|Basic trim WLTP consumption|15,3|
-|Basic trim WLTP consumption with charging loss|18,9|
-|Top trim WLTP range|419|
-|Top trim WLTP consumption|16,7|
-|Top trim WLTP consumption with charging loss|20,5|
+|Basic trim WLTP range|445|
+|Basic trim WLTP consumption|15,5|
+|Basic trim WLTP consumption with charging loss|19,3|
+|Top trim WLTP range|385|
+|Top trim WLTP consumption|17,8|
+|Top trim WLTP consumption with charging loss|22,3|
 
 
 
