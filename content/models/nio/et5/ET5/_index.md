@@ -1,7 +1,7 @@
 ---
 title: Nio ET5
 linktitle: ET5
-description: Nio ET5 is an all-electric sedan with a WLTP range of up to 580 km (360 miles). EVKX.net have all the details. 
+description: Nio ET5 is an all-electric sedan with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -37,18 +37,18 @@ The Nio ET5 has a maximum power of 480KW (653hp). The total torque is 850nm. The
 Nio ET5 has two battery options with different specifications. Below you see how this affects range and charging. 
 ### 100kWh
 
-The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 580 to 505 km (360-314 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,5kWh/100km for the basic version and 17,8kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 590 to 540 km (367-336 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,3kWh/100km for the basic version and 16,7kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 83 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 72% resulting in an actual charge speed including time loss on 79kW. Each charge session would take 44 minutes and 24 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 23 minutes to drive. This will requires three charge sessions charging from 8% to 68%. The total time lost for charging will be 123 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 7 minutes to drive. This will requires three charge sessions charging from 8% to 60%. The total time lost for charging will be 108 minutes.   
 ### 75kWh
 
-The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 445 to 385 km (277-239 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,5kWh/100km for the basic version and 17,8kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 456 to 419 km (283-260 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,3kWh/100km for the basic version and 16,7kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 140kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74% resulting in an actual charge speed including time loss on 77kW. Each charge session would take 37 minutes and 57 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 41 minutes to drive. This will requires four charge sessions charging from 7% to 71%. The total time lost for charging will be 141 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 26 minutes to drive. This will requires four charge sessions charging from 8% to 65%. The total time lost for charging will be 127 minutes.   
 ### Onboard charger
 
 
@@ -62,7 +62,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio ET5 has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 88 mm and max 168 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 150 mm and max 150 mm. 
 
 ### Steering
 
