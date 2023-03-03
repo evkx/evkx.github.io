@@ -49,7 +49,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 BMW iX1 xDrive30 has an all-wheel drive system supported by two motors. One on each axle. 
 
-The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 170 mm. The Adaptive M Suspension suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 179 mm. 
+The Adaptive M Suspension suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 170 mm. 
 
 ### Steering
 
@@ -82,11 +82,27 @@ You can order the car with tinted windows from B-pillar and back.
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
+You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
 ### First row seats
 
-Only one front seat type is available in the BMW iX1 xDrive30. 
+There are two seat types you can choose from for the front row in the BMW iX1 xDrive30. 
+
+The following functionalities are available on the **Standard** seat. 
+
+- electric adjustment (optional)
+- heating 
+- memory driver seat (optional)
+- memory passenger seat (optional)
+- electric lumbar support (optional)
+- adjustable side support back (optional)
+- integrated headrest 
+- ventilation (optional)
+- massage (optional)
+
+You can choose from 3 different materials/colors for this seat type. <br />
+<br />
+
 
 The following functionalities are available on the **Sport** seat. 
 
@@ -95,6 +111,7 @@ The following functionalities are available on the **Sport** seat.
 - memory driver seat (optional)
 - memory passenger seat (optional)
 - adjustable side support back (optional)
+- adjustable thigh support 
 - integrated headrest 
 - ventilation (optional)
 - massage (optional)
@@ -132,7 +149,7 @@ There is only one type of steering wheel available. The stock steering wheel is 
 
 ## Climate system
 
-You can choose from two different climate systems. The standard climate system supports different temperatures in two zone for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
+There is one climate system available. The standard climate system supports different temperatures in two zone for the driver and passenger. 
 
 ## Comfort
 
@@ -160,7 +177,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-One type of sound system is available for the BMW iX1 xDrive30. With the Harman Kardon Surround Sound system, you get nine amplifier channels and 16 speakers with a max system output of 464 watts. 
+You can choose between two sound systems on the BMW iX1 xDrive30. With the Harman Kardon Surround Sound system, you get nine amplifier channels and 16 speakers with a max system output of 464 watts. With the Harman Kardon Surround Sound system, you get seven amplifier channels and 16 speakers with a max system output of 464 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW iX1 xDrive30 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

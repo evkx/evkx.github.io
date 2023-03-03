@@ -84,3 +84,18 @@ weight: 30
 |Android Auto support|Yes, standard equipment|
 |Apple Carplay support|Yes, standard equipment|
 |In Car navigation|Yes, standard equipment|
+|Number of avaiable sound systems|2|
+
+### Harman Kardon Surround Sound system
+|Spec|Value|
+|----|-----|
+|Number of speakers|16|
+|Channels|9|
+|Total effect|464|
+
+### Harman Kardon Surround Sound system
+|Spec|Value|
+|----|-----|
+|Number of speakers|16|
+|Channels|7|
+|Total effect|464|
