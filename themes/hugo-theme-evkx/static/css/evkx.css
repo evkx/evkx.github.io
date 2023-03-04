@@ -7041,9 +7041,9 @@ h1 {
 .a-fontSizeM, a.a-link-large,
 .a-btn-link.a-link-large, .a-linkFeatured, h3,
 .a-h3, .a-card .a-h3 a, p.a-paragraphLarge, .a-login-container .a-btn-shadow.a-btn-shadow-large, .a-mainCard .a-mainCard-content, .a-jumbotron .a-jumbotron-ingress.a-jumbotron-ingress--small, .a-articleList .a-linkArticle a {
-  font-size: 16px;
-  font-size: 1.6rem;
-  line-height: 1.5;
+  font-size: 11px;
+  font-size: 1.1rem;
+  line-height: 1.4;
   -webkit-font-smoothing: subpixel-antialiased; }
   @media (min-width: 768px) {
     .a-fontSizeM, a.a-link-large,
@@ -8787,7 +8787,7 @@ h1,
 
 h2,
 .a-h2 {
-  font-family: "DIN-medium";
+  font-family: "DIN-bold";
   font-weight: normal;
   margin-bottom: 12px; }
   @media (min-width: 768px) {
