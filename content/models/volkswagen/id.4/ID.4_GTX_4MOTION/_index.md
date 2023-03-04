@@ -30,7 +30,7 @@ We have separated our description of Volkswagen ID.4 GTX 4MOTION into sections. 
 
 ## Performance
 
-With overboost, the Volkswagen ID.4 GTX 4MOTION has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,3 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 kph. 
+With overboost, the Volkswagen ID.4 GTX 4MOTION has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,3 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -38,7 +38,7 @@ The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning y
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43% resulting in an actual charge speed including time loss on 101kW. Each charge session would take 19 minutes and 43 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 46 minutes to drive. This will requires four charge sessions charging from 2% to 49%. The total time lost for charging will be 86 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 46 minutes to drive. This trip will require four charge session(s) charging from 2% to 49%. The total time lost for charging will be 86 minutes.   
 ### Onboard charger
 
 

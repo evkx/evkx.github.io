@@ -30,7 +30,7 @@ We have separated our description of Kia EV6 Standard Range 2WD into sections. I
 
 ## Performance
 
-The Kia EV6 Standard Range 2WD has a maximum power of 125KW (170hp). The total torque is 350nm. The 0-100km/h sprint (0-62mph) is performed in 8,5 seconds. The top speed is 185 kph. 
+The Kia EV6 Standard Range 2WD has a maximum power of 125KW (170hp). The total torque is 350nm. The 0-100km/h sprint (0-62mph) takes 8,5 seconds. The top speed is 185 km/h. 
 
 ## Battery, range, and charging
 
@@ -38,7 +38,7 @@ The battery has a gross capacity of 58kWh and a net capacity of 54kWh, meaning y
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 28 minutes, while a more common scenario of 10-80% would take 12 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 82% resulting in an actual charge speed including time loss on 140kW. Each charge session would take 19 minutes and 42 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 20kWh/100km, 1000km will take 9 hours and 23 minutes to drive. This will requires four charge sessions charging from 1% to 69%. The total time lost for charging will be 64 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 20kWh/100km, 1000km will take 9 hours and 23 minutes to drive. This trip will require four charge session(s) charging from 1% to 69%. The total time lost for charging will be 64 minutes.   
 ### Onboard charger
 
 

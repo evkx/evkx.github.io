@@ -30,7 +30,7 @@ We have separated our description of Tesla Model Y Standard Range into sections.
 
 ## Performance
 
-The Tesla Model Y Standard Range has a maximum power of 255KW (347hp). The total torque is 420nm. The 0-100km/h sprint (0-62mph) is performed in 6,9 seconds. The top speed is 217 kph. 
+The Tesla Model Y Standard Range has a maximum power of 255KW (347hp). The total torque is 420nm. The 0-100km/h sprint (0-62mph) takes 6,9 seconds. The top speed is 217 km/h. 
 
 ## Battery, range, and charging
 
@@ -38,7 +38,7 @@ The battery has a gross capacity of 60kWh and a net capacity of 57,5kWh, meaning
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 24 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 50% resulting in an actual charge speed including time loss on 101kW. Each charge session would take 16 minutes and 28 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 42 minutes to drive. This will requires five charge sessions charging from 2% to 50%. The total time lost for charging will be 82 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 42 minutes to drive. This trip will require five charge session(s) charging from 2% to 50%. The total time lost for charging will be 82 minutes.   
 ### Onboard charger
 
 

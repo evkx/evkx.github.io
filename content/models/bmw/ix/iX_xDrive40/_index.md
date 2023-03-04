@@ -30,7 +30,7 @@ We have separated our description of BMW iX xDrive40 into sections. If you want 
 
 ## Performance
 
-The BMW iX xDrive40 has a maximum power of 240KW (326hp). The total torque is 630nm. The 0-100km/h sprint (0-62mph) is performed in 6,1 seconds. The top speed is 200 kph. 
+The BMW iX xDrive40 has a maximum power of 240KW (326hp). The total torque is 630nm. The 0-100km/h sprint (0-62mph) takes 6,1 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -38,7 +38,7 @@ The battery has a gross capacity of 76,6kWh and a net capacity of 71kWh, meaning
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 42% resulting in an actual charge speed including time loss on 93kW. Each charge session would take 19 minutes and 43 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 10 hours and 9 minutes to drive. This will requires six charge sessions charging from 1% to 41%. The total time lost for charging will be 110 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 10 hours and 9 minutes to drive. This trip will require six charge session(s) charging from 1% to 41%. The total time lost for charging will be 110 minutes.   
 ### Onboard charger
 
 

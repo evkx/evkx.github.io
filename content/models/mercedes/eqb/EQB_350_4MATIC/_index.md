@@ -30,7 +30,7 @@ We have separated our description of Mercedes-EQ EQB 350 4MATIC into sections. I
 
 ## Performance
 
-The Mercedes-EQ EQB 350 4MATIC has a maximum power of 215KW (292hp). The total torque is 520nm. The 0-100km/h sprint (0-62mph) is performed in 6,2 seconds. The top speed is 160 kph. 
+The Mercedes-EQ EQB 350 4MATIC has a maximum power of 215KW (292hp). The total torque is 520nm. The 0-100km/h sprint (0-62mph) takes 6,2 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -38,7 +38,7 @@ The battery has a gross capacity of 69,7kWh and a net capacity of 66,5kWh, meani
 
 The maximum DC charging speed is 112kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 70% resulting in an actual charge speed including time loss on 84kW. Each charge session would take 31 minutes and 19 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 31 minutes to drive. This will requires four charge sessions charging from 4% to 73%. The total time lost for charging will be 131 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 31 minutes to drive. This trip will require four charge session(s) charging from 4% to 73%. The total time lost for charging will be 131 minutes.   
 ### Onboard charger
 
 

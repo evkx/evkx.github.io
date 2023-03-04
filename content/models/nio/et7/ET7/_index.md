@@ -30,7 +30,7 @@ We have separated our description of Nio ET7 into sections. If you want to wait 
 
 ## Performance
 
-The Nio ET7 has a maximum power of 360KW (489hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) is performed in 4 seconds. The top speed is 200 kph. 
+The Nio ET7 has a maximum power of 360KW (489hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -41,14 +41,14 @@ The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning 
 
 The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 83 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 72% resulting in an actual charge speed including time loss on 79kW. Each charge session would take 44 minutes and 24 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 23 minutes to drive. This will requires three charge sessions charging from 8% to 68%. The total time lost for charging will be 123 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 23 minutes to drive. This trip will require three charge session(s) charging from 8% to 68%. The total time lost for charging will be 123 minutes.   
 ### 75kWh
 
 The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 445 to 385 km (277-239 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,5kWh/100km for the basic version and 17,8kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 140kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74% resulting in an actual charge speed including time loss on 77kW. Each charge session would take 37 minutes and 57 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 41 minutes to drive. This will requires four charge sessions charging from 7% to 71%. The total time lost for charging will be 141 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 41 minutes to drive. This trip will require four charge session(s) charging from 7% to 71%. The total time lost for charging will be 141 minutes.   
 ### Onboard charger
 
 

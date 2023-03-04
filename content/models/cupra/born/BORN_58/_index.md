@@ -30,7 +30,7 @@ We have separated our description of CUPRA BORN 58 into sections. If you want to
 
 ## Performance
 
-The CUPRA BORN 58 has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) is performed in 7,3 seconds. The top speed is 160 kph. 
+The CUPRA BORN 58 has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -38,7 +38,7 @@ The battery has a gross capacity of 62kWh and a net capacity of 58kWh, meaning y
 
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 63 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 43% resulting in an actual charge speed including time loss on 77kW. Each charge session would take 19 minutes and 28 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 10 hours and 26 minutes to drive. This will requires seven charge sessions charging from 0% to 40%. The total time lost for charging will be 127 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 10 hours and 26 minutes to drive. This trip will require seven charge session(s) charging from 0% to 40%. The total time lost for charging will be 127 minutes.   
 ### Onboard charger
 
 

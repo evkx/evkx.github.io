@@ -30,7 +30,7 @@ We have separated our description of Mercedes-EQ EQS 450 4MATIC into sections. I
 
 ## Performance
 
-The Mercedes-EQ EQS 450 4MATIC has a maximum power of 265KW (360hp). The total torque is 800nm. The 0-100km/h sprint (0-62mph) is performed in 5,6 seconds. The top speed is 210 kph. 
+The Mercedes-EQ EQS 450 4MATIC has a maximum power of 265KW (360hp). The total torque is 800nm. The 0-100km/h sprint (0-62mph) takes 5,6 seconds. The top speed is 210 km/h. 
 
 ## Battery, range, and charging
 
@@ -38,7 +38,7 @@ The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meani
 
 The maximum DC charging speed is 210kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 41 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 7 minutes to drive. This will requires two charge sessions charging from 1% to 53%. The total time lost for charging will be 48 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 7 minutes to drive. This trip will require two charge session(s) charging from 1% to 53%. The total time lost for charging will be 48 minutes.   
 ### Onboard charger
 
 

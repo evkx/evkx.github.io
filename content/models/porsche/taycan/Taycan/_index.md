@@ -30,9 +30,9 @@ We have separated our description of Porsche Taycan into sections. If you want t
 
 ## Performance
 
-With overboost, the Porsche Taycan has a maximum power of 300KW (408hp). Without overboost, it is 240KW (326hp). The torque is 345nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) is performed in 5,4 seconds. The top speed is 230 kph. 
+With overboost, the Porsche Taycan has a maximum power of 300KW (408hp). Without overboost, it is 240KW (326hp). The torque is 345nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 5,4 seconds. The top speed is 230 km/h. 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan has a maximum power of 350KW (476hp). Without overboost, it is 280KW (381hp). The torque is 357nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) is performed in 5,4 seconds. The top speed is 230 kph. 
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan has a maximum power of 350KW (476hp). Without overboost, it is 280KW (381hp). The torque is 357nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 5,4 seconds. The top speed is 230 km/h. 
 
 ## Battery, range, and charging
 
@@ -43,14 +43,14 @@ The battery has a gross capacity of 79,2kWh and a net capacity of 71kWh, meaning
 
 The maximum DC charging speed is 225kW. A full charge from 0 - 100% would take 45 minutes, while a more common scenario of 10-80% would take 19 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 67% resulting in an actual charge speed including time loss on 136kW. Each charge session would take 21 minutes and 2 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 26 minutes to drive. This will requires three charge sessions charging from 0% to 70%. The total time lost for charging will be 66 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 26 minutes to drive. This trip will require three charge session(s) charging from 0% to 70%. The total time lost for charging will be 66 minutes.   
 ### Performance Battery Plus
 
 The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 484 to 407 km (301-253 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,5kWh/100km for the basic version and 20,1kWh/100km for the top trim version for the WLTP standard test. 
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65% resulting in an actual charge speed including time loss on 165kW. Each charge session would take 19 minutes and 53 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 10 minutes to drive. This will requires three charge sessions charging from 3% to 58%. The total time lost for charging will be 51 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 10 minutes to drive. This trip will require three charge session(s) charging from 3% to 58%. The total time lost for charging will be 51 minutes.   
 ### Onboard charger
 
 

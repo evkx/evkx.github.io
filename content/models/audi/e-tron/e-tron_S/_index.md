@@ -30,7 +30,7 @@ We have separated our description of Audi e-tron S into sections. If you want to
 
 ## Performance
 
-With overboost, the Audi e-tron S has a maximum power of 370KW (503hp). Without overboost, it is 320KW (435hp). The torque is 973nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,5 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 kph. 
+With overboost, the Audi e-tron S has a maximum power of 370KW (503hp). Without overboost, it is 320KW (435hp). The torque is 973nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,5 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -38,7 +38,7 @@ The battery has a gross capacity of 95kWh and a net capacity of 86kWh, meaning y
 
 The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 44 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 81% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 34 minutes and 14 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 29kWh/100km, 1000km will take 10 hours and 5 minutes to drive. This will requires three charge sessions charging from 2% to 82%. The total time lost for charging will be 106 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 29kWh/100km, 1000km will take 10 hours and 5 minutes to drive. This trip will require three charge session(s) charging from 2% to 82%. The total time lost for charging will be 106 minutes.   
 ### Onboard charger
 
 

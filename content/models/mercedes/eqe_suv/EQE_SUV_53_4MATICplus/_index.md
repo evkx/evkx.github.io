@@ -30,9 +30,9 @@ We have separated our description of Mercedes-AMG EQE SUV 53 4MATIC+ into sectio
 
 ## Performance
 
-The Mercedes-AMG EQE SUV 53 4MATIC+ has a maximum power of 460KW (625hp). The total torque is 950nm. The 0-100km/h sprint (0-62mph) is performed in 3,7 seconds. The top speed is 220 kph. 
+The Mercedes-AMG EQE SUV 53 4MATIC+ has a maximum power of 460KW (625hp). The total torque is 950nm. The 0-100km/h sprint (0-62mph) takes 3,7 seconds. The top speed is 220 km/h. 
 
-If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE SUV 53 4MATIC+ has a maximum power of 505KW (687hp). The total torque is 1000nm. The 0-100km/h sprint (0-62mph) is performed in 3,5 seconds. The top speed is 240 kph. 
+If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE SUV 53 4MATIC+ has a maximum power of 505KW (687hp). The total torque is 1000nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 240 km/h. 
 
 ## Battery, range, and charging
 
@@ -40,7 +40,7 @@ The battery has a gross capacity of 95,8kWh and a net capacity of 90,6kWh, meani
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 55 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 64% resulting in an actual charge speed including time loss on 121kW. Each charge session would take 28 minutes and 48 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 9 hours and 50 minutes to drive. This will requires three charge sessions charging from 2% to 69%. The total time lost for charging will be 90 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 9 hours and 50 minutes to drive. This trip will require three charge session(s) charging from 2% to 69%. The total time lost for charging will be 90 minutes.   
 ### Onboard charger
 
 
