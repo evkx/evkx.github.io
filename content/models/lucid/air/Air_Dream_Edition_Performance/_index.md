@@ -80,7 +80,7 @@ There is only one roof for this model.
 
 ## Interior
 
-
+The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
 ### First row seats
 
