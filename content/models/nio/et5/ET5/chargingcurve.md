@@ -10,6 +10,7 @@ This model is available with multiple batteries. Below you find the performance 
 ### 100 kWh
 
 ![Charge curve](../chargingcurve_1.svg  "Charging curve")
+[Full screen](../chargingcurve_1.svg)
 
 |  | |
 |-----|-----|
@@ -126,6 +127,7 @@ This model is available with multiple batteries. Below you find the performance 
 ### 75 kWh
 
 ![Charge curve](../chargingcurve_2.svg  "Charging curve")
+[Full screen](../chargingcurve_2.svg)
 
 |  | |
 |-----|-----|

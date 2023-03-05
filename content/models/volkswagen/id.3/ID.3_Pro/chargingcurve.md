@@ -6,6 +6,7 @@ weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 ![Charge curve](../chargingcurve.svg  "Charging curve")
+[Full screen](../chargingcurve.svg)
 
 |  | |
 |-----|-----|
