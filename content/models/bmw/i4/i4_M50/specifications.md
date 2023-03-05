@@ -1,7 +1,7 @@
 ---
 title: BMW i4 M50 specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for BMW i4 M50
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|250 Kw|
 |Electrical torque output in Nm|430 Nm|
 |Top speed|190 km/h|
-|0-100kph (0-62 mph)|3,9 s|
+|0-100km/h (0-62 mph)|3,9 s|
 
 
 

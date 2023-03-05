@@ -1,6 +1,6 @@
 ---
-title: Nio ES8 charging curve
-linktitle: Charging curve
+title: Nio ES8 charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Nio ES8. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |65,3 kW|
+|Average charging speed 10-100% |66,5 kW|
+|Average charging speed 10-80% |87,1 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

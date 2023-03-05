@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron S charging curve
-linktitle: Charging curve
+title: Audi e-tron S charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Audi e-tron S. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |116,4 kW|
+|Average charging speed 10-100% |116,6 kW|
+|Average charging speed 10-80% |138,9 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

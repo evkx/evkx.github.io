@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID. Buzz Pro charging curve
-linktitle: Charging curve
+title: Volkswagen ID. Buzz Pro charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Volkswagen ID. Buzz Pro. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |92,1 kW|
+|Average charging speed 10-100% |87,7 kW|
+|Average charging speed 10-80% |110,9 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

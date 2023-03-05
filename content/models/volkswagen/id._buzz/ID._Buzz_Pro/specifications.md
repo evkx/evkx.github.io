@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID. Buzz Pro specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Volkswagen ID. Buzz Pro
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|150 Kw|
 |Electrical torque output in Nm|310 Nm|
 |Top speed|145 km/h|
-|0-100kph (0-62 mph)|10,2 s|
+|0-100km/h (0-62 mph)|10,2 s|
 
 
 

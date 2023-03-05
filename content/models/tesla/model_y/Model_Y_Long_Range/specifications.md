@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Long Range specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Tesla Model Y Long Range
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|324 Kw|
 |Electrical torque output in Nm|493 Nm|
 |Top speed|217 km/h|
-|0-100kph (0-62 mph)|5 s|
+|0-100km/h (0-62 mph)|5 s|
 
 
 

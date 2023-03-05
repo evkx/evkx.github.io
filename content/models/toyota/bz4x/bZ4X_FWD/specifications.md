@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X FWD specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Toyota bZ4X FWD
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|160 Kw|
 |Electrical torque output in Nm|337 Nm|
 |Top speed|160 km/h|
-|0-100kph (0-62 mph)|6,9 s|
+|0-100km/h (0-62 mph)|6,9 s|
 
 
 

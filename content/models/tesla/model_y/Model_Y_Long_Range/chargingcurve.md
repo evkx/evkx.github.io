@@ -1,6 +1,6 @@
 ---
-title: Tesla Model Y Long Range charging curve
-linktitle: Charging curve
+title: Tesla Model Y Long Range charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Tesla Model Y Long Range. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |72,5 kW|
+|Average charging speed 10-100% |68,9 kW|
+|Average charging speed 10-80% |101,2 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

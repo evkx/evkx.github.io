@@ -1,6 +1,6 @@
 ---
-title: Nissan Ariya 63kWh charging curve
-linktitle: Charging curve
+title: Nissan Ariya 63kWh charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Nissan Ariya 63kWh. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |73,0 kW|
+|Average charging speed 10-100% |71,1 kW|
+|Average charging speed 10-80% |86,1 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

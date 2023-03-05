@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron GT charging curve
-linktitle: Charging curve
+title: Audi e-tron GT charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Audi e-tron GT. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |99,6 kW|
+|Average charging speed 10-100% |95,2 kW|
+|Average charging speed 10-80% |195,5 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

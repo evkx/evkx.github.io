@@ -1,7 +1,7 @@
 ---
 title: Nio ES8 specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Nio ES8
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|400 Kw|
 |Electrical torque output in Nm|725 Nm|
 |Top speed|200 km/h|
-|0-100kph (0-62 mph)|4,9 s|
+|0-100km/h (0-62 mph)|4,9 s|
 
 
 

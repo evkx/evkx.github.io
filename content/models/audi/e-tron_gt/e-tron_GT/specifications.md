@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Audi e-tron GT
 weight: 30
 ---
 
@@ -14,8 +14,8 @@ weight: 30
 |Electrical torque output in Nm|630 Nm|
 |Electrical torque output boost in Nm|640 Nm|
 |Top speed|245 km/h|
-|0-100kph (0-62 mph)|4,5 s|
-|0-100kph (0-62 mph) boost|4,1 s|
+|0-100km/h (0-62 mph)|4,5 s|
+|0-100km/h (0-62 mph) boost|4,1 s|
 
 
 

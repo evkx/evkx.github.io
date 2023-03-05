@@ -1,6 +1,6 @@
 ---
-title: Audi Q8 50 Sportback e-tron charging curve
-linktitle: Charging curve
+title: Audi Q8 50 Sportback e-tron charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Audi Q8 50 Sportback e-tron. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |116,4 kW|
+|Average charging speed 10-100% |116,6 kW|
+|Average charging speed 10-80% |138,9 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

@@ -1,7 +1,7 @@
 ---
 title: BMW iX3 specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for BMW iX3
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|210 Kw|
 |Electrical torque output in Nm|400 Nm|
 |Top speed|180 km/h|
-|0-100kph (0-62 mph)|6,8 s|
+|0-100km/h (0-62 mph)|6,8 s|
 
 
 

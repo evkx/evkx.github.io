@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQE 350+ charging curve
-linktitle: Charging curve
+title: Mercedes-EQ EQE 350+ charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Mercedes-EQ EQE 350+. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |98,3 kW|
+|Average charging speed 10-100% |96,1 kW|
+|Average charging speed 10-80% |132,2 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQC 400 4MATIC charging curve
-linktitle: Charging curve
+title: Mercedes-EQ EQC 400 4MATIC charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Mercedes-EQ EQC 400 4MATIC. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |71,3 kW|
+|Average charging speed 10-100% |79,0 kW|
+|Average charging speed 10-80% |90,8 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

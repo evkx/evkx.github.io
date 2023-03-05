@@ -1,7 +1,7 @@
 ---
 title: BYD Tang EV600 specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for BYD Tang EV600
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|380 Kw|
 |Electrical torque output in Nm|680 Nm|
 |Top speed|180 km/h|
-|0-100kph (0-62 mph)|4,6 s|
+|0-100km/h (0-62 mph)|4,6 s|
 
 
 

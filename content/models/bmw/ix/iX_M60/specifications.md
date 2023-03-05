@@ -1,7 +1,7 @@
 ---
 title: BMW iX M60 specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for BMW iX M60
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|455 Kw|
 |Electrical torque output in Nm|765 Nm|
 |Top speed|250 km/h|
-|0-100kph (0-62 mph)|3,8 s|
+|0-100km/h (0-62 mph)|3,8 s|
 
 
 

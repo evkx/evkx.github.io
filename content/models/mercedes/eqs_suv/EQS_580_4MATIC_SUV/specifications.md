@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 580 4MATIC SUV specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Mercedes-EQ EQS 580 4MATIC SUV
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|400 Kw|
 |Electrical torque output in Nm|858 Nm|
 |Top speed|210 km/h|
-|0-100kph (0-62 mph)|4,6 s|
+|0-100km/h (0-62 mph)|4,6 s|
 
 
 

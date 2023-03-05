@@ -1,7 +1,7 @@
 ---
 title: BMW iX xDrive40 specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for BMW iX xDrive40
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|240 Kw|
 |Electrical torque output in Nm|630 Nm|
 |Top speed|200 km/h|
-|0-100kph (0-62 mph)|6,1 s|
+|0-100km/h (0-62 mph)|6,1 s|
 
 
 

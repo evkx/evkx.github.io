@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 50 specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Audi e-tron 50
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|230 Kw|
 |Electrical torque output in Nm|540 Nm|
 |Top speed|200 km/h|
-|0-100kph (0-62 mph)|6,8 s|
+|0-100km/h (0-62 mph)|6,8 s|
 
 
 

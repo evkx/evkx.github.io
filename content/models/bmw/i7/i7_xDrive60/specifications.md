@@ -1,7 +1,7 @@
 ---
 title: BMW i7 xDrive60 specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for BMW i7 xDrive60
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|400 Kw|
 |Electrical torque output in Nm|745 Nm|
 |Top speed|240 km/h|
-|0-100kph (0-62 mph)|4,7 s|
+|0-100km/h (0-62 mph)|4,7 s|
 
 
 

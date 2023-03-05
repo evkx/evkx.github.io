@@ -1,7 +1,7 @@
 ---
 title: CUPRA BORN 77 e-BOOST specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for CUPRA BORN 77 e-BOOST
 weight: 30
 ---
 
@@ -14,8 +14,8 @@ weight: 30
 |Electrical torque output in Nm|310 Nm|
 |Electrical torque output boost in Nm|310 Nm|
 |Top speed|160 km/h|
-|0-100kph (0-62 mph)|7,9 s|
-|0-100kph (0-62 mph) boost|7 s|
+|0-100km/h (0-62 mph)|7,9 s|
+|0-100km/h (0-62 mph) boost|7 s|
 
 
 

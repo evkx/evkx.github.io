@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Dream Edition Performance charging curve
-linktitle: Charging curve
+title: Lucid Air Dream Edition Performance charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Lucid Air Dream Edition Performance. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |90,7 kW|
+|Average charging speed 10-100% |84,6 kW|
+|Average charging speed 10-80% |150,1 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

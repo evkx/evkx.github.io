@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 GT specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Kia EV6 GT
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|430 Kw|
 |Electrical torque output in Nm|740 Nm|
 |Top speed|260 km/h|
-|0-100kph (0-62 mph)|3,5 s|
+|0-100km/h (0-62 mph)|3,5 s|
 
 
 

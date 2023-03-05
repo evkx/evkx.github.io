@@ -1,7 +1,7 @@
 ---
 title: BMW iX1 xDrive30 specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for BMW iX1 xDrive30
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|230 Kw|
 |Electrical torque output in Nm|494 Nm|
 |Top speed|180 km/h|
-|0-100kph (0-62 mph)|5,6 s|
+|0-100km/h (0-62 mph)|5,6 s|
 
 
 

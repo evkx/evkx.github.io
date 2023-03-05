@@ -1,6 +1,6 @@
 ---
-title: Tesla Model 3 Long Range charging curve
-linktitle: Charging curve
+title: Tesla Model 3 Long Range charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Tesla Model 3 Long Range. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |66,1 kW|
+|Average charging speed 10-100% |62,5 kW|
+|Average charging speed 10-80% |97,0 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

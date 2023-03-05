@@ -1,6 +1,6 @@
 ---
-title: Tesla Model S Plaid charging curve
-linktitle: Charging curve
+title: Tesla Model S Plaid charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Tesla Model S Plaid. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |72,4 kW|
+|Average charging speed 10-100% |70,5 kW|
+|Average charging speed 10-80% |131,8 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

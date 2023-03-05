@@ -1,6 +1,6 @@
 ---
-title: CUPRA BORN 58 e-BOOST charging curve
-linktitle: Charging curve
+title: CUPRA BORN 58 e-BOOST charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for CUPRA BORN 58 e-BOOST. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |55,4 kW|
+|Average charging speed 10-100% |52,4 kW|
+|Average charging speed 10-80% |71,3 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

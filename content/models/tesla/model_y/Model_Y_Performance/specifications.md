@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Performance specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Tesla Model Y Performance
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|393 Kw|
 |Electrical torque output in Nm|660 Nm|
 |Top speed|250 km/h|
-|0-100kph (0-62 mph)|3,7 s|
+|0-100km/h (0-62 mph)|3,7 s|
 
 
 

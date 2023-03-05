@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Standard Range AWD specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Kia EV6 Standard Range AWD
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|173 Kw|
 |Electrical torque output in Nm|605 Nm|
 |Top speed|185 km/h|
-|0-100kph (0-62 mph)|6,2 s|
+|0-100km/h (0-62 mph)|6,2 s|
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQC 400 4MATIC specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Mercedes-EQ EQC 400 4MATIC
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|300 Kw|
 |Electrical torque output in Nm|760 Nm|
 |Top speed|180 km/h|
-|0-100kph (0-62 mph)|5,1 s|
+|0-100km/h (0-62 mph)|5,1 s|
 
 
 

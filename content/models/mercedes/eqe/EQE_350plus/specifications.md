@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 350+ specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Mercedes-EQ EQE 350+
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|215 Kw|
 |Electrical torque output in Nm|565 Nm|
 |Top speed|210 km/h|
-|0-100kph (0-62 mph)|6,4 s|
+|0-100km/h (0-62 mph)|6,4 s|
 
 
 

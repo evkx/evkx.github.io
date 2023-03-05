@@ -1,6 +1,6 @@
 ---
-title: Hyundai Ioniq 6 Long Range AWD charging curve
-linktitle: Charging curve
+title: Hyundai Ioniq 6 Long Range AWD charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Hyundai Ioniq 6 Long Range AWD. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |117,1 kW|
+|Average charging speed 10-100% |112,3 kW|
+|Average charging speed 10-80% |191,6 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

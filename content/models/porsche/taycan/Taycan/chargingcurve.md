@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan charging curve
-linktitle: Charging curve
+title: Porsche Taycan charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Porsche Taycan. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |94,0 kW|
+|Average charging speed 10-100% |88,8 kW|
+|Average charging speed 10-80% |156,5 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

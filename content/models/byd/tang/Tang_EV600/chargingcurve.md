@@ -1,6 +1,6 @@
 ---
-title: BYD Tang EV600 charging curve
-linktitle: Charging curve
+title: BYD Tang EV600 charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for BYD Tang EV600. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |76,8 kW|
+|Average charging speed 10-100% |75,5 kW|
+|Average charging speed 10-80% |99,7 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

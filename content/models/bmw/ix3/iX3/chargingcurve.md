@@ -1,6 +1,6 @@
 ---
-title: BMW iX3 charging curve
-linktitle: Charging curve
+title: BMW iX3 charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for BMW iX3. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |73,4 kW|
+|Average charging speed 10-100% |70,0 kW|
+|Average charging speed 10-80% |102,8 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

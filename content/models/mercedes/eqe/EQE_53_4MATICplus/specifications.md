@@ -1,7 +1,7 @@
 ---
 title: Mercedes-AMG EQE 53 4MATIC+ specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Mercedes-AMG EQE 53 4MATIC+
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|460 Kw|
 |Electrical torque output in Nm|950 Nm|
 |Top speed|220 km/h|
-|0-100kph (0-62 mph)|3,5 s|
+|0-100km/h (0-62 mph)|3,5 s|
 
 
 |Spec|Value|
@@ -20,7 +20,7 @@ weight: 30
 |Peak electrical output in kW|505 Kw|
 |Electrical torque output in Nm|1000 Nm|
 |Top speed|240 km/h|
-|0-100kph (0-62 mph)|3,3 s|
+|0-100km/h (0-62 mph)|3,3 s|
 
 
 

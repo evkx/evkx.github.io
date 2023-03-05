@@ -1,6 +1,6 @@
 ---
-title: BMW iX1 xDrive30 charging curve
-linktitle: Charging curve
+title: BMW iX1 xDrive30 charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for BMW iX1 xDrive30. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |72,6 kW|
+|Average charging speed 10-100% |70,1 kW|
+|Average charging speed 10-80% |95,5 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

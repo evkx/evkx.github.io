@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Nissan Ariya 87kWh
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|178 Kw|
 |Electrical torque output in Nm|300 Nm|
 |Top speed|160 km/h|
-|0-100kph (0-62 mph)|7,5 s|
+|0-100km/h (0-62 mph)|7,5 s|
 
 
 

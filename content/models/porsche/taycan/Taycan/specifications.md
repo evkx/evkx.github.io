@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Porsche Taycan
 weight: 30
 ---
 
@@ -13,7 +13,7 @@ weight: 30
 |Peak electrical output boost in kW|300 Kw|
 |Electrical torque output boost in Nm|345 Nm|
 |Top speed|230 km/h|
-|0-100kph (0-62 mph)|5,4 s|
+|0-100km/h (0-62 mph)|5,4 s|
 
 
 |Spec|Value|
@@ -22,7 +22,7 @@ weight: 30
 |Peak electrical output boost in kW|350 Kw|
 |Electrical torque output boost in Nm|357 Nm|
 |Top speed|230 km/h|
-|0-100kph (0-62 mph)|5,4 s|
+|0-100km/h (0-62 mph)|5,4 s|
 
 
 

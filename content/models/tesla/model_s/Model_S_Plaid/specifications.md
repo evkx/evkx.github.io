@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S Plaid specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Tesla Model S Plaid
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|760 Kw|
 |Electrical torque output in Nm|493 Nm|
 |Top speed|322 km/h|
-|0-100kph (0-62 mph)|2,1 s|
+|0-100km/h (0-62 mph)|2,1 s|
 
 
 

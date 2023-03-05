@@ -1,6 +1,6 @@
 ---
-title: Audi Q8 55 e-tron charging curve
-linktitle: Charging curve
+title: Audi Q8 55 e-tron charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Audi Q8 55 e-tron. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |96,4 kW|
+|Average charging speed 10-100% |94,2 kW|
+|Average charging speed 10-80% |139,8 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

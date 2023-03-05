@@ -1,6 +1,6 @@
 ---
-title: Toyota bZ4X FWD charging curve
-linktitle: Charging curve
+title: Toyota bZ4X FWD charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Toyota bZ4X FWD. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |27,2 kW|
+|Average charging speed 10-100% |25,1 kW|
+|Average charging speed 10-80% |78,0 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 50 e-tron quattro specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Audi Q4 Sportback 50 e-tron quattro
 weight: 30
 ---
 
@@ -14,8 +14,8 @@ weight: 30
 |Electrical torque output in Nm|425 Nm|
 |Electrical torque output boost in Nm|460 Nm|
 |Top speed|180 km/h|
-|0-100kph (0-62 mph)|6,2 s|
-|0-100kph (0-62 mph) boost|6,2 s|
+|0-100km/h (0-62 mph)|6,2 s|
+|0-100km/h (0-62 mph) boost|6,2 s|
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Dream Edition Performance specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Lucid Air Dream Edition Performance
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|828 Kw|
 |Electrical torque output in Nm|1390 Nm|
 |Top speed|270 km/h|
-|0-100kph (0-62 mph)|2,7 s|
+|0-100km/h (0-62 mph)|2,7 s|
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: BMW i4 M50 charging curve
-linktitle: Charging curve
+title: BMW i4 M50 charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for BMW i4 M50. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |86,5 kW|
+|Average charging speed 10-100% |83,9 kW|
+|Average charging speed 10-80% |116,2 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.3 Pro charging curve
-linktitle: Charging curve
+title: Volkswagen ID.3 Pro charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Volkswagen ID.3 Pro. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |55,4 kW|
+|Average charging speed 10-100% |52,4 kW|
+|Average charging speed 10-80% |71,3 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQA 350 4MATIC charging curve
-linktitle: Charging curve
+title: Mercedes-EQ EQA 350 4MATIC charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Mercedes-EQ EQA 350 4MATIC. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |67,8 kW|
+|Average charging speed 10-100% |76,9 kW|
+|Average charging speed 10-80% |95,8 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

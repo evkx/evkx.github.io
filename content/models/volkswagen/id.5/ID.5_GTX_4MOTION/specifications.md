@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.5 GTX 4MOTION specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Volkswagen ID.5 GTX 4MOTION
 weight: 30
 ---
 
@@ -14,8 +14,8 @@ weight: 30
 |Electrical torque output in Nm|425 Nm|
 |Electrical torque output boost in Nm|460 Nm|
 |Top speed|180 km/h|
-|0-100kph (0-62 mph)|6,9 s|
-|0-100kph (0-62 mph) boost|6,3 s|
+|0-100km/h (0-62 mph)|6,9 s|
+|0-100km/h (0-62 mph) boost|6,3 s|
 
 
 

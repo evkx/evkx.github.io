@@ -1,6 +1,6 @@
 ---
-title: Hongqi E-HS9 Premium charging curve
-linktitle: Charging curve
+title: Hongqi E-HS9 Premium charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Hongqi E-HS9 Premium. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |72,9 kW|
+|Average charging speed 10-100% |74,2 kW|
+|Average charging speed 10-80% |107,2 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

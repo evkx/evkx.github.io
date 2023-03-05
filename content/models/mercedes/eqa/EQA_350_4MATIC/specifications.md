@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQA 350 4MATIC specifications
 linktitle: Specifications
-description: See below for specifications
+description: See below for specifications for Mercedes-EQ EQA 350 4MATIC
 weight: 30
 ---
 
@@ -12,7 +12,7 @@ weight: 30
 |Peak electrical output in kW|215 Kw|
 |Electrical torque output in Nm|520 Nm|
 |Top speed|160 km/h|
-|0-100kph (0-62 mph)|6 s|
+|0-100km/h (0-62 mph)|6 s|
 
 
 

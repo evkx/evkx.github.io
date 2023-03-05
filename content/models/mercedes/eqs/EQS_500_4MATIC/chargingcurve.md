@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQS 500 4MATIC charging curve
-linktitle: Charging curve
+title: Mercedes-EQ EQS 500 4MATIC charging curve & performance
+linktitle: Charging performance
 description: Here you find the charging curve for Mercedes-EQ EQS 500 4MATIC. 
 weight: 10
 ---
@@ -9,6 +9,12 @@ weight: 10
 
 
 
+
+|  | |
+|-----|-----|
+|Average charging speed 0 - 100% |79,3 kW|
+|Average charging speed 10-100% |74,9 kW|
+|Average charging speed 10-80% |152,7 kW|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|
