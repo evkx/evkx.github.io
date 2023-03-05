@@ -7,9 +7,6 @@ weight: 10
 <!-- markdownlint-disable MD033 -->
 ![Charge curve](../chargingcurve.svg  "Charging curve")
 
-
-
-
 |  | |
 |-----|-----|
 |Average charging speed 0 - 100% |116,4 kW|
