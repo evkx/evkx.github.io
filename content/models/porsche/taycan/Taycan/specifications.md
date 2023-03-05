@@ -6,6 +6,7 @@ weight: 30
 ---
 
 ## Performance
+
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|240 Kw|
@@ -26,6 +27,7 @@ weight: 30
 
 
 ## Range & Consumption
+
 |Spec|Value|
 |----|-----|
 |Basic trim WLTP range|431 km|
@@ -48,6 +50,7 @@ weight: 30
 
 
 ## Battery & Charging
+
 |Spec|Value|
 |----|-----|
 |Battery gross|79,2 kWh|
@@ -68,6 +71,7 @@ weight: 30
 
 
 ## Dimensions
+
 |Spec|Value|
 |----|-----|
 |Length|4963 mm|
@@ -83,7 +87,40 @@ weight: 30
 |Overhang angle rear|16,4|
 |Turning circle|11,7 meters|
 
+## Suspension
+
+The model offers 2 suspension variants
+
+### Standard
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, standard equipment|
+|Adjustable damping front|Yes, standard equipment|
+|Adjustable damping rear|Yes, standard equipment|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|127|
+|Minimum ground clearance|127|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
+
+### Adaptive Air Suspension
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, standard equipment|
+|Adjustable damping front|Yes, standard equipment|
+|Adjustable damping rear|Yes, standard equipment|
+|Adjustable height front|Yes, standard equipment|
+|Adjustable height rear|Yes, standard equipment|
+|Max ground clearance|127|
+|Minimum ground clearance|103|
+|Suspension type front|AirSuspension|
+|Suspension type rear|AirSuspension|
+
 ## Driver Assistance
+
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes, standard equipment|
@@ -113,6 +150,7 @@ weight: 30
 |Night Vision|Yes (Night Vision Assist), optional equipment (option 9R1 )|
 
 ## Infotainment
+
 |Spec|Value|
 |----|-----|
 |Android Auto support|Yes, optional equipment|
@@ -121,6 +159,7 @@ weight: 30
 |Number of avaiable sound systems|3|
 
 ### Porsche Sound system
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|10|
@@ -128,6 +167,7 @@ weight: 30
 |Total effect|150|
 
 ###  BOSE® Surround Sound System
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|14|
@@ -135,6 +175,7 @@ weight: 30
 |Total effect|710|
 
 ###  Burmester® 3D High-End Surround Sound System
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|21|

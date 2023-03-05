@@ -6,6 +6,7 @@ weight: 30
 ---
 
 ## Performance
+
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|168 Kw|
@@ -16,6 +17,7 @@ weight: 30
 
 
 ## Range & Consumption
+
 |Spec|Value|
 |----|-----|
 |Basic trim WLTP range|438 km|
@@ -28,6 +30,7 @@ weight: 30
 
 
 ## Battery & Charging
+
 |Spec|Value|
 |----|-----|
 |Battery gross|69,7 kWh|
@@ -37,6 +40,7 @@ weight: 30
 
 
 ## Dimensions
+
 |Spec|Value|
 |----|-----|
 |Length|4463 mm|
@@ -49,7 +53,22 @@ weight: 30
 |Drag coefficient|0,282|
 |Turning circle|11,4 meters|
 
+## Suspension
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Not available|
+|Adjustable damping front|Yes, optional equipment|
+|Adjustable damping rear|Yes, optional equipment|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|200|
+|Minimum ground clearance|200|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
+
 ## Driver Assistance
+
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes (Active Lane keeping Assist), standard equipment|
@@ -79,6 +98,7 @@ weight: 30
 |Night Vision|Not available|
 
 ## Infotainment
+
 |Spec|Value|
 |----|-----|
 |Android Auto support|Yes, optional equipment|
@@ -87,6 +107,7 @@ weight: 30
 |Number of avaiable sound systems|2|
 
 ### Standard
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|7|
@@ -94,6 +115,7 @@ weight: 30
 |Total effect|100|
 
 ### Advanced Soundsystem
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|9|

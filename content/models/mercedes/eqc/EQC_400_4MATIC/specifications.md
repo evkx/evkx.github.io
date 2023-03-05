@@ -6,6 +6,7 @@ weight: 30
 ---
 
 ## Performance
+
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|300 Kw|
@@ -16,6 +17,7 @@ weight: 30
 
 
 ## Range & Consumption
+
 |Spec|Value|
 |----|-----|
 |Basic trim WLTP range|432 km|
@@ -28,6 +30,7 @@ weight: 30
 
 
 ## Battery & Charging
+
 |Spec|Value|
 |----|-----|
 |Battery gross|86 kWh|
@@ -39,6 +42,7 @@ weight: 30
 
 
 ## Dimensions
+
 |Spec|Value|
 |----|-----|
 |Length|4762 mm|
@@ -50,7 +54,22 @@ weight: 30
 |Drag coefficient|0,27|
 |Turning circle|11,8 meters|
 
+## Suspension
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, standard equipment|
+|Adjustable damping front|Yes, standard equipment|
+|Adjustable damping rear|Yes, standard equipment|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|97|
+|Minimum ground clearance|97|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|AirSuspension|
+
 ## Driver Assistance
+
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes (Active Lane keeping Assist), standard equipment|
@@ -80,6 +99,7 @@ weight: 30
 |Night Vision|Not available|
 
 ## Infotainment
+
 |Spec|Value|
 |----|-----|
 |Android Auto support|Yes, optional equipment|
@@ -88,6 +108,7 @@ weight: 30
 |Number of avaiable sound systems|3|
 
 ### Standard
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|7|
@@ -95,6 +116,7 @@ weight: 30
 |Total effect|100|
 
 ### Advanced Soundsystem
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|9|
@@ -102,6 +124,7 @@ weight: 30
 |Total effect|225|
 
 ### Burmester Surround Soundsystem
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|13|

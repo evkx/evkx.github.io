@@ -6,6 +6,7 @@ weight: 30
 ---
 
 ## Performance
+
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|210 Kw|
@@ -16,6 +17,7 @@ weight: 30
 
 
 ## Range & Consumption
+
 |Spec|Value|
 |----|-----|
 |Basic trim WLTP range|461 km|
@@ -28,6 +30,7 @@ weight: 30
 
 
 ## Battery & Charging
+
 |Spec|Value|
 |----|-----|
 |Battery gross|80 kWh|
@@ -36,6 +39,7 @@ weight: 30
 
 
 ## Dimensions
+
 |Spec|Value|
 |----|-----|
 |Length|4734 mm|
@@ -48,7 +52,40 @@ weight: 30
 |Overhang angle rear|20,9|
 |Turning circle|12,1 meters|
 
+## Suspension
+
+The model offers 2 suspension variants
+
+### Standard
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, standard equipment|
+|Adjustable damping front|Yes, standard equipment|
+|Adjustable damping rear|Yes, standard equipment|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|179|
+|Minimum ground clearance|179|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
+
+### Adaptive M Suspension
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, standard equipment|
+|Adjustable damping front|Yes, standard equipment|
+|Adjustable damping rear|Yes, standard equipment|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|179|
+|Minimum ground clearance|179|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
+
 ## Driver Assistance
+
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes, standard equipment|
@@ -78,6 +115,7 @@ weight: 30
 |Night Vision|Not available|
 
 ## Infotainment
+
 |Spec|Value|
 |----|-----|
 |Android Auto support|Yes, standard equipment|

@@ -6,6 +6,7 @@ weight: 30
 ---
 
 ## Performance
+
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|240 Kw|
@@ -16,6 +17,7 @@ weight: 30
 
 
 ## Range & Consumption
+
 |Spec|Value|
 |----|-----|
 |Basic trim WLTP range|425 km|
@@ -28,6 +30,7 @@ weight: 30
 
 
 ## Battery & Charging
+
 |Spec|Value|
 |----|-----|
 |Battery gross|76,6 kWh|
@@ -36,6 +39,7 @@ weight: 30
 
 
 ## Dimensions
+
 |Spec|Value|
 |----|-----|
 |Length|4953 mm|
@@ -50,7 +54,40 @@ weight: 30
 |Overhang angle rear|20,8|
 |Turning circle|13 meters|
 
+## Suspension
+
+The model offers 2 suspension variants
+
+### Standard
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, standard equipment|
+|Adjustable damping front|Yes, standard equipment|
+|Adjustable damping rear|Yes, standard equipment|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|202|
+|Minimum ground clearance|202|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
+
+### Adaptive Air Suspension
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, standard equipment|
+|Adjustable damping front|Yes, standard equipment|
+|Adjustable damping rear|Yes, standard equipment|
+|Adjustable height front|Yes, standard equipment|
+|Adjustable height rear|Yes, standard equipment|
+|Max ground clearance|223|
+|Minimum ground clearance|193|
+|Suspension type front|AirSuspension|
+|Suspension type rear|AirSuspension|
+
 ## Driver Assistance
+
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes, standard equipment|
@@ -80,6 +117,7 @@ weight: 30
 |Night Vision|Not available|
 
 ## Infotainment
+
 |Spec|Value|
 |----|-----|
 |Android Auto support|Yes, standard equipment|
@@ -88,6 +126,7 @@ weight: 30
 |Number of avaiable sound systems|2|
 
 ### Harman Kardon Surround Sound system
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|18|
@@ -95,6 +134,7 @@ weight: 30
 |Total effect|655|
 
 ### Bowers & Wilkins Diamond surround sound system
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|30|

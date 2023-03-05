@@ -6,6 +6,7 @@ weight: 30
 ---
 
 ## Performance
+
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|760 Kw|
@@ -16,6 +17,7 @@ weight: 30
 
 
 ## Range & Consumption
+
 |Spec|Value|
 |----|-----|
 |Basic trim WLTP range|649 km|
@@ -28,6 +30,7 @@ weight: 30
 
 
 ## Battery & Charging
+
 |Spec|Value|
 |----|-----|
 |Battery gross|100 kWh|
@@ -38,6 +41,7 @@ weight: 30
 
 
 ## Dimensions
+
 |Spec|Value|
 |----|-----|
 |Length|5021 mm|
@@ -50,7 +54,22 @@ weight: 30
 |Drag coefficient|0,208|
 |Turning circle|12,3 meters|
 
+## Suspension
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, standard equipment|
+|Adjustable damping front|Yes, standard equipment|
+|Adjustable damping rear|Yes, standard equipment|
+|Adjustable height front|Yes, standard equipment|
+|Adjustable height rear|Yes, standard equipment|
+|Max ground clearance|158|
+|Minimum ground clearance|117|
+|Suspension type front|AirSuspension|
+|Suspension type rear|AirSuspension|
+
 ## Driver Assistance
+
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes, standard equipment|
@@ -80,6 +99,7 @@ weight: 30
 |Night Vision|Not available|
 
 ## Infotainment
+
 |Spec|Value|
 |----|-----|
 |Android Auto support|Not available|

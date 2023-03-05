@@ -6,6 +6,7 @@ weight: 30
 ---
 
 ## Performance
+
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|160 Kw|
@@ -16,6 +17,7 @@ weight: 30
 
 
 ## Range & Consumption
+
 |Spec|Value|
 |----|-----|
 |Basic trim WLTP range|516 km|
@@ -28,6 +30,7 @@ weight: 30
 
 
 ## Battery & Charging
+
 |Spec|Value|
 |----|-----|
 |Battery gross|71,4 kWh|
@@ -39,6 +42,7 @@ weight: 30
 
 
 ## Dimensions
+
 |Spec|Value|
 |----|-----|
 |Length|4690 mm|
@@ -49,7 +53,22 @@ weight: 30
 |Track width rear|1641 mm|
 |Turning circle|11,4 meters|
 
+## Suspension
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Not available|
+|Adjustable damping front|Not available|
+|Adjustable damping rear|Not available|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|177|
+|Minimum ground clearance|177|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
+
 ## Driver Assistance
+
 |Spec|Value|
 |----|-----|
 |Lane keeping||
@@ -79,6 +98,7 @@ weight: 30
 |Night Vision||
 
 ## Infotainment
+
 |Spec|Value|
 |----|-----|
 |Android Auto support|Yes, standard equipment|
@@ -87,11 +107,13 @@ weight: 30
 |Number of avaiable sound systems|2|
 
 ### Toyota
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|6|
 
 ### JBL Premium Sound
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|9|

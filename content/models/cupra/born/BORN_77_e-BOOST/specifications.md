@@ -6,6 +6,7 @@ weight: 30
 ---
 
 ## Performance
+
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|150 Kw|
@@ -19,6 +20,7 @@ weight: 30
 
 
 ## Range & Consumption
+
 |Spec|Value|
 |----|-----|
 |Basic trim WLTP range|548 km|
@@ -31,6 +33,7 @@ weight: 30
 
 
 ## Battery & Charging
+
 |Spec|Value|
 |----|-----|
 |Battery gross|82 kWh|
@@ -42,6 +45,7 @@ weight: 30
 
 
 ## Dimensions
+
 |Spec|Value|
 |----|-----|
 |Length|4322 mm|
@@ -55,7 +59,22 @@ weight: 30
 |Frontal area|2,36|
 |Turning circle|10,15 meters|
 
+## Suspension
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, optional equipment|
+|Adjustable damping front|Yes (Dynamic Chassis Control), optional equipment|
+|Adjustable damping rear|Yes (Dynamic Chassis Control), optional equipment|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|131|
+|Minimum ground clearance|131|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
+
 ## Driver Assistance
+
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes (Lane Assist), standard equipment|
@@ -85,6 +104,7 @@ weight: 30
 |Night Vision|Not available|
 
 ## Infotainment
+
 |Spec|Value|
 |----|-----|
 |Android Auto support|Yes, standard equipment|
@@ -93,6 +113,7 @@ weight: 30
 |Number of avaiable sound systems|2|
 
 ### Sound system
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|5|
@@ -100,6 +121,7 @@ weight: 30
 |Total effect|140|
 
 ### Beats Audio
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|9|

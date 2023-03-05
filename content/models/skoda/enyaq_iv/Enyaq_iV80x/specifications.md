@@ -6,6 +6,7 @@ weight: 30
 ---
 
 ## Performance
+
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|195 Kw|
@@ -16,6 +17,7 @@ weight: 30
 
 
 ## Range & Consumption
+
 |Spec|Value|
 |----|-----|
 |WLTP range|504 km|
@@ -25,6 +27,7 @@ weight: 30
 
 
 ## Battery & Charging
+
 |Spec|Value|
 |----|-----|
 |Battery gross|82 kWh|
@@ -36,6 +39,7 @@ weight: 30
 
 
 ## Dimensions
+
 |Spec|Value|
 |----|-----|
 |Length|4649 mm|
@@ -50,7 +54,40 @@ weight: 30
 |Overhang angle rear|16,7|
 |Turning circle|10,8 meters|
 
+## Suspension
+
+The model offers 2 suspension variants
+
+### standard
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, optional equipment|
+|Adjustable damping front|Yes (Dynamic Chassis Control), optional equipment|
+|Adjustable damping rear|Yes (Dynamic Chassis Control), optional equipment|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|187|
+|Minimum ground clearance|187|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
+
+### sport
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Not available|
+|Adjustable damping front|Not available|
+|Adjustable damping rear|Not available|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|171|
+|Minimum ground clearance|171|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
+
 ## Driver Assistance
+
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes (Lane Assist), standard equipment|
@@ -80,6 +117,7 @@ weight: 30
 |Night Vision|Not available|
 
 ## Infotainment
+
 |Spec|Value|
 |----|-----|
 |Android Auto support|Yes, standard equipment|
@@ -88,6 +126,7 @@ weight: 30
 |Number of avaiable sound systems|2|
 
 ### Sound system
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|8|
@@ -95,6 +134,7 @@ weight: 30
 |Total effect|80|
 
 ### Canton Soundsystem
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|10|

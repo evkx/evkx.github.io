@@ -6,6 +6,7 @@ weight: 30
 ---
 
 ## Performance
+
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|150 Kw|
@@ -16,6 +17,7 @@ weight: 30
 
 
 ## Range & Consumption
+
 |Spec|Value|
 |----|-----|
 |Basic trim WLTP range|529 km|
@@ -28,6 +30,7 @@ weight: 30
 
 
 ## Battery & Charging
+
 |Spec|Value|
 |----|-----|
 |Battery gross|82 kWh|
@@ -39,6 +42,7 @@ weight: 30
 
 
 ## Dimensions
+
 |Spec|Value|
 |----|-----|
 |Length|4599 mm|
@@ -51,7 +55,40 @@ weight: 30
 |Drag coefficient|0,26|
 |Turning circle|10,2 meters|
 
+## Suspension
+
+The model offers 2 suspension variants
+
+### standard
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, optional equipment|
+|Adjustable damping front|Yes (Dynamic Chassis Control), optional equipment|
+|Adjustable damping rear|Yes (Dynamic Chassis Control), optional equipment|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|170|
+|Minimum ground clearance|170|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
+
+### sport
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Not available|
+|Adjustable damping front|Not available|
+|Adjustable damping rear|Not available|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|155|
+|Minimum ground clearance|155|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
+
 ## Driver Assistance
+
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes (Lane Assist), standard equipment|
@@ -81,6 +118,7 @@ weight: 30
 |Night Vision|Not available|
 
 ## Infotainment
+
 |Spec|Value|
 |----|-----|
 |Android Auto support|Yes, standard equipment|
@@ -89,6 +127,7 @@ weight: 30
 |Number of avaiable sound systems|2|
 
 ### Sound system
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|6|
@@ -96,6 +135,7 @@ weight: 30
 |Total effect|140|
 
 ### Volkswagen Soundsystem
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|6|

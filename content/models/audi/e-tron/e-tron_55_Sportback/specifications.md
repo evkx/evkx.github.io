@@ -6,6 +6,7 @@ weight: 30
 ---
 
 ## Performance
+
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|265 Kw|
@@ -19,6 +20,7 @@ weight: 30
 
 
 ## Range & Consumption
+
 |Spec|Value|
 |----|-----|
 |Basic trim WLTP range|452 km|
@@ -31,6 +33,7 @@ weight: 30
 
 
 ## Battery & Charging
+
 |Spec|Value|
 |----|-----|
 |Battery gross|95 kWh|
@@ -42,6 +45,7 @@ weight: 30
 
 
 ## Dimensions
+
 |Spec|Value|
 |----|-----|
 |Length|4901 mm|
@@ -56,7 +60,40 @@ weight: 30
 |Overhang angle front|15|
 |Overhang angle rear|20|
 
+## Suspension
+
+The model offers 2 suspension variants
+
+### Adaptive Air Suspension
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, standard equipment|
+|Adjustable damping front|Yes, standard equipment|
+|Adjustable damping rear|Yes, standard equipment|
+|Adjustable height front|Yes, standard equipment|
+|Adjustable height rear|Yes, standard equipment|
+|Max ground clearance|248|
+|Minimum ground clearance|152|
+|Suspension type front|AirSuspension|
+|Suspension type rear|AirSuspension|
+
+### Adaptive Air Suspension Sport
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, standard equipment|
+|Adjustable damping front|Yes, standard equipment|
+|Adjustable damping rear|Yes, standard equipment|
+|Adjustable height front|Yes, standard equipment|
+|Adjustable height rear|Yes, standard equipment|
+|Max ground clearance|248|
+|Minimum ground clearance|152|
+|Suspension type front|AirSuspension|
+|Suspension type rear|AirSuspension|
+
 ## Driver Assistance
+
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes (Audi Active Lane Assist), standard equipment|
@@ -86,6 +123,7 @@ weight: 30
 |Night Vision|Yes (Night Vision Assist), optional equipment (option 9R1 )|
 
 ## Infotainment
+
 |Spec|Value|
 |----|-----|
 |Android Auto support|Yes (Smartphone Interface), optional equipment (option IU1 )|
@@ -94,6 +132,7 @@ weight: 30
 |Number of avaiable sound systems|2|
 
 ### Audi Sound system
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|10|
@@ -101,6 +140,7 @@ weight: 30
 |Total effect|180|
 
 ### Bang & Olufsen Sound System
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|16|

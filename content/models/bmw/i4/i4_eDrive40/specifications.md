@@ -6,6 +6,7 @@ weight: 30
 ---
 
 ## Performance
+
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|250 Kw|
@@ -16,6 +17,7 @@ weight: 30
 
 
 ## Range & Consumption
+
 |Spec|Value|
 |----|-----|
 |Basic trim WLTP range|590 km|
@@ -28,6 +30,7 @@ weight: 30
 
 
 ## Battery & Charging
+
 |Spec|Value|
 |----|-----|
 |Battery gross|83,9 kWh|
@@ -36,6 +39,7 @@ weight: 30
 
 
 ## Dimensions
+
 |Spec|Value|
 |----|-----|
 |Length|4783 mm|
@@ -48,7 +52,40 @@ weight: 30
 |Frontal area|2,33|
 |Turning circle|12,5 meters|
 
+## Suspension
+
+The model offers 2 suspension variants
+
+### Standard
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, standard equipment|
+|Adjustable damping front|Not available|
+|Adjustable damping rear|Not available|
+|Adjustable height front|Not available|
+|Adjustable height rear|Yes, standard equipment|
+|Max ground clearance|125|
+|Minimum ground clearance|125|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|AirSuspension|
+
+### Adaptive M Suspension
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Yes, standard equipment|
+|Adjustable damping front|Yes, standard equipment|
+|Adjustable damping rear|Yes, standard equipment|
+|Adjustable height front|Not available|
+|Adjustable height rear|Yes, standard equipment|
+|Max ground clearance|125|
+|Minimum ground clearance|125|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|AirSuspension|
+
 ## Driver Assistance
+
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes, standard equipment|
@@ -78,6 +115,7 @@ weight: 30
 |Night Vision|Not available|
 
 ## Infotainment
+
 |Spec|Value|
 |----|-----|
 |Android Auto support|Yes, standard equipment|
@@ -86,6 +124,7 @@ weight: 30
 |Number of avaiable sound systems|2|
 
 ### Hifi Sound system
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|10|
@@ -93,6 +132,7 @@ weight: 30
 |Total effect|200|
 
 ### Harman Kardon Surround Sound system
+
 |Spec|Value|
 |----|-----|
 |Number of speakers|17|
