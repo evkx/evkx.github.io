@@ -92,7 +92,7 @@ body.adocs-innhold .a-globalNav-main li a[href*='/innhold/'] {
 
 /* Scrollable tables */
 #body-inner table {
-    display: block;
+   /* display: block;*/
     width: 98%;
     overflow-x: auto;
     overflow-y: hidden;
