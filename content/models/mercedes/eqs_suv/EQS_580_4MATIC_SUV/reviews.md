@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Kris Rifa: Mercedes EQS SUV Road Trip | 500km across Norway 05.03.2023
+
+{{< youtube p99juX_hQwk >}}
 ### Out of Spec Reviews: I Drive The Mercedes EQS SUV For The First Time! 04.10.2022
 
 {{< youtube QBBI292zuL0 >}}
