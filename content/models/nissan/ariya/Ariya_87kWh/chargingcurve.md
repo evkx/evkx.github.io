@@ -12,6 +12,9 @@ weight: 10
 |Average charging speed 0 - 100% |86,3 kW|
 |Average charging speed 10-100% |85,3 kW|
 |Average charging speed 10-80% |101,3 kW|
+|Optimum charging area|2% - 65%|
+|Optimum charging speed included 5 minutes loss|92,2kW|
+|Optimum charge stop time |36m41s|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|

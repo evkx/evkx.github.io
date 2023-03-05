@@ -16,6 +16,9 @@ This model is available with multiple batteries. Below you find the performance 
 |Average charging speed 0 - 100% |94,0 kW|
 |Average charging speed 10-100% |88,8 kW|
 |Average charging speed 10-80% |156,5 kW|
+|Optimum charging area|0% - 67%|
+|Optimum charging speed included 5 minutes loss|135,6kW|
+|Optimum charge stop time |21m2s|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|
@@ -129,6 +132,9 @@ This model is available with multiple batteries. Below you find the performance 
 |Average charging speed 0 - 100% |94,0 kW|
 |Average charging speed 10-100% |88,8 kW|
 |Average charging speed 10-80% |156,5 kW|
+|Optimum charging area|3% - 65%|
+|Optimum charging speed included 5 minutes loss|164,9kW|
+|Optimum charge stop time |19m53s|
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
 |-----|-----|-----|-----|-----|
