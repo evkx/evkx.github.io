@@ -1,5 +1,5 @@
 ---
-title: How to protect the battery on my all-electric Audi?
+title: How to protect the battery on my EV?
 linktitle: Protecting battery
 description: EV batteries degrade over time, but there are many things you can do to make them keep their capacity longer. 
 weight: 1
@@ -15,21 +15,12 @@ You should try to charge at home at much as possible.
 
 ### High or low state of charge over a long time
 
-Most EV's has a buffer to protect the battery and the same has the all-electric Audi models. In the table below you see the total buffer for all e-electric models from Audi.
-
-| Model | Battery | Buffer | Avaiable |
-|------|-------|-------|-------|
-| [e-tron 55/S](/models/e-tron/drivetrain/battery/) | 95 kWh | 8.5kWh (9%)  | 86.5 kWh |
-| [e-tron 50](/models/e-tron/drivetrain/battery/) | 71 kWh | 6.3kWh (8.9%)  | 64.7 kWh |
-| [(RS) e-tron GT](/models/e-tron-gt/drivetrain/battery/) | 93.4 kWh | 9.7kWh (10.4%%)  | 83.7 kWh |
-| [Q4 e-tron 40/45/50](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron)  | 82 kWh | 5.4kWh (6.6%)  | 76.6 kWh |
-| [Q4 e-tron 35](/models/q4-e-tron/drivetrain/battery/#battery-q4-35) | 55 kWh | 3kWh (5.45%)  | 52 kWh |
-
+Most EV's has a buffer to protect the battery.
 But many people believe this buffer protects it against charging to 100%. But in most cases, all or almost all buffer is on the bottom to protect the battery from running empty.
 
 ![bilde](buffersize.png "Buffer size" )
 
-So even e-tron 55 has a relatively  large buffer, charging to 100% is not good for the battery. Audi recommends not to charge more than 80% on daily basis. This is shown in the MMI and the user manual.
+Most EV brands recommends not to charge more than 80% on daily basis. This is shown in the MMI and the user manual.
 
 ![bilde](chargingtarget.png "Charging target")
 
