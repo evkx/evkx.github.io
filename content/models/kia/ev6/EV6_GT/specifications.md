@@ -61,8 +61,8 @@ weight: 30
 |Hill descent assist||
 |Hill start assist|Yes, standard equipment|
 |AntiLock Braking System|Yes, standard equipment|
-|Automatic emergency braking||
-|Brake assist||
+|Automatic emergency braking|Yes, standard equipment|
+|Brake assist|Yes, standard equipment|
 |Traction control|Yes, standard equipment|
 |Left turn crash avoidance||
 |Forward Collision Warning||

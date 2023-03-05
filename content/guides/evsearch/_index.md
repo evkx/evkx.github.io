@@ -15,7 +15,13 @@ Below, you see the sort orders and filters available.
 
 This is the default sort order. The result is based on the name of brand and name of model.
 
+### WLTP Range base trim
+
+This sorts the models based on the specificed WLTP range for the base trim for the model.
+Models with longest range are listed first.
+
 ### Net battery size
+
 
 
 ## Filters

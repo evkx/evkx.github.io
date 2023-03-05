@@ -151,7 +151,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-On top of the dashboard, there is a shared frame with three screens, and in the center console, there is a fourth screen. The touch screen in the left side of the shared frame  is 8 inches large. The  screen behind the steering wheel in the middle of the shared frame  is 14 inches large. The touch screen at the right part of the shared frame is 12 inches large. The touch screen in the middle of the center console is 12 inches large. 
+On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth screen.The touch screen in the left side of the shared frame  is 8 inches large. The  screen behind the steering wheel in the middle of the shared frame  is 14 inches large. The touch screen at the right part of the shared frame is 12 inches large. The touch screen in the middle of the center console is 12 inches large. 
 
 
 <figur>

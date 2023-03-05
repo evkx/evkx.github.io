@@ -61,7 +61,7 @@ weight: 30
 |Rear parking sensors|Yes, optional equipment|
 |Front parking sensors|Yes, optional equipment|
 |Side parking sensors||
-|Hill descent assist||
+|Hill descent assist|Yes, standard equipment|
 |Hill start assist||
 |AntiLock Braking System|Yes, standard equipment|
 |Automatic emergency braking|Yes, standard equipment|

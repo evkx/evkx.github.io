@@ -117,7 +117,7 @@ weight: 30
 |----|-----|
 |Android Auto support|Yes, optional equipment|
 |Apple Carplay support|Yes, optional equipment|
-|In Car navigation||
+|In Car navigation|Yes, standard equipment|
 |Number of avaiable sound systems|3|
 
 ### Porsche Sound system
