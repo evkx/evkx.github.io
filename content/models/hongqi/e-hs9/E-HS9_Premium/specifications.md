@@ -8,40 +8,40 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|405|
-|Electrical torque output in Nm|670|
-|Top speed|200|
-|0-100kph (0-62 mph)|4,9|
+|Peak electrical output in kW|405 Kw|
+|Electrical torque output in Nm|670 Nm|
+|Top speed|200 km/h|
+|0-100kph (0-62 mph)|4,9 s|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|WLTP range|465|
-|WLTP consumption|19,4|
-|WLTP consumption with charging loss|22|
+|WLTP range|465 km|
+|WLTP consumption|19,4 kWh/100km|
+|WLTP consumption with charging loss|22 kWh/100km|
 
 
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
-|Battery gross|99|
-|Battery net|90|
-|Max DC charging|135|
+|Battery gross|99 kWh|
+|Battery net|90 kWh|
+|Max DC charging|135 kW|
 
 
 
 ## Dimensions
 |Spec|Value|
 |----|-----|
-|Length|5209|
-|Height|1713|
-|Width excluding mirrors|2010|
-|Wheelbase|3110|
-|Track width front|1708|
-|Track width rear|1709|
+|Length|5209 mm|
+|Height|1713 mm|
+|Width excluding mirrors|2010 mm|
+|Wheelbase|3110 mm|
+|Track width front|1708 mm|
+|Track width rear|1709 mm|
 |Drag coefficient|0,345|
 |Overhang angle front|21,3|
 |Overhang angle rear|21,4|

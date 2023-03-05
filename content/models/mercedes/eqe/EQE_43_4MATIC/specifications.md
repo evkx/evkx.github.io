@@ -8,46 +8,46 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|350|
-|Electrical torque output in Nm|858|
-|Top speed|210|
-|0-100kph (0-62 mph)|4,2|
+|Peak electrical output in kW|350 Kw|
+|Electrical torque output in Nm|858 Nm|
+|Top speed|210 km/h|
+|0-100kph (0-62 mph)|4,2 s|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|533|
-|Basic trim WLTP consumption|17,0|
-|Basic trim WLTP consumption with charging loss|19,6|
-|Top trim WLTP range|462|
-|Top trim WLTP consumption|19,6|
-|Top trim WLTP consumption with charging loss|22,4|
+|Basic trim WLTP range|533 km|
+|Basic trim WLTP consumption|17,0 kWh/100km|
+|Basic trim WLTP consumption with charging loss|19,6 kWh/100km|
+|Top trim WLTP range|462 km|
+|Top trim WLTP consumption|19,6 kWh/100km|
+|Top trim WLTP consumption with charging loss|22,4 kwh/100km|
 
 
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
-|Battery gross|96,12|
-|Battery net|90,6|
-|Max DC charging|170|
+|Battery gross|96,12 kWh|
+|Battery net|90,6 kWh|
+|Max DC charging|170 kW|
 
 
 
 ## Dimensions
 |Spec|Value|
 |----|-----|
-|Length|4964|
-|Height|1492|
-|Width excluding mirrors|1961|
-|Widht including mirrors|2103|
-|Wheelbase|3104|
-|Track width front|1648|
-|Track width rear|1610|
+|Length|4964 mm|
+|Height|1492 mm|
+|Width excluding mirrors|1961 mm|
+|Widht including mirrors|2103 mm|
+|Wheelbase|3104 mm|
+|Track width front|1648 mm|
+|Track width rear|1610 mm|
 |Drag coefficient|0,22|
-|Turning circle|12,3|
+|Turning circle|12,3 meters|
 
 ## Driver Assistance
 |Spec|Value|

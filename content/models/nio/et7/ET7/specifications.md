@@ -8,49 +8,49 @@ weight: 30
 ## Performance
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|360|
-|Electrical torque output in Nm|700|
-|Top speed|200|
-|0-100kph (0-62 mph)|4|
+|Peak electrical output in kW|360 Kw|
+|Electrical torque output in Nm|700 Nm|
+|Top speed|200 km/h|
+|0-100kph (0-62 mph)|4 s|
 
 
 
 ## Range & Consumption
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|580|
-|Basic trim WLTP consumption|15,5|
-|Basic trim WLTP consumption with charging loss|19,0|
-|Top trim WLTP range|505|
-|Top trim WLTP consumption|17,8|
-|Top trim WLTP consumption with charging loss|22,7|
+|Basic trim WLTP range|580 km|
+|Basic trim WLTP consumption|15,5 kWh/100km|
+|Basic trim WLTP consumption with charging loss|19,0 kWh/100km|
+|Top trim WLTP range|505 km|
+|Top trim WLTP consumption|17,8 kWh/100km|
+|Top trim WLTP consumption with charging loss|22,7 kwh/100km|
 
 
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|445|
-|Basic trim WLTP consumption|15,5|
-|Basic trim WLTP consumption with charging loss|19,3|
-|Top trim WLTP range|385|
-|Top trim WLTP consumption|17,8|
-|Top trim WLTP consumption with charging loss|22,3|
+|Basic trim WLTP range|445 km|
+|Basic trim WLTP consumption|15,5 kWh/100km|
+|Basic trim WLTP consumption with charging loss|19,3 kWh/100km|
+|Top trim WLTP range|385 km|
+|Top trim WLTP consumption|17,8 kWh/100km|
+|Top trim WLTP consumption with charging loss|22,3 kwh/100km|
 
 
 
 ## Battery & Charging
 |Spec|Value|
 |----|-----|
-|Battery gross|100|
-|Battery net|90|
-|Max DC charging|126|
+|Battery gross|100 kWh|
+|Battery net|90 kWh|
+|Max DC charging|126 kW|
 |Cell architecture|96s1p|
 
 
 |Spec|Value|
 |----|-----|
-|Battery gross|75|
-|Battery net|70,5|
-|Max DC charging|140|
+|Battery gross|75 kWh|
+|Battery net|70,5 kWh|
+|Max DC charging|140 kW|
 |Cell architecture|118s1p|
 
 
@@ -58,13 +58,13 @@ weight: 30
 ## Dimensions
 |Spec|Value|
 |----|-----|
-|Length|5101|
-|Height|1509|
-|Width excluding mirrors|1987|
-|Widht including mirrors|2202|
-|Wheelbase|3060|
+|Length|5101 mm|
+|Height|1509 mm|
+|Width excluding mirrors|1987 mm|
+|Widht including mirrors|2202 mm|
+|Wheelbase|3060 mm|
 |Drag coefficient|0,208|
-|Turning circle|12,4|
+|Turning circle|12,4 meters|
 
 ## Driver Assistance
 |Spec|Value|
