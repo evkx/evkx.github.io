@@ -258,8 +258,8 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     bottom: 0;
     left: -294px;
     font-weight: normal;
-    font-size: 16px;
-    line-height: 27px;
+    font-size: 14px;
+    line-height: 20px;
     -webkit-font-smoothing: antialiased;
     will-change: min-height;
     transition: all 0ms ease-out;
