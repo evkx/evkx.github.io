@@ -303,8 +303,6 @@
             stroke-miterlimit="10" />
         <path d="M 641 109.73 L 651 109.73" fill="none" stroke="#ff8000" stroke-width="4"
             stroke-miterlimit="10" />
-
-
         <rect x="21" y="1090" width="1120" height="30" fill="none" stroke="none" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
