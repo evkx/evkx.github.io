@@ -86,15 +86,16 @@ The seat layout is the traditional five seats with two in front and three seats 
 
 Only one front seat type is available in the Lucid Air Dream Edition Performance. 
 
-The following functionalities are available on the **** seat. 
+The following functionalities are available on the **standard** seat. 
 
 - electric adjustment 
-- height adjustable headrest 
 - length adjustable headrest 
 - heating 
 - memory driver seat 
 - electric lumbar support 
-- adjustable side support bottom 
+- adjustable side support back 
+- electric adjustable thigh support 
+- integrated headrest 
 - ventilation 
 - massage 
 
@@ -117,7 +118,6 @@ You can choose from 1 different materials/colors for this seat type. <br />
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - heating 
-- adjustable side support bottom 
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />

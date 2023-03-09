@@ -7,3 +7,8 @@ weight: 9
 <!-- markdownlint-disable MD033 -->
 ![Charge curve](../range.svg  "Range information")
 [Full screen](../range.svg)
+
+| |  |
+|----|-----|
+| WLTP Range basic trim | 441 km|
+| WLTP Range top trim | 369 km|

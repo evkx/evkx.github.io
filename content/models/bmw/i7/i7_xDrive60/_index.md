@@ -115,7 +115,7 @@ The following functionalities are available on the **Executive Lounge** seat.
 
 - electric adjustment 
 - heating (optional)
-- adjustable side support bottom 
+- electric adjustable thigh support 
 - integrated headrest 
 - ventilation 
 - massage 

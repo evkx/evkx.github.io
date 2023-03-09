@@ -113,7 +113,7 @@ The following functionalities are available on the **multicontour** seat.
 - memory passenger seat 
 - electric lumbar support 
 - adjustable side support back 
-- adjustable side support bottom 
+- electric adjustable thigh support 
 - ventilation (optional)
 - massage 
 
