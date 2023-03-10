@@ -10,5 +10,5 @@ weight: 9
 
 | | Range  | Consumption  |
 |----|-----|------|
-| WLTP basic trim | 512 km / 318mi |14,96kWh/100km | 
-| WLTP top trim | 434 km / 270mi | 17,65 kWh/100km | 
+| [WLTP basic trim](../../../../../guides/understandingrange/wltp/) | 512 km / 318mi |14,96kWh/100km | 
+| [WLTP top trim](../../../../../guides/understandingrange/wltp/) | 434 km / 270mi | 17,65 kWh/100km | 
