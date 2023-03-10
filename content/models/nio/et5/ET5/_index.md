@@ -158,8 +158,6 @@ The  screen behind the steering wheel mounted into the dashboard is 10,2 inches 
 <figcaption><h4>Nio ET5</h4></figcaption></figur>
 
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
-
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
 
 This model also has an optional gesture control system that lets you control specific features.  

@@ -8,7 +8,7 @@ weight: 9
 ![Charge curve](../range.svg  "Range information")
 [Full screen](../range.svg)
 
-| |  |
-|----|-----|
-| WLTP Range basic trim | 692 km|
-| WLTP Range top trim | 583 km|
+| | Range  | Consumption  |
+|----|-----|------|
+| WLTP basic trim | 692 km / 430mi |15,66kWh/100km | 
+| WLTP top trim | 583 km / 362mi | 18,59 kWh/100km | 

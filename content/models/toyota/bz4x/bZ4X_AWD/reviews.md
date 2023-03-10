@@ -4,6 +4,18 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Bjørn Nyland: Toyota bZ4X 1000 km challenge 09.03.2023
+
+{{< youtube hXRp357Usq4 >}}
+### Bjørn Nyland: Toyota bZ4X interior review & door slamming disco 07.03.2023
+
+{{< youtube MEp0IovQQ_E >}}
+### Bjørn Nyland: Toyota bZ4X AWD range test 06.03.2023
+
+{{< youtube CU8yUzUYGsU >}}
+### Bjørn Nyland: Toyota bZ4X banana box test 04.03.2023
+
+{{< youtube dQIPhgNZ22I >}}
 ### Autogefühl: Toyota bZ4X driving REVIEW with AWD and winter range test! 11.01.2023
 
 {{< youtube xuwuXj-574w >}}

@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Kris Rifa: 120kph/75mph Range Test In The Mercedes EQS SUV 580 4-Matic 08.03.2023
+
+{{< youtube D-ej66q1u3A >}}
 ### Kris Rifa: Mercedes EQS SUV Road Trip | 500km across Norway 05.03.2023
 
 {{< youtube p99juX_hQwk >}}
