@@ -34,7 +34,7 @@ The Hyundai Ioniq 6 Long Range AWD has a maximum power of 239KW (325hp). The tot
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 583 to 519 km (362-323 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 12,7kWh/100km for the basic version and 14,3kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 583 to 519 km (362-323 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 12,7kWh/100km for the basic version and 14,3kWh/100km for the top trim version for the WLTP standard test. For more details about the range see real world data and our full range listing in our [range and consumption](rangeandconsumption/) page for this model. 
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 38 minutes, while a more common scenario of 10-80% would take 16 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 76% resulting in an actual charge speed including time loss on 152kW. Each charge session would take 22 minutes and 59 seconds. 
 

@@ -34,7 +34,7 @@ The Hongqi E-HS9 Comfort has a maximum power of 320KW (435hp). The total torque 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 84kWh and a net capacity of 76,5kWh, meaning you have a 7,5kWh buffer for protection. (8,9%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 396 km (246 mi).   The consumption is 19,3kWh/100km for the WLTP standard test. 
+The battery has a gross capacity of 84kWh and a net capacity of 76,5kWh, meaning you have a 7,5kWh buffer for protection. (8,9%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 396 km (246 mi).   The consumption is 19,3kWh/100km for the WLTP standard test. For more details about the range see real world data and our full range listing in our [range and consumption](rangeandconsumption/) page for this model. 
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 63 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 73% resulting in an actual charge speed including time loss on 93kW. Each charge session would take 33 minutes and 40 seconds. 
 

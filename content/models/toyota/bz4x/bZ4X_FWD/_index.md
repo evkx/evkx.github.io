@@ -34,7 +34,7 @@ The Toyota bZ4X FWD has a maximum power of 160KW (218hp). The total torque is 33
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 71,4kWh and a net capacity of 64kWh, meaning you have a 7,4kWh buffer for protection. (10,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 516 to 442 km (321-275 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 12,4kWh/100km for the basic version and 14,5kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 71,4kWh and a net capacity of 64kWh, meaning you have a 7,4kWh buffer for protection. (10,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 516 to 442 km (321-275 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 12,4kWh/100km for the basic version and 14,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range see real world data and our full range listing in our [range and consumption](rangeandconsumption/) page for this model. 
 
 The maximum DC charging speed is 147kW. A full charge from 0 - 100% would take 141 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 47% resulting in an actual charge speed including time loss on 88kW. Each charge session would take 19 minutes and 9 seconds. 
 

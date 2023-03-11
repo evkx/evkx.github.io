@@ -36,7 +36,7 @@ If you are not happy enough with the standard performance, you can add the AMG D
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 107,8kWh, meaning you have a 12,2kWh buffer for protection. (10,2%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 570 to 513 km (354-319 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,9kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 120kWh and a net capacity of 107,8kWh, meaning you have a 12,2kWh buffer for protection. (10,2%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 570 to 513 km (354-319 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,9kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range see real world data and our full range listing in our [range and consumption](rangeandconsumption/) page for this model. 
 
 The maximum DC charging speed is 210kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 34 seconds. 
 

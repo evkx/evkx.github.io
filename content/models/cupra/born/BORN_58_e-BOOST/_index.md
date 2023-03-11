@@ -34,7 +34,7 @@ With overboost, the CUPRA BORN 58 e-BOOST has a maximum power of 170KW (231hp). 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 62kWh and a net capacity of 58kWh, meaning you have a 4kWh buffer for protection. (6,5%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 420 to 362 km (261-225 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,8kWh/100km for the basic version and 16,0kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 62kWh and a net capacity of 58kWh, meaning you have a 4kWh buffer for protection. (6,5%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 420 to 362 km (261-225 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,8kWh/100km for the basic version and 16,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range see real world data and our full range listing in our [range and consumption](rangeandconsumption/) page for this model. 
 
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 63 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 43% resulting in an actual charge speed including time loss on 77kW. Each charge session would take 19 minutes and 28 seconds. 
 

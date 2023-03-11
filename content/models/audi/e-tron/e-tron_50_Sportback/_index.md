@@ -34,7 +34,7 @@ The Audi e-tron 50 Sportback has a maximum power of 230KW (313hp). The total tor
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 71kWh and a net capacity of 64kWh, meaning you have a 7kWh buffer for protection. (9,9%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 351 to 286 km (218-178 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,2kWh/100km for the basic version and 22,4kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 71kWh and a net capacity of 64kWh, meaning you have a 7kWh buffer for protection. (9,9%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 351 to 286 km (218-178 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,2kWh/100km for the basic version and 22,4kWh/100km for the top trim version for the WLTP standard test. For more details about the range see real world data and our full range listing in our [range and consumption](rangeandconsumption/) page for this model. 
 
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 72% resulting in an actual charge speed including time loss on 92kW. Each charge session would take 28 minutes and 30 seconds. 
 

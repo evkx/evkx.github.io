@@ -34,7 +34,7 @@ The Audi Q4 Sportback 45 e-tron quattro has a maximum power of 195KW (265hp). Th
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6,6%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 524 to 446 km (326-277 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,6kWh/100km for the basic version and 17,2kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6,6%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 524 to 446 km (326-277 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,6kWh/100km for the basic version and 17,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range see real world data and our full range listing in our [range and consumption](rangeandconsumption/) page for this model. 
 
 The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53% resulting in an actual charge speed including time loss on 89kW. Each charge session would take 24 minutes and 11 seconds. 
 

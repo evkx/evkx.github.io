@@ -17,8 +17,17 @@ Below are the officially rated ranges. The tests are performed with the heating/
 
 | | Range  | Consumption  |
 |----|-----|------|
-| [WLTP basic trim](../../../../../guides/understandingrange/wltp/) | 400 km / 249mi |21,60kWh/100km / 2,9 mi/kWh | 
-| [WLTP top trim](../../../../../guides/understandingrange/wltp/) | 400 km / 249mi | 21,60 kWh/100km / 2,9 mi/kWh | 
+| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 400 km / 249mi |21,60kWh/100km / 2,9 mi/kWh | 
+| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 400 km / 249mi | 21,60 kWh/100km / 2,9 mi/kWh | 
+
+### Offical test cycle results with added heating
+
+The table below shows how turning on heating/cooling on a cold/hot day affects the official range. 
+
+| | Range  | Change  |
+|----|-----|------|
+| WLTP-combined basic trim with 2KW AC | 334km /208 mi | -16,5%|
+| WLTP-combined top trim with 2KW AC | 334km /208 mi | -16,5%|
 
 ### Real world range estimates
 
@@ -27,4 +36,4 @@ The table below shows some estimated real-world examples in perfect condition an
 | | Range  | Consumption  |
 |----|-----|------|
 | 120kmh/75mph perfect condition | 273km /170mi| 31,7 kWh/100km / 2,0 mi/kWh |
-| 120kmh/75mph with 2KW heating | 259km /161mi| 33,4 kWh/100km / 1,9 mi/kWh |
+| 120kmh/75mph with 2KW heating | 417km /259mi| 33,4 kWh/100km / 1,9 mi/kWh |

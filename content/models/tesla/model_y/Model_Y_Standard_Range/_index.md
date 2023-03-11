@@ -34,7 +34,7 @@ The Tesla Model Y Standard Range has a maximum power of 255KW (347hp). The total
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 60kWh and a net capacity of 57,5kWh, meaning you have a 2,5kWh buffer for protection. (4,2%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 430 to 533 km (267-331 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,4kWh/100km for the basic version and 10,8kWh/100km for the top trim version for the WLTP standard test. 
+The battery has a gross capacity of 60kWh and a net capacity of 57,5kWh, meaning you have a 2,5kWh buffer for protection. (4,2%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 430 to 533 km (267-331 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,4kWh/100km for the basic version and 10,8kWh/100km for the top trim version for the WLTP standard test. For more details about the range see real world data and our full range listing in our [range and consumption](rangeandconsumption/) page for this model. 
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 24 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 50% resulting in an actual charge speed including time loss on 101kW. Each charge session would take 16 minutes and 28 seconds. 
 
