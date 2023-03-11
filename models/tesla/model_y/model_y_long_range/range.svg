@@ -284,24 +284,24 @@
                 <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="12px"
                     text-anchor="middle">Combined WLTP-Range maxium trim - 533 km</text>
             </switch>
-        </g>    <rect x="1" y="460" width="384" height="40" fill="#60a917" stroke="#2d7600" />
+        </g>    <rect x="1" y="460" width="385" height="40" fill="#60a917" stroke="#2d7600" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%"
                     requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
                     style="overflow: visible; text-align: left;">
                     <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 382px; height: 1px; padding-top: 480px; margin-left: 2px;">
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 383px; height: 1px; padding-top: 480px; margin-left: 2px;">
                         <div data-drawio-colors="color: #ffffff; "
                             style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div
-                                style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Range 120km/h basic trim - 384 km
+                                style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Range 120km/h basic trim - 385 km
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="12px"
-                    text-anchor="middle">Range 120km/h basic trim - 384 km</text>
+                    text-anchor="middle">Range 120km/h basic trim - 385 km</text>
             </switch>
         </g>    <rect x="1" y="520" width="413" height="40" fill="#60a917" stroke="#2d7600" />
         <g transform="translate(-0.5 -0.5)">
