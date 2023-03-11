@@ -15,7 +15,7 @@ The range will vary depending on several factors. Like how fast you drive, the t
 
 ### Offical test cycle results
 
-The below is the offical rated ranges. The tests are performed with with heating/AC turned of. Click on link for more details about test procedures. 
+Below are the officially rated ranges. The tests are performed with the heating/AC turned off. Click on the links in the table for more details about test procedures. 
 
 | | Range  | Consumption  |
 |----|-----|------|
@@ -24,7 +24,7 @@ The below is the offical rated ranges. The tests are performed with with heating
 
 ### Real world range estimates
 
-The below table shows some estimated real world examples. Both in perfect condition and in condition needing to use A/C to heat or cool veichle. 
+The table below shows some estimated real-world examples in perfect condition and in conditions needing A/C to heat or cool vehicles. 
 
 | | Range  | Consumption  |
 |----|-----|------|
@@ -34,7 +34,7 @@ The below table shows some estimated real world examples. Both in perfect condit
 
 ### Offical test cycle results
 
-The below is the offical rated ranges. The tests are performed with with heating/AC turned of. Click on link for more details about test procedures. 
+Below are the officially rated ranges. The tests are performed with the heating/AC turned off. Click on the links in the table for more details about test procedures. 
 
 | | Range  | Consumption  |
 |----|-----|------|
@@ -43,7 +43,7 @@ The below is the offical rated ranges. The tests are performed with with heating
 
 ### Real world range estimates
 
-The below table shows some estimated real world examples. Both in perfect condition and in condition needing to use A/C to heat or cool veichle. 
+The table below shows some estimated real-world examples in perfect condition and in conditions needing A/C to heat or cool vehicles. 
 
 | | Range  | Consumption  |
 |----|-----|------|

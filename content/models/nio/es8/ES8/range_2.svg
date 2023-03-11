@@ -257,12 +257,12 @@
                         <div data-drawio-colors="color: #ffffff; "
                             style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div
-                                style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Combined WLTP-Range minimum trim - 350 km
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Combined WLTP-Range minimum trim - 350 km
                             </div>
                         </div>
                     </div>
                 </foreignObject>
-                <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="12px"
+                <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
                     text-anchor="middle">Combined WLTP-Range minimum trim - 350 km</text>
             </switch>
         </g>    <rect x="1" y="400" width="350" height="40" fill="#60a917" stroke="#2d7600" />
@@ -276,12 +276,12 @@
                         <div data-drawio-colors="color: #ffffff; "
                             style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div
-                                style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Combined WLTP-Range maxium trim - 350 km
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Combined WLTP-Range maxium trim - 350 km
                             </div>
                         </div>
                     </div>
                 </foreignObject>
-                <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="12px"
+                <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
                     text-anchor="middle">Combined WLTP-Range maxium trim - 350 km</text>
             </switch>
         </g> <rect x="26" y="14" width="445" height="138.75" fill="none" stroke="none" />
