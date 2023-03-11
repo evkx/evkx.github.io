@@ -9,12 +9,12 @@
                         <div data-drawio-colors="color: #ffffff; "
                             style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div
-                                style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">rangebartitle
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">rangebartitle
                             </div>
                         </div>
                     </div>
                 </foreignObject>
-                <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="12px"
+                <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
                     text-anchor="middle">rangebartitle</text>
             </switch>
         </g>
