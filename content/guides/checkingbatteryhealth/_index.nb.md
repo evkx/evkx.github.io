@@ -94,5 +94,3 @@ men er vanskelig å vite helt sikkert da man ikke vet varmetapet i lader/kabler.
 Hvis du ønsker å leser mer hvordan man beskytter batteriet mot degradering så kan du lese [denne guiden](/nb/guides/protectingbattery/).
 
 Hvis du ønsker å lære enda mer om batteri kan du lese vår [artikkel om batteri](../../technology/battery/).
-
-{{% children description="true" depth="1" %}}
