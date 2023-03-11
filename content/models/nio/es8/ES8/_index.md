@@ -37,14 +37,14 @@ The Nio ES8 has a maximum power of 400KW (544hp). The total torque is 725nm. The
 Nio ES8 has two battery options with different specifications. Below you see how this affects range and charging. 
 ### 100kWh
 
-The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 460 km (286 mi).   The consumption is 19,6kWh/100km for the WLTP standard test. For more details about the range see real world data and our full range listing in our [range and consumption](rangeandconsumption/) page for this model. 
+The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 460 km (286 mi).   The consumption is 19,6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 83 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 72% resulting in an actual charge speed including time loss on 79kW. Each charge session would take 44 minutes and 24 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 11 hours and 1 minutes to drive. This trip will require four charge session(s) charging from 8% to 67%. The total time lost for charging will be 162 minutes.   
 ### 75kWh
 
-The battery has a gross capacity of 75kWh and a net capacity of 69kWh, meaning you have a 6kWh buffer for protection. (8,0%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 350 km (218 mi).   The consumption is 19,6kWh/100km for the WLTP standard test. For more details about the range see real world data and our full range listing in our [range and consumption](rangeandconsumption/) page for this model. 
+The battery has a gross capacity of 75kWh and a net capacity of 69kWh, meaning you have a 6kWh buffer for protection. (8,0%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 350 km (218 mi).   The consumption is 19,6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 63 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74% resulting in an actual charge speed including time loss on 76kW. Each charge session would take 36 minutes and 17 seconds. 
 

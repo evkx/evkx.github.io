@@ -34,7 +34,7 @@ The Kia EV6 Standard Range AWD has a maximum power of 173KW (235hp). The total t
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 58kWh and a net capacity of 54kWh, meaning you have a 4kWh buffer for protection. (6,9%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 371 km (231 mi).   The consumption is 14,6kWh/100km for the WLTP standard test. For more details about the range see real world data and our full range listing in our [range and consumption](rangeandconsumption/) page for this model. 
+The battery has a gross capacity of 58kWh and a net capacity of 54kWh, meaning you have a 4kWh buffer for protection. (6,9%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 371 km (231 mi).   The consumption is 14,6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 28 minutes, while a more common scenario of 10-80% would take 12 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 82% resulting in an actual charge speed including time loss on 140kW. Each charge session would take 19 minutes and 42 seconds. 
 
