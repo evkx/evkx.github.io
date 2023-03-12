@@ -6,6 +6,14 @@ weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/main_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
+</a>
+<figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
+
 We have separated our description of Mercedes-EQ EQE 500 4MATIC SUV into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
@@ -39,6 +47,14 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 14 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/charging_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
+</a>
+<figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
+
+
 ## Drivetrain
 
 Mercedes-EQ EQE 500 4MATIC SUV has an all-wheel drive system supported by two motors. One on each axle. 
@@ -69,6 +85,14 @@ Additionally, you can choose between 5 wheels with sizes from 20 to 22 inches.
 The car has four regular doors and a tailgate. The tailgate is electric-powered and has a kick-sensor as standard. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/exterior_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
+</a>
+<figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
+
 
 ## Interior
 
@@ -110,6 +134,14 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <br />
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/frontseats_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
+</a>
+<figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
+
+
 ### Second-row seat
 
 
@@ -145,6 +177,14 @@ The standard layout has the following configuration. The  screen behind the stee
 
 The optional MBUX Hyperscreen layout has the following configuration. Behind the steering wheel is a digital instrument cluster. In addition, there is one infotainment screen in the center console  and one in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/screens_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
+</a>
+<figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
+
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
@@ -161,6 +201,14 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the Mercedes-EQ EQE 500 4MATIC SUV. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/headlights_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
+</a>
+<figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
+
 ## Driver assistance
 
 The Mercedes-EQ EQE 500 4MATIC SUV has several standard and optional driver assistance systems for better safety and comfort.
