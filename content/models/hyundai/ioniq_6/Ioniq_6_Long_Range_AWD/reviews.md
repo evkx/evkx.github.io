@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Autogefühl : The EV sedans strike back! Hyundai Ioniq 6 driving REVIEW 12.03.2023
+
+{{< youtube 5KFjCnDvIYw >}}
 ### carwow: I 'crashed' the new Hyundai Ioniq 6  18.01.2023
 
 {{< youtube XEe-L2LcJiQ >}}

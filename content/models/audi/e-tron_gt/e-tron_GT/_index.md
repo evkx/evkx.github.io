@@ -78,6 +78,14 @@ The car has four regular doors and a tailgate. The electric-powered tailgate has
 
 You can choose between two types of roofs on this model. The standard is a panoramic roof. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+</a>
+<figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+
+
 ## Interior
 
 You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
@@ -128,6 +136,14 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/frontseats_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+</a>
+<figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+
+
 There is only one type of steering wheel available. 
 
 ## Climate system
@@ -146,6 +162,14 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 Audi e-tron GT has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/screens_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+</a>
+<figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
@@ -158,6 +182,14 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 You can choose between three types of headlights for the Audi e-tron GT. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/headlights_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+</a>
+<figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+
 ## Driver assistance
 
 The Audi e-tron GT has several standard and optional driver assistance systems for better safety and comfort.
@@ -188,3 +220,10 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 On the roof, you can load up to 75kg. Max weight is 2860kg, and with the base weight of 2340 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/trunk_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+</a>
+<figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
