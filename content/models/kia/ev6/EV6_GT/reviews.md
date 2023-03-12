@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Out of Spec Reviews: Kia EV6 GT Performance Review - This Thing Rips! 12.03.2023
+
+{{< youtube KdeIo5y0hVE >}}
 ### carwow: Kia EV6 GT Review: FASTER than a Lamborghini! 25.10.2022
 
 {{< youtube ff2p3o6FFCw >}}
