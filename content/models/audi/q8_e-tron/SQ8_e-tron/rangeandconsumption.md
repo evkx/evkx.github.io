@@ -11,7 +11,7 @@ The range will vary depending on several factors. Like how fast you drive, the t
 ![Charge curve](../range.svg  "Range information")
 [Full screen](../range.svg)
 
-### Offical test cycle results
+### Official test cycle results
 
 Below are the officially rated ranges. The tests are performed with the heating/AC turned off. Click on the links in the table for more details about test procedures. 
 
@@ -20,7 +20,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 | [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 494 km / 307mi |21,46kWh/100km / 2,9 mi/kWh | 
 | [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 454 km / 282mi | 23,35 kWh/100km / 2,7 mi/kWh | 
 
-### Offical test cycle results with added heating
+### Official test cycle results with added heating
 
 The table below shows how turning on heating/cooling on a cold/hot day affects the official range. 
 

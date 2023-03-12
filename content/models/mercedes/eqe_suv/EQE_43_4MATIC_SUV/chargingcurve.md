@@ -1,7 +1,7 @@
 ---
-title: Mercedes-AMG EQE SUV 53 4MATIC+ charging curve & performance
+title: Mercedes-AMG EQE 43 4MATIC SUV charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Mercedes-AMG EQE SUV 53 4MATIC+. 
+description: Here you find the charging curve for Mercedes-AMG EQE 43 4MATIC SUV. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

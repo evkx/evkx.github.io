@@ -112,10 +112,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 - heating 
 - ventilation 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
-
 ### Third-row seats
 
 

@@ -147,20 +147,12 @@ The standard option is a three-seat bench with a 40:20:40 split where you can fo
 - height adjustable headrest 
 - heating (optional)
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
-
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
 - height adjustable headrest 
 - heating (optional)
 - adjustable side support back 
 - ventilation 
-
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
 
 There is only one type of steering wheel available. 
 

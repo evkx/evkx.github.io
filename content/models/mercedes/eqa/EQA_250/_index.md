@@ -137,10 +137,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 - height adjustable headrest 
 
-You can choose from 6 different materials/colors for this seat type. <br />
-<br />
-
-
 There is only one type of steering wheel available. 
 
 ## Climate system

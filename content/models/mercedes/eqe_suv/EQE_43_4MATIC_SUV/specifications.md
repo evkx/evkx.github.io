@@ -1,7 +1,7 @@
 ---
-title: Mercedes-AMG EQE SUV 53 4MATIC+ specifications
+title: Mercedes-AMG EQE 43 4MATIC SUV specifications
 linktitle: Specifications
-description: See below for specifications for Mercedes-AMG EQE SUV 53 4MATIC+
+description: See below for specifications for Mercedes-AMG EQE 43 4MATIC SUV
 weight: 30
 ---
 
@@ -9,18 +9,10 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|460 Kw|
-|Electrical torque output in Nm|950 Nm|
-|Top speed|220 km/h|
-|0-100km/h (0-62 mph)|3,7 s|
-
-
-|Spec|Value|
-|----|-----|
-|Peak electrical output in kW|505 Kw|
-|Electrical torque output in Nm|1000 Nm|
-|Top speed|240 km/h|
-|0-100km/h (0-62 mph)|3,5 s|
+|Peak electrical output in kW|350 Kw|
+|Electrical torque output in Nm|858 Nm|
+|Top speed|210 km/h|
+|0-100km/h (0-62 mph)|4,3 s|
 
 
 
@@ -28,12 +20,12 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|470 km|
-|Basic trim WLTP consumption|19,3 kWh/100km|
-|Basic trim WLTP consumption with charging loss|22,6 kWh/100km|
-|Top trim WLTP range|375 km|
-|Top trim WLTP consumption|24,2 kWh/100km|
-|Top trim WLTP consumption with charging loss|27,8 kwh/100km|
+|Basic trim WLTP range|488 km|
+|Basic trim WLTP consumption|18,6 kWh/100km|
+|Basic trim WLTP consumption with charging loss|22,0 kWh/100km|
+|Top trim WLTP range|431 km|
+|Top trim WLTP consumption|21,0 kWh/100km|
+|Top trim WLTP consumption with charging loss|25,1 kwh/100km|
 
 
 
@@ -71,8 +63,8 @@ weight: 30
 |Adjustable damping rear|Yes, optional equipment|
 |Adjustable height front|Yes, standard equipment|
 |Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|206|
-|Minimum ground clearance|181|
+|Max ground clearance|204|
+|Minimum ground clearance|154|
 |Suspension type front|AirSuspension|
 |Suspension type rear|AirSuspension|
 

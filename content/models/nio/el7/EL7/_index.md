@@ -132,10 +132,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - electric adjustment 
 - heating (optional)
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
-
 There is only one type of steering wheel available. 
 
 ## Climate system

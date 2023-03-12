@@ -119,10 +119,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 - heating 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
-
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/secondrowseats_1.jpg">

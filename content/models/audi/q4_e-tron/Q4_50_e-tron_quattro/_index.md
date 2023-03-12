@@ -143,15 +143,7 @@ You can choose two seat types for the second row in the Audi Q4 50 e-tron quattr
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
-
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
-
-
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
 
 
 

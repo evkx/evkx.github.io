@@ -167,18 +167,10 @@ The standard option is two integrated seats in the second row. In addition, the 
 - heating (optional)
 - integrated headrest 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
-
 The second option is two integrated seats in the second row with a third smaller seat in between. In addition, the following functionalities are available. 
 
 - heating (optional)
 - integrated headrest 
-
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
 
 There is only one type of steering wheel available. 
 

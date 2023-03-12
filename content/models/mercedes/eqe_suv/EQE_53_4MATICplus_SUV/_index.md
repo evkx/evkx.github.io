@@ -1,7 +1,7 @@
 ---
-title: Mercedes-AMG EQE SUV 53 4MATIC+
-linktitle: EQE SUV 53 4MATIC+
-description: Mercedes-AMG EQE SUV 53 4MATIC+ is an all-electric luxury SUV with a WLTP range of up to 470 km (292 miles). EVKX.net have all the details. 
+title: Mercedes-AMG EQE 53 4MATIC+ SUV
+linktitle: EQE 53 4MATIC+ SUV
+description: Mercedes-AMG EQE 53 4MATIC+ SUV is an all-electric luxury SUV with a WLTP range of up to 470 km (292 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,12 +9,12 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_suv_53_4maticplus/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_suv_53_4maticplus/main_1_st.jpg" alt="Mercedes-AMG EQE SUV 53 4MATIC+" title="Mercedes-AMG EQE SUV 53 4MATIC+">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/main_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+ SUV" title="Mercedes-AMG EQE 53 4MATIC+ SUV">
 </a>
-<figcaption><h4>Mercedes-AMG EQE SUV 53 4MATIC+</h4></figcaption></figur>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+ SUV</h4></figcaption></figur>
 
-We have separated our description of Mercedes-AMG EQE SUV 53 4MATIC+ into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of Mercedes-AMG EQE 53 4MATIC+ SUV into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -30,9 +30,9 @@ We have separated our description of Mercedes-AMG EQE SUV 53 4MATIC+ into sectio
 
 ## Performance
 
-The Mercedes-AMG EQE SUV 53 4MATIC+ has a maximum power of 460KW (625hp). The total torque is 950nm. The 0-100km/h sprint (0-62mph) takes 3,7 seconds. The top speed is 220 km/h. 
+The Mercedes-AMG EQE 53 4MATIC+ SUV has a maximum power of 460KW (625hp). The total torque is 950nm. The 0-100km/h sprint (0-62mph) takes 3,7 seconds. The top speed is 220 km/h. 
 
-If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE SUV 53 4MATIC+ has a maximum power of 505KW (687hp). The total torque is 1000nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 240 km/h. 
+If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE 53 4MATIC+ SUV has a maximum power of 505KW (687hp). The total torque is 1000nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 240 km/h. 
 
 ## Battery, range, and charging
 
@@ -49,13 +49,13 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 ## Drivetrain
 
-Mercedes-AMG EQE SUV 53 4MATIC+ has an all-wheel drive system supported by two motors. One on each axle. 
+Mercedes-AMG EQE 53 4MATIC+ SUV has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 181 mm and max 206 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 154 mm and max 204 mm. 
 
 ### Steering
 
-Dynamic steering is standard on Mercedes-AMG EQE SUV 53 4MATIC+. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is standard on Mercedes-AMG EQE 53 4MATIC+ SUV. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -65,25 +65,25 @@ Regenerative braking is available in several modes. The most efficient is automa
 
 ## Exterior
 
-You can choose between 11 different paint colors when ordering this model. 
+You can choose between 7 different paint colors when ordering this model. 
 
 You can also choose several styling options to make your car more unique. 
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
 The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions. 
 
-Additionally, you can choose between 4 wheels with sizes from 20 to 21 inches. 
+Additionally, you can choose between 5 wheels with sizes from 20 to 22 inches. 
 
-The car has four regular doors and a boot lid for the trunk. 
+The car has four regular doors and a tailgate. The tailgate is electric-powered and has a kick-sensor as standard. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_suv_53_4maticplus/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_suv_53_4maticplus/exterior_1_st.jpg" alt="Mercedes-AMG EQE SUV 53 4MATIC+" title="Mercedes-AMG EQE SUV 53 4MATIC+">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/exterior_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+ SUV" title="Mercedes-AMG EQE 53 4MATIC+ SUV">
 </a>
-<figcaption><h4>Mercedes-AMG EQE SUV 53 4MATIC+</h4></figcaption></figur>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+ SUV</h4></figcaption></figur>
 
 
 ## Interior
@@ -92,7 +92,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-AMG EQE SUV 53 4MATIC+. 
+There are two seat types you can choose from for the front row in the Mercedes-AMG EQE 53 4MATIC+ SUV. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -137,10 +137,10 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_suv_53_4maticplus/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_suv_53_4maticplus/secondrowseats_1_st.jpg" alt="Mercedes-AMG EQE SUV 53 4MATIC+" title="Mercedes-AMG EQE SUV 53 4MATIC+">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/secondrowseats_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+ SUV" title="Mercedes-AMG EQE 53 4MATIC+ SUV">
 </a>
-<figcaption><h4>Mercedes-AMG EQE SUV 53 4MATIC+</h4></figcaption></figur>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+ SUV</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. 
@@ -151,7 +151,7 @@ You can choose from two different climate systems. The THERMOTRONIC climate syst
 
 ## Comfort
 
-Mercedes-AMG EQE SUV 53 4MATIC+ has several features to make your life as a driver or passenger more comfortable. 
+Mercedes-AMG EQE 53 4MATIC+ SUV has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -163,7 +163,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Two different screen setups are available on the Mercedes-AMG EQE SUV 53 4MATIC+. 
+Two different screen setups are available on the Mercedes-AMG EQE 53 4MATIC+ SUV. 
 
 The standard layout has the following configuration. The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen in the middle of the center console is 12,8 inches large and has a 1888x1728 pixels resolution. 
 
@@ -171,10 +171,10 @@ The optional MBUX Hyperscreen layout has the following configuration. Behind the
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_suv_53_4maticplus/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_suv_53_4maticplus/screens_1_st.jpg" alt="Mercedes-AMG EQE SUV 53 4MATIC+" title="Mercedes-AMG EQE SUV 53 4MATIC+">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/screens_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+ SUV" title="Mercedes-AMG EQE 53 4MATIC+ SUV">
 </a>
-<figcaption><h4>Mercedes-AMG EQE SUV 53 4MATIC+</h4></figcaption></figur>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+ SUV</h4></figcaption></figur>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -185,35 +185,35 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-You can choose between two sound systems on the Mercedes-AMG EQE SUV 53 4MATIC+. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
+You can choose between two sound systems on the Mercedes-AMG EQE 53 4MATIC+ SUV. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-AMG EQE SUV 53 4MATIC+ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-AMG EQE 53 4MATIC+ SUV supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights
 
-You can choose between two types of headlights for the Mercedes-AMG EQE SUV 53 4MATIC+. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the Mercedes-AMG EQE 53 4MATIC+ SUV. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_suv_53_4maticplus/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_suv_53_4maticplus/headlights_1_st.jpg" alt="Mercedes-AMG EQE SUV 53 4MATIC+" title="Mercedes-AMG EQE SUV 53 4MATIC+">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/headlights_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+ SUV" title="Mercedes-AMG EQE 53 4MATIC+ SUV">
 </a>
-<figcaption><h4>Mercedes-AMG EQE SUV 53 4MATIC+</h4></figcaption></figur>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+ SUV</h4></figcaption></figur>
 
 ## Driver assistance
 
-The Mercedes-AMG EQE SUV 53 4MATIC+ has several standard and optional driver assistance systems for better safety and comfort.
+The Mercedes-AMG EQE 53 4MATIC+ SUV has several standard and optional driver assistance systems for better safety and comfort.
 ### Safety systems
 
 
 
-The Mercedes-AMG EQE SUV 53 4MATIC+ has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The Mercedes-AMG EQE 53 4MATIC+ SUV has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
 
 **Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
-The Mercedes-AMG EQE SUV 53 4MATIC+ offers driving automation on level 1 or 2, depending on the equipment level.
+The Mercedes-AMG EQE 53 4MATIC+ SUV offers driving automation on level 1 or 2, depending on the equipment level.
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
 - Adaptive Cruise control. 
@@ -232,7 +232,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_suv_53_4maticplus/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_suv_53_4maticplus/trunk_1_st.jpg" alt="Mercedes-AMG EQE SUV 53 4MATIC+" title="Mercedes-AMG EQE SUV 53 4MATIC+">
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/trunk_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+ SUV" title="Mercedes-AMG EQE 53 4MATIC+ SUV">
 </a>
-<figcaption><h4>Mercedes-AMG EQE SUV 53 4MATIC+</h4></figcaption></figur>
+<figcaption><h4>Mercedes-AMG EQE 53 4MATIC+ SUV</h4></figcaption></figur>

@@ -108,10 +108,6 @@ You can choose from 3 different materials/colors for this seat type. <br />
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
-
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/secondrowseats_1.jpg">

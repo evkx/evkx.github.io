@@ -113,10 +113,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 - heating 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
-
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/secondrowseats_1.jpg">

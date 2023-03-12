@@ -103,10 +103,6 @@ The following functionalities are available on the **** seat.
 
 - heating (optional)
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
-
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/secondrowseats_1.jpg">

@@ -134,10 +134,6 @@ You can choose from 5 different materials/colors for this seat type. <br />
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
-
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/secondrowseats_1.jpg">

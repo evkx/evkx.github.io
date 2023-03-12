@@ -11,7 +11,7 @@ The range will vary depending on several factors. Like how fast you drive, the t
 ![Charge curve](../range.svg  "Range information")
 [Full screen](../range.svg)
 
-### Offical test cycle results
+### Official test cycle results
 
 Below are the officially rated ranges. The tests are performed with the heating/AC turned off. Click on the links in the table for more details about test procedures. 
 
@@ -22,7 +22,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 | [EPA-combined minimum trim](../../../../../guides/understandingrange/epa/) | 758km / 471 mi| 15,4 kWh/100km / 4,0 mi/kWh |
 | [EPA-combined top trim](../../../../../guides/understandingrange/epa/) | 718km /446mi| 16,3 kWh/100km / 3,8 mi/kWh  |
 
-### Offical test cycle results with added heating
+### Official test cycle results with added heating
 
 The table below shows how turning on heating/cooling on a cold/hot day affects the official range. 
 
