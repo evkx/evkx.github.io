@@ -4,6 +4,9 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Bjørn Nyland: Nio ET7 failed 1000 km challenge 12.03.2023
+
+{{< youtube CDw5FHZyfK8 >}}
 ### Out of Spec Reviews: I Drive A NIO For The First Time! This ET7 Has Great Features But Is Seemingly Glitchy 19.11.2022
 
 {{< youtube g43a6FNjqmQ >}}
