@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 500 4MATIC SUV
 linktitle: EQE 500 4MATIC SUV
-description: Mercedes-EQ EQE 500 4MATIC SUV is an all-electric luxury SUV with a WLTP range of up to 470 km (292 miles). EVKX.net have all the details. 
+description: Mercedes-EQ EQE 500 4MATIC SUV is an all-electric luxury SUV with a WLTP range of up to 547 km (340 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -30,13 +30,11 @@ We have separated our description of Mercedes-EQ EQE 500 4MATIC SUV into section
 
 ## Performance
 
-The Mercedes-EQ EQE 500 4MATIC SUV has a maximum power of 460KW (625hp). The total torque is 950nm. The 0-100km/h sprint (0-62mph) takes 3,7 seconds. The top speed is 220 km/h. 
-
-If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-EQ EQE 500 4MATIC SUV has a maximum power of 505KW (687hp). The total torque is 1000nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 240 km/h. 
+The Mercedes-EQ EQE 500 4MATIC SUV has a maximum power of 300KW (408hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) takes 4,9 seconds. The top speed is 210 km/h. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 95,8kWh and a net capacity of 90,6kWh, meaning you have a 5,2kWh buffer for protection. (5,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 470 to 375 km (292-233 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 19,3kWh/100km for the basic version and 24,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 95,8kWh and a net capacity of 90,6kWh, meaning you have a 5,2kWh buffer for protection. (5,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 547 to 460 km (340-286 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,6kWh/100km for the basic version and 19,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 55 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 64% resulting in an actual charge speed including time loss on 121kW. Each charge session would take 28 minutes and 48 seconds. 
 
@@ -234,6 +232,6 @@ With the Driver Assistance Package Plus  level 2 system, you get additional driv
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1675 liters. On the roof, you can load up to 100kg. Max weight is 3195kg, and with the base weight of 2690 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1675 liters. On the roof, you can load up to 100kg. Max weight is 3095kg, and with the base weight of 2560 kg, you can max load 535 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, 750kg. 
