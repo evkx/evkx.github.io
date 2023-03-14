@@ -4,6 +4,12 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Bjørn Nyland: Nio ET7 100 kWh range test 14.03.2023
+
+{{< youtube ITPhS9d62do >}}
+### Bjørn Nyland: Nio ET7 headlights test 13.03.2023
+
+{{< youtube XOP3yA7LXt4 >}}
 ### Bjørn Nyland: Nio ET7 failed 1000 km challenge 12.03.2023
 
 {{< youtube CDw5FHZyfK8 >}}

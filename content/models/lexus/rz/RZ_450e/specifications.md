@@ -10,7 +10,7 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|230 Kw|
-|Electrical torque output in Nm|4035 Nm|
+|Electrical torque output in Nm|435 Nm|
 |Top speed|160 km/h|
 |0-100km/h (0-62 mph)|5,3 s|
 
