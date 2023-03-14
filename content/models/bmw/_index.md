@@ -9,35 +9,35 @@ Electric drivetrains are a prerequisite for climate-neutral mobility of the futu
 Click on links for model details
 
 
-## i4
+## BMW i4
 
 [![i4](https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg)](i4)
 
 This model is available in 2 variant(s). 
 [Read full details](i4/)
 
-## i7
+## BMW i7
 
 [![i7](https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/main_1_st.jpg)](i7)
 
 This model is available in 1 variant(s). 
 [Read full details](i7/)
 
-## iX
+## BMW iX
 
 [![iX](https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg)](ix)
 
 This model is available in 3 variant(s). 
 [Read full details](ix/)
 
-## iX3
+## BMW iX3
 
 [![iX3](https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg)](ix3)
 
 This model is available in 1 variant(s). 
 [Read full details](ix3/)
 
-## iX1
+## BMW iX1
 
 [![iX1](https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg)](ix1)
 
