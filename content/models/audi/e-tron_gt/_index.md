@@ -5,6 +5,7 @@ description: See below for details of the different variants of Audi e-tron GT
 weight: 30
 ---
 ## Audi e-tron GT
+
 [![e-tron GT](https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg)](/models/audi/e-tron_gt/e-tron_gt/)
 
 Audi e-tron GT is an all-electric luxury sedan with a WLTP range of up to 488 km (303 miles). EVKX.net have all the details. 
