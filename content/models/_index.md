@@ -1,14 +1,14 @@
 ---
 title: EV models
 linktitle: EV models
-description: The future is electric and EVKX.net gives you the most complete overview over brands, model and variants of the EV market.
+description: The future is electric, and EVKX.net gives you a complete overview of the EV market's brands, models, and variants.
 weight: 30
 ---
 ## Audi
 
 [![Audi](https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg)](audi/)
 
-Audi is continuously expanding its fleet of electric vehicles and will only be launching all-electric models from 2026. The e-roadmap also stipulates the gradual phasing out of the production of vehicles with combustion engines by 2033. 
+Audi is continuously expanding its electric vehicle fleet and will only launch all-electric models from 2026. The e-roadmap also stipulates the gradual phasing out of the production of vehicles with combustion engines by 2033. 
 
 Audi has 4 models with total 21 variants. [Read all about them](audi/)
 
