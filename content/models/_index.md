@@ -6,6 +6,8 @@ weight: 30
 ---
 ## Audi
 
+[![Audi](https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg)](audi/)
+
 Audi is continuously expanding its fleet of electric vehicles and will only be launching all-electric models from 2026. The e-roadmap also stipulates the gradual phasing out of the production of vehicles with combustion engines by 2033. 
 
 Audi has 4 models with total 21. [Read all about them](audi/)
