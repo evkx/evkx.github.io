@@ -4,4 +4,16 @@ linktitle: Ioniq 6
 description: See below for details of the different variants of Hyundai Ioniq 6
 weight: 30
 ---
-{{% children description="true" depth="1" %}}
+## Hyundai Ioniq 6 Long Range AWD
+
+[![Ioniq 6 Long Range AWD](https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg)](/models/hyundai/ioniq_6/ioniq_6_long_range_awd/)
+
+Hyundai Ioniq 6 Long Range AWD is an all-electric crossover with a WLTP range of up to 583 km (362 miles). EVKX.net have all the details. 
+
+- [Hyundai Ioniq 6 Long Range AWD article](/models/hyundai/ioniq_6/ioniq_6_long_range_awd/)
+- [Hyundai Ioniq 6 Long Range AWD Range & consumption info](/models/hyundai/ioniq_6/ioniq_6_long_range_awd//rangeandconsumption)
+- [Hyundai Ioniq 6 Long Range AWD Charging curve and performance](/models/hyundai/ioniq_6/ioniq_6_long_range_awd//chargingcurve)
+- [Hyundai Ioniq 6 Long Range AWD full specifications](/models/hyundai/ioniq_6/ioniq_6_long_range_awd//specifications)
+- [Hyundai Ioniq 6 Long Range AWD image gallery](/models/hyundai/ioniq_6/ioniq_6_long_range_awd//gallery)
+- [Hyundai Ioniq 6 Long Range AWD reviews](/models/hyundai/ioniq_6/ioniq_6_long_range_awd//reviews)
+
