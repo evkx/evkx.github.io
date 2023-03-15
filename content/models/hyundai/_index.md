@@ -6,8 +6,6 @@ weight: 30
 ---
 Hyundai has currently 2 model with total 3 variants in the market. 
 
-Click on links for model details
-
 
 ## Hyundai Ioniq 5
 

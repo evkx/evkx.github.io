@@ -6,8 +6,6 @@ weight: 30
 ---
 From 2025 onwards, all newly launched vehicle architectures will be electric-only and customers will be able to choose an all-electric alternative for every model the company makes. Mercedes-Benz intends to manage this accelerated transformation while sticking to its profitability targets. Mercedes-Benz has currently 7 all electric models with total 24 variants in the market. Below you find links for each model page.  
 
-Click on links for model details
-
 
 ## Mercedes EQA
 

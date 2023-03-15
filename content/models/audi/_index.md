@@ -4,9 +4,7 @@ linktitle: Audi
 description: Audi is continuously expanding its fleet of electric vehicles and will only be launching all-electric models from 2026. The e-roadmap also stipulates the gradual phasing out of the production of vehicles with combustion engines by 2033. 
 weight: 30
 ---
-Audis first mass market EV was the Audi e-tron launched in 2018. Since then, Audi Q4 e-tron, Audi e-tron GT and Audi Q8 e-tron has been launched. 
-
-Click on links for model details
+Audis first mass market EV was the Audi e-tron launched in 2018. Since then, Audi Q4 e-tron, Audi e-tron GT and Audi Q8 e-tron has been launched. Audi has currently 4 all electric models with total 21 variants in the market. Below you find links for each model page.
 
 
 ## Audi e-tron

@@ -6,8 +6,6 @@ weight: 30
 ---
 Kia has currently 1 model with total 5 variants in the market. 
 
-Click on links for model details
-
 
 ## Kia EV6
 

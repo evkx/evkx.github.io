@@ -6,8 +6,6 @@ weight: 30
 ---
 Lexus has currently 1 all electric models with total 1 variants in the market. Below you find links for each model page.  
 
-Click on links for model details
-
 
 ## Lexus RZ
 

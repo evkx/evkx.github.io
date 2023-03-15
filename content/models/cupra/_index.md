@@ -6,8 +6,6 @@ weight: 30
 ---
 CUPRA is the unconventional challenger brand that combines emotional design, electrification and performance to inspire the world from Barcelona. Disruptive and rebellious, CUPRA is loved by some but not liked by all. CUPRA is for those who want to stand out from the crowd – but with something that sets them apart. 
 
-Click on links for model details
-
 
 ## CUPRA BORN
 

@@ -6,8 +6,6 @@ weight: 30
 ---
 HONGQI has currently 1 model with total 3 variants in the market. 
 
-Click on links for model details
-
 
 ## Hongqi E-HS9
 
