@@ -1,7 +1,7 @@
 ---
-title: Tesla Model 3 Long Range specifications
+title: Tesla Model 3 Performance specifications
 linktitle: Specifications
-description: See below for specifications for Tesla Model 3 Long Range
+description: See below for specifications for Tesla Model 3 Performance
 weight: 30
 ---
 
@@ -9,10 +9,10 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|324 Kw|
-|Electrical torque output in Nm|493 Nm|
-|Top speed|233 km/h|
-|0-100km/h (0-62 mph)|4,4 s|
+|Peak electrical output in kW|393 Kw|
+|Electrical torque output in Nm|660 Nm|
+|Top speed|261 km/h|
+|0-100km/h (0-62 mph)|3,3 s|
 
 
 
@@ -20,9 +20,9 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|WLTP range|602 km|
-|WLTP consumption|12,5 kWh/100km|
-|WLTP consumption with charging loss|14,8 kWh/100km|
+|WLTP range|547 km|
+|WLTP consumption|13,7 kWh/100km|
+|WLTP consumption with charging loss|16,5 kWh/100km|
 
 
 

@@ -4,6 +4,19 @@ linktitle: Model 3
 description: See below for details of the different variants of Tesla Model 3
 weight: 30
 ---
+## Tesla Model 3 Performance
+
+[![Model 3 Performance](https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/main_1_st.jpg)](/models/tesla/model_3/model_3_performance/)
+
+Tesla Model 3 Performance is an all-electric sedan with a WLTP range of up to 547 km (340 miles). EVKX.net have all the details. 
+
+- [Tesla Model 3 Performance article](/models/tesla/model_3/model_3_performance/)
+- [Tesla Model 3 Performance Range & consumption info](/models/tesla/model_3/model_3_performance//rangeandconsumption)
+- [Tesla Model 3 Performance Charging curve and performance](/models/tesla/model_3/model_3_performance//chargingcurve)
+- [Tesla Model 3 Performance full specifications](/models/tesla/model_3/model_3_performance//specifications)
+- [Tesla Model 3 Performance image gallery](/models/tesla/model_3/model_3_performance//gallery)
+- [Tesla Model 3 Performance reviews](/models/tesla/model_3/model_3_performance//reviews)
+
 ## Tesla Model 3 Long Range
 
 [![Model 3 Long Range](https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg)](/models/tesla/model_3/model_3_long_range/)

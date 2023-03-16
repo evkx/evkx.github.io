@@ -84,7 +84,7 @@ Skoda has 0 models with total 0 variants. [Read all about them](skoda/)
 
 Tesla, Inc. is an American multinational automotive and clean energy company headquartered in Austin, Texas. Tesla designs and manufactures electric vehicles (electric cars and trucks), battery energy storage from home to grid-scale, solar panels and solar roof tiles, and related products and services. 
 
-Tesla has 3 models with total 6 variants. [Read all about them](tesla/)
+Tesla has 3 models with total 7 variants. [Read all about them](tesla/)
 
 ## Toyota
 
