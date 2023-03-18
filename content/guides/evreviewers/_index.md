@@ -1,6 +1,6 @@
 ---
 title: EV Reviewers
-linktitle: Reviewers
+linktitle: EV Reviewers
 description: The internet has made car reviews so much better than before. On TV, you might get a 2-3 minute review for a specific model in some Car show, but with youtube and online reviews, you can get hours of materials for each EV model. EVKX.net has some favorite reviewers that give you the best EV reviews. 
 weight: 3
 ---
@@ -28,3 +28,12 @@ His tests are more accessible for people who do not need to understand every det
 He also gives a good overview of model options and features. 
 
 Visit his Youtube Channel [here](https://www.youtube.com/c/krisrifa). 
+
+
+## Autogefühl
+
+If you are looking for detailed car reviews targeting the average car consumer, look no further. Thomas gives you a detailed look into the models with information about all options. In addition, he often does an Autobahn test at full speed. Thomas reviews both fossil and EV. 
+
+He has a separate channel also for only electric reviews. 
+
+Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos)
