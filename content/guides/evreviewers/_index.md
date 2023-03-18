@@ -37,3 +37,11 @@ If you are looking for detailed car reviews targeting the average car consumer, 
 He has a separate channel also for only electric reviews. 
 
 Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos)
+
+
+## Other notable mentions
+
+In addition we follow the following channels that have some good reviews
+
+- [Fully Charged Show](https://www.youtube.com/fullychargedshow)
+- [carwow](https://www.youtube.com/@carwow) 
