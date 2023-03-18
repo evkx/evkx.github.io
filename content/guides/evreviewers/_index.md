@@ -39,9 +39,16 @@ He has a separate channel also for only electric reviews.
 Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos)
 
 
+## Out of spec Reviews
+
+Out of spec reviews is a US-based channel that reviews EV. Their tests are detailed and often at the geek level. Have standard tests and are one of the few channels that also review self-driving capabilities. 
+
+Visit their channel [here](https://www.youtube.com/@OutofSpecReviews/videos)
+
 ## Other notable mentions
 
 In addition we follow the following channels that have some good reviews
 
 - [Fully Charged Show](https://www.youtube.com/fullychargedshow)
-- [carwow](https://www.youtube.com/@carwow) 
+- [carwow](https://www.youtube.com/@carwow)
+- [InsideEvs](https://www.youtube.com/@InsideEVsUS)
