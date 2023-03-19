@@ -1,9 +1,11 @@
 ---
-title: BMW i4 reviews
+title: BMW i4 M50 reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Bjørn Nyland: BMW i4 M50 overheats with restricted power and charging during 1000 km challenge 18.08.2022
 
 {{< youtube Q0LaUx5I_28 >}}

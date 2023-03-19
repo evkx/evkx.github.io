@@ -1,9 +1,11 @@
 ---
 title: Audi e-tron GT reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Out of Spec Reviews: The Audi E-Tron GT Has A Monster Charging Curve! DC Fast Charge Test From 0-100% 17.10.2021
 
 {{< youtube yra3AsicSRY >}}

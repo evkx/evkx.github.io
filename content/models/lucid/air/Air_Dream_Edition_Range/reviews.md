@@ -1,9 +1,11 @@
 ---
-title: Lucid Air reviews
+title: Lucid Air Dream Edition Range reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Out of Spec Reviews: Lucid Air Full In-Depth Driving Review - City, Highway, & Canyon Performance Evaluated 16.10.2022
 
 {{< youtube Ze2LqnQCwxg >}}

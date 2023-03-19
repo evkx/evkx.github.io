@@ -1,9 +1,11 @@
 ---
-title: Audi Q8 e-tron reviews
+title: Audi Q8 50 Sportback e-tron reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Bjørn Nyland: Audi e-tron 50 Sportback range test 10.07.2020
 
 {{< youtube r14Lvm_bVrw >}}

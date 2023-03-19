@@ -1,9 +1,11 @@
 ---
-title: Volkswagen ID.3 reviews
+title: Volkswagen ID.3 Pro S reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Bjørn Nyland: VW ID3 82 kWh 1000 km challenge 13.04.2021
 
 {{< youtube dPE8CPmC96s >}}

@@ -1,9 +1,11 @@
 ---
-title: Audi Q4 e-tron reviews
+title: Audi Q4 50 e-tron quattro reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Autogefühl: Audi or VW? Audi Q4 e-tron 50 AWD vs VW ID4 GTX mid-size EV SUV comparison REVIEW 24.10.2021
 
 {{< youtube c8Fp1antVfA >}}

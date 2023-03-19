@@ -1,9 +1,11 @@
 ---
-title: Nissan Ariya reviews
+title: Nissan Ariya 63kWh reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Bjørn Nyland: Nissan Ariya 63/87 kWh FWD driving impressions & summary 08.10.2022
 
 {{< youtube rpzxbMFsY6c >}}

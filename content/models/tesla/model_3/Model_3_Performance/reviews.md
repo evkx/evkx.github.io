@@ -1,9 +1,11 @@
 ---
-title: Tesla Model 3 reviews
+title: Tesla Model 3 Performance reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Out of Spec Reviews: We Drive A 2022 Tesla Model 3 Performance! Here's How Different It Feels From Earlier Versions 23.04.2022
 
 {{< youtube 6GOSkmiaE_k >}}

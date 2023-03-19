@@ -1,9 +1,11 @@
 ---
-title: Mercedes EQB reviews
+title: Mercedes-EQ EQB 350 4MATIC reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Out of Spec Reviews: 2023 Mercedes EQB 350 4MATIC 70mph Highway Range Test 22.10.2022
 
 {{< youtube UqJE14hDZPI >}}

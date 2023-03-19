@@ -1,9 +1,11 @@
 ---
-title: Audi Q4 e-tron reviews
+title: Audi Q4 35 e-tron reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Fully Charged Show: AUDI Q4 E-TRON First Drive: The electric Audi we wanted all along! 22.07.2021
 
 {{< youtube PTPnz_Eh0zo >}}

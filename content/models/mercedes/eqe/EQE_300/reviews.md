@@ -1,9 +1,11 @@
 ---
-title: Mercedes EQE reviews
+title: Mercedes-EQ EQE 300 reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Bjørn Nyland: Mercedes EQE 300 range test 24.10.2022
 
 {{< youtube _Ms4HAc0Kv8 >}}

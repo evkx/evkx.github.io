@@ -1,9 +1,11 @@
 ---
-title: Hongqi E-HS9 reviews
+title: Hongqi E-HS9 Premium reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Bjørn Nyland: Hongqi E-HS9 1000 km challenge 10.09.2022
 
 {{< youtube OHkYox9TJJM >}}

@@ -1,9 +1,11 @@
 ---
-title: Kia EV6 reviews
+title: Kia EV6 GT reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Out of Spec Reviews: Kia EV6 GT Performance Review - This Thing Rips! 12.03.2023
 
 {{< youtube KdeIo5y0hVE >}}

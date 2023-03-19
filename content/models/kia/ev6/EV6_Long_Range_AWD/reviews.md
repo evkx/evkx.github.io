@@ -1,9 +1,11 @@
 ---
-title: Kia EV6 reviews
+title: Kia EV6 Long Range AWD reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Out of Spec Reviews: 2022 Kia EV6 AWD 70-MPH Highway Range Test - (Wind 19” 77.4kWh) 29.03.2022
 
 {{< youtube wmPruaUn9iU >}}

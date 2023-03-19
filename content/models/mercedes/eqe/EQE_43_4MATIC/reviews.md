@@ -1,9 +1,11 @@
 ---
-title: Mercedes EQE reviews
+title: Mercedes-AMG EQE 43 4MATIC reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Bjørn Nyland: Mercedes EQE 43 AMG driving impressions and summary 08.07.2022
 
 {{< youtube bzD81MGeHp0 >}}

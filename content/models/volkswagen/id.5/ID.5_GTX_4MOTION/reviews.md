@@ -1,9 +1,11 @@
 ---
-title: Volkswagen ID.5 reviews
+title: Volkswagen ID.5 GTX 4MOTION reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Bjørn Nyland: VW ID5 GTX driving impressions and summary 28.06.2022
 
 {{< youtube XTxn2gmidBE >}}

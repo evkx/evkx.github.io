@@ -1,9 +1,11 @@
 ---
-title: BMW i7 reviews
+title: BMW i7 xDrive60 reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Bjørn Nyland: BMW i7 xDrive60 First Edition interior review 20.01.2023
 
 {{< youtube Gpw6TfeXC6w >}}

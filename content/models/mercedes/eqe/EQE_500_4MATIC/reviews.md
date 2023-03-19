@@ -1,9 +1,11 @@
 ---
-title: Mercedes EQE reviews
+title: Mercedes-EQ EQE 500 4MATIC reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Autogefühl: Mercedes EQE 500 AWD AMG-Line driving REVIEW - how good is the electric CLS / E-Class? 13.04.2022
 
 {{< youtube _v1xHubJ-Xc >}}

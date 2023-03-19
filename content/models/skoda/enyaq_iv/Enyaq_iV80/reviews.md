@@ -1,9 +1,11 @@
 ---
-title: SKODA Enyaq iV reviews
+title: SKODA Enyaq iV80 reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Kris Rifa: I drove the Skoda Enyaq IV80 down to 0% | This is what happened AND this is how far I got! 18.05.2021
 
 {{< youtube q35pd1WnsTM >}}

@@ -1,9 +1,11 @@
 ---
-title: Kia EV6 reviews
+title: Kia EV6 Long Range 2WD reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Kris Rifa: Don't Buy A Kia EV6 BEFORE WATCHING THIS! 10.07.2022
 
 {{< youtube Tg9fRxer3U >}}

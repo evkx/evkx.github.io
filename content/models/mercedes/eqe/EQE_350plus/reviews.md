@@ -1,9 +1,11 @@
 ---
-title: Mercedes EQE reviews
+title: Mercedes-EQ EQE 350+ reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Autogefühl: Mercedes EQE 350+ first ride on US roads! Checking comfort and driving features! 21.03.2022
 
 {{< youtube LcloNK6FCQg >}}

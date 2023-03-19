@@ -1,9 +1,11 @@
 ---
 title: BMW iX3 reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Fully Charged Show: Almost the best Electric SUV? BMW iX3 Review 07.10.2021
 
 {{< youtube 2sdJBS7n1AY >}}

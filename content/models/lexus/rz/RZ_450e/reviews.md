@@ -1,9 +1,11 @@
 ---
-title: Lexus RZ reviews
+title: Lexus RZ 450e reviews
 linktitle: Reviews
-description: See below for reviews
+description: EVKX.net helps you find the best review for this model. 
 weight: 80
 ---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
 ### Autogefühl: Lexus RZ 450e driving REVIEW 13.03.2023
 
 {{< youtube y-ocjeOFPCk >}}
