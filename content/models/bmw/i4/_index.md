@@ -8,7 +8,7 @@ weight: 30
 
 [![i4 eDrive40](https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg)](/models/bmw/i4/i4_edrive40/)
 
-intro.sedan.premium
+BMW i4 eDrive40 is an all-electric premium sedan with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. 
 
 - [BMW i4 eDrive40 article](/models/bmw/i4/i4_edrive40/)
 - [BMW i4 eDrive40 Range & consumption info](/models/bmw/i4/i4_edrive40//rangeandconsumption)
@@ -21,7 +21,7 @@ intro.sedan.premium
 
 [![i4 M50](https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg)](/models/bmw/i4/i4_m50/)
 
-intro.sedan.premium
+BMW i4 M50 is an all-electric premium sedan with a WLTP range of up to 521 km (324 miles). EVKX.net have all the details. 
 
 - [BMW i4 M50 article](/models/bmw/i4/i4_m50/)
 - [BMW i4 M50 Range & consumption info](/models/bmw/i4/i4_m50//rangeandconsumption)
