@@ -4,7 +4,7 @@ linktitle: Nio
 description: Nio Inc  is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company develops battery-swapping stations for its vehicles, as an alternative to conventional charging stations. 
 weight: 30
 ---
-Nio has currently 3 all electric models with total 3 variants in the market. Below you find links for each model page.  
+Nio has currently 4 all electric models with total 4 variants in the market. Below you find links for each model page.  
 
 
 ## Nio EL7
@@ -27,3 +27,10 @@ This model is available in 1 variant(s).
 
 This model is available in 1 variant(s). 
 [Read full details](et5/)
+
+## Nio ET7
+
+[![ET7](https://media.evkx.net/multimedia/models/nio/et7/et7/main_1_st.jpg)](et7)
+
+This model is available in 1 variant(s). 
+[Read full details](et7/)
