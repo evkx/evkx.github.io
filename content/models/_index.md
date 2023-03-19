@@ -60,7 +60,7 @@ Lexus has 1 models with total 1 variants. [Read all about them](lexus/)
 
 Lucid Group, Inc. is an American electric vehicle manufacturer headquartered in Newark, California. The company was founded in 2007. Deliveries of the Dream Edition launch versions were made available to the first group of 520 reservation holders on October 30, 2021  
 
-Lucid has 1 models with total 1 variants. [Read all about them](lucid/)
+Lucid has 1 models with total 2 variants. [Read all about them](lucid/)
 
 ## Mercedes
 
@@ -104,7 +104,7 @@ Volkswagen has 4 models with total 9 variants. [Read all about them](volkswagen/
 
 Nio Inc  is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company develops battery-swapping stations for its vehicles, as an alternative to conventional charging stations. 
 
-Nio has 4 models with total 4 variants. [Read all about them](nio/)
+Nio has 3 models with total 3 variants. [Read all about them](nio/)
 
 
 

@@ -4,6 +4,12 @@ linktitle: Reviews
 description: See below for reviews
 weight: 80
 ---
+### Bjørn Nyland: Nio ET7 interior review 19.03.2023
+
+{{< youtube CkSYZGp2mFE >}}
+### Bjørn Nyland: Nio ET7 acceleration, braking and noise test 19.03.2023
+
+{{< youtube 0NbPBjcEcUM >}}
 ### Bjørn Nyland: Nio ET7 100 kWh range test 14.03.2023
 
 {{< youtube ITPhS9d62do >}}

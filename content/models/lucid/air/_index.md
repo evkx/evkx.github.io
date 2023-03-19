@@ -17,3 +17,16 @@ Lucid Air Dream Edition Performance is an all-electric sedan with a WLTP range o
 - [Lucid Air Dream Edition Performance image gallery](/models/lucid/air/air_dream_edition_performance//gallery)
 - [Lucid Air Dream Edition Performance reviews](/models/lucid/air/air_dream_edition_performance//reviews)
 
+## Lucid Air Dream Edition Range
+
+[![Air Dream Edition Range](https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_st.jpg)](/models/lucid/air/air_dream_edition_range/)
+
+Lucid Air Dream Edition Range is an all-electric sedan with a WLTP range of up to 883 km (549 miles). EVKX.net have all the details. 
+
+- [Lucid Air Dream Edition Range article](/models/lucid/air/air_dream_edition_range/)
+- [Lucid Air Dream Edition Range Range & consumption info](/models/lucid/air/air_dream_edition_range//rangeandconsumption)
+- [Lucid Air Dream Edition Range Charging curve and performance](/models/lucid/air/air_dream_edition_range//chargingcurve)
+- [Lucid Air Dream Edition Range full specifications](/models/lucid/air/air_dream_edition_range//specifications)
+- [Lucid Air Dream Edition Range image gallery](/models/lucid/air/air_dream_edition_range//gallery)
+- [Lucid Air Dream Edition Range reviews](/models/lucid/air/air_dream_edition_range//reviews)
+
