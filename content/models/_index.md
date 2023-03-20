@@ -22,9 +22,11 @@ BMW has 5 models with total 8 variants. [Read all about them](bmw/)
 
 ## BYD
 
+[![BYD](https://media.evkx.net/multimedia/models/byd/brandevs_st.jpg)](byd/)
+
 BYD has serveral electric models. 
 
-BYD has 1 models with total 1 variants. [Read all about them](byd/)
+BYD has 2 models with total 2 variants. [Read all about them](byd/)
 
 ## CUPRA
 
