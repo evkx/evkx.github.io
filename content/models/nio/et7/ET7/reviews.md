@@ -6,6 +6,9 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nio ET7 driving impressions and summary 20.03.2023
+
+{{< youtube 4qZzUaDn3sU >}}
 ### Bjørn Nyland: Nio ET7 interior review 19.03.2023
 
 {{< youtube CkSYZGp2mFE >}}
