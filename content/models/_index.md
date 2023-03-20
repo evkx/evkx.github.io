@@ -70,6 +70,12 @@ Mercedes-Benz,commonly referred to as Mercedes and sometimes as Benz, is a Germa
 
 Mercedes has 7 models with total 24 variants. [Read all about them](mercedes/)
 
+## Nio
+
+Nio Inc  is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company develops battery-swapping stations for its vehicles, as an alternative to conventional charging stations. 
+
+Nio has 4 models with total 4 variants. [Read all about them](nio/)
+
 ## Nissan
 
 Nissan Motor Co. Ltd. often shortened to Nissan, is a Japanese multinational automobile manufacturer headquartered in Nishi-ku, Yokohama, Japan. The company sells its vehicles under the Nissan and Infiniti brands. 
@@ -101,12 +107,6 @@ Toyota has 1 models with total 2 variants. [Read all about them](toyota/)
 Volkswagen’s product portfolio is focused on electric mobility. The last purely combustion-driven platform will be developed in 2026. After that, only electric vehicles will be developed. Even with today’s current power mix in the EU, battery-powered drive systems offer the best balance for the climate out of all drive concepts and this will continue to improve over the years to come. 
 
 Volkswagen has 4 models with total 9 variants. [Read all about them](volkswagen/)
-
-## Nio
-
-Nio Inc  is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company develops battery-swapping stations for its vehicles, as an alternative to conventional charging stations. 
-
-Nio has 4 models with total 4 variants. [Read all about them](nio/)
 
 
 
