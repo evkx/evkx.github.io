@@ -9,6 +9,8 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 ### CarGurus UK: Volkswagen ID 5 vs Nissan Ariya 29.09.2022
 
 {{< youtube iA-jxjCB9Ac >}}
+
 ### carwow: Volkswagen ID5 Review 09.09.2022
 
 {{< youtube bojEB7-YIsU >}}
+
