@@ -6,6 +6,14 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Kris Rifa: Long Trip Test In Mercedes EQC 400 4-Matic 21.03.2023
+
+{{< youtube CmKpFgiX-Uc >}}
+
+### Kris Rifa: Mercedes EQC 400 4-Matic | 10-80% Charging Test 21.03.2023
+
+{{< youtube rIGm3sGxELc >}}
+
 ### Bjørn Nyland: Mercedes EQC driving impressions & summary 03.11.2021
 
 {{< youtube CL7-mB0OyKc >}}

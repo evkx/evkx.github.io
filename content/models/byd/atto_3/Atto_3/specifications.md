@@ -1,7 +1,7 @@
 ---
-title: Nio EL7 specifications
+title: BYD Atto 3 specifications
 linktitle: Specifications
-description: See below for specifications for Nio EL7
+description: See below for specifications for BYD Atto 3
 weight: 30
 ---
 
@@ -9,10 +9,10 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|480 Kw|
-|Electrical torque output in Nm|850 Nm|
-|Top speed|200 km/h|
-|0-100km/h (0-62 mph)|3,9 s|
+|Peak electrical output in kW|150 Kw|
+|Electrical torque output in Nm|310 Nm|
+|Top speed|160 km/h|
+|0-100km/h (0-62 mph)|7,3 s|
 
 
 
@@ -20,22 +20,9 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|513 km|
-|Basic trim WLTP consumption|17,5 kWh/100km|
-|Basic trim WLTP consumption with charging loss|21,5 kWh/100km|
-|Top trim WLTP range|486 km|
-|Top trim WLTP consumption|18,5 kWh/100km|
-|Top trim WLTP consumption with charging loss|22,7 kwh/100km|
-
-
-|Spec|Value|
-|----|-----|
-|Basic trim WLTP range|394 km|
-|Basic trim WLTP consumption|17,5 kWh/100km|
-|Basic trim WLTP consumption with charging loss|21,8 kWh/100km|
-|Top trim WLTP range|372 km|
-|Top trim WLTP consumption|18,5 kWh/100km|
-|Top trim WLTP consumption with charging loss|23,1 kwh/100km|
+|WLTP range|420 km|
+|WLTP consumption|13,8 kWh/100km|
+|WLTP consumption with charging loss|15,6 kWh/100km|
 
 
 
@@ -43,18 +30,9 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Battery gross|100 kWh|
-|Battery net|90 kWh|
-|Max DC charging|126 kW|
-|Cell architecture|96s1p|
-
-
-|Spec|Value|
-|----|-----|
-|Battery gross|75 kWh|
-|Battery net|70,5 kWh|
-|Max DC charging|140 kW|
-|Cell architecture|118s1p|
+|Battery gross|60,5 kWh|
+|Battery net|58 kWh|
+|Max DC charging|88 kW|
 
 
 
@@ -62,29 +40,25 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Length|4912 mm|
-|Height|1720 mm|
-|Width excluding mirrors|1987 mm|
-|Widht including mirrors|2271 mm|
-|Wheelbase|2960 mm|
-|Track width front|1668 mm|
-|Track width rear|1672 mm|
-|Drag coefficient|0,29|
-|Turning circle|12,4 meters|
+|Length|4455 mm|
+|Height|1875 mm|
+|Width excluding mirrors|1875 mm|
+|Wheelbase|2720 mm|
+|Turning circle|11,8 meters|
 
 ## Suspension
 
 |Spec|Value|
 |----|-----|
-|Adaptive suspension|Yes, standard equipment|
-|Adjustable damping front|Yes, optional equipment|
-|Adjustable damping rear|Yes, optional equipment|
-|Adjustable height front|Yes, standard equipment|
-|Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|198|
-|Minimum ground clearance|143|
-|Suspension type front|AirSuspension|
-|Suspension type rear|AirSuspension|
+|Adaptive suspension|Not available|
+|Adjustable damping front|Not available|
+|Adjustable damping rear|Not available|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|175|
+|Minimum ground clearance|175|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
 
 ## Driver Assistance
 
@@ -123,3 +97,18 @@ weight: 30
 |Android Auto support|Not available|
 |Apple Carplay support|Not available|
 |In Car navigation|Yes, standard equipment|
+|Number of avaiable sound systems|2|
+
+### Surroundsystem
+
+|Spec|Value|
+|----|-----|
+|Number of speakers|7|
+|Channels|7|
+
+### Premium sound system
+
+|Spec|Value|
+|----|-----|
+|Number of speakers|12|
+|Channels|7|

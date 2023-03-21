@@ -28,16 +28,16 @@ This model is available in 1 variant(s).
 This model is available in 3 variant(s). 
 [Read full details](ix/)
 
-## BMW iX3
-
-[![iX3](https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg)](ix3)
-
-This model is available in 1 variant(s). 
-[Read full details](ix3/)
-
 ## BMW iX1
 
 [![iX1](https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg)](ix1)
 
 This model is available in 1 variant(s). 
 [Read full details](ix1/)
+
+## BMW iX3
+
+[![iX3](https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg)](ix3)
+
+This model is available in 1 variant(s). 
+[Read full details](ix3/)

@@ -62,7 +62,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio EL7 has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 108 mm and max 198 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 143 mm and max 198 mm. 
 
 ### Steering
 
@@ -131,6 +131,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 - electric adjustment 
 - heating (optional)
+- electric lumbar support 
 
 There is only one type of steering wheel available. 
 

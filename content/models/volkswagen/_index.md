@@ -7,6 +7,13 @@ weight: 30
 Volkswagen is aiming to increase the proportion of unit sales accounted for by purely electric vehicles to at least 70 percent in Europe and to more than 50 percent in North America and China by 2030. In 2030, nine out of 14 Volkswagen models will be purely electric vehicles. Volkswagen has currently 4 all electric models with total 9 variants in the market. Below you find links for each model page.
 
 
+## Volkswagen ID. Buzz
+
+[![ID. Buzz](https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg)](id._buzz)
+
+This model is available in 1 variant(s). 
+[Read full details](id._buzz/)
+
 ## Volkswagen ID.3
 
 [![ID.3](https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro/main_1_st.jpg)](id.3)
@@ -27,10 +34,3 @@ This model is available in 4 variant(s).
 
 This model is available in 2 variant(s). 
 [Read full details](id.5/)
-
-## Volkswagen ID. Buzz
-
-[![ID. Buzz](https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg)](id._buzz)
-
-This model is available in 1 variant(s). 
-[Read full details](id._buzz/)
