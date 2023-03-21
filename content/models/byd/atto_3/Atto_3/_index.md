@@ -63,7 +63,7 @@ Regenerative braking is available through one-pedal driving combined with blende
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model. 
+You can choose between 4 different paint colors when ordering this model. 
 
 The car has four regular doors and a tailgate. 
 
