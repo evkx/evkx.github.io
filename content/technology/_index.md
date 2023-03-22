@@ -1,10 +1,29 @@
 ---
-title: Technology overview
+title: EV Technology
 linktitle: Technology
-description: Information about technology used by all-electric models from Audi
+description: EVs are packed with technology. EVKX.net gives you an overview of the most important areas like battery, drivetrain, driver assistance, and many more.
 weight: 2
 ---
 
-Self Driving
+## Battery
 
-{{% children description="true" depth="1" %}}
+
+## Driver Assistance technology
+
+
+## Suspension
+
+
+## Electric motors
+
+
+## Safety
+
+
+## Seats
+
+
+
+
+
+
