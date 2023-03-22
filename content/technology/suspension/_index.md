@@ -1,12 +1,12 @@
 ---
 title: Suspension
 linktitle: Suspension
-description: The suspension is one of the most important parts of a EV drivetrain. EVKX.net gives you all details. 
+description: The suspension is one of the essential parts of an EV drivetrain. Again, EVKX.net gives you all details.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-## What is the purpose of suspension
+## What is the purpose of suspension?
 
 A suspension system has two primary purposes
 
