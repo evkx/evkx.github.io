@@ -78,11 +78,13 @@ Some models only use the air suspension to adjust for different loads, trying to
     <figcaption><h4>Front Air Suspension</h4></figcaption>
 </figur>
 
+On other models the driver can set the drive height based on drive mode. Below you see a diagram for Audi Q8 e-tron that shows the ride height for the different modes. 
+
 <figur>
-    <a href="https://media.evkx.net/multimedia/technology/suspension/wishboneairsuspensionfront.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/suspension/wishboneairsuspensionfront_st.jpg" alt="Front Air Suspension" title="Front Air Suspension">
+    <a href="https://media.evkx.net/multimedia/technology/suspension/suspensionmode.png">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/suspensionmode.png" alt="Suspension modes Audi Q8 e-tron" title="Suspension modes Audi Q8 e-tron">
     </a>
-    <figcaption><h4>Front Air Suspension</h4></figcaption>
+    <figcaption><h4>Suspension modes Audi Q8 e-tron</h4></figcaption>
 </figur>
 
 ## Adaptive damping
