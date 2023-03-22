@@ -2,7 +2,7 @@
 title: EV models
 linktitle: EV models
 description: The future is electric, and EVKX.net gives you a complete overview of the EV market's brands, models, and variants.
-weight: 30
+weight: 2
 ---
 ## Audi
 

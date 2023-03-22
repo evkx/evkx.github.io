@@ -2,7 +2,7 @@
 title: EV Technology
 linktitle: Technology
 description: EVs are packed with technology. EVKX.net gives you an overview of the most important areas like battery, drivetrain, driver assistance, and many more.
-weight: 2
+weight: 3\
 ---
 
 ## Battery
