@@ -78,5 +78,12 @@ Some models only use the air suspension to adjust for different loads, trying to
     <figcaption><h4>Front Air Suspension</h4></figcaption>
 </figur>
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/suspension/wishboneairsuspensionfront.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/wishboneairsuspensionfront_st.jpg" alt="Front Air Suspension" title="Front Air Suspension">
+    </a>
+    <figcaption><h4>Front Air Suspension</h4></figcaption>
+</figur>
+
 ## Adaptive damping
 
