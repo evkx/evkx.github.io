@@ -155,3 +155,9 @@ There are several different types of adaptive damping suspension systems, but th
 
 Overall, adaptive damping suspension can improve the driving experience by providing a more comfortable ride and better handling, especially on uneven or bumpy roads.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/suspension/rsetrongtsuspension.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/rsetrongtsuspension_st.jpg" alt="Audi RS e-tron GT adaptive air suspension" title="Audi RS e-tron GT adaptive air suspension">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT adaptive air suspension</h4></figcaption>
+</figur>
