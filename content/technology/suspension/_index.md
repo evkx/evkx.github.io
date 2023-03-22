@@ -8,15 +8,38 @@ weight: 2
 
 ## What is the purpose of suspension?
 
-A suspension system has two primary purposes
+The purpose of suspension on cars is to provide a smooth and comfortable ride for the passengers while also ensuring that the vehicle is stable, controllable, and safe to drive. The suspension system serves several important functions, including:
 
-- Absorbe uneven roads for increased comfort
-- Keep the wheels on the ground as much as possible to improve car handling.
+- Maintaining tire contact with the road surface: The suspension system keeps the wheels in contact with the road surface, which is important for traction, steering, and braking.
 
- Car producers can build suspensions differently, but generally, it consists of two main parts.
+- Absorbing shock and vibration: The suspension system absorbs shock and vibration from the road surface, which helps to minimize the impact of bumps and rough roads on the vehicle and its passengers.
 
-- A shock absorber, often called a damper, absorbs the kinetic energy from uneven roads. 
-- A spring that helps control the ride height.
+- Supporting the weight of the vehicle: The suspension system supports the weight of the vehicle, including the chassis, engine, passengers, and cargo.
+
+- Providing stability and control: The suspension system helps to maintain the stability and control of the vehicle during cornering, braking, and acceleration.
+
+- Enhancing handling and performance: A well-designed suspension system can improve the handling and performance of the vehicle, allowing it to handle corners, curves, and other obstacles with greater ease and precision.
+
+Overall, the suspension system plays a crucial role in ensuring the comfort, safety, and performance of the vehicle.
+
+
+## What is the parts of an suspension system?
+
+The main parts of a suspension system in a car typically include the following:
+
+- Springs: These are the primary components that absorb and store energy when the suspension compresses and release the energy when it rebounds. They can be made of steel coils, air bags, or other materials.
+
+- Shock absorbers or dampers: These are designed to reduce the oscillations caused by the springs by dissipating the energy stored in the springs. They also help to maintain tire contact with the road surface by controlling the rebound and compression of the springs.
+
+- Control arms: These are typically made of steel and connect the wheel hub assembly to the vehicle's chassis or subframe. They help to control the wheel's movement while allowing for some degree of lateral and longitudinal movement.
+
+- Sway bar or stabilizer bar: This component is designed to minimize body roll and improve stability during cornering by connecting the left and right wheels together.
+
+- Struts: These are similar to shock absorbers but also serve to support the weight of the vehicle. They are commonly used in MacPherson strut suspension systems.
+
+- Bushings: These are small rubber or polyurethane components that are used to isolate and dampen vibrations and noise between different components of the suspension system.
+
+Overall, the suspension system is a complex assembly of components that work together to provide a smooth and comfortable ride while maintaining stability, control, and safety.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/suspension/bilstein.jpg">
