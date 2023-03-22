@@ -19,10 +19,10 @@ A suspension system has two primary purposes
 - A spring that helps control the ride height.
 
 <figur>
-    <a href="https://media.evkx.net/multimedia/technology/suspension/mercedeseqesteel.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqesteel_st.jpg" alt="Mercedes-Benz EQE Suspension" title="Mercedes-Benz EQE Suspension">
+    <a href="https://media.evkx.net/multimedia/technology/suspension/bilstein.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/bilstein_st.jpg" alt="Bilstein dampers and springs" title="Bilstein dampers and springs">
     </a>
-    <figcaption><h4>Mercedes-Benz EQE Suspension with double wishbone</h4></figcaption>
+    <figcaption><h4>Bilstein dampers and springs</h4></figcaption>
 </figur>
 
 ## Constructions
@@ -47,6 +47,13 @@ A MacPherson strut uses a wishbone or a substantial compression link stabilized 
 A double wishbone suspension is an independent suspension design for automobiles using two (occasionally parallel) wishbone-shaped arms to locate the wheel. 
 
 Each wishbone or arm has two mounting points to the chassis and one joint at the knuckle. The shock absorber and coil spring mount to the wishbones to control vertical movement. Double wishbone designs allow the engineer to carefully control the motion of the wheel throughout suspension travel, controlling such parameters as camber angle, caster angle, toe pattern, roll center height, scrub radius, scuff and more.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/suspension/mercedeseqesteel.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqesteel_st.jpg" alt="Mercedes-Benz EQE Suspension" title="Mercedes-Benz EQE Suspension">
+    </a>
+    <figcaption><h4>Mercedes-Benz EQE Suspension with double wishbone</h4></figcaption>
+</figur>
 
 
 ### Multilink
