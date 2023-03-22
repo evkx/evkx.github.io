@@ -78,7 +78,7 @@ Some models only use the air suspension to adjust for different loads, trying to
     <figcaption><h4>Front Air Suspension</h4></figcaption>
 </figur>
 
-On other models the driver can set the drive height based on drive mode. Below you see a diagram for Audi Q8 e-tron that shows the ride height for the different modes. 
+On other models, the driver can set the drive height based on drive mode. For example, below is a diagram for the Audi Q8 e-tron showing the ride height for the different modes.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/suspension/suspensionmode.png">
@@ -89,3 +89,4 @@ On other models the driver can set the drive height based on drive mode. Below y
 
 ## Adaptive damping
 
+In an EV fitted with adaptive dampers, the driver can change the characteristics of a car’s suspension via driving modes, ranging from “normal” or “comfort” settings that are best suited to everyday driving or “dynamic” and “sport” settings that stiffen the chassis and responses for even sportier driving. Some also have an “auto” setting that adjusts based on the road.
