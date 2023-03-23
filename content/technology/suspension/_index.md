@@ -116,6 +116,32 @@ Overall, the double wishbone suspension is a popular choice for high-performance
 
 ### Multilink
 
+Multilink suspension can be used on both the front and rear axles of a vehicle, depending on the specific application and design of the vehicle. In some cases, multilink suspension may be used on all four wheels, while in others it may be used only on the front or rear wheels. For example, many high-performance sports cars and luxury sedans use multilink suspension on both the front and rear axles to provide superior handling and ride comfort. Meanwhile, some compact cars may use a simpler suspension design on the front wheels, but a multilink suspension on the rear wheels to improve stability and handling. Ultimately, the decision to use multilink suspension on a particular vehicle will depend on factors such as the vehicle's size, weight, intended use, and performance requirements.
+
+Multilink suspension is a type of independent suspension system that is commonly used in modern vehicles. It is designed to provide superior ride comfort and handling performance by allowing each wheel to move independently of the others. The system consists of multiple links, or arms, that connect the wheel hub to the vehicle's chassis.
+
+Multilink suspension can be used on both the front and rear axles of a vehicle, depending on the specific application and design of the vehicle. Most Evs use it on rear axle. 
+
+#### Pros of Multilink Suspension:
+
+- Improved handling: Multilink suspension systems provide better handling and stability, particularly in high-speed driving situations. They allow the wheels to move independently, which reduces body roll and improves overall cornering performance.
+
+- Better ride comfort: Multilink suspensions can provide a smoother ride quality by absorbing bumps and shocks more effectively than other suspension types. The suspension can be tuned to provide a comfortable ride without sacrificing handling performance.
+
+Versatile design: Multilink suspension can be designed to suit a wide range of vehicle types and sizes, from small passenger cars to larger SUVs and trucks.
+
+#### Cons of Multilink Suspension:
+
+- Complex design: Multilink suspension systems are generally more complex than other types of suspension, which can make them more difficult and expensive to repair or maintain.
+
+- High manufacturing costs: The complex design of multilink suspension can also result in higher manufacturing costs, which can increase the price of the vehicle.
+
+- Heavy weight: The multiple links and arms used in multilink suspension systems can add significant weight to the vehicle, which can affect fuel efficiency and performance.
+
+- Requires more space: Multilink suspension systems require more space than other suspension types, which can limit the available interior space in the vehicle or make it more difficult to package other vehicle components.
+
+Multilink suspension can be used on both the front and rear axles of a vehicle, depending on the specific application and design of the vehicle. In some cases, multilink suspension may be used on all four wheels, while in others it may be used only on the front or rear wheels. For example, many high-performance sports cars and luxury sedans use multilink suspension on both the front and rear axles to provide superior handling and ride comfort. Meanwhile, some compact cars may use a simpler suspension design on the front wheels, but a multilink suspension on the rear wheels to improve stability and handling. Ultimately, the decision to use multilink suspension on a particular vehicle will depend on factors such as the vehicle's size, weight, intended use, and performance requirements.
+
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/suspension/fivelinkrearsuspension_1.jpg">
         <img src="https://media.evkx.net/multimedia/technology/suspension/fivelinkrearsuspension_1_st.jpg" alt="Front Air Suspension" title="Front Air Suspension">
