@@ -13,7 +13,7 @@ There are several different types of driver assistance systems available in mode
 - [Lane Keeping Assist](lanekeepingassist) (LKA)
 - Blind-spot monitoring
 - Forward collision warning (FCW)
-- Automatic emergency braking (AEB)
+- [Automatic emergency braking](automaticemergencybraking) (AEB)
 - Rear Cross Traffic Alert (RCTA)
 - Rearview Camera
 - Surround View Camera
