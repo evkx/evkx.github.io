@@ -8,36 +8,42 @@ weight: 2
 
 ## What is the purpose of suspension?
 
-The purpose of suspension on cars is to provide a smooth and comfortable ride for the passengers while also ensuring that the vehicle is stable, controllable, and safe to drive. The suspension system serves several important functions, including:
+The purpose of suspension on cars is to provide a smooth and comfortable ride for the passengers while also ensuring that the vehicle is stable, controllable, and safe to drive. The suspension system serves several vital functions, including:
 
-- Maintaining tire contact with the road surface: The suspension system keeps the wheels in contact with the road surface, essential for traction, steering, and braking.
+- *Maintaining tire contact with the road surface:* The suspension system keeps the wheels in contact with the road surface, essential for traction, steering, and braking.
 
-- Absorbing shock and vibration: The suspension system absorbs shock and vibration from the road surface, which helps to minimize the impact of bumps and rough roads on the vehicle and its passengers.
+- *Absorbing shock and vibration:* The suspension system absorbs shock and vibration from the road surface, which helps to minimize the impact of bumps and rough roads on the vehicle and its passengers.
 
-- Supporting the weight of the vehicle: The suspension system supports the weight of the vehicle, including the chassis, engine, passengers, and cargo.
+- *Supporting the weight of the vehicle:* The suspension system supports the weight of the vehicle, including the chassis, engine, passengers, and cargo.
 
-- Providing stability and control: The suspension system helps to maintain the stability and control of the vehicle during cornering, braking, and acceleration.
+- *Providing stability and control:* The suspension system helps maintain the vehicle's stability and control during cornering, braking, and acceleration.
 
-- Enhancing handling and performance: A well-designed suspension system can improve the handling and performance of the vehicle, allowing it to handle corners, curves, and other obstacles with greater ease and precision.
+- *Enhancing handling and performance:* A well-designed suspension system can improve the handling and performance of the vehicle, allowing it to handle corners, curves, and other obstacles with greater ease and precision.
 
-Overall, the suspension system plays a crucial role in ensuring the comfort, safety, and performance of the vehicle.
+Overall, the suspension system plays a crucial role in ensuring the vehicle's comfort, safety, and performance.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/suspension/mercedeseqssuvterrain.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqssuvterrain_st.jpg" alt="Mercedes EQS Suv Offroad" title="Mercedes EQS Suv Offroad">
+    </a>
+    <figcaption><h4>Mercedes EQS Suv Offroad</h4></figcaption>
+</figur>
 
-## What is the parts of an suspension system?
+## What are the parts of a suspension system?
 
 The main parts of a suspension system in a car typically include the following:
 
-- Springs: These are the primary components that absorb and store energy when the suspension compresses and release the energy when it rebounds. They can be made of steel coils, air bags, or other materials.
+- *Springs:* These are the primary components that absorb and store energy when the suspension compresses and release the energy when it rebounds. They can be made of steel coils, air bags, or other materials.
 
-- Shock absorbers or dampers: These are designed to reduce the oscillations caused by the springs by dissipating the energy stored in the springs. They also help to maintain tire contact with the road surface by controlling the rebound and compression of the springs.
+- *Shock absorbers or dampers:* These are designed to reduce the oscillations caused by the springs by dissipating the energy stored in the springs. They also help to maintain tire contact with the road surface by controlling the rebound and compression of the springs.
 
-- Control arms: These are typically made of steel and connect the wheel hub assembly to the vehicle's chassis or subframe. They help to control the wheel's movement while allowing for some degree of lateral and longitudinal movement.
+- *Control arms:* These are typically made of steel and connect the wheel hub assembly to the vehicle's chassis or subframe. They help to control the wheel's movement while allowing for some degree of lateral and longitudinal movement.
 
-- Sway bar or stabilizer bar: This component is designed to minimize body roll and improve stability during cornering by connecting the left and right wheels together.
+- *Sway bar or stabilizer bar:* This component is designed to minimize body roll and improve stability during cornering by connecting the left and right wheels together.
 
-- Struts: These are similar to shock absorbers but also serve to support the weight of the vehicle. They are commonly used in MacPherson strut suspension systems.
+- *Struts:* These are similar to shock absorbers but also serve to support the weight of the vehicle. They are commonly used in MacPherson strut suspension systems.
 
-- Bushings: These are small rubber or polyurethane components that are used to isolate and dampen vibrations and noise between different components of the suspension system.
+- *Bushings:* These are small rubber or polyurethane components that are used to isolate and dampen vibrations and noise between different components of the suspension system.
 
 Overall, the suspension system is a complex assembly of components that work together to provide a smooth and comfortable ride while maintaining stability, control, and safety.
 
@@ -65,27 +71,25 @@ A MacPherson strut uses a wishbone or a substantial compression link stabilized 
     <figcaption><h4>McPherson front suspension Audi Q4</h4></figcaption>
 </figur>
 
-#### Pros:
+#### Pros MacPherson strut
 
-- Simplified design: MacPherson struts consist of fewer components than traditional shock-absorber-and-spring systems, making them easier to install and maintain.
-- More space-efficient: They take up less space than other types of suspension systems, leaving more room for other components, such as the engine and transmission.
-- Good handling: MacPherson struts provide good handling and stability on the road, especially in high-speed maneuvers and cornering.
-- Cost-effective: They are generally less expensive than other types of suspension systems, making them a popular choice for budget-conscious vehicle manufacturers.
+- *Simplified design:* MacPherson struts have fewer components than traditional shock-absorber-and-spring systems, making them easier to install and maintain.
+- *More space-efficient:* They take up less space than other types of suspension systems, leaving more room for other components, such as the engine and transmission.
+- *Good handling:* MacPherson struts provide good handling and stability on the road, especially in high-speed maneuvers and cornering.
+- *Cost-effective:* They are generally less expensive than other types of suspension systems, making them a popular choice for budget-conscious vehicle manufacturers.
 
+#### Cons MacPherson strut
 
-#### Cons:
+- *Limited adjustability:* MacPherson struts are not as adjustable as other types of suspension systems, making it more difficult to fine-tune the ride and handling characteristics.
+- *Less durable:* They may be less durable than other types of suspension systems, especially in harsh driving conditions or off-road use.
+- *Bump steer:* MacPherson struts can cause a phenomenon called bump steer, which occurs when the suspension geometry changes during cornering, causing the wheels to steer unintentionally.
+- *Uneven tire wear:* MacPherson struts can cause uneven tire wear, especially when driving on rough roads or over bumps.
 
-- Limited adjustability: MacPherson struts are not as adjustable as other types of suspension systems, making it more difficult to fine-tune the ride and handling characteristics.
-- Less durable: They may be less durable than other types of suspension systems, especially in harsh driving conditions or off-road use.
-- Bump steer: MacPherson struts can cause a phenomenon called bump steer, which occurs when the suspension geometry changes during cornering, causing the wheels to steer unintentionally.
-- Uneven tire wear: MacPherson struts can cause uneven tire wear, especially when driving on rough roads or over bumps.
-
-Overall, MacPherson struts are a popular choice for many vehicles due to their simplicity, cost-effectiveness, and good handling characteristics. However, they may not be the best choice for every driving situation, and some drivers may prefer other types of suspension systems that offer more adjustability and durability.
+Overall, MacPherson struts are a popular choice for many vehicles due to their simplicity, cost-effectiveness, and good handling characteristics. However, there may be better choices for some driving situations, and some drivers may prefer other types of suspension systems that offer more adjustability and durability.
 
 ### Double Wishbone
 
-Double wishbone suspension is a type of independent suspension system commonly used in high-performance and luxury vehicles. The suspension design features two A-shaped control arms (also called wishbones) that are connected to the chassis and the wheel hub assembly. 
-
+Double wishbone suspension is a type of independent suspension system commonly used in high-performance and luxury vehicles. The suspension design features two A-shaped control arms (also called wishbones) that are connected to the chassis and the wheel hub assembly.
 
 The upper and lower wishbones work together to control the vertical movement of the wheel, while allowing for some degree of lateral and longitudinal movement.
 
@@ -96,15 +100,14 @@ The upper and lower wishbones work together to control the vertical movement of 
     <figcaption><h4>Mercedes-Benz EQE Suspension with double wishbone</h4></figcaption>
 </figur>
 
-#### Pros:
+#### Pros of Double Wishbone
 
-- Improved handling: The double wishbone suspension allows for more precise control of the wheel's movement, resulting in better handling, steering response, and stability, especially during high-speed cornering.
-- Better ride quality: The design reduces the impact of bumps and road imperfections, resulting in a smoother ride.
-- Good camber control: The double wishbone suspension allows for better camber control, which is important for maintaining tire contact with the road during hard cornering.
-- More adjustable: The suspension is highly adjustable, allowing for fine-tuning of the handling characteristics, ride height, and suspension geometry.
+- *Improved handling: The double wishbone suspension allows for more precise control of the wheel's movement, resulting in better handling, steering response, and stability, especially during high-speed cornering.
+- *Better ride quality:* The design reduces the impact of bumps and road imperfections, resulting in a smoother ride.
+- *Good camber control:* The double wishbone suspension allows for better camber control, which is important for maintaining tire contact with the road during hard cornering.
+- *More adjustable:* The suspension is highly adjustable, allowing for fine-tuning of the handling characteristics, ride height, and suspension geometry.
 
-
-#### Cons:
+#### Cons of Double Wishbone
 
 - Complex design: The double wishbone suspension is more complex and expensive to design, manufacture, and maintain than other types of suspension systems, such as MacPherson struts.
 - Space requirements: The suspension takes up more space than other types of suspension, which can limit the vehicle's design and packaging options.
