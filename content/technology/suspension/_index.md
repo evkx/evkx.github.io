@@ -10,7 +10,7 @@ weight: 2
 
 The purpose of suspension on cars is to provide a smooth and comfortable ride for the passengers while also ensuring that the vehicle is stable, controllable, and safe to drive. The suspension system serves several important functions, including:
 
-- Maintaining tire contact with the road surface: The suspension system keeps the wheels in contact with the road surface, which is important for traction, steering, and braking.
+- Maintaining tire contact with the road surface: The suspension system keeps the wheels in contact with the road surface, essential for traction, steering, and braking.
 
 - Absorbing shock and vibration: The suspension system absorbs shock and vibration from the road surface, which helps to minimize the impact of bumps and rough roads on the vehicle and its passengers.
 
