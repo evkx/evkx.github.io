@@ -151,7 +151,17 @@ Multilink suspension can be used on both the front and rear axles of a vehicle, 
 
 ## Air suspension
 
-On models with air suspension, the coil springs are replaced by airbags or air springs, often made from a rubber and polyurethane composite. A compressor fills these air springs via a reservoir to varying degrees: the more air that goes in, the higher the ride height.
+Air suspension is a type of vehicle suspension system that uses compressed air to provide support and cushioning. It consists of airbags, a compressor, and a control system that regulates the amount of air in the bags to adjust the height and stiffness of the suspension. This replaces the spring in conventional systems.
+
+When the vehicle is in motion, the air compressor pumps compressed air into the airbags to maintain a consistent ride height and cushion the vehicle from bumps and vibrations. The control system uses sensors to detect changes in the road and adjusts the air pressure in the bags to maintain a smooth ride.
+
+One of the primary advantages of air suspension is that it provides a more comfortable ride than traditional suspension systems. It can also be adjusted to accommodate different loads and road conditions, making it ideal for vehicles that carry heavy loads or operate on rough terrain.
+
+Another advantage is that air suspension can help improve handling and stability by lowering the center of gravity of the vehicle. It can also help reduce wear and tear on tires and other suspension components.
+
+However, there are some potential drawbacks to air suspension. It can be more expensive to repair or replace than traditional suspension systems. It can also be more complex, with more components that can fail or malfunction.
+
+Additionally, some drivers may prefer the feel of a traditional suspension system, which can be more responsive and provide a better "road feel." Finally, the compressor that powers the air suspension system can consume more energy than a traditional system, which can result in lower fuel efficiency.
 
 Some models only use the air suspension to adjust for different loads, trying to keep the ride height at the same level. These models typically only have air suspension at the rear axle. Examples are the Mercedes EQC and BMW I4. 
 
