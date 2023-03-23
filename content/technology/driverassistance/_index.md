@@ -21,7 +21,7 @@ There are several different types of driver assistance systems available in mode
 - Adaptive Headlights
 - Traffic Sign Recognition (TSR)
 - Driver Drowsiness Detection
-- Steering Assist
+- [Steering Assist](steeringassist)
 - Automatic High Beams
 - Pedestrian Detection
 - Collision Avoidance Systems

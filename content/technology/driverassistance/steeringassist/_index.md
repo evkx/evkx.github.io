@@ -19,3 +19,21 @@ Steering assist systems usually have a time limit for how long they can operate 
 The time limit for steering assist systems can vary depending on the specific system and the driving conditions. Some systems may be designed to operate continuously for a short period of time, such as a few seconds, while others may operate for longer periods, such as several minutes or even up to an hour, before requiring driver intervention.
 
 It's important to note that while some advanced driver assistance systems can operate autonomously for extended periods of time, fully autonomous driving is not yet legal or widely available in most regions, and drivers are still required to remain attentive and in control of the vehicle at all times.
+
+Manufacturers may use different names for their steering assist systems, but some common names for these systems include:
+
+- Active Steering Assist
+- Steering Assist
+- Lane Centering Assist
+- Lane Keep Assist
+- Lane Departure Correction
+- Lane Following Assist
+- Lane Tracing Assist
+- Traffic Jam Assist
+- ProPILOT Assist (Nissan)
+- Super Cruise (Cadillac)
+- Drive Pilot (Mercedes-Benz)
+- Adaptive Cruise Assist (Audi)
+- CoPilot360 (Ford)
+
+It's important to note that the exact features and capabilities of each manufacturer's steering assist system may vary, and drivers should always consult their vehicle's owner's manual and familiarize themselves with the specific features and limitations of their system.
