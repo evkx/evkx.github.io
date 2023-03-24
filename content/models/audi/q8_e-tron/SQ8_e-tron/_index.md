@@ -204,7 +204,8 @@ The Audi SQ8 e-tron has a [**lane keeping assist**](../../../../technology/drive
 
 [**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 
-The Audi SQ8 e-tron has a [**automatic emergency braking*](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Audi SQ8 e-tron has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+
 ### Driving Automation
 
 The Audi SQ8 e-tron offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.

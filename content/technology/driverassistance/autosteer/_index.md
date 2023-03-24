@@ -18,7 +18,11 @@ For example, Tesla's Autopilot system requires drivers to keep their hands on th
 
 Other manufacturers may have similar requirements for driver attention and engagement, and may also include time limits or other restrictions on how long the autonomous driving features can be used continuously. It's important for drivers to carefully read and understand the limitations and requirements of their specific vehicle's autonomous driving system before using it on the road.
 
-It's important to note that Autosteer is not a fully autonomous driving system and should not be relied on to take over all driving tasks. Drivers should always remain alert and ready to take control of the vehicle at any time, and follow all traffic laws and regulations.
+The levels of autonomous driving for autosteer systems are typical 2. Merces Benz Drive Pilot on EQS is the only currently approved level 3 system. 
+
+The below video shows how it works. 
+
+{{< youtube Ym0sTaVyQ0g >}}
 
 Manufacturers may use different names for their Autosteer systems, but some common names for these systems include:
 
@@ -28,5 +32,6 @@ Manufacturers may use different names for their Autosteer systems, but some comm
 - Adaptive Cruise Assist (Audi)
 - CoPilot360 (Ford)
 - Nio Pilot (NIO)
+- Autopilot (Tesla)
 
 It's important to note that the exact features and capabilities of each manufacturer's Autosteer system may vary, and drivers should always consult their vehicle's owner's manual and familiarize themselves with the specific features and limitations of their system.

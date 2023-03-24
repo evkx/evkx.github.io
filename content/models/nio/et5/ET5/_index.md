@@ -181,7 +181,8 @@ The Nio ET5 has a [**lane keeping assist**](../../../../technology/driverassista
 
 [**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 
-The Nio ET5 has a [**automatic emergency braking*](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Nio ET5 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+
 ### Driving Automation
 
 The Nio ET5 offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.

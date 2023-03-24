@@ -180,7 +180,8 @@ The BMW iX xDrive50 has a [**anti-lock braking system (ABS)**](../../../../techn
 
 The BMW iX xDrive50 has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-The BMW iX xDrive50 has a [**automatic emergency braking*](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The BMW iX xDrive50 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+
 ### Driving Automation
 
 The BMW iX xDrive50 offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.

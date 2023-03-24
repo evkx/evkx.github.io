@@ -184,7 +184,8 @@ The Tesla Model 3 Long Range has a [**lane keeping assist**](../../../../technol
 
 [**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 
-The Tesla Model 3 Long Range has a [**automatic emergency braking*](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Tesla Model 3 Long Range has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+
 ### Driving Automation
 
 The Tesla Model 3 Long Range offers [driving automation on level 2 or 3]](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 

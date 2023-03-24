@@ -8,6 +8,13 @@ weight: 3
 
 AES systems use sensors such as cameras, radar, or lidar to monitor the road ahead and detect if the vehicle is getting too close to an object or pedestrian.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/driverassistance/emergencysteeringassist/illustration.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/driverassistance/emergencysteeringassist/illustration_st.jpg" alt="Illustration Automatic Emergency Steering Audi" title="Illustration Automatic Emergency Steering Audi">
+    </a>
+    <figcaption><h4>Illustration Automatic Emergency Steering Audi</h4></figcaption>
+</figur>
+
 When the AES system detects that a collision is imminent, it can take over the steering of the vehicle and steer it away from the object or pedestrian. The system may also apply the brakes or adjust the vehicle's speed to further avoid or reduce the severity of the collision.
 
 AES systems use a variety of algorithms to determine the likelihood and severity of a collision, taking into account factors such as the speed of the vehicle, the distance to the object or pedestrian, and the rate of closure. The system may also incorporate information about the road layout, traffic flow, and weather conditions to further refine its steering and braking algorithms.

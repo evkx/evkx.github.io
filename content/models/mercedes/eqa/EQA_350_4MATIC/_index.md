@@ -202,7 +202,8 @@ The Mercedes-EQ EQA 350 4MATIC has a [**lane keeping assist**](../../../../techn
 
 [**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 
-The Mercedes-EQ EQA 350 4MATIC has a [**automatic emergency braking*](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Mercedes-EQ EQA 350 4MATIC has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+
 ### Driving Automation
 
 driverassistance.drivingautomation.intro.level1

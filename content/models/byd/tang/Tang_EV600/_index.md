@@ -179,7 +179,8 @@ The BYD Tang EV600 has a [**lane keeping assist**](../../../../technology/driver
 
 [**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 
-The BYD Tang EV600 has a [**automatic emergency braking*](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The BYD Tang EV600 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+
 ### Driving Automation
 
 The BYD Tang EV600 offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
@@ -190,7 +191,6 @@ With the   level 1 system, you get the following driving automation features.
 
 
 With the Smart Pilot  level 2 system, you get additional driving automation features to the ones listed above. 
-- Cruise control. 
 - [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
