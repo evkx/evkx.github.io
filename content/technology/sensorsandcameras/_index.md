@@ -1,0 +1,20 @@
+---
+title: Sensors & Cameras
+linktitle: Sensors & Cameras
+description:  sensors and cameras are very important on modern cars because they play a key role in many of the advanced driver assistance systems. EVKX.net gives you details about the different types used in EVs.
+weight: 3
+---
+<!-- markdownlint-disable MD033 -->
+There are various types of technologies used for sensors in modern cars, depending on the specific application and the sensor's requirements. Some of the most common sensor technologies used in cars include:
+
+- Radar: Radar sensors use radio waves to detect the distance, speed, and direction of objects around the vehicle. They are commonly used in systems such as adaptive cruise control, blind spot detection, and rear cross traffic alert.
+
+- Ultrasonic: Ultrasonic sensors use sound waves to detect the distance between the vehicle and nearby objects. They are commonly used in parking sensors and other systems that require close-range detection.
+
+- LiDAR: LiDAR (Light Detection and Ranging) sensors use laser beams to create a 3D map of the vehicle's surroundings, allowing for highly accurate object detection and ranging. LiDAR is commonly used in autonomous driving systems, but is also becoming more common in ADAS features.
+
+- Cameras: Cameras are used in a variety of ADAS systems, such as lane departure warning, traffic sign recognition, and pedestrian detection. They use image processing algorithms to analyze video feeds and detect objects, lane markings, and other features of the road environment.
+
+- Infrared: Infrared sensors use heat signatures to detect objects in the vehicle's path. They are commonly used in night vision systems, which help drivers see more clearly in low-light conditions.
+
+Overall, the choice of sensor technology depends on the specific requirements of each system and the trade-offs between factors such as cost, performance, and reliability. Many modern cars use a combination of different sensor types to provide a comprehensive suite of ADAS features and safety systems.
