@@ -24,7 +24,7 @@ We have separated our description of Toyota bZ4X AWD into sections. If you want 
 - [User interface and control](#user-interface-and-control)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
-- [Driver assistance](#driver-assistance)
+- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
 
@@ -151,20 +151,24 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the Toyota bZ4X AWD. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
-## Driver assistance
+## Advanced driver assistance systems
 
 The Toyota bZ4X AWD has several standard and optional driver assistance systems for better safety and comfort.
 ### Safety systems
 
 
 
-**Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+The Toyota bZ4X AWD has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
+[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+
+The Toyota bZ4X AWD has a [**automatic emergency braking*](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 ### Driving Automation
 
 
 
 With the standard system the model offers no driving automation. 
-- Adaptive Cruise control. 
+- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 
 
 ## Transportation capabilities

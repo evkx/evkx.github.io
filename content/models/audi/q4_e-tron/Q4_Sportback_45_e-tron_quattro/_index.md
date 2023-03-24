@@ -24,7 +24,7 @@ We have separated our description of Audi Q4 Sportback 45 e-tron quattro into se
 - [User interface and control](#user-interface-and-control)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
-- [Driver assistance](#driver-assistance)
+- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
 
@@ -196,7 +196,7 @@ You can choose between two types of headlights for the Audi Q4 Sportback 45 e-tr
 </a>
 <figcaption><h4>Audi Q4 Sportback 45 e-tron quattro</h4></figcaption></figur>
 
-## Driver assistance
+## Advanced driver assistance systems
 
 The Audi Q4 Sportback 45 e-tron quattro has several standard and optional driver assistance systems for better safety and comfort.
 
@@ -205,10 +205,14 @@ The Audi Q4 Sportback 45 e-tron quattro has several standard and optional driver
 
 
 
-**Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+The Audi Q4 Sportback 45 e-tron quattro has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
+[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+
+The Audi Q4 Sportback 45 e-tron quattro has a [**automatic emergency braking*](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 ### Driving Automation
 
-The Audi Q4 Sportback 45 e-tron quattro offers driving automation on level 1 or 2, depending on the equipment level.
+The Audi Q4 Sportback 45 e-tron quattro offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
 - Cruise control. 
@@ -216,8 +220,8 @@ With the   level 1 system, you get the following driving automation features.
 
 
 With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above. 
-- Adaptive Cruise control. 
-- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 ## Transportation capabilities

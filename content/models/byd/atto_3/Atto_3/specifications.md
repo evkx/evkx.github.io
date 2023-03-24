@@ -97,18 +97,3 @@ weight: 30
 |Android Auto support|Not available|
 |Apple Carplay support|Not available|
 |In Car navigation|Yes, standard equipment|
-|Number of avaiable sound systems|2|
-
-### Surroundsystem
-
-|Spec|Value|
-|----|-----|
-|Number of speakers|7|
-|Channels|7|
-
-### Premium sound system
-
-|Spec|Value|
-|----|-----|
-|Number of speakers|12|
-|Channels|7|

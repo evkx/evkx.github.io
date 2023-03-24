@@ -24,7 +24,7 @@ We have separated our description of Tesla Model Y Performance into sections. If
 - [User interface and control](#user-interface-and-control)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
-- [Driver assistance](#driver-assistance)
+- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
 
@@ -177,23 +177,27 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED technology.  
-## Driver assistance
+## Advanced driver assistance systems
 
 The Tesla Model Y Performance has several standard and optional driver assistance systems for better safety and comfort.
 ### Safety systems
 
 
 
-The Tesla Model Y Performance has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The Tesla Model Y Performance has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-**Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+The Tesla Model Y Performance has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+
+The Tesla Model Y Performance has a [**automatic emergency braking*](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 ### Driving Automation
 
-The Tesla Model Y Performance offers driving automation on level 2 or 3, depending on the equipment level. 
+The Tesla Model Y Performance offers [driving automation on level 2 or 3]](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features. 
-- Adaptive Cruise control. 
-- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above. 

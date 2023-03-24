@@ -24,7 +24,7 @@ We have separated our description of Mercedes-EQ EQA 300 4MATIC into sections. I
 - [User interface and control](#user-interface-and-control)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
-- [Driver assistance](#driver-assistance)
+- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
 
@@ -181,22 +181,26 @@ The model has 4 USB-C connections as standard. As an option you can get addition
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
-## Driver assistance
+## Advanced driver assistance systems
 
 The Mercedes-EQ EQA 300 4MATIC has several standard and optional driver assistance systems for better safety and comfort.
 ### Safety systems
 
 
 
-The Mercedes-EQ EQA 300 4MATIC has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The Mercedes-EQ EQA 300 4MATIC has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-**Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+The Mercedes-EQ EQA 300 4MATIC has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+
+The Mercedes-EQ EQA 300 4MATIC has a [**automatic emergency braking*](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 ### Driving Automation
 
 driverassistance.drivingautomation.intro.level1
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
-- Adaptive Cruise control. 
+- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 
 
 ## Transportation capabilities

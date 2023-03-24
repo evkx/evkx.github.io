@@ -24,7 +24,7 @@ We have separated our description of BYD Atto 3 into sections. If you want to wa
 - [User interface and control](#user-interface-and-control)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
-- [Driver assistance](#driver-assistance)
+- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
 
@@ -99,7 +99,7 @@ The following functionalities are available on the **standard** seat.
 - adjustable thigh support 
 - ventilation 
 
-You can choose from 3 different materials/colors for this seat type. <br />
+You can choose from 1 different materials/colors for this seat type. <br />
 <br />
 
 
@@ -118,7 +118,6 @@ You can choose from 3 different materials/colors for this seat type. <br />
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - electric adjustment 
-- heating (optional)
 
 
 <figur>
@@ -164,11 +163,11 @@ The optional Design layout has the following configuration. Behind the steering 
 
 ## Infotainment
 
-You can choose between two sound systems on the BYD Atto 3. With the Surroundsystem, you get seven amplifier channels and seven speakers with a max system output of  watts. With the Premium sound system, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
+One type of sound system is available for the BYD Atto 3. With the Dirac, you get five amplifier channels and eight speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The model has 1 USB-C connections as standard. The models is equipped with 3 USB-A connections as standard. 
+The model has 2 USB-C connections as standard. The models is equipped with 2 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
@@ -180,28 +179,32 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
 
-## Driver assistance
+## Advanced driver assistance systems
 
 The BYD Atto 3 has several standard and optional driver assistance systems for better safety and comfort.
 ### Safety systems
 
 
 
-The BYD Atto 3 has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The BYD Atto 3 has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-**Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+The BYD Atto 3 has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+
+The BYD Atto 3 has a [**automatic emergency braking*](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 ### Driving Automation
 
-The BYD Atto 3 offers driving automation on level 1 or 2, depending on the equipment level.
+The BYD Atto 3 offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
-- Adaptive Cruise control. 
+- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 - Automatic parallel parking. (optional) 
 
 
 With the Smart Pilot  level 2 system, you get additional driving automation features to the ones listed above. 
 - Cruise control. 
-- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 ## Transportation capabilities

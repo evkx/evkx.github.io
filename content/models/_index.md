@@ -2,7 +2,7 @@
 title: EV models
 linktitle: EV models
 description: The future is electric, and EVKX.net gives you a complete overview of the EV market's brands, models, and variants.
-weight: 2
+weight: 30
 ---
 ## Audi
 
@@ -78,7 +78,7 @@ Nio has 4 models with total 4 variants. [Read all about them](nio/)
 
 ## Nissan
 
-Nissan Motor Co. Ltd. often shortened to Nissan, is a Japanese multinational automobile manufacturer headquartered in Nishi-ku, Yokohama, Japan. The company sells its vehicles under the Nissan and Infiniti brands. 
+Nissan is a multinational automobile manufacturer headquartered in Yokohama, Japan. It was founded in 1933 as the 'Nissan Motor Company Ltd.' and has since become one of the largest automakers in the world. Nissan offers a wide range of vehicles, from small city cars to luxury sedans and SUVs. 
 
 Nissan has 1 models with total 3 variants. [Read all about them](nissan/)
 

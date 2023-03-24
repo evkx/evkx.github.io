@@ -24,7 +24,7 @@ We have separated our description of Lucid Air Dream Edition Range into sections
 - [User interface and control](#user-interface-and-control)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
-- [Driver assistance](#driver-assistance)
+- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
 
@@ -175,23 +175,25 @@ The standard headlights use LED technology.
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
 
-## Driver assistance
+## Advanced driver assistance systems
 
 The Lucid Air Dream Edition Range has several standard and optional driver assistance systems for better safety and comfort.
 ### Safety systems
 
 
 
-The Lucid Air Dream Edition Range has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The Lucid Air Dream Edition Range has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-**Side/blind spot assist** is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+The Lucid Air Dream Edition Range has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 ### Driving Automation
 
 
 
 With the ADAS  level 2 system, you get the following driving automation features. 
-- Adaptive Cruise control. 
-- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 ## Transportation capabilities

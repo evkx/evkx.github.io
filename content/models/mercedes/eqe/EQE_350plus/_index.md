@@ -24,7 +24,7 @@ We have separated our description of Mercedes-EQ EQE 350+ into sections. If you 
 - [User interface and control](#user-interface-and-control)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
-- [Driver assistance](#driver-assistance)
+- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
 
@@ -191,27 +191,31 @@ The model has 4 USB-C connections as standard. As an option you can get addition
 ## Lights
 
 You can choose between two types of headlights for the Mercedes-EQ EQE 350+. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
-## Driver assistance
+## Advanced driver assistance systems
 
 The Mercedes-EQ EQE 350+ has several standard and optional driver assistance systems for better safety and comfort.
 ### Safety systems
 
 
 
-The Mercedes-EQ EQE 350+ has a **lane-keeping** assistant as a standard system. This system helps to prevent the car from getting out of its lane. In addition, the system warns the driver if the vehicle leaves the driving lane.
+The Mercedes-EQ EQE 350+ has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-**Side/blind spot assist** is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+The Mercedes-EQ EQE 350+ has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+
+The Mercedes-EQ EQE 350+ has a [**automatic emergency braking*](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 ### Driving Automation
 
-The Mercedes-EQ EQE 350+ offers driving automation on level 1 or 2, depending on the equipment level.
+The Mercedes-EQ EQE 350+ offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
-- Adaptive Cruise control. 
+- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 - Automatic parallel parking. (optional) 
 
 
 With the Driver Assistance Package Plus  level 2 system, you get additional driving automation features to the ones listed above. 
-- Autosteer: keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 ## Transportation capabilities
