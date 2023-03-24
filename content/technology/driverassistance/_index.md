@@ -9,17 +9,18 @@ There are several different types of driver assistance systems available in mode
 
 - [Adaptive Cruise Control](adaptivecruisecontrol) (ACC)
 - [Autosteer](autosteer)
+- [Automated lane change](automatedlanechange)
+- [Automatic emergency braking](automaticemergencybraking) (AEB)
+- [Automatic Emergency Steering](automaticemergencysteering) (AES)
 - [Blind-spot monitoring](blindspotmonitoring) (BSM)
 - [Lane departuere warning](lanedeparturewarning) (LDW)
 - [Lane Keeping Assist](lanekeepingassist) (LKA)
 - [Forward collision warning](forwardcollisionwarning) (FCW)
-- [Automatic emergency braking](automaticemergencybraking) (AEB)
-- [Automatic Emergency Steering](automaticemergencysteering) (AES)
 - [Rear Cross Traffic Alert](rearcrosstrafficalert) (RCTA)
 - [Traffic Sign Recognition](trafficsignrecognition) (TSR)
 - [Driver Drowsiness Detection](driverdrowsinessdetection) (DDD)
 - [Collision Avoidance Systems](collisionavoidancesystems) (CAS)
-- [Automated lane change](automatedlanechange)
+
 - [Electronic Stability Control](electronicstabilitycontrol) (ESC)
 - Anti-lock Braking System (ABS)
 
