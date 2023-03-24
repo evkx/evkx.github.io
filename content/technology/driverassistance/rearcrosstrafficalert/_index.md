@@ -1,5 +1,5 @@
 ---
-title:Rear Cross Traffic Alert
+title: Rear Cross Traffic Alert
 linktitle: Rear Cross Traffic Alert
 description: Rear Cross Traffic Alert (RCTA) is a safety feature in some modern cars that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 weight: 3
