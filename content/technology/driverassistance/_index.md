@@ -1,11 +1,11 @@
 ---
-title: Driver Assistance
+title: Advanced driver-ssistance systems
 linktitle: Driver Assistance
-description: Driver assistance technologies are designed to help drivers operate their vehicles more safely and efficiently. EVKX.net gives you details about the different systems in EVs.
+description: Advanced driver-assistance system (ADAS) technologies are designed to help drivers operate their vehicles more safely and efficiently. EVKX.net gives you details about the different systems in EVs.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
-There are several different types of driver assistance systems available in modern cars, and each one works differently to improve driving performance and safety.
+There are several different types of advanced driver-assistance systems available in modern cars, and each one works differently to improve driving performance and safety.
 
 - [Adaptive Cruise Control](adaptivecruisecontrol) (ACC)
 - [Autosteer](autosteer)
@@ -23,12 +23,6 @@ There are several different types of driver assistance systems available in mode
 - [Electronic Stability Control](electronicstabilitycontrol) (ESC)
 - [Anti-lock Braking System](antilockbrakingsystem) (ABS)
 
-- Rearview Camera
-- Surround View Camera
-- Parking Sensors
-- Adaptive Headlights
-- Automatic High Beams
-- Pedestrian Detection
 - Tire Pressure Monitoring System (TPMS)
 
 

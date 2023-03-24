@@ -1,7 +1,7 @@
 ---
 title: Sensors & Cameras
 linktitle: Sensors & Cameras
-description:  sensors and cameras are very important on modern cars because they play a key role in many of the advanced driver assistance systems. EVKX.net gives you details about the different types used in EVs.
+description:  Sensors and cameras are very important on modern cars because they play a key role in many of the advanced driver assistance systems. EVKX.net gives you details about the different types used in EVs.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
