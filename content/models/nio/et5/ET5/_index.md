@@ -188,12 +188,12 @@ The Nio ET5 has a [**automatic emergency braking**](../../../../technology/drive
 The Nio ET5 offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the NIO Pilot Selected Pack  level 1 system, you get the following driving automation features. 
-- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
-- Automatic parallel parking. (optional) 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
 With the NIO Pilot Complete Pack  level 2 system, you get additional driving automation features to the ones listed above. 
-- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target by itself. 
 
 

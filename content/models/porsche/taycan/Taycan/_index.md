@@ -232,12 +232,12 @@ The Porsche Taycan has a [**automatic emergency braking**](../../../../technolog
 The Porsche Taycan offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
-- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
-- Automatic parallel parking. (optional) 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
 With the Porsche InnoDrive  level 2 system, you get additional driving automation features to the ones listed above. 
-- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 ## Transportation capabilities

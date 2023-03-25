@@ -187,9 +187,9 @@ The Hongqi E-HS9 Premium has a [**automatic emergency braking**](../../../../tec
 
 
 With the   level 2 system, you get the following driving automation features. 
-- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
-- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- Automatic parallel parking.  
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
 
 
 ## Transportation capabilities

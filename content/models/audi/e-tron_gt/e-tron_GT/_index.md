@@ -212,12 +212,12 @@ The Audi e-tron GT has a [**automatic emergency braking**](../../../../technolog
 The Audi e-tron GT offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
-- Automatic parallel parking. (optional) 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
 With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above. 
-- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
-- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 ## Transportation capabilities

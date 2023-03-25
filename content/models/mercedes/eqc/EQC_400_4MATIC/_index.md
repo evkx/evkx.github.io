@@ -153,8 +153,8 @@ The Mercedes-EQ EQC 400 4MATIC has a [**automatic emergency braking**](../../../
 driverassistance.drivingautomation.intro.level1
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
-- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
-- Automatic parallel parking. (optional) 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
 ## Transportation capabilities

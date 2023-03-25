@@ -207,7 +207,7 @@ The Mercedes-EQ EQB 250 has a [**automatic emergency braking**](../../../../tech
 driverassistance.drivingautomation.intro.level1
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
-- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 
 
 ## Transportation capabilities

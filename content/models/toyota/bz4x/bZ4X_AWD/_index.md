@@ -169,7 +169,7 @@ The Toyota bZ4X AWD has a [**automatic emergency braking**](../../../../technolo
 
 
 With the standard system the model offers no driving automation. 
-- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 
 
 ## Transportation capabilities

@@ -194,7 +194,7 @@ The Lexus RZ 450e has a [**automatic emergency braking**](../../../../technology
 
 
 With the standard system the model offers no driving automation. 
-- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 
 
 ## Transportation capabilities

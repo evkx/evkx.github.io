@@ -199,12 +199,12 @@ With the standard system the model offers no driving automation.
 
 
 With the   level 1 system, you get thadditional driving automation features to the ones listed above. 
-- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 
 
 With the Assistantpackage plus  level 2 system, you get additional driving automation features to the ones listed above. 
-- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- Automatic parallel parking. (optional) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
 ## Transportation capabilities

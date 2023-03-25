@@ -230,19 +230,19 @@ The Mercedes-EQ EQS 450 4MATIC SUV has a [**automatic emergency braking**](../..
 
 ### Driving Automation
 
-driverassistance.drivingautomation.intro.multiplelevels123
+The Mercedes-EQ EQS 450 4MATIC SUV offers [driving automation on level 1,2 or 3]](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
-- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
-- Automatic parallel parking. (optional) 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
 With the Driver Assistance Package Plus  level 2 system, you get additional driving automation features to the ones listed above. 
-- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 With the DRIVE PILOT  level 3 system, you get additional driving automation features to the ones listed above.
-- Automatic lane change. 
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
 
 ## Transportation capabilities

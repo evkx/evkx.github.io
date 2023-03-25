@@ -197,14 +197,14 @@ The Tesla Model Y Long Range has a [**automatic emergency braking**](../../../..
 The Tesla Model Y Long Range offers [driving automation on level 2 or 3]](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features. 
-- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
-- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above. 
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target by itself. 
-- Automatic parallel parking.  
-- Automatic lane change. 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
 
 With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above.

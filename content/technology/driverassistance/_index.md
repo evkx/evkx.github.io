@@ -1,5 +1,5 @@
 ---
-title: Advanced driver-ssistance systems
+title: Advanced driver-assistance systems
 linktitle: Driver Assistance
 description: Advanced driver-assistance system (ADAS) technologies are designed to help drivers operate their vehicles more safely and efficiently. EVKX.net gives you details about the different systems in EVs.
 weight: 3
@@ -12,6 +12,7 @@ There are several different types of advanced driver-assistance systems availabl
 - [Automated lane change](automatedlanechange)
 - [Automatic emergency braking](automaticemergencybraking) (AEB)
 - [Automatic Emergency Steering](automaticemergencysteering) (AES)
+- [Automatic parking](automaticparking)
 - [Blind-spot monitoring](blindspotmonitoring) (BSM)
 - [Lane departuere warning](lanedeparturewarning) (LDW)
 - [Lane Keeping Assist](lanekeepingassist) (LKA)
@@ -24,7 +25,6 @@ There are several different types of advanced driver-assistance systems availabl
 - [Anti-lock Braking System](antilockbrakingsystem) (ABS)
 
 - Tire Pressure Monitoring System (TPMS)
-
 
 ### Level of autonomous driving
 

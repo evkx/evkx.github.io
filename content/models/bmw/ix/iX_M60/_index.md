@@ -196,12 +196,12 @@ The BMW iX M60 offers [driving automation on level 1 or 2](../../../../technolog
 
 With the Driving Assistant  level 1 system, you get the following driving automation features. 
 - Cruise control. 
-- Automatic parallel parking. (optional) 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
 With the Driving Assistant Professional  level 2 system, you get additional driving automation features to the ones listed above. 
-- [Adaptive Cruise control](../../../../technology/driverassistance/adaptivecruisecontrol/) 
-- [Autosteer](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 ## Transportation capabilities

@@ -6,6 +6,14 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Autotrader: BMW i7 vs Mercedes EQS: Which Is The KING Of Luxury? 24.03.2023
+
+{{< youtube p5Ko7UxqqB0 >}}
+
+### Autotrader: BMW i7 Review: The Car They HATE to LOVE? 09.03.2023
+
+{{< youtube xR_xYBnuRYk >}}
+
 ### Bjørn Nyland: BMW i7 xDrive60 First Edition interior review 20.01.2023
 
 {{< youtube Gpw6TfeXC6w >}}
