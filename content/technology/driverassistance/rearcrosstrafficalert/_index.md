@@ -6,9 +6,16 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
- The system alerts the driver with visual and/or audible warnings to prevent a collision.
+The system alerts the driver with visual and/or audible warnings to prevent a collision.
 
-Here's how it works:
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/driverassistance/rearcrosstrafficalert/illustration.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/driverassistance/rearcrosstrafficalert/illustration_st.jpg" alt="Rear Cross traffic alert" title="Rear Cross traffic alert">
+    </a>
+    <figcaption><h4>Rear Cross traffic alert can prevents accidents</h4></figcaption>
+</figur>
+
+## How does it work?
 
 When the vehicle is put into reverse, the RCTA system uses sensors such as radar or cameras to detect approaching vehicles from the sides.
 
@@ -18,7 +25,13 @@ If the system detects a vehicle approaching within a certain range, it will aler
 
 The warning can be in the form of an icon or a flashing light on the side mirrors, or a beep or a chime sound.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/driverassistance/rearcrosstrafficalert/illustration2.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/driverassistance/rearcrosstrafficalert/illustration2_st.jpg" alt="Rear Cross Traffic Alert - Mercedes Benz" title="Rear Cross Traffic Alert - Mercedes Benz">
+    </a>
+    <figcaption><h4>Rear Cross Traffic Alert - Mercedes Benz</h4></figcaption>
+</figur>
+
 The driver can then take evasive action to prevent a collision.
 
 RCTA is a useful safety feature that can help drivers avoid accidents, especially in busy parking lots or narrow streets. However, it is important to note that RCTA is not a substitute for safe driving practices and should be used in conjunction with other safe driving techniques, such as checking blind spots and using side mirrors.
-
