@@ -10,15 +10,17 @@ weight: 3
 
 ![Bjørn Nyland](https://media.evkx.net/multimedia/guides/evreviewers/bjornyland.jpg)
 
-Bjørn Nyland, or Teslabjørn, is probably the person on the planet driving EVs the longest each year. He tests many models and has a set of standard tests like the 1000km challenge when he starts with a full battery and drives 1000km to verify how much time this takes. This test includes several charging sessions, and the best cars typically charge fast and have low consumption. 
+Bjørn Nyland is a Norwegian electric vehicle enthusiast and YouTuber who has gained a following for his long-distance tests of electric vehicles. He is known for his thorough and objective reviews of EVs, often testing them in extreme conditions and documenting his experiences in videos that are informative and entertaining.
 
-Other standard tests include range tests, banana box tests, interior reviews, headlight tests, and many more. 
+Bjørn has been interested in electric vehicles since 2011, when he started driving a converted electric Citroën Berlingo. In 2019 he set the [world record](https://www.youtube.com/watch?v=R-2Yj-uVeB0)  for the longest distance driven in an electric vehicle in 24 hours. He has owned and tested numerous other electric vehicles, including the Tesla Model S, Model X, Model 3, and Model Y, as well as the Audi e-tron, Hyundai Kona Electric, and many others.
 
-Bjørn Nyland has been driving electric for over ten years and is considered the original EV reviewer by many. 
+Bjørn's YouTube channel, Bjørn Nyland, has over 295,000 subscribers, and he has become a respected authority on electric vehicles. His videos often feature detailed range tests, in which he drives an EV as far as possible on a single charge, as well as reviews of the latest EVs on the market. He also shares his experiences with charging infrastructure and offers tips for EV owners on how to get the most out of their vehicles.
+
+Overall, Bjørn Nyland is a valuable contributor to the EV community, and his passion for electric vehicles and his dedication to sharing his experiences with others has helped to increase awareness and adoption of EVs around the world.
 
 Bjørn Nyland live stream many of hist tests
 
-Visit his Youtube Channel [here](https://www.youtube.com/@bjornnyland).
+Visit his Youtube Channel and subscribe [here](https://www.youtube.com/@bjornnyland).
 
 ## Kris Rifa
 
