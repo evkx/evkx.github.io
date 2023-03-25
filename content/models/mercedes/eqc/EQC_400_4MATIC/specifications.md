@@ -94,7 +94,7 @@ weight: 30
 |Cross traffic assist|Yes, optional equipment|
 |Speed limiter|Yes, standard equipment|
 |Efficiency assist|Not available|
-|Collision Avoidance|Yes, optional equipment|
+|Automatic Emergency Steering|Yes, optional equipment|
 |Traffic Sign Recognition|Yes, optional equipment|
 |Night Vision|Not available|
 

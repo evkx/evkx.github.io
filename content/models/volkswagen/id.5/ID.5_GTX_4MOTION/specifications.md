@@ -118,7 +118,7 @@ The model offers 2 suspension variants
 |Cross traffic assist|Yes (Front assist), standard equipment|
 |Speed limiter|Yes, standard equipment|
 |Efficiency assist|Yes, standard equipment|
-|Collision Avoidance|Yes (Front assist), standard equipment|
+|Automatic Emergency Steering|Yes (Front assist), standard equipment|
 |Traffic Sign Recognition|Yes, standard equipment|
 |Night Vision|Not available|
 

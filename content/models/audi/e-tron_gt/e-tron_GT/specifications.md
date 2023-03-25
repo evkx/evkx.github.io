@@ -119,7 +119,7 @@ The model offers 2 suspension variants
 |Cross traffic assist|Yes (Audi Cross Traffic Assist), optional equipment (option PCC )|
 |Speed limiter|Yes, standard equipment|
 |Efficiency assist|Yes (Audi Efficency Assist), standard equipment|
-|Collision Avoidance|Yes (Audi Collision Avoidance Assist), standard equipment|
+|Automatic Emergency Steering|Yes (Audi Collision Avoidance Assist), standard equipment|
 |Traffic Sign Recognition|Yes (Audi Traffic Sign Recongition), optional equipment (option PCC )|
 |Night Vision|Yes (Night Vision Assist), optional equipment (option 9R1 )|
 

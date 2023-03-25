@@ -145,7 +145,7 @@ The model offers 2 suspension variants
 |Cross traffic assist|Yes, optional equipment|
 |Speed limiter|Yes, standard equipment|
 |Efficiency assist|Yes, standard equipment|
-|Collision Avoidance|Yes, standard equipment|
+|Automatic Emergency Steering|Yes, standard equipment|
 |Traffic Sign Recognition|Yes, optional equipment|
 |Night Vision|Yes (Night Vision Assist), optional equipment (option 9R1 )|
 
