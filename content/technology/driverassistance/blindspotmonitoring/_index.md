@@ -6,8 +6,6 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 BSM systems typically use radar or cameras mounted on the side mirrors or rear bumper to monitor the area next to and behind the vehicle, which is commonly referred to as the blind spot. The system will detect and alert the driver if another vehicle or object is detected in the blind spot.
 
 When the BSM system detects a vehicle in the blind spot, it will typically provide a visual or audible alert to the driver, such as a warning light on the side mirror or a sound inside the vehicle. The system may also provide additional alerts, such as vibrating the steering wheel or seat.
@@ -15,6 +13,13 @@ When the BSM system detects a vehicle in the blind spot, it will typically provi
 Some BSM systems also provide additional features, such as Rear Cross Traffic Alert (RCTA), which can alert the driver if a vehicle or object is approaching from the side while reversing out of a parking space.
 
 Blind Spot Monitoring can help improve safety on the roads by reducing the likelihood of collisions caused by driver error or misjudgment. However, it's important to note that BSM systems are not a substitute for attentive and safe driving practices, and drivers should always check their mirrors and look over their shoulder to ensure that the lane is clear before changing lanes or merging into traffic.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/driverassistance/blindspotmonitoring/illustration.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/driverassistance/blindspotmonitoring/illustration_st.jpg" alt="Blind Spot Monitoring Mercedes" title="Blind Spot Monitoring Mercedes">
+    </a>
+    <figcaption><h4>Blind Spot Monitoring Mercedes</h4></figcaption>
+</figur>
 
 Different manufacturers may use different names to refer to Blind Spot Monitoring (BSM) depending on the specific branding and marketing strategy of each company. Some of the common names used by manufacturers for their BSM systems include:
 
