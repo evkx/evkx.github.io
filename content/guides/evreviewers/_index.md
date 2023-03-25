@@ -18,7 +18,7 @@ Bjørn's YouTube channel, Bjørn Nyland, has over 295,000 subscribers, and he ha
 
 Overall, Bjørn Nyland is a valuable contributor to the EV community, and his passion for electric vehicles and his dedication to sharing his experiences with others has helped to increase awareness and adoption of EVs around the world.
 
-Bjørn Nyland live stream many of hist tests
+Bjørn Nyland live stream many of his tests
 
 Visit his Youtube Channel and subscribe [here](https://www.youtube.com/@bjornnyland).
 
@@ -48,9 +48,15 @@ Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos)
 
 ![Out of spec Reviews](https://media.evkx.net/multimedia/guides/evreviewers/outofspecreviews.jpg)
 
-Out of spec reviews is a US-based channel that reviews EV. Their tests are detailed and often at the geek level. Have standard tests and are one of the few channels that also review self-driving capabilities. 
+Out of Spec Reviews is a YouTube channel that focuses on reviewing electric vehicles and highlighting their capabilities beyond what is typically advertised by manufacturers. The channel is run by Kyle Conner and his team, who are passionate about EVs and adventure travel.
 
-Visit their channel [here](https://www.youtube.com/@OutofSpecReviews/videos)
+On Out of Spec Reviews, you can expect to find in-depth reviews of a variety of electric vehicles, including the Tesla Model S, Model X, Model 3, and Model Y, as well as the Ford Mustang Mach-E, Volkswagen ID.4, and many others. The reviews often include range tests, performance tests, off-road tests, and long-distance road trips to showcase the vehicles' capabilities.
+
+The channel also covers other EV-related content, such as charging infrastructure, electric motorcycles, and even an electric airplane. Overall, Out of Spec Reviews provides a unique perspective on electric vehicles and is a great resource for anyone interested in the EV space.
+
+Out of Spec Reviews is also the only channel that do a systematic tests of Advance Driver Assist Systems.
+
+Visit their channel and subscribe [here](https://www.youtube.com/@OutofSpecReviews/videos)
 
 ## Other notable mentions
 
