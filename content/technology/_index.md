@@ -11,8 +11,12 @@ The battery in all-electric cars is one of the most important parts of an EV. Th
 
 ## Driver Assistance technology
 
+Advanced driver-assistance system (ADAS) technologies are designed to help drivers operate their vehicles more safely and efficiently. EVKX.net gives you details about the different systems in EVs.
+
 
 ## Suspension
+
+[![Suspension](https://media.evkx.net/multimedia/technology/suspension/mcphersonfront_1_st.jpg)](suspension)
 
 The suspension is one of the most important parts of a EV drivetrain. EVKX.net gives you all details in this article.
 
