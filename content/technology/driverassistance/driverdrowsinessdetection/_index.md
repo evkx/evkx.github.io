@@ -20,4 +20,19 @@ Some systems may also recommend taking a break or suggest a nearby rest stop for
 
 Some advanced DDD systems may even adjust the vehicle's features, such as changing the climate control or adjusting the seat, to help keep the driver alert.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/driverassistance/driverdrowsinessdetection/illustration.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/driverassistance/driverdrowsinessdetection/illustration_st.jpg" alt="Illustration Attention Assist Mercedes-Benz" title="Illustration Attention Assist Mercedes-Benz">
+    </a>
+    <figcaption><h4>Illustration Attention Assist Mercedes-Benz</h4></figcaption>
+</figur>
+
 Driver Drowsiness Detection is an important safety feature that can help prevent accidents caused by fatigue or drowsiness. However, it is not a substitute for getting enough rest or practicing safe driving habits. Drivers should always ensure they are well-rested and alert before getting behind the wheel and take breaks as needed.
+
+## Naming of system
+
+Manufactors gives the system different names
+
+- Attention Assist ([Mercedes Benz](../../../models/mercedes/))
+
+
