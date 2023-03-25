@@ -13,3 +13,10 @@ When the FCW system detects that a collision is imminent, it will provide a warn
 FCW systems use a variety of algorithms to determine the likelihood and severity of a collision, taking into account factors such as the speed of the vehicle, the distance to the vehicle in front, and the rate of closure. Some FCW systems may also incorporate information about the road layout, traffic flow, and weather conditions to further refine their warning algorithms.
 
 Overall, FCW systems are designed to help drivers avoid or reduce the severity of frontal collisions by providing an early warning and additional time to react. However, it's important to note that FCW systems are not a substitute for safe and attentive driving practices, and drivers should always keep a safe following distance and be prepared to brake or steer away from an obstacle if necessary.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/driverassistance/forwardcollisionwarning/illustration.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/driverassistance/forwardcollisionwarning/illustration_st.jpg" alt="Illustration Forward Collision Warning Audi (Pre Sense)" title="Illustration Forward Collision Warning Audi (Pre Sense)">
+    </a>
+    <figcaption><h4>Illustration Forward Collision Warning Audi (Pre Sense)</h4></figcaption>
+</figur>
