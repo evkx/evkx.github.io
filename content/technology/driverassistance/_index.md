@@ -17,6 +17,7 @@ There are several different types of advanced driver-assistance systems availabl
 - [Blind-spot monitoring](blindspotmonitoring) (BSM)
 - [Collision Avoidance Systems](collisionavoidancesystems) (CAS)
 - [Driver Drowsiness Detection](driverdrowsinessdetection) (DDD)
+- [Driver Monitoring System](drivermonitoringsystem) (DMS)
 - [Electronic Stability Control](electronicstabilitycontrol) (ESC)
 - [Exit Warning](exitwarning)
 - [Forward collision warning](forwardcollisionwarning) (FCW)
