@@ -193,7 +193,7 @@ The model has 2 USB-C connections as standard. As an option you can get addition
 You can choose between two types of headlights for the Mercedes-EQ EQE 300. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 ## Advanced driver assistance systems
 
-The Mercedes-EQ EQE 300 has several standard and optional driver assistance systems for better safety and comfort.
+The Mercedes-EQ EQE 300 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
@@ -206,13 +206,13 @@ The Mercedes-EQ EQE 300 has a [**lane keeping assist**](../../../../technology/d
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
-[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
-
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
 The Mercedes-EQ EQE 300 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional driver assist system that is designed to help drivers avoid collisions by automatically steering the vehicle in an emergency situation. 
+
+[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 
 ### Driving Automation
 

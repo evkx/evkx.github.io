@@ -182,7 +182,7 @@ You can choose between two types of headlights for the BMW i7 xDrive60. The stan
 
 ## Advanced driver assistance systems
 
-The BMW i7 xDrive60 has several standard and optional driver assistance systems for better safety and comfort.
+The BMW i7 xDrive60 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 

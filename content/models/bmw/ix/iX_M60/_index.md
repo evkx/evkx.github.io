@@ -179,7 +179,7 @@ You can choose between two types of headlights for the BMW iX M60. The standard 
 
 ## Advanced driver assistance systems
 
-The BMW iX M60 has several standard and optional driver assistance systems for better safety and comfort.
+The BMW iX M60 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 

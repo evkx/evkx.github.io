@@ -195,7 +195,7 @@ You can choose between two types of headlights for the BMW iX1 xDrive30. The sta
 
 ## Advanced driver assistance systems
 
-The BMW iX1 xDrive30 has several standard and optional driver assistance systems for better safety and comfort.
+The BMW iX1 xDrive30 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 

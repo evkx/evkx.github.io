@@ -177,7 +177,7 @@ The standard headlights use LED technology.
 
 ## Advanced driver assistance systems
 
-The Lucid Air Dream Edition Performance has several standard and optional driver assistance systems for better safety and comfort.
+The Lucid Air Dream Edition Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
@@ -190,9 +190,9 @@ The Lucid Air Dream Edition Performance has a [**lane keeping assist**](../../..
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
-[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
-
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard driver assist system that is designed to help drivers avoid collisions by automatically steering the vehicle in an emergency situation. 
+
+[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 
 ### Driving Automation
 

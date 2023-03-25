@@ -173,7 +173,7 @@ The model has 6 USB-C connections as standard.
 You can choose between two types of headlights for the BMW iX xDrive40. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
 ## Advanced driver assistance systems
 
-The BMW iX xDrive40 has several standard and optional driver assistance systems for better safety and comfort.
+The BMW iX xDrive40 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
