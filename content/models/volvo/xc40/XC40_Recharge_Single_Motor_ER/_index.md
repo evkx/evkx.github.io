@@ -136,10 +136,10 @@ Volvo XC40 Recharge Single Motor ER has multiple integrated screens. Behind the 
 
 You can choose between two sound systems on the Volvo XC40 Recharge Single Motor ER. With the High Performance, you get five amplifier channels and eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get five amplifier channels and 13 speakers with a max system output of 600 watts. 
 
-
+The model has 1 USB-C connections as standard. 
 ## Lights
 
-The standard headlights use LED technology.  
+You can choose between two types of headlights for the Volvo XC40 Recharge Single Motor ER. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
 <figur>

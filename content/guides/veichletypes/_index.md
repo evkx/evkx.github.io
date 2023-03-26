@@ -22,7 +22,6 @@ Sedans are four-door cars with a separate trunk compartment. They are designed t
 
 Hatchbacks are small, compact cars with a sloping back design that allows for more headroom and cargo space. They typically have two or four doors, and the rear door opens upward to provide access to the cargo area. Hatchbacks are a popular choice for city driving because of their size and fuel efficiency. They are also relatively affordable and easy to park.
 
-
 ## Sport-Utility Veichle (SUV)
 
 SUVs or Sport Utility Vehicles are a type of vehicle that combines the features of a truck and a car. They are typically larger and heavier than other cars and have a higher ground clearance, making them ideal for off-road driving. SUVs come in various sizes, from compact to full-size, and are known for their spacious interiors and powerful engines. They are also available in four-wheel drive or all-wheel drive, making them suitable for driving in different terrains and weather conditions.
