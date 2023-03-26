@@ -19,15 +19,15 @@ Laser Lights
 
 Laser lights are another type of advanced lighting technology used in some EVs. These lights use lasers to create a beam of light that is much brighter and more focused than traditional headlights. Laser lights offer improved visibility and range compared to LED lights.
 
-Adaptive Headlights
+## Adaptive Headlights
 
 Adaptive headlights are a type of advanced lighting technology that adjusts the direction and intensity of the headlights based on the driving conditions. For example, if the vehicle is turning, the headlights will pivot to illuminate the road ahead. If the vehicle is traveling at high speeds, the headlights will adjust their intensity to provide better visibility.
 
-Ambient Lights
+## Ambient Lights
 
 Ambient lights are used to create a comfortable and luxurious interior environment for the driver and passengers. These lights are usually located in the footwell, door handles, and dashboard. Ambient lights come in a variety of colors and intensities and can be adjusted to suit the driver's preferences.
 
-Rear Lights
+## Rear Lights
 
 Rear lights are an essential component of any vehicle, and EVs are no exception. Rear lights are used to indicate when the vehicle is braking, turning, or reversing. They also make the vehicle more visible to other drivers and pedestrians. Like front lights, rear lights are also becoming more advanced, with LED and matrix lighting technology being used to improve visibility.
 
