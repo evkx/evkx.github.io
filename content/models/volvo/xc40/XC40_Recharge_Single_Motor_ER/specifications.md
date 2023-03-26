@@ -11,6 +11,7 @@ weight: 30
 |----|-----|
 |Peak electrical output in kW|185 Kw|
 |Electrical torque output in Nm|420 Nm|
+|Top speed|160 km/h|
 |0-100km/h (0-62 mph)|7,3 s|
 
 
@@ -48,12 +49,25 @@ weight: 30
 |Width excluding mirrors|1873 mm|
 |Widht including mirrors|2034 mm|
 |Wheelbase|2702 mm|
+|Track width front|1601 mm|
+|Track width rear|1610 mm|
+|Drag coefficient|0,329|
+|Frontal area|2,56|
 |Turning circle|11,4 meters|
 
 ## Suspension
 
 |Spec|Value|
 |----|-----|
+|Adaptive suspension|Not available|
+|Adjustable damping front|Not available|
+|Adjustable damping rear|Not available|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|175|
+|Minimum ground clearance|175|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
 
 ## Driver Assistance
 

@@ -30,7 +30,7 @@ We have separated our description of Volvo XC40 Recharge Single Motor ER into se
 
 ## Performance
 
-The Volvo XC40 Recharge Single Motor ER has a maximum power of 185KW (252hp). The total torque is 420nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. 
+The Volvo XC40 Recharge Single Motor ER has a maximum power of 185KW (252hp). The total torque is 420nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -49,11 +49,11 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Volvo XC40 Recharge Single Motor ER has a rear-wheel drive system supported by one motor on the rear axle. 
 
-The  suspension has a fixed height and damping. 
+The  suspension has a fixed height and damping. The ground clearance with this suspension is 175 mm. 
 
 ### Brakes
 
-
+The rear and front brakes are cast-iron discs. 
 
 Regenerative braking is available through one-pedal driving combined with blended brakes. Adaptive regen or coasting is not available in this model. 
 
@@ -176,7 +176,7 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1295 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 31 liters. Max weight is 2520kg, and with the base weight of 2000 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1295 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 31 liters. Max weight is 2520kg, and with the base weight of 2030 kg, you can max load 490 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
 
