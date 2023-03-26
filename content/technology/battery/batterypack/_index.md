@@ -2,7 +2,7 @@
 title: Battery pack & configuration
 linktitle: Battery pack & configuration
 description: The battery system combines many cells and other control electronics into a full battery to power the EV.
-weight: 3
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 ## Battery Configuration

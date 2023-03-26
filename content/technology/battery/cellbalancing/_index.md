@@ -2,7 +2,7 @@
 title: Cell balancing
 linktitle: Cell balancing 
 description: Cell balancing is important to get the most of the battery. 
-weight: 5
+weight: 8
 ---
 <!-- markdownlint-disable MD033 -->
 Cell balancing is needed when a group of cells has higher or lower SOC than other groups of cells.

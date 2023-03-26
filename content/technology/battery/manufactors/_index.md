@@ -2,7 +2,7 @@
 title: Manufactors
 linktitle: Manufactors
 description: There are several large battery manufacturers for Electric Vehicles (EVs) globally, including
-weight: 8
+weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -2,7 +2,7 @@
 title: Battery Degradation
 linktitle: Degradation
 description: Battery degradation in EVs refers to the gradual loss of a battery's capacity or performance over time, which can affect the driving range of the vehicle. Like other types of batteries, it is caused by a combination of factors.
-weight: 7
+weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
 

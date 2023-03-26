@@ -2,7 +2,7 @@
 title: Battery management
 linktitle: Battery Management System
 description: A Battery Management System (BMS) is a critical component in an Electric Vehicle (EV) that is responsible for managing the performance, health, and safety of the battery.
-weight: 4
+weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
  The BMS is a sophisticated electronic system that monitors and controls the charging and discharging of the battery, as well as its temperature, state of charge (SOC), and state of health (SOH).

@@ -2,7 +2,7 @@
 title: Charging
 linktitle: Charging
 description: Charging the battery is the process to add new energy to the battery.
-weight: 6
+weight: 8
 ---
 <!-- markdownlint-disable MD033 -->
  Charging an EV battery involves the movement of electric charge carriers, such as electrons and ions, between the electrodes of the battery. The battery consists of two electrodes, a cathode and an anode, which are separated by an electrolyte.
