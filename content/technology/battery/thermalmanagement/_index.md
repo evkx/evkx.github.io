@@ -38,3 +38,8 @@ In the picture below you see both cooling circuits and an auxiliary heater that 
 In this clip, you see details about the thermal management system on [Audi e-tron GT](/models/e-tron-gt).
 
 {{< youtube zdCiTtRR4TE >}}
+
+<br />
+
+
+Continue to [cell balancing](../cellbalancing/) or go back to the [article overview](../).

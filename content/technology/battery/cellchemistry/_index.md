@@ -89,3 +89,5 @@ The current collector is a component of a battery cell that facilitates the flow
 In a lithium-ion battery cell, for example, the current collector is typically made of copper or aluminum and is coated with a thin layer of carbon to improve conductivity and prevent corrosion. The current collector is typically placed on the surface of the electrode material, and when the cell is charged or discharged, the current flows from the current collector through the electrode material and back out to the external circuit.
 
 The design and materials used for the current collector can have a significant impact on the performance and durability of the battery cell. For example, a current collector with a high conductivity and low resistance can help to improve the efficiency of the battery cell, while a current collector that is prone to corrosion can reduce the lifespan of the cell.
+
+Continue to [cell housing](../cell/) or go back to the [article overview](../).

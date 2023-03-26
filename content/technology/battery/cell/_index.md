@@ -64,10 +64,6 @@ The blade design of the battery cell allows for a more compact and efficient bat
 
 Blade batteries are primarily produced by the Chinese battery manufacturer, CATL (Contemporary Amperex Technology Co. Ltd). CATL claims that blade batteries have several advantages over traditional battery designs, including higher energy density, faster charging times, and improved safety.
 
-One of the key safety features of blade batteries is the use of a ceramic separator between the anode and cathode layers of the cell. This ceramic separator is more resistant to thermal runaway and provides better protection against internal short circuits, reducing the risk of battery fires and explosions.
-
-Overall, blade batteries represent a new and innovative approach to lithium-ion battery design, with the potential to improve the performance, safety, and efficiency of EV batteries.
-
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/battery/cell/bladebattery.jpg">
         <img src="https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_st.jpg"
@@ -75,3 +71,9 @@ Overall, blade batteries represent a new and innovative approach to lithium-ion 
     </a>
     <figcaption><h4>Blade Battery</h4></figcaption>
 </figure>
+
+One of the key safety features of blade batteries is the use of a ceramic separator between the anode and cathode layers of the cell. This ceramic separator is more resistant to thermal runaway and provides better protection against internal short circuits, reducing the risk of battery fires and explosions.
+
+Overall, blade batteries represent a new and innovative approach to lithium-ion battery design, with the potential to improve the performance, safety, and efficiency of EV batteries.
+
+Continue to [Thermal Management](../thermalmanagement/) or go back to the [article overview](../).

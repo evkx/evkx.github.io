@@ -28,3 +28,5 @@ Overall, the BMS is a critical component in an EV that ensures the optimal perfo
     </a>
     <figcaption><h4>Battery management electronics for Audi e-tron battery pack</h4></figcaption>
 </figure>
+
+Continue to [Thermal Management](../thermalmanagement/) or go back to the [article overview](../).

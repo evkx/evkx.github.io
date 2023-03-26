@@ -17,4 +17,4 @@ Overall, the charging and discharging process of an EV battery involves the move
 
 ![Battery charging](batteryconceptcharging.drawio.svg "Charging process")
 
-{{% children description="true" depth="1" %}}
+Continue to [degredation](../degredation/) or go back to the [article overview](../).

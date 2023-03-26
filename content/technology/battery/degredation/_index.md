@@ -30,10 +30,6 @@ To prevent or minimize the impact of calendar aging on EV batteries, it is recom
     <figcaption><h4>Storage stress</h4></figcaption>
 </figure>
 
-### Scientific articles to read to understand more about Calendar aging
-
-- [Journal of The Electrochemical Society: Calendar Aging of Lithium-Ion Batteries](https://iopscience.iop.org/article/10.1149/2.0411609jes)
-
 ## Cycle aging
 
 Cycle aging is a type of battery degradation that occurs in EV batteries as a result of repeated charging and discharging cycles. Each cycle can cause some wear and tear on the battery, which can lead to a gradual loss of capacity and performance over time.
@@ -58,15 +54,10 @@ The most important factor for cycle charging is the charging speed. High-speed D
 
 When this happens the available ions in the battery are reduced. Higher speed charging increases the number of lithium ions that are not able to reach the anode. This is again caused by limitations on the chemistry process. If you want to learn more about lithium plating you can read [this presentation](https://www.nasa.gov/sites/default/files/atoms/files/1-lithium_plating_azimmerman.pdf) from Nasa.
 
-### Scientific articles to read to understand more about cycle aging
-
-- [Durability Aspects of  Fast Charging,  Mechanical Constraint, and Inhomogeneity  in Lithium-Ion Batteries](https://www.diva-portal.org/smash/get/diva2:1198746/FULLTEXT01.pdf)
-- [How to Prolong Lithium-based Batterie](https://batteryuniversity.com/learn/article/how_to_prolong_lithium_based_batteries)
-- [Nissan Leaf battery degradation data: 24 vs 30 kWh batteries](https://pushevs.com/2018/03/20/nissan-leaf-battery-degradation-data-24-vs-30-kwh-batteries/)
-- [Extending Battery Lifetime by Avoiding High SOC](https://books.google.no/books?id=dG6rDwAAQBAJ&printsec=frontcover&hl=no#v=onepage&q=degradation&f=false)
-
 ## How to preserve battery
 
 - Don't park the car with High SOC over a long time
 - Don't park the car in extreme heat
 - Limit high-speed charging.
+
+Continue to [manufactors](../manufactors/) or go back to the [article overview](../).
