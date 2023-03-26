@@ -59,25 +59,25 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Lane keeping||
+|Lane keeping|Yes, standard equipment|
 |Lane departure warning||
 |Drowsiness Alert||
-|Reversing camera||
-|360 camera||
-|Rear cross traffic alert||
-|Rear parking sensors||
-|Front parking sensors||
-|Side parking sensors||
-|Hill descent assist||
-|Hill start assist||
+|Reversing camera|Yes, standard equipment|
+|360 camera|Yes, optional equipment|
+|Rear cross traffic alert|Yes (BLIS Cross Traffic Alert), standard equipment|
+|Rear parking sensors|Yes, standard equipment|
+|Front parking sensors|Yes, standard equipment|
+|Side parking sensors|Yes, optional equipment|
+|Hill descent assist|Yes, standard equipment|
+|Hill start assist|Yes, standard equipment|
 |AntiLock Braking System||
-|Automatic emergency braking||
-|Brake assist||
-|Traction control||
+|Automatic emergency braking|Yes, standard equipment|
+|Brake assist|Yes, standard equipment|
+|Traction control|Yes, standard equipment|
 |Left turn crash avoidance||
-|Forward Collision Warning||
-|Electronic stability control||
-|Temperature warning||
+|Forward Collision Warning|Yes, standard equipment|
+|Electronic stability control|Yes, standard equipment|
+|Temperature warning|Yes, standard equipment|
 |Cross traffic assist||
 |Speed limiter||
 |Efficiency assist||
@@ -89,6 +89,23 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Android Auto support||
-|Apple Carplay support||
+|Android Auto support|Not available|
+|Apple Carplay support|Yes, standard equipment|
 |In Car navigation||
+|Number of avaiable sound systems|2|
+
+### High Performance
+
+|Spec|Value|
+|----|-----|
+|Number of speakers|8|
+|Channels|5|
+|Total effect|200|
+
+### Harman Kardon Premium Sound
+
+|Spec|Value|
+|----|-----|
+|Number of speakers|13|
+|Channels|5|
+|Total effect|600|

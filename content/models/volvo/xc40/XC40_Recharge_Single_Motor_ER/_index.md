@@ -59,11 +59,20 @@ Regenerative braking is available through one-pedal driving combined with blende
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model. 
+You can choose between 9 different paint colors when ordering this model. 
+Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
 
 
 
-There is only one roof for this model. 
+You can choose between two types of roofs on this model. The optional has a panoramic roof. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/exterior_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER">
+</a>
+<figcaption><h4>Volvo XC40 Recharge Single Motor ER</h4></figcaption></figur>
+
 
 ## Interior
 
@@ -75,6 +84,17 @@ Only one front seat type is available in the Volvo XC40 Recharge Single Motor ER
 
 The following functionalities are available on the **** seat. 
 
+- heating 
+- electric lumbar support 
+- adjustable thigh support 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/frontseats_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER">
+</a>
+<figcaption><h4>Volvo XC40 Recharge Single Motor ER</h4></figcaption></figur>
+
 
 ### Second-row seat
 
@@ -82,20 +102,27 @@ The following functionalities are available on the **** seat.
 
 The following functionalities are available on the **** seat. 
 
+- heating 
 
 There is only one type of steering wheel available. 
 
 ## Climate system
 
-There is one climate system available. 
+There is one climate system available. The  climate system supports different temperatures in two zone for the driver and passenger. 
 
 ## Comfort
 
 Volvo XC40 Recharge Single Motor ER has several features to make your life as a driver or passenger more comfortable. 
 
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
+
+You have wireless charging for your phone.  
+
 ## User interface and control
 
-
+Volvo XC40 Recharge Single Motor ER has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The touch screen at the top of the center console is 9 inches large. 
 
 
 <figur>
@@ -107,11 +134,19 @@ Volvo XC40 Recharge Single Motor ER has several features to make your life as a 
 
 ## Infotainment
 
-One type of sound system is available for the Volvo XC40 Recharge Single Motor ER. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+You can choose between two sound systems on the Volvo XC40 Recharge Single Motor ER. With the High Performance, you get five amplifier channels and eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get five amplifier channels and 13 speakers with a max system output of 600 watts. 
 
 
 ## Lights
 
+The standard headlights use LED technology.  
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/headlights_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER">
+</a>
+<figcaption><h4>Volvo XC40 Recharge Single Motor ER</h4></figcaption></figur>
 
 ## Advanced driver assistance systems
 
@@ -120,11 +155,23 @@ The Volvo XC40 Recharge Single Motor ER has several standard and optional [advan
 
 
 
+The Volvo XC40 Recharge Single Motor ER has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+
+The Volvo XC40 Recharge Single Motor ER has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
+
+The Volvo XC40 Recharge Single Motor ER has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+
 ### Driving Automation
 
 
 
-With the standard system the model offers no driving automation. 
+With the Pilot Assist  level 2 system, you get the following driving automation features. 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 ## Transportation capabilities
@@ -132,3 +179,10 @@ With the standard system the model offers no driving automation.
 The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1295 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 31 liters. Max weight is 2520kg, and with the base weight of 2000 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/trunk_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER">
+</a>
+<figcaption><h4>Volvo XC40 Recharge Single Motor ER</h4></figcaption></figur>
