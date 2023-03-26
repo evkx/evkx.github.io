@@ -1,30 +1,64 @@
 ---
 title: Battery system
 linktitle: Battery system
-description: The battery system is the combination of many cells and other control electronics to a complete battery to power the EV.
+description: The battery system combines many cells and other control electronics into a full battery to power the EV.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
-Today this is most typically achieved with the Cell2Module technology. Where cells are grouped into modules that again are grouped into a battery system.
+## Battery Configuration
 
-In the future, we will see cars with Cell2Pack technologies where cells are put directly into packs and even Cell2Car technology where cells are put directly into the car. More about that later
-
-Typical a battery pack consists of modules that consist of several cells.
-
-## Battery configuration
-
-In an electric vehicle (EV), the battery configuration refers to the arrangement of individual battery cells within the battery pack. The configuration can affect the voltage, capacity, power output, and other aspects of the battery pack and the overall vehicle performance.
+In an electric vehicle (EV), the battery configuration refers to the arrangement of individual battery cells within the battery pack. The battery configuration can affect the voltage, capacity, power output, and other aspects of the battery pack and the overall vehicle performance.
 
 The most common configuration for EV batteries is a series-parallel hybrid configuration. In this configuration, multiple cells are connected in series to increase the voltage of the battery pack, and multiple groups of series-connected cells are then connected in parallel to increase the overall capacity of the battery pack.
 
-The series connection of cells increases the voltage output of the battery pack, which is important for providing the necessary power output to drive the vehicle. The parallel connection of cell groups increases the capacity of the battery pack, which is important for providing the necessary energy storage to drive the vehicle for a desired range.
+The series connection of cells increases the voltage output of the battery pack, which is important for providing the necessary power output to drive the vehicle.  The parallel connection of cell groups increases the battery pack's capacity, which is essential for storing the energy required to drive the car to a desired range.
 
-The specific battery configuration used in an EV depends on a variety of factors, such as the desired range, power output, and overall vehicle weight. Configurations with higher voltage output and greater capacity can provide longer ranges and higher power output, but can also be more expensive and heavier.
+The specific battery configuration used in an EV depends on a variety of factors, such as the desired range, power output, and overall vehicle weight.
 
-Additionally, the battery configuration can affect the charging time of the battery pack. The charging time is influenced by the capacity of the battery pack and the charging rate, which can be limited by the battery configuration. For example, a larger battery pack with a higher voltage may require a more powerful charging infrastructure to achieve faster charging times.
+### 400 or 800 volts?
 
-Overall, the battery configuration in an EV is an important design consideration that can have a significant impact on the performance, range, and charging characteristics of the vehicle.
+Manufacturers typically configure the packs to be around 400 volts or 800 volts.
 
+A higher voltage battery configuration, such as an 800-volt system, can offer some advantages over a lower voltage 400-volt system but also has potential drawbacks. Here are some of the pros and cons of each configuration:
+
+#### Pros 400 Volt package
+
+**More mature technology:** 400-volt battery systems have been around longer and are more widely used in electric vehicles, which means they are more proven and reliable.
+
+**Lower cost:** Because they are a more established technology, 400-volt battery systems tend to be less expensive to produce than higher voltage systems.
+
+**Widely available charging infrastructure:** There are many public charging stations that support 400-volt charging, making it easier to find places to charge your EV.
+
+**More available cell configurations**  400 Volt packs can be configured in more ways giving the manufactor more cell options.
+
+#### Cons 400 Volt package
+
+Slower charging: A 400-volt battery system typically requires longer charging times than an 800-volt system, which can be a disadvantage if you need to charge your vehicle quickly.
+
+**Limited power output:** 400-volt battery systems may not be able to deliver the same level of power output as an 800-volt system, which could limit the acceleration and performance of the EV.
+
+**Heavier:** A 400-volt battery system may require thicker cables to support same charging speed. 
+
+#### Pros 800 Volt package
+
+Faster charging: An 800-volt battery system can support faster charging times than a 400-volt system, which means you can charge your EV more quickly.
+
+**Higher power output:** An 800-volt battery system can deliver more power output, which can provide better acceleration and performance, but in reality the most powersfull evs are 400 Volt. So this is not a real benefit.
+
+**Lighter weight:** An 800-volt battery system may require thinner cables to support high speed charging.
+
+#### Cons 800 Volt package:
+
+**Limited charging infrastructure**: There are currently fewer public charging stations that support 800-volt charging, which means it may be harder to find places to charge your EV.
+
+Here are some configuration examples
+
+| Model | Gross Capacity | Configuration | Nominal Voltage |
+|------|------|-------|-----|
+| Audi Q8 e-tron | 116kWh | 108s4p | 396 Volt|
+| Audi e-tron GT | 93.7kWh | 198s2p | 725 Volt |
+| Kia EV6 GT | 77.4 | 192s2p | 697 Volt |
+| [Tesla Model Y Long Range](../../../models/tesla/model_y/model_y_long_range/) | 78.1kWh | 96s46p | 357 Volt |
 
 ## Battery pack designs
 
@@ -76,3 +110,15 @@ In a traditional battery pack, the battery cells are usually arranged in a speci
 With a structural battery pack, the battery cells are integrated directly into the vehicle or device's structure, such as the chassis or body panels. The battery cells themselves serve as both a source of power and as a structural component, providing support and strength to the overall design. This approach can reduce the overall weight of the device and improve its efficiency by eliminating the need for separate support structures and protective casings.
 
 Structural battery packs are still a relatively new concept, but they are being explored and developed by a number of companies and research institutions. They have the potential to revolutionize the design of electric vehicles and other devices by reducing weight and complexity, improving performance, and making it easier to integrate battery technology into a wide range of applications.
+
+Currently it is only Tesla Model Y that have structural packs. According to Tesla, this solution presents many advantages, such as a great reduction in the number of parts used in both the battery pack and the car, which allows the pack manufacturing line to be less than half the size of previous factories.
+
+More importantly, the company said the new cells together with the structural pack are expected to increase the Model Y's range by 16 percent and decrease the overall weight of the car by 10 percent, resulting in improved acceleration and handling.
+
+The below video show a detailed analysis of the pack by Munro & Associates.
+
+{{< youtube FXpfU6I_T3w >}}
+
+<br /> <br />
+
+Continue reading about [Battery Mangement System](../batterymanagment/) or go back to [article overview](../). 
