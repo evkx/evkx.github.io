@@ -29,4 +29,4 @@ create an external circuit through an electric motor or another electronic compo
 
 The current collectors work as an electrical conductor between the electrode and external circuits.
 
-{{% children description="true" depth="1" %}}
+Continue to [Cell chemistry and parts](../cellchemistry/) or go back to the [article overview](../).

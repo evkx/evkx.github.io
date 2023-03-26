@@ -1,13 +1,12 @@
 ---
-title: Cell & chemistry
-linktitle: Cell & Chemistry
+title: Cell chemistry & parts
+linktitle: Cell Chemistry & parts
 description: The battery cells are the most important part of the battery system and the most important factor both for cost and performance on EV's.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
-## Cell parts
 
-### Anode
+## Anode
 
 The anode is one of the two electrodes in an electric vehicle (EV) battery, the other being the cathode. The anode is the electrode where oxidation occurs during the discharge cycle of the battery, releasing electrons into the external circuit to power the device or vehicle. During the charging cycle, the anode is where reduction occurs, absorbing electrons from the external circuit and storing energy in the battery.
 
@@ -17,13 +16,13 @@ The performance of the anode is a critical factor in the overall performance and
 
 In summary, the anode is the electrode where oxidation occurs during the discharge cycle of an EV battery, releasing electrons into the external circuit to power the device. It is typically made of graphite and plays a critical role in the performance and safety of the battery.
 
-### Cathode
+## Cathode
 
 The cathode is the electrode where reduction occurs during the discharge cycle of the battery, accepting electrons from the external circuit to power the device or vehicle. During the charging cycle, the cathode is where oxidation occurs, releasing electrons into the external circuit and storing energy in the battery.
 
 In a lithium-ion battery, the cathode is typically made of a metal oxide, such as lithium cobalt oxide (LCO), lithium nickel manganese cobalt oxide (NMC), or lithium iron phosphate (LFP). The choice of cathode material can have a significant impact on the performance, safety, and cost of the battery.
 
-#### Lithium nickel manganese cobalt oxides (NMC)
+### Lithium nickel manganese cobalt oxides (NMC)
 
 NMC cathodes are a popular choice for EV batteries due to their high energy density and good thermal stability. They offer a balance between energy density and power density, making them suitable for a wide range of EV applications.
 
@@ -37,7 +36,7 @@ In addition to the metal ratios, the particle size and morphology of the cathode
 
 Overall, the choice of NMC cathode composition and morphology depends on the specific requirements of the EV battery, including energy density, power density, thermal stability, durability, and cost. Battery manufacturers are constantly researching and developing new NMC cathode materials to improve the performance and efficiency of EV batteries.
 
-#### Lithium nickel cobalt aluminum oxides (NCA)
+### Lithium nickel cobalt aluminum oxides (NCA)
 
 NCA cathodes have a high energy density and are used in EV batteries, particularly in Tesla's vehicles. NCA cathodes offer high energy density and good performance, making them a popular choice for many EV manufacturers.
 
@@ -49,7 +48,7 @@ However, NCA cathodes can be sensitive to high temperatures, which can cause the
 
 Overall, NCA cathodes offer a good balance between energy density and power density, making them a popular choice for EVs that require high performance and long driving range. However, their sensitivity to high temperatures means they require careful thermal management to maintain their performance and lifespan.
 
-#### Lithium iron phosphate battery (LFP)
+### Lithium iron phosphate battery (LFP)
 
 Lithium Iron Phosphate (LFP) is a cathode material commonly used in electric vehicle (EV) batteries due to its high thermal stability and long cycle life. LFP cathodes have a lower energy density compared to some other cathode types, but they offer good safety, durability, and cost-effectiveness.
 
@@ -63,7 +62,7 @@ However, LFP cathodes have a lower energy density compared to some other cathode
 
 Overall, LFP cathodes offer a balance between safety, durability, and cost-effectiveness, and are a good choice for certain EV applications that require these characteristics.
 
-### Seperator
+## Seperator
 
 A separator is an essential component of an electric vehicle (EV) battery that is placed between the cathode and anode to prevent them from touching and causing a short circuit. The separator is typically a thin, porous membrane made of a polymer material that allows the flow of lithium ions between the cathode and anode, while preventing the flow of electrons.
 
@@ -75,7 +74,7 @@ There are several types of separator materials used in EV batteries, including p
 
 In summary, the separator is a critical component of an EV battery that helps prevent short circuits and maintains the uniformity of the battery's internal structure, while allowing the flow of lithium ions necessary for the battery to function.
 
-### Electrolyte
+## Electrolyte
 
 Liquid electrolytes in lithium-ion batteries consist of lithium salts in an organic solvent, such as ethylene carbonate, dimethyl carbonate, and diethyl carbonate.
 
@@ -83,76 +82,10 @@ A liquid electrolyte acts as a conductive pathway for the movement of cations pa
 
 Electrolytes based on solid materials are areas that many works on. These are called [solid-state batteries](https://en.wikipedia.org/wiki/Solid-state_battery). Currently, there are no concrete plans for any mass production EV with Solid-state batteries.
 
-### Current collector
+## Current collector
 
 The current collector is a component of a battery cell that facilitates the flow of electrical current between the electrode and the external circuit. In most battery cells, the current collector is a thin metal foil that is placed on either side of the electrode material.
 
 In a lithium-ion battery cell, for example, the current collector is typically made of copper or aluminum and is coated with a thin layer of carbon to improve conductivity and prevent corrosion. The current collector is typically placed on the surface of the electrode material, and when the cell is charged or discharged, the current flows from the current collector through the electrode material and back out to the external circuit.
 
 The design and materials used for the current collector can have a significant impact on the performance and durability of the battery cell. For example, a current collector with a high conductivity and low resistance can help to improve the efficiency of the battery cell, while a current collector that is prone to corrosion can reduce the lifespan of the cell.
-
-## Cell Housing
-
-There are several types of cell housing that exist for battery cells used in electric vehicles. 
-
-### Cylinder housing
-
-A cylindrical cell consists of sheet-like anodes, separators, and cathodes that are sandwiched, rolled up, and packed into a cylinder-shaped can. This is the form factor that has been used for years in the market.
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680s.jpg"
-        alt="Tesla 4680 cylinder battery" title="Tesla 4680 cylinder battery">
-    </a>
-    <figcaption><h4>Tesla 4680 cylinder battery</h4></figcaption>
-</figure>
-
-One advantage is mechanical stability. The round shape of the battery distributes the internal pressure from side reactions over the cell circumference almost evenly. This allows the cell to tolerate a higher level of internal pressure without deformation.
-
-Tesla is one of the few EV manufacturers that uses this.
-
-### Prismatic housing
-
-Li-ion cells with prismatic housing consist of large sheets of anodes, cathodes, and separators sandwiched, rolled up, and pressed to fit into a hard-plastic or metallic housing in cubic form. The electrodes can also be assembled by layer stacking rather than jelly rolling.
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatic.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatics.jpg"
-        alt="Samsung prismatic cells" title="Samsung prismatic cells">
-    </a>
-    <figcaption><h4>Samsung prismatic cells</h4></figcaption>
-</figure>
-
-Parts of the electrode and separator sheets of a prismatic cell that are close to the container corners can experience more stress. This can damage electrode coating and lead to the non-uniform distribution of the electrolyte.
-
-When combining prismatic cells into packs, the cell box-like shape enables optimal use of the available space. However, this optimal space is achieved at the cost of more challenging thermal management. This is because there are no space cavities between the cells as there are in a pack of cylindrical cells.
-
-### Pouch housing
-
-Pouch cells do not have a rigid enclosure like prismatic and cylinder cells and use a sealed flexible foil as the cell container.
-
-This makes it the most efficient use of space and achieves a 90 to 95 percent packaging efficiency, the highest among battery packs, advantages of flexible size, and safety performance. Eliminating the metal enclosure reduces weight but the cell needs some alternative support in the battery compartment.
-
-Swelling Pouch Cell Battery as a Result of Gas Generation During Charge and Discharge
-
-The electrode and separator layers of a pouch cell are stacked rather than jelly-rolled. With pouch cells, the designer should allocate enough space for the cell swelling. A swelling of as much as 8% to 10% can occur after 500 cycles.
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21s.jpg"
-        alt="LG Chem pouch cell" title="LG Chem pouch cell">
-    </a>
-    <figcaption><h4>LG Chem pouch cell</h4></figcaption>
-</figure>
-
-### Blade 
-
-Blade batteries are a type of lithium-ion battery that use a unique "blade" design for their battery cells. Unlike traditional cylindrical or prismatic battery cells, blade batteries are thin and flat, resembling the shape of a blade or a wafer.
-
-The blade design of the battery cell allows for a more compact and efficient battery pack, as the cells can be tightly packed together to reduce the size and weight of the battery pack. This also provides better heat dissipation, as the flat shape of the cells allows for more surface area to come in contact with the cooling system.
-
-Blade batteries are primarily produced by the Chinese battery manufacturer, CATL (Contemporary Amperex Technology Co. Ltd). CATL claims that blade batteries have several advantages over traditional battery designs, including higher energy density, faster charging times, and improved safety.
-
-One of the key safety features of blade batteries is the use of a ceramic separator between the anode and cathode layers of the cell. This ceramic separator is more resistant to thermal runaway and provides better protection against internal short circuits, reducing the risk of battery fires and explosions.
-
-Overall, blade batteries represent a new and innovative approach to lithium-ion battery design, with the potential to improve the performance, safety, and efficiency of EV batteries.
