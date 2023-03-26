@@ -44,7 +44,7 @@ By the end of this article, you will have a better understanding of the importan
 
 ## Sensors & Cameras
 
-[![Suspension](https://media.evkx.net/multimedia/technology/sensorsandcameras/illustrationsensors.jpg)](sensorsandcameras)
+[![Suspension](https://media.evkx.net/multimedia/technology/sensorsandcameras/illustrationsensors_st.jpg)](sensorsandcameras)
 
 Modern electric vehicles (EVs) rely on advanced sensors and cameras to provide a range of safety and convenience features, as well as enabling semi-autonomous and autonomous driving capabilities.
 
@@ -58,13 +58,15 @@ By the end of this article, you will have a better understanding of the importan
 
 ## Electric motors
 
-[![Suspension](https://media.evkx.net/multimedia/technology/motors/asmmotorq8etron.jpg)](motors)
+[![Suspension](https://media.evkx.net/multimedia/technology/motors/asmmotorq8etron_st.jpg)](motors)
 
 Electric motors are the heart of any electric vehicle (EV), converting electrical energy into mechanical energy to propel the vehicle. As the demand for EVs continues to grow, there is an increasing need to understand the different types of electric motors used in these vehicles and their advantages and limitations. In this article, we will explore the various types of electric motors used in EVs, how they work, and the pros and cons of each type.
 
 [Read our electric motors technology article](motors)
 
-## Airbags & other security devices
+## Airbags
+
+[![Suspension](https://media.evkx.net/multimedia/technology/safety/illustration_st.jpg)](safety)
 
 Airbags are a critical safety feature in modern vehicles, including electric vehicles (EVs). These devices are designed to protect occupants in the event of a collision, reducing the risk of serious injury or death. With the growing popularity of EVs, it's essential to understand the different types of airbags available, their locations, and how they work. In this extensive article, we will explore the different types of airbags used in EVs, their placement within the vehicle, and the benefits of their locations. We will also examine the role of airbags in improving overall vehicle safety and reducing the severity of injuries in the event of an accident.
 
@@ -72,10 +74,15 @@ Airbags are a critical safety feature in modern vehicles, including electric veh
 
 ## Seats
 
+[![Suspension](https://media.evkx.net/multimedia/technology/seats/mercedeseqssuvseats_st.jpg)](seats)
+
+
 Electric vehicles (EVs) have revolutionized the way we think about transportation, and with the advancement of technology, we are seeing a range of exciting new features being added to these vehicles. One area where we see rapid innovation is in seat technology, with EVs boasting a range of features that go beyond traditional power adjustment. In this article, we will explore the various seat technologies used in EVs, including electric adjustment, memory seats, side bolster adjustment, massage functions, ventilation, and other advanced features. We will delve into how these technologies work and the benefits they provide, giving you a comprehensive understanding of the seat features available in modern EVs.
 
 
 ## User Interface
+
+[![Suspension](https://media.evkx.net/multimedia/technology/seats/mercedeseqssuvseats_st.jpg)](seats)
 
 As electric vehicles (EVs) continue to gain popularity, automakers are constantly innovating to provide drivers with the best possible experience. A critical part of this experience is the user interface, which encompasses the various technologies and features that drivers use to control and interact with their vehicles. In this article, we will explore the user interface technologies used in modern EVs, including screens, head-up displays, voice control, physical buttons, and gesture control. Understanding these features and how they work together can help drivers make informed decisions when choosing an EV and enhance their driving experience.
 
