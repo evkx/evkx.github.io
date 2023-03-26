@@ -76,14 +76,24 @@ Airbags are a critical safety feature in modern vehicles, including electric veh
 
 [![Suspension](https://media.evkx.net/multimedia/technology/seats/mercedeseqssuvseats_st.jpg)](seats)
 
+Electric vehicles (EVs) have revolutionized the way we think about transportation, and with the advancement of technology, we are seeing a range of exciting new features being added to these vehicles. 
 
-Electric vehicles (EVs) have revolutionized the way we think about transportation, and with the advancement of technology, we are seeing a range of exciting new features being added to these vehicles. One area where we see rapid innovation is in seat technology, with EVs boasting a range of features that go beyond traditional power adjustment. In this article, we will explore the various seat technologies used in EVs, including electric adjustment, memory seats, side bolster adjustment, massage functions, ventilation, and other advanced features. We will delve into how these technologies work and the benefits they provide, giving you a comprehensive understanding of the seat features available in modern EVs.
+One area where we see rapid innovation is in seat technology, with EVs boasting a range of features that go beyond traditional power adjustment. In this article, we will explore the various seat technologies used in EVs, including electric adjustment, memory seats, side bolster adjustment, massage functions, ventilation, and other advanced features.
 
+We will delve into how these technologies work and the benefits they provide, giving you a comprehensive understanding of the seat features available in modern EVs.
 
 ## User Interface
 
-[![Suspension](https://media.evkx.net/multimedia/technology/seats/mercedeseqssuvseats_st.jpg)](seats)
+[![Suspension](https://media.evkx.net/multimedia/technology/userinterface/eqsui_st.jpg)](userinterface)
 
-As electric vehicles (EVs) continue to gain popularity, automakers are constantly innovating to provide drivers with the best possible experience. A critical part of this experience is the user interface, which encompasses the various technologies and features that drivers use to control and interact with their vehicles. In this article, we will explore the user interface technologies used in modern EVs, including screens, head-up displays, voice control, physical buttons, and gesture control. Understanding these features and how they work together can help drivers make informed decisions when choosing an EV and enhance their driving experience.
+As electric vehicles (EVs) continue to gain popularity, automakers are constantly innovating to provide drivers with the best possible experience. A critical part of this experience is the user interface, which encompasses the various technologies and features that drivers use to control and interact with their vehicles.
+
+In this article, we will explore the user interface technologies used in modern EVs, including screens, head-up displays, voice control, physical buttons, and gesture control.
+
+Understanding these features and how they work together can help drivers make informed decisions when choosing an EV and enhance their driving experience.
 
 [Read our user interface technology article](userinterface)
+
+## Lights
+
+Electric vehicles (EVs) are revolutionizing the way we think about transportation, and with this revolution comes a whole new world of lighting technology. Lights are an essential component of any vehicle, but in the case of EVs, they serve a dual purpose: to improve visibility for the driver and make the vehicle more visible to other drivers and pedestrians. In this article, we will explore the various types of lights used in EVs, from traditional LED lights to advanced technologies like laser lights and adaptive headlights. We will also delve into the importance of ambient lights, rear lights, and other relevant lights in EVs. Join us on a journey through the fascinating world of EV lighting technology.
