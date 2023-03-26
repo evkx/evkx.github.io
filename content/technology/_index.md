@@ -96,4 +96,20 @@ Understanding these features and how they work together can help drivers make in
 
 ## Lights
 
+[![Lights](https://media.evkx.net/multimedia/technology/lights/digitalmatrixetron_st.jpg)](lights)
+
 Electric vehicles (EVs) are revolutionizing the way we think about transportation, and with this revolution comes a whole new world of lighting technology. Lights are an essential component of any vehicle, but in the case of EVs, they serve a dual purpose: to improve visibility for the driver and make the vehicle more visible to other drivers and pedestrians. In this article, we will explore the various types of lights used in EVs, from traditional LED lights to advanced technologies like laser lights and adaptive headlights. We will also delve into the importance of ambient lights, rear lights, and other relevant lights in EVs. Join us on a journey through the fascinating world of EV lighting technology.
+
+## Regenerative braking
+
+Electric vehicles (EVs) are becoming increasingly popular due to their eco-friendly nature and low operating costs. One of the unique features of EVs is regenerative braking, a system that converts the kinetic energy of the vehicle's motion into electrical energy to recharge the battery. Regenerative braking not only improves the vehicle's efficiency and range but also reduces wear and tear on the brakes. In this article, we will explore the science behind regenerative braking and how it works in EVs. We will also examine the benefits and limitations of this braking system and its impact on the overall performance of EVs. Join us as we delve into the fascinating world of regenerative braking in electric vehicles.
+
+[Read our regenerative braking technology article](brakes)
+
+## Brakes
+
+[![Lights](https://media.evkx.net/multimedia/technology/brakes/ceramicetrongt_st.jpg)](brakes)
+
+As electric vehicles (EVs) continue to grow in popularity, the demand for high-performance braking systems has increased. Brakes are a crucial safety feature in any vehicle, but with the unique characteristics of EVs, such as regenerative braking, specialized brake systems are necessary. In this article, we will explore the different types of brakes used on EVs, including ceramic brakes, steel brakes, drum brakes, and more. We will delve into the advantages and disadvantages of each type, as well as their specific applications in EVs. Join us as we take a deep dive into the world of EV braking systems.
+
+[Read our brake technology article](brakes)
