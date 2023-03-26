@@ -5,7 +5,15 @@ description: Charging the battery is the process to add new energy to the batter
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
-During charging, an external electrical power source (the charging circuit) applies an over-voltage, forcing a charging current to flow within the battery from the positive to the negative electrode, i.e. in the reverse direction of a discharge current under normal conditions. The lithium ions then migrate from the Cathode to the Anode, where they become embedded in the porous electrode material in a process known as intercalation.
+ Charging an EV battery involves the movement of electric charge carriers, such as electrons and ions, between the electrodes of the battery. The battery consists of two electrodes, a cathode and an anode, which are separated by an electrolyte.
+
+During the charging process, electrons flow from the charging source (e.g., charging station) to the cathode, where they are stored in the cathode material. At the same time, positive ions in the electrolyte flow from the cathode to the anode through the separator.
+
+When the battery is fully charged, the cathode material is at its maximum capacity to store electrons, and the anode is fully depleted of positive ions. The battery is in a stable state with a high potential difference between the cathode and the anode, which is what provides the electric energy stored in the battery.
+
+The charging process is reversible, and during discharge, the electrons flow back from the cathode to the anode through an external circuit, creating a flow of electric current that can power an electric motor.
+
+Overall, the charging and discharging process of an EV battery involves the movement of electrons and ions between the electrodes, which creates an electric potential difference that can be used to power an electric vehicle.
 
 ![Battery charging](batteryconceptcharging.drawio.svg "Charging process")
 
