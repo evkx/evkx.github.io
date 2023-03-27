@@ -7,25 +7,43 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
  By converting the vehicle's kinetic energy into electrical energy and storing it in the battery, regenerative braking can extend the vehicle's range and improve overall efficiency. In this article, we will explore the different types of regenerative braking strategies used in EVs, their benefits, and limitations.
 
-What is Regenerative Braking?
+
+
+## How does it work?
 
 Regenerative braking is a process where the kinetic energy of a moving vehicle is captured and stored as electrical energy in the vehicle's battery during braking or deceleration. The system works by reversing the electric motor's direction, turning it into a generator that produces electrical energy as the vehicle slows down.
 
-Types of Regenerative Braking Strategies
 
-There are several types of regenerative braking strategies used in EVs, including:
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/regen/illustration1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/regen/illustration1_st.jpg" alt="Illustration Regen Audi Q8 e-tron" title="Illustration Regen Audi Q8 e-tron">
+    </a>
+    <figcaption><h4>Illustration Regen Audi Q8 e-tron</h4></figcaption>
+</figur>
 
-Fixed Regenerative Braking: In this strategy, the regenerative braking force is set to a fixed level and cannot be adjusted by the driver. The amount of regenerative braking force is typically based on the vehicle's speed and can be programmed into the vehicle's software.
+## Types of Regenerative Braking Strategies
 
-Adaptive Regenerative Braking: This strategy adjusts the regenerative braking force based on the vehicle's speed, acceleration, and other factors. The system uses sensors and algorithms to determine the appropriate level of regenerative braking force and adjusts it in real-time.
+### One-Pedal Driving
 
-One-Pedal Driving: One-pedal driving is a unique regenerative braking strategy that allows the driver to control the vehicle's speed and braking with just one pedal. When the driver lifts their foot off the accelerator pedal, the vehicle begins to decelerate, and the regenerative braking system engages, capturing the vehicle's kinetic energy and storing it in the battery.
+One-pedal driving is a unique regenerative braking strategy that allows the driver to control the vehicle's speed and braking with just one pedal. When the driver lifts their foot off the accelerator pedal, the vehicle begins to decelerate, and the regenerative braking system engages, capturing the vehicle's kinetic energy and storing it in the battery.
 
-Max Regenerative Braking Power
+### Manual regen using brake pedal
 
-The maximum amount of regenerative braking power that an EV can generate depends on several factors, including the vehicle's weight, speed, and the capacity of its battery. Typically, EVs can generate between 10% to 30% of their total braking energy through regenerative braking.
+On evs with blended brakes you can regenerate energy with pressing the brake pedal. If not pressed hard you will not use the friction brake. 
 
-Benefits of Regenerative Braking
+### Manual regen using steering wheel paddles
+
+Som evs have paddles on the steering wheel to active regen on different levels. 
+
+### Automatic regen (adaptive)
+
+Adaptiv regen is when the car regenerate when needed. 
+
+## Max Regenerative Braking Power
+
+Typical the max regenertive power will be between 100-300kW.
+
+## Benefits of Regenerative Braking
 
 There are several benefits to regenerative braking, including:
 
