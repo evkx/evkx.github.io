@@ -151,6 +151,8 @@ You can choose between two types of headlights for the Volvo XC40 Recharge Singl
 ## Advanced driver assistance systems
 
 The Volvo XC40 Recharge Single Motor ER has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
+[**Efficiency assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
 

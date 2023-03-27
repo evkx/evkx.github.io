@@ -94,7 +94,7 @@ weight: 30
 |Temperature warning|Yes, standard equipment|
 |Cross traffic assist||
 |Speed limiter||
-|Efficiency assist||
+|Efficiency assist|Yes, standard equipment|
 |Automatic Emergency Steering||
 |Traffic Sign Recognition||
 |Night Vision||
