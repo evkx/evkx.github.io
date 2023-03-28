@@ -163,6 +163,6 @@ With the Fisker Intelligent Pilot  level 2 system, you get the following driving
 
 ## Transportation capabilities
 
+On the roof, you can load up to 75kg. 
 
-
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 1815kg. 

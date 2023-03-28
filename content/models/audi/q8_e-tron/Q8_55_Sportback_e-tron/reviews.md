@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Audi Q8 e-tron 55 Sportback extensive charging test 28.03.2023
+
+{{< youtube kb1yf7Xtfeo >}}
+
 ### Bjørn Nyland: Audi Q8 e-tron 55 Sportback interior review 27.03.2023
 
 {{< youtube PmCnam0adpQ >}}

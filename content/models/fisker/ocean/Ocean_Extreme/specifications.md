@@ -43,6 +43,7 @@ weight: 30
 |Height|1631 mm|
 |Width excluding mirrors|1995 mm|
 |Wheelbase|2921 mm|
+|Drag coefficient|0,27|
 
 ## Suspension
 
