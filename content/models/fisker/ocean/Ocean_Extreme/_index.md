@@ -57,7 +57,7 @@ The  suspension has steel springs with a fixed height, but you can adjust dampin
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model. 
+You can choose between 7 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 20 to 22 inches. 
 
 
@@ -122,7 +122,7 @@ Fisker Ocean Extreme has multiple integrated screens. Behind the steering wheel 
 
 ## Infotainment
 
-One type of sound system is available for the Fisker Ocean Extreme. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+One type of sound system is available for the Fisker Ocean Extreme. With the Fisker Hypersound 3D, you get NULL amplifier channels and 16 speakers with a max system output of 500 watts. 
 
 The model has 3 USB-C connections as standard. The models is equipped with 1 USB-A connections as standard. 
 ## Lights
