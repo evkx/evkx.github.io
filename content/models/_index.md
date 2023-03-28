@@ -34,6 +34,12 @@ CUPRA has serveral electric models.
 
 CUPRA has 1 models with total 3 variants. [Read all about them](cupra/)
 
+## Fisker
+
+Fisker Inc. is an American electric vehicle (EV) manufacturer that was founded in 2016 by Henrik Fisker, a well-known automotive designer. The company is based in Manhattan Beach, California, and is focused on creating sustainable, electric mobility solutions.
+
+Fisker has 1 models with total 1 variants. [Read all about them](fisker/)
+
 ## Hongqi
 
 HONGQI is a car brand from the car manufacturer FAW. HONGQI has been making exclusive luxury cars ever since 1958. Since then, HONGQI has grown from producing a small number of cars on special order, to producing cars for the entire Chinese market. HONGQI's ambition is now to become China's leading manufacturer of premium cars. 
