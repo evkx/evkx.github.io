@@ -7,12 +7,9 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
  By converting the vehicle's kinetic energy into electrical energy and storing it in the battery, regenerative braking can extend the vehicle's range and improve overall efficiency. In this article, we will explore the different types of regenerative braking strategies used in EVs, their benefits, and limitations.
 
-
-
 ## How does it work?
 
 Regenerative braking is a process where the kinetic energy of a moving vehicle is captured and stored as electrical energy in the vehicle's battery during braking or deceleration. The system works by reversing the electric motor's direction, turning it into a generator that produces electrical energy as the vehicle slows down.
-
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/regen/illustration1.jpg">
