@@ -152,6 +152,30 @@ Multilink suspension can be used on both the front and rear axles of a vehicle, 
     <figcaption><h4>Multilink rear suspension</h4></figcaption>
 </figur>
 
+### Leaf Suspension
+
+Leaf suspension is a type of suspension system used in cars, trucks, and trailers, which uses a series of curved metal plates called leaf springs. The leaf springs are mounted on the vehicle's frame and axles, and they work together to provide a smooth ride and support the weight of the vehicle.
+
+The way leaf suspension works is that the leaf springs are arranged in a stack, with the longest leaf at the bottom and progressively shorter leaves stacked on top. The leaves are clamped together with a center bolt and held in place with metal clips. When the vehicle hits a bump or uneven road surface, the leaf springs compress and absorb the shock, allowing the wheels to move up and down independently of the vehicle's frame.
+
+Some of the advantages of leaf suspension include:
+
+High weight capacity: Leaf suspension is capable of supporting a high weight capacity, making it ideal for use in heavy-duty trucks and trailers.
+
+Simple design: Leaf suspension has a simple design with fewer components, which makes it less expensive to manufacture and repair.
+
+Good durability: Leaf suspension is durable and can withstand heavy loads and rough terrain.
+
+Some of the disadvantages of leaf suspension include:
+
+Stiff ride: Leaf suspension can provide a stiff ride compared to other types of suspension systems, which can be uncomfortable for passengers.
+
+Limited adjustability: Leaf suspension is not as adjustable as other types of suspension systems, which can make it difficult to fine-tune the suspension for optimal performance.
+
+Poor handling: Leaf suspension can cause the vehicle to bounce and sway on rough roads, which can affect the vehicle's handling and stability.
+
+Noise and vibration: Leaf suspension can produce noise and vibration when driving, which can be unpleasant for passengers.
+
 ## Air suspension
 
 Air suspension is a type of vehicle suspension system that uses compressed air to provide support and cushioning. It consists of airbags, a compressor, and a control system that regulates the amount of air in the bags to adjust the height and stiffness of the suspension. This replaces the spring in conventional systems.
