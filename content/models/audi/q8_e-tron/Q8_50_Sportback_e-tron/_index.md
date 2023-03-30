@@ -49,9 +49,9 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 Audi Q8 50 Sportback e-tron has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink)k. It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
 
-You can order Audi Q8 50 Sportback e-tron with an alternative Adaptive Air Suspension Sport suspension. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
+You can order Audi Q8 50 Sportback e-tron with an alternative Adaptive Air Suspension Sport suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink)k. It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 152 mm and max 248 mm. 
 
 ### Steering
 

@@ -62,7 +62,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio ET5 has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 150 mm and max 150 mm. 
+The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 150 mm and max 150 mm. 
 
 ### Steering
 

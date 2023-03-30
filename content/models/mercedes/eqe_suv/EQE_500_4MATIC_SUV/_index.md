@@ -57,7 +57,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 Mercedes-EQ EQE 500 4MATIC SUV has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 154 mm and max 204 mm. 
+The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 154 mm and max 204 mm. 
 
 ### Steering
 

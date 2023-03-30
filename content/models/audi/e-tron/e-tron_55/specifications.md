@@ -76,7 +76,9 @@ The model offers 2 suspension variants
 |Max ground clearance|248|
 |Minimum ground clearance|152|
 |Suspension type front|AirSuspension|
+|Suspension construction front|DoubleWishbone|
 |Suspension type rear|AirSuspension|
+|Suspension construction rear|Multilink|
 
 ### Adaptive Air Suspension Sport
 
@@ -90,7 +92,9 @@ The model offers 2 suspension variants
 |Max ground clearance|248|
 |Minimum ground clearance|152|
 |Suspension type front|AirSuspension|
+|Suspension construction front|DoubleWishbone|
 |Suspension type rear|AirSuspension|
+|Suspension construction rear|Multilink|
 
 ## Driver Assistance
 

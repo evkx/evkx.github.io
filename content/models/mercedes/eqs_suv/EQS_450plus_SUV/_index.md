@@ -49,7 +49,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Mercedes-EQ EQS 450+ SUV has an all-wheel drive system supported by two motors. One on each axle. 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. Minimum ground clearance is 181 mm and max 206 mm. 
+The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 181 mm and max 206 mm. 
 
 ### Steering
 

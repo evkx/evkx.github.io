@@ -56,6 +56,10 @@ weight: 30
 |Adjustable height rear|Not available|
 |Max ground clearance|175|
 |Minimum ground clearance|175|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension construction front|MacPhersonStrut|
+|Suspension type rear|SteelSpringsWithOilDampers|
+|Suspension construction rear|Multilink|
 
 ## Driver Assistance
 
