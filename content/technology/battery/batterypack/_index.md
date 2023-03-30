@@ -15,6 +15,18 @@ The series connection of cells increases the voltage output of the battery pack,
 
 The specific battery configuration used in an EV depends on a variety of factors, such as the desired range, power output, and overall vehicle weight.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6415007331199958"
+     data-ad-slot="6143356420"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### 400 or 800 volts?
 
 Manufacturers typically configure the packs to be around 400 volts or 800 volts.
@@ -59,6 +71,18 @@ Here are some configuration examples
 | Audi e-tron GT | 93.7kWh | 198s2p | 725 Volt |
 | Kia EV6 GT | 77.4 | 192s2p | 697 Volt |
 | [Tesla Model Y Long Range](../../../models/tesla/model_y/model_y_long_range/) | 78.1kWh | 96s46p | 357 Volt |
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6415007331199958"
+     data-ad-slot="6143356420"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Battery pack designs
 

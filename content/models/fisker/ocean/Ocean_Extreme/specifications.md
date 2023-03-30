@@ -89,7 +89,7 @@ weight: 30
 |Efficiency assist||
 |Automatic Emergency Steering|Yes, standard equipment|
 |Traffic Sign Recognition|Yes, standard equipment|
-|Night Vision|Yes, standard equipment|
+|Night Vision|Not available|
 
 ## Infotainment
 
