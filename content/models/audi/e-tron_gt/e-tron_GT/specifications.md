@@ -73,11 +73,13 @@ The model offers 2 suspension variants
 |Adjustable damping front|Yes, standard equipment|
 |Adjustable damping rear|Yes, standard equipment|
 |Adjustable height front|Not available|
-|Adjustable height rear|Yes, standard equipment|
+|Adjustable height rear|Not available|
 |Max ground clearance|145|
 |Minimum ground clearance|145|
 |Suspension type front|SteelSpringsWithOilDampers|
+|Suspension construction front|DoubleWishbone|
 |Suspension type rear|SteelSpringsWithOilDampers|
+|Suspension construction rear|Multilink|
 
 ### Adaptive Air Suspension
 
@@ -91,7 +93,9 @@ The model offers 2 suspension variants
 |Max ground clearance|165|
 |Minimum ground clearance|125|
 |Suspension type front|AirSuspension|
+|Suspension construction front|DoubleWishbone|
 |Suspension type rear|AirSuspension|
+|Suspension construction rear|Multilink|
 
 ## Driver Assistance
 
