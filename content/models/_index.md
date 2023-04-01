@@ -10,7 +10,7 @@ weight: 30
 
 Audi is continuously expanding its electric vehicle fleet and will only launch all-electric models from 2026. The e-roadmap also stipulates the gradual phasing out of the production of vehicles with combustion engines by 2033. 
 
-Audi has 4 models with total 21 variants. [Read all about them](audi/)
+Audi has 4 models with total 22 variants. [Read all about them](audi/)
 
 ## BMW
 
@@ -87,6 +87,14 @@ Nio has 4 models with total 4 variants. [Read all about them](nio/)
 Nissan is a multinational automobile manufacturer headquartered in Yokohama, Japan. It was founded in 1933 as the 'Nissan Motor Company Ltd.' and has since become one of the largest automakers in the world. Nissan offers a wide range of vehicles, from small city cars to luxury sedans and SUVs. 
 
 Nissan has 1 models with total 3 variants. [Read all about them](nissan/)
+
+## Porsche
+
+[![Porsche](https://media.evkx.net/multimedia/models/porsche/brandevs_st.jpeg)](porsche/)
+
+Porsche is a German luxury sports car manufacturer that was founded in 1931 by Ferdinand Porsche. The company has a long history of producing high-performance sports cars that are known for their engineering excellence, innovative design, and motorsports success.
+
+Porsche has 1 models with total 1 variants. [Read all about them](porsche/)
 
 ## Skoda
 

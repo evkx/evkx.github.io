@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron GT
-linktitle: e-tron GT
-description: Audi e-tron GT is an all-electric luxury sedan with a WLTP range of up to 488 km (303 miles). EVKX.net have all the details. 
+title: Audi RS e-tron GT
+linktitle: RS e-tron GT
+description: Audi RS e-tron GT is an all-electric luxury sedan with a WLTP range of up to 495 km (308 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,12 +9,12 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
 </a>
-<figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+<figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
-We have separated our description of Audi e-tron GT into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of Audi RS e-tron GT into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -30,11 +30,11 @@ We have separated our description of Audi e-tron GT into sections. If you want t
 
 ## Performance
 
-With overboost, the Audi e-tron GT has a maximum power of 390KW (530hp). Without overboost, it is 350KW (476hp). The torque is 640nm with overboost and 630 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,1 seconds with overboost and 4,5 seconds without overboost. The top speed is 245 km/h. 
+With overboost, the Audi RS e-tron GT has a maximum power of 475KW (646hp). Without overboost, it is 440KW (598hp). The torque is 830nm with overboost and 830 without overboost. The 0-100km/h sprint (0-62mph) is performed in 3,3 seconds with overboost and 4,5 seconds without overboost. The top speed is 250 km/h. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 488 to 448 km (303-278 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,2kWh/100km for the basic version and 18,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 495 to 447 km (308-278 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,9kWh/100km for the basic version and 18,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65% resulting in an actual charge speed including time loss on 165kW. Each charge session would take 19 minutes and 53 seconds. 
 
@@ -45,17 +45,25 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/charging_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
+</a>
+<figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
+
+
 ## Drivetrain
 
-Audi e-tron GT has an all-wheel drive system supported by two motors. One on each axle. 
+Audi RS e-tron GT has an all-wheel drive system supported by two motors. One on each axle. 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 145 mm. 
 
-You can order Audi e-tron GT with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink)k. It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 125 mm and max 165 mm. 
+You can order Audi RS e-tron GT with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink)k. It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 125 mm and max 165 mm. 
 
 ### Steering
 
-Dynamic steering is standard on Audi e-tron GT. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is standard on Audi RS e-tron GT. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -80,10 +88,10 @@ You can choose between two types of roofs on this model. The standard is a panor
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
 </a>
-<figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+<figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
 
 ## Interior
@@ -92,7 +100,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are three seat types you can choose from for the front row in the Audi e-tron GT. 
+There are three seat types you can choose from for the front row in the Audi RS e-tron GT. 
 
 The following functionalities are available on the **sport** seat. 
 
@@ -138,10 +146,10 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/frontseats_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
 </a>
-<figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+<figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. 
@@ -152,7 +160,7 @@ There is one climate system available.
 
 ## Comfort
 
-Audi e-tron GT has several features to make your life as a driver or passenger more comfortable. 
+Audi RS e-tron GT has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -164,50 +172,50 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Audi e-tron GT has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
+Audi RS e-tron GT has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/screens_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
 </a>
-<figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+<figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose between two sound systems on the Audi e-tron GT. With the Audi Sound system, you get ten amplifier channels and ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 amplifier channels and 16 speakers with a max system output of 700 watts. 
+You can choose between two sound systems on the Audi RS e-tron GT. With the Audi Sound system, you get ten amplifier channels and ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 amplifier channels and 16 speakers with a max system output of 700 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi e-tron GT supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi RS e-tron GT supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 
 ## Lights
 
-You can choose between three types of headlights for the Audi e-tron GT. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
+You can choose between three types of headlights for the Audi RS e-tron GT. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/headlights_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
 </a>
-<figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+<figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
 ## Advanced driver assistance systems
 
-The Audi e-tron GT has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Audi RS e-tron GT has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
 
 
-The Audi e-tron GT has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Audi RS e-tron GT has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Audi e-tron GT has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The Audi RS e-tron GT has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
 
-The Audi e-tron GT has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Audi RS e-tron GT has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
@@ -215,7 +223,7 @@ The Audi e-tron GT has a [**lane keeping assist**](../../../../technology/driver
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The Audi e-tron GT has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Audi RS e-tron GT has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard driver assist system that is designed to help drivers avoid collisions by automatically steering the vehicle in an emergency situation. 
 
@@ -223,7 +231,7 @@ The Audi e-tron GT has a [**automatic emergency braking**](../../../../technolog
 
 ### Driving Automation
 
-The Audi e-tron GT offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+The Audi RS e-tron GT offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
@@ -242,7 +250,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/trunk_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/trunk_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
 </a>
-<figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+<figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
