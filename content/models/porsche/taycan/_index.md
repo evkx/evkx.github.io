@@ -17,3 +17,16 @@ Porsche Taycan is an all-electric luxury sedan with a WLTP range of up to 431 km
 - [Porsche Taycan image gallery](/models/porsche/taycan/taycan//gallery)
 - [Porsche Taycan reviews](/models/porsche/taycan/taycan//reviews)
 
+## Porsche Taycan 4S
+
+[![Taycan 4S](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1_st.jpg)](/models/porsche/taycan/taycan_4s/)
+
+Porsche Taycan 4S is an all-electric luxury sedan with a WLTP range of up to 431 km (268 miles). EVKX.net have all the details. 
+
+- [Porsche Taycan 4S article](/models/porsche/taycan/taycan_4s/)
+- [Porsche Taycan 4S Range & consumption info](/models/porsche/taycan/taycan_4s//rangeandconsumption)
+- [Porsche Taycan 4S Charging curve and performance](/models/porsche/taycan/taycan_4s//chargingcurve)
+- [Porsche Taycan 4S full specifications](/models/porsche/taycan/taycan_4s//specifications)
+- [Porsche Taycan 4S image gallery](/models/porsche/taycan/taycan_4s//gallery)
+- [Porsche Taycan 4S reviews](/models/porsche/taycan/taycan_4s//reviews)
+

@@ -1,7 +1,7 @@
 ---
-title: Porsche Taycan
-linktitle: Taycan
-description: Porsche Taycan is an all-electric luxury sedan with a WLTP range of up to 431 km (268 miles). EVKX.net have all the details. 
+title: Porsche Taycan 4S
+linktitle: Taycan 4S
+description: Porsche Taycan 4S is an all-electric luxury sedan with a WLTP range of up to 431 km (268 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,12 +9,12 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S">
 </a>
-<figcaption><h4>Porsche Taycan</h4></figcaption></figur>
+<figcaption><h4>Porsche Taycan 4S</h4></figcaption></figur>
 
-We have separated our description of Porsche Taycan into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of Porsche Taycan 4S into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -30,13 +30,13 @@ We have separated our description of Porsche Taycan into sections. If you want t
 
 ## Performance
 
-With overboost, the Porsche Taycan has a maximum power of 300KW (408hp). Without overboost, it is 240KW (326hp). The torque is 345nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 5,4 seconds. The top speed is 230 km/h. 
+With overboost, the Porsche Taycan 4S has a maximum power of 390KW (530hp). Without overboost, it is 320KW (435hp). The torque is 640nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 230 km/h. 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan has a maximum power of 350KW (476hp). Without overboost, it is 280KW (381hp). The torque is 357nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 5,4 seconds. The top speed is 230 km/h. 
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan 4S has a maximum power of 420KW (571hp). Without overboost, it is 320KW (435hp). The torque is 650nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 250 km/h. 
 
 ## Battery, range, and charging
 
-Porsche Taycan has two battery options with different specifications. Below you see how this affects range and charging. 
+Porsche Taycan 4S has two battery options with different specifications. Below you see how this affects range and charging. 
 ### Performance Battery
 
 The battery has a gross capacity of 79,2kWh and a net capacity of 71kWh, meaning you have a 8,2kWh buffer for protection. (10,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 431 to 354 km (268-220 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,5kWh/100km for the basic version and 20,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
@@ -46,7 +46,7 @@ The maximum DC charging speed is 225kW. A full charge from 0 - 100% would take 4
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 26 minutes to drive. This trip will require three charge session(s) charging from 0% to 70%. The total time lost for charging will be 66 minutes.   
 ### Performance Battery Plus
 
-The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 484 to 407 km (301-253 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,5kWh/100km for the basic version and 20,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 464 to 389 km (288-242 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,5kWh/100km for the basic version and 20,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65% resulting in an actual charge speed including time loss on 165kW. Each charge session would take 19 minutes and 53 seconds. 
 
@@ -59,15 +59,15 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 ## Drivetrain
 
-Porsche Taycan has a rear-wheel drive system supported by one motor on the rear axle. 
+Porsche Taycan 4S has a rear-wheel drive system supported by one motor on the rear axle. 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 127 mm. 
 
-You can order Porsche Taycan with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink)k. It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 103 mm and max 127 mm. 
+You can order Porsche Taycan 4S with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink)k. It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 103 mm and max 127 mm. 
 
 ### Steering
 
-Dynamic steering is standard on Porsche Taycan. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is standard on Porsche Taycan 4S. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -94,10 +94,10 @@ There is only one roof for this model.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/exterior_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/exterior_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S">
 </a>
-<figcaption><h4>Porsche Taycan</h4></figcaption></figur>
+<figcaption><h4>Porsche Taycan 4S</h4></figcaption></figur>
 
 
 ## Interior
@@ -106,7 +106,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are three seat types you can choose from for the front row in the Porsche Taycan. 
+There are three seat types you can choose from for the front row in the Porsche Taycan 4S. 
 
 The following functionalities are available on the **Comfort** seat. 
 
@@ -152,15 +152,15 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/frontseats_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/frontseats_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S">
 </a>
-<figcaption><h4>Porsche Taycan</h4></figcaption></figur>
+<figcaption><h4>Porsche Taycan 4S</h4></figcaption></figur>
 
 
 ### Second-row seats
 
-You can choose two seat types for the second row in the Porsche Taycan. 
+You can choose two seat types for the second row in the Porsche Taycan 4S. 
 
 The standard option is two integrated seats in the second row. In addition, the following functionalities are available. 
 
@@ -180,7 +180,7 @@ There is one climate system available. The  climate system supports different te
 
 ## Comfort
 
-Porsche Taycan has several features to make your life as a driver or passenger more comfortable. 
+Porsche Taycan 4S has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -188,42 +188,42 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 ## User interface and control
 
-Porsche Taycan has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. For the passenger, there is an optional screen. The touch screen behind the steering wheel integrated into the dashboard is 16,8 inches large. The touch screen at the top of the center console is 10,9 inches large. The touch screen at the bottom of the center console is 8,4 inches large. The touch screen in front of the passenger in the dashboard is 10,9 inches large. 
+Porsche Taycan 4S has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. For the passenger, there is an optional screen. The touch screen behind the steering wheel integrated into the dashboard is 16,8 inches large. The touch screen at the top of the center console is 10,9 inches large. The touch screen at the bottom of the center console is 8,4 inches large. The touch screen in front of the passenger in the dashboard is 10,9 inches large. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/screens_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/screens_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S">
 </a>
-<figcaption><h4>Porsche Taycan</h4></figcaption></figur>
+<figcaption><h4>Porsche Taycan 4S</h4></figcaption></figur>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose between three sound systems on the Porsche Taycan. With the Porsche Sound system, you get ten amplifier channels and ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 amplifier channels and 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 amplifier channels and 21 speakers with a max system output of 1455 watts. 
+You can choose between three sound systems on the Porsche Taycan 4S. With the Porsche Sound system, you get ten amplifier channels and ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 amplifier channels and 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 amplifier channels and 21 speakers with a max system output of 1455 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Taycan supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Taycan 4S supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 
 ## Lights
 
-You can choose between two types of headlights for the Porsche Taycan. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the Porsche Taycan 4S. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 ## Advanced driver assistance systems
 
-The Porsche Taycan has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Porsche Taycan 4S has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
 
 
-The Porsche Taycan has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Porsche Taycan 4S has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Porsche Taycan has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The Porsche Taycan 4S has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
 
-The Porsche Taycan has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Porsche Taycan 4S has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
@@ -231,7 +231,7 @@ The Porsche Taycan has a [**lane keeping assist**](../../../../technology/driver
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The Porsche Taycan has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Porsche Taycan 4S has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard driver assist system that is designed to help drivers avoid collisions by automatically steering the vehicle in an emergency situation. 
 
@@ -239,7 +239,7 @@ The Porsche Taycan has a [**automatic emergency braking**](../../../../technolog
 
 ### Driving Automation
 
-The Porsche Taycan offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+The Porsche Taycan 4S offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
@@ -258,7 +258,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/trunk_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/trunk_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S">
 </a>
-<figcaption><h4>Porsche Taycan</h4></figcaption></figur>
+<figcaption><h4>Porsche Taycan 4S</h4></figcaption></figur>
