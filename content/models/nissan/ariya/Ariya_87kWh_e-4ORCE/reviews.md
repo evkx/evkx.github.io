@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Out of Spec Reviews: I Drive The Nissan Ariya For The First Time! This Is Where It Shines 02.04.2023
+
+{{< youtube gNjxqH8YxcI >}}
+
 ### Autogefühl: Nissan Ariya e-4ORCE (AWD) driving REVIEW with winter test! 18.02.2023
 
 {{< youtube rpzxbMFsY6c >}}
