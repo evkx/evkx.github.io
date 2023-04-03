@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron GT specifications
+title: Audi RS e-tron GT specifications
 linktitle: Specifications
-description: See below for specifications for Audi e-tron GT
+description: See below for specifications for Audi RS e-tron GT
 weight: 30
 ---
 
@@ -9,13 +9,13 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|350 Kw|
-|Peak electrical output boost in kW|390 Kw|
-|Electrical torque output in Nm|630 Nm|
-|Electrical torque output boost in Nm|640 Nm|
-|Top speed|245 km/h|
+|Peak electrical output in kW|440 Kw|
+|Peak electrical output boost in kW|475 Kw|
+|Electrical torque output in Nm|830 Nm|
+|Electrical torque output boost in Nm|830 Nm|
+|Top speed|250 km/h|
 |0-100km/h (0-62 mph)|4,5 s|
-|0-100km/h (0-62 mph) boost|4,1 s|
+|0-100km/h (0-62 mph) boost|3,3 s|
 
 
 
@@ -23,12 +23,12 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|488 km|
-|Basic trim WLTP consumption|17,2 kWh/100km|
-|Basic trim WLTP consumption with charging loss|17,2 kWh/100km|
-|Top trim WLTP range|448 km|
+|Basic trim WLTP range|495 km|
+|Basic trim WLTP consumption|16,9 kWh/100km|
+|Basic trim WLTP consumption with charging loss|19,8 kWh/100km|
+|Top trim WLTP range|447 km|
 |Top trim WLTP consumption|18,7 kWh/100km|
-|Top trim WLTP consumption with charging loss|21,8 kwh/100km|
+|Top trim WLTP consumption with charging loss|22,1 kwh/100km|
 
 
 

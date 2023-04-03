@@ -1,7 +1,7 @@
 ---
-title: Porsche Taycan specifications
+title: Porsche Taycan GTS specifications
 linktitle: Specifications
-description: See below for specifications for Porsche Taycan
+description: See below for specifications for Porsche Taycan GTS
 weight: 30
 ---
 
@@ -9,20 +9,11 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|240 Kw|
-|Peak electrical output boost in kW|300 Kw|
-|Electrical torque output boost in Nm|345 Nm|
-|Top speed|230 km/h|
-|0-100km/h (0-62 mph)|5,4 s|
-
-
-|Spec|Value|
-|----|-----|
-|Peak electrical output in kW|280 Kw|
-|Peak electrical output boost in kW|350 Kw|
-|Electrical torque output boost in Nm|357 Nm|
-|Top speed|230 km/h|
-|0-100km/h (0-62 mph)|5,4 s|
+|Peak electrical output in kW|320 Kw|
+|Peak electrical output boost in kW|440 Kw|
+|Electrical torque output boost in Nm|850 Nm|
+|Top speed|250 km/h|
+|0-100km/h (0-62 mph)|3,7 s|
 
 
 
@@ -30,35 +21,16 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|431 km|
-|Basic trim WLTP consumption|16,5 kWh/100km|
-|Basic trim WLTP consumption with charging loss|20,4 kWh/100km|
-|Top trim WLTP range|354 km|
-|Top trim WLTP consumption|20,1 kWh/100km|
-|Top trim WLTP consumption with charging loss|24,8 kwh/100km|
-
-
-|Spec|Value|
-|----|-----|
-|Basic trim WLTP range|484 km|
-|Basic trim WLTP consumption|16,5 kWh/100km|
-|Basic trim WLTP consumption with charging loss|21,5 kWh/100km|
-|Top trim WLTP range|407 km|
-|Top trim WLTP consumption|20,1 kWh/100km|
-|Top trim WLTP consumption with charging loss|25,4 kwh/100km|
+|Basic trim WLTP range|504 km|
+|Basic trim WLTP consumption|16,6 kWh/100km|
+|Basic trim WLTP consumption with charging loss|20,3 kWh/100km|
+|Top trim WLTP range|439 km|
+|Top trim WLTP consumption|19,1 kWh/100km|
+|Top trim WLTP consumption with charging loss|23,3 kwh/100km|
 
 
 
 ## Battery & Charging
-
-|Spec|Value|
-|----|-----|
-|Battery gross|79,2 kWh|
-|Battery net|71 kWh|
-|Max DC charging|225 kW|
-|Number of modules|28|
-|Cell architecture|168s2p|
-
 
 |Spec|Value|
 |----|-----|
