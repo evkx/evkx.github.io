@@ -1,7 +1,7 @@
 ---
-title: Porsche Taycan GTS specifications
+title: Porsche Taycan GTS Sport Turismo specifications
 linktitle: Specifications
-description: See below for specifications for Porsche Taycan GTS
+description: See below for specifications for Porsche Taycan GTS Sport Turismo
 weight: 30
 ---
 
@@ -9,7 +9,7 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|320 Kw|
+|Peak electrical output in kW|420 Kw|
 |Peak electrical output boost in kW|440 Kw|
 |Electrical torque output boost in Nm|850 Nm|
 |Top speed|250 km/h|

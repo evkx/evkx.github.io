@@ -43,3 +43,16 @@ Porsche Taycan GTS is an all-electric luxury sedan with a WLTP range of up to 50
 - [Porsche Taycan GTS image gallery](/models/porsche/taycan/taycan_gts//gallery)
 - [Porsche Taycan GTS reviews](/models/porsche/taycan/taycan_gts//reviews)
 
+## Porsche Taycan GTS Sport Turismo
+
+[![Taycan GTS Sport Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg)](/models/porsche/taycan/taycan_gts_sport_turismo/)
+
+intro.stationwagon.luxury
+
+- [Porsche Taycan GTS Sport Turismo article](/models/porsche/taycan/taycan_gts_sport_turismo/)
+- [Porsche Taycan GTS Sport Turismo Range & consumption info](/models/porsche/taycan/taycan_gts_sport_turismo//rangeandconsumption)
+- [Porsche Taycan GTS Sport Turismo Charging curve and performance](/models/porsche/taycan/taycan_gts_sport_turismo//chargingcurve)
+- [Porsche Taycan GTS Sport Turismo full specifications](/models/porsche/taycan/taycan_gts_sport_turismo//specifications)
+- [Porsche Taycan GTS Sport Turismo image gallery](/models/porsche/taycan/taycan_gts_sport_turismo//gallery)
+- [Porsche Taycan GTS Sport Turismo reviews](/models/porsche/taycan/taycan_gts_sport_turismo//reviews)
+

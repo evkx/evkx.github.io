@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Out of Specs Review : I Drive The Hyundai IONIQ 6 For The First Time! 03.04.2023
+
+{{< youtube YEXoJ3-6O7k >}}
+
 ### Out of Specs Review : Hyundai IONIQ 6 Full Tour, Specs, Pricing, Range, & My First Impressions 29.03.2023
 
 {{< youtube AkqAuTUDz4w >}}

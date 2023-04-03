@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Mercedes EQS SUV 580 4Matic range test 03.04.2023
+
+{{< youtube rP6Eycp8unM >}}
+
 ### Kris Rifa: 120kph/75mph Range Test In The Mercedes EQS SUV 580 4-Matic 08.03.2023
 
 {{< youtube D-ej66q1u3A >}}

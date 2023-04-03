@@ -27,12 +27,26 @@ data-pswp-height="2000"
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_3_st.jpg" alt="Porsche Taycan GTS" />
 </a>
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_4_st.jpg" alt="Porsche Taycan GTS" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" alt="Porsche Taycan GTS" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/interior_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/interior_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2250" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/interior_1_st.jpg" alt="Porsche Taycan GTS" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1.jpg"
@@ -47,6 +61,13 @@ data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/screens_1_st.jpg" alt="Porsche Taycan GTS" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/wheels_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/wheels_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2250" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/wheels_1_st.jpg" alt="Porsche Taycan GTS" />
 </a>
 </div>
 <script type="module">
