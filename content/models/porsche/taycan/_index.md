@@ -47,7 +47,7 @@ Porsche Taycan GTS is an all-electric luxury sedan with a WLTP range of up to 50
 
 [![Taycan GTS Sport Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg)](/models/porsche/taycan/taycan_gts_sport_turismo/)
 
-intro.stationwagon.luxury
+Porsche Taycan GTS Sport Turismo is an all-electric station wagon with a WLTP range of up to 504 km (313 miles). EVKX.net have all the details. 
 
 - [Porsche Taycan GTS Sport Turismo article](/models/porsche/taycan/taycan_gts_sport_turismo/)
 - [Porsche Taycan GTS Sport Turismo Range & consumption info](/models/porsche/taycan/taycan_gts_sport_turismo//rangeandconsumption)
