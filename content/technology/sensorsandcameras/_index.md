@@ -5,7 +5,16 @@ description:  Sensors and cameras are very important on modern cars because they
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
-There are various types of technologies used for sensors in modern cars, depending on the specific application and the sensor's requirements. Some of the most common sensor technologies used in cars include:
+There are various types of technologies used for sensors in modern cars, depending on the specific application and the sensor's requirements.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/sensorsandcameras/illustrationsensors2.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/illustrationsensors2_st.jpg" alt="Audi e-tron GT sensors" title="Audi e-tron GT sensors">
+    </a>
+    <figcaption><h4>Audi e-tron GT sensors</h4></figcaption>
+</figur>
+
+Some of the most common sensor technologies used in cars include:
 
 - Radar: Radar sensors use radio waves to detect the distance, speed, and direction of objects around the vehicle. They are commonly used in systems such as adaptive cruise control, blind spot detection, and rear cross traffic alert.
 
