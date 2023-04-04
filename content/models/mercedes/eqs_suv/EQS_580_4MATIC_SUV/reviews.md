@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Mercedes EQS SUV 580 4Matic interior review 04.04.2023
+
+{{< youtube 40-rcu6mdyQ >}}
+
 ### Bjørn Nyland: Mercedes EQS SUV 580 4Matic range test 03.04.2023
 
 {{< youtube rP6Eycp8unM >}}
