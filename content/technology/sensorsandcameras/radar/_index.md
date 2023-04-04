@@ -1,5 +1,5 @@
 ---
-title: Radar
+title: Radar sensors
 linktitle: Radar
 description:  Radar sensors are commonly used in cars for a variety of applications, including collision avoidance, adaptive cruise control, and blind spot detection.
 weight: 3

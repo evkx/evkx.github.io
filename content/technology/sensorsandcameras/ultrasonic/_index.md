@@ -1,5 +1,5 @@
 ---
-title: Ultrasonic
+title: Ultrasonic sensors
 linktitle: Ultrasonic
 description:  Ultrasonic sensors are commonly used in cars to help drivers with parking and avoid collisions. 
 weight: 3
