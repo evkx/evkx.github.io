@@ -26,8 +26,8 @@ However, lidar sensors can be expensive and require high power consumption. Addi
 Overall, lidar sensors are a powerful and versatile technology that can be used for a variety of applications. As technology advances, lidar sensors are likely to become more affordable and reliable, making them even more useful in a wide range of fields.
 
 <figur>
-    <a href="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/lidarniolidar.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/lidarniolidar_st.jpg" alt="NIO ET7 with LiDAR on roof" title="NIO ET7 with LiDAR on roof">
+    <a href="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/niolidar.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/niolidar_st.jpg" alt="NIO ET7 with LiDAR on roof" title="NIO ET7 with LiDAR on roof">
     </a>
     <figcaption><h4>NIO ET7 with LiDAR on roof</h4></figcaption>
 </figur>
