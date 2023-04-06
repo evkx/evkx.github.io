@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### AutoTrader: NEW Mercedes EQE SUV: Fast, Big & Luxurious! 05.04.2023
+
+{{< youtube utCaUa1HWrU >}}
+
 ### Autogefühl: Mercedes EQE SUV REVIEW 53 AMG vs 500 4Matic AMG-Line - how good is the GLE EV? 16.10.2022
 
 {{< youtube JKgWnR3YFiA >}}

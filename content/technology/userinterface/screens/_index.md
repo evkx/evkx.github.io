@@ -165,3 +165,35 @@ Rear seat entertainment screens are often used to provide entertainment options 
 </figur>
 
 It's important to note that the availability and features of screens in cars can vary depending on the make, model, and trim level of the vehicle. Additionally, the use of screens in cars can vary by local laws and regulations, as some jurisdictions have restrictions on the use of screens while driving to minimize driver distraction and promote road safety. Always follow local laws and regulations when using screens in a car.
+
+
+## Screen layouts and dashboard integration
+
+The screen layout varies a lot between models. Some models have optional screens or alternative layouts.
+
+When it comes to dashboard integration some ev manufactors integrates the screen in to the dashboard making it a clean and exclusive design. 
+
+Others save money and mount the screns on brackets on dasbhoard on or in center consol. This can be expected on budget models, but even more expensive models have cut corner with screen integration.
+
+See examples below.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/userinterface/screens/layoutporschetaycan.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/layoutporschetaycan_st.jpg" alt="Mercedes EQS-SUV hyperscreen layout" title="Mercedes EQS-SUV hyperscreen layout">
+    </a>
+    <figcaption><h4>Mercedes EQS-SUV hyperscreen layout</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/userinterface/screens/eqslayout_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/eqslayout_1_st.jpg" alt="Mercedes EQS-SUV standard screen layout" title="Mercedes EQS-SUV standard screen layout">
+    </a>
+    <figcaption><h4>Mercedes EQS-SUV standard screen layout</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/userinterface/screens/eqslayout_2.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/eqslayout_2_st.jpg" alt="Mercedes EQS-SUV hyperscreen layout" title="Mercedes EQS-SUV hyperscreen layout">
+    </a>
+    <figcaption><h4>Mercedes EQS-SUV hyperscreen layout</h4></figcaption>
+</figur>
