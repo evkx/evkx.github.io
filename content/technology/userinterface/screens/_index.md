@@ -78,16 +78,16 @@ It's important to note that the availability and features of infotainment screen
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/screens/infotainmentscreen_3.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/infotainmentscreen_3_st.jpg" alt="Mercedes EQS-Suv Digital Instrument" title="Mercedes EQS-Suv Digital Instrument">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/infotainmentscreen_3_st.jpg" alt="Lucid Air Infotainment screens" title="Lucid Air Infotainment screens">
     </a>
-    <figcaption><h4>Mercedes EQS-Suv Digital Instrument</h4></figcaption>
+    <figcaption><h4>Lucid Air Infotainment screens</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/screens/infotainmentscreen_4.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/infotainmentscreen_4_st.jpg" alt="Mercedes EQS-Suv Digital Instrument" title="Mercedes EQS-Suv Digital Instrument">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/infotainmentscreen_4_st.jpg" alt="Hyundai Ionic 6 Infotainment screen" title="Hyundai Ionic 6 Infotainment screen">
     </a>
-    <figcaption><h4>Mercedes EQS-Suv Digital Instrument</h4></figcaption>
+    <figcaption><h4>Hyundai Ionic 6 Infotainment screen</h4></figcaption>
 </figur>
 
 ### Climate control screen
