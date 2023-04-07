@@ -1,7 +1,7 @@
 ---
 title: Screens
 linktitle: Screens
-description: The screens are one of the most noticeable aspects of the user interface in modern EVs. These displays range from small screens displaying basic information to large touchscreens that take up most of the dashboard.
+description: The screens are one of the most noticeable user interface aspects in modern EVs. These displays range from small screens displaying basic information to large touchscreens that take up most of the dashboard.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,9 +16,10 @@ We categorize the screens into different types and features. They are:
 
 Many cars now feature digital instrument clusters, or driver information displays replacing analog gauges.
 
-These digital screens typically provide information such as speed, battery level,  odometer, trip information, and navigation directions, among others. They may also include customizable displays that allow drivers to choose what information is displayed and how it's presented.
+These digital screens typically provide information such as speed, battery level, odometer, trip information, and navigation directions.
 
-The screen size and functionality varies.
+Some models also let the driver customize the display to choose what information is displayed and how.
+The screen size and functionality vary.
 
 Below you see some examples from different models.
 
@@ -181,23 +182,28 @@ It's important to note that the availability and features of screens in cars can
 
 ## Screen layouts and dashboard integration
 
-The screen layout varies a lot between models.
-
-Some have large screens while other have tiny screens.
+The screen layout varies a lot between models. Some have large screens, while others have tiny screens.
 
 Some models have optional screens or alternative layouts.
 
-When it comes to dashboard integration some ev manufactors integrates the screen in to the dashboard making it a clean and exclusive design. 
+Regarding dashboard integration, some EV manufacturers integrate the screen into the dashboard, making it a clean and exclusive design.
 
-Others save money and mount the screns on brackets on dasbhoard on or in center consol. This can be expected on budget models, but even more expensive models have cut corner with screen integration.
+Others save money and mount the screens on brackets on the dashboard or center console. As a buyer, you could expect this layout on budget models, but even more expensive models have cut corners with screen integration.
 
 See examples below.
 
 <figur>
-    <a href="https://media.evkx.net/multimedia/technology/userinterface/screens/bmwbracket.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/bmwbracket_st.jpg" alt="BMW iX with Digital Instrument Cluster and Infotainment screen mounted on a bracket on dashboard." title="BMW iX with Digital Instrument Cluster and Infotainment screen mounted on a bracket on dashboard.">
+    <a href="https://media.evkx.net/multimedia/technology/userinterface/screens/modelybracket.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/modelybracket_st.jpg" alt="Tesla Model Y budget design with a single screen mounted on a bracket in center of the dashboard" title="Tesla Model Y budget design with a single screen mounted on a bracket in center of the dashboard">
     </a>
-    <figcaption><h4>BMW iX with Digital Instrument Cluster and Infotainment screen mounted on a bracket on dashboard.</h4></figcaption>
+    <figcaption><h4>Tesla Model Y budget design with a single infotainment screen mounted on a bracket in center of the dashboard</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/userinterface/screens/bmwbracket.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/bmwbracket_st.jpg" alt="BMW iX with Digital Instrument Cluster and Infotainment screen mounted on a bracket on the dashboard." title="BMW iX with Digital Instrument Cluster and Infotainment screen mounted on a bracket on the dashboard.">
+    </a>
+    <figcaption><h4>BMW iX with Digital Instrument Cluster and Infotainment screen mounted on a bracket on the dashboard.</h4></figcaption>
 </figur>
 
 
@@ -205,19 +211,19 @@ See examples below.
     <a href="https://media.evkx.net/multimedia/technology/userinterface/screens/layoutporschetaycan.jpg">
         <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/layoutporschetaycan_st.jpg" alt="Mercedes EQS-SUV hyperscreen layout" title="Mercedes EQS-SUV hyperscreen layout">
     </a>
-    <figcaption><h4>Mercedes EQS-SUV hyperscreen layout</h4></figcaption>
+    <figcaption><h4>Porsche Taycan with fully integrated screens</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/screens/eqslayout_1.jpg">
         <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/eqslayout_1_st.jpg" alt="Mercedes EQS-SUV standard screen layout" title="Mercedes EQS-SUV standard screen layout">
     </a>
-    <figcaption><h4>Mercedes EQS-SUV standard screen layout</h4></figcaption>
+    <figcaption><h4>Mercedes EQS-SUV standard screen layout with only partial integrated screens</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/screens/eqslayout_2.jpg">
         <img src="https://media.evkx.net/multimedia/technology/userinterface/screens/eqslayout_2_st.jpg" alt="Mercedes EQS-SUV hyperscreen layout" title="Mercedes EQS-SUV hyperscreen layout">
     </a>
-    <figcaption><h4>Mercedes EQS-SUV hyperscreen layout</h4></figcaption>
+    <figcaption><h4>Mercedes EQS-SUV hyperscreen layout with fully integrated</h4></figcaption>
 </figur>
