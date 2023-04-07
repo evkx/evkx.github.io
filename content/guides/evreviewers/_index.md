@@ -65,3 +65,4 @@ In addition we follow the following channels that have some good reviews
 - [Fully Charged Show](https://www.youtube.com/fullychargedshow)
 - [carwow](https://www.youtube.com/@carwow)
 - [InsideEvs](https://www.youtube.com/@InsideEVsUS)
+- [AutoTrader](https://www.youtube.com/@AutoTraderTV) - High quality reviews and production. Also dino-fuel cars.
