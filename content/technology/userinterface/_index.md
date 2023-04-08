@@ -7,6 +7,8 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
 In this article, we will explore the various user interface technologies used in EVs, including screens, head-up displays, voice control, physical buttons, and gesture control.
 
+The article is seperated in to sections where we dig deep on to the different parts of the user interface. 
+
 <figur>
     <a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/screens_1.jpg">
         <img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/screens_1_st.jpg" alt="Tesla Model S" title="Tesla Model S">
@@ -59,3 +61,6 @@ Stalks in the context of cars typically refer to the control switches or levers 
 
 ### Mirrors
 
+Mirrors are an important part of the user interface in cars. Mirrors serve as a critical visual aid that allows the driver to observe the surroundings of the vehicle, providing essential situational awareness and contributing to safe driving.
+
+[Read all about mirrors](mirrors)
