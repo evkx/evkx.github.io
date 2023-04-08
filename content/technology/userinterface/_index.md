@@ -7,6 +7,13 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
 In this article, we will explore the various user interface technologies used in EVs, including screens, head-up displays, voice control, physical buttons, and gesture control.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/screens_1.jpg">
+        <img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/screens_1_st.jpg" alt="Tesla Model S" title="Tesla Model S">
+    </a>
+    <figcaption><h4>Tesla Model S</h4></figcaption>
+</figur>
+
 Screens
 One of the most noticeable aspects of the user interface in modern EVs is the screens. These displays can range from small screens displaying basic information to large touchscreens that take up most of the dashboard. The screens can be used to display a range of information, including battery levels, charging status, navigation, media, and more. The size and layout of the screens can vary from one model to another, but they all serve to make the driver's experience more intuitive and user-friendly.
 
