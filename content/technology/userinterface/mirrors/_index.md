@@ -1,9 +1,19 @@
 ---
 title: Mirrors
 linktitle: Mirrors
-description: The steering wheel is a key component of a car's steering system that allows the driver to control the direction of the vehicle.
+description: Mirrors are an important part of the user interface in cars. Mirrors serve as a critical visual aid that allows the driver to observe the surroundings of the vehicle, providing essential situational awareness and contributing to safe driving.
 weight: 2
 ---
+
+In a typical car, there are three main types of mirrors that form part of the user interface:
+
+Rearview mirror: The rearview mirror is typically located in the center of the windshield or attached to the windshield's upper edge. It allows the driver to monitor the traffic and conditions behind the vehicle without having to turn their head, enabling them to make informed decisions while driving.
+
+Side mirrors: Side mirrors, also known as wing mirrors or door mirrors, are typically mounted on the exterior of the car's doors on both the driver and passenger sides. They provide a view of the traffic and conditions alongside the vehicle, allowing the driver to change lanes, merge, and navigate in traffic safely.
+
+Interior or vanity mirrors: Interior or vanity mirrors are typically located on the sun visors or overhead console and allow the driver and passengers to check their appearance or view the interior of the vehicle.
+
+The design, positioning, and adjustment of mirrors are critical for ensuring effective visibility and safe driving. Proper use of mirrors is an important aspect of defensive driving and helps the driver make informed decisions while operating the vehicle. Therefore, mirrors are considered an integral part of the user interface in cars, providing essential visual feedback to the driver for situational awareness and safe operation of the vehicle.
 <!-- markdownlint-disable MD033 -->
 Mirrors in cars play a crucial role in providing the driver with visibility of the surrounding environment, both inside and outside of the vehicle. They allow the driver to monitor the traffic conditions, other vehicles, and objects around the car, which is essential for safe driving. Here's what you need to know about interior and exterior mirrors in cars, including camera mirrors:
 

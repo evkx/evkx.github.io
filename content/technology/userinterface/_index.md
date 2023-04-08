@@ -43,6 +43,7 @@ While screens and voice control are becoming more popular, physical buttons stil
 
 Gesture control is another technology that is starting to appear in EVs. With gesture control, the driver can use hand movements to control various features, such as adjusting the volume or changing the radio station. 
 
+[Read all about gesture control](gesturecontrol)
 
 ### Steering wheel
 
@@ -55,4 +56,6 @@ The steering wheel is an important part of the user interface in a car. It is th
 Stalks in the context of cars typically refer to the control switches or levers that are located on the steering column, which are used to operate various functions of the vehicle without the driver having to take their hands off the steering wheel. 
 
 [Read all about stalks](stalks)
+
+### Mirrors
 
