@@ -1,6 +1,6 @@
 ---
-title: Head Up Display
-linktitle: Head Up Display
+title: Head-up Display
+linktitle: Head-up Display
 description: Head-up displays (HUDs) in cars are a type of advanced technology that projects information onto the windshield or a transparent screen, allowing the driver to view important data without having to take their eyes off the road.
 weight: 2
 ---
