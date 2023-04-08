@@ -1,15 +1,22 @@
 ---
 title: Steering wheel
 linktitle: Steering wheel
-description: The steering wheel is a key component of a car's steering system that allows the driver to control the direction of the vehicle.
+description: The steering wheel is an important part of the user interface in a car. It is the primary control mechanism that allows the driver to steer the vehicle and control its direction of movement. 
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->
-It is typically located in front of the driver's seat and is used to manipulate the steering mechanism, which in turn controls the movement of the wheels. Here's everything you need to know about steering wheels in cars:
 
-Design and Construction:
+The driver uses the steering wheel to turn the wheels of the car, which in turn determines the direction the vehicle travels.
+
+
+Apart from steering, modern steering wheels also incorporate various controls and features that contribute to the overall user interface in a car. These can include buttons, switches, and other controls for functions such as audio and media controls, cruise control, horn, voice commands, and phone controls. Some steering wheels also have paddle shifters for manual gear control in vehicles with automatic transmissions.
+
+The design, placement, and functionality of the steering wheel are crucial for the driver's interaction with the vehicle, making it an integral part of the user interface in a car. It allows the driver to control the vehicle's movement and interact with various functions, enhancing the overall driving experience.
+
+
+<!-- markdownlint-disable MD033 -->
 
 Steering wheels come in various shapes, sizes, and materials. Common shapes include the classic circular design, as well as sportier designs such as D-shaped, flat-bottomed, or contoured shapes.
+
 The size of a steering wheel can vary depending on the make and model of the vehicle, with smaller steering wheels often used in sportier cars for more precise control, while larger steering wheels are commonly found in larger vehicles.
 Steering wheels are typically constructed with a metal or plastic core, covered with a soft, grippy material such as leather, synthetic leather, or rubber for better grip and comfort.
 Many modern steering wheels also incorporate additional features such as buttons or switches for controlling various functions of the vehicle, such as audio controls, cruise control, phone calls, and more. These buttons or switches are typically located on the steering wheel rim or spokes for easy access while driving.
