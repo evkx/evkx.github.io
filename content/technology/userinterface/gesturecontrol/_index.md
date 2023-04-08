@@ -2,7 +2,7 @@
 title:  Gesture control
 linktitle:  Gesture control
 description: Gesture control is a technology that allows users to interact with devices or systems using physical gestures, typically detected by sensors or cameras.
-weight: 2
+weight: 8
 ---
 <!-- markdownlint-disable MD033 -->
  In the context of automotive technology, gesture control refers to the ability to control certain functions of a vehicle, such as infotainment, navigation, or climate control, using gestures or body movements, without physically touching buttons, screens, or controls.

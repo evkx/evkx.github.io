@@ -1,7 +1,7 @@
 ---
 title: Screens
 linktitle: Screens
-description: The screens are one of the most noticeable user interface aspects in modern EVs. These displays range from small screens displaying basic information to large touchscreens that take up most of the dashboard.
+description: The screens are one of the modern EVs' most noticeable user interface aspects. These displays range from small screens displaying basic information to large touchscreens that take up most of the dashboard.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
@@ -46,21 +46,23 @@ Below you see some examples from different models.
 
 ### Infotainment screen
 
-The infotainment system is a central screen that combines various multimedia functions in one place. It typically includes a touchscreen interface that allows drivers and passengers to control features such as navigation, audio and video playback, phone connectivity, climate control, and other vehicle settings. Infotainment systems are becoming increasingly sophisticated, with features such as voice recognition, smartphone integration, and app compatibility.
+The infotainment system is a central screen that combines various multimedia functions in one place. It typically includes a touchscreen interface that allows drivers and passengers to control features such as navigation, audio and video playback, phone connectivity, climate control, and other vehicle settings. In addition, infotainment systems are becoming increasingly sophisticated, with features such as voice recognition, smartphone integration, and app compatibility.
 
-The features that can be controlled from the infotainment screen in cars can vary depending on the make, model, and trim level of the vehicle, as well as the specific infotainment system installed. However, here are some common features that are often accessible through the infotainment screen:
+The features the user can control from the car's infotainment screen can vary depending on the vehicle's make, model, trim level, and the specific infotainment system installed. However, here are some common features that are often accessible through the infotainment screen:
 
-**Audio and Media Control:** The infotainment screen is typically used to control various audio and media functions, such as changing radio stations, adjusting volume, selecting audio sources (e.g., AM/FM radio, satellite radio, Bluetooth audio streaming, USB media), browsing and selecting music tracks, and controlling audio settings like bass, treble, and equalizer settings.
+**Audio and Media Control:** From the infotainment screen, you typically can control various audio and media functions, such as changing radio stations, adjusting volume, selecting audio sources (e.g., AM/FM radio, satellite radio, Bluetooth audio streaming, USB media), browsing and selecting music tracks, and controlling audio settings like bass, treble, and equalizer settings.
 
-**Navigation and Maps:** Many infotainment systems include built-in navigation functionality, allowing users to input destinations, view maps, get turn-by-turn directions, and adjust navigation settings. Some infotainment systems also support real-time traffic information, points of interest (POI) search, and voice-guided navigation.
+**Navigation and Maps:** Many infotainment systems include built-in navigation functionality, allowing users to input destinations, view maps, get turn-by-turn directions, and adjust navigation settings. Some infotainment systems support real-time traffic information, points of interest (POI) search, and voice-guided navigation.
 
 **Phone Connectivity:** Infotainment screens often provide phone connectivity options, allowing users to make and receive phone calls, access contacts, view call history, and send/receive text messages. Some systems also support phone book synchronization, call logs, and call management features. Most Infotainment systems also support Android Auto and Apple CarPlay.
 
-Android Auto and Apple CarPlay are two popular smartphone integration systems that allow drivers to connect their mobile devices to their car's infotainment system and access various features and apps while driving in a safe and convenient manner. They provide a way for drivers to interact with their smartphones while keeping their eyes on the road and hands on the wheel, minimizing distractions and promoting safer driving practices.
+Android Auto and Apple CarPlay are two popular smartphone integration systems that allow drivers to connect their mobile devices to their car's infotainment system and access various features and apps while driving safely and conveniently.
 
-Both Android Auto and Apple CarPlay are designed to provide a safer and more convenient way for drivers to access their smartphone features while driving, with an interface that is optimized for use in a car and designed to minimize distractions.
+They provide a way for drivers to interact with their smartphones while keeping their eyes on the road and hands on the wheel, minimizing distractions and promoting safer driving practices.
 
-**Climate Control:** Some vehicles have climate control integrated into the infotainment screen, allowing users to adjust temperature, fan speed, air distribution, and other HVAC functions directly from the screen. This may include controls for both front and rear seat climate settings, if applicable.
+Android Auto and Apple CarPlay are designed to provide a safer and more convenient way for drivers to access their smartphone features while driving, with an interface optimized for use in a car and designed to minimize distractions.
+
+**Climate Control:** Some vehicles integrate climate control into the infotainment screen, allowing users to adjust the temperature, fan speed, air distribution, and other HVAC functions directly from the screen. If applicable, this may include controls for front and rear seat climate settings.
 
 **Vehicle Settings:** Infotainment screens may also provide access to various vehicle settings, such as lighting controls, door lock settings, seat adjustments, and other comfort and convenience features. This may also include customization options for driver preferences, vehicle profiles, and other personalization settings.
 
@@ -178,8 +180,6 @@ Rear seat entertainment screens are often used to provide entertainment options 
     <figcaption><h4>Mercedes EQS-SUV rear seat entertainment screens</h4></figcaption>
 </figur>
 
-It's important to note that the availability and features of screens in cars can vary depending on the make, model, and trim level of the vehicle. Additionally, the use of screens in cars can vary by local laws and regulations, as some jurisdictions have restrictions on the use of screens while driving to minimize driver distraction and promote road safety. Always follow local laws and regulations when using screens in a car.
-
 ## Screen layouts and dashboard integration
 
 The screen layout varies a lot between models. Some have large screens, while others have tiny screens.
@@ -227,3 +227,7 @@ See examples below.
     </a>
     <figcaption><h4>Mercedes EQS-SUV hyperscreen layout with fully integrated</h4></figcaption>
 </figur>
+
+
+
+[Continue to head-up display](../hud/)

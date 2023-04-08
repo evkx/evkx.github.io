@@ -2,7 +2,7 @@
 title: Mirrors
 linktitle: Mirrors
 description: Mirrors are an important part of the user interface in cars. Mirrors serve as a critical visual aid that allows the driver to observe the surroundings of the vehicle, providing essential situational awareness and contributing to safe driving.
-weight: 2
+weight: 6
 ---
 
 In a typical car, there are three main types of mirrors that form part of the user interface:

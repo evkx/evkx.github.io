@@ -2,7 +2,7 @@
 title: Steering wheel
 linktitle: Steering wheel
 description: The steering wheel is an important part of the user interface in a car. It is the primary control mechanism that allows the driver to steer the vehicle and control its direction of movement. 
-weight: 2
+weight: 4
 ---
 
 The driver uses the steering wheel to turn the wheels of the car, which in turn determines the direction the vehicle travels.

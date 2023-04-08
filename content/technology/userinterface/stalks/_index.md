@@ -2,7 +2,7 @@
 title: Stalks
 linktitle: Stalks
 description: Stalks in the context of cars typically refer to the control switches or levers that are located on the steering column, which are used to operate various functions of the vehicle without the driver having to take their hands off the steering wheel. 
-weight: 2
+weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 
