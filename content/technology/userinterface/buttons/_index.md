@@ -2,7 +2,7 @@
 title: Buttons
 linktitle: Buttons
 description:  Buttons in cars refer to the various control buttons and switches that are integrated into the interior of a vehicle to operate various functions.
-weight: 2
+weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
  These buttons are designed to provide the driver and passengers with convenient access to different features and settings of the vehicle. Here's what you need to know about buttons in cars:

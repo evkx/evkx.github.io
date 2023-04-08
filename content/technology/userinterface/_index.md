@@ -41,24 +41,11 @@ Another technology used in EVs is the head-up display (HUD). The HUD projects es
 
 [Read all about head-up displays.](hud)
 
-
-### Voice Control
-
-Voice control is another feature that is becoming increasingly popular in EVs. With voice control, drivers can access various features, such as navigation, media, and climate control, without taking their hands off the wheel.
-
-[Read all about voice control.](voicecontrol)
-
 ### Physical Buttons
 
 While screens and voice control are becoming more popular, physical buttons still have an essential role in EVs' user interface.
 
 [Read all about physical buttons.](buttons)
-
-### Gesture Control
-
-Gesture control is another technology that is starting to appear in EVs. With gesture control, the driver can use hand movements to control various features, such as adjusting the volume or changing the radio station. 
-
-[Read all about gesture control.](gesturecontrol)
 
 ### Steering wheel
 
@@ -77,3 +64,16 @@ Stalks, in the context of cars, typically refer to the control switches or lever
 Mirrors are an essential part of the user interface in cars. Mirrors serve as a critical visual aid that allows the driver to observe the vehicle's surroundings, providing basic situational awareness and contributing to safe driving.
 
 [Read all about mirrors.](mirrors)
+
+### Voice Control
+
+Voice control is another feature that is becoming increasingly popular in EVs. With voice control, drivers can access various features, such as navigation, media, and climate control, without taking their hands off the wheel.
+
+[Read all about voice control.](voicecontrol)
+
+### Gesture Control
+
+Gesture control is another technology that is starting to appear in EVs. With gesture control, the driver can use hand movements to control various features, such as adjusting the volume or changing the radio station. 
+
+[Read all about gesture control.](gesturecontrol)
+

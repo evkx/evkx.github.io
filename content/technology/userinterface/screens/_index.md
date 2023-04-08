@@ -2,7 +2,7 @@
 title: Screens
 linktitle: Screens
 description: The screens are one of the most noticeable user interface aspects in modern EVs. These displays range from small screens displaying basic information to large touchscreens that take up most of the dashboard.
-weight: 2
+weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 

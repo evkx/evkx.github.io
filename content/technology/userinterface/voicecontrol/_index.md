@@ -2,7 +2,7 @@
 title: Voice control
 linktitle: Voice control
 description: Voice control in cars is a technology that allows drivers to interact with various vehicle features and functions using voice commands.
-weight: 2
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
