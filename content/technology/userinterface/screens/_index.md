@@ -138,11 +138,9 @@ Auto Mode: Many climate screens have an “auto” mode that allows the HVAC sys
 
 In most vehicles, the infotainment screen, typically located in the front center console, is primarily designed for the driver’s use. However, some modern cars may have a secondary screen or display dedicated to the front passenger. The functionality and purpose of this passenger-side screen can vary depending on the make, model, and trim level of the vehicle, and it may offer some or all of the following features:
 
-**Media Control:** The passenger-side screen may allow the front passenger to control various media functions, such as changing radio stations, adjusting volume, selecting audio sources, and controlling audio settings like bass, treble, and equalizer settings. 
+**Media Control:** The passenger-side screen may allow the front passenger to control various media functions, such as changing radio stations, adjusting volume, selecting audio sources, and controlling audio settings like bass, treble, and equalizer. 
 
 It may also allow users to play movies and other media on this screen.
-
-**Climate Control:** Some vehicles may have a separate screen for the front passenger that allows them to control their own climate settings, such as temperature, fan speed, and air distribution. This can provide the front passenger with the ability to adjust their own comfort settings independently of the driver's controls.
 
 **Seat Controls:** The passenger-side screen may also provide controls for the front passenger to adjust their seat settings, such as seat heating, cooling, reclining, and massage features. 
 
