@@ -53,4 +53,4 @@ Basert på dette er det beste å holde ladenivåene rundt 50%.
 
 Du finner mer om degradering i vår [batteriguide](../../../technology/battery/).
 
-{{% children description="true" depth="1" %}}
+{{<children />}}

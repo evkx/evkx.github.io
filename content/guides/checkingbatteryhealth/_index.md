@@ -80,4 +80,4 @@ The following example show the stats from an e-tron 55 2020v1 with 83.6kWh capac
 
 ![Graph](https://media.electrichasgoneaudi.net/multimedia/guides/checkingbatteryhealth/graph2.jpg "Tracking of actual battery capacity compared with consumption kWh/100 km")
 
-{{% children description="true" depth="1" %}}
+

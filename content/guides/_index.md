@@ -5,4 +5,4 @@ description: Here you find different guides to help getting the best out of your
 weight: 4
 ---
 
-{{% children description="true" depth="1" %}}
+{{<children />}}
