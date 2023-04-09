@@ -38,7 +38,9 @@ Visit his Youtube Channel [here](https://www.youtube.com/c/krisrifa).
 
 ![Autogefühl](https://media.evkx.net/multimedia/guides/evreviewers/autogefuhl.jpg)
 
-If you are looking for detailed car reviews targeting the average car consumer, look no further. Thomas gives you a detailed look into the models with information about all options. In addition, he often does an Autobahn test at full speed. Thomas reviews both fossil and EV. 
+Autogefühl is a popular YouTube channel that focuses on providing in-depth, detailed reviews of cars and providing automotive news and updates. The channel is known for its comprehensive and objective reviews, covering various aspects of a car's performance, design, technology, and practicality. Autogefühl's reviews are typically conducted by its host, Thomas Majchrzak, who has a background in automotive engineering and a passion for cars.
+
+The Autogefühl channel was created in 2010 and is based in Germany. Over the years, it has gained a significant following for its high-quality content and unbiased approach to car reviews. The channel reviews a wide range of vehicles, including sedans, SUVs, hatchbacks, electric cars, and luxury cars, from various brands and segments. The reviews often include detailed driving impressions, interior and exterior walkthroughs, as well as assessments of the car's features, safety, and practicality.
 
 He has a separate channel also for only electric reviews.
 
