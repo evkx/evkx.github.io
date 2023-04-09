@@ -1,6 +1,6 @@
 ---
-title: Buttons
-linktitle: Buttons
+title: Physical Buttons
+linktitle: Physical Buttons
 description: With virtual buttons on screens taking over for physical buttons in more and more areas, there are still physical buttons in most EVs.
 weight: 3
 ---
