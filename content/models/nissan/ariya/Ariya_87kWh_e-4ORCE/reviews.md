@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Out of Spec Reviews: Thirsty Machine - Nissan Ariya 70-MPH Highway Range Test! 87kWh AWD Platinum+ 05.04.2023
+
+{{< youtube sCoJ5aD6Zkc >}}
+
 ### Out of Spec Reviews: I Drive The Nissan Ariya For The First Time! This Is Where It Shines 02.04.2023
 
 {{< youtube gNjxqH8YxcI >}}

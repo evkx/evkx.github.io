@@ -14,6 +14,18 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube xR_xYBnuRYk >}}
 
+### Bjørn Nyland: BMW i7 xDrive60 banana box test 09.03.2023
+
+{{< youtube dkRxb1zetJU >}}
+
+### Bjørn Nyland: BMW i7 xDrive60 acceleration, braking and noise test 09.03.2023
+
+{{< youtube 8NubIWVRKAk >}}
+
+### Bjørn Nyland: BMW i7 xDrive60 range test 08.03.2023
+
+{{< youtube GI5G1-sQQUs >}}
+
 ### Bjørn Nyland: BMW i7 xDrive60 First Edition interior review 20.01.2023
 
 {{< youtube Gpw6TfeXC6w >}}

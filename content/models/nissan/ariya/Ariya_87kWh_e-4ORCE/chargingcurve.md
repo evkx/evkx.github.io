@@ -10,8 +10,8 @@ weight: 10
 
 |  | |
 |-----|-----|
-|Average charging speed 0 - 100% |86,3 kW|
-|Average charging speed 10-100% |85,3 kW|
+|Average charging speed 0 - 100% |45,5 kW|
+|Average charging speed 10-100% |43,0 kW|
 |Average charging speed 10-80% |101,3 kW|
 |Optimum charging area|2% - 65%|
 |Optimum charging speed included 5 minutes loss|92,2kW|
@@ -118,5 +118,5 @@ weight: 10
 |96%|52 kW| 1 m 1 s|  54 m 33 s |83,52 kWh |
 |97%|40 kW| 1 m 11 s|  55 m 45 s |84,39 kWh |
 |98%|40 kW| 1 m 22 s|  57 m 7 s |85,26 kWh |
-|99%|40 kW| 1 m 22 s|  58 m 29 s |86,13 kWh |
-|100%|15 kW| 1 m 59 s| 1 h 0 m 29 s |87,00 kWh |
+|99%|1 kW| 2 m 40 s|  59 m 48 s |86,13 kWh |
+|100%|1 kW| 54 m 56 s| 1 h 54 m 45 s |87,00 kWh |
