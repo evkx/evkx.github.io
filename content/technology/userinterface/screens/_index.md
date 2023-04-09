@@ -138,7 +138,7 @@ Auto Mode: Many climate screens have an “auto” mode that allows the HVAC sys
 
 In most vehicles, the infotainment screen, typically located in the front center console, is primarily designed for the driver’s use. However, some modern cars may have a secondary screen or display dedicated to the front passenger. The functionality and purpose of this passenger-side screen can vary depending on the make, model, and trim level of the vehicle, and it may offer some or all of the following features:
 
-**Media Control:** The passenger-side screen may allow the front passenger to control various media functions, such as changing radio stations, adjusting volume, selecting audio sources, and controlling audio settings like bass, treble, and equalizer. 
+**Media Control:** The passenger-side screen may allow the front passenger to control various media functions, such as changing radio stations, adjusting volume, selecting audio sources, and controlling audio settings like bass, treble, and equalizer.
 
 It may also allow users to play movies and other media on this screen.
 
@@ -159,9 +159,9 @@ In the EVKX EV database, you can search for models with front passenger screens.
     <figcaption><h4>Mercedes EQS Suv front passenger screen</h4></figcaption>
 </figur>
 
-### Rear Seat Entertainment
+### Rear Seat Infotainment
 
-Rear seat entertainment screens provide entertainment options for passengers in the car's back seats, particularly for long trips. These screens may be mounted on the back of the front seat headrests or integrated into the ceiling or center console of the car. They can provide access to video content, gaming, and other entertainment options, often with individual controls for each screen to allow passengers to customize their experience.
+Rear seat infotainment screens provide entertainment options for passengers in the car's back seats, particularly for long trips. These screens may be mounted on the back of the front seat headrests or integrated into the ceiling or center console of the car. They can provide access to video content, gaming, and other entertainment options, often with individual controls for each screen to allow passengers to customize their experience.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/screens/rearseatentertainmant_1.jpg">
@@ -227,7 +227,5 @@ See the examples below.
     </a>
     <figcaption><h4>Mercedes EQS-SUV MBUX Hyperscreen layout with fully integrated</h4></figcaption>
 </figur>
-
-
 
 [Continue to head-up displays.](../hud/)
