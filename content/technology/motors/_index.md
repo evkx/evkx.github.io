@@ -1,6 +1,6 @@
 ---
-title: Motors & Drive Unit
-linktitle: Motors & Drive Unit
+title: Motors & Drive Units
+linktitle: Motors & Drive Units
 description: Electric vehicles (EVs) rely on electric motors to convert electrical energy stored in the battery into mechanical energy to power the vehicle's wheels.
 weight: 2
 ---
