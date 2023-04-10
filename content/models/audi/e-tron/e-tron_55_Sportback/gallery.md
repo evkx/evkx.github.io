@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 55 Sportback gallery
 linktitle: Image Gallery
-description: See below for image gallery. Click pictures to browse.
+description: See below for our large Audi e-tron 55 Sportback image gallery. Click pictures for high-resolution versions.
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

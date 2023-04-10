@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Dream Edition Range gallery
 linktitle: Image Gallery
-description: See below for image gallery. Click pictures to browse.
+description: See below for our large Lucid Air Dream Edition Range image gallery. Click pictures for high-resolution versions.
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

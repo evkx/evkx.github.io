@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Long Range 2WD gallery
 linktitle: Image Gallery
-description: See below for image gallery. Click pictures to browse.
+description: See below for our large Kia EV6 Long Range 2WD image gallery. Click pictures for high-resolution versions.
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

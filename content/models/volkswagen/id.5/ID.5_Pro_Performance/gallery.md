@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.5 Pro Performance gallery
 linktitle: Image Gallery
-description: See below for image gallery. Click pictures to browse.
+description: See below for our large Volkswagen ID.5 Pro Performance image gallery. Click pictures for high-resolution versions.
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

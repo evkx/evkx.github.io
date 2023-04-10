@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ RS iV gallery
 linktitle: Image Gallery
-description: See below for image gallery. Click pictures to browse.
+description: See below for our large SKODA ENYAQ COUPÉ RS iV image gallery. Click pictures for high-resolution versions.
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

@@ -14,11 +14,11 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube MsMyICm3cNk >}}
 
+### AutoTrader: NEW Porsche Taycan RWD Review: More Fun Than Petrol? 10.02.2021
+
+{{< youtube qfXsEfLVPTE >}}
+
 ### carwow: Porsche Taycan RWD review: 0-60mph, 1/4 mile & drift test! 03.02.2021
 
 {{< youtube qinXZ7qwAMI >}}
-
-### Bjørn Nyland: Porsche Taycan 4S 93 kWh charging on Ionity 17.08.2020
-
-{{< youtube 9BhDiwHxa94 >}}
 

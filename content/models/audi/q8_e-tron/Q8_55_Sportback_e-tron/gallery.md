@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 55 Sportback e-tron gallery
 linktitle: Image Gallery
-description: See below for image gallery. Click pictures to browse.
+description: See below for our large Audi Q8 55 Sportback e-tron image gallery. Click pictures for high-resolution versions.
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
