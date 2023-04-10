@@ -2,7 +2,7 @@
 title: Motor Cooling
 linktitle: Motor Cooling
 description: Cooling is an important aspect of electric motor design in electric vehicles (EVs) to ensure optimal performance, efficiency, and reliability.
-weight: 2
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 

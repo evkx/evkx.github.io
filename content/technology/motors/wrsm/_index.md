@@ -2,7 +2,7 @@
 title: WRSM
 linktitle: WRSM
 description: A wound-rotor synchronous motor, also known as a slip-ring synchronous motor, is a type of electric motor that combines features of both synchronous motors and wound-rotor induction motors.
-weight: 2
+weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 

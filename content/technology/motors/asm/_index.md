@@ -2,7 +2,7 @@
 title: Induction Motors
 linktitle: Induction Motors
 description: Induction motors, also known as asynchronous motors, are a type of electric motor that is widely used in electric vehicles (EVs) for their unique characteristics and advantages. 
-weight: 2
+weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 

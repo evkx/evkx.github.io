@@ -55,8 +55,9 @@ Another advantage of synchronous motors is their ability to achieve high efficie
 When a PMSM is not powered and the rotor is free to rotate, the magnetic field of the permanent magnets will still be present, and it can create a phenomenon known as cogging or detent torque. This causes a slight drag that reduces
 effiency in setups where motor is not in use.
 
-A clutch can be used in an electric vehicle (EV) to decouple the motor from the drivetrain, effectively disengaging the motor from the wheels and allowing the vehicle to roll without any drag from the motor. This can help reduce the resistance felt by the wheels when the motor is not powered, which can potentially improve the vehicle's efficiency and reduce energy consumption.
+Some EV manufacturers have uses a clutch to decouple the motor from the drivetrain, effectively disengaging the motor from the wheels and allowing the vehicle to roll without any drag from the motor. This can help reduce the resistance felt by the wheels when the motor is not powered, which can potentially improve the vehicle's efficiency and reduce energy consumption.
 
+Others uses Induction Motors in front and PSMS in rear. Example are all care based on Volkswagen MEB platform.
 
 If you want to learn even more about PSMS motor we recomend watch this video where Lucid explains their PMSM design and compare it with others
 

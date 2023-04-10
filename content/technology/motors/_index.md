@@ -1,6 +1,6 @@
 ---
-title: Motors
-linktitle: Motors
+title: Motors & Drive Unit
+linktitle: Motors & Drive Unit
 description: Electric vehicles (EVs) rely on electric motors to convert electrical energy stored in the battery into mechanical energy to power the vehicle's wheels.
 weight: 2
 ---
@@ -10,24 +10,25 @@ There are different types of electric motors used in EVs, each with its own adva
 
 ## Induction motors
 
-Induction motors, also known as asynchronous motors, are a type of electric motor that is widely used in electric vehicles (EVs) for their unique characteristics and advantages. 
+Induction motors, also known as asynchronous motors, are a type of electric motor that is widely used in electric vehicles (EVs) for their unique characteristics and advantages.
 
-[Read all about Induction motors](asm)
+[Learn about Induction motors](asm)
 
 ## Permanent Magnet Synchronous motors
 
 Synchronous motors are a type of electric motor that is also used in electric vehicles (EVs) for propulsion, but they operate differently from asynchronous motors. Synchronous motors require a physical connection between the rotor and the stator, typically through permanent magnets, which makes them distinct from asynchronous motors that rely on electromagnetic induction.
 
-[Read about PMSM](psm)
+[Learn about PMSM](psm)
 
-## wound-rotor synchronous motor
+## Wound-Rotor Synchronous Motor
 
 A wound-rotor synchronous motor, also known as a slip-ring synchronous motor, is a type of electric motor that combines features of both synchronous motors and wound-rotor induction motors.
 
+[Learn about WRSM](wrsm)
 
 ## Motor cooling
 
-
+Cooling is an important aspect of electric motor design in electric vehicles (EVs) to ensure optimal performance, efficiency, and reliability.
 
 ## Conclusion
 
