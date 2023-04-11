@@ -75,11 +75,21 @@ Cooling is an important aspect of electric motor design in electric vehicles (EV
 
 [Learn all about cooling](cooling)
 
-## Conclusion
+## Motor setup
 
-In conclusion, there are several types of electric motors used in EVs, each with its own advantages and disadvantages.
+Electric vehicles (EVs) can use various motor setups depending on the specific design and requirements of the vehicle. Some of the common motor setups used in EVs include:
 
-AC induction motors are robust and reliable, but less efficient at low speeds. Permanent magnet motors are highly efficient but more expensive to manufacture.
+**Single motor setup:** In a single motor setup, a single electric motor is used to drive the vehicle. This motor can be either a permanent magnet synchronous motor (PMSM) or an asynchronous or induction motor (ASM). It drives either the front or rear wheels of the vehicle.
 
+**Dual motor setup**: In a dual motor setup, two electric motors are used, typically one for each axle or wheel. This setup allows for more precise torque distribution between the front and rear wheels, enabling better traction control and improved performance, especially in all-wheel-drive (AWD) configurations. The motors can be PMSMs, ASMs, or a combination of both.
 
-Switched reluctance motors are highly efficient but require complex control systems.
+**Tri motor setup:** A tri motor setup is similar to a dual motor setup, but with three electric motors instead of two. This setup is relatively rare and is typically used in high-performance or off-road EVs where maximum power and torque are required for exceptional performance and traction.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/motors/trimotorsetupaudi.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/motors/trimotorsetupaudi_st.jpg" alt="Tri motor setup" title="Tri motor setup">
+    </a>
+    <figcaption><h4>Tri motor setup</h4></figcaption>
+</figur>
+
+The choice of motor setup depends on various factors, including the desired performance, efficiency, cost, and packaging constraints of the EV, as well as the target market and application. Different motor setups offer different advantages and trade-offs in terms of performance, efficiency, complexity, and cost, and EV manufacturers carefully select the appropriate motor setup based on their specific requirements and design considerations.

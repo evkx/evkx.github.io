@@ -46,14 +46,13 @@ Synchronous motors in EVs are also known for their precise and efficient control
 
 Another advantage of synchronous motors is their ability to achieve high efficiency over a wide range of speeds and loads. This allows for efficient operation at both low and high speeds, which is particularly useful in EVs that require different levels of power and torque depending on driving conditions.
 
-## Disadvantages
+## Limitations
 
 **Rare earth materials:** PMSM require rare earth magnets, which can be expensive and have environmental implications in terms of mining and sustainability.
 
-**Drag when free rolling:** As the name suggests, permanent magnets retain their magnetic properties without the need for any external power source. Therefore, the magnets in a PMSM will always create a magnetic field as long as they are magnetized.
+**Drag when free rolling:** When an electric vehicle (EV) is coasting or rolling without power, the electric motor can create a drag effect, which is often referred to as "motor drag" or "coasting drag". This drag is caused by the electromagnetic forces within the motor, which can resist the motion of the rotor and create resistance against the vehicle's movement.
 
-When a PMSM is not powered and the rotor is free to rotate, the magnetic field of the permanent magnets will still be present, and it can create a phenomenon known as cogging or detent torque. This causes a slight drag that reduces
-effiency in setups where motor is not in use.
+In the case of permanent magnet motors, which have magnets in the rotor, can generate more drag when the motor is not powered. The magnets in the rotor create a fixed magnetic field, which can create additional resistance to the rotor's motion, resulting in higher motor drag compared to induction motors. However, the drag from the permanent magnet motor can also depend on the specific design and control strategy employed, as some permanent magnet motors may have reduced drag due to advanced motor control techniques.
 
 Some EV manufacturers have uses a clutch to decouple the motor from the drivetrain, effectively disengaging the motor from the wheels and allowing the vehicle to roll without any drag from the motor. This can help reduce the resistance felt by the wheels when the motor is not powered, which can potentially improve the vehicle's efficiency and reduce energy consumption.
 
