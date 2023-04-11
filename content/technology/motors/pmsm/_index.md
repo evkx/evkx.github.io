@@ -14,7 +14,7 @@ weight: 2
     <a href="https://media.evkx.net/multimedia/technology/motors/pmsm/porschetaycanrotor.jpg">
         <img src="https://media.evkx.net/multimedia/technology/motors/pmsm/porschetaycanrotor_st.jpg" alt="Porsche Taycan Rotor" title="Porsche Taycan Rotor">
     </a>
-    <figcaption><h4>Porsche Taycan Rotor</h4></figcaption>
+    <figcaption><h4>Porsche Taycan Rotor with permanent magnets</h4></figcaption>
 </figur>
 
 Typical the rotor has 6 or 8 magnetic poles.
