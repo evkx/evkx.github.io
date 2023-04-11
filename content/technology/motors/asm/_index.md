@@ -35,7 +35,9 @@ Induction motors offer several advantages for EV applications, including:
 
 **Cost-effectiveness:** Induction motors do not require permanent magnets, which can make them more cost-effective compared to other motor types, such as permanent magnet motors.
 
-**Low drag when rolling:** Com
+**Low drag when rolling:** When an electric vehicle (EV) is coasting or rolling without power, the electric motor can create a drag effect, which is often referred to as "motor drag" or "coasting drag". This drag is caused by the electromagnetic forces within the motor, which can resist the motion of the rotor and create resistance against the vehicle's movement.
+
+In the case of induction motors, the rotor does not have any permanent magnets, and the drag from the motor is typically lower compared to permanent magnet motors. This is because induction motors rely on electromagnetic induction to generate the rotating magnetic field in the rotor, which induces current and creates magnetic forces that oppose the rotor's motion. As a result, the motor drag in an induction motor is typically lower, and the vehicle can roll with less resistance when the motor is not actively powered.
 
 ### Limitations
 
