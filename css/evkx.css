@@ -7001,15 +7001,15 @@ h1 {
   @media (min-width: 768px) {
     .a-fontSizeXL, h2,
     .a-h2, .a-tabs.a-tabs-lg .a-tab-btn, .a-jumbotron .a-jumbotron-ingress, .a-blockquote p {
-      font-size: 22px;
-      font-size: 2.2rem;
+      font-size: 16px;
+      font-size: 1.6rem;
       line-height: 1.5;
       -webkit-font-smoothing: subpixel-antialiased; } }
   @media (min-width: 992px) {
     .a-fontSizeXL, h2,
     .a-h2, .a-tabs.a-tabs-lg .a-tab-btn, .a-jumbotron .a-jumbotron-ingress, .a-blockquote p {
-      font-size: 24px;
-      font-size: 2.4rem;
+      font-size: 16px;
+      font-size: 1.6rem;
       line-height: 1.5;
       -webkit-font-smoothing: subpixel-antialiased; } }
   @media (min-width: 1200px) {
