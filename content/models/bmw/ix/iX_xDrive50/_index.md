@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-BMW iX xDrive50 has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
+BMW iX xDrive50 has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/). 
 
 The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 193 mm and max 223 mm. 
 
