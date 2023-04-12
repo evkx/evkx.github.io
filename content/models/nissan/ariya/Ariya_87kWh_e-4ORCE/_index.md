@@ -36,9 +36,9 @@ The Nissan Ariya 87kWh e-4ORCE has a maximum power of 225KW (306hp). The total t
 
 The battery has a gross capacity of 91kWh and a net capacity of 87kWh, meaning you have a 4kWh buffer for protection. (4,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 500 to 459 km (311-285 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,4kWh/100km for the basic version and 19,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 115 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 65% resulting in an actual charge speed including time loss on 92kW. Each charge session would take 36 minutes and 41 seconds. 
+The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 63 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 59% resulting in an actual charge speed including time loss on 98kW. Each charge session would take 28 minutes and 18 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 10 hours and 13 minutes to drive. This trip will require three charge session(s) charging from 2% to 69%. The total time lost for charging will be 114 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 10 hours and 6 minutes to drive. This trip will require four charge session(s) charging from 7% to 57%. The total time lost for charging will be 107 minutes.   
 ### Onboard charger
 
 

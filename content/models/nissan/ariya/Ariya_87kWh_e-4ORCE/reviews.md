@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Out of Spec Reviews: Nissan Ariya 87kWh DC Fast Charging 0-100%! It's Not About The Peak - It's All About the Curve 11.04.2023
+
+{{< youtube q9ABw2BdcaU >}}
+
 ### Out of Spec Reviews: Thirsty Machine - Nissan Ariya 70-MPH Highway Range Test! 87kWh AWD Platinum+ 05.04.2023
 
 {{< youtube sCoJ5aD6Zkc >}}

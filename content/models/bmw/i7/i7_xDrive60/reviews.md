@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: BMW i7 xDrive60 1000 km challenge 12.04.2023
+
+{{< youtube 4rdulfGfLLo >}}
+
 ### Bjørn Nyland: BMW i7 xDrive60 banana box test 09.04.2023
 
 {{< youtube dkRxb1zetJU >}}

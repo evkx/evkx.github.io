@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Kris Rifa: Long Trip Test in Mercedes EQE 53AMG 12.04.2023
+
+{{< youtube ZTcaI2nQw3M >}}
+
 ### Autogefühl: Mercedes EQE 53 AMG driving REVIEW - how good is the AMG EV? 06.07.2022
 
 {{< youtube Sjy-_OR1djk >}}
