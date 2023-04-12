@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-Audi Q4 Sportback 45 e-tron quattro has an all-wheel drive system supported by two motors. One on each axle. 
+Audi Q4 Sportback 45 e-tron quattro has an all-wheel drive system supported by two motors. One on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
 The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
 

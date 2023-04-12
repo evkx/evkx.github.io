@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 ## Drivetrain
 
-Mercedes-EQ EQS 450+ has a rear-wheel drive system supported by one motor on the rear axle. 
+Mercedes-EQ EQS 450+ has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
 The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
 

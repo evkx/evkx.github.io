@@ -55,7 +55,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-SKODA ENYAQ COUPÉ RS iV has an all-wheel drive system supported by two motors. One on each axle. 
+SKODA ENYAQ COUPÉ RS iV has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
 The Sport suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 173 mm. 
 

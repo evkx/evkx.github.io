@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-CUPRA BORN 58 e-BOOST has a rear-wheel drive system supported by one motor on the rear axle. 
+CUPRA BORN 58 e-BOOST has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
 The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 131 mm. 
 

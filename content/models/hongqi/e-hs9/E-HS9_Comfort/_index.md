@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-Hongqi E-HS9 Comfort has an all-wheel drive system supported by two motors. One on each axle. 
+Hongqi E-HS9 Comfort has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The  suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 200 mm. 
 

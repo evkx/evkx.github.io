@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-Audi Q4 Sportback 40 e-tron has a rear-wheel drive system supported by one motor on the rear axle. 
+Audi Q4 Sportback 40 e-tron has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
 

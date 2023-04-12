@@ -55,7 +55,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-Mercedes-EQ EQA 350 4MATIC has an all-wheel drive system supported by two motors. One on each axle. 
+Mercedes-EQ EQA 350 4MATIC has an all-wheel drive system supported by two motors. One on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
 
 

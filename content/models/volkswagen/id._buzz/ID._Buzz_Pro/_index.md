@@ -55,7 +55,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-Volkswagen ID. Buzz Pro has a rear-wheel drive system supported by one motor on the rear axle. 
+Volkswagen ID. Buzz Pro has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
 
 

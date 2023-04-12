@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 ## Drivetrain
 
-BMW iX1 xDrive30 has an all-wheel drive system supported by two motors. One on each axle. 
+BMW iX1 xDrive30 has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
 The Adaptive M Suspension suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 170 mm. 
 

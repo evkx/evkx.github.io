@@ -55,7 +55,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 ## Drivetrain
 
-Mercedes-EQ EQE 300 has a rear-wheel drive system supported by one motor on the rear axle. 
+Mercedes-EQ EQE 300 has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 107 mm. The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 82 mm and max 127 mm. 
 

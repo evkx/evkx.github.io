@@ -55,7 +55,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-BMW i4 eDrive40 has a rear-wheel drive system supported by one motor on the rear axle. 
+BMW i4 eDrive40 has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
 The Standard suspension has air suspension on the rear axle that automaticly keep the car leveled depending on cargo weight. The ground clearance with this suspension is 125 mm. The  suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 125 mm. 
 

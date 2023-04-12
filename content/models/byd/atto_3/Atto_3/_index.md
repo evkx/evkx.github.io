@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW cha
 
 ## Drivetrain
 
-BYD Atto 3 has a front-wheel drive system supported by one motor on the front axle. 
+BYD Atto 3 has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 175 mm. 
 

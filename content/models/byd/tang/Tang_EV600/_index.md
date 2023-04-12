@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW cha
 
 ## Drivetrain
 
-BYD Tang EV600 has an all-wheel drive system supported by two motors. One on each axle. 
+BYD Tang EV600 has an all-wheel drive system supported by two motors. One on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 190 mm. 
 
