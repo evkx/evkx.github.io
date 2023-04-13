@@ -21,3 +21,6 @@ Direct Cooling vs. Indirect Cooling: In direct cooling, the coolant is in direct
 Direct cooling can provide more efficient heat transfer but may require careful design considerations to prevent coolant contamination. Indirect cooling can offer greater flexibility in motor design and reduce the risk of coolant contamination but may have lower heat transfer efficiency.
 
 The choice of cooling method depends on various factors, such as the power and temperature requirements of the motor, the operating environment, and the cost considerations. Proper cooling is essential for maintaining the performance, efficiency, and reliability of electric motors in EVs, and it is an important aspect of motor design and integration in electric vehicles.
+
+
+[Back to main article](../#gears)
