@@ -5,36 +5,43 @@ description: Electric vehicles (EVs) are quickly becoming the norm on our roads.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
-Lighting not only allows drivers to see the road ahead, but it also makes the vehicle more visible to other drivers and pedestrians. In this article, we will explore the various types of lights used on EVs, including LED lights, LED matrix lights, laser lights, adaptive headlights, ambient lights, rear lights, and other relevant lights.
 
-LED Lights
+## Headlights
 
-Light-emitting diode (LED) lights are becoming increasingly popular in EVs. LED lights are more energy-efficient than traditional halogen lights and have a longer lifespan. They also emit a brighter and more focused light, which improves visibility for the driver.
+<figur>
+    <a href="headlights">
+    <img src="https://media.evkx.net/multimedia/technology/lights/audisq8lights_st.jpg" alt="Audi SQ8 lights" title="Audi SQ8 lights">
+    </a>
+    <figcaption><h4>Audi SQ8 headlights</h4></figcaption>
+</figur>
 
-LED Matrix Lights
+As the sun sets and darkness engulfs the landscape, automotive headlights become a beacon of safety, guiding drivers on their journey. Over the years, headlights have evolved from simple oil lamps to sophisticated systems that utilize advanced technologies to provide enhanced visibility and reduce the risk of accidents. However, with the plethora of options available in the market, choosing the right type of headlights can be overwhelming. In this extensive article, we will delve into the world of automotive headlights, exploring their history, functionality, types, and the latest advancements. Join us on this illuminating journey as we shed light on the critical role that headlights play in modern-day driving and how they continue to shape the future of automotive safety.
 
-LED matrix lights are an advanced form of LED lights that offer improved visibility for drivers. These lights use a series of individually controllable LEDs to adjust the lighting pattern based on the driving conditions. For example, the lights can adjust their intensity and direction to avoid blinding oncoming drivers.
-
-Laser Lights
-
-Laser lights are another type of advanced lighting technology used in some EVs. These lights use lasers to create a beam of light that is much brighter and more focused than traditional headlights. Laser lights offer improved visibility and range compared to LED lights.
-
-## Adaptive Headlights
-
-Adaptive headlights are a type of advanced lighting technology that adjusts the direction and intensity of the headlights based on the driving conditions. For example, if the vehicle is turning, the headlights will pivot to illuminate the road ahead. If the vehicle is traveling at high speeds, the headlights will adjust their intensity to provide better visibility.
+[Learn about headlights](headlights)
 
 ## Ambient Lights
 
-Ambient lights are used to create a comfortable and luxurious interior environment for the driver and passengers. These lights are usually located in the footwell, door handles, and dashboard. Ambient lights come in a variety of colors and intensities and can be adjusted to suit the driver's preferences.
+<figur>
+    <a href="ambientlighting">
+    <img src="https://media.evkx.net/multimedia/technology/lights/ambientlighting/mercedeseqsambientlighting_1_st.jpg" alt="Mercedes EQS Ambient Lighting" title="Mercedes EQS Ambient Lighting">
+    </a>
+    <figcaption><h4>Mercedes EQS Ambient Lighting</h4></figcaption>
+</figur>
+
+
+Gone are the days when car interiors were shrouded in darkness once the sun went down. Today, ambient lighting has emerged as a popular automotive trend, transforming the cabin into a mesmerizing and personalized space. From subtle accents that create a cozy ambiance to dynamic displays that dazzle the senses, ambient lights have become a key element in modern car design. But what exactly are ambient lights, and what makes them so special? In this extensive article, we will delve into the world of ambient lights in cars, exploring their origins, functionalities, types, and the latest innovations. Join us on this illuminating journey as we uncover the ways in which ambient lights are enhancing the driving experience and shaping the future of automotive interiors. Get ready to be captivated by the beauty of light as we embark on this voyage into the realm of ambient automotive illumination.
+
+[Learn about ambient lighting](ambientlighting)
 
 ## Rear Lights
 
-Rear lights are an essential component of any vehicle, and EVs are no exception. Rear lights are used to indicate when the vehicle is braking, turning, or reversing. They also make the vehicle more visible to other drivers and pedestrians. Like front lights, rear lights are also becoming more advanced, with LED and matrix lighting technology being used to improve visibility.
+<figur>
+    <a href="rearlights">
+    <img src="https://media.evkx.net/multimedia/technology/lights/eqsrearlights_st.jpg" alt="Mercedes EQS Rear Lights" title="Mercedes EQS Rear Lights">
+    </a>
+    <figcaption><h4>Mercedes EQS Rear Lights</h4></figcaption>
+</figur>
 
-Other Relevant Lights
+In the world of automotive design, every detail matters, and rear lights are no exception. More than just functional components that indicate when a vehicle is braking or turning, rear lights are a canvas for creativity and innovation. With their striking colors, distinctive shapes, and mesmerizing patterns, rear lights have evolved from mere safety features to iconic design elements that contribute to a car's aesthetic appeal. In this extensive article, we will delve into the fascinating world of rear lights on cars, exploring their history, functionalities, designs, and the latest advancements. From classic incandescent bulbs to cutting-edge LED technology, we will uncover the secrets behind the art of illumination in automotive design. Join us on this illuminating journey as we explore the world of rear lights and discover how these seemingly small components make a big impact on the overall look and feel of modern-day automobiles. Get ready to be enlightened by the captivating beauty of rear lights as we embark on this voyage into the world of automotive illumination.
 
-Other relevant lights on EVs include fog lights, daytime running lights, and high beam assist lights. Fog lights are used to improve visibility in foggy conditions. Daytime running lights improve the vehicle's visibility during the day, and high beam assist lights automatically adjust the intensity of the high beams based on oncoming traffic.
-
-Conclusion
-
-In conclusion, lighting is a critical component of EVs, and as technology advances, we can expect to see more advanced lighting systems being used in these vehicles. LED, LED matrix, laser, adaptive, ambient, rear, and other relevant lights are all crucial for the safety and comfort of the driver and passengers. As EVs become more popular, we can expect to see more advanced lighting technology being used to improve visibility and safety on the roads.
+[Learn about rear lights](rearlights)
