@@ -8,9 +8,9 @@ weight: 1
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/lights/headlights/bmwi7headlights.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/bmwi7headlights_st.jpg" alt="Mercedes EQS Ambient Lighting" title="Mercedes EQS Ambient Lighting">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/bmwi7headlights_st.jpg" alt="BMW i7 headlights" title="BMW i7 headlightsg">
     </a>
-    <figcaption><h4>Mercedes EQS Ambient Lighting</h4></figcaption>
+    <figcaption><h4>BMW i7 headlights</h4></figcaption>
 </figur>
 
 These advancements have significantly improved the performance, efficiency, and safety of headlights, allowing for better visibility on the road and enhanced driving experiences. In this article, we will explore the different types of headlight technology used in cars, with a focus on LED headlights, matrix LED headlights, laser headlights, adaptive headlights, and daytime running lights (DRLs).
@@ -30,6 +30,26 @@ Matrix LED headlights, also known as adaptive LED headlights or pixel headlights
 Matrix LED headlights are capable of automatically adjusting the light distribution based on various factors, such as the vehicle's speed, driving conditions, and surroundings. They can dynamically adapt the beam pattern to provide optimal illumination without blinding other road users, thus enhancing safety and comfort for both the driver and other vehicles on the road.
 
 Matrix LED headlights can also incorporate other advanced features, such as automatic high beam control, which can detect oncoming or preceding vehicles and selectively dim or switch off specific LEDs to avoid glare while maintaining maximum illumination in other areas. This enables the driver to enjoy improved visibility without disturbing other road users, making night driving safer and more convenient.
+
+Some of the newest generation Matrix LED headlights offer visual effects to help driver, like the image below showing that the lights can show information on the road.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/audiq8lights_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/audiq8lights_1_st.jpg" alt="Audi Q8 e-tron Digital Matrix LED" title="Audi Q8 e-tron Digital Matrix LED">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron Digital Matrix LED</h4></figcaption>
+</figur>
+
+
+Or it can be used to show just cool effects.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/sq8digitalmatrix.gif">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/sq8digitalmatrix_st.gif" alt="Audi Q8 e-tron Digital Matrix LED" title="Audi Q8 e-tron Digital Matrix LED">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron Digital Matrix LED</h4></figcaption>
+</figur>
+
 
 ## Laser Headlights
 
@@ -58,3 +78,9 @@ DRLs can also be combined with other lighting technologies, such as adaptive hea
 In many countries, DRLs have become a mandatory safety feature on vehicles, and they are regulated by specific laws and regulations. These regulations may specify the positioning, brightness, color, and functionality of DRLs to ensure their effectiveness in improving visibility and safety on the road.
 
 In conclusion, headlight technology in cars has come a long way, with advancements such as LED headlights, matrix LED headlights, laser headlights, adaptive headlights, and daytime running lights (DRLs) greatly improving the performance, efficiency, and safety of automotive lighting systems. These technologies provide better visibility, energy efficiency, and advanced features such as adaptive beam control, augmented reality displays, and improved safety during daytime and nighttime driving. As automotive technology continues to evolve, we can expect further innovations in headlight technology to enhance driving experiences and road safety.
+
+## Illustration
+
+The below video show how the lights works on Audi e-tron GT inlcuding laser lights, matrid Leds, curve lights ++
+
+{{< youtube r4gtZ1dNh4o >}}
