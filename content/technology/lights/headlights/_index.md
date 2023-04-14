@@ -2,11 +2,18 @@
 title: Headlights
 linktitle: Headlights
 description: Headlight technology has come a long way since the early days of automotive lighting, evolving from basic incandescent bulbs to sophisticated LED, matrix LED, and laser headlights.
-weight: 2
+weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
- These advancements have significantly improved the performance, efficiency, and safety of headlights, allowing for better visibility on the road and enhanced driving experiences. In this article, we will explore the different types of headlight technology used in cars, with a focus on LED headlights, matrix LED headlights, laser headlights, adaptive headlights, and daytime running lights (DRLs).
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/bmwi7headlights.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/bmwi7headlights_st.jpg" alt="Mercedes EQS Ambient Lighting" title="Mercedes EQS Ambient Lighting">
+    </a>
+    <figcaption><h4>Mercedes EQS Ambient Lighting</h4></figcaption>
+</figur>
+
+These advancements have significantly improved the performance, efficiency, and safety of headlights, allowing for better visibility on the road and enhanced driving experiences. In this article, we will explore the different types of headlight technology used in cars, with a focus on LED headlights, matrix LED headlights, laser headlights, adaptive headlights, and daytime running lights (DRLs).
 
 ## LED Headlights
 
