@@ -7,14 +7,12 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
 From their humble beginnings as simple incandescent bulbs to the cutting-edge LED lights of today, rear lights have come a long way, both in terms of functionality and aesthetics.
 
-
 <figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/ambientlighting/mercedeseqsambientlighting_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/ambientlighting/mercedeseqsambientlighting_1_st.jpg" alt="Mercedes EQS Ambient lighting" title="Mercedes EQS Ambient lighting">
+    <a href="https://media.evkx.net/multimedia/technology/lights/rearlights/eqsrearlights.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/rearlights/eqsrearlights_st.jpg" alt="Mercedes EQS Ambient lighting" title="Mercedes EQS Ambient lighting">
     </a>
     <figcaption><h4>Mercedes EQS Ambient lighting</h4></figcaption>
 </figur>
-
 
 ## LED Revolution: Efficiency, Versatility, and Style
 
