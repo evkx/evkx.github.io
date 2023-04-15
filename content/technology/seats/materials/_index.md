@@ -2,7 +2,7 @@
 title: Seat materials
 linktitle: Seat materials
 description: Car seat covers are not just functional accessories that protect your vehicle's seats from wear and tear; they also add a touch of style and comfort to your driving experience. One popular type of car seat cover is seat holstering, which refers to the use of various materials like leather, fake leather, leatherette, alcantara, fabric, and more to cover car seats. In this article, we will take an in-depth look at different materials used in seat holstering, discussing their advantages and limitations.
-weight: 2
+weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -11,6 +11,14 @@ Seat Holstering: An In-Depth Look at Different Materials for Car Seat Covers
 ## Leather
 
 Leather is a premium material that is highly desirable for car seat covers due to its luxurious appearance, durability, and comfort. Genuine leather is made from animal hides and is known for its soft, supple texture and natural breathability. Leather seat covers are known for their elegance and can enhance the overall aesthetics of a vehicle's interior. They are also highly durable and can withstand wear and tear from regular use, making them a long-lasting option for car seat covers.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/materials/eqssuvnapaleather_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/eqssuvnapaleather_1_st.jpg" alt="Mercedes EQS Suv Napa Leather" title="Mercedes EQS Suv Napa Leather">
+    </a>
+    <figcaption><h4>Mercedes EQS Suv with ventilated Napa Leather</h4></figcaption>
+</figur>
+
 
 ### Advantages of Leather Seat Covers:
 
@@ -149,6 +157,13 @@ Sustainability and ethical considerations are important factors for many people 
 Genuine leather is made from animal hides, typically from cows, and the production process involves chemical treatments and energy-intensive processes that can have a significant environmental impact. Additionally, the rearing of animals for leather production can raise ethical concerns about animal welfare and sustainability, such as deforestation for grazing land and the use of harsh chemicals in the tanning process.
 
 As a result, there has been a growing interest in vegan or synthetic leather alternatives, such as fake leather, leatherette, and alcantara, which are made from synthetic or plant-based materials and do not involve the use of animal products. These materials are often considered more sustainable and environmentally friendly, as they can reduce the demand for animal-derived materials, minimize the use of chemicals, and have a lower carbon footprint compared to genuine leather.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/materials/etrongtfabric_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/etrongtfabric_1_st.jpg" alt="Audi e-tron GT recycled seat material" title="Audi e-tron GT recycled seat material">
+    </a>
+    <figcaption><h4>Audi e-tron GT recycled seat material</h4></figcaption>
+</figur>
 
 Vegan seat holstering materials also offer other potential benefits, such as being more affordable, easier to clean and maintain, and offering a wider range of color and design options. They may also appeal to individuals who prioritize animal welfare and sustainability in their purchasing decisions, as they do not involve the use of animal products or contribute to the demand for animal-derived materials.
 

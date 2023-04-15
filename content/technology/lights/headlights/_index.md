@@ -13,7 +13,7 @@ weight: 1
     <figcaption><h4>BMW i7 headlights</h4></figcaption>
 </figur>
 
-These advancements have significantly improved headlights' performance, efficiency, and safety, allowing for better visibility on the road and enhanced driving experiences. This article will explore the different types of headlight technology used in cars, focusing on LED headlights, matrix LED headlights, laser headlights, adaptive headlights, and daytime running lights (DRLs).
+These advancements have significantly improved headlights’ performance, efficiency, and safety, allowing for better visibility on the road and enhanced driving experiences. This article will explore the different types of car headlight technology used, focusing on LED headlights, matrix LED headlights, laser headlights, adaptive headlights, and daytime running lights (DRLs).
 
 Light is where legacy auto-makers like Audi, BMW, Mercedes, and more have kept an advantage over new automakers like Tesla & BYD.
 
@@ -30,15 +30,15 @@ LED headlights also offer flexibility in design, allowing for various shapes and
     <figcaption><h4>Tesla headlights</h4></figcaption>
 </figur>
 
-Another significant advantage of LED headlights is their durability. They are more resistant to vibration, shock, and temperature changes, making them highly reliable for long-term use. LED headlights also consume less power than traditional bulbs, improving vehicle fuel efficiency.
+Another significant advantage of LED headlights is their durability. They are more resistant to vibration, shock, and temperature changes, making them highly reliable for long-term use. LED headlights also consume less power than traditional bulbs, improving vehicle energy efficiency.
 
 Most EVs offer sensors that automatically shift between low and high beams depending on traffic.
 
 ## Matrix LED Headlights
 
-Matrix LED headlights, also known as adaptive LED headlights or pixel headlights, represent the next level of headlight technology. They use an array of individually controllable LEDs that can be selectively turned on or off to create precise and adaptive lighting patterns.
+Matrix LED headlights, also known as adaptive LED or pixel headlights, represent the next level of headlight technology. They use an array of individually controllable LEDs that the light controller selectively turns on or off to create precise and adaptive lighting patterns.
 
-Matrix LED headlights are capable of automatically adjusting the light distribution based on various factors, such as the vehicle's speed, driving conditions, and surroundings.
+Matrix LED headlights can automatically adjust the light distribution based on various factors, such as the vehicle’s speed, driving conditions, and surroundings.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/lights/headlights/matrixdim.jpg">
@@ -47,7 +47,7 @@ Matrix LED headlights are capable of automatically adjusting the light distribut
     <figcaption><h4>Matrix Headlights dimming for oncoming traffic</h4></figcaption>
 </figur>
 
-Matrix LED headlights detect oncoming or preceding vehicles and selectively dim or switch off specific LEDs to avoid glare while maintaining maximum illumination in other areas. This enables the driver to enjoy improved visibility without disturbing other road users, making night driving safer and more convenient.
+Matrix LED headlights detect oncoming or preceding vehicles and selectively dim or switch off specific LEDs to avoid glare while maintaining maximum illumination in other areas. This feature lets the driver enjoy improved visibility without disturbing other road users, making night driving safer and more convenient.
 
 Some of the newest generation Matrix LED headlights offer visual effects to help driver, like the image below showing that the lights can show information on the road. Mercedes call this Digital Light while Audi calls it Digital Matrix.  It uses a device from projectors that let them controls million of pixels. 
 

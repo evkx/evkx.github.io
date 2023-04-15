@@ -1,46 +1,24 @@
 ---
 title: Seats
 linktitle: Seats
-description: Car seats are an essential component of any vehicle, including electric vehicles (EVs). As EVs become increasingly popular, manufacturers are incorporating advanced features and technology into their seats to provide passengers with the utmost comfort and convenience.
+description: Welcome to the ultimate guide to car seats! As we spend a significant amount of time in our vehicles, the seats we sit in play a crucial role in providing comfort, support, and safety during our travels. Car seats have come a long way from their basic design, with various types, adjustments, and features available to cater to different needs and preferences.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
- In this extensive article, we will explore the different functionalities of car seats used in EVs, including electric adjustment, lumbar support, massage, ventilation, recline, seat memory, easy entry functionality, leg support, and seat materials.
 
-### Electric Adjustment:
+ In this comprehensive article, we will delve into the world of car seats, exploring the different types of seats, the adjustments and features they offer, and the various types of seat upholstery available. Whether you're a car enthusiast or a concerned parent, this article will equip you with the knowledge to make informed decisions about car seats and enhance your driving experience. So, let's buckle up and dive into the world of car seats!
 
-Electric adjustment is a popular feature in modern car seats. It allows drivers and passengers to adjust the position of the seat using electric controls, eliminating the need for manual adjustment. With the touch of a button, the seat can be moved forward or backward, up or down, or tilted to provide optimal comfort.
+The article is split in to three parts
 
-### Lumbar Support:
+## Seat types
 
-Lumbar support is an essential feature for those who suffer from back pain. It provides additional support to the lower back, reducing the risk of discomfort and injury. Many EV seats come equipped with adjustable lumbar support, allowing drivers and passengers to customize the level of support they need.
+In this part we cover the different seats types used in EVS. 
 
-### Massage:
+[Read about seat types](types)
 
-Some EV seats come with built-in massage functions, which use small motors to provide targeted pressure and vibration to specific areas of the body. This feature can be especially beneficial for those who spend long periods in the car and may experience muscle tension or soreness.
 
-### Ventilation:
+## Seat adjustment optins and features
 
-Ventilated seats are becoming increasingly popular in EVs, especially in warmer climates. These seats use fans to circulate air through perforations in the seat, providing a cooling effect and reducing sweat buildup.
 
-### Recline:
+## Seat upholstery and materials
 
-Reclining seats are a popular feature in many EVs, providing passengers with the ability to adjust the angle of the seatback for optimal comfort. Some EVs even offer fully reclining seats, which can be a useful feature for long road trips.
-
-### Seat Memory:
-
-Seat memory is a feature that allows drivers and passengers to save their preferred seat settings, such as the position, lumbar support, and seatback angle. This feature can be especially useful in vehicles that are shared by multiple drivers or for those who frequently switch between different vehicles.
-
-### Easy Entry Functionality:
-
-Easy entry functionality is a feature that allows the seat to move automatically, providing easier access to the vehicle for those with limited mobility or who are carrying large objects.
-
-### Leg Support:
-
-Leg support is another critical feature in EV seats, providing additional support to the thighs and legs, which can reduce the risk of fatigue and discomfort during long drives.
-
-### Seat Materials:
-
-Seat materials are an essential consideration when selecting EV seats. Popular materials include real and fake leather, fabric, and synthetic materials. Each material has its advantages and disadvantages, such as durability, comfort, and ease of maintenance.
-
-Overall, car seats are a critical component of any EV, providing comfort and safety for passengers. As EV technology continues to evolve, so too will the features and functionalities of car seats, ensuring that passengers can travel in style and comfort.
