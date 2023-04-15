@@ -8,30 +8,48 @@ weight: 1
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/lights/headlights/bmwi7headlights.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/bmwi7headlights_st.jpg" alt="BMW i7 headlights" title="BMW i7 headlightsg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/bmwi7headlights_st.jpg" alt="BMW i7 headlights" title="BMW i7 headlights">
     </a>
     <figcaption><h4>BMW i7 headlights</h4></figcaption>
 </figur>
 
-These advancements have significantly improved the performance, efficiency, and safety of headlights, allowing for better visibility on the road and enhanced driving experiences. In this article, we will explore the different types of headlight technology used in cars, with a focus on LED headlights, matrix LED headlights, laser headlights, adaptive headlights, and daytime running lights (DRLs).
+These advancements have significantly improved headlights' performance, efficiency, and safety, allowing for better visibility on the road and enhanced driving experiences. This article will explore the different types of headlight technology used in cars, focusing on LED headlights, matrix LED headlights, laser headlights, adaptive headlights, and daytime running lights (DRLs).
+
+Light is where legacy auto-makers like Audi, BMW, Mercedes, and more have kept an advantage over new automakers like Tesla & BYD.
 
 ## LED Headlights
 
-LED (Light Emitting Diode) headlights have become increasingly popular in modern vehicles due to their numerous advantages. LED headlights are known for their energy efficiency, long lifespan, and compact size, making them ideal for automotive applications. They produce a bright and crisp light output that closely resembles natural daylight, providing excellent visibility on the road.
+LED (Light Emitting Diode) headlights have become increasingly popular in modern vehicles due to their numerous advantages. LED headlights are known for their energy efficiency, long lifespan, and compact size, making them ideal for automotive applications. In addition, they produce a bright and crisp light output that closely resembles natural daylight, providing excellent visibility on the road.
 
-LED headlights also offer flexibility in design, allowing for various shapes and styles that can enhance the aesthetics of a vehicle's front-end appearance. They can be used for low beam, high beam, and fog lights, providing versatile lighting solutions for different driving conditions. LED headlights also have faster response times compared to traditional bulbs, enabling quicker illumination and better reaction to changing road conditions.
+LED headlights also offer flexibility in design, allowing for various shapes and styles that can enhance the aesthetics of a vehicle’s front-end appearance. In addition, they can be used for low beam, high beam, and fog lights, providing versatile lighting solutions for different driving conditions. LED headlights also have faster response times than traditional bulbs, enabling quicker illumination and better reaction to changing road conditions.
 
-Another significant advantage of LED headlights is their durability. They are more resistant to vibration, shock, and temperature changes, making them highly reliable for long-term use. LED headlights also consume less power than traditional bulbs, contributing to improved fuel efficiency in vehicles.
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/teslaheadlights.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/teslaheadlights_st.jpg" alt="Tesla headlights" title="Tesla headlights">
+    </a>
+    <figcaption><h4>Tesla headlights</h4></figcaption>
+</figur>
+
+Another significant advantage of LED headlights is their durability. They are more resistant to vibration, shock, and temperature changes, making them highly reliable for long-term use. LED headlights also consume less power than traditional bulbs, improving vehicle fuel efficiency.
+
+Most EVs offer sensors that automatically shift between low and high beams depending on traffic.
 
 ## Matrix LED Headlights
 
 Matrix LED headlights, also known as adaptive LED headlights or pixel headlights, represent the next level of headlight technology. They use an array of individually controllable LEDs that can be selectively turned on or off to create precise and adaptive lighting patterns.
 
-Matrix LED headlights are capable of automatically adjusting the light distribution based on various factors, such as the vehicle's speed, driving conditions, and surroundings. They can dynamically adapt the beam pattern to provide optimal illumination without blinding other road users, thus enhancing safety and comfort for both the driver and other vehicles on the road.
+Matrix LED headlights are capable of automatically adjusting the light distribution based on various factors, such as the vehicle's speed, driving conditions, and surroundings.
 
-Matrix LED headlights can also incorporate other advanced features, such as automatic high beam control, which can detect oncoming or preceding vehicles and selectively dim or switch off specific LEDs to avoid glare while maintaining maximum illumination in other areas. This enables the driver to enjoy improved visibility without disturbing other road users, making night driving safer and more convenient.
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/matrixdim.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/matrixdim_st.jpg" alt="Matrix Headlights dimming for oncoming traffic" title="Matrix Headlights dimming for oncoming traffic">
+    </a>
+    <figcaption><h4>Matrix Headlights dimming for oncoming traffic</h4></figcaption>
+</figur>
 
-Some of the newest generation Matrix LED headlights offer visual effects to help driver, like the image below showing that the lights can show information on the road.
+Matrix LED headlights detect oncoming or preceding vehicles and selectively dim or switch off specific LEDs to avoid glare while maintaining maximum illumination in other areas. This enables the driver to enjoy improved visibility without disturbing other road users, making night driving safer and more convenient.
+
+Some of the newest generation Matrix LED headlights offer visual effects to help driver, like the image below showing that the lights can show information on the road. Mercedes call this Digital Light while Audi calls it Digital Matrix.  It uses a device from projectors that let them controls million of pixels. 
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/lights/headlights/audiq8lights_1.jpg">
@@ -77,10 +95,11 @@ DRLs can also be combined with other lighting technologies, such as adaptive hea
 
 In many countries, DRLs have become a mandatory safety feature on vehicles, and they are regulated by specific laws and regulations. These regulations may specify the positioning, brightness, color, and functionality of DRLs to ensure their effectiveness in improving visibility and safety on the road.
 
-In conclusion, headlight technology in cars has come a long way, with advancements such as LED headlights, matrix LED headlights, laser headlights, adaptive headlights, and daytime running lights (DRLs) greatly improving the performance, efficiency, and safety of automotive lighting systems. These technologies provide better visibility, energy efficiency, and advanced features such as adaptive beam control, augmented reality displays, and improved safety during daytime and nighttime driving. As automotive technology continues to evolve, we can expect further innovations in headlight technology to enhance driving experiences and road safety.
-
 ## Illustration
 
 The below video show how the lights works on Audi e-tron GT inlcuding laser lights, matrid Leds, curve lights ++
 
 {{< youtube r4gtZ1dNh4o >}}
+
+
+[Continue to ambient lighting](../ambientlighting/)
