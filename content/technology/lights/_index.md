@@ -37,7 +37,7 @@ Gone are the days when car interiors were shrouded in darkness once the sun went
 
 <figur>
     <a href="rearlights">
-    <img src="https://media.evkx.net/multimedia/technology/lights/eqsrearlights_st.jpg" alt="Mercedes EQS Rear Lights" title="Mercedes EQS Rear Lights">
+    <img src="https://media.evkx.net/multimedia/technology/lights/rearlights/eqsrearlights_st.jpg" alt="Mercedes EQS Rear Lights" title="Mercedes EQS Rear Lights">
     </a>
     <figcaption><h4>Mercedes EQS Rear Lights</h4></figcaption>
 </figur>
