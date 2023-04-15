@@ -95,6 +95,25 @@ DRLs can also be combined with other lighting technologies, such as adaptive hea
 
 In many countries, DRLs have become a mandatory safety feature on vehicles, and they are regulated by specific laws and regulations. These regulations may specify the positioning, brightness, color, and functionality of DRLs to ensure their effectiveness in improving visibility and safety on the road.
 
+Some models lets you configure the design of DRL.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q4drl_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q4drl_1_st.jpg" alt="Audi Q4 e-tron DRL personal style 1" title="Audi Q4 e-tron DRL personal style 1">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron DRL personal style 1</h4></figcaption>
+</figur>
+
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q4drl_2.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q4drl_2_st.jpg" alt="Audi Q4 e-tron DRL personal style 1" title="Audi Q4 e-tron DRL personal style 2">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron DRL personal style 2</h4></figcaption>
+</figur>
+
+
+
 ## Illustration
 
 The below video show how the lights works on Audi e-tron GT inlcuding laser lights, matrid Leds, curve lights ++
