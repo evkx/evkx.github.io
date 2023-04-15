@@ -22,6 +22,13 @@ One of the key advantages of LED rear lights is their efficiency. LEDs require s
 
 Furthermore, LEDs are known for their durability. They have a longer lifespan compared to incandescent bulbs, as they are not prone to burning out or breaking easily. This means that vehicle owners can enjoy longer-lasting rear lights that require fewer replacements, reducing maintenance costs.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/rearlights/eqsrearlights.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/rearlights/eqsrearlights_st.jpg" alt="Mercedes EQS Ambient lighting" title="Mercedes EQS Ambient lighting">
+    </a>
+    <figcaption><h4>Mercedes EQS Ambient lighting</h4></figcaption>
+</figur>
+
 In terms of versatility, LEDs offer automotive designers greater flexibility in creating unique and innovative rear light designs. LEDs are available in various shapes, sizes, and colors, allowing for creative freedom in designing rear lights that are not only functional but also visually appealing. This has resulted in a wide range of rear light designs, from sleek and minimalist to bold and futuristic, adding a touch of style to modern vehicles.
 
 ## Advanced Features: Safety and Convenience

@@ -56,15 +56,18 @@ Drum brakes are a type of brake that is used in some EVs, especially in the rear
 
 One of the main advantages of drum brakes is their simplicity and low cost. They are also very reliable and have a long lifespan. However, they are less effective than other types of brakes, especially at high speeds. Additionally, they can generate a lot of heat, which can lead to brake fade and reduced performance.
 
-Different Sizes
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/brakes/drumbrake.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/brakes/drumbrake_st.jpg" alt="Drumbrakes on VW MEB platform" title="Drumbrakes on VW MEB platform">
+    </a>
+    <figcaption><h4>Drumbrakes on VW MEB platform</h4></figcaption>
+</figur>
+
+## Different Sizes
 
 The size of the brakes used in EVs can vary depending on the vehicle's weight, size, and intended use. Generally, larger brakes are needed for heavier vehicles and for vehicles that are used for high-performance applications.
 
 The size of the brakes is typically determined by the diameter of the brake disc or the brake drum. The larger the diameter, the more surface area there is for the brake pads or shoes to grip, which means more braking force can be applied.
-
-Conclusion
-
-In conclusion, the braking system is a crucial component of any EV, as it is responsible for the safety of the passengers and other road users. Steel disc brakes
 
 ## Brake-by-wire technology and blended brakes
 
@@ -88,3 +91,5 @@ Furthermore, brake-by-wire technology allows for advanced braking features, such
 However, it's important to note that brake-by-wire technology also comes with some potential challenges. One of the main concerns is the reliability and safety of the system, as it relies heavily on electronic components and software. Appropriate fail-safe measures, redundancy, and rigorous testing are essential to ensure the safe operation of the system. Additionally, driver education and training are crucial to help drivers understand the unique characteristics of brake-by-wire systems and how to operate them effectively.
 
 In summary, brake-by-wire technology is an advanced system that allows for seamless integration of regenerative and friction braking in EVs. It offers improved energy efficiency, driving range, and advanced braking features, but also requires careful consideration of reliability, safety, and driver education. As technology continues to evolve, brake-by-wire systems are expected to play a significant role in the future of EV braking systems, contributing to more efficient and sustainable transportation.
+
+In our EVKX database you search for models with differen types of brakes. 
