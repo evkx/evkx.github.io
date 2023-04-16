@@ -126,6 +126,14 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/frontseats_1_st.jpg" alt="Porsche Taycan Turbo S Sport Turismo" title="Porsche Taycan Turbo S Sport Turismo">
+</a>
+<figcaption><h4>Porsche Taycan Turbo S Sport Turismo</h4></figcaption></figur>
+
+
 ### Second-row seats
 
 You can choose two seat types for the second row in the Porsche Taycan Turbo S Sport Turismo. 
@@ -139,6 +147,14 @@ The second option is two integrated seats in the second row with a third smaller
 
 - heating (optional)
 - integrated headrest 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/secondrowseats_1_st.jpg" alt="Porsche Taycan Turbo S Sport Turismo" title="Porsche Taycan Turbo S Sport Turismo">
+</a>
+<figcaption><h4>Porsche Taycan Turbo S Sport Turismo</h4></figcaption></figur>
+
 
 There is only one type of steering wheel available. 
 

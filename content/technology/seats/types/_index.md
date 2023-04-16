@@ -26,10 +26,17 @@ Captain's chairs, also known as captain's seats or captain's chairs with console
     <figcaption><h4>Kia EV9 captain chairs in second row</h4></figcaption>
 </figur>
 
+## Two-Seat Bench in Second Row
 
-## Standard Two-Seat Bench in Second Row
+A uncommon seat configuration in the second row is a two-seat bench. This type of bench seat typically offers seating for two passengers side-by-side, with a shared backrest and seat cushion. Standard two-seat benches in the second row are often found in smaller vehicles or as an optional seating arrangement in larger vehicles. They may come with manual or power adjustments for recline, and can be folded down to create additional cargo space when not in use.
 
-Another common seating configuration in the second row is a standard two-seat bench. This type of bench seat typically offers seating for two passengers side-by-side, with a shared backrest and seat cushion. Standard two-seat benches in the second row are often found in smaller vehicles or as an optional seating arrangement in larger vehicles. They may come with manual or power adjustments for recline, and can be folded down to create additional cargo space when not in use.
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/types/taycanturbostwoseatbench_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/types/taycanturbostwoseatbench_1_st.jpg" alt="Taycan Turbo S Sport Turismo two seat secondrow bench" title="Taycan Turbo S Sport Turismo two seat secondrow bench">
+    </a>
+    <figcaption><h4>Taycan Turbo S Sport Turismo two seat secondrow bench</h4></figcaption>
+</figur>
+
 
 ## Standard Three-Seat Bench in Second Row
 
