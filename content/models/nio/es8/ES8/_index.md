@@ -14,7 +14,7 @@ weight: 10
 </a>
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
 
-We have separated our description of Nio ES8 into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of the Nio ES8 into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -62,11 +62,11 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio ES8 has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
-The suspension is fully adaptive on the front and rear axle, so height, and damping can be adjusted manually and automatically. The minimum ground clearance is 111 mm, and max is 161 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 111 mm, and the max is 161 mm. 
 
 ### Steering
 
-Dynamic steering is standard on Nio ES8. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is standard on the Nio ES8. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -218,7 +218,7 @@ The Nio ES8 has a [**lane keeping assist**](../../../../technology/driverassista
 
 The Nio ES8 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional driver assist system that is designed to help drivers avoid collisions by automatically steering the vehicle in an emergency situation. 
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
 [**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 

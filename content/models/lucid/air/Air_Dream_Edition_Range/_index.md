@@ -14,7 +14,7 @@ weight: 10
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
 
-We have separated our description of Lucid Air Dream Edition Range into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of the Lucid Air Dream Edition Range into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -53,7 +53,7 @@ The  suspension has steel springs with a fixed height, but you can adjust dampin
 
 ### Steering
 
-Dynamic steering is standard on Lucid Air Dream Edition Range. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is standard on the Lucid Air Dream Edition Range. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -190,7 +190,7 @@ The Lucid Air Dream Edition Range has a [**lane keeping assist**](../../../../te
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard driver assist system that is designed to help drivers avoid collisions by automatically steering the vehicle in an emergency situation. 
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
 [**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 

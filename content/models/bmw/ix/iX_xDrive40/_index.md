@@ -14,7 +14,7 @@ weight: 10
 </a>
 <figcaption><h4>BMW iX xDrive40</h4></figcaption></figur>
 
-We have separated our description of BMW iX xDrive40 into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of the BMW iX xDrive40 into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -51,11 +51,11 @@ BMW iX xDrive40 has an all-wheel drive system supported by two motors, one on ea
 
 The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 202 mm. 
 
-You can order BMW iX xDrive40 with an alternative Adaptive Air Suspension suspension. The suspension is fully adaptive on the front and rear axle, so height, and damping can be adjusted manually and automatically. The minimum ground clearance is 193 mm, and max is 223 mm. 
+You can order BMW iX xDrive40 with an alternative Adaptive Air Suspension suspension. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 193 mm, and the max is 223 mm. 
 
 ### Steering
 
-Dynamic steering is standard on BMW iX xDrive40. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is standard on the BMW iX xDrive40. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -190,7 +190,7 @@ The BMW iX xDrive40 has a [**lane keeping assist**](../../../../technology/drive
 
 The BMW iX xDrive40 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional driver assist system that is designed to help drivers avoid collisions by automatically steering the vehicle in an emergency situation. 
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
 ### Driving Automation
 

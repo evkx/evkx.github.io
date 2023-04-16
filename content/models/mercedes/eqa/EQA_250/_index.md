@@ -14,7 +14,7 @@ weight: 10
 </a>
 <figcaption><h4>Mercedes-EQ EQA 250</h4></figcaption></figur>
 
-We have separated our description of Mercedes-EQ EQA 250 into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of the Mercedes-EQ EQA 250 into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -53,7 +53,7 @@ Mercedes-EQ EQA 250 has a front-wheel drive system supported by one motor on the
 
 ### Steering
 
-Dynamic steering is standard on Mercedes-EQ EQA 250. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is standard on the Mercedes-EQ EQA 250. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -202,7 +202,7 @@ The Mercedes-EQ EQA 250 has a [**lane keeping assist**](../../../../technology/d
 
 The Mercedes-EQ EQA 250 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional driver assist system that is designed to help drivers avoid collisions by automatically steering the vehicle in an emergency situation. 
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
 [**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 
