@@ -56,3 +56,16 @@ Porsche Taycan GTS Sport Turismo is an all-electric station wagon with a WLTP ra
 - [Porsche Taycan GTS Sport Turismo image gallery](/models/porsche/taycan/taycan_gts_sport_turismo//gallery)
 - [Porsche Taycan GTS Sport Turismo reviews](/models/porsche/taycan/taycan_gts_sport_turismo//reviews)
 
+## Porsche Taycan Turbo
+
+[![Taycan Turbo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1_st.jpg)](/models/porsche/taycan/taycan_turbo/)
+
+Porsche Taycan Turbo is an all-electric luxury sedan with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. 
+
+- [Porsche Taycan Turbo article](/models/porsche/taycan/taycan_turbo/)
+- [Porsche Taycan Turbo Range & consumption info](/models/porsche/taycan/taycan_turbo//rangeandconsumption)
+- [Porsche Taycan Turbo Charging curve and performance](/models/porsche/taycan/taycan_turbo//chargingcurve)
+- [Porsche Taycan Turbo full specifications](/models/porsche/taycan/taycan_turbo//specifications)
+- [Porsche Taycan Turbo image gallery](/models/porsche/taycan/taycan_turbo//gallery)
+- [Porsche Taycan Turbo reviews](/models/porsche/taycan/taycan_turbo//reviews)
+
