@@ -2,7 +2,7 @@
 title: EV models
 linktitle: EV models
 description: The future is electric, and EVKX.net gives you a complete overview of the EV market's brands, models, and variants.
-weight: 30
+weight: 2
 ---
 ## Audi
 
@@ -104,7 +104,9 @@ Skoda has 0 models with total 0 variants. [Read all about them](skoda/)
 
 ## Tesla
 
-Tesla, Inc. is an American multinational automotive and clean energy company headquartered in Austin, Texas. Tesla designs and manufactures electric vehicles (electric cars and trucks), battery energy storage from home to grid-scale, solar panels and solar roof tiles, and related products and services. 
+[![Tesla](https://media.evkx.net/multimedia/models/tesla/brandevs_st.jpg)](tesla/)
+
+Tesla, Inc., founded by Elon Musk in 2003, is a leading American electric vehicle (EV) and clean energy company headquartered in Palo Alto, California. Tesla's mission is to accelerate the world's transition to sustainable energy through the production of electric vehicles, renewable energy solutions, and energy storage systems. 
 
 Tesla has 3 models with total 7 variants. [Read all about them](tesla/)
 

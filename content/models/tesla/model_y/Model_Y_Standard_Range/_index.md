@@ -57,9 +57,9 @@ Dynamic steering is standard on Tesla Model Y Standard Range. Dynamic steering v
 
 ### Brakes
 
-The rear and front brakes are cast-iron discs. The front discs are 355mm, and the rear discs are 355mm. 
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm. 
 
-Regenerative braking is available through one-pedal driving. Adaptive regen or coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. 
 
 ## Exterior
 

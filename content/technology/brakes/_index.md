@@ -37,7 +37,7 @@ Disc brakes have become the standard in most modern vehicles due to their perfor
 
 Brake discs, or rotors, can be made of different materials depending on the specific application and performance requirements.
 
-### Steel Disc Brakes
+### Cast-iron/Steel Disc Brakes
 
 Steel disc brakes are the most common type of brakes used in automobiles, including EVs. These brakes work by using friction between the brake pads and the brake disc to slow down or stop the vehicle. The brake pads are made of a composite material that includes steel fibers, carbon fibers, and ceramic materials. The brake disc is usually made of cast iron.
 

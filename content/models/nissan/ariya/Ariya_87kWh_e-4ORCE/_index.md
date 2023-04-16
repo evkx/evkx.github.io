@@ -57,9 +57,9 @@ Dynamic steering is optional on Nissan Ariya 87kWh e-4ORCE. Dynamic steering var
 
 ### Brakes
 
-The rear and front brakes are cast-iron discs. 
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-Regenerative braking is available in two modes. You can use one-pedal driving or you can coast and use the blended brakes to regen. 
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
 
 ## Exterior
 

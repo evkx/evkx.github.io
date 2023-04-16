@@ -53,9 +53,9 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-The rear and front brakes are cast-iron discs. 
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-Regenerative braking is available through one-pedal driving combined with blended brakes. Adaptive regen or coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
 
 ## Exterior
 
