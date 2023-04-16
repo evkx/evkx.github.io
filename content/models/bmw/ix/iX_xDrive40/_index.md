@@ -34,7 +34,7 @@ The BMW iX xDrive40 has a maximum power of 240KW (326hp). The total torque is 63
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 76,6kWh and a net capacity of 71kWh, meaning you have a 5,6kWh buffer for protection. (7,3%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 425 to 372 km (264-231 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,7kWh/100km for the basic version and 19,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 76,6kWh and a net capacity of 71kWh, meaning you have a 5,6kWh buffer for protection. (7,3%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 425 to 372 km (264-231 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,7kWh/100km for the basic version and 19,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 42% resulting in an actual charge speed including time loss on 93kW. Each charge session would take 19 minutes and 43 seconds. 
 
@@ -188,7 +188,7 @@ The BMW iX xDrive40 has a [**lane keeping assist**](../../../../technology/drive
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The BMW iX xDrive40 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The BMW iX xDrive40 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

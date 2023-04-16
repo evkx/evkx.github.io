@@ -37,14 +37,14 @@ The Nio EL7 has a maximum power of 480KW (653hp). The total torque is 850nm. The
 Nio EL7 has two battery options with different specifications. Below you see how this affects range and charging. 
 ### 100kWh
 
-The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 513 to 486 km (319-302 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,5kWh/100km for the basic version and 18,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 513 to 486 km (319-302 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,5kWh/100km for the basic version and 18,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 83 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 72% resulting in an actual charge speed including time loss on 79kW. Each charge session would take 44 minutes and 24 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 10 hours and 37 minutes to drive. This trip will require three charge session(s) charging from 7% to 74%. The total time lost for charging will be 137 minutes.   
 ### 75kWh
 
-The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 394 to 372 km (245-231 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,5kWh/100km for the basic version and 18,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 394 to 372 km (245-231 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,5kWh/100km for the basic version and 18,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 140kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74% resulting in an actual charge speed including time loss on 77kW. Each charge session would take 37 minutes and 57 seconds. 
 
@@ -206,7 +206,7 @@ The Nio EL7 has a [**lane keeping assist**](../../../../technology/driverassista
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The Nio EL7 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Nio EL7 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

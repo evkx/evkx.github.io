@@ -34,7 +34,7 @@ With overboost, the Audi SQ8 e-tron has a maximum power of 370KW (503hp). Withou
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 114kWh and a net capacity of 106kWh, meaning you have a 8kWh buffer for protection. (7,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 494 to 454 km (307-282 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 21,5kWh/100km for the basic version and 23,3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 114kWh and a net capacity of 106kWh, meaning you have a 8kWh buffer for protection. (7,0%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 494 to 454 km (307-282 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 21,5kWh/100km for the basic version and 23,3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 66 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 74% resulting in an actual charge speed including time loss on 122kW. Each charge session would take 37 minutes and 58 seconds. 
 
@@ -210,7 +210,7 @@ The Audi SQ8 e-tron has a [**lane keeping assist**](../../../../technology/drive
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The Audi SQ8 e-tron has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Audi SQ8 e-tron has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

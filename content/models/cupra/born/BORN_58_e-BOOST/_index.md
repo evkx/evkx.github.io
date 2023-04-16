@@ -34,7 +34,7 @@ With overboost, the CUPRA BORN 58 e-BOOST has a maximum power of 170KW (231hp). 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 62kWh and a net capacity of 58kWh, meaning you have a 4kWh buffer for protection. (6,5%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 420 to 362 km (261-225 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,8kWh/100km for the basic version and 16,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 62kWh and a net capacity of 58kWh, meaning you have a 4kWh buffer for protection. (6,5%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 420 to 362 km (261-225 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,8kWh/100km for the basic version and 16,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 63 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 43% resulting in an actual charge speed including time loss on 77kW. Each charge session would take 19 minutes and 28 seconds. 
 
@@ -184,7 +184,7 @@ The CUPRA BORN 58 e-BOOST has a [**lane keeping assist**](../../../../technology
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The CUPRA BORN 58 e-BOOST has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The CUPRA BORN 58 e-BOOST has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

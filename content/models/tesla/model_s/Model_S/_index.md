@@ -34,7 +34,7 @@ The Tesla Model S has a maximum power of 760KW (1033hp). The total torque is 493
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 100kWh and a net capacity of 96kWh, meaning you have a 4kWh buffer for protection. (4,0%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 649 to 634 km (403-394 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,8kWh/100km for the basic version and 15,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 100kWh and a net capacity of 96kWh, meaning you have a 4kWh buffer for protection. (4,0%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 649 to 634 km (403-394 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,8kWh/100km for the basic version and 15,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 80 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 47% resulting in an actual charge speed including time loss on 143kW. Each charge session would take 16 minutes and 9 seconds. 
 
@@ -173,7 +173,7 @@ The Tesla Model S has a [**lane keeping assist**](../../../../technology/drivera
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The Tesla Model S has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Tesla Model S has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

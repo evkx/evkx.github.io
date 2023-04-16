@@ -34,7 +34,7 @@ The Mercedes-EQ EQA 250 has a maximum power of 168KW (228hp). The total torque i
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 69,7kWh and a net capacity of 66,5kWh, meaning you have a 3,2kWh buffer for protection. (4,6%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 438 to 411 km (272-255 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,2kWh/100km for the basic version and 16,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 69,7kWh and a net capacity of 66,5kWh, meaning you have a 3,2kWh buffer for protection. (4,6%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 438 to 411 km (272-255 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,2kWh/100km for the basic version and 16,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 112kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 70% resulting in an actual charge speed including time loss on 84kW. Each charge session would take 31 minutes and 19 seconds. 
 
@@ -200,7 +200,7 @@ The Mercedes-EQ EQA 250 has a [**lane keeping assist**](../../../../technology/d
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The Mercedes-EQ EQA 250 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Mercedes-EQ EQA 250 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

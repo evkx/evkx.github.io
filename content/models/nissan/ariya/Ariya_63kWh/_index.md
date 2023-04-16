@@ -34,7 +34,7 @@ The Nissan Ariya 63kWh has a maximum power of 160KW (218hp). The total torque is
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 66kWh and a net capacity of 63kWh, meaning you have a 3kWh buffer for protection. (4,5%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 403 to 359 km (250-223 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,6kWh/100km for the basic version and 17,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 66kWh and a net capacity of 63kWh, meaning you have a 3kWh buffer for protection. (4,5%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 403 to 359 km (250-223 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,6kWh/100km for the basic version and 17,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 52 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 57% resulting in an actual charge speed including time loss on 80kW. Each charge session would take 26 minutes and 52 seconds. 
 
@@ -172,7 +172,7 @@ The Nissan Ariya 63kWh has a [**lane keeping assist**](../../../../technology/dr
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The Nissan Ariya 63kWh has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Nissan Ariya 63kWh has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 
