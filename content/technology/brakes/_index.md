@@ -108,7 +108,7 @@ Key differences between floating and fixed brake calipers include:
 
 **Brake performance:** Fixed calipers are generally known for providing higher performance and better braking performance, especially in high-performance or heavy-duty applications, due to their increased clamping force and piston arrangement.
 
-Both floating and fixed calipers are used in disc brake systems and have their advantages and disadvantages depending on the specific application and performance requirements. The choice between floating and fixed calipers is typically determined by factors such as vehicle type, performance requirements, cost considerations, and manufacturer preferences.
+Both floating and fixed calipers are used in disc brake systems and have their advantages and disadvantages depending on the specific application and performance requirements. The choice between floating and fixed calipers is typically determined by factors such as vehicle type, performance requirements, cost considerations, and manufacturer preferences. Many models have fixed calipers on front axle, and floating on rear axle. 
 
 ## Drum Brakes
 
