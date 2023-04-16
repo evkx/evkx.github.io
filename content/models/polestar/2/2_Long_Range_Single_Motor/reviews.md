@@ -6,3 +6,7 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Autogefûhl: Polestar 2 FWD Single Motor REVIEW - best choice for this EV? 04.11.2021
+
+{{< youtube ijul380ehSY >}}
+

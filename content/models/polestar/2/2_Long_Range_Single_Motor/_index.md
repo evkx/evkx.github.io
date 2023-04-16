@@ -59,12 +59,20 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 9 different paint colors when ordering this model. 
-Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
+You can choose between 6 different paint colors when ordering this model. 
+Additionally, you can choose between 3 wheels with sizes from 19 to 20 inches. 
 
 
 
 You can choose between two types of roofs on this model. The optional has a panoramic roof. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/exteriore_3.jpg">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/exteriore_3_st.jpg" alt="Polestar 2 Long Range Single Motor" title="Polestar 2 Long Range Single Motor">
+</a>
+<figcaption><h4>Polestar 2 Long Range Single Motor</h4></figcaption></figur>
+
 
 ## Interior
 
@@ -96,6 +104,14 @@ The following functionalities are available on the **** seat.
 
 - heating 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/secondrowseats_1_st.jpg" alt="Polestar 2 Long Range Single Motor" title="Polestar 2 Long Range Single Motor">
+</a>
+<figcaption><h4>Polestar 2 Long Range Single Motor</h4></figcaption></figur>
+
+
 There is only one type of steering wheel available. 
 
 ## Climate system
@@ -114,7 +130,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Polestar 2 Long Range Single Motor has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The touch screen at the top of the center console is 11,2 inches large. 
+Polestar 2 Long Range Single Motor has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large. The touch screen at the top of the center console is 11,2 inches large. 
 
 
 <figur>
