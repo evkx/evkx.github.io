@@ -94,7 +94,7 @@ Nissan has 1 models with total 3 variants. [Read all about them](nissan/)
 
 Porsche is a German luxury sports car manufacturer that was founded in 1931 by Ferdinand Porsche. The company has a long history of producing high-performance sports cars that are known for their engineering excellence, innovative design, and motorsports success.
 
-Porsche has 1 models with total 6 variants. [Read all about them](porsche/)
+Porsche has 1 models with total 7 variants. [Read all about them](porsche/)
 
 ## Skoda
 

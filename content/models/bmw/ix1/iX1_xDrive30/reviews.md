@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: BMW iX1 interior review 16.04.2023
+
+{{< youtube S25yaeEcByQ >}}
+
 ### Bjørn Nyland: BMW iX1 banana box test 13.04.2023
 
 {{< youtube K3eb3vyMFvw >}}

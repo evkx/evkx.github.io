@@ -102,19 +102,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are three seat types you can choose from for the front row in the Porsche Taycan Turbo S. 
-
-The following functionalities are available on the **Comfort** seat. 
-
-- electric adjustment 
-- heating (optional)
-- memory driver seat (optional)
-- electric lumbar support 
-- integrated headrest 
-
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
+There are two seat types you can choose from for the front row in the Porsche Taycan Turbo S. 
 
 The following functionalities are available on the **Comfortseats with memory** seat. 
 
