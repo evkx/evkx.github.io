@@ -84,6 +84,32 @@ However, there are some downsides to ceramic brakes. One of the main drawbacks i
 
 Overall, ceramic brakes are a high-performance braking option for EVs that offer excellent thermal resistance, durability, and weight reduction benefits. However, their higher cost and potential limitations in extreme cold temperatures should be considered when evaluating their suitability for a particular EV application.
 
+### Floating or fixed brake caliper?
+
+The brake caliper can be either floating or fixed.
+
+#### Floating Brake Caliper
+
+A floating brake caliper, also known as a sliding caliper or single-piston caliper, has a piston(s) on one side of the brake rotor, while the other side "floats" or slides on guide pins or bolts. When the brakes are applied, hydraulic pressure pushes the piston(s) against the brake pads, which then clamp onto the rotor, creating friction and slowing down the vehicle. The sliding side of the caliper moves inward, guided by the pins or bolts, to allow the brake pads to contact the rotor. This design allows the caliper to self-center and adjust for variations in rotor thickness and wear.
+
+#### Fixed Brake Caliper
+
+A fixed brake caliper, also known as a opposed-piston caliper or multi-piston caliper, has pistons on both sides of the brake rotor. The caliper is mounted rigidly to the vehicle's suspension or axle, and both sets of pistons apply pressure on the brake pads simultaneously to clamp onto the rotor when the brakes are applied. Fixed calipers typically have multiple pistons on each side of the caliper, arranged in a opposed configuration, which helps to evenly distribute the clamping force on the brake pads and provide consistent braking performance.
+
+Key differences between floating and fixed brake calipers include:
+
+**Construction:** Floating calipers typically have a single piston on one side of the caliper, while fixed calipers have multiple pistons on both sides of the caliper.
+
+**Mounting:** Floating calipers "float" or slide on guide pins or bolts, allowing for self-centering and accommodating rotor wear, while fixed calipers are rigidly mounted to the vehicle's suspension or axle.
+
+**Number of pistons:** Floating calipers typically have one piston per caliper, while fixed calipers may have multiple pistons per caliper, often in an opposed configuration.
+
+**Brake pad wear:** Floating calipers may wear brake pads unevenly due to their sliding design, while fixed calipers tend to wear brake pads more evenly.
+
+**Brake performance:** Fixed calipers are generally known for providing higher performance and better braking performance, especially in high-performance or heavy-duty applications, due to their increased clamping force and piston arrangement.
+
+Both floating and fixed calipers are used in disc brake systems and have their advantages and disadvantages depending on the specific application and performance requirements. The choice between floating and fixed calipers is typically determined by factors such as vehicle type, performance requirements, cost considerations, and manufacturer preferences.
+
 ## Drum Brakes
 
 Drum brakes are a type of brake that is used in some EVs, especially in the rear wheels. They work by using friction between the brake shoes and the inside of the brake drum to slow down or stop the vehicle. The brake shoes are made of a composite material that includes steel fibers, carbon fibers, and ceramic materials. The brake drum is usually made of cast iron.
