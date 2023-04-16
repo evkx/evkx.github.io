@@ -1,32 +1,37 @@
 ---
 title: Brakes
 linktitle: Brakes
-description: The braking system is crucial for the safety of the passengers and other road users, as well as the longevity of the vehicle. In this article, we will explore the different types of brakes used in EVs, including steel disc brakes, carbid brakes, carbon brakes, and drum brakes.
+description: The braking system is crucial for the safety of the passengers and other road users, as well as the longevity of the vehicle. This article will explore the different types of EV brakes, including steel disc brakes, carbide brakes, ceramic brakes, and drum brakes. It also includes details about blended brakes.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-Due to the [regenerative braking](../regen/) capability of electric motors in EVs, the traditional friction brakes may be used less frequently, resulting in reduced wear on the brake pads and discs compared to ICE vehicles. 
-
-However, it's important to note that all EVs still have traditional friction brakes as a backup or supplementary system for hard braking or emergency situations. The use of regenerative braking and traditional friction brakes in EVs depends on the specific design and configuration of the vehicle, as well as the preferences and driving habits of the driver.
+Due to the [regenerative braking](../regen/) capability of electric motors in EVs, the traditional friction brakes may be used less frequently, resulting in reduced wear on the brake pads and discs compared to ICE vehicles.
+However, it’s important to note that all EVs still have traditional friction brakes as a backup or supplementary system for hard braking or emergencies. The use of regenerative braking and standard friction brakes in EVs depends on the specific design and configuration of the vehicle, as well as the preferences and driving habits of the driver.
 
 ## Disc Brakes
 
-Disc brakes, also known as "disk brakes," are a type of braking system used in automobiles. They are a type of friction-based braking system that uses a rotating disc, or rotor, to slow down or stop the vehicle.
+Disc brakes, or “disk brakes,” are automobile braking systems. They are a friction-based braking system that uses a rotating disc, or rotor, to slow down or stop the vehicle.
 
-In a typical disc brake system, there are several components, including the brake rotor, brake caliper, brake pads, and sometimes brake lines and brake master cylinder. The brake rotor is a flat, circular metal disc that is attached to the wheel hub and rotates with the wheel.
+A typical disc brake system has several components, including the brake rotor, brake caliper, brake pads, and sometimes brake lines and brake master cylinder. The brake rotor is a flat, circular metal disc attached to the wheel hub and rotates with the wheel.
+
+The brake caliper is a mechanism that houses the brake pads and is positioned over the brake rotor. The brake pads are typically made of high-friction material and are positioned on each rotor side. When the driver applies the brakes, hydraulic pressure is used to push the brake pads against the rotor, creating friction and causing the vehicle to slow down or stop. Pistons are used to push the brake pads, and more powerful brakes have more pistons.
 
 <figur>
-    <a href="https://media.evkx.net/multimedia/technology/brakes/discbrakes_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/brakes/discbrakes_1_st.jpg" alt="Front axle with orange brake caliper and steeel disc" title="Front axle with orange brake caliper and steeel disc">
+    <a href="https://media.evkx.net/multimedia/technology/brakes/discbrakes_3.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/brakes/discbrakes_3_st.jpg" alt="Front axle with 6 piston brake caliper and ventilated disc" title="Front axle with 6 piston brake caliper and ventilated disc">
     </a>
-    <figcaption><h4>Front axle with orange brake caliper and steeel disc</h4></figcaption>
+    <figcaption><h4>Front axle with 6-piston brake caliper and ventilated disc</h4></figcaption>
 </figur>
 
-
-The brake caliper is a mechanism that houses the brake pads and is positioned over the brake rotor. The brake pads are typically made of a high-friction material and are positioned on each side of the rotor. When the driver applies the brakes, hydraulic pressure is used to push the brake pads against the rotor, creating friction and causing the vehicle to slow down or come to a stop. Pistons are used to push the brake pads, and more powerful brakes have more pistons. 
-
 Disc brakes are known for their superior stopping power and heat dissipation compared to other types of braking systems, such as drum brakes. They are more effective in dissipating heat generated during braking, which helps to reduce brake fade, a phenomenon where the braking performance decreases due to excessive heat buildup. Disc brakes also tend to provide more consistent and linear braking performance, allowing for better modulation and control.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/brakes/brakepads_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/brakes/brakepads_1_st.jpg" alt="Mercedes Benz Brake Pad" title="Mercedes Benz Brake Pad">
+    </a>
+    <figcaption><h4>Mercedes Benz Brake Pad</h4></figcaption>
+</figur>
 
 Disc brakes have become the standard in most modern vehicles due to their performance advantages, although some older or smaller vehicles may still use drum brakes in certain applications. Disc brakes can be found on both the front and rear wheels of many vehicles and are a critical safety feature that plays a crucial role in the overall braking system of a vehicle.
 
