@@ -55,7 +55,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 
