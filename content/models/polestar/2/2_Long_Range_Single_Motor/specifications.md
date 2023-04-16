@@ -20,11 +20,11 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|572 km|
-|Basic trim WLTP consumption|13,8 kWh/100km|
+|Basic trim WLTP range|635 km|
+|Basic trim WLTP consumption|12,4 kWh/100km|
 |Basic trim WLTP consumption with charging loss|16,7 kWh/100km|
-|Top trim WLTP range|553 km|
-|Top trim WLTP consumption|14,3 kWh/100km|
+|Top trim WLTP range|591 km|
+|Top trim WLTP consumption|13,4 kWh/100km|
 |Top trim WLTP consumption with charging loss|17,3 kwh/100km|
 
 
