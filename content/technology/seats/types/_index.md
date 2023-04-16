@@ -11,6 +11,14 @@ When it comes to car interiors, the type of seats installed can greatly impact c
 
 The most common type of car seats found in the front row are the standard front seats. These seats are typically designed for the driver and front passenger and provide basic seating comfort and support. They usually come with manual or power adjustments for height, recline, and forward/backward positioning, allowing drivers and passengers to customize their seating position for optimal comfort during long drives. Standard front seats often feature adjustable headrests, lumbar support, and seat heaters or coolers for added convenience and luxury.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/types/eqsfrontseats_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/types/eqsfrontseats_1_st.jpg" alt="Mercedes-AMG EQS Front seats" title="Mercedes-AMG EQS Front seats">
+    </a>
+    <figcaption><h4>Mercedes-AMG EQS Front seats</h4></figcaption>
+</figur>
+
+
 ## Three-Seat Bench in Front
 
 In some older or larger vehicles, a three-seat bench may be installed in the front row instead of individual front seats. This type of seating arrangement allows for three passengers to sit abreast in the front row, which can be advantageous for families or commercial vehicles. However, three-seat benches in the front row are becoming less common in modern vehicles due to safety concerns, as they may not provide the same level of individual support and safety features as standard front seats.
