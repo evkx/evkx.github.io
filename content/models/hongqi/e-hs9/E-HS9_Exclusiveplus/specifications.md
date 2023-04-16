@@ -1,7 +1,7 @@
 ---
-title: Hongqi E-HS9 Comfort specifications
+title: Hongqi E-HS9 Exclusive+ specifications
 linktitle: Specifications
-description: See below for specifications for Hongqi E-HS9 Comfort
+description: See below for specifications for Hongqi E-HS9 Exclusive+
 weight: 30
 ---
 
@@ -9,10 +9,10 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|320 Kw|
-|Electrical torque output in Nm|300 Nm|
+|Peak electrical output in kW|405 Kw|
+|Electrical torque output in Nm|670 Nm|
 |Top speed|200 km/h|
-|0-100km/h (0-62 mph)|6,5 s|
+|0-100km/h (0-62 mph)|4,9 s|
 
 
 
@@ -20,8 +20,8 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|WLTP range|396 km|
-|WLTP consumption|20,6 kWh/100km|
+|WLTP range|515 km|
+|WLTP consumption|22,1 kWh/100km|
 |WLTP consumption with charging loss|22 kWh/100km|
 
 
@@ -30,8 +30,8 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Battery gross|84 kWh|
-|Battery net|81,7 kWh|
+|Battery gross|120 kWh|
+|Battery net|114 kWh|
 |Max DC charging|135 kW|
 
 
@@ -57,12 +57,12 @@ weight: 30
 |Adaptive suspension|Yes, standard equipment|
 |Adjustable damping front|Yes, optional equipment|
 |Adjustable damping rear|Yes, optional equipment|
-|Adjustable height front|Not available|
-|Adjustable height rear|Not available|
-|Max ground clearance|200|
-|Minimum ground clearance|200|
-|Suspension type front|SteelSpringsWithOilDampers|
-|Suspension type rear|SteelSpringsWithOilDampers|
+|Adjustable height front|Yes, standard equipment|
+|Adjustable height rear|Yes, standard equipment|
+|Max ground clearance|260|
+|Minimum ground clearance|170|
+|Suspension type front|AirSuspension|
+|Suspension type rear|AirSuspension|
 
 ## Driver Assistance
 

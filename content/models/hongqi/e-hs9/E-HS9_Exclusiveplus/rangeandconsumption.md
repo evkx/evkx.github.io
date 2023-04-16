@@ -1,7 +1,7 @@
 ---
-title: Hongqi E-HS9 Premium range & consumption
+title: Hongqi E-HS9 Exclusive+ range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Hongqi E-HS9 Premium.
+description: Here you find all details about range and consumption for Hongqi E-HS9 Exclusive+.
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
@@ -17,8 +17,8 @@ Below are the officially rated ranges. The tests are performed with the heating/
 
 | | Range  | Consumption  |
 |----|-----|------|
-| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 465 km / 289mi |20,49kWh/100km / 3,0 mi/kWh | 
-| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 465 km / 289mi | 20,49 kWh/100km / 3,0 mi/kWh | 
+| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 515 km / 320mi |22,14kWh/100km / 2,8 mi/kWh | 
+| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 515 km / 320mi | 22,14 kWh/100km / 2,8 mi/kWh | 
 
 ### Official test cycle results with added heating
 
@@ -26,8 +26,8 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 
 | | Range  | Change  |
 |----|-----|------|
-| WLTP-combined basic trim with 2KW AC | 384km /239 mi | -17,4%|
-| WLTP-combined top trim with 2KW AC | 384km /239 mi | -17,4%|
+| WLTP-combined basic trim with 2KW AC | 431km /268 mi | -16,3%|
+| WLTP-combined top trim with 2KW AC | 431km /268 mi | -16,3%|
 
 ### Real world range estimates
 
@@ -35,5 +35,5 @@ The table below shows some estimated real-world examples in perfect condition an
 
 | | Range  | Consumption  |
 |----|-----|------|
-| 120kmh/75mph perfect condition | 298km /185mi| 32 kWh/100km / 1,9 mi/kWh |
-| 120kmh/75mph with 2KW heating | 456km /283mi| 33,7 kWh/100km / 1,8 mi/kWh |
+| 120kmh/75mph perfect condition | 356km /221mi| 32 kWh/100km / 1,9 mi/kWh |
+| 120kmh/75mph with 2KW heating | 545km /339mi| 33,7 kWh/100km / 1,8 mi/kWh |

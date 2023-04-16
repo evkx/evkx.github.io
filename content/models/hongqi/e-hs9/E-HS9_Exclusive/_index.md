@@ -34,16 +34,16 @@ The Hongqi E-HS9 Exclusive has a maximum power of 405KW (551hp). The total torqu
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 99kWh and a net capacity of 90kWh, meaning you have a 9kWh buffer for protection. (9,1%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 465 km (289 mi).   The consumption is 19,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 99kWh and a net capacity of 95,3kWh, meaning you have a 3,7kWh buffer for protection. (3,7%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 465 km (289 mi).   The consumption is 20,5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 74 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 70% resulting in an actual charge speed including time loss on 95kW. Each charge session would take 36 minutes and 49 seconds. 
+The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 78 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 68% resulting in an actual charge speed including time loss on 96kW. Each charge session would take 36 minutes and 50 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32kWh/100km, 1000km will take 10 hours and 45 minutes to drive. This trip will require four charge session(s) charging from 7% to 71%. The total time lost for charging will be 146 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32kWh/100km, 1000km will take 10 hours and 40 minutes to drive. This trip will require four charge session(s) charging from 8% to 67%. The total time lost for charging will be 141 minutes.   
 ### Onboard charger
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 10 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 39 minutes. 
 
 ## Drivetrain
 

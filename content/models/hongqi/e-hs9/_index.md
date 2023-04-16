@@ -30,6 +30,19 @@ Hongqi E-HS9 Exclusive is an all-electric SUV with a WLTP range of up to 465 km 
 - [Hongqi E-HS9 Exclusive image gallery](/models/hongqi/e-hs9/e-hs9_exclusive//gallery)
 - [Hongqi E-HS9 Exclusive reviews](/models/hongqi/e-hs9/e-hs9_exclusive//reviews)
 
+## Hongqi E-HS9 Exclusive+
+
+[![E-HS9 Exclusive+](https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusiveplus/main_1_st.jpg)](/models/hongqi/e-hs9/e-hs9_exclusiveplus/)
+
+Hongqi E-HS9 Exclusive+ is an all-electric SUV with a WLTP range of up to 515 km (320 miles). EVKX.net have all the details. 
+
+- [Hongqi E-HS9 Exclusive+ article](/models/hongqi/e-hs9/e-hs9_exclusiveplus/)
+- [Hongqi E-HS9 Exclusive+ Range & consumption info](/models/hongqi/e-hs9/e-hs9_exclusiveplus//rangeandconsumption)
+- [Hongqi E-HS9 Exclusive+ Charging curve and performance](/models/hongqi/e-hs9/e-hs9_exclusiveplus//chargingcurve)
+- [Hongqi E-HS9 Exclusive+ full specifications](/models/hongqi/e-hs9/e-hs9_exclusiveplus//specifications)
+- [Hongqi E-HS9 Exclusive+ image gallery](/models/hongqi/e-hs9/e-hs9_exclusiveplus//gallery)
+- [Hongqi E-HS9 Exclusive+ reviews](/models/hongqi/e-hs9/e-hs9_exclusiveplus//reviews)
+
 ## Hongqi E-HS9 Premium
 
 [![E-HS9 Premium](https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg)](/models/hongqi/e-hs9/e-hs9_premium/)
