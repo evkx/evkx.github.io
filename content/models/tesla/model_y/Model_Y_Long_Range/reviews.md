@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Out of Spec Reviews: Tesla Model Y Long Range 70-MPH Highway Range Test! Perfect Conditions And A Big Number (20" Wheels) 14.04.2023
+
+{{< youtube YvEty1MQUOs >}}
+
 ### Munro Live: Sandy takes a peek under Miss Go Electric's New Model Y Frunk! 23.05.2022
 
 {{< youtube RU8GVEJOTTE >}}

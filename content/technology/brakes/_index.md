@@ -1,20 +1,49 @@
 ---
 title: Brakes
 linktitle: Brakes
-description: Electric vehicles (EVs) have been gaining popularity in recent years due to their environmental friendliness and efficiency. One important aspect of EVs that often goes unnoticed is the braking system.
+description: The braking system is crucial for the safety of the passengers and other road users, as well as the longevity of the vehicle. In this article, we will explore the different types of brakes used in EVs, including steel disc brakes, carbid brakes, carbon brakes, and drum brakes.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
- The braking system is crucial for the safety of the passengers and other road users, as well as the longevity of the vehicle. In this article, we will explore the different types of brakes used in EVs, including steel disc brakes, carbid brakes, carbon brakes, and drum brakes.
 
+Due to the [regenerative braking](../regen/) capability of electric motors in EVs, the traditional friction brakes may be used less frequently, resulting in reduced wear on the brake pads and discs compared to ICE vehicles. 
+
+However, it's important to note that all EVs still have traditional friction brakes as a backup or supplementary system for hard braking or emergency situations. The use of regenerative braking and traditional friction brakes in EVs depends on the specific design and configuration of the vehicle, as well as the preferences and driving habits of the driver.
 
 ## Disc Brakes
+
+Disc brakes, also known as "disk brakes," are a type of braking system used in automobiles. They are a type of friction-based braking system that uses a rotating disc, or rotor, to slow down or stop the vehicle.
+
+In a typical disc brake system, there are several components, including the brake rotor, brake caliper, brake pads, and sometimes brake lines and brake master cylinder. The brake rotor is a flat, circular metal disc that is attached to the wheel hub and rotates with the wheel.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/brakes/discbrakes_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/brakes/discbrakes_1_st.jpg" alt="Front axle with orange brake caliper and steeel disc" title="Front axle with orange brake caliper and steeel disc">
+    </a>
+    <figcaption><h4>Front axle with orange brake caliper and steeel disc</h4></figcaption>
+</figur>
+
+
+The brake caliper is a mechanism that houses the brake pads and is positioned over the brake rotor. The brake pads are typically made of a high-friction material and are positioned on each side of the rotor. When the driver applies the brakes, hydraulic pressure is used to push the brake pads against the rotor, creating friction and causing the vehicle to slow down or come to a stop. Pistons are used to push the brake pads, and more powerful brakes have more pistons. 
+
+Disc brakes are known for their superior stopping power and heat dissipation compared to other types of braking systems, such as drum brakes. They are more effective in dissipating heat generated during braking, which helps to reduce brake fade, a phenomenon where the braking performance decreases due to excessive heat buildup. Disc brakes also tend to provide more consistent and linear braking performance, allowing for better modulation and control.
+
+Disc brakes have become the standard in most modern vehicles due to their performance advantages, although some older or smaller vehicles may still use drum brakes in certain applications. Disc brakes can be found on both the front and rear wheels of many vehicles and are a critical safety feature that plays a crucial role in the overall braking system of a vehicle.
+
+Brake discs, or rotors, can be made of different materials depending on the specific application and performance requirements.
 
 ### Steel Disc Brakes
 
 Steel disc brakes are the most common type of brakes used in automobiles, including EVs. These brakes work by using friction between the brake pads and the brake disc to slow down or stop the vehicle. The brake pads are made of a composite material that includes steel fibers, carbon fibers, and ceramic materials. The brake disc is usually made of cast iron.
 
 One of the main advantages of steel disc brakes is their reliability and durability. They are also relatively inexpensive compared to other types of brakes. However, they do have some drawbacks. One is that they can generate a lot of heat, which can lead to brake fade and reduced performance. Additionally, they can create a lot of brake dust, which can be harmful to the environment.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/brakes/steelbrakedisck.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/brakes/steelbrakedisck_st.jpg" alt="Steel disc brakes" title="Steel disc brakes">
+    </a>
+    <figcaption><h4>Steel disc brakes</h4></figcaption>
+</figur>
 
 ### Carbid Brakes
 

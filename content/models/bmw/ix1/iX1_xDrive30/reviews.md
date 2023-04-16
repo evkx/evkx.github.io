@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: BMW iX1 banana box test 13.04.2023
+
+{{< youtube K3eb3vyMFvw >}}
+
 ### Norsk elbilforeningen: Test - BMW iX1 xDrive 30 - Funker den som familiebil? 01.02.2023
 
 {{< youtube ogjX2Yj41ao >}}
