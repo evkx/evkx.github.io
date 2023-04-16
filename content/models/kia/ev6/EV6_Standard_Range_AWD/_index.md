@@ -55,7 +55,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-Kia EV6 Standard Range AWD has an all-wheel drive system supported by two motors. One on each axle. 
+Kia EV6 Standard Range AWD has an all-wheel drive system supported by two motors, one on each axle. 
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm. 
 

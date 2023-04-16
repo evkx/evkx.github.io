@@ -49,7 +49,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Tesla Model S Plaid has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
-The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 117 mm and max 158 mm. 
+The suspension is fully adaptive on the front and rear axle, so height, and damping can be adjusted manually and automatically. The minimum ground clearance is 117 mm, and max is 158 mm. 
 
 ### Steering
 

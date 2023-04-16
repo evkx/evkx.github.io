@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 ## Drivetrain
 
-Nissan Ariya 87kWh e-4ORCE has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
+Nissan Ariya 87kWh e-4ORCE has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
 The standard suspension has a fixed height and damping. The ground clearance with this suspension is 170 mm. 
 

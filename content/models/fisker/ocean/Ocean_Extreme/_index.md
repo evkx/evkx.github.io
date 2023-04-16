@@ -45,7 +45,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-Fisker Ocean Extreme has an all-wheel drive system supported by two motors. One on each axle. 
+Fisker Ocean Extreme has an all-wheel drive system supported by two motors, one on each axle. 
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 175 mm. 
 

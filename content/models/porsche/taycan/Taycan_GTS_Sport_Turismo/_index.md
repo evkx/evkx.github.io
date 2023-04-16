@@ -53,7 +53,7 @@ Porsche Taycan GTS Sport Turismo has a rear-wheel drive system supported by one 
 
 
 
-You can order Porsche Taycan GTS Sport Turismo with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 103 mm and max 127 mm. 
+You can order Porsche Taycan GTS Sport Turismo with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height, and damping can be adjusted manually and automatically. The minimum ground clearance is 103 mm, and max is 127 mm. 
 
 ### Steering
 

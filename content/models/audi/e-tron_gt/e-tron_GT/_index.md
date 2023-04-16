@@ -47,11 +47,11 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 ## Drivetrain
 
-Audi e-tron GT has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+Audi e-tron GT has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 145 mm. 
 
-You can order Audi e-tron GT with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 125 mm and max 165 mm. 
+You can order Audi e-tron GT with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height, and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and max is 165 mm. 
 
 ### Steering
 

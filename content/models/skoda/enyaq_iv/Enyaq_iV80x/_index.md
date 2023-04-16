@@ -55,7 +55,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-SKODA Enyaq iV80x has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
+SKODA Enyaq iV80x has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
 The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 187 mm. 
 

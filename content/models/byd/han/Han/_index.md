@@ -55,7 +55,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW cha
 
 ## Drivetrain
 
-BYD Han has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+BYD Han has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 
 

@@ -47,9 +47,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-Hongqi E-HS9 Exclusive+ has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+Hongqi E-HS9 Exclusive+ has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 170 mm and max 260 mm. 
+The suspension is fully adaptive on the front and rear axle, so height, and damping can be adjusted manually and automatically. The minimum ground clearance is 170 mm, and max is 260 mm. 
 
 ### Steering
 

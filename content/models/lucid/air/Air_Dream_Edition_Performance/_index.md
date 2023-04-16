@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 ## Drivetrain
 
-Lucid Air Dream Edition Performance has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+Lucid Air Dream Edition Performance has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 126 mm. 
 

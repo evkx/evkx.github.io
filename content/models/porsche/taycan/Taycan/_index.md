@@ -63,7 +63,7 @@ Porsche Taycan has a rear-wheel drive system supported by one motor on the rear 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 127 mm. 
 
-You can order Porsche Taycan with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 103 mm and max 127 mm. 
+You can order Porsche Taycan with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height, and damping can be adjusted manually and automatically. The minimum ground clearance is 103 mm, and max is 127 mm. 
 
 ### Steering
 

@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 ## Drivetrain
 
-Toyota bZ4X AWD has an all-wheel drive system supported by two motors. One on each axle. 
+Toyota bZ4X AWD has an all-wheel drive system supported by two motors, one on each axle. 
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm. 
 

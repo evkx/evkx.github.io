@@ -60,9 +60,9 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 ## Drivetrain
 
-Nio ES8 has an all-wheel drive system supported by two motors. One on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
+Nio ES8 has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
-The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 111 mm and max 161 mm. 
+The suspension is fully adaptive on the front and rear axle, so height, and damping can be adjusted manually and automatically. The minimum ground clearance is 111 mm, and max is 161 mm. 
 
 ### Steering
 

@@ -55,7 +55,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-BMW i4 M50 has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/). 
+BMW i4 M50 has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/). 
 
 The  suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 125 mm. 
 

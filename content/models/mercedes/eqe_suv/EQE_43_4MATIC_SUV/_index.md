@@ -47,9 +47,9 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 ## Drivetrain
 
-Mercedes-AMG EQE 43 4MATIC SUV has an all-wheel drive system supported by two motors. One on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
+Mercedes-AMG EQE 43 4MATIC SUV has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
-The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 154 mm and max 204 mm. 
+The suspension is fully adaptive on the front and rear axle, so height, and damping can be adjusted manually and automatically. The minimum ground clearance is 154 mm, and max is 204 mm. 
 
 ### Steering
 
