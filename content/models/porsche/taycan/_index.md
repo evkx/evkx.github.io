@@ -69,3 +69,16 @@ Porsche Taycan Turbo is an all-electric luxury sedan with a WLTP range of up to 
 - [Porsche Taycan Turbo image gallery](/models/porsche/taycan/taycan_turbo//gallery)
 - [Porsche Taycan Turbo reviews](/models/porsche/taycan/taycan_turbo//reviews)
 
+## Porsche Taycan Turbo S
+
+[![Taycan Turbo S](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1_st.jpg)](/models/porsche/taycan/taycan_turbo_s/)
+
+Porsche Taycan Turbo S is an all-electric luxury sedan with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. 
+
+- [Porsche Taycan Turbo S article](/models/porsche/taycan/taycan_turbo_s/)
+- [Porsche Taycan Turbo S Range & consumption info](/models/porsche/taycan/taycan_turbo_s//rangeandconsumption)
+- [Porsche Taycan Turbo S Charging curve and performance](/models/porsche/taycan/taycan_turbo_s//chargingcurve)
+- [Porsche Taycan Turbo S full specifications](/models/porsche/taycan/taycan_turbo_s//specifications)
+- [Porsche Taycan Turbo S image gallery](/models/porsche/taycan/taycan_turbo_s//gallery)
+- [Porsche Taycan Turbo S reviews](/models/porsche/taycan/taycan_turbo_s//reviews)
+

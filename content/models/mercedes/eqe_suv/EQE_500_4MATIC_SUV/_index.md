@@ -65,7 +65,7 @@ Dynamic steering is standard on Mercedes-EQ EQE 500 4MATIC SUV. Dynamic steering
 
 ### Brakes
 
-You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The second option brakes uses ceramic discs. 
+You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). 
 
 [Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 

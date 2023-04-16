@@ -61,7 +61,7 @@ Dynamic steering is standard on Porsche Taycan Turbo. Dynamic steering varies th
 
 ### Brakes
 
-You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a cast-iron disc coated with tungsten carbide. It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm, and the rear discs are 410mm. 
+You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420mm, and the rear discs are 410mm. 
 
 [Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
@@ -234,7 +234,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Transportation capabilities
 
-On the roof, you can load up to 75kg. Max weight is 2880kg, and with the base weight of 2230 kg, you can max load 650 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+On the roof, you can load up to 75kg. Max weight is 2870kg, and with the base weight of 2220 kg, you can max load 650 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 

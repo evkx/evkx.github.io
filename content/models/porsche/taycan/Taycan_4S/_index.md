@@ -71,7 +71,7 @@ Dynamic steering is standard on Porsche Taycan 4S. Dynamic steering varies the s
 
 ### Brakes
 
-You can choose between different brake systems. The standard option brakes use regular cast-iron discs. The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a cast-iron disc coated with tungsten carbide. It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses ceramic discs. The front discs are 420mm, and the rear discs are 410mm. 
+You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420mm, and the rear discs are 410mm. 
 
 [Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking when it needs to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 

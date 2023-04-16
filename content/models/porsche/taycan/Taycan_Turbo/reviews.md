@@ -6,15 +6,15 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### AutoTrader: Audi RS E-Tron GT vs Porsche Taycan Turbo: Head To Head 18.08.2021
-
-{{< youtube eJ7af4VToSc >}}
-
-### carwow: Audi RS e-tron GT v Porsche Taycan Turbo - which is best? 24.06.2021
-
-{{< youtube gEeDEiiZpxY >}}
-
-### Top Gear: Porsche Taycan Turbo EV Review: 0-60, 0-100, Ride, Handling, Charging & Real-world Range 06.05.2021
+### Autogefühl: Porsche Taycan Turbo S - FULL REVIEW with German Autobahn 2021 23.01.2021
 
 {{< youtube c2dkDhhtm8I >}}
+
+### Top Gear: FULL FILM: Chris Harris drives The Porsche Taycan Turbo S 08.05.2020
+
+{{< youtube 7qyKhP4lzsY >}}
+
+### Autogefühl: Porsche Taycan Turbo S FULL REVIEW driving the e-Porsche 28.09.2019
+
+{{< youtube W8TG9X4WAMY >}}
 

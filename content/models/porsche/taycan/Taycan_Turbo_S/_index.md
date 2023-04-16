@@ -1,7 +1,7 @@
 ---
-title: Porsche Taycan GTS Sport Turismo
-linktitle: Taycan GTS Sport Turismo
-description: Porsche Taycan GTS Sport Turismo is an all-electric station wagon with a WLTP range of up to 504 km (313 miles). EVKX.net have all the details. 
+title: Porsche Taycan Turbo S
+linktitle: Taycan Turbo S
+description: Porsche Taycan Turbo S is an all-electric luxury sedan with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,12 +9,12 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg" alt="Porsche Taycan GTS Sport Turismo" title="Porsche Taycan GTS Sport Turismo">
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
 </a>
-<figcaption><h4>Porsche Taycan GTS Sport Turismo</h4></figcaption></figur>
+<figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
 
-We have separated our description of Porsche Taycan GTS Sport Turismo into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of Porsche Taycan Turbo S into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -30,13 +30,11 @@ We have separated our description of Porsche Taycan GTS Sport Turismo into secti
 
 ## Performance
 
-
-
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan GTS Sport Turismo has a maximum power of 440KW (598hp). Without overboost, it is 420KW (571hp). The torque is 850nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 3,7 seconds. The top speed is 250 km/h. 
+With overboost, the Porsche Taycan Turbo S has a maximum power of 560KW (761hp). Without overboost, it is 460KW (625hp). The torque is 850nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 2,8 seconds. The top speed is 260 km/h. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 504 to 439 km (313-273 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,6kWh/100km for the basic version and 19,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). Depending on car options, the [WLTP range](../../../../guides/understandingrange/wltp) varies from 507 to 435 km (315-270 mi). Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,5kWh/100km for the basic version and 19,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65% resulting in an actual charge speed including time loss on 165kW. Each charge session would take 19 minutes and 53 seconds. 
 
@@ -47,17 +45,25 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
+</a>
+<figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
+
+
 ## Drivetrain
 
-Porsche Taycan GTS Sport Turismo has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+Porsche Taycan Turbo S has an all-wheel drive system supported by two motors. One on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 
 
-You can order Porsche Taycan GTS Sport Turismo with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 103 mm and max 127 mm. 
+You can order Porsche Taycan Turbo S with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, s|o height and damping can be adjusted manually and automatically. Minimum ground clearance is 103 mm and max 126 mm. 
 
 ### Steering
 
-Dynamic steering is standard on Porsche Taycan GTS Sport Turismo. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is standard on Porsche Taycan Turbo S. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -84,10 +90,10 @@ You can choose between two types of roofs on this model. The optional has a pano
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/exterior_1_st.jpg" alt="Porsche Taycan GTS Sport Turismo" title="Porsche Taycan GTS Sport Turismo">
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
 </a>
-<figcaption><h4>Porsche Taycan GTS Sport Turismo</h4></figcaption></figur>
+<figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
 
 
 ## Interior
@@ -96,7 +102,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are three seat types you can choose from for the front row in the Porsche Taycan GTS Sport Turismo. 
+There are three seat types you can choose from for the front row in the Porsche Taycan Turbo S. 
 
 The following functionalities are available on the **Comfort** seat. 
 
@@ -142,15 +148,15 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/frontseats_1_st.jpg" alt="Porsche Taycan GTS Sport Turismo" title="Porsche Taycan GTS Sport Turismo">
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
 </a>
-<figcaption><h4>Porsche Taycan GTS Sport Turismo</h4></figcaption></figur>
+<figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
 
 
 ### Second-row seats
 
-You can choose two seat types for the second row in the Porsche Taycan GTS Sport Turismo. 
+You can choose two seat types for the second row in the Porsche Taycan Turbo S. 
 
 The standard option is two integrated seats in the second row. In addition, the following functionalities are available. 
 
@@ -162,14 +168,6 @@ The second option is two integrated seats in the second row with a third smaller
 - heating (optional)
 - integrated headrest 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/secondrowseats_1_st.jpg" alt="Porsche Taycan GTS Sport Turismo" title="Porsche Taycan GTS Sport Turismo">
-</a>
-<figcaption><h4>Porsche Taycan GTS Sport Turismo</h4></figcaption></figur>
-
-
 There is only one type of steering wheel available. 
 
 ## Climate system
@@ -178,7 +176,7 @@ There is one climate system available. The  climate system supports different te
 
 ## Comfort
 
-Porsche Taycan GTS Sport Turismo has several features to make your life as a driver or passenger more comfortable. 
+Porsche Taycan Turbo S has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -186,42 +184,50 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 ## User interface and control
 
-Porsche Taycan GTS Sport Turismo has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. For the passenger, there is an optional screen. The touch screen behind the steering wheel integrated into the dashboard is 16,8 inches large. The touch screen at the top of the center console is 10,9 inches large. The touch screen at the bottom of the center console is 8,4 inches large. The touch screen in front of the passenger in the dashboard is 10,9 inches large. 
+Porsche Taycan Turbo S has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. For the passenger, there is an optional screen. The touch screen behind the steering wheel integrated into the dashboard is 16,8 inches large. The touch screen at the top of the center console is 10,9 inches large. The touch screen at the bottom of the center console is 8,4 inches large. The touch screen in front of the passenger in the dashboard is 10,9 inches large. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/screens_1_st.jpg" alt="Porsche Taycan GTS Sport Turismo" title="Porsche Taycan GTS Sport Turismo">
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/screens_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
 </a>
-<figcaption><h4>Porsche Taycan GTS Sport Turismo</h4></figcaption></figur>
+<figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose between three sound systems on the Porsche Taycan GTS Sport Turismo. With the Porsche Sound system, you get ten amplifier channels and ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 amplifier channels and 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 amplifier channels and 21 speakers with a max system output of 1455 watts. 
+You can choose between three sound systems on the Porsche Taycan Turbo S. With the Porsche Sound system, you get ten amplifier channels and ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 amplifier channels and 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 amplifier channels and 21 speakers with a max system output of 1455 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Taycan GTS Sport Turismo supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Taycan Turbo S supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
+</a>
+<figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
+
 ## Advanced driver assistance systems
 
-The Porsche Taycan GTS Sport Turismo has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Porsche Taycan Turbo S has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
 
 
-The Porsche Taycan GTS Sport Turismo has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Porsche Taycan Turbo S has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Porsche Taycan GTS Sport Turismo has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The Porsche Taycan Turbo S has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
 
-The Porsche Taycan GTS Sport Turismo has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Porsche Taycan Turbo S has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
@@ -229,7 +235,7 @@ The Porsche Taycan GTS Sport Turismo has a [**lane keeping assist**](../../../..
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The Porsche Taycan GTS Sport Turismo has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Porsche Taycan Turbo S has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard driver assist system that is designed to help drivers avoid collisions by automatically steering the vehicle in an emergency situation. 
 
@@ -237,7 +243,7 @@ The Porsche Taycan GTS Sport Turismo has a [**automatic emergency braking**](../
 
 ### Driving Automation
 
-The Porsche Taycan GTS Sport Turismo offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+The Porsche Taycan Turbo S offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
@@ -250,13 +256,6 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 446 liters. With the rear seat down, it is 1212 liters. On the roof, you can load up to 75kg. Max weight is 2875kg, and with the base weight of 2310 kg, you can max load 565 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+On the roof, you can load up to 75kg. Max weight is 2880kg, and with the base weight of 2230 kg, you can max load 650 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/trunk_1_st.jpg" alt="Porsche Taycan GTS Sport Turismo" title="Porsche Taycan GTS Sport Turismo">
-</a>
-<figcaption><h4>Porsche Taycan GTS Sport Turismo</h4></figcaption></figur>
