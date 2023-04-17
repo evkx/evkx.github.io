@@ -50,6 +50,41 @@ A uncommon seat configuration in the second row is a two-seat bench. This type o
 
 Similar to the two-seat bench, a standard three-seat bench in the second row offers seating for three passengers side-by-side, with a shared backrest and seat cushion. This type of bench seat is commonly found in larger vehicles, such as full-size SUVs or vans, and provides a simple and functional seating option for multiple passengers. It may also come with manual or power adjustments for recline, and can be folded down for added versatility.
 
+
+## Executive seat + two seat bench
+
+An executive seat combined with a bench in the second row of a car refers to a seating configuration that includes a combination of individual executive-style seats and a bench seat in the rear passenger area of a vehicle. This type of seating arrangement is often found in luxury SUVs or vans, where it is designed to provide a versatile and flexible seating option for passengers.
+
+The executive seat is typically a high-quality individual seat with premium materials, advanced features, and enhanced comfort. These seats may have features such as power adjustments, heating, ventilation, massage functions, and dedicated controls for air conditioning, lighting, and audio/video systems. They are usually positioned at the outer sides of the second row, providing a luxurious and comfortable seating experience for passengers.
+
+The bench seat, on the other hand, is a wider and typically more basic seat that spans the width of the vehicle and can accommodate multiple passengers. It may have a fixed backrest or a fold-down design, allowing it to be used as a seating option or folded to create additional cargo space. The bench seat is typically positioned in the middle of the second row, between the two executive seats, and can accommodate more passengers compared to the individual executive seats.
+
+The combination of executive seats and a bench seat in the second row provides a flexible seating arrangement that can cater to different passenger needs. Passengers seated in the executive seats can enjoy a premium and comfortable experience, while the bench seat can accommodate additional passengers or provide a space for socializing or working during travel. This type of seating configuration is often used in luxury vehicles that are designed for family travel, executive transportation, or VIP transportation, providing a blend of comfort, convenience, and versatility.
+
+## Twin Executive seats
+
+Twin executive seats in the second row of cars refer to a configuration where there are two individual seats positioned side-by-side, typically in the rear passenger area of a vehicle. These seats are designed to provide enhanced comfort and luxury for passengers, often with a focus on executive or VIP transportation.
+
+Twin executive seats are typically larger and more comfortable than regular rear passenger seats, offering additional legroom, headroom, and amenities for a premium travel experience. They may be positioned in a captain's chair style, with armrests, plush cushioning, and advanced features such as heating, ventilation, and massage functions for added comfort. Some twin executive seats may also offer power adjustments, allowing passengers to customize the seating position to their liking.
+
+In terms of amenities, twin executive seats may come equipped with various features to enhance the passenger experience. These can include dedicated controls for air conditioning, lighting, and audio/video systems, as well as fold-out tables, cup holders, USB ports, and storage compartments. Additionally, some twin executive seats may offer privacy screens, window shades, and other features to provide a secluded and exclusive environment for passengers.
+
+Twin executive seats are often found in luxury sedans, limousines, and high-end SUVs, where they are commonly used for executive transportation, chauffeur-driven cars, or high-end limousine services. They are designed to cater to discerning passengers who require the utmost comfort, convenience, and privacy during their travels, and are often associated with premium or luxury vehicle brands.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/types/eqssuv680twinexecutiveseats_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/types/eqssuv680twinexecutiveseats_1_st.jpg" alt="Twin Executive Seats in Mercedes-Maybach EQS 680 SUV" title="Twin Executive Seats in Mercedes-Maybach EQS 680 SUV">
+    </a>
+    <figcaption><h4>Twin Executive Seats in Mercedes-Maybach EQS 680 SUV</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/types/volvoex90twinexecutive_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/types/volvoex90twinexecutive_1_st.jpg" alt="Twin Executive Seats in Volvo EX90" title="Twin Executive Seats in Volvo EX90">
+    </a>
+    <figcaption><h4>Twin Executive Seats in Volvo EX90</h4></figcaption>
+</figur>
+
 ## Third-Row Flap Seats
 
 In some 7-seater vehicles, the third-row seating arrangement may consist of flap seats. Flap seats are typically smaller, temporary seats that fold out from the sides of the vehicle's cargo area or rear wheel arches, providing additional seating for passengers in the third row. These seats are designed to be compact and stowable, allowing for maximum cargo space when not in use. However, flap
