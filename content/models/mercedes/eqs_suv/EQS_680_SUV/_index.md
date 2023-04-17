@@ -136,7 +136,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 
-The following functionalities are available on the **standard** seat. 
+For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available. 
 
 - electric adjustment 
 - height adjustable headrest 
@@ -148,10 +148,6 @@ The following functionalities are available on the **standard** seat.
 - massage 
 - leg support for passenger 
 - footrest for passenger 
-
-You can choose from 6 different materials/colors for this seat type. <br />
-<br />
-
 
 
 <figur>
