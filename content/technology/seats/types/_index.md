@@ -50,7 +50,6 @@ A uncommon seat configuration in the second row is a two-seat bench. This type o
 
 Similar to the two-seat bench, a standard three-seat bench in the second row offers seating for three passengers side-by-side, with a shared backrest and seat cushion. This type of bench seat is commonly found in larger vehicles, such as full-size SUVs or vans, and provides a simple and functional seating option for multiple passengers. It may also come with manual or power adjustments for recline, and can be folded down for added versatility.
 
-
 ## Executive seat + two seat bench
 
 An executive seat combined with a bench in the second row of a car refers to a seating configuration that includes a combination of individual executive-style seats and a bench seat in the rear passenger area of a vehicle. This type of seating arrangement is often found in luxury SUVs or vans, where it is designed to provide a versatile and flexible seating option for passengers.
@@ -60,6 +59,14 @@ The executive seat is typically a high-quality individual seat with premium mate
 The bench seat, on the other hand, is a wider and typically more basic seat that spans the width of the vehicle and can accommodate multiple passengers. It may have a fixed backrest or a fold-down design, allowing it to be used as a seating option or folded to create additional cargo space. The bench seat is typically positioned in the middle of the second row, between the two executive seats, and can accommodate more passengers compared to the individual executive seats.
 
 The combination of executive seats and a bench seat in the second row provides a flexible seating arrangement that can cater to different passenger needs. Passengers seated in the executive seats can enjoy a premium and comfortable experience, while the bench seat can accommodate additional passengers or provide a space for socializing or working during travel. This type of seating configuration is often used in luxury vehicles that are designed for family travel, executive transportation, or VIP transportation, providing a blend of comfort, convenience, and versatility.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/types/bmii7executiveseats_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/types/bmii7executiveseats_1_st.jpg" alt="Executive seat and bench in BMW i7" title="Executive seat and bench in BMW i7">
+    </a>
+    <figcaption><h4>Executive seat and bench in BMW i7</h4></figcaption>
+</figur>
+
 
 ## Twin Executive seats
 
@@ -88,9 +95,3 @@ Twin executive seats are often found in luxury sedans, limousines, and high-end 
 ## Third-Row Flap Seats
 
 In some 7-seater vehicles, the third-row seating arrangement may consist of flap seats. Flap seats are typically smaller, temporary seats that fold out from the sides of the vehicle's cargo area or rear wheel arches, providing additional seating for passengers in the third row. These seats are designed to be compact and stowable, allowing for maximum cargo space when not in use. However, flap
-
-
-## Executive Seats in Second Row
-
-Executive seats, also known as premium or luxury seats, are high-end seating options typically found in luxury vehicles or higher trim levels. These seats are designed to provide ultimate comfort, style, and convenience for passengers in the second row. Executive seats often feature plush padding, premium materials, and advanced features such as massage functions, ventilation, and adjustable leg rests. They are usually individual seats that can be independently adjusted for recline, height, and position, allowing passengers to customize their seating experience according to their preferences. Executive seats may also come with additional amenities such as built-in entertainment systems, USB ports, and extra storage compartments, making them ideal for those seeking a luxurious and pampering travel experience.
-In conclusion, the world of automotive seating offers a wide range of seat types to cater to the diverse needs and preferences of drivers and passengers. From standard front seats to three-seat benches, captain's chairs, standard two and three-seat benches in the second row, third-row flap seats, and executive seats, there are various options available to suit different vehicle types and styles. Whether you prioritize comfort, versatility, or luxury, choosing the right type of seats for your car can greatly enhance your driving experience and passenger comfort. So, next time you're in the market for a new vehicle or considering an upgrade, don't overlook the importance of the seats and the unique features they offer in making your journeys more enjoyable.
