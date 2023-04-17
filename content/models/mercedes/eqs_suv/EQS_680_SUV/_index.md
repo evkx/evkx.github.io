@@ -90,21 +90,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-Maybach EQS 680 SUV. 
-
-The following functionalities are available on the **standard** seat. 
-
-- electric adjustment 
-- height adjustable headrest 
-- heating 
-- memory driver seat 
-- memory passenger seat 
-- electric lumbar support (optional)
-- ventilation (optional)
-
-You can choose from 6 different materials/colors for this seat type. <br />
-<br />
-
+Only one front seat type is available in the Mercedes-Maybach EQS 680 SUV. 
 
 The following functionalities are available on the **multicontour** seat. 
 
@@ -120,7 +106,7 @@ The following functionalities are available on the **multicontour** seat.
 - ventilation (optional)
 - massage 
 
-You can choose from 5 different materials/colors for this seat type. <br />
+You can choose from 2 different materials/colors for this seat type. <br />
 <br />
 
 

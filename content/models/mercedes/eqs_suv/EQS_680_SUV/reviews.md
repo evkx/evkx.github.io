@@ -6,3 +6,11 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Autogefûhl: First-ever electric Maybach! Mercedes-Maybach EQS SUV luxury REVIEW 17.04.2023
+
+{{< youtube EkGVi_JiV7M >}}
+
+### InsideEVs: 2024 Mercedes-Maybach EQS SUV: InsideEVs First Look Debut 17.04.2023
+
+{{< youtube oDtwomm0yYc >}}
+
