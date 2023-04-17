@@ -4,7 +4,7 @@ linktitle: Mercedes
 description: Mercedes-Benz,commonly referred to as Mercedes and sometimes as Benz, is a German luxury and commercial vehicle automotive brand established in 1926. By 2022, Mercedes-Benz will have battery electric vehicles (BEV) in all segments the company serves. 
 weight: 30
 ---
-From 2025 onwards, all newly launched vehicle architectures will be electric-only and customers will be able to choose an all-electric alternative for every model the company makes. Mercedes-Benz intends to manage this accelerated transformation while sticking to its profitability targets. Mercedes-Benz has currently 7 all electric models with total 24 variants in the market. Below you find links for each model page.  
+From 2025 onwards, all newly launched vehicle architectures will be electric-only and customers will be able to choose an all-electric alternative for every model the company makes. Mercedes-Benz intends to manage this accelerated transformation while sticking to its profitability targets. Mercedes-Benz has currently 7 all electric models with total 25 variants in the market. Below you find links for each model page.  
 
 
 ## Mercedes EQA
@@ -53,5 +53,5 @@ This model is available in 5 variant(s).
 
 [![EQS SUV](https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450plus_suv/main_1_st.jpg)](eqs_suv)
 
-This model is available in 3 variant(s). 
+This model is available in 4 variant(s). 
 [Read full details](eqs_suv/)

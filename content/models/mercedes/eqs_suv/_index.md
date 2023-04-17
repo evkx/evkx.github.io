@@ -43,3 +43,16 @@ Mercedes-EQ EQS 580 4MATIC SUV is an all-electric luxury sedan with a WLTP range
 - [Mercedes-EQ EQS 580 4MATIC SUV image gallery](/models/mercedes/eqs_suv/eqs_580_4matic_suv//gallery)
 - [Mercedes-EQ EQS 580 4MATIC SUV reviews](/models/mercedes/eqs_suv/eqs_580_4matic_suv//reviews)
 
+## Mercedes-EQ EQS 680 SUV
+
+[![EQS 680 SUV](https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg)](/models/mercedes/eqs_suv/eqs_680_suv/)
+
+Mercedes-EQ EQS 680 SUV is an all-electric luxury sedan with a WLTP range of up to 610 km (379 miles). EVKX.net have all the details. 
+
+- [Mercedes-EQ EQS 680 SUV article](/models/mercedes/eqs_suv/eqs_680_suv/)
+- [Mercedes-EQ EQS 680 SUV Range & consumption info](/models/mercedes/eqs_suv/eqs_680_suv//rangeandconsumption)
+- [Mercedes-EQ EQS 680 SUV Charging curve and performance](/models/mercedes/eqs_suv/eqs_680_suv//chargingcurve)
+- [Mercedes-EQ EQS 680 SUV full specifications](/models/mercedes/eqs_suv/eqs_680_suv//specifications)
+- [Mercedes-EQ EQS 680 SUV image gallery](/models/mercedes/eqs_suv/eqs_680_suv//gallery)
+- [Mercedes-EQ EQS 680 SUV reviews](/models/mercedes/eqs_suv/eqs_680_suv//reviews)
+

@@ -74,7 +74,7 @@ Lucid has 1 models with total 2 variants. [Read all about them](lucid/)
 
 Mercedes-Benz,commonly referred to as Mercedes and sometimes as Benz, is a German luxury and commercial vehicle automotive brand established in 1926. By 2022, Mercedes-Benz will have battery electric vehicles (BEV) in all segments the company serves. 
 
-Mercedes has 7 models with total 24 variants. [Read all about them](mercedes/)
+Mercedes has 7 models with total 25 variants. [Read all about them](mercedes/)
 
 ## Nio
 
