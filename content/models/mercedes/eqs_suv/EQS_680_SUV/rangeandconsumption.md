@@ -1,7 +1,7 @@
 ---
-title: Mercedes-EQ EQS 680 SUV range & consumption
+title: Mercedes-Maybach EQS 680 SUV range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Mercedes-EQ EQS 680 SUV.
+description: Here you find all details about range and consumption for Mercedes-Maybach EQS 680 SUV.
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->

@@ -1,7 +1,7 @@
 ---
-title: Mercedes-EQ EQS 680 SUV specifications
+title: Mercedes-Maybach EQS 680 SUV specifications
 linktitle: Specifications
-description: See below for specifications for Mercedes-EQ EQS 680 SUV
+description: See below for specifications for Mercedes-Maybach EQS 680 SUV
 weight: 30
 ---
 

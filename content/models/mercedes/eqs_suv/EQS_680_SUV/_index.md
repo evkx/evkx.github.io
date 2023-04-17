@@ -1,7 +1,7 @@
 ---
-title: Mercedes-EQ EQS 680 SUV
+title: Mercedes-Maybach EQS 680 SUV
 linktitle: EQS 680 SUV
-description: Mercedes-EQ EQS 680 SUV is an all-electric luxury sedan with a WLTP range of up to 610 km (379 miles). EVKX.net have all the details. 
+description: Mercedes-Maybach EQS 680 SUV is an all-electric luxury sedan with a WLTP range of up to 610 km (379 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -10,11 +10,11 @@ weight: 10
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg" alt="Mercedes-EQ EQS 680 SUV" title="Mercedes-EQ EQS 680 SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV">
 </a>
-<figcaption><h4>Mercedes-EQ EQS 680 SUV</h4></figcaption></figur>
+<figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
 
-We have separated our description of the Mercedes-EQ EQS 680 SUV into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of the Mercedes-Maybach EQS 680 SUV into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -30,7 +30,7 @@ We have separated our description of the Mercedes-EQ EQS 680 SUV into sections. 
 
 ## Performance
 
-The Mercedes-EQ EQS 680 SUV has a maximum power of 484KW (658hp). The total torque is 950nm. The 0-100km/h sprint (0-62mph) takes 4,4 seconds. The top speed is 210 km/h. 
+The Mercedes-Maybach EQS 680 SUV has a maximum power of 484KW (658hp). The total torque is 950nm. The 0-100km/h sprint (0-62mph) takes 4,4 seconds. The top speed is 210 km/h. 
 
 ## Battery, range, and charging
 
@@ -47,13 +47,13 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-Mercedes-EQ EQS 680 SUV has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
+Mercedes-Maybach EQS 680 SUV has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
 The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 181 mm, and the max is 206 mm. 
 
 ### Steering
 
-Dynamic steering is standard on the Mercedes-EQ EQS 680 SUV. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is standard on the Mercedes-Maybach EQS 680 SUV. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -79,9 +79,9 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" alt="Mercedes-EQ EQS 680 SUV" title="Mercedes-EQ EQS 680 SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV">
 </a>
-<figcaption><h4>Mercedes-EQ EQS 680 SUV</h4></figcaption></figur>
+<figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
 
 
 ## Interior
@@ -90,7 +90,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-EQ EQS 680 SUV. 
+There are two seat types you can choose from for the front row in the Mercedes-Maybach EQS 680 SUV. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -127,9 +127,9 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" alt="Mercedes-EQ EQS 680 SUV" title="Mercedes-EQ EQS 680 SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV">
 </a>
-<figcaption><h4>Mercedes-EQ EQS 680 SUV</h4></figcaption></figur>
+<figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
 
 
 ### Second-row seat
@@ -144,16 +144,10 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQS 680 SUV" title="Mercedes-EQ EQS 680 SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV">
 </a>
-<figcaption><h4>Mercedes-EQ EQS 680 SUV</h4></figcaption></figur>
+<figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
 
-
-### Third-row seats
-
-
-
-The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
 
 There is only one type of steering wheel available. 
 
@@ -163,7 +157,7 @@ You can choose from two different climate systems. The THERMOTRONIC climate syst
 
 ## Comfort
 
-Mercedes-EQ EQS 680 SUV has several features to make your life as a driver or passenger more comfortable. 
+Mercedes-Maybach EQS 680 SUV has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -175,7 +169,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Two different screen setups are available on the Mercedes-EQ EQS 680 SUV. 
+Two different screen setups are available on the Mercedes-Maybach EQS 680 SUV. 
 
 The standard layout has the following configuration. The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen in the middle of the center console is 12,8 inches large and has a 1888x1728 pixels resolution. 
 
@@ -184,9 +178,9 @@ The optional MBUX Hyperscreen layout has the following configuration. Behind the
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" alt="Mercedes-EQ EQS 680 SUV" title="Mercedes-EQ EQS 680 SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV">
 </a>
-<figcaption><h4>Mercedes-EQ EQS 680 SUV</h4></figcaption></figur>
+<figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -197,9 +191,9 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-You can choose between two sound systems on the Mercedes-EQ EQS 680 SUV. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
+You can choose between two sound systems on the Mercedes-Maybach EQS 680 SUV. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get nine amplifier channels and 13 speakers with a max system output of 590 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQS 680 SUV supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-Maybach EQS 680 SUV supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
@@ -209,28 +203,28 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/headlights_1_st.jpg" alt="Mercedes-EQ EQS 680 SUV" title="Mercedes-EQ EQS 680 SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/headlights_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV">
 </a>
-<figcaption><h4>Mercedes-EQ EQS 680 SUV</h4></figcaption></figur>
+<figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
 
 ## Advanced driver assistance systems
 
-The Mercedes-EQ EQS 680 SUV has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Mercedes-Maybach EQS 680 SUV has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
 
-The Mercedes-EQ EQS 680 SUV has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Mercedes-Maybach EQS 680 SUV has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Mercedes-EQ EQS 680 SUV has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The Mercedes-Maybach EQS 680 SUV has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
 
-The Mercedes-EQ EQS 680 SUV has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Mercedes-Maybach EQS 680 SUV has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The Mercedes-EQ EQS 680 SUV has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Mercedes-Maybach EQS 680 SUV has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
@@ -238,7 +232,7 @@ The Mercedes-EQ EQS 680 SUV has a [**automatic emergency braking**](../../../../
 
 ### Driving Automation
 
-The Mercedes-EQ EQS 680 SUV offers [driving automation on level 1,2 or 3]](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
+The Mercedes-Maybach EQS 680 SUV offers [driving automation on level 1,2 or 3]](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
