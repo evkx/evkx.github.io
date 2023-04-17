@@ -238,7 +238,7 @@ The Mercedes-EQ EQS 450 4MATIC SUV has a [**automatic emergency braking**](../..
 
 ### Driving Automation
 
-The Mercedes-EQ EQS 450 4MATIC SUV offers [driving automation on level 1,2 or 3]](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
+The Mercedes-EQ EQS 450 4MATIC SUV offers [driving automation on level 1,2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 

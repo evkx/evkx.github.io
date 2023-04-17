@@ -181,7 +181,7 @@ The Tesla Model S has a [**automatic emergency braking**](../../../../technology
 
 ### Driving Automation
 
-The Tesla Model S offers [driving automation on level 2 or 3]](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
+The Tesla Model S offers [driving automation on level 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 

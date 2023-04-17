@@ -1,7 +1,7 @@
 ---
 title: Mercedes-Maybach EQS 680 SUV
 linktitle: EQS 680 SUV
-description: Mercedes-Maybach EQS 680 SUV is an all-electric luxury sedan with a WLTP range of up to 610 km (379 miles). EVKX.net have all the details. 
+description: Mercedes-Maybach EQS 680 SUV is an all-electric luxury sedan with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -34,7 +34,7 @@ The Mercedes-Maybach EQS 680 SUV has a maximum power of 484KW (658hp). The total
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 610 to 511 km (379-318 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,8kWh/100km for the basic version and 21,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 600 to 502 km (373-312 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,1kWh/100km for the basic version and 21,6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 41 seconds. 
 
@@ -136,10 +136,22 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The following functionalities are available on the **standard** seat. 
 
+- electric adjustment 
 - height adjustable headrest 
 - heating (optional)
+- memory passenger seat 
+- electric lumbar support 
+- adjustable side support back 
+- ventilation 
+- massage 
+- leg support for passenger 
+- footrest for passenger 
+
+You can choose from 6 different materials/colors for this seat type. <br />
+<br />
+
 
 
 <figur>
@@ -232,7 +244,7 @@ The Mercedes-Maybach EQS 680 SUV has a [**automatic emergency braking**](../../.
 
 ### Driving Automation
 
-The Mercedes-Maybach EQS 680 SUV offers [driving automation on level 1,2 or 3]](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
+The Mercedes-Maybach EQS 680 SUV offers [driving automation on level 1,2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 

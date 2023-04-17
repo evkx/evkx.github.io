@@ -225,7 +225,7 @@ The Mercedes-AMG EQS 53 4MATIC+ has a [**automatic emergency braking**](../../..
 
 ### Driving Automation
 
-The Mercedes-AMG EQS 53 4MATIC+ offers [driving automation on level 1,2 or 3]](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
+The Mercedes-AMG EQS 53 4MATIC+ offers [driving automation on level 1,2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
