@@ -10,7 +10,7 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube q94HRVxDe4w >}}
 
-### Bjørn Nyland: VW ID7 prototype interior review 17.04.2023
+### Autogefühl: W ID7 reveal REVIEW - can it crush the EV sedan competition? 17.04.2023
 
-{{< youtube q94HRVxDe4w >}}
+{{< youtube jX-jPOCCH5o >}}
 
