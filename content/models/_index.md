@@ -130,7 +130,7 @@ Toyota has 1 models with total 2 variants. [Read all about them](toyota/)
 
 Volkswagen’s product portfolio is focused on electric mobility. The last purely combustion-driven platform will be developed in 2026. After that, only electric vehicles will be developed. Even with today’s current power mix in the EU, battery-powered drive systems offer the best balance for the climate out of all drive concepts and this will continue to improve over the years to come. 
 
-Volkswagen has 4 models with total 9 variants. [Read all about them](volkswagen/)
+Volkswagen has 5 models with total 10 variants. [Read all about them](volkswagen/)
 
 ## Volvo
 

@@ -36,6 +36,7 @@ weight: 30
 |Battery gross|82 kWh|
 |Battery net|79 kWh|
 |Max DC charging|205 kW|
+|Number of modules|27|
 |Cell architecture|108s3p|
 
 
