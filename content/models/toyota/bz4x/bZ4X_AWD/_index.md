@@ -127,9 +127,9 @@ You have wireless charging for your phone.
 
 Two different screen setups are available on the Toyota bZ4X AWD. 
 
-The standard layout has the following configuration. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen at the top of the center console is 8,9 inches large. 
+The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen at the top of the center console is 8,9 inches large. 
 
-The optional  layout has the following configuration. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen at the top of the center console is 12,3 inches large. 
+The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen at the top of the center console is 12,3 inches large. 
 
 
 <figur>

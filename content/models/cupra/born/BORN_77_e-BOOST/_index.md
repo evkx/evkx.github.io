@@ -135,7 +135,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-CUPRA BORN 77 e-BOOST has twin screens with information for the driver and passengers. Behind the steering wheel is a digital instrument cluster mounted on the steering wheel column, and on top of the dashboard is a multifunction screen. The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12 inches large and has a 1920 x 869 pixels resolution. 
+CUPRA BORN 77 e-BOOST has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12 inches large and has a 1920 x 869 pixels resolution. 
 
 
 <figur>

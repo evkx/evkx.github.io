@@ -157,7 +157,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Tesla Model Y Standard Range has a single screen. The dashboard’s center has a single screen for car information and infotainment. The touch screen on the dashboard's center  is 15 inches large and has a 2200 x 1300 pixels resolution. 
+Tesla Model Y Standard Range has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 15 inches large and has a 2200 x 1300 pixels resolution. 
 
 
 <figur>

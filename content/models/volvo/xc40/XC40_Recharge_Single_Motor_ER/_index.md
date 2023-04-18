@@ -122,7 +122,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Volvo XC40 Recharge Single Motor ER has multiple integrated screens. Behind the steering wheel is a digital instrument cluster, and in the center console, there is one screen at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The touch screen at the top of the center console is 9 inches large. 
+Volvo XC40 Recharge Single Motor ER has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The touch screen at the top of the center console is 9 inches large. 
 
 
 <figur>
