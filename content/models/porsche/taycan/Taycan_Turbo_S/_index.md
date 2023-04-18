@@ -172,7 +172,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 ## User interface and control
 
-Porsche Taycan Turbo S has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one screen at the top of the center console. For the passenger, there is an optional screen. The touch screen behind the steering wheel integrated into the dashboard is 16,8 inches large. The touch screen at the top of the center console is 10,9 inches large. The touch screen at the bottom of the center console is 8,4 inches large. The touch screen in front of the passenger in the dashboard is 10,9 inches large. 
+Porsche Taycan Turbo S has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen). The touch screen behind the steering wheel integrated into the dashboard is 16,8 inches large. The touch screen at the top of the center console is 10,9 inches large. The touch screen at the bottom of the center console is 8,4 inches large. The touch screen in front of the passenger in the dashboard is 10,9 inches large. 
 
 
 <figur>
