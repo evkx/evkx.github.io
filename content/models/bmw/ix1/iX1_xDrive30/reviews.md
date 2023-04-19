@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: BMW iX1 xDrive30 1000 km challenge 19.04.2023
+
+{{< youtube GHc4dRtohu8 >}}
+
 ### Bjørn Nyland: BMW iX1 interior review 16.04.2023
 
 {{< youtube S25yaeEcByQ >}}
