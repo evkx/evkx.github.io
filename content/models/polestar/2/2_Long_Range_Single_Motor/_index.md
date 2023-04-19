@@ -82,11 +82,15 @@ The seat layout is the traditional five seats with two in front and three seats 
 
 Only one front seat type is available in the Polestar 2 Long Range Single Motor. 
 
-The following functionalities are available on the **** seat. 
+The following functionalities are available on the **standard** seat. 
 
 - heating 
 - electric lumbar support 
 - adjustable thigh support 
+
+You can choose from 5 different materials/colors for this seat type. <br />
+<br />
+
 
 
 <figur>
@@ -103,6 +107,10 @@ The following functionalities are available on the **** seat.
 The following functionalities are available on the **** seat. 
 
 - heating 
+
+You can choose from 5 different materials/colors for this seat type. <br />
+<br />
+
 
 
 <figur>
