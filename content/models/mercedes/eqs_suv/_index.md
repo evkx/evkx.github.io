@@ -47,7 +47,7 @@ Mercedes-EQ EQS 580 4MATIC SUV is an all-electric luxury sedan with a WLTP range
 
 [![EQS 680 SUV](https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg)](/models/mercedes/eqs_suv/eqs_680_suv/)
 
-Mercedes-Maybach EQS 680 SUV is an all-electric luxury sedan with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. 
+Mercedes-Maybach EQS 680 SUV is an all-electric luxury SUV with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. 
 
 - [Mercedes-Maybach EQS 680 SUV article](/models/mercedes/eqs_suv/eqs_680_suv/)
 - [Mercedes-Maybach EQS 680 SUV Range & consumption info](/models/mercedes/eqs_suv/eqs_680_suv//rangeandconsumption)
