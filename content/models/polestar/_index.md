@@ -11,5 +11,5 @@ Polestar's EV strategy revolves around sustainability, technology, and performan
 
 [![2](https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg)](2)
 
-This model is available in 1 variant(s). 
+This model is available in 2 variant(s). 
 [Read full details](2/)
