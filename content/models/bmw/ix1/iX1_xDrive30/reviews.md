@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: BMW iX1 headlights test 20.04.2023
+
+{{< youtube 7TCdiXgUZM4 >}}
+
 ### Bjørn Nyland: BMW iX1 xDrive30 1000 km challenge 19.04.2023
 
 {{< youtube GHc4dRtohu8 >}}
@@ -25,4 +29,8 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 ### Autogefûhl: all-new 2023 BMW X1 driving REVIEW - 23i petrol vs iX1 EV car comparison 26.09.2022
 
 {{< youtube LbujwWGjoqw >}}
+
+### Autotrader: New BMW X1 and iX1: They’re ELECTRIC 01.06.2022
+
+{{< youtube wxkm4Eojfkg >}}
 

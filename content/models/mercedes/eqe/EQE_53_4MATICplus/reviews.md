@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Kris Rifa: EQE 53 AMG..... I WAS NOT EXPECTING THIS... 20.04.2023
+
+{{< youtube WEmPl-ACpHI >}}
+
 ### Kris Rifa: Long Trip Test in Mercedes EQE 53AMG 12.04.2023
 
 {{< youtube ZTcaI2nQw3M >}}
