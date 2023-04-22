@@ -1,7 +1,7 @@
 ---
-title: BMW iX1 xDrive30 range & consumption
+title: Polestar 2 Long Range Dual Motor Performance range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for BMW iX1 xDrive30.
+description: Here you find all details about range and consumption for Polestar 2 Long Range Dual Motor Performance.
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
@@ -17,8 +17,8 @@ Below are the officially rated ranges. The tests are performed with the heating/
 
 | | Range  | Consumption  |
 |----|-----|------|
-| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 440 km / 273mi |14,70kWh/100km / 4,2 mi/kWh | 
-| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 417 km / 259mi | 15,52 kWh/100km / 4,0 mi/kWh | 
+| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 592 km / 368mi |13,34kWh/100km / 4,7 mi/kWh | 
+| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 551 km / 342mi | 14,34 kWh/100km / 4,3 mi/kWh | 
 
 ### Official test cycle results with added heating
 
@@ -26,8 +26,8 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 
 | | Range  | Change  |
 |----|-----|------|
-| WLTP-combined basic trim with 2KW AC | 340km /211 mi | -22,7%|
-| WLTP-combined top trim with 2KW AC | 327km /203 mi | -21,6%|
+| WLTP-combined basic trim with 2KW AC | 448km /278 mi | -24,3%|
+| WLTP-combined top trim with 2KW AC | 424km /263 mi | -23,0%|
 
 ### Real world range estimates
 
@@ -35,7 +35,5 @@ The table below shows some estimated real-world examples in perfect condition an
 
 | | Range  | Consumption  |
 |----|-----|------|
-| 90kmh/56mph perfect condition | 404km /251mi| 16 kWh/100km / 3,9 mi/kWh |
-| 90kmh/56mph with 2KW heating | 366km /227mi| 17,7 kWh/100km / 3,5 mi/kWh |
-| 120kmh/75mph perfect condition | 294km /183mi| 22 kWh/100km / 2,8 mi/kWh |
-| 120kmh/75mph with 2KW heating | 440km /273mi| 23,7 kWh/100km / 2,6 mi/kWh |
+| 120kmh/75mph perfect condition | 282km /175mi| 28 kWh/100km / 2,2 mi/kWh |
+| 120kmh/75mph with 2KW heating | 428km /266mi| 29,7 kWh/100km / 2,1 mi/kWh |

@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: BMW iX1 xDrive30 range test 21.04.2023
+
+{{< youtube Z4Y5hJeqJso >}}
+
 ### Bjørn Nyland: BMW iX1 headlights test 20.04.2023
 
 {{< youtube 7TCdiXgUZM4 >}}

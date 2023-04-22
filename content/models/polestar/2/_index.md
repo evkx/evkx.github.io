@@ -17,6 +17,19 @@ Polestar 2 Long Range Dual Motor is an all-electric sedan with a WLTP range of u
 - [Polestar 2 Long Range Dual Motor image gallery](/models/polestar/2/2_long_range_dual_motor//gallery)
 - [Polestar 2 Long Range Dual Motor reviews](/models/polestar/2/2_long_range_dual_motor//reviews)
 
+## Polestar 2 Long Range Dual Motor Performance
+
+[![2 Long Range Dual Motor Performance](https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/main_1_st.jpg)](/models/polestar/2/2_long_range_dual_motor_performance/)
+
+Polestar 2 Long Range Dual Motor Performance is an all-electric sedan with a WLTP range of up to 592 km (368 miles). EVKX.net have all the details. 
+
+- [Polestar 2 Long Range Dual Motor Performance article](/models/polestar/2/2_long_range_dual_motor_performance/)
+- [Polestar 2 Long Range Dual Motor Performance Range & consumption info](/models/polestar/2/2_long_range_dual_motor_performance//rangeandconsumption)
+- [Polestar 2 Long Range Dual Motor Performance Charging curve and performance](/models/polestar/2/2_long_range_dual_motor_performance//chargingcurve)
+- [Polestar 2 Long Range Dual Motor Performance full specifications](/models/polestar/2/2_long_range_dual_motor_performance//specifications)
+- [Polestar 2 Long Range Dual Motor Performance image gallery](/models/polestar/2/2_long_range_dual_motor_performance//gallery)
+- [Polestar 2 Long Range Dual Motor Performance reviews](/models/polestar/2/2_long_range_dual_motor_performance//reviews)
+
 ## Polestar 2 Long Range Single Motor
 
 [![2 Long Range Single Motor](https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg)](/models/polestar/2/2_long_range_single_motor/)
