@@ -9,15 +9,24 @@ This extensive article will explore the different functionalities of EV car seat
 
 ## Adjustment
 
+The adjustment options vary between the different seating options on the various EV models.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/adjustment/audietron18wayseats.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/adjustment/audietron18wayseats_st.jpg" alt="Audi e-tron front seats with 18-way adjustment" title="Audi e-tron front seats with 18-way adjustment">
+    </a>
+    <figcaption><h4>Audi e-tron front seats with 18-way adjustment</h4></figcaption>
+</figur>
+
 ### Fore and aft adjustment
 
-Fore and aft adjustment on car seats refers to the ability to adjust the horizontal position of the seat relative to the pedals and steering wheel. This adjustment allows the user to move the seat forward or backward along a track, which can help ensure that the driver is able to reach the pedals and steering wheel comfortably.
+Fore and aft adjustment on car seats refer to the ability to adjust the horizontal position of the seat relative to the pedals and steering wheel. This adjustment allows the user to move the seat forward or backward along a track, which can help ensure that the driver can reach the pedals and steering wheel comfortably.
 
-Some car seats offer manual fore and aft adjustment, which typically involves a lever or knob located on the side of the seat that allows the user to slide the seat forward or backward along the track. Other car seats may offer electric fore and aft adjustment, which allows the user to adjust the seat position using a control panel located on the seat or dashboard.
+Some car seats offer manual fore and aft adjustment, typically involving a lever or knob on the side of the seat that allows the user to slide the seat forward or backward along the track. Other car seats may offer electric fore and aft adjustment, allowing the user to adjust the seat position using a control panel on the seat or dashboard.
 
-Fore and aft adjustment is an important feature, particularly for drivers of different heights and body types. Properly adjusting the seat position can help ensure that the driver is able to reach the pedals and steering wheel comfortably and maintain a safe and comfortable driving position. In addition, a properly adjusted seat position can also help reduce the risk of injury in the event of a collision.
+Fore and aft adjustment is important, particularly for drivers of different heights and body types. Adjusting the seat position helps ensure that the driver can reach the pedals and steering wheel comfortably and maintain a safe and comfortable driving position. In addition, a properly adjusted seat position can also help reduce the risk of injury in the event of a collision.
 
-The fore and aft adjustment is available on most front seats, but are also available on some second row benches or Captain chairs.
+The fore and aft adjustment is available on most front seats and some second-row benches or Captain chairs. This to allow better room in trunk or the third row.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/seats/adjustment/hyundaiioniqaftforward_1.jpg">
@@ -33,6 +42,8 @@ Seat height adjustment on car seats refers to the ability to adjust the vertical
 Some car seats offer manual seat height adjustment, which typically involves a lever or knob located on the side of the seat that allows the user to raise or lower the seat cushion. Other car seats may offer electric seat height adjustment, which allows the user to adjust the seat position using a control panel located on the seat or dashboard.
 
 Seat height adjustment is an important feature, particularly for drivers of different heights, as it can help ensure that the driver's eyes are in line with the center of the windshield and that they have sufficient legroom and headroom. In addition, raising or lowering the seat can also help reduce fatigue and improve comfort during long drives.
+
+This adjustment is typical only available on front seats.
 
 ### Seat angle adjustment
 
@@ -67,14 +78,6 @@ Thigh support adjustments can be either manual or electric, depending on the car
 
 It's important to note that not all car seats offer thigh support adjustments, and the type of adjustment available may vary depending on the make and model of the car. If you're looking for a car seat with thigh support adjustment, it's important to research different options and test out the seats before making a purchase.
 
-### Seat cushion side bolster adjustement
-
-Seat cushion side bolster adjustment on car seats refers to the ability to adjust the width of the side cushions that support the driver's thighs and hips. This adjustment allows the user to increase or decrease the level of lateral support provided by the seat, which can help improve comfort and stability during turns or other maneuvers.
-
-Some car seats offer manual seat cushion side bolster adjustment, which typically involves a lever or knob located on the side of the seat that allows the user to adjust the width of the side cushions. Other car seats may offer electric seat cushion side bolster adjustment, which allows the user to adjust the width of the side cushions using a control panel located on the seat or dashboard.
-
-Seat cushion side bolster adjustment is an important feature, particularly for drivers who experience discomfort or fatigue during long drives or who engage in spirited driving. Adjusting the width of the side cushions can help ensure that the driver is properly supported during turns or other maneuvers, which can help reduce fatigue and improve overall driving performance. In addition, a properly adjusted seat cushion can also help reduce the risk of injury in the event of a collision.
-
 ### Backrest side bolster adjustment
 
 Backrest side bolster adjustment on car seats refers to the ability to adjust the level of lateral support provided by the backrest of the seat. This adjustment allows the user to increase or decrease the level of support provided to the upper body and shoulders, which can help improve comfort and stability during turns or other maneuvers.
@@ -83,15 +86,21 @@ Some car seats offer manual backrest side bolster adjustment, which typically in
 
 Backrest side bolster adjustment is an important feature, particularly for drivers who engage in spirited driving or who experience discomfort or fatigue during long drives. Adjusting the width of the side bolsters can help ensure that the driver is properly supported during turns or other maneuvers, which can help reduce fatigue and improve overall driving performance. In addition, a properly adjusted backrest can also help reduce the risk of injury in the event of a collision.
 
+### Seat cushion side bolster adjustement
+
+Seat cushion side bolster adjustment on car seats refers to the ability to adjust the width of the side cushions that support the driver's thighs and hips. This adjustment allows the user to increase or decrease the level of lateral support provided by the seat, which can help improve comfort and stability during turns or other maneuvers.
+
+Some car seats offer manual seat cushion side bolster adjustment, which typically involves a lever or knob located on the side of the seat that allows the user to adjust the width of the side cushions. Other car seats may offer electric seat cushion side bolster adjustment, which allows the user to adjust the width of the side cushions using a control panel located on the seat or dashboard.
+
+Seat cushion side bolster adjustment is an important feature, particularly for drivers who experience discomfort or fatigue during long drives or who engage in spirited driving. Adjusting the width of the side cushions can help ensure that the driver is properly supported during turns or other maneuvers, which can help reduce fatigue and improve overall driving performance. In addition, a properly adjusted seat cushion can also help reduce the risk of injury in the event of a collision.
+
 ### Lumbar support
 
 Lumbar support adjustment on car seats refers to the ability to adjust the level of support provided to the lower back region of the driver's spine. This adjustment allows the user to increase or decrease the level of support provided to the lumbar region, which can help improve comfort and reduce fatigue during long drives.
 
-Some car seats offer manual lumbar support adjustment, which typically involves a lever or knob located on the side of the seat that allows the user to adjust the level of support provided to the lower back. Other car seats may offer electric lumbar support adjustment, which allows the user to adjust the level of support using a control panel located on the seat or dashboard.
+Most EVs with Lumbar support offer electric lumbar support adjustment, which allows the user to adjust the level of support using a control panel located on the seat or dashboard.
 
 Lumbar support adjustment is an important feature, particularly for drivers who experience lower back pain or discomfort during long drives. Adjusting the level of support provided to the lumbar region can help reduce pressure on the lower back and promote better posture while driving. In addition, a properly adjusted lumbar support can also help reduce the risk of injury in the event of a collision.
-
-
 
 ## Features
 
@@ -103,25 +112,24 @@ Some EV seats come with built-in massage functions, which use small motors to pr
 
 Ventilated seats are becoming increasingly popular in EVs, especially in warmer climates. These seats use fans to circulate air through perforations in the seat, providing a cooling effect and reducing sweat buildup.
 
-### Seat Memory:
+### Seat Memory
 
 Seat memory is a feature that allows drivers and passengers to save their preferred seat settings, such as the position, lumbar support, and seatback angle. This feature can be especially useful in vehicles that are shared by multiple drivers or for those who frequently switch between different vehicles.
 
-### Easy Entry Functionality:
+### Easy Entry Functionality
 
 Easy entry functionality is a feature that allows the seat to move automatically, providing easier access to the vehicle for those with limited mobility or who are carrying large objects.
 
-### Leg Support:
+### Leg Support
 
-Leg support is another critical feature in EV seats, providing additional support to the thighs and legs, which can reduce the risk of fatigue and discomfort during long drives.
+Some seats offer leg support for relaxing positions.
 
-### Seat Materials:
-
-Seat materials are an essential consideration when selecting EV seats. Popular materials include real and fake leather, fabric, and synthetic materials. Each material has its advantages and disadvantages, such as durability, comfort, and ease of maintenance.
-
-Overall, car seats are a critical component of any EV, providing comfort and safety for passengers. As EV technology continues to evolve, so too will the features and functionalities of car seats, ensuring that passengers can travel in style and comfort.
-
-
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/adjustement/nioes8legsupport_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/adjustment/nioes8legsupport_1_st.jpg" alt="Nio ES8 with leg support for front passenger" title="Nio ES8 with leg support for front passenger">
+    </a>
+    <figcaption><h4>Nio ES8 with leg support for front passenger</h4></figcaption>
+</figur>
 
 ### Swivel
 
@@ -129,5 +137,5 @@ Overall, car seats are a critical component of any EV, providing comfort and saf
     <a href="https://media.evkx.net/multimedia/technology/seats/types/kiaev9captainseats_1.jpg">
     <img src="https://media.evkx.net/multimedia/technology/seats/types/kiaev9captainseats_1_st.jpg" alt="Kia EV9 captain chairs in second row" title="Kia EV9 captain chairs in second row">
     </a>
-    <figcaption><h4>Kia EV9 captain chairs in second row</h4></figcaption>
+    <figcaption><h4>Kia EV9 captain chairs in second row with swivel function</h4></figcaption>
 </figur>
