@@ -1,6 +1,6 @@
 ---
 title: Seat adjustment and features
-linktitle: Seat adjustment and features
+linktitle: Adjustment and features
 description: Car seats are an essential component of any vehicle, including electric vehicles (EVs). As EVs become increasingly popular, manufacturers are incorporating advanced features and technology into their seats to provide passengers with the utmost comfort and convenience.
 weight: 2
 ---
@@ -44,3 +44,14 @@ Leg support is another critical feature in EV seats, providing additional suppor
 Seat materials are an essential consideration when selecting EV seats. Popular materials include real and fake leather, fabric, and synthetic materials. Each material has its advantages and disadvantages, such as durability, comfort, and ease of maintenance.
 
 Overall, car seats are a critical component of any EV, providing comfort and safety for passengers. As EV technology continues to evolve, so too will the features and functionalities of car seats, ensuring that passengers can travel in style and comfort.
+
+
+
+### Swivel
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/types/kiaev9captainseats_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/types/kiaev9captainseats_1_st.jpg" alt="Kia EV9 captain chairs in second row" title="Kia EV9 captain chairs in second row">
+    </a>
+    <figcaption><h4>Kia EV9 captain chairs in second row</h4></figcaption>
+</figur>

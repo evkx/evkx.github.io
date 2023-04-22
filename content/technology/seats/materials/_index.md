@@ -1,12 +1,10 @@
 ---
-title: Seat materials
-linktitle: Seat materials
-description: Car seat covers are not just functional accessories that protect your vehicle's seats from wear and tear; they also add a touch of style and comfort to your driving experience. One popular type of car seat cover is seat holstering, which refers to the use of various materials like leather, fake leather, leatherette, alcantara, fabric, and more to cover car seats. In this article, we will take an in-depth look at different materials used in seat holstering, discussing their advantages and limitations.
+title: Seat upholstery & materials
+linktitle: Seat upholstery
+description: Car seat upholstery is an important aspect of car seat design and can impact both the comfort and aesthetic appeal of a car's interior. There are several materials commonly used for car seat upholstery, each with their own pros and cons.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
-
-Seat Holstering: An In-Depth Look at Different Materials for Car Seat Covers
 
 ## Leather
 
