@@ -35,6 +35,13 @@ The fore and aft adjustment is available on most front seats and some second-row
     <figcaption><h4>Hyundai Ionic 5 second-row bench with fore and aft adjustment</h4></figcaption>
 </figur>
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/adjustment/mercedeseqssuvaftforward_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/adjustment/mercedeseqssuvaftforward_1_st.jpg" alt="Mercedes EQS SUV can move forward the second row to give access to third row" title="Mercedes EQS SUV can move forward the second row to give access to third row">
+    </a>
+    <figcaption><h4>Mercedes EQS SUV can move forward the second row to give access to third row</h4></figcaption>
+</figur>
+
 ### Height Adjustment
 
 Seat height adjustment on car seats refers to the ability to adjust the vertical position of the seat cushion relative to the floor of the car. This adjustment allows the driver to raise or lower the seat to achieve a comfortable and safe driving position, and to ensure that they have a clear view of the road ahead.

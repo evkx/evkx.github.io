@@ -26,7 +26,9 @@ The materials covered are
     <figcaption><h4>Audi e-tron GT fabric seats</h4></figcaption>
 </figur>
 
-Fabric is a popular material used for seat upholstery. It is a versatile material in various colors, textures, and patterns, making it easy to find the perfect look for your car. However, there are pros and cons to using fabric for seat upholstery, and there are different types of fabric to consider.
+Fabric is a popular material used for seat upholstery. It is a versatile material in various colors, textures, and patterns, making it easy to find the perfect look for your car. "Cloth" and "fabric" are often used interchangeably to describe the material used for upholstery. Cloth or fabric car seats are typically made from woven or knit textiles, such as polyester, nylon, or a blend of synthetic and natural fibers
+
+However, there are pros and cons to using fabric for seat upholstery, and there are different types of fabric to consider.
 
 ### Pros of Fabric Seat Upholstery
 
@@ -56,8 +58,6 @@ Fabric is a popular material used for seat upholstery. It is a versatile materia
 **Nylon:** Nylon is a durable and affordable fabric that is often used in entry-level vehicles. It is resistant to wear and tear, making it a practical choice for those who prioritize durability.
 
 **Polyester:** Polyester is a synthetic fabric that is resistant to stains and fading. It is a popular choice for those who prioritize low maintenance.
-
-**Vinyl:** Vinyl is a synthetic material that mimics the look and feel of leather. It is more affordable than genuine leather and is a popular option for those who want the look of leather without the cost.
 
 ### Sustainability of Fabric Seat Upholstery
 
@@ -116,6 +116,13 @@ Cost: Leather is a more expensive material than other options, such as fabric or
 **Top-Grain Leather:** Top-grain leather is made from the second layer of the animal hide and is thinner and more pliable than full-grain leather. It is often used in mid-range vehicles.
 
 **Bonded Leather:** Bonded leather is a synthetic material made from scraps of leather that are bonded together. It is less expensive than genuine leather but is not as durable or luxurious.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/materials/polestarnappa_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/polestarnappa_1_st.jpg" alt="Polestar 2 Nappa Leather seat" title="Polestar 2 Nappa Leather seat">
+    </a>
+    <figcaption><h4>Polestar 2 Nappa Leather seat</h4></figcaption>
+</figur>
 
 ### Sustainability of Leather Seat Upholstery
 
@@ -240,6 +247,13 @@ Dinamica is a synthetic suede-like material that is often used for seat upholste
 
 **Aesthetics:** Dinamica comes in a variety of colors and textures, making it easy to find a look that matches your car's interior.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/materials/audiq4dinamicaleatherette.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/audiq4dinamicaleatherette_st.jpg" alt="Audi Q4 e-tron Dinamica and leatherette seat" title="Audi Q4 e-tron Dinamica and leatherette seat">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron Dinamica and leatherette seat</h4></figcaption>
+</figur>
+
 ### Cons of Dinamica Seat Upholstery
 
 **Cost:** Dinamica is a more expensive material than some other options, including fabric and vinyl. This can make it a less desirable option for those on a budget.
@@ -265,6 +279,13 @@ Dinamica is used in a range of applications beyond automotive interiors, includi
 Alcantara sued Miko for various claims about sustainbility and [won in 2021](https://www.forbes.com/sites/edgarsten/2021/12/08/alcantara-wins-major-court-battle-against-greenwashing/).
 
 ## Wool
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/materials/bmwi7leatherwool_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/bmwi7leatherwool_1_st.jpg" alt="BMW i7 seats with combined Wool and Nappa Leather seat upholstering" title="BMW i7 seats with combined Wool and Nappa Leather seat upholstering">
+    </a>
+    <figcaption><h4>BMW i7 seats with combined Wool and Nappa Leather seat upholstering</h4></figcaption>
+</figur>
 
 Wool is a natural fiber that has been used for centuries in clothing and textile manufacturing. It is also used in car seat upholstery due to its durability, comfort, and natural properties. In this article, we will explore the pros and cons of using wool for car seat upholstery, the different types of wool used, and its sustainability.
 
@@ -296,12 +317,7 @@ Wool is a natural fiber that has been used for centuries in clothing and textile
 
 Wool is a renewable resource that is sheared from sheep once a year, making it a sustainable material for car seat upholstery. It is also biodegradable and can be recycled at the end of its life. However, the environmental impact of wool production depends on factors such as the use of pesticides and the treatment of wastewater during processing. Some wool producers prioritize sustainability by using eco-friendly practices such as organic farming and water conservation.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/seats/materials/bmwi7leatherwool_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/seats/materials/bmwi7leatherwool_1_st.jpg" alt="BMW i7 seats with combined Wool and Nappa Leather seat upholstering" title="BMW i7 seats with combined Wool and Nappa Leather seat upholstering">
-    </a>
-    <figcaption><h4>BMW i7 seats with combined Wool and Nappa Leather seat upholstering</h4></figcaption>
-</figur>
+
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/seats/materials/bmwi7leatherwool_3.jpg">
