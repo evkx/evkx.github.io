@@ -111,6 +111,10 @@ Lumbar support adjustment is an important feature, particularly for drivers who 
 
 ## Features
 
+### Heating
+
+Seat heating is available as an option or standard on most front seats. On some models this is also available on second row as standard or as an option.
+
 ### Massage
 
 Some EV seats come with built-in massage functions, which use small motors to provide targeted pressure and vibration to specific areas of the body. This feature can be especially beneficial for those who spend long periods in the car and may experience muscle tension or soreness.
@@ -146,3 +150,6 @@ Some seats offer leg support for relaxing positions.
     </a>
     <figcaption><h4>Kia EV9 captain chairs in second row with swivel function</h4></figcaption>
 </figur>
+
+
+### Footrest
