@@ -95,7 +95,7 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment (optional)
 - height adjustable headrest 
 - heating 
-- memory driver seat (optional)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />
@@ -105,11 +105,11 @@ The following functionalities are available on the **ergoActive Top-Sport** seat
 
 - electric adjustment (optional)
 - heating 
-- memory driver seat (optional)
-- electric lumbar support 
-- adjustable thigh support 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
-- massage 
+- [massage](../../../../technology/seats/adjustment/#massage) 
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />

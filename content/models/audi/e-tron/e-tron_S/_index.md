@@ -98,9 +98,9 @@ The following functionalities are available on the **s-line sport** seat.
 - height adjustable headrest 
 - length adjustable headrest (optional)
 - heating (optional)
-- memory driver seat (optional)
-- electric lumbar support 
-- adjustable thigh support 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />
@@ -110,9 +110,9 @@ The following functionalities are available on the **s sport** seat.
 
 - electric adjustment (optional)
 - heating (optional)
-- memory driver seat (optional)
-- electric lumbar support 
-- adjustable thigh support 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
 
 You can choose from 4 different materials/colors for this seat type. <br />
@@ -125,14 +125,14 @@ The following functionalities are available on the **multicontour** seat.
 - height adjustable headrest 
 - length adjustable headrest 
 - heating 
-- memory driver seat 
-- memory passenger seat 
-- electric lumbar support 
-- adjustable side support back 
-- adjustable side support bottom 
-- electric adjustable thigh support 
-- ventilation (optional)
-- massage (optional)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
+- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
+- [Seat cushion side bolster adjustement](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
+- electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />

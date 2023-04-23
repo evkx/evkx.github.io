@@ -91,12 +91,12 @@ The following functionalities are available on the **standard** seat.
 
 - electric adjustment 
 - heating 
-- memory driver seat (optional)
-- memory passenger seat (optional)
-- adjustable side support back (optional)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - integrated headrest 
-- ventilation (optional)
-- massage (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 7 different materials/colors for this seat type. <br />
 <br />
@@ -123,12 +123,12 @@ The following functionalities are available on the **Executive Lounge** seat.
 
 - electric adjustment 
 - heating (optional)
-- electric adjustable thigh support 
+- electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
-- ventilation 
-- massage 
-- leg support for passenger 
-- footrest for passenger 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- [massage](../../../../technology/seats/adjustment/#massage) 
+- leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
+- footrest for passenger](../../../../technology/seats/adjustment/#footrest) 
 
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
 

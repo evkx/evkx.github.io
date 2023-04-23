@@ -92,13 +92,13 @@ The following functionalities are available on the **Standard** seat.
 
 - electric adjustment (optional)
 - heating 
-- memory driver seat (optional)
-- memory passenger seat (optional)
-- electric lumbar support (optional)
-- adjustable side support back (optional)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - integrated headrest 
-- ventilation (optional)
-- massage (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 3 different materials/colors for this seat type. <br />
 <br />
@@ -108,13 +108,13 @@ The following functionalities are available on the **Sport** seat.
 
 - electric adjustment 
 - heating 
-- memory driver seat (optional)
-- memory passenger seat (optional)
-- adjustable side support back (optional)
-- adjustable thigh support 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
+- adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
-- ventilation (optional)
-- massage (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 3 different materials/colors for this seat type. <br />
 <br />

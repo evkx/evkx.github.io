@@ -104,12 +104,12 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment 
 - height adjustable headrest 
 - heating 
-- memory driver seat 
-- memory passenger seat 
-- ventilation 
-- massage 
-- leg support for passenger 
-- footrest for passenger 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- [massage](../../../../technology/seats/adjustment/#massage) 
+- leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
+- footrest for passenger](../../../../technology/seats/adjustment/#footrest) 
 
 You can choose from 3 different materials/colors for this seat type. <br />
 <br />
@@ -131,7 +131,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 - electric adjustment 
 - heating (optional)
-- electric lumbar support 
+- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 
 There is only one type of steering wheel available. 
 

@@ -100,9 +100,9 @@ The following functionalities are available on the **Comfortseats with memory** 
 
 - electric adjustment 
 - heating 
-- memory driver seat (optional)
-- electric lumbar support 
-- adjustable thigh support 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 
 You can choose from 2 different materials/colors for this seat type. <br />
 <br />
@@ -112,15 +112,15 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 
 - electric adjustment 
 - heating 
-- memory driver seat 
-- memory passenger seat 
-- electric lumbar support 
-- adjustable side support back 
-- adjustable side support bottom 
-- adjustable thigh support 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
+- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
+- [Seat cushion side bolster adjustement](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
+- adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
-- ventilation 
-- massage (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 4 different materials/colors for this seat type. <br />
 <br />

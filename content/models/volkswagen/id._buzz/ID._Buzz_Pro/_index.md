@@ -109,11 +109,11 @@ The following functionalities are available on the **comfort** seat.
 
 - electric adjustment 
 - heating 
-- memory driver seat 
-- electric lumbar support 
-- adjustable thigh support 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
-- massage 
+- [massage](../../../../technology/seats/adjustment/#massage) 
 
 You can choose from 5 different materials/colors for this seat type. <br />
 <br />

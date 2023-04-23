@@ -99,12 +99,12 @@ The following functionalities are available on the **standard** seat.
 
 - electric adjustment 
 - heating 
-- memory driver seat (optional)
-- memory passenger seat (optional)
-- adjustable side support back (optional)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - integrated headrest 
-- ventilation (optional)
-- massage (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 7 different materials/colors for this seat type. <br />
 <br />

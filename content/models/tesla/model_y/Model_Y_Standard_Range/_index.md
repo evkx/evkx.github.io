@@ -93,8 +93,8 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment 
 - height adjustable headrest 
 - heating 
-- memory driver seat 
-- memory passenger seat 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 
 You can choose from 2 different materials/colors for this seat type. <br />
 <br />
