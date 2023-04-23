@@ -1,12 +1,12 @@
 ---
 title: Seat upholstery & materials
 linktitle: Seat upholstery
-description: Car seat upholstery is an important aspect of car seat design and can impact both the comfort and aesthetic appeal of a car's interior. There are several materials commonly used for car seat upholstery, each with their own pros and cons.
+description: Car seat upholstery is an essential aspect of car seat design and can impact the comfort and aesthetic appeal of a car's interior. The EV manufacturers commonly use several materials for car seat upholstery, each with pros and cons.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-Sustainability and ethical considerations are important factors for many people when it comes to choosing seat holstering materials, including leather. In recent years, there has been an increasing demand for vegan or cruelty-free alternatives to traditional leather due to concerns about animal welfare, environmental impact, and sustainability. We cover this for each type of seat upholstering.
+Sustainability and ethical considerations are essential for many people when choosing seat holstering materials, including leather. Recently, there has been an increasing demand for vegan or cruelty-free alternatives to traditional leather due to concerns about animal welfare, environmental impact, and sustainability. We cover this for each type of seat upholstering.
 
 The materials covered are
 
@@ -26,17 +26,15 @@ The materials covered are
     <figcaption><h4>Audi e-tron GT fabric seats</h4></figcaption>
 </figur>
 
-Fabric is a popular material used for seat upholstery. It is a versatile material that comes in a range of colors, textures, and patterns, making it easy to find the perfect look for your car. There are pros and cons to using fabric for seat upholstery, and there are different types of fabric to consider.
+Fabric is a popular material used for seat upholstery. It is a versatile material in various colors, textures, and patterns, making it easy to find the perfect look for your car. However, there are pros and cons to using fabric for seat upholstery, and there are different types of fabric to consider.
 
 ### Pros of Fabric Seat Upholstery
 
-**Cost:** Fabric is a more affordable material than leather or other premium materials. This makes it a great option for those on a budget.
+**Cost:** Fabric is more affordable than leather or other premium materials. This aspect makes it an excellent option for those on a budget.
 
 **Comfort:** Fabric seat covers are comfortable and breathable. They provide a soft and supportive surface for the driver and passengers.
 
-**Aesthetics:** Fabric comes in a wide range of colors and patterns, allowing you to choose the perfect look for your car's interior. It is a versatile material that can match any style or design.
-
-**Maintenance:** Fabric is easier to clean and maintain than leather. It can be easily spot-cleaned or even machine-washed, making it a practical option for families with children or pets.
+**Aesthetics:** Fabric comes in various colors and patterns, allowing you to choose the perfect look for your car’s interior. It is a versatile material that can match any style or design.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/seats/materials/polestarweavetech_1.jpg">
@@ -47,7 +45,7 @@ Fabric is a popular material used for seat upholstery. It is a versatile materia
 
 ### Cons of Fabric Seat Upholstery
 
-**Durability:** Fabric is not as durable as leather or other materials. It can be prone to wear and tear, and it may not hold up as well over time.
+**Durability:** Fabric is less durable than leather or other materials. It can be prone to wear and tear and may not hold up well over time.
 
 **Stains:** Fabric is more susceptible to stains and spills than other materials. This can be a concern if you have children or pets that may cause spills or accidents.
 
@@ -63,13 +61,13 @@ Fabric is a popular material used for seat upholstery. It is a versatile materia
 
 ### Sustainability of Fabric Seat Upholstery
 
-The production of fabric can have a significant impact on the environment, including water and energy use, greenhouse gas emissions, and waste. However, there are sustainable practices in the fabric industry that can mitigate these impacts.
+The production of fabric can significantly impact the environment, including water and energy use, greenhouse gas emissions, and waste. However, there are sustainable practices in the fabric industry that can mitigate these impacts.
 
 One way to ensure the sustainability of fabric is to choose materials that are produced using eco-friendly processes. This includes using recycled materials, organic cotton, or fabrics that are certified by sustainability organizations.
 
 Another way to ensure sustainability is to choose fabric from companies that follow ethical practices. This includes ensuring that workers are treated fairly and that the materials used in production are sourced responsibly.
 
-In the video below you see how Audi creates their sustainable seats.
+In the video below you see how Audi creates their sustainable seats from reusable materials like bottles.
 
 {{< youtube Adg7eDwRCG4 >}}
 
@@ -77,34 +75,41 @@ In the video below you see how Audi creates their sustainable seats.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/seats/materials/eqssuvnapaleather_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/seats/materials/eqssuvnapaleather_1_st.jpg" alt="Mercedes EQS Suv Napa Leather" title="Mercedes EQS Suv Nappa Leather">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/eqssuvnapaleather_1_st.jpg" alt="Mercedes EQS Suv Nappa Leather" title="Mercedes EQS Suv Nappa Leather">
     </a>
-    <figcaption><h4>Mercedes EQS Suv with ventilated Napa Leather</h4></figcaption>
+    <figcaption><h4>Mercedes EQS Suv with ventilated Nappa Leather</h4></figcaption>
 </figur>
 
 Leather has been a popular material used for seat upholstery for many years. It is a luxurious and durable material that can add a touch of elegance to any car’s interior. However, there are pros and cons to using leather, and there are different types of leather to consider.
 
 ### Pros of Leather Seat Upholstery
 
-Durability: Leather is a durable material that can last for many years with proper care. It is resistant to wear and tear and can withstand spills and stains better than other materials.
+**Durability:** Leather is a durable material that can last for many years with proper care. It is resistant to wear and tear and can withstand spills and stains better than other materials.
 
-Comfort: Leather seat covers are comfortable and soft to the touch. They provide a comfortable and supportive surface for the driver and passengers.
+**Comfort:** Leather seat covers are comfortable and soft to the touch. They provide a comfortable and supportive surface for the driver and passengers.
 
-Aesthetics: Leather has a classic and luxurious look that can enhance the interior of any vehicle. It comes in a range of colors and textures, allowing you to choose the perfect look for your car.
+**Aesthetics:** Leather has a classic and luxurious look that can enhance the interior of any vehicle. It comes in a range of colors and textures, allowing you to choose the perfect look for your car.
 
-Resale Value: Vehicles with leather upholstery tend to have a higher resale value than those with fabric upholstery. Leather is a premium material that can add value to your car.
+**Resale Value:** Vehicles with leather upholstery tend to have a higher resale value than those with fabric upholstery. Leather is a premium material that can add value to your car.
 
 ### Cons of Leather Seat Upholstery
 
 Cost: Leather is a more expensive material than other options, such as fabric or vinyl.
 
-Maintenance: Leather requires regular maintenance to keep it looking its best. It needs to be cleaned and conditioned regularly to prevent cracking and fading.
+**Maintenance:** Leather requires regular maintenance to keep it looking its best. It needs to be cleaned and conditioned regularly to prevent cracking and fading.
 
-Temperature Sensitivity: Leather can be hot in the summer and cold in the winter, making it uncomfortable for some people.
+**Temperature Sensitivity:** Leather can be hot in the summer and cold in the winter, making it uncomfortable for some people.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/materials/bmwperforatedleather.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/bmwperforatedleather_st.jpg" alt="Perforated Leather BWM iX" title="Perforated Leather BWM iX">
+    </a>
+    <figcaption><h4>Perforated Leather BWM iX</h4></figcaption>
+</figur>
 
 ### Types of Leather
 
-**Napa Leather:** Napa leather is a premium type of leather that is soft and supple to the touch. It is made from sheep or lambskin and is often used in high-end luxury vehicles. Napa leather is more expensive than other types of leather, but it is also more durable and luxurious.
+**Nappa Leather:** Nappa leather is a premium type of leather that is soft and supple to the touch. It is made from sheep or lambskin and is often used in high-end luxury vehicles. Nappa leather is more expensive than other types of leather, but it is also more durable and luxurious.
 
 **Full-Grain Leather:** Full-grain leather is the highest quality leather available. It is made from the top layer of the animal hide and retains its natural grain and texture. Full-grain leather is durable and develops a unique patina over time.
 
@@ -130,6 +135,13 @@ Another way to ensure sustainability is to choose leather from companies that fo
 In conclusion, leather seat upholstery can add a touch of luxury to any car’s interior. However, it is important to consider the pros and cons of using leather, as well as the different types of leather available. Additionally, it is crucial to choose leather that is produced using sustainable and ethical practices to minimize the impact on the environment.
 
 ## Leatherette
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/materials/teslaleatherette.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/teslaleatherette_st.jpg" alt="Tesla Model Y leatherette seats" title="Tesla Model Y leatherette seats">
+    </a>
+    <figcaption><h4>Tesla Model Y leatherette seats</h4></figcaption>
+</figur>
 
 Leatherette is a synthetic material made to resemble real leather. It is often used for seat upholstery in cars and other vehicles. There are several pros and cons to using leatherette for seat upholstery, and it is important to consider the sustainability of this material.
 
@@ -209,6 +221,13 @@ Alcantara is produced in a manufacturing facility in Nera Montoro, Umbria, Italy
 
 ## Dinamica
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/materials/vwdinamicaseats.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/vwdinamicaseats_st.jpg" alt="VW ID4 Seats made by Dinamica and leatherette" title="VW ID4 Seats made by Dinamica and leatherette">
+    </a>
+    <figcaption><h4>VW ID4 Seats made by Dinamica and leatherette</h4></figcaption>
+</figur>
+
 Dinamica is a synthetic suede-like material that is often used for seat upholstery. It is made from polyester and polyurethane and is designed to be an eco-friendly alternative to traditional suede. There are pros and cons to using dinamica for seat upholstery, and it is important to consider the sustainability of this material.
 
 ### Pros of Dinamica Seat Upholstery:
@@ -279,16 +298,16 @@ Wool is a renewable resource that is sheared from sheep once a year, making it a
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/seats/materials/bmwi7leatherwool_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/seats/materials/bmwi7leatherwool_1_st.jpg" alt="BMW i7 seats with combined Wool and Napa Leather seat upholstering" title="BMW i7 seats with combined Wool and Napa Leather seat upholstering">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/bmwi7leatherwool_1_st.jpg" alt="BMW i7 seats with combined Wool and Nappa Leather seat upholstering" title="BMW i7 seats with combined Wool and Nappa Leather seat upholstering">
     </a>
-    <figcaption><h4>BMW i7 seats with combined Wool and Napa Leather seat upholstering</h4></figcaption>
+    <figcaption><h4>BMW i7 seats with combined Wool and Nappa Leather seat upholstering</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/seats/materials/bmwi7leatherwool_3.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/seats/materials/bmwi7leatherwool_3_st.jpg" alt="BMW i7 seats with combined Wool and Napa Leather seat upholstering" title="BMW i7 seats with combined Wool and Napa Leather seat upholstering">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/bmwi7leatherwool_3_st.jpg" alt="BMW i7 seats with combined Wool and Nappa Leather seat upholstering" title="BMW i7 seats with combined Wool and Nappa Leather seat upholstering">
     </a>
-    <figcaption><h4>BMW i7 seats with combined Wool and Napa Leather seat upholstering</h4></figcaption>
+    <figcaption><h4>BMW i7 seats with combined Wool and Nappa Leather seat upholstering</h4></figcaption>
 </figur>
 
 ## Colors
