@@ -123,12 +123,12 @@ The following functionalities are available on the **Executive Lounge** seat.
 
 - electric adjustment 
 - heating (optional)
-- electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
-- leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
-- footrest for passenger](../../../../technology/seats/adjustment/#footrest) 
+- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
+- [footrest for passenger](../../../../technology/seats/adjustment/#footrest) 
 
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
 

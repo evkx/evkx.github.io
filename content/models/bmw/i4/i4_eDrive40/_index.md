@@ -103,7 +103,7 @@ The following functionalities are available on the **standard** seat.
 - heating 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
@@ -119,7 +119,7 @@ The following functionalities are available on the **M Sport** seat.
 - heating 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - integrated headrest 
 

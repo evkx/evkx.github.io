@@ -100,9 +100,9 @@ The following functionalities are available on the **multicontour** seat.
 - heating 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
-- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
-- electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
@@ -128,12 +128,12 @@ For the second row, this model has twin [executive seats](../../../../technology
 - height adjustable headrest 
 - heating (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
-- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
-- leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
-- footrest for passenger](../../../../technology/seats/adjustment/#footrest) 
+- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
+- [footrest for passenger](../../../../technology/seats/adjustment/#footrest) 
 
 
 <figur>

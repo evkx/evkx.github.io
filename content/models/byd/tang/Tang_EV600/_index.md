@@ -95,8 +95,8 @@ The following functionalities are available on the **standard** seat.
 - heating 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
-- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 You can choose from 3 different materials/colors for this seat type. <br />

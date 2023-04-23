@@ -110,8 +110,8 @@ The following functionalities are available on the **comfort** seat.
 - electric adjustment 
 - heating 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
-- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 

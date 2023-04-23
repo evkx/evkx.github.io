@@ -93,8 +93,8 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment (optional)
 - heating (optional)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 - integrated headrest 
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 

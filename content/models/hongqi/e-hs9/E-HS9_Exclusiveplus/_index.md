@@ -93,7 +93,7 @@ The following functionalities are available on the **standard** seat.
 - heating 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
-- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 

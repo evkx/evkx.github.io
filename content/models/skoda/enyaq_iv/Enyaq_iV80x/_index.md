@@ -106,8 +106,8 @@ The following functionalities are available on the **standard** seat.
 - height adjustable headrest 
 - heating (optional)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
-- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 5 different materials/colors for this seat type. <br />
@@ -119,8 +119,8 @@ The following functionalities are available on the **Sport** seat.
 - electric adjustment (optional)
 - heating 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
-- electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 

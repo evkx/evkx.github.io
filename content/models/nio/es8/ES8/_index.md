@@ -108,8 +108,8 @@ The following functionalities are available on the **standard** seat.
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
-- leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
-- footrest for passenger](../../../../technology/seats/adjustment/#footrest) 
+- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
+- [footrest for passenger](../../../../technology/seats/adjustment/#footrest) 
 
 You can choose from 3 different materials/colors for this seat type. <br />
 <br />
