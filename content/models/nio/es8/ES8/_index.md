@@ -103,7 +103,7 @@ The following functionalities are available on the **standard** seat.
 
 - electric adjustment 
 - height adjustable headrest 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
@@ -130,12 +130,12 @@ You can choose two seat types for the second row in the Nio ES8.
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
 - electric adjustment 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 The standard option is two captain chairs. In addition, the following functionalities are available. 
 
 - height adjustable headrest 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 ### Third-row seats
 

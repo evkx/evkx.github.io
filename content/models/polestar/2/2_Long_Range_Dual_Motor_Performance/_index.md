@@ -84,7 +84,7 @@ Only one front seat type is available in the Polestar 2 Long Range Dual Motor Pe
 
 The following functionalities are available on the **standard** seat. 
 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 
@@ -106,7 +106,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **** seat. 
 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 
 You can choose from 5 different materials/colors for this seat type. <br />
 <br />

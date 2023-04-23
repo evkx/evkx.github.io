@@ -99,7 +99,7 @@ There are two seat types you can choose from for the front row in the Porsche Ta
 The following functionalities are available on the **Comfortseats with memory** seat. 
 
 - electric adjustment 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
@@ -111,7 +111,7 @@ You can choose from 2 different materials/colors for this seat type. <br />
 The following functionalities are available on the **Sportsseats Plus** seat. 
 
 - electric adjustment 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
@@ -140,12 +140,12 @@ You can choose two seat types for the second row in the Porsche Taycan Turbo S S
 
 The standard option is two integrated seats in the second row. In addition, the following functionalities are available. 
 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest 
 
 The second option is two integrated seats in the second row with a third smaller seat in between. In addition, the following functionalities are available. 
 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest 
 
 

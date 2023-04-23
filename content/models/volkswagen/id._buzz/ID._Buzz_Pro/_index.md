@@ -99,7 +99,7 @@ There are two seat types you can choose from for the front row in the Volkswagen
 The following functionalities are available on the **standard** seat. 
 
 - height adjustable headrest 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 
 You can choose from 6 different materials/colors for this seat type. <br />
 <br />
@@ -108,7 +108,7 @@ You can choose from 6 different materials/colors for this seat type. <br />
 The following functionalities are available on the **comfort** seat. 
 
 - electric adjustment 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 

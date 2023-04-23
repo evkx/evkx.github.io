@@ -84,7 +84,7 @@ Only one front seat type is available in the Volvo XC40 Recharge Single Motor ER
 
 The following functionalities are available on the **** seat. 
 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 
@@ -102,7 +102,7 @@ The following functionalities are available on the **** seat.
 
 The following functionalities are available on the **** seat. 
 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 
 There is only one type of steering wheel available. 
 

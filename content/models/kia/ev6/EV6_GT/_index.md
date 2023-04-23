@@ -95,7 +95,7 @@ The following functionalities are available on the **** seat.
 
 - electric adjustment 
 - height adjustable headrest 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
@@ -118,7 +118,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 
 
 <figur>

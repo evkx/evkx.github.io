@@ -99,7 +99,7 @@ Only one front seat type is available in the BMW iX3.
 The following functionalities are available on the **Sport** seat. 
 
 - electric adjustment 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
@@ -117,7 +117,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest 
 
 

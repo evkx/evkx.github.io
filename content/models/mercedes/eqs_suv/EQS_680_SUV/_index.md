@@ -97,7 +97,7 @@ The following functionalities are available on the **multicontour** seat.
 - electric adjustment 
 - height adjustable headrest 
 - length adjustable headrest 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
@@ -126,7 +126,7 @@ For the second row, this model has twin [executive seats](../../../../technology
 
 - electric adjustment 
 - height adjustable headrest 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 

@@ -90,7 +90,7 @@ Only one front seat type is available in the BMW i7 xDrive60.
 The following functionalities are available on the **standard** seat. 
 
 - electric adjustment 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
@@ -108,13 +108,13 @@ You can choose two seat types for the second row in the BMW i7 xDrive60.
 
 The standard option is a three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest 
 
 The following functionalities are available on the **Executive Lounge** seat. 
 
 - electric adjustment 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 

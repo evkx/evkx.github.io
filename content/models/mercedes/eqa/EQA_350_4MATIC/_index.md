@@ -101,7 +101,7 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment (optional)
 - height adjustable headrest 
 - length adjustable headrest (optional)
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
@@ -116,7 +116,7 @@ The following functionalities are available on the **multicontour** seat.
 - electric adjustment 
 - height adjustable headrest 
 - length adjustable headrest 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 

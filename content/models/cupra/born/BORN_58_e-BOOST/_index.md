@@ -91,7 +91,7 @@ Only one front seat type is available in the CUPRA BORN 58 e-BOOST.
 The following functionalities are available on the **standard** seat. 
 
 - electric adjustment (optional)
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)

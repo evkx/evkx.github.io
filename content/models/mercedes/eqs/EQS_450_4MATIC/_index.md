@@ -96,7 +96,7 @@ The following functionalities are available on the **standard** seat.
 
 - electric adjustment 
 - height adjustable headrest 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
@@ -111,7 +111,7 @@ The following functionalities are available on the **multicontour** seat.
 - electric adjustment 
 - height adjustable headrest 
 - length adjustable headrest 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
@@ -139,12 +139,12 @@ You can choose two seat types for the second row in the Mercedes-EQ EQS 450 4MAT
 The standard option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
 - height adjustable headrest 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
 - height adjustable headrest 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 

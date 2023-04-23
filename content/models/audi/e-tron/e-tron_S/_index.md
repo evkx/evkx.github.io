@@ -97,7 +97,7 @@ The following functionalities are available on the **s-line sport** seat.
 - electric adjustment (optional)
 - height adjustable headrest 
 - length adjustable headrest (optional)
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
@@ -109,7 +109,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 The following functionalities are available on the **s sport** seat. 
 
 - electric adjustment (optional)
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
@@ -124,7 +124,7 @@ The following functionalities are available on the **multicontour** seat.
 - electric adjustment 
 - height adjustable headrest 
 - length adjustable headrest 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 

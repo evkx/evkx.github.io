@@ -87,7 +87,7 @@ The following functionalities are available on the **standard** seat.
 
 - electric adjustment (optional)
 - height adjustable headrest 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
@@ -101,7 +101,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 The following functionalities are available on the **** seat. 
 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 
 <figur>

@@ -90,7 +90,7 @@ The following functionalities are available on the **standard** seat.
 
 - electric adjustment 
 - height adjustable headrest 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
@@ -109,7 +109,7 @@ For the second row, this model has two captain chairs. In addition, the followin
 
 - electric adjustment 
 - height adjustable headrest 
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 ### Third-row seats

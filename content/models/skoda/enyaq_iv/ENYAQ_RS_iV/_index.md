@@ -91,7 +91,7 @@ Only one front seat type is available in the SKODA ENYAQ RS iV.
 The following functionalities are available on the **Sport** seat. 
 
 - electric adjustment (optional)
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 

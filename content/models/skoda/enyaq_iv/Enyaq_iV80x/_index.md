@@ -104,7 +104,7 @@ The following functionalities are available on the **standard** seat.
 
 - electric adjustment (optional)
 - height adjustable headrest 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
@@ -117,7 +117,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 The following functionalities are available on the **Sport** seat. 
 
 - electric adjustment (optional)
-- heating 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 

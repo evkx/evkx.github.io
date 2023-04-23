@@ -92,7 +92,7 @@ The following functionalities are available on the **standard** seat.
 
 - electric adjustment (optional)
 - height adjustable headrest 
-- heating (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 You can choose from 2 different materials/colors for this seat type. <br />
 <br />
