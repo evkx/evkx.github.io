@@ -19,6 +19,17 @@ The standard front seats are the most common type of car seat in the front row. 
 </figur>
 
 
+## Front row Captain Seats
+
+Captain Seats in front row is typical used on MPV or Vans.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/types/idbuzzcaptainchairsfront_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/types/idbuzzcaptainchairsfront_1_st.jpg" alt="Volkswage ID.Buzz Captain Seats in front" title="Volkswage ID.Buzz Captain Seats in front">
+    </a>
+    <figcaption><h4>Volkswage ID.Buzz Captain Seats in front</h4></figcaption>
+</figur>
+
 ## 1+2 bench in front seats
 
 A 1+2 bench in the front seats of a car is a seating configuration that consists of a single seat for the driver and a bench seat for two passengers positioned next to the driver's seat. This type of seating option is only available on commercial vehicles.
