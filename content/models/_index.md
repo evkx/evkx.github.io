@@ -32,7 +32,7 @@ BYD has 3 models with total 3 variants. [Read all about them](byd/)
 
 CUPRA has serveral electric models. 
 
-CUPRA has 1 models with total 3 variants. [Read all about them](cupra/)
+CUPRA has 2 models with total 4 variants. [Read all about them](cupra/)
 
 ## Fisker
 

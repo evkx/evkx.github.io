@@ -13,3 +13,10 @@ CUPRA is the unconventional challenger brand that combines emotional design, ele
 
 This model is available in 3 variant(s). 
 [Read full details](born/)
+
+## CUPRA Tavascan
+
+[![Tavascan]()](tavascan)
+
+This model is available in 1 variant(s). 
+[Read full details](tavascan/)
