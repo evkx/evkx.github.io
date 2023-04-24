@@ -16,7 +16,7 @@ This model is available in 3 variant(s).
 
 ## CUPRA Tavascan
 
-[![Tavascan]()](tavascan)
+[![Tavascan](https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG)](tavascan)
 
 This model is available in 1 variant(s). 
 [Read full details](tavascan/)

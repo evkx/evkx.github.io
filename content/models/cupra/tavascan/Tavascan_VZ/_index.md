@@ -1,12 +1,20 @@
 ---
-title: CUPRA Tavescan VZ
-linktitle: Tavescan VZ
-description: CUPRA Tavescan VZ is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net have all the details. 
+title: CUPRA Tavascan VZ
+linktitle: Tavascan VZ
+description: CUPRA Tavascan VZ is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 
-We have separated our description of the CUPRA Tavescan VZ into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1.JPG">
+<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ">
+</a>
+<figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
+
+We have separated our description of the CUPRA Tavascan VZ into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -22,7 +30,7 @@ We have separated our description of the CUPRA Tavescan VZ into sections. If you
 
 ## Performance
 
-The CUPRA Tavescan VZ has a maximum power of 250KW (340hp). The total torque is 679nm. The 0-100km/h sprint (0-62mph) takes 5,6 seconds. The top speed is 180 km/h. 
+The CUPRA Tavascan VZ has a maximum power of 250KW (340hp). The total torque is 679nm. The 0-100km/h sprint (0-62mph) takes 5,6 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -39,13 +47,13 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-CUPRA Tavescan VZ has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
+CUPRA Tavascan VZ has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 131 mm. 
 
 ### Steering
 
-Dynamic steering is optional on the CUPRA Tavescan VZ. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is optional on the CUPRA Tavascan VZ. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -64,13 +72,21 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 You can order the car with tinted windows from B-pillar and back. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_1.JPG">
+<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_1_st.JPG" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ">
+</a>
+<figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
+
+
 ## Interior
 
 You can choose between two types of seats with preconfigured materials. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
 ### First row seats
 
-Only one front seat type is available in the CUPRA Tavescan VZ. 
+Only one front seat type is available in the CUPRA Tavascan VZ. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -84,6 +100,14 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 3 different materials/colors for this seat type. <br />
 <br />
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/frontseats_1_st.jpg" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ">
+</a>
+<figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
 
 
 ### Second-row seat
@@ -101,7 +125,7 @@ There is one climate system available. The 2-zone Climatronic climate system sup
 
 ## Comfort
 
-CUPRA Tavescan VZ has several features to make your life as a driver or passenger more comfortable. 
+CUPRA Tavascan VZ has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -111,40 +135,56 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-CUPRA Tavescan VZ has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5,3 inches large. The touch screen on the dashboard's center  is 15 inches large and has a 1920 x 869 pixels resolution. 
+CUPRA Tavascan VZ has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5,3 inches large. The touch screen on the dashboard's center  is 15 inches large and has a 1920 x 869 pixels resolution. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/screens_1_st.jpg" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ">
+</a>
+<figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
+
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose between two sound systems on the CUPRA Tavescan VZ. With the Sound system, you get six amplifier channels and five speakers with a max system output of 140 watts. With the Beats Audio, you get nine amplifier channels and nine speakers with a max system output of 395 watts. 
+You can choose between two sound systems on the CUPRA Tavascan VZ. With the Sound system, you get six amplifier channels and five speakers with a max system output of 140 watts. With the Beats Audio, you get nine amplifier channels and nine speakers with a max system output of 395 watts. 
 
-In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the CUPRA Tavescan VZ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the CUPRA Tavascan VZ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.  
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/headlights_1.JPG">
+<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/headlights_1_st.JPG" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ">
+</a>
+<figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
+
 ## Advanced driver assistance systems
 
-The CUPRA Tavescan VZ has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The CUPRA Tavascan VZ has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
 
 
-The CUPRA Tavescan VZ has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The CUPRA Tavascan VZ has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The CUPRA Tavescan VZ has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The CUPRA Tavascan VZ has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
 
-The CUPRA Tavescan VZ has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The CUPRA Tavascan VZ has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The CUPRA Tavescan VZ has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The CUPRA Tavascan VZ has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
@@ -152,7 +192,7 @@ The CUPRA Tavescan VZ has a [**automatic emergency braking**](../../../../techno
 
 ### Driving Automation
 
-The CUPRA Tavescan VZ offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+The CUPRA Tavascan VZ offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the standard system the model offers no driving automation. 
 - Cruise control. 
@@ -169,6 +209,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0kg. Max weight is 2650kg, and with the base weight of 2042 kg, you can max load 608 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0kg. Max weight is 2650kg, and with the base weight of 2042 kg, you can max load 608 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 

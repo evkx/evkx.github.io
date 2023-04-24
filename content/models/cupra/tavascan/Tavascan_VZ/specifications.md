@@ -1,7 +1,7 @@
 ---
-title: CUPRA Tavescan VZ specifications
+title: CUPRA Tavascan VZ specifications
 linktitle: Specifications
-description: See below for specifications for CUPRA Tavescan VZ
+description: See below for specifications for CUPRA Tavascan VZ
 weight: 30
 ---
 

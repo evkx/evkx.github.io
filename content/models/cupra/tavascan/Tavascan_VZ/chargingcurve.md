@@ -1,7 +1,7 @@
 ---
-title: CUPRA Tavescan VZ charging curve & performance
+title: CUPRA Tavascan VZ charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for CUPRA Tavescan VZ. 
+description: Here you find the charging curve for CUPRA Tavascan VZ. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
