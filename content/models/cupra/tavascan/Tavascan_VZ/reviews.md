@@ -6,4 +6,7 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### Autogefühl: The Cupra Tavascan EV Coupé is the VW ID4’s evil twin 21.04.2023
+
+{{< youtube 0HXYY5q1f7k >}}
+
