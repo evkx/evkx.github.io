@@ -115,10 +115,10 @@ weight: 30
 |Channels|6|
 |Total effect|140|
 
-### Beats Audio
+### Sennheiser Soundsystem
 
 |Spec|Value|
 |----|-----|
-|Number of speakers|9|
+|Number of speakers|12|
 |Channels|9|
 |Total effect|395|

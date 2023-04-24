@@ -64,7 +64,7 @@ Dynamic steering is optional on the CUPRA Tavascan VZ. Dynamic steering varies t
 ## Exterior
 
 You can choose between 5 different paint colors when ordering this model. 
-Additionally, you can choose between 6 wheels with sizes from 18 to 20 inches. 
+Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches. 
 
 The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrically powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
 
@@ -149,7 +149,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the CUPRA Tavascan VZ. With the Sound system, you get six amplifier channels and five speakers with a max system output of 140 watts. With the Beats Audio, you get nine amplifier channels and nine speakers with a max system output of 395 watts. 
+You can choose between two sound systems on the CUPRA Tavascan VZ. With the Sound system, you get six amplifier channels and five speakers with a max system output of 140 watts. With the Sennheiser Soundsystem, you get nine amplifier channels and 12 speakers with a max system output of 395 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the CUPRA Tavascan VZ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
@@ -189,6 +189,8 @@ The CUPRA Tavascan VZ has a [**automatic emergency braking**](../../../../techno
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
 [**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+
+driverassistance.exitwarning
 
 ### Driving Automation
 
