@@ -21,7 +21,7 @@ The standard front seats are the most common type of car seat in the front row. 
 
 ## Front row Captain Seats
 
-Captain Seats in front row is typical used on MPV or Vans.
+Captain Seats in front row is typical used on MPV or Vans where driver can sit higher. 
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/seats/types/idbuzzcaptainchairsfront_1.jpg">
