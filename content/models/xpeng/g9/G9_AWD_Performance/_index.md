@@ -107,15 +107,10 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 
-The following functionalities are available on the **** seat. 
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
-
-You can choose from 2 different materials/colors for this seat type. <br />
-<br />
-
 
 
 <figur>
@@ -155,7 +150,7 @@ This model is equipped with gesture gestura control system that lets you control
 
 ## Infotainment
 
-One type of sound system is available for the Xpeng G9 AWD Performance. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+One type of sound system is available for the Xpeng G9 AWD Performance. With the , you get NULL amplifier channels and 24 speakers with a max system output of 1940 watts. 
 
 
 ## Lights
@@ -183,6 +178,7 @@ The Xpeng G9 AWD Performance has a [**automatic emergency braking**](../../../..
 With the   level 2 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
 
 
 ## Transportation capabilities
