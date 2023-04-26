@@ -1,0 +1,188 @@
+---
+title: Xpeng G9 AWD Performance
+linktitle: G9 AWD Performance
+description: Xpeng G9 AWD Performance is an all-electric SUV with a WLTP range of up to 520 km (323 miles). EVKX.net have all the details. 
+weight: 10
+---
+<!-- markdownlint-disable MD033 -->
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg" alt="Xpeng G9 AWD Performance" title="Xpeng G9 AWD Performance">
+</a>
+<figcaption><h4>Xpeng G9 AWD Performance</h4></figcaption></figur>
+
+We have separated our description of the Xpeng G9 AWD Performance into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+
+- [Performance](#performance)
+- [Battery, range, and charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
+- [Transportation capabilities](#transportation-capabilities)
+
+
+## Performance
+
+The Xpeng G9 AWD Performance has a maximum power of 405KW (551hp). The total torque is 717nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 205 km/h. 
+
+## Battery, range, and charging
+
+The battery has a gross capacity of 98kWh and a net capacity of 94kWh, meaning you have a 4kWh buffer for protection. (4,1%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 520 km (323 mi).   The consumption is 18,1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+
+The maximum DC charging speed is 300kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 51% resulting in an actual charge speed including time loss on 154kW. Each charge session would take 18 minutes and 17 seconds. 
+
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 33 minutes to drive. This trip will require four charge session(s) charging from 1% to 51%. The total time lost for charging will be 73 minutes.   
+### Onboard charger
+
+
+
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 32 minutes. 
+
+## Drivetrain
+
+drivetrain.drivesetup.NotSetThe motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 95 mm, and the max is 195 mm. 
+
+### Brakes
+
+
+
+
+
+## Exterior
+
+You can choose between 5 different paint colors when ordering this model. 
+
+
+
+There is only one roof for this model. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" alt="Xpeng G9 AWD Performance" title="Xpeng G9 AWD Performance">
+</a>
+<figcaption><h4>Xpeng G9 AWD Performance</h4></figcaption></figur>
+
+
+## Interior
+
+The seat layout is the traditional five seats with two in front and three seats in the rear. 
+
+### First row seats
+
+Only one front seat type is available in the Xpeng G9 AWD Performance. 
+
+The following functionalities are available on the **** seat. 
+
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- [massage](../../../../technology/seats/adjustment/#massage) 
+
+You can choose from 2 different materials/colors for this seat type. <br />
+<br />
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1.jpeg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1_st.jpeg" alt="Xpeng G9 AWD Performance" title="Xpeng G9 AWD Performance">
+</a>
+<figcaption><h4>Xpeng G9 AWD Performance</h4></figcaption></figur>
+
+
+### Second-row seat
+
+
+
+The following functionalities are available on the **** seat. 
+
+- [heating](../../../../technology/seats/adjustment/#heating) 
+
+You can choose from 2 different materials/colors for this seat type. <br />
+<br />
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1.jpeg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1_st.jpeg" alt="Xpeng G9 AWD Performance" title="Xpeng G9 AWD Performance">
+</a>
+<figcaption><h4>Xpeng G9 AWD Performance</h4></figcaption></figur>
+
+
+There is only one type of steering wheel available. 
+
+## Climate system
+
+There is one climate system available. 
+
+## Comfort
+
+Xpeng G9 AWD Performance has several features to make your life as a driver or passenger more comfortable. 
+
+The steering wheel is electrically adjustable. 
+
+## User interface and control
+
+Xpeng G9 AWD Performance has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel mounted into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 14,96 inches large. The touch screen uicontrols.screen.location.PassengerSideOnDash is 14,96 inches large. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1_st.jpg" alt="Xpeng G9 AWD Performance" title="Xpeng G9 AWD Performance">
+</a>
+<figcaption><h4>Xpeng G9 AWD Performance</h4></figcaption></figur>
+
+
+This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
+
+This model is equipped with gesture gestura control system that lets you control specific features. 
+
+## Infotainment
+
+One type of sound system is available for the Xpeng G9 AWD Performance. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+
+
+## Lights
+
+
+## Advanced driver assistance systems
+
+The Xpeng G9 AWD Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+### Safety systems
+
+
+
+The Xpeng G9 AWD Performance has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+### Driving Automation
+
+
+
+With the   level 2 system, you get the following driving automation features. 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+
+
+## Transportation capabilities
+
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. Under the hood, there is frunk with more storage room. This frunk is 71 liters. Max weight is 2800kg, and with the base weight of 2265 kg, you can max load 535 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1_st.jpg" alt="Xpeng G9 AWD Performance" title="Xpeng G9 AWD Performance">
+</a>
+<figcaption><h4>Xpeng G9 AWD Performance</h4></figcaption></figur>

@@ -7,13 +7,13 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
  In this article, we will discuss the various aspects of infotainment systems, including their history, features, advantages, and drawbacks.
 
-History of Infotainment Systems
+## History of Infotainment Systems
 
 The concept of infotainment systems dates back to the 1980s, when car manufacturers began installing basic audio systems in their vehicles. These systems featured cassette players and FM radios, and their primary purpose was to provide drivers with entertainment during long drives. As technology advanced, car manufacturers added new features to their infotainment systems, including CD players, satellite radios, and GPS navigation.
 
 In recent years, infotainment systems have become increasingly sophisticated, incorporating advanced technology such as touchscreens, voice recognition, and smartphone integration. Today's infotainment systems provide drivers with a range of features, including music streaming, hands-free calling, and real-time traffic updates.
 
-Features of Infotainment Systems
+## Features of Infotainment Systems
 
 Infotainment systems are designed to provide drivers with a range of features that make driving more enjoyable and convenient. Some of the most common features of infotainment systems include:
 
