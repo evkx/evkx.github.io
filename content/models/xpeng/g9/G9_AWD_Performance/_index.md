@@ -47,15 +47,15 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-drivetrain.drivesetup.NotSetThe motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+Xpeng G9 AWD Performance has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 95 mm, and the max is 195 mm. 
 
 ### Brakes
 
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-
-
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
 
 ## Exterior
 
@@ -63,7 +63,7 @@ You can choose between 5 different paint colors when ordering this model.
 
 
 
-There is only one roof for this model. 
+There is only one roof for this model. The optional has a panoramic roof. 
 
 
 <figur>
@@ -84,9 +84,12 @@ Only one front seat type is available in the Xpeng G9 AWD Performance.
 The following functionalities are available on the **** seat. 
 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
+- [Seat cushion side bolster adjustement](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
 - [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
+- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 
 You can choose from 2 different materials/colors for this seat type. <br />
 <br />
@@ -107,6 +110,8 @@ You can choose from 2 different materials/colors for this seat type. <br />
 The following functionalities are available on the **** seat. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- [massage](../../../../technology/seats/adjustment/#massage) 
 
 You can choose from 2 different materials/colors for this seat type. <br />
 <br />
@@ -163,7 +168,13 @@ The Xpeng G9 AWD Performance has several standard and optional [advanced driver 
 
 
 
+The Xpeng G9 AWD Performance has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
+The Xpeng G9 AWD Performance has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+
 The Xpeng G9 AWD Performance has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+The Xpeng G9 AWD Performance has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 
@@ -176,7 +187,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Transportation capabilities
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. Under the hood, there is frunk with more storage room. This frunk is 71 liters. Max weight is 2800kg, and with the base weight of 2265 kg, you can max load 535 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 71 liters. Max weight is 2800kg, and with the base weight of 2265 kg, you can max load 535 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
 
