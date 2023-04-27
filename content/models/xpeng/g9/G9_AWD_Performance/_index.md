@@ -34,16 +34,24 @@ The Xpeng G9 AWD Performance has a maximum power of 405KW (551hp). The total tor
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 98kWh and a net capacity of 94kWh, meaning you have a 4kWh buffer for protection. (4,1%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 520 km (323 mi).   The consumption is 18,1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 98kWh and a net capacity of 93,6kWh, meaning you have a 4,4kWh buffer for protection. (4,5%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 520 km (323 mi).   The consumption is 18,0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 300kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 51% resulting in an actual charge speed including time loss on 154kW. Each charge session would take 18 minutes and 17 seconds. 
+The maximum DC charging speed is 300kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 51% resulting in an actual charge speed including time loss on 154kW. Each charge session would take 18 minutes and 14 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 33 minutes to drive. This trip will require four charge session(s) charging from 1% to 51%. The total time lost for charging will be 73 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 32 minutes to drive. This trip will require four charge session(s) charging from 1% to 51%. The total time lost for charging will be 73 minutes.   
 ### Onboard charger
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 32 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 30 minutes. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" alt="Xpeng G9 AWD Performance" title="Xpeng G9 AWD Performance">
+</a>
+<figcaption><h4>Xpeng G9 AWD Performance</h4></figcaption></figur>
+
 
 ## Drivetrain
 

@@ -6,4 +6,7 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### Bjørn Nyland: Xpeng G9 pre-production first drive 26.04.2023
+
+{{< youtube B9pqoa2f5Hw >}}
+

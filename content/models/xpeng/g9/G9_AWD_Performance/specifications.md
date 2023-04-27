@@ -21,7 +21,7 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |WLTP range|520 km|
-|WLTP consumption|18,1 kWh/100km|
+|WLTP consumption|18,0 kWh/100km|
 |WLTP consumption with charging loss|21,3 kWh/100km|
 
 
@@ -31,7 +31,7 @@ weight: 30
 |Spec|Value|
 |----|-----|
 |Battery gross|98 kWh|
-|Battery net|94 kWh|
+|Battery net|93,6 kWh|
 |Max DC charging|300 kW|
 
 
