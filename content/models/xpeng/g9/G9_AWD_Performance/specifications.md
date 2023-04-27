@@ -95,6 +95,6 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Android Auto support||
-|Apple Carplay support||
-|In Car navigation||
+|Android Auto support|Not available|
+|Apple Carplay support|Not available|
+|In Car navigation|Yes, standard equipment|

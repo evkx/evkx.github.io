@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Kris Rifa: 610km Long Trip Test In Hyundai Ioniq 6 LR AWD 27.04.2023
+
+{{< youtube oJRBAD0nLVE >}}
+
 ### Out of Specs Review : I Drive The Hyundai IONIQ 6 For The First Time! 03.04.2023
 
 {{< youtube YEXoJ3-6O7k >}}

@@ -71,7 +71,9 @@ You can choose between 5 different paint colors when ordering this model.
 
 
 
-There is only one roof for this model. The optional has a panoramic roof. 
+There is only one roof for this model. The standard is a panoramic roof. 
+
+The windows from B-pillar and back are tinted. 
 
 
 <figur>
@@ -128,17 +130,23 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 <figcaption><h4>Xpeng G9 AWD Performance</h4></figcaption></figur>
 
 
-There is only one type of steering wheel available. 
+There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
 
 ## Climate system
 
-There is one climate system available. 
+There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 
 ## Comfort
 
 Xpeng G9 AWD Performance has several features to make your life as a driver or passenger more comfortable. 
 
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
+
 The steering wheel is electrically adjustable. 
+
+You have wireless charging for your phone.  
 
 ## User interface and control
 
@@ -159,6 +167,8 @@ This model is equipped with gesture gestura control system that lets you control
 ## Infotainment
 
 One type of sound system is available for the Xpeng G9 AWD Performance. With the , you get NULL amplifier channels and 24 speakers with a max system output of 1940 watts. 
+
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 
 ## Lights
