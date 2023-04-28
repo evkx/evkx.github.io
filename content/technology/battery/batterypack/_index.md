@@ -70,7 +70,12 @@ Here are some configuration examples
 | Audi Q8 e-tron | 116kWh | 108s4p | 396 Volt|
 | Audi e-tron GT | 93.7kWh | 198s2p | 725 Volt |
 | Kia EV6 GT | 77.4 | 192s2p | 697 Volt |
+| [Nio 100KWh Battery](../../../models/nio/) | 100kWh | 96s1p | 358 Volt |
+| [Nio 100KWh Battery](../../../models/nio/) | 100kWh | 96s2p | 358 Volt |
+| [Mercedes EQS](../../../models/mercedes/eqs_suv/) | 120kWh | 108s4p | 396 Volt |
 | [Tesla Model Y Long Range](../../../models/tesla/model_y/model_y_long_range/) | 78.1kWh | 96s46p | 357 Volt |
+
+
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
      crossorigin="anonymous"></script>
