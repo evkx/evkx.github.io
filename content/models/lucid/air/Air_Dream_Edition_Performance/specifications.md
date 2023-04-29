@@ -65,6 +65,50 @@ weight: 30
 |Suspension type front|SteelSpringsWithOilDampers|
 |Suspension type rear|SteelSpringsWithOilDampers|
 
+## Interior
+
+Interior.Seatlayout.OnlyFive
+
+### Front seats
+
+
+#### standard
+
+|Spec|Value|
+|----|-----|
+|[Seat type](../../../../../technology/seats/types/)|None|
+|Electric adjustment of height, recline and angle|Standard feature|
+|Interior.Seatoptions.MemoryDriverSeat|Standard feature|
+|Interior.Seatoptions.MemoryPassangerSeat|Not Available|
+|Height adjustable headrest|Not Available|
+|Length adjustable headrest|Standard feature|
+|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Standard feature|
+|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Standard feature|
+|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|
+|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Standard feature|
+|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Not Available|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
+|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Standard feature|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
+
+### Front seats
+
+|Spec|Value|
+|----|-----|
+|[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
+|Height adjustable headrest|Unknown|
+|Length adjustable headrest|Unknown|
+|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Unknown|
+|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Unknown|
+|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
+|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Not Available|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
+
 ## Driver Assistance
 
 |Spec|Value|

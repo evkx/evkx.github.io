@@ -99,6 +99,73 @@ The model offers 2 suspension variants
 |Suspension type rear|AirSuspension|
 |Suspension construction rear|Multilink|
 
+## Interior
+
+Interior.Seatlayout.OnlyFive
+
+### Front seats
+
+
+#### sport
+
+|Spec|Value|
+|----|-----|
+|[Seat type](../../../../../technology/seats/types/)|None|
+|Electric adjustment of height, recline and angle|Standard feature|
+|Interior.Seatoptions.MemoryDriverSeat|Optional feature|
+|Interior.Seatoptions.MemoryPassangerSeat|Not Available|
+|Height adjustable headrest|Not Available|
+|Length adjustable headrest|Not Available|
+|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
+|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|
+|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
+|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
+
+#### sport plus
+
+|Spec|Value|
+|----|-----|
+|[Seat type](../../../../../technology/seats/types/)|None|
+|Electric adjustment of height, recline and angle|Standard feature|
+|Interior.Seatoptions.MemoryDriverSeat|Optional feature|
+|Interior.Seatoptions.MemoryPassangerSeat|Not Available|
+|Height adjustable headrest|Not Available|
+|Length adjustable headrest|Not Available|
+|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Standard feature|
+|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
+|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|
+|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
+|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
+
+#### sport pro
+
+|Spec|Value|
+|----|-----|
+|[Seat type](../../../../../technology/seats/types/)|None|
+|Electric adjustment of height, recline and angle|Standard feature|
+|Interior.Seatoptions.MemoryDriverSeat|Standard feature|
+|Interior.Seatoptions.MemoryPassangerSeat|Standard feature|
+|Height adjustable headrest|Not Available|
+|Length adjustable headrest|Not Available|
+|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Standard feature|
+|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Standard feature|
+|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Standard feature|
+|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
+|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Standard feature|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Optional feature|
+
 ## Driver Assistance
 
 |Spec|Value|
