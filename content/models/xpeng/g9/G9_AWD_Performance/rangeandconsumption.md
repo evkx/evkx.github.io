@@ -1,7 +1,7 @@
 ---
-title: Xpeng G9 AWD Performance range & consumption
+title: XPENG G9 AWD Performance range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Xpeng G9 AWD Performance.
+description: Here you find all details about range and consumption for XPENG G9 AWD Performance.
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->

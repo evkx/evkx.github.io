@@ -1,5 +1,5 @@
 ---
-title: Xpeng G9 AWD Performance reviews
+title: XPENG G9 AWD Performance reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
