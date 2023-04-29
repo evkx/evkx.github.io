@@ -70,7 +70,7 @@ weight: 30
 
 ## Interior
 
-Interior.Seatlayout.SixSeven
+This model is available with a seat configuration with six or seven seats.
 
 ### Front seats
 

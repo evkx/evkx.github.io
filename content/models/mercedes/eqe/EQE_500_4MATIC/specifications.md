@@ -90,7 +90,7 @@ The model offers 2 suspension variants
 
 ## Interior
 
-Interior.Seatlayout.OnlyFive
+This model is available with a seat configuration with five seats.
 
 ### Front seats
 

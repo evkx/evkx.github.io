@@ -63,7 +63,7 @@ weight: 30
 
 ## Interior
 
-Interior.Seatlayout.OnlyFive
+This model is available with a seat configuration with five seats.
 
 ### Front seats
 
