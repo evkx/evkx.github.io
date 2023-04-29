@@ -70,7 +70,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |Adaptive suspension|Yes, optional equipment|
-|Adaptive suspension|Yes, optional equipment|
 |Adjustable damping front|Yes (Dynamic Chassis Control), optional equipment|
 |Adjustable damping rear|Yes (Dynamic Chassis Control), optional equipment|
 |Adjustable height front|Not available|
