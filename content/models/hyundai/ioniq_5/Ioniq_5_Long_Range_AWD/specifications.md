@@ -1,11 +1,11 @@
 ---
 title: Hyundai Ioniq 5 Long Range AWD specifications
 linktitle: Specifications
-description: See below for full specifications for Hyundai Ioniq 5 Long Range AWD
+description: EVKX.net gives you the full specifications for Hyundai Ioniq 5 Long Range AWD.
 weight: 30
 ---
 [![Hyundai Ioniq 5 Long Range AWD](https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_awd/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 Long Range AWD. Click on image above for full article, visit the image gallery for Hyundai Ioniq 5 Long Range AWD, visit the chargeinfo for Hyundai Ioniq 5 Long Range AWD with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 Long Range AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Ioniq 5 Long Range AWD, visit the [chargeinfo]( for Hyundai Ioniq 5 Long Range AWD with chargecurve, vistid extended range info. 
 
 
 ## Performance

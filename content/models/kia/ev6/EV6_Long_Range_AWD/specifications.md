@@ -1,11 +1,11 @@
 ---
 title: Kia EV6 Long Range AWD specifications
 linktitle: Specifications
-description: See below for full specifications for Kia EV6 Long Range AWD
+description: EVKX.net gives you the full specifications for Kia EV6 Long Range AWD.
 weight: 30
 ---
 [![Kia EV6 Long Range AWD](https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Kia EV6 Long Range AWD. Click on image above for full article, visit the image gallery for Kia EV6 Long Range AWD, visit the chargeinfo for Kia EV6 Long Range AWD with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Kia EV6 Long Range AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia EV6 Long Range AWD, visit the [chargeinfo]( for Kia EV6 Long Range AWD with chargecurve, vistid extended range info. 
 
 
 ## Performance

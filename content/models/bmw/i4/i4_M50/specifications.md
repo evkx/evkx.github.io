@@ -1,11 +1,11 @@
 ---
 title: BMW i4 M50 specifications
 linktitle: Specifications
-description: See below for full specifications for BMW i4 M50
+description: EVKX.net gives you the full specifications for BMW i4 M50.
 weight: 30
 ---
 [![BMW i4 M50](https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for BMW i4 M50. Click on image above for full article, visit the image gallery for BMW i4 M50, visit the chargeinfo for BMW i4 M50 with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for BMW i4 M50. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i4 M50, visit the [chargeinfo]( for BMW i4 M50 with chargecurve, vistid extended range info. 
 
 
 ## Performance

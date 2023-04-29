@@ -1,11 +1,11 @@
 ---
 title: CUPRA BORN 58 e-BOOST specifications
 linktitle: Specifications
-description: See below for full specifications for CUPRA BORN 58 e-BOOST
+description: EVKX.net gives you the full specifications for CUPRA BORN 58 e-BOOST.
 weight: 30
 ---
 [![CUPRA BORN 58 e-BOOST](https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for CUPRA BORN 58 e-BOOST. Click on image above for full article, visit the image gallery for CUPRA BORN 58 e-BOOST, visit the chargeinfo for CUPRA BORN 58 e-BOOST with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for CUPRA BORN 58 e-BOOST. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of CUPRA BORN 58 e-BOOST, visit the [chargeinfo]( for CUPRA BORN 58 e-BOOST with chargecurve, vistid extended range info. 
 
 
 ## Performance

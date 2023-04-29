@@ -1,11 +1,11 @@
 ---
 title: Audi Q4 Sportback 35 e-tron specifications
 linktitle: Specifications
-description: See below for full specifications for Audi Q4 Sportback 35 e-tron
+description: EVKX.net gives you the full specifications for Audi Q4 Sportback 35 e-tron.
 weight: 30
 ---
 [![Audi Q4 Sportback 35 e-tron](https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Audi Q4 Sportback 35 e-tron. Click on image above for full article, visit the image gallery for Audi Q4 Sportback 35 e-tron, visit the chargeinfo for Audi Q4 Sportback 35 e-tron with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Audi Q4 Sportback 35 e-tron. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q4 Sportback 35 e-tron, visit the [chargeinfo]( for Audi Q4 Sportback 35 e-tron with chargecurve, vistid extended range info. 
 
 
 ## Performance

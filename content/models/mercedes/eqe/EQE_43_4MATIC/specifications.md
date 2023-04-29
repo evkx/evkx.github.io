@@ -1,11 +1,11 @@
 ---
 title: Mercedes-AMG EQE 43 4MATIC specifications
 linktitle: Specifications
-description: See below for full specifications for Mercedes-AMG EQE 43 4MATIC
+description: EVKX.net gives you the full specifications for Mercedes-AMG EQE 43 4MATIC.
 weight: 30
 ---
 [![Mercedes-AMG EQE 43 4MATIC](https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 43 4MATIC. Click on image above for full article, visit the image gallery for Mercedes-AMG EQE 43 4MATIC, visit the chargeinfo for Mercedes-AMG EQE 43 4MATIC with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 43 4MATIC. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-AMG EQE 43 4MATIC, visit the [chargeinfo]( for Mercedes-AMG EQE 43 4MATIC with chargecurve, vistid extended range info. 
 
 
 ## Performance

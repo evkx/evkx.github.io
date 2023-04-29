@@ -1,11 +1,11 @@
 ---
 title: BMW iX xDrive50 specifications
 linktitle: Specifications
-description: See below for full specifications for BMW iX xDrive50
+description: EVKX.net gives you the full specifications for BMW iX xDrive50.
 weight: 30
 ---
 [![BMW iX xDrive50](https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for BMW iX xDrive50. Click on image above for full article, visit the image gallery for BMW iX xDrive50, visit the chargeinfo for BMW iX xDrive50 with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for BMW iX xDrive50. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW iX xDrive50, visit the [chargeinfo]( for BMW iX xDrive50 with chargecurve, vistid extended range info. 
 
 
 ## Performance

@@ -1,11 +1,11 @@
 ---
 title: Volvo XC40 Recharge Single Motor ER specifications
 linktitle: Specifications
-description: See below for full specifications for Volvo XC40 Recharge Single Motor ER
+description: EVKX.net gives you the full specifications for Volvo XC40 Recharge Single Motor ER.
 weight: 30
 ---
 [![Volvo XC40 Recharge Single Motor ER](https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Volvo XC40 Recharge Single Motor ER. Click on image above for full article, visit the image gallery for Volvo XC40 Recharge Single Motor ER, visit the chargeinfo for Volvo XC40 Recharge Single Motor ER with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Volvo XC40 Recharge Single Motor ER. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo XC40 Recharge Single Motor ER, visit the [chargeinfo]( for Volvo XC40 Recharge Single Motor ER with chargecurve, vistid extended range info. 
 
 
 ## Performance

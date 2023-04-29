@@ -1,11 +1,11 @@
 ---
 title: Audi SQ8 Sportback e-tron specifications
 linktitle: Specifications
-description: See below for full specifications for Audi SQ8 Sportback e-tron
+description: EVKX.net gives you the full specifications for Audi SQ8 Sportback e-tron.
 weight: 30
 ---
 [![Audi SQ8 Sportback e-tron](https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Audi SQ8 Sportback e-tron. Click on image above for full article, visit the image gallery for Audi SQ8 Sportback e-tron, visit the chargeinfo for Audi SQ8 Sportback e-tron with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Audi SQ8 Sportback e-tron. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi SQ8 Sportback e-tron, visit the [chargeinfo]( for Audi SQ8 Sportback e-tron with chargecurve, vistid extended range info. 
 
 
 ## Performance

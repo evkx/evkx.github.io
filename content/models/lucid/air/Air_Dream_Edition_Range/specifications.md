@@ -1,11 +1,11 @@
 ---
 title: Lucid Air Dream Edition Range specifications
 linktitle: Specifications
-description: See below for full specifications for Lucid Air Dream Edition Range
+description: EVKX.net gives you the full specifications for Lucid Air Dream Edition Range.
 weight: 30
 ---
 [![Lucid Air Dream Edition Range](https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Lucid Air Dream Edition Range. Click on image above for full article, visit the image gallery for Lucid Air Dream Edition Range, visit the chargeinfo for Lucid Air Dream Edition Range with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Lucid Air Dream Edition Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lucid Air Dream Edition Range, visit the [chargeinfo]( for Lucid Air Dream Edition Range with chargecurve, vistid extended range info. 
 
 
 ## Performance

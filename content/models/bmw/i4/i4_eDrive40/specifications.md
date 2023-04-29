@@ -1,11 +1,11 @@
 ---
 title: BMW i4 eDrive40 specifications
 linktitle: Specifications
-description: See below for full specifications for BMW i4 eDrive40
+description: EVKX.net gives you the full specifications for BMW i4 eDrive40.
 weight: 30
 ---
 [![BMW i4 eDrive40](https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for BMW i4 eDrive40. Click on image above for full article, visit the image gallery for BMW i4 eDrive40, visit the chargeinfo for BMW i4 eDrive40 with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for BMW i4 eDrive40. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i4 eDrive40, visit the [chargeinfo]( for BMW i4 eDrive40 with chargecurve, vistid extended range info. 
 
 
 ## Performance

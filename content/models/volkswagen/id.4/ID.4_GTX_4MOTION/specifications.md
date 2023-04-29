@@ -1,11 +1,11 @@
 ---
 title: Volkswagen ID.4 GTX 4MOTION specifications
 linktitle: Specifications
-description: See below for full specifications for Volkswagen ID.4 GTX 4MOTION
+description: EVKX.net gives you the full specifications for Volkswagen ID.4 GTX 4MOTION.
 weight: 30
 ---
 [![Volkswagen ID.4 GTX 4MOTION](https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 4MOTION. Click on image above for full article, visit the image gallery for Volkswagen ID.4 GTX 4MOTION, visit the chargeinfo for Volkswagen ID.4 GTX 4MOTION with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 4MOTION. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.4 GTX 4MOTION, visit the [chargeinfo]( for Volkswagen ID.4 GTX 4MOTION with chargecurve, vistid extended range info. 
 
 
 ## Performance

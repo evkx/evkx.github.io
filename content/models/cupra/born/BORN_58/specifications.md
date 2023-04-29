@@ -1,11 +1,11 @@
 ---
 title: CUPRA BORN 58 specifications
 linktitle: Specifications
-description: See below for full specifications for CUPRA BORN 58
+description: EVKX.net gives you the full specifications for CUPRA BORN 58.
 weight: 30
 ---
 [![CUPRA BORN 58](https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for CUPRA BORN 58. Click on image above for full article, visit the image gallery for CUPRA BORN 58, visit the chargeinfo for CUPRA BORN 58 with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for CUPRA BORN 58. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of CUPRA BORN 58, visit the [chargeinfo]( for CUPRA BORN 58 with chargecurve, vistid extended range info. 
 
 
 ## Performance

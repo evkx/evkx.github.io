@@ -1,11 +1,11 @@
 ---
 title: Audi e-tron 50 Sportback specifications
 linktitle: Specifications
-description: See below for full specifications for Audi e-tron 50 Sportback
+description: EVKX.net gives you the full specifications for Audi e-tron 50 Sportback.
 weight: 30
 ---
 [![Audi e-tron 50 Sportback](https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Audi e-tron 50 Sportback. Click on image above for full article, visit the image gallery for Audi e-tron 50 Sportback, visit the chargeinfo for Audi e-tron 50 Sportback with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Audi e-tron 50 Sportback. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron 50 Sportback, visit the [chargeinfo]( for Audi e-tron 50 Sportback with chargecurve, vistid extended range info. 
 
 
 ## Performance

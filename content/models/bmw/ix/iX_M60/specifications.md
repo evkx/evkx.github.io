@@ -1,11 +1,11 @@
 ---
 title: BMW iX M60 specifications
 linktitle: Specifications
-description: See below for full specifications for BMW iX M60
+description: EVKX.net gives you the full specifications for BMW iX M60.
 weight: 30
 ---
 [![BMW iX M60](https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for BMW iX M60. Click on image above for full article, visit the image gallery for BMW iX M60, visit the chargeinfo for BMW iX M60 with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for BMW iX M60. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW iX M60, visit the [chargeinfo]( for BMW iX M60 with chargecurve, vistid extended range info. 
 
 
 ## Performance

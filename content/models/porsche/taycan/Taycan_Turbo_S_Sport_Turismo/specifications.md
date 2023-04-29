@@ -1,11 +1,11 @@
 ---
 title: Porsche Taycan Turbo S Sport Turismo specifications
 linktitle: Specifications
-description: See below for full specifications for Porsche Taycan Turbo S Sport Turismo
+description: EVKX.net gives you the full specifications for Porsche Taycan Turbo S Sport Turismo.
 weight: 30
 ---
 [![Porsche Taycan Turbo S Sport Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo S Sport Turismo. Click on image above for full article, visit the image gallery for Porsche Taycan Turbo S Sport Turismo, visit the chargeinfo for Porsche Taycan Turbo S Sport Turismo with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo S Sport Turismo. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan Turbo S Sport Turismo, visit the [chargeinfo]( for Porsche Taycan Turbo S Sport Turismo with chargecurve, vistid extended range info. 
 
 
 ## Performance

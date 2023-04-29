@@ -1,11 +1,11 @@
 ---
 title: Nissan Ariya 87kWh specifications
 linktitle: Specifications
-description: See below for full specifications for Nissan Ariya 87kWh
+description: EVKX.net gives you the full specifications for Nissan Ariya 87kWh.
 weight: 30
 ---
 [![Nissan Ariya 87kWh](https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Nissan Ariya 87kWh. Click on image above for full article, visit the image gallery for Nissan Ariya 87kWh, visit the chargeinfo for Nissan Ariya 87kWh with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Nissan Ariya 87kWh. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nissan Ariya 87kWh, visit the [chargeinfo]( for Nissan Ariya 87kWh with chargecurve, vistid extended range info. 
 
 
 ## Performance

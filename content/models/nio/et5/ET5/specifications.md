@@ -1,11 +1,11 @@
 ---
 title: Nio ET5 specifications
 linktitle: Specifications
-description: See below for full specifications for Nio ET5
+description: EVKX.net gives you the full specifications for Nio ET5.
 weight: 30
 ---
 [![Nio ET5](https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Nio ET5. Click on image above for full article, visit the image gallery for Nio ET5, visit the chargeinfo for Nio ET5 with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Nio ET5. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio ET5, visit the [chargeinfo]( for Nio ET5 with chargecurve, vistid extended range info. 
 
 
 ## Performance

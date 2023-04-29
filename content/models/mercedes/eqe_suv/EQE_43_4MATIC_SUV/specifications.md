@@ -1,11 +1,11 @@
 ---
 title: Mercedes-AMG EQE 43 4MATIC SUV specifications
 linktitle: Specifications
-description: See below for full specifications for Mercedes-AMG EQE 43 4MATIC SUV
+description: EVKX.net gives you the full specifications for Mercedes-AMG EQE 43 4MATIC SUV.
 weight: 30
 ---
 [![Mercedes-AMG EQE 43 4MATIC SUV](https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 43 4MATIC SUV. Click on image above for full article, visit the image gallery for Mercedes-AMG EQE 43 4MATIC SUV, visit the chargeinfo for Mercedes-AMG EQE 43 4MATIC SUV with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 43 4MATIC SUV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-AMG EQE 43 4MATIC SUV, visit the [chargeinfo]( for Mercedes-AMG EQE 43 4MATIC SUV with chargecurve, vistid extended range info. 
 
 
 ## Performance

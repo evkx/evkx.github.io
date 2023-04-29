@@ -1,11 +1,11 @@
 ---
 title: BYD Han specifications
 linktitle: Specifications
-description: See below for full specifications for BYD Han
+description: EVKX.net gives you the full specifications for BYD Han.
 weight: 30
 ---
 [![BYD Han](https://media.evkx.net/multimedia/models/byd/han/han/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for BYD Han. Click on image above for full article, visit the image gallery for BYD Han, visit the chargeinfo for BYD Han with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for BYD Han. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BYD Han, visit the [chargeinfo]( for BYD Han with chargecurve, vistid extended range info. 
 
 
 ## Performance
