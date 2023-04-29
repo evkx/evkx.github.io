@@ -1,15 +1,17 @@
 ---
 title: Regenerative braking
 linktitle: Regenerative braking
-description: Regenerative braking is a critical feature of modern electric vehicles (EVs), allowing the vehicle to recover energy during braking and deceleration.
+description: Regenerative braking is a critical feature of modern EVs, allowing the vehicle to recover energy during braking and deceleration.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
- By converting the vehicle's kinetic energy into electrical energy and storing it in the battery, regenerative braking can extend the vehicle's range and improve overall efficiency. In this article, we will explore the different types of regenerative braking strategies used in EVs, their benefits, and limitations.
+By converting the vehicle’s kinetic energy into electrical energy and storing it in the battery, regenerative braking can extend the vehicle’s range and improve overall efficiency. This article will explore the different types of regenerative braking strategies used in EVs, their benefits, and their limitations.
 
 ## How does it work?
 
-Regenerative braking is a process where the kinetic energy of a moving vehicle is captured and stored as electrical energy in the vehicle's battery during braking or deceleration. The system works by reversing the electric motor's direction, turning it into a generator that produces electrical energy as the vehicle slows down.
+Regenerative braking is a process where the kinetic energy of a moving vehicle is captured and stored as electrical energy in the vehicle’s battery during braking or deceleration.
+
+An electric motor can work as a generator in an EV by using the principle of electromagnetic induction, which states that the change in the magnetic field around a conductor generates an electric current in the circuit. When an electric motor rotates, it creates a magnetic field that interacts with the stator windings and produces an electric current that powers the vehicle. When the car decelerates or brakes, the wheels drive the motor in reverse, causing the magnetic field to change direction and induce electric current in the opposite direction. This current can be fed back to the battery and stored as energy, reducing the need for conventional friction brakes and increasing the range and efficiency of the EV.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/regen/illustration1.jpg">
@@ -20,16 +22,15 @@ Regenerative braking is a process where the kinetic energy of a moving vehicle i
 
 ## Types of Regenerative Braking Strategies
 
-The EV manufactors provide regenerative braking with different strategies. There are three main types of strategies. Some manufacturers only give one possibility while other
-lets the driver choose between two or all three.
+The EV manufacturers provide regenerative braking with different strategies. There are three main types of regen strategy. Some manufacturers only give one possibility, while others let the driver choose between two or all three.
 
 ### One-Pedal Driving
 
-One pedal regen is a feature of some electric vehicles that allows them to control the acceleration and deceleration of the vehicle with only the accelerator pedal. When the driver presses the pedal, the vehicle accelerates normally. When the driver releases the pedal, the vehicle decelerates using regenerative braking, which converts the kinetic energy of the vehicle into electrical energy that can be stored in the battery. Depending on the vehicle settings and driving conditions, one pedal regen can bring the vehicle to a complete stop or maintain a low speed until the driver presses the pedal again.
+One pedal regen is a feature of some electric vehicles that allows them to control the acceleration and deceleration of the car with only the accelerator pedal. When the driver presses the pedal, the vehicle accelerates normally. When the driver releases the pedal, the car decelerates using regenerative braking, which converts the vehicle's kinetic energy into electrical energy that the EV stores in the battery. Depending on the vehicle settings and driving conditions, one pedal regen can bring the vehicle to a complete stop or maintain a low speed until the driver presses the pedal again.
 
-The benefit of one pedal driving is that you only need to use one pedal. 
+The benefit of one-pedal driving is that you only need to use one pedal.
 
-The cons of one pedal regen are that it can require some adaptation from drivers who are used to conventional two-pedal driving, and that it can vary in performance depending on factors such as battery state of charge, temperature, road gradient and traffic flow.
+The cons of one-pedal regen are that it can require some adaptation from drivers who are used to conventional two-pedal driving. In addition, it can vary in performance depending on factors such as battery state of charge, temperature, road gradient, and traffic flow.
 
 ### Manual regen using brake pedal
 
@@ -65,7 +66,7 @@ Reduced Wear on Brakes: Because regenerative braking can handle much of the vehi
 
 Smoother Braking: Regenerative braking can provide smoother and more consistent braking compared to traditional friction brakes, leading to a more comfortable ride for passengers.
 
-Limitations of Regenerative Braking
+## Limitations of Regenerative Braking
 
 While regenerative braking offers many benefits, there are some limitations to the technology. These include:
 
