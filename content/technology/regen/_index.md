@@ -26,21 +26,28 @@ The EV manufacturers provide regenerative braking with different strategies. The
 
 ### One-Pedal Driving
 
-One pedal regen is a feature of some electric vehicles that allows them to control the acceleration and deceleration of the car with only the accelerator pedal. When the driver presses the pedal, the vehicle accelerates normally. When the driver releases the pedal, the car decelerates using regenerative braking, which converts the vehicle's kinetic energy into electrical energy that the EV stores in the battery. Depending on the vehicle settings and driving conditions, one pedal regen can bring the vehicle to a complete stop or maintain a low speed until the driver presses the pedal again.
+One pedal regen is a feature of some electric vehicles that allows them to control the acceleration and deceleration of the car with only the accelerator pedal. 
+
+When the driver presses the pedal, the vehicle accelerates normally. When the driver releases the pedal, the car decelerates using regenerative braking, which converts the vehicle's kinetic energy into electrical energy that the EV stores in the battery.
+
+Depending on the vehicle settings and driving conditions, one pedal regen can bring the vehicle to a complete stop or maintain a low speed until the driver presses the pedal again.
 
 The benefit of one-pedal driving is that you only need to use one pedal.
 
 The cons of one-pedal regen are that it can require some adaptation from drivers who are used to conventional two-pedal driving. In addition, it can vary in performance depending on factors such as battery state of charge, temperature, road gradient, and traffic flow.
 
+While some EVs have fixed level on regen for one pedal driving other EVs have paddles on the steering wheel to active regen on different levels.
+
+
+
+
 ### Manual regen using brake pedal
 
 On evs with blended brakes you can regenerate energy with pressing the brake pedal.
 
-Regen using blended brake system in EVs works by using sensors and algorithms to determine the optimal balance between regenerative braking and friction braking, depending on factors such as driver input, battery state of charge, road conditions, traffic situation and vehicle speed. The system can also work with driver assistance systems such as adaptive cruise control or collision avoidance to enhance safety and convenience.
+Regen using blended brake system in EVs works by using sensors and algorithms to determine the optimal balance between regenerative braking and friction braking, depending on factors such as driver input, battery state of charge, road conditions, traffic situation and vehicle speed. 
 
-### Manual regen using steering wheel paddles
-
-Som evs have paddles on the steering wheel to active regen on different levels. 
+The system can also work with driver assistance systems such as adaptive cruise control or collision avoidance to enhance safety and convenience.
 
 ### Adaptive regen
 
@@ -70,12 +77,8 @@ Smoother Braking: Regenerative braking can provide smoother and more consistent 
 
 While regenerative braking offers many benefits, there are some limitations to the technology. These include:
 
-Reduced Effectiveness at High Speeds: Regenerative braking is less effective at high speeds, as the amount of kinetic energy that can be captured and stored decreases as the vehicle's speed increases.
+**Reduced Effectiveness at High Speeds:** Regenerative braking is less effective at high speeds, as the amount of kinetic energy that can be captured and stored decreases as the vehicle's speed increases.
 
-Limited Range Extension: Regenerative braking can extend the vehicle's range, but the amount of energy that can be recovered is limited, and the overall impact on range can vary depending on driving conditions.
+**Limited Range Extension:** Regenerative braking can extend the vehicle's range, but the amount of energy that can be recovered is limited, and the overall impact on range can vary depending on driving conditions.
 
-Reduced Brake Feel: Because regenerative braking uses the electric motor to slow the vehicle, it can reduce the feel of the brake pedal, making it less intuitive for some drivers.
-
-Conclusion
-
-In conclusion, regenerative braking is a crucial feature of modern EVs, allowing them to recover energy during braking and deceleration. There are several types of regenerative braking strategies used in EVs, including fixed regenerative braking, adaptive regenerative braking, and one-pedal driving. While reg
+**Reduced Brake Feel:** Because regenerative braking uses the electric motor to slow the vehicle, it can reduce the feel of the brake pedal, making it less intuitive for some drivers.
