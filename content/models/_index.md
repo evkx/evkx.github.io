@@ -42,7 +42,9 @@ Fisker has 1 models with total 1 variants. [Read all about them](fisker/)
 
 ## Hongqi
 
-HONGQI is a car brand from the car manufacturer FAW. HONGQI has been making exclusive luxury cars ever since 1958. Since then, HONGQI has grown from producing a small number of cars on special order, to producing cars for the entire Chinese market. HONGQI's ambition is now to become China's leading manufacturer of premium cars. 
+[![Hongqi](https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg)](hongqi/)
+
+Hongqi is a Chinese car brand that belongs to the state-owned FAW Group. The name means Red Flag and it is a symbol of the Communist Party of China. Hongqi was founded in 1958 and is known for making luxury cars for the Chinese government and elites. 
 
 Hongqi has 1 models with total 4 variants. [Read all about them](hongqi/)
 
@@ -140,7 +142,7 @@ Volvo has 1 models with total 1 variants. [Read all about them](volvo/)
 
 ## XPENG
 
-[![XPENG](https://media.evkx.net/multimedia/models/xpeng/brandevs_st.jpeg)](xpeng/)
+[![XPENG](https://media.evkx.net/multimedia/models/xpeng/brandevs_st.jpg)](xpeng/)
 
 XPeng is a Chinese electric vehicle manufacturer that was founded in 2014 by He Xiaopeng, a former Alibaba executive and internet entrepreneur. The company is headquartered in Guangzhou, Guangdong, with offices in Mountain View, California, United States and is publicly traded on the New York Stock Exchange. 
 
