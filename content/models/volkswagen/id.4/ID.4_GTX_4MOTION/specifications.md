@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Volkswagen ID.4 GTX 
 weight: 30
 ---
 [![Volkswagen ID.4 GTX 4MOTION](https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 4MOTION. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.4 GTX 4MOTION, visit the [chargeinfo]( for Volkswagen ID.4 GTX 4MOTION with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 4MOTION. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.4 GTX 4MOTION, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.4 GTX 4MOTION with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -24,6 +24,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|496 km|

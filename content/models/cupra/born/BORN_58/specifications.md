@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for CUPRA BORN 58.
 weight: 30
 ---
 [![CUPRA BORN 58](https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for CUPRA BORN 58. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of CUPRA BORN 58, visit the [chargeinfo]( for CUPRA BORN 58 with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for CUPRA BORN 58. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of CUPRA BORN 58, visit the [chargeinfo](../chargecurve/) for CUPRA BORN 58 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for CUPRA BORN 58. Click
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|424 km|

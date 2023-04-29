@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Tesla Model Y Perfor
 weight: 30
 ---
 [![Tesla Model Y Performance](https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Tesla Model Y Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model Y Performance, visit the [chargeinfo]( for Tesla Model Y Performance with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Tesla Model Y Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model Y Performance, visit the [chargeinfo](../chargecurve/) for Tesla Model Y Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model Y Perfor
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |WLTP range|514 km|

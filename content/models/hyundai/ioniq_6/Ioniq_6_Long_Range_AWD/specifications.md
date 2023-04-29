@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Hyundai Ioniq 6 Long
 weight: 30
 ---
 [![Hyundai Ioniq 6 Long Range AWD](https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 6 Long Range AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Ioniq 6 Long Range AWD, visit the [chargeinfo]( for Hyundai Ioniq 6 Long Range AWD with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 6 Long Range AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Ioniq 6 Long Range AWD, visit the [chargeinfo](../chargecurve/) for Hyundai Ioniq 6 Long Range AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 6 Long
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|583 km|

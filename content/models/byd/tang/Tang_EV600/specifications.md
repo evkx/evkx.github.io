@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for BYD Tang EV600.
 weight: 30
 ---
 [![BYD Tang EV600](https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for BYD Tang EV600. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BYD Tang EV600, visit the [chargeinfo]( for BYD Tang EV600 with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for BYD Tang EV600. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BYD Tang EV600, visit the [chargeinfo](../chargecurve/) for BYD Tang EV600 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for BYD Tang EV600. Clic
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |WLTP range|400 km|

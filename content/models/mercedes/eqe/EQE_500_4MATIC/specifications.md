@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Mercedes-EQ EQE 500 
 weight: 30
 ---
 [![Mercedes-EQ EQE 500 4MATIC](https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 500 4MATIC. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQE 500 4MATIC, visit the [chargeinfo]( for Mercedes-EQ EQE 500 4MATIC with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 500 4MATIC. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQE 500 4MATIC, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQE 500 4MATIC with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 500 
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|596 km|

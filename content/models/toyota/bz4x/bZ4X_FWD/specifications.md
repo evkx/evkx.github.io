@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Toyota bZ4X FWD.
 weight: 30
 ---
 [![Toyota bZ4X FWD](https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Toyota bZ4X FWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Toyota bZ4X FWD, visit the [chargeinfo]( for Toyota bZ4X FWD with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Toyota bZ4X FWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Toyota bZ4X FWD, visit the [chargeinfo](../chargecurve/) for Toyota bZ4X FWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for Toyota bZ4X FWD. Cli
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|516 km|

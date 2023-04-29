@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Volkswagen ID.5 Pro 
 weight: 30
 ---
 [![Volkswagen ID.5 Pro Performance](https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro_performance/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 Pro Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.5 Pro Performance, visit the [chargeinfo]( for Volkswagen ID.5 Pro Performance with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 Pro Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.5 Pro Performance, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.5 Pro Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 Pro 
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|529 km|

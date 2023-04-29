@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Audi Q4 35 e-tron.
 weight: 30
 ---
 [![Audi Q4 35 e-tron](https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Audi Q4 35 e-tron. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q4 35 e-tron, visit the [chargeinfo]( for Audi Q4 35 e-tron with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Audi Q4 35 e-tron. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q4 35 e-tron, visit the [chargeinfo](../chargecurve/) for Audi Q4 35 e-tron with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 35 e-tron. C
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|357 km|

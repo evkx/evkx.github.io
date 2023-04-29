@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Kia EV6 Standard Ran
 weight: 30
 ---
 [![Kia EV6 Standard Range 2WD](https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Kia EV6 Standard Range 2WD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia EV6 Standard Range 2WD, visit the [chargeinfo]( for Kia EV6 Standard Range 2WD with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Kia EV6 Standard Range 2WD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia EV6 Standard Range 2WD, visit the [chargeinfo](../chargecurve/) for Kia EV6 Standard Range 2WD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for Kia EV6 Standard Ran
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |WLTP range|394 km|

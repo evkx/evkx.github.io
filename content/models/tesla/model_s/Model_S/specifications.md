@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Tesla Model S.
 weight: 30
 ---
 [![Tesla Model S](https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Tesla Model S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model S, visit the [chargeinfo]( for Tesla Model S with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Tesla Model S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model S, visit the [chargeinfo](../chargecurve/) for Tesla Model S with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model S. Click
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|649 km|

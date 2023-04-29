@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Porsche Taycan 4S.
 weight: 30
 ---
 [![Porsche Taycan 4S](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan 4S, visit the [chargeinfo]( for Porsche Taycan 4S with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan 4S, visit the [chargeinfo](../chargecurve/) for Porsche Taycan 4S with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -31,6 +31,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S. C
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|431 km|

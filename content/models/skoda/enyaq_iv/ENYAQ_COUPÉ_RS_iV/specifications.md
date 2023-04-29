@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for SKODA ENYAQ COUPÉ R
 weight: 30
 ---
 [![SKODA ENYAQ COUPÉ RS iV](https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ RS iV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of SKODA ENYAQ COUPÉ RS iV, visit the [chargeinfo]( for SKODA ENYAQ COUPÉ RS iV with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ RS iV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of SKODA ENYAQ COUPÉ RS iV, visit the [chargeinfo](../chargecurve/) for SKODA ENYAQ COUPÉ RS iV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -24,6 +24,7 @@ EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ R
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|514 km|

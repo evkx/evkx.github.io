@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for BMW i4 eDrive40.
 weight: 30
 ---
 [![BMW i4 eDrive40](https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for BMW i4 eDrive40. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i4 eDrive40, visit the [chargeinfo]( for BMW i4 eDrive40 with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for BMW i4 eDrive40. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i4 eDrive40, visit the [chargeinfo](../chargecurve/) for BMW i4 eDrive40 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for BMW i4 eDrive40. Cli
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|590 km|

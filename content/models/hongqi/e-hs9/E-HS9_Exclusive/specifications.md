@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Hongqi E-HS9 Exclusi
 weight: 30
 ---
 [![Hongqi E-HS9 Exclusive](https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Exclusive. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hongqi E-HS9 Exclusive, visit the [chargeinfo]( for Hongqi E-HS9 Exclusive with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Exclusive. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hongqi E-HS9 Exclusive, visit the [chargeinfo](../chargecurve/) for Hongqi E-HS9 Exclusive with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Exclusi
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |WLTP range|465 km|

@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Nissan Ariya 87kWh e
 weight: 30
 ---
 [![Nissan Ariya 87kWh e-4ORCE](https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Nissan Ariya 87kWh e-4ORCE. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nissan Ariya 87kWh e-4ORCE, visit the [chargeinfo]( for Nissan Ariya 87kWh e-4ORCE with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Nissan Ariya 87kWh e-4ORCE. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nissan Ariya 87kWh e-4ORCE, visit the [chargeinfo](../chargecurve/) for Nissan Ariya 87kWh e-4ORCE with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for Nissan Ariya 87kWh e
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|500 km|

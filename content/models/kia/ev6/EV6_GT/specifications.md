@@ -5,7 +5,7 @@ description: EVKX.net gives you the full specifications for Kia EV6 GT.
 weight: 30
 ---
 [![Kia EV6 GT](https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Kia EV6 GT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia EV6 GT, visit the [chargeinfo]( for Kia EV6 GT with chargecurve, vistid extended range info. 
+EVKX.net seeks to have the most complete specifications for Kia EV6 GT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia EV6 GT, visit the [chargeinfo](../chargecurve/) for Kia EV6 GT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -21,6 +21,7 @@ EVKX.net seeks to have the most complete specifications for Kia EV6 GT. Click on
 
 ## Range & Consumption
 
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
 |WLTP range|424 km|
