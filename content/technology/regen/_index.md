@@ -38,9 +38,9 @@ The cons of one-pedal regen are that it can require some adaptation from drivers
 
 While some EVs have a fixed level of regen for one-pedal driving, others have paddles on the steering wheel to activate regen on different levels.
 
-### Manual regen using brake pedal
+### Manual regen using the brake pedal
 
-You can regenerate energy on EVs with blended brakes by pressing the brake pedal.
+By pressing the brake pedal, you can regenerate energy on EVs with blended brakes.
 
 Regen using a blended brake system in EVs, uses sensors and algorithms to determine the optimal balance between regenerative braking and friction braking, depending on factors such as driver input, battery state of charge, road conditions, traffic situation, and vehicle speed.
 
