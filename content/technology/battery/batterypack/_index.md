@@ -72,7 +72,8 @@ Here are some configuration examples
 | Kia EV6 GT | 77.4 | 192s2p | 697 Volt |
 | [Nio 100KWh Battery](../../../models/nio/) | 100kWh | 96s1p | 358 Volt |
 | [Nio 100KWh Battery](../../../models/nio/) | 100kWh | 96s2p | 358 Volt |
-| [Mercedes EQS](../../../models/mercedes/eqs_suv/) | 120kWh | 108s4p | 396 Volt |
+| [Mercedes EQE](../../../models/mercedes/eqe/) | 120kWh | 108s4p | 328 Volt |
+| [Mercedes EQS](../../../models/mercedes/eqs/) | 120kWh | 108s4p | 396 Volt |
 | [Tesla Model Y Long Range](../../../models/tesla/model_y/model_y_long_range/) | 78.1kWh | 96s46p | 357 Volt |
 
 
