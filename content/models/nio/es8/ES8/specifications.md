@@ -37,18 +37,20 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../technology/battery/buffer/)|100 kWh|
-|[Battery net](../../../../technology/battery/buffer/)|90 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|100 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|90 kWh|
 |Max DC charging|126 kW|
-|[Pack Configuration](../../../../technology/battery/batterypack/)|96s1p|
+|[Pack Configuration](../../../../../technology/battery/batterypack/)|96s1p|
+|[Nominal voltage](../../../../../technology/battery/batterypack/)|358|
 
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../technology/battery/buffer/)|75 kWh|
-|[Battery net](../../../../technology/battery/buffer/)|70,5 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|75 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|70,5 kWh|
 |Max DC charging|140 kW|
-|[Pack Configuration](../../../../technology/battery/batterypack/)|118s1p|
+|[Pack Configuration](../../../../../technology/battery/batterypack/)|118s1p|
+|[Nominal voltage](../../../../../technology/battery/batterypack/)|386|
 
 
 

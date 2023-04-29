@@ -20,12 +20,12 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Basic trim WLTP range|418 km|
-|Basic trim WLTP consumption|18,4 kWh/100km|
-|Basic trim WLTP consumption with charging loss|20,8 kWh/100km|
-|Top trim WLTP range|410 km|
-|Top trim WLTP consumption|18,8 kWh/100km|
-|Top trim WLTP consumption with charging loss|21,7 kwh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|418 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|18,4 kWh/100km|
+|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|20,8 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|410 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|18,8 kWh/100km|
+|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|21,7 kwh/100km|
 
 
 
@@ -33,11 +33,12 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../technology/battery/buffer/)|82 kWh|
-|[Battery net](../../../../technology/battery/buffer/)|77 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|82 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|77 kWh|
 |Max DC charging|135 kW|
-|Number of modules|12|
-|[Pack Configuration](../../../../technology/battery/batterypack/)|96s3p|
+|[Number of modules](../../../../../technology/battery/batterypack/#cell-to-module)|12|
+|[Pack Configuration](../../../../../technology/battery/batterypack/)|96s3p|
+|[Nominal voltage](../../../../../technology/battery/batterypack/)|350|
 
 
 
