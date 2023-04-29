@@ -20,13 +20,22 @@ Regenerative braking is a process where the kinetic energy of a moving vehicle i
 
 ## Types of Regenerative Braking Strategies
 
+The EV manufactors provide regenerative braking with different strategies. There are three main types of strategies. Some manufacturers only give one possibility while other
+lets the driver choose between two or all three.
+
 ### One-Pedal Driving
 
-One-pedal driving is a unique regenerative braking strategy that allows the driver to control the vehicle's speed and braking with just one pedal. When the driver lifts their foot off the accelerator pedal, the vehicle begins to decelerate, and the regenerative braking system engages, capturing the vehicle's kinetic energy and storing it in the battery.
+One pedal regen is a feature of some electric vehicles that allows them to control the acceleration and deceleration of the vehicle with only the accelerator pedal. When the driver presses the pedal, the vehicle accelerates normally. When the driver releases the pedal, the vehicle decelerates using regenerative braking, which converts the kinetic energy of the vehicle into electrical energy that can be stored in the battery. Depending on the vehicle settings and driving conditions, one pedal regen can bring the vehicle to a complete stop or maintain a low speed until the driver presses the pedal again.
+
+The benefit of one pedal driving is that you only need to use one pedal. 
+
+The cons of one pedal regen are that it can require some adaptation from drivers who are used to conventional two-pedal driving, and that it can vary in performance depending on factors such as battery state of charge, temperature, road gradient and traffic flow.
 
 ### Manual regen using brake pedal
 
-On evs with blended brakes you can regenerate energy with pressing the brake pedal. If not pressed hard you will not use the friction brake. 
+On evs with blended brakes you can regenerate energy with pressing the brake pedal.
+
+Regen using blended brake system in EVs works by using sensors and algorithms to determine the optimal balance between regenerative braking and friction braking, depending on factors such as driver input, battery state of charge, road conditions, traffic situation and vehicle speed. The system can also work with driver assistance systems such as adaptive cruise control or collision avoidance to enhance safety and convenience.
 
 ### Manual regen using steering wheel paddles
 
