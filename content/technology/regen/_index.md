@@ -40,9 +40,9 @@ While some EVs have a fixed level of regen for one-pedal driving, others have pa
 
 ### Manual regen using brake pedal
 
-On evs with blended brakes you can regenerate energy with pressing the brake pedal.
+You can regenerate energy on EVs with blended brakes by pressing the brake pedal.
 
-Regen using blended brake system in EVs works by using sensors and algorithms to determine the optimal balance between regenerative braking and friction braking, depending on factors such as driver input, battery state of charge, road conditions, traffic situation and vehicle speed. 
+Regen using a blended brake system in EVs, uses sensors and algorithms to determine the optimal balance between regenerative braking and friction braking, depending on factors such as driver input, battery state of charge, road conditions, traffic situation, and vehicle speed.
 
 The system can also work with driver assistance systems such as adaptive cruise control or collision avoidance to enhance safety and convenience.
 
