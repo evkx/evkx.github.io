@@ -36,10 +36,7 @@ The benefit of one-pedal driving is that you only need to use one pedal.
 
 The cons of one-pedal regen are that it can require some adaptation from drivers who are used to conventional two-pedal driving. In addition, it can vary in performance depending on factors such as battery state of charge, temperature, road gradient, and traffic flow.
 
-While some EVs have fixed level on regen for one pedal driving other EVs have paddles on the steering wheel to active regen on different levels.
-
-
-
+While some EVs have a fixed level of regen for one-pedal driving, others have paddles on the steering wheel to activate regen on different levels.
 
 ### Manual regen using brake pedal
 
@@ -75,10 +72,10 @@ Smoother Braking: Regenerative braking can provide smoother and more consistent 
 
 ## Limitations of Regenerative Braking
 
-While regenerative braking offers many benefits, there are some limitations to the technology. These include:
+While regenerative braking offers many benefits, the technology has some limitations. These include:
 
 **Reduced Effectiveness at High Speeds:** Regenerative braking is less effective at high speeds, as the amount of kinetic energy that can be captured and stored decreases as the vehicle's speed increases.
 
 **Limited Range Extension:** Regenerative braking can extend the vehicle's range, but the amount of energy that can be recovered is limited, and the overall impact on range can vary depending on driving conditions.
 
-**Reduced Brake Feel:** Because regenerative braking uses the electric motor to slow the vehicle, it can reduce the feel of the brake pedal, making it less intuitive for some drivers.
+**Reduced Brake Feel:** Because regenerative braking uses the electric motor to slow the vehicle, it can reduce the brake pedal's feel, making it less intuitive for some drivers.
