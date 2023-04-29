@@ -33,8 +33,8 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Battery gross|111 kWh|
-|Battery net|105,2 kWh|
+|[Battery gross](../../../../technology/battery/buffer/)|111 kWh|
+|[Battery net](../../../../technology/battery/buffer/)|105,2 kWh|
 
 
 

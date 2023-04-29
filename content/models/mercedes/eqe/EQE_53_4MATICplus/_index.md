@@ -36,7 +36,7 @@ If you are not happy enough with the standard performance, you can add the AMG D
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 96,12kWh and a net capacity of 90,56kWh, meaning you have a 5,56kWh buffer for protection. (5,8%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 526 to 459 km (327-285 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,2kWh/100km for the basic version and 19,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 96,12kWh and a net capacity of 90,6kWh, meaning you have a 5,52kWh buffer for protection. (5,7%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 526 to 459 km (327-285 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,2kWh/100km for the basic version and 19,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 55 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 64% resulting in an actual charge speed including time loss on 121kW. Each charge session would take 28 minutes and 48 seconds. 
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 6 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
 
 
 <figur>

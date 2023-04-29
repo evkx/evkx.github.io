@@ -33,9 +33,9 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Battery gross|118 kWh|
-|Battery net|117 kWh|
-|Cell architecture|220s30p|
+|[Battery gross](../../../../technology/battery/buffer/)|118 kWh|
+|[Battery net](../../../../technology/battery/buffer/)|117 kWh|
+|[Pack Configuration](../../../../technology/battery/batterypack/)|220s30p|
 
 
 

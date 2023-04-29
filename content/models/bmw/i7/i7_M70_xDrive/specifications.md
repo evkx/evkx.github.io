@@ -33,8 +33,8 @@ weight: 30
 
 |Spec|Value|
 |----|-----|
-|Battery gross|105,7 kWh|
-|Battery net|101,7 kWh|
+|[Battery gross](../../../../technology/battery/buffer/)|105,7 kWh|
+|[Battery net](../../../../technology/battery/buffer/)|101,7 kWh|
 |Max DC charging|195 kW|
 
 
