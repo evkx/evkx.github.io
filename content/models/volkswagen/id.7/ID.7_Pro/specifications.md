@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Volkswagen ID.7 Pro
 weight: 30
 ---
-[![Volkswagen ID.7 Pro](https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_st.jpg Volkswagen ID.7 Pro - click on image for full article)](../)
+[![Volkswagen ID.7 Pro](https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.7 Pro. Click on image above for full article, visit the image gallery for Volkswagen ID.7 Pro, visit the chargeinfo for Volkswagen ID.7 Pro with chargecurve, vistid extended range info. 
 
 

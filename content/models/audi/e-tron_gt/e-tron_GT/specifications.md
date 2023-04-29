@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Audi e-tron GT
 weight: 30
 ---
-[![Audi e-tron GT](https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg Audi e-tron GT - click on image for full article)](../)
+[![Audi e-tron GT](https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Audi e-tron GT. Click on image above for full article, visit the image gallery for Audi e-tron GT, visit the chargeinfo for Audi e-tron GT with chargecurve, vistid extended range info. 
 
 

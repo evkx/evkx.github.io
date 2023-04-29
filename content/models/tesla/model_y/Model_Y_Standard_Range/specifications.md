@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Tesla Model Y Standard Range
 weight: 30
 ---
-[![Tesla Model Y Standard Range](https://media.evkx.net/multimedia/models/tesla/model_y/model_y_standard_range/main_1_st.jpg Tesla Model Y Standard Range - click on image for full article)](../)
+[![Tesla Model Y Standard Range](https://media.evkx.net/multimedia/models/tesla/model_y/model_y_standard_range/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Tesla Model Y Standard Range. Click on image above for full article, visit the image gallery for Tesla Model Y Standard Range, visit the chargeinfo for Tesla Model Y Standard Range with chargecurve, vistid extended range info. 
 
 

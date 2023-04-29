@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for CUPRA Tavascan VZ
 weight: 30
 ---
-[![CUPRA Tavascan VZ](https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG CUPRA Tavascan VZ - click on image for full article)](../)
+[![CUPRA Tavascan VZ](https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG)](../)
 EVKX.net seeks to have the most complete specifications for CUPRA Tavascan VZ. Click on image above for full article, visit the image gallery for CUPRA Tavascan VZ, visit the chargeinfo for CUPRA Tavascan VZ with chargecurve, vistid extended range info. 
 
 

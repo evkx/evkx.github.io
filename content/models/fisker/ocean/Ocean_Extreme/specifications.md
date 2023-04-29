@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Fisker Ocean Extreme
 weight: 30
 ---
-[![Fisker Ocean Extreme](https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg Fisker Ocean Extreme - click on image for full article)](../)
+[![Fisker Ocean Extreme](https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Fisker Ocean Extreme. Click on image above for full article, visit the image gallery for Fisker Ocean Extreme, visit the chargeinfo for Fisker Ocean Extreme with chargecurve, vistid extended range info. 
 
 

@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for SKODA ENYAQ COUPÉ RS iV
 weight: 30
 ---
-[![SKODA ENYAQ COUPÉ RS iV](https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg SKODA ENYAQ COUPÉ RS iV - click on image for full article)](../)
+[![SKODA ENYAQ COUPÉ RS iV](https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ RS iV. Click on image above for full article, visit the image gallery for SKODA ENYAQ COUPÉ RS iV, visit the chargeinfo for SKODA ENYAQ COUPÉ RS iV with chargecurve, vistid extended range info. 
 
 

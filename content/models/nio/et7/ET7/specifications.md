@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Nio ET7
 weight: 30
 ---
-[![Nio ET7](https://media.evkx.net/multimedia/models/nio/et7/et7/main_1_st.jpg Nio ET7 - click on image for full article)](../)
+[![Nio ET7](https://media.evkx.net/multimedia/models/nio/et7/et7/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Nio ET7. Click on image above for full article, visit the image gallery for Nio ET7, visit the chargeinfo for Nio ET7 with chargecurve, vistid extended range info. 
 
 

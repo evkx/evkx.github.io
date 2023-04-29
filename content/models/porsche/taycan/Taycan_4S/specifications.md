@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Porsche Taycan 4S
 weight: 30
 ---
-[![Porsche Taycan 4S](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1_st.jpg Porsche Taycan 4S - click on image for full article)](../)
+[![Porsche Taycan 4S](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S. Click on image above for full article, visit the image gallery for Porsche Taycan 4S, visit the chargeinfo for Porsche Taycan 4S with chargecurve, vistid extended range info. 
 
 

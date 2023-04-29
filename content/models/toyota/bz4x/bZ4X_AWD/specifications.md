@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Toyota bZ4X AWD
 weight: 30
 ---
-[![Toyota bZ4X AWD](https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg Toyota bZ4X AWD - click on image for full article)](../)
+[![Toyota bZ4X AWD](https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Toyota bZ4X AWD. Click on image above for full article, visit the image gallery for Toyota bZ4X AWD, visit the chargeinfo for Toyota bZ4X AWD with chargecurve, vistid extended range info. 
 
 

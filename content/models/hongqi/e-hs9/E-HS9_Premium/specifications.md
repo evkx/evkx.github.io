@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Hongqi E-HS9 Premium
 weight: 30
 ---
-[![Hongqi E-HS9 Premium](https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg Hongqi E-HS9 Premium - click on image for full article)](../)
+[![Hongqi E-HS9 Premium](https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Premium. Click on image above for full article, visit the image gallery for Hongqi E-HS9 Premium, visit the chargeinfo for Hongqi E-HS9 Premium with chargecurve, vistid extended range info. 
 
 

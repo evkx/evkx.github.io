@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for SKODA Enyaq iV80x
 weight: 30
 ---
-[![SKODA Enyaq iV80x](https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_st.jpg SKODA Enyaq iV80x - click on image for full article)](../)
+[![SKODA Enyaq iV80x](https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for SKODA Enyaq iV80x. Click on image above for full article, visit the image gallery for SKODA Enyaq iV80x, visit the chargeinfo for SKODA Enyaq iV80x with chargecurve, vistid extended range info. 
 
 

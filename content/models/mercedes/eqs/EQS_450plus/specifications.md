@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Mercedes-EQ EQS 450+
 weight: 30
 ---
-[![Mercedes-EQ EQS 450+](https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg Mercedes-EQ EQS 450+ - click on image for full article)](../)
+[![Mercedes-EQ EQS 450+](https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQS 450+. Click on image above for full article, visit the image gallery for Mercedes-EQ EQS 450+, visit the chargeinfo for Mercedes-EQ EQS 450+ with chargecurve, vistid extended range info. 
 
 

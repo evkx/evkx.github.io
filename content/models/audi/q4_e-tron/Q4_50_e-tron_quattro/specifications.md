@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Audi Q4 50 e-tron quattro
 weight: 30
 ---
-[![Audi Q4 50 e-tron quattro](https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/main_1_st.jpg Audi Q4 50 e-tron quattro - click on image for full article)](../)
+[![Audi Q4 50 e-tron quattro](https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Audi Q4 50 e-tron quattro. Click on image above for full article, visit the image gallery for Audi Q4 50 e-tron quattro, visit the chargeinfo for Audi Q4 50 e-tron quattro with chargecurve, vistid extended range info. 
 
 

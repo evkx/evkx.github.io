@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Volkswagen ID.3 Pro S
 weight: 30
 ---
-[![Volkswagen ID.3 Pro S](https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg Volkswagen ID.3 Pro S - click on image for full article)](../)
+[![Volkswagen ID.3 Pro S](https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.3 Pro S. Click on image above for full article, visit the image gallery for Volkswagen ID.3 Pro S, visit the chargeinfo for Volkswagen ID.3 Pro S with chargecurve, vistid extended range info. 
 
 

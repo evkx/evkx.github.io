@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for BMW iX1 xDrive30
 weight: 30
 ---
-[![BMW iX1 xDrive30](https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg BMW iX1 xDrive30 - click on image for full article)](../)
+[![BMW iX1 xDrive30](https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for BMW iX1 xDrive30. Click on image above for full article, visit the image gallery for BMW iX1 xDrive30, visit the chargeinfo for BMW iX1 xDrive30 with chargecurve, vistid extended range info. 
 
 

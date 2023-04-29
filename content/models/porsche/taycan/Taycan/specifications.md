@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Porsche Taycan
 weight: 30
 ---
-[![Porsche Taycan](https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_st.jpg Porsche Taycan - click on image for full article)](../)
+[![Porsche Taycan](https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Porsche Taycan. Click on image above for full article, visit the image gallery for Porsche Taycan, visit the chargeinfo for Porsche Taycan with chargecurve, vistid extended range info. 
 
 

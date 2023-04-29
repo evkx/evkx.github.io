@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Hongqi E-HS9 Comfort
 weight: 30
 ---
-[![Hongqi E-HS9 Comfort](https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/main_1_st.jpg Hongqi E-HS9 Comfort - click on image for full article)](../)
+[![Hongqi E-HS9 Comfort](https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Comfort. Click on image above for full article, visit the image gallery for Hongqi E-HS9 Comfort, visit the chargeinfo for Hongqi E-HS9 Comfort with chargecurve, vistid extended range info. 
 
 

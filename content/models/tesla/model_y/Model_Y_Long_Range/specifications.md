@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Tesla Model Y Long Range
 weight: 30
 ---
-[![Tesla Model Y Long Range](https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg Tesla Model Y Long Range - click on image for full article)](../)
+[![Tesla Model Y Long Range](https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Tesla Model Y Long Range. Click on image above for full article, visit the image gallery for Tesla Model Y Long Range, visit the chargeinfo for Tesla Model Y Long Range with chargecurve, vistid extended range info. 
 
 

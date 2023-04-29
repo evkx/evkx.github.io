@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for CUPRA BORN 77 e-BOOST
 weight: 30
 ---
-[![CUPRA BORN 77 e-BOOST](https://media.evkx.net/multimedia/models/cupra/born/born_77_e-boost/main_1_st.jpg CUPRA BORN 77 e-BOOST - click on image for full article)](../)
+[![CUPRA BORN 77 e-BOOST](https://media.evkx.net/multimedia/models/cupra/born/born_77_e-boost/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for CUPRA BORN 77 e-BOOST. Click on image above for full article, visit the image gallery for CUPRA BORN 77 e-BOOST, visit the chargeinfo for CUPRA BORN 77 e-BOOST with chargecurve, vistid extended range info. 
 
 

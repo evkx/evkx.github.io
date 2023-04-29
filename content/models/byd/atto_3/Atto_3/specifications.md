@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for BYD Atto 3
 weight: 30
 ---
-[![BYD Atto 3](https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1_st.jpg BYD Atto 3 - click on image for full article)](../)
+[![BYD Atto 3](https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for BYD Atto 3. Click on image above for full article, visit the image gallery for BYD Atto 3, visit the chargeinfo for BYD Atto 3 with chargecurve, vistid extended range info. 
 
 

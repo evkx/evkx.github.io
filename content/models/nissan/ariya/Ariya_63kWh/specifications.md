@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Nissan Ariya 63kWh
 weight: 30
 ---
-[![Nissan Ariya 63kWh](https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg Nissan Ariya 63kWh - click on image for full article)](../)
+[![Nissan Ariya 63kWh](https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Nissan Ariya 63kWh. Click on image above for full article, visit the image gallery for Nissan Ariya 63kWh, visit the chargeinfo for Nissan Ariya 63kWh with chargecurve, vistid extended range info. 
 
 

@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Xpeng G9 AWD Performance
 weight: 30
 ---
-[![Xpeng G9 AWD Performance](https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg Xpeng G9 AWD Performance - click on image for full article)](../)
+[![Xpeng G9 AWD Performance](https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Xpeng G9 AWD Performance. Click on image above for full article, visit the image gallery for Xpeng G9 AWD Performance, visit the chargeinfo for Xpeng G9 AWD Performance with chargecurve, vistid extended range info. 
 
 

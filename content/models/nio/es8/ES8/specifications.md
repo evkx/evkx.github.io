@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Nio ES8
 weight: 30
 ---
-[![Nio ES8](https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg Nio ES8 - click on image for full article)](../)
+[![Nio ES8](https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Nio ES8. Click on image above for full article, visit the image gallery for Nio ES8, visit the chargeinfo for Nio ES8 with chargecurve, vistid extended range info. 
 
 

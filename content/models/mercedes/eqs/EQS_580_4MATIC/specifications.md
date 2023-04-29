@@ -4,7 +4,7 @@ linktitle: Specifications
 description: See below for full specifications for Mercedes-EQ EQS 580 4MATIC
 weight: 30
 ---
-[![Mercedes-EQ EQS 580 4MATIC](https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/main_1_st.jpg Mercedes-EQ EQS 580 4MATIC - click on image for full article)](../)
+[![Mercedes-EQ EQS 580 4MATIC](https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQS 580 4MATIC. Click on image above for full article, visit the image gallery for Mercedes-EQ EQS 580 4MATIC, visit the chargeinfo for Mercedes-EQ EQS 580 4MATIC with chargecurve, vistid extended range info. 
 
 
