@@ -214,7 +214,7 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 - Stop sign control - follow stop signs. 
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 70kg. Max weight is 2232kg, and with the base weight of 1844 kg, you can max load 388 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 

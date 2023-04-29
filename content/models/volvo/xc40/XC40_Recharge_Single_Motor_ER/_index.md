@@ -176,7 +176,7 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1295 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 31 liters. Max weight is 2520kg, and with the base weight of 2030 kg, you can max load 490 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 

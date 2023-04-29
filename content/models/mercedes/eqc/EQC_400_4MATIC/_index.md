@@ -167,7 +167,7 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1460 liters. On the roof, you can load up to 75kg. Max weight is 2940kg, and with the base weight of 2420 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 

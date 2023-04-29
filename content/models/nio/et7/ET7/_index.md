@@ -219,7 +219,7 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target by itself. 
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 100kg. Max weight is 2900kg, and with the base weight of 2379 kg, you can max load 521 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 

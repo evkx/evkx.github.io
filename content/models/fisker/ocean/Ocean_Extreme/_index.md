@@ -161,7 +161,7 @@ With the Fisker Intelligent Pilot  level 2 system, you get the following driving
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 75kg. 
 

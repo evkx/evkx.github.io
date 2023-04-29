@@ -214,7 +214,7 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 340 liters. With the rear seat down, it is 1320 liters. On the roof, you can load up to 75kg. Max weight is 2535kg, and with the base weight of 2030 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 

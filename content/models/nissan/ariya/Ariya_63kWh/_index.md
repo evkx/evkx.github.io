@@ -186,7 +186,7 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 468 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2400kg, and with the base weight of 1875 kg, you can max load 525 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 

@@ -236,7 +236,7 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target by itself. 
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 310 liters. With the rear seat down, it is 1901 liters. On the roof, you can load up to 100kg. Max weight is 3099kg, and with the base weight of 2440 kg, you can max load 659 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 

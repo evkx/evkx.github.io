@@ -220,7 +220,7 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 - Stop sign control - follow stop signs. 
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 2158 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 

@@ -237,7 +237,7 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 - [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 100kg. Max weight is 3375kg, and with the base weight of 2735 kg, you can max load 640 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 

@@ -252,7 +252,7 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75kg. Max weight is 3040kg, and with the base weight of 2370 kg, you can max load 670 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 

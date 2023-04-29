@@ -176,7 +176,7 @@ With the standard system the model offers no driving automation.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 80kg. Max weight is 2195kg, and with the base weight of 1945 kg, you can max load 250 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 

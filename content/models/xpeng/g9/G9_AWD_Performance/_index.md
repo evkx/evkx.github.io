@@ -199,7 +199,7 @@ With the   level 2 system, you get the following driving automation features.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
 
 
-## Transportation capabilities
+## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 71 liters. Max weight is 2800kg, and with the base weight of 2265 kg, you can max load 535 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
