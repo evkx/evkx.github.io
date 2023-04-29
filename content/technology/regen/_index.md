@@ -32,9 +32,15 @@ On evs with blended brakes you can regenerate energy with pressing the brake ped
 
 Som evs have paddles on the steering wheel to active regen on different levels. 
 
-### Automatic regen (adaptive)
+### Adaptive regen
 
-Adaptiv regen is when the car regenerate when needed. 
+Adaptive regen is a feature of some electric vehicles that allows them to adjust the level of regenerative braking according to the driving situation. Regenerative braking is a process that converts the kinetic energy of the vehicle into electrical energy that can be stored in the battery, reducing the need for using the conventional friction brakes and increasing the range and efficiency of the EV.
+
+Adaptive regen works by using sensors, cameras and navigation data to detect the traffic conditions, road curvature, speed limits and other factors that affect the optimal deceleration rate of the vehicle. Based on this information, the system can automatically increase or decrease the regen level when the driver releases the accelerator pedal, without requiring manual input or mode selection.
+
+The benefit of adaptive regen is that it can provide a smoother and more natural driving experience, as well as a more effective energy recovery. By adjusting the regen level according to the situation, adaptive regen can avoid excessive or insufficient braking that might cause discomfort or waste energy. Adaptive regen can also work with the driver assistance systems to enhance safety and convenience, such as maintaining a safe distance from the vehicle ahead or slowing down for a sharp turn.
+
+Some examples of EVs that offer adaptive regen are the Porsche Taycan, the BMW i4 and the Hyundai Ioniq 5. These EVs use different technologies and algorithms to implement adaptive regen, but they all aim to provide a better one-pedal driving experience for their drivers.
 
 ## Max Regenerative Braking Power
 

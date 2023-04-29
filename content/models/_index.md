@@ -110,7 +110,7 @@ Porsche has 1 models with total 7 variants. [Read all about them](porsche/)
 
 The Czech car manufacturer aims to be one of the five best-selling brands in Europe by 2030, and the company plans to become the leading European brand in the growth regions of India, Russia and North Africa. 
 
-Skoda has 0 models with total 0 variants. [Read all about them](skoda/)
+Skoda has 1 models with total 4 variants. [Read all about them](skoda/)
 
 ## Tesla
 
@@ -146,7 +146,7 @@ Volvo has 1 models with total 1 variants. [Read all about them](volvo/)
 
 XPeng is a Chinese electric vehicle manufacturer that was founded in 2014 by He Xiaopeng, a former Alibaba executive and internet entrepreneur. The company is headquartered in Guangzhou, Guangdong, with offices in Mountain View, California, United States and is publicly traded on the New York Stock Exchange. 
 
-XPENG has 0 models with total 0 variants. [Read all about them](xpeng/)
+XPENG has 1 models with total 1 variants. [Read all about them](xpeng/)
 
 
 
