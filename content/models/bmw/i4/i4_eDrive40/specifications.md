@@ -66,6 +66,7 @@ The model offers 2 suspension variants
 |Spec|Value|
 |----|-----|
 |Adaptive suspension|Yes, standard equipment|
+|Adaptive suspension|Yes, standard equipment|
 |Adjustable damping front|Not available|
 |Adjustable damping rear|Not available|
 |Adjustable height front|Not available|
@@ -79,6 +80,7 @@ The model offers 2 suspension variants
 
 |Spec|Value|
 |----|-----|
+|Adaptive suspension|Yes, standard equipment|
 |Adaptive suspension|Yes, standard equipment|
 |Adjustable damping front|Yes, standard equipment|
 |Adjustable damping rear|Yes, standard equipment|
