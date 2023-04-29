@@ -1,9 +1,12 @@
 ---
 title: Audi RS e-tron GT specifications
 linktitle: Specifications
-description: See below for specifications for Audi RS e-tron GT
+description: See below for full specifications for Audi RS e-tron GT
 weight: 30
 ---
+[![Audi RS e-tron GT](https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg Audi RS e-tron GT - click on image for full article)](../)
+EVKX.net seeks to have the most complete specifications for Audi RS e-tron GT. Click on image above for full article, visit the image gallery for Audi RS e-tron GT, visit the chargeinfo for Audi RS e-tron GT with chargecurve, vistid extended range info. 
+
 
 ## Performance
 

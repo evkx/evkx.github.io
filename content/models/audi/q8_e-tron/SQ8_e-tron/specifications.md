@@ -1,9 +1,12 @@
 ---
 title: Audi SQ8 e-tron specifications
 linktitle: Specifications
-description: See below for specifications for Audi SQ8 e-tron
+description: See below for full specifications for Audi SQ8 e-tron
 weight: 30
 ---
+[![Audi SQ8 e-tron](https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1_st.jpeg Audi SQ8 e-tron - click on image for full article)](../)
+EVKX.net seeks to have the most complete specifications for Audi SQ8 e-tron. Click on image above for full article, visit the image gallery for Audi SQ8 e-tron, visit the chargeinfo for Audi SQ8 e-tron with chargecurve, vistid extended range info. 
+
 
 ## Performance
 

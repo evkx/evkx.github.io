@@ -1,9 +1,12 @@
 ---
 title: Audi e-tron 55 specifications
 linktitle: Specifications
-description: See below for specifications for Audi e-tron 55
+description: See below for full specifications for Audi e-tron 55
 weight: 30
 ---
+[![Audi e-tron 55](https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/main_1_st.jpg Audi e-tron 55 - click on image for full article)](../)
+EVKX.net seeks to have the most complete specifications for Audi e-tron 55. Click on image above for full article, visit the image gallery for Audi e-tron 55, visit the chargeinfo for Audi e-tron 55 with chargecurve, vistid extended range info. 
+
 
 ## Performance
 

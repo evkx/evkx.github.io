@@ -1,9 +1,12 @@
 ---
 title: Polestar 2 Long Range Dual Motor Performance specifications
 linktitle: Specifications
-description: See below for specifications for Polestar 2 Long Range Dual Motor Performance
+description: See below for full specifications for Polestar 2 Long Range Dual Motor Performance
 weight: 30
 ---
+[![Polestar 2 Long Range Dual Motor Performance](https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/main_1_st.jpg Polestar 2 Long Range Dual Motor Performance - click on image for full article)](../)
+EVKX.net seeks to have the most complete specifications for Polestar 2 Long Range Dual Motor Performance. Click on image above for full article, visit the image gallery for Polestar 2 Long Range Dual Motor Performance, visit the chargeinfo for Polestar 2 Long Range Dual Motor Performance with chargecurve, vistid extended range info. 
+
 
 ## Performance
 

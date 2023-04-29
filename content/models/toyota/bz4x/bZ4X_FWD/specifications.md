@@ -1,9 +1,12 @@
 ---
 title: Toyota bZ4X FWD specifications
 linktitle: Specifications
-description: See below for specifications for Toyota bZ4X FWD
+description: See below for full specifications for Toyota bZ4X FWD
 weight: 30
 ---
+[![Toyota bZ4X FWD](https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/main_1_st.jpg Toyota bZ4X FWD - click on image for full article)](../)
+EVKX.net seeks to have the most complete specifications for Toyota bZ4X FWD. Click on image above for full article, visit the image gallery for Toyota bZ4X FWD, visit the chargeinfo for Toyota bZ4X FWD with chargecurve, vistid extended range info. 
+
 
 ## Performance
 

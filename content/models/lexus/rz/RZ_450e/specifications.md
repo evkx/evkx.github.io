@@ -1,9 +1,12 @@
 ---
 title: Lexus RZ 450e specifications
 linktitle: Specifications
-description: See below for specifications for Lexus RZ 450e
+description: See below for full specifications for Lexus RZ 450e
 weight: 30
 ---
+[![Lexus RZ 450e](https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg Lexus RZ 450e - click on image for full article)](../)
+EVKX.net seeks to have the most complete specifications for Lexus RZ 450e. Click on image above for full article, visit the image gallery for Lexus RZ 450e, visit the chargeinfo for Lexus RZ 450e with chargecurve, vistid extended range info. 
+
 
 ## Performance
 

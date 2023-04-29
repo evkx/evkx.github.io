@@ -1,9 +1,12 @@
 ---
 title: Kia EV6 GT specifications
 linktitle: Specifications
-description: See below for specifications for Kia EV6 GT
+description: See below for full specifications for Kia EV6 GT
 weight: 30
 ---
+[![Kia EV6 GT](https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_st.jpg Kia EV6 GT - click on image for full article)](../)
+EVKX.net seeks to have the most complete specifications for Kia EV6 GT. Click on image above for full article, visit the image gallery for Kia EV6 GT, visit the chargeinfo for Kia EV6 GT with chargecurve, vistid extended range info. 
+
 
 ## Performance
 

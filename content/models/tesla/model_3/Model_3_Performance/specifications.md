@@ -1,9 +1,12 @@
 ---
 title: Tesla Model 3 Performance specifications
 linktitle: Specifications
-description: See below for specifications for Tesla Model 3 Performance
+description: See below for full specifications for Tesla Model 3 Performance
 weight: 30
 ---
+[![Tesla Model 3 Performance](https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/main_1_st.jpg Tesla Model 3 Performance - click on image for full article)](../)
+EVKX.net seeks to have the most complete specifications for Tesla Model 3 Performance. Click on image above for full article, visit the image gallery for Tesla Model 3 Performance, visit the chargeinfo for Tesla Model 3 Performance with chargecurve, vistid extended range info. 
+
 
 ## Performance
 

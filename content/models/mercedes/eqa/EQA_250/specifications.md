@@ -1,9 +1,12 @@
 ---
 title: Mercedes-EQ EQA 250 specifications
 linktitle: Specifications
-description: See below for specifications for Mercedes-EQ EQA 250
+description: See below for full specifications for Mercedes-EQ EQA 250
 weight: 30
 ---
+[![Mercedes-EQ EQA 250](https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_st.jpg Mercedes-EQ EQA 250 - click on image for full article)](../)
+EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQA 250. Click on image above for full article, visit the image gallery for Mercedes-EQ EQA 250, visit the chargeinfo for Mercedes-EQ EQA 250 with chargecurve, vistid extended range info. 
+
 
 ## Performance
 
