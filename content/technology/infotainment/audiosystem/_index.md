@@ -1,19 +1,71 @@
 ---
 title: Audio system
 linktitle: Audio system
-description: Audio systems in cars have come a long way from the early days of AM/FM radios. Today, car audio systems are an integral part of the driving experience and can significantly enhance the overall enjoyment of a road trip or daily commute.
+description: When buying a car, many customers pay particular attention to the audio system. That is because the car is specifically where people listen to music enthusiastically and frequently.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
+Evs are considered better to listen to music in compared to fossil cars for several reasons, such as:
+
+- Evs are quieter than fossil cars, which means less noise interference and more clarity for the music. Evs do not have internal combustion engines, which produce loud and variable sounds that can mask or distort the music. Evs also have less vibration and friction from the mechanical parts, which can reduce the sound quality of the speakers and the audio system.
+
+- Evs have more space and flexibility for installing sound systems and speakers, which means more options and customization for the music. Evs do not have to accommodate fuel tanks, exhaust pipes, or other components that take up space and limit the placement of speakers and audio equipment. Evs can also have more advanced features, such as wireless connectivity, voice control, or digital assistants, that can enhance the music experience.
+
+- Evs have more consistent and stable power supply for the sound systems and speakers, which means more reliability and performance for the music. Evs use batteries that provide constant and regulated voltage and current for the audio system, unlike fossil cars that use alternators that can fluctuate and cause distortion or interference. Evs also have less risk of power surges or spikes that can damage the audio system or the speakers.
+
+
+Audio systems in cars have come a long way from the early days of AM/FM radios. Today, car audio systems are an integral part of the driving experience and can significantly enhance the overall enjoyment of a road trip or daily commute.
 
 In this article, we will explore the various components of a modern car audio system, including speakers, amplifiers, head units, and more. We will also discuss the importance of selecting high-quality components and provide some tips for achieving the best sound quality in your car.
 
 ## Speakers
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/bwspeakerbmwix.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/bwspeakerbmwix_st.jpg" alt="BMW iX speaker" title="BMW iX speaker">
+    </a>
+    <figcaption><h4>BMW iX speaker</h4></figcaption>
+</figur>
+
 Speakers are the most critical component of any car audio system. They convert electrical signals into sound waves, allowing us to hear music, podcasts, or audiobooks while driving. There are several types of speakers available for car audio systems, including component speakers, coaxial speakers, and subwoofers.
 
-Component speakers are the most expensive and offer the best sound quality. They consist of separate drivers for the tweeter, midrange, and woofer. This allows each driver to focus on a specific frequency range, resulting in clearer, more detailed sound. Coaxial speakers, on the other hand, are more affordable and easier to install. They combine the tweeter and woofer into a single unit, resulting in a more compact design. Subwoofers are designed to handle low-frequency sounds and are usually installed in the trunk or a custom enclosure.
+### Speaker types
+
+Component speakers are the most expensive and offer the best sound quality. They consist of separate drivers for the tweeter, midrange, and woofer. This allows each driver to focus on a specific frequency range, resulting in clearer, more detailed sound.
+
+Coaxial speakers, on the other hand, are more affordable and easier to install. They combine the tweeter and woofer into a single unit, resulting in a more compact design. Subwoofers are designed to handle low-frequency sounds and are usually installed in the trunk or a custom enclosure.
+
+### Speaker locations
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/audiq8speakers_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/audiq8speakers_1_st.jpg" alt="Audi Q8 e-tron speaker locations" title="Audi Q8 e-tron speaker locations">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron speaker locations</h4></figcaption>
+</figur>
+
+They are usually installed in various locations in the car's interior, depending on the size, shape, and design of the car and the speakers.
+
+Some of the common locations for audio system speakers for cars are:
+
+**The dashboard** Speakers installed here are usually small and aimed at the windshield to create a sound reflection. They are often used for high-frequency sounds, such as tweeters.
+
+**A-pillar** Speakers installed here are usually small high-frequency sounds, such as tweeters.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/audiq4apillarspeaker.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/audiq4apillarspeaker_st.jpg" alt="Audi Q4 e-tron speaker in A-pillar" title="Audi Q4 e-tron speaker in A-pillar">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron speaker in A-pillar</h4></figcaption>
+</figur>
+
+**The doors** This is the area on the side of the car where the windows and door handles are located. Speakers installed here are usually larger and aimed at the passengers to create a direct sound. They are often used for mid-range and low-frequency sounds, such as woofers and mid-range drivers.
+
+**The rear deck:** This is the area behind the rear seats and below the rear window. Speakers installed here are usually large and aimed at the rear window to create a sound reflection. They are often used for low-frequency sounds, such as subwoofers.
+
+Depending on the type and quality of the audio system, a car may have different numbers and combinations of speakers in these locations. Some cars may have only two or four speakers, while others may have six, eight, or more speakers. Some cars may also have component speakers, which are separate units for different frequency ranges, or coaxial speakers, which are combined units for different frequency ranges. Some cars may also have amplifiers or equalizers to enhance or adjust the sound quality of the speakers.
+
 
 ## Amplifiers
 

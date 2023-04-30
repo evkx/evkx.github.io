@@ -1,12 +1,14 @@
 ---
 title: Navigation
 linktitle: Navigation
-description: Built-in navigation systems are navigation systems that are integrated into the vehicles infotainment system and display. 
+description: Most EVs offer a navigation system as part of their infotainment system. 
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-They offer drivers various functions and features that help them plan their trips, find their destinations, and access relevant information and services along the way. Built-in navigation systems in EVs are especially designed to meet the needs and preferences of electric vehicle drivers, such as finding and using charging stations, optimizing battery range and efficiency, and enhancing the overall driving experience.
+The navigation system offer drivers various functions and features that help them plan their trips, find their destinations, and access relevant information and services along the way.
+
+Built-in navigation systems in EVs are especially designed to meet the needs and preferences of electric vehicle drivers, such as finding and using charging stations, optimizing battery range and efficiency, and enhancing the overall driving experience.
 
 ## How do built-in navigation systems in EVs work?
 

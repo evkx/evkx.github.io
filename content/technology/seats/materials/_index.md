@@ -59,6 +59,13 @@ However, there are pros and cons to using fabric for seat upholstery, and there 
 
 **Polyester:** Polyester is a synthetic fabric that is resistant to stains and fading. It is a popular choice for those who prioritize low maintenance.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/materials/hyundai-ioniq-6-fabricleatherette.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/hyundai-ioniq-6-fabricleatherette_st.jpg" alt="Hyunday Ioniq 6 fabric/leatherette seats" title="Hyunday Ioniq 6 fabric/leatherette seats">
+    </a>
+    <figcaption><h4>Hyunday Ioniq 6 fabric/leatherette seats</h4></figcaption>
+</figur>
+
 ### Sustainability of Fabric Seat Upholstery
 
 The production of fabric can significantly impact the environment, including water and energy use, greenhouse gas emissions, and waste. However, there are sustainable practices in the fabric industry that can mitigate these impacts.
@@ -169,6 +176,13 @@ Leatherette is a synthetic material made to resemble real leather. It is often u
 **Comfort:** While leatherette is durable and easy to maintain, it may not be as comfortable as real leather. It may feel stiff and less pliable than natural leather.
 
 **Environmental Concerns:** Leatherette is made from synthetic materials, which are not biodegradable and can contribute to pollution. The production of leatherette may also involve the use of chemicals that can be harmful to the environment.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/seats/materials/hyundaiioniq6leatherette.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/seats/materials/hyundaiioniq6leatherette_st.jpg" alt="Hyundai Ioniq 6 leatherette upholstering" title="Hyundai Ioniq 6 leatherette upholstering">
+    </a>
+    <figcaption><h4>Hyundai Ioniq 6 leatherette upholstering</h4></figcaption>
+</figur>
 
 ### Types of Leatherette
 
