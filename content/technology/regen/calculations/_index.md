@@ -301,4 +301,3 @@ For scenarios like scenario 1, there is no difference since you will do regenera
 
 Since the difference is so small, you should choose based on your personal preference.
 
-You can read more about [one-pedal-driving](../onepedaldriving/)
