@@ -26,9 +26,9 @@ The EV manufacturers provide regenerative braking with different strategies. The
 
 ### One-Pedal Driving
 
-One pedal regen is a feature of some electric vehicles that allows them to control the acceleration and deceleration of the car with only the accelerator pedal. 
+One pedal regen is a feature of some electric vehicles that allows them to control the acceleration and deceleration of the car with only the accelerator pedal.
 
-When the driver presses the pedal, the vehicle accelerates normally. When the driver releases the pedal, the car decelerates using regenerative braking, which converts the vehicle's kinetic energy into electrical energy that the EV stores in the battery.
+When the driver presses the pedal, the vehicle accelerates.  When the driver releases the pedal, the car decelerates using regenerative braking, which converts the vehicle's kinetic energy into electrical energy that the EV stores in the battery.
 
 Depending on the vehicle settings and driving conditions, one pedal regen can bring the vehicle to a complete stop or maintain a low speed until the driver presses the pedal again.
 
@@ -54,7 +54,7 @@ Others, like Tesla, have settings available in their infotainment system.
     <figcaption><h4>Tesla one-pedal driving settings</h4></figcaption>
 </figur>
 
-In the picture above, you also see how Tesla lets the driver decide how the car should behave at low speed. For example, they can add physical brakes at low speeds to make the vehicle entirely stop and hold.
+In the picture above, you also see how Tesla lets the driver decide how the car should behave at low speed. For example, they can add physical brakes at low vehicle speeds to make the vehicle entirely stop and hold.
 
 ### Manual regen using the brake pedal
 
@@ -94,6 +94,12 @@ While regenerative braking offers many benefits, the technology has some limitat
 
 **Reduced Effectiveness at High Speeds:** Regenerative braking is less effective at high speeds, as the amount of kinetic energy that can be captured and stored decreases as the vehicle's speed increases.
 
-**Limited Range Extension:** Regenerative braking can extend the vehicle’s range. Still, the amount of energy the car recovers is limited, and the overall impact on the range can vary depending on driving conditions. For full calculations of possible amounts, see our regen guide.
+**Limited Range Extension:** Regenerative braking can extend the vehicle’s range. Still, the amount of energy the car recovers is limited, and the overall impact on the vehicle range can vary depending on driving conditions.
 
 **Reduced Brake Feel:** Because regenerative braking uses the electric motor to slow the vehicle, it can reduce the brake pedal's feel, making it less intuitive for some drivers.
+
+## How much can be regenerated?
+
+In the second part, we give detailed calculations on how much energy can be regenerated and how that affects range. We also explain the physics behind the math.
+
+[Go to regen calculations.](calculations)
