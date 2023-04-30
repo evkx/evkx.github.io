@@ -65,10 +65,23 @@ These are doors that open upward instead of outward. They are hinged on their to
 
 #### Sliding door
 
-### Rear hatch / boot lid
+### Rear opening
+
+**Trunk:**
 
 
+**Hatchback:**
 
+
+**Swing-Out Tailgate:** This is the most common type of tailgate and swings outward horizontally from the bottom of the vehicle. It is hinged at the sides of the vehicle and can be opened manually or automatically.
+
+**Drop-Down Tailgate:** This type of tailgate drops down vertically from the bottom of the vehicle. It is hinged at the bottom and can be opened manually or automatically.
+
+**Liftgate**: A liftgate is a type of tailgate that lifts upward from the bottom of the vehicle. It is usually found on larger SUVs and minivans and can be opened manually or automatically.
+
+**Split Tailgate:** This type of tailgate consists of two separate sections, with each section opening separately. It is commonly found on SUVs and station wagons.
+
+**Barn-Door Tailgate:** This type of tailgate consists of two doors that open outward from the center of the vehicle. It is commonly found on larger SUVs and pickup trucks.
 
 ### Hood 
 
