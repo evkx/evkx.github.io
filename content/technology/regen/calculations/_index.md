@@ -1,22 +1,20 @@
 ---
 title: How much can be regenerated?
 linktitle: Regen calculations
-description: The following scenarios use math and physics to explain how large the benefits of regenerative braking are.
+description: The following scenarios use math and physics to explain how significant the benefits of regenerative braking are.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-The details behind the calculation are explained in the physics chapter, but you should know that a moving object has kinetic energy that can be regenerated
-and a car located in an elevated position has potential energy that can be regenerated.
+We explain the details behind the calculation in the physics chapter. Still, you should know that a moving object has kinetic energy that the EV can recover with regenerative braking. A car in an elevated position has potential energy that regenerative braking can recover.
 
-In addition, there is aerodynamic drag and rolling resistance that are forces that works against the movement of the car.
+In addition, aerodynamic drag and rolling resistance work against the car’s movement.
 
-The drivetrain is also not without loss, which means that some energy is lost in the conversion of energy. Either from power on the battery to movement of the car, or vice versa, from movement on the car to power on the battery.
-On the Audi e-tron, this efficiency is about 80%.
+The drivetrain is also not without loss, meaning the drivetrain loses some energy when converting energy from power on the battery to movement of the car or vice versa, from movement on the vehicle to power on the battery. On a typical EV, this efficiency is about 80-85%. In our calculations, we use 80%.
 
 ### Scenario 1: Pikes Peak
 
-Let's take Pikes Peak as an example. This mountain is 14.110 ft (4300 meters) high but if you drive down the [first 18.6 miles](https://www.google.com/maps/dir/Pikes+Peak,+Colorado+80809,+United+States/38.9057543,-104.9779289/@38.8779104,-105.0432721,10824m/data=!3m1!1e3!4m9!4m8!1m5!1m1!1s0x8714a806033005bd:0xa67b8c79d6580c1e!2m2!1d-105.0422595!2d38.8408707!1m0!3e0) you [have dropped 6538 ft](https://www.slashgear.com/audi-e-tron-pikes-peak-recuperation-challenge-first-drive-ev-tech-07540279/)  (1993 meters)
+Let's take Pikes Peak as an example. This mountain is 14.110 ft (4300 meters) high, but if you drive down the [first 18.6 miles](https://www.google.com/maps/dir/Pikes+Peak,+Colorado+80809,+United+States/38.9057543,-104.9779289/@38.8779104,-105.0432721,10824m/data=!3m1!1e3!4m9!4m8!1m5!1m1!1s0x8714a806033005bd:0xa67b8c79d6580c1e!2m2!1d-105.0422595!2d38.8408707!1m0!3e0), you [have dropped 6538 ft](https://www.slashgear.com/audi-e-tron-pikes-peak-recuperation-challenge-first-drive-ev-tech-07540279/)  (1993 meters)
 
 1993 meters for an Audi e-tron 55 at 2900kg is 15.74kWh in potential energy.
 
@@ -65,14 +63,13 @@ This means a consumption reduction of 3.8kWh/100km.
     <figcaption><h4>Making a full stop from 75mph</h4></figcaption>
 </figure>
 
+This scenario is a typical city-driving scenario. When driving at 30 mph (48.28km/h), the Audi e-tron has a total kinetic energy of 0,0756kWh.
 
-This scenario is a typical city driving scenario. When driving at 30 mph (48.28km/h) the Audi e-tron has a total kinetic energy of 0,0756kWh.
+Based on the 80% efficiency of the drivetrain, this saves 0,061kWh back to the battery.
 
-Based on the 80% efficiency of the drivetrain this saves 0,061kWh back to the battery.
+If you drive 100km in city traffic and need to make 100 stops like this, you save 6,05 kWh of energy.
 
-If you drive 100km in city traffic and need to make 100 stops like this, you save 6,05 kWh energy.
-
-This reduces energy consumption by 6.05kWh/100km compared to a car with only friction brakes
+This regeneration reduces energy consumption by 6.05kWh/100km compared to a car with only [friction brakes](../../brakes/).
 
 ### Scenario 4: Driving down from Saltfjellet mountain
 
@@ -278,26 +275,24 @@ The only way to know how much you have regenerated is to look at how much the st
     <figcaption><h4>State of charge, the only way to see how much you have regenerated</h4></figcaption>
 </figure>
 
-## One pedal driving vs manual/automatic regen
+## One pedal driving vs. manual/automatic regen
 
-On electric Audis, you can use regenerative brakes in different ways
+Depending on the EV, you can use regenerative brakes in different ways
 
 - Manual, only using the brake pedal
 - Automatic, letting the car decide when to regenerate
-- Manual, using steering wheel paddles to regenerate
-- One pedal driving - automatic regenerate when lifting the foot off watt pedal
+-One pedal driving - automatic regenerate when lifting the foot off the watt pedal
 
 All methods use the same electric drivetrain components to do braking, so they have the same efficiency.
 
-But one-pedal-driving has a little reduced efficiency in scenarios where the driver wants to transition from using power to coasting.
+But one-pedal driving has a little reduced efficiency in scenarios where the driver wants to transition from using power to coasting.
 
-Since you would need to keep your foot on the pedal at a specific position to not use any energy or braking you will always spend more time coming to this position compared to lifting the foot directly off the pedal. In addition, it takes some training to keep the foot in perfect position.
+Since you need to keep your foot on the pedal at a specific position and not use any energy or braking, you will always spend more time coming to this position than lifting the foot directly off the pedal. In addition, it takes some training to keep the foot in the perfect place.
 
-That's why Audi recommends using automatic regen with coasting to save energy.
+That's why manufacators like Audi, Mercedes, Porsche recommends using automatic regen with coasting to save energy.
 
 The difference is small, probably less than 10% of the difference between coasting and regenerative braking in the scenarios where coasting is possible.
 
-For scenarios like scenario 1, there is no difference since you will do regenerative braking to keep the car on the road.
+There is no difference for scenarios like scenario 1 since you will do regenerative braking to keep the car on the road.
 
-Since the difference is so small, you should choose based on your personal preference.
-
+Since the difference is so small, you should choose based on your preference.
