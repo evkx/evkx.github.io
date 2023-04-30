@@ -8,13 +8,69 @@ weight: 2
 
 Doors also integrate side windows for visibility and ventilation, and may have other features such as mirrors, handles, locks, speakers, and storage compartments. Depending on the design and style of the car, doors may vary in size, shape, location, and mechanism.
 
-## Types of Doors in Cars
+## Door locations & types
 
 There are different types of doors in cars, depending on how they are attached and opened. Some of the common types are:
 
-•  Front doors: These are the doors located at the front of the car, usually on both sides of the driver&apos;s seat. They are typically hinged on their front edge and open outward. They are also called driver&apos;s door and passenger&apos;s door.
+### First row door
 
-•  Rear doors: These are the doors located at the rear of the car, usually on both sides of the back seat. They are typically hinged on their rear edge and open outward. They are also called back doors or second-row doors.
+These are the doors located at the front of the car, usually on both sides of the driver&apos;s seat. They are typically hinged on their front edge and open outward. They are also called driver&apos;s door and passenger&apos;s door.
+
+Some cars may have other types of doors that have different mechanisms or styles.
+
+#### Suicide doors
+
+These are doors that open in the opposite direction of conventional doors. They are hinged on their rear edge and open inward. They are also called coach doors or rear-hinged doors.
+
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/rrspectredoors_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/rrspectredoors_1_st.jpg" alt="XPENG P7 with scissor doors" title="XPENG P7 with scissor doors">
+    </a>
+    <figcaption><h4>XPENG P7 with scissor doors</h4></figcaption>
+</figur>
+
+#### Scissors doors
+
+These are doors that open vertically instead of horizontally. They are hinged on their bottom edge and rotate upward along a fixed hinge at the front of the door. They are also called lambo doors or wing doors.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/xpengp7wingdoors_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/xpengp7wingdoors_1_st.jpg" alt="XPENG P7 with scissor doors" title="XPENG P7 with scissor doors">
+    </a>
+    <figcaption><h4>XPENG P7 with scissor doors</h4></figcaption>
+</figur>
+
+
+### Second row doors
+
+These are the doors located at the rear of the car, usually on both sides of the back seat. They are typically hinged on their rear edge and open outward. They are also called back doors.
+
+
+
+#### Regular doors
+
+
+#### Gullwing doors
+
+These are doors that open upward instead of outward. They are hinged on their top edge and swing upward along a fixed hinge at the roof of the car. They are also called falcon doors or butterfly doors.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/teslamodelxgullwing_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/teslamodelxgullwing_1_st.jpg" alt="Tesla Model X Gullwing doors" title="Tesla Model X Gullwing doors">
+    </a>
+    <figcaption><h4>Tesla Model X Gullwing doors</h4></figcaption>
+</figur>
+
+
+#### Sliding door
+
+### Rear hatch / boot lid
+
+
+
+
+### Hood 
 
 •  Hatch: This is a door located at the back of the car, usually covering the cargo area or trunk. It is typically hinged on its top edge and opens upward. It is also called tailgate or liftgate.
 
@@ -23,15 +79,13 @@ There are different types of doors in cars, depending on how they are attached a
 •  Hood: This is a term used in some countries to refer to either the lid or the hatch of a car.
 
 
-Some cars may have other types of doors that have different mechanisms or styles, such as:
+as:
 
-•  Scissor doors: These are doors that open vertically instead of horizontally. They are hinged on their bottom edge and rotate upward along a fixed hinge at the front of the door. They are also called lambo doors or wing doors.
 
-•  Gull-wing doors: These are doors that open upward instead of outward. They are hinged on their top edge and swing upward along a fixed hinge at the roof of the car. They are also called falcon doors or butterfly doors.
 
 •  Sliding doors: These are doors that open sideways instead of outward. They slide along a track or rail on the side of the car. They are usually found on minivans or vans.
 
-•  Suicide doors: These are doors that open in the opposite direction of conventional doors. They are hinged on their rear edge and open inward. They are also called coach doors or rear-hinged doors.
+•  Suicide doors: 
 
 
 ## Features of Doors in Cars
