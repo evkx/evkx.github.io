@@ -34,9 +34,27 @@ Depending on the vehicle settings and driving conditions, one pedal regen can br
 
 The benefit of one-pedal driving is that you only need to use one pedal.
 
-The cons of one-pedal regen are that it can require some adaptation from drivers who are used to conventional two-pedal driving. In addition, it can vary in performance depending on factors such as battery state of charge, temperature, road gradient, and traffic flow.
+The cons of one-pedal regen are that it can require some adaptation from drivers who are used to traditional two-pedal driving. In addition, it can vary in performance depending on factors such as battery state of charge, temperature, road gradient, and traffic flow.
 
 While some EVs have a fixed level of regen for one-pedal driving, others have paddles on the steering wheel to activate regen on different levels.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/regen/kiaev6regenpaddles.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/regen/kiaev6regenpaddles_st.jpg" alt="Kia EV6 Regen paddles" title="Kia EV6 Regen paddles">
+    </a>
+    <figcaption><h4>Kia EV6 Regen paddles</h4></figcaption>
+</figur>
+
+Others, like Tesla, have settings available in their infotainment system. 
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/regen/teslaregensetting.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/regen/teslaregensetting_st.jpg" alt="Tesla one-pedal driving settings" title="Tesla one-pedal driving settings">
+    </a>
+    <figcaption><h4>Tesla one-pedal driving settings</h4></figcaption>
+</figur>
+
+In the picture above, you also see how Tesla lets the driver decide how the car should behave at low speed. For example, they can add physical brakes at low speeds to make the vehicle entirely stop and hold.
 
 ### Manual regen using the brake pedal
 
@@ -48,27 +66,27 @@ The system can also work with driver assistance systems such as adaptive cruise 
 
 ### Adaptive regen
 
-Adaptive regen is a feature of some electric vehicles that allows them to adjust the level of regenerative braking according to the driving situation. Regenerative braking is a process that converts the kinetic energy of the vehicle into electrical energy that can be stored in the battery, reducing the need for using the conventional friction brakes and increasing the range and efficiency of the EV.
+Adaptive regen is a feature of some electric vehicles that allows them to adjust the level of regenerative braking according to the driving situation.
 
-Adaptive regen works by using sensors, cameras and navigation data to detect the traffic conditions, road curvature, speed limits and other factors that affect the optimal deceleration rate of the vehicle. Based on this information, the system can automatically increase or decrease the regen level when the driver releases the accelerator pedal, without requiring manual input or mode selection.
+Adaptive regen works by using sensors, cameras, and navigation data to detect traffic conditions, road curvature, speed limits, and other factors that affect the optimal deceleration rate of the vehicle. Based on this information, the system can automatically increase or decrease the regen level when the driver releases the accelerator pedal without requiring manual input or mode selection.
 
-The benefit of adaptive regen is that it can provide a smoother and more natural driving experience, as well as a more effective energy recovery. By adjusting the regen level according to the situation, adaptive regen can avoid excessive or insufficient braking that might cause discomfort or waste energy. Adaptive regen can also work with the driver assistance systems to enhance safety and convenience, such as maintaining a safe distance from the vehicle ahead or slowing down for a sharp turn.
+The benefit of adaptive regen is that it can provide a smoother and more natural driving experience and more effective energy recovery. In addition, by adjusting the regen level according to the situation, adaptive regen can avoid excessive or insufficient braking that might cause discomfort or waste energy since it will coast when possible. The adaptive regen can also work with the driver assistance systems to enhance safety and convenience, such as maintaining a safe distance from the vehicle ahead or slowing down for a sharp turn.
 
-Some examples of EVs that offer adaptive regen are the Porsche Taycan, the BMW i4 and the Hyundai Ioniq 5. These EVs use different technologies and algorithms to implement adaptive regen, but they all aim to provide a better one-pedal driving experience for their drivers.
+Some examples of EVs that offer adaptive regen are the Porsche Taycan, the BMW i4, and the Hyundai Ioniq 5. These EVs use different technologies and algorithms to implement adaptive regen, but all aim to provide their drivers with a better one-pedal driving experience.
 
 ## Max Regenerative Braking Power
 
-Typical the max regenertive power will be between 100-300kW.
+The maximum regenerative power of an EV depends on several factors, such as the type and size of the motor, the speed and state of charge of the battery, and the settings and modes of the vehicle. Different EVs have different levels of regenerative braking, but typically, it is from above 50kW on small cars to 300kW on the most powerful.
 
 ## Benefits of Regenerative Braking
 
 There are several benefits to regenerative braking, including:
 
-Improved Efficiency: By recovering energy during braking and deceleration, regenerative braking can extend the vehicle's range and improve its overall efficiency.
+**Improved Efficiency:** By recovering energy during braking and deceleration, regenerative braking can extend the vehicle’s range and improve efficiency.
 
-Reduced Wear on Brakes: Because regenerative braking can handle much of the vehicle's braking force, it can reduce wear on the vehicle's mechanical brakes, leading to lower maintenance costs.
+**Reduced Wear on Brakes:** Because regenerative braking can handle much of the vehicle’s braking force, it can reduce wear on its [mechanical brakes](../brakes/), leading to lower maintenance costs.
 
-Smoother Braking: Regenerative braking can provide smoother and more consistent braking compared to traditional friction brakes, leading to a more comfortable ride for passengers.
+**Smoother Braking:** Regenerative braking can provide smoother and more consistent braking than traditional friction brakes, leading to a more comfortable ride for passengers.
 
 ## Limitations of Regenerative Braking
 
@@ -76,6 +94,6 @@ While regenerative braking offers many benefits, the technology has some limitat
 
 **Reduced Effectiveness at High Speeds:** Regenerative braking is less effective at high speeds, as the amount of kinetic energy that can be captured and stored decreases as the vehicle's speed increases.
 
-**Limited Range Extension:** Regenerative braking can extend the vehicle's range, but the amount of energy that can be recovered is limited, and the overall impact on range can vary depending on driving conditions.
+**Limited Range Extension:** Regenerative braking can extend the vehicle’s range. Still, the amount of energy the car recovers is limited, and the overall impact on the range can vary depending on driving conditions. For full calculations of possible amounts, see our regen guide.
 
 **Reduced Brake Feel:** Because regenerative braking uses the electric motor to slow the vehicle, it can reduce the brake pedal's feel, making it less intuitive for some drivers.

@@ -1,41 +1,10 @@
 ---
-title: Regenerative braking
-linktitle: Regenerative braking
-description: Regeneration of energy is one of the benefits of an electric drivetrain. In this article, we will try to show how much regeneration can affect consumption.
+title: How much can be regenerated?
+linktitle: Regen calculations
+description: The following scenarios use math and physics to explain how large the benefits of regenerative braking are.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
-
-We will first explain the concept and then give you some scenarios to show how much is regenerated.
-
-We will then go into physics and explain the math behind the scenarios for those who want to understand the details.
-
-In the end, we discuss if regeneration of energy is always the best option.
-
-## How does it work?
-
-The regeneration happens when the electric motors are used as generators to reduce the speed of a moving vehicle.
-
-For quattro models, like the Audi e-tron, both engines can be used for regenerative braking depending on the scenario.
-
-For coasting and light braking, only the rear motor is used, but when cornering or hard braking both motors are used.
-
-The brakes also blend in the physical brakes if needed mixing it with the regenerative brakes seamlessly.
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperation.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" alt="Coasting regneration" title="Coasting regneration">
-    </a>
-    <figcaption><h4>Coasting regeneration</h4></figcaption>
-</figure>
-
-The below video shows in detail how the different engines are used.
-
-{{< youtube 2WPTHi2FUdQ >}}
-
-## How much can be regenerated?
-
-The following scenarios use math and physics to explain how large the benefits of regenerative braking are.
 
 The details behind the calculation are explained in the physics chapter, but you should know that a moving object has kinetic energy that can be regenerated
 and a car located in an elevated position has potential energy that can be regenerated.
