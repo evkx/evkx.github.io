@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nio EL7 banana box test 01.05.2023
+
+{{< youtube XdIG0aotHXQ >}}
+
 ### Norsk elbilforening: Test: Nio EL7 - holder den premium-nivå? 21.03.2023
 
 {{< youtube MzDhOlcCH3g >}}

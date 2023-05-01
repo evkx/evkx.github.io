@@ -16,6 +16,15 @@ There are different types of doors in cars, depending on how they are attached a
 
 These are the doors located at the front of the car, usually on both sides of the driver&apos;s seat. They are typically hinged on their front edge and open outward. They are also called driver&apos;s door and passenger&apos;s door.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/eqssuvdoorsopen_1">
+    <img src="https://media.evkx.net/multimedia/technology/doors/eqssuvdoorsopen_1_st.jpg" alt="XPENG P7 with scissor doors" title="XPENG P7 with scissor doors">
+    </a>
+    <figcaption><h4>XPENG P7 with scissor doors</h4></figcaption>
+</figur>
+
+
+
 Some cars may have other types of doors that have different mechanisms or styles.
 
 #### Suicide doors

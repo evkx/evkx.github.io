@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Hyundai Ioniq 6 headlights test 01.05.2023
+
+{{< youtube EFjZJ4nUfFc >}}
+
 ### Bjørn Nyland: Hyundai Ioniq 6 RWD range test 30.04.2023
 
 {{< youtube Ol3vun-RSWg >}}
