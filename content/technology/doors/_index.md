@@ -88,10 +88,10 @@ These are doors that open upward instead of outward. They are hinged on their to
 ### Trunk
 
 <figur>
-    <a href="https://media.evkx.net/multimedia/technology/doors/hyundaiioniq6trunk_2.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/doors/hyundaiioniq6trunk_2_st.jpg" alt="ID.Buzz liftgate" title="ID.Buzz liftgate">
+    <a href="https://media.evkx.net/multimedia/technology/doors/lucidairtrunk_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/lucidairtrunk_1_st.jpg" alt="Lucid Air Trunk" title="Lucid Air Trunk">
     </a>
-    <figcaption><h4>ID.Buzz liftgate</h4></figcaption>
+    <figcaption><h4>Lucid Air Trunk</h4></figcaption>
 </figur>
 
 ### Hatcback style Liftgate
@@ -104,8 +104,6 @@ A hatchback style liftgate on a car is a type of door that opens upwards at the 
     </a>
     <figcaption><h4>Audi Q4 Sportback hatchback style liftgate</h4></figcaption>
 </figur>
-
-
 
 ### Liftgate
 
