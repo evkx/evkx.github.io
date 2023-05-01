@@ -17,13 +17,11 @@ There are different types of doors in cars, depending on how they are attached a
 These are the doors located at the front of the car, usually on both sides of the driver&apos;s seat. They are typically hinged on their front edge and open outward. They are also called driver&apos;s door and passenger&apos;s door.
 
 <figur>
-    <a href="https://media.evkx.net/multimedia/technology/doors/eqssuvdoorsopen_1">
-    <img src="https://media.evkx.net/multimedia/technology/doors/eqssuvdoorsopen_1_st.jpg" alt="XPENG P7 with scissor doors" title="XPENG P7 with scissor doors">
+    <a href="https://media.evkx.net/multimedia/technology/doors/taycanopendoors_2.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/taycanopendoors_2_st.jpg" alt="Porsche Taycan with open first row door" title="Porsche Taycan with open first row door">
     </a>
-    <figcaption><h4>XPENG P7 with scissor doors</h4></figcaption>
+    <figcaption><h4>Porsche Taycan with open first row door</h4></figcaption>
 </figur>
-
-
 
 Some cars may have other types of doors that have different mechanisms or styles.
 
@@ -55,10 +53,12 @@ These are doors that open vertically instead of horizontally. They are hinged on
 
 These are the doors located at the rear of the car, usually on both sides of the back seat. They are typically hinged on their rear edge and open outward. They are also called back doors.
 
-
-
-#### Regular doors
-
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/eqssuvdoorsopen_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/eqssuvdoorsopen_1_st.jpg" alt="Mercedes EQS Suv with first and second row doors open" title="Mercedes EQS Suv with first and second row doors open">
+    </a>
+    <figcaption><h4>Mercedes EQS Suv with first and second row doors open</h4></figcaption>
+</figur>
 
 #### Gullwing doors
 
@@ -71,67 +71,92 @@ These are doors that open upward instead of outward. They are hinged on their to
     <figcaption><h4>Tesla Model X Gullwing doors</h4></figcaption>
 </figur>
 
-
 #### Sliding door
 
-### Rear opening
+ These are doors that open sideways instead of outward. They slide along a track or rail on the side of the car. They are usually found on minivans or vans.
 
-**Trunk:**
-
-
-**Hatchback:**
-
-
-**Swing-Out Tailgate:** This is the most common type of tailgate and swings outward horizontally from the bottom of the vehicle. It is hinged at the sides of the vehicle and can be opened manually or automatically.
-
-**Drop-Down Tailgate:** This type of tailgate drops down vertically from the bottom of the vehicle. It is hinged at the bottom and can be opened manually or automatically.
-
-**Liftgate**: A liftgate is a type of tailgate that lifts upward from the bottom of the vehicle. It is usually found on larger SUVs and minivans and can be opened manually or automatically.
-
-**Split Tailgate:** This type of tailgate consists of two separate sections, with each section opening separately. It is commonly found on SUVs and station wagons.
-
-**Barn-Door Tailgate:** This type of tailgate consists of two doors that open outward from the center of the vehicle. It is commonly found on larger SUVs and pickup trucks.
-
-### Hood 
-
-•  Hatch: This is a door located at the back of the car, usually covering the cargo area or trunk. It is typically hinged on its top edge and opens upward. It is also called tailgate or liftgate.
-
-•  Lid: This is a door located at the front of the car, usually covering the engine compartment or hood. It is typically hinged on its front edge and opens upward. It is also called bonnet or hood.
-
-•  Hood: This is a term used in some countries to refer to either the lid or the hatch of a car.
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/idbuzzdoors_4.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/idbuzzdoors_4_st.jpg" alt="ID.Buzz concept with sliding second row door" title="ID.Buzz concept with sliding second row door">
+    </a>
+    <figcaption><h4>ID.Buzz concept with sliding second row door</h4></figcaption>
+</figur>
 
 
-as:
+## Rear opening
+
+### Trunk
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/hyundaiioniq6trunk_2.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/hyundaiioniq6trunk_2_st.jpg" alt="ID.Buzz liftgate" title="ID.Buzz liftgate">
+    </a>
+    <figcaption><h4>ID.Buzz liftgate</h4></figcaption>
+</figur>
+
+### Hatcback style Liftgate
+
+A hatchback style liftgate on a car is a type of door that opens upwards at the rear of the car, allowing access to the cargo area. This style of car comes equipped with a ‘fifth’ door in the form of a liftgate that provides easy access to the cargo area
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/audiq4liftgate_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/audiq4liftgate_1_st.jpg" alt="Audi Q4 Sportback hatchback style liftgate" title="Audi Q4 Sportback hatchback style liftgate">
+    </a>
+    <figcaption><h4>Audi Q4 Sportback hatchback style liftgate</h4></figcaption>
+</figur>
 
 
 
-•  Sliding doors: These are doors that open sideways instead of outward. They slide along a track or rail on the side of the car. They are usually found on minivans or vans.
+### Liftgate
 
-•  Suicide doors: 
+A liftgate is a type of tailgate that lifts upward from the bottom of the vehicle. It is usually found on larger SUVs and minivans and can be opened manually or automatically.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/idbuzzdoors_3.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/idbuzzdoors_3_st.jpg" alt="ID.Buzz liftgate" title="ID.Buzz liftgate">
+    </a>
+    <figcaption><h4>ID.Buzz liftgate</h4></figcaption>
+</figur>
+
+### Swing-Out Tailgate
+
+This is the most common type of tailgate and swings outward horizontally from the bottom of the vehicle. It is hinged at the sides of the vehicle and can be opened manually or automatically.
+
+### Split Tailgate
+
+This type of tailgate consists of two separate sections, with each section opening separately. It is commonly found on SUVs and station wagons.
+
+### Barn-Door Tailgate
+
+This type of tailgate consists of two doors that open outward from the center of the vehicle. It is commonly found on larger SUVs and pickup trucks.
+
+## Hood
+
+The hood on cars is the hinged cover over the engine of front-engine and awd EVs. In addition there may be a frunk for storage.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/lucidairhood_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/lucidairhood_1_st.jpg" alt="Lucid Air Hood" title="Lucid Air Hood">
+    </a>
+    <figcaption><h4>Lucid Air Hood</h4></figcaption>
+</figur>
 
 ## Features of Doors in Cars
 
 Doors in cars may have various features that enhance their functionality, convenience, safety, or appearance. Some of the common features are:
 
-•  Soft close: This is a feature that automatically pulls the door shut when it is partially closed, preventing slamming or bouncing. It reduces noise and wear and tear on the door mechanism.
+### Soft close
 
-•  Powered opening: This is a feature that allows the door to be opened or closed by pressing a button or using a remote control, without manual effort. It is usually found on hatchbacks, lids, or sliding doors.
+This is a feature that automatically pulls the door shut when it is partially closed, preventing slamming or bouncing. It reduces noise and wear and tear on the door mechanism.
 
-•  Kick sensor: This is a feature that allows the door to be opened or closed by waving a foot under the bumper or sill of the car, without touching anything. It is useful when carrying items or having dirty hands.
+### Powered opening
 
-•  Door card: This is a panel that covers the inner side of the door, providing insulation, soundproofing, decoration, and functionality. It may have components such as handles, switches, speakers, pockets, armrests, etc.
+This is a feature that allows the door to be opened or closed by pressing a button or using a remote control, without manual effort. It is usually found on hatchbacks, lids, or sliding doors.
 
-•  Door handle: This is a device that allows the door to be opened or closed by pulling or pushing it. It may be located on the exterior or interior side of the door, and may have locks or buttons for security or convenience.
+### Kick sensor
 
-•  Door lock: This is a device that prevents the door from being opened from the outside without a key or a code. It may be operated manually or electronically, and may be integrated with the handle or separate from it.
+ This is a feature that allows the door to be opened or closed by waving a foot under the bumper or sill of the car, without touching anything. It is useful when carrying items or having dirty hands. Available on rear trunk or liftgate.
 
-•  Door switch: This is a device that activates or deactivates certain functions when the door is opened or closed, such as interior lights, alarm system, power windows, etc.
+### Flush Door handle
 
-•  Glass window: This is a transparent panel that allows visibility and ventilation through the door. It may be fixed or movable, and may have features such as tinting, defrosting, sunroofing, etc.
-
-## Functions of Doors in Cars
-
-Doors in cars have various functions that serve different purposes for passengers and drivers, such as:
-
-•  Ingress and egress: Doors allow passengers and drivers to enter and exit the vehicle easily
+A flush door handle on EVs is a type of door handle that is recessed into the door and does not protrude outwards. Electric cars have flush door handles to reduce aerodynamic drag and to give the car a sleeker look. Some styles aim to impress buyers with handles that pop out on approach. They also provide extra security but come with downsides such as reliability, safety concerns, and operation in icy condition
