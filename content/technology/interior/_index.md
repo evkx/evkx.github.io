@@ -33,15 +33,22 @@ Some of the ways that EVs use this extra space and flexibility are:
 
 Another major aspect of EV interior design is technology and connectivity. EVs are equipped with advanced technologies that enhance the driving experience, safety, entertainment, and convenience of passengers and drivers. These technologies include:
 
-- Digital displays and touchscreens that provide information and control for various functions, such as speedometer, navigation, climate control, entertainment system, or driver assistance systems.
+- Digital displays and touchscreens that provide information and control for various functions, such as speedometer, navigation, climate control, entertainment system, or driver assistance systems. [Read more about screens](../userinterface/screens/) in EVs in our user interface article
 
-- Voice control and digital assistants that allow passengers and drivers to interact with the car and access various services using natural language commands.
-
-- Augmented reality (AR) and virtual reality (VR) that project images or information onto the windshield or the windows to create immersive experiences or assist with navigation or safety.
+- Voice control and digital assistants that allow passengers and drivers to interact with the car and access various services using natural language commands. [Read about voice controll](../userinterface/screens/) in our user interface article
 
 - Biometric sensors and cameras that monitor the health, mood, or behavior of passengers and drivers and adjust the settings or features accordingly.
 
 - Cloud-based services and over-the-air updates that provide real-time data and updates for the car&apos;s software or hardware.
+
+- Augmented reality (AR) and virtual reality (VR) that project images or information onto the windshield or the windows to create immersive experiences or assist with navigation or safety.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/interior/activesphereinterior_2.jpeg">
+    <img src="https://media.evkx.net/multimedia/technology/interior/activesphereinterior_2_st.jpeg" alt="Audi Activesphere Concept interior with AR" title="Audi Activesphere Concept interior with AR">
+    </a>
+    <figcaption><h4>Audi Activesphere Concept interior with AR</h4></figcaption>
+</figur>
 
 ## Materials and Sustainability
 
@@ -64,3 +71,8 @@ Some of the materials that are used or being developed for EV interiors are:
     </a>
     <figcaption><h4>Audi Urbansphere Concept interior</h4></figcaption>
 </figur>
+
+Continue to one of the subsection of this article
+
+- [Cockpit design & layout](cockpitdesign)
+- [Interior storage](interiorstorage)
