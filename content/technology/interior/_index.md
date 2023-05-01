@@ -5,17 +5,25 @@ description: Electric vehicles (EVs) are not only transforming the way we drive,
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
+
 Here are some of the main aspects of EV interior design and how they differ from conventional cars.
 
 ## Space and Layout
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/interior/grandsphere_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/interior/grandsphere_1_st.jpg" alt="Audi Grandsphere Concept interior" title="Audi Grandsphere Concept interior">
+    </a>
+    <figcaption><h4>Audi Grandsphere Concept interior</h4></figcaption>
+</figur>
 
 One of the biggest advantages of EVs is that they have more space and flexibility for interior layout than conventional cars. This is because EVs do not have internal combustion engines, transmissions, fuel tanks, exhaust pipes, or other components that take up space and limit the placement of seats, consoles, storage compartments, and other features. EVs also have flat floors and lower center of gravity, which allow for more headroom, legroom, and cargo space.
 
 Some of the ways that EVs use this extra space and flexibility are:
 
-- Moving the dashboard forward and creating a spacious lounge-like cabin with more visibility and comfort for passengers.
+- Moving the dashboard forward and creating a spacious lounge-like cabin with more visibility and comfort for passengers. You can read about all the dashboard and cockpit layout in the [Cockpit design & layout section](cockpitdesign).
 
-- Offering different seating configurations, such as swivel seats, reclining seats, foldable seats, or removable seats, to suit different needs and preferences.
+- Offering different seating configurations, such as swivel seats, reclining seats, foldable seats, or removable seats, to suit different needs and preferences. Seating is a large topic that EVKX.net have created a seperate guide on. [Read the seat guide](../seats/).
 
 - Providing more storage options, such as under-seat drawers, door pockets, center consoles, or trunk compartments, to accommodate various items and accessories.
 
@@ -48,3 +56,11 @@ Some of the materials that are used or being developed for EV interiors are:
 - Alcantara or microfiber that are synthetic materials that are soft, breathable, stain-resistant, and easy to clean.
 
 - Carbon fiber or aluminum that are lightweight materials that reduce the weight of the car and improve its performance and efficiency.
+
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/interior/urbansphere_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/interior/urbansphere_1_st.jpg" alt="Audi Urbansphere Concept interior" title="Audi Urbansphere Concept interior">
+    </a>
+    <figcaption><h4>Audi Urbansphere Concept interior</h4></figcaption>
+</figur>
