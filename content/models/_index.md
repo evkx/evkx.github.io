@@ -96,7 +96,7 @@ Nissan has 1 models with total 3 variants. [Read all about them](nissan/)
 
 Polestar is a Swedish electric vehicle (EV) brand that was launched in 2017 as a standalone brand under the Volvo Car Group and its parent company, Geely Holding. Polestar's focus is on developing premium electric cars that combine cutting-edge technology, sustainable materials, and minimalist design.
 
-Polestar has 2 models with total 4 variants. [Read all about them](polestar/)
+Polestar has 1 models with total 3 variants. [Read all about them](polestar/)
 
 ## Porsche
 
