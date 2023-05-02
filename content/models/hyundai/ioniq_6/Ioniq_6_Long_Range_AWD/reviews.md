@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Kris Rifa: Hyundai Ioniq 6 | Almost Perfect ! 01.05.2023
+
+{{< youtube gThzhV1KiHM >}}
+
 ### Kris Rifa: 610km Long Trip Test In Hyundai Ioniq 6 LR AWD 27.04.2023
 
 {{< youtube oJRBAD0nLVE >}}
