@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Hyundai Ioniq 6 interior review 02.05.2023
+
+{{< youtube Q2HCkKZq8Zc >}}
+
 ### Bjørn Nyland: Hyundai Ioniq 6 headlights test 01.05.2023
 
 {{< youtube EFjZJ4nUfFc >}}
