@@ -36,9 +36,9 @@ The Polestar 3 Long Range Dual Motor Performance has a maximum power of 380KW (5
 
 The battery has a gross capacity of 111kWh and a net capacity of 107kWh, meaning you have a 4kWh buffer for protection. (3,6%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 560 km (348 mi).   The consumption is 19,1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 138 minutes, while a more common scenario of 10-80% would take 52 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 43% resulting in an actual charge speed including time loss on 100kW. Each charge session would take 24 minutes and 39 seconds. 
+The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 68 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 54% resulting in an actual charge speed including time loss on 136kW. Each charge session would take 24 minutes and 31 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 10 hours and 4 minutes to drive. This trip will require four charge session(s) charging from 6% to 47%. The total time lost for charging will be 105 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 36 minutes to drive. This trip will require three charge session(s) charging from 3% to 57%. The total time lost for charging will be 76 minutes.   
 ### Onboard charger
 
 
@@ -49,11 +49,11 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Polestar 3 Long Range Dual Motor Performance has an all-wheel drive system supported by two motors, one on each axle. 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 151 mm, and the max is 151 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 181 mm, and the max is 201 mm. 
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 400mm, and the rear discs are 390mm. 
 
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
 
@@ -133,11 +133,13 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
+The steering wheel is electrically adjustable. 
+
 You have wireless charging for your phone.  
 
 ## User interface and control
 
-Polestar 3 Long Range Dual Motor Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large. The touch screen at the top of the center console is 14,5 inches large. 
+Polestar 3 Long Range Dual Motor Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9 inches large. The touch screen at the top of the center console is 14,5 inches large. 
 
 
 <figur>
@@ -147,9 +149,11 @@ Polestar 3 Long Range Dual Motor Performance has multiple integrated screens. Be
 <figcaption><h4>Polestar 3 Long Range Dual Motor Performance</h4></figcaption></figur>
 
 
+A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
+
 ## Infotainment
 
-You can choose between two sound systems on the Polestar 3 Long Range Dual Motor Performance. With the High Performance, you get five amplifier channels and eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get five amplifier channels and 13 speakers with a max system output of 600 watts. 
+You can choose between two sound systems on the Polestar 3 Long Range Dual Motor Performance. With the High Performance, you get five amplifier channels and eight speakers with a max system output of 200 watts. With the Bowers & Wilkins, you get NULL amplifier channels and 25 speakers with a max system output of 1610 watts. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights

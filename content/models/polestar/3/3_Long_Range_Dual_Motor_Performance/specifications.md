@@ -66,8 +66,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Yes, standard equipment|
 |Adjustable height front|Yes, standard equipment|
 |Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|151|
-|Minimum ground clearance|151|
+|Max ground clearance|201|
+|Minimum ground clearance|181|
 |Suspension type front|AirSuspension|
 |Suspension construction front|DoubleWishbone|
 |Suspension type rear|AirSuspension|
@@ -164,10 +164,9 @@ This model is available with a seat configuration with five seats.
 |Channels|5|
 |Total effect|200|
 
-### Harman Kardon Premium Sound
+### Bowers & Wilkins
 
 |Spec|Value|
 |----|-----|
-|Number of speakers|13|
-|Channels|5|
-|Total effect|600|
+|Number of speakers|25|
+|Total effect|1610|
