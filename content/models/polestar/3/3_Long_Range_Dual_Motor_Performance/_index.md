@@ -1,7 +1,7 @@
 ---
 title: Polestar 3 Long Range Dual Motor Performance
 linktitle: 3 Long Range Dual Motor Performance
-description: Polestar 3 Long Range Dual Motor Performance is an all-electric sedan with a WLTP range of up to 560 km (348 miles). EVKX.net have all the details. 
+description: Polestar 3 Long Range Dual Motor Performance is an all-electric SUV with a WLTP range of up to 560 km (348 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
