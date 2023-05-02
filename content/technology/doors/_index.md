@@ -29,7 +29,6 @@ Some cars may have other types of doors that have different mechanisms or styles
 
 These are doors that open in the opposite direction of conventional doors. They are hinged on their rear edge and open inward. They are also called coach doors or rear-hinged doors.
 
-
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/doors/rrspectredoors_1.jpg">
     <img src="https://media.evkx.net/multimedia/technology/doors/rrspectredoors_1_st.jpg" alt="XPENG P7 with scissor doors" title="XPENG P7 with scissor doors">
@@ -47,7 +46,6 @@ These are doors that open vertically instead of horizontally. They are hinged on
     </a>
     <figcaption><h4>XPENG P7 with scissor doors</h4></figcaption>
 </figur>
-
 
 ### Second row doors
 
@@ -82,7 +80,6 @@ These are doors that open upward instead of outward. They are hinged on their to
     <figcaption><h4>ID.Buzz concept with sliding second row door</h4></figcaption>
 </figur>
 
-
 ## Rear opening
 
 ### Trunk
@@ -116,17 +113,27 @@ A liftgate is a type of tailgate that lifts upward from the bottom of the vehicl
     <figcaption><h4>ID.Buzz liftgate</h4></figcaption>
 </figur>
 
-### Swing-Out Tailgate
-
-This is the most common type of tailgate and swings outward horizontally from the bottom of the vehicle. It is hinged at the sides of the vehicle and can be opened manually or automatically.
-
 ### Split Tailgate
 
 This type of tailgate consists of two separate sections, with each section opening separately. It is commonly found on SUVs and station wagons.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/rivianr1stailgate_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/rivianr1stailgate_1_st.jpg" alt="Rivian R1S split tailgate" title="Rivian R1S split tailgate">
+    </a>
+    <figcaption><h4>Rivian R1S split tailgate</h4></figcaption>
+</figur>
+
 ### Barn-Door Tailgate
 
 This type of tailgate consists of two doors that open outward from the center of the vehicle. It is commonly found on larger SUVs and pickup trucks.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/evitodoors_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/evitodoors_1_st.jpg" alt="Mercedes eVito barn-door tailgate" title="Mercedes eVito barn-door tailgate">
+    </a>
+    <figcaption><h4>Mercedes eVito barn-door tailgate</h4></figcaption>
+</figur>
 
 ## Hood
 
@@ -149,7 +156,21 @@ This is a feature that automatically pulls the door shut when it is partially cl
 
 ### Powered opening
 
-This is a feature that allows the door to be opened or closed by pressing a button or using a remote control, without manual effort. It is usually found on hatchbacks, lids, or sliding doors.
+This is a feature that allows the door to be opened or closed by pressing a button or using a remote control, without manual effort. It is usually found on hatchbacks, lids, or sliding doors. Some luxury models like BMW i7 and Mercedes EQS have it available on the first and second row doors.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/bmwi7powereddoors_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/bmwi7powereddoors_1_st.jpg" alt="BMW i7 with powered doors" title="BMW i7 with powered doors">
+    </a>
+    <figcaption><h4>BMW i7 with powered doors</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/bmwi7doorcontrol_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/bmwi7doorcontrol_1_st.jpg" alt="BMW i7 with powered doors" title="BMW i7 with powered doors">
+    </a>
+    <figcaption><h4>BMW i7 with powered doors control</h4></figcaption>
+</figur>
 
 ### Kick sensor
 
@@ -158,3 +179,10 @@ This is a feature that allows the door to be opened or closed by pressing a butt
 ### Flush Door handle
 
 A flush door handle on EVs is a type of door handle that is recessed into the door and does not protrude outwards. Electric cars have flush door handles to reduce aerodynamic drag and to give the car a sleeker look. Some styles aim to impress buyers with handles that pop out on approach. They also provide extra security but come with downsides such as reliability, safety concerns, and operation in icy condition
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/eqssuvdoorhandle_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/eqssuvdoorhandle_1_st.jpg" alt="Mercedes EQS SUV Flush doorhandles" title="Mercedes EQS SUV Flush doorhandles">
+    </a>
+    <figcaption><h4>Mercedes EQS SUV Flush doorhandles</h4></figcaption>
+</figur>
