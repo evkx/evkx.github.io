@@ -39,8 +39,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Max DC charging|250 kW|
 |[Number of modules](../../../../../technology/battery/batterypack/#cell-to-module)|17|
 |[Pack Configuration](../../../../../technology/battery/batterypack/)|102s2p|
-|[Nominal voltage](../../../../../technology/battery/batterypack/)|372|
-|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NCM|
+|[Nominal voltage](../../../../../technology/battery/batterypack/)|370|
+|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC811|
 
 
 
@@ -66,7 +66,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Yes, standard equipment|
 |Adjustable height front|Yes, standard equipment|
 |Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|201|
+|Max ground clearance|241|
 |Minimum ground clearance|181|
 |Suspension type front|AirSuspension|
 |Suspension construction front|DoubleWishbone|
@@ -97,8 +97,8 @@ This model is available with a seat configuration with five seats.
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Unknown|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Unknown|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Standard feature|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
 
 ### Front seats
 
