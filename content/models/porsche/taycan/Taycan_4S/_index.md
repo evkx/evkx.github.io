@@ -88,7 +88,7 @@ The optional SportDesign package HighGloss black contains a specially designed u
 
 Additionally, you can choose between 8 wheels with sizes from 19 to 21 inches. 
 
-The car has four regular doors and a tailgate. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
+The car has four [regular doors](../../../../technology/doors/) and a tailgate. The electric-powered liftgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
 
 There is only one roof for this model. 
 

@@ -70,7 +70,7 @@ The black optics design package is an option. This package includes a black sing
 
 Additionally, you can choose between 4 wheels with sizes from 20 to 22 inches. 
 
-The car has four regular doors and a tailgate. The electric-powered tailgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). Soft close are an optional function for the regular doors. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 

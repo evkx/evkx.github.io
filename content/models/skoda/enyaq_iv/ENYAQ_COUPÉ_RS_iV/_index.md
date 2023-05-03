@@ -74,7 +74,7 @@ Dynamic steering is standard on the SKODA ENYAQ COUPÉ RS iV. Dynamic steering v
 You can choose between 9 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 20 to 21 inches. 
 
-The car has four regular doors and a tailgate. The tailgate is electric-powered and has a kick-sensor as standard. 
+The car has four [regular doors](../../../../technology/doors/) and a tailgate. The liftgate is electric-powered and has a kick-sensor as standard. 
 
 There is only one roof for this model. The standard is a panoramic roof. 
 

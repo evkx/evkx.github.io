@@ -74,7 +74,7 @@ Dynamic steering is optional on the Volkswagen ID. Buzz Pro. Dynamic steering va
 You can choose between 12 different paint colors when ordering this model. 
 Additionally, you can choose between 5 wheels with sizes from 19 to 21 inches. 
 
-The car has four regular doors and a tailgate. You can choose an option to have the tailgate electrically powered. You can also have the tailgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
+You can choose an option to have the liftgate electrically powered. You can also have the liftgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
 
 There is only one roof for this model. The standard is just a regular roof. 
 

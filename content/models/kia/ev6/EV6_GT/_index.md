@@ -69,7 +69,7 @@ Kia EV6 GT has an all-wheel drive system supported by two motors, one on each ax
 
 You can choose between 8 different paint colors when ordering this model. 
 
-
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
 
 There is only one roof for this model. The standard is a panoramic roof. 
 

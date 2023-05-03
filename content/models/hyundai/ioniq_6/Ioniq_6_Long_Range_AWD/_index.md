@@ -62,7 +62,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 You can choose between 9 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 18 to 20 inches. 
 
-
+The car has four [regular doors](../../../../technology/doors/) and a [boot lid]](../../../../technology/doors/#boot-lid) for the trunk. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The standard is a panoramic roof. 
 

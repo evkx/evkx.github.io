@@ -38,7 +38,7 @@ The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meani
 
 The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 41 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 9 hours and 25 minutes to drive. This trip will require three charge session(s) charging from 1% to 48%. The total time lost for charging will be 65 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 9 hours and 21 minutes to drive. This trip will require two charge session(s) charging from 1% to 67%. The total time lost for charging will be 61 minutes.   
 ### Onboard charger
 
 
@@ -72,7 +72,7 @@ exterior.styling.night
 
 Additionally, you can choose between 4 wheels with sizes from 21 to 22 inches. 
 
-The car has four regular doors and a tailgate. The tailgate is electric-powered and has a kick-sensor as standard. 
+The car has four [regular doors](../../../../technology/doors/) and a tailgate. The liftgate is electric-powered and has a kick-sensor as standard. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
@@ -209,7 +209,7 @@ You can choose between two sound systems on the Mercedes-EQ EQS 450 4MATIC SUV. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQS 450 4MATIC SUV supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
+The model has 4 USB-C connections as standard. As an option you can get additional 4 USB-C connections. 
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 

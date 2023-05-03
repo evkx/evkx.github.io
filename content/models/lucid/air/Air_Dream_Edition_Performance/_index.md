@@ -66,7 +66,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 You can choose between 4 different paint colors when ordering this model. 
 Additionally, you can choose between 6 wheels with sizes from 19 to 21 inches. 
 
-
+The car has four [regular doors](../../../../technology/doors/) and a [boot lid]](../../../../technology/doors/#boot-lid) for the trunk. 
 
 There is only one roof for this model. 
 

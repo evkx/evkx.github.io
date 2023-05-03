@@ -62,7 +62,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 You can choose between 6 different paint colors when ordering this model. 
 Additionally, you can choose between 3 wheels with sizes from 19 to 20 inches. 
 
-
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
 
 You can choose between two types of roofs on this model. The optional has a panoramic roof. 
 

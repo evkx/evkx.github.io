@@ -66,7 +66,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 You can choose between 6 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 21 to 22 inches. 
 
-The car has four regular doors and a tailgate. Soft close are an standard function for the regular doors. The tailgate is electric-powered and has a kick-sensor as standard. 
+The car has four [regular doors](../../../../technology/doors/) and a tailgate. Soft close are an standard function for the regular doors. The liftgate is electric-powered and has a kick-sensor as standard. 
 
 There is only one roof for this model. The standard is a panoramic roof. 
 

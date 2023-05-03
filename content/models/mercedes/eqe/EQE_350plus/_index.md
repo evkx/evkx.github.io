@@ -80,7 +80,7 @@ The optional AMG Night Package finishes selected exterior elements in high-gloss
 
 Additionally, you can choose between 13 wheels with sizes from 19 to 21 inches. 
 
-The car has four regular doors and a boot lid for the trunk. 
+The car has four [regular doors](../../../../technology/doors/) and a [boot lid]](../../../../technology/doors/#boot-lid) for the trunk. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
