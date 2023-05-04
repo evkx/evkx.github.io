@@ -68,7 +68,7 @@ You can choose between 11 different paint colors when ordering this model.
 
 Additionally, you can choose between 10 wheels with sizes from 19 to 21 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a tailgate. The tailgate is electric powered. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
 There is only one roof for this model. 
 

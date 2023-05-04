@@ -66,7 +66,7 @@ Dynamic steering is optional on the CUPRA BORN 77 e-BOOST. Dynamic steering vari
 You can choose between 5 different paint colors when ordering this model. 
 Additionally, you can choose between 6 wheels with sizes from 18 to 20 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a tailgate. You can choose an option to have the liftgate electrically powered. You can also have the liftgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can not open the panoramic roof but can block the light with a curtain.  
 

@@ -66,7 +66,7 @@ Dynamic steering is standard on the BMW iX1 xDrive30. Dynamic steering varies th
 You can choose between 12 different paint colors when ordering this model. 
 Additionally, you can choose between 3 wheels with sizes from 17 to 19 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a tailgate. The liftgate is electric-powered and has a kick-sensor as standard. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
 There is only one roof for this model. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 

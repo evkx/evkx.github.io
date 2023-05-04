@@ -74,7 +74,7 @@ Dynamic steering is standard on the BMW iX3. Dynamic steering varies the steerin
 You can choose between 6 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a tailgate. The liftgate is electric-powered and has a kick-sensor as standard. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
 There is only one roof for this model. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 

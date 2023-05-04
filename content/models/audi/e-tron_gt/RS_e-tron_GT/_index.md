@@ -82,7 +82,7 @@ The black optics design package is an option. This package includes a black sing
 
 Additionally, you can choose between 7 wheels with sizes from 19 to 21 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a tailgate. The electric-powered liftgate has a kick-sensor as optional equipment, making it possible to open it by just kicking the foot under the tailgate. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
 You can choose between two types of roofs on this model. The standard is a panoramic roof. 
 

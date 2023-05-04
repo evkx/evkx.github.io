@@ -74,7 +74,7 @@ Dynamic steering is standard on the BMW i4 eDrive40. Dynamic steering varies the
 You can choose between 12 different paint colors when ordering this model. 
 Additionally, you can choose between 7 wheels with sizes from 18 to 20 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a tailgate. Soft close are an optional function for the regular doors. The tailgate is electric powered. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close are an optional function for the regular doors. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 

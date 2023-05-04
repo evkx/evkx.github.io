@@ -74,7 +74,7 @@ The optional AMG Night Package finishes selected exterior elements in high-gloss
 
 Additionally, you can choose between 5 wheels with sizes from 20 to 22 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a tailgate. The liftgate is electric-powered and has a kick-sensor as standard. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 

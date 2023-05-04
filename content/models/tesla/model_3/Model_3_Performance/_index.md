@@ -74,7 +74,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 You can choose between 5 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 18 to 19 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a tailgate. The liftgate is electric-powered and has a kick-sensor as standard. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
 There is only one roof for this model. The standard is a panoramic roof. 
 
