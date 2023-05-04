@@ -4,7 +4,6 @@ linktitle: Specifications
 description: EVKX.net gives you the full specifications for Volvo EX90 Twin Motor Performance.
 weight: 30
 ---
-[![Volvo EX90 Twin Motor Performance](https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Volvo EX90 Twin Motor Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo EX90 Twin Motor Performance, visit the [chargeinfo](../chargecurve/) for Volvo EX90 Twin Motor Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
