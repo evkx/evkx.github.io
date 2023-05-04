@@ -24,9 +24,9 @@ EVKX.net seeks to have the most complete specifications for Volvo EX90 Twin Moto
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|560 km|
-|WLTP consumption|19,1 kWh/100km|
-|WLTP consumption with charging loss|16,7 kWh/100km|
+|WLTP range|580 km|
+|WLTP consumption|18,4 kWh/100km|
+|WLTP consumption with charging loss|21,1 kWh/100km|
 
 
 
