@@ -6,7 +6,7 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Out of Spec Reviews: Polestar 3 Performance Pack Full Tour! The Spicy Cousin To Volvo EX90 11.01.2023
+### Out of Spec Reviews: Volvo EX90 Full In-Depth Tour! This Is The Electric SUV I'm Most Excited About 06.01.2023
 
-{{< youtube K3KrRuEgFDs >}}
+{{< youtube OVT44BygzA >}}
 
