@@ -10,6 +10,13 @@ Lidar, short for "Light Detection and Ranging," is a remote sensing technology t
 
 Lidar works by emitting laser pulses and measuring the time it takes for the light to bounce back to the sensor. By calculating the round-trip time of the laser, lidar sensors can determine the distance between the sensor and the target object. Multiple laser pulses can be emitted and collected to create a detailed 3D map of the environment.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/HD_Maps_Luminar_st.png">
+        <img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/HD_Maps_Luminar_st.png" alt="3D Map created by Luminar LiDAR sensor and software" title="3D Map created by Luminar LiDAR sensor and software">
+    </a>
+    <figcaption><h4>3D Map created by Luminar LiDAR sensor and software</h4></figcaption>
+</figur>
+
 Lidar sensors can be categorized into two types: scanning lidar and solid-state lidar. Scanning lidar uses a rotating mirror to scan the laser beam across a field of view, while solid-state lidar uses a stationary array of lasers and detectors to measure distance.
 
 <figur>
@@ -37,4 +44,13 @@ However, lidar sensors can be expensive and require high power consumption. Addi
     <figcaption><h4>Luminar Iris LiDAR sensor on Volvo EX90</h4></figcaption>
 </figur>
 
-There are serveral producers of LiDAR sensors. [Luminar](https://www.luminartech.com/technology#iris) is one of the largest company.
+There are serveral producers of LiDAR sensors. [Luminar](https://www.luminartech.com/technology#iris) is one of the largest companies.
+
+Because of the high cost there is still few EVs that comes equipped with it. Even test shows that LiDAR is superior other sensors in some driving scenarios.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/crashtest_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/crashtest_1_st.jpg" alt="Luminar’s lidar-equipped demo car outperforms a camera-only system in stopping for a test dummy at CES 2023" title="Luminar’s lidar-equipped demo car outperforms a camera-only system in stopping for a test dummy at CES 2023">
+    </a>
+    <figcaption><h4>Luminar’s lidar-equipped demo car outperforms a camera-only system in stopping for a test dummy at CES 2023</h4></figcaption>
+</figur>
