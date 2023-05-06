@@ -8,6 +8,14 @@ weight: 2
 
  They are designed to make it easier and safer for you to use your phone while driving, without having to touch your phone or look away from the road.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/infotainment/smartphoneintegration/kiaev6applecarplay_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/infotainment/smartphoneintegration/kiaev6applecarplay_1_st.jpg" alt="Kia EV6 with Apple Car Play" title="BKia EV6 with Apple Car Play">
+    </a>
+    <figcaption><h4>Kia EV6 with Apple Car Play</h4></figcaption>
+</figur>
+
+
 Android Auto and Apple CarPlay have some similarities and differences, such as:
 
 - They both require a compatible smartphone and a compatible car or aftermarket head unit. You can check the compatibility of your phone and car on their respective websites.
