@@ -30,7 +30,7 @@ We have separated our description of the Fisker Ocean Extreme into sections. If 
 
 ## Performance
 
-With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). Without overboost, it is 344KW (468hp). The torque is 836nm with overboost and 790 without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 200 km/h. 
+With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). Without overboost, it is 344KW (468hp). The torque is 836nm with overboost and 790 without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 205 km/h. 
 
 ## Battery, range, and charging
 
@@ -51,7 +51,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
 
 
@@ -167,4 +167,4 @@ With the Fisker Intelligent Pilot  level 2 system, you get the following driving
 
 The cargo capacity in the trunk is 476 liters. With the rear seat down, it is 918 liters. On the roof, you can load up to 75kg. Max weight is 2974kg, and with the base weight of 2433 kg, you can max load 541 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1815, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1820, and on unbraked, 750kg. 
