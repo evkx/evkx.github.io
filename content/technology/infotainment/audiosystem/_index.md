@@ -51,6 +51,13 @@ Some of the common locations for audio system speakers for cars are:
 
 **The dashboard** Speakers installed here are usually small and aimed at the windshield to create a sound reflection. They are often used for high-frequency sounds, such as tweeters.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/polestar3centerspeaker_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/polestar3centerspeaker_1_st.jpg" alt="Polestar 3 center speaker on dashboard" title="Polestar 3 center speaker on dashboard">
+    </a>
+    <figcaption><h4>Polestar 3 center speaker on dashboard</h4></figcaption>
+</figur>
+
 **A-pillar** Speakers installed here are usually small high-frequency sounds, such as tweeters.
 
 <figur>
