@@ -45,6 +45,8 @@ Infotainment systems often include hands-free calling and messaging systems that
 
 Infotainment systems can also control various functions of the vehicle, such as climate control, lighting, and seat adjustments.
 
+[Read or detailed section about veichle control](veichlecontrol)
+
 ### Smartphone Integration
 
 Many infotainment systems are designed to integrate with smartphones, allowing drivers to access their phone's apps, contacts, and media from the car's touchscreen display.
