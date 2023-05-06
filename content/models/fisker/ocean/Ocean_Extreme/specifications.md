@@ -26,9 +26,12 @@ EVKX.net seeks to have the most complete specifications for Fisker Ocean Extreme
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|707 km|
-|WLTP consumption|15,4 kWh/100km|
-|WLTP consumption with charging loss|16,5 kWh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|707 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|15,4 kWh/100km|
+|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|18,33 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|701 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|15,5 kWh/100km|
+|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|18,33 kwh/100km|
 
 
 
