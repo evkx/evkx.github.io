@@ -50,3 +50,9 @@ Infotainment systems can also control various functions of the vehicle, such as 
 ### Smartphone Integration
 
 Many infotainment systems are designed to integrate with smartphones, allowing drivers to access their phone's apps, contacts, and media from the car's touchscreen display.
+
+## Infotainment system software
+
+The software of the infotainment system is important for the experience. Most manufacturers create their own system that they use accross multiple models.
+
+Others like Polestar and Volvo base their system on [Android Automotive](https://source.android.com/docs/devices/automotive/start/what_automotive).

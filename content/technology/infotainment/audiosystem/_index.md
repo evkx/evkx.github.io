@@ -64,6 +64,15 @@ Some of the common locations for audio system speakers for cars are:
 
 **The rear deck:** This is the area behind the rear seats and below the rear window. Speakers installed here are usually large and aimed at the rear window to create a sound reflection. They are often used for low-frequency sounds, such as subwoofers.
 
+**Headrest:** Some Audio systems have speakers mounted in the headrest. 
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/speakersvolvoex90_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/speakersvolvoex90_1_st.jpg" alt="Headrest with speakers in Volvo EX90" title="Headrest with speakers in Volvo EX90">
+    </a>
+    <figcaption><h4>Headrest with speakers in Volvo EX90</h4></figcaption>
+</figur>
+
 Depending on the type and quality of the audio system, a car may have different numbers and combinations of speakers in these locations. Some cars may have only two or four speakers, while others may have six, eight, or more speakers. Some cars may also have component speakers, which are separate units for different frequency ranges, or coaxial speakers, which are combined units for different frequency ranges. Some cars may also have amplifiers or equalizers to enhance or adjust the sound quality of the speakers.
 
 
@@ -71,11 +80,18 @@ Depending on the type and quality of the audio system, a car may have different 
 
 Amplifiers are used to increase the power of the audio signal and drive the speakers. They come in various sizes and power ratings, and selecting the right amplifier is critical for achieving the best sound quality. Amplifiers are typically classified by their number of channels, with mono, two-channel, four-channel, and even six-channel amplifiers available.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/bospeaker.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/bospeaker_st.jpg" alt="Bang & Olufsen Amplifier" title="Bang & Olufsen Amplifier">
+    </a>
+    <figcaption><h4>Bang & Olufsen Amplifier</h4></figcaption>
+</figur>
+
 ## Head Units
 
 The head unit is the brain of the car audio system, and it is responsible for playing music, controlling volume, and adjusting the equalizer settings. Head units come in various forms, including single-DIN and double-DIN sizes, and they can include features such as Bluetooth connectivity, GPS navigation, and touchscreen displays.
 
-Equalizers
+## Equalizers
 
 Equalizers allow you to adjust the balance of different frequencies in your music. They can be integrated into the head unit or come as a separate component. A good equalizer can help you fine-tune the sound to your liking and compensate for any deficiencies in your speakers or amplifier.
 
