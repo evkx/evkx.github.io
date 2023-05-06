@@ -62,6 +62,14 @@ Some of the common locations for audio system speakers for cars are:
 
 **The doors** This is the area on the side of the car where the windows and door handles are located. Speakers installed here are usually larger and aimed at the passengers to create a direct sound. They are often used for mid-range and low-frequency sounds, such as woofers and mid-range drivers.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/bmwi7reardoorspeaker.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/bmwi7reardoorspeaker_st.jpg" alt="BMW i7 speaker in doors" title="BMW i7 speaker in doors">
+    </a>
+    <figcaption><h4>BMW i7 speaker in doors</h4></figcaption>
+</figur>
+
+
 **The rear deck:** This is the area behind the rear seats and below the rear window. Speakers installed here are usually large and aimed at the rear window to create a sound reflection. They are often used for low-frequency sounds, such as subwoofers.
 
 **Headrest:** Some Audio systems have speakers mounted in the headrest. 
