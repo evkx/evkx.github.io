@@ -12,9 +12,12 @@ EVKX.net seeks to have the most complete specifications for Fisker Ocean Extreme
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|410 Kw|
+|Peak electrical output in kW|344 Kw|
+|Peak electrical output boost in kW|415 Kw|
+|Electrical torque output in Nm|790 Nm|
+|Electrical torque output boost in Nm|836 Nm|
 |Top speed|200 km/h|
-|0-100km/h (0-62 mph)|3,9 s|
+|0-100km/h (0-62 mph)|4 s|
 
 
 
@@ -24,7 +27,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |WLTP range|707 km|
-|WLTP consumption|14,1 kWh/100km|
+|WLTP consumption|15,4 kWh/100km|
 |WLTP consumption with charging loss|16,5 kWh/100km|
 
 
@@ -33,8 +36,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|102 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|100 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|113 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|109 kWh|
 |Max DC charging|170 kW|
 
 
@@ -43,11 +46,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|Length|4775 mm|
+|Length|4774 mm|
 |Height|1631 mm|
-|Width excluding mirrors|1995 mm|
+|Width excluding mirrors|1982 mm|
 |Wheelbase|2921 mm|
+|Track width front|1696 mm|
+|Track width rear|1732 mm|
 |Drag coefficient|0,27|
+|Turning circle|11,95 meters|
 
 ## Suspension
 
@@ -58,8 +64,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Yes, standard equipment|
 |Adjustable height front|Not available|
 |Adjustable height rear|Not available|
-|Max ground clearance|175|
-|Minimum ground clearance|175|
+|Max ground clearance|165|
+|Minimum ground clearance|165|
 |Suspension type front|SteelSpringsWithOilDampers|
 |Suspension construction front|MacPhersonStrut|
 |Suspension type rear|SteelSpringsWithOilDampers|

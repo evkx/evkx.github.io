@@ -30,24 +30,24 @@ We have separated our description of the Fisker Ocean Extreme into sections. If 
 
 ## Performance
 
-The Fisker Ocean Extreme has a maximum power of 410KW (557hp). The total torque is nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 200 km/h. 
+With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). Without overboost, it is 344KW (468hp). The torque is 836nm with overboost and 790 without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 102kWh and a net capacity of 100kWh, meaning you have a 2kWh buffer for protection. (2,0%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 707 km (439 mi).   The consumption is 14,1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 113kWh and a net capacity of 109kWh, meaning you have a 4kWh buffer for protection. (3,5%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 707 km (439 mi).   The consumption is 15,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 83 minutes, while a more common scenario of 10-80% would take 39 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 56% resulting in an actual charge speed including time loss on 109kW. Each charge session would take 27 minutes and 53 seconds. 
+The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 90 minutes, while a more common scenario of 10-80% would take 42 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 55% resulting in an actual charge speed including time loss on 111kW. Each charge session would take 28 minutes and 16 seconds. 
 ### Onboard charger
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 5 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 54 minutes. 
 
 ## Drivetrain
 
 Fisker Ocean Extreme has an all-wheel drive system supported by two motors, one on each axle. 
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 175 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 165 mm. 
 
 ### Brakes
 
@@ -165,6 +165,6 @@ With the Fisker Intelligent Pilot  level 2 system, you get the following driving
 
 ## Cargo Capacity and Towing Ability
 
-On the roof, you can load up to 75kg. 
+The cargo capacity in the trunk is 476 liters. With the rear seat down, it is 918 liters. On the roof, you can load up to 75kg. Max weight is 2974kg, and with the base weight of 2433 kg, you can max load 541 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1815, and on unbraked, 750kg. 

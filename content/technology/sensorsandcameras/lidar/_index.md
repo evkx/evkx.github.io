@@ -11,7 +11,7 @@ Lidar, short for "Light Detection and Ranging," is a remote sensing technology t
 Lidar works by emitting laser pulses and measuring the time it takes for the light to bounce back to the sensor. By calculating the round-trip time of the laser, lidar sensors can determine the distance between the sensor and the target object. Multiple laser pulses can be emitted and collected to create a detailed 3D map of the environment.
 
 <figur>
-    <a href="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/HD_Maps_Luminar_st.png">
+    <a href="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/HD_Maps_Luminar.png">
         <img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/HD_Maps_Luminar_st.png" alt="3D Map created by Luminar LiDAR sensor and software" title="3D Map created by Luminar LiDAR sensor and software">
     </a>
     <figcaption><h4>3D Map created by Luminar LiDAR sensor and software</h4></figcaption>
