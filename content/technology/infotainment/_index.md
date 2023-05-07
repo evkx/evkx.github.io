@@ -44,7 +44,7 @@ Infotainment systems often include hands-free calling and messaging systems that
 
 Infotainment systems can also control various vehicle functions, such as climate control, lighting, and seat adjustments.
 
-[Read or detailed section about vehicle control.](veichlecontrol)
+[Read or detailed section about vehicle control.](vehiclecontrol)
 
 ### Smartphone Integration
 
@@ -60,4 +60,5 @@ Others like Polestar and Volvo base their system on [Android Automotive](https:/
 
 ## Infotainment screens
 
-The Infotainment systems are typical available on one or more screens. Rear or [detailed screen article](../userinterface/screens/) to know more. 
+The Infotainment systems are typical available on one or more screens. Rear or [detailed screen article](../userinterface/screens/) to know more.
+

@@ -1,6 +1,6 @@
 ---
-title: Veichle Control
-linktitle: Veichle Control
+title: Vehicle Control
+linktitle: Vehicle Control
 description: From the infotainment system, the driver typical can configure the car settings for various features.
 weight: 2
 ---
@@ -16,6 +16,13 @@ Depending on model you typcal can change between modes that could change
 - Suspension height
 - Suspension hardness
 - Steering respons
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/infotainment/vehiclecontrol/mercedeseqe_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/infotainment/vehiclecontrol/mercedeseqe_1_st.jpg" alt="Mercedes EQE AMG veichle controls" title="Mercedes EQE AMG veichle controls">
+    </a>
+    <figcaption><h4>Mercedes EQE AMG veichle controls</h4></figcaption>
+</figur>
 
 ## Climate System
 
