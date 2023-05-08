@@ -14,8 +14,8 @@ EVKX.net seeks to have the most complete specifications for Fisker Ocean Extreme
 |----|-----|
 |Peak electrical output in kW|344 Kw|
 |Peak electrical output boost in kW|415 Kw|
-|Electrical torque output in Nm|790 Nm|
-|Electrical torque output boost in Nm|836 Nm|
+|Electrical torque output in Nm|699 Nm|
+|Electrical torque output boost in Nm|740 Nm|
 |Top speed|205 km/h|
 |0-100km/h (0-62 mph)|4 s|
 
