@@ -86,7 +86,13 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - integrated headrest 
 
-You can choose from 4 different materials/colors for this seat type. <br />
+You can choose from 4 different materials/colors for this seat type. 
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leaterette)
+- Blue [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Beige [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+
+<br />
 <br />
 
 
