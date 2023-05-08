@@ -84,6 +84,8 @@ The following functionalities are available on the **standard** seat.
 
 - electric adjustment 
 - [heating](../../../../technology/seats/adjustment/#heating) 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - integrated headrest 
 
 You can choose from 4 different materials/colors for this seat type. 
@@ -98,8 +100,9 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 
 There is only one type of steering wheel available. 
 
@@ -144,6 +147,8 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Fisker Ocean Extreme has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
+[**Efficiency assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
 
