@@ -80,14 +80,21 @@ The seat layout is the traditional five seats with two in front and three seats 
 
 Only one front seat type is available in the Fisker Ocean Extreme. 
 
-The following functionalities are available on the **** seat. 
+The following functionalities are available on the **standard** seat. 
+
+- electric adjustment 
+- [heating](../../../../technology/seats/adjustment/#heating) 
+- integrated headrest 
+
+You can choose from 4 different materials/colors for this seat type. <br />
+<br />
 
 
 ### Second-row seat
 
 
 
-The following functionalities are available on the **** seat. 
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 
 There is only one type of steering wheel available. 

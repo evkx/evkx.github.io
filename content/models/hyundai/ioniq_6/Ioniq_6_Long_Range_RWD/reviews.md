@@ -6,6 +6,14 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Hyundai Ioniq 6 RWD driving impressions and summary 08.05.2023
+
+{{< youtube ZI_uutpJy24 >}}
+
+### Bjørn Nyland: I drove Hyundai Ioniq 6 RWD until the battery died 07.05.2023
+
+{{< youtube YPCMlf2n9lk >}}
+
 ### Bjørn Nyland: Hyundai Ioniq 6 RWD 1000 km challenge 05.05.2023
 
 {{< youtube MjRjfLGkAxQ >}}

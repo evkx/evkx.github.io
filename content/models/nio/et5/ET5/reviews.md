@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nio ET5 headlights test 07.05.2023
+
+{{< youtube c27uOqHIjQ8 >}}
+
 ### Autogefühl: Nio ET5 EV sedan driving REVIEW 29.04.2023
 
 {{< youtube lcbemEu7-C4 >}}
