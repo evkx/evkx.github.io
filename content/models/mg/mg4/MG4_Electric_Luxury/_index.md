@@ -36,7 +36,7 @@ The MG MG4 Electric Luxury has a maximum power of 150KW (204hp). The total torqu
 
 The battery has a gross capacity of 64kWh and a net capacity of 61,7kWh, meaning you have a 2,3kWh buffer for protection. (3,6%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 435 km (270 mi).   The consumption is 14,2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 195 minutes, while a more common scenario of 10-80% would take 136 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 100% resulting in an actual charge speed including time loss on 19kW. Each charge session would take 200 minutes and 51 seconds. 
+The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 54 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 60% resulting in an actual charge speed including time loss on 98kW. Each charge session would take 21 minutes and 30 seconds. 
 ### Onboard charger
 
 
@@ -121,6 +121,8 @@ There is one climate system available.
 
 MG MG4 Electric Luxury has several features to make your life as a driver or passenger more comfortable. 
 
+You have wireless charging for your phone.  
+
 ## User interface and control
 
 
@@ -160,7 +162,9 @@ The MG MG4 Electric Luxury has several standard and optional [advanced driver as
 
 
 
-With the standard system the model offers no driving automation. 
+With the   level 2 system, you get the following driving automation features. 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 ## Cargo Capacity and Towing Ability
