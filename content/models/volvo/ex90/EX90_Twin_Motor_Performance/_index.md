@@ -61,7 +61,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 6 different paint colors when ordering this model. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). Soft close are an standard function for the regular doors. 
 
 You can choose between two types of roofs on this model. The optional has a panoramic roof. 
 
@@ -84,8 +84,9 @@ Only one front seat type is available in the Volvo EX90 Twin Motor Performance.
 The following functionalities are available on the **standard** seat. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
@@ -121,11 +122,17 @@ You can choose from 5 different materials/colors for this seat type. <br />
 <figcaption><h4>Volvo EX90 Twin Motor Performance</h4></figcaption></figur>
 
 
+### Third-row seats
+
+
+
+The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
+
 There is only one type of steering wheel available. 
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in two zone for the driver and passenger. 
+There is one climate system available. The  climate system supports different temperatures in five zones. The driver, passenger, and two zones in the the 2. row and one in the 3. row. 
 
 ## Comfort
 
@@ -199,6 +206,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 484 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100kg. Under the hood, there is frunk with more storage room. This frunk is 37 liters. Max weight is 3380kg, and with the base weight of 2748 kg, you can max load 632 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 311 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100kg. Under the hood, there is frunk with more storage room. This frunk is 37 liters. Max weight is 3380kg, and with the base weight of 2748 kg, you can max load 632 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2200, and on unbraked, 750kg. 
