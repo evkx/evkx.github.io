@@ -37,6 +37,8 @@ The table below shows some estimated real-world examples in perfect condition an
 
 | | Range  | Consumption  |
 |----|-----|------|
+| 120kmh/75mph perfect condition | 300km /186mi| 30 kWh/100km / 2,1 mi/kWh |
+| 120kmh/75mph with 2KW heating | 458km /285mi| 31,7 kWh/100km / 2,0 mi/kWh |
 
 ![Charge curve](../range_2.svg  "Range information")
 [Full screen](../range_2.svg)
