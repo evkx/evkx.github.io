@@ -62,10 +62,13 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ### Front seats
 
+
+#### standard
+
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
-|Electric adjustment of height, recline and angle|Unknown|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
+|Electric adjustment of height, recline and angle|Standard feature|
 |Interior.Seatoptions.MemoryDriverSeat|Unknown|
 |Interior.Seatoptions.MemoryPassangerSeat|Unknown|
 |Height adjustable headrest|Unknown|
@@ -82,9 +85,12 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ### Front seats
 
+
+#### standard
+
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
 |Height adjustable headrest|Unknown|
 |Length adjustable headrest|Unknown|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
@@ -101,11 +107,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|Lane keeping||
-|Lane departure warning||
+|Lane keeping|Yes, standard equipment|
+|Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert||
-|Reversing camera||
-|360 camera||
+|Reversing camera|Yes, standard equipment|
+|360 camera|Yes, standard equipment|
 |Rear cross traffic alert||
 |Rear parking sensors||
 |Front parking sensors||
@@ -125,12 +131,12 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Efficiency assist||
 |Automatic Emergency Steering||
 |Traffic Sign Recognition||
-|Night Vision||
+|Night Vision|Not available|
 
 ## Infotainment
 
 |Spec|Value|
 |----|-----|
-|Android Auto support||
-|Apple Carplay support||
-|In Car navigation||
+|Android Auto support|Yes, standard equipment|
+|Apple Carplay support|Yes, standard equipment|
+|In Car navigation|Yes, standard equipment|

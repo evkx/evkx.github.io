@@ -37,6 +37,8 @@ The MG MG4 Electric Luxury has a maximum power of 150KW (204hp). The total torqu
 The battery has a gross capacity of 64kWh and a net capacity of 61,7kWh, meaning you have a 2,3kWh buffer for protection. (3,6%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 435 km (270 mi).   The consumption is 14,2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 54 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 60% resulting in an actual charge speed including time loss on 98kW. Each charge session would take 21 minutes and 30 seconds. 
+
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 9 hours and 52 minutes to drive. This trip will require four charge session(s) charging from 3% to 64%. The total time lost for charging will be 92 minutes.   
 ### Onboard charger
 
 
@@ -57,13 +59,13 @@ The  suspension has a fixed height and damping.
 
 ### Brakes
 
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model. 
+You can choose between 7 different paint colors when ordering this model. 
 
 
 
@@ -79,13 +81,20 @@ There is only one roof for this model.
 
 ## Interior
 
-
+You can choose between different types of seat materials and interior styling. 
 
 ### First row seats
 
 Only one front seat type is available in the MG MG4 Electric Luxury. 
 
-The following functionalities are available on the **** seat. 
+The following functionalities are available on the **standard** seat. 
+
+- electric adjustment 
+
+You can choose from 2 different materials/colors for this seat type. 
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+
 
 
 
@@ -100,7 +109,7 @@ The following functionalities are available on the **** seat.
 
 
 
-The following functionalities are available on the **** seat. 
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 
 
@@ -115,17 +124,19 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. 
+There is one climate system available. The  climate system supports only controlling one common zone for the whole car. 
 
 ## Comfort
 
 MG MG4 Electric Luxury has several features to make your life as a driver or passenger more comfortable. 
 
+Keyless go makes it possible to start the car without needing to use the key. 
+
 You have wireless charging for your phone.  
 
 ## User interface and control
 
-
+The  screen behind the steering wheel mounted into the dashboard is 7 inches large. The touch screen at the top of the center console is 10,2 inches large. 
 
 
 <figur>
@@ -135,11 +146,17 @@ You have wireless charging for your phone.
 <figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
 
 
+This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
+
+This model is equipped with gesture gestura control system that lets you control specific features. 
+
 ## Infotainment
 
 One type of sound system is available for the MG MG4 Electric Luxury. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the MG MG4 Electric Luxury supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
+The model has 1 USB-C connections as standard. The models is equipped with 1 USB-A connections as standard. 
 ## Lights
 
 
@@ -157,6 +174,8 @@ The MG MG4 Electric Luxury has several standard and optional [advanced driver as
 ### Safety systems
 
 
+
+The MG MG4 Electric Luxury has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 ### Driving Automation
 
