@@ -52,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 </a>
 <figcaption><h4>Tesla Model 3 Performance</h4></figcaption></figur>
 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -89,6 +90,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_st.jpg" alt="Tesla Model 3 Performance" title="Tesla Model 3 Performance">
 </a>
 <figcaption><h4>Tesla Model 3 Performance</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -154,6 +156,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -180,6 +183,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED technology.  
+
 {{<evkxdisplayaddarticle />}}
 
 

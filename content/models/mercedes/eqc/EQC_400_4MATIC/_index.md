@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 16 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -74,6 +75,7 @@ Additionally, you can choose between 10 wheels with sizes from 19 to 21 inches.
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
 There is only one roof for this model. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -114,6 +116,7 @@ Mercedes-EQ EQC 400 4MATIC has several features to make your life as a driver or
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
 Keyless go makes it possible to start the car without needing to use the key. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -142,6 +145,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
+
 {{<evkxdisplayaddarticle />}}
 
 

@@ -56,6 +56,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 27 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 13 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -101,6 +102,7 @@ There is only one roof for this model.
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/exterior_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S">
 </a>
 <figcaption><h4>Porsche Taycan 4S</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -191,6 +193,7 @@ Porsche Taycan 4S has several features to make your life as a driver or passenge
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
 Keyless go makes it possible to start the car without needing to use the key. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -219,6 +222,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 You can choose between two types of headlights for the Porsche Taycan 4S. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+
 {{<evkxdisplayaddarticle />}}
 
 

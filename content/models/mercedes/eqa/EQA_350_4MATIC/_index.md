@@ -52,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 </a>
 <figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -89,6 +90,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -166,6 +168,7 @@ Keyless entry allows access to the car without needing to find the key. As long 
 Keyless go makes it possible to start the car without needing to use the key. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -198,6 +201,7 @@ The model has 4 USB-C connections as standard. As an option you can get addition
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+
 {{<evkxdisplayaddarticle />}}
 
 

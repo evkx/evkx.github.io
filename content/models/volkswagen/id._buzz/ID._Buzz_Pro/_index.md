@@ -52,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro</h4></figcaption></figur>
 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -89,6 +90,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/exterior_1_st.jpg" alt="Volkswagen ID. Buzz Pro" title="Volkswagen ID. Buzz Pro">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -165,6 +167,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 comfort.easyentryseatcomfort.easyentryseat
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -193,6 +196,7 @@ The model has 5 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the Volkswagen ID. Buzz Pro. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
+
 {{<evkxdisplayaddarticle />}}
 
 

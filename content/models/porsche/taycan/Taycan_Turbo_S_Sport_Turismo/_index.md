@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -89,6 +90,7 @@ You can choose between two types of roofs on this model. The optional has a pano
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/exterior_1_st.jpg" alt="Porsche Taycan Turbo S Sport Turismo" title="Porsche Taycan Turbo S Sport Turismo">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S Sport Turismo</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -175,6 +177,7 @@ Porsche Taycan Turbo S Sport Turismo has several features to make your life as a
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
 Keyless go makes it possible to start the car without needing to use the key. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -210,6 +213,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/headlights_1_st.jpg" alt="Porsche Taycan Turbo S Sport Turismo" title="Porsche Taycan Turbo S Sport Turismo">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S Sport Turismo</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

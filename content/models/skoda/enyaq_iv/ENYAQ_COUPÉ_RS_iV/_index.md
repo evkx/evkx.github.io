@@ -52,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 </a>
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -89,6 +90,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/exterior_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV">
 </a>
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -154,6 +156,7 @@ Keyless entry allows access to the car without needing to find the key. As long 
 Keyless go makes it possible to start the car without needing to use the key. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -182,6 +185,7 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  
+
 {{<evkxdisplayaddarticle />}}
 
 

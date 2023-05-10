@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 6,6KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 41 minutes. You can also select an optional onboard charger that supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -76,6 +77,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD">
 </a>
 <figcaption><h4>Toyota bZ4X AWD</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -128,6 +130,7 @@ There is one climate system available. The 2-zone climate system supports differ
 Toyota bZ4X AWD has several features to make your life as a driver or passenger more comfortable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -160,6 +163,7 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the Toyota bZ4X AWD. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+
 {{<evkxdisplayaddarticle />}}
 
 

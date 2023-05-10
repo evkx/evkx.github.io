@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 19 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -79,6 +80,7 @@ There is only one roof for this model.
 <img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/exterior_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -150,6 +152,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -183,6 +186,7 @@ The standard headlights use LED technology.
 <img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/headlights_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 27 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 43 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -89,6 +90,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 <img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_sportback_e-tron/exterior_1_st.jpeg" alt="Audi Q8 55 Sportback e-tron" title="Audi Q8 55 Sportback e-tron">
 </a>
 <figcaption><h4>Audi Q8 55 Sportback e-tron</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -201,6 +203,7 @@ The steering wheel is electrically adjustable.
 comfort.easyentryseatcomfort.easyentryseat
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -221,6 +224,7 @@ The model has 2 USB-C connections as standard. As an option you can get addition
 ## Lights
 
 You can choose between three types of headlights for the Audi Q8 55 Sportback e-tron. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
+
 {{<evkxdisplayaddarticle />}}
 
 

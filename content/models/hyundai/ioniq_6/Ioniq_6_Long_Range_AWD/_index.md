@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 43 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -77,6 +78,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/exterior_1_st.jpg" alt="Hyundai Ioniq 6 Long Range AWD" title="Hyundai Ioniq 6 Long Range AWD">
 </a>
 <figcaption><h4>Hyundai Ioniq 6 Long Range AWD</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,6 +140,7 @@ There is one climate system available. The 2-zone climate system supports differ
 Hyundai Ioniq 6 Long Range AWD has several features to make your life as a driver or passenger more comfortable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -173,6 +176,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 <img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/headlights_1_st.jpg" alt="Hyundai Ioniq 6 Long Range AWD" title="Hyundai Ioniq 6 Long Range AWD">
 </a>
 <figcaption><h4>Hyundai Ioniq 6 Long Range AWD</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

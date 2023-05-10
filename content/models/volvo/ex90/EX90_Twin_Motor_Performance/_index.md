@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 43 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -77,6 +78,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/exterior_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance">
 </a>
 <figcaption><h4>Volvo EX90 Twin Motor Performance</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -162,6 +164,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -195,6 +198,7 @@ You can choose between two types of headlights for the Volvo EX90 Twin Motor Per
 <img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/headlights_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance">
 </a>
 <figcaption><h4>Volvo EX90 Twin Motor Performance</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

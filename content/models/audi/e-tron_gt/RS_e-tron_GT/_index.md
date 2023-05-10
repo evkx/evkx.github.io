@@ -52,6 +52,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 </a>
 <figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -95,6 +96,7 @@ You can choose between two types of roofs on this model. The standard is a panor
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
 </a>
 <figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -175,6 +177,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -210,6 +213,7 @@ You can choose between three types of headlights for the Audi RS e-tron GT. The 
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
 </a>
 <figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

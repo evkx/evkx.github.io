@@ -52,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 </a>
 <figcaption><h4>Mercedes-EQ EQE 350 4MATIC</h4></figcaption></figur>
 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -93,6 +94,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQE 350 4MATIC" title="Mercedes-EQ EQE 350 4MATIC">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 350 4MATIC</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -180,6 +182,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -216,6 +219,7 @@ The model has 4 USB-C connections as standard. As an option you can get addition
 ## Lights
 
 You can choose between two types of headlights for the Mercedes-EQ EQE 350 4MATIC. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+
 {{<evkxdisplayaddarticle />}}
 
 

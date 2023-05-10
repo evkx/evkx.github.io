@@ -46,6 +46,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 14 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -87,6 +88,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/exterior_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+ SUV" title="Mercedes-AMG EQE 53 4MATIC+ SUV">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 53 4MATIC+ SUV</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -166,6 +168,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -209,6 +212,7 @@ You can choose between two types of headlights for the Mercedes-AMG EQE 53 4MATI
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/headlights_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+ SUV" title="Mercedes-AMG EQE 53 4MATIC+ SUV">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 53 4MATIC+ SUV</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

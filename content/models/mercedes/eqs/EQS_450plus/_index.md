@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 55 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -85,6 +86,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/exterior_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -179,6 +181,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -207,6 +210,7 @@ The model has 4 USB-C connections as standard. As an option you can get addition
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
+
 {{<evkxdisplayaddarticle />}}
 
 

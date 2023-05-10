@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 14 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -80,6 +81,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/exterior_1_st.jpg" alt="BMW i7 xDrive60" title="BMW i7 xDrive60">
 </a>
 <figcaption><h4>BMW i7 xDrive60</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -153,6 +155,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -188,6 +191,7 @@ You can choose between two types of headlights for the BMW i7 xDrive60. The stan
 <img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/headlights_1_st.jpg" alt="BMW i7 xDrive60" title="BMW i7 xDrive60">
 </a>
 <figcaption><h4>BMW i7 xDrive60</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

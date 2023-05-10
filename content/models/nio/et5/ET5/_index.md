@@ -57,6 +57,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 ### Battery swap
 
 This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 90% SOC. The battery swap takes 7 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -92,6 +93,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 <img src="https://media.evkx.net/multimedia/models/nio/et5/et5/exterior_1_st.jpg" alt="Nio ET5" title="Nio ET5">
 </a>
 <figcaption><h4>Nio ET5</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,6 +149,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -177,6 +180,7 @@ The model has 1 USB-C connections as standard. The models is equipped with 2 USB
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+
 {{<evkxdisplayaddarticle />}}
 
 

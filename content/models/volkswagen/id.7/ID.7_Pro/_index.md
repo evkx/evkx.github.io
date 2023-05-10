@@ -52,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 </a>
 <figcaption><h4>Volkswagen ID.7 Pro</h4></figcaption></figur>
 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -91,6 +92,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/exterior_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro">
 </a>
 <figcaption><h4>Volkswagen ID.7 Pro</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -170,6 +172,7 @@ Keyless entry allows access to the car without needing to find the key. As long 
 Keyless go makes it possible to start the car without needing to use the key. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -205,6 +208,7 @@ You can choose between two types of headlights for the Volkswagen ID.7 Pro. The 
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/headlights_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro">
 </a>
 <figcaption><h4>Volkswagen ID.7 Pro</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

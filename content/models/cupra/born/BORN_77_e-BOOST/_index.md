@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -81,6 +82,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/cupra/born/born_77_e-boost/exterior_1_st.jpg" alt="CUPRA BORN 77 e-BOOST" title="CUPRA BORN 77 e-BOOST">
 </a>
 <figcaption><h4>CUPRA BORN 77 e-BOOST</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,6 +140,7 @@ Keyless entry allows access to the car without needing to find the key. As long 
 Keyless go makes it possible to start the car without needing to use the key. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -173,6 +176,7 @@ The standard headlights use LED technology.
 <img src="https://media.evkx.net/multimedia/models/cupra/born/born_77_e-boost/headlights_1_st.jpg" alt="CUPRA BORN 77 e-BOOST" title="CUPRA BORN 77 e-BOOST">
 </a>
 <figcaption><h4>CUPRA BORN 77 e-BOOST</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

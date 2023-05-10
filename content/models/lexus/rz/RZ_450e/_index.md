@@ -52,6 +52,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 </a>
 <figcaption><h4>Lexus RZ 450e</h4></figcaption></figur>
 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -85,6 +86,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/exterior_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e">
 </a>
 <figcaption><h4>Lexus RZ 450e</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,6 +147,7 @@ There is one climate system available. The 2-zone climate system supports differ
 Lexus RZ 450e has several features to make your life as a driver or passenger more comfortable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -184,6 +187,7 @@ You can choose between two types of headlights for the Lexus RZ 450e. The standa
 <img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/headlights_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e">
 </a>
 <figcaption><h4>Lexus RZ 450e</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

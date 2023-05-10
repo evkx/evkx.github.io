@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 21 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -79,6 +80,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusiveplus/exterior_1_st.jpg" alt="Hongqi E-HS9 Exclusive+" title="Hongqi E-HS9 Exclusive+">
 </a>
 <figcaption><h4>Hongqi E-HS9 Exclusive+</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,6 +143,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -178,6 +181,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusiveplus/headlights_1_st.jpg" alt="Hongqi E-HS9 Exclusive+" title="Hongqi E-HS9 Exclusive+">
 </a>
 <figcaption><h4>Hongqi E-HS9 Exclusive+</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

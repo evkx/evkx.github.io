@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 27 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -82,6 +83,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/exterior_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40">
 </a>
 <figcaption><h4>BMW iX xDrive40</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -152,6 +154,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -180,6 +183,7 @@ The model has 6 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the BMW iX xDrive40. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
+
 {{<evkxdisplayaddarticle />}}
 
 

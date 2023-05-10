@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 38 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 49 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -85,6 +86,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 <img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/exterior_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron">
 </a>
 <figcaption><h4>Audi SQ8 Sportback e-tron</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -179,6 +181,7 @@ The steering wheel is electrically adjustable.
 comfort.easyentryseatcomfort.easyentryseat
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -214,6 +217,7 @@ You can choose between three types of headlights for the Audi SQ8 Sportback e-tr
 <img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron">
 </a>
 <figcaption><h4>Audi SQ8 Sportback e-tron</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

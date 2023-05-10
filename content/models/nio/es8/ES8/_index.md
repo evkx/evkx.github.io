@@ -57,6 +57,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 ### Battery swap
 
 This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 90% SOC. The battery swap takes 7 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -92,6 +93,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 <img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_1_st.jpg" alt="Nio ES8" title="Nio ES8">
 </a>
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -166,6 +168,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -205,6 +208,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 <img src="https://media.evkx.net/multimedia/models/nio/es8/es8/headlights_1_st.jpg" alt="Nio ES8" title="Nio ES8">
 </a>
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

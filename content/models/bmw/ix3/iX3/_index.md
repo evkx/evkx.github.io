@@ -52,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 </a>
 <figcaption><h4>BMW iX3</h4></figcaption></figur>
 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -89,6 +90,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/exterior_1_st.jpg" alt="BMW iX3" title="BMW iX3">
 </a>
 <figcaption><h4>BMW iX3</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -149,6 +151,7 @@ Keyless entry allows access to the car without needing to find the key. As long 
 Keyless go makes it possible to start the car without needing to use the key. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -177,6 +180,7 @@ The model has 3 USB-C connections as standard. The models is equipped with 1 USB
 ## Lights
 
 You can choose between two types of headlights for the BMW iX3. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
+
 {{<evkxdisplayaddarticle />}}
 
 

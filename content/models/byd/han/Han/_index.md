@@ -52,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW cha
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -88,6 +89,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/exterior_1_st.jpg" alt="BYD Han" title="BYD Han">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -159,6 +161,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -192,6 +195,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/headlights_1_st.jpg" alt="BYD Han" title="BYD Han">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

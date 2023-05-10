@@ -44,6 +44,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 13 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -81,6 +82,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_standard_range/exterior_1_st.jpg" alt="Tesla Model Y Standard Range" title="Tesla Model Y Standard Range">
 </a>
 <figcaption><h4>Tesla Model Y Standard Range</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -160,6 +162,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 The steering wheel is electrically adjustable. 
 
 You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -186,6 +189,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED technology.  
+
 {{<evkxdisplayaddarticle />}}
 
 

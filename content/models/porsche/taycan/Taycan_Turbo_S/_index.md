@@ -52,6 +52,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -97,6 +98,7 @@ You can choose between two types of roofs on this model. The optional has a pano
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -175,6 +177,7 @@ Porsche Taycan Turbo S has several features to make your life as a driver or pas
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
 Keyless go makes it possible to start the car without needing to use the key. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -210,6 +213,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 

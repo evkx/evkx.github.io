@@ -18,6 +18,8 @@ weight: 10
 |Optimum charge stop time |40m46s|
 
 
+
+
 {{<evkxdisplayaddarticle />}}
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
