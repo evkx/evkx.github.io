@@ -26,6 +26,19 @@ The zone setups typical available are
     <figcaption><h4>Skoda 3 zone climate system</h4></figcaption>
 </figur>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
+     crossorigin="anonymous"></script>
+<!-- EVKX Display Add Articles -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6415007331199958"
+     data-ad-slot="2354595124"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Vents
 
 HVAC vents in cars are an important part of the vehicle's climate control system. They are designed to distribute conditioned air, whether heated or cooled, to various parts of the passenger cabin to provide a comfortable environment for the occupants. Here are some key points about vents for HVAC in cars:
@@ -42,6 +55,19 @@ HVAC vents in cars are an important part of the vehicle's climate control system
 **Airflow Control:** Most HVAC vents in cars have adjustable louvers or directional flaps that allow the occupants to control the direction of airflow. These can be manually adjusted to direct airflow towards the desired areas, such as the face, feet, or windshield, based on the preferences of the driver and passengers. Some vehicles may also have automatic airflow control, where the direction and intensity of airflow are automatically adjusted based on the climate control settings.
 
 **Modes of Operation:** HVAC vents in cars can operate in different modes depending on the climate control settings. These can include heating mode, cooling mode, fan-only mode, or a combination of these modes. In heating mode, warm air from the engine coolant is directed through the vents to warm up the passenger cabin. In cooling mode, air from the air conditioning system is directed through the vents to cool down the passenger cabin. Fan-only mode circulates air from the cabin without heating or cooling it, which can be useful for air circulation or ventilation purposes.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
+     crossorigin="anonymous"></script>
+<!-- EVKX Display Add Articles -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6415007331199958"
+     data-ad-slot="2354595124"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Control
 
@@ -68,6 +94,19 @@ A heat pump is a component of a car's climate system that is responsible for hea
 Heat pumps work by using a refrigerant, which is a type of fluid that can change state from liquid to gas and vice versa, to absorb heat from one location and release it in another. In heating mode, the refrigerant absorbs heat from the outside air, even in cold temperatures, and then compresses it to increase its temperature before releasing it into the cabin as warm air. In cooling mode, the heat pump absorbs heat from the cabin air, compresses the refrigerant to increase its temperature, and then releases it to the outside environment as hot air, effectively cooling the cabin.
 
 Heat pumps in car climate systems are designed to be efficient and effective in various weather conditions, providing reliable heating and cooling performance regardless of the outside temperature. They are commonly used in electric and hybrid vehicles due to their energy-efficient operation, which helps extend the driving range by reducing the load on the battery.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
+     crossorigin="anonymous"></script>
+<!-- EVKX Display Add Articles -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6415007331199958"
+     data-ad-slot="2354595124"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Infrared heating
 
