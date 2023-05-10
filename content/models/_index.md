@@ -138,7 +138,7 @@ Volkswagen has 5 models with total 10 variants. [Read all about them](volkswagen
 
 Volvo is a Swedish multinational automotive company that produces a range of cars, trucks, buses, and construction equipment. The company was founded in 1927 and has since become known for its commitment to safety, innovation, and sustainability.
 
-Volvo has 2 models with total 2 variants. [Read all about them](volvo/)
+Volvo has 2 models with total 3 variants. [Read all about them](volvo/)
 
 ## XPENG
 

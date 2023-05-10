@@ -11,7 +11,7 @@ In recent years, Volvo has focused on developing electric vehicles (EVs) as part
 
 [![EX90](https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg)](ex90)
 
-This model is available in 1 variant(s). 
+This model is available in 2 variant(s). 
 [Read full details](ex90/)
 
 ## Volvo XC40

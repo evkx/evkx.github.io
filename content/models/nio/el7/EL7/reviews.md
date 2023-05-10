@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nio EL7 interior review 10.05.2023
+
+{{< youtube wjceflMfwBQ >}}
+
 ### Bjørn Nyland: Nio EL7 range test 09.05.2023
 
 {{< youtube Ro7MfgL90z0 >}}

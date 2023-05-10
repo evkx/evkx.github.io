@@ -137,7 +137,7 @@ This model is available with a seat configuration with five seats.
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
 
 ## Driver Assistance
 
