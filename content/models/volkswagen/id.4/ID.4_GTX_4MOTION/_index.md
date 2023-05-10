@@ -30,7 +30,8 @@ We have separated our description of the Volkswagen ID.4 GTX 4MOTION into sectio
 
 ## Performance
 
-With overboost, the Volkswagen ID.4 GTX 4MOTION has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,3 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h. 
+With overboost, the Volkswagen ID.4 GTX 4MOTION has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,3 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -61,7 +63,8 @@ Dynamic steering is optional on the Volkswagen ID.4 GTX 4MOTION. Dynamic steerin
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -80,6 +83,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/exterior_1_st.jpg" alt="Volkswagen ID.4 GTX 4MOTION" title="Volkswagen ID.4 GTX 4MOTION">
 </a>
 <figcaption><h4>Volkswagen ID.4 GTX 4MOTION</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -142,7 +146,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. The 3-zone climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
+You can choose from two different climate systems. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. The 3-zone climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. interior.hvac.heatpump
 
 ## Comfort
 
@@ -152,7 +156,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -189,6 +194,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/headlights_1_st.jpg" alt="Volkswagen ID.4 GTX 4MOTION" title="Volkswagen ID.4 GTX 4MOTION">
 </a>
 <figcaption><h4>Volkswagen ID.4 GTX 4MOTION</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

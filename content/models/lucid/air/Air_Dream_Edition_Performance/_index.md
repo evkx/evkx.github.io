@@ -30,7 +30,8 @@ We have separated our description of the Lucid Air Dream Edition Performance int
 
 ## Performance
 
-The Lucid Air Dream Edition Performance has a maximum power of 828KW (1126hp). The total torque is 1390nm. The 0-100km/h sprint (0-62mph) takes 2,7 seconds. The top speed is 270 km/h. 
+The Lucid Air Dream Edition Performance has a maximum power of 828KW (1126hp). The total torque is 1390nm. The 0-100km/h sprint (0-62mph) takes 2,7 seconds. The top speed is 270 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 19 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 19 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -59,7 +61,8 @@ Dynamic steering is standard on the Lucid Air Dream Edition Performance. Dynamic
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 386mm, and the rear discs are 381mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -76,6 +79,7 @@ There is only one roof for this model.
 <img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/exterior_1_st.jpg" alt="Lucid Air Dream Edition Performance" title="Lucid Air Dream Edition Performance">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Performance</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -143,7 +147,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -174,6 +179,7 @@ The standard headlights use LED technology.
 <img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/headlights_1_st.jpg" alt="Lucid Air Dream Edition Performance" title="Lucid Air Dream Edition Performance">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Performance</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

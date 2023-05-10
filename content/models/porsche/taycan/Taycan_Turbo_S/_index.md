@@ -30,7 +30,8 @@ We have separated our description of the Porsche Taycan Turbo S into sections. I
 
 ## Performance
 
-With overboost, the Porsche Taycan Turbo S has a maximum power of 560KW (761hp). Without overboost, it is 460KW (625hp). The torque is 850nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 2,8 seconds. The top speed is 260 km/h. 
+With overboost, the Porsche Taycan Turbo S has a maximum power of 560KW (761hp). Without overboost, it is 460KW (625hp). The torque is 850nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 2,8 seconds. The top speed is 260 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -69,7 +71,8 @@ Dynamic steering is standard on the Porsche Taycan Turbo S. Dynamic steering var
 
 The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420mm, and the rear discs are 410mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -94,6 +97,7 @@ You can choose between two types of roofs on this model. The optional has a pano
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -160,7 +164,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
+There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger, and backseat. interior.hvac.heatpump
 
 ## Comfort
 
@@ -168,7 +172,8 @@ Porsche Taycan Turbo S has several features to make your life as a driver or pas
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
-Keyless go makes it possible to start the car without needing to use the key. 
+Keyless go makes it possible to start the car without needing to use the key. {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -201,6 +206,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

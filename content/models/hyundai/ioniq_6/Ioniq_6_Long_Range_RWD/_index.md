@@ -30,7 +30,8 @@ We have separated our description of the Hyundai Ioniq 6 Long Range RWD into sec
 
 ## Performance
 
-The Hyundai Ioniq 6 Long Range RWD has a maximum power of 168KW (228hp). The total torque is 350nm. The 0-100km/h sprint (0-62mph) takes 7,4 seconds. The top speed is 185 km/h. 
+The Hyundai Ioniq 6 Long Range RWD has a maximum power of 168KW (228hp). The total torque is 350nm. The 0-100km/h sprint (0-62mph) takes 7,4 seconds. The top speed is 185 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 43 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 43 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -55,7 +57,8 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -74,6 +77,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/exterior_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD">
 </a>
 <figcaption><h4>Hyundai Ioniq 6 Long Range RWD</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -125,13 +129,14 @@ There is only one type of steering wheel available. The  steering wheel is heate
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. interior.hvac.heatpump
 
 ## Comfort
 
 Hyundai Ioniq 6 Long Range RWD has several features to make your life as a driver or passenger more comfortable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -164,6 +169,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 <img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/headlights_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD">
 </a>
 <figcaption><h4>Hyundai Ioniq 6 Long Range RWD</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

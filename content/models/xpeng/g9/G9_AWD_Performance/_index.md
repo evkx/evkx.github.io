@@ -30,7 +30,8 @@ We have separated our description of the XPENG G9 AWD Performance into sections.
 
 ## Performance
 
-The XPENG G9 AWD Performance has a maximum power of 405KW (551hp). The total torque is 717nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 205 km/h. 
+The XPENG G9 AWD Performance has a maximum power of 405KW (551hp). The total torque is 717nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 205 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance">
 </a>
 <figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -63,7 +65,8 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -81,6 +84,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance">
 </a>
 <figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -134,7 +138,7 @@ There is only one type of steering wheel available. The  steering wheel is heate
 
 ## Climate system
 
-There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
+There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. interior.hvac.heatpump
 
 ## Comfort
 
@@ -146,7 +150,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -173,6 +178,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 ## Lights
 
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

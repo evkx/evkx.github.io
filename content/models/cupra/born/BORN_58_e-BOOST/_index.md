@@ -30,7 +30,8 @@ We have separated our description of the CUPRA BORN 58 e-BOOST into sections. If
 
 ## Performance
 
-With overboost, the CUPRA BORN 58 e-BOOST has a maximum power of 170KW (231hp). Without overboost, it is 150KW (204hp). The torque is 310nm with overboost and 310 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,6 seconds with overboost and 7,3 seconds without overboost. The top speed is 160 km/h. 
+With overboost, the CUPRA BORN 58 e-BOOST has a maximum power of 170KW (231hp). Without overboost, it is 150KW (204hp). The torque is 310nm with overboost and 310 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,6 seconds with overboost and 7,3 seconds without overboost. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 16 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 16 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -59,7 +61,8 @@ Dynamic steering is optional on the CUPRA BORN 58 e-BOOST. Dynamic steering vari
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -78,6 +81,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_1_st.jpg" alt="CUPRA BORN 58 e-BOOST" title="CUPRA BORN 58 e-BOOST">
 </a>
 <figcaption><h4>CUPRA BORN 58 e-BOOST</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -121,7 +125,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. 
+There is one climate system available. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. interior.hvac.heatpump
 
 ## Comfort
 
@@ -131,7 +135,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -164,6 +169,7 @@ The standard headlights use LED technology.
 <img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/headlights_1_st.jpg" alt="CUPRA BORN 58 e-BOOST" title="CUPRA BORN 58 e-BOOST">
 </a>
 <figcaption><h4>CUPRA BORN 58 e-BOOST</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

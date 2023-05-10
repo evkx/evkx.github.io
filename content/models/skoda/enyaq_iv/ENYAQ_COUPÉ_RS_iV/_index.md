@@ -30,7 +30,8 @@ We have separated our description of the SKODA ENYAQ COUPÉ RS iV into sections.
 
 ## Performance
 
-With overboost, the SKODA ENYAQ COUPÉ RS iV has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,5 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h. 
+With overboost, the SKODA ENYAQ COUPÉ RS iV has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,5 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/charging_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV">
 </a>
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -67,7 +69,8 @@ Dynamic steering is standard on the SKODA ENYAQ COUPÉ RS iV. Dynamic steering v
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -86,6 +89,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/exterior_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV">
 </a>
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -137,7 +141,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 3-zone Climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
+There is one climate system available. The 3-zone Climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. interior.hvac.heatpump
 
 ## Comfort
 
@@ -147,7 +151,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -172,7 +177,8 @@ In addition, with the optional in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The SKODA ENYAQ COUPÉ RS iV has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

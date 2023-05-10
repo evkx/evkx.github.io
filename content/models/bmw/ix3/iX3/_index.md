@@ -30,7 +30,8 @@ We have separated our description of the BMW iX3 into sections. If you want to w
 
 ## Performance
 
-The BMW iX3 has a maximum power of 210KW (286hp). The total torque is 400nm. The 0-100km/h sprint (0-62mph) takes 6,8 seconds. The top speed is 180 km/h. 
+The BMW iX3 has a maximum power of 210KW (286hp). The total torque is 400nm. The 0-100km/h sprint (0-62mph) takes 6,8 seconds. The top speed is 180 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/charging_1_st.jpg" alt="BMW iX3" title="BMW iX3">
 </a>
 <figcaption><h4>BMW iX3</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -67,7 +69,8 @@ Dynamic steering is standard on the BMW iX3. Dynamic steering varies the steerin
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -86,6 +89,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/exterior_1_st.jpg" alt="BMW iX3" title="BMW iX3">
 </a>
 <figcaption><h4>BMW iX3</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -132,7 +136,7 @@ There is only one type of steering wheel available. The stock steering wheel is 
 
 ## Climate system
 
-You can choose from two different climate systems. The standard climate system supports different temperatures in two zone for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
+You can choose from two different climate systems. The standard climate system supports different temperatures in two zone for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. interior.hvac.heatpump
 
 ## Comfort
 
@@ -142,7 +146,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -167,7 +172,8 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 3 USB-C connections as standard. The models is equipped with 1 USB-A connections as standard. 
 ## Lights
 
-You can choose between two types of headlights for the BMW iX3. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the BMW iX3. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The BMW iX3 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

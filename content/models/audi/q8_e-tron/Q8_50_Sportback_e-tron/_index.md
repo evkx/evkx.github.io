@@ -30,7 +30,8 @@ We have separated our description of the Audi Q8 50 Sportback e-tron into sectio
 
 ## Performance
 
-The Audi Q8 50 Sportback e-tron has a maximum power of 230KW (313hp). The total torque is 540nm. The 0-100km/h sprint (0-62mph) takes 6,8 seconds. The top speed is 200 km/h. 
+The Audi Q8 50 Sportback e-tron has a maximum power of 230KW (313hp). The total torque is 540nm. The 0-100km/h sprint (0-62mph) takes 6,8 seconds. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 5 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 2 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 5 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 2 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -61,7 +63,8 @@ Dynamic steering is standard on the Audi Q8 50 Sportback e-tron. Dynamic steerin
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -86,6 +89,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 <img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_50_sportback_e-tron/exterior_1_st.jpeg" alt="Audi Q8 50 Sportback e-tron" title="Audi Q8 50 Sportback e-tron">
 </a>
 <figcaption><h4>Audi Q8 50 Sportback e-tron</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -194,7 +198,8 @@ The steering wheel is electrically adjustable.
 
 comfort.easyentryseatcomfort.easyentryseat
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -211,7 +216,8 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
-You can choose between three types of headlights for the Audi Q8 50 Sportback e-tron. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
+You can choose between three types of headlights for the Audi Q8 50 Sportback e-tron. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The Audi Q8 50 Sportback e-tron has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

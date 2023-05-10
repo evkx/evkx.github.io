@@ -30,7 +30,8 @@ We have separated our description of the Polestar 2 Long Range Dual Motor Perfor
 
 ## Performance
 
-The Polestar 2 Long Range Dual Motor Performance has a maximum power of 350KW (476hp). The total torque is 740nm. The 0-100km/h sprint (0-62mph) takes 4,2 seconds. The top speed is 205 km/h. 
+The Polestar 2 Long Range Dual Motor Performance has a maximum power of 350KW (476hp). The total torque is 740nm. The 0-100km/h sprint (0-62mph) takes 4,2 seconds. The top speed is 205 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 10 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 10 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -55,7 +57,8 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -72,6 +75,7 @@ You can choose between two types of roofs on this model. The optional has a pano
 <img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/exteriore_3_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor Performance</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -124,7 +128,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in two zone for the driver and passenger. 
+There is one climate system available. The  climate system supports different temperatures in two zone for the driver and passenger. interior.hvac.heatpump
 
 ## Comfort
 
@@ -134,7 +138,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -163,6 +168,7 @@ You can choose between two types of headlights for the Polestar 2 Long Range Dua
 <img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/headlights_1_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor Performance</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

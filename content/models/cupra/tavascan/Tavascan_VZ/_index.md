@@ -30,7 +30,8 @@ We have separated our description of the CUPRA Tavascan VZ into sections. If you
 
 ## Performance
 
-The CUPRA Tavascan VZ has a maximum power of 250KW (340hp). The total torque is 679nm. The 0-100km/h sprint (0-62mph) takes 5,6 seconds. The top speed is 180 km/h. 
+The CUPRA Tavascan VZ has a maximum power of 250KW (340hp). The total torque is 679nm. The 0-100km/h sprint (0-62mph) takes 5,6 seconds. The top speed is 180 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -59,7 +61,8 @@ Dynamic steering is optional on the CUPRA Tavascan VZ. Dynamic steering varies t
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -78,6 +81,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_1_st.JPG" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ">
 </a>
 <figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -121,7 +125,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. 
+There is one climate system available. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. interior.hvac.heatpump
 
 ## Comfort
 
@@ -131,7 +135,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -164,6 +169,7 @@ The standard headlights use LED technology.
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/headlights_1_st.JPG" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ">
 </a>
 <figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

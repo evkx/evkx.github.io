@@ -30,7 +30,8 @@ We have separated our description of the Mercedes-AMG EQE 43 4MATIC into section
 
 ## Performance
 
-The Mercedes-AMG EQE 43 4MATIC has a maximum power of 350KW (476hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) takes 4,2 seconds. The top speed is 210 km/h. 
+The Mercedes-AMG EQE 43 4MATIC has a maximum power of 350KW (476hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) takes 4,2 seconds. The top speed is 210 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/charging_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -67,7 +69,8 @@ Dynamic steering is standard on the Mercedes-AMG EQE 43 4MATIC. Dynamic steering
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -90,6 +93,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/exterior_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -165,7 +169,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -206,6 +211,7 @@ You can choose between two types of headlights for the Mercedes-AMG EQE 43 4MATI
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/headlights_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

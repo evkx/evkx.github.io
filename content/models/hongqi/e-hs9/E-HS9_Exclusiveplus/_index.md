@@ -30,7 +30,8 @@ We have separated our description of the Hongqi E-HS9 Exclusive+ into sections. 
 
 ## Performance
 
-The Hongqi E-HS9 Exclusive+ has a maximum power of 405KW (551hp). The total torque is 670nm. The 0-100km/h sprint (0-62mph) takes 4,9 seconds. The top speed is 200 km/h. 
+The Hongqi E-HS9 Exclusive+ has a maximum power of 405KW (551hp). The total torque is 670nm. The 0-100km/h sprint (0-62mph) takes 4,9 seconds. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 21 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 21 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -59,7 +61,8 @@ Dynamic steering is standard on the Hongqi E-HS9 Exclusive+. Dynamic steering va
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -76,6 +79,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusiveplus/exterior_1_st.jpg" alt="Hongqi E-HS9 Exclusive+" title="Hongqi E-HS9 Exclusive+">
 </a>
 <figcaption><h4>Hongqi E-HS9 Exclusive+</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -134,7 +138,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -169,6 +174,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusiveplus/headlights_1_st.jpg" alt="Hongqi E-HS9 Exclusive+" title="Hongqi E-HS9 Exclusive+">
 </a>
 <figcaption><h4>Hongqi E-HS9 Exclusive+</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

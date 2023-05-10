@@ -30,7 +30,8 @@ We have separated our description of the BYD Atto 3 into sections. If you want t
 
 ## Performance
 
-The BYD Atto 3 has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. The top speed is 160 km/h. 
+The BYD Atto 3 has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 17 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 17 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -59,7 +61,8 @@ Dynamic steering is standard on the BYD Atto 3. Dynamic steering varies the stee
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -77,6 +80,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/exterior_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -131,7 +135,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. interior.hvac.heatpump
 
 ## Comfort
 
@@ -143,7 +147,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -178,6 +183,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 <img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/headlights_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

@@ -30,7 +30,8 @@ We have separated our description of the Nissan Ariya 87kWh e-4ORCE into section
 
 ## Performance
 
-The Nissan Ariya 87kWh e-4ORCE has a maximum power of 225KW (306hp). The total torque is 600nm. The 0-100km/h sprint (0-62mph) takes 5,7 seconds. The top speed is 200 km/h. 
+The Nissan Ariya 87kWh e-4ORCE has a maximum power of 225KW (306hp). The total torque is 600nm. The 0-100km/h sprint (0-62mph) takes 5,7 seconds. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 7,2KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 4 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 7,2KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 4 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -59,7 +61,8 @@ Dynamic steering is optional on the Nissan Ariya 87kWh e-4ORCE. Dynamic steering
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -78,6 +81,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE">
 </a>
 <figcaption><h4>Nissan Ariya 87kWh e-4ORCE</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -113,7 +117,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. interior.hvac.heatpump
 
 ## Comfort
 
@@ -125,7 +129,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -154,7 +159,8 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 ## Lights
 
-You can choose between two types of headlights for the Nissan Ariya 87kWh e-4ORCE. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
+You can choose between two types of headlights for the Nissan Ariya 87kWh e-4ORCE. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The Nissan Ariya 87kWh e-4ORCE has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

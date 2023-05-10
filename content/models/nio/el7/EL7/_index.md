@@ -30,7 +30,8 @@ We have separated our description of the Nio EL7 into sections. If you want to w
 
 ## Performance
 
-The Nio EL7 has a maximum power of 480KW (653hp). The total torque is 850nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 200 km/h. 
+The Nio EL7 has a maximum power of 480KW (653hp). The total torque is 850nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -56,7 +57,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 10 minutes. 
 ### Battery swap
 
-This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 90% SOC. The battery swap takes 7 minutes. 
+This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 90% SOC. The battery swap takes 7 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -72,7 +74,8 @@ Dynamic steering is standard on the Nio EL7. Dynamic steering varies the steerin
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -89,6 +92,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 <img src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_1_st.jpeg" alt="Nio EL7" title="Nio EL7">
 </a>
 <figcaption><h4>Nio EL7</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -150,7 +154,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -187,6 +192,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 <img src="https://media.evkx.net/multimedia/models/nio/el7/el7/headlights_1_st.jpg" alt="Nio EL7" title="Nio EL7">
 </a>
 <figcaption><h4>Nio EL7</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

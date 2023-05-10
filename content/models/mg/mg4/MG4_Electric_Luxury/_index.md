@@ -30,7 +30,8 @@ We have separated our description of the MG MG4 Electric Luxury into sections. I
 
 ## Performance
 
-The MG MG4 Electric Luxury has a maximum power of 150KW (204hp). The total torque is 250nm. The 0-100km/h sprint (0-62mph) takes 7,9 seconds. The top speed is 160 km/h. 
+The MG MG4 Electric Luxury has a maximum power of 150KW (204hp). The total torque is 250nm. The 0-100km/h sprint (0-62mph) takes 7,9 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/charging_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
 </a>
 <figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -63,7 +65,8 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -79,6 +82,7 @@ There is only one roof for this model.
 <img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/exterior_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
 </a>
 <figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -126,7 +130,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports only controlling one common zone for the whole car. 
+There is one climate system available. The  climate system supports only controlling one common zone for the whole car. interior.hvac.heatpump
 
 ## Comfort
 
@@ -134,7 +138,8 @@ MG MG4 Electric Luxury has several features to make your life as a driver or pas
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -169,6 +174,7 @@ The model has 1 USB-C connections as standard. The models is equipped with 1 USB
 <img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/headlights_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
 </a>
 <figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

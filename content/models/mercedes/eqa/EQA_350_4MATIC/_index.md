@@ -30,7 +30,8 @@ We have separated our description of the Mercedes-EQ EQA 350 4MATIC into section
 
 ## Performance
 
-The Mercedes-EQ EQA 350 4MATIC has a maximum power of 215KW (292hp). The total torque is 520nm. The 0-100km/h sprint (0-62mph) takes 6 seconds. The top speed is 160 km/h. 
+The Mercedes-EQ EQA 350 4MATIC has a maximum power of 215KW (292hp). The total torque is 520nm. The 0-100km/h sprint (0-62mph) takes 6 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/charging_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -67,7 +69,8 @@ Dynamic steering is standard on the Mercedes-EQ EQA 350 4MATIC. Dynamic steering
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -86,6 +89,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -159,7 +163,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -188,7 +193,8 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
-The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+The standard headlights use LED technology.   In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The Mercedes-EQ EQA 350 4MATIC has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

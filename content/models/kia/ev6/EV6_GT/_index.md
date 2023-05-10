@@ -30,7 +30,8 @@ We have separated our description of the Kia EV6 GT into sections. If you want t
 
 ## Performance
 
-The Kia EV6 GT has a maximum power of 430KW (585hp). The total torque is 740nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 260 km/h. 
+The Kia EV6 GT has a maximum power of 430KW (585hp). The total torque is 740nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 260 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/charging_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT">
 </a>
 <figcaption><h4>Kia EV6 GT</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -63,7 +65,8 @@ Kia EV6 GT has an all-wheel drive system supported by two motors, one on each ax
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -81,6 +84,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT">
 </a>
 <figcaption><h4>Kia EV6 GT</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -132,13 +136,14 @@ There is only one type of steering wheel available. The  steering wheel is heate
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. interior.hvac.heatpump
 
 ## Comfort
 
 Kia EV6 GT has several features to make your life as a driver or passenger more comfortable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -171,6 +176,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/headlights_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT">
 </a>
 <figcaption><h4>Kia EV6 GT</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

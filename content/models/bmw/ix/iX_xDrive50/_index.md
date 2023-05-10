@@ -30,7 +30,8 @@ We have separated our description of the BMW iX xDrive50 into sections. If you w
 
 ## Performance
 
-The BMW iX xDrive50 has a maximum power of 385KW (523hp). The total torque is 765nm. The 0-100km/h sprint (0-62mph) takes 4,6 seconds. The top speed is 200 km/h. 
+The BMW iX xDrive50 has a maximum power of 385KW (523hp). The total torque is 765nm. The 0-100km/h sprint (0-62mph) takes 4,6 seconds. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 33 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 33 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -59,7 +61,8 @@ Dynamic steering is standard on the BMW iX xDrive50. Dynamic steering varies the
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -77,6 +80,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/exterior_1_st.jpg" alt="BMW iX xDrive50" title="BMW iX xDrive50">
 </a>
 <figcaption><h4>BMW iX xDrive50</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -143,7 +147,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -168,7 +173,8 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 6 USB-C connections as standard. 
 ## Lights
 
-You can choose between two types of headlights for the BMW iX xDrive50. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the BMW iX xDrive50. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The BMW iX xDrive50 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

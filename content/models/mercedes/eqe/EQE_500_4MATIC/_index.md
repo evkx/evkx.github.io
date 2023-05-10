@@ -30,7 +30,8 @@ We have separated our description of the Mercedes-EQ EQE 500 4MATIC into section
 
 ## Performance
 
-The Mercedes-EQ EQE 500 4MATIC has a maximum power of 300KW (408hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. The top speed is 210 km/h. 
+The Mercedes-EQ EQE 500 4MATIC has a maximum power of 300KW (408hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. The top speed is 210 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/charging_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -67,7 +69,8 @@ Dynamic steering is standard on the Mercedes-EQ EQE 500 4MATIC. Dynamic steering
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -90,6 +93,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -173,7 +177,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -206,7 +211,8 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
-You can choose between two types of headlights for the Mercedes-EQ EQE 500 4MATIC. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the Mercedes-EQ EQE 500 4MATIC. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The Mercedes-EQ EQE 500 4MATIC has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

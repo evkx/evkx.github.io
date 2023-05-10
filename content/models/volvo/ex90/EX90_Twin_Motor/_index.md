@@ -30,7 +30,8 @@ We have separated our description of the Volvo EX90 Twin Motor into sections. If
 
 ## Performance
 
-The Volvo EX90 Twin Motor has a maximum power of 300KW (408hp). The total torque is 770nm. The 0-100km/h sprint (0-62mph) takes 5,9 seconds. The top speed is 180 km/h. 
+The Volvo EX90 Twin Motor has a maximum power of 300KW (408hp). The total torque is 770nm. The 0-100km/h sprint (0-62mph) takes 5,9 seconds. The top speed is 180 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 43 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 43 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -55,7 +57,8 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 400mm, and the rear discs are 390mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -74,6 +77,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/exterior_1_st.jpg" alt="Volvo EX90 Twin Motor" title="Volvo EX90 Twin Motor">
 </a>
 <figcaption><h4>Volvo EX90 Twin Motor</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -143,7 +147,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in five zones. The driver, passenger, and two zones in the the 2. row and one in the 3. row. 
+There is one climate system available. The  climate system supports different temperatures in five zones. The driver, passenger, and two zones in the the 2. row and one in the 3. row. interior.hvac.heatpump
 
 ## Comfort
 
@@ -155,7 +159,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -186,6 +191,7 @@ You can choose between two types of headlights for the Volvo EX90 Twin Motor. Th
 <img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/headlights_1_st.jpg" alt="Volvo EX90 Twin Motor" title="Volvo EX90 Twin Motor">
 </a>
 <figcaption><h4>Volvo EX90 Twin Motor</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

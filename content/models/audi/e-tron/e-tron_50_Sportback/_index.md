@@ -30,7 +30,8 @@ We have separated our description of the Audi e-tron 50 Sportback into sections.
 
 ## Performance
 
-The Audi e-tron 50 Sportback has a maximum power of 230KW (313hp). The total torque is 540nm. The 0-100km/h sprint (0-62mph) takes 6,8 seconds. The top speed is 200 km/h. 
+The Audi e-tron 50 Sportback has a maximum power of 230KW (313hp). The total torque is 540nm. The 0-100km/h sprint (0-62mph) takes 6,8 seconds. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 2 hours and 54 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 2 hours and 54 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -61,7 +63,8 @@ Dynamic steering is standard on the Audi e-tron 50 Sportback. Dynamic steering v
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -86,6 +89,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/exterior_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback">
 </a>
 <figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -210,7 +214,8 @@ The steering wheel is electrically adjustable.
 
 comfort.easyentryseatcomfort.easyentryseat
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -243,6 +248,7 @@ You can choose between three types of headlights for the Audi e-tron 50 Sportbac
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/headlights_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback">
 </a>
 <figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

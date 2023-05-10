@@ -30,7 +30,8 @@ We have separated our description of the Audi e-tron GT into sections. If you wa
 
 ## Performance
 
-With overboost, the Audi e-tron GT has a maximum power of 390KW (530hp). Without overboost, it is 350KW (476hp). The torque is 640nm with overboost and 630 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,1 seconds with overboost and 4,5 seconds without overboost. The top speed is 245 km/h. 
+With overboost, the Audi e-tron GT has a maximum power of 390KW (530hp). Without overboost, it is 350KW (476hp). The torque is 640nm with overboost and 630 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,1 seconds with overboost and 4,5 seconds without overboost. The top speed is 245 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -61,7 +63,8 @@ Dynamic steering is standard on the Audi e-tron GT. Dynamic steering varies the 
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420mm, and the rear discs are 410mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -84,6 +87,7 @@ You can choose between two types of roofs on this model. The standard is a panor
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
 </a>
 <figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -148,7 +152,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
+There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger, and backseat. interior.hvac.heatpump
 
 ## Comfort
 
@@ -160,7 +164,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -193,6 +198,7 @@ You can choose between three types of headlights for the Audi e-tron GT. The sta
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/headlights_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
 </a>
 <figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

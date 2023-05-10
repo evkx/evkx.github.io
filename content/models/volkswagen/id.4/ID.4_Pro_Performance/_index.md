@@ -30,7 +30,8 @@ We have separated our description of the Volkswagen ID.4 Pro Performance into se
 
 ## Performance
 
-The Volkswagen ID.4 Pro Performance has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 8,5 seconds. The top speed is 160 km/h. 
+The Volkswagen ID.4 Pro Performance has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 8,5 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/charging_1_st.jpg" alt="Volkswagen ID.4 Pro Performance" title="Volkswagen ID.4 Pro Performance">
 </a>
 <figcaption><h4>Volkswagen ID.4 Pro Performance</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -69,7 +71,8 @@ Dynamic steering is optional on the Volkswagen ID.4 Pro Performance. Dynamic ste
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -88,6 +91,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/exterior_1_st.jpg" alt="Volkswagen ID.4 Pro Performance" title="Volkswagen ID.4 Pro Performance">
 </a>
 <figcaption><h4>Volkswagen ID.4 Pro Performance</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -153,7 +157,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. The 3-zone climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
+You can choose from two different climate systems. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. The 3-zone climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. interior.hvac.heatpump
 
 ## Comfort
 
@@ -163,7 +167,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -200,6 +205,7 @@ You can choose between two types of headlights for the Volkswagen ID.4 Pro Perfo
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/headlights_1_st.jpg" alt="Volkswagen ID.4 Pro Performance" title="Volkswagen ID.4 Pro Performance">
 </a>
 <figcaption><h4>Volkswagen ID.4 Pro Performance</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

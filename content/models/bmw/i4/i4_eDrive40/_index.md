@@ -30,7 +30,8 @@ We have separated our description of the BMW i4 eDrive40 into sections. If you w
 
 ## Performance
 
-The BMW i4 eDrive40 has a maximum power of 250KW (340hp). The total torque is 430nm. The 0-100km/h sprint (0-62mph) takes 5,7 seconds. The top speed is 190 km/h. 
+The BMW i4 eDrive40 has a maximum power of 250KW (340hp). The total torque is 430nm. The 0-100km/h sprint (0-62mph) takes 5,7 seconds. The top speed is 190 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/charging_1_st.jpg" alt="BMW i4 eDrive40" title="BMW i4 eDrive40">
 </a>
 <figcaption><h4>BMW i4 eDrive40</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -67,7 +69,8 @@ Dynamic steering is standard on the BMW i4 eDrive40. Dynamic steering varies the
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -86,6 +89,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_1_st.jpg" alt="BMW i4 eDrive40" title="BMW i4 eDrive40">
 </a>
 <figcaption><h4>BMW i4 eDrive40</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -160,7 +164,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -177,7 +182,8 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. 
 ## Lights
 
-You can choose between two types of headlights for the BMW i4 eDrive40. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the BMW i4 eDrive40. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The BMW i4 eDrive40 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

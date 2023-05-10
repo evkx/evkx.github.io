@@ -30,7 +30,8 @@ We have separated our description of the BMW i7 xDrive60 into sections. If you w
 
 ## Performance
 
-The BMW i7 xDrive60 has a maximum power of 400KW (544hp). The total torque is 745nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. The top speed is 240 km/h. 
+The BMW i7 xDrive60 has a maximum power of 400KW (544hp). The total torque is 745nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. The top speed is 240 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 14 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 14 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -59,7 +61,8 @@ Dynamic steering is standard on the BMW i7 xDrive60. Dynamic steering varies the
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -77,6 +80,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/exterior_1_st.jpg" alt="BMW i7 xDrive60" title="BMW i7 xDrive60">
 </a>
 <figcaption><h4>BMW i7 xDrive60</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -146,7 +150,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -179,6 +184,7 @@ You can choose between two types of headlights for the BMW i7 xDrive60. The stan
 <img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/headlights_1_st.jpg" alt="BMW i7 xDrive60" title="BMW i7 xDrive60">
 </a>
 <figcaption><h4>BMW i7 xDrive60</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

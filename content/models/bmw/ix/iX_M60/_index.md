@@ -30,7 +30,8 @@ We have separated our description of the BMW iX M60 into sections. If you want t
 
 ## Performance
 
-The BMW iX M60 has a maximum power of 455KW (619hp). The total torque is 765nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. The top speed is 250 km/h. 
+The BMW iX M60 has a maximum power of 455KW (619hp). The total torque is 765nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. The top speed is 250 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/charging_1_st.jpg" alt="BMW iX M60" title="BMW iX M60">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -67,7 +69,8 @@ Dynamic steering is standard on the BMW iX M60. Dynamic steering varies the stee
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -85,6 +88,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/exterior_1_st.jpg" alt="BMW iX M60" title="BMW iX M60">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -143,7 +147,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -176,6 +181,7 @@ You can choose between two types of headlights for the BMW iX M60. The standard 
 <img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/headlights_1_st.jpg" alt="BMW iX M60" title="BMW iX M60">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

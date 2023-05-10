@@ -30,7 +30,8 @@ We have separated our description of the BYD Han into sections. If you want to w
 
 ## Performance
 
-The BYD Han has a maximum power of 380KW (517hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 180 km/h. 
+The BYD Han has a maximum power of 380KW (517hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 180 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW cha
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/battery_1_st.jpg" alt="BYD Han" title="BYD Han">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -67,7 +69,8 @@ Dynamic steering is standard on the BYD Han. Dynamic steering varies the steerin
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -85,6 +88,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/exterior_1_st.jpg" alt="BYD Han" title="BYD Han">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -140,7 +144,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. interior.hvac.heatpump
 
 ## Comfort
 
@@ -152,7 +156,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -183,6 +188,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/headlights_1_st.jpg" alt="BYD Han" title="BYD Han">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

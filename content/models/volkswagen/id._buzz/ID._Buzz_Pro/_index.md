@@ -30,7 +30,8 @@ We have separated our description of the Volkswagen ID. Buzz Pro into sections. 
 
 ## Performance
 
-The Volkswagen ID. Buzz Pro has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 10,2 seconds. The top speed is 145 km/h. 
+The Volkswagen ID. Buzz Pro has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 10,2 seconds. The top speed is 145 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/charging_1_st.jpg" alt="Volkswagen ID. Buzz Pro" title="Volkswagen ID. Buzz Pro">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -67,7 +69,8 @@ Dynamic steering is optional on the Volkswagen ID. Buzz Pro. Dynamic steering va
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -86,6 +89,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/exterior_1_st.jpg" alt="Volkswagen ID. Buzz Pro" title="Volkswagen ID. Buzz Pro">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -146,7 +150,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. 
+There is one climate system available. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. interior.hvac.heatpump
 
 ## Comfort
 
@@ -158,7 +162,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 comfort.easyentryseatcomfort.easyentryseat
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -183,7 +188,8 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 5 USB-C connections as standard. 
 ## Lights
 
-You can choose between two types of headlights for the Volkswagen ID. Buzz Pro. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
+You can choose between two types of headlights for the Volkswagen ID. Buzz Pro. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The Volkswagen ID. Buzz Pro has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

@@ -12,19 +12,19 @@ These systems typically consist of various components, including a heat pump, wh
 
 Modern car climate systems often have multiple zones, typically referred to as "zones" or "dual zones." A single-zone system provides the same temperature and airflow for the entire cabin, while a multi-zone system allows for individual temperature and airflow control for different sections of the vehicle, usually the driver and front passenger sides. In some advanced systems, there may be additional zones for rear passengers as well, providing greater customization and comfort.
 
-The zone setups typical available are
-
-- 1-zone (whole cabin as one)
-- 2-zone (left and right front)
-- 3-zone (left and righ front + second row)
-- 4-zone (left and right front + left and right second row)
-
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/hvac/3zoneclimatesystemskodaoctavia.jpg">
     <img src="https://media.evkx.net/multimedia/technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg" alt="Skoda 3 zone climate system" title="Skoda 3 zone climate system">
     </a>
     <figcaption><h4>Skoda 3 zone climate system</h4></figcaption>
 </figur>
+
+The zone setups typical available are
+
+- 1-zone (whole cabin as one)
+- 2-zone (left and right front)
+- 3-zone (left and righ front + second row)
+- 4-zone (left and right front + left and right second row)
 
 {{<evkxdisplayaddarticle />}}
 

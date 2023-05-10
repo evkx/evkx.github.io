@@ -30,7 +30,8 @@ We have separated our description of the Volkswagen ID.3 Pro S into sections. If
 
 ## Performance
 
-The Volkswagen ID.3 Pro S has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 7,9 seconds. The top speed is 160 km/h. 
+The Volkswagen ID.3 Pro S has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 7,9 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -59,7 +61,8 @@ Dynamic steering is optional on the Volkswagen ID.3 Pro S. Dynamic steering vari
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -78,6 +81,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S">
 </a>
 <figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -125,7 +129,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The 1-zone Climatronic climate system supports only controlling one common zone for the whole car. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. 
+You can choose from two different climate systems. The 1-zone Climatronic climate system supports only controlling one common zone for the whole car. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. interior.hvac.heatpump
 
 ## Comfort
 
@@ -135,7 +139,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -172,6 +177,7 @@ You can choose between two types of headlights for the Volkswagen ID.3 Pro S. Th
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/headlights_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S">
 </a>
 <figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

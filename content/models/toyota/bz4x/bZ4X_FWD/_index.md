@@ -30,7 +30,8 @@ We have separated our description of the Toyota bZ4X FWD into sections. If you w
 
 ## Performance
 
-The Toyota bZ4X FWD has a maximum power of 160KW (218hp). The total torque is 337nm. The 0-100km/h sprint (0-62mph) takes 6,9 seconds. The top speed is 160 km/h. 
+The Toyota bZ4X FWD has a maximum power of 160KW (218hp). The total torque is 337nm. The 0-100km/h sprint (0-62mph) takes 6,9 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 6,6KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 41 minutes. You can also select an optional onboard charger that supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 6,6KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 41 minutes. You can also select an optional onboard charger that supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -55,6 +57,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 
 
+{{<evkxdisplayaddarticle />}}
 
 
 ## Exterior
@@ -73,6 +76,7 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/exterior_1_st.jpg" alt="Toyota bZ4X FWD" title="Toyota bZ4X FWD">
 </a>
 <figcaption><h4>Toyota bZ4X FWD</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -115,13 +119,14 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. interior.hvac.heatpump
 
 ## Comfort
 
 Toyota bZ4X FWD has several features to make your life as a driver or passenger more comfortable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -150,7 +155,8 @@ In addition, with the optional in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. 
 ## Lights
 
-You can choose between two types of headlights for the Toyota bZ4X FWD. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the Toyota bZ4X FWD. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The Toyota bZ4X FWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

@@ -30,7 +30,8 @@ We have separated our description of the SKODA Enyaq iV80 into sections. If you 
 
 ## Performance
 
-The SKODA Enyaq iV80 has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 8,6 seconds. The top speed is 160 km/h. 
+The SKODA Enyaq iV80 has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 8,6 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -51,6 +52,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80/charging_1_st.jpg" alt="SKODA Enyaq iV80" title="SKODA Enyaq iV80">
 </a>
 <figcaption><h4>SKODA Enyaq iV80</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Drivetrain
@@ -69,7 +71,8 @@ Dynamic steering is optional on the SKODA Enyaq iV80. Dynamic steering varies th
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -90,6 +93,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80/exterior_1_st.jpg" alt="SKODA Enyaq iV80" title="SKODA Enyaq iV80">
 </a>
 <figcaption><h4>SKODA Enyaq iV80</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -155,7 +159,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 3-zone Climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
+There is one climate system available. The 3-zone Climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. interior.hvac.heatpump
 
 ## Comfort
 
@@ -165,7 +169,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -198,6 +203,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80/headlights_1_st.jpg" alt="SKODA Enyaq iV80" title="SKODA Enyaq iV80">
 </a>
 <figcaption><h4>SKODA Enyaq iV80</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 ## Advanced driver assistance systems
 

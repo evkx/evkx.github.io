@@ -30,7 +30,8 @@ We have separated our description of the Fisker Ocean Extreme into sections. If 
 
 ## Performance
 
-With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). Without overboost, it is 344KW (468hp). The torque is 740nm with overboost and 699 without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 205 km/h. 
+With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). Without overboost, it is 344KW (468hp). The torque is 740nm with overboost and 699 without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 205 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -41,7 +42,8 @@ The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 9
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 54 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 54 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -53,7 +55,8 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -70,6 +73,7 @@ There is only one roof for this model. The optional has a panoramic roof.
 <img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/exterior_1_st.jpg" alt="Fisker Ocean Extreme" title="Fisker Ocean Extreme">
 </a>
 <figcaption><h4>Fisker Ocean Extreme</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -108,7 +112,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in two zone for the driver and passenger. 
+There is one climate system available. The  climate system supports different temperatures in two zone for the driver and passenger. interior.hvac.heatpump
 
 ## Comfort
 
@@ -120,7 +124,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 comfort.easyentryseatcomfort.easyentryseat
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -143,7 +148,8 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 3 USB-C connections as standard. The models is equipped with 1 USB-A connections as standard. 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The Fisker Ocean Extreme has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

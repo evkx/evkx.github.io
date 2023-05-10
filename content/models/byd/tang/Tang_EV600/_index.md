@@ -30,7 +30,8 @@ We have separated our description of the BYD Tang EV600 into sections. If you wa
 
 ## Performance
 
-The BYD Tang EV600 has a maximum power of 380KW (517hp). The total torque is 680nm. The 0-100km/h sprint (0-62mph) takes 4,6 seconds. The top speed is 180 km/h. 
+The BYD Tang EV600 has a maximum power of 380KW (517hp). The total torque is 680nm. The 0-100km/h sprint (0-62mph) takes 4,6 seconds. The top speed is 180 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 20 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 20 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -59,7 +61,8 @@ Dynamic steering is standard on the BYD Tang EV600. Dynamic steering varies the 
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -77,6 +80,7 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exterior_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600">
 </a>
 <figcaption><h4>BYD Tang EV600</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -142,7 +146,8 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -165,7 +170,8 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The models is equipped with 4 USB-A connections as standard. 
 ## Lights
 
-The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+The standard headlights use LED technology.   In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The BYD Tang EV600 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

@@ -30,7 +30,8 @@ We have separated our description of the Audi e-tron S Sportback into sections. 
 
 ## Performance
 
-With overboost, the Audi e-tron S Sportback has a maximum power of 370KW (503hp). Without overboost, it is 320KW (435hp). The torque is 973nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,5 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h. 
+With overboost, the Audi e-tron S Sportback has a maximum power of 370KW (503hp). Without overboost, it is 320KW (435hp). The torque is 973nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,5 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
+
 
 ## Battery, range, and charging
 
@@ -43,7 +44,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 49 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 54 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 49 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 54 minutes. {{<evkxdisplayaddarticle />}}
+
 
 ## Drivetrain
 
@@ -61,7 +63,8 @@ Dynamic steering is standard on the Audi e-tron S Sportback. Dynamic steering va
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
+
 
 ## Exterior
 
@@ -82,6 +85,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/exterior_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback">
 </a>
 <figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>
+{{<evkxdisplayaddarticle />}}
 
 
 ## Interior
@@ -172,7 +176,8 @@ The steering wheel is electrically adjustable.
 
 comfort.easyentryseatcomfort.easyentryseat
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+
 
 ## User interface and control
 
@@ -197,7 +202,8 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
-You can choose between three types of headlights for the Audi e-tron S Sportback. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
+You can choose between three types of headlights for the Audi e-tron S Sportback. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+
 ## Advanced driver assistance systems
 
 The Audi e-tron S Sportback has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
