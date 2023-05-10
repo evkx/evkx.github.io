@@ -30,8 +30,7 @@ We have separated our description of the Mercedes-Maybach EQS 680 SUV into secti
 
 ## Performance
 
-The Mercedes-Maybach EQS 680 SUV has a maximum power of 484KW (658hp). The total torque is 950nm. The 0-100km/h sprint (0-62mph) takes 4,4 seconds. The top speed is 210 km/h. {{<evkxdisplayaddarticle />}}
-
+The Mercedes-Maybach EQS 680 SUV has a maximum power of 484KW (658hp). The total torque is 950nm. The 0-100km/h sprint (0-62mph) takes 4,4 seconds. The top speed is 210 km/h. 
 
 ## Battery, range, and charging
 
@@ -61,8 +60,7 @@ Dynamic steering is standard on the Mercedes-Maybach EQS 680 SUV. Dynamic steeri
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415mm, and the rear discs are 378mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

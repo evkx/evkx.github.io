@@ -30,8 +30,7 @@ We have separated our description of the BMW iX3 into sections. If you want to w
 
 ## Performance
 
-The BMW iX3 has a maximum power of 210KW (286hp). The total torque is 400nm. The 0-100km/h sprint (0-62mph) takes 6,8 seconds. The top speed is 180 km/h. {{<evkxdisplayaddarticle />}}
-
+The BMW iX3 has a maximum power of 210KW (286hp). The total torque is 400nm. The 0-100km/h sprint (0-62mph) takes 6,8 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -69,8 +68,7 @@ Dynamic steering is standard on the BMW iX3. Dynamic steering varies the steerin
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

@@ -30,8 +30,7 @@ We have separated our description of the BMW i4 M50 into sections. If you want t
 
 ## Performance
 
-The BMW i4 M50 has a maximum power of 250KW (340hp). The total torque is 430nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 190 km/h. {{<evkxdisplayaddarticle />}}
-
+The BMW i4 M50 has a maximum power of 250KW (340hp). The total torque is 430nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 190 km/h. 
 
 ## Battery, range, and charging
 
@@ -69,8 +68,7 @@ Dynamic steering is standard on the BMW i4 M50. Dynamic steering varies the stee
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

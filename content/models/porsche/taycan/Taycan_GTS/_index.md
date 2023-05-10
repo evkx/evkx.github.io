@@ -32,8 +32,7 @@ We have separated our description of the Porsche Taycan GTS into sections. If yo
 
 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan GTS has a maximum power of 440KW (598hp). Without overboost, it is 320KW (435hp). The torque is 850nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 3,7 seconds. The top speed is 250 km/h. {{<evkxdisplayaddarticle />}}
-
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan GTS has a maximum power of 440KW (598hp). Without overboost, it is 320KW (435hp). The torque is 850nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 3,7 seconds. The top speed is 250 km/h. 
 
 ## Battery, range, and charging
 
@@ -65,8 +64,7 @@ Dynamic steering is standard on the Porsche Taycan GTS. Dynamic steering varies 
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

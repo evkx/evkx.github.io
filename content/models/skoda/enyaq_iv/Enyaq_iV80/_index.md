@@ -30,8 +30,7 @@ We have separated our description of the SKODA Enyaq iV80 into sections. If you 
 
 ## Performance
 
-The SKODA Enyaq iV80 has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 8,6 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
-
+The SKODA Enyaq iV80 has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 8,6 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -71,8 +70,7 @@ Dynamic steering is optional on the SKODA Enyaq iV80. Dynamic steering varies th
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

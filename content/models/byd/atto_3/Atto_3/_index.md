@@ -30,8 +30,7 @@ We have separated our description of the BYD Atto 3 into sections. If you want t
 
 ## Performance
 
-The BYD Atto 3 has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
-
+The BYD Atto 3 has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -61,8 +60,7 @@ Dynamic steering is standard on the BYD Atto 3. Dynamic steering varies the stee
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
 
 ## Exterior
 

@@ -30,8 +30,7 @@ We have separated our description of the Volkswagen ID.5 Pro Performance into se
 
 ## Performance
 
-The Volkswagen ID.5 Pro Performance has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 8,4 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
-
+The Volkswagen ID.5 Pro Performance has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 8,4 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -71,8 +70,7 @@ Dynamic steering is optional on the Volkswagen ID.5 Pro Performance. Dynamic ste
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

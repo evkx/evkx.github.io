@@ -30,8 +30,7 @@ We have separated our description of the Kia EV6 GT into sections. If you want t
 
 ## Performance
 
-The Kia EV6 GT has a maximum power of 430KW (585hp). The total torque is 740nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 260 km/h. {{<evkxdisplayaddarticle />}}
-
+The Kia EV6 GT has a maximum power of 430KW (585hp). The total torque is 740nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 260 km/h. 
 
 ## Battery, range, and charging
 
@@ -65,8 +64,7 @@ Kia EV6 GT has an all-wheel drive system supported by two motors, one on each ax
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

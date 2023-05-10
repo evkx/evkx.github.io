@@ -30,8 +30,7 @@ We have separated our description of the Lucid Air Dream Edition Range into sect
 
 ## Performance
 
-The Lucid Air Dream Edition Range has a maximum power of 696KW (946hp). The total torque is 1390nm. The 0-100km/h sprint (0-62mph) takes 2,9 seconds. The top speed is 270 km/h. {{<evkxdisplayaddarticle />}}
-
+The Lucid Air Dream Edition Range has a maximum power of 696KW (946hp). The total torque is 1390nm. The 0-100km/h sprint (0-62mph) takes 2,9 seconds. The top speed is 270 km/h. 
 
 ## Battery, range, and charging
 
@@ -61,8 +60,7 @@ Dynamic steering is standard on the Lucid Air Dream Edition Range. Dynamic steer
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 386mm, and the rear discs are 381mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. 
 
 ## Exterior
 

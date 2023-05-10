@@ -30,8 +30,7 @@ We have separated our description of the Mercedes-EQ EQB 350 4MATIC into section
 
 ## Performance
 
-The Mercedes-EQ EQB 350 4MATIC has a maximum power of 215KW (292hp). The total torque is 520nm. The 0-100km/h sprint (0-62mph) takes 6,2 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
-
+The Mercedes-EQ EQB 350 4MATIC has a maximum power of 215KW (292hp). The total torque is 520nm. The 0-100km/h sprint (0-62mph) takes 6,2 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -61,8 +60,7 @@ Dynamic steering is standard on the Mercedes-EQ EQB 350 4MATIC. Dynamic steering
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

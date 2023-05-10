@@ -30,8 +30,7 @@ We have separated our description of the Nissan Ariya 87kWh into sections. If yo
 
 ## Performance
 
-The Nissan Ariya 87kWh has a maximum power of 178KW (242hp). The total torque is 300nm. The 0-100km/h sprint (0-62mph) takes 7,5 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
-
+The Nissan Ariya 87kWh has a maximum power of 178KW (242hp). The total torque is 300nm. The 0-100km/h sprint (0-62mph) takes 7,5 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -61,8 +60,7 @@ Dynamic steering is optional on the Nissan Ariya 87kWh. Dynamic steering varies 
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
 
 ## Exterior
 

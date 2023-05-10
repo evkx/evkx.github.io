@@ -30,8 +30,7 @@ We have separated our description of the CUPRA BORN 77 e-BOOST into sections. If
 
 ## Performance
 
-With overboost, the CUPRA BORN 77 e-BOOST has a maximum power of 170KW (231hp). Without overboost, it is 150KW (204hp). The torque is 310nm with overboost and 310 without overboost. The 0-100km/h sprint (0-62mph) is performed in 7 seconds with overboost and 7,9 seconds without overboost. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
-
+With overboost, the CUPRA BORN 77 e-BOOST has a maximum power of 170KW (231hp). Without overboost, it is 150KW (204hp). The torque is 310nm with overboost and 310 without overboost. The 0-100km/h sprint (0-62mph) is performed in 7 seconds with overboost and 7,9 seconds without overboost. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -61,8 +60,7 @@ Dynamic steering is optional on the CUPRA BORN 77 e-BOOST. Dynamic steering vari
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

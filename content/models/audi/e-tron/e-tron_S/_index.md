@@ -30,8 +30,7 @@ We have separated our description of the Audi e-tron S into sections. If you wan
 
 ## Performance
 
-With overboost, the Audi e-tron S has a maximum power of 370KW (503hp). Without overboost, it is 320KW (435hp). The torque is 973nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,5 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
-
+With overboost, the Audi e-tron S has a maximum power of 370KW (503hp). Without overboost, it is 320KW (435hp). The torque is 973nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 4,5 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -63,8 +62,7 @@ Dynamic steering is standard on the Audi e-tron S. Dynamic steering varies the s
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

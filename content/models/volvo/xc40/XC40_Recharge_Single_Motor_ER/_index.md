@@ -30,8 +30,7 @@ We have separated our description of the Volvo XC40 Recharge Single Motor ER int
 
 ## Performance
 
-The Volvo XC40 Recharge Single Motor ER has a maximum power of 185KW (252hp). The total torque is 420nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
-
+The Volvo XC40 Recharge Single Motor ER has a maximum power of 185KW (252hp). The total torque is 420nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -57,8 +56,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
 
 ## Exterior
 

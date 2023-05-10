@@ -30,8 +30,7 @@ We have separated our description of the Audi Q4 40 e-tron into sections. If you
 
 ## Performance
 
-The Audi Q4 40 e-tron has a maximum power of 160KW (218hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 8,5 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
-
+The Audi Q4 40 e-tron has a maximum power of 160KW (218hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 8,5 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -71,8 +70,7 @@ Dynamic steering is optional on the Audi Q4 40 e-tron. Dynamic steering varies t
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

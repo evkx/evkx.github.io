@@ -30,8 +30,7 @@ We have separated our description of the Audi RS e-tron GT into sections. If you
 
 ## Performance
 
-With overboost, the Audi RS e-tron GT has a maximum power of 475KW (646hp). Without overboost, it is 440KW (598hp). The torque is 830nm with overboost and 830 without overboost. The 0-100km/h sprint (0-62mph) is performed in 3,3 seconds with overboost and 4,5 seconds without overboost. The top speed is 250 km/h. {{<evkxdisplayaddarticle />}}
-
+With overboost, the Audi RS e-tron GT has a maximum power of 475KW (646hp). Without overboost, it is 440KW (598hp). The torque is 830nm with overboost and 830 without overboost. The 0-100km/h sprint (0-62mph) is performed in 3,3 seconds with overboost and 4,5 seconds without overboost. The top speed is 250 km/h. 
 
 ## Battery, range, and charging
 
@@ -71,8 +70,7 @@ Dynamic steering is standard on the Audi RS e-tron GT. Dynamic steering varies t
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420mm, and the rear discs are 410mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

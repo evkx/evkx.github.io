@@ -30,8 +30,7 @@ We have separated our description of the Polestar 2 Long Range Dual Motor Perfor
 
 ## Performance
 
-The Polestar 2 Long Range Dual Motor Performance has a maximum power of 350KW (476hp). The total torque is 740nm. The 0-100km/h sprint (0-62mph) takes 4,2 seconds. The top speed is 205 km/h. {{<evkxdisplayaddarticle />}}
-
+The Polestar 2 Long Range Dual Motor Performance has a maximum power of 350KW (476hp). The total torque is 740nm. The 0-100km/h sprint (0-62mph) takes 4,2 seconds. The top speed is 205 km/h. 
 
 ## Battery, range, and charging
 
@@ -57,8 +56,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
 
 ## Exterior
 

@@ -30,8 +30,7 @@ We have separated our description of the Mercedes-EQ EQS 450+ into sections. If 
 
 ## Performance
 
-The Mercedes-EQ EQS 450+ has a maximum power of 265KW (360hp). The total torque is 800nm. The 0-100km/h sprint (0-62mph) takes 5,6 seconds. The top speed is 210 km/h. {{<evkxdisplayaddarticle />}}
-
+The Mercedes-EQ EQS 450+ has a maximum power of 265KW (360hp). The total torque is 800nm. The 0-100km/h sprint (0-62mph) takes 5,6 seconds. The top speed is 210 km/h. 
 
 ## Battery, range, and charging
 
@@ -61,8 +60,7 @@ Dynamic steering is standard on the Mercedes-EQ EQS 450+. Dynamic steering varie
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415mm, and the rear discs are 378mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

@@ -32,8 +32,7 @@ We have separated our description of the Mercedes-AMG EQE 53 4MATIC+ SUV into se
 
 The Mercedes-AMG EQE 53 4MATIC+ SUV has a maximum power of 460KW (625hp). The total torque is 950nm. The 0-100km/h sprint (0-62mph) takes 3,7 seconds. The top speed is 220 km/h. 
 
-If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE 53 4MATIC+ SUV has a maximum power of 505KW (687hp). The total torque is 1000nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 240 km/h. {{<evkxdisplayaddarticle />}}
-
+If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE 53 4MATIC+ SUV has a maximum power of 505KW (687hp). The total torque is 1000nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 240 km/h. 
 
 ## Battery, range, and charging
 
@@ -63,8 +62,7 @@ Dynamic steering is standard on the Mercedes-AMG EQE 53 4MATIC+ SUV. Dynamic ste
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

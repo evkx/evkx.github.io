@@ -30,8 +30,7 @@ We have separated our description of the Fisker Ocean Extreme into sections. If 
 
 ## Performance
 
-With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). Without overboost, it is 344KW (468hp). The torque is 740nm with overboost and 699 without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 205 km/h. {{<evkxdisplayaddarticle />}}
-
+With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). Without overboost, it is 344KW (468hp). The torque is 740nm with overboost and 699 without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 205 km/h. 
 
 ## Battery, range, and charging
 
@@ -55,8 +54,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
 
 ## Exterior
 

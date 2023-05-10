@@ -30,8 +30,7 @@ We have separated our description of the Kia EV6 Long Range 2WD into sections. I
 
 ## Performance
 
-The Kia EV6 Long Range 2WD has a maximum power of 168KW (228hp). The total torque is 350nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. The top speed is 185 km/h. {{<evkxdisplayaddarticle />}}
-
+The Kia EV6 Long Range 2WD has a maximum power of 168KW (228hp). The total torque is 350nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. The top speed is 185 km/h. 
 
 ## Battery, range, and charging
 
@@ -65,8 +64,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

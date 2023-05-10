@@ -30,8 +30,7 @@ We have separated our description of the CUPRA Tavascan VZ into sections. If you
 
 ## Performance
 
-The CUPRA Tavascan VZ has a maximum power of 250KW (340hp). The total torque is 679nm. The 0-100km/h sprint (0-62mph) takes 5,6 seconds. The top speed is 180 km/h. {{<evkxdisplayaddarticle />}}
-
+The CUPRA Tavascan VZ has a maximum power of 250KW (340hp). The total torque is 679nm. The 0-100km/h sprint (0-62mph) takes 5,6 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -61,8 +60,7 @@ Dynamic steering is optional on the CUPRA Tavascan VZ. Dynamic steering varies t
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

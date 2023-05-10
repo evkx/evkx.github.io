@@ -30,8 +30,7 @@ We have separated our description of the Porsche Taycan Turbo S Sport Turismo in
 
 ## Performance
 
-With overboost, the Porsche Taycan Turbo S Sport Turismo has a maximum power of 560KW (761hp). Without overboost, it is 460KW (625hp). The torque is 850nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 2,8 seconds. The top speed is 260 km/h. {{<evkxdisplayaddarticle />}}
-
+With overboost, the Porsche Taycan Turbo S Sport Turismo has a maximum power of 560KW (761hp). Without overboost, it is 460KW (625hp). The torque is 850nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 2,8 seconds. The top speed is 260 km/h. 
 
 ## Battery, range, and charging
 
@@ -63,8 +62,7 @@ Dynamic steering is standard on the Porsche Taycan Turbo S Sport Turismo. Dynami
 
 The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420mm, and the rear discs are 410mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

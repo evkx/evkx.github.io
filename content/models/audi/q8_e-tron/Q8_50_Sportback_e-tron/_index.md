@@ -30,8 +30,7 @@ We have separated our description of the Audi Q8 50 Sportback e-tron into sectio
 
 ## Performance
 
-The Audi Q8 50 Sportback e-tron has a maximum power of 230KW (313hp). The total torque is 540nm. The 0-100km/h sprint (0-62mph) takes 6,8 seconds. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
-
+The Audi Q8 50 Sportback e-tron has a maximum power of 230KW (313hp). The total torque is 540nm. The 0-100km/h sprint (0-62mph) takes 6,8 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -63,8 +62,7 @@ Dynamic steering is standard on the Audi Q8 50 Sportback e-tron. Dynamic steerin
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

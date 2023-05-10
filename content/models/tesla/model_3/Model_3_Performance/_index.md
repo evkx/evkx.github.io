@@ -30,8 +30,7 @@ We have separated our description of the Tesla Model 3 Performance into sections
 
 ## Performance
 
-The Tesla Model 3 Performance has a maximum power of 393KW (534hp). The total torque is 660nm. The 0-100km/h sprint (0-62mph) takes 3,3 seconds. The top speed is 261 km/h. {{<evkxdisplayaddarticle />}}
-
+The Tesla Model 3 Performance has a maximum power of 393KW (534hp). The total torque is 660nm. The 0-100km/h sprint (0-62mph) takes 3,3 seconds. The top speed is 261 km/h. 
 
 ## Battery, range, and charging
 
@@ -69,8 +68,7 @@ Dynamic steering is standard on the Tesla Model 3 Performance. Dynamic steering 
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. 
 
 ## Exterior
 

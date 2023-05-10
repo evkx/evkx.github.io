@@ -32,8 +32,7 @@ We have separated our description of the Mercedes-AMG EQS 53 4MATIC+ into sectio
 
 The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 484KW (658hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. The top speed is 220 km/h. 
 
-If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 560KW (761hp). The total torque is 1020nm. The 0-100km/h sprint (0-62mph) takes 3,4 seconds. The top speed is 250 km/h. {{<evkxdisplayaddarticle />}}
-
+If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 560KW (761hp). The total torque is 1020nm. The 0-100km/h sprint (0-62mph) takes 3,4 seconds. The top speed is 250 km/h. 
 
 ## Battery, range, and charging
 
@@ -71,8 +70,7 @@ Dynamic steering is standard on the Mercedes-AMG EQS 53 4MATIC+. Dynamic steerin
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415mm, and the rear discs are 378mm. The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 440mm, and the rear discs are 378mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

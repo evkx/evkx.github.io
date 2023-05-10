@@ -30,8 +30,7 @@ We have separated our description of the Audi e-tron 55 into sections. If you wa
 
 ## Performance
 
-With overboost, the Audi e-tron 55 has a maximum power of 300KW (408hp). Without overboost, it is 265KW (360hp). The torque is 664nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 5,7 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
-
+With overboost, the Audi e-tron 55 has a maximum power of 300KW (408hp). Without overboost, it is 265KW (360hp). The torque is 664nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 5,7 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -63,8 +62,7 @@ Dynamic steering is standard on the Audi e-tron 55. Dynamic steering varies the 
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

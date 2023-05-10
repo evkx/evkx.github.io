@@ -30,8 +30,7 @@ We have separated our description of the Toyota bZ4X AWD into sections. If you w
 
 ## Performance
 
-The Toyota bZ4X AWD has a maximum power of 160KW (218hp). The total torque is 337nm. The 0-100km/h sprint (0-62mph) takes 6,9 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
-
+The Toyota bZ4X AWD has a maximum power of 160KW (218hp). The total torque is 337nm. The 0-100km/h sprint (0-62mph) takes 6,9 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -57,7 +56,6 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 
 
-{{<evkxdisplayaddarticle />}}
 
 
 ## Exterior

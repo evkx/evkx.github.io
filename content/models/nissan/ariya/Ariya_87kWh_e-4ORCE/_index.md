@@ -30,8 +30,7 @@ We have separated our description of the Nissan Ariya 87kWh e-4ORCE into section
 
 ## Performance
 
-The Nissan Ariya 87kWh e-4ORCE has a maximum power of 225KW (306hp). The total torque is 600nm. The 0-100km/h sprint (0-62mph) takes 5,7 seconds. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
-
+The Nissan Ariya 87kWh e-4ORCE has a maximum power of 225KW (306hp). The total torque is 600nm. The 0-100km/h sprint (0-62mph) takes 5,7 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -61,8 +60,7 @@ Dynamic steering is optional on the Nissan Ariya 87kWh e-4ORCE. Dynamic steering
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
 
 ## Exterior
 

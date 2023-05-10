@@ -30,8 +30,7 @@ We have separated our description of the Volkswagen ID.4 Pro 4MOTION into sectio
 
 ## Performance
 
-The Volkswagen ID.4 Pro 4MOTION has a maximum power of 195KW (265hp). The total torque is 425nm. The 0-100km/h sprint (0-62mph) takes 6,9 seconds. The top speed is 180 km/h. {{<evkxdisplayaddarticle />}}
-
+The Volkswagen ID.4 Pro 4MOTION has a maximum power of 195KW (265hp). The total torque is 425nm. The 0-100km/h sprint (0-62mph) takes 6,9 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -63,8 +62,7 @@ Dynamic steering is optional on the Volkswagen ID.4 Pro 4MOTION. Dynamic steerin
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

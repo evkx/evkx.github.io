@@ -30,8 +30,7 @@ We have separated our description of the Audi Q4 Sportback 50 e-tron quattro int
 
 ## Performance
 
-With overboost, the Audi Q4 Sportback 50 e-tron quattro has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,2 seconds with overboost and 6,2 seconds without overboost. The top speed is 180 km/h. {{<evkxdisplayaddarticle />}}
-
+With overboost, the Audi Q4 Sportback 50 e-tron quattro has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,2 seconds with overboost and 6,2 seconds without overboost. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -63,8 +62,7 @@ Dynamic steering is optional on the Audi Q4 Sportback 50 e-tron quattro. Dynamic
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

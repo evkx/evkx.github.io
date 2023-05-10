@@ -30,8 +30,7 @@ We have separated our description of the Nio EL7 into sections. If you want to w
 
 ## Performance
 
-The Nio EL7 has a maximum power of 480KW (653hp). The total torque is 850nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
-
+The Nio EL7 has a maximum power of 480KW (653hp). The total torque is 850nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -74,8 +73,7 @@ Dynamic steering is standard on the Nio EL7. Dynamic steering varies the steerin
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

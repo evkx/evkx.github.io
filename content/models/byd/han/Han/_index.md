@@ -30,8 +30,7 @@ We have separated our description of the BYD Han into sections. If you want to w
 
 ## Performance
 
-The BYD Han has a maximum power of 380KW (517hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 180 km/h. {{<evkxdisplayaddarticle />}}
-
+The BYD Han has a maximum power of 380KW (517hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -69,8 +68,7 @@ Dynamic steering is standard on the BYD Han. Dynamic steering varies the steerin
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
 
 ## Exterior
 

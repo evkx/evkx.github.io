@@ -30,8 +30,7 @@ We have separated our description of the Volvo EX90 Twin Motor Performance into 
 
 ## Performance
 
-The Volvo EX90 Twin Motor Performance has a maximum power of 380KW (517hp). The total torque is 910nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. The top speed is 210 km/h. {{<evkxdisplayaddarticle />}}
-
+The Volvo EX90 Twin Motor Performance has a maximum power of 380KW (517hp). The total torque is 910nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. The top speed is 210 km/h. 
 
 ## Battery, range, and charging
 
@@ -57,8 +56,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 400mm, and the rear discs are 390mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
 
 ## Exterior
 

@@ -30,8 +30,7 @@ We have separated our description of the Lexus RZ 450e into sections. If you wan
 
 ## Performance
 
-The Lexus RZ 450e has a maximum power of 230KW (313hp). The total torque is 435nm. The 0-100km/h sprint (0-62mph) takes 5,3 seconds. The top speed is 160 km/h. {{<evkxdisplayaddarticle />}}
-
+The Lexus RZ 450e has a maximum power of 230KW (313hp). The total torque is 435nm. The 0-100km/h sprint (0-62mph) takes 5,3 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -65,7 +64,6 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 
 
-{{<evkxdisplayaddarticle />}}
 
 
 ## Exterior

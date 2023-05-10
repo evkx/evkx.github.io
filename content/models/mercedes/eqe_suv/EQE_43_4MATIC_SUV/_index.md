@@ -30,8 +30,7 @@ We have separated our description of the Mercedes-AMG EQE 43 4MATIC SUV into sec
 
 ## Performance
 
-The Mercedes-AMG EQE 43 4MATIC SUV has a maximum power of 350KW (476hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) takes 4,3 seconds. The top speed is 210 km/h. {{<evkxdisplayaddarticle />}}
-
+The Mercedes-AMG EQE 43 4MATIC SUV has a maximum power of 350KW (476hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) takes 4,3 seconds. The top speed is 210 km/h. 
 
 ## Battery, range, and charging
 
@@ -61,8 +60,7 @@ Dynamic steering is standard on the Mercedes-AMG EQE 43 4MATIC SUV. Dynamic stee
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

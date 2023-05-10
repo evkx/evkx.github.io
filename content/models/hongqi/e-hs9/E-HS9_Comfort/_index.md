@@ -30,8 +30,7 @@ We have separated our description of the Hongqi E-HS9 Comfort into sections. If 
 
 ## Performance
 
-The Hongqi E-HS9 Comfort has a maximum power of 320KW (435hp). The total torque is 300nm. The 0-100km/h sprint (0-62mph) takes 6,5 seconds. The top speed is 200 km/h. {{<evkxdisplayaddarticle />}}
-
+The Hongqi E-HS9 Comfort has a maximum power of 320KW (435hp). The total torque is 300nm. The 0-100km/h sprint (0-62mph) takes 6,5 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -61,8 +60,7 @@ Dynamic steering is standard on the Hongqi E-HS9 Comfort. Dynamic steering varie
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. 
 
 ## Exterior
 

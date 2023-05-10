@@ -30,8 +30,7 @@ We have separated our description of the Mercedes-EQ EQS 580 4MATIC into section
 
 ## Performance
 
-The Mercedes-EQ EQS 580 4MATIC has a maximum power of 385KW (523hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) takes 4,3 seconds. The top speed is 210 km/h. {{<evkxdisplayaddarticle />}}
-
+The Mercedes-EQ EQS 580 4MATIC has a maximum power of 385KW (523hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) takes 4,3 seconds. The top speed is 210 km/h. 
 
 ## Battery, range, and charging
 
@@ -69,8 +68,7 @@ Dynamic steering is standard on the Mercedes-EQ EQS 580 4MATIC. Dynamic steering
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415mm, and the rear discs are 378mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 

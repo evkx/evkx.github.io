@@ -32,8 +32,7 @@ We have separated our description of the Porsche Taycan into sections. If you wa
 
 With overboost, the Porsche Taycan has a maximum power of 300KW (408hp). Without overboost, it is 240KW (326hp). The torque is 345nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 5,4 seconds. The top speed is 230 km/h. 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan has a maximum power of 350KW (476hp). Without overboost, it is 280KW (381hp). The torque is 357nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 5,4 seconds. The top speed is 230 km/h. {{<evkxdisplayaddarticle />}}
-
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan has a maximum power of 350KW (476hp). Without overboost, it is 280KW (381hp). The torque is 357nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 5,4 seconds. The top speed is 230 km/h. 
 
 ## Battery, range, and charging
 
@@ -75,8 +74,7 @@ Dynamic steering is standard on the Porsche Taycan. Dynamic steering varies the 
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). {{<evkxdisplayaddarticle />}}
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 
