@@ -10,6 +10,10 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube Ro7MfgL90z0 >}}
 
+### Bjørn Nyland: Nio EL7 acceleration, braking and noise test 09.05.2023
+
+{{< youtube aBZQzTzyiOE >}}
+
 ### Bjørn Nyland: Nio EL7 banana box test 01.05.2023
 
 {{< youtube XdIG0aotHXQ >}}

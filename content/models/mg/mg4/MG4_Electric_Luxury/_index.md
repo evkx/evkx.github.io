@@ -43,6 +43,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 36 minutes. 
+
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/charging_1.jpg">
@@ -55,7 +57,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 MG MG4 Electric Luxury has a rear-wheel drive system supported by one motor on the rear axle. 
 
-The  suspension has a fixed height and damping. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm. 
 
 ### Brakes
 

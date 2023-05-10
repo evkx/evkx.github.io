@@ -66,8 +66,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Yes, standard equipment|
 |Adjustable height front|Yes, standard equipment|
 |Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|241|
-|Minimum ground clearance|181|
+|Max ground clearance|248|
+|Minimum ground clearance|188|
 |Suspension type front|AirSuspension|
 |Suspension construction front|DoubleWishbone|
 |Suspension type rear|AirSuspension|

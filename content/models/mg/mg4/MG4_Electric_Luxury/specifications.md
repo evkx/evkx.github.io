@@ -56,6 +56,17 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
+|Adaptive suspension|Not available|
+|Adjustable damping front|Not available|
+|Adjustable damping rear|Not available|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|150|
+|Minimum ground clearance|150|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension construction front|MacPhersonStrut|
+|Suspension type rear|SteelSpringsWithOilDampers|
+|Suspension construction rear|Multilink|
 
 ## Interior
 

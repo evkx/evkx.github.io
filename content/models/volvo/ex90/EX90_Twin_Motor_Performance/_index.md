@@ -49,7 +49,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Volvo EX90 Twin Motor Performance has an all-wheel drive system supported by two motors, one on each axle. 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 181 mm, and the max is 241 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 188 mm, and the max is 248 mm. 
 
 ### Brakes
 
@@ -59,11 +59,14 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 6 different paint colors when ordering this model. 
+You can choose between 8 different paint colors when ordering this model. 
+Additionally, you can choose between 2 wheels with sizes from 21 to 22 inches. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). Soft close are an standard function for the regular doors. 
 
-You can choose between two types of roofs on this model. The optional has a panoramic roof. 
+There is only one roof for this model. The standard is a panoramic roof. 
+
+You can order the car with tinted windows from B-pillar and back. 
 
 
 <figur>
@@ -90,8 +93,12 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
-You can choose from 5 different materials/colors for this seat type. <br />
-<br />
+You can choose from 4 different materials/colors for this seat type. 
+- White [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [wool upholstering](../../../../technology/seats/materials/#wool)
+
 
 
 
@@ -110,8 +117,12 @@ The following functionalities are available on the **** seat.
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
-You can choose from 5 different materials/colors for this seat type. <br />
-<br />
+You can choose from 4 different materials/colors for this seat type. 
+- White [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [wool upholstering](../../../../technology/seats/materials/#wool)
+
 
 
 
