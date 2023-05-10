@@ -71,6 +71,16 @@ A heat pump is a component of a car's climate system that is responsible for hea
 
 Heat pumps work by using a refrigerant, which is a type of fluid that can change state from liquid to gas and vice versa, to absorb heat from one location and release it in another. In heating mode, the refrigerant absorbs heat from the outside air, even in cold temperatures, and then compresses it to increase its temperature before releasing it into the cabin as warm air. In cooling mode, the heat pump absorbs heat from the cabin air, compresses the refrigerant to increase its temperature, and then releases it to the outside environment as hot air, effectively cooling the cabin.
 
+In Evs some manufacturers take the waste heat from the electric drive (inverter and electric motor) and also the high-voltage battery can be used to heat the interior. This reduces drastically the draw on battery power for the heating system, thus increasing the range.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/hvac/mercedeseqesuvheatpump_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/hvac/mercedeseqesuvheatpump_1_st.jpg" alt="Mercedes EQE Suv heatpump reuse heat from battery and motors in to the cabin" title="Mercedes EQE Suv heatpump reuse heat from battery and motors in to the cabin">
+    </a>
+    <figcaption><h4>Mercedes EQE Suv heatpump reuses heat from battery and motors in to the cabin</h4></figcaption>
+</figur>
+
+
 Heat pumps in car climate systems are designed to be efficient and effective in various weather conditions, providing reliable heating and cooling performance regardless of the outside temperature. They are commonly used in electric and hybrid vehicles due to their energy-efficient operation, which helps extend the driving range by reducing the load on the battery.
 
 {{<evkxdisplayaddarticle />}}
