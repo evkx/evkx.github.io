@@ -26,18 +26,7 @@ The zone setups typical available are
     <figcaption><h4>Skoda 3 zone climate system</h4></figcaption>
 </figur>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
-     crossorigin="anonymous"></script>
-<!-- EVKX Display Add Articles -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6415007331199958"
-     data-ad-slot="2354595124"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{<evkxdisplayaddarticle />}}
 
 ## Vents
 
@@ -56,18 +45,7 @@ HVAC vents in cars are an important part of the vehicle's climate control system
 
 **Modes of Operation:** HVAC vents in cars can operate in different modes depending on the climate control settings. These can include heating mode, cooling mode, fan-only mode, or a combination of these modes. In heating mode, warm air from the engine coolant is directed through the vents to warm up the passenger cabin. In cooling mode, air from the air conditioning system is directed through the vents to cool down the passenger cabin. Fan-only mode circulates air from the cabin without heating or cooling it, which can be useful for air circulation or ventilation purposes.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
-     crossorigin="anonymous"></script>
-<!-- EVKX Display Add Articles -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6415007331199958"
-     data-ad-slot="2354595124"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{<evkxdisplayaddarticle />}}
 
 ## Control
 
@@ -95,18 +73,7 @@ Heat pumps work by using a refrigerant, which is a type of fluid that can change
 
 Heat pumps in car climate systems are designed to be efficient and effective in various weather conditions, providing reliable heating and cooling performance regardless of the outside temperature. They are commonly used in electric and hybrid vehicles due to their energy-efficient operation, which helps extend the driving range by reducing the load on the battery.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
-     crossorigin="anonymous"></script>
-<!-- EVKX Display Add Articles -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6415007331199958"
-     data-ad-slot="2354595124"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{<evkxdisplayaddarticle />}}
 
 ## Infrared heating
 
