@@ -51,7 +51,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance">
 </a>
 <figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -82,7 +84,9 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance">
 </a>
 <figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -148,7 +152,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -176,7 +182,9 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 ## Lights
 
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

@@ -51,7 +51,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/charging_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50">
 </a>
 <figcaption><h4>BMW i4 M50</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -87,7 +89,9 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/exterior_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50">
 </a>
 <figcaption><h4>BMW i4 M50</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -162,7 +166,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -188,7 +194,9 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. 
 ## Lights
 
-You can choose between two types of headlights for the BMW i4 M50. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+You can choose between two types of headlights for the BMW i4 M50. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
+{{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

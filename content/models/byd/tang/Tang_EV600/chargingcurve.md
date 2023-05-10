@@ -17,6 +17,7 @@ weight: 10
 |Optimum charging speed included 5 minutes loss|93,1kW|
 |Optimum charge stop time |31m37s|
 
+
 {{<evkxdisplayaddarticle />}}
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |

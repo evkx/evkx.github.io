@@ -51,7 +51,9 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/charging_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -91,7 +93,9 @@ You can choose between two types of roofs on this model. The standard is just a 
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/exterior_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -167,7 +171,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -209,7 +215,9 @@ You can choose between two types of headlights for the Mercedes-EQ EQE 500 4MATI
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/headlights_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

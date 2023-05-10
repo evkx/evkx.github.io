@@ -43,7 +43,9 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 17 minutes. {{<evkxdisplayaddarticle />}}
+For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 17 minutes. 
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -78,7 +80,9 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/exterior_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -145,7 +149,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -181,7 +187,9 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 <img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/headlights_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

@@ -43,7 +43,9 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 7,2KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 9 minutes. {{<evkxdisplayaddarticle />}}
+For level 1 and level 2 AC charging, the  onboard charger supports up to 7,2KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 9 minutes. 
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -87,7 +89,9 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/exterior_1_st.jpg" alt="Audi Q4 Sportback 35 e-tron" title="Audi Q4 Sportback 35 e-tron">
 </a>
 <figcaption><h4>Audi Q4 Sportback 35 e-tron</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -164,7 +168,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -198,7 +204,9 @@ You can choose between two types of headlights for the Audi Q4 Sportback 35 e-tr
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/headlights_1_st.jpg" alt="Audi Q4 Sportback 35 e-tron" title="Audi Q4 Sportback 35 e-tron">
 </a>
 <figcaption><h4>Audi Q4 Sportback 35 e-tron</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

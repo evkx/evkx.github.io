@@ -43,7 +43,9 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 51 minutes. {{<evkxdisplayaddarticle />}}
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 51 minutes. 
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -83,7 +85,9 @@ You can choose between two types of roofs on this model. The standard is just a 
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV">
 </a>
 <figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -161,7 +165,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -199,7 +205,9 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/headlights_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV">
 </a>
 <figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

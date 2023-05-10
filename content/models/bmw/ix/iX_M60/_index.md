@@ -51,7 +51,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/charging_1_st.jpg" alt="BMW iX M60" title="BMW iX M60">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -86,7 +88,9 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/exterior_1_st.jpg" alt="BMW iX M60" title="BMW iX M60">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -145,7 +149,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -179,7 +185,9 @@ You can choose between two types of headlights for the BMW iX M60. The standard 
 <img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/headlights_1_st.jpg" alt="BMW iX M60" title="BMW iX M60">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

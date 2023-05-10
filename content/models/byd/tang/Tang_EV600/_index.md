@@ -43,7 +43,9 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 20 minutes. {{<evkxdisplayaddarticle />}}
+For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 20 minutes. 
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -78,7 +80,9 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exterior_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600">
 </a>
 <figcaption><h4>BYD Tang EV600</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -144,7 +148,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -168,7 +174,9 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The models is equipped with 4 USB-A connections as standard. 
 ## Lights
 
-The standard headlights use LED technology.   In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+{{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

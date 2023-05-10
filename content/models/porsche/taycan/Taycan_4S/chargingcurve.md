@@ -21,6 +21,7 @@ This model is available with multiple batteries. Below you find the performance 
 |Optimum charging speed included 5 minutes loss|135,6kW|
 |Optimum charge stop time |21m2s|
 
+
 {{<evkxdisplayaddarticle />}}
 
 |SOC | SPEED|Chargetime | Chargetime total | Energy charged |
@@ -139,6 +140,7 @@ This model is available with multiple batteries. Below you find the performance 
 |Optimum charging area|3% - 65%|
 |Optimum charging speed included 5 minutes loss|164,9kW|
 |Optimum charge stop time |19m53s|
+
 
 {{<evkxdisplayaddarticle />}}
 

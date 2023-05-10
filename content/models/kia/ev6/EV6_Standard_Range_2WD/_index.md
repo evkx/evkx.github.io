@@ -51,7 +51,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/charging_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD">
 </a>
 <figcaption><h4>Kia EV6 Standard Range 2WD</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -83,7 +85,9 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/exterior_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD">
 </a>
 <figcaption><h4>Kia EV6 Standard Range 2WD</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -141,7 +145,9 @@ There is one climate system available. The 2-zone climate system supports differ
 
 Kia EV6 Standard Range 2WD has several features to make your life as a driver or passenger more comfortable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -175,7 +181,9 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/headlights_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD">
 </a>
 <figcaption><h4>Kia EV6 Standard Range 2WD</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

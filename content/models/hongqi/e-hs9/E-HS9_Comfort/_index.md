@@ -43,7 +43,9 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 25 minutes. {{<evkxdisplayaddarticle />}}
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 25 minutes. 
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -77,7 +79,9 @@ There is only one roof for this model. The standard is a panoramic roof.
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/exterior_1_st.jpg" alt="Hongqi E-HS9 Comfort" title="Hongqi E-HS9 Comfort">
 </a>
 <figcaption><h4>Hongqi E-HS9 Comfort</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -133,7 +137,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -169,7 +175,9 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/headlights_1_st.jpg" alt="Hongqi E-HS9 Comfort" title="Hongqi E-HS9 Comfort">
 </a>
 <figcaption><h4>Hongqi E-HS9 Comfort</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

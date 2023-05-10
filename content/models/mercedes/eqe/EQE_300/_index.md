@@ -51,7 +51,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/charging_1_st.jpg" alt="Mercedes-EQ EQE 300" title="Mercedes-EQ EQE 300">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 300</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -83,7 +85,9 @@ Additionally, you can choose between 13 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid]](../../../../technology/doors/#boot-lid) for the trunk. 
 
-You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  {{<evkxdisplayaddarticle />}}
+You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -159,7 +163,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -193,7 +199,9 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 2 USB-C connections as standard. As an option you can get additional 4 USB-C connections. 
 ## Lights
 
-You can choose between two types of headlights for the Mercedes-EQ EQE 300. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+You can choose between two types of headlights for the Mercedes-EQ EQE 300. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+{{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

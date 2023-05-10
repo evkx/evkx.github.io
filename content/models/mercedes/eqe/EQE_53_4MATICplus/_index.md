@@ -53,7 +53,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/charging_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -85,7 +87,9 @@ Additionally, you can choose between 4 wheels with sizes from 20 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid]](../../../../technology/doors/#boot-lid) for the trunk. 
 
-You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  {{<evkxdisplayaddarticle />}}
+You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -169,7 +173,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -211,7 +217,9 @@ You can choose between two types of headlights for the Mercedes-AMG EQE 53 4MATI
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/headlights_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" title="Mercedes-AMG EQE 53 4MATIC+">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 53 4MATIC+</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

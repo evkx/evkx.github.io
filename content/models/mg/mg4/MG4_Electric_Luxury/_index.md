@@ -51,7 +51,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/charging_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
 </a>
 <figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -80,7 +82,9 @@ There is only one roof for this model.
 <img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/exterior_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
 </a>
 <figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -136,7 +140,9 @@ MG MG4 Electric Luxury has several features to make your life as a driver or pas
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -172,7 +178,9 @@ The model has 1 USB-C connections as standard. The models is equipped with 1 USB
 <img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/headlights_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
 </a>
 <figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

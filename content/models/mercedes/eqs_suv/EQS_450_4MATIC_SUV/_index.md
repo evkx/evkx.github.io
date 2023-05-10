@@ -43,7 +43,9 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 51 minutes. {{<evkxdisplayaddarticle />}}
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 51 minutes. 
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -83,7 +85,9 @@ You can choose between two types of roofs on this model. The standard is just a 
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/exterior_1_st.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" title="Mercedes-EQ EQS 450 4MATIC SUV">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 450 4MATIC SUV</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -181,7 +185,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -215,7 +221,9 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. As an option you can get additional 4 USB-C connections. 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
+{{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

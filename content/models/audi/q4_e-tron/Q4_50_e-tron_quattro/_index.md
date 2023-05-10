@@ -51,7 +51,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/battery_1_st.jpg" alt="Audi Q4 50 e-tron quattro" title="Audi Q4 50 e-tron quattro">
 </a>
 <figcaption><h4>Audi Q4 50 e-tron quattro</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -95,7 +97,9 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/exterior_1_st.jpg" alt="Audi Q4 50 e-tron quattro" title="Audi Q4 50 e-tron quattro">
 </a>
 <figcaption><h4>Audi Q4 50 e-tron quattro</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -172,7 +176,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -206,7 +212,9 @@ You can choose between two types of headlights for the Audi Q4 50 e-tron quattro
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/headlights_1_st.jpg" alt="Audi Q4 50 e-tron quattro" title="Audi Q4 50 e-tron quattro">
 </a>
 <figcaption><h4>Audi Q4 50 e-tron quattro</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

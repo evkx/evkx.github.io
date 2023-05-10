@@ -41,7 +41,9 @@ The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 9
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 54 minutes. {{<evkxdisplayaddarticle />}}
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 54 minutes. 
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -71,7 +73,9 @@ There is only one roof for this model. The optional has a panoramic roof.
 <img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/exterior_1_st.jpg" alt="Fisker Ocean Extreme" title="Fisker Ocean Extreme">
 </a>
 <figcaption><h4>Fisker Ocean Extreme</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -122,7 +126,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 comfort.easyentryseatcomfort.easyentryseat
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -146,7 +152,9 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 3 USB-C connections as standard. The models is equipped with 1 USB-A connections as standard. 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  {{<evkxdisplayaddarticle />}}
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  
+{{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

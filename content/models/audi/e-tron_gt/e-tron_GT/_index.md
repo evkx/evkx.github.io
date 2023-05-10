@@ -43,7 +43,9 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. {{<evkxdisplayaddarticle />}}
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -85,7 +87,9 @@ You can choose between two types of roofs on this model. The standard is a panor
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
 </a>
 <figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -162,7 +166,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -196,7 +202,9 @@ You can choose between three types of headlights for the Audi e-tron GT. The sta
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/headlights_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
 </a>
 <figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

@@ -43,7 +43,9 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 10 minutes. {{<evkxdisplayaddarticle />}}
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 10 minutes. 
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -73,7 +75,9 @@ You can choose between two types of roofs on this model. The optional has a pano
 <img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exteriore_3_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -136,7 +140,9 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -166,7 +172,9 @@ You can choose between two types of headlights for the Polestar 2 Long Range Dua
 <img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/headlights_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

@@ -56,7 +56,9 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 10 minutes. 
 ### Battery swap
 
-This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 90% SOC. The battery swap takes 7 minutes. {{<evkxdisplayaddarticle />}}
+This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 90% SOC. The battery swap takes 7 minutes. 
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -90,7 +92,9 @@ There is only one roof for this model. The standard is a panoramic roof.
 <img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_1_st.jpg" alt="Nio ES8" title="Nio ES8">
 </a>
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -161,7 +165,9 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 The steering wheel is electrically adjustable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -199,7 +205,9 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 <img src="https://media.evkx.net/multimedia/models/nio/es8/es8/headlights_1_st.jpg" alt="Nio ES8" title="Nio ES8">
 </a>
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

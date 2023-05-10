@@ -43,7 +43,9 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 2 minutes. {{<evkxdisplayaddarticle />}}
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 2 minutes. 
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -79,7 +81,9 @@ You can choose between two types of roofs on this model. The standard is just a 
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQB 300 4MATIC" title="Mercedes-EQ EQB 300 4MATIC">
 </a>
 <figcaption><h4>Mercedes-EQ EQB 300 4MATIC</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -159,7 +163,9 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -189,7 +195,9 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
-The standard headlights use LED technology.   In addition, the standard taillights use LED technology. {{<evkxdisplayaddarticle />}}
+The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+{{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

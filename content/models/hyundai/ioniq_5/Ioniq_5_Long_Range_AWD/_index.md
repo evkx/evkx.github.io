@@ -51,7 +51,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_awd/charging_1_st.jpg" alt="Hyundai Ioniq 5 Long Range AWD" title="Hyundai Ioniq 5 Long Range AWD">
 </a>
 <figcaption><h4>Hyundai Ioniq 5 Long Range AWD</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -83,7 +85,9 @@ You can order the car with tinted windows from B-pillar and back.
 <img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_awd/exterior_1_st.jpg" alt="Hyundai Ioniq 5 Long Range AWD" title="Hyundai Ioniq 5 Long Range AWD">
 </a>
 <figcaption><h4>Hyundai Ioniq 5 Long Range AWD</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -141,7 +145,9 @@ There is one climate system available. The 2-zone climate system supports differ
 
 Hyundai Ioniq 5 Long Range AWD has several features to make your life as a driver or passenger more comfortable. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -175,7 +181,9 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 <img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_awd/headlights_1_st.jpg" alt="Hyundai Ioniq 5 Long Range AWD" title="Hyundai Ioniq 5 Long Range AWD">
 </a>
 <figcaption><h4>Hyundai Ioniq 5 Long Range AWD</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 

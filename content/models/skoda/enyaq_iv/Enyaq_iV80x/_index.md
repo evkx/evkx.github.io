@@ -51,7 +51,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/charging_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Drivetrain
@@ -91,7 +93,9 @@ The windows from B-pillar and back are tinted.
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 
 ## Interior
@@ -167,7 +171,9 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
-You have wireless charging for your phone.  {{<evkxdisplayaddarticle />}}
+You have wireless charging for your phone.  
+{{<evkxdisplayaddarticle />}}
+
 
 
 ## User interface and control
@@ -201,7 +207,9 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/headlights_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+
 {{<evkxdisplayaddarticle />}}
+
 
 ## Advanced driver assistance systems
 
