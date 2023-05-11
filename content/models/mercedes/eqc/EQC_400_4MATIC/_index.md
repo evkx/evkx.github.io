@@ -107,7 +107,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. 
+There is one climate system available. This model has not [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with heat pump. 
 
 ## Comfort
 

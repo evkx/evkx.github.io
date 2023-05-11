@@ -6,6 +6,14 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nio ET5 banana box test 11.05.2023
+
+{{< youtube Q6M3SgtAzpc >}}
+
+### Bjørn Nyland: Nio ET5 acceleration, braking and noise test 11.05.2023
+
+{{< youtube iwgzx1qNOj8 >}}
+
 ### Bjørn Nyland: Nio ET5 headlights test 07.05.2023
 
 {{< youtube c27uOqHIjQ8 >}}

@@ -149,7 +149,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The standard climate system supports only controlling one common zone for the whole car. interior.hvac.heatpump
+There is one climate system available. The standard climate system supports only controlling one common zone for the whole car. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
