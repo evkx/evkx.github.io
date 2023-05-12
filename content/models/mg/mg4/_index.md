@@ -17,3 +17,16 @@ MG MG4 Electric Luxury is an all-electric crossover with a WLTP range of up to 4
 - [MG MG4 Electric Luxury image gallery](/models/mg/mg4/mg4_electric_luxury//gallery)
 - [MG MG4 Electric Luxury reviews](/models/mg/mg4/mg4_electric_luxury//reviews)
 
+## MG MG4 Electric Standard
+
+[![MG4 Electric Standard](https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/main_1_st.jpg)](/models/mg/mg4/mg4_electric_standard/)
+
+MG MG4 Electric Standard is an all-electric crossover with a WLTP range of up to 350 km (218 miles). EVKX.net have all the details. 
+
+- [MG MG4 Electric Standard article](/models/mg/mg4/mg4_electric_standard/)
+- [MG MG4 Electric Standard Range & consumption info](/models/mg/mg4/mg4_electric_standard//rangeandconsumption)
+- [MG MG4 Electric Standard Charging curve and performance](/models/mg/mg4/mg4_electric_standard//chargingcurve)
+- [MG MG4 Electric Standard full specifications](/models/mg/mg4/mg4_electric_standard//specifications)
+- [MG MG4 Electric Standard image gallery](/models/mg/mg4/mg4_electric_standard//gallery)
+- [MG MG4 Electric Standard reviews](/models/mg/mg4/mg4_electric_standard//reviews)
+
