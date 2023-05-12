@@ -78,6 +78,14 @@ Mercedes-Benz,commonly referred to as Mercedes and sometimes as Benz, is a Germa
 
 Mercedes has 7 models with total 25 variants. [Read all about them](mercedes/)
 
+## MG
+
+[![MG](https://media.evkx.net/multimedia/models/mg/brandevs_st.jpg)](mg/)
+
+MG is a British car brand that was founded in 1924 and is now owned by SAIC Motor, a Chinese automobile group. MG has a long history of producing sports cars and roadsters, but in recent years it has shifted to electric and hybrid vehicles. 
+
+MG has 1 models with total 1 variants. [Read all about them](mg/)
+
 ## Nio
 
 Nio Inc  is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company develops battery-swapping stations for its vehicles, as an alternative to conventional charging stations. 
