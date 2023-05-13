@@ -49,7 +49,7 @@ Wound-rotor synchronous motors offer several advantages, including:
 
 **Higher Power Factor:** Wound-rotor synchronous motors typically have a higher power factor compared to induction motors, which can help improve the overall efficiency of the motor and reduce reactive power demand from the power grid.
 
-**No need for rare-earth materials** 
+**No need for rare-earth materials** WRSM have no need for rare-earth materials.
 
 {{<evkxdisplayaddarticle />}}
 
