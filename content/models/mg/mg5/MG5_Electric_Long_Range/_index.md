@@ -1,7 +1,7 @@
 ---
 title: MG MG5 Electric Long Range
 linktitle: MG5 Electric Long Range
-description: intro.stationwagon.mid
+description: MG MG5 Electric Long Range is an all-electric station wagon with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -36,9 +36,9 @@ The MG MG5 Electric Long Range has a maximum power of 150KW (204hp). The total t
 
 The battery has a gross capacity of 61,1kWh and a net capacity of 57,4kWh, meaning you have a 3,7kWh buffer for protection. (6,1%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 400 to 380 km (249-236 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,4kWh/100km for the basic version and 15,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 87kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 23 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 60% resulting in an actual charge speed including time loss on 96kW. Each charge session would take 20 minutes and 21 seconds. 
+The maximum DC charging speed is 87kW. A full charge from 0 - 100% would take 75 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 58% resulting in an actual charge speed including time loss on 67kW. Each charge session would take 26 minutes and 50 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 9 minutes to drive. This trip will require five charge session(s) charging from 3% to 64%. The total time lost for charging will be 109 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 57 minutes to drive. This trip will require seven charge session(s) charging from 9% to 52%. The total time lost for charging will be 157 minutes.   
 ### Onboard charger
 
 
@@ -101,9 +101,10 @@ The following functionalities are available on the **standard** seat.
 
 - electric adjustment 
 
-You can choose from 2 different materials/colors for this seat type. 
+You can choose from 3 different materials/colors for this seat type. 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Grey [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -150,7 +151,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 7 inches large. The touch screen at the top of the center console is 10,2 inches large. 
+MG MG5 Electric Long Range has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10,25 inches large. The touch screen at the top of the center console is 7 inches large. 
 
 
 <figur>
@@ -166,7 +167,7 @@ This model is equipped with gesture gestura control system that lets you control
 
 ## Infotainment
 
-One type of sound system is available for the MG MG5 Electric Long Range. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+One type of sound system is available for the MG MG5 Electric Long Range. With the , you get NULL amplifier channels and six speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the MG MG5 Electric Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
