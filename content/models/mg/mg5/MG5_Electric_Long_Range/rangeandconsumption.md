@@ -37,5 +37,5 @@ The table below shows some estimated real-world examples in perfect condition an
 |----|-----|------|
 | 90kmh/56mph perfect condition | 383km /238mi| 15 kWh/100km / 4,1 mi/kWh |
 | 90kmh/56mph with 2KW heating | 345km /214mi| 16,7 kWh/100km / 3,7 mi/kWh |
-| 120kmh/75mph perfect condition | 273km /170mi| 21 kWh/100km / 3,0 mi/kWh |
-| 120kmh/75mph with 2KW heating | 407km /253mi| 22,7 kWh/100km / 2,7 mi/kWh |
+| 120kmh/75mph perfect condition | 250km /155mi| 23 kWh/100km / 2,7 mi/kWh |
+| 120kmh/75mph with 2KW heating | 375km /233mi| 24,7 kWh/100km / 2,5 mi/kWh |

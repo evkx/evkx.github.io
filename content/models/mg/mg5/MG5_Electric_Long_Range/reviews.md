@@ -10,6 +10,18 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube eP5ZHsrtdz0 >}}
 
+### Bjørn Nyland: MG5 driving impressions and summary 09.11.2022
+
+{{< youtube 9CO9HpsaPm8 >}}
+
+### Bjørn Nyland: MG5 1000 km challenge gone wrong 07.11.2022
+
+{{< youtube OUhDfzGZZ0s >}}
+
+### Bjørn Nyland: MG5 range test 06.11.2022
+
+{{< youtube FQn5b_y_5oQ >}}
+
 ### Bjørn Nyland: MG5 interior review & car seat/stroller test 05.11.2022
 
 {{< youtube gCwrWjEATf0 >}}
