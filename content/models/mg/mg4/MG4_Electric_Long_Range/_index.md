@@ -1,7 +1,7 @@
 ---
-title: MG MG4 Electric Luxury
-linktitle: MG4 Electric Luxury
-description: MG MG4 Electric Luxury is an all-electric crossover with a WLTP range of up to 435 km (270 miles). EVKX.net have all the details. 
+title: MG MG4 Electric Long Range
+linktitle: MG4 Electric Long Range
+description: MG MG4 Electric Long Range is an all-electric crossover with a WLTP range of up to 435 km (270 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,12 +9,12 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/main_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
+<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/main_1_st.jpg" alt="MG MG4 Electric Long Range" title="MG MG4 Electric Long Range">
 </a>
-<figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+<figcaption><h4>MG MG4 Electric Long Range</h4></figcaption></figur>
 
-We have separated our description of the MG MG4 Electric Luxury into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of the MG MG4 Electric Long Range into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -30,7 +30,7 @@ We have separated our description of the MG MG4 Electric Luxury into sections. I
 
 ## Performance
 
-The MG MG4 Electric Luxury has a maximum power of 150KW (204hp). The total torque is 250nm. The 0-100km/h sprint (0-62mph) takes 7,9 seconds. The top speed is 160 km/h. 
+The MG MG4 Electric Long Range has a maximum power of 150KW (204hp). The total torque is 250nm. The 0-100km/h sprint (0-62mph) takes 7,9 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -47,10 +47,10 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/charging_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
+<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/charging_1_st.jpg" alt="MG MG4 Electric Long Range" title="MG MG4 Electric Long Range">
 </a>
-<figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+<figcaption><h4>MG MG4 Electric Long Range</h4></figcaption></figur>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -59,7 +59,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-MG MG4 Electric Luxury has a rear-wheel drive system supported by one motor on the rear axle. 
+MG MG4 Electric Long Range has a rear-wheel drive system supported by one motor on the rear axle. 
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm. 
 
@@ -79,10 +79,10 @@ There is only one roof for this model.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/exterior_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
+<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/exterior_1_st.jpg" alt="MG MG4 Electric Long Range" title="MG MG4 Electric Long Range">
 </a>
-<figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+<figcaption><h4>MG MG4 Electric Long Range</h4></figcaption></figur>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -95,7 +95,7 @@ You can choose between different types of seat materials and interior styling.
 
 ### First row seats
 
-Only one front seat type is available in the MG MG4 Electric Luxury. 
+Only one front seat type is available in the MG MG4 Electric Long Range. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -109,10 +109,10 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/frontseats_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
+<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/frontseats_1_st.jpg" alt="MG MG4 Electric Long Range" title="MG MG4 Electric Long Range">
 </a>
-<figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+<figcaption><h4>MG MG4 Electric Long Range</h4></figcaption></figur>
 
 
 ### Second-row seat
@@ -124,10 +124,10 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/secondrowseats_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
+<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/secondrowseats_1_st.jpg" alt="MG MG4 Electric Long Range" title="MG MG4 Electric Long Range">
 </a>
-<figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+<figcaption><h4>MG MG4 Electric Long Range</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. 
@@ -138,7 +138,7 @@ There is one climate system available. The  climate system supports only control
 
 ## Comfort
 
-MG MG4 Electric Luxury has several features to make your life as a driver or passenger more comfortable. 
+MG MG4 Electric Long Range has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless go makes it possible to start the car without needing to use the key. 
 
@@ -154,10 +154,10 @@ The  screen behind the steering wheel mounted into the dashboard is 7 inches lar
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/screens_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
+<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/screens_1_st.jpg" alt="MG MG4 Electric Long Range" title="MG MG4 Electric Long Range">
 </a>
-<figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+<figcaption><h4>MG MG4 Electric Long Range</h4></figcaption></figur>
 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
@@ -166,9 +166,9 @@ This model is equipped with gesture gestura control system that lets you control
 
 ## Infotainment
 
-One type of sound system is available for the MG MG4 Electric Luxury. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+One type of sound system is available for the MG MG4 Electric Long Range. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the MG MG4 Electric Luxury supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the MG MG4 Electric Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 1 USB-C connections as standard. The models is equipped with 1 USB-A connections as standard. 
 ## Lights
@@ -177,10 +177,10 @@ The model has 1 USB-C connections as standard. The models is equipped with 1 USB
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/headlights_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
+<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/headlights_1_st.jpg" alt="MG MG4 Electric Long Range" title="MG MG4 Electric Long Range">
 </a>
-<figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+<figcaption><h4>MG MG4 Electric Long Range</h4></figcaption></figur>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -188,12 +188,12 @@ The model has 1 USB-C connections as standard. The models is equipped with 1 USB
 
 ## Advanced driver assistance systems
 
-The MG MG4 Electric Luxury has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The MG MG4 Electric Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
 
-The MG MG4 Electric Luxury has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The MG MG4 Electric Long Range has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 ### Driving Automation
 
@@ -212,7 +212,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/trunk_1_st.jpg" alt="MG MG4 Electric Luxury" title="MG MG4 Electric Luxury">
+<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/trunk_1_st.jpg" alt="MG MG4 Electric Long Range" title="MG MG4 Electric Long Range">
 </a>
-<figcaption><h4>MG MG4 Electric Luxury</h4></figcaption></figur>
+<figcaption><h4>MG MG4 Electric Long Range</h4></figcaption></figur>

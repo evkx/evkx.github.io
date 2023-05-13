@@ -13,3 +13,10 @@ weight: 30
 
 This model is available in 2 variant(s). 
 [Read full details](mg4/)
+
+## MG MG5
+
+[![MG5]()](mg5)
+
+This model is available in 1 variant(s). 
+[Read full details](mg5/)

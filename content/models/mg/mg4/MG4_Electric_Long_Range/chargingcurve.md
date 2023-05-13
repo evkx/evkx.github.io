@@ -1,7 +1,7 @@
 ---
-title: MG MG4 Electric Luxury charging curve & performance
+title: MG MG4 Electric Long Range charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for MG MG4 Electric Luxury. 
+description: Here you find the charging curve for MG MG4 Electric Long Range. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->

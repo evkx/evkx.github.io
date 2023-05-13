@@ -1,7 +1,7 @@
 ---
-title: MG MG4 Electric Luxury range & consumption
+title: MG MG5 Electric Long Range range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for MG MG4 Electric Luxury.
+description: Here you find all details about range and consumption for MG MG5 Electric Long Range.
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
@@ -17,8 +17,8 @@ Below are the officially rated ranges. The tests are performed with the heating/
 
 | | Range  | Consumption  |
 |----|-----|------|
-| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 435 km / 270mi |14,18kWh/100km / 4,4 mi/kWh | 
-| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 435 km / 270mi | 14,18 kWh/100km / 4,4 mi/kWh | 
+| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 400 km / 249mi |14,35kWh/100km / 4,3 mi/kWh | 
+| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 380 km / 236mi | 15,11 kWh/100km / 4,1 mi/kWh | 
 
 ### Official test cycle results with added heating
 
@@ -26,8 +26,8 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 
 | | Range  | Change  |
 |----|-----|------|
-| WLTP-combined basic trim with 2KW AC | 334km /208 mi | -23,2%|
-| WLTP-combined top trim with 2KW AC | 334km /208 mi | -23,2%|
+| WLTP-combined basic trim with 2KW AC | 308km /191 mi | -23,0%|
+| WLTP-combined top trim with 2KW AC | 296km /184 mi | -22,1%|
 
 ### Real world range estimates
 
@@ -35,7 +35,7 @@ The table below shows some estimated real-world examples in perfect condition an
 
 | | Range  | Consumption  |
 |----|-----|------|
-| 90kmh/56mph perfect condition | 411km /255mi| 15 kWh/100km / 4,1 mi/kWh |
-| 90kmh/56mph with 2KW heating | 370km /230mi| 16,7 kWh/100km / 3,7 mi/kWh |
-| 120kmh/75mph perfect condition | 294km /183mi| 21 kWh/100km / 3,0 mi/kWh |
-| 120kmh/75mph with 2KW heating | 438km /272mi| 22,7 kWh/100km / 2,7 mi/kWh |
+| 90kmh/56mph perfect condition | 383km /238mi| 15 kWh/100km / 4,1 mi/kWh |
+| 90kmh/56mph with 2KW heating | 345km /214mi| 16,7 kWh/100km / 3,7 mi/kWh |
+| 120kmh/75mph perfect condition | 273km /170mi| 21 kWh/100km / 3,0 mi/kWh |
+| 120kmh/75mph with 2KW heating | 407km /253mi| 22,7 kWh/100km / 2,7 mi/kWh |

@@ -1,11 +1,10 @@
 ---
-title: MG MG4 Electric Luxury specifications
+title: MG MG5 Electric Long Range specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for MG MG4 Electric Luxury.
+description: EVKX.net gives you the full specifications for MG MG5 Electric Long Range.
 weight: 30
 ---
-[![MG MG4 Electric Luxury](https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for MG MG4 Electric Luxury. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG4 Electric Luxury, visit the [chargeinfo](../chargecurve/) for MG MG4 Electric Luxury with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net seeks to have the most complete specifications for MG MG5 Electric Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG5 Electric Long Range, visit the [chargeinfo](../chargecurve/) for MG MG5 Electric Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -24,9 +23,12 @@ EVKX.net seeks to have the most complete specifications for MG MG4 Electric Luxu
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|435 km|
-|WLTP consumption|14,2 kWh/100km|
-|WLTP consumption with charging loss|166 kWh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|400 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|14,4 kWh/100km|
+|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|175 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|380 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|15,1 kWh/100km|
+|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|179 kwh/100km|
 
 
 
@@ -34,11 +36,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|64 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|61,7 kWh|
-|Max DC charging|135 kW|
-|[Pack Configuration](../../../../../technology/battery/batterypack/)|104s1p|
-|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NCM|
+|[Battery gross](../../../../../technology/battery/buffer/)|61,1 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|57,4 kWh|
+|Max DC charging|87 kW|
+|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC|
 
 
 
@@ -46,11 +47,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|Length|4287 mm|
-|Height|1504 mm|
-|Width excluding mirrors|1836 mm|
-|Widht including mirrors|2060 mm|
-|Wheelbase|2705 mm|
+|Length|4600 mm|
+|Height|1543 mm|
+|Width excluding mirrors|1818 mm|
+|Widht including mirrors|2059 mm|
+|Wheelbase|2659 mm|
 
 ## Suspension
 
@@ -61,8 +62,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Not available|
 |Adjustable height front|Not available|
 |Adjustable height rear|Not available|
-|Max ground clearance|150|
-|Minimum ground clearance|150|
+|Max ground clearance|115|
+|Minimum ground clearance|115|
 |Suspension type front|SteelSpringsWithOilDampers|
 |Suspension construction front|MacPhersonStrut|
 |Suspension type rear|SteelSpringsWithOilDampers|
@@ -122,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert||
 |Reversing camera|Yes, standard equipment|
-|360 camera|Yes, standard equipment|
+|360 camera|Yes, optional equipment|
 |Rear cross traffic alert||
 |Rear parking sensors||
 |Front parking sensors||
