@@ -19,8 +19,28 @@ The charging process is reversible, and during discharge, the electrons flow bac
 
 The charging performance varies a lot between EVs. There is serveral aspects that affects the charging speed
 
-**The pack configuration**
+**The pack configuration** The pack configuration can affect the charging speed. A configuration that give low voltage can cause that you hit external limits on charging current. Example a 50KW DC CCS charger has maximum 125A power. To get 50KW from 125A you need minimum 400 Volt. A car with 300 volt nominal voltage would be limited to 37.5KW
 
+It is the same with CCS HPC Chargers. This is limited to 500 Amper.  400 volt on 500 Amper is max 200KW. A 300 volt car would be limited to 150KW.
+
+
+
+
+
+#### Charging speed examples
+
+EVKX show the charge performance for each EV on our site. 
+
+The following is some examples on EV with different types of charging performance.
+
+[Lucid Air Dream Edition Performance](/models/lucid/air/air_dream_edition_performance/) is the first example. It has an extreme top charging speed of over 300kW but falls quickly
+
+![Image](/models/lucid/air/air_dream_edition_performance/chargingcurve.svg)
+
+
+[Kia EV6 GT](/models/kia/ev6/ev6_gt/) is the next example. This is one of the fastest charging EVs with high speed and much flatter curve
+
+![Image](/models/kia/ev6/ev6_gt/chargingcurve.svg)
 
 
 
