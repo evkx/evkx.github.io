@@ -6,6 +6,14 @@ weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range">
+</a>
+<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+
 We have separated our description of the MG MG5 Electric Long Range into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
@@ -37,13 +45,21 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 13 minutes. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/charging_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range">
+</a>
+<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+
+
 {{<evkxdisplayaddarticle />}}
 
 
 
 ## Drivetrain
 
-MG MG5 Electric Long Range has a rear-wheel drive system supported by one motor on the rear axle. 
+MG MG5 Electric Long Range has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 115 mm. 
 
@@ -51,7 +67,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
 
 ## Exterior
 
@@ -60,6 +76,14 @@ You can choose between 4 different paint colors when ordering this model.
 
 
 There is only one roof for this model. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/exterior_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range">
+</a>
+<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -83,11 +107,27 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/frontseats_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range">
+</a>
+<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+
+
 ### Second-row seat
 
 
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/secondrowseats_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range">
+</a>
+<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. 
@@ -112,6 +152,14 @@ You have wireless charging for your phone.
 
 The  screen behind the steering wheel mounted into the dashboard is 7 inches large. The touch screen at the top of the center console is 10,2 inches large. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/screens_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range">
+</a>
+<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+
+
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
 
 This model is equipped with gesture gestura control system that lets you control specific features. 
@@ -122,7 +170,7 @@ One type of sound system is available for the MG MG5 Electric Long Range. With t
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the MG MG5 Electric Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 1 USB-C connections as standard. The models is equipped with 1 USB-A connections as standard. 
+The model has 2 USB-C connections as standard. The models is equipped with 2 USB-A connections as standard. 
 ## Lights
 
 
@@ -153,3 +201,10 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 479 liters. With the rear seat down, it is 1367 liters. On the roof, you can load up to 75kg. Max weight is 2017kg, and with the base weight of 1562 kg, you can max load 455 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, 500kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/trunk_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range">
+</a>
+<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>

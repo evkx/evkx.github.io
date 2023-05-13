@@ -6,7 +6,7 @@ weight: 30
 ---
 ## MG MG5 Electric Long Range
 
-[![MG5 Electric Long Range]()](/models/mg/mg5/mg5_electric_long_range/)
+[![MG5 Electric Long Range](https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg)](/models/mg/mg5/mg5_electric_long_range/)
 
 intro.stationwagon.mid
 

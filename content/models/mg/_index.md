@@ -16,7 +16,7 @@ This model is available in 2 variant(s).
 
 ## MG MG5
 
-[![MG5]()](mg5)
+[![MG5](https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg)](mg5)
 
 This model is available in 1 variant(s). 
 [Read full details](mg5/)

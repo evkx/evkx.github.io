@@ -4,6 +4,7 @@ linktitle: Specifications
 description: EVKX.net gives you the full specifications for MG MG5 Electric Long Range.
 weight: 30
 ---
+[![MG MG5 Electric Long Range](https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for MG MG5 Electric Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG5 Electric Long Range, visit the [chargeinfo](../chargecurve/) for MG MG5 Electric Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
@@ -81,19 +82,19 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Standard feature|
-|Interior.Seatoptions.MemoryDriverSeat|Unknown|
-|Interior.Seatoptions.MemoryPassangerSeat|Unknown|
+|Interior.Seatoptions.MemoryDriverSeat|Not Available|
+|Interior.Seatoptions.MemoryPassangerSeat|Not Available|
 |Height adjustable headrest|Unknown|
 |Length adjustable headrest|Unknown|
-|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
-|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Unknown|
-|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Unknown|
-|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
-|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
-|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
+|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
+|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|
+|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Not Available|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Unknown|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Unknown|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Unknown|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
 
 ### Front seats
 

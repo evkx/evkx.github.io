@@ -10,3 +10,7 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube eP5ZHsrtdz0 >}}
 
+### Bjørn Nyland: MG5 interior review & car seat/stroller test 05.11.2022
+
+{{< youtube gCwrWjEATf0 >}}
+
