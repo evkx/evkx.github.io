@@ -14,6 +14,10 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube 9CO9HpsaPm8 >}}
 
+### Bjørn Nyland: MG5 acceleration and noise test 08.11.2022
+
+{{< youtube A1VJPxD32Uw >}}
+
 ### Bjørn Nyland: MG5 1000 km challenge gone wrong 07.11.2022
 
 {{< youtube OUhDfzGZZ0s >}}

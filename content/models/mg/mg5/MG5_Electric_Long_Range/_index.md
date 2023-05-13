@@ -30,7 +30,7 @@ We have separated our description of the MG MG5 Electric Long Range into section
 
 ## Performance
 
-The MG MG5 Electric Long Range has a maximum power of 150KW (204hp). The total torque is 250nm. The 0-100km/h sprint (0-62mph) takes 7,9 seconds. The top speed is 160 km/h. 
+The MG MG5 Electric Long Range has a maximum power of 115KW (156hp). The total torque is 280nm. The 0-100km/h sprint (0-62mph) takes 8,3 seconds. The top speed is 185 km/h. 
 
 ## Battery, range, and charging
 
@@ -151,7 +151,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-MG MG5 Electric Long Range has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10,25 inches large. The touch screen at the top of the center console is 7 inches large. 
+MG MG5 Electric Long Range has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen at the top of the center console is 10,25 inches large. 
 
 
 <figur>

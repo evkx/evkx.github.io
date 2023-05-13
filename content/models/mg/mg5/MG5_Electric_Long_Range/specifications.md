@@ -12,10 +12,10 @@ EVKX.net seeks to have the most complete specifications for MG MG5 Electric Long
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|150 Kw|
-|Electrical torque output in Nm|250 Nm|
-|Top speed|160 km/h|
-|0-100km/h (0-62 mph)|7,9 s|
+|Peak electrical output in kW|115 Kw|
+|Electrical torque output in Nm|280 Nm|
+|Top speed|185 km/h|
+|0-100km/h (0-62 mph)|8,3 s|
 
 
 
