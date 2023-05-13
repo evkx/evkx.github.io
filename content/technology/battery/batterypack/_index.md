@@ -15,17 +15,7 @@ The series connection of cells increases the voltage output of the battery pack,
 
 The specific battery configuration used in an EV depends on a variety of factors, such as the desired range, power output, and overall vehicle weight.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6415007331199958"
-     data-ad-slot="6143356420"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{<evkxdisplayaddarticle />}}
 
 ### 400 or 800 volts?
 
@@ -76,22 +66,9 @@ Here are some configuration examples
 | [Mercedes EQS](../../../models/mercedes/eqs/) | 120kWh | 108s4p | 396 Volt |
 | [Tesla Model Y Long Range](../../../models/tesla/model_y/model_y_long_range/) | 78.1kWh | 96s46p | 357 Volt |
 
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6415007331199958"
-     data-ad-slot="6143356420"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{<evkxdisplayaddarticle />}}
 
 ## Battery pack designs
-
 
 ## Cell-to-module
 
@@ -131,17 +108,7 @@ C2P technology has several advantages over traditional battery pack designs. It 
 
 Overall, cell-to-pack technology is a promising innovation in EV battery design that could help reduce costs and improve performance.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6415007331199958"
-     data-ad-slot="6143356420"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{<evkxdisplayaddarticle />}}
 
 ## Structural battery pack
 
@@ -163,4 +130,4 @@ The below video show a detailed analysis of the pack by Munro & Associates.
 
 <br /> <br />
 
-Continue reading about [Battery Mangement System](../batterymanagment/) or go back to [article overview](../). 
+Continue reading about [Battery Mangement System](../batterymanagment/) or go back to [article overview](../).

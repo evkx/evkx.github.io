@@ -15,6 +15,8 @@ In an EV, the BMS plays a crucial role in ensuring the optimal performance and l
 
 **Discharging control:** The BMS also controls the discharging of the battery, ensuring that the battery is used in a safe and efficient manner. It regulates the output voltage and current, and ensures that the battery is not discharged beyond its safe limits.
 
+{{<evkxdisplayaddarticle />}}
+
 **Thermal management:** The BMS monitors the temperature of the battery and manages the cooling and heating systems to maintain the optimal temperature range for the battery. This helps to prevent overheating, which can cause damage to the battery, and maintain the battery's performance and longevity.
 
 **State of Health (SOH) monitoring:** The BMS monitors the SOH of the battery by analyzing its performance and degradation over time. It provides warnings and alerts when the battery's health is compromised, and recommends maintenance or replacement when necessary.

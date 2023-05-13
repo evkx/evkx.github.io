@@ -22,6 +22,8 @@ These free electrons congregate inside the anode. As a result, the two electrode
 
 The anode becomes negatively charged as electrons are released, and the cathode becomes positively charged as positive lithium-ions are consumed.
 
+{{<evkxdisplayaddarticle />}}
+
 This difference in charge causes the electrons to want to move toward the positively charged cathode. However, they don't have a way to get there inside the battery because the separator prevents them from doing so. The charge is measured in volt and depends on the chemistry used. A typical Lithium-ion cell has a charge between 3.6 - 4.2 volts depending on the state of charge (SOC).
 
 In an EV we can take advantage of that desire for the electrons to re-unite with the positive lithium-ions in the cathode. If we

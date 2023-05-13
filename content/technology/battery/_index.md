@@ -20,3 +20,6 @@ We have split the article into separate sections.
 - [Cell Balancing](cellbalancing)
 - [Degradation](degredation)
 - [Manufactors](manufactors)
+
+
+{{<evkxdisplayaddarticle />}}
