@@ -37,6 +37,8 @@ The wound-rotor synchronous motor operates based on the principles of electromag
 
 The rotor winding is excited with DC current, creating a magnetic field in the rotor. The interaction between the stator's rotating magnetic field and the rotor's magnetic field causes the rotor to rotate in synchronism with the stator's magnetic field, hence the name "synchronous motor."
 
+{{<evkxdisplayaddarticle />}}
+
 ## Advantages
 
 Wound-rotor synchronous motors offer several advantages, including:
@@ -46,6 +48,10 @@ Wound-rotor synchronous motors offer several advantages, including:
 **High Efficiency:** Wound-rotor synchronous motors can achieve high efficiency due to their ability to control the rotor circuit impedance, which allows for optimized motor performance under different load conditions.
 
 **Higher Power Factor:** Wound-rotor synchronous motors typically have a higher power factor compared to induction motors, which can help improve the overall efficiency of the motor and reduce reactive power demand from the power grid.
+
+**No need for rare-earth materials** 
+
+{{<evkxdisplayaddarticle />}}
 
 ## Limiations
 

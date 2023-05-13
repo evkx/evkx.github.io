@@ -11,10 +11,18 @@ During the charging process, electrons flow from the charging source (e.g., char
 
 When the battery is fully charged, the cathode material is at its maximum capacity to store electrons, and the anode is fully depleted of positive ions. The battery is in a stable state with a high potential difference between the cathode and the anode, which is what provides the electric energy stored in the battery.
 
+![Battery charging](batteryconceptcharging.drawio.svg "Charging process")
+
 The charging process is reversible, and during discharge, the electrons flow back from the cathode to the anode through an external circuit, creating a flow of electric current that can power an electric motor.
 
-Overall, the charging and discharging process of an EV battery involves the movement of electrons and ions between the electrodes, which creates an electric potential difference that can be used to power an electric vehicle.
+### Charging performance
 
-![Battery charging](batteryconceptcharging.drawio.svg "Charging process")
+The charging performance varies a lot between EVs. There is serveral aspects that affects the charging speed
+
+**The pack configuration**
+
+
+
+
 
 Continue to [degredation](../degredation/) or go back to the [article overview](../).
