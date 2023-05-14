@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nio ET5 range test 14.05.2023
+
+{{< youtube y99s3YMNf7c >}}
+
 ### Bjørn Nyland: Nio ET5 banana box test 11.05.2023
 
 {{< youtube Q6M3SgtAzpc >}}
