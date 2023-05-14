@@ -47,6 +47,8 @@ These are doors that open vertically instead of horizontally. They are hinged on
     <figcaption><h4>XPENG P7 with scissor doors</h4></figcaption>
 </figur>
 
+{{<evkxdisplayaddarticle />}}
+
 ### Second row doors
 
 These are the doors located at the rear of the car, usually on both sides of the back seat. They are typically hinged on their rear edge and open outward. They are also called back doors.
@@ -79,6 +81,8 @@ These are doors that open upward instead of outward. They are hinged on their to
     </a>
     <figcaption><h4>ID.Buzz concept with sliding second row door</h4></figcaption>
 </figur>
+
+{{<evkxdisplayaddarticle />}}
 
 ## Rear opening
 
@@ -145,6 +149,8 @@ The hood on cars is the hinged cover over the engine of front-engine and awd EVs
     </a>
     <figcaption><h4>Lucid Air Hood</h4></figcaption>
 </figur>
+
+{{<evkxdisplayaddarticle />}}
 
 ## Features of Doors in Cars
 
