@@ -25,6 +25,8 @@ ALC systems are typically found in higher-end vehicles and use a combination of 
 5. The ALC system will continue to monitor the surrounding traffic and adjust the vehicle's speed and trajectory as necessary to complete the lane change maneuver safely.
 6. Once the vehicle is safely in the new lane, the ALC system will disengage and allow the driver to resume control of the vehicle.
 
+{{<evkxdisplayaddarticle />}}
+
 The following video show how this works on Merceds Benz with their ALC system.
 
 {{< youtube XtQeZk-xCqE >}}

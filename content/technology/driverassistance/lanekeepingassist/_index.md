@@ -6,7 +6,9 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
- Unlike LDW, which only alerts the driver when they are about to leave their lane, LKA actively intervenes by applying steering inputs to keep the vehicle centered within the lane.
+Unlike LDW, which only alerts the driver when they are about to leave their lane, LKA actively intervenes by applying steering inputs to keep the vehicle centered within the lane.
+
+{{<evkxdisplayaddarticle />}}
 
 LKA uses similar sensors and cameras to LDW to monitor the vehicle's position on the road and the distance between the vehicle and the lane markings. When the system detects that the vehicle is drifting out of its lane, it applies a gentle steering correction to guide the vehicle back to the center of the lane.
 

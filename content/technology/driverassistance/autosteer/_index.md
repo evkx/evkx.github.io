@@ -10,6 +10,8 @@ It is typically used in combination with other features, such as adaptive cruise
 
 Autosteer works by using a combination of cameras, sensors, and other technologies to detect the position of the vehicle within the lane, as well as the position of other vehicles on the road. The system then uses this information to adjust the steering and keep the vehicle centered within the lane, maintaining a safe following distance from other vehicles ahead.
 
+{{<evkxdisplayaddarticle />}}
+
 To use Autosteer, the driver typically needs to activate the system using a button or switch on the steering wheel or dashboard. The system may require the driver to keep their hands on the steering wheel at all times, and may periodically provide alerts or prompts to ensure the driver remains alert and engaged while the system is in use.
 
 Many Autosteer or similar autonomous driving systems have time limits or other requirements for driver attention and engagement.
@@ -33,5 +35,7 @@ Manufacturers may use different names for their Autosteer systems, but some comm
 - CoPilot360 (Ford)
 - Nio Pilot (NIO)
 - Autopilot (Tesla)
+
+{{<evkxdisplayaddarticle />}}
 
 It's important to note that the exact features and capabilities of each manufacturer's Autosteer system may vary, and drivers should always consult their vehicle's owner's manual and familiarize themselves with the specific features and limitations of their system.

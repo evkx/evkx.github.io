@@ -31,7 +31,11 @@ The most common systems are:
 - [Traffic Sign Recognition](trafficsignrecognition) (TSR)
 - Tire Pressure Monitoring System (TPMS)
 
+{{<evkxdisplayaddarticle />}}
+
 ### Level of autonomous driving
+
+The level of autonomous driving, also known as the autonomy level, refers to the degree of automation and control a vehicle has over its operation. 
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/driverassistance/illustration.jpg">
@@ -40,7 +44,6 @@ The most common systems are:
     <figcaption><h4>Mercedes EQS with level 3 autonomous  driving</h4></figcaption>
 </figur>
 
-The level of autonomous driving, also known as the autonomy level, refers to the degree of automation and control a vehicle has over its operation. 
 
 There are six levels of autonomy defined by the Society of Automotive Engineers ([SAE](https://www.sae.org/)) that describe the increasing levels of automation and decreasing need for human input:
 

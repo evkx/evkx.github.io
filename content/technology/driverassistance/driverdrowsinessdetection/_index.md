@@ -14,6 +14,8 @@ The system uses various sensors such as cameras, steering angle sensors, and mic
 
 The software analyzes the data collected by the sensors and looks for signs of drowsiness, such as erratic steering, drifting out of lane, slowed reaction time, or changes in head position.
 
+{{<evkxdisplayaddarticle />}}
+
 The system then alerts the driver if it detects signs of drowsiness or fatigue. This alert may be in the form of a sound, visual warning, or vibration of the seat or steering wheel.
 
 Some systems may also recommend taking a break or suggest a nearby rest stop for the driver to rest and recharge.

@@ -8,6 +8,8 @@ weight: 3
 
 The purpose of this system is to improve safety by detecting when the driver is becoming fatigued, distracted, or impaired and providing alerts or interventions to prevent accidents.
 
+{{<evkxdisplayaddarticle />}}
+
 The driver monitoring system can work in various ways, depending on the specific car model and the type of sensor used. Some common features of driver monitoring systems include:
 
 Eye tracking: This feature uses a camera to track the driver's eye movements and detect if they are becoming drowsy or distracted. If the system detects that the driver is not paying attention to the road, it can provide an alert to bring their focus back to driving.

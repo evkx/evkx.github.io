@@ -16,6 +16,8 @@ Pedestrian Detection with Autonomous Emergency Braking: This type of AEB system 
 
 Automatic Emergency Braking can help improve safety on the roads by reducing the likelihood and severity of collisions. However, it's important to note that AEB systems are not a substitute for attentive and safe driving practices, and drivers should always remain focused and alert while behind the wheel.
 
+{{<evkxdisplayaddarticle />}}
+
 The European Union (EU) has implemented regulations for Automatic Emergency Braking (AEB) systems on new passenger cars and light commercial vehicles as part of the General Safety Regulation (GSR) (EU) 2019/2144. The regulations require that all new vehicles sold in the EU must be equipped with an AEB system as standard equipment.
 
 The EU regulation specifies that the AEB system must meet the following requirements:

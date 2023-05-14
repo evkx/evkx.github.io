@@ -8,6 +8,8 @@ weight: 3
 
 It is an advanced version of traditional cruise control that adjusts your car's speed based on the speed of the vehicle in front of you.
 
+{{<evkxdisplayaddarticle />}}
+
 ## How does it work?
 
 <figur>

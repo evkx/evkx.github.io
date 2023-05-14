@@ -8,6 +8,8 @@ weight: 3
 
 The technology uses a combination of sensors, cameras, and software to detect and maneuver the car into a parking spot.
 
+{{<evkxdisplayaddarticle />}}
+
 ## How does it work?
 
 The driver initiates the automatic parking feature, either via a button or through a smartphone app.

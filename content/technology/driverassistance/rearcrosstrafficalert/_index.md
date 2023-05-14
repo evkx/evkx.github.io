@@ -19,6 +19,8 @@ The system alerts the driver with visual and/or audible warnings to prevent a co
 
 When the vehicle is put into reverse, the RCTA system uses sensors such as radar or cameras to detect approaching vehicles from the sides.
 
+{{<evkxdisplayaddarticle />}}
+
 The system then analyzes the data received from the sensors and determines the distance and speed of the approaching vehicle.
 
 If the system detects a vehicle approaching within a certain range, it will alert the driver with visual and/or audible warnings.

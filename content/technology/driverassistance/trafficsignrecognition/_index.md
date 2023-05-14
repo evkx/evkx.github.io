@@ -12,6 +12,8 @@ weight: 3
 
 The vehicle is equipped with cameras, either on the front windshield or on the side mirrors, that scan the road ahead.
 
+{{<evkxdisplayaddarticle />}}
+
 The software analyzes the images captured by the cameras and uses pattern recognition algorithms to identify road signs.
 
 Once a road sign is recognized, the system may display the information on the dashboard, head-up display, or infotainment screen, depending on the vehicle model.
@@ -36,3 +38,5 @@ Some systems may also provide a warning or an alert if the driver fails to compl
 </figur>
 
 Traffic Sign Recognition can help drivers stay aware of road conditions and regulations, especially when driving in unfamiliar areas or when visibility is poor. However, it is important to note that TSR is not infallible and can sometimes misinterpret or fail to detect certain signs, so it should not be relied on exclusively. Drivers should always keep an eye out for road signs and comply with them accordingly.
+
+{{<evkxdisplayaddarticle />}}

@@ -16,11 +16,15 @@ The performance of the anode is a critical factor in the overall performance and
 
 In summary, the anode is the electrode where oxidation occurs during the discharge cycle of an EV battery, releasing electrons into the external circuit to power the device. It is typically made of graphite and plays a critical role in the performance and safety of the battery.
 
+{{<evkxdisplayaddarticle />}}
+
 ## Cathode
 
 The cathode is the electrode where reduction occurs during the discharge cycle of the battery, accepting electrons from the external circuit to power the device or vehicle. During the charging cycle, the cathode is where oxidation occurs, releasing electrons into the external circuit and storing energy in the battery.
 
 In a lithium-ion battery, the cathode is typically made of a metal oxide, such as lithium cobalt oxide (LCO), lithium nickel manganese cobalt oxide (NMC), or lithium iron phosphate (LFP). The choice of cathode material can have a significant impact on the performance, safety, and cost of the battery.
+
+{{<evkxdisplayaddarticle />}}
 
 ### Lithium nickel manganese cobalt oxides (NMC)
 
@@ -36,6 +40,8 @@ In addition to the metal ratios, the particle size and morphology of the cathode
 
 Overall, the choice of NMC cathode composition and morphology depends on the specific requirements of the EV battery, including energy density, power density, thermal stability, durability, and cost. Battery manufacturers are constantly researching and developing new NMC cathode materials to improve the performance and efficiency of EV batteries.
 
+{{<evkxdisplayaddarticle />}}
+
 ### Lithium nickel cobalt aluminum oxides (NCA)
 
 NCA cathodes have a high energy density and are used in EV batteries, particularly in Tesla's vehicles. NCA cathodes offer high energy density and good performance, making them a popular choice for many EV manufacturers.
@@ -47,6 +53,8 @@ NCA cathodes also have good power density, which means they can deliver high pow
 However, NCA cathodes can be sensitive to high temperatures, which can cause thermal degradation and reduce their lifespan. To address this, EV manufacturers often use sophisticated battery thermal management systems to maintain the temperature of the battery within a safe operating range.
 
 Overall, NCA cathodes offer a good balance between energy density and power density, making them a popular choice for EVs that require high performance and long driving range. However, their sensitivity to high temperatures means they require careful thermal management to maintain their performance and lifespan.
+
+{{<evkxdisplayaddarticle />}}
 
 ### Lithium iron phosphate battery (LFP)
 
@@ -62,6 +70,8 @@ However, LFP cathodes have a lower energy density compared to some other cathode
 
 Overall, LFP cathodes offer a balance between safety, durability, and cost-effectiveness, and are a good choice for certain EV applications that require these characteristics.
 
+{{<evkxdisplayaddarticle />}}
+
 ## Seperator
 
 A separator is an essential component of an electric vehicle (EV) battery that is placed between the cathode and anode to prevent them from touching and causing a short circuit. The separator is typically a thin, porous membrane made of a polymer material that allows the flow of lithium ions between the cathode and anode, while preventing the flow of electrons.
@@ -74,6 +84,8 @@ There are several types of separator materials used in EV batteries, including p
 
 In summary, the separator is a critical component of an EV battery that helps prevent short circuits and maintains the uniformity of the battery's internal structure, while allowing the flow of lithium ions necessary for the battery to function.
 
+{{<evkxdisplayaddarticle />}}
+
 ## Electrolyte
 
 Liquid electrolytes in lithium-ion batteries consist of lithium salts in an organic solvent, such as ethylene carbonate, dimethyl carbonate, and diethyl carbonate.
@@ -81,6 +93,8 @@ Liquid electrolytes in lithium-ion batteries consist of lithium salts in an orga
 A liquid electrolyte acts as a conductive pathway for the movement of cations passing from the negative to the positive electrodes during discharge and the opposite direction when charging.
 
 Electrolytes based on solid materials are areas that many works on. These are called [solid-state batteries](https://en.wikipedia.org/wiki/Solid-state_battery). Currently, there are no concrete plans for any mass production EV with Solid-state batteries.
+
+{{<evkxdisplayaddarticle />}}
 
 ## Current collector
 

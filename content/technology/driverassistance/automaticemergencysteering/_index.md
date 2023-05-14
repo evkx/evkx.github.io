@@ -17,6 +17,8 @@ AES systems use sensors such as cameras, radar, or lidar to monitor the road ahe
 
 When the AES system detects that a collision is imminent, it can take over the steering of the vehicle and steer it away from the object or pedestrian. The system may also apply the brakes or adjust the vehicle's speed to further avoid or reduce the severity of the collision.
 
+{{<evkxdisplayaddarticle />}}
+
 AES systems use a variety of algorithms to determine the likelihood and severity of a collision, taking into account factors such as the speed of the vehicle, the distance to the object or pedestrian, and the rate of closure. The system may also incorporate information about the road layout, traffic flow, and weather conditions to further refine its steering and braking algorithms.
 
 Overall, AES systems are designed to provide an additional layer of safety to help drivers avoid collisions. However, it's important to note that AES systems are not a substitute for safe and attentive driving practices, and drivers should always keep a safe following distance and be prepared to brake or steer away from an obstacle if necessary. Additionally, AES systems may not be available on all vehicles or may require certain conditions to be met in order to function properly.

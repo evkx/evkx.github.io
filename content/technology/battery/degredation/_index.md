@@ -34,6 +34,8 @@ To prevent or minimize the impact of calendar aging on EV batteries, it is recom
 
 Cycle aging is a type of battery degradation that occurs in EV batteries as a result of repeated charging and discharging cycles. Each cycle can cause some wear and tear on the battery, which can lead to a gradual loss of capacity and performance over time.
 
+{{<evkxdisplayaddarticle />}}
+
 During cycle aging, the active materials in the electrodes can degrade and lose their ability to store and release energy. This can cause an increase in the battery's internal resistance, which can reduce the battery's capacity and overall performance. Additionally, cycle aging can cause physical changes to the battery, such as the formation of solid-electrolyte interface (SEI) layers or the growth of dendrites, which can further reduce the battery's capacity and performance.
 
 ### Cycle aging based on SOC area

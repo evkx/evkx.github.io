@@ -10,6 +10,8 @@ BSM systems typically use radar or cameras mounted on the side mirrors or rear b
 
 When the BSM system detects a vehicle in the blind spot, it will typically provide a visual or audible alert to the driver, such as a warning light on the side mirror or a sound inside the vehicle. The system may also provide additional alerts, such as vibrating the steering wheel or seat.
 
+{{<evkxdisplayaddarticle />}}
+
 Some BSM systems also provide additional features, such as Rear Cross Traffic Alert (RCTA), which can alert the driver if a vehicle or object is approaching from the side while reversing out of a parking space.
 
 Blind Spot Monitoring can help improve safety on the roads by reducing the likelihood of collisions caused by driver error or misjudgment. However, it's important to note that BSM systems are not a substitute for attentive and safe driving practices, and drivers should always check their mirrors and look over their shoulder to ensure that the lane is clear before changing lanes or merging into traffic.
