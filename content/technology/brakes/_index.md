@@ -9,6 +9,8 @@ weight: 2
 Due to the [regenerative braking](../regen/) capability of electric motors in EVs, the traditional friction brakes may be used less frequently, resulting in reduced wear on the brake pads and discs compared to ICE vehicles.
 However, it’s important to note that all EVs still have traditional friction brakes as a backup or supplementary system for hard braking or emergencies. The use of regenerative braking and standard friction brakes in EVs depends on the specific design and configuration of the vehicle, as well as the preferences and driving habits of the driver.
 
+{{<evkxdisplayaddarticle />}}
+
 ## Disc Brakes
 
 Disc brakes, or “disk brakes,” are automobile braking systems. They are a friction-based braking system that uses a rotating disc, or rotor, to slow down or stop the vehicle.
@@ -37,6 +39,8 @@ Disc brakes have become the standard in most modern vehicles due to their perfor
 
 Brake discs, or rotors, can be made of different materials depending on the specific application and performance requirements.
 
+{{<evkxdisplayaddarticle />}}
+
 ### Cast-iron/Steel Disc Brakes
 
 Steel disc brakes are the most common type of brakes used in automobiles, including EVs. These brakes work by using friction between the brake pads and the brake disc to slow down or stop the vehicle. The brake pads are made of a composite material that includes steel fibers, carbon fibers, and ceramic materials. The brake disc is usually made of cast iron.
@@ -62,6 +66,8 @@ Carbid brakes are a type of high-performance brake that is used in some EVs. The
 </figur>
 
 One of the main advantages of carbid brakes is their ability to withstand high temperatures without losing their effectiveness. They are also more resistant to wear than steel disc brakes, which means they have a longer lifespan. However, they are more expensive than steel disc brakes, which can make them less practical for some applications.
+
+{{<evkxdisplayaddarticle />}}
 
 ### Ceramic Brakes
 
@@ -110,6 +116,8 @@ Key differences between floating and fixed brake calipers include:
 
 Both floating and fixed calipers are used in disc brake systems and have their advantages and disadvantages depending on the specific application and performance requirements. The choice between floating and fixed calipers is typically determined by factors such as vehicle type, performance requirements, cost considerations, and manufacturer preferences. Many models have fixed calipers on front axle, and floating on rear axle. 
 
+{{<evkxdisplayaddarticle />}}
+
 ## Drum Brakes
 
 Drum brakes are a type of brake that is used in some EVs, especially in the rear wheels. They work by using friction between the brake shoes and the inside of the brake drum to slow down or stop the vehicle. The brake shoes are made of a composite material that includes steel fibers, carbon fibers, and ceramic materials. The brake drum is usually made of cast iron.
@@ -128,6 +136,8 @@ One of the main advantages of drum brakes is their simplicity and low cost. They
 The size of the brakes used in EVs can vary depending on the vehicle's weight, size, and intended use. Generally, larger brakes are needed for heavier vehicles and for vehicles that are used for high-performance applications.
 
 The size of the brakes is typically determined by the diameter of the brake disc or the brake drum. The larger the diameter, the more surface area there is for the brake pads or shoes to grip, which means more braking force can be applied.
+
+{{<evkxdisplayaddarticle />}}
 
 ## Brake-by-wire technology and blended brakes
 
@@ -152,4 +162,6 @@ However, it's important to note that brake-by-wire technology also comes with so
 
 In summary, brake-by-wire technology is an advanced system that allows for seamless integration of regenerative and friction braking in EVs. It offers improved energy efficiency, driving range, and advanced braking features, but also requires careful consideration of reliability, safety, and driver education. As technology continues to evolve, brake-by-wire systems are expected to play a significant role in the future of EV braking systems, contributing to more efficient and sustainable transportation.
 
-In our EVKX database you search for models with differen types of brakes. 
+In our EVKX database you search for models with differen types of brakes.
+
+{{<evkxdisplayaddarticle />}}
