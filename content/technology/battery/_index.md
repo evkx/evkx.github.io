@@ -6,7 +6,17 @@ weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-In this article, we will explore the different types of EV batteries, how they work, their advantages and disadvantages, and the latest developments in EV battery technology. We will also discuss the environmental impact of EV batteries. By the end of this article, you will better understand the current state and future prospects of EV batteries and their role in the transition to a more sustainable transportation system.
+In this article, we will explore the different types of EV batteries, how they work, their advantages and disadvantages, and the latest developments in EV battery technology. We will also discuss the environmental impact of EV batteries. 
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/battery/bmwixbattery_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/battery/bmwixbattery_1_st.jpg"
+        alt="BMW iX Battery pack" title="BMW iX Battery pack">
+    </a>
+    <figcaption><h4>BMW iX Battery pack</h4></figcaption>
+</figure>
+
+By the end of this article, you will better understand the current state and future prospects of EV batteries and their role in the transition to a more sustainable transportation system.
 
 We have split the article into separate sections.
 
@@ -20,6 +30,5 @@ We have split the article into separate sections.
 - [Cell Balancing](cellbalancing)
 - [Degradation](degredation)
 - [Manufactors](manufactors)
-
 
 {{<evkxdisplayaddarticle />}}
