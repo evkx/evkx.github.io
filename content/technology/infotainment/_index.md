@@ -20,6 +20,8 @@ The concept of infotainment systems dates back to the 1980s when car manufacture
 
 In recent years, infotainment systems have become increasingly sophisticated, incorporating advanced technology such as touchscreens, voice recognition, and smartphone integration. Today’s infotainment systems provide drivers various features, including music streaming, hands-free calling, and real-time traffic updates.
 
+{{<evkxdisplayaddarticle />}}
+
 ## Features of Infotainment Systems
 
 Manufacturers design infotainment systems to provide drivers with various features that make driving more enjoyable and convenient. Some of the most common features of infotainment systems include:
@@ -39,6 +41,8 @@ Many infotainment systems include GPS navigation systems that provide real-time 
 ### Communication Systems
 
 Infotainment systems often include hands-free calling and messaging systems that allow drivers to make and receive calls and texts without taking their hands off the wheel.
+
+{{<evkxdisplayaddarticle />}}
 
 ### Vehicle Controls
 

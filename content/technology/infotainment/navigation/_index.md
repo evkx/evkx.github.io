@@ -17,6 +17,8 @@ The navigation system offer drivers various functions and features that help the
 
 Built-in navigation systems in EVs are especially designed to meet the needs and preferences of electric vehicle drivers, such as finding and using charging stations, optimizing battery range and efficiency, and enhancing the overall driving experience.
 
+{{<evkxdisplayaddarticle />}}
+
 ## How do built-in navigation systems in EVs work?
 
 Built-in navigation systems in EVs work by combining various technologies and data sources, such as:
@@ -36,6 +38,8 @@ Built-in navigation systems in EVs typically offer two modes of operation: onlin
 ## What are some features of built-in navigation systems in EVs?
 
 Built-in navigation systems in EVs offer various features that are tailored to the specific needs and preferences of electric vehicle drivers, such as:
+
+{{<evkxdisplayaddarticle />}}
 
 ### Route planning with charging
 
@@ -62,6 +66,8 @@ On some models you are able to plan the route on the mobile app and then transfe
 ### Charging station reservation and payment
 
 The navigation system can help drivers reserve a charging spot in advance to avoid waiting times or queues. Drivers can also use the navigation system to pay for the charging service using their preferred payment method or account.
+
+{{<evkxdisplayaddarticle />}}
 
 ### Range optimization and eco-driving
 
