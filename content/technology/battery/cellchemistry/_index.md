@@ -22,23 +22,23 @@ In summary, the anode is the electrode where oxidation occurs during the dischar
 
 The cathode is the electrode where reduction occurs during the discharge cycle of the battery, accepting electrons from the external circuit to power the device or vehicle. During the charging cycle, the cathode is where oxidation occurs, releasing electrons into the external circuit and storing energy in the battery.
 
-In a lithium-ion battery, the cathode is typically made of a metal oxide, such as lithium cobalt oxide (LCO), lithium nickel manganese cobalt oxide (NMC), or lithium iron phosphate (LFP). The choice of cathode material can have a significant impact on the performance, safety, and cost of the battery.
+In a lithium-ion battery, the cathode is typically made of a metal oxide, such as lithium cobalt oxide (LCO), lithium nickel cobalt manganese oxide (NCM), or lithium iron phosphate (LFP). The choice of cathode material can have a significant impact on the performance, safety, and cost of the battery.
 
 {{<evkxdisplayaddarticle />}}
 
-### Lithium nickel manganese cobalt oxides (NMC)
+### Lithium nickel cobalt manganese oxides (NCM)
 
-NMC cathodes are a popular choice for EV batteries due to their high energy density and good thermal stability. They offer a balance between energy density and power density, making them suitable for a wide range of EV applications.
+NCM cathodes are a popular choice for EV batteries due to their high energy density and good thermal stability. They offer a balance between energy density and power density, making them suitable for a wide range of EV applications.
 
-There are different versions of NMC (Lithium Nickel Manganese Cobalt Oxide) cathodes used in electric vehicle (EV) batteries. The composition and ratio of the metals used in the cathode can vary, resulting in different properties and performance characteristics.
+There are different versions of NCM (Lithium Nickel Cobalt Manganese Oxide) cathodes used in electric vehicle (EV) batteries. The composition and ratio of the metals used in the cathode can vary, resulting in different properties and performance characteristics.
 
-The most common NMC cathodes used in EV batteries are NMC111, NMC532, and NMC622, which refer to the ratios of nickel, manganese, and cobalt in the cathode. For example, NMC111 contains one part nickel, one part manganese, and one part cobalt, while NMC532 contains five parts nickel, three parts manganese, and two parts cobalt. The higher the nickel content, the higher the energy density of the cathode, but also the higher the cost.
+The most common NCM cathodes used in EV batteries are NCM111, NCM532, and NCM622, which refer to the ratios of nickel, manganese, and cobalt in the cathode. For example, NCM111 contains one part nickel, one part manganese, and one part cobalt, while NCM523 contains five parts nickel, three parts manganese, and two parts cobalt. The higher the nickel content, the higher the energy density of the cathode, but also the higher the cost.
 
-More recently, there have been developments in NMC cathode technology that use even higher nickel content, such as NMC811 (eight parts nickel, one part manganese, and one part cobalt) and NMC622. These cathodes offer even higher energy density, but may also have some challenges related to thermal stability and cycle life.
+More recently, there have been developments in NCM cathode technology that use even higher nickel content, such as NCM811 (eight parts nickel, one part manganese, and one part cobalt) and NCM622. These cathodes offer even higher energy density, but may also have some challenges related to thermal stability and cycle life.
 
 In addition to the metal ratios, the particle size and morphology of the cathode material can also impact performance. For example, smaller particle sizes can improve the rate capability and power density of the battery, while larger particles may improve the energy density.
 
-Overall, the choice of NMC cathode composition and morphology depends on the specific requirements of the EV battery, including energy density, power density, thermal stability, durability, and cost. Battery manufacturers are constantly researching and developing new NMC cathode materials to improve the performance and efficiency of EV batteries.
+Overall, the choice of NCM cathode composition and morphology depends on the specific requirements of the EV battery, including energy density, power density, thermal stability, durability, and cost. Battery manufacturers are constantly researching and developing new NCM cathode materials to improve the performance and efficiency of EV batteries.
 
 {{<evkxdisplayaddarticle />}}
 

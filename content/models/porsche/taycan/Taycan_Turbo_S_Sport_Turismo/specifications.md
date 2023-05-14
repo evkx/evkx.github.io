@@ -44,7 +44,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |[Number of modules](../../../../../technology/battery/batterypack/#cell-to-module)|33|
 |[Pack Configuration](../../../../../technology/battery/batterypack/)|198s2p|
 |[Nominal voltage](../../../../../technology/battery/batterypack/)|725|
-|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NCM|
+|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC|
 
 
 
