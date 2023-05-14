@@ -23,9 +23,9 @@ The charging performance varies a lot between EVs. There is serveral aspects tha
 
 It is the same with CCS HPC Chargers. This is limited to 500 Amper.  400 volt on 500 Amper is max 200KW. A 300 volt car would be limited to 150KW.
 
+**Temprateure** The battery temprature can affect the charging speed greatly. In cold weather the charging speed can be reduced with more than 50%. 
 
-
-
+This is way some evs offer automatic heating of the battery when navigating to a 
 
 #### Charging speed examples
 
