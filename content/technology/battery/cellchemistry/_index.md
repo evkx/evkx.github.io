@@ -58,17 +58,27 @@ Overall, NCA cathodes offer a good balance between energy density and power dens
 
 ### Lithium iron phosphate battery (LFP)
 
-Lithium Iron Phosphate (LFP) is a cathode material commonly used in electric vehicle (EV) batteries due to its high thermal stability and long cycle life. LFP cathodes have a lower energy density compared to some other cathode types, but they offer good safety, durability, and cost-effectiveness.
+Lithium Iron (Ferro) Phosphate (LFP) is a cathode material commonly used in electric vehicle (EV) batteries due to its high thermal stability and long cycle life. LFP cathodes have a lower energy density compared to some other cathode types, but they offer good safety, durability, and cost-effectiveness.
 
 The composition of LFP cathodes consists of lithium iron phosphate (LiFePO4), which is a relatively stable and non-toxic material compared to other lithium-ion battery chemistries. This makes LFP cathodes a popular choice for EV batteries in China, where safety regulations are strict.
+
+Brands like Tesla has started using LFP in their lower range models. 
+
+#### Advantages with LFP
 
 One of the key advantages of LFP cathodes is their high thermal stability, which makes them less susceptible to thermal runaway and overheating compared to other cathode types. This is because the chemical bond between iron, oxygen, and phosphorous in the cathode structure is stronger than other cathode materials. As a result, LFP batteries can be operated at high temperatures without the need for active cooling systems, which reduces the complexity and cost of the battery pack.
 
 Another advantage of LFP cathodes is their long cycle life, which means they can withstand many charge-discharge cycles without significant degradation. This makes LFP batteries a good choice for applications that require long life and high reliability, such as EVs and energy storage systems.
 
-However, LFP cathodes have a lower energy density compared to some other cathode types, which means they have a lower capacity to store energy per unit of weight or volume. This makes them less suitable for EVs that require high driving range and energy density. Nevertheless, LFP batteries are a good choice for some EV applications, such as buses and delivery trucks, where safety and durability are more important than energy density.
+Cost is lower than nickel based chemistries. Typical about 20% less for each kWh. 
 
-Overall, LFP cathodes offer a balance between safety, durability, and cost-effectiveness, and are a good choice for certain EV applications that require these characteristics.
+#### Cons
+
+LFP cathodes have a lower energy density compared to some other cathode types, which means they have a lower capacity to store energy per unit of weight or volume. This makes them less suitable for EVs that require high driving range and energy density.
+
+LFP battery performance in cold weather is worse than other lithium-ion batteries, such as NCA/NMC batteries. Cold temperatures slow down the chemical reactions inside batteries, reducing their discharge capacity and charging speed. 
+
+LFP batteries charge more slowly in cold weather than NCA/NMC batteries and their range decreases somewhat more than NCA batteries in cold weather. However, LFP batteries can still operate safely and reliably in temperatures ranging from -20°C to 60°C (-4°F to 140°F).
 
 {{<evkxdisplayaddarticle />}}
 
