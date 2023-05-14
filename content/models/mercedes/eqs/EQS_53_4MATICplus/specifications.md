@@ -50,7 +50,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Max DC charging|210 kW|
 |[Pack Configuration](../../../../../technology/battery/batterypack/)|108s4p|
 |[Nominal voltage](../../../../../technology/battery/batterypack/)|396|
-|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC811|
+|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NCM811|
 
 
 

@@ -6,6 +6,18 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nio EL7 driving impressions and summary 14.05.2023
+
+{{< youtube UPsmbke1Jh4 >}}
+
+### Bjørn Nyland: Nio EL7 1000 km challenge with battery swap part 2 13.05.2023
+
+{{< youtube NDDxBa1nDYU >}}
+
+### Bjørn Nyland: Nio EL7 1000 km challenge with battery swap part 1 12.05.2023
+
+{{< youtube 1_lUwYFE-CY >}}
+
 ### Bjørn Nyland: Nio EL7 interior review 10.05.2023
 
 {{< youtube wjceflMfwBQ >}}
