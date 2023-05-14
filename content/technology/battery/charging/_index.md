@@ -67,26 +67,24 @@ Porsche Taycan is a model where the owner can set a ‘battery-friendly’ charg
 
 EVKX shows the charge performance for each EV on our site with graphs and calculations based on the performance.
 
-The following is some examples on EV with different types of charging performance.
+The following are some examples of EVs with different types of charging performance.
 
-[Lucid Air Dream Edition Performance](/models/lucid/air/air_dream_edition_performance/chargingcurve/) is the first example. It has an extreme top charging speed of over 300kW but falls quickly
+[Lucid Air Dream Edition Performance](/models/lucid/air/air_dream_edition_performance/chargingcurve/) is the first example. It has an extreme top charging speed of over 300kW but falls quickly.
 
 ![Image](/models/lucid/air/air_dream_edition_performance/chargingcurve.svg)
 
-[Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve7/) is the next example. This is one of the fastest charging EVs with high speed and much flatter curve
+[Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve7/) is the next example.  This model is one of the fastest-charging EVs with high speed and a much flatter curve than the Lucid Air.
 
 ![Image](/models/kia/ev6/ev6_gt/chargingcurve.svg)
 
 {{<evkxdisplayaddarticle />}}
 
-[Nissan Aryia](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/) is the last example. This not have a very high top peak, but the curve is relative flat.
+[Nissan Aryia](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/) This model does not have a very high top peak, but the curve is relatively flat.
 
 ![Image](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve.svg)
 
-On longer trips the charging curve may affect what is the optimum charging stop. A flatter curve would benefit those who prefer longer stops, while curve with high peaks benefits stops that is short and you charge around the peak area. 
+On longer trips, the charging curve may affect the optimum charging stop. For example, a flatter curve would benefit those who prefer longer stops, while a curve with high peaks benefits short stops, and you charge around the peak area.
 
-For all models EVKX calculate this for you.
+For all models, EVKX calculates this for you on the model info page.
 
 Continue to [degredation](../degredation/) or go back to the [article overview](../).
-
-

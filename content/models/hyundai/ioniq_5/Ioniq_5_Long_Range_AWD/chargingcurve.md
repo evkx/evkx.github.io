@@ -18,6 +18,10 @@ weight: 10
 |Optimum charge stop time |22m59s|
 
 
+The above charging curve is at optimum conditions. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/) 
+
+
+Hyundai Ioniq 5 Long Range AWD have battery heating, making charging at an optimum battery temperature easier. 
 
 
 {{<evkxdisplayaddarticle />}}

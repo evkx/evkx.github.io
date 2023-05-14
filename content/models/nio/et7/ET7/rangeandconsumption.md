@@ -39,8 +39,8 @@ The table below shows some estimated real-world examples in perfect condition an
 |----|-----|------|
 | 90kmh/56mph perfect condition | 500km /311mi| 18 kWh/100km / 3,5 mi/kWh |
 | 90kmh/56mph with 2KW heating | 458km /285mi| 19,7 kWh/100km / 3,2 mi/kWh |
-| 120kmh/75mph perfect condition | 375km /233mi| 24 kWh/100km / 2,6 mi/kWh |
-| 120kmh/75mph with 2KW heating | 565km /351mi| 25,7 kWh/100km / 2,4 mi/kWh |
+| 120kmh/75mph perfect condition | 409km /254mi| 22 kWh/100km / 2,8 mi/kWh |
+| 120kmh/75mph with 2KW heating | 612km /380mi| 23,7 kWh/100km / 2,6 mi/kWh |
 
 ![Charge curve](../range_2.svg  "Range information")
 [Full screen](../range_2.svg)

@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Kris Rifa: Nio ET7 120KPH / 75MPH Range Test ! 13.05.2023
+
+{{< youtube arjQZIY5gbc >}}
+
 ### Bjørn Nyland: Nio ET7 driving impressions and summary 20.03.2023
 
 {{< youtube 4qZzUaDn3sU >}}
