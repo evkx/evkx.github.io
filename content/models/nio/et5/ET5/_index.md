@@ -101,7 +101,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
+You can choose between different types of seat materials and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
 
 ### First row seats
 
@@ -119,8 +119,11 @@ The following functionalities are available on the **standard** seat.
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 - [footrest for passenger](../../../../technology/seats/adjustment/#footrest) 
 
-You can choose from 3 different materials/colors for this seat type. <br />
-<br />
+You can choose from 3 different materials/colors for this seat type. 
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Grey [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+
 
 
 ### Second-row seat

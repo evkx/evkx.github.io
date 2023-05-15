@@ -101,7 +101,10 @@ Only one front seat type is available in the XPENG G9 AWD Performance.
 
 The following functionalities are available on the **** seat. 
 
+- electric adjustment 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - [Seat cushion side bolster adjustement](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
 - [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
@@ -109,8 +112,10 @@ The following functionalities are available on the **** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) 
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 
-You can choose from 2 different materials/colors for this seat type. <br />
-<br />
+You can choose from 2 different materials/colors for this seat type. 
+- interior.seat.nappaleather
+- interior.seat.nappaleather
+
 
 
 

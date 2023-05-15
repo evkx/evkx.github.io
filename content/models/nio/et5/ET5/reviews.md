@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nio ET5 1000 km challenge with battery swap 15.05.2023
+
+{{< youtube HZX_fHA9YxI >}}
+
 ### Bjørn Nyland: Nio ET5 range test 14.05.2023
 
 {{< youtube y99s3YMNf7c >}}
