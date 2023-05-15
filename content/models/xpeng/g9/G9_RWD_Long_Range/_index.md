@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 RWD Long Range
 linktitle: G9 RWD Long Range
-description: XPENG G9 RWD Long Range is an all-electric SUV with a WLTP range of up to 520 km (323 miles). EVKX.net have all the details. 
+description: XPENG G9 RWD Long Range is an all-electric SUV with a WLTP range of up to 570 km (354 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -30,11 +30,11 @@ We have separated our description of the XPENG G9 RWD Long Range into sections. 
 
 ## Performance
 
-The XPENG G9 RWD Long Range has a maximum power of 405KW (551hp). The total torque is 717nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 205 km/h. 
+The XPENG G9 RWD Long Range has a maximum power of 230KW (313hp). The total torque is 430nm. The 0-100km/h sprint (0-62mph) takes 6,4 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 98kWh and a net capacity of 93,6kWh, meaning you have a 4,4kWh buffer for protection. (4,5%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 520 km (323 mi).   The consumption is 18,0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 98kWh and a net capacity of 93,6kWh, meaning you have a 4,4kWh buffer for protection. (4,5%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 570 km (354 mi).   The consumption is 16,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 300kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 51% resulting in an actual charge speed including time loss on 154kW. Each charge session would take 18 minutes and 14 seconds. 
 

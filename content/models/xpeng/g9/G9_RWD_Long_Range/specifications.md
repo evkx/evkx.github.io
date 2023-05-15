@@ -12,10 +12,10 @@ EVKX.net seeks to have the most complete specifications for XPENG G9 RWD Long Ra
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|405 Kw|
-|Electrical torque output in Nm|717 Nm|
-|Top speed|205 km/h|
-|0-100km/h (0-62 mph)|3,9 s|
+|Peak electrical output in kW|230 Kw|
+|Electrical torque output in Nm|430 Nm|
+|Top speed|200 km/h|
+|0-100km/h (0-62 mph)|6,4 s|
 
 
 
@@ -24,9 +24,9 @@ EVKX.net seeks to have the most complete specifications for XPENG G9 RWD Long Ra
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|520 km|
-|WLTP consumption|18,0 kWh/100km|
-|WLTP consumption with charging loss|21,3 kWh/100km|
+|WLTP range|570 km|
+|WLTP consumption|16,4 kWh/100km|
+|WLTP consumption with charging loss|19,4 kWh/100km|
 
 
 
