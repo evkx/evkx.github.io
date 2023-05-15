@@ -11,6 +11,8 @@ By converting the vehicle’s kinetic energy into electrical energy and storing 
 
 Regenerative braking is a process where the kinetic energy of a moving vehicle is captured and stored as electrical energy in the vehicle’s battery during braking or deceleration.
 
+{{<evkxdisplayaddarticle />}}
+
 An electric motor can work as a generator in an EV by using the principle of electromagnetic induction, which states that the change in the magnetic field around a conductor generates an electric current in the circuit. When an electric motor rotates, it creates a magnetic field that interacts with the stator windings and produces an electric current that powers the vehicle. When the car decelerates or brakes, the wheels drive the motor in reverse, causing the magnetic field to change direction and induce electric current in the opposite direction. This current can be fed back to the battery and stored as energy, reducing the need for conventional friction brakes and increasing the range and efficiency of the EV.
 
 <figur>
@@ -29,6 +31,8 @@ The EV manufacturers provide regenerative braking with different strategies. The
 One pedal regen is a feature of some electric vehicles that allows them to control the acceleration and deceleration of the car with only the accelerator pedal.
 
 When the driver presses the pedal, the vehicle accelerates.  When the driver releases the pedal, the car decelerates using regenerative braking, which converts the vehicle's kinetic energy into electrical energy that the EV stores in the battery.
+
+{{<evkxdisplayaddarticle />}}
 
 Depending on the vehicle settings and driving conditions, one pedal regen can bring the vehicle to a complete stop or maintain a low speed until the driver presses the pedal again.
 
@@ -56,6 +60,8 @@ Others, like Tesla, have settings available in their infotainment system.
 
 In the picture above, you also see how Tesla lets the driver decide how the car should behave at low speed. For example, they can add physical brakes at low vehicle speeds to make the vehicle entirely stop and hold.
 
+{{<evkxdisplayaddarticle />}}
+
 ### Manual regen using the brake pedal
 
 By pressing the brake pedal, you can regenerate energy on EVs with blended brakes.
@@ -74,6 +80,8 @@ The benefit of adaptive regen is that it can provide a smoother and more natural
 
 Some examples of EVs that offer adaptive regen are the Porsche Taycan, the BMW i4, and the Hyundai Ioniq 5. These EVs use different technologies and algorithms to implement adaptive regen, but all aim to provide their drivers with a better one-pedal driving experience.
 
+{{<evkxdisplayaddarticle />}}
+
 ## Max Regenerative Braking Power
 
 The maximum regenerative power of an EV depends on several factors, such as the type and size of the motor, the speed and state of charge of the battery, and the settings and modes of the vehicle. Different EVs have different levels of regenerative braking, but typically, it is from above 50kW on small cars to 300kW on the most powerful.
@@ -87,6 +95,8 @@ There are several benefits to regenerative braking, including:
 **Reduced Wear on Brakes:** Because regenerative braking can handle much of the vehicle’s braking force, it can reduce wear on its [mechanical brakes](../brakes/), leading to lower maintenance costs.
 
 **Smoother Braking:** Regenerative braking can provide smoother and more consistent braking than traditional friction brakes, leading to a more comfortable ride for passengers.
+
+{{<evkxdisplayaddarticle />}}
 
 ## Limitations of Regenerative Braking
 

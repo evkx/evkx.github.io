@@ -7,6 +7,8 @@ weight: 4
 <!-- markdownlint-disable MD033 -->
 The inverter is essentially an electronic device that controls the flow of electricity between the battery and the motor, enabling efficient and precise control of the EV's propulsion system.
 
+{{<evkxdisplayaddarticle />}}
+
 Here are some key aspects of the inverter in an EV drive unit:
 
 **Power Electronics:** The inverter is a complex power electronics device that includes various components such as power transistors, diodes, capacitors, and inductors. These components work together to convert the DC power from the battery into high-frequency AC power that is used to drive the electric motor.
@@ -18,6 +20,8 @@ Here are some key aspects of the inverter in an EV drive unit:
 **Efficiency and Power Density:** Inverters in EVs are designed to be highly efficient to minimize energy losses during the conversion process. Higher efficiency translates to increased range and better overall performance of the EV. Inverters are also designed to have high power density, meaning they are capable of delivering high power output in a compact and lightweight form factor, which is important for EVs where space and weight are critical considerations.
 
 **Thermal Management:** Inverters generate heat during operation, and efficient thermal management is essential to ensure their reliable performance. Inverters typically have built-in cooling systems, such as liquid or air cooling, to dissipate the heat generated during operation and maintain optimal operating temperatures.
+
+{{<evkxdisplayaddarticle />}}
 
 **Reliability and Safety:** Inverters in EVs are designed to be robust and reliable to ensure the safe and efficient operation of the vehicle. They are subjected to stringent safety and reliability tests to ensure they can withstand the harsh operating conditions of an electric vehicle, such as temperature extremes, high voltages, and mechanical vibrations.
 
