@@ -8,6 +8,8 @@ weight: 5
 
 Electric motors generate heat during operation due to the resistance in the motor windings, losses in the motor's magnetic core, and other factors. If the heat is not properly managed, it can lead to reduced motor performance, increased energy consumption, and even motor failure.
 
+{{<evkxdisplayaddarticle />}}
+
 There are several methods used for cooling electric motors in EVs. Let's take a look at some of the common techniques:
 
 Air Cooling: In air cooling, the motor is cooled by air flowing over the motor housing. This can be achieved through natural convection, where the motor is exposed to ambient air, or forced convection, where a fan or blower is used to circulate air over the motor. Air cooling is relatively simple and cost-effective, but it may not be sufficient for high-power or high-temperature applications.
@@ -19,6 +21,8 @@ Air Cooling: In air cooling, the motor is cooled by air flowing over the motor h
 Direct Cooling vs. Indirect Cooling: In direct cooling, the coolant is in direct contact with the motor windings or other heat-generating components, while in indirect cooling, the coolant absorbs heat from the motor through a separate heat exchanger.
 
 Direct cooling can provide more efficient heat transfer but may require careful design considerations to prevent coolant contamination. Indirect cooling can offer greater flexibility in motor design and reduce the risk of coolant contamination but may have lower heat transfer efficiency.
+
+{{<evkxdisplayaddarticle />}}
 
 The choice of cooling method depends on various factors, such as the power and temperature requirements of the motor, the operating environment, and the cost considerations. Proper cooling is essential for maintaining the performance, efficiency, and reliability of electric motors in EVs, and it is an important aspect of motor design and integration in electric vehicles.
 

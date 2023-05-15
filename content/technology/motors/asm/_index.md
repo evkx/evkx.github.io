@@ -19,6 +19,8 @@ Asynchronous motors, also known as induction motors, are a type of electric moto
 
 Induction motors work based on the principle of electromagnetic induction. The stator winding of the motor is connected to an AC power supply, which creates a rotating magnetic field. This rotating magnetic field induces currents in the rotor winding through electromagnetic induction, which generates a magnetic field in the rotor. The interaction between the rotor's magnetic field and the stator's rotating magnetic field creates torque, which drives the motor and the vehicle.
 
+{{<evkxdisplayaddarticle />}}
+
 One of the key features of asynchronous motors is that they do not require a physical connection between the rotor and the stator, unlike synchronous motors which use permanent magnets. Instead, asynchronous motors rely on electromagnetic induction to generate the rotating magnetic field that drives the rotor. This makes them inherently more robust and less prone to wear and tear, as there are no brushes or slip rings to maintain or replace.
 
 Asynchronous motors used in EVs are typically three-phase motors, which means they have three sets of windings in the stator that are electrically separated by 120 degrees. This allows for a smooth and continuous rotation of the motor without the need for additional components, such as a gearbox, to convert the power from the battery to the wheels.
@@ -44,8 +46,6 @@ Induction motors offer several advantages for EV applications, including:
 
 **Low drag when rolling:** When an electric vehicle (EV) is coasting or rolling without power, the electric motor can create a drag effect, which is often referred to as "motor drag" or "coasting drag". This drag is caused by the electromagnetic forces within the motor, which can resist the motion of the rotor and create resistance against the vehicle's movement.
 
-In the case of induction motors, the rotor does not have any permanent magnets, and the drag from the motor is typically lower compared to permanent magnet motors. This is because induction motors rely on electromagnetic induction to generate the rotating magnetic field in the rotor, which induces current and creates magnetic forces that oppose the rotor's motion. As a result, the motor drag in an induction motor is typically lower, and the vehicle can roll with less resistance when the motor is not actively powered.
-
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/motors/asm/audiq8motor.jpg">
         <img src="https://media.evkx.net/multimedia/technology/motors/asm/audiq8motor_st.jpg" alt="Audi Q8 e-tron induction motor" title="Audi Q8 e-tron induction motor">
@@ -53,6 +53,10 @@ In the case of induction motors, the rotor does not have any permanent magnets, 
     <figcaption><h4>Audi Q8 e-tron induction motor</h4></figcaption>
 </figur>
 
+
+In the case of induction motors, the rotor does not have any permanent magnets, and the drag from the motor is typically lower compared to permanent magnet motors. This is because induction motors rely on electromagnetic induction to generate the rotating magnetic field in the rotor, which induces current and creates magnetic forces that oppose the rotor's motion. As a result, the motor drag in an induction motor is typically lower, and the vehicle can roll with less resistance when the motor is not actively powered.
+
+{{<evkxdisplayaddarticle />}}
 
 ### Limitations
 

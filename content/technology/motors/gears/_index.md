@@ -26,6 +26,8 @@ These gearboxes have multiple gear ratios that allow the electric motor to opera
 
 **Limited-Slip Differential (LSD):** Some EVs may also use a limited-slip differential, which provides better traction and handling by partially locking the differential to prevent excessive wheel slip. LSDs are particularly useful in EVs for improved performance in challenging driving conditions, such as slippery surfaces or off-road driving, where maintaining traction and stability is important.
 
+{{<evkxdisplayaddarticle />}}
+
 It's worth noting that some EVs, particularly those with single-speed gearboxes or direct drive systems, do not use traditional gears at all. Instead, they rely on sophisticated power electronics and motor control algorithms to deliver the required torque and power to the wheels without the need for physical gears. The specific type of gearbox used in an EV drive unit depends on factors such as the vehicle's size, performance requirements, driving conditions, and design considerations.
 
 [Back to main article](../#motor-setup)
