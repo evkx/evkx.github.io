@@ -1,7 +1,7 @@
 ---
-title: XPENG G9 AWD Performance
-linktitle: G9 AWD Performance
-description: XPENG G9 AWD Performance is an all-electric SUV with a WLTP range of up to 520 km (323 miles). EVKX.net have all the details. 
+title: XPENG G9 RWD Long Range
+linktitle: G9 RWD Long Range
+description: XPENG G9 RWD Long Range is an all-electric SUV with a WLTP range of up to 520 km (323 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,12 +9,12 @@ weight: 10
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance">
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/main_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 
-We have separated our description of the XPENG G9 AWD Performance into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of the XPENG G9 RWD Long Range into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -30,7 +30,7 @@ We have separated our description of the XPENG G9 AWD Performance into sections.
 
 ## Performance
 
-The XPENG G9 AWD Performance has a maximum power of 405KW (551hp). The total torque is 717nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 205 km/h. 
+The XPENG G9 RWD Long Range has a maximum power of 405KW (551hp). The total torque is 717nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 205 km/h. 
 
 ## Battery, range, and charging
 
@@ -47,10 +47,10 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance">
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/charging_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -59,7 +59,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-XPENG G9 AWD Performance has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+XPENG G9 RWD Long Range has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 95 mm, and the max is 195 mm. 
 
@@ -81,10 +81,10 @@ The windows from B-pillar and back are tinted.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance">
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/exterior_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -97,7 +97,7 @@ The seat layout is the traditional five seats with two in front and three seats 
 
 ### First row seats
 
-Only one front seat type is available in the XPENG G9 AWD Performance. 
+Only one front seat type is available in the XPENG G9 RWD Long Range. 
 
 The following functionalities are available on the **** seat. 
 
@@ -120,10 +120,10 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1_st.jpeg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance">
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/frontseats_1.jpeg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/frontseats_1_st.jpeg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 
 
 ### Second-row seat
@@ -137,10 +137,10 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1_st.jpeg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance">
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/secondrowseats_1.jpeg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/secondrowseats_1_st.jpeg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
@@ -151,7 +151,7 @@ There is one climate system available. The 4-zone climate system supports differ
 
 ## Comfort
 
-XPENG G9 AWD Performance has several features to make your life as a driver or passenger more comfortable. 
+XPENG G9 RWD Long Range has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -167,14 +167,14 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-XPENG G9 AWD Performance has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel mounted into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 14,96 inches large. The touch screen uicontrols.screen.location.PassengerSideOnDash is 14,96 inches large. 
+XPENG G9 RWD Long Range has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel mounted into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 14,96 inches large. The touch screen uicontrols.screen.location.PassengerSideOnDash is 14,96 inches large. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance">
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/screens_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
@@ -183,7 +183,7 @@ This model is equipped with gesture gestura control system that lets you control
 
 ## Infotainment
 
-One type of sound system is available for the XPENG G9 AWD Performance. With the , you get NULL amplifier channels and 24 speakers with a max system output of 1940 watts. 
+One type of sound system is available for the XPENG G9 RWD Long Range. With the , you get NULL amplifier channels and 24 speakers with a max system output of 1940 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
@@ -197,18 +197,18 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 ## Advanced driver assistance systems
 
-The XPENG G9 AWD Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The XPENG G9 RWD Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
 
-The XPENG G9 AWD Performance has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The XPENG G9 RWD Long Range has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The XPENG G9 AWD Performance has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The XPENG G9 RWD Long Range has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
 
-The XPENG G9 AWD Performance has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The XPENG G9 RWD Long Range has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-The XPENG G9 AWD Performance has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The XPENG G9 RWD Long Range has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 
@@ -228,7 +228,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance">
+<a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/trunk_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
