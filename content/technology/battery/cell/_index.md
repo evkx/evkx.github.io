@@ -20,7 +20,7 @@ A cylindrical cell consists of sheet-like anodes, separators, and cathodes that 
 
 One advantage is mechanical stability. The round shape of the battery distributes the internal pressure from side reactions over the cell circumference almost evenly. This allows the cell to tolerate a higher level of internal pressure without deformation.
 
-Tesla is one of the few EV manufacturers that uses this.
+Tesla is one of the few EV manufacturers that uses this. [BMW will start](https://www.press.bmwgroup.com/global/article/detail/T0403470EN/more-performance-co2-reduced-production-significantly-lower-costs:-bmw-group-to-use-innovative-round-bmw-battery-cells-in-neue-klasse-from-2025?language=en) using it in next generation.
 
 ## Prismatic housing
 

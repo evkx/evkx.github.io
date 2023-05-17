@@ -34,7 +34,7 @@ There are different versions of NMC (Lithium Nickel Manganese Cobalt Oxide) cath
 
 The most common NMC cathodes used in EV batteries are NMC111, NMC532, and NMC622, which refer to the ratios of nickel, manganese, and cobalt in the cathode. For example, NMC111 contains one part nickel, one part manganese, and one part cobalt, while NMC523 contains five parts nickel, three parts manganese, and two parts cobalt. The higher the nickel content, the higher the energy density of the cathode, but also the higher the cost.
 
-More recently, there have been developments in NMC cathode technology that use even higher nickel content, such as NMC811 (eight parts nickel, one part manganese, and one part cobalt) and NMC622. These cathodes offer even higher energy density, but may also have some challenges related to thermal stability and cycle life.
+More recently, there have been developments in NMC cathode technology that use even higher nickel content, such as NMC811 (eight parts nickel, one part manganese, and one part cobalt) and NMC622. These cathodes offer even higher energy density, but may also have some challenges related to thermal stability and cycle life. [NCM9](https://skinnonews.com/global/archives/14179) is the most recent evolution where Nickel is 90% of the content.
 
 In addition to the metal ratios, the particle size and morphology of the cathode material can also impact performance. For example, smaller particle sizes can improve the rate capability and power density of the battery, while larger particles may improve the energy density.
 
@@ -81,6 +81,16 @@ LFP battery performance in cold weather is worse than other lithium-ion batterie
 LFP batteries charge more slowly in cold weather than NCA/NMC batteries and their range decreases somewhat more than NCA batteries in cold weather. However, LFP batteries can still operate safely and reliably in temperatures ranging from -20°C to 60°C (-4°F to 140°F).
 
 {{<evkxdisplayaddarticle />}}
+
+### Summary Cathode materials
+
+The below table summaries the differences
+
+| Chemistry | NCA | NMC |  LFP|
+|------|-----------|----------|
+|Gravimetric density | 250-320 Wh/kg | 200-280 Wh/kg | 90-120Wh/kg |
+|Volummetric density | 580-720 Wh/l | 500 - 620 Wh/l | 220-300 Wh/l|
+|Cycles | 500-1000 | 1000-2000 | 2000 - 5000 |
 
 ## Seperator
 
