@@ -25,7 +25,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |WLTP range|505 km|
-|WLTP consumption|18,5 kWh/100km|
+|WLTP consumption|16,4 kWh/100km|
 |WLTP consumption with charging loss|19,2 kWh/100km|
 
 
@@ -34,8 +34,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|98 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|93,6 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|86,2 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|82,7 kWh|
 |Max DC charging|175 kW|
 |[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC|
 
@@ -54,16 +54,16 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|Adaptive suspension|Yes, standard equipment|
-|Adjustable damping front|Yes, standard equipment|
-|Adjustable damping rear|Yes, optional equipment|
-|Adjustable height front|Yes, standard equipment|
-|Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|120|
-|Minimum ground clearance|95|
-|Suspension type front|AirSuspension|
-|Suspension construction front|DoubleWishbone|
-|Suspension type rear|AirSuspension|
+|Adaptive suspension|Not available|
+|Adjustable damping front|Not available|
+|Adjustable damping rear|Not available|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|113|
+|Minimum ground clearance|113|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension construction front|MacPhersonStrut|
+|Suspension type rear|SteelSpringsWithOilDampers|
 |Suspension construction rear|Multilink|
 
 ## Interior
@@ -88,7 +88,7 @@ This model is available with a seat configuration with five seats.
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Standard feature|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Standard feature|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
 
 ### Front seats
 
@@ -105,7 +105,7 @@ This model is available with a seat configuration with five seats.
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Unknown|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
 
 ## Driver Assistance
 

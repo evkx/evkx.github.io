@@ -34,16 +34,16 @@ The XPENG P7 AWD Performance has a maximum power of 405KW (551hp). The total tor
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 98kWh and a net capacity of 93,6kWh, meaning you have a 4,4kWh buffer for protection. (4,5%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 505 km (314 mi).   The consumption is 18,5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 86,2kWh and a net capacity of 82,7kWh, meaning you have a 3,5kWh buffer for protection. (4,1%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 505 km (314 mi).   The consumption is 16,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 175kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 51% resulting in an actual charge speed including time loss on 154kW. Each charge session would take 18 minutes and 14 seconds. 
+The maximum DC charging speed is 175kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 23 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 53% resulting in an actual charge speed including time loss on 149kW. Each charge session would take 17 minutes and 21 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 32 minutes to drive. This trip will require four charge session(s) charging from 1% to 51%. The total time lost for charging will be 73 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 40 minutes to drive. This trip will require five charge session(s) charging from 1% to 49%. The total time lost for charging will be 80 minutes.   
 ### Onboard charger
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 30 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 31 minutes. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -53,7 +53,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 XPENG P7 AWD Performance has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 95 mm, and the max is 120 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 113 mm. 
 
 ### Brakes
 
@@ -101,7 +101,6 @@ The following functionalities are available on the **** seat.
 - [Seat cushion side bolster adjustement](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
 - [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
-- [massage](../../../../technology/seats/adjustment/#massage) 
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 
 You can choose from 2 different materials/colors for this seat type. 
@@ -117,7 +116,6 @@ You can choose from 2 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
-- [massage](../../../../technology/seats/adjustment/#massage) 
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
 
@@ -159,7 +157,7 @@ This model is equipped with gesture gestura control system that lets you control
 
 ## Infotainment
 
-One type of sound system is available for the XPENG P7 AWD Performance. With the , you get NULL amplifier channels and 24 speakers with a max system output of 1940 watts. 
+One type of sound system is available for the XPENG P7 AWD Performance. With the , you get NULL amplifier channels and eight speakers with a max system output of 500 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
@@ -206,6 +204,6 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. Under the hood, there is frunk with more storage room. This frunk is 0 liters. Max weight is 2570kg, and with the base weight of 2055 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+On the roof, you can load up to 50kg. Under the hood, there is frunk with more storage room. This frunk is 0 liters. Max weight is 2570kg, and with the base weight of 2055 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
