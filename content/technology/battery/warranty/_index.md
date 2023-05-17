@@ -21,7 +21,7 @@ The warranty may also take into account the age of the battery. For example, a m
 | Nissan       | 100,000 miles    | 75%                        | 8 years |
 | Hyundai      | Unlimited        | 70%                        | 10 years |
 | Kia          | Unlimited        | 70%                        | 10 years |
-| Toyota       | N/A              | N/A                        | 10 years |
+| Toyota       | 600.000 miles     70%                        | 10 years |
 | Mercedes (EQA,EQB,EQC)       | 100,000 miles              | N/A                        | 8 years |
 
 
