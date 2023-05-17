@@ -1,11 +1,11 @@
 ---
-title: XPENG G9 RWD Long Range specifications
+title: XPENG G9 RWD Standard Range specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for XPENG G9 RWD Long Range.
+description: EVKX.net gives you the full specifications for XPENG G9 RWD Standard Range.
 weight: 30
 ---
-[![XPENG G9 RWD Long Range](https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for XPENG G9 RWD Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of XPENG G9 RWD Long Range, visit the [chargeinfo](../chargecurve/) for XPENG G9 RWD Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![XPENG G9 RWD Standard Range](https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_standard_range/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for XPENG G9 RWD Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of XPENG G9 RWD Standard Range, visit the [chargeinfo](../chargecurve/) for XPENG G9 RWD Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -24,8 +24,8 @@ EVKX.net seeks to have the most complete specifications for XPENG G9 RWD Long Ra
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|570 km|
-|WLTP consumption|16,4 kWh/100km|
+|WLTP range|460 km|
+|WLTP consumption|16,3 kWh/100km|
 |WLTP consumption with charging loss|19,4 kWh/100km|
 
 
@@ -34,10 +34,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|98 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|93,6 kWh|
-|Max DC charging|300 kW|
-|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC|
+|[Battery gross](../../../../../technology/battery/buffer/)|78,2 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|75 kWh|
+|Max DC charging|250 kW|
+|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|LFP|
 
 
 

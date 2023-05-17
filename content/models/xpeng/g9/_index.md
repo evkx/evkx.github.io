@@ -30,3 +30,16 @@ XPENG G9 RWD Long Range is an all-electric SUV with a WLTP range of up to 570 km
 - [XPENG G9 RWD Long Range image gallery](/models/xpeng/g9/g9_rwd_long_range//gallery)
 - [XPENG G9 RWD Long Range reviews](/models/xpeng/g9/g9_rwd_long_range//reviews)
 
+## XPENG G9 RWD Standard Range
+
+[![G9 RWD Standard Range](https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_standard_range/main_1_st.jpg)](/models/xpeng/g9/g9_rwd_standard_range/)
+
+XPENG G9 RWD Standard Range is an all-electric SUV with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. 
+
+- [XPENG G9 RWD Standard Range article](/models/xpeng/g9/g9_rwd_standard_range/)
+- [XPENG G9 RWD Standard Range Range & consumption info](/models/xpeng/g9/g9_rwd_standard_range//rangeandconsumption)
+- [XPENG G9 RWD Standard Range Charging curve and performance](/models/xpeng/g9/g9_rwd_standard_range//chargingcurve)
+- [XPENG G9 RWD Standard Range full specifications](/models/xpeng/g9/g9_rwd_standard_range//specifications)
+- [XPENG G9 RWD Standard Range image gallery](/models/xpeng/g9/g9_rwd_standard_range//gallery)
+- [XPENG G9 RWD Standard Range reviews](/models/xpeng/g9/g9_rwd_standard_range//reviews)
+

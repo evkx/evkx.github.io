@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Lucid Air Dream Edition Performance range test 16.05.2023
+
+{{< youtube U-UlyvexBvw >}}
+
 ### Out of Spec Reviews: Lucid Air Full In-Depth Driving Review - City, Highway, & Canyon Performance Evaluated 16.10.2022
 
 {{< youtube Ze2LqnQCwxg >}}
@@ -18,7 +22,7 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube 601jLoWGMng >}}
 
-### InsideEVs: HpcMcgxjiL8 05.10.2022
+### InsideEVs: 2022 Lucid Air Dream Edition: InsideEVs 70 MPH Range Test 05.10.2022
 
 {{< youtube HpcMcgxjiL8 >}}
 

@@ -114,10 +114,10 @@ This model is available with a seat configuration with five seats.
 |Lane keeping|Yes, standard equipment|
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
-|Reversing camera||
+|Reversing camera|Yes, standard equipment|
 |360 camera|Yes, standard equipment|
-|Rear cross traffic alert||
-|Rear parking sensors||
+|Rear cross traffic alert|Yes, standard equipment|
+|Rear parking sensors|Yes, standard equipment|
 |Front parking sensors|Yes, standard equipment|
 |Side parking sensors|Yes, standard equipment|
 |Hill descent assist||
@@ -127,14 +127,14 @@ This model is available with a seat configuration with five seats.
 |Brake assist|Yes, standard equipment|
 |Traction control|Yes, standard equipment|
 |Left turn crash avoidance||
-|Forward Collision Warning||
+|Forward Collision Warning|Yes, standard equipment|
 |Electronic stability control|Yes, standard equipment|
 |Temperature warning||
-|Cross traffic assist||
+|Cross traffic assist|Yes, standard equipment|
 |Speed limiter||
 |Efficiency assist||
 |Automatic Emergency Steering||
-|Traffic Sign Recognition||
+|Traffic Sign Recognition|Yes, standard equipment|
 |Night Vision|Not available|
 
 ## Infotainment

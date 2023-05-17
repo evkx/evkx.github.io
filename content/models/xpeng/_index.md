@@ -11,5 +11,5 @@ XPeng started production of its first model, the XPeng G3 SUV, in November 2018 
 
 [![G9](https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg)](g9)
 
-This model is available in 2 variant(s). 
+This model is available in 3 variant(s). 
 [Read full details](g9/)

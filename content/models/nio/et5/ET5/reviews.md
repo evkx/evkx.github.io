@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nio ET5 driving impressions and summary 16.05.2023
+
+{{< youtube _LIwKRvt6bM >}}
+
 ### Bjørn Nyland: Nio ET5 1000 km challenge with battery swap 15.05.2023
 
 {{< youtube HZX_fHA9YxI >}}
