@@ -1,7 +1,7 @@
 ---
-title: Ford Mustang Mach-E Long Range AWD range & consumption
+title: Ford Mustang Mach-E Long Range RWD range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Ford Mustang Mach-E Long Range AWD.
+description: Here you find all details about range and consumption for Ford Mustang Mach-E Long Range RWD.
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
@@ -35,9 +35,9 @@ The table below shows some estimated real-world examples in perfect condition an
 
 | | Range  | Consumption  |
 |----|-----|------|
-| 90kmh/56mph perfect condition | 511km /318mi| 18 kWh/100km / 3,5 mi/kWh |
-| 90kmh/56mph with 2KW heating | 468km /291mi| 19,7 kWh/100km / 3,2 mi/kWh |
-| 70mph/112kmh perfect condition | 458km /285mi| 20,1 kWh/100km / 3,1 mi/kWh|
-| 70mph/112kmh with 2KW heating | 681km /423mi| 21,8 kWh/100km / 2,9 mi/kWh  |
-| 120kmh/75mph perfect condition | 383km /238mi| 24 kWh/100km / 2,6 mi/kWh |
-| 120kmh/75mph with 2KW heating | 576km /358mi| 25,7 kWh/100km / 2,4 mi/kWh |
+| 90kmh/56mph perfect condition | 575km /357mi| 16 kWh/100km / 3,9 mi/kWh |
+| 90kmh/56mph with 2KW heating | 521km /324mi| 17,7 kWh/100km / 3,5 mi/kWh |
+| 70mph/112kmh perfect condition | 461km /286mi| 19,95 kWh/100km / 3,1 mi/kWh|
+| 70mph/112kmh with 2KW heating | 685km /426mi| 21,6 kWh/100km / 2,9 mi/kWh  |
+| 120kmh/75mph perfect condition | 400km /249mi| 23 kWh/100km / 2,7 mi/kWh |
+| 120kmh/75mph with 2KW heating | 600km /373mi| 24,7 kWh/100km / 2,5 mi/kWh |

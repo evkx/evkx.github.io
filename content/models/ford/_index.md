@@ -11,5 +11,5 @@ Ford is investing $22 billion in electrification through 2025 as part of its pla
 
 [![Mustang Mach-E](https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/main_1_st.jpg)](mustang_mach-e)
 
-This model is available in 1 variant(s). 
+This model is available in 2 variant(s). 
 [Read full details](mustang_mach-e/)
