@@ -14,7 +14,7 @@ EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E 
 |Peak electrical output in kW|358 Kw|
 |Electrical torque output in Nm|860 Nm|
 |Top speed|200 km/h|
-|0-100km/h (0-62 mph)|3,5 s|
+|0-100km/h (0-62 mph)|3,7 s|
 
 
 
@@ -53,6 +53,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Wheelbase|2984 mm|
 |Track width front|1613 mm|
 |Track width rear|1610 mm|
+|Drag coefficient|0,30|
 |Turning circle|11,6 meters|
 
 ## Suspension

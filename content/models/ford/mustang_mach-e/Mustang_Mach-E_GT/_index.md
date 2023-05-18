@@ -22,7 +22,7 @@ We have separated our description of the Ford Mustang Mach-E GT into sections. I
 
 ## Performance
 
-The Ford Mustang Mach-E GT has a maximum power of 358KW (487hp). The total torque is 860nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 200 km/h. 
+The Ford Mustang Mach-E GT has a maximum power of 358KW (487hp). The total torque is 860nm. The 0-100km/h sprint (0-62mph) takes 3,7 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -30,7 +30,7 @@ The battery has a gross capacity of 98,8kWh and a net capacity of 92kWh, meaning
 
 The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 154 minutes, while a more common scenario of 10-80% would take 45 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 45% resulting in an actual charge speed including time loss on 85kW. Each charge session would take 26 minutes and 4 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 12 minutes to drive. This trip will require four charge session(s) charging from 4% to 47%. The total time lost for charging will be 112 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 10 hours and 21 minutes to drive. This trip will require five charge session(s) charging from 6% to 43%. The total time lost for charging will be 121 minutes.   
 ### Onboard charger
 
 
@@ -83,7 +83,7 @@ The following functionalities are available on the **standard** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 
 You can choose from 1 different materials/colors for this seat type. 
-- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 
 
