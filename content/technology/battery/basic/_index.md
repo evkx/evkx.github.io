@@ -31,4 +31,8 @@ create an external circuit through an electric motor or another electronic compo
 
 The current collectors work as an electrical conductor between the electrode and external circuits.
 
+If you want to go next level in the basic understand how a Lithium Ion battery works. See this truly amazing video from the Limiting Factor.
+
+{{< youtube 4-1psMHSpKs >}}
+
 Continue to [Cell chemistry and parts](../cellchemistry/) or go back to the [article overview](../).

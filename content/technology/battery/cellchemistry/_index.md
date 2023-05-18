@@ -88,7 +88,7 @@ The below table summaries the differences
 
 | Chemistry | NCA | NMC |  LFP|
 |------|-----------|----------|
-|Gravimetric density | 250-320 Wh/kg | 200-280 Wh/kg | 90-120Wh/kg |
+|Gravimetric density | 240-272 Wh/kg | 200-272 Wh/kg | 90-120Wh/kg |
 |Volummetric density | 580-720 Wh/l | 500 - 620 Wh/l | 220-300 Wh/l|
 |Cycles | 500-1000 | 1000-2000 | 2000 - 5000 |
 
