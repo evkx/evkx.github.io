@@ -1,7 +1,7 @@
 ---
-title: Ford Mustanc Mach-E Long Range AWD range & consumption
+title: Ford Mustang Mach-E Long Range AWD range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Ford Mustanc Mach-E Long Range AWD.
+description: Here you find all details about range and consumption for Ford Mustang Mach-E Long Range AWD.
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->

@@ -1,10 +1,11 @@
 ---
-title: Ford Mustanc Mach-E Long Range AWD specifications
+title: Ford Mustang Mach-E Long Range AWD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Ford Mustanc Mach-E Long Range AWD.
+description: EVKX.net gives you the full specifications for Ford Mustang Mach-E Long Range AWD.
 weight: 30
 ---
-EVKX.net seeks to have the most complete specifications for Ford Mustanc Mach-E Long Range AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford Mustanc Mach-E Long Range AWD, visit the [chargeinfo](../chargecurve/) for Ford Mustanc Mach-E Long Range AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![Ford Mustang Mach-E Long Range AWD](https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E Long Range AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford Mustang Mach-E Long Range AWD, visit the [chargeinfo](../chargecurve/) for Ford Mustang Mach-E Long Range AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
