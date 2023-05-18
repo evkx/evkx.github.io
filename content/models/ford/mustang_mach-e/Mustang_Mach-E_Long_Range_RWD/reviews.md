@@ -18,3 +18,7 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube bwHqbKkELUc >}}
 
+### Kris Rifa: Ford Mustang Mach-E Long Range RWD 615km Range Test (NHSR) 03.07.2021
+
+{{< youtube LKJLnJeVwEo >}}
+

@@ -1,21 +1,21 @@
 ---
-title: Ford Mustang Mach-E Long Range RWD specifications
+title: Ford Mustang Mach-E Standard Range AWD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Ford Mustang Mach-E Long Range RWD.
+description: EVKX.net gives you the full specifications for Ford Mustang Mach-E Standard Range AWD.
 weight: 30
 ---
-[![Ford Mustang Mach-E Long Range RWD](https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E Long Range RWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford Mustang Mach-E Long Range RWD, visit the [chargeinfo](../chargecurve/) for Ford Mustang Mach-E Long Range RWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![Ford Mustang Mach-E Standard Range AWD](https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E Standard Range AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford Mustang Mach-E Standard Range AWD, visit the [chargeinfo](../chargecurve/) for Ford Mustang Mach-E Standard Range AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|216 Kw|
-|Electrical torque output in Nm|430 Nm|
+|Peak electrical output in kW|258 Kw|
+|Electrical torque output in Nm|580 Nm|
 |Top speed|180 km/h|
-|0-100km/h (0-62 mph)|7 s|
+|0-100km/h (0-62 mph)|5,8 s|
 
 
 
@@ -24,9 +24,9 @@ EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|600 km|
-|WLTP consumption|15,3 kWh/100km|
-|WLTP consumption with charging loss|17,3 kWh/100km|
+|WLTP range|550 km|
+|WLTP consumption|12,7 kWh/100km|
+|WLTP consumption with charging loss|188 kWh/100km|
 
 
 
@@ -34,11 +34,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|98,8 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|92 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|75,7 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|70 kWh|
 |Max DC charging|150 kW|
-|[Pack Configuration](../../../../../technology/battery/batterypack/)|94s4p|
-|[Nominal voltage](../../../../../technology/battery/batterypack/)|376|
+|[Pack Configuration](../../../../../technology/battery/batterypack/)|96s3p|
+|[Nominal voltage](../../../../../technology/battery/batterypack/)|360|
 |[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC|
 
 

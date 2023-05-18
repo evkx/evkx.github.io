@@ -1,7 +1,7 @@
 ---
-title: Ford Mustang Mach-E Long Range RWD range & consumption
+title: Ford Mustang Mach-E Standard Range AWD range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Ford Mustang Mach-E Long Range RWD.
+description: Here you find all details about range and consumption for Ford Mustang Mach-E Standard Range AWD.
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
@@ -17,8 +17,8 @@ Below are the officially rated ranges. The tests are performed with the heating/
 
 | | Range  | Consumption  |
 |----|-----|------|
-| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 600 km / 373mi |15,33kWh/100km / 4,1 mi/kWh | 
-| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 600 km / 373mi | 15,33 kWh/100km / 4,1 mi/kWh | 
+| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 550 km / 342mi |12,73kWh/100km / 4,9 mi/kWh | 
+| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 550 km / 342mi | 12,73 kWh/100km / 4,9 mi/kWh | 
 
 ### Official test cycle results with added heating
 
@@ -26,8 +26,8 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 
 | | Range  | Change  |
 |----|-----|------|
-| WLTP-combined basic trim with 2KW AC | 469km /291 mi | -21,8%|
-| WLTP-combined top trim with 2KW AC | 469km /291 mi | -21,8%|
+| WLTP-combined basic trim with 2KW AC | 411km /255 mi | -25,3%|
+| WLTP-combined top trim with 2KW AC | 411km /255 mi | -25,3%|
 
 ### Real world range estimates
 
@@ -35,9 +35,9 @@ The table below shows some estimated real-world examples in perfect condition an
 
 | | Range  | Consumption  |
 |----|-----|------|
-| 90kmh/56mph perfect condition | 575km /357mi| 16 kWh/100km / 3,9 mi/kWh |
-| 90kmh/56mph with 2KW heating | 521km /324mi| 17,7 kWh/100km / 3,5 mi/kWh |
-| 70mph/112kmh perfect condition | 461km /286mi| 19,95 kWh/100km / 3,1 mi/kWh|
-| 70mph/112kmh with 2KW heating | 685km /426mi| 21,6 kWh/100km / 2,9 mi/kWh  |
-| 120kmh/75mph perfect condition | 400km /249mi| 23 kWh/100km / 2,7 mi/kWh |
-| 120kmh/75mph with 2KW heating | 600km /373mi| 24,7 kWh/100km / 2,5 mi/kWh |
+| 90kmh/56mph perfect condition | 389km /242mi| 18 kWh/100km / 3,5 mi/kWh |
+| 90kmh/56mph with 2KW heating | 356km /221mi| 19,7 kWh/100km / 3,2 mi/kWh |
+| 70mph/112kmh perfect condition | 348km /216mi| 20,1 kWh/100km / 3,1 mi/kWh|
+| 70mph/112kmh with 2KW heating | 517km /321mi| 21,8 kWh/100km / 2,9 mi/kWh  |
+| 120kmh/75mph perfect condition | 292km /181mi| 24 kWh/100km / 2,6 mi/kWh |
+| 120kmh/75mph with 2KW heating | 439km /273mi| 25,7 kWh/100km / 2,4 mi/kWh |

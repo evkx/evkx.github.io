@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E Long Range RWD
 linktitle: Mustang Mach-E Long Range RWD
-description: Ford Mustang Mach-E Long Range RWD is an all-electric coupe SUV with a WLTP range of up to 550 km (342 miles). EVKX.net have all the details. 
+description: Ford Mustang Mach-E Long Range RWD is an all-electric coupe SUV with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. 
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -34,7 +34,7 @@ The Ford Mustang Mach-E Long Range RWD has a maximum power of 216KW (294hp). The
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 98,8kWh and a net capacity of 92kWh, meaning you have a 6,8kWh buffer for protection. (6,9%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 550 km (342 mi).   The consumption is 16,7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 98,8kWh and a net capacity of 92kWh, meaning you have a 6,8kWh buffer for protection. (6,9%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 600 km (373 mi).   The consumption is 15,3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 154 minutes, while a more common scenario of 10-80% would take 45 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 45% resulting in an actual charge speed including time loss on 85kW. Each charge session would take 26 minutes and 4 seconds. 
 
