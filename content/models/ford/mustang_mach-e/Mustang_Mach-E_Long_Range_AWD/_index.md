@@ -104,7 +104,6 @@ The following functionalities are available on the **standard** seat.
 - height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 
 You can choose from 1 different materials/colors for this seat type. 
@@ -127,6 +126,14 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - height adjustable headrest 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/secondrowseats_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD">
+</a>
+<figcaption><h4>Ford Mustang Mach-E Long Range AWD</h4></figcaption></figur>
+
 
 There is only one type of steering wheel available. 
 
@@ -168,7 +175,7 @@ One type of sound system is available for the Ford Mustang Mach-E Long Range AWD
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Ford Mustang Mach-E Long Range AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 1 USB-C connections as standard. The models is equipped with 2 USB-A connections as standard. 
+The model has 2 USB-C connections as standard. The models is equipped with 2 USB-A connections as standard. 
 ## Lights
 
 

@@ -42,7 +42,7 @@ Fisker has 1 models with total 1 variants. [Read all about them](fisker/)
 
 ## Ford
 
-[![Ford](https://media.evkx.net/multimedia/models/ford/brandevs_st.jpg)](ford/)
+[![Ford](https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg)](ford/)
 
 Ford is one of the world's leading automakers, with a history of innovation and excellence that spans more than a century. Ford is also committed to leading the transition to a more sustainable and electrified future, with a range of hybrid and electric vehicles (EVs) that offer performance, efficiency, technology and convenience.
 

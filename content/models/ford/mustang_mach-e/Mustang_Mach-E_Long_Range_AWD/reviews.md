@@ -14,6 +14,14 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube v1VGe1KmF18 >}}
 
+### Autogefühl: Ford Mustang reinvented as EV! - FULL REVIEW of the Mach-E 04.03.2021
+
+{{< youtube Xrn_9OwVxKA >}}
+
+### Bjørn Nyland: Ford Mustang Mach-E Long Range AWD full review 25.02.2021
+
+{{< youtube Ip-aS67iR4I >}}
+
 ### Bjørn Nyland: Ford Mustang Mach-E Long Range AWD 1000 km challenge 21.02.2021
 
 {{< youtube GKhdNboOeQ8 >}}

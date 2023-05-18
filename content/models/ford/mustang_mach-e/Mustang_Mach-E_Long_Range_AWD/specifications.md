@@ -86,7 +86,7 @@ This model is available with a seat configuration with five seats.
 |[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Standard feature|
 |Interior.Seatoptions.MemoryDriverSeat|Standard feature|
-|Interior.Seatoptions.MemoryPassangerSeat|Standard feature|
+|Interior.Seatoptions.MemoryPassangerSeat|Not Available|
 |Height adjustable headrest|Standard feature|
 |Length adjustable headrest|Not Available|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|

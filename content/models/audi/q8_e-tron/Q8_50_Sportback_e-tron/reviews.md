@@ -6,4 +6,7 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### Out of Spec Reviews: The New Audi Q8 e-tron! Here Are The Updates For 2024 21.02.2021
+
+{{< youtube VwxQ8fOMfNQ >}}
+
