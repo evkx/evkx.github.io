@@ -34,7 +34,7 @@ The Ford Mustang Mach-E Long Range AWD has a maximum power of 258KW (351hp). The
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 98,7kWh and a net capacity of 92kWh, meaning you have a 6,7kWh buffer for protection. (6,8%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 550 km (342 mi).   The consumption is 16,7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 98,8kWh and a net capacity of 92kWh, meaning you have a 6,8kWh buffer for protection. (6,9%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 550 km (342 mi).   The consumption is 16,7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 154 minutes, while a more common scenario of 10-80% would take 45 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 45% resulting in an actual charge speed including time loss on 85kW. Each charge session would take 26 minutes and 4 seconds. 
 
@@ -42,6 +42,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 ### Onboard charger
 
 
+
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 21 minutes. 
 
 
 <figur>
@@ -99,6 +101,7 @@ Only one front seat type is available in the Ford Mustang Mach-E Long Range AWD.
 The following functionalities are available on the **standard** seat. 
 
 - electric adjustment 
+- height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
@@ -123,6 +126,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
+- height adjustable headrest 
 
 There is only one type of steering wheel available. 
 
@@ -137,6 +141,8 @@ Ford Mustang Mach-E Long Range AWD has several features to make your life as a d
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
 Keyless go makes it possible to start the car without needing to use the key. 
+
+comfort.easyentryseatcomfort.easyentryseat
 
 You have wireless charging for your phone.  
 
@@ -191,11 +197,17 @@ The Ford Mustang Mach-E Long Range AWD has a [**Electronic Stability Control**](
 
 The Ford Mustang Mach-E Long Range AWD has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
+
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
+
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
 The Ford Mustang Mach-E Long Range AWD has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
+
+[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 
 ### Driving Automation
 

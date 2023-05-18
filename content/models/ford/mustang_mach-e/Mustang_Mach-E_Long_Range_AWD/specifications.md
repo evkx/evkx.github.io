@@ -34,10 +34,12 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|98,7 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|98,8 kWh|
 |[Battery net](../../../../../technology/battery/buffer/)|92 kWh|
 |Max DC charging|150 kW|
 |[Pack Configuration](../../../../../technology/battery/batterypack/)|94s4p|
+|[Nominal voltage](../../../../../technology/battery/batterypack/)|376|
+|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC|
 
 
 
@@ -85,7 +87,7 @@ This model is available with a seat configuration with five seats.
 |Electric adjustment of height, recline and angle|Standard feature|
 |Interior.Seatoptions.MemoryDriverSeat|Standard feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Standard feature|
-|Height adjustable headrest|Unknown|
+|Height adjustable headrest|Standard feature|
 |Length adjustable headrest|Not Available|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
 |[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
@@ -105,12 +107,12 @@ This model is available with a seat configuration with five seats.
 |Spec|Value|
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
-|Height adjustable headrest|Unknown|
-|Length adjustable headrest|Unknown|
-|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
-|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Unknown|
-|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Unknown|
-|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
+|Height adjustable headrest|Standard feature|
+|Length adjustable headrest|Not Available|
+|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
+|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|
+|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Not Available|
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Not Available|
@@ -124,12 +126,12 @@ This model is available with a seat configuration with five seats.
 |Lane keeping|Yes, standard equipment|
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert||
-|Reversing camera||
-|360 camera||
-|Rear cross traffic alert||
-|Rear parking sensors||
-|Front parking sensors||
-|Side parking sensors||
+|Reversing camera|Yes, standard equipment|
+|360 camera|Yes, standard equipment|
+|Rear cross traffic alert|Yes, standard equipment|
+|Rear parking sensors|Yes, standard equipment|
+|Front parking sensors|Yes, standard equipment|
+|Side parking sensors|Yes, standard equipment|
 |Hill descent assist||
 |Hill start assist|Yes, standard equipment|
 |AntiLock Braking System|Yes, standard equipment|
@@ -140,7 +142,7 @@ This model is available with a seat configuration with five seats.
 |Forward Collision Warning|Yes, standard equipment|
 |Electronic stability control|Yes, standard equipment|
 |Temperature warning||
-|Cross traffic assist||
+|Cross traffic assist|Yes, standard equipment|
 |Speed limiter||
 |Efficiency assist||
 |Automatic Emergency Steering|Yes, standard equipment|
