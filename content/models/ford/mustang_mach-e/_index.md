@@ -32,7 +32,7 @@ Ford Mustang Mach-E Long Range RWD is an all-electric coupe SUV with a WLTP rang
 
 ## Ford Mustang Mach-E GT
 
-[![Mustang Mach-E GT]()](/models/ford/mustang_mach-e/mustang_mach-e_gt/)
+[![Mustang Mach-E GT](https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/main_1_st.jpg)](/models/ford/mustang_mach-e/mustang_mach-e_gt/)
 
 Ford Mustang Mach-E GT is an all-electric coupe SUV with a WLTP range of up to 490 km (305 miles). EVKX.net have all the details. 
 

@@ -96,29 +96,19 @@ C2M technology has several advantages over traditional battery pack designs. It 
     <figcaption><h4>Battery pack with 33 modules</h4></figcaption>
 </figure>
 
-## Cell-to-pack
-
-Cell-to-pack (C2P) is a technology used in electric vehicle (EV) battery packs that eliminates the need for a separate battery management system (BMS).
-
-In a traditional EV battery pack, individual battery cells are connected to a central BMS that monitors and controls the charging and discharging of each cell. This can be complex and expensive, especially in large battery packs.
-
-With C2P technology, the individual cells are connected directly to the vehicle's power electronics without the need for a central BMS. This is made possible by using a dedicated microcontroller in each battery cell to monitor and report on its status. These microcontrollers can communicate with each other and with the vehicle's power electronics to ensure that the cells are charged and discharged evenly and safely.
-
-C2P technology has several advantages over traditional battery pack designs. It can reduce the weight and complexity of the battery pack, as well as increase its energy density. It can also improve the overall reliability of the pack, since each cell is monitored individually and faults can be detected and isolated more quickly.
-
-Overall, cell-to-pack technology is a promising innovation in EV battery design that could help reduce costs and improve performance.
-
 {{<evkxdisplayaddarticle />}}
 
-## Structural battery pack
+## Structural battery pack (cell to pack)
 
-A structural battery pack is a type of battery pack that is integrated into the structure of a vehicle or other device, serving both as a source of power and as a structural component. This approach can reduce the weight and complexity of the device, while also improving its overall performance and efficiency.
+A structural battery pack is a type of battery pack that is created a way that the pack iteslf becomes a structural component of the EV.
 
-In a traditional battery pack, the battery cells are usually arranged in a specific configuration and enclosed within a protective casing. This casing adds weight and complexity to the overall design of the device, and may require additional support structures to ensure proper installation and operation.
+Typical this is packs that have the cells directly in the pack without using modules.
 
-With a structural battery pack, the battery cells are integrated directly into the vehicle or device's structure, such as the chassis or body panels. The battery cells themselves serve as both a source of power and as a structural component, providing support and strength to the overall design. This approach can reduce the overall weight of the device and improve its efficiency by eliminating the need for separate support structures and protective casings.
+This approach can reduce the weight and complexity of the device, while also improving its overall performance and efficiency.
 
-Structural battery packs are still a relatively new concept, but they are being explored and developed by a number of companies and research institutions. They have the potential to revolutionize the design of electric vehicles and other devices by reducing weight and complexity, improving performance, and making it easier to integrate battery technology into a wide range of applications.
+Structural battery packs are still a relatively new concept, but they are being explored and developed by a number of companies and research institutions. 
+
+They have the potential to revolutionize the design of electric vehicles and other devices by reducing weight and complexity, improving performance, and making it easier to integrate battery technology into a wide range of applications.
 
 Currently it is only Tesla Model Y that have structural packs. According to Tesla, this solution presents many advantages, such as a great reduction in the number of parts used in both the battery pack and the car, which allows the pack manufacturing line to be less than half the size of previous factories.
 
@@ -129,5 +119,17 @@ The below video show a detailed analysis of the pack by Munro & Associates.
 {{< youtube FXpfU6I_T3w >}}
 
 <br /> <br />
+
+## Energy density at the battery pack level
+
+| Pack | Year | Capacity | Weight | Density |
+|Tesla Roadster | 2010 | ? | ? | 120 Wh/kg |
+| Tesla Model S | 2012 | ? |?  | 135 Wh/kg |
+| Tesla Model X | 2015 | ? |?  | 148 Wh/kg |
+| Tesla Model 3 | 2017 | ? |? | 160 Wh/kg |
+| Tesla Model S | 2022 | ? |? | 185Wh/kg |
+| Volkswagen MEB | 2021 | 82 | 493kg | 166Wh/kg |
+| Audi Q8 e-tron | 2022 | 114 | 727kg | 157Wh/kg |
+
 
 Continue reading about [Battery Mangement System](../batterymanagment/) or go back to [article overview](../).

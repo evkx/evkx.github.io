@@ -6,6 +6,14 @@ weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/main_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT">
+</a>
+<figcaption><h4>Ford Mustang Mach-E GT</h4></figcaption></figur>
+
 We have separated our description of the Ford Mustang Mach-E GT into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
@@ -37,6 +45,14 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 21 minutes. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/charging_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT">
+</a>
+<figcaption><h4>Ford Mustang Mach-E GT</h4></figcaption></figur>
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -61,6 +77,14 @@ Additionally, you can choose between 2 wheels with sizes from 18 to 19 inches.
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/exterior_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT">
+</a>
+<figcaption><h4>Ford Mustang Mach-E GT</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -87,6 +111,14 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/frontseats_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT">
+</a>
+<figcaption><h4>Ford Mustang Mach-E GT</h4></figcaption></figur>
+
+
 ### Second-row seat
 
 
@@ -94,6 +126,14 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - height adjustable headrest 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/secondrowseats_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT">
+</a>
+<figcaption><h4>Ford Mustang Mach-E GT</h4></figcaption></figur>
+
 
 There is only one type of steering wheel available. 
 
@@ -121,6 +161,14 @@ You have wireless charging for your phone.
 
 The  screen behind the steering wheel mounted into the dashboard is 10,2 inches large. The touch screen at the top of the center console is 15,5 inches large. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/screens_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT">
+</a>
+<figcaption><h4>Ford Mustang Mach-E GT</h4></figcaption></figur>
+
+
 ## Infotainment
 
 One type of sound system is available for the Ford Mustang Mach-E GT. With the B&O Sound System, you get NULL amplifier channels and ten speakers with a max system output of 560 watts. 
@@ -130,6 +178,14 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 2 USB-C connections as standard. The models is equipped with 2 USB-A connections as standard. 
 ## Lights
 
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/headlights_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT">
+</a>
+<figcaption><h4>Ford Mustang Mach-E GT</h4></figcaption></figur>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -175,3 +231,10 @@ With the Ford BlueCruise  level 2 system, you get the following driving automati
 The cargo capacity in the trunk is 402 liters. With the rear seat down, it is 1420 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 100 liters. Max weight is 2690kg, and with the base weight of 2218 kg, you can max load 472 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/trunk_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT">
+</a>
+<figcaption><h4>Ford Mustang Mach-E GT</h4></figcaption></figur>
