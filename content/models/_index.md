@@ -40,6 +40,14 @@ Fisker Inc. is an American electric vehicle (EV) manufacturer that was founded i
 
 Fisker has 1 models with total 1 variants. [Read all about them](fisker/)
 
+## Ford
+
+[![Ford](https://media.evkx.net/multimedia/models/ford/brandevs_st.jpg)](ford/)
+
+Ford is one of the world's leading automakers, with a history of innovation and excellence that spans more than a century. Ford is also committed to leading the transition to a more sustainable and electrified future, with a range of hybrid and electric vehicles (EVs) that offer performance, efficiency, technology and convenience.
+
+Ford has 1 models with total 1 variants. [Read all about them](ford/)
+
 ## Hongqi
 
 [![Hongqi](https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg)](hongqi/)

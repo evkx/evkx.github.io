@@ -96,9 +96,18 @@ The seat layout is the traditional five seats with two in front and three seats 
 
 Only one front seat type is available in the Ford Mustang Mach-E Long Range AWD. 
 
-The following functionalities are available on the **** seat. 
+The following functionalities are available on the **standard** seat. 
 
 - electric adjustment 
+- [heating](../../../../technology/seats/adjustment/#heating) 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+
+You can choose from 1 different materials/colors for this seat type. 
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+
+
 
 
 <figur>
@@ -112,18 +121,22 @@ The following functionalities are available on the **** seat.
 
 
 
-The following functionalities are available on the **** seat. 
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 
 There is only one type of steering wheel available. 
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
+There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger, and backseat. This model has not [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with heat pump. 
 
 ## Comfort
 
 Ford Mustang Mach-E Long Range AWD has several features to make your life as a driver or passenger more comfortable. 
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
 
 You have wireless charging for your phone.  
 
@@ -145,7 +158,9 @@ The  screen behind the steering wheel mounted into the dashboard is 10,2 inches 
 
 ## Infotainment
 
-One type of sound system is available for the Ford Mustang Mach-E Long Range AWD. With the B&O Sound System, you get NULL amplifier channels and ten speakers with a max system output of  watts. Furthermore, the Ford Mustang Mach-E Long Range AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+One type of sound system is available for the Ford Mustang Mach-E Long Range AWD. With the B&O Sound System, you get NULL amplifier channels and ten speakers with a max system output of 560 watts. 
+
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Ford Mustang Mach-E Long Range AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 1 USB-C connections as standard. The models is equipped with 2 USB-A connections as standard. 
 ## Lights
@@ -194,7 +209,7 @@ With the Ford BlueCruise  level 2 system, you get the following driving automati
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 402 liters. With the rear seat down, it is 1420 liters. Under the hood, there is frunk with more storage room. This frunk is 100 liters. Max weight is 2690kg, and with the base weight of 2218 kg, you can max load 472 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 402 liters. With the rear seat down, it is 1420 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 100 liters. Max weight is 2690kg, and with the base weight of 2218 kg, you can max load 472 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 
