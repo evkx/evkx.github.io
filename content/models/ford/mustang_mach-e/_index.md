@@ -30,6 +30,19 @@ Ford Mustang Mach-E Long Range RWD is an all-electric coupe SUV with a WLTP rang
 - [Ford Mustang Mach-E Long Range RWD image gallery](/models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd//gallery)
 - [Ford Mustang Mach-E Long Range RWD reviews](/models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd//reviews)
 
+## Ford Mustang Mach-E GT
+
+[![Mustang Mach-E GT]()](/models/ford/mustang_mach-e/mustang_mach-e_gt/)
+
+Ford Mustang Mach-E GT is an all-electric coupe SUV with a WLTP range of up to 490 km (305 miles). EVKX.net have all the details. 
+
+- [Ford Mustang Mach-E GT article](/models/ford/mustang_mach-e/mustang_mach-e_gt/)
+- [Ford Mustang Mach-E GT Range & consumption info](/models/ford/mustang_mach-e/mustang_mach-e_gt//rangeandconsumption)
+- [Ford Mustang Mach-E GT Charging curve and performance](/models/ford/mustang_mach-e/mustang_mach-e_gt//chargingcurve)
+- [Ford Mustang Mach-E GT full specifications](/models/ford/mustang_mach-e/mustang_mach-e_gt//specifications)
+- [Ford Mustang Mach-E GT image gallery](/models/ford/mustang_mach-e/mustang_mach-e_gt//gallery)
+- [Ford Mustang Mach-E GT reviews](/models/ford/mustang_mach-e/mustang_mach-e_gt//reviews)
+
 ## Ford Mustang Mach-E Standard Range AWD
 
 [![Mustang Mach-E Standard Range AWD](https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/main_1_st.jpg)](/models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/)
