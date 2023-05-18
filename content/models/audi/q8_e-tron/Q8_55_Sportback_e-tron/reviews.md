@@ -6,6 +6,10 @@ weight: 80
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Out of Spec Reviews: The New Audi Q8 e-tron! Here Are The Updates For 2024 17.05.2023
+
+{{< youtube VwxQ8fOMfNQ >}}
+
 ### Bjørn Nyland: Audi Q8 e-tron 55 Sportback 1000 km challenge 29.03.2023
 
 {{< youtube dYbczCbmWd8 >}}

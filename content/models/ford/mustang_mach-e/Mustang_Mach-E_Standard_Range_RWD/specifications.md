@@ -1,11 +1,11 @@
 ---
-title: Ford Mustang Mach-E Standard Range AWD specifications
+title: Ford Mustang Mach-E Standard Range RWD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Ford Mustang Mach-E Standard Range AWD.
+description: EVKX.net gives you the full specifications for Ford Mustang Mach-E Standard Range RWD.
 weight: 30
 ---
-[![Ford Mustang Mach-E Standard Range AWD](https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E Standard Range AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford Mustang Mach-E Standard Range AWD, visit the [chargeinfo](../chargecurve/) for Ford Mustang Mach-E Standard Range AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![Ford Mustang Mach-E Standard Range RWD](https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E Standard Range RWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford Mustang Mach-E Standard Range RWD, visit the [chargeinfo](../chargecurve/) for Ford Mustang Mach-E Standard Range RWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -24,9 +24,9 @@ EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|400 km|
-|WLTP consumption|17,5 kWh/100km|
-|WLTP consumption with charging loss|19,5 kWh/100km|
+|WLTP range|440 km|
+|WLTP consumption|15,9 kWh/100km|
+|WLTP consumption with charging loss|17,2 kWh/100km|
 
 
 
