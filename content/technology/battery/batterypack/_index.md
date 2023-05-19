@@ -98,6 +98,18 @@ C2M technology has several advantages over traditional battery pack designs. It 
 
 {{<evkxdisplayaddarticle />}}
 
+## Cell-to-pack
+
+Cell-to-pack (CTP) batteries are a new type of battery technology that eliminates the need for battery modules by integrating the cells directly into the pack. 
+
+This technology is being developed by several companies such as Tesla, BYD and CATL.
+
+BYD Blade and CATL Qilin are two examples of CTP batteries. The main difference between these two batteries is their cooling system. 
+
+BYD Blade uses a liquid cooling system while CATL Qilin uses a structural cooling system. The structural cooling system is more efficient than the liquid cooling system used in BYD Blade.
+
+The benefits of CTP batteries include higher energy density and lower cost compared to cell-to-modules.
+
 ## Structural battery pack (cell to pack)
 
 A structural battery pack is a type of battery pack that is created a way that the pack iteslf becomes a structural component of the EV.
@@ -123,13 +135,15 @@ The below video show a detailed analysis of the pack by Munro & Associates.
 ## Energy density at the battery pack level
 
 | Pack | Year | Capacity | Weight | Density |
+|---|----|-----|----|-----|
 |Tesla Roadster | 2010 | ? | ? | 120 Wh/kg |
-| Tesla Model S | 2012 | ? |?  | 135 Wh/kg |
-| Tesla Model X | 2015 | ? |?  | 148 Wh/kg |
-| Tesla Model 3 | 2017 | ? |? | 160 Wh/kg |
-| Tesla Model S | 2022 | ? |? | 185Wh/kg |
+| Tesla Model S | 2012 | 85 | 540  | 157 Wh/kg |
+| Tesla Model X | 2015 | ? | ?  | 148 Wh/kg |
+| Tesla Model 3 | 2017 | 80.5 | 477  | 169 Wh/kg |
+| Audi e-tron 55 | 2018 | 95 | 699kg | 136Wh/kg |
+| Tesla Model S | 2022 | 100 | 544 | 184Wh/kg |
 | Volkswagen MEB | 2021 | 82 | 493kg | 166Wh/kg |
-| Audi Q8 e-tron | 2022 | 114 | 727kg | 157Wh/kg |
+| Audi Q8 e-tron 55 | 2022 | 114 | 727kg | 157Wh/kg |
 
 
 Continue reading about [Battery Mangement System](../batterymanagment/) or go back to [article overview](../).
