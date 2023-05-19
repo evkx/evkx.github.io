@@ -56,24 +56,22 @@ The electrode and separator layers of a pouch cell are stacked rather than jelly
     <figcaption><h4>LG Chem pouch cell</h4></figcaption>
 </figure>
 
-## Blade 
+## Blade
 
 Blade batteries are a type of lithium-ion battery that use a unique "blade" design for their battery cells. Unlike traditional cylindrical or prismatic battery cells, blade batteries are thin and flat, resembling the shape of a blade or a wafer.
 
 The blade design of the battery cell allows for a more compact and efficient battery pack, as the cells can be tightly packed together to reduce the size and weight of the battery pack. This also provides better heat dissipation, as the flat shape of the cells allows for more surface area to come in contact with the cooling system.
 
-Blade batteries are primarily produced by the Chinese battery manufacturer, CATL (Contemporary Amperex Technology Co. Ltd). CATL claims that blade batteries have several advantages over traditional battery designs, including higher energy density, faster charging times, and improved safety.
+Blade batteries are primarily produced by the Chinese battery manufacturer BYD.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/battery/cell/bladebattery.jpg">
         <img src="https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_st.jpg"
         alt="Blade Battery" title="Blade Battery">
     </a>
-    <figcaption><h4>Blade Battery</h4></figcaption>
+    <figcaption><h4>BYD Blade Battery</h4></figcaption>
 </figure>
 
 One of the key safety features of blade batteries is the use of a ceramic separator between the anode and cathode layers of the cell. This ceramic separator is more resistant to thermal runaway and provides better protection against internal short circuits, reducing the risk of battery fires and explosions.
-
-Overall, blade batteries represent a new and innovative approach to lithium-ion battery design, with the potential to improve the performance, safety, and efficiency of EV batteries.
 
 Continue to [Thermal Management](../thermalmanagement/) or go back to the [article overview](../).

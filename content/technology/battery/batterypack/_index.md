@@ -112,8 +112,15 @@ This technology is being developed by several companies such as Tesla, BYD and C
     <figcaption><h4>CATL Qilin cell-to-pack battery</h4></figcaption>
 </figure>
 
+BYD Blade and CATL Qilin are two examples of CTP batteries. The main difference between these two batteries is their cooling system.
 
-BYD Blade and CATL Qilin are two examples of CTP batteries. The main difference between these two batteries is their cooling system. 
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/battery/cell/bladebattery.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_st.jpg"
+        alt="Blade Battery" title="Blade Battery">
+    </a>
+    <figcaption><h4>BYD Blade Battery</h4></figcaption>
+</figure>
 
 BYD Blade uses a liquid cooling system while CATL Qilin uses a structural cooling system. The structural cooling system is more efficient than the liquid cooling system used in BYD Blade.
 
@@ -127,19 +134,37 @@ This approach can reduce the weight and complexity of the device, while also imp
 
 Structural battery packs are still a relatively new concept, but they are being explored and developed by a number of companies and research institutions.
 
+
 They have the potential to revolutionize the design of electric vehicles and other devices by reducing weight and complexity, improving performance, and making it easier to integrate battery technology into a wide range of applications.
 
 Currently it is only Tesla Model Y that have structural packs. According to Tesla, this solution presents many advantages, such as a great reduction in the number of parts used in both the battery pack and the car, which allows the pack manufacturing line to be less than half the size of previous factories.
 
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/battery/batterypack/teslastructuralbattery_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/battery/batterypack/teslastructuralbattery_1_st.jpg"
+        alt="Tesla 4680 Structural pack compared with traditional pack" title="Tesla 4680 Structural pack compared with traditional pack">
+    </a>
+    <figcaption><h4>Tesla 4680 Structural pack compared with traditional pack</h4></figcaption>
+</figure>
+
 More importantly, the company said the new cells together with the structural pack are expected to increase the Model Y's range by 16 percent and decrease the overall weight of the car by 10 percent, resulting in improved acceleration and handling.
+
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/battery/batterypack/teslastructuralbattery_2.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/battery/batterypack/teslastructuralbattery_2_st.jpg"
+        alt="Tesla structural pack works as the floor on the EV" title="Tesla structural pack works as the floor on the EV">
+    </a>
+    <figcaption><h4>Tesla structural pack works as the floor on the EV</h4></figcaption>
+</figure>
 
 The below video show a detailed analysis of the pack by Munro & Associates.
 
 {{< youtube FXpfU6I_T3w >}}
 
-<br /> <br />
-
 ## Energy density at the battery pack level
+
+The following table shows how pack density have varied over time between some example battery packs.
 
 | Pack | Year | Capacity | Weight | Density |
 |---|----|-----|----|-----|
