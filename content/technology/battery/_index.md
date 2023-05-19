@@ -22,13 +22,16 @@ We have split the article into separate sections.
 
 - [Battery Basics](basic) - The basic concept of a battery
 - [Cell Chemistry & Parts](cellchemistry) - Details about the different chemistry and cell parts
-- [Cell Housing](cell) - Details about cell hosing like pouch, prismatic, blade and cylindrical.
-- [Battery Pack & configuration](batterypack) - 
-- [Battery management system](batterymanagment)
-- [Thermal management](thermalmanagement)
-- [Charging](charging)
-- [Cell Balancing](cellbalancing)
+- [Cell Housing](cell) - Details about cell housing like pouch, prismatic, blade and cylindrical.
+- [Battery Pack & configuration](batterypack) - 400 volt vs 800. Cell to module vs Cell to pack and more.
+- [Battery management system](batterymanagment) - The brain of the battery system
+- [Thermal management](thermalmanagement) - Why are termal management important for performance
+- [Charging](charging) - How charging works
+- [Cell Balancing](cellbalancing) - What is cell balancing
 - [Degradation](degredation)
 - [Manufactors](manufactors)
+- [Warrant](warranty)
+  
+
 
 {{<evkxdisplayaddarticle />}}

@@ -35,4 +35,6 @@ If you want to go next level in the basic understand how a Lithium Ion battery w
 
 {{< youtube 4-1psMHSpKs >}}
 
+<br />
+
 Continue to [Cell chemistry and parts](../cellchemistry/) or go back to the [article overview](../).
