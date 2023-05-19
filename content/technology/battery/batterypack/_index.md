@@ -104,21 +104,28 @@ Cell-to-pack (CTP) batteries are a new type of battery technology that eliminate
 
 This technology is being developed by several companies such as Tesla, BYD and CATL.
 
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/battery/batterypack/catl_qilin_2.jpgg">
+        <img src="https://media.evkx.net/multimedia/technology/battery/batterypack/catl_qilin_2_st.jpg"
+        alt="CATL Qilin cell-to-pack battery" title="CATL Qilin cell-to-pack battery">
+    </a>
+    <figcaption><h4>CATL Qilin cell-to-pack battery</h4></figcaption>
+</figure>
+
+
 BYD Blade and CATL Qilin are two examples of CTP batteries. The main difference between these two batteries is their cooling system. 
 
 BYD Blade uses a liquid cooling system while CATL Qilin uses a structural cooling system. The structural cooling system is more efficient than the liquid cooling system used in BYD Blade.
 
 The benefits of CTP batteries include higher energy density and lower cost compared to cell-to-modules.
 
-## Structural battery pack (cell to pack)
+## Structural battery pack
 
 A structural battery pack is a type of battery pack that is created a way that the pack iteslf becomes a structural component of the EV.
 
-Typical this is packs that have the cells directly in the pack without using modules.
-
 This approach can reduce the weight and complexity of the device, while also improving its overall performance and efficiency.
 
-Structural battery packs are still a relatively new concept, but they are being explored and developed by a number of companies and research institutions. 
+Structural battery packs are still a relatively new concept, but they are being explored and developed by a number of companies and research institutions.
 
 They have the potential to revolutionize the design of electric vehicles and other devices by reducing weight and complexity, improving performance, and making it easier to integrate battery technology into a wide range of applications.
 
@@ -136,7 +143,7 @@ The below video show a detailed analysis of the pack by Munro & Associates.
 
 | Pack | Year | Capacity | Weight | Density |
 |---|----|-----|----|-----|
-|Tesla Roadster | 2010 | ? | ? | 120 Wh/kg |
+|Tesla Roadster | 2010 | 53 | 450 | 118 Wh/kg |
 | Tesla Model S | 2012 | 85 | 540  | 157 Wh/kg |
 | Tesla Model X | 2015 | ? | ?  | 148 Wh/kg |
 | Tesla Model 3 | 2017 | 80.5 | 477  | 169 Wh/kg |
