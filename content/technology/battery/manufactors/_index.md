@@ -8,13 +8,13 @@ weight: 10
 
 The largest ones are.
 
-**Panasonic** - This Japanese electronics company is the largest battery manufacturer for EVs, supplying batteries to Tesla, as well as other car manufacturers like Toyota.
+**CATL** - China's Contemporary Amperex Technology Co. Limited is the world's largest battery manufacturer for EVs, with a market share of around 34% in 2022. [Website](https://www.catl.com/en/)
 
-**CATL** - China's Contemporary Amperex Technology Co. Limited is the world's second-largest battery manufacturer for EVs, with a market share of around 28% in 2021. [Website](https://www.catl.com/en/)
+**LG Chem** - A South Korean company, LG Chem is one of the leading battery manufacturers for EVs and supplies batteries to several major carmakers, including GM and Hyundai. Market share 14% in 2022 [Website](https://www.lgchem.com/)
 
-**LG Chem** - A South Korean company, LG Chem is one of the leading battery manufacturers for EVs and supplies batteries to several major carmakers, including GM and Hyundai. [Website](https://www.lgchem.com/)
+**BYD** - A Chinese automaker and battery manufacturer, BYD is the fourth-largest battery manufacturer for EVs and also produces its own electric cars. Market share 12% in 2022 [Website](https://www.bydglobal.com/)
 
-**BYD** - A Chinese automaker and battery manufacturer, BYD is the fourth-largest battery manufacturer for EVs and also produces its own electric cars. [Website](https://www.bydglobal.com/)
+**Panasonic** - This Japanese electronics company is the largest battery manufacturer for EVs, supplying batteries to Tesla, as well as other car manufacturers like Toyota.  Market share 10% in 2022
 
 **Samsung SDI** - A South Korean company, Samsung SDI is a leading battery supplier for EVs and produces batteries for BMW and Volkswagen, among others. [Website](https://www.samsungsdi.com/)
 
