@@ -36,9 +36,9 @@ Li-ion cells with prismatic housing consist of large sheets of anodes, cathodes,
     <figcaption><h4>Samsung prismatic cells</h4></figcaption>
 </figure>
 
-Parts of the electrode and separator sheets of a prismatic cell that are close to the container corners can experience more stress. This can damage electrode coating and lead to the non-uniform distribution of the electrolyte.
+Parts of a prismatic cell's electrode and separator sheets close to the container corners can experience more stress. This stress can damage electrode coating and lead to the non-uniform distribution of the electrolyte.
 
-When combining prismatic cells into packs, the cell box-like shape enables optimal use of the available space. However, this optimal space is achieved at the cost of more challenging thermal management. This is because there are no space cavities between the cells as there are in a pack of cylindrical cells.
+The cell box-like shape optimizes the available space when combining prismatic cells into packs.
 
 ## Pouch housing
 
