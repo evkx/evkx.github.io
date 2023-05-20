@@ -3,8 +3,10 @@ title: Mercedes-AMG EQE 43 4MATIC
 linktitle: EQE 43 4MATIC
 description: Mercedes-AMG EQE 43 4MATIC is an all-electric luxury sedan with a WLTP range of up to 533 km (331 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -219,10 +221,6 @@ You can choose between two types of headlights for the Mercedes-AMG EQE 43 4MATI
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Mercedes-AMG EQE 43 4MATIC has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -259,6 +257,10 @@ With the Driver Assistance Package Plus  level 2 system, you get additional driv
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 430 liters. With the rear seat down, it is 895 liters. On the roof, you can load up to 100kg. Max weight is 3095kg, and with the base weight of 2450 kg, you can max load 645 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -271,3 +273,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/trunk_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

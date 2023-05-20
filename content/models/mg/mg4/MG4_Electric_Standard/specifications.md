@@ -3,7 +3,9 @@ title: MG MG4 Electric Standard specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for MG MG4 Electric Standard.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![MG MG4 Electric Standard](https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for MG MG4 Electric Standard. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG4 Electric Standard, visit the [chargeinfo](../chargecurve/) for MG MG4 Electric Standard with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

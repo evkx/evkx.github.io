@@ -3,8 +3,10 @@ title: Porsche Taycan Turbo S Sport Turismo
 linktitle: Taycan Turbo S Sport Turismo
 description: Porsche Taycan Turbo S Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 457 km (284 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -214,10 +216,6 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 </a>
 <figcaption><h4>Porsche Taycan Turbo S Sport Turismo</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Porsche Taycan Turbo S Sport Turismo has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -258,6 +256,10 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 405 liters. With the rear seat down, it is 1171 liters. On the roof, you can load up to 75kg. Max weight is 2870kg, and with the base weight of 2250 kg, you can max load 620 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -270,3 +272,4 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/trunk_1_st.jpg" alt="Porsche Taycan Turbo S Sport Turismo" title="Porsche Taycan Turbo S Sport Turismo">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S Sport Turismo</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

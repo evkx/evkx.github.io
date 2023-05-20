@@ -3,8 +3,10 @@ title: Tesla Model 3 Long Range
 linktitle: Model 3 Long Range
 description: Tesla Model 3 Long Range is an all-electric sedan with a WLTP range of up to 602 km (374 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -183,10 +185,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED technology.  
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Tesla Model 3 Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -230,8 +228,12 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 - Stop sign control - follow stop signs. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 70kg. Max weight is 2232kg, and with the base weight of 1844 kg, you can max load 388 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1000, and on unbraked, 750kg. 
+A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1000, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

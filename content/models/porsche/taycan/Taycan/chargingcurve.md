@@ -3,8 +3,10 @@ title: Porsche Taycan charging curve & performance
 linktitle: Charging performance
 description: Here you find the charging curve for Porsche Taycan. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 This model is available with multiple batteries. Below you find the performance for the different battery packs.
 
 ### 79,2 kWh

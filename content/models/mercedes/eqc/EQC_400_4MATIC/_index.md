@@ -3,8 +3,10 @@ title: Mercedes-EQ EQC 400 4MATIC
 linktitle: EQC 400 4MATIC
 description: Mercedes-EQ EQC 400 4MATIC is an all-electric luxury SUV with a WLTP range of up to 432 km (268 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -145,10 +147,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Mercedes-EQ EQC 400 4MATIC has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -183,6 +181,10 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1460 liters. On the roof, you can load up to 75kg. Max weight is 2940kg, and with the base weight of 2420 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -195,3 +197,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" title="Mercedes-EQ EQC 400 4MATIC">
 </a>
 <figcaption><h4>Mercedes-EQ EQC 400 4MATIC</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

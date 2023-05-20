@@ -3,8 +3,10 @@ title: BMW i7 M70 xDrive gallery
 linktitle: Image Gallery
 description: See below for our large BMW i7 M70 xDrive image gallery. Click pictures for high-resolution versions.
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_1.jpg"

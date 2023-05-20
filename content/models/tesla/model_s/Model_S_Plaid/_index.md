@@ -3,8 +3,10 @@ title: Tesla Model S Plaid
 linktitle: Model S Plaid
 description: Tesla Model S Plaid is an all-electric sedan with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -168,10 +170,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED technology.  
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Tesla Model S Plaid has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -215,6 +213,10 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 - Stop sign control - follow stop signs. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 709 liters. With the rear seat down, it is 1828 liters. On the roof, you can load up to 70kg. Under the hood, there is frunk with more storage room. This frunk is 89 liters. Max weight is 2629kg, and with the base weight of 2265 kg, you can max load 364 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -227,3 +229,4 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 <img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/trunk_1_st.jpg" alt="Tesla Model S Plaid" title="Tesla Model S Plaid">
 </a>
 <figcaption><h4>Tesla Model S Plaid</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

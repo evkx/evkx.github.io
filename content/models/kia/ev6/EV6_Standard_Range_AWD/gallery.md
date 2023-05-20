@@ -3,8 +3,10 @@ title: Kia EV6 Standard Range AWD gallery
 linktitle: Image Gallery
 description: See below for our large Kia EV6 Standard Range AWD image gallery. Click pictures for high-resolution versions.
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_awd/charging_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_awd/charging_1.jpg"

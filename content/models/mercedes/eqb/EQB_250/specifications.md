@@ -3,7 +3,9 @@ title: Mercedes-EQ EQB 250 specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for Mercedes-EQ EQB 250.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![Mercedes-EQ EQB 250](https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQB 250. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQB 250, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQB 250 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

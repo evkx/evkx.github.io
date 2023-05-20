@@ -3,7 +3,9 @@ title: Nio ET5 reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Bjørn Nyland: Nio ET5 driving impressions and summary 16.05.2023

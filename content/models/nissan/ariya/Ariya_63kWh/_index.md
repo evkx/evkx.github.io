@@ -3,8 +3,10 @@ title: Nissan Ariya 63kWh
 linktitle: Ariya 63kWh
 description: Nissan Ariya 63kWh is an all-electric crossover with a WLTP range of up to 403 km (250 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -167,10 +169,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 You can choose between two types of headlights for the Nissan Ariya 63kWh. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Nissan Ariya 63kWh has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -202,6 +200,10 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 468 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2400kg, and with the base weight of 1875 kg, you can max load 525 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -214,3 +216,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/trunk_1_st.jpg" alt="Nissan Ariya 63kWh" title="Nissan Ariya 63kWh">
 </a>
 <figcaption><h4>Nissan Ariya 63kWh</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

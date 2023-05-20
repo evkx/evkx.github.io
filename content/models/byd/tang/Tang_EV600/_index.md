@@ -3,8 +3,10 @@ title: BYD Tang EV600
 linktitle: Tang EV600
 description: BYD Tang EV600 is an all-electric SUV with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -178,10 +180,6 @@ The models is equipped with 4 USB-A connections as standard.
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The BYD Tang EV600 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -220,8 +218,12 @@ With the Smart Pilot  level 2 system, you get additional driving automation feat
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 192 liters. With the rear seat down, it is 763 liters. On the roof, you can load up to 100kg. Max weight is 3099kg, and with the base weight of 2440 kg, you can max load 659 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

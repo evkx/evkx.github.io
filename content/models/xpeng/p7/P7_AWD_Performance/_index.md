@@ -3,8 +3,10 @@ title: XPENG P7 AWD Performance
 linktitle: P7 AWD Performance
 description: XPENG P7 AWD Performance is an all-electric sedan with a WLTP range of up to 505 km (314 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -165,10 +167,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The XPENG P7 AWD Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -202,8 +200,12 @@ With the   level 2 system, you get the following driving automation features.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 50kg. Under the hood, there is frunk with more storage room. This frunk is 0 liters. Max weight is 2570kg, and with the base weight of 2055 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. <object type="image/svg+xml" data="modelnavigation.svg"></object>

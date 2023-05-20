@@ -3,8 +3,10 @@ title: BMW i7 xDrive60
 linktitle: i7 xDrive60
 description: BMW i7 xDrive60 is an all-electric luxury sedan with a WLTP range of up to 625 km (388 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -192,10 +194,6 @@ You can choose between two types of headlights for the BMW i7 xDrive60. The stan
 </a>
 <figcaption><h4>BMW i7 xDrive60</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The BMW i7 xDrive60 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -231,8 +229,12 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 Max weight is 3250kg, and with the base weight of 2640 kg, you can max load 610 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

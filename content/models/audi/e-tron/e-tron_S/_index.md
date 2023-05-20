@@ -3,8 +3,10 @@ title: Audi e-tron S
 linktitle: e-tron S
 description: Audi e-tron S is an all-electric luxury SUV with a WLTP range of up to 374 km (232 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -218,10 +220,6 @@ You can choose between three types of headlights for the Audi e-tron S. The stan
 </a>
 <figcaption><h4>Audi e-tron S</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Audi e-tron S has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -263,6 +261,10 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 555 liters. With the rear seat down, it is 1594 liters. On the roof, you can load up to 75kg. Max weight is 3280kg, and with the base weight of 2655 kg, you can max load 625 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -275,3 +277,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/trunk_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S">
 </a>
 <figcaption><h4>Audi e-tron S</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

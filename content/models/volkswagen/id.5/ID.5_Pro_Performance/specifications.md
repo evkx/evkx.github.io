@@ -3,7 +3,9 @@ title: Volkswagen ID.5 Pro Performance specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for Volkswagen ID.5 Pro Performance.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![Volkswagen ID.5 Pro Performance](https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro_performance/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 Pro Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.5 Pro Performance, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.5 Pro Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

@@ -3,8 +3,10 @@ title: Hyundai Ioniq 6 Long Range RWD
 linktitle: Ioniq 6 Long Range RWD
 description: Hyundai Ioniq 6 Long Range RWD is an all-electric crossover with a WLTP range of up to 614 km (382 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -177,10 +179,6 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 </a>
 <figcaption><h4>Hyundai Ioniq 6 Long Range RWD</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Hyundai Ioniq 6 Long Range RWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -214,8 +212,12 @@ With the   level 2 system, you get the following driving automation features.
 - [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 401 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 80kg. Under the hood, there is frunk with more storage room. This frunk is 12 liters. Max weight is 2520kg, and with the base weight of 2020 kg, you can max load 500 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

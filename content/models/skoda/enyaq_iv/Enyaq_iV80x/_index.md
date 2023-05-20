@@ -3,8 +3,10 @@ title: SKODA Enyaq iV80x
 linktitle: Enyaq iV80x
 description: SKODA Enyaq iV80x is an all-electric SUV with a WLTP range of up to 504 km (313 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -211,10 +213,6 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The SKODA Enyaq iV80x has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -250,6 +248,10 @@ With the MAX  level 2 system, you get the following driving automation features.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 1710 liters. On the roof, you can load up to 75kg. Max weight is 2750kg, and with the base weight of 2117 kg, you can max load 633 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -262,3 +264,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

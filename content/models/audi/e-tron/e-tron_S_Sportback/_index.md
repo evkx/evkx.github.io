@@ -3,8 +3,10 @@ title: Audi e-tron S Sportback
 linktitle: e-tron S Sportback
 description: Audi e-tron S Sportback is an all-electric luxury coupe SUV with a WLTP range of up to 379 km (236 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -210,10 +212,6 @@ The model has 2 USB-C connections as standard. As an option you can get addition
 ## Lights
 
 You can choose between three types of headlights for the Audi e-tron S Sportback. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Audi e-tron S Sportback has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -255,6 +253,10 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75kg. Max weight is 3280kg, and with the base weight of 2655 kg, you can max load 625 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -267,3 +269,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback">
 </a>
 <figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

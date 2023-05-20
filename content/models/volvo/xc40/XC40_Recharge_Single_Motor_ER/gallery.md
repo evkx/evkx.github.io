@@ -3,8 +3,10 @@ title: Volvo XC40 Recharge Single Motor ER gallery
 linktitle: Image Gallery
 description: See below for our large Volvo XC40 Recharge Single Motor ER image gallery. Click pictures for high-resolution versions.
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/exterior_1.jpg"

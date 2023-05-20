@@ -3,8 +3,10 @@ title: MG MG5 Electric Long Range
 linktitle: MG5 Electric Long Range
 description: MG MG5 Electric Long Range is an all-electric station wagon with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -175,10 +177,6 @@ The model has 2 USB-C connections as standard. The models is equipped with 2 USB
 ## Lights
 
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The MG MG5 Electric Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -197,6 +195,10 @@ With the   level 2 system, you get the following driving automation features.
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 479 liters. With the rear seat down, it is 1367 liters. On the roof, you can load up to 75kg. Max weight is 2017kg, and with the base weight of 1562 kg, you can max load 455 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -209,3 +211,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/trunk_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range">
 </a>
 <figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

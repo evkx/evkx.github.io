@@ -3,7 +3,9 @@ title: Ford Mustang Mach-E GT reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Bjørn Nyland: Ford Mustang Mach-E GT driving impressions and summary 06.08.2022

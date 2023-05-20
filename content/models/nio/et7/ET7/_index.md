@@ -3,8 +3,10 @@ title: Nio ET7
 linktitle: ET7
 description: Nio ET7 is an all-electric sedan with a WLTP range of up to 580 km (360 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -192,10 +194,6 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 </a>
 <figcaption><h4>Nio ET7</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Nio ET7 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -235,8 +233,12 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target by itself. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 100kg. Max weight is 2900kg, and with the base weight of 2379 kg, you can max load 521 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

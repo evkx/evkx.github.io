@@ -3,8 +3,10 @@ title: Tesla Model S range & consumption
 linktitle: Range & Consumption
 description: Here you find all details about range and consumption for Tesla Model S.
 weight: 9
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 
 The range will vary depending on several factors. Like how fast you drive, the temperature, wet or dry road, and the equipped equipment. On this page, you will find a diagram and tables with the standard test cycle results like WLTP and EPA and estimated real-world range in different environments. 
 
@@ -35,5 +37,7 @@ The table below shows some estimated real-world examples in perfect condition an
 
 | | Range  | Consumption  |
 |----|-----|------|
-| 120kmh/75mph perfect condition | 480km /298mi| 20,0 kWh/100km / 3,1 mi/kWh |
-| 120kmh/75mph with 2KW heating | 713km /443mi| 21,7 kWh/100km / 2,9 mi/kWh |
+| 90kmh/56mph perfect condition | 644km /400mi| 14,9 kWh/100km / 4,2 mi/kWh |
+| 90kmh/56mph with 2KW heating | 579km /360mi| 16,6 kWh/100km / 3,7 mi/kWh |
+| 120kmh/75mph perfect condition | 487km /303mi| 19,7 kWh/100km / 3,2 mi/kWh |
+| 120kmh/75mph with 2KW heating | 723km /449mi| 21,4 kWh/100km / 2,9 mi/kWh |

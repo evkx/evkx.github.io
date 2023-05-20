@@ -3,8 +3,10 @@ title: Volkswagen ID. Buzz Pro
 linktitle: ID. Buzz Pro
 description: Volkswagen ID. Buzz Pro is an all-electric MPV with a WLTP range of up to 418 km (260 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -196,10 +198,6 @@ The model has 5 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the Volkswagen ID. Buzz Pro. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Volkswagen ID. Buzz Pro has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -238,6 +236,10 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 1121 liters. With the rear seat down, it is 2205 liters. On the roof, you can load up to 100kg. Max weight is 3000kg, and with the base weight of 2416 kg, you can max load 584 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -250,3 +252,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/trunk_1_st.jpg" alt="Volkswagen ID. Buzz Pro" title="Volkswagen ID. Buzz Pro">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

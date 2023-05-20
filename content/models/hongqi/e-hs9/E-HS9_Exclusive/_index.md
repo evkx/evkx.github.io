@@ -3,8 +3,10 @@ title: Hongqi E-HS9 Exclusive
 linktitle: E-HS9 Exclusive
 description: Hongqi E-HS9 Exclusive is an all-electric SUV with a WLTP range of up to 465 km (289 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -182,10 +184,6 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 </a>
 <figcaption><h4>Hongqi E-HS9 Exclusive</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Hongqi E-HS9 Exclusive has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -221,8 +219,12 @@ With the   level 2 system, you get the following driving automation features.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 100kg. Max weight is 3180kg, and with the base weight of 2630 kg, you can max load 550 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

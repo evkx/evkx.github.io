@@ -3,8 +3,10 @@ title: Polestar 2 Long Range Single Motor gallery
 linktitle: Image Gallery
 description: See below for our large Polestar 2 Long Range Single Motor image gallery. Click pictures for high-resolution versions.
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/exteriore_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/exteriore_3.jpg"

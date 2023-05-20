@@ -3,7 +3,9 @@ title: Mercedes-EQ EQC 400 4MATIC reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Kris Rifa: Long Trip Test In Mercedes EQC 400 4-Matic 21.03.2023

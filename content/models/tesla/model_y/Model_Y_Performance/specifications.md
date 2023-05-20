@@ -3,7 +3,9 @@ title: Tesla Model Y Performance specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for Tesla Model Y Performance.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![Tesla Model Y Performance](https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Tesla Model Y Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model Y Performance, visit the [chargeinfo](../chargecurve/) for Tesla Model Y Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

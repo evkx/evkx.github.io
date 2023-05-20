@@ -3,8 +3,10 @@ title: Hyundai Ioniq 5 Long Range 2WD
 linktitle: Ioniq 5 Long Range 2WD
 description: Hyundai Ioniq 5 Long Range 2WD is an all-electric crossover with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -185,10 +187,6 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 </a>
 <figcaption><h4>Hyundai Ioniq 5 Long Range 2WD</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Hyundai Ioniq 5 Long Range 2WD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -222,6 +220,10 @@ With the   level 2 system, you get the following driving automation features.
 - [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 527 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 80kg. Under the hood, there is frunk with more storage room. This frunk is 57 liters. Max weight is 2450kg, and with the base weight of 1935 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -234,3 +236,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/trunk_1_st.jpg" alt="Hyundai Ioniq 5 Long Range 2WD" title="Hyundai Ioniq 5 Long Range 2WD">
 </a>
 <figcaption><h4>Hyundai Ioniq 5 Long Range 2WD</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

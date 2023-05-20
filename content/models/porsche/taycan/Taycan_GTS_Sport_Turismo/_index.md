@@ -3,8 +3,10 @@ title: Porsche Taycan GTS Sport Turismo
 linktitle: Taycan GTS Sport Turismo
 description: Porsche Taycan GTS Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 504 km (313 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -220,10 +222,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Porsche Taycan GTS Sport Turismo has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -264,6 +262,10 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 446 liters. With the rear seat down, it is 1212 liters. On the roof, you can load up to 75kg. Max weight is 2875kg, and with the base weight of 2310 kg, you can max load 565 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -276,3 +278,4 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/trunk_1_st.jpg" alt="Porsche Taycan GTS Sport Turismo" title="Porsche Taycan GTS Sport Turismo">
 </a>
 <figcaption><h4>Porsche Taycan GTS Sport Turismo</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

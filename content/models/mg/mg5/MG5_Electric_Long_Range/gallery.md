@@ -3,8 +3,10 @@ title: MG MG5 Electric Long Range gallery
 linktitle: Image Gallery
 description: See below for our large MG MG5 Electric Long Range image gallery. Click pictures for high-resolution versions.
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
 <a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/charging_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/charging_1.jpg"

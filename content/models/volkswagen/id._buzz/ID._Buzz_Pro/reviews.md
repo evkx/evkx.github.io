@@ -3,7 +3,9 @@ title: Volkswagen ID. Buzz Pro reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Bjørn Nyland: VW ID Buzz driving impressions & summary 23.10.2022

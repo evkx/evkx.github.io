@@ -3,8 +3,10 @@ title: Volvo EX90 Twin Motor
 linktitle: EX90 Twin Motor
 description: Volvo EX90 Twin Motor is an all-electric SUV with a WLTP range of up to 580 km (360 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -199,10 +201,6 @@ You can choose between two types of headlights for the Volvo EX90 Twin Motor. Th
 </a>
 <figcaption><h4>Volvo EX90 Twin Motor</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Volvo EX90 Twin Motor has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -231,8 +229,12 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 311 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100kg. Under the hood, there is frunk with more storage room. This frunk is 37 liters. Max weight is 3380kg, and with the base weight of 2748 kg, you can max load 632 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2200, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2200, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

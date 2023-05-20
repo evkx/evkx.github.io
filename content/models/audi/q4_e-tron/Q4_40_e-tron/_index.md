@@ -3,8 +3,10 @@ title: Audi Q4 40 e-tron
 linktitle: Q4 40 e-tron
 description: Audi Q4 40 e-tron is an all-electric premium SUV with a WLTP range of up to 521 km (324 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -216,10 +218,6 @@ You can choose between two types of headlights for the Audi Q4 40 e-tron. The st
 </a>
 <figcaption><h4>Audi Q4 40 e-tron</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Audi Q4 40 e-tron has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -257,6 +255,10 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2640kg, and with the base weight of 2050 kg, you can max load 590 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -269,3 +271,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_40_e-tron/trunk_1_st.jpg" alt="Audi Q4 40 e-tron" title="Audi Q4 40 e-tron">
 </a>
 <figcaption><h4>Audi Q4 40 e-tron</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

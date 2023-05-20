@@ -3,8 +3,10 @@ title: Volvo XC40 Recharge Single Motor ER
 linktitle: XC40 Recharge Single Motor ER
 description: Volvo XC40 Recharge Single Motor ER is an all-electric crossover with a WLTP range of up to 572 km (356 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -160,10 +162,6 @@ You can choose between two types of headlights for the Volvo XC40 Recharge Singl
 </a>
 <figcaption><h4>Volvo XC40 Recharge Single Motor ER</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Volvo XC40 Recharge Single Motor ER has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -192,6 +190,10 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1295 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 31 liters. Max weight is 2520kg, and with the base weight of 2030 kg, you can max load 490 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -204,3 +206,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/trunk_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER">
 </a>
 <figcaption><h4>Volvo XC40 Recharge Single Motor ER</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

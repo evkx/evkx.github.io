@@ -3,7 +3,9 @@ title: Mercedes-EQ EQS 450+ reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Bjørn Nyland: Mercedes EQS 450+ 1000 km challenge 02.09.2022

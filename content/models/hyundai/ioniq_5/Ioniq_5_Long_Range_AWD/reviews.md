@@ -3,7 +3,9 @@ title: Hyundai Ioniq 5 Long Range AWD reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Bjørn Nyland: Hyundai Ioniq 5 driving impressions & tech insight 06.10.2021

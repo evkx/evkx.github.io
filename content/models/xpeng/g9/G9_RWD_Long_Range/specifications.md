@@ -3,7 +3,9 @@ title: XPENG G9 RWD Long Range specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for XPENG G9 RWD Long Range.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![XPENG G9 RWD Long Range](https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for XPENG G9 RWD Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of XPENG G9 RWD Long Range, visit the [chargeinfo](../chargecurve/) for XPENG G9 RWD Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

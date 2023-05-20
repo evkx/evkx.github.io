@@ -3,7 +3,9 @@ title: Porsche Taycan Turbo specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for Porsche Taycan Turbo.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![Porsche Taycan Turbo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan Turbo, visit the [chargeinfo](../chargecurve/) for Porsche Taycan Turbo with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

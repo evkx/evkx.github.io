@@ -3,8 +3,10 @@ title: Audi e-tron 55 Sportback charging curve & performance
 linktitle: Charging performance
 description: Here you find the charging curve for Audi e-tron 55 Sportback. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 ![Charge curve](../chargingcurve.svg  "Charging curve")
 [Full screen](../chargingcurve.svg)
 

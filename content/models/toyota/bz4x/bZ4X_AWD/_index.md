@@ -3,8 +3,10 @@ title: Toyota bZ4X AWD
 linktitle: bZ4X AWD
 description: Toyota bZ4X AWD is an all-electric crossover with a WLTP range of up to 470 km (292 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -163,10 +165,6 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the Toyota bZ4X AWD. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Toyota bZ4X AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -192,6 +190,10 @@ With the standard system the model offers no driving automation.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 80kg. Max weight is 2530kg, and with the base weight of 2015 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -204,3 +206,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD">
 </a>
 <figcaption><h4>Toyota bZ4X AWD</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

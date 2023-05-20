@@ -3,8 +3,10 @@ title: Mercedes-EQ EQS 450 4MATIC SUV gallery
 linktitle: Image Gallery
 description: See below for our large Mercedes-EQ EQS 450 4MATIC SUV image gallery. Click pictures for high-resolution versions.
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/exterior_1.jpg"

@@ -3,7 +3,9 @@ title: BMW iX xDrive50 reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Bjørn Nyland: BMW iX xDrive50 driving impressions and summary 19.02.2022

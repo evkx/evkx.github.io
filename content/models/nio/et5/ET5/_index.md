@@ -3,8 +3,10 @@ title: Nio ET5
 linktitle: ET5
 description: Nio ET5 is an all-electric sedan with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -183,10 +185,6 @@ The model has 1 USB-C connections as standard. The models is equipped with 2 USB
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Nio ET5 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -226,8 +224,12 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target by itself. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 100kg. Max weight is 2900kg, and with the base weight of 2379 kg, you can max load 521 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

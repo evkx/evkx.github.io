@@ -3,7 +3,9 @@ title: BMW iX3 specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for BMW iX3.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![BMW iX3](https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for BMW iX3. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW iX3, visit the [chargeinfo](../chargecurve/) for BMW iX3 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

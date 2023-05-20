@@ -3,8 +3,10 @@ title: Porsche Taycan Turbo
 linktitle: Taycan Turbo
 description: Porsche Taycan Turbo is an all-electric luxury sedan with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -204,10 +206,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Porsche Taycan Turbo has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -248,6 +246,10 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 75kg. Max weight is 2870kg, and with the base weight of 2220 kg, you can max load 650 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -260,3 +262,4 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/trunk_1_st.jpg" alt="Porsche Taycan Turbo" title="Porsche Taycan Turbo">
 </a>
 <figcaption><h4>Porsche Taycan Turbo</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

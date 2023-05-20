@@ -3,8 +3,10 @@ title: Tesla Model Y Long Range
 linktitle: Model Y Long Range
 description: Tesla Model Y Long Range is an all-electric coupe SUV with a WLTP range of up to 542 km (337 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -189,10 +191,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED technology.  
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Tesla Model Y Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -236,8 +234,12 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 - Stop sign control - follow stop signs. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 2158 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
+A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -3,8 +3,10 @@ title: BMW i4 eDrive40 charging curve & performance
 linktitle: Charging performance
 description: Here you find the charging curve for BMW i4 eDrive40. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 ![Charge curve](../chargingcurve.svg  "Charging curve")
 [Full screen](../chargingcurve.svg)
 

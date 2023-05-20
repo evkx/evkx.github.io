@@ -3,7 +3,9 @@ title: Tesla Model S Plaid specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for Tesla Model S Plaid.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![Tesla Model S Plaid](https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Tesla Model S Plaid. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model S Plaid, visit the [chargeinfo](../chargecurve/) for Tesla Model S Plaid with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

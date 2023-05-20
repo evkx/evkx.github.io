@@ -3,8 +3,10 @@ title: BMW iX1 xDrive30
 linktitle: iX1 xDrive30
 description: BMW iX1 xDrive30 is an all-electric premium SUV with a WLTP range of up to 440 km (273 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -205,10 +207,6 @@ You can choose between two types of headlights for the BMW iX1 xDrive30. The sta
 </a>
 <figcaption><h4>BMW iX1 xDrive30</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The BMW iX1 xDrive30 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -240,6 +238,10 @@ With the Driving Assistant Professional  level 2 system, you get the following d
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 490 liters. With the rear seat down, it is 1495 liters. On the roof, you can load up to 75kg. Max weight is 2580kg, and with the base weight of 2010 kg, you can max load 570 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -252,3 +254,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/trunk_1_st.jpg" alt="BMW iX1 xDrive30" title="BMW iX1 xDrive30">
 </a>
 <figcaption><h4>BMW iX1 xDrive30</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

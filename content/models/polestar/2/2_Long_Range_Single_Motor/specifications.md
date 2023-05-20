@@ -3,7 +3,9 @@ title: Polestar 2 Long Range Single Motor specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for Polestar 2 Long Range Single Motor.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![Polestar 2 Long Range Single Motor](https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Polestar 2 Long Range Single Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Polestar 2 Long Range Single Motor, visit the [chargeinfo](../chargecurve/) for Polestar 2 Long Range Single Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

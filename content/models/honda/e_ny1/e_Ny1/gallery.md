@@ -3,8 +3,10 @@ title: Honda e:Ny1 gallery
 linktitle: Image Gallery
 description: See below for our large Honda e:Ny1 image gallery. Click pictures for high-resolution versions.
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
 <a href="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_1.jpg"

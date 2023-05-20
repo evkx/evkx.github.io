@@ -3,8 +3,10 @@ title: Nio EL7
 linktitle: EL7
 description: Nio EL7 is an all-electric SUV with a WLTP range of up to 513 km (319 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -200,10 +202,6 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 </a>
 <figcaption><h4>Nio EL7</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Nio EL7 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -243,6 +241,10 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target by itself. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1545 liters. On the roof, you can load up to 100kg. Max weight is 2850kg, and with the base weight of 2366 kg, you can max load 484 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -255,3 +257,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/nio/el7/el7/trunk_1_st.jpg" alt="Nio EL7" title="Nio EL7">
 </a>
 <figcaption><h4>Nio EL7</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

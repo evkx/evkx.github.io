@@ -3,7 +3,9 @@ title: Audi e-tron S Sportback reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Carexpert: 2022 Audi e-tron S Sportback (inc. 0-100) review: 3 electric motors! 17.06.2022

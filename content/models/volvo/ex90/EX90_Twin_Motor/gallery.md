@@ -3,8 +3,10 @@ title: Volvo EX90 Twin Motor gallery
 linktitle: Image Gallery
 description: See below for our large Volvo EX90 Twin Motor image gallery. Click pictures for high-resolution versions.
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
 <a href="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/exterior_1.jpg"

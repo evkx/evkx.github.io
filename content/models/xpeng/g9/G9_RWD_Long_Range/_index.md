@@ -3,8 +3,10 @@ title: XPENG G9 RWD Long Range
 linktitle: G9 RWD Long Range
 description: XPENG G9 RWD Long Range is an all-electric SUV with a WLTP range of up to 570 km (354 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -191,10 +193,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The XPENG G9 RWD Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -228,6 +226,10 @@ With the   level 2 system, you get the following driving automation features.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 71 liters. Max weight is 2800kg, and with the base weight of 2265 kg, you can max load 535 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -240,3 +242,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/trunk_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
 </a>
 <figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

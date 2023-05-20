@@ -3,7 +3,9 @@ title: Audi e-tron 55 Sportback specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for Audi e-tron 55 Sportback.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![Audi e-tron 55 Sportback](https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Audi e-tron 55 Sportback. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron 55 Sportback, visit the [chargeinfo](../chargecurve/) for Audi e-tron 55 Sportback with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

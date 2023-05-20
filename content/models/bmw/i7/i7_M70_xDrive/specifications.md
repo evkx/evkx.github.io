@@ -3,7 +3,9 @@ title: BMW i7 M70 xDrive specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for BMW i7 M70 xDrive.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![BMW i7 M70 xDrive](https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for BMW i7 M70 xDrive. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i7 M70 xDrive, visit the [chargeinfo](../chargecurve/) for BMW i7 M70 xDrive with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

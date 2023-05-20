@@ -3,8 +3,10 @@ title: BYD Han
 linktitle: Han
 description: BYD Han is an all-electric sedan with a WLTP range of up to 521 km (324 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -196,10 +198,6 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The BYD Han has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -238,6 +236,10 @@ With the Smart Pilot  level 2 system, you get additional driving automation feat
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 Max weight is 2660kg, and with the base weight of 2250 kg, you can max load 410 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -250,3 +252,4 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/trunk_1_st.jpg" alt="BYD Han" title="BYD Han">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

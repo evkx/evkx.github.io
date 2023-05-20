@@ -3,8 +3,10 @@ title: Audi e-tron 50 Sportback
 linktitle: e-tron 50 Sportback
 description: Audi e-tron 50 Sportback is an all-electric luxury coupe SUV with a WLTP range of up to 351 km (218 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -256,10 +258,6 @@ You can choose between three types of headlights for the Audi e-tron 50 Sportbac
 </a>
 <figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Audi e-tron 50 Sportback has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -301,6 +299,10 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75kg. Max weight is 3040kg, and with the base weight of 2370 kg, you can max load 670 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -313,3 +315,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/trunk_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback">
 </a>
 <figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

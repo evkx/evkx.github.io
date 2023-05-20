@@ -3,7 +3,9 @@ title: BMW i7 xDrive60 reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Bjørn Nyland: BMW i7 xDrive60 1000 km challenge 12.04.2023

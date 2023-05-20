@@ -3,8 +3,10 @@ title: CUPRA Tavascan VZ
 linktitle: Tavascan VZ
 description: CUPRA Tavascan VZ is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -177,10 +179,6 @@ The standard headlights use LED technology.
 </a>
 <figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The CUPRA Tavascan VZ has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -225,8 +223,12 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0kg. Max weight is 2650kg, and with the base weight of 2042 kg, you can max load 608 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. <object type="image/svg+xml" data="modelnavigation.svg"></object>

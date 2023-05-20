@@ -3,8 +3,10 @@ title: Volkswagen ID.3 Pro S
 linktitle: ID.3 Pro S
 description: Volkswagen ID.3 Pro S is an all-electric hatchback with a WLTP range of up to 553 km (344 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -185,10 +187,6 @@ You can choose between two types of headlights for the Volkswagen ID.3 Pro S. Th
 </a>
 <figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Volkswagen ID.3 Pro S has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -231,6 +229,10 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0kg. Max weight is 2290kg, and with the base weight of 1786 kg, you can max load 504 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -243,3 +245,4 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S">
 </a>
 <figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

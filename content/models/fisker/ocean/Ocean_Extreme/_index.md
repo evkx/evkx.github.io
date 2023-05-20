@@ -3,8 +3,10 @@ title: Fisker Ocean Extreme
 linktitle: Ocean Extreme
 description: Fisker Ocean Extreme is an all-electric crossover with a WLTP range of up to 707 km (439 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -156,10 +158,6 @@ The model has 3 USB-C connections as standard. The models is equipped with 1 USB
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Fisker Ocean Extreme has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -195,8 +193,12 @@ With the Fisker Intelligent Pilot  level 2 system, you get the following driving
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 476 liters. With the rear seat down, it is 918 liters. On the roof, you can load up to 75kg. Max weight is 2974kg, and with the base weight of 2433 kg, you can max load 541 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1820, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1820, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

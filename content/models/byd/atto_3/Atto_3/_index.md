@@ -3,8 +3,10 @@ title: BYD Atto 3
 linktitle: Atto 3
 description: BYD Atto 3 is an all-electric SUV with a WLTP range of up to 420 km (261 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -191,10 +193,6 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The BYD Atto 3 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -228,6 +226,10 @@ With the   level 1 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 1338 liters. On the roof, you can load up to 50kg. Max weight is 2160kg, and with the base weight of 1750 kg, you can max load 410 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -238,3 +240,4 @@ The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 13
 <img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/trunk_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

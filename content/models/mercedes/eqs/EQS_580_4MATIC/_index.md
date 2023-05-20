@@ -3,8 +3,10 @@ title: Mercedes-EQ EQS 580 4MATIC
 linktitle: EQS 580 4MATIC
 description: Mercedes-EQ EQS 580 4MATIC is an all-electric luxury sedan with a WLTP range of up to 692 km (430 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -214,10 +216,6 @@ The model has 4 USB-C connections as standard. As an option you can get addition
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Mercedes-EQ EQS 580 4MATIC has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -258,6 +256,10 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 - [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100kg. Max weight is 3060kg, and with the base weight of 2555 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -270,3 +272,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" title="Mercedes-EQ EQS 580 4MATIC">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 580 4MATIC</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -3,8 +3,10 @@ title: BMW i4 eDrive40
 linktitle: i4 eDrive40
 description: BMW i4 eDrive40 is an all-electric premium sedan with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -190,10 +192,6 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the BMW i4 eDrive40. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The BMW i4 eDrive40 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -229,6 +227,10 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 470 liters. With the rear seat down, it is 1290 liters. On the roof, you can load up to 75kg. Max weight is 2735kg, and with the base weight of 2510 kg, you can max load 225 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -241,3 +243,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/trunk_1_st.jpg" alt="BMW i4 eDrive40" title="BMW i4 eDrive40">
 </a>
 <figcaption><h4>BMW i4 eDrive40</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

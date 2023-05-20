@@ -3,8 +3,10 @@ title: Porsche Taycan Turbo S
 linktitle: Taycan Turbo S
 description: Porsche Taycan Turbo S is an all-electric luxury sedan with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -214,10 +216,6 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Porsche Taycan Turbo S has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -258,8 +256,12 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 On the roof, you can load up to 75kg. Max weight is 2880kg, and with the base weight of 2230 kg, you can max load 650 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. <object type="image/svg+xml" data="modelnavigation.svg"></object>

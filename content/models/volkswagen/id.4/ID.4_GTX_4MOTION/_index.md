@@ -3,8 +3,10 @@ title: Volkswagen ID.4 GTX 4MOTION
 linktitle: ID.4 GTX 4MOTION
 description: Volkswagen ID.4 GTX 4MOTION is an all-electric SUV with a WLTP range of up to 496 km (308 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -202,10 +204,6 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 </a>
 <figcaption><h4>Volkswagen ID.4 GTX 4MOTION</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Volkswagen ID.4 GTX 4MOTION has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -244,6 +242,10 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 543 liters. With the rear seat down, it is 1575 liters. On the roof, you can load up to 75kg. Max weight is 2750kg, and with the base weight of 2164 kg, you can max load 586 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -256,3 +258,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/trunk_1_st.jpg" alt="Volkswagen ID.4 GTX 4MOTION" title="Volkswagen ID.4 GTX 4MOTION">
 </a>
 <figcaption><h4>Volkswagen ID.4 GTX 4MOTION</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

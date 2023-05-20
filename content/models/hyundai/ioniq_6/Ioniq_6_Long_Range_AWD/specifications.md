@@ -3,7 +3,9 @@ title: Hyundai Ioniq 6 Long Range AWD specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for Hyundai Ioniq 6 Long Range AWD.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![Hyundai Ioniq 6 Long Range AWD](https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 6 Long Range AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Ioniq 6 Long Range AWD, visit the [chargeinfo](../chargecurve/) for Hyundai Ioniq 6 Long Range AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

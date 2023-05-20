@@ -3,8 +3,10 @@ title: Mercedes-EQ EQA 350 4MATIC
 linktitle: EQA 350 4MATIC
 description: Mercedes-EQ EQA 350 4MATIC is an all-electric premium crossover with a WLTP range of up to 438 km (272 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -201,10 +203,6 @@ The model has 4 USB-C connections as standard. As an option you can get addition
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Mercedes-EQ EQA 350 4MATIC has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -238,8 +236,12 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 340 liters. With the rear seat down, it is 1320 liters. On the roof, you can load up to 75kg. Max weight is 2535kg, and with the base weight of 2030 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

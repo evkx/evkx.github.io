@@ -3,8 +3,10 @@ title: Mercedes-EQ EQE 350 4MATIC
 linktitle: EQE 350 4MATIC
 description: Mercedes-EQ EQE 350 4MATIC is an all-electric luxury sedan with a WLTP range of up to 597 km (371 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -219,10 +221,6 @@ The model has 4 USB-C connections as standard. As an option you can get addition
 ## Lights
 
 You can choose between two types of headlights for the Mercedes-EQ EQE 350 4MATIC. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Mercedes-EQ EQE 350 4MATIC has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -259,6 +257,10 @@ With the Driver Assistance Package Plus  level 2 system, you get additional driv
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 430 liters. With the rear seat down, it is 895 liters. On the roof, you can load up to 100kg. Max weight is 3095kg, and with the base weight of 2450 kg, you can max load 645 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -271,3 +273,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQE 350 4MATIC" title="Mercedes-EQ EQE 350 4MATIC">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 350 4MATIC</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

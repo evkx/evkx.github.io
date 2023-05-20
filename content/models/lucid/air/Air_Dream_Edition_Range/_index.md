@@ -3,8 +3,10 @@ title: Lucid Air Dream Edition Range
 linktitle: Air Dream Edition Range
 description: Lucid Air Dream Edition Range is an all-electric sedan with a WLTP range of up to 883 km (549 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -187,10 +189,6 @@ The standard headlights use LED technology.
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The Lucid Air Dream Edition Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -219,6 +217,10 @@ With the ADAS  level 2 system, you get the following driving automation features
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 456 liters. With the rear seat down, it is 627 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 283 liters. Max weight is 2850kg, and with the base weight of 2360 kg, you can max load 490 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -231,3 +233,4 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/trunk_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

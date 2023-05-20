@@ -3,7 +3,9 @@ title: Tesla Model 3 Long Range reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Bjørn Nyland: Tesla Model 3 LR 82 kWh 1000 km challenge 17.07.2021

@@ -3,7 +3,9 @@ title: BYD Atto 3 reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### carwow: The best car you’ve never heard of? 14.04.2023

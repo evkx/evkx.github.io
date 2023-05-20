@@ -3,7 +3,9 @@ title: Mercedes-Maybach EQS 680 SUV specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for Mercedes-Maybach EQS 680 SUV.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![Mercedes-Maybach EQS 680 SUV](https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Mercedes-Maybach EQS 680 SUV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-Maybach EQS 680 SUV, visit the [chargeinfo](../chargecurve/) for Mercedes-Maybach EQS 680 SUV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

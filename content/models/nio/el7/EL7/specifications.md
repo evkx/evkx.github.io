@@ -3,7 +3,9 @@ title: Nio EL7 specifications
 linktitle: Specifications
 description: EVKX.net gives you the full specifications for Nio EL7.
 weight: 30
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 [![Nio EL7](https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Nio EL7. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio EL7, visit the [chargeinfo](../chargecurve/) for Nio EL7 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

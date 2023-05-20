@@ -3,7 +3,9 @@ title: MG MG4 Electric Long Range reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Autotrader: Can A Cheap EV Be GOOD? | MG4 Review  03.12.2022

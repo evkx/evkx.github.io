@@ -3,7 +3,9 @@ title: Nissan Ariya 87kWh e-4ORCE reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
+hidden: true
 ---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Out of Spec Reviews: Nissan Ariya 87kWh DC Fast Charging 0-100%! It's Not About The Peak - It's All About the Curve 11.04.2023

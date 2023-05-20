@@ -3,8 +3,10 @@ title: BMW iX xDrive40
 linktitle: iX xDrive40
 description: BMW iX xDrive40 is an all-electric luxury SUV with a WLTP range of up to 425 km (264 miles). EVKX.net have all the details. 
 weight: 10
+hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -183,10 +185,6 @@ The model has 6 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the BMW iX xDrive40. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
-
-{{<evkxdisplayaddarticle />}}
-
-
 ## Advanced driver assistance systems
 
 The BMW iX xDrive40 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -222,6 +220,10 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
+{{<evkxdisplayaddarticle />}}
+
+
+
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1750 liters. On the roof, you can load up to 75kg. Max weight is 3010kg, and with the base weight of 2365 kg, you can max load 645 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
@@ -234,3 +236,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/trunk_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40">
 </a>
 <figcaption><h4>BMW iX xDrive40</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
