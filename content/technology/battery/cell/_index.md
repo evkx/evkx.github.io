@@ -1,14 +1,14 @@
 ---
 title: Cell Housing
 linktitle: Cell Housing
-description: There are several types of cell housing that exist for battery cells used in electric vehicles. 
+description: Several types of cell housing exist for battery cells used in electric vehicles.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-## Cylinder housing
+## Cylindrical housing
 
-A cylindrical cell consists of sheet-like anodes, separators, and cathodes that are sandwiched, rolled up, and packed into a cylinder-shaped can. This is the form factor that has been used for years in the market.
+A cylindrical cell consists of sheet-like anodes, separators, and cathodes that are sandwiched, rolled up, and packed into a cylinder-shaped can. This form factor is the form factor that battery manufacturers have used for years in the market with battery sizes like AAA and AA used in electronics. 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680.jpg">
@@ -18,7 +18,9 @@ A cylindrical cell consists of sheet-like anodes, separators, and cathodes that 
     <figcaption><h4>Tesla 4680 cylinder battery</h4></figcaption>
 </figure>
 
-One advantage is mechanical stability. The round shape of the battery distributes the internal pressure from side reactions over the cell circumference almost evenly. This allows the cell to tolerate a higher level of internal pressure without deformation.
+One advantage is mechanical stability. The round shape of the battery distributes the internal pressure from side reactions over the cell circumference almost evenly. This stability allows the cell to tolerate higher internal pressure without deformation.
+
+Another advantage is that it is possible to get a high throughput of cells from production lines.
 
 Tesla is one of the few EV manufacturers that uses this. [BMW will start](https://www.press.bmwgroup.com/global/article/detail/T0403470EN/more-performance-co2-reduced-production-significantly-lower-costs:-bmw-group-to-use-innovative-round-bmw-battery-cells-in-neue-klasse-from-2025?language=en) using it in next generation.
 
