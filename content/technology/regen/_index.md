@@ -11,8 +11,6 @@ By converting the vehicle’s kinetic energy into electrical energy and storing 
 
 Regenerative braking is a process where the kinetic energy of a moving vehicle is captured and stored as electrical energy in the vehicle’s battery during braking or deceleration.
 
-{{<evkxdisplayaddarticle />}}
-
 An electric motor can work as a generator in an EV by using the principle of electromagnetic induction, which states that the change in the magnetic field around a conductor generates an electric current in the circuit. When an electric motor rotates, it creates a magnetic field that interacts with the stator windings and produces an electric current that powers the vehicle. When the car decelerates or brakes, the wheels drive the motor in reverse, causing the magnetic field to change direction and induce electric current in the opposite direction. This current can be fed back to the battery and stored as energy, reducing the need for conventional friction brakes and increasing the range and efficiency of the EV.
 
 <figur>
@@ -32,7 +30,7 @@ One pedal regen is a feature of some electric vehicles that allows them to contr
 
 When the driver presses the pedal, the vehicle accelerates.  When the driver releases the pedal, the car decelerates using regenerative braking, which converts the vehicle's kinetic energy into electrical energy that the EV stores in the battery.
 
-{{<evkxdisplayaddarticle />}}
+
 
 Depending on the vehicle settings and driving conditions, one pedal regen can bring the vehicle to a complete stop or maintain a low speed until the driver presses the pedal again.
 
