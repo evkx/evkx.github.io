@@ -30,7 +30,7 @@ We have split the article into separate sections.
 - [Cell Balancing](cellbalancing) - What is cell balancing
 - [Degradation](degredation) -  What happens when the battery degrades? How to reduce it?
 - [Manufacturers](manufactors) - What are the largest battery producers?
-- [Warrant](warranty) - What kind of battery warranty is common?
+- [Warranty](warranty) - What kind of battery warranty is common?
   
 
 
