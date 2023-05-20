@@ -100,13 +100,13 @@ C2M technology has several advantages over traditional battery pack designs. It 
 
 ## Cell-to-pack
 
-Cell-to-pack (CTP) batteries are a new type of battery technology that eliminates the need for battery modules by integrating the cells directly into the pack. 
+Cell-to-pack (CTP) batteries are a new type of battery technology that eliminates the need for battery modules by integrating the cells directly into the pack.
 
 This technology is being developed by several companies such as Tesla, BYD and CATL.
 
 <figure>
-    <a href="https://media.evkx.net/multimedia/technology/battery/batterypack/catl_qilin_2.jpgg">
-        <img src="https://media.evkx.net/multimedia/technology/battery/batterypack/catl_qilin_2_st.jpg"
+    <a href="https://media.evkx.net/multimedia/technology/battery/batterypack/catl_qilin_3.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/battery/batterypack/catl_qilin_3_st.jpg"
         alt="CATL Qilin cell-to-pack battery" title="CATL Qilin cell-to-pack battery">
     </a>
     <figcaption><h4>CATL Qilin cell-to-pack battery</h4></figcaption>
@@ -130,14 +130,16 @@ The benefits of CTP batteries include higher energy density and lower cost compa
 
 A structural battery pack is a type of battery pack that is created a way that the pack iteslf becomes a structural component of the EV.
 
-This approach can reduce the weight and complexity of the device, while also improving its overall performance and efficiency.
+This approach can reduce the EV weight becaus by removing duplicate structure between the pack and the veichle structure because the battery pack itself becomes a part of the veichle structure.
+
+This can improve the EVs overall performance and efficiency.
 
 Structural battery packs are still a relatively new concept, but they are being explored and developed by a number of companies and research institutions.
 
-
 They have the potential to revolutionize the design of electric vehicles and other devices by reducing weight and complexity, improving performance, and making it easier to integrate battery technology into a wide range of applications.
 
-Currently it is only Tesla Model Y that have structural packs. According to Tesla, this solution presents many advantages, such as a great reduction in the number of parts used in both the battery pack and the car, which allows the pack manufacturing line to be less than half the size of previous factories.
+Currently it is only Tesla Model Y that have structural packs. According to Tesla, this solution presents many advantages, such as a great reduction in the number of parts used in both the battery pack and the car.
+
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/battery/batterypack/teslastructuralbattery_1.jpg">
@@ -148,7 +150,6 @@ Currently it is only Tesla Model Y that have structural packs. According to Tesl
 </figure>
 
 More importantly, the company said the new cells together with the structural pack are expected to increase the Model Y's range by 16 percent and decrease the overall weight of the car by 10 percent, resulting in improved acceleration and handling.
-
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/battery/batterypack/teslastructuralbattery_2.jpg">
@@ -176,6 +177,7 @@ The following table shows how pack density have varied over time between some ex
 | Tesla Model S | 2022 | 100 | 544 | 184Wh/kg |
 | Volkswagen MEB | 2021 | 82 | 493kg | 166Wh/kg |
 | Audi Q8 e-tron 55 | 2022 | 114 | 727kg | 157Wh/kg |
+| Kia EV6 | 2022 | 77.4 | 477kg | 162Wh/kg |
 
 
 Continue reading about [Battery Mangement System](../batterymanagment/) or go back to [article overview](../).
