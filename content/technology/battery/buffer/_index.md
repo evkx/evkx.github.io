@@ -16,6 +16,12 @@ The buffer has two main functions: to protect the battery pack from damage and t
 
 A battery buffer works by limiting the maximum and minimum SOC levels that the battery pack can reach. The maximum SOC level is called the top buffer, while the minimum SOC level is called the bottom buffer. The bottom buffer are also sometimes referred to as brick buffer, because they prevent the battery pack from reaching 0% SOC, which can damage or brick the cells.
 
+The below diagram shows how a brick and top buffer will prevent the battery to be discharged below brick buffer limit and charged above top buffer.
+
+![Chargecurve](chargecurve.drawio.svg)
+
 The size of the buffer can depend on the type and chemistry of the cells used in the battery pack. For example, some cells may have higher tolerance for overcharging or overdischarging than others, and thus may require smaller buffers. Some cells may also have different optimal SOC ranges than others, and thus may require larger buffers.
 
-The BMS determines the size of the buffer based on various sensors and algorithms that measure and calculate the SOC, SOH, temperature, voltage, current, and power demand of the battery pack. The BMS then communicates with other electronic systems in the vehicle, such as the electric motor controller (EMC) and the electric vehicle control unit (ECU), to regulate the charging and discharging of the battery pack accordingly.
+The BMS regulate the charging and discharging of the battery pack accordingly to keep it inside the approve limits. 
+
+Sometimes the manufacturer choose to change the size of the buffer with software updates. This typical happens when the manufacturer knows more about how a new battery performance when it comes to degradation. 
