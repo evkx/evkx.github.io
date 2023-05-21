@@ -30,11 +30,15 @@ BYD has 3 models with total 3 variants. [Read all about them](byd/)
 
 ## CUPRA
 
-CUPRA has serveral electric models. 
+[![CUPRA](https://media.evkx.net/multimedia/models/cupra/brandevs_st.jpg)](cupra/)
+
+Cupra is a Spanish automobile brand that forms part of SEAT. It was created in 2018 as a spin-off of SEAT's performance division. Cupra stands for Cup Racing and reflects the brand's passion for racing and powerful car.
 
 CUPRA has 2 models with total 4 variants. [Read all about them](cupra/)
 
 ## Fisker
+
+[![Fisker](https://media.evkx.net/multimedia/models/fisker/brandevs_st.jpg)](fisker/)
 
 Fisker Inc. is an American electric vehicle (EV) manufacturer that was founded in 2016 by Henrik Fisker, a well-known automotive designer. The company is based in Manhattan Beach, California, and is focused on creating sustainable, electric mobility solutions.
 
@@ -58,11 +62,15 @@ Hongqi has 1 models with total 4 variants. [Read all about them](hongqi/)
 
 ## Hyundai
 
+[![Hyundai](https://media.evkx.net/multimedia/models/hyundai/brandevs_st.jpg)](hyundai/)
+
 Hyundai Motor Co. (HMC), established in 1967, is the auto sales leader in the Korean domestic market and exports vehicles to 190 countries worldwide. Hyundai Motor Co. operates the world's largest integrated automobile manufacturing facility in Ulsan, located on Korea's southeast coast. Their electric IONIQ series of EV has been popular.  
 
 Hyundai has 2 models with total 4 variants. [Read all about them](hyundai/)
 
 ## Kia
+
+[![Kia](https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg)](kia/)
 
 Kia Corporation was founded in May 1944 and is Korea’s oldest manufacturer of motor vehicles. From humble origins making bicycles and motorcycles, Kia has grown – as part of the dynamic, global Hyundai-Kia Automotive Group – to become the world’s fifth largest vehicle manufacturer.  
 
