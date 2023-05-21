@@ -8,7 +8,7 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Kris Rifa: hRvXTgDt5SY 21.05.2023
+### Kris Rifa: Nio ET7 | AWFUL AND GREAT.... 21.05.2023
 
 {{< youtube hRvXTgDt5SY >}}
 
