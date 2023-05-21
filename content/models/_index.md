@@ -78,17 +78,23 @@ Kia has 1 models with total 5 variants. [Read all about them](kia/)
 
 ## Lexus
 
+[![Lexus](https://media.evkx.net/multimedia/models/lexus/brandevs_st.jpg)](lexus/)
+
 The Lexus journey begins in 1983, when a Japanese team of engineers, designers and technicians were assigned a secret project that required them to reimagine luxury automotive. They were to set new standards of production in order to build an ambitious new vehicle that would outshine the world's best.  
 
 Lexus has 1 models with total 1 variants. [Read all about them](lexus/)
 
 ## Lucid
 
+[![Lucid](https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg)](lucid/)
+
 Lucid Group, Inc. is an American electric vehicle manufacturer headquartered in Newark, California. The company was founded in 2007. Deliveries of the Dream Edition launch versions were made available to the first group of 520 reservation holders on October 30, 2021  
 
 Lucid has 1 models with total 2 variants. [Read all about them](lucid/)
 
 ## Mercedes
+
+[![Mercedes](https://media.evkx.net/multimedia/models/mercedes/brandevs_st.jpg)](mercedes/)
 
 Mercedes-Benz,commonly referred to as Mercedes and sometimes as Benz, is a German luxury and commercial vehicle automotive brand established in 1926. By 2022, Mercedes-Benz will have battery electric vehicles (BEV) in all segments the company serves. 
 
@@ -104,11 +110,15 @@ MG has 2 models with total 3 variants. [Read all about them](mg/)
 
 ## Nio
 
+[![Nio](https://media.evkx.net/multimedia/models/nio/brandevs_st.jpg)](nio/)
+
 Nio Inc  is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company develops battery-swapping stations for its vehicles, as an alternative to conventional charging stations. 
 
 Nio has 4 models with total 4 variants. [Read all about them](nio/)
 
 ## Nissan
+
+[![Nissan](https://media.evkx.net/multimedia/models/nissan/brandevs_st.jpg)](nissan/)
 
 Nissan is a multinational automobile manufacturer headquartered in Yokohama, Japan. It was founded in 1933 as the 'Nissan Motor Company Ltd.' and has since become one of the largest automakers in the world. Nissan offers a wide range of vehicles, from small city cars to luxury sedans and SUVs. 
 
@@ -146,6 +156,8 @@ Tesla has 3 models with total 7 variants. [Read all about them](tesla/)
 
 ## Toyota
 
+[![Toyota](https://media.evkx.net/multimedia/models/toyota/brandevs_st.jpg)](toyota/)
+
 Toyota is one of the largest automobile manufacturers in the world, producing about 10 million vehicles per year. Historycally Toyota has been negative to EV, but launched it first all-electric model in 2022. 
 
 Toyota has 1 models with total 2 variants. [Read all about them](toyota/)
@@ -159,6 +171,8 @@ Volkswagen’s product portfolio is focused on electric mobility. The last purel
 Volkswagen has 5 models with total 10 variants. [Read all about them](volkswagen/)
 
 ## Volvo
+
+[![Volvo](https://media.evkx.net/multimedia/models/volvo/brandevs_st.jpg)](volvo/)
 
 Volvo is a Swedish multinational automotive company that produces a range of cars, trucks, buses, and construction equipment. The company was founded in 1927 and has since become known for its commitment to safety, innovation, and sustainability.
 
