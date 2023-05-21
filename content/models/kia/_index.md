@@ -4,7 +4,7 @@ linktitle: Kia
 description: Kia Corporation was founded in May 1944 and is Korea’s oldest manufacturer of motor vehicles. From humble origins making bicycles and motorcycles, Kia has grown – as part of the dynamic, global Hyundai-Kia Automotive Group – to become the world’s fifth largest vehicle manufacturer.  
 weight: 30
 ---
-Kia has currently 1 model with total 5 variants in the market. 
+Kia has currently 2 model with total 6 variants in the market. 
 
 
 ## Kia EV6
@@ -13,3 +13,10 @@ Kia has currently 1 model with total 5 variants in the market.
 
 This model is available in 5 variant(s). 
 [Read full details](ev6/)
+
+## Kia Niro
+
+[![Niro](https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg)](niro)
+
+This model is available in 1 variant(s). 
+[Read full details](niro/)

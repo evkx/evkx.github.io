@@ -82,7 +82,7 @@ Hyundai has 2 models with total 4 variants. [Read all about them](hyundai/)
 
 Kia Corporation was founded in May 1944 and is Korea’s oldest manufacturer of motor vehicles. From humble origins making bicycles and motorcycles, Kia has grown – as part of the dynamic, global Hyundai-Kia Automotive Group – to become the world’s fifth largest vehicle manufacturer.  
 
-Kia has 1 models with total 5 variants. [Read all about them](kia/)
+Kia has 2 models with total 6 variants. [Read all about them](kia/)
 
 ## Lexus
 
