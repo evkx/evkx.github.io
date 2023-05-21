@@ -1,23 +1,26 @@
 ---
-title: Audi Q8 50 Sportback e-tron specifications
+title: Audi Q8 Sportback 55 e-tron specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Audi Q8 50 Sportback e-tron.
+description: EVKX.net gives you the full specifications for Audi Q8 Sportback 55 e-tron.
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Audi Q8 50 Sportback e-tron](https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_50_sportback_e-tron/main_1_st.jpeg)](../)
-EVKX.net seeks to have the most complete specifications for Audi Q8 50 Sportback e-tron. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q8 50 Sportback e-tron, visit the [chargeinfo](../chargecurve/) for Audi Q8 50 Sportback e-tron with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![Audi Q8 Sportback 55 e-tron](https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_55_e-tron/main_1_st.jpeg)](../)
+EVKX.net seeks to have the most complete specifications for Audi Q8 Sportback 55 e-tron. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q8 Sportback 55 e-tron, visit the [chargeinfo](../chargecurve/) for Audi Q8 Sportback 55 e-tron with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|230 Kw|
-|Electrical torque output in Nm|540 Nm|
+|Peak electrical output in kW|265 Kw|
+|Peak electrical output boost in kW|300 Kw|
+|Electrical torque output in Nm|561 Nm|
+|Electrical torque output boost in Nm|664 Nm|
 |Top speed|200 km/h|
-|0-100km/h (0-62 mph)|6,8 s|
+|0-100km/h (0-62 mph)|6,6 s|
+|0-100km/h (0-62 mph) boost|5,7 s|
 
 
 
@@ -26,12 +29,12 @@ EVKX.net seeks to have the most complete specifications for Audi Q8 50 Sportback
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|505 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|17,6 kWh/100km|
-|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|19,5 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|412 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|21,6 kWh/100km|
-|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|23,7 kwh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|600 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|17,3 kWh/100km|
+|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|19,9 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|495 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|21,0 kWh/100km|
+|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|24,1 kwh/100km|
 
 
 
@@ -39,11 +42,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|95 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|89 kWh|
-|Max DC charging|120 kW|
-|[Number of modules](../../../../../technology/battery/batterypack/#cell-to-module)|27|
-|[Pack Configuration](../../../../../technology/battery/batterypack/)|108s3p|
+|[Battery gross](../../../../../technology/battery/buffer/)|114 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|104 kWh|
+|Max DC charging|170 kW|
+|[Number of modules](../../../../../technology/battery/batterypack/#cell-to-module)|36|
+|[Pack Configuration](../../../../../technology/battery/batterypack/)|108s4p|
 |[Nominal voltage](../../../../../technology/battery/batterypack/)|396|
 |[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC|
 

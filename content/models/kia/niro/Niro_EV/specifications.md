@@ -26,9 +26,9 @@ EVKX.net seeks to have the most complete specifications for Kia Niro EV. Click o
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|394 km|
-|WLTP consumption|16,4 kWh/100km|
-|WLTP consumption with charging loss|16,6 kWh/100km|
+|WLTP range|463 km|
+|WLTP consumption|14,0 kWh/100km|
+|WLTP consumption with charging loss|16,4 kWh/100km|
 
 
 

@@ -1,7 +1,7 @@
 ---
-title: Audi Q8 55 Sportback e-tron range & consumption
+title: Audi Q8 Sportback 50 e-tron range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Audi Q8 55 Sportback e-tron.
+description: Here you find all details about range and consumption for Audi Q8 Sportback 50 e-tron.
 weight: 9
 hidden: true
 ---
@@ -19,8 +19,8 @@ Below are the officially rated ranges. The tests are performed with the heating/
 
 | | Range  | Consumption  |
 |----|-----|------|
-| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 600 km / 373mi |17,33kWh/100km / 3,6 mi/kWh | 
-| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 495 km / 308mi | 21,01 kWh/100km / 3,0 mi/kWh | 
+| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 505 km / 314mi |17,62kWh/100km / 3,5 mi/kWh | 
+| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 412 km / 256mi | 21,60 kWh/100km / 2,9 mi/kWh | 
 
 ### Official test cycle results with added heating
 
@@ -28,8 +28,8 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 
 | | Range  | Change  |
 |----|-----|------|
-| WLTP-combined basic trim with 2KW AC | 481km /299 mi | -19,8%|
-| WLTP-combined top trim with 2KW AC | 411km /255 mi | -17,0%|
+| WLTP-combined basic trim with 2KW AC | 406km /252 mi | -19,6%|
+| WLTP-combined top trim with 2KW AC | 344km /214 mi | -16,5%|
 
 ### Real world range estimates
 
@@ -37,5 +37,5 @@ The table below shows some estimated real-world examples in perfect condition an
 
 | | Range  | Consumption  |
 |----|-----|------|
-| 120kmh/75mph perfect condition | 416km /258mi| 25 kWh/100km / 2,5 mi/kWh |
-| 120kmh/75mph with 2KW heating | 627km /390mi| 26,7 kWh/100km / 2,3 mi/kWh |
+| 120kmh/75mph perfect condition | 363km /226mi| 24,5 kWh/100km / 2,5 mi/kWh |
+| 120kmh/75mph with 2KW heating | 547km /340mi| 26,2 kWh/100km / 2,4 mi/kWh |

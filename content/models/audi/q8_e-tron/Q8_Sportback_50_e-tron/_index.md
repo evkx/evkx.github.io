@@ -1,7 +1,7 @@
 ---
-title: Audi Q8 55 Sportback e-tron
-linktitle: Q8 55 Sportback e-tron
-description: Audi Q8 55 Sportback e-tron is an all-electric luxury coupe SUV with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. 
+title: Audi Q8 Sportback 50 e-tron
+linktitle: Q8 Sportback 50 e-tron
+description: Audi Q8 Sportback 50 e-tron is an all-electric luxury coupe SUV with a WLTP range of up to 505 km (314 miles). EVKX.net have all the details. 
 weight: 10
 hidden: true
 ---
@@ -11,12 +11,12 @@ hidden: true
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_sportback_e-tron/main_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_sportback_e-tron/main_1_st.jpeg" alt="Audi Q8 55 Sportback e-tron" title="Audi Q8 55 Sportback e-tron">
+<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1.jpeg">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1_st.jpeg" alt="Audi Q8 Sportback 50 e-tron" title="Audi Q8 Sportback 50 e-tron">
 </a>
-<figcaption><h4>Audi Q8 55 Sportback e-tron</h4></figcaption></figur>
+<figcaption><h4>Audi Q8 Sportback 50 e-tron</h4></figcaption></figur>
 
-We have separated our description of the Audi Q8 55 Sportback e-tron into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of the Audi Q8 Sportback 50 e-tron into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -32,20 +32,20 @@ We have separated our description of the Audi Q8 55 Sportback e-tron into sectio
 
 ## Performance
 
-With overboost, the Audi Q8 55 Sportback e-tron has a maximum power of 300KW (408hp). Without overboost, it is 265KW (360hp). The torque is 664nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 5,7 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h. 
+The Audi Q8 Sportback 50 e-tron has a maximum power of 230KW (313hp). The total torque is 540nm. The 0-100km/h sprint (0-62mph) takes 6,8 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 114kWh and a net capacity of 104kWh, meaning you have a 10kWh buffer for protection. (8,8%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) The [WLTP range](../../../../guides/understandingrange/wltp) varies from 600 to 495 km (373-308 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,3kWh/100km for the basic version and 21,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 95kWh and a net capacity of 89kWh, meaning you have a 6kWh buffer for protection. (6,3%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) The [WLTP range](../../../../guides/understandingrange/wltp) varies from 505 to 412 km (314-256 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,6kWh/100km for the basic version and 21,6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 74% resulting in an actual charge speed including time loss on 122kW. Each charge session would take 36 minutes and 22 seconds. 
+The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 46 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 81% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 35 minutes and 15 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 9 hours and 32 minutes to drive. This trip will require two charge session(s) charging from 3% to 74%. The total time lost for charging will be 73 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24,5kWh/100km, 1000km will take 9 hours and 42 minutes to drive. This trip will require two charge session(s) charging from 1% to 89%. The total time lost for charging will be 82 minutes.   
 ### Onboard charger
 
 
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 27 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 43 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 5 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 2 minutes. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -53,15 +53,15 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 ## Drivetrain
 
-Audi Q8 55 Sportback e-tron has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
+Audi Q8 Sportback 50 e-tron has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 152 mm, and the max is 248 mm. 
 
-You can order Audi Q8 55 Sportback e-tron with an alternative Adaptive Air Suspension Sport suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 152 mm, and the max is 248 mm. 
+You can order Audi Q8 Sportback 50 e-tron with an alternative Adaptive Air Suspension Sport suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 152 mm, and the max is 248 mm. 
 
 ### Steering
 
-Dynamic steering is standard on the Audi Q8 55 Sportback e-tron. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is standard on the Audi Q8 Sportback 50 e-tron. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -88,10 +88,10 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_sportback_e-tron/exterior_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_sportback_e-tron/exterior_1_st.jpeg" alt="Audi Q8 55 Sportback e-tron" title="Audi Q8 55 Sportback e-tron">
+<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/exterior_1.jpeg">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/exterior_1_st.jpeg" alt="Audi Q8 Sportback 50 e-tron" title="Audi Q8 Sportback 50 e-tron">
 </a>
-<figcaption><h4>Audi Q8 55 Sportback e-tron</h4></figcaption></figur>
+<figcaption><h4>Audi Q8 Sportback 50 e-tron</h4></figcaption></figur>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -104,7 +104,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are five seat types you can choose from for the front row in the Audi Q8 55 Sportback e-tron. 
+There are five seat types you can choose from for the front row in the Audi Q8 Sportback 50 e-tron. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -194,7 +194,7 @@ You can choose from two different climate systems. The 2-zone climate system sup
 
 ## Comfort
 
-Audi Q8 55 Sportback e-tron has several features to make your life as a driver or passenger more comfortable. 
+Audi Q8 Sportback 50 e-tron has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -212,34 +212,34 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Audi Q8 55 Sportback e-tron has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. The touch screen at the bottom of the center console is 8,6 inches large and has a 1280 x 660 pixels resolution. 
+Audi Q8 Sportback 50 e-tron has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. The touch screen at the bottom of the center console is 8,6 inches large and has a 1280 x 660 pixels resolution. 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose between two sound systems on the Audi Q8 55 Sportback e-tron. With the Audi Sound system, you get ten amplifier channels and ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 amplifier channels and 16 speakers with a max system output of 700 watts. 
+You can choose between two sound systems on the Audi Q8 Sportback 50 e-tron. With the Audi Sound system, you get ten amplifier channels and ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 amplifier channels and 16 speakers with a max system output of 700 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q8 55 Sportback e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q8 Sportback 50 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
-You can choose between three types of headlights for the Audi Q8 55 Sportback e-tron. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
+You can choose between three types of headlights for the Audi Q8 Sportback 50 e-tron. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
 ## Advanced driver assistance systems
 
-The Audi Q8 55 Sportback e-tron has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Audi Q8 Sportback 50 e-tron has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
 
 
-The Audi Q8 55 Sportback e-tron has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Audi Q8 Sportback 50 e-tron has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Audi Q8 55 Sportback e-tron has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The Audi Q8 Sportback 50 e-tron has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
 
-The Audi Q8 55 Sportback e-tron has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Audi Q8 Sportback 50 e-tron has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
@@ -247,7 +247,7 @@ The Audi Q8 55 Sportback e-tron has a [**lane keeping assist**](../../../../tech
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The Audi Q8 55 Sportback e-tron has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Audi Q8 Sportback 50 e-tron has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
@@ -255,7 +255,7 @@ The Audi Q8 55 Sportback e-tron has a [**automatic emergency braking**](../../..
 
 ### Driving Automation
 
-The Audi Q8 55 Sportback e-tron offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+The Audi Q8 Sportback 50 e-tron offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
 - Cruise control. 
@@ -273,6 +273,6 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75kg. Max weight is 3170kg, and with the base weight of 2520 kg, you can max load 650 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75kg. Max weight is 3040kg, and with the base weight of 2370 kg, you can max load 670 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>
