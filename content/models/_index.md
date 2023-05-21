@@ -52,6 +52,14 @@ Ford is one of the world's leading automakers, with a history of innovation and 
 
 Ford has 1 models with total 5 variants. [Read all about them](ford/)
 
+## Honda
+
+[![Honda](https://media.evkx.net/multimedia/models/honda/brandevs_st.jpg)](honda/)
+
+Honda is a Japanese multinational conglomerate that manufactures automobiles, motorcycles, and power equipment. It is the world's largest motorcycle manufacturer and one of the largest automobile manufacturers. Honda also has a luxury brand called Acura, which it launched in 1986 as the first Japanese luxury brand.
+
+Honda has 1 models with total 1 variants. [Read all about them](honda/)
+
 ## Hongqi
 
 [![Hongqi](https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg)](hongqi/)
@@ -141,6 +149,8 @@ Porsche is a German luxury sports car manufacturer that was founded in 1931 by F
 Porsche has 1 models with total 7 variants. [Read all about them](porsche/)
 
 ## Skoda
+
+[![Skoda](https://media.evkx.net/multimedia/models/skoda/brandevs_st.jpg)](skoda/)
 
 The Czech car manufacturer aims to be one of the five best-selling brands in Europe by 2030, and the company plans to become the leading European brand in the growth regions of India, Russia and North Africa. 
 
