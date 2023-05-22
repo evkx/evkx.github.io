@@ -8,6 +8,14 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nissan Ariya 87 kWh e-4orce 1000 km challenge 22.05.2023
+
+{{< youtube LrZGMTBq2yA >}}
+
+### Bjørn Nyland: Nissan Ariya 87 kWh e-4orce range test 21.05.2023
+
+{{< youtube Az7jq2YqChU >}}
+
 ### Out of Spec Reviews: Nissan Ariya 87kWh DC Fast Charging 0-100%! It's Not About The Peak - It's All About the Curve 11.04.2023
 
 {{< youtube q9ABw2BdcaU >}}

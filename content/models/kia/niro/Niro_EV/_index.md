@@ -63,7 +63,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Kia Niro EV has a rear-wheel drive system supported by one motor on the rear axle. 
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm. 
+The  suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm. 
 
 ### Brakes
 
