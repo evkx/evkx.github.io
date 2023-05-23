@@ -32,7 +32,7 @@ Tesla Model 3 Performance is an all-electric sedan with a WLTP range of up to 54
 
 ## Tesla Model 3
 
-[![Model 3]()](/models/tesla/model_3/model_3/)
+[![Model 3](https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1_st.jpg)](/models/tesla/model_3/model_3/)
 
 Tesla Model 3 is an all-electric sedan with a WLTP range of up to 495 km (308 miles). EVKX.net have all the details. 
 

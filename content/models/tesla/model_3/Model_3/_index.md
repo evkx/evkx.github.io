@@ -8,6 +8,14 @@ hidden: true
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1_st.jpg" alt="Tesla Model 3" title="Tesla Model 3">
+</a>
+<figcaption><h4>Tesla Model 3</h4></figcaption></figur>
+
 We have separated our description of the Tesla Model 3 into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
@@ -38,6 +46,14 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 13 minutes. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/charging_1_st.jpg" alt="Tesla Model 3" title="Tesla Model 3">
+</a>
+<figcaption><h4>Tesla Model 3</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -70,6 +86,14 @@ There is only one roof for this model. The standard is a panoramic roof.
 
 The windows from B-pillar and back are tinted. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_st.jpg" alt="Tesla Model 3" title="Tesla Model 3">
+</a>
+<figcaption><h4>Tesla Model 3</h4></figcaption></figur>
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -94,11 +118,27 @@ You can choose from 2 different materials/colors for this seat type. <br />
 <br />
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/frontseats_1_st.jpg" alt="Tesla Model 3" title="Tesla Model 3">
+</a>
+<figcaption><h4>Tesla Model 3</h4></figcaption></figur>
+
+
 ### Second-row seat
 
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/secondrowseats_1_st.jpg" alt="Tesla Model 3" title="Tesla Model 3">
+</a>
+<figcaption><h4>Tesla Model 3</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. 
@@ -126,6 +166,14 @@ You have wireless charging for your phone.
 ## User interface and control
 
 Tesla Model 3 has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The  screen on the dashboard's center  is 15 inches large and has a 2200 x 1300 pixels resolution. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_2.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_2_st.jpg" alt="Tesla Model 3" title="Tesla Model 3">
+</a>
+<figcaption><h4>Tesla Model 3</h4></figcaption></figur>
+
 
 ## Infotainment
 
