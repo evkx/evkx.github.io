@@ -26,3 +26,7 @@ Here are some key aspects of the inverter in an EV drive unit:
 **Reliability and Safety:** Inverters in EVs are designed to be robust and reliable to ensure the safe and efficient operation of the vehicle. They are subjected to stringent safety and reliability tests to ensure they can withstand the harsh operating conditions of an electric vehicle, such as temperature extremes, high voltages, and mechanical vibrations.
 
 In summary, the inverter is a critical component in the EV drive unit that converts the DC power from the battery into AC power to drive the electric motor. It plays a crucial role in controlling the speed, torque, and direction of the motor, and contributes to the overall efficiency, power density, reliability, and safety of the EV propulsion system.
+
+If you want to learn more about Inverters we recomend watching this Tech Talk from Lucid Motors.
+
+{{< youtube fKhxxKCPwzc >}}
