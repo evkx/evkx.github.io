@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Out of Spec Reviews: I Drive The New Audi Q8 e-tron For The First Time To See If We Should Upgrade Ours! 22.05.2023
+
+{{< youtube wBYOaQJvi0E >}}
+
 ### Out of Spec Reviews: The New Audi Q8 e-tron! Here Are The Updates For 2024 17.05.2023
 
 {{< youtube VwxQ8fOMfNQ >}}
