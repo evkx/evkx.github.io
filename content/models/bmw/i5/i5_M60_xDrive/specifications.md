@@ -43,6 +43,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |[Battery net](../../../../../technology/battery/buffer/)|81,2 kWh|
 |Max DC charging|205 kW|
 |[Nominal voltage](../../../../../technology/battery/batterypack/)|400|
+|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC811|
 
 
 

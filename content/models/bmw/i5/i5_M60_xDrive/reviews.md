@@ -12,3 +12,7 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube vtDC98HlWSg >}}
 
+### Autotrader: New BMW I5: The Electric 5 Series Takes SELFIES As You Driv 24.05.2023
+
+{{< youtube Nf-xeUPybI8 >}}
+

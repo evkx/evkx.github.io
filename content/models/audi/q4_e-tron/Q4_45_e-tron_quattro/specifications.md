@@ -41,7 +41,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |----|-----|
 |[Battery gross](../../../../../technology/battery/buffer/)|82 kWh|
 |[Battery net](../../../../../technology/battery/buffer/)|76,6 kWh|
-|Max DC charging|125 kW|
+|Max DC charging|170 kW|
 |[Number of modules](../../../../../technology/battery/batterypack/#cell-to-module)|12|
 |[Pack Configuration](../../../../../technology/battery/batterypack/)|96s3p|
 |[Nominal voltage](../../../../../technology/battery/batterypack/)|350|
