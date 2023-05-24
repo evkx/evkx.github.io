@@ -32,13 +32,13 @@ We have separated our description of the BMW i5 M60 xDrive into sections. If you
 
 ## Performance
 
-The BMW i5 M60 xDrive has a maximum power of 442KW (601hp). The total torque is 795nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 190 km/h. 
+The BMW i5 M60 xDrive has a maximum power of 442KW (601hp). The total torque is 795nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. The top speed is 230 km/h. 
 
 ## Battery, range, and charging
 
 The battery has a gross capacity of 84,4kWh and a net capacity of 81,2kWh, meaning you have a 3,2kWh buffer for protection. (3,8%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 516 to 455 km (321-283 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,7kWh/100km for the basic version and 17,8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 56 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 50% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 19 minutes and 26 seconds. 
+The maximum DC charging speed is 205kW. A full charge from 0 - 100% would take 56 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 50% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 19 minutes and 26 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 31 minutes to drive. This trip will require four charge session(s) charging from 3% to 46%. The total time lost for charging will be 71 minutes.   
 ### Onboard charger
@@ -118,8 +118,11 @@ The following functionalities are available on the **standard** seat.
 - integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 21 different materials/colors for this seat type. <br />
-<br />
+You can choose from 3 different materials/colors for this seat type. 
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+
 
 
 The following functionalities are available on the **M Sport** seat. 
@@ -132,10 +135,6 @@ The following functionalities are available on the **M Sport** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - integrated headrest 
-
-You can choose from 21 different materials/colors for this seat type. <br />
-<br />
-
 
 
 <figur>
@@ -166,7 +165,7 @@ There is only one type of steering wheel available. The stock steering wheel is 
 
 ## Climate system
 
-You can choose from two different climate systems. The standard climate system supports different temperatures in two zone for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
+You can choose from two different climate systems. The standard climate system supports different temperatures in two zone for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -207,7 +206,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. 
 ## Lights
 
-You can choose between two types of headlights for the BMW i5 M60 xDrive. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the BMW i5 M60 xDrive. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 
 
 <figur>

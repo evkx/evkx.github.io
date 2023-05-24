@@ -16,8 +16,8 @@ EVKX.net seeks to have the most complete specifications for BMW i5 M60 xDrive. C
 |----|-----|
 |Peak electrical output in kW|442 Kw|
 |Electrical torque output in Nm|795 Nm|
-|Top speed|190 km/h|
-|0-100km/h (0-62 mph)|3,9 s|
+|Top speed|230 km/h|
+|0-100km/h (0-62 mph)|3,8 s|
 
 
 
@@ -41,6 +41,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |----|-----|
 |[Battery gross](../../../../../technology/battery/buffer/)|84,4 kWh|
 |[Battery net](../../../../../technology/battery/buffer/)|81,2 kWh|
+|Max DC charging|205 kW|
 |[Nominal voltage](../../../../../technology/battery/batterypack/)|400|
 
 
