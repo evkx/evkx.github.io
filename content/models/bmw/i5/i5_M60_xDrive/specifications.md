@@ -42,6 +42,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |[Battery gross](../../../../../technology/battery/buffer/)|84,4 kWh|
 |[Battery net](../../../../../technology/battery/buffer/)|81,2 kWh|
 |Max DC charging|205 kW|
+|[Number of modules](../../../../../technology/battery/batterypack/#cell-to-module)|7|
+|[Pack Configuration](../../../../../technology/battery/batterypack/)|108s3p|
 |[Nominal voltage](../../../../../technology/battery/batterypack/)|400|
 |[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC811|
 
@@ -181,20 +183,28 @@ This model is available with a seat configuration with five seats.
 |Android Auto support|Yes, standard equipment|
 |Apple Carplay support|Yes, standard equipment|
 |In Car navigation|Yes, standard equipment|
-|Number of avaiable sound systems|2|
+|Number of avaiable sound systems|3|
 
 ### Hifi Sound system
 
 |Spec|Value|
 |----|-----|
-|Number of speakers|10|
+|Number of speakers|6|
 |Channels|7|
-|Total effect|200|
+|Total effect|100|
 
 ### Harman Kardon Surround Sound system
 
 |Spec|Value|
 |----|-----|
-|Number of speakers|17|
-|Channels|9|
-|Total effect|445|
+|Number of speakers|12|
+|Channels|5|
+|Total effect|205|
+
+### Bower & Wilkins Surround System
+
+|Spec|Value|
+|----|-----|
+|Number of speakers|18|
+|Channels|12|
+|Total effect|655|

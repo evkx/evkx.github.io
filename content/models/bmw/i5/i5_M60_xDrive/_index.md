@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 22 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 22 minutes. 
 
 
 <figur>
@@ -199,7 +199,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the BMW i5 M60 xDrive. With the Hifi Sound system, you get seven amplifier channels and ten speakers with a max system output of 200 watts. With the Harman Kardon Surround Sound system, you get nine amplifier channels and 17 speakers with a max system output of 445 watts. 
+You can choose between three sound systems on the BMW i5 M60 xDrive. With the Hifi Sound system, you get seven amplifier channels and six speakers with a max system output of 100 watts. With the Harman Kardon Surround Sound system, you get five amplifier channels and 12 speakers with a max system output of 205 watts. With the Bower & Wilkins Surround System, you get 12 amplifier channels and 18 speakers with a max system output of 655 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW i5 M60 xDrive supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
