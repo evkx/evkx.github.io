@@ -8,6 +8,14 @@ hidden: true
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_st.jpg" alt="BMW i5 M60 xDrive" title="BMW i5 M60 xDrive">
+</a>
+<figcaption><h4>BMW i5 M60 xDrive</h4></figcaption></figur>
+
 We have separated our description of the BMW i5 M60 xDrive into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
@@ -39,6 +47,14 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 22 minutes. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/charging_1_st.jpg" alt="BMW i5 M60 xDrive" title="BMW i5 M60 xDrive">
+</a>
+<figcaption><h4>BMW i5 M60 xDrive</h4></figcaption></figur>
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -69,6 +85,14 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
 
 You can order the car with tinted windows from B-pillar and back. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/exterior_1_st.jpg" alt="BMW i5 M60 xDrive" title="BMW i5 M60 xDrive">
+</a>
+<figcaption><h4>BMW i5 M60 xDrive</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -113,6 +137,14 @@ You can choose from 21 different materials/colors for this seat type. <br />
 <br />
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/frontseats_1_st.jpg" alt="BMW i5 M60 xDrive" title="BMW i5 M60 xDrive">
+</a>
+<figcaption><h4>BMW i5 M60 xDrive</h4></figcaption></figur>
+
+
 ### Second-row seat
 
 
@@ -121,6 +153,14 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/secondrowseats_1_st.jpg" alt="BMW i5 M60 xDrive" title="BMW i5 M60 xDrive">
+</a>
+<figcaption><h4>BMW i5 M60 xDrive</h4></figcaption></figur>
+
 
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
 
@@ -148,6 +188,14 @@ You have wireless charging for your phone.
 
 BMW i5 M60 xDrive has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 14,9 inches large and has a 2880 x 1080 pixels resolution. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/screens_1_st.jpg" alt="BMW i5 M60 xDrive" title="BMW i5 M60 xDrive">
+</a>
+<figcaption><h4>BMW i5 M60 xDrive</h4></figcaption></figur>
+
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
@@ -160,6 +208,14 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the BMW i5 M60 xDrive. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/headlights_1_st.jpg" alt="BMW i5 M60 xDrive" title="BMW i5 M60 xDrive">
+</a>
+<figcaption><h4>BMW i5 M60 xDrive</h4></figcaption></figur>
+
 ## Advanced driver assistance systems
 
 The BMW i5 M60 xDrive has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -203,4 +259,12 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 The cargo capacity in the trunk is 490 liters. With the rear seat down, it is 1290 liters. On the roof, you can load up to 75kg. Max weight is 2895kg, and with the base weight of 2305 kg, you can max load 590 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/trunk_1_st.jpg" alt="BMW i5 M60 xDrive" title="BMW i5 M60 xDrive">
+</a>
+<figcaption><h4>BMW i5 M60 xDrive</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
