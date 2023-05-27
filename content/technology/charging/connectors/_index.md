@@ -14,7 +14,19 @@ This is the standard Level 1 and Level 2 charging connector for all American EVs
 
 This is the standard Level 1 and Level 2 charging connector for most European EVs, except Teslas. It was created by the International Electrotechnical Commission (IEC) and works with any Level 1 or Level 2 charger in Europe. It has a round shape with seven pins and a latch. It can deliver up to 43 kW of power.
 
+
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/type2_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/type2_1_st.jpg"
+        alt="Audi e-tron GT type 2 charge port" title="Audi e-tron GT type 2 charge port">
+    </a>
+    <figcaption><h4>Audi e-tron GT type 2 charge port</h4></figcaption>
+</figure>
+
 ## NACS (Tesla)
+
+NACS or The [North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard) is the Tesla Connector that Tesla opened for others in 2022. 
 
 This is the proprietary Level 1, Level 2, and Level 3 charging connector for all Tesla EVs. It was created by Tesla and works only with Tesla chargers, such as the Supercharger network or the Destination Charger network. It has a rectangular shape with two pins and a button. It can deliver up to 250 kW of power.
 
