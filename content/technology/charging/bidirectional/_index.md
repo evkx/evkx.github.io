@@ -2,7 +2,7 @@
 title: Bidirectional Charging
 linktitle: Bidirectional
 description: Bidirectional charging is a technology that allows EVs to not only receive electricity from the grid or a charging station, but also to send it back to the grid or a home. This way, EVs can act as backup power sources, grid stabilizers, or renewable energy integrators.
-weight: 2
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -61,6 +61,14 @@ V2H stands for vehicle-to-home and refers to bidirectional charging between an E
 ### V2L
 
 V2L stands for vehicle-to-load and refers to bidirectional charging between an EV and a load. A load is any device or appliance that consumes electricity, such as a refrigerator, a coffee maker, a laptop, or another EV. V2L allows an EV to send electricity to a load when it is needed or requested by the user or the device. V2L can provide portable power to a load in case of a lack of access to the grid or a charging station. V2L can also enable sharing of power between EVs or other loads.
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/bidirectional/v2l_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/bidirectional/v2l_1_st.jpg"
+        alt="Hyundai Ioniq 5 charging electric bike" title="Hyundai Ioniq 5 charging electric bike">
+    </a>
+    <figcaption><h4>Hyundai Ioniq 5 charging electric bike</h4></figcaption>
+</figure>
 
 ## The Different Types of Bidirectional Chargers and Connectors
 
