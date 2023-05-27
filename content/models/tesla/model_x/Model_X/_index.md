@@ -32,7 +32,7 @@ We have separated our description of the Tesla Model X into sections. If you wan
 
 ## Performance
 
-The Tesla Model X has a maximum power of 760KW (1033hp). The total torque is 1020nm. The 0-100km/h sprint (0-62mph) takes 2,6 seconds. The top speed is 262 km/h. 
+The Tesla Model X has a maximum power of 504KW (685hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 250 km/h. 
 
 ## Battery, range, and charging
 

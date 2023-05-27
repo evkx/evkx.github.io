@@ -8,6 +8,14 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Toyota bZ4X range test with new software 26.05.2023
+
+{{< youtube cNw2TGuWg4I >}}
+
+### Out of Spec Reviews: The Toyota bZ4X AWD Sets A New Low Record In Our 10% EV Road Trip Challenge 25.05.2023
+
+{{< youtube Y9A73U-kAO0 >}}
+
 ### Bjørn Nyland: Toyota bZ4X 1000 km challenge 09.03.2023
 
 {{< youtube hXRp357Usq4 >}}

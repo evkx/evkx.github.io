@@ -14,10 +14,10 @@ EVKX.net seeks to have the most complete specifications for Tesla Model X. Click
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|760 Kw|
-|Electrical torque output in Nm|1020 Nm|
-|Top speed|262 km/h|
-|0-100km/h (0-62 mph)|2,6 s|
+|Peak electrical output in kW|504 Kw|
+|Electrical torque output in Nm|700 Nm|
+|Top speed|250 km/h|
+|0-100km/h (0-62 mph)|3,9 s|
 
 
 
