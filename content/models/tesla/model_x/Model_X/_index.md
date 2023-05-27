@@ -1,7 +1,7 @@
 ---
-title: Tesla Model X Plaid
-linktitle: Model X Plaid
-description: Tesla Model X Plaid is an all-electric SUV with a WLTP range of up to 543 km (337 miles). EVKX.net have all the details. 
+title: Tesla Model X
+linktitle: Model X
+description: Tesla Model X is an all-electric SUV with a WLTP range of up to 543 km (337 miles). EVKX.net have all the details. 
 weight: 10
 hidden: true
 ---
@@ -11,12 +11,12 @@ hidden: true
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1_st.jpg" alt="Tesla Model X" title="Tesla Model X">
 </a>
-<figcaption><h4>Tesla Model X Plaid</h4></figcaption></figur>
+<figcaption><h4>Tesla Model X</h4></figcaption></figur>
 
-We have separated our description of the Tesla Model X Plaid into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our description of the Tesla Model X into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -32,7 +32,7 @@ We have separated our description of the Tesla Model X Plaid into sections. If y
 
 ## Performance
 
-The Tesla Model X Plaid has a maximum power of 760KW (1033hp). The total torque is 1020nm. The 0-100km/h sprint (0-62mph) takes 2,6 seconds. The top speed is 262 km/h. 
+The Tesla Model X has a maximum power of 760KW (1033hp). The total torque is 1020nm. The 0-100km/h sprint (0-62mph) takes 2,6 seconds. The top speed is 262 km/h. 
 
 ## Battery, range, and charging
 
@@ -53,13 +53,13 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-Tesla Model X Plaid has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
+Tesla Model X has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
 The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 117 mm, and the max is 158 mm. 
 
 ### Steering
 
-Dynamic steering is standard on the Tesla Model X Plaid. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is standard on the Tesla Model X. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -80,10 +80,10 @@ The windows from B-pillar and back are tinted.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/exterior_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/exterior_1_st.jpg" alt="Tesla Model X" title="Tesla Model X">
 </a>
-<figcaption><h4>Tesla Model X Plaid</h4></figcaption></figur>
+<figcaption><h4>Tesla Model X</h4></figcaption></figur>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -96,7 +96,7 @@ There is one seat type you can select in different materials. The seat layout is
 
 ### First row seats
 
-Only one front seat type is available in the Tesla Model X Plaid. 
+Only one front seat type is available in the Tesla Model X. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -120,10 +120,10 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/secondrowseats_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/secondrowseats_1_st.jpg" alt="Tesla Model X" title="Tesla Model X">
 </a>
-<figcaption><h4>Tesla Model X Plaid</h4></figcaption></figur>
+<figcaption><h4>Tesla Model X</h4></figcaption></figur>
 
 
 ### Third-row seats
@@ -140,7 +140,7 @@ There is one climate system available. The standard climate system supports diff
 
 ## Comfort
 
-Tesla Model X Plaid has several features to make your life as a driver or passenger more comfortable. 
+Tesla Model X has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -156,19 +156,19 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Tesla Model X Plaid has twin screens with information for the driver and passengers and a third screen in rear for multimedia.  The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1280 x 480 pixels resolution. The touch screen on the dashboard's center  is 17 inches large and has a 2200 x 1300 pixels resolution. The touch screen in the rear center console  is 8 inches large. 
+Tesla Model X has twin screens with information for the driver and passengers and a third screen in rear for multimedia.  The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1280 x 480 pixels resolution. The touch screen on the dashboard's center  is 17 inches large and has a 2200 x 1300 pixels resolution. The touch screen in the rear center console  is 8 inches large. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/screens_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/screens_1_st.jpg" alt="Tesla Model X" title="Tesla Model X">
 </a>
-<figcaption><h4>Tesla Model X Plaid</h4></figcaption></figur>
+<figcaption><h4>Tesla Model X</h4></figcaption></figur>
 
 
 ## Infotainment
 
-One type of sound system is available for the Tesla Model X Plaid. With the Tesla Premium Sound, you get five amplifier channels and 22 speakers with a max system output of 560 watts. 
+One type of sound system is available for the Tesla Model X. With the Tesla Premium Sound, you get five amplifier channels and 22 speakers with a max system output of 560 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
@@ -178,22 +178,22 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The standard headlights use LED technology.  
 ## Advanced driver assistance systems
 
-The Tesla Model X Plaid has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Tesla Model X has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
 
-The Tesla Model X Plaid has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Tesla Model X has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Tesla Model X Plaid has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The Tesla Model X has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
 
-The Tesla Model X Plaid has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Tesla Model X has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
 
-The Tesla Model X Plaid has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Tesla Model X has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
@@ -201,7 +201,7 @@ The Tesla Model X Plaid has a [**automatic emergency braking**](../../../../tech
 
 ### Driving Automation
 
-The Tesla Model X Plaid offers [driving automation on level 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
+The Tesla Model X offers [driving automation on level 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
@@ -231,8 +231,8 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/trunk_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/trunk_1_st.jpg" alt="Tesla Model X" title="Tesla Model X">
 </a>
-<figcaption><h4>Tesla Model X Plaid</h4></figcaption></figur>
+<figcaption><h4>Tesla Model X</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -1,13 +1,13 @@
 ---
-title: Tesla Model S Plaid specifications
+title: Tesla Model X specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Tesla Model S Plaid.
+description: EVKX.net gives you the full specifications for Tesla Model X.
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Tesla Model S Plaid](https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Tesla Model S Plaid. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model S Plaid, visit the [chargeinfo](../chargecurve/) for Tesla Model S Plaid with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![Tesla Model X](https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for Tesla Model X. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model X, visit the [chargeinfo](../chargecurve/) for Tesla Model X with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -16,8 +16,8 @@ EVKX.net seeks to have the most complete specifications for Tesla Model S Plaid.
 |----|-----|
 |Peak electrical output in kW|760 Kw|
 |Electrical torque output in Nm|1020 Nm|
-|Top speed|322 km/h|
-|0-100km/h (0-62 mph)|2,1 s|
+|Top speed|262 km/h|
+|0-100km/h (0-62 mph)|2,6 s|
 
 
 
@@ -26,9 +26,12 @@ EVKX.net seeks to have the most complete specifications for Tesla Model S Plaid.
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|600 km|
-|WLTP consumption|16,0 kWh/100km|
-|WLTP consumption with charging loss|18,7 kWh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|543 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|17,7 kWh/100km|
+|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|20,8 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|528 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|18,2 kWh/100km|
+|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|21,4 kwh/100km|
 
 
 
@@ -48,11 +51,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|Length|5021 mm|
-|Height|1431 mm|
-|Width excluding mirrors|1987 mm|
-|Widht including mirrors|2189 mm|
-|Wheelbase|2960 mm|
+|Length|5057 mm|
+|Height|1680 mm|
+|Width excluding mirrors|1999 mm|
+|Widht including mirrors|2271 mm|
+|Wheelbase|2965 mm|
 |Track width front|1690 mm|
 |Track width rear|1690 mm|
 |Drag coefficient|0,208|
@@ -74,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
-This model is available with a seat configuration with five seats.
+Interior.Seatlayout.OnlySix
 
 ### Front seats
 

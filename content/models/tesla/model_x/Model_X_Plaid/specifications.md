@@ -15,9 +15,9 @@ EVKX.net seeks to have the most complete specifications for Tesla Model X Plaid.
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|760 Kw|
-|Electrical torque output in Nm|493 Nm|
-|Top speed|322 km/h|
-|0-100km/h (0-62 mph)|2,1 s|
+|Electrical torque output in Nm|1020 Nm|
+|Top speed|262 km/h|
+|0-100km/h (0-62 mph)|2,6 s|
 
 
 
@@ -77,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
-This model is available with a seat configuration with five seats.
+Interior.Seatlayout.OnlySix
 
 ### Front seats
 

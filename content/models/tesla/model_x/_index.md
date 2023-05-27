@@ -4,6 +4,19 @@ linktitle: Model X
 description: See below for details of the different variants of Tesla Model X
 weight: 30
 ---
+## Tesla Model X
+
+[![Model X](https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1_st.jpg)](/models/tesla/model_x/model_x/)
+
+Tesla Model X is an all-electric SUV with a WLTP range of up to 543 km (337 miles). EVKX.net have all the details. 
+
+- [Tesla Model X article](/models/tesla/model_x/model_x/)
+- [Tesla Model X Range & consumption info](/models/tesla/model_x/model_x//rangeandconsumption)
+- [Tesla Model X Charging curve and performance](/models/tesla/model_x/model_x//chargingcurve)
+- [Tesla Model X full specifications](/models/tesla/model_x/model_x//specifications)
+- [Tesla Model X image gallery](/models/tesla/model_x/model_x//gallery)
+- [Tesla Model X reviews](/models/tesla/model_x/model_x//reviews)
+
 ## Tesla Model X Plaid
 
 [![Model X Plaid](https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg)](/models/tesla/model_x/model_x_plaid/)
