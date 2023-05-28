@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Toyota bZ4X charging test after software update 27.05.2023
+
+{{< youtube g9fVBdNIEsU >}}
+
 ### Bjørn Nyland: Toyota bZ4X range test with new software 26.05.2023
 
 {{< youtube cNw2TGuWg4I >}}

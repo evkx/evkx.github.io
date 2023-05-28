@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Kris Rifa: Audi Q4 E-Tron 50 Quattro Range Test 26.05.2023
+
+{{< youtube G1pT8gxee_8 >}}
+
 ### Autogefühl: Audi or VW? Audi Q4 e-tron 50 AWD vs VW ID4 GTX mid-size EV SUV comparison REVIEW 24.10.2021
 
 {{< youtube c8Fp1antVfA >}}
