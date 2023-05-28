@@ -36,9 +36,9 @@ This is the standard Level 1 and Level 2 charging connector for most European EV
 
 ### NACS (Tesla)
 
-NACS or The [North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard) is the Tesla Connector that Tesla opened for others in 2022. 
+NACS or The [North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard) is the Tesla Connector that Tesla opened for others in 2022.
 
-This is the proprietary Level 1, Level 2, and Level 3 charging connector for all Tesla EVs. It was created by Tesla and works only with Tesla chargers, such as the Supercharger network or the Destination Charger network. It has a rectangular shape with two pins and a button. Currently the standard says it can deliver up to 250 kW of power with maksimum 1000 Volt.
+This is the proprietary Level 1, Level 2, and Level 3 charging connector for all Tesla EVs sold in North America. It was created by Tesla and works only with Tesla chargers, such as the Supercharger network or the Destination Charger network. It has a rectangular shape with two pins and a button. Currently the [standard](https://tesla-cdn.thron.com/static/HXVNIC_North_American_Charging_Standard_Technical_Specification_TS-0023666_HFTPKZ.pdf) says it can deliver up to 250 kW of power with maksimum 1000 Volt.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_1.jpg">
