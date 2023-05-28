@@ -84,6 +84,19 @@ Some examples of EVs that offer adaptive regen are the Porsche Taycan, the BMW i
 
 The maximum regenerative power of an EV depends on several factors, such as the type and size of the motor, the speed and state of charge of the battery, and the settings and modes of the vehicle. Different EVs have different levels of regenerative braking, but typically, it is from above 50kW on small cars to 300kW on the most powerful.
 
+## Brake lights & regenerative braking
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/regen/rearlights_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/regen/rearlights_1_st.jpg" alt="KIA EV6 brake lights" title="KIA EV6 brake lights">
+    </a>
+    <figcaption><h4>KIA EV6 brake lights</h4></figcaption>
+</figur>
+
+Typical brake lights will come on as long as the braking force is high enough to reduce speed substantially. But this is not always the case. For example, Hyundai Ionic 5 does not enable the braking lights when using one-pedal driving. This behavior can be dangerous. This danger is explained in [this video](https://www.youtube.com/watch?v=U0YW7x9U5TQ). Check how your EV works so you are not rear-ended.
+In Europe, the [regulation](https://unece.org/transport/documents/2022/02/standards/un-regulation-no-13h-revision-4-amendment-2) is that if deceleration is above 1.3 m/s2, it should generate a brake signal.
+
+
 ## Benefits of Regenerative Braking
 
 There are several benefits to regenerative braking, including:
