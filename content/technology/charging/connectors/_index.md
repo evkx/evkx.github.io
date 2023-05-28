@@ -13,6 +13,15 @@ weight: 1
 
 This is the standard Level 1 and Level 2 charging connector for all American EVs, except Teslas. It was created by the Society of Automotive Engineers (SAE) and works with any Level 1 or Level 2 charger in the US. It has a round shape with five pins and a latch. It can deliver up to 19.2 kW of power.
 
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/type2_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/type2_1_st.jpg"
+        alt="Audi e-tron J1772 charge port" title="Audi e-tron J1772 charge port">
+    </a>
+    <figcaption><h4>Audi e-tron J1772 charge port</h4></figcaption>
+</figure>
+
 ### Type 2
 
 This is the standard Level 1 and Level 2 charging connector for most European EVs, except Teslas. It was created by the International Electrotechnical Commission (IEC) and works with any Level 1 or Level 2 charger in Europe. It has a round shape with seven pins and a latch. It can deliver up to 43 kW of power.
@@ -29,14 +38,14 @@ This is the standard Level 1 and Level 2 charging connector for most European EV
 
 NACS or The [North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard) is the Tesla Connector that Tesla opened for others in 2022. 
 
-This is the proprietary Level 1, Level 2, and Level 3 charging connector for all Tesla EVs. It was created by Tesla and works only with Tesla chargers, such as the Supercharger network or the Destination Charger network. It has a rectangular shape with two pins and a button. It can deliver up to 250 kW of power.
+This is the proprietary Level 1, Level 2, and Level 3 charging connector for all Tesla EVs. It was created by Tesla and works only with Tesla chargers, such as the Supercharger network or the Destination Charger network. It has a rectangular shape with two pins and a button. Currently the standard says it can deliver up to 250 kW of power with maksimum 1000 Volt.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_1.jpg">
         <img src="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_1_st.jpg"
-        alt="Porsche Taycan Turbo S charging" title="Porsche Taycan Turbo S charging">
+        alt="NACS connector / Tesla connector" title="NACS connector / Tesla connector">
     </a>
-    <figcaption><h4>Porsche Taycan Turbo S charging</h4></figcaption>
+    <figcaption><h4>NACS connector / Tesla connector</h4></figcaption>
 </figure>
 
 ### CCS
