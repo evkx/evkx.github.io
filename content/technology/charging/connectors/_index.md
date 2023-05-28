@@ -77,3 +77,35 @@ This is the standard Level 3 charging connector for most Japanese EVs, such as N
 
 ## Charge port location
 
+EVs have different locations for their chargeport. Here are the most common
+
+
+### Rear corner
+
+### Front side
+
+
+### Rear Side
+
+
+### Front Corner
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/frontcornerport_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/frontcornerport_1_st.jpg"
+        alt="Rivian R1S with left front corner location of charge port" title="Rivian R1S with left front corner location of charge port">
+    </a>
+    <figcaption><h4>Rivian R1S with left front corner location of charge port</h4></figcaption>
+</figure>
+
+
+### Front
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/frontport_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/frontport_1_st.jpg"
+        alt="Kia Niro EV with front charge port" title="Kia Niro EV with front charge port">
+    </a>
+    <figcaption><h4>Kia Niro EV with front charge port</h4></figcaption>
+</figure>
+
