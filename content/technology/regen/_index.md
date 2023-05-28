@@ -28,7 +28,7 @@ The EV manufacturers provide regenerative braking with different strategies. The
 
 One pedal regen is a feature of some electric vehicles that allows them to control the acceleration and deceleration of the car with only the accelerator pedal.
 
-When the driver presses the pedal, the vehicle accelerates.  When the driver releases the pedal, the car decelerates using regenerative braking, which converts the vehicle's kinetic energy into electrical energy that the EV stores in the battery.
+When the driver presses the pedal, the vehicle accelerates.  When the driver releases the pedal, the car decelerates using regenerative braking, which converts the vehicle's kinetic energy into electrical energy that the EV stores in the battery. This is also called throttle lift-of regen.
 
 
 
