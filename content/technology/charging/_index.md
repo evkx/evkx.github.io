@@ -25,11 +25,11 @@ In this article, we will explain everything you need to know about charging an E
 
 ## Charging Levels
 
-One way to classify charging ports is by their charging level, which indicates how fast they can charge an EV battery. There are three main levels of charging:
+There are three main levels of charging:
 
-- Level 1 - This is the slowest and simplest way of charging an EV. It uses a standard 120-volt AC outlet that can be found in any home or building. Level 1 charging can add about 3 to 5 miles of range per hour of charging, which means it can take several hours or even days to fully charge an EV battery. Level 1 charging is suitable for overnight or long-term parking, or for EVs with small batteries and low range.
-- Level 2 - This is the most common and convenient way of charging an EV. It uses a 240-volt AC outlet that can be installed by an electrician in a home, garage, or workplace. Level 2 charging can add about 25 miles of range per hour of charging, which means it can fully charge an EV battery in a few hours. Level 2 charging is suitable for daily or weekly charging, or for EVs with medium to large batteries and moderate to high range.
-- Level 3 - This is the fastest and most expensive way of charging an EV. It uses a high-power DC current that can deliver up to 480 volts and 100 amps. Level 3 charging can add up to 200 miles of range in just 20 to 30 minutes of charging, which means it can quickly replenish an EV battery for long-distance driving. Level 3 charging is suitable for highway or public charging, or for EVs with large batteries and high range.
+- Level 1 - This is the slowest and simplest way of charging an EV i USA. It uses a standard 120-volt AC outlet that can be found in any home or building. Level 1 charging can add about 3 to 5 miles of range per hour of charging, which means it can take several hours or even days to fully charge an EV battery. Level 1 charging is suitable for overnight or long-term parking, or for EVs with small batteries and low range.
+- Level 2 - This is the most common and convenient way of charging an EV in Europe. It uses a 240-volt AC outlet that can be installed by an electrician in a home, garage, or workplace. Level 2 charging can add about 25 miles of range per hour of charging, which means it can fully charge an EV battery in a few hours. Level 2 charging is suitable for daily or weekly charging, or for EVs with medium to large batteries and moderate to high range.
+- Level 3 - This is the fastest way of charging an EV on the road. It uses high-power DC current that can deliver up to 1000 volts and 600 amps depending on the charger. Level 3 charging can add up to 200 miles of range in just 20 to 30 minutes of charging, which means it can quickly replenish an EV battery for long-distance driving. 
 
 ## Charging connectors
 
@@ -40,8 +40,13 @@ Read all about this in the [charging connectiors section](connectors)
 
 ## Home charging
 
+Home charging is the most common way to charge your EVs. 
+
+Read all about [home charging](homecharging)
 
 ## On the road charging
+
+Read all about [charging on the road](ontheroadcharging)
 
 ## Bidirectonal charging
 
