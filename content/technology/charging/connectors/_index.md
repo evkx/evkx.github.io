@@ -6,13 +6,11 @@ weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-
 ## Connector types
 
 ### J1772
 
 This is the standard Level 1 and Level 2 charging connector for all American EVs, except Teslas. It was created by the Society of Automotive Engineers (SAE) and works with any Level 1 or Level 2 charger in the US. It has a round shape with five pins and a latch. It can deliver up to 19.2 kW of power.
-
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/j1772_1.jpg">
@@ -36,17 +34,25 @@ This is the standard Level 1 and Level 2 charging connector for most European EV
 
 ### CCS
 
-This is the standard Level 3 charging connector for most American and European EVs, except Teslas and some Japanese models. 
+This is the standard Level 3 charging connector for most American and European EVs, except Teslas and some Japanese models.
 
-It stands for Combined Charging System and was created by a consortium of automakers and standards organizations. It has a round shape with two additional DC pins below the J1772 connector. It can deliver up to 350 kW of power.
+It stands for Combined Charging System and was created by a consortium of automakers and standards organizations.
 
+It has a round shape with two additional DC pins below the J1772 or the type 2 connector. It can deliver up to 350 kW of power with a maximum of 920 Volts.
 
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_1_st.jpg"
+        alt="CCS Combo 2 port with Type 2 for AC charging" title="CCS Combo 2 port with Type 2 for AC charging">
+    </a>
+    <figcaption><h4>CCS Combo 2 port with Type 2 for AC charging</h4></figcaption>
+</figure>
 
 ### NACS (Tesla)
 
 NACS or The [North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard) is the Tesla Connector that Tesla opened for others in 2022.
 
-This is the proprietary Level 1, Level 2, and Level 3 charging connector for all Tesla EVs sold in North America. It was created by Tesla and works only with Tesla chargers, such as the Supercharger network or the Destination Charger network. It has a rectangular shape with two pins and a button. Currently the [standard](https://tesla-cdn.thron.com/static/HXVNIC_North_American_Charging_Standard_Technical_Specification_TS-0023666_HFTPKZ.pdf) says it can deliver up to 250 kW of power with maksimum 1000 Volt.  Ford [announced](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html) May 25. 2023 that they will add NACS port on their models from 2024 in North America. 
+This is the proprietary Level 1, Level 2, and Level 3 charging connector for all Tesla EVs sold in North America. It was created by Tesla and works only with Tesla chargers, such as the Supercharger network or the Destination Charger network. It has a rectangular shape with two pins and a button. Currently the [standard](https://tesla-cdn.thron.com/static/HXVNIC_North_American_Charging_Standard_Technical_Specification_TS-0023666_HFTPKZ.pdf) says it can deliver up to 250 kW of power with maksimum 1000 Volt.  Ford [announced](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html) May 25. 2023 that they will add NACS port on their models from 2024 in North America.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_1.jpg">
