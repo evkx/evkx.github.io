@@ -1,7 +1,7 @@
 ---
 title: Rivian R1S Quad-Motor AWD
 linktitle: R1S Quad-Motor AWD
-description: Rivian R1S Quad-Motor AWD is an all-electric SUV with a WLTP range of up to 300 km (186 miles). EVKX.net have all the details. 
+description: Rivian R1S Quad-Motor AWD is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net have all the details. 
 weight: 10
 hidden: true
 ---
@@ -36,7 +36,7 @@ The Rivian R1S Quad-Motor AWD has a maximum power of 620KW (843hp). The total to
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 135kWh and a net capacity of 125kWh, meaning you have a 10kWh buffer for protection. (7,4%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 300 to 250 km (186-155 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 41,7kWh/100km for the basic version and 50,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 135kWh and a net capacity of 125kWh, meaning you have a 10kWh buffer for protection. (7,4%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 470 to 430 km (292-267 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 26,6kWh/100km for the basic version and 29,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 104 minutes, while a more common scenario of 10-80% would take 42 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45% resulting in an actual charge speed including time loss on 138kW. Each charge session would take 25 minutes and 30 seconds. 
 
@@ -139,7 +139,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. This model has not [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with heat pump. 
+There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has not [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with heat pump. 
 
 ## Comfort
 
@@ -178,14 +178,27 @@ The Rivian R1S Quad-Motor AWD has several standard and optional [advanced driver
 
 
 
+The Rivian R1S Quad-Motor AWD has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
+The Rivian R1S Quad-Motor AWD has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+
 The Rivian R1S Quad-Motor AWD has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
+
+The Rivian R1S Quad-Motor AWD has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+
+[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
 
 ### Driving Automation
 
 
 
-With the   level 2 system, you get the following driving automation features. 
+With the Driver+  level 2 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 {{<evkxdisplayaddarticle />}}

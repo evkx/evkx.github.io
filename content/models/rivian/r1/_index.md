@@ -8,7 +8,7 @@ weight: 30
 
 [![R1S Quad-Motor AWD](https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg)](/models/rivian/r1/r1s_quad-motor_awd/)
 
-Rivian R1S Quad-Motor AWD is an all-electric SUV with a WLTP range of up to 300 km (186 miles). EVKX.net have all the details. 
+Rivian R1S Quad-Motor AWD is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net have all the details. 
 
 - [Rivian R1S Quad-Motor AWD article](/models/rivian/r1/r1s_quad-motor_awd/)
 - [Rivian R1S Quad-Motor AWD Range & consumption info](/models/rivian/r1/r1s_quad-motor_awd//rangeandconsumption)

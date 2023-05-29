@@ -26,10 +26,10 @@ EVKX.net seeks to have the most complete specifications for Rivian R1S Quad-Moto
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|300 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|41,7 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|250 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|50,0 kWh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|470 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|26,6 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|430 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|29,1 kWh/100km|
 
 
 
@@ -112,25 +112,25 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes, standard equipment|
-|Lane departure warning||
+|Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert||
 |Reversing camera||
 |360 camera||
 |Rear cross traffic alert||
-|Rear parking sensors||
-|Front parking sensors||
-|Side parking sensors||
+|Rear parking sensors|Yes, standard equipment|
+|Front parking sensors|Yes, standard equipment|
+|Side parking sensors|Yes, standard equipment|
 |Hill descent assist||
 |Hill start assist||
-|AntiLock Braking System||
-|Automatic emergency braking||
-|Brake assist||
-|Traction control||
+|AntiLock Braking System|Yes, standard equipment|
+|Automatic emergency braking|Yes, standard equipment|
+|Brake assist|Yes, standard equipment|
+|Traction control|Yes, standard equipment|
 |Left turn crash avoidance||
-|Forward Collision Warning||
-|Electronic stability control||
+|Forward Collision Warning|Yes, standard equipment|
+|Electronic stability control|Yes, standard equipment|
 |Temperature warning||
-|Cross traffic assist||
+|Cross traffic assist|Yes, standard equipment|
 |Speed limiter||
 |Efficiency assist||
 |Automatic Emergency Steering||
