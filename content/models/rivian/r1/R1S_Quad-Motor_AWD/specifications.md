@@ -26,10 +26,6 @@ EVKX.net seeks to have the most complete specifications for Rivian R1S Quad-Moto
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|470 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|26,6 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|430 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|29,1 kWh/100km|
 
 
 

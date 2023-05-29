@@ -1,7 +1,7 @@
 ---
 title: Rivian R1S Quad-Motor AWD
 linktitle: R1S Quad-Motor AWD
-description: Rivian R1S Quad-Motor AWD is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net have all the details. 
+description: Rivian R1S Quad-Motor AWD is an all-electric SUV with a EPA range of up to 516 km (321 miles). EVKX.net have all the details. 
 weight: 10
 hidden: true
 ---
@@ -36,7 +36,7 @@ The Rivian R1S Quad-Motor AWD has a maximum power of 620KW (843hp). The total to
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 135kWh and a net capacity of 125kWh, meaning you have a 10kWh buffer for protection. (7,4%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 470 to 430 km (292-267 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 26,6kWh/100km for the basic version and 29,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 135kWh and a net capacity of 125kWh, meaning you have a 10kWh buffer for protection. (7,4%). For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 104 minutes, while a more common scenario of 10-80% would take 42 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45% resulting in an actual charge speed including time loss on 138kW. Each charge session would take 25 minutes and 30 seconds. 
 
