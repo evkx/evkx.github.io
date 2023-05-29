@@ -19,6 +19,11 @@ Moreover, home charging may not be enough for long-distance trips or frequent dr
 
 Installing a home charger may require some planning and preparation, depending on the type of charger you choose and the electrical capacity of your home. Here are some steps to follow:
 
+### Install a hardwired charging stations
+
+Many EVs comes with an emergency charging stations to be used when you dont have other options. These ar typical equipped with a plug to connect. Using this as a standard charging equipment at home have an increased fire risk and should be avoided if possible. 
+
+
 ## Choose the best location for your home charger, preferably near your parking space and close to an electrical panel.
 
 Choose the best type of charger for your EV model, driving habits, and budget. Consider the output level, connector type, cord length, installation options, features, warranty, and price.
