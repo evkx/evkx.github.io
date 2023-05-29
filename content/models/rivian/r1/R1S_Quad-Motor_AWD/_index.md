@@ -95,7 +95,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-
+The seat layout is seven seats with two in front, three seats in the second row and two seats on third row. 
 
 ### First row seats
 
@@ -146,6 +146,14 @@ There is one climate system available. The  climate system supports different te
 ## Comfort
 
 Rivian R1S Quad-Motor AWD has several features to make your life as a driver or passenger more comfortable. 
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
+
+The steering wheel is electrically adjustable. 
+
+You have wireless charging for your phone.  
 
 {{<evkxdisplayaddarticle />}}
 

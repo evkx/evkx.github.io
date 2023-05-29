@@ -65,6 +65,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
+Interior.Seatlayout.OnlySix
 
 ### Front seats
 
@@ -116,8 +117,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Rear parking sensors|Yes, standard equipment|
 |Front parking sensors|Yes, standard equipment|
 |Side parking sensors|Yes, standard equipment|
-|Hill descent assist||
-|Hill start assist||
+|Hill descent assist|Yes, standard equipment|
+|Hill start assist|Yes, standard equipment|
 |AntiLock Braking System|Yes, standard equipment|
 |Automatic emergency braking|Yes, standard equipment|
 |Brake assist|Yes, standard equipment|
