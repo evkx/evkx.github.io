@@ -1,12 +1,14 @@
 ---
 title: Charging
 linktitle: Charging
-description: Electric vehicles (EVs) are becoming more popular and affordable, but they also require a different way of refueling than conventional cars. Instead of filling up a gas tank, EVs need to plug into a charging station and recharge their batteries. However, not all EVs and charging stations are compatible. There are different types of charging ports and connectors that vary by region, speed, and standard.
+description: Electric vehicles (EVs) are becoming more popular and affordable but require a different refueling method than conventional cars. Instead of filling up a gas tank, EVs must plug into a charging station and recharge their batteries. 
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-In this article, we will explain everything you need to know about charging an EV, whether at home or on the road. We will cover the following topics:
+However, not all EVs and charging stations are compatible. Different charging ports and connectors vary by region, speed, and standards.
+
+This article will explain everything you need to know about charging an EV, whether at home or on the road. We will cover the following topics:
 
 - The different levels of charging: Level 1, Level 2, and Level 3
 - The different types of charging connectors: J1772, Tesla, CCS, CHAdeMO, and Type 2
@@ -27,16 +29,15 @@ In this article, we will explain everything you need to know about charging an E
 
 There are three main levels of charging:
 
-- Level 1 - This is the slowest and simplest way of charging an EV i USA. It uses a standard 120-volt AC outlet that can be found in any home or building. Level 1 charging can add about 3 to 5 miles of range per hour of charging, which means it can take several hours or even days to fully charge an EV battery. Level 1 charging is suitable for overnight or long-term parking, or for EVs with small batteries and low range.
-- Level 2 - This is the most common and convenient way of charging an EV in Europe. It uses a 240-volt AC outlet that can be installed by an electrician in a home, garage, or workplace. Level 2 charging can add about 25 miles of range per hour of charging, which means it can fully charge an EV battery in a few hours. Level 2 charging is suitable for daily or weekly charging, or for EVs with medium to large batteries and moderate to high range.
-- Level 3 - This is the fastest way of charging an EV on the road. It uses high-power DC current that can deliver up to 1000 volts and 600 amps depending on the charger. Level 3 charging can add up to 200 miles of range in just 20 to 30 minutes of charging, which means it can quickly replenish an EV battery for long-distance driving. 
+- **Level 1** - This is the slowest and simplest way of charging an EV i USA. It uses a standard 120-volt AC outlet that can be found in any home or building. Level 1 charging can add about 3 to 5 miles of range per hour of charging, which means it can take several hours or even days to fully charge an EV battery. Level 1 charging is suitable for overnight or long-term parking, or for EVs with small batteries and low range.
+- **Level 2** - This is the most common and convenient way of charging an EV in Europe. It uses a 240-volt AC outlet that can be installed by an electrician in a home, garage, or workplace. Level 2 charging can add about 25 miles of range per hour of charging, which means it can fully charge an EV battery in a few hours. Level 2 charging is suitable for daily or weekly charging, or for EVs with medium to large batteries and moderate to high range.
+- **Level 3** - This is the fastest way of charging an EV on the road. It uses high-power DC current that can deliver up to 1000 volts and 600 amps depending on the charger. Level 3 charging can add up to 200 miles of range in just 20 to 30 minutes of charging, which means it can quickly replenish an EV battery for long-distance driving. 
 
 ## Charging connectors
 
 There is different charging connectors used for EVS.
 
 Read all about this in the [charging connectiors section](connectors)
-
 
 ## Home charging
 

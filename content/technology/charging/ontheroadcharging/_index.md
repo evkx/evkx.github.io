@@ -18,26 +18,26 @@ Degradation: High speed charging may increase the degradation of your EV battery
 
 ### USA
 
-There are several charging networks in the US for EVs. According to the US Department of Energy, Tesla has over **1,600 Supercharger stations** in the US, with over **17,000 fast-charging ports**. Electrify America is next in line, with about **800 stations**². Here are some of the largest EV charging networks in the US:
+There are several charging networks in the US for EVs. According to the US Department of Energy, Tesla has over **1,600 Supercharger stations** in the US, with over **17,000 fast-charging ports**. Electrify America is next in line, with about **800 stations**.
 
-1. Electrify America: The largest DC fast charging network for the majority of EV models. They're open to all EVs with a CCS charging connection (the industry standard) and, for the time being, the few vehicles that still use CHAdeMO like the Nissan Leaf¹.
+Here are some of the largest EV charging networks in the US:
 
-2. Tesla Superchargers: Tesla's Supercharger network is the largest in the country, with less distance between stations compared to Electrify America¹.
+- Electrify America: The largest DC fast charging network for the majority of EV models. They're open to all EVs with a CCS charging connection (the industry standard) and, for the time being, the few vehicles that still use CHAdeMO like the Nissan Leaf¹.
 
-3. EVgo: DC fast charging isn't limited to road trips. EVgo has over **800 fast charging locations** across 34 states and more than 65 metropolitan areas¹.
+- Tesla Superchargers: Tesla's Supercharger network is the largest in the country, with less distance between stations compared to Electrify America¹.
 
-4. ChargePoint: ChargePoint has over **115,000 charging spots** across North America and Europe¹.
+- EVgo: DC fast charging isn't limited to road trips. EVgo has over **800 fast charging locations** across 34 states and more than 65 metropolitan areas.
 
-5. Blink: Blink has over **15,000 charging stations** across 30 states.
+- ChargePoint: ChargePoint has over **115,000 charging spots** across North America and Europe¹.
+
+- Blink: Blink has over **15,000 charging stations** across 30 states.
 
 ### Europe
 
 There are several charging networks in Europe for EVs. Here are some of the largest EV charging networks in Europe:
 
-1. Ionity: A high-power charging station network for EVs that enables long-distance travel across Europe. It was founded as a joint venture by the BMW Group, Mercedes-Benz Group, Ford Motor Company, and Volkswagen Group².
+- Ionity: A high-power charging station network for EVs that enables long-distance travel across Europe. It was founded as a joint venture by the BMW Group, Mercedes-Benz Group, Ford Motor Company, and Volkswagen Group².
 
-2. Plugsurfing: A European-wide network you could use for charging an EV in Europe. With its unique key or card – which costs €9.95 – and its free smartphone app, you can use upwards of 200,000 chargers, including those from different networks such as Allego, EnBW, Eon, Innogy, IONITY and Vattenfall¹.
+- Plugsurfing: A European-wide network you could use for charging an EV in Europe. With its unique key or card – which costs €9.95 – and its free smartphone app, you can use upwards of 200,000 chargers, including those from different networks such as Allego, EnBW, Eon, Innogy, IONITY and Vattenfall¹.
 
-3. Maingau: Through its EinfachStromLaden smartphone app, charging chip or card, you can charge an EV in Germany, Austria or Switzerland at 50,000 charging points with Maingau¹.
-
-I hope this helps you with your article!
+- Maingau: Through its EinfachStromLaden smartphone app, charging chip or card, you can charge an EV in Germany, Austria or Switzerland at 50,000 charging points with Maingau.
