@@ -3,7 +3,7 @@
     <g>
         <path d="M 1080 1091 L 40 1091 Q 30 1091 30 1081 L 30 36" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 30 791 L 1080 791" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
-       <path d="M 30  941 40  914 50  887 60  860 70  833 80  806 90  779 100  752 110  725 120  698 130  671 140  653 150  635 160  617 170  599 180  581 190  581 200  580 210  580 220  579 230  578 240  578 250  577 260  576 270  575 280  585 290  595 300  604 310  614 320  623 330  633 340  643 350  652 360  662 370  671 380  673 390  675 400  677 410  679 420  681 430  683 440  685 450  686 460  688 470  690 480  692 490  694 500  696 510  698 520  700 530  701 540  709 550  716 560  723 570  730 580  737 590  745 600  752 610  759 620  766 630  773 640  781 650  788 660  795 670  802 680  809 690  817 700  824 710  831 720  838 730  845 740  853 750  860 760  867 770  874 780  881 790  889 800  896 810  904 820  911 830  919 840  926 850  934 860  941 870  949 880  956 890  964 900  971 910  979 920  986 930  994 940  1001 950  1003 960  1005 970  1006 980  1008 990  1010 1000  1012 1010  1013 1020  1015 1030  1016 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+       <path d="M 30  533 40  515 50  500 60  494 70  494 80  488 90  485 100  485 110  482 120  482 130  479 140  479 150  479 160  476 170  476 180  476 190  473 200  470 210  470 220  470 230  470 240  470 250  494 260  533 270  557 280  584 290  584 300  584 310  584 320  581 330  578 340  578 350  575 360  587 370  599 380  599 390  608 400  605 410  605 420  620 430  617 440  614 450  602 460  608 470  623 480  653 490  668 500  689 510  707 520  716 530  728 540  737 550  734 560  743 570  743 580  746 590  734 600  737 610  731 620  728 630  728 640  728 650  731 660  731 670  737 680  746 690  749 700  761 710  770 720  773 730  779 740  782 750  791 760  848 770  848 780  848 790  848 800  848 810  848 820  911 830  935 840  935 850  935 860  935 870  935 880  932 890  935 900  941 910  950 920  959 930  968 940  977 950  986 960  995 970  1004 980  1016 990  1031 1000  1040 1010  1052 1020  1067 1030  1067 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -394,13 +394,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1136px; margin-left: 51px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
-                                Charging curve for Fisker Ocean Extreme 113 kWh
+                                Charging curve for Rivian R1S Quad-Motor AWD 135 kWh
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="610" y="1145" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    Charging curve for Fisker Ocean Extreme 113 kWh
+                    Charging curve for Rivian R1S Quad-Motor AWD 135 kWh
                 </text>
             </switch>
         </g>
