@@ -69,7 +69,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 343mm, and the rear discs are 328mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. 
 
 ## Exterior
 
@@ -78,6 +78,8 @@ You can choose between 9 different paint colors when ordering this model.
 The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls down and the top part lifts up. 
 
 There is only one roof for this model. The optional has a panoramic roof. 
+
+The windows from B-pillar and back are tinted. 
 
 
 <figur>
