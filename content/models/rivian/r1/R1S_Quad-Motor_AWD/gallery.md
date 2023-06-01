@@ -64,6 +64,13 @@ data-pswp-height="1016"
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/screens_2_st.jpg" alt="Rivian R1S Quad-Motor AWD" />
 </a>
+<a href="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/trunk_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/trunk_1.jpg"
+data-pswp-width="1920"
+data-pswp-height="1080" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/trunk_1_st.jpg" alt="Rivian R1S Quad-Motor AWD" />
+</a>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';

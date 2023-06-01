@@ -219,4 +219,12 @@ With the Driver+  level 2 system, you get the following driving automation featu
 
 The cargo capacity in the trunk is 498 liters. With the rear seat down, it is 2965 liters. On the roof, you can load up to 113kg. Under the hood, there is frunk with more storage room. This frunk is 314 liters. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 3500, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>
+You can order the car with a towbar. The maximum total weight on a braked trailer is 3500, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/trunk_1_st.jpg" alt="Rivian R1S Quad-Motor AWD" title="Rivian R1S Quad-Motor AWD">
+</a>
+<figcaption><h4>Rivian R1S Quad-Motor AWD</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
