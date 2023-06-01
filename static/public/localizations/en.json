@@ -1,7 +1,10 @@
 { 
   "common": {
     "error": "Error",
-    "restart": "Restart"
+    "restart": "Restart",
+    "reset_choices": "Reset",
+    "apply": "Apply",
+    "search": "Search"
   },
   "evsearch":{
     "title" : "EV Search",
