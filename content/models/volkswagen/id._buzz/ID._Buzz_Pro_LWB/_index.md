@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID. Buzz Pro LWB
 linktitle: ID. Buzz Pro LWB
-description: Volkswagen ID. Buzz Pro LWB is an all-electric MPV with a WLTP range of up to 418 km (260 miles). EVKX.net have all the details. 
+description: Volkswagen ID. Buzz Pro LWB is an all-electric MPV with a WLTP range of up to 461 km (287 miles). EVKX.net have all the details. 
 weight: 10
 hidden: true
 ---
@@ -36,16 +36,16 @@ The Volkswagen ID. Buzz Pro LWB has a maximum power of 210KW (286hp). The total 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 91kWh and a net capacity of 77kWh, meaning you have a 14kWh buffer for protection. (15,4%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 418 to 410 km (260-255 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,4kWh/100km for the basic version and 18,8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 91kWh and a net capacity of 85kWh, meaning you have a 6kWh buffer for protection. (6,6%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 461 to 452 km (287-281 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,4kWh/100km for the basic version and 18,8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45% resulting in an actual charge speed including time loss on 110kW. Each charge session would take 19 minutes and 52 seconds. 
+The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 55 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 42% resulting in an actual charge speed including time loss on 113kW. Each charge session would take 19 minutes and 56 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 10 hours and 10 minutes to drive. This trip will require six charge session(s) charging from 0% to 44%. The total time lost for charging will be 111 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 10 hours and 3 minutes to drive. This trip will require five charge session(s) charging from 0% to 46%. The total time lost for charging will be 104 minutes.   
 ### Onboard charger
 
 
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 43 minutes. 
 
 
 <figur>

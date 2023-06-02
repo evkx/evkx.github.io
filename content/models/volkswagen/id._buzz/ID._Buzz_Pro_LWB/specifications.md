@@ -26,10 +26,10 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID. Buzz 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|418 km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|461 km|
 |[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|18,4 kWh/100km|
 |[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|20,8 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|410 km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|452 km|
 |[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|18,8 kWh/100km|
 |[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|21,7 kwh/100km|
 
@@ -40,7 +40,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |[Battery gross](../../../../../technology/battery/buffer/)|91 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|77 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|85 kWh|
 |Max DC charging|200 kW|
 |[Number of modules](../../../../../technology/battery/batterypack/#cell-to-module)|12|
 |[Pack Configuration](../../../../../technology/battery/batterypack/)|96s3p|
