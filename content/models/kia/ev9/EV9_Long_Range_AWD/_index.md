@@ -123,7 +123,7 @@ The first option is a three-seat bench with a 60:40 split where you can fold eac
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
-The second option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
+The second option is two captain chairs. In addition, the following functionalities are available. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 

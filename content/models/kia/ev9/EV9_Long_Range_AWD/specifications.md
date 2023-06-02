@@ -113,7 +113,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |[Massage function](../../../../../technology/seats/adjustment/#massage)|Unknown|
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
+|[Seat type](../../../../../technology/seats/types/)|TwoCaptainChairs|
 |Height adjustable headrest|Unknown|
 |Length adjustable headrest|Unknown|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
