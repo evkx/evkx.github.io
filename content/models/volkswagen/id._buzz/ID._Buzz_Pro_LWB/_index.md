@@ -82,7 +82,7 @@ Additionally, you can choose between 5 wheels with sizes from 19 to 21 inches.
 
 
 
-There is only one roof for this model. The standard is just a regular roof. 
+There is only one roof for this model. The standard is a panoramic roof. 
 
 The windows from B-pillar and back are tinted. 
 
@@ -194,7 +194,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Volkswagen ID. Buzz Pro LWB has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12 inches large and has a 1920 x 869 pixels resolution. 
+Volkswagen ID. Buzz Pro LWB has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 12,9 inches large. The touch screen on the dashboard's center  is 15 inches large. 
 
 
 <figur>
@@ -268,7 +268,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 1121 liters. With the rear seat down, it is 2469 liters. On the roof, you can load up to 100kg. Max weight is 3000kg, and with the base weight of 2416 kg, you can max load 584 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 306 liters. With the rear seat down, it is 2469 liters. On the roof, you can load up to 100kg. Max weight is 3000kg, and with the base weight of 2416 kg, you can max load 584 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, 750kg. 
 
