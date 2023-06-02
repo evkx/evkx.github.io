@@ -32,13 +32,13 @@ We have separated our description of the Fisker Ocean Extreme into sections. If 
 
 ## Performance
 
-With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). Without overboost, it is 344KW (468hp). The torque is 740nm with overboost and 699 without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 205 km/h. 
+With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). Without overboost, it is 344KW (468hp). The torque is 737nm with overboost and 696 without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 205 km/h. 
 
 ## Battery, range, and charging
 
 The battery has a gross capacity of 113kWh and a net capacity of 106,5kWh, meaning you have a 6,5kWh buffer for protection. (5,8%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 707 to 701 km (439-436 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,1kWh/100km for the basic version and 15,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 88 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 55% resulting in an actual charge speed including time loss on 112kW. Each charge session would take 27 minutes and 46 seconds. 
+The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 85 minutes, while a more common scenario of 10-80% would take 40 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 53% resulting in an actual charge speed including time loss on 117kW. Each charge session would take 28 minutes and 52 seconds. 
 ### Onboard charger
 
 
