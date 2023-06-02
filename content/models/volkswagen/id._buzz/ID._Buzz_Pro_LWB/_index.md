@@ -194,7 +194,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Volkswagen ID. Buzz Pro LWB has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 12,9 inches large. The touch screen on the dashboard's center  is 15 inches large. 
+Volkswagen ID. Buzz Pro LWB has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5,3 inches large. The touch screen on the dashboard's center  is 12,9 inches large. 
 
 
 <figur>
