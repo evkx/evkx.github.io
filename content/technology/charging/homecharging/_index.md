@@ -74,10 +74,10 @@ The table below shows how much energy different chargers charge for 10 hours.
 | 230  | 32 | 7.4 KW | 72 kWh |
 | 240  | 40(32) |  7.6KW | 76 kWh |
 | 240  | 50 |  9.6KW | 96 kWh |
-| 400 3p | 16 | 11 KW | 11 kWh |
+| 400 3 phase | 16 | 11 KW | 11 kWh |
 | 240  | 60(48) |  11.5KW | 115 kWh |
 | 240  | 100(80) |  19.2KW | 192 kWh |
-| 400 3p | 32 | 22 KW | 220 kWh |
+| 400 3 phase | 32 | 22 KW | 220 kWh |
 
 As you can see from comparing the tables, even for the models with high consumption that during a 10-hour charge, you would be able to refill the energy with no problem for the example driving distances.
 
