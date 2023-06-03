@@ -45,73 +45,74 @@ If you don't have any options other than using a plugged solution, please use hi
 
 ### What charging capacity do you need?
 
-So what is the capacity needed for a home charging stations.  This Depends on many factors.
+So what is the capacity needed for a home charging station? This capacity depends on many factors.
 
-1. What is your daily driving distance? The longer you drive each Day more energy need to be replinished to the battery during the night.
+- What is your daily driving distance? The longer you drive each day, the more energy the charging station needs to charge the battery during the night.
 
-2. How efficient is your EV? If you have a more efficient EV that would requires less energy to replenish the used energy
+- How efficient is your EV? If you have a more efficient EV, that would require the charger to charge less to replenish the used energy.
 
-The table below show examples of energy consumed for different EVS for 3 different daily driving distances in 120km/h / 75nph
+The table below shows examples of energy consumed by different EVS for three daily driving distances at 120km/h / 75mph.
 
+| Model | 50km / 31 miles| 100km / 62 miles | 200km / 124 miles |
+|----|---------|-----------|---------| 
+| [Tesla Model 3](/models/tesla/model_3/model_3/rangeandconsumption/) | 8.5kWh  | 17kWh  | 36kWh |
+| [Kia EV6](/models/kia/ev6/ev6_standard_range_2wd/rangeandconsumption/) | 10kWh  | 20kWh  | 40kWh |
+| [Audi Q8 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/rangeandconsumption/) | 13kWh  | 26kWh  | 52kWh |
+| [Rivian R1S](/models/audi/q8_e-tron/q8_55_e-tron/rangeandconsumption/) | 15kWh  | 30kWh  | 60kWh |
 
-When getting installed a new dedicated curcuit you should also think about the future. The future is Electric and your New EV is probably not the last EV. So if you conclude that you need a less power full charger now you still can install a curcuit that could handle more power in the future. 
+The table shows that Rivian R1S needs almost double the amount of energy compared to a Tesla Model 3 for the same daily driving distance.
 
+The table below shows how much energy different chargers charge for 10 hours.
 
-To summarize. 
+| Volt  | Circuit(max load) | Capacity | 10 hour charging |
+|----|--------|--------|----------|
+| 120 volt | 15(12) |1.4KW   | 14kWh  |
+| 240  | 15(12) | 2.8 KW | 28 kWh |
+| 240  | 20(16) | 3.7 KW | 37 kWh |
+| 230  | 16 | 3.7 KW | 37 kWh |
+| 240  | 30(24) |  5.7KW | 57 kWh |
+| 230  | 32 | 7.4 KW | 72 kWh |
+| 240  | 40(32) |  7.6KW | 76 kWh |
+| 240  | 50 |  9.6KW | 96 kWh |
+| 400 3p | 16 | 11 KW | 11 kWh |
+| 240  | 60(48) |  11.5KW | 115 kWh |
+| 240  | 100(80) |  19.2KW | 192 kWh |
+| 400 3p | 32 | 22 KW | 220 kWh |
 
-1. Get a hardwired charging station if possible
-2. Think about the future. Maybe your next EV requires more power. 
-3. Do you need to automatic adjust charging based on pricing
+As you can see from comparing the tables, even for the models with high consumption that during a 10-hour charge, you would be able to refill the energy with no problem for the example driving distances.
 
+It would be best to consider the future when installing a new dedicated circuit. The future is Electric, and your new EV is probably not the last. So if you need a less powerful full charger now, you can still install a circuit that could handle more power in the future.
 
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/homecharging/porsche100amps_1.jpeg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/homecharging/porsche100amps_1_st.jpeg"
+        alt="Porsche 19.2 KW hardwired charger" title="Porsche 19.2 KW hardwired charger">
+    </a>
+    <figcaption><h4>Porsche 19.2 KW hardwired charger</h4></figcaption>
+</figure>
 
+Check the electrical requirements of your chosen charger and compare them with your home's existing wiring and circuit breaker. You may need to upgrade your electrical panel or install a new dedicated circuit for your charger.
+Hire a licensed electrician to install your home charger according to the local codes and regulations. 
 
+You may also need to obtain permits and inspections from your utility company or municipality before or after the installation.
 
-Installing a home charger may require permits, inspections, and professional services that can add to the cost and time. Home chargers also have different output capabilities and compatibility issues depending on the type of EV you have.
+### Smart or dumb charger?
 
-Moreover, home charging may not be enough for long-distance trips or frequent driving that exceed the range of your EV.
+Home charging is generally cheaper and more efficient than public charging, but the exact cost and efficiency may vary depending on several factors. 
 
+ Electricity rates may vary by region, season, and time of day. For example, you may pay more for electricity during peak hours (usually in the afternoon or evening) than off-peak hours (usually at night or early morning), or you may be charged for the peak level you pull from the grid. 
 
+Smart chargers let you charge when it is cheapest. Connected to the Internet, it can download prices to optimize daily charging.
 
+The chart below shows the next-day energy prices from [Nordpool](https://www.nordpoolgroup.com/en/Market-data1/Dayahead/Area-Prices/NO/Hourly/?view=chart). A smart charger could use this data to plan when to charge the next day. On a sunny day like this, the energy is almost free in the middle of the day because of excess solar power.  Smart charging can save a lot of money in situations like this.
 
-## The Installation and Maintenance of Home Chargers
-
-Installing a home charger may require some planning and preparation, depending on the type of charger you choose and the electrical capacity of your home. Here are some steps to follow:
-
-### Install a hardwired charging stations
-
-Many EVs comes with an emergency charging stations to be used when you dont have other options. These ar typical equipped with a plug to connect. Using this as a standard charging equipment at home have an increased fire risk and should be avoided if possible. 
-
-
-## Choose the best location for your home charger, preferably near your parking space and close to an electrical panel.
-
-Choose the best type of charger for your EV model, driving habits, and budget. Consider the output level, connector type, cord length, installation options, features, warranty, and price.
-
-Check the electrical requirements of your chosen charger and compare them with the existing wiring and circuit breaker in your home. You may need to upgrade your electrical panel or install a new dedicated circuit for your charger.
-
-Hire a licensed electrician to install your home charger according to the local codes and regulations. You may also need to obtain permits and inspections from your utility company or municipality before or after the installation.
-
-Test your home charger and make sure it works properly and safely with your EV. You may also need to register your home charger with the manufacturer or the utility company to activate its features or receive incentives.
-
-Maintain your home charger by keeping it clean, dry, and protected from extreme weather and physical damage. You may also need to update its software or firmware periodically to ensure its optimal performance and compatibility.
-
-## The Cost and Efficiency of Home Charging
-
-Home charging is generally cheaper and more efficient than public charging, but the exact cost and efficiency may vary depending on several factors. Here are some factors to consider:
-
-The electricity rate in your area and the time of day you charge. Electricity rates may vary by region, season, and time of day. You may pay more for electricity during peak hours (usually in the afternoon or evening) than off-peak hours (usually at night or early morning).
-
-You may also pay more for electricity in summer than in winter. You can check your electricity bill or contact your utility company to find out the exact rate you pay for electricity.
-
-## The output level and efficiency of your home charger
-
-Higher output levels may charge your EV faster, but they may also consume more electricity and generate more heat and losses. Lower output levels may charge your EV slower, but they may also consume less electricity and generate less heat and losses. The efficiency of your home charger may depend on its quality, design, and features. You can check the specifications or reviews of your home charger to find out its output level and efficiency.
-
-The battery capacity and state of charge of your EV. Larger batteries may take longer and cost more to charge than smaller batteries. The state of charge of your battery may affect how fast and how much it can accept a charge. Batteries tend to charge faster when they are low on charge and slower when they are high on charge. Batteries also tend to lose some charge over time due to self-discharge or parasitic loads. You can check the dashboard or app of your EV to find out its battery capacity and state of charge.
-
-The driving range and efficiency of your EV. Longer driving range may require more energy and cost more to charge than shorter driving range. The driving range of your EV may depend on its battery capacity, driving habits, weather conditions, and vehicle features. The driving efficiency of your EV may depend on its aerodynamics, weight, tires, regenerative braking, and vehicle modes. You can check the EPA rating or real-world tests of your EV to find out its driving range and efficiency.
-
-To estimate the cost and efficiency of home
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/homecharging/nordpool_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/homecharging/nordpool_1_st.jpg"
+        alt="Nordpool daily electricity cost Norway June 4. 2023" title="Nordpool daily electricity cost Norway June 4. 2023">
+    </a>
+    <figcaption><h4>Nordpool daily electricity cost Norway June 4. 2023</h4></figcaption>
+</figure>
 
 ## Country specific home charging info
 
@@ -127,7 +128,7 @@ There are also some safety rules and regulations that you should follow when ins
 
 Another rule that may affect your home charging options is the US buildin codes. The changes specifically call for all new homes built in the US to be "EV ready". Basically, the electrical infrastructure for EVs will be as common as a 240V outlet for home appliances. This means that if you are buying or building a new home in the US, you may already have access to Level 2 charging without any additional installation or cost.
 
-If you want to get tips on charging stations for US market we recomend following the "State of Charge" [youtube channel](https://www.youtube.com/@StateOfChargeWithTomMoloughney). 
+If you want to get tips on charging stations for US market we recomend following the "State of Charge" [youtube channel](https://www.youtube.com/@StateOfChargeWithTomMoloughney).
 
 Below you see a review video of the best charing stations for 2023
 
@@ -135,4 +136,10 @@ Below you see a review video of the best charing stations for 2023
 
 ### UK
 
+•  The home charger must be compliant with the Electric Vehicles (Smart Charge Points) [Regulations 2021](https://www.gov.uk/guidance/regulations-electric-vehicle-smart-charge-points), which come into force on 30 June 2022 . These regulations ensure that the charger has smart functionality, allowing it to send and receive information, respond to signals to increase or decrease the rate or time of charging, provide demand side response services and a user interface, and meet certain security and privacy standards.
 
+•  The home charger must also be compliant with the [minimum technical specification](https://www.gov.uk/guidance/residential-chargepoints-minimum-technical-specification) for residential chargepoints, which defines the outlet configurations, power output, safety standards, accessibility and interoperability requirements for the charger. For example, the charger must have an outlet rated 230Vac ± 10% single-phase or 400Vac ± 10% three-phase, and an output between 3.5kW and 23kW.
+
+•  The home charger must be installed by an accredited installer who is registered with the Office for Zero Emission Vehicles (OZEV) and follows the IET Wiring Regulations (BS 7671:2018 + A1:2020) for electrical installation requirements. The installer must also ensure that the charger is compatible with the existing electrical supply and wiring of the property, and that it does not cause any interference or damage to other electrical equipment.
+
+•  The home charger must not exceed a certain size and height limit for its exterior casing and upstand. The casing must not exceed 0.2 cubic metres in size, and the upstand must be 1.6m or less and there must be only one for each parking space.
