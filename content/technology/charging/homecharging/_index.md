@@ -5,15 +5,74 @@ description: Home charging is the most convenient and cost-effective way of char
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
-It allows you to charge your EV overnight or whenever you are not using it, without having to worry about finding a public charging station. 
+It allows you to charge your EV overnight or whenever you are not using it without worrying about finding a public charging station.
 
-Home charging can also reduces the stress on the grid by using off-peak electricity.
+Home charging can also reduce the grid's stress by using off-peak electricity.
 
-However, home charging also has some challenges. Not all homes have access to a dedicated parking space or a suitable electrical outlet for charging an EV. 
+However, home charging also has some challenges. For example, not all homes have a dedicated parking space or a suitable electrical outlet for charging an EV.
 
-Installing a home charger may require permits, inspections, and professional services that can add to the cost and time. Home chargers also have different output capabilities and compatibility issues depending on the type of EV you have. 
+## How to select your charging station?
+
+When selecting which charging station to install at your home, there are several aspects you need to consider.
+
+First, you should understand that some limitations in your home prevent installing the charging stations you want. These limitations can be limited capacity in your area or your home that prevents installation of a powerful enough dedicated wiring/circuit. A certified electrician can help you with this.
+
+### Plugged or hardwired charging station?
+
+The next question is to install a hardwired or plugged home charger. EVKX always recommends installing hardwired solutions. A plug/socket like Nema 14-50 has a substantial risk of overheating and causing a fire that causes harm to buildings and people.
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/homecharging/audievse_3.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/homecharging/audievse_3_st.jpg"
+        alt="Not recommended! Plugged charging station" title="Not recommended! Plugged charging station">
+    </a>
+    <figcaption><h4>Not recommended! Plugged charging station</h4></figcaption>
+</figure>
+
+Many EVs include a portable EVSE when no other charging solutions are available. You can compare it to a gas can. The best thing is to keep this EVSE in your car when you don’t have other options. In some countries, using a plugged EVSE as a permanent charging solution for your EV is prohibited.
+
+Below you see examples where people experienced overheating in plugs. Luckily, in this example, people could stop it, and no one got harmed.
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/homecharging/burnedsocket_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/homecharging/burnedsocket_1_st.jpg"
+        alt="Examples from owners that experienced overheated plugged solutions" title="Examples from owners that experienced overheated plugged solutions">
+    </a>
+    <figcaption><h4>Examples from owners that experienced overheated plugged solutions</h4></figcaption>
+</figure>
+
+If you don't have any options other than using a plugged solution, please use high-quality plugs and try to reduce the number of times you unplug the charger. It is often the unplugging that causes wear on the plug that, again, increases the risk of overheating.
+
+### What charging capacity do you need?
+
+So what is the capacity needed for a home charging stations.  This Depends on many factors.
+
+1. What is your daily driving distance? The longer you drive each Day more energy need to be replinished to the battery during the night.
+
+2. How efficient is your EV? If you have a more efficient EV that would requires less energy to replenish the used energy
+
+The table below show examples of energy consumed for different EVS for 3 different daily driving distances in 120km/h / 75nph
+
+
+When getting installed a new dedicated curcuit you should also think about the future. The future is Electric and your New EV is probably not the last EV. So if you conclude that you need a less power full charger now you still can install a curcuit that could handle more power in the future. 
+
+
+To summarize. 
+
+1. Get a hardwired charging station if possible
+2. Think about the future. Maybe your next EV requires more power. 
+3. Do you need to automatic adjust charging based on pricing
+
+
+
+
+
+Installing a home charger may require permits, inspections, and professional services that can add to the cost and time. Home chargers also have different output capabilities and compatibility issues depending on the type of EV you have.
 
 Moreover, home charging may not be enough for long-distance trips or frequent driving that exceed the range of your EV.
+
+
+
 
 ## The Installation and Maintenance of Home Chargers
 
