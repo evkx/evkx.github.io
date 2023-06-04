@@ -43,6 +43,13 @@ data-pswp-height="2197"
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" />
 </a>
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_2_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/headlights_1.jpg"
 data-pswp-width="3000"
@@ -98,6 +105,20 @@ data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2493" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_2_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/speakers_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/speakers_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/speakers_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/thirdrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/thirdrowseats_1.jpg"

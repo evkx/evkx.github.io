@@ -32,7 +32,7 @@ We have separated our description of the BMW i4 M50 into sections. If you want t
 
 ## Performance
 
-The BMW i4 M50 has a maximum power of 250KW (340hp). The total torque is 430nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 190 km/h. 
+The BMW i4 M50 has a maximum power of 400KW (544hp). The total torque is 795nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 225 km/h. 
 
 ## Battery, range, and charging
 
@@ -241,6 +241,6 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 470 liters. With the rear seat down, it is 1290 liters. On the roof, you can load up to 75kg. Max weight is 2605kg, and with the base weight of 2050 kg, you can max load 555 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 470 liters. With the rear seat down, it is 1290 liters. On the roof, you can load up to 75kg. Max weight is 2735kg, and with the base weight of 2215 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

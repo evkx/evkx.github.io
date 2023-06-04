@@ -6,8 +6,13 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-It uses a high-power DC current that can deliver up to 1000 volts and 100 amps. High speed charging can add up to 200 miles of range in just 20 to 30 minutes of charging, which means it can quickly replenish an EV battery for long-distance driving. High speed charging is suitable for highway or public charging, or for EVs with large batteries and high range.
+It uses a high-power DC current that can deliver up to 1000 volts and 250 amps. High speed charging can add up to 200 miles of range in just 20 to 30 minutes of charging, which means it can quickly replenish an EV battery for long-distance driving.
 
+## Route planning with charging
+
+Most EVs offer route planning functionality that include DC Fast charging stops if needed to reach destination. 
+
+Typical you would see the expected arrival charge level for a charging stations and how much you need to charge to reach the next charing station
 
 ## Most common charging networks by location
 

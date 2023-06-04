@@ -14,9 +14,9 @@ EVKX.net seeks to have the most complete specifications for BMW i4 M50. Click on
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|250 Kw|
-|Electrical torque output in Nm|430 Nm|
-|Top speed|190 km/h|
+|Peak electrical output in kW|400 Kw|
+|Electrical torque output in Nm|795 Nm|
+|Top speed|225 km/h|
 |0-100km/h (0-62 mph)|3,9 s|
 
 
@@ -28,7 +28,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |----|-----|
 |[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|521 km|
 |[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|15,5 kWh/100km|
-|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|15,9 kWh/100km|
+|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|18 kWh/100km|
 |[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|416 km|
 |[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|19,4 kWh/100km|
 |[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|22,5 kwh/100km|
