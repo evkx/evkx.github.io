@@ -173,7 +173,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. 
 ## Lights
 
-
+The standard headlights use LED technology.  
 ## Advanced driver assistance systems
 
 The Rivian R1S Quad-Motor AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

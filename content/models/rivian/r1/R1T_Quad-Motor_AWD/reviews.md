@@ -12,6 +12,10 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube g-q_8Dzo92Y >}}
 
+### Throttle House: 2022 Rivian R1T Review // The Cybertruck That Actually Exists 13.02.2022
+
+{{< youtube 0BmG0ZlnmHE >}}
+
 ### carwow: Rivian R1T review - 0-60mph, 1/4-mile & off-road tested! 05.01.2022
 
 {{< youtube b92lqiBWbDo >}}

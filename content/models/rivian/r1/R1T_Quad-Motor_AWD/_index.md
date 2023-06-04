@@ -169,7 +169,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. 
 ## Lights
 
-
+The standard headlights use LED technology.  
 
 
 <figur>
