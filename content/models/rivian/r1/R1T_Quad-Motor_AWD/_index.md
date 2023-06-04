@@ -177,6 +177,14 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/headlights_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD">
+</a>
+<figcaption><h4>Rivian R1T Quad-Motor AWD</h4></figcaption></figur>
+
 ## Advanced driver assistance systems
 
 The Rivian R1T Quad-Motor AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
