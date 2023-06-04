@@ -1,7 +1,7 @@
 ---
 title: Ford F150 Lightning Extended Range
 linktitle: F150 Lightning Extended Range
-description: Ford F150 Lightning Extended Range is an all-electric Pickup Truck with a WLTP range of up to N/A km (0 miles). EVKX.net have all the details. 
+description: Ford F150 Lightning Extended Range is an all-electric Pickup Truck with a EPA range of up to 515 km (320 miles). EVKX.net have all the details. 
 weight: 10
 hidden: true
 ---
@@ -32,13 +32,15 @@ We have separated our Ford F150 Lightning Extended Range article into sections. 
 
 ## Performance
 
-The Ford F150 Lightning Extended Range has a maximum power of 433KW (589hp). The total torque is 1050nm. The 0-100km/h sprint (0-62mph) takes  seconds. 
+The Ford F150 Lightning Extended Range has a maximum power of 433KW (589hp). The total torque is 1050nm. The 0-100km/h sprint (0-62mph) takes 4,2 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
 The battery has a gross capacity of 150kWh and a net capacity of 131kWh, meaning you have a 19kWh buffer for protection. (12,7%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 155kW. A full charge from 0 - 100% would take 130 minutes, while a more common scenario of 10-80% would take 49 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 62% resulting in an actual charge speed including time loss on 106kW. Each charge session would take 46 minutes and 54 seconds. 
+
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 33kWh/100km, 1000km will take 10 hours and 13 minutes to drive. This trip will require two charge session(s) charging from 0% to 76%. The total time lost for charging will be 113 minutes.   
 ### Onboard charger
 
 
@@ -67,13 +69,13 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 
 
-
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
 
 ## Exterior
 
 You can choose between 6 different paint colors when ordering this model. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. 
+The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The tailgate is electric powered. 
 
 There is only one roof for this model. 
 
@@ -99,6 +101,7 @@ Only one front seat type is available in the Ford F150 Lightning Extended Range.
 
 The following functionalities are available on the **** seat. 
 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />
@@ -108,12 +111,9 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 
-The following functionalities are available on the **** seat. 
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
-
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
-
+- electric adjustment (optional)
 
 There is only one type of steering wheel available. 
 
@@ -133,9 +133,9 @@ Ford F150 Lightning Extended Range has several features to make your life as a d
 
 Two different screen setups are available on the Ford F150 Lightning Extended Range. 
 
-The standard layout has the following configuration. The  screen uicontrols.screen.location. is 12 inches large. The  screen uicontrols.screen.location. is 12 inches large. 
+The standard layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The  screen on the dashboard's center  is 12 inches large. 
 
-The optional  layout has the following configuration. The  screen uicontrols.screen.location. is 12 inches large. The  screen uicontrols.screen.location. is 15 inches large. 
+The optional  layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The  screen on the dashboard's center  is 15,5 inches large. 
 
 
 <figur>
@@ -168,11 +168,14 @@ The Ford F150 Lightning Extended Range has several standard and optional [advanc
 
 
 
+The Ford F150 Lightning Extended Range has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
 ### Driving Automation
 
 
 
 With the   level 2 system, you get the following driving automation features. 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 
 
 {{<evkxdisplayaddarticle />}}

@@ -16,6 +16,8 @@ EVKX.net seeks to have the most complete specifications for Ford F150 Lightning 
 |----|-----|
 |Peak electrical output in kW|433 Kw|
 |Electrical torque output in Nm|1050 Nm|
+|Top speed|180 km/h|
+|0-100km/h (0-62 mph)|4,2 s|
 
 
 
@@ -71,10 +73,10 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Unknown|
-|Interior.Seatoptions.MemoryDriverSeat|Unknown|
-|Interior.Seatoptions.MemoryPassangerSeat|Unknown|
+|Interior.Seatoptions.MemoryDriverSeat|Optional feature|
+|Interior.Seatoptions.MemoryPassangerSeat|Not Available|
 |Height adjustable headrest|Unknown|
 |Length adjustable headrest|Unknown|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
@@ -91,7 +93,7 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
 |Height adjustable headrest|Unknown|
 |Length adjustable headrest|Unknown|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
@@ -108,7 +110,7 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|Lane keeping||
+|Lane keeping|Yes, standard equipment|
 |Lane departure warning||
 |Drowsiness Alert||
 |Reversing camera||
@@ -132,7 +134,7 @@ This model is available with a seat configuration with five seats.
 |Efficiency assist||
 |Automatic Emergency Steering||
 |Traffic Sign Recognition||
-|Night Vision||
+|Night Vision|Not available|
 
 ## Infotainment
 
