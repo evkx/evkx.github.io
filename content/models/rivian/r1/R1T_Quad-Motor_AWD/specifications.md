@@ -56,7 +56,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Yes, standard equipment|
 |Adjustable height front|Yes, standard equipment|
 |Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|365|
+|Max ground clearance|378|
 |Minimum ground clearance|205|
 |Suspension type front|AirSuspension|
 |Suspension construction front|DoubleWishbone|
@@ -91,7 +91,7 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
 |Height adjustable headrest|Unknown|
 |Length adjustable headrest|Not Available|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|

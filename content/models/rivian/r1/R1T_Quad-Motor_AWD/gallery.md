@@ -10,8 +10,8 @@ hidden: true
 <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
 <a href="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/charging_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/charging_1.jpg"
-data-pswp-width="2880"
-data-pswp-height="1920" 
+data-pswp-width="2048"
+data-pswp-height="1280" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/charging_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" />
 </a>

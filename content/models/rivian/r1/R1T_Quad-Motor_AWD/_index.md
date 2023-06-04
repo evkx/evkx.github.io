@@ -63,7 +63,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5KW 
 
 Rivian R1T Quad-Motor AWD has an all-wheel drive system supported by four motors. One for each wheel. 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 205 mm, and the max is 365 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 205 mm, and the max is 378 mm. 
 
 ### Brakes
 
@@ -121,17 +121,10 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 
-The following functionalities are available on the **** seat. 
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
-
-You can choose from 3 different materials/colors for this seat type. 
-- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Green [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
-
 
 There is only one type of steering wheel available. 
 
@@ -221,7 +214,7 @@ With the Driver+  level 2 system, you get the following driving automation featu
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm and length is 1371 mm. Max load weight in bed is 800 kg.  On the roof, you can load up to 113kg. Under the hood, there is frunk with more storage room. This frunk is 314 liters. 
+The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm and length is 1371 mm. Max load weight in bed is 800 kg.  On the roof, you can load up to 113kg. Under the hood, there is frunk with more storage room. This frunk is 314 liters. Max weight is 3870kg, and with the base weight of 2858 kg, you can max load 1012 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 5000, and on unbraked, 750kg. 
 
