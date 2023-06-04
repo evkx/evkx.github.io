@@ -168,14 +168,34 @@ The Ford F150 Lightning Extended Range has several standard and optional [advanc
 
 
 
+The Ford F150 Lightning Extended Range has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
 The Ford F150 Lightning Extended Range has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
+
+The Ford F150 Lightning Extended Range has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
+
+[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
 
 ### Driving Automation
 
+The Ford F150 Lightning Extended Range offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+
+With the Ford Co-Pilot360™ 2.0  level 1 system, you get the following driving automation features. 
+- Cruise control. 
 
 
-With the   level 2 system, you get the following driving automation features. 
+With the Ford Co-Pilot360™ Assist 2.0  level 2 system, you get additional driving automation features to the ones listed above. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
+
+
+With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driving automation features to the ones listed above. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
 
 {{<evkxdisplayaddarticle />}}
