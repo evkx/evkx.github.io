@@ -75,17 +75,49 @@ This is the proprietary Level 1, Level 2, and Level 3 charging connector for all
 
 This is the standard Level 3 charging connector for most Japanese EVs, such as Nissan, Mitsubishi, and Toyota. It stands for CHArge de MOve and was created by a consortium of Japanese companies and organizations. It has a round shape with two large DC pins and two small communication pins. It can deliver up to 62.5 kW of power.
 
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/chademo_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/chademo_1_st.jpg"
+        alt="Audi e-tron J1772 charge port" title="Audi e-tron J1772 charge port">
+    </a>
+    <figcaption><h4>Audi e-tron J1772 charge port</h4></figcaption>
+</figure>
+
 ## Charge port location
 
 EVs have different locations for their chargeport. Here are the most common
 
-
 ### Rear corner
+
+This is a very common location since all Tesla models have this location.
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/rearcornerport_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/rearcornerport_1_st.jpg"
+        alt="Tesla Model 3 with rear corner port" title="Tesla Model 3 with rear corner port">
+    </a>
+    <figcaption><h4>Tesla Model 3 with rear corner port</h4></figcaption>
+</figure>
 
 ### Front side
 
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/frontsideport_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/frontsideport_1_st.jpg"
+        alt="Audi e-tron GT with front side port" title="Audi e-tron GT with front side port">
+    </a>
+    <figcaption><h4>Audi e-tron GT with front side port</h4></figcaption>
+</figure>
 
 ### Rear Side
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/rearsideport_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/rearsideport_1_st.jpg"
+        alt="Audi Q4 e-tron with rear side port" title="Audi Q4 e-tron with rear side port">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron with rear side port</h4></figcaption>
+</figure>
 
 
 ### Front Corner
