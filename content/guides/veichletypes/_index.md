@@ -38,6 +38,13 @@ Coupe SUVs are a relatively new type of vehicle that combines the sporty, sleek 
 
 Pickup trucks are designed for heavy-duty work and off-road driving. They have an open cargo bed at the back, which makes them ideal for hauling goods and equipment. Pickup trucks come in various sizes, from compact to full-size, and are available in both two-wheel drive and four-wheel drive. They also offer powerful engines and towing capabilities, making them popular among contractors, farmers, and outdoor enthusiasts.
 
+<figur>
+<a href="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD">
+</a>
+<figcaption><h4>Rivian R1T Quad-Motor AWD Pickup Truck</h4></figcaption></figur>
+
+
 ## Station Wagon
 
 Station wagons, also known as estate cars, are similar to sedans but with an elongated roofline that extends to the back of the car. They offer a spacious cargo area, making them ideal for families and those who need to transport large items. Station wagons are also known for their comfortable ride, excellent handling, and good fuel economy. They are available in both front-wheel and all-wheel drive and come in different sizes and engine types.

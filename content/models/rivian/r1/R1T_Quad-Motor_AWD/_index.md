@@ -166,7 +166,7 @@ One type of sound system is available for the Rivian R1T Quad-Motor AWD. With th
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The model has 4 USB-C connections as standard. 
+The model has 8 USB-C connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.  

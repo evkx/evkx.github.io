@@ -16,6 +16,14 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube g-q_8Dzo92Y >}}
 
+### Out of Spec Reviews: Rivian R1T 70-MPH Highway Range Test (135kWh Large Pack Quad-Motor) 20.03.2022
+
+{{< youtube xMtW9xcuj6s >}}
+
+### Out of Spec Reviews: The Rivian R1T Has Arrived And We Answer All Of Your Questions! 17.03.2022
+
+{{< youtube v6u0mVvsU2Y >}}
+
 ### State Of Charge: Rivian R1T Home Delivery: Features and Settings Deep Dive 13.02.2022
 
 {{< youtube 0iSeupaBJ64 >}}
