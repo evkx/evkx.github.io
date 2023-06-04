@@ -61,9 +61,9 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 19,2KW 
 
 ## Drivetrain
 
-drivetrain.drivesetup.NotSet
+Ford F150 Lightning Extended Range has an all-wheel drive system supported by two motors, one on each axle. 
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 226 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 226 mm. 
 
 ### Brakes
 

@@ -64,6 +64,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable height rear|Not available|
 |Max ground clearance|226|
 |Minimum ground clearance|226|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension construction front|DoubleWishbone|
+|Suspension type rear|SteelSpringsWithOilDampers|
+|Suspension construction rear|Multilink|
 
 ## Interior
 
