@@ -45,9 +45,9 @@ Home charging is the most common way to charge your EVs.
 
 Read all about [home charging](homecharging)
 
-## On the road charging
+## DC Fast Charging
 
-Read all about [charging on the road](ontheroadcharging)
+Read all about [charging on the road](dcfastcharging)
 
 ## Bidirectonal charging
 
