@@ -22,17 +22,43 @@ Sedans are four-door cars with a separate trunk compartment. They are designed t
 
 Hatchbacks are small, compact cars with a sloping back design that allows for more headroom and cargo space. They typically have two or four doors, and the rear door opens upward to provide access to the cargo area. Hatchbacks are a popular choice for city driving because of their size and fuel efficiency. They are also relatively affordable and easy to park.
 
+<figur>
+<a href="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58">
+</a>
+<figcaption><h4>CUPRA BORN 58 Hatchback</h4></figcaption></figur>
+
 ## Sport-Utility Veichle (SUV)
 
 SUVs or Sport Utility Vehicles are a type of vehicle that combines the features of a truck and a car. They are typically larger and heavier than other cars and have a higher ground clearance, making them ideal for off-road driving. SUVs come in various sizes, from compact to full-size, and are known for their spacious interiors and powerful engines. They are also available in four-wheel drive or all-wheel drive, making them suitable for driving in different terrains and weather conditions.
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1.jpeg">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1_st.jpeg" alt="Audi SQ8 e-tron" title="Audi SQ8 e-tron">
+</a>
+<figcaption><h4>Audi SQ8 e-tron SUV</h4></figcaption></figur>
+
 
 ## Crossover
 
 Crossovers are a blend of SUVs and sedans, combining the spaciousness of an SUV with the maneuverability of a sedan. They are built on a car chassis, making them lighter and more fuel-efficient than SUVs. Crossovers typically have a higher ride height than sedans and come with all-wheel drive or four-wheel drive options. They are ideal for families who need a spacious and versatile vehicle without compromising on fuel efficiency.
 
+<figur>
+<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD">
+</a>
+<figcaption><h4>Toyota bZ4X AWD crossover</h4></figcaption></figur>
+
+
 ## Coupe SUV
 
 Coupe SUVs are a relatively new type of vehicle that combines the sporty, sleek design of a coupe with the elevated ride height and spaciousness of an SUV. They typically have a sloping roofline that gives them a more aerodynamic look, similar to that of a coupe. Coupe SUVs are known for their sporty handling and acceleration, as well as their spacious interior and cargo capacity. They are designed for those who want the practicality and versatility of an SUV but with a more stylish and dynamic appearance. Coupe SUVs come in different sizes, however, they can be more expensive than traditional SUVs and may have less headroom and cargo space due to their sleeker design.
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV">
+</a>
+<figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
 
 ## Pickup Truck
 
@@ -48,6 +74,12 @@ Pickup trucks are designed for heavy-duty work and off-road driving. They have a
 ## Station Wagon
 
 Station wagons, also known as estate cars, are similar to sedans but with an elongated roofline that extends to the back of the car. They offer a spacious cargo area, making them ideal for families and those who need to transport large items. Station wagons are also known for their comfortable ride, excellent handling, and good fuel economy. They are available in both front-wheel and all-wheel drive and come in different sizes and engine types.
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg" alt="Porsche Taycan GTS Sport Turismo" title="Porsche Taycan GTS Sport Turismo">
+</a>
+<figcaption><h4>Porsche Taycan GTS Sport Turismo Station Wagon</h4></figcaption></figur>
 
 ## Convertible
 
