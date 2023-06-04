@@ -61,6 +61,13 @@ Minivans are designed for maximum passenger and cargo space. They typically have
 
 MPVs or Multi-Purpose Vehicles are designed to provide ample space for passengers and cargo. They typically have three rows of seats and are often used as family vehicles or for commercial purposes. MPVs offer a smooth and comfortable ride and come with various seating configurations, making them versatile for different needs. They are also available in both front-wheel and all-wheel drive.
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB">
+</a>
+<figcaption><h4>Volkswagen ID. Buzz Pro LWB MPV</h4></figcaption></figur>
+
 ## Coupe
 
 Coupes are two-door cars designed for speed and style. They typically have a sleek and sporty design and are built for high-performance driving. Coupes offer excellent handling and acceleration and are ideal for driving on winding roads. They are also available in different sizes and engine types, from affordable four-cylinder engines to high-performance V8 engines.
