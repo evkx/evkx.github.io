@@ -16,7 +16,7 @@ hidden: true
 </a>
 <figcaption><h4>Porsche Taycan Turbo</h4></figcaption></figur>
 
-We have separated our description of the Porsche Taycan Turbo into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Porsche Taycan Turbo article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)

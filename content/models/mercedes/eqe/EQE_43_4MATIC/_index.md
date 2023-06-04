@@ -16,7 +16,7 @@ hidden: true
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
 
-We have separated our description of the Mercedes-AMG EQE 43 4MATIC into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Mercedes-AMG EQE 43 4MATIC article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -104,7 +104,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three seats in the rear. 
+You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three in the rear. 
 
 ### First row seats
 
@@ -163,7 +163,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. The THERMATIC climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has not [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with heat pump. 
+You can choose from two different climate systems. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. The THERMATIC climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
 
 ## Comfort
 

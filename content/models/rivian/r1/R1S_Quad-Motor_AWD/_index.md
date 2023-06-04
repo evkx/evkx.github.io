@@ -16,7 +16,7 @@ hidden: true
 </a>
 <figcaption><h4>Rivian R1S Quad-Motor AWD</h4></figcaption></figur>
 
-We have separated our description of the Rivian R1S Quad-Motor AWD into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Rivian R1S Quad-Motor AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -75,7 +75,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 9 different paint colors when ordering this model. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls down and the top part lifts up. 
+The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls and the top part lifts. 
 
 There is only one roof for this model. The optional has a panoramic roof. 
 
@@ -134,7 +134,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has not [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with heat pump. 
+There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
 
 ## Comfort
 

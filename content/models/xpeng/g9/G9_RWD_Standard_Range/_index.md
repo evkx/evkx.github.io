@@ -16,7 +16,7 @@ hidden: true
 </a>
 <figcaption><h4>XPENG G9 RWD Standard Range</h4></figcaption></figur>
 
-We have separated our description of the XPENG G9 RWD Standard Range into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our XPENG G9 RWD Standard Range article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -95,7 +95,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three seats in the rear. 
+The seat layout is the traditional five seats with two in front and three in the rear. 
 
 ### First row seats
 
@@ -149,7 +149,7 @@ There is only one type of steering wheel available. The  steering wheel is heate
 
 ## Climate system
 
-There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 

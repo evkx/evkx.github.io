@@ -16,7 +16,7 @@ hidden: true
 </a>
 <figcaption><h4>Lucid Air Dream Edition Performance</h4></figcaption></figur>
 
-We have separated our description of the Lucid Air Dream Edition Performance into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Lucid Air Dream Edition Performance article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -90,7 +90,7 @@ There is only one roof for this model.
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three seats in the rear. 
+The seat layout is the traditional five seats with two in front and three in the rear. 
 
 ### First row seats
 
@@ -141,7 +141,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has not [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with heat pump. 
+There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
 
 ## Comfort
 

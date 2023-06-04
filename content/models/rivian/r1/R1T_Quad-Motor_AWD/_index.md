@@ -16,7 +16,7 @@ hidden: true
 </a>
 <figcaption><h4>Rivian R1T Quad-Motor AWD</h4></figcaption></figur>
 
-We have separated our description of the Rivian R1T Quad-Motor AWD into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Rivian R1T Quad-Motor AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -75,7 +75,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 9 different paint colors when ordering this model. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls down and the top part lifts up. 
+The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls and the top part lifts. 
 
 There is only one roof for this model. The optional has a panoramic roof. 
 
@@ -95,7 +95,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three seats in the rear. 
+The seat layout is the traditional five seats with two in front and three in the rear. 
 
 ### First row seats
 
@@ -130,7 +130,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has not [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with heat pump. 
+There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
 
 ## Comfort
 
@@ -214,7 +214,7 @@ With the Driver+  level 2 system, you get the following driving automation featu
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm and length is 1371 mm. Max load weight in bed is 800 kg.  On the roof, you can load up to 113kg. Under the hood, there is frunk with more storage room. This frunk is 314 liters. Max weight is 3870kg, and with the base weight of 2858 kg, you can max load 1012 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm, and length is 1371 mm. The max load weight in bed is 800 kg.  On the roof, you can load up to 113kg. Under the hood, there is frunk with more storage room. This frunk is 314 liters. Max weight is 3870kg, and with the base weight of 2858 kg, you can max load 1012 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 5000, and on unbraked, 750kg. 
 
