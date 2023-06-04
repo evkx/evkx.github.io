@@ -221,9 +221,9 @@ With the Driver+  level 2 system, you get the following driving automation featu
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 498 liters. With the rear seat down, it is 2965 liters. On the roof, you can load up to 113kg. Under the hood, there is frunk with more storage room. This frunk is 314 liters. 
+The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm and length is 1371 mm. Max load weight in bed is 800 kg.  On the roof, you can load up to 113kg. Under the hood, there is frunk with more storage room. This frunk is 314 liters. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 3500, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 5000, and on unbraked, 750kg. 
 
 
 <figur>
