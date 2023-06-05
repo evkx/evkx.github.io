@@ -36,6 +36,14 @@ Cupra is a Spanish automobile brand that forms part of SEAT. It was created in 2
 
 CUPRA has 2 models with total 4 variants. [Read all about them](cupra/)
 
+## DS
+
+[![DS](https://media.evkx.net/multimedia/models/ds/brandevs_st.jpg)](ds/)
+
+DS is a premium automobile marque that was founded and developed from French manufacturer Citroën. DS was first announced in 2009 as a sub-brand of Citroën, applied to certain models that had distinctive design and features.
+
+DS has 1 models with total 1 variants. [Read all about them](ds/)
+
 ## Fisker
 
 [![Fisker](https://media.evkx.net/multimedia/models/fisker/brandevs_st.jpg)](fisker/)
