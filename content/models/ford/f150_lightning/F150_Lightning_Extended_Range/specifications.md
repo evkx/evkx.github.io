@@ -78,7 +78,7 @@ This model is available with a seat configuration with five seats.
 |Spec|Value|
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
-|Electric adjustment of height, recline and angle|Unknown|
+|Electric adjustment of height, recline and angle|Optional feature|
 |Interior.Seatoptions.MemoryDriverSeat|Optional feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Not Available|
 |Height adjustable headrest|Unknown|
@@ -89,9 +89,9 @@ This model is available with a seat configuration with five seats.
 |[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
-|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Unknown|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Unknown|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Unknown|
+|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Optional feature|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Optional feature|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
 
 ### Front seats
 
@@ -99,16 +99,16 @@ This model is available with a seat configuration with five seats.
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
 |Height adjustable headrest|Unknown|
-|Length adjustable headrest|Unknown|
-|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
-|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Unknown|
-|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Unknown|
-|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
-|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
-|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
-|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Unknown|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Unknown|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Unknown|
+|Length adjustable headrest|Not Available|
+|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
+|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|
+|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Not Available|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
+|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Not Available|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
 
 ## Driver Assistance
 
@@ -144,6 +144,31 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|Android Auto support||
-|Apple Carplay support||
-|In Car navigation||
+|Android Auto support|Yes, standard equipment|
+|Apple Carplay support|Yes, standard equipment|
+|In Car navigation|Yes, standard equipment|
+|Number of avaiable sound systems|3|
+
+### Ford
+
+|Spec|Value|
+|----|-----|
+|Number of speakers|4|
+|Channels|2|
+|Total effect|80|
+
+### B&O Sound System
+
+|Spec|Value|
+|----|-----|
+|Number of speakers|8|
+|Channels|4|
+|Total effect|640|
+
+### B&O Unleashed Sound System
+
+|Spec|Value|
+|----|-----|
+|Number of speakers|18|
+|Channels|4|
+|Total effect|1080|

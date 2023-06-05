@@ -74,8 +74,9 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 ## Exterior
 
 You can choose between 6 different paint colors when ordering this model. 
+Additionally, you can choose between 3 wheels with sizes from 18 to 22 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The tailgate is electric powered. 
+The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. 
 
 There is only one roof for this model. 
 
@@ -101,10 +102,17 @@ Only one front seat type is available in the Ford F150 Lightning Extended Range.
 
 The following functionalities are available on the **** seat. 
 
+- electric adjustment (optional)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
+You can choose from 4 different materials/colors for this seat type. 
+- Grey [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+
 
 
 ### Second-row seat
@@ -113,7 +121,6 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
-- electric adjustment (optional)
 
 There is only one type of steering wheel available. 
 
@@ -147,7 +154,9 @@ The optional  layout has the following configuration. The  screen behind the ste
 
 ## Infotainment
 
-One type of sound system is available for the Ford F150 Lightning Extended Range. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+You can choose between three sound systems on the Ford F150 Lightning Extended Range. With the Ford, you get two amplifier channels and four speakers with a max system output of 80 watts. With the B&O Sound System, you get four amplifier channels and eight speakers with a max system output of 640 watts. With the B&O Unleashed Sound System, you get four amplifier channels and 18 speakers with a max system output of 1080 watts. 
+
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Ford F150 Lightning Extended Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 
 ## Lights
