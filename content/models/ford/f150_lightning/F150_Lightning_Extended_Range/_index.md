@@ -115,6 +115,14 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range">
+</a>
+<figcaption><h4>Ford F150 Lightning Extended Range</h4></figcaption></figur>
+
+
 ### Second-row seat
 
 

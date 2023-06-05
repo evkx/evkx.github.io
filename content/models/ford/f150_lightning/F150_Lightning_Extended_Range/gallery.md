@@ -64,6 +64,13 @@ data-pswp-height="1633"
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_5_st.jpg" alt="Ford F150 Lightning Extended Range" />
 </a>
+<a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1687" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_st.jpg" alt="Ford F150 Lightning Extended Range" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frunk_1.jpg"
 data-pswp-width="3000"
@@ -126,6 +133,20 @@ data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_3_st.jpg" alt="Ford F150 Lightning Extended Range" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="1687" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_4_st.jpg" alt="Ford F150 Lightning Extended Range" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_5.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_5.jpg"
+data-pswp-width="3000"
+data-pswp-height="1687" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_5_st.jpg" alt="Ford F150 Lightning Extended Range" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/suspension_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/suspension_1.jpg"
