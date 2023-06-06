@@ -59,7 +59,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ## Drivetrain
 
-drivetrain.drivesetup.NotSet
+DS 3 E-Tense has an all-wheel drive system supported by two motors, one on each axle. 
 
 The  suspension has a fixed height and damping. 
 
@@ -122,11 +122,15 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. 
+There is one climate system available. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
 DS 3 E-Tense has several features to make your life as a driver or passenger more comfortable. 
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
 
 {{<evkxdisplayaddarticle />}}
 
