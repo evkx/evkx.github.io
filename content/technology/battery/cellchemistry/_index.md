@@ -82,12 +82,32 @@ LFP batteries charge more slowly in cold weather than NCA/NMC batteries and thei
 
 {{<evkxdisplayaddarticle />}}
 
+### Lithium manganese iron phosphate  (LMFP)
+
+LMFP battery chemistry is a type of lithium-ion battery chemistry that uses lithium manganese iron phosphate (LiMn x Fe 1−x PO 4 ) as the cathode material and a graphitic carbon electrode with a metallic backing as the anode. LMFP battery chemistry combines the high safety of lithium iron phosphate (LFP) and the high energy density of lithium manganese phosphate (LMP). LMFP battery chemistry is a promising cathode material for high performance lithium ion batteries, especially for electric vehicles.
+
+Some of the advantages of LMFP battery chemistry are:
+
+- High thermal stability and low risk of thermal runaway
+- High power density and fast charging capability
+- High cycle life and good rate performance
+- Low cost and environmental friendliness
+- High voltage platform and improved specific capacity
+
+Some of the challenges of LMFP battery chemistry are:
+
+- Low electronic conductivity and lithium ion diffusion coefficient
+- Phase transition and lattice distortion during cycling
+- Manganese dissolution at high temperatures
+- Electrolyte compatibility and interface stability
+
+
 ### Summary Cathode materials
 
 The below table summaries the differences
 
 | Chemistry | NCA | NMC |  LFP|
-|------|-----------|----------|
+|------|-----------|----------|--------|
 |Gravimetric density | 240-272 Wh/kg | 200-272 Wh/kg | 90-120Wh/kg |
 |Volummetric density | 580-720 Wh/l | 500 - 620 Wh/l | 220-300 Wh/l|
 |Cycles | 500-1000 | 1000-2000 | 2000 - 5000 |

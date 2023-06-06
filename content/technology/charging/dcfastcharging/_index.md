@@ -6,7 +6,27 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-It uses a high-power DC current that can deliver up to 1000 volts and 250 amps. High speed charging can add up to 200 miles of range in just 20 to 30 minutes of charging, which means it can quickly replenish an EV battery for long-distance driving.
+It uses a high-power DC (Direct Current) that can deliver up to 1000 volts and 250 amps. High-speed charging can add up to 200 miles of range in just 20 to 30 minutes, so it can quickly replenish an EV battery for long-distance driving.
+
+## DC Fast Charging availability
+
+Depending on where you live and which car you drive, dc fast charging can be easy and available to use or complex and challenging. Some areas have very few chargers and require planning to create a route with charging, while others have many chargers where you can stop and charge when needed.
+
+This availability can vary very much between the brands. While Tesla has superchargers in many areas finding a charging station with Chademo plug for your Nissan Leaf is almost impossible.
+
+## DC Fast Charging performance
+
+The charging speed can also vary wildly between EV models, charging stations, and even between charging sessions.
+
+There are two typical reasons the charging speed varies between two charging sessions for the same EV on the same charger.
+
+### The battery temperature
+
+The battery temperature is the most critical factor in battery charging speed. The optimum battery temperature is typically 25-35 degrees. If the temperature is too low, the BMS Will lower the charging speed to protect the battery. It could give you down to only 25% of the optimal rate.
+
+### The charging curve
+
+
 
 ## Route planning with charging
 
