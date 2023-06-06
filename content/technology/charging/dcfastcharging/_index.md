@@ -24,6 +24,8 @@ There are two typical reasons the charging speed varies between two charging ses
 
 The battery temperature is the most critical factor in battery charging speed. The optimum battery temperature is typically 25-35 degrees. If the temperature is too low, the BMS Will lower the charging speed to protect the battery. It could give you down to only 25% of the optimal rate.
 
+Many EVs have now added battery heating that can be activated when navigating to an charger through the navigation system or manually trigger it. 
+
 ### The charging curve
 
 
