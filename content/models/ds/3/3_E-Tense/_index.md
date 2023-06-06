@@ -104,8 +104,12 @@ The following functionalities are available on the **** seat.
 
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
+You can choose from 4 different materials/colors for this seat type. 
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Grey [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+
 
 
 ### Second-row seat
@@ -115,8 +119,12 @@ You can choose from 1 different materials/colors for this seat type. <br />
 The following functionalities are available on the **** seat. 
 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
+You can choose from 4 different materials/colors for this seat type. 
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Grey [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+
 
 
 There is only one type of steering wheel available. 
