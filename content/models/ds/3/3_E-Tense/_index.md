@@ -38,7 +38,7 @@ The DS 3 E-Tense has a maximum power of 115KW (156hp). The total torque is 260nm
 
 The battery has a gross capacity of 54kWh and a net capacity of 50,8kWh, meaning you have a 3,2kWh buffer for protection. (5,9%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) The [WLTP range](../../../../guides/understandingrange/wltp) varies from 402 to 396 km (250-246 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 12,6kWh/100km for the basic version and 12,8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 53% resulting in an actual charge speed including time loss on 61kW. Each charge session would take 24 minutes and 29 seconds. 
+The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 57% resulting in an actual charge speed including time loss on 66kW. Each charge session would take 24 minutes and 25 seconds. 
 ### Onboard charger
 
 
@@ -61,17 +61,18 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 DS 3 E-Tense has an all-wheel drive system supported by two motors, one on each axle. 
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 170 mm. 
 
 ### Brakes
 
 
 
-
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
 
 ## Exterior
 
 You can choose between 5 different paint colors when ordering this model. 
+Additionally, you can choose between 5 wheels with sizes from 17 to 18 inches. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
 
