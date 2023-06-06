@@ -100,8 +100,9 @@ The seat layout is the traditional five seats with two in front and three in the
 
 Only one front seat type is available in the DS 3 E-Tense. 
 
-The following functionalities are available on the **** seat. 
+The following functionalities are available on the **standard** seat. 
 
+- electric adjustment (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 4 different materials/colors for this seat type. 
@@ -116,15 +117,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-The following functionalities are available on the **** seat. 
-
-
-You can choose from 4 different materials/colors for this seat type. 
-- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Grey [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 
 There is only one type of steering wheel available. 
@@ -147,7 +140,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 5 inches large. The touch screen on the dashboard's center  is 10,3 inches large. 
+The  screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen on the dashboard's center  is 10,3 inches large. 
 
 
 <figur>
