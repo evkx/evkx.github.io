@@ -61,7 +61,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 DS 3 E-Tense has an all-wheel drive system supported by two motors, one on each axle. 
 
-The  suspension has a fixed height and damping. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. 
 
 ### Brakes
 
