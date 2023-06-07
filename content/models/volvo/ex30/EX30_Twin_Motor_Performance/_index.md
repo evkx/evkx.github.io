@@ -150,7 +150,7 @@ Volvo EX30 Twin Motor Performance has multiple integrated screens. The touch scr
 
 You can choose between two sound systems on the Volvo EX30 Twin Motor Performance. With the High Performance, you get five amplifier channels and eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get five amplifier channels and 13 speakers with a max system output of 600 watts. 
 
-The model has 1 USB-C connections as standard. 
+The model has 2 USB-C connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the Volvo EX30 Twin Motor Performance. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
