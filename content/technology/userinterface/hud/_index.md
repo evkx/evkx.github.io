@@ -47,6 +47,13 @@ HUDs use different methods to project information onto the windshield or transpa
 
 Another method is to use a transparent screen, such as a thin plastic or glass panel, positioned in the driver’s line of sight and displays the information directly.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/userinterface/hud/hud_ds3_etense.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/hud/hud_ds3_etense_st.jpg" alt="DS 3 E-Tense HUD on a transparant screen" title="DS 3 E-Tense HUD on a transparant screen">
+    </a>
+    <figcaption><h4>DS 3 E-Tense HUD on a transparant screen</h4></figcaption>
+</figur>
+
 Car manufacturers design HUDs to be visible in various lighting conditions, including daytime and nighttime driving. As a result, they typically have adjustable brightness and contrast settings, and some models may also have automatic brightness adjustments to adapt to changing ambient light conditions.
 
 ## Limitations of HUDs

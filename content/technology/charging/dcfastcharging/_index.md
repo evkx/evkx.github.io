@@ -32,7 +32,7 @@ Many EVs have now added battery heating that can be activated when navigating to
 
 ## Route planning with charging
 
-Most EVs offer route planning functionality that include DC Fast charging stops if needed to reach destination. 
+Most EVs offer route planning functionality that include DC Fast charging stops if needed to reach destination. This is part of the [Navigation system](../../infotainment/navigation/)
 
 Typical you would see the expected arrival charge level for a charging stations and how much you need to charge to reach the next charing station
 
