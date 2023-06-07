@@ -110,17 +110,9 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-The following functionalities are available on the **** seat. 
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
-
-You can choose from 4 different materials/colors for this seat type. 
-- White [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Grey [wool upholstering](../../../../technology/seats/materials/#wool)
-
-
 
 
 <figur>
@@ -152,7 +144,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Volvo EX30 Twin Motor Performance has multiple integrated screens. The touch screen at the top of the center console is 9 inches large. 
+Volvo EX30 Twin Motor Performance has multiple integrated screens. The touch screen at the top of the center console is 12,3 inches large. 
 
 
 <figur>
@@ -165,6 +157,8 @@ Volvo EX30 Twin Motor Performance has multiple integrated screens. The touch scr
 ## Infotainment
 
 You can choose between two sound systems on the Volvo EX30 Twin Motor Performance. With the High Performance, you get five amplifier channels and eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get five amplifier channels and 13 speakers with a max system output of 600 watts. 
+
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 2 USB-C connections as standard. 
 ## Lights

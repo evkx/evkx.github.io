@@ -81,7 +81,7 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Unknown|
 |Interior.Seatoptions.MemoryDriverSeat|Unknown|
 |Interior.Seatoptions.MemoryPassangerSeat|Unknown|
@@ -95,13 +95,13 @@ This model is available with a seat configuration with five seats.
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Unknown|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Unknown|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
 
 ### Front seats
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
 |Height adjustable headrest|Unknown|
 |Length adjustable headrest|Unknown|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
@@ -150,7 +150,7 @@ This model is available with a seat configuration with five seats.
 |----|-----|
 |Android Auto support|Not available|
 |Apple Carplay support|Yes, standard equipment|
-|In Car navigation||
+|In Car navigation|Yes, standard equipment|
 |Number of avaiable sound systems|2|
 
 ### High Performance
