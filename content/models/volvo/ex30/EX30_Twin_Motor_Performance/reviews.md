@@ -8,7 +8,11 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Nybiltester: BYD ATTO3 helgetest 28.10.2022
+### Out of Spec Reviews: Full Tour Of The Volvo EX30! Incredible Price, Technology, & Performance In This Small Electric SUV 07.06.2023
 
-{{< youtube tOyzXVGLdIo >}}
+{{< youtube 1DhfvedR0CQ >}}
+
+### Out of Spec Reviews: Full Tour Of The Volvo EX30! Incredible Price, Technology, & Performance In This Small Electric SUV 07.06.2023
+
+{{< youtube 1DhfvedR0CQ >}}
 

@@ -98,6 +98,14 @@ The following functionalities are available on the **** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 
+You can choose from 4 different materials/colors for this seat type. 
+- White [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [wool upholstering](../../../../technology/seats/materials/#wool)
+
+
+
 ### Second-row seat
 
 
@@ -105,6 +113,14 @@ The following functionalities are available on the **** seat.
 The following functionalities are available on the **** seat. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
+
+You can choose from 4 different materials/colors for this seat type. 
+- White [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [wool upholstering](../../../../technology/seats/materials/#wool)
+
+
 
 
 <figur>
