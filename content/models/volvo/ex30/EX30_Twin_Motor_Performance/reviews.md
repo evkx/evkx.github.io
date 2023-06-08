@@ -12,7 +12,11 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube 1DhfvedR0CQ >}}
 
-### Out of Spec Reviews: Full Tour Of The Volvo EX30! Incredible Price, Technology, & Performance In This Small Electric SUV 07.06.2023
+### Autogefühl: The new electric Volvo EX30 is the smallest but quickest Volvo SUV! 07.06.2023
 
-{{< youtube 1DhfvedR0CQ >}}
+{{< youtube igRDY0u_4hE >}}
+
+### Kris Rifa: Volvo EX30 STARTS FROM 27K! Full Detailed Tour! 07.06.2023
+
+{{< youtube DhgdSF05cmo >}}
 
