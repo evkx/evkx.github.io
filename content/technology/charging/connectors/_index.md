@@ -41,8 +41,8 @@ It stands for Combined Charging System and was created by a consortium of automa
 It has a round shape with two additional DC pins below the J1772 or the type 2 connector. It can deliver up to 350 kW of power with a maximum of 920 Volts.
 
 <figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_1_st.jpg"
+    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_2.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_2_st.jpg"
         alt="CCS Combo 2 port with Type 2 for AC charging" title="CCS Combo 2 port with Type 2 for AC charging">
     </a>
     <figcaption><h4>CCS Combo 2 port with Type 2 for AC charging</h4></figcaption>
