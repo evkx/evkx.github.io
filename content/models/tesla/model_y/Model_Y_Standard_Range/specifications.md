@@ -26,12 +26,9 @@ EVKX.net seeks to have the most complete specifications for Tesla Model Y Standa
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|430 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|13,4 kWh/100km|
-|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|16,9 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|533 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|10,8 kWh/100km|
-|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|17,1 kwh/100km|
+|WLTP range|430 km|
+|WLTP consumption|13,4 kWh/100km|
+|WLTP consumption with charging loss|16,9 kWh/100km|
 
 
 
