@@ -65,8 +65,8 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 9 different paint colors when ordering this model. 
-Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
+You can choose between 5 different paint colors when ordering this model. 
+Additionally, you can choose between 2 wheels with sizes from 18 to 20 inches. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
 
@@ -99,10 +99,10 @@ The following functionalities are available on the **** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 
 You can choose from 4 different materials/colors for this seat type. 
-- White [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- White [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Grey [wool upholstering](../../../../technology/seats/materials/#wool)
+- Brown [wool/leatherette upholstering](../../../../technology/seats/materials/#wool)
+- Blue [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -160,7 +160,7 @@ You can choose between two sound systems on the Volvo EX30 Twin Motor Performanc
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The model has 2 USB-C connections as standard. 
+The model has 4 USB-C connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the Volvo EX30 Twin Motor Performance. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
