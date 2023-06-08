@@ -78,9 +78,9 @@ This is the standard Level 3 charging connector for most Japanese EVs, such as N
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/chademo_1.jpg">
         <img src="https://media.evkx.net/multimedia/technology/charging/connectors/chademo_1_st.jpg"
-        alt="Audi e-tron J1772 charge port" title="Audi e-tron J1772 charge port">
+        alt="Nissan Leaf Chademo port" title="Nissan Leaf Chademo port">
     </a>
-    <figcaption><h4>Audi e-tron J1772 charge port</h4></figcaption>
+    <figcaption><h4>Nissan Leaf Chademo port</h4></figcaption>
 </figure>
 
 ## Charge port location
