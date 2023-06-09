@@ -40,11 +40,11 @@ This is the standard Level 3 charging connector for all EVS in Europe and most b
 
 It stands for Combined Charging System and was created by a [CharIN consortium](https://www.charin.global/) of automakers and standards organizations.
 
-It comes in two verrsions
+It comes in two versions
 
 #### CCS Combo 1
 
-It has a round shape with two additional DC pins below the J1772 connector. It can deliver up to 350 kW of power with a maximum of 920 Volts. It is used in North America
+It has a round shape with two additional DC pins below the J1772 connector. It can deliver up to 350 kW of power with a maximum of 920 Volts. It is used in North America.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo1_1.jpg">
@@ -56,7 +56,7 @@ It has a round shape with two additional DC pins below the J1772 connector. It c
 
 #### CCS Combo 2
 
-It has a round shape with two additional DC pins below the type 2 connector. It can deliver up to 350 kW of power with a maximum of 920 Volts. This version is used in europe on all brands. 
+It has a round shape with two additional DC pins below the type 2 connector. It can deliver up to 350 kW of power with a maximum of 920 Volts. This version is used in Europe on all brands.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_2.jpg">
@@ -68,9 +68,14 @@ It has a round shape with two additional DC pins below the type 2 connector. It 
 
 ### NACS (Tesla)
 
-NACS or The [North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard) is the Tesla Connector that Tesla opened for others in 2022.
+NACS, or The [North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard), is the Tesla Connector that Tesla opened for others in 2022.
 
-This is the proprietary Level 1, Level 2, and Level 3 charging connector for all Tesla EVs sold in North America. It was created by Tesla and works only with Tesla chargers, such as the Supercharger network or the Destination Charger network. It has a rectangular shape with two pins and a button. Currently the [standard](https://tesla-cdn.thron.com/static/HXVNIC_North_American_Charging_Standard_Technical_Specification_TS-0023666_HFTPKZ.pdf) says it can deliver up to 250 kW of power with maksimum 1000 Volt.  Ford [announced](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html) May 25. 2023 that they will add NACS port on their models from 2024 in North America. GM [Followed June 08. 2023](https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2023/jun/0608-gm.html).
+NACS is the proprietary Level 1, Level 2, and Level 3 charging connector for all Tesla EVs sold in North America. Tesla created it, and it works only with Tesla chargers, such as the Supercharger or Destination Charger networks. It has a rectangular shape with two pins and a button.
+
+The [standard](https://tesla-cdn.thron.com/static/HXVNIC_North_American_Charging_Standard_Technical_Specification_TS-0023666_HFTPKZ.pdf) says it can deliver up to 250 kW of power with a maximum of 1000 Volts. Ford [announced](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html) May 25. 2023, they will add a NACS port on their models from 2024 in North America. GM [Followed on June 08. 2023](https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2023/jun/0608-gm.html).
+
+Many expect others to follow soon.
+
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_1.jpg">
         <img src="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_1_st.jpg"
@@ -84,13 +89,13 @@ This is the proprietary Level 1, Level 2, and Level 3 charging connector for all
         <img src="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_2_st.jpg"
         alt="NACS connector / Tesla connector" title="NACS connector / Tesla connector">
     </a>
-    <figcaption><h4>NACS connector / Tesla connector compared with CCS combo 1</h4></figcaption>
+    <figcaption><h4>NACS connector / Tesla connector compared with CCS Combo 1</h4></figcaption>
 </figure>
 
 
 ### CHAdeMO
 
-This is the standard Level 3 charging connector for most Japanese EVs, such as Nissan, Mitsubishi, and Toyota. It stands for CHArge de MOve and was created by a consortium of Japanese companies and organizations. It has a round shape with two large DC pins and two small communication pins. It can deliver up to 62.5 kW of power.
+CHAdeMO is the standard Level 3 charging connector for most Japanese EVs, such as Nissan, Mitsubishi, and Toyota. It stood for CHArge de MOve and was created by a consortium of Japanese companies and organizations. It is round, with two large DC pins and two small communication pins. It can deliver up to 62.5 kW of power.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/chademo_1.jpg">
@@ -102,7 +107,7 @@ This is the standard Level 3 charging connector for most Japanese EVs, such as N
 
 ## Charge port location
 
-EVs have different locations for their chargeport. Here are the most common
+EVs have different locations for their charge port. Here are the most common
 
 ### Rear corner
 
