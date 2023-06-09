@@ -84,6 +84,8 @@ Many expect others to follow soon.
     <figcaption><h4>NACS connector / Tesla connector</h4></figcaption>
 </figure>
 
+NACS is smaller and lighter than CCS Combo 1, which makes it easier to handle and plug in.
+
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_2.jpg">
         <img src="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_2_st.jpg"
