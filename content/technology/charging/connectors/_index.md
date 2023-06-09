@@ -1,16 +1,18 @@
 ---
 title: Charging Connectors
 linktitle: Connectors
-description: Another way to classify charging ports is by their charging connector, which is the physical shape and size of the plug that connects the EV to the charging station. There are different types of charging connectors that vary by region, standard, and compatibility. 
+description: Another way to classify charging ports is by their charging connector, which is the physical shape and size of the plug that connects the EV to the charging station. 
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
+
+ Different types of charging connectors vary by region, standard, and compatibility.
 
 ## Connector types
 
 ### J1772
 
-This is the standard Level 1 and Level 2 charging connector for all American EVs, except Teslas. It was created by the Society of Automotive Engineers (SAE) and works with any Level 1 or Level 2 charger in the US. It has a round shape with five pins and a latch. It can deliver up to 19.2 kW of power.
+J1772 is the standard Level 1 and Level 2 charging connector for all American EVs except Teslas. It was created by the [Society of Automotive Engineers](https://www.sae.org/standards/content/j1772_201710/) (SAE) and works with any Level 1 or Level 2 charger in the US. It has a round shape with five pins and a latch. It can deliver up to 19.2 kW of power.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/j1772_1.jpg">
@@ -22,7 +24,7 @@ This is the standard Level 1 and Level 2 charging connector for all American EVs
 
 ### Type 2
 
-This is the standard Level 1 and Level 2 charging connector for most European EVs, except Teslas. It was created by the International Electrotechnical Commission (IEC) and works with any Level 1 or Level 2 charger in Europe. It has a round shape with seven pins and a latch. It can deliver up to 43 kW of power.
+Type 2 is the standard Level 1 and Level 2 charging connector for most European EVs, except Teslas. It was created by the International Electrotechnical Commission (IEC) and works with any Level 1 or Level 2 charger in Europe. It has a round shape with seven pins and a latch. It can deliver up to 43 kW of power.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/type2_1.jpg">
@@ -34,11 +36,27 @@ This is the standard Level 1 and Level 2 charging connector for most European EV
 
 ### CCS
 
-This is the standard Level 3 charging connector for most American and European EVs, except Teslas and some Japanese models.
+This is the standard Level 3 charging connector for all EVS in Europe and most brands in America.
 
-It stands for Combined Charging System and was created by a consortium of automakers and standards organizations.
+It stands for Combined Charging System and was created by a [CharIN consortium](https://www.charin.global/) of automakers and standards organizations.
 
-It has a round shape with two additional DC pins below the J1772 or the type 2 connector. It can deliver up to 350 kW of power with a maximum of 920 Volts.
+It comes in two verrsions
+
+#### CCS Combo 1
+
+It has a round shape with two additional DC pins below the J1772 connector. It can deliver up to 350 kW of power with a maximum of 920 Volts. It is used in North America
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo1_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo1_1_st.jpg"
+        alt="CCS Combo 1 port with J1772 for AC charging" title="CCS Combo 1 port with J1772 for AC charging">
+    </a>
+    <figcaption><h4>CCS Combo 1 port with J1772 for AC charging</h4></figcaption>
+</figure>
+
+#### CCS Combo 2
+
+It has a round shape with two additional DC pins below the type 2 connector. It can deliver up to 350 kW of power with a maximum of 920 Volts. This version is used in europe on all brands. 
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_2.jpg">
