@@ -119,8 +119,8 @@ This model is available with a seat configuration with five seats.
 |Spec|Value|
 |----|-----|
 |Lane keeping|Yes, standard equipment|
-|Lane departure warning||
-|Drowsiness Alert||
+|Lane departure warning|Yes, standard equipment|
+|Drowsiness Alert|Yes, standard equipment|
 |Reversing camera|Yes, standard equipment|
 |360 camera|Yes, optional equipment|
 |Rear cross traffic alert|Yes (BLIS Cross Traffic Alert), standard equipment|
@@ -129,11 +129,11 @@ This model is available with a seat configuration with five seats.
 |Side parking sensors|Yes, optional equipment|
 |Hill descent assist|Yes, standard equipment|
 |Hill start assist|Yes, standard equipment|
-|AntiLock Braking System||
+|AntiLock Braking System|Yes, standard equipment|
 |Automatic emergency braking|Yes, standard equipment|
 |Brake assist|Yes, standard equipment|
 |Traction control|Yes, standard equipment|
-|Left turn crash avoidance||
+|Left turn crash avoidance|Yes, standard equipment|
 |Forward Collision Warning|Yes, standard equipment|
 |Electronic stability control|Yes, standard equipment|
 |Temperature warning|Yes, standard equipment|
@@ -142,7 +142,7 @@ This model is available with a seat configuration with five seats.
 |Efficiency assist|Yes, standard equipment|
 |Automatic Emergency Steering||
 |Traffic Sign Recognition||
-|Night Vision||
+|Night Vision|Not available|
 
 ## Infotainment
 
@@ -167,4 +167,4 @@ This model is available with a seat configuration with five seats.
 |----|-----|
 |Number of speakers|13|
 |Channels|5|
-|Total effect|600|
+|Total effect|1040|

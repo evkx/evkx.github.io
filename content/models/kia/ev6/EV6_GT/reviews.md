@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Kia EV6 GT range test 10.06.2023
+
+{{< youtube -NsLId8dLjc >}}
+
 ### Out of Spec Reviews: Kia EV6 GT Performance Review - This Thing Rips! 12.03.2023
 
 {{< youtube KdeIo5y0hVE >}}

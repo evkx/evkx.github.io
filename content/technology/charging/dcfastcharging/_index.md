@@ -29,12 +29,27 @@ Many EVs have now added battery heating that can be activated when navigating to
 ### The charging curve
 
 
+![Charge curve](../../../models/lucid/air/air_dream_edition_performance/chargingcurve.svg  "Charging curve")
 
 ## Route planning with charging
 
 Most EVs offer route planning functionality that include DC Fast charging stops if needed to reach destination. This is part of the [Navigation system](../../infotainment/navigation/)
 
 Typical you would see the expected arrival charge level for a charging stations and how much you need to charge to reach the next charing station
+
+## Plug&Charge
+
+One of the main challenges that EV drivers face is the convenience and security of charging their vehicles. Currently, most EV drivers need to use an RFID card, an app, or a contactless payment method to initiate a charging session at a public charging station. This can be cumbersome and time-consuming, especially if there are multiple charging networks with different payment systems and authentication methods.
+
+However, there is a new technology that promises to make EV charging much easier and safer: plug and charge. Plug and charge is a feature of the international standard ISO 15118, which defines the communication protocol between EVs and charging stations. With plug and charge, EV drivers can simply plug in their vehicles to a compatible charging station and the charging session will start automatically, without any additional steps or devices.
+
+### How does plug and charge work?
+
+Plug and charge works by using cryptographic certificates to identify and authenticate both the EV and the charging station. These certificates are issued by trusted authorities and stored in secure hardware modules inside the EV and the charging station. When an EV is plugged into a charging station that supports plug and charge, they exchange their certificates and establish a secure communication link. The charging station then verifies the EV's identity and authorizes the charging session based on the EV's contract with its mobility service provider (MSP). The MSP is the entity that provides the EV driver with access to charging services and handles the billing and payment.
+
+The plug and charge process ensures confidentiality, data integrity, and authenticity of the communication between the EV and the charging station. It also enables dynamic tariffing, load balancing, smart grid integration, and remote firmware updates. Plug and charge can be used for both AC and DC charging, as well as wireless charging.
+
+[Hubject](https://www.hubject.com/) is the company that manages certificats based on the protocoll  ISO15118-2
 
 ## Most common charging networks by location
 
