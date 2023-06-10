@@ -67,7 +67,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 You can choose between 1 different paint colors when ordering this model. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid]](../../../../technology/doors/#boot-lid) for the trunk. 
+The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. 
 
 There is only one roof for this model. 
 

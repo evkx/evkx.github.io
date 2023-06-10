@@ -12,6 +12,10 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube 6kpmXfCFamU >}}
 
+### Out of Spec Reviews: Hummer EV Edition 1 Pickup Full In-Depth Driving Review 16.11.2022
+
+{{< youtube vd8DxZY8VK8 >}}
+
 ### Out of Spec Reviews: Hummer EV Pickup 70-MPH Highway Range Test 11.11.2022
 
 {{< youtube F9IUOR8lG3E >}}
@@ -19,4 +23,12 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 ### InsideEVs: 2022 Hummer EV Pickup Edition 1: InsideEVs 70 MPH Range Test 23.10.2022
 
 {{< youtube TAZaH_WjtS4 >}}
+
+### Auto Focus: Living with the 2022 Electric Hummer so you don't have to! 04.10.2022
+
+{{< youtube TFdX6zL5h8Q >}}
+
+### Throttle House: 2022 GMC Hummer EV Review // $110,000 Powerhouse 19.03.2022
+
+{{< youtube nvSlBjyBlJc >}}
 

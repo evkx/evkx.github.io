@@ -114,7 +114,7 @@ Lexus has 1 models with total 1 variants. [Read all about them](lexus/)
 
 Lucid Group, Inc. is an American electric vehicle manufacturer headquartered in Newark, California. The company was founded in 2007. Deliveries of the Dream Edition launch versions were made available to the first group of 520 reservation holders on October 30, 2021  
 
-Lucid has 1 models with total 2 variants. [Read all about them](lucid/)
+Lucid has 1 models with total 3 variants. [Read all about them](lucid/)
 
 ## Mercedes
 
