@@ -24,7 +24,7 @@ J1772 is the standard Level 1 and Level 2 charging connector for all American EV
 
 ### Type 2
 
-Type 2 is the standard Level 1 and Level 2 charging connector for most European EVs, except Teslas. It was created by the International Electrotechnical Commission (IEC) and works with any Level 1 or Level 2 charger in Europe. It has a round shape with seven pins and a latch. It can deliver up to 43 kW of power.
+Type 2 is the standard Level 2 charging connector for European EVs. It was created by the International Electrotechnical Commission (IEC) and works with any Level 1 or Level 2 charger in Europe. It has a round shape with seven pins and a latch. It can deliver up to 43 kW of power.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/type2_1.jpg">
