@@ -53,7 +53,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 ## Drivetrain
 
-Audi SQ8 e-tron has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
+Audi SQ8 e-tron has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 152 mm, and the max is 248 mm. 
 
