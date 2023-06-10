@@ -1,14 +1,14 @@
 ---
 title: Charging Connectors
 linktitle: Connectors
-description: Another way to classify charging ports is by their charging connector, which is the physical shape and size of the plug that connects the EV to the charging station. 
+description: The charging connectors in EVs come in different types and different locations. 
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
- Different types of charging connectors vary by region, standard, and compatibility.
-
 ## Connector types
+
+A way to classify charging ports is by their charging connector, which is the physical shape and size of the plug that connects the EV to the charging station. Different types of charging connectors vary by region, standard, and compatibility.
 
 ### J1772
 
@@ -145,6 +145,8 @@ This is a very common location since all Tesla models have this location.
 
 
 ### Front Corner
+
+Front corner is used by some and can be a benefit if you are towing a trailer.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/frontcornerport_1.jpg">
