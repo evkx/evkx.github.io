@@ -6,13 +6,32 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-It uses a high-power DC (Direct Current) that can deliver up to 1000 volts and 250 amps. High-speed charging can add up to 200 miles of range in just 20 to 30 minutes, so it can quickly replenish an EV battery for long-distance driving.
+It uses a high-power DC (Direct Current) to deliver up to 1000 volts and 250 amps. High-speed charging can add up to 200 miles of range in just 20 to 30 minutes, so it can quickly replenish an EV battery for long-distance driving.
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/charging_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/charging_1_st.jpg"
+        alt="BMW i4 M50 DC Fast charging" title="BMW i4 M50 DC Fast charging">
+    </a>
+    <figcaption><h4>BMW i4 M50 DC Fast charging</h4></figcaption>
+</figure>
+
 
 ## DC Fast Charging availability
 
-Depending on where you live and which car you drive, dc fast charging can be easy and available to use or complex and challenging. Some areas have very few chargers and require planning to create a route with charging, while others have many chargers where you can stop and charge when needed.
+DC fast charging can be easy, available, complex, and challenging, depending on where you live and which car you drive. Some areas have very few chargers and require planning to create a route with charging, while others have many chargers where you can stop and charge when needed.
 
 This availability can vary very much between the brands. While Tesla has superchargers in many areas finding a charging station with Chademo plug for your Nissan Leaf is almost impossible.
+
+Below you see all charger locations for [Electrify America](https://www.electrifyamerica.com/locate-charger/), some very dense areas, whereas, in other areas, there are many miles/km between the chargers.
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/chargermap.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/chargermap_st.jpg"
+        alt="Electrify America charging locations June 10. 2023" title="Electrify America charging locations June 10. 2023">
+    </a>
+    <figcaption><h4>Electrify America charging location map June 10. 2023</h4></figcaption>
+</figure>
 
 ## DC Fast Charging performance
 
@@ -24,18 +43,25 @@ There are two typical reasons the charging speed varies between two charging ses
 
 The battery temperature is the most critical factor in battery charging speed. The optimum battery temperature is typically 25-35 degrees. If the temperature is too low, the BMS Will lower the charging speed to protect the battery. It could give you down to only 25% of the optimal rate.
 
-Many EVs have now added battery heating that can be activated when navigating to an charger through the navigation system or manually trigger it. 
+Many EVs have now added battery heating that can be activated when navigating to a charger through the navigation system or manually triggering it.
 
 ### The charging curve
 
+The charging curve describes how fast an EV can charge for a given state of charge percent. Typically this charge curve is not flat, meaning at a 10% state of charge, the charging speed is different than at 80%.
+
+How the charge curve looks varies vastly between models. Some can have a flat curve up to 80%, while others have a deep dive in step from a low state of charge. The max speed varies from below 100KW to above 300KW between the models.
+
+Below you see the charging curve for Lucid Air Dream Edition Performance. The charging curve has a deep dive from early on. Charging 30% from 50-80% takes 20 minutes, while charging 30% from 5%-35% takes only 9 minutes.
 
 ![Charge curve](../../../models/lucid/air/air_dream_edition_performance/chargingcurve.svg  "Charging curve")
 
+If you need to keep the charging stops as short as possible, identify the optimal charging area for your EV. EVKX.net helps you with that. We have detailed charging performance information for every model in our [EV database](/evsearch/), with charging curves and calculating optimum charging stops for the different models.
+
 ## Route planning with charging
 
-Most EVs offer route planning functionality that include DC Fast charging stops if needed to reach destination. This is part of the [Navigation system](../../infotainment/navigation/)
+Most EVs offer route planning functionality, including DC Fast charging stops to reach the destination. This route planning is part of the  [Navigation system](../../infotainment/navigation/).
 
-Typical you would see the expected arrival charge level for a charging stations and how much you need to charge to reach the next charing station
+Typical you would see the expected arrival charge level for charging stations and how much you need to charge to reach the next charging station
 
 ## Plug&Charge
 
