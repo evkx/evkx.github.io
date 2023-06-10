@@ -45,6 +45,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 19 hours and 21 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -53,7 +55,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 GMC Hummer EV Edition 1 Pickup has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 257 mm, and the max is 406 mm. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -97,7 +99,6 @@ The following functionalities are available on the **** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
-- [massage](../../../../technology/seats/adjustment/#massage) 
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />

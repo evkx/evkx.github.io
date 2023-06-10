@@ -1,7 +1,15 @@
 ---
 title: GMC EV models
 linktitle: GMC
-description: GMC EV models
+description: GMC is a division of General Motors that specializes in trucks, SUVs and crossovers. GMC stands for General Motors Truck Company and was founded in 1911. GMC is known for its professional grade vehicles that combine capability, luxury and technology.
 weight: 30
 ---
-{{% children description="true" depth="1" %}}
+GMC is also committed to an all-electric future as part of GM's vision to create a world with zero crashes, zero emissions and zero congestion. GMC aims to provide EVs for everyone by offering a wide range of electric vehicles that cater to different styles, needs and budgets.
+
+
+## GMC Hummer EV
+
+[![Hummer EV](https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_pickup/main_1_st.jpg)](hummer_ev)
+
+This model is available in 1 variant(s). 
+[Read full details](hummer_ev/)

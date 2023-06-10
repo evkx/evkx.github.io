@@ -59,6 +59,12 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Yes, standard equipment|
 |Adjustable height front|Yes, standard equipment|
 |Adjustable height rear|Yes, standard equipment|
+|Max ground clearance|406|
+|Minimum ground clearance|257|
+|Suspension type front|AirSuspension|
+|Suspension construction front|DoubleWishbone|
+|Suspension type rear|AirSuspension|
+|Suspension construction rear|Multilink|
 
 ## Interior
 
@@ -81,7 +87,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Standard feature|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
 
 ### Front seats
 
