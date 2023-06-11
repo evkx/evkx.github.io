@@ -32,7 +32,7 @@ We have separated our GMC Hummer EV Edition 1 Pickup article into sections. If y
 
 ## Performance
 
-The GMC Hummer EV Edition 1 Pickup has a maximum power of 746KW (1014hp). The total torque is 1485nm. The 0-100km/h sprint (0-62mph) takes 3 seconds. The top speed is 170 km/h. 
+The GMC Hummer EV Edition 1 Pickup has a maximum power of 746KW (1014hp). The total torque is 1485nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 170 km/h. 
 
 ## Battery, range, and charging
 
@@ -85,7 +85,7 @@ There is only one roof for this model.
 
 ## Interior
 
-
+The seat layout is the traditional five seats with two in front and three in the rear. 
 
 ### First row seats
 
@@ -100,8 +100,9 @@ The following functionalities are available on the **** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
+You can choose from 1 different materials/colors for this seat type. 
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+
 
 
 ### Second-row seat
@@ -110,16 +111,26 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
+- height adjustable headrest 
+- [heating](../../../../technology/seats/adjustment/#heating) 
 
 There is only one type of steering wheel available. 
 
 ## Climate system
 
-There is one climate system available. 
+There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
 GMC Hummer EV Edition 1 Pickup has several features to make your life as a driver or passenger more comfortable. 
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without needing to use the key. 
+
+The steering wheel is electrically adjustable. 
+
+You have wireless charging for your phone.  
 
 {{<evkxdisplayaddarticle />}}
 
@@ -143,7 +154,7 @@ One type of sound system is available for the GMC Hummer EV Edition 1 Pickup. Wi
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the GMC Hummer EV Edition 1 Pickup supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-
+The model has 2 USB-C connections as standard. The models is equipped with 2 USB-A connections as standard. 
 ## Lights
 
 
@@ -153,6 +164,8 @@ The GMC Hummer EV Edition 1 Pickup has several standard and optional [advanced d
 ### Safety systems
 
 
+
+The GMC Hummer EV Edition 1 Pickup has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
 The GMC Hummer EV Edition 1 Pickup has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 

@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Fully Charged Show: The Hummer EV Is Even More Insane Than You Think 03.01.2023
+
+{{< youtube ixe-7l683Og >}}
+
 ### Out of Spec Reviews: The Fastest (and slowest?) Charging EV We've Ever Tested! The Hummer EV Hits Over 360kW Peak 12.12.2022
 
 {{< youtube 6kpmXfCFamU >}}
@@ -27,6 +31,10 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 ### Auto Focus: Living with the 2022 Electric Hummer so you don't have to! 04.10.2022
 
 {{< youtube TFdX6zL5h8Q >}}
+
+### Out of Spec Reviews: I Drive The Absolutely Insane Hummer EV For The First Time! 07.04.2022
+
+{{< youtube 885Zrmxr3gQ >}}
 
 ### Throttle House: 2022 GMC Hummer EV Review // $110,000 Powerhouse 19.03.2022
 
