@@ -12,6 +12,10 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube ixe-7l683Og >}}
 
+### AutoTrader: The New Hummer EV Costs £300,000 In Europe! 23.12.2022
+
+{{< youtube x3iEUsrN9gk >}}
+
 ### Out of Spec Reviews: The Fastest (and slowest?) Charging EV We've Ever Tested! The Hummer EV Hits Over 360kW Peak 12.12.2022
 
 {{< youtube 6kpmXfCFamU >}}
