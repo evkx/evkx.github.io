@@ -138,7 +138,7 @@ MG has 2 models with total 3 variants. [Read all about them](mg/)
 
 Nio Inc  is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company develops battery-swapping stations for its vehicles, as an alternative to conventional charging stations. 
 
-Nio has 4 models with total 4 variants. [Read all about them](nio/)
+Nio has 4 models with total 5 variants. [Read all about them](nio/)
 
 ## Nissan
 
