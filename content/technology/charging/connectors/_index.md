@@ -97,7 +97,7 @@ NACS is smaller and lighter than CCS Combo 1, which makes it easier to handle an
 
 ### CHAdeMO
 
-CHAdeMO is the standard Level 3 charging connector for most Japanese EVs, such as Nissan, Mitsubishi, and Toyota. It stood for CHArge de MOve and was created by a consortium of Japanese companies and organizations. It is round, with two large DC pins and two small communication pins. It can deliver up to 62.5 kW of power.
+CHAdeMO is the standard Level 3 charging connector for most Japanese EVs, such as Nissan, Mitsubishi, and Toyota. It stood for CHArge de MOve and was created by a [consortium of Japanese companies and organizations](https://www.chademo.com/). It is round, with two large DC pins and two small communication pins. It can deliver up to 62.5 kW of power.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/technology/charging/connectors/chademo_1.jpg">
