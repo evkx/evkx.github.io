@@ -89,6 +89,14 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. The standard is a panoramic roof. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1_st.jpg" alt="Nio ET5 Touring" title="Nio ET5 Touring">
+</a>
+<figcaption><h4>Nio ET5 Touring</h4></figcaption></figur>
+
+
 {{<evkxdisplayaddarticle />}}
 
 

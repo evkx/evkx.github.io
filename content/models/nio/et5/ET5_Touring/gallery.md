@@ -8,6 +8,13 @@ hidden: true
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+<a href="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1.jpg"
+data-pswp-width="1081"
+data-pswp-height="636" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1_st.jpg" alt="Nio ET5 Touring" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1.jpg"
 data-pswp-width="1200"
