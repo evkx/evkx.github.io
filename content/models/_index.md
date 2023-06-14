@@ -92,6 +92,14 @@ Hyundai Motor Co. (HMC), established in 1967, is the auto sales leader in the Ko
 
 Hyundai has 2 models with total 4 variants. [Read all about them](hyundai/)
 
+## Jeep
+
+[![Jeep](https://media.evkx.net/multimedia/models/jeep/brandevs_st.jpg)](jeep/)
+
+Jeep is a brand of American automobiles that is known for its off-road and SUV vehicles. Jeep is planning to electrify its entire lineup by 2025 and is expecting 50% of its US sales to be fully electric by 2030.
+
+Jeep has 1 models with total 1 variants. [Read all about them](jeep/)
+
 ## Kia
 
 [![Kia](https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg)](kia/)
