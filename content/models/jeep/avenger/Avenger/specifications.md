@@ -56,6 +56,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Height|1528 mm|
 |Width excluding mirrors|1776 mm|
 |Wheelbase|2562 mm|
+|Drag coefficient|0,33|
+|Frontal area|2,25|
+|Turning circle|10,5 meters|
 
 ## Suspension
 
@@ -66,8 +69,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Not available|
 |Adjustable height front|Not available|
 |Adjustable height rear|Not available|
-|Max ground clearance|170|
-|Minimum ground clearance|170|
+|Max ground clearance|200|
+|Minimum ground clearance|200|
 |Suspension type front|SteelSpringsWithOilDampers|
 |Suspension construction front|MacPhersonStrut|
 |Suspension type rear|SteelSpringsWithOilDampers|
@@ -133,11 +136,11 @@ This model is available with a seat configuration with five seats.
 |Rear parking sensors||
 |Front parking sensors||
 |Side parking sensors||
-|Hill descent assist||
+|Hill descent assist|Yes, standard equipment|
 |Hill start assist||
-|AntiLock Braking System||
-|Automatic emergency braking||
-|Brake assist||
+|AntiLock Braking System|Yes, standard equipment|
+|Automatic emergency braking|Yes, standard equipment|
+|Brake assist|Yes, standard equipment|
 |Traction control||
 |Left turn crash avoidance||
 |Forward Collision Warning||

@@ -53,7 +53,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 Jeep Avenger has an all-wheel drive system supported by two motors, one on each axle. 
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 170 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 200 mm. 
 
 ### Brakes
 
@@ -66,7 +66,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 You can choose between 5 different paint colors when ordering this model. 
 Additionally, you can choose between 5 wheels with sizes from 17 to 18 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
 There is only one roof for this model. 
 
@@ -133,7 +133,7 @@ Keyless go makes it possible to start the car without needing to use the key.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen on the dashboard's center  is 10,25 inches large. 
+The  screen behind the steering wheel integrated into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 10,25 inches large. 
 
 
 <figur>
@@ -170,7 +170,11 @@ The Jeep Avenger has several standard and optional [advanced driver assistance s
 
 
 
+The Jeep Avenger has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
 The Jeep Avenger has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+The Jeep Avenger has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 
