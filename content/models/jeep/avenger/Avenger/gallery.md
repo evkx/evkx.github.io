@@ -36,6 +36,13 @@ data-pswp-height="1280"
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_3_st.jpeg" alt="Jeep Avenger" />
 </a>
+<a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="1735" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_4_st.jpg" alt="Jeep Avenger" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/headlights_1.jpg"
 data-pswp-width="3000"

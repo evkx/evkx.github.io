@@ -70,11 +70,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|Length|5101 mm|
-|Height|1509 mm|
-|Width excluding mirrors|1987 mm|
+|Length|4790 mm|
+|Height|1499 mm|
+|Width excluding mirrors|1960 mm|
 |Widht including mirrors|2202 mm|
-|Wheelbase|3060 mm|
+|Wheelbase|2888 mm|
 |Drag coefficient|0,208|
 |Turning circle|12,4 meters|
 

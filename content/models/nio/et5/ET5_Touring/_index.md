@@ -222,6 +222,14 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 ## Cargo Capacity and Towing Ability
 
-On the roof, you can load up to 100kg. Max weight is 2900kg, and with the base weight of 2379 kg, you can max load 521 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 450 liters. With the rear seat down, it is 1447 liters. On the roof, you can load up to 100kg. Max weight is 2900kg, and with the base weight of 2379 kg, you can max load 521 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trunk_1_st.jpg" alt="Nio ET5 Touring" title="Nio ET5 Touring">
+</a>
+<figcaption><h4>Nio ET5 Touring</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
