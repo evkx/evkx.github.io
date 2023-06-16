@@ -1,7 +1,7 @@
 ---
 title: Nio ET5 Touring
 linktitle: ET5 Touring
-description: Nio ET5 Touring is an all-electric station wagon with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. 
+description: Nio ET5 Touring is an all-electric station wagon with a WLTP range of up to 560 km (348 miles). EVKX.net have all the details. 
 weight: 10
 hidden: true
 ---
@@ -39,14 +39,14 @@ The Nio ET5 Touring has a maximum power of 480KW (653hp). The total torque is 85
 Nio ET5 Touring has two battery options with different specifications. Below you see how this affects range and charging. 
 ### 100kWh
 
-The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 590 to 540 km (367-336 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,3kWh/100km for the basic version and 16,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 560 to 540 km (348-336 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,1kWh/100km for the basic version and 16,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 75 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 44% resulting in an actual charge speed including time loss on 86kW. Each charge session would take 27 minutes and 2 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 9 hours and 58 minutes to drive. This trip will require four charge session(s) charging from 1% to 40%. The total time lost for charging will be 98 minutes.   
 ### 75kWh
 
-The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 456 to 419 km (283-260 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,3kWh/100km for the basic version and 16,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 456 to 419 km (283-260 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,1kWh/100km for the basic version and 16,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 140kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74% resulting in an actual charge speed including time loss on 77kW. Each charge session would take 37 minutes and 57 seconds. 
 
@@ -82,7 +82,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 7 different paint colors when ordering this model. 
+You can choose between 10 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 20 to 21 inches. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close are an standard function for the regular doors. 

@@ -1,13 +1,12 @@
 ---
-title: Nio ET5 Touring specifications
+title: Nio EL6 specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Nio ET5 Touring.
+description: EVKX.net gives you the full specifications for Nio EL6.
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Nio ET5 Touring](https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Nio ET5 Touring. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio ET5 Touring, visit the [chargeinfo](../chargecurve/) for Nio ET5 Touring with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net seeks to have the most complete specifications for Nio EL6. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio EL6, visit the [chargeinfo](../chargecurve/) for Nio EL6 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -26,22 +25,22 @@ EVKX.net seeks to have the most complete specifications for Nio ET5 Touring. Cli
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|560 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|16,1 kWh/100km|
-|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|18,6 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|540 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|16,7 kWh/100km|
-|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|20,4 kwh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|513 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|17,5 kWh/100km|
+|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|21,5 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|486 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|18,5 kWh/100km|
+|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|22,7 kwh/100km|
 
 
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|456 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|16,1 kWh/100km|
-|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|18,9 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|419 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|16,7 kWh/100km|
-|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|20,5 kwh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|394 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|17,5 kWh/100km|
+|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|21,8 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|372 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|18,5 kWh/100km|
+|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|23,1 kwh/100km|
 
 
 
@@ -70,12 +69,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|Length|4790 mm|
-|Height|1499 mm|
-|Width excluding mirrors|1960 mm|
-|Widht including mirrors|2202 mm|
-|Wheelbase|2888 mm|
-|Drag coefficient|0,208|
+|Length|4854 mm|
+|Height|1703 mm|
+|Width excluding mirrors|1995 mm|
+|Widht including mirrors|2271 mm|
+|Wheelbase|2915 mm|
+|Track width front|1668 mm|
+|Track width rear|1672 mm|
+|Drag coefficient|0,29|
 |Turning circle|12,4 meters|
 
 ## Suspension
@@ -87,10 +88,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Yes, optional equipment|
 |Adjustable height front|Yes, standard equipment|
 |Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|150|
-|Minimum ground clearance|150|
-|Suspension type front|SteelSpringsWithOilDampers|
-|Suspension type rear|SteelSpringsWithOilDampers|
+|Max ground clearance|198|
+|Minimum ground clearance|143|
+|Suspension type front|AirSuspension|
+|Suspension type rear|AirSuspension|
 
 ## Interior
 
@@ -135,9 +136,9 @@ This model is available with a seat configuration with five seats.
 |[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
-|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Not Available|
+|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
 
 ## Driver Assistance
 
@@ -152,7 +153,7 @@ This model is available with a seat configuration with five seats.
 |Rear parking sensors|Yes, standard equipment|
 |Front parking sensors|Yes, standard equipment|
 |Side parking sensors|Yes, standard equipment|
-|Hill descent assist|Not available|
+|Hill descent assist|Yes, standard equipment|
 |Hill start assist|Yes, standard equipment|
 |AntiLock Braking System|Yes, standard equipment|
 |Automatic emergency braking|Yes, standard equipment|

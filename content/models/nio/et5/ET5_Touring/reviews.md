@@ -8,7 +8,7 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Joyevs: NIO ET5 Touring Walkaround At NIO House Exterior & Interior | Finally A Station Wagon From NIO 10.01.2023
+### Norsk elbilforening: Nio ET5 Touring Verdenspremiære 2023 16.04.2023
 
-{{< youtube OX0QAelsPI4 >}}
+{{< youtube 1aRdIoI2Sss >}}
 

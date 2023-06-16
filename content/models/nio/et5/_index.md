@@ -21,7 +21,7 @@ Nio ET5 is an all-electric sedan with a WLTP range of up to 590 km (367 miles). 
 
 [![ET5 Touring](https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_st.jpg)](/models/nio/et5/et5_touring/)
 
-Nio ET5 Touring is an all-electric station wagon with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. 
+Nio ET5 Touring is an all-electric station wagon with a WLTP range of up to 560 km (348 miles). EVKX.net have all the details. 
 
 - [Nio ET5 Touring article](/models/nio/et5/et5_touring/)
 - [Nio ET5 Touring Range & consumption info](/models/nio/et5/et5_touring//rangeandconsumption)

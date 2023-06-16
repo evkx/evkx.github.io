@@ -1,7 +1,7 @@
 ---
-title: Nio EL7 range & consumption
+title: Nio EL6 range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Nio EL7.
+description: Here you find all details about range and consumption for Nio EL6.
 weight: 9
 hidden: true
 ---
@@ -41,10 +41,8 @@ The table below shows some estimated real-world examples in perfect condition an
 |----|-----|------|
 | 90kmh/56mph perfect condition | 450km /280mi| 20 kWh/100km / 3,1 mi/kWh |
 | 90kmh/56mph with 2KW heating | 415km /258mi| 21,7 kWh/100km / 2,9 mi/kWh |
-| 70mph/112kmh perfect condition | 375km /233mi| 24 kWh/100km / 2,6 mi/kWh|
-| 70mph/112kmh with 2KW heating | 565km /351mi| 25,7 kWh/100km / 2,4 mi/kWh  |
-| 120kmh/75mph perfect condition | 353km /219mi| 25,5 kWh/100km / 2,4 mi/kWh |
-| 120kmh/75mph with 2KW heating | 533km /331mi| 27,2 kWh/100km / 2,3 mi/kWh |
+| 120kmh/75mph perfect condition | 321km /199mi| 28 kWh/100km / 2,2 mi/kWh |
+| 120kmh/75mph with 2KW heating | 488km /303mi| 29,7 kWh/100km / 2,1 mi/kWh |
 
 ![Charge curve](../range_2.svg  "Range information")
 [Full screen](../range_2.svg)

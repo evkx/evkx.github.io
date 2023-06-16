@@ -1,5 +1,5 @@
 ---
-title: Nio EL7 reviews
+title: Nio EL6 reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
@@ -7,10 +7,6 @@ hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
-
-### Kris Rifa: Nio EL7 120KPH Range Test 16.06.2023
-
-{{< youtube xZk-bpVxhLo >}}
 
 ### Bjørn Nyland: Nio EL7 driving impressions and summary 14.05.2023
 
