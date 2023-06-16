@@ -9,7 +9,7 @@ Nio has currently 5 all electric models with total 6 variants in the market. Bel
 
 ## Nio EL6
 
-[![EL6]()](el6)
+[![EL6](https://media.evkx.net/multimedia/models/nio/el6/el6/main_2_st.jpg)](el6)
 
 This model is available in 1 variant(s). 
 [Read full details](el6/)

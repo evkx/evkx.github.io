@@ -8,6 +8,14 @@ hidden: true
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nio/el6/el6/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_1_st.jpg" alt="Nio EL6" title="Nio EL6">
+</a>
+<figcaption><h4>Nio EL6</h4></figcaption></figur>
+
 We have separated our Nio EL6 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
@@ -81,6 +89,14 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. The standard is a panoramic roof. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nio/el6/el6/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/exterior_1_st.jpg" alt="Nio EL6" title="Nio EL6">
+</a>
+<figcaption><h4>Nio EL6</h4></figcaption></figur>
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -107,6 +123,14 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 3 different materials/colors for this seat type. <br />
 <br />
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nio/el6/el6/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/frontseats_1_st.jpg" alt="Nio EL6" title="Nio EL6">
+</a>
+<figcaption><h4>Nio EL6</h4></figcaption></figur>
 
 
 ### Second-row seat
@@ -145,6 +169,14 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The  screen behind the steering wheel mounted into the dashboard is 9,8 inches large. The touch screen in the middle of the center console is 12,8 inches large. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nio/el6/el6/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/screens_1_st.jpg" alt="Nio EL6" title="Nio EL6">
+</a>
+<figcaption><h4>Nio EL6</h4></figcaption></figur>
+
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
@@ -209,4 +241,12 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1545 liters. On the roof, you can load up to 100kg. Max weight is 2850kg, and with the base weight of 2366 kg, you can max load 484 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/nio/el6/el6/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/trunk_1_st.jpg" alt="Nio EL6" title="Nio EL6">
+</a>
+<figcaption><h4>Nio EL6</h4></figcaption></figur>
+<object type="image/svg+xml" data="modelnavigation.svg"></object>
