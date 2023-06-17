@@ -17,7 +17,7 @@ EVKX.net seeks to have the most complete specifications for Nio EL6. Click on im
 |Peak electrical output in kW|480 Kw|
 |Electrical torque output in Nm|850 Nm|
 |Top speed|200 km/h|
-|0-100km/h (0-62 mph)|3,9 s|
+|0-100km/h (0-62 mph)|4,5 s|
 
 
 
@@ -77,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Wheelbase|2915 mm|
 |Track width front|1668 mm|
 |Track width rear|1672 mm|
-|Drag coefficient|0,29|
+|Drag coefficient|0,25|
 |Turning circle|12,4 meters|
 
 ## Suspension
@@ -85,14 +85,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |Adaptive suspension|Yes, standard equipment|
-|Adjustable damping front|Yes, optional equipment|
-|Adjustable damping rear|Yes, optional equipment|
-|Adjustable height front|Yes, standard equipment|
-|Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|198|
-|Minimum ground clearance|143|
-|Suspension type front|AirSuspension|
-|Suspension type rear|AirSuspension|
+|Adjustable damping front|Not available|
+|Adjustable damping rear|Not available|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|170|
+|Minimum ground clearance|170|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension type rear|SteelSpringsWithOilDampers|
 
 ## Interior
 
@@ -118,8 +118,8 @@ This model is available with a seat configuration with five seats.
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Standard feature|
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Standard feature|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Not Available|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Standard feature|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Optional feature|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Optional feature|
 
 ### Front seats
 

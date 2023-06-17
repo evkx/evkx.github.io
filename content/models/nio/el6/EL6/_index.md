@@ -32,7 +32,7 @@ We have separated our Nio EL6 article into sections. If you want to wait to read
 
 ## Performance
 
-The Nio EL6 has a maximum power of 480KW (653hp). The total torque is 850nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 200 km/h. 
+The Nio EL6 has a maximum power of 480KW (653hp). The total torque is 850nm. The 0-100km/h sprint (0-62mph) takes 4,5 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -68,7 +68,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio EL6 has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 143 mm, and the max is 198 mm. 
+
 
 ### Steering
 
@@ -116,8 +116,8 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
-- [massage](../../../../technology/seats/adjustment/#massage) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 - [footrest for passenger](../../../../technology/seats/adjustment/#footrest) 
 
@@ -239,7 +239,7 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1545 liters. On the roof, you can load up to 100kg. Max weight is 2850kg, and with the base weight of 2366 kg, you can max load 484 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 668 liters. With the rear seat down, it is 1430 liters. On the roof, you can load up to 100kg. Max weight is 2850kg, and with the base weight of 2366 kg, you can max load 484 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
 
