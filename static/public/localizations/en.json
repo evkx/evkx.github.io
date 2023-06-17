@@ -50,6 +50,9 @@
     "maxtrailer": "Max braked trailer size",
     "maxgroundclearance": "Max ground clearance",
     "mingroundclearance": "Minimum ground clearance",
-    "suspensionheightadjustment": "Suspensions height adjustment"
+    "suspensionheightadjustment": "Suspensions height adjustment",
+    "length": "Length",
+    "wheelbase": "Wheelbase",
+    "grossweight": "Curb weight"
   }
 }
