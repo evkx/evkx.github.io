@@ -53,6 +53,7 @@
     "suspensionheightadjustment": "Suspensions height adjustment",
     "length": "Length",
     "wheelbase": "Wheelbase",
-    "grossweight": "Curb weight"
+    "grossweight": "Curb weight",
+    "battery": "Battery"
   }
 }
