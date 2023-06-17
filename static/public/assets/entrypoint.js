@@ -3160,4 +3160,3 @@ const store = createStore(
 [redux-logger v3] to
 [redux-logger v3] import { createLogger } from 'redux-logger'
 `)};n.defaults=Y,n.createLogger=B,n.logger=$,n.default=$,Object.defineProperty(n,"__esModule",{value:!0})})})(TD,Kc);Kc.createLogger();const RD=vM({reducer:{evsearchResult:LM}}),AD=e=>{if(e==="no_nb")return"no_nb";if(e==="en")return"en";if(e==="no_nn")return"no_nn"};UT(LL).init({lng:AD("no_nb"),fallbackLng:OD("defaultLocale"),ns:["common"],defaultNS:"common",returnNull:!1},()=>{const e=new XL({defaultOptions:void 0});ax(document.getElementById("root")).render(W.jsx(k.StrictMode,{children:W.jsx(a2,{store:RD,children:W.jsx(iT,{client:e,children:W.jsx(LD,{children:W.jsx(cL,{router:PD})})})})}))});
-
