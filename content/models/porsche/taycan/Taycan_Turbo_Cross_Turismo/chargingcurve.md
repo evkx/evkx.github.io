@@ -1,7 +1,7 @@
 ---
-title: Porsche Taycan Turbo S Sport Turismo charging curve & performance
+title: Porsche Taycan Turbo Cross Turismo charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Porsche Taycan Turbo S Sport Turismo. 
+description: Here you find the charging curve for Porsche Taycan Turbo Cross Turismo. 
 weight: 10
 hidden: true
 ---
@@ -23,7 +23,7 @@ hidden: true
 The above charging curve is at optimum conditions. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/) 
 
 
-Porsche Taycan Turbo S Sport Turismo have battery heating, making charging at an optimum battery temperature easier. 
+Porsche Taycan Turbo Cross Turismo have battery heating, making charging at an optimum battery temperature easier. 
 
 
 {{<evkxdisplayaddarticle />}}
