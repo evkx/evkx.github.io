@@ -54,6 +54,7 @@
     "length": "Length",
     "wheelbase": "Wheelbase",
     "grossweight": "Curb weight",
-    "battery": "Battery"
+    "battery": "Battery",
+    "seats": "Seats"
   }
 }
