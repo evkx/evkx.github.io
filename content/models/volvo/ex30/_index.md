@@ -17,6 +17,19 @@ Volvo EX30 Twin Motor Performance is an all-electric crossover with a WLTP range
 - [Volvo EX30 Twin Motor Performance image gallery](/models/volvo/ex30/ex30_twin_motor_performance//gallery)
 - [Volvo EX30 Twin Motor Performance reviews](/models/volvo/ex30/ex30_twin_motor_performance//reviews)
 
+## Volvo EX30 Single Motor
+
+[![EX30 Single Motor](https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1_st.jpg)](/models/volvo/ex30/ex30_single_motor/)
+
+Volvo EX30 Single Motor is an all-electric crossover with a WLTP range of up to 344 km (214 miles). EVKX.net have all the details. 
+
+- [Volvo EX30 Single Motor article](/models/volvo/ex30/ex30_single_motor/)
+- [Volvo EX30 Single Motor Range & consumption info](/models/volvo/ex30/ex30_single_motor//rangeandconsumption)
+- [Volvo EX30 Single Motor Charging curve and performance](/models/volvo/ex30/ex30_single_motor//chargingcurve)
+- [Volvo EX30 Single Motor full specifications](/models/volvo/ex30/ex30_single_motor//specifications)
+- [Volvo EX30 Single Motor image gallery](/models/volvo/ex30/ex30_single_motor//gallery)
+- [Volvo EX30 Single Motor reviews](/models/volvo/ex30/ex30_single_motor//reviews)
+
 ## Volvo EX30 Single Motor Extended Range
 
 [![EX30 Single Motor Extended Range](https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1_st.jpg)](/models/volvo/ex30/ex30_single_motor_extended_range/)

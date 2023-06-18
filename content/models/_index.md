@@ -170,7 +170,7 @@ Polestar has 2 models with total 4 variants. [Read all about them](polestar/)
 
 Porsche is a German luxury sports car manufacturer that was founded in 1931 by Ferdinand Porsche. The company has a long history of producing high-performance sports cars that are known for their engineering excellence, innovative design, and motorsports success.
 
-Porsche has 1 models with total 13 variants. [Read all about them](porsche/)
+Porsche has 1 models with total 14 variants. [Read all about them](porsche/)
 
 ## Rivian
 
@@ -218,7 +218,7 @@ Volkswagen has 5 models with total 11 variants. [Read all about them](volkswagen
 
 Volvo is a Swedish multinational automotive company that produces a range of cars, trucks, buses, and construction equipment. The company was founded in 1927 and has since become known for its commitment to safety, innovation, and sustainability.
 
-Volvo has 3 models with total 5 variants. [Read all about them](volvo/)
+Volvo has 3 models with total 6 variants. [Read all about them](volvo/)
 
 ## XPENG
 
