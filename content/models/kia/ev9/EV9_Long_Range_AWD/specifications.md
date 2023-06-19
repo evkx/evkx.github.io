@@ -79,7 +79,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Standard feature|
 |Interior.Seatoptions.MemoryDriverSeat|Standard feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Not Available|

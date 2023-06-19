@@ -87,7 +87,7 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Unknown|
 |Interior.Seatoptions.MemoryDriverSeat|Unknown|
 |Interior.Seatoptions.MemoryPassangerSeat|Unknown|
@@ -107,7 +107,7 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Height adjustable headrest|Unknown|
 |Length adjustable headrest|Unknown|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|

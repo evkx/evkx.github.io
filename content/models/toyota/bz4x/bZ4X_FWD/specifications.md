@@ -84,7 +84,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Optional feature|
 |Interior.Seatoptions.MemoryDriverSeat|Optional feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Not Available|
@@ -104,7 +104,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
 |Height adjustable headrest|Unknown|
 |Length adjustable headrest|Unknown|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|

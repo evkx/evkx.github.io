@@ -112,7 +112,7 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Optional feature|
 |Interior.Seatoptions.MemoryDriverSeat|Optional feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Not Available|
@@ -132,7 +132,7 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Optional feature|
 |Interior.Seatoptions.MemoryDriverSeat|Optional feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Not Available|
@@ -152,7 +152,7 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Optional feature|
 |Interior.Seatoptions.MemoryDriverSeat|Optional feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Not Available|
@@ -172,7 +172,7 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Optional feature|
 |Interior.Seatoptions.MemoryDriverSeat|Optional feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Not Available|
@@ -192,7 +192,7 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Standard feature|
 |Interior.Seatoptions.MemoryDriverSeat|Standard feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Standard feature|

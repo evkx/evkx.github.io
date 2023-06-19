@@ -94,7 +94,7 @@ The following functionalities are available on the **** seat.
 
 
 
-The following functionalities are available on the **** seat. 
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 
 There is only one type of steering wheel available. 

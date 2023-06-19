@@ -114,13 +114,9 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 
-The following functionalities are available on the **** seat. 
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
-
-You can choose from 5 different materials/colors for this seat type. <br />
-<br />
-
 
 
 <figur>
