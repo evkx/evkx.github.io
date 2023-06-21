@@ -68,6 +68,14 @@ GMC is a division of General Motors that specializes in trucks, SUVs and crossov
 
 GMC has 1 models with total 1 variants. [Read all about them](gmc/)
 
+## HiPhi
+
+[![HiPhi](https://media.evkx.net/multimedia/models/hiphi/brandevs_st.jpg)](hiphi/)
+
+HiPhi is a premium electric vehicle brand of Human Horizons, a Chinese technology and mobility company.
+
+HiPhi has 1 models with total 1 variants. [Read all about them](hiphi/)
+
 ## Honda
 
 [![Honda](https://media.evkx.net/multimedia/models/honda/brandevs_st.jpg)](honda/)
