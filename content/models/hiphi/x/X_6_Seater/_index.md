@@ -169,7 +169,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 ## Lights
 
-
+The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 ## Advanced driver assistance systems
 
 The HiPhi X 6 Seater has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
