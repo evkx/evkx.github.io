@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1_st.jpg" alt="BMW i7 M70 xDrive" title="BMW i7 M70 xDrive">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1_st.jpg" alt="BMW i7 M70 xDrive" title="BMW i7 M70 xDrive" width="680" height="453">
 </a>
 <figcaption><h4>BMW i7 M70 xDrive</h4></figcaption></figur>
 
@@ -80,7 +80,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_1_st.jpg" alt="BMW i7 M70 xDrive" title="BMW i7 M70 xDrive">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_1_st.jpg" alt="BMW i7 M70 xDrive" title="BMW i7 M70 xDrive" width="680" height="453">
 </a>
 <figcaption><h4>BMW i7 M70 xDrive</h4></figcaption></figur>
 
@@ -115,7 +115,7 @@ You can choose from 7 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/frontseats_1_st.jpg" alt="BMW i7 M70 xDrive" title="BMW i7 M70 xDrive">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/frontseats_1_st.jpg" alt="BMW i7 M70 xDrive" title="BMW i7 M70 xDrive" width="680" height="453">
 </a>
 <figcaption><h4>BMW i7 M70 xDrive</h4></figcaption></figur>
 
@@ -169,7 +169,7 @@ BMW i7 M70 xDrive has twin screens on a shared frame mounted with brackets on to
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/screens_1_st.jpg" alt="BMW i7 M70 xDrive" title="BMW i7 M70 xDrive">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/screens_1_st.jpg" alt="BMW i7 M70 xDrive" title="BMW i7 M70 xDrive" width="680" height="451">
 </a>
 <figcaption><h4>BMW i7 M70 xDrive</h4></figcaption></figur>
 
@@ -190,7 +190,7 @@ You can choose between two types of headlights for the BMW i7 M70 xDrive. The st
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/headlights_1_st.jpg" alt="BMW i7 M70 xDrive" title="BMW i7 M70 xDrive">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/headlights_1_st.jpg" alt="BMW i7 M70 xDrive" title="BMW i7 M70 xDrive" width="680" height="453">
 </a>
 <figcaption><h4>BMW i7 M70 xDrive</h4></figcaption></figur>
 

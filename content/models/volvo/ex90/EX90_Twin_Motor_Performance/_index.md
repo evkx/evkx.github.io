@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance" width="680" height="453">
 </a>
 <figcaption><h4>Volvo EX90 Twin Motor Performance</h4></figcaption></figur>
 
@@ -77,7 +77,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/exterior_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/exterior_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance" width="680" height="501">
 </a>
 <figcaption><h4>Volvo EX90 Twin Motor Performance</h4></figcaption></figur>
 
@@ -114,7 +114,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/frontseats_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/frontseats_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX90 Twin Motor Performance</h4></figcaption></figur>
 
@@ -130,7 +130,7 @@ The second row has a standard three-seat bench with a 40:60 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX90 Twin Motor Performance</h4></figcaption></figur>
 
@@ -170,7 +170,7 @@ Volvo EX90 Twin Motor Performance has multiple integrated screens. Behind the st
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/screens_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/screens_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX90 Twin Motor Performance</h4></figcaption></figur>
 
@@ -189,7 +189,7 @@ You can choose between two types of headlights for the Volvo EX90 Twin Motor Per
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/headlights_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/headlights_1_st.jpg" alt="Volvo EX90 Twin Motor Performance" title="Volvo EX90 Twin Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX90 Twin Motor Performance</h4></figcaption></figur>
 

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" width="680" height="382">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
 
@@ -85,7 +85,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/exterior_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/exterior_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
 
@@ -137,7 +137,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/frontseats_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/frontseats_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" width="680" height="925">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
 
@@ -161,7 +161,7 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
 
@@ -265,7 +265,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/trunk_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/trunk_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

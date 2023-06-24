@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" width="680" height="509">
 </a>
 <figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/charging_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/charging_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" width="680" height="509">
 </a>
 <figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
@@ -95,7 +95,7 @@ You can choose between two types of roofs on this model. The standard is a panor
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" width="680" height="453">
 </a>
 <figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
@@ -157,7 +157,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" width="680" height="510">
 </a>
 <figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
@@ -191,7 +191,7 @@ Audi RS e-tron GT has multiple integrated screens. Behind the steering wheel is 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" width="680" height="453">
 </a>
 <figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
@@ -212,7 +212,7 @@ You can choose between three types of headlights for the Audi RS e-tron GT. The 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" width="680" height="453">
 </a>
 <figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
@@ -269,7 +269,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/trunk_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/trunk_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" width="680" height="509">
 </a>
 <figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

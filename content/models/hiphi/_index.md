@@ -13,3 +13,10 @@ Human Horizons is an innovative technology company based in Shanghai, China. It 
 
 This model is available in 1 variant(s). 
 [Read full details](x/)
+
+## HiPhi Z
+
+[![Z]()](z)
+
+This model is available in 1 variant(s). 
+[Read full details](z/)

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/et7/et7/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/et7/et7/main_1_st.jpg" alt="Nio ET7" title="Nio ET7">
+<img src="https://media.evkx.net/multimedia/models/nio/et7/et7/main_1_st.jpg" alt="Nio ET7" title="Nio ET7" width="680" height="423">
 </a>
 <figcaption><h4>Nio ET7</h4></figcaption></figur>
 
@@ -92,7 +92,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/et7/et7/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/et7/et7/exterior_1_st.jpg" alt="Nio ET7" title="Nio ET7">
+<img src="https://media.evkx.net/multimedia/models/nio/et7/et7/exterior_1_st.jpg" alt="Nio ET7" title="Nio ET7" width="680" height="423">
 </a>
 <figcaption><h4>Nio ET7</h4></figcaption></figur>
 
@@ -165,7 +165,7 @@ The  screen behind the steering wheel mounted into the dashboard is 10,2 inches 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/et7/et7/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/et7/et7/screens_1_st.jpg" alt="Nio ET7" title="Nio ET7">
+<img src="https://media.evkx.net/multimedia/models/nio/et7/et7/screens_1_st.jpg" alt="Nio ET7" title="Nio ET7" width="680" height="370">
 </a>
 <figcaption><h4>Nio ET7</h4></figcaption></figur>
 
@@ -190,7 +190,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/et7/et7/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/et7/et7/headlights_1_st.jpg" alt="Nio ET7" title="Nio ET7">
+<img src="https://media.evkx.net/multimedia/models/nio/et7/et7/headlights_1_st.jpg" alt="Nio ET7" title="Nio ET7" width="680" height="383">
 </a>
 <figcaption><h4>Nio ET7</h4></figcaption></figur>
 

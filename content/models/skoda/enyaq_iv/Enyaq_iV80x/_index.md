@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" width="680" height="453">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/charging_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/charging_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" width="680" height="453">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
 
@@ -93,7 +93,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" width="680" height="453">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
 
@@ -141,7 +141,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" width="680" height="453">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
 
@@ -156,7 +156,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" width="680" height="453">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
 
@@ -188,7 +188,7 @@ SKODA Enyaq iV80x has twin screens with information for the driver and passenger
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" width="680" height="453">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
 
@@ -209,7 +209,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/headlights_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/headlights_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" width="680" height="453">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
 
@@ -261,7 +261,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" width="680" height="453">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

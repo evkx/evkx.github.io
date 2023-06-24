@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD">
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD" width="680" height="453">
 </a>
 <figcaption><h4>Rivian R1T Quad-Motor AWD</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5KW 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/charging_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD">
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/charging_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD" width="680" height="425">
 </a>
 <figcaption><h4>Rivian R1T Quad-Motor AWD</h4></figcaption></figur>
 
@@ -84,7 +84,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD">
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD" width="680" height="453">
 </a>
 <figcaption><h4>Rivian R1T Quad-Motor AWD</h4></figcaption></figur>
 
@@ -155,7 +155,7 @@ Rivian R1T Quad-Motor AWD has multiple integrated screens. Behind the steering w
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/screens_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD">
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/screens_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD" width="680" height="453">
 </a>
 <figcaption><h4>Rivian R1T Quad-Motor AWD</h4></figcaption></figur>
 
@@ -178,7 +178,7 @@ The standard headlights use LED technology.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/headlights_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD">
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/headlights_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD" width="680" height="453">
 </a>
 <figcaption><h4>Rivian R1T Quad-Motor AWD</h4></figcaption></figur>
 
@@ -225,7 +225,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/trunk_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD">
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/trunk_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD" width="680" height="453">
 </a>
 <figcaption><h4>Rivian R1T Quad-Motor AWD</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

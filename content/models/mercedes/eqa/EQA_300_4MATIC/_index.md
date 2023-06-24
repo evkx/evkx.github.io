@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/main_1_st.jpg" alt="Mercedes-EQ EQA 300 4MATIC" title="Mercedes-EQ EQA 300 4MATIC">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/main_1_st.jpg" alt="Mercedes-EQ EQA 300 4MATIC" title="Mercedes-EQ EQA 300 4MATIC" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 300 4MATIC</h4></figcaption></figur>
 
@@ -81,7 +81,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQA 300 4MATIC" title="Mercedes-EQ EQA 300 4MATIC">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQA 300 4MATIC" title="Mercedes-EQ EQA 300 4MATIC" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 300 4MATIC</h4></figcaption></figur>
 
@@ -134,7 +134,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQA 300 4MATIC" title="Mercedes-EQ EQA 300 4MATIC">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQA 300 4MATIC" title="Mercedes-EQ EQA 300 4MATIC" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 300 4MATIC</h4></figcaption></figur>
 
@@ -174,7 +174,7 @@ Mercedes-EQ EQA 300 4MATIC has twin screens on a shared frame mounted with brack
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQA 300 4MATIC" title="Mercedes-EQ EQA 300 4MATIC">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQA 300 4MATIC" title="Mercedes-EQ EQA 300 4MATIC" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 300 4MATIC</h4></figcaption></figur>
 

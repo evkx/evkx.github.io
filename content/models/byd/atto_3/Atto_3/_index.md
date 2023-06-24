@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3">
+<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" width="680" height="490">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
 
@@ -80,7 +80,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/exterior_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3">
+<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/exterior_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" width="680" height="483">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
 
@@ -116,7 +116,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/frontseats_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3">
+<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/frontseats_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" width="680" height="511">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
 
@@ -132,7 +132,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/secondrowseats_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3">
+<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/secondrowseats_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" width="680" height="476">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
 
@@ -170,7 +170,7 @@ The optional Design layout has the following configuration. Behind the steering 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/screens_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3">
+<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/screens_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" width="680" height="453">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
 
@@ -189,7 +189,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/headlights_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3">
+<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/headlights_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" width="680" height="453">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
 
@@ -237,7 +237,7 @@ The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 13
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/trunk_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3">
+<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/trunk_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" width="680" height="453">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

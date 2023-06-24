@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV" width="680" height="453">
 </a>
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/charging_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/charging_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV" width="680" height="453">
 </a>
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
 
@@ -89,7 +89,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/exterior_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/exterior_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV" width="680" height="453">
 </a>
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
 
@@ -123,7 +123,7 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/frontseats_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/frontseats_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV" width="680" height="453">
 </a>
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
 
@@ -138,7 +138,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/secondrowseats_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/secondrowseats_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV" width="680" height="453">
 </a>
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
 
@@ -170,7 +170,7 @@ SKODA ENYAQ COUPÉ RS iV has twin screens with information for the driver and pa
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/screens_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/screens_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV" width="680" height="453">
 </a>
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
 
@@ -235,7 +235,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/trunk_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/trunk_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV" width="680" height="453">
 </a>
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron" width="680" height="509">
 </a>
 <figcaption><h4>Audi SQ8 Sportback e-tron</h4></figcaption></figur>
 
@@ -85,7 +85,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/exterior_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/exterior_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron" width="680" height="510">
 </a>
 <figcaption><h4>Audi SQ8 Sportback e-tron</h4></figcaption></figur>
 
@@ -151,7 +151,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/frontseats_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/frontseats_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron" width="680" height="509">
 </a>
 <figcaption><h4>Audi SQ8 Sportback e-tron</h4></figcaption></figur>
 
@@ -195,7 +195,7 @@ Audi SQ8 Sportback e-tron has multiple integrated screens. Behind the steering w
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/screens_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/screens_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron" width="680" height="509">
 </a>
 <figcaption><h4>Audi SQ8 Sportback e-tron</h4></figcaption></figur>
 
@@ -216,7 +216,7 @@ You can choose between three types of headlights for the Audi SQ8 Sportback e-tr
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron" width="680" height="453">
 </a>
 <figcaption><h4>Audi SQ8 Sportback e-tron</h4></figcaption></figur>
 
@@ -274,7 +274,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron" width="680" height="509">
 </a>
 <figcaption><h4>Audi SQ8 Sportback e-tron</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX30 Twin Motor Performance</h4></figcaption></figur>
 
@@ -75,7 +75,7 @@ You can choose between two types of roofs on this model. The optional has a pano
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/exterior_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/exterior_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX30 Twin Motor Performance</h4></figcaption></figur>
 
@@ -117,7 +117,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/secondrowseats_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/secondrowseats_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX30 Twin Motor Performance</h4></figcaption></figur>
 
@@ -149,7 +149,7 @@ Volvo EX30 Twin Motor Performance has multiple integrated screens. The touch scr
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/screens_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/screens_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance" width="680" height="629">
 </a>
 <figcaption><h4>Volvo EX30 Twin Motor Performance</h4></figcaption></figur>
 
@@ -168,7 +168,7 @@ You can choose between two types of headlights for the Volvo EX30 Twin Motor Per
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/headlights_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/headlights_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX30 Twin Motor Performance</h4></figcaption></figur>
 
@@ -219,7 +219,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/trunk_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/trunk_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX30 Twin Motor Performance</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

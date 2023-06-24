@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/main_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/main_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55" width="680" height="510">
 </a>
 <figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
 
@@ -89,7 +89,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/exterior_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/exterior_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55" width="680" height="453">
 </a>
 <figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
 
@@ -181,7 +181,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/frontseats_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/frontseats_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55" width="680" height="453">
 </a>
 <figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
 
@@ -225,7 +225,7 @@ Audi e-tron 55 has multiple integrated screens. Behind the steering wheel is a [
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/screens_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/screens_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55" width="680" height="453">
 </a>
 <figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
 
@@ -246,7 +246,7 @@ You can choose between three types of headlights for the Audi e-tron 55. The sta
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/headlights_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/headlights_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55" width="680" height="509">
 </a>
 <figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
 
@@ -304,7 +304,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/trunk_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/trunk_1_st.jpg" alt="Audi e-tron 55" title="Audi e-tron 55" width="680" height="453">
 </a>
 <figcaption><h4>Audi e-tron 55</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

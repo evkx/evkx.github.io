@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_st.jpg" alt="Mercedes-EQ EQA 250" title="Mercedes-EQ EQA 250">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_st.jpg" alt="Mercedes-EQ EQA 250" title="Mercedes-EQ EQA 250" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 250</h4></figcaption></figur>
 
@@ -81,7 +81,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/exterior_1_st.jpg" alt="Mercedes-EQ EQA 250" title="Mercedes-EQ EQA 250">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/exterior_1_st.jpg" alt="Mercedes-EQ EQA 250" title="Mercedes-EQ EQA 250" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 250</h4></figcaption></figur>
 
@@ -134,7 +134,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/frontseats_1_st.jpg" alt="Mercedes-EQ EQA 250" title="Mercedes-EQ EQA 250">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/frontseats_1_st.jpg" alt="Mercedes-EQ EQA 250" title="Mercedes-EQ EQA 250" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 250</h4></figcaption></figur>
 
@@ -174,7 +174,7 @@ Mercedes-EQ EQA 250 has twin screens on a shared frame mounted with brackets on 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/screens_1_st.jpg" alt="Mercedes-EQ EQA 250" title="Mercedes-EQ EQA 250">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/screens_1_st.jpg" alt="Mercedes-EQ EQA 250" title="Mercedes-EQ EQA 250" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 250</h4></figcaption></figur>
 

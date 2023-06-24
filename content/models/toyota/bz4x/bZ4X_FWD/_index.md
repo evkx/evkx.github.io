@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/main_1_st.jpg" alt="Toyota bZ4X FWD" title="Toyota bZ4X FWD">
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/main_1_st.jpg" alt="Toyota bZ4X FWD" title="Toyota bZ4X FWD" width="680" height="453">
 </a>
 <figcaption><h4>Toyota bZ4X FWD</h4></figcaption></figur>
 
@@ -76,7 +76,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/exterior_1_st.jpg" alt="Toyota bZ4X FWD" title="Toyota bZ4X FWD">
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/exterior_1_st.jpg" alt="Toyota bZ4X FWD" title="Toyota bZ4X FWD" width="680" height="453">
 </a>
 <figcaption><h4>Toyota bZ4X FWD</h4></figcaption></figur>
 
@@ -116,7 +116,7 @@ The second row has a standard three-seat bench with a 40:60 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/secondrowseats_1_st.jpg" alt="Toyota bZ4X FWD" title="Toyota bZ4X FWD">
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/secondrowseats_1_st.jpg" alt="Toyota bZ4X FWD" title="Toyota bZ4X FWD" width="680" height="453">
 </a>
 <figcaption><h4>Toyota bZ4X FWD</h4></figcaption></figur>
 
@@ -148,7 +148,7 @@ The optional  layout has the following configuration. Behind the steering wheel 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/screens_1_st.jpg" alt="Toyota bZ4X FWD" title="Toyota bZ4X FWD">
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/screens_1_st.jpg" alt="Toyota bZ4X FWD" title="Toyota bZ4X FWD" width="680" height="453">
 </a>
 <figcaption><h4>Toyota bZ4X FWD</h4></figcaption></figur>
 
@@ -203,7 +203,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/trunk_1_st.jpg" alt="Toyota bZ4X FWD" title="Toyota bZ4X FWD">
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/trunk_1_st.jpg" alt="Toyota bZ4X FWD" title="Toyota bZ4X FWD" width="680" height="453">
 </a>
 <figcaption><h4>Toyota bZ4X FWD</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

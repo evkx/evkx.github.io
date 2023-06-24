@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_st.jpg" alt="Nio ET5 Touring" title="Nio ET5 Touring">
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_st.jpg" alt="Nio ET5 Touring" title="Nio ET5 Touring" width="680" height="419">
 </a>
 <figcaption><h4>Nio ET5 Touring</h4></figcaption></figur>
 
@@ -92,7 +92,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1_st.jpg" alt="Nio ET5 Touring" title="Nio ET5 Touring">
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1_st.jpg" alt="Nio ET5 Touring" title="Nio ET5 Touring" width="680" height="546">
 </a>
 <figcaption><h4>Nio ET5 Touring</h4></figcaption></figur>
 
@@ -229,7 +229,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trunk_1_st.jpg" alt="Nio ET5 Touring" title="Nio ET5 Touring">
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trunk_1_st.jpg" alt="Nio ET5 Touring" title="Nio ET5 Touring" width="680" height="443">
 </a>
 <figcaption><h4>Nio ET5 Touring</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

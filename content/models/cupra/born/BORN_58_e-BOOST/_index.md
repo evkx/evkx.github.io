@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/main_1_st.jpg" alt="CUPRA BORN 58 e-BOOST" title="CUPRA BORN 58 e-BOOST">
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/main_1_st.jpg" alt="CUPRA BORN 58 e-BOOST" title="CUPRA BORN 58 e-BOOST" width="680" height="453">
 </a>
 <figcaption><h4>CUPRA BORN 58 e-BOOST</h4></figcaption></figur>
 
@@ -81,7 +81,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_1_st.jpg" alt="CUPRA BORN 58 e-BOOST" title="CUPRA BORN 58 e-BOOST">
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_1_st.jpg" alt="CUPRA BORN 58 e-BOOST" title="CUPRA BORN 58 e-BOOST" width="680" height="387">
 </a>
 <figcaption><h4>CUPRA BORN 58 e-BOOST</h4></figcaption></figur>
 
@@ -115,7 +115,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/frontseats_1_st.jpg" alt="CUPRA BORN 58 e-BOOST" title="CUPRA BORN 58 e-BOOST">
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/frontseats_1_st.jpg" alt="CUPRA BORN 58 e-BOOST" title="CUPRA BORN 58 e-BOOST" width="680" height="478">
 </a>
 <figcaption><h4>CUPRA BORN 58 e-BOOST</h4></figcaption></figur>
 
@@ -154,7 +154,7 @@ CUPRA BORN 58 e-BOOST has twin screens with information for the driver and passe
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/screens_1_st.jpg" alt="CUPRA BORN 58 e-BOOST" title="CUPRA BORN 58 e-BOOST">
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/screens_1_st.jpg" alt="CUPRA BORN 58 e-BOOST" title="CUPRA BORN 58 e-BOOST" width="680" height="388">
 </a>
 <figcaption><h4>CUPRA BORN 58 e-BOOST</h4></figcaption></figur>
 
@@ -175,7 +175,7 @@ The standard headlights use LED technology.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/headlights_1_st.jpg" alt="CUPRA BORN 58 e-BOOST" title="CUPRA BORN 58 e-BOOST">
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/headlights_1_st.jpg" alt="CUPRA BORN 58 e-BOOST" title="CUPRA BORN 58 e-BOOST" width="680" height="447">
 </a>
 <figcaption><h4>CUPRA BORN 58 e-BOOST</h4></figcaption></figur>
 

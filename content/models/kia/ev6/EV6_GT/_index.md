@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT" width="680" height="382">
 </a>
 <figcaption><h4>Kia EV6 GT</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/charging_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/charging_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT" width="680" height="382">
 </a>
 <figcaption><h4>Kia EV6 GT</h4></figcaption></figur>
 
@@ -84,7 +84,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT" width="680" height="382">
 </a>
 <figcaption><h4>Kia EV6 GT</h4></figcaption></figur>
 
@@ -117,7 +117,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/frontseats_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/frontseats_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT" width="680" height="382">
 </a>
 <figcaption><h4>Kia EV6 GT</h4></figcaption></figur>
 
@@ -133,7 +133,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/secondrowseats_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/secondrowseats_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT" width="680" height="382">
 </a>
 <figcaption><h4>Kia EV6 GT</h4></figcaption></figur>
 
@@ -161,7 +161,7 @@ Kia EV6 GT has twin screens on a shared frame mounted with brackets on top of th
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT" width="680" height="382">
 </a>
 <figcaption><h4>Kia EV6 GT</h4></figcaption></figur>
 
@@ -182,7 +182,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/headlights_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/headlights_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT" width="680" height="382">
 </a>
 <figcaption><h4>Kia EV6 GT</h4></figcaption></figur>
 
@@ -231,7 +231,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/trunk_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/trunk_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT" width="680" height="382">
 </a>
 <figcaption><h4>Kia EV6 GT</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

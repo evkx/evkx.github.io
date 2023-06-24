@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" width="680" height="453">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" width="680" height="508">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
 
@@ -97,7 +97,7 @@ You can choose between two types of roofs on this model. The optional has a pano
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" width="680" height="453">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
 
@@ -147,7 +147,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" width="680" height="510">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
 
@@ -191,7 +191,7 @@ Porsche Taycan Turbo S has multiple integrated screens. Behind the steering whee
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/screens_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/screens_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" width="680" height="510">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
 
@@ -212,7 +212,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" width="680" height="520">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
 

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S" width="680" height="382">
 </a>
 <figcaption><h4>Porsche Taycan 4S</h4></figcaption></figur>
 
@@ -101,7 +101,7 @@ There is only one roof for this model.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/exterior_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/exterior_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S" width="680" height="388">
 </a>
 <figcaption><h4>Porsche Taycan 4S</h4></figcaption></figur>
 
@@ -163,7 +163,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/frontseats_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/frontseats_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S" width="680" height="510">
 </a>
 <figcaption><h4>Porsche Taycan 4S</h4></figcaption></figur>
 
@@ -207,7 +207,7 @@ Porsche Taycan 4S has multiple integrated screens. Behind the steering wheel is 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/screens_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/screens_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S" width="680" height="423">
 </a>
 <figcaption><h4>Porsche Taycan 4S</h4></figcaption></figur>
 
@@ -277,7 +277,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/trunk_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/trunk_1_st.jpg" alt="Porsche Taycan 4S" title="Porsche Taycan 4S" width="680" height="510">
 </a>
 <figcaption><h4>Porsche Taycan 4S</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

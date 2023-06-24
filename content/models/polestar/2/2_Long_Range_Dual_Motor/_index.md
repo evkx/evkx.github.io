@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor" width="680" height="510">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor</h4></figcaption></figur>
 
@@ -75,7 +75,7 @@ You can choose between two types of roofs on this model. The optional has a pano
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exteriore_3.jpg">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exteriore_3_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exteriore_3_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor" width="680" height="510">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor</h4></figcaption></figur>
 
@@ -105,7 +105,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor" width="680" height="382">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor</h4></figcaption></figur>
 
@@ -121,7 +121,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/secondrowseats_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/secondrowseats_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor" width="680" height="510">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor</h4></figcaption></figur>
 
@@ -153,7 +153,7 @@ Polestar 2 Long Range Dual Motor has multiple integrated screens. Behind the ste
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/screens_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/screens_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor" width="680" height="510">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor</h4></figcaption></figur>
 
@@ -170,7 +170,7 @@ You can choose between two types of headlights for the Polestar 2 Long Range Dua
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/headlights_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/headlights_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" title="Polestar 2 Long Range Dual Motor" width="680" height="400">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor</h4></figcaption></figur>
 

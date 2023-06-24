@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" title="GMC Hummer EV Edition 1 Pickup">
+<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" title="GMC Hummer EV Edition 1 Pickup" width="680" height="453">
 </a>
 <figcaption><h4>GMC Hummer EV Edition 1 Pickup</h4></figcaption></figur>
 
@@ -74,7 +74,7 @@ There is only one roof for this model.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" title="GMC Hummer EV Edition 1 Pickup">
+<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" title="GMC Hummer EV Edition 1 Pickup" width="680" height="453">
 </a>
 <figcaption><h4>GMC Hummer EV Edition 1 Pickup</h4></figcaption></figur>
 
@@ -143,7 +143,7 @@ GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with b
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" title="GMC Hummer EV Edition 1 Pickup">
+<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" title="GMC Hummer EV Edition 1 Pickup" width="680" height="453">
 </a>
 <figcaption><h4>GMC Hummer EV Edition 1 Pickup</h4></figcaption></figur>
 

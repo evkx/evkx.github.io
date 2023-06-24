@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" title="Mercedes-EQ EQC 400 4MATIC">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" title="Mercedes-EQ EQC 400 4MATIC" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQC 400 4MATIC</h4></figcaption></figur>
 
@@ -100,7 +100,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" title="Mercedes-EQ EQC 400 4MATIC">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" title="Mercedes-EQ EQC 400 4MATIC" width="680" height="437">
 </a>
 <figcaption><h4>Mercedes-EQ EQC 400 4MATIC</h4></figcaption></figur>
 
@@ -130,7 +130,7 @@ Mercedes-EQ EQC 400 4MATIC has twin screens on a shared frame mounted with brack
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" title="Mercedes-EQ EQC 400 4MATIC">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" title="Mercedes-EQ EQC 400 4MATIC" width="680" height="390">
 </a>
 <figcaption><h4>Mercedes-EQ EQC 400 4MATIC</h4></figcaption></figur>
 
@@ -194,7 +194,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" title="Mercedes-EQ EQC 400 4MATIC">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" title="Mercedes-EQ EQC 400 4MATIC" width="680" height="491">
 </a>
 <figcaption><h4>Mercedes-EQ EQC 400 4MATIC</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

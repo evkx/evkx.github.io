@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_st.jpg" alt="Nio EL7" title="Nio EL7">
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_st.jpg" alt="Nio EL7" title="Nio EL7" width="680" height="423">
 </a>
 <figcaption><h4>Nio EL7</h4></figcaption></figur>
 
@@ -92,7 +92,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_1_st.jpeg" alt="Nio EL7" title="Nio EL7">
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_1_st.jpeg" alt="Nio EL7" title="Nio EL7" width="680" height="423">
 </a>
 <figcaption><h4>Nio EL7</h4></figcaption></figur>
 
@@ -129,7 +129,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/el7/el7/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/frontseats_1_st.jpg" alt="Nio EL7" title="Nio EL7">
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/frontseats_1_st.jpg" alt="Nio EL7" title="Nio EL7" width="680" height="423">
 </a>
 <figcaption><h4>Nio EL7</h4></figcaption></figur>
 
@@ -174,7 +174,7 @@ The  screen behind the steering wheel mounted into the dashboard is 9,8 inches l
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/el7/el7/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/screens_1_st.jpg" alt="Nio EL7" title="Nio EL7">
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/screens_1_st.jpg" alt="Nio EL7" title="Nio EL7" width="680" height="423">
 </a>
 <figcaption><h4>Nio EL7</h4></figcaption></figur>
 
@@ -199,7 +199,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/el7/el7/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/headlights_1_st.jpg" alt="Nio EL7" title="Nio EL7">
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/headlights_1_st.jpg" alt="Nio EL7" title="Nio EL7" width="680" height="423">
 </a>
 <figcaption><h4>Nio EL7</h4></figcaption></figur>
 
@@ -255,7 +255,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/el7/el7/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/trunk_1_st.jpg" alt="Nio EL7" title="Nio EL7">
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/trunk_1_st.jpg" alt="Nio EL7" title="Nio EL7" width="680" height="423">
 </a>
 <figcaption><h4>Nio EL7</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

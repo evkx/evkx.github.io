@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB" width="680" height="453">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro LWB</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/charging_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/charging_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB" width="680" height="453">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro LWB</h4></figcaption></figur>
 
@@ -89,7 +89,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/exterior_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/exterior_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB" width="680" height="453">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro LWB</h4></figcaption></figur>
 
@@ -132,7 +132,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB" width="680" height="497">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro LWB</h4></figcaption></figur>
 
@@ -151,7 +151,7 @@ The second option is two captain chairs. In addition, the following functionalit
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB" width="680" height="453">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro LWB</h4></figcaption></figur>
 
@@ -165,7 +165,7 @@ The third row has a two-seat bench with a 50:50 split. Again, you can fold down 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/thirdrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/thirdrowseats_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/thirdrowseats_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB" width="680" height="453">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro LWB</h4></figcaption></figur>
 
@@ -199,7 +199,7 @@ Volkswagen ID. Buzz Pro LWB has twin screens with information for the driver and
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/screens_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/screens_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB" width="680" height="453">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro LWB</h4></figcaption></figur>
 
@@ -220,7 +220,7 @@ You can choose between two types of headlights for the Volkswagen ID. Buzz Pro L
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/headlights_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/headlights_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB" width="680" height="453">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro LWB</h4></figcaption></figur>
 
@@ -275,7 +275,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/trunk_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/trunk_1_st.jpg" alt="Volkswagen ID. Buzz Pro LWB" title="Volkswagen ID. Buzz Pro LWB" width="680" height="453">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro LWB</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT" width="680" height="453">
 </a>
 <figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
 
@@ -87,7 +87,7 @@ You can choose between two types of roofs on this model. The standard is a panor
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT" width="680" height="453">
 </a>
 <figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
 
@@ -149,7 +149,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/frontseats_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/frontseats_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT" width="680" height="509">
 </a>
 <figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
 
@@ -183,7 +183,7 @@ Audi e-tron GT has multiple integrated screens. Behind the steering wheel is a [
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/screens_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/screens_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT" width="680" height="453">
 </a>
 <figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
 
@@ -204,7 +204,7 @@ You can choose between three types of headlights for the Audi e-tron GT. The sta
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/headlights_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/headlights_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT" width="680" height="453">
 </a>
 <figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
 
@@ -261,7 +261,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/trunk_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/trunk_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT" width="680" height="509">
 </a>
 <figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

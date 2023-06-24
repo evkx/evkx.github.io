@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/main_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/main_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD" width="680" height="379">
 </a>
 <figcaption><h4>Ford Mustang Mach-E Long Range AWD</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/charging_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/charging_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD" width="680" height="393">
 </a>
 <figcaption><h4>Ford Mustang Mach-E Long Range AWD</h4></figcaption></figur>
 
@@ -83,7 +83,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/exterior_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/exterior_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD" width="680" height="372">
 </a>
 <figcaption><h4>Ford Mustang Mach-E Long Range AWD</h4></figcaption></figur>
 
@@ -116,7 +116,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/frontseats_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/frontseats_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD" width="680" height="453">
 </a>
 <figcaption><h4>Ford Mustang Mach-E Long Range AWD</h4></figcaption></figur>
 
@@ -132,7 +132,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/secondrowseats_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/secondrowseats_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD" width="680" height="510">
 </a>
 <figcaption><h4>Ford Mustang Mach-E Long Range AWD</h4></figcaption></figur>
 
@@ -166,7 +166,7 @@ The  screen behind the steering wheel mounted into the dashboard is 10,2 inches 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/screens_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/screens_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD" width="680" height="453">
 </a>
 <figcaption><h4>Ford Mustang Mach-E Long Range AWD</h4></figcaption></figur>
 
@@ -185,7 +185,7 @@ The model has 2 USB-C connections as standard. The models is equipped with 2 USB
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/headlights_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/headlights_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD" width="680" height="453">
 </a>
 <figcaption><h4>Ford Mustang Mach-E Long Range AWD</h4></figcaption></figur>
 
@@ -237,7 +237,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/trunk_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD">
+<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/trunk_1_st.jpg" alt="Ford Mustang Mach-E Long Range AWD" title="Ford Mustang Mach-E Long Range AWD" width="680" height="390">
 </a>
 <figcaption><h4>Ford Mustang Mach-E Long Range AWD</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

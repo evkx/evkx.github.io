@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600">
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600" width="680" height="388">
 </a>
 <figcaption><h4>BYD Tang EV600</h4></figcaption></figur>
 
@@ -80,7 +80,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exterior_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600">
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exterior_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600" width="680" height="372">
 </a>
 <figcaption><h4>BYD Tang EV600</h4></figcaption></figur>
 
@@ -125,7 +125,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600">
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600" width="680" height="382">
 </a>
 <figcaption><h4>BYD Tang EV600</h4></figcaption></figur>
 
@@ -165,7 +165,7 @@ BYD Tang EV600 has twin screens on a shared frame mounted with brackets on top o
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/screens_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600">
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/screens_1_st.jpg" alt="BYD Tang EV600" title="BYD Tang EV600" width="680" height="382">
 </a>
 <figcaption><h4>BYD Tang EV600</h4></figcaption></figur>
 

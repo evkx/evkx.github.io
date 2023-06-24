@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range" width="680" height="453">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
 
@@ -79,7 +79,7 @@ There is only one roof for this model.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/exterior_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/exterior_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range" width="680" height="440">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
 
@@ -116,7 +116,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/frontseats_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/frontseats_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range" width="680" height="509">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
 
@@ -132,7 +132,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/secondrowseats_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/secondrowseats_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range" width="680" height="470">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
 
@@ -166,7 +166,7 @@ On top of the dashboard is a shared frame with three screens, and in the center 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/screens_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/screens_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range" width="680" height="453">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
 
@@ -185,7 +185,7 @@ The standard headlights use LED technology.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/headlights_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/headlights_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range" width="680" height="453">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
 
@@ -230,7 +230,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/trunk_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/trunk_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range" width="680" height="453">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

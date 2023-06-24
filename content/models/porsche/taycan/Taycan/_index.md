@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan" width="680" height="382">
 </a>
 <figcaption><h4>Porsche Taycan</h4></figcaption></figur>
 
@@ -101,7 +101,7 @@ There is only one roof for this model.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/exterior_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/exterior_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan" width="680" height="388">
 </a>
 <figcaption><h4>Porsche Taycan</h4></figcaption></figur>
 
@@ -163,7 +163,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/frontseats_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/frontseats_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan" width="680" height="510">
 </a>
 <figcaption><h4>Porsche Taycan</h4></figcaption></figur>
 
@@ -207,7 +207,7 @@ Porsche Taycan has multiple integrated screens. Behind the steering wheel is a [
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/screens_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/screens_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan" width="680" height="423">
 </a>
 <figcaption><h4>Porsche Taycan</h4></figcaption></figur>
 
@@ -277,7 +277,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/trunk_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/trunk_1_st.jpg" alt="Porsche Taycan" title="Porsche Taycan" width="680" height="510">
 </a>
 <figcaption><h4>Porsche Taycan</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

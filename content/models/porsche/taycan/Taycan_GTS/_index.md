@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1_st.jpg" alt="Porsche Taycan GTS" title="Porsche Taycan GTS">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1_st.jpg" alt="Porsche Taycan GTS" title="Porsche Taycan GTS" width="680" height="453">
 </a>
 <figcaption><h4>Porsche Taycan GTS</h4></figcaption></figur>
 
@@ -91,7 +91,7 @@ You can choose between two types of roofs on this model. The optional has a pano
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_1_st.jpg" alt="Porsche Taycan GTS" title="Porsche Taycan GTS">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_1_st.jpg" alt="Porsche Taycan GTS" title="Porsche Taycan GTS" width="680" height="453">
 </a>
 <figcaption><h4>Porsche Taycan GTS</h4></figcaption></figur>
 
@@ -153,7 +153,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" alt="Porsche Taycan GTS" title="Porsche Taycan GTS">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" alt="Porsche Taycan GTS" title="Porsche Taycan GTS" width="680" height="453">
 </a>
 <figcaption><h4>Porsche Taycan GTS</h4></figcaption></figur>
 
@@ -197,7 +197,7 @@ Porsche Taycan GTS has multiple integrated screens. Behind the steering wheel is
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/screens_1_st.jpg" alt="Porsche Taycan GTS" title="Porsche Taycan GTS">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/screens_1_st.jpg" alt="Porsche Taycan GTS" title="Porsche Taycan GTS" width="680" height="453">
 </a>
 <figcaption><h4>Porsche Taycan GTS</h4></figcaption></figur>
 

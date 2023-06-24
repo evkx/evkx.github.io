@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/main_1_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/main_1_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor Performance</h4></figcaption></figur>
 
@@ -75,7 +75,7 @@ You can choose between two types of roofs on this model. The optional has a pano
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/exteriore_3.jpg">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/exteriore_3_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/exteriore_3_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor Performance</h4></figcaption></figur>
 
@@ -105,7 +105,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/frontseats_1_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/frontseats_1_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance" width="680" height="382">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor Performance</h4></figcaption></figur>
 
@@ -125,7 +125,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/secondrowseats_1_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/secondrowseats_1_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor Performance</h4></figcaption></figur>
 
@@ -157,7 +157,7 @@ Polestar 2 Long Range Dual Motor Performance has multiple integrated screens. Be
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/screens_1_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/screens_1_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor Performance</h4></figcaption></figur>
 
@@ -174,7 +174,7 @@ You can choose between two types of headlights for the Polestar 2 Long Range Dua
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/headlights_1_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance">
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/headlights_1_st.jpg" alt="Polestar 2 Long Range Dual Motor Performance" title="Polestar 2 Long Range Dual Motor Performance" width="680" height="400">
 </a>
 <figcaption><h4>Polestar 2 Long Range Dual Motor Performance</h4></figcaption></figur>
 

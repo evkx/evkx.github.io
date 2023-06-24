@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/main_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/main_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S" width="680" height="509">
 </a>
 <figcaption><h4>Audi e-tron S</h4></figcaption></figur>
 
@@ -85,7 +85,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/exterior_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/exterior_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S" width="680" height="509">
 </a>
 <figcaption><h4>Audi e-tron S</h4></figcaption></figur>
 
@@ -151,7 +151,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/frontseats_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/frontseats_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S" width="680" height="509">
 </a>
 <figcaption><h4>Audi e-tron S</h4></figcaption></figur>
 
@@ -167,7 +167,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/secondrowseats_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/secondrowseats_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S" width="680" height="509">
 </a>
 <figcaption><h4>Audi e-tron S</h4></figcaption></figur>
 
@@ -216,7 +216,7 @@ You can choose between three types of headlights for the Audi e-tron S. The stan
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/headlights_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/headlights_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S" width="680" height="509">
 </a>
 <figcaption><h4>Audi e-tron S</h4></figcaption></figur>
 
@@ -274,7 +274,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/trunk_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/trunk_1_st.jpg" alt="Audi e-tron S" title="Audi e-tron S" width="680" height="510">
 </a>
 <figcaption><h4>Audi e-tron S</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

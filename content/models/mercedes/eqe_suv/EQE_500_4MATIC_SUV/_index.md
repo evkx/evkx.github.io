@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/main_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/main_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/charging_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/charging_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
 
@@ -93,7 +93,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/exterior_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/exterior_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV" width="680" height="382">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
 
@@ -145,7 +145,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/frontseats_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/frontseats_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV" width="680" height="510">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
 
@@ -192,7 +192,7 @@ The optional MBUX Hyperscreen layout has the following configuration. Behind the
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/screens_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/screens_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
 
@@ -217,7 +217,7 @@ You can choose between two types of headlights for the Mercedes-EQ EQE 500 4MATI
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/headlights_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/headlights_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC SUV" title="Mercedes-EQ EQE 500 4MATIC SUV" width="680" height="510">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC SUV</h4></figcaption></figur>
 

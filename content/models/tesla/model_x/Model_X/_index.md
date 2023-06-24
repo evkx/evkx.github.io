@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1_st.jpg" alt="Tesla Model X" title="Tesla Model X">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1_st.jpg" alt="Tesla Model X" title="Tesla Model X" width="680" height="510">
 </a>
 <figcaption><h4>Tesla Model X</h4></figcaption></figur>
 
@@ -81,7 +81,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/exterior_1_st.jpg" alt="Tesla Model X" title="Tesla Model X">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/exterior_1_st.jpg" alt="Tesla Model X" title="Tesla Model X" width="680" height="510">
 </a>
 <figcaption><h4>Tesla Model X</h4></figcaption></figur>
 
@@ -121,7 +121,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/secondrowseats_1_st.jpg" alt="Tesla Model X" title="Tesla Model X">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/secondrowseats_1_st.jpg" alt="Tesla Model X" title="Tesla Model X" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model X</h4></figcaption></figur>
 
@@ -161,7 +161,7 @@ Tesla Model X has twin screens with information for the driver and passengers an
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/screens_1_st.jpg" alt="Tesla Model X" title="Tesla Model X">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/screens_1_st.jpg" alt="Tesla Model X" title="Tesla Model X" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model X</h4></figcaption></figur>
 
@@ -232,7 +232,7 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/trunk_1_st.jpg" alt="Tesla Model X" title="Tesla Model X">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/trunk_1_st.jpg" alt="Tesla Model X" title="Tesla Model X" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model X</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

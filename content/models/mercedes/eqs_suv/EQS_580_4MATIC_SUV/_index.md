@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/main_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/main_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 580 4MATIC SUV</h4></figcaption></figur>
 
@@ -85,7 +85,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/exterior_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/exterior_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 580 4MATIC SUV</h4></figcaption></figur>
 
@@ -137,7 +137,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/frontseats_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/frontseats_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV" width="680" height="382">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 580 4MATIC SUV</h4></figcaption></figur>
 
@@ -154,7 +154,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV" width="680" height="510">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 580 4MATIC SUV</h4></figcaption></figur>
 
@@ -168,7 +168,7 @@ The third row has an optional two-seat bench with a 50:50 split. Again, you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/thirdrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/thirdrowseats_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/thirdrowseats_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 580 4MATIC SUV</h4></figcaption></figur>
 
@@ -206,7 +206,7 @@ The optional MBUX Hyperscreen layout has the following configuration. Behind the
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/screens_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/screens_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV" width="680" height="382">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 580 4MATIC SUV</h4></figcaption></figur>
 
@@ -280,7 +280,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/trunk_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/trunk_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC SUV" title="Mercedes-EQ EQS 580 4MATIC SUV" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 580 4MATIC SUV</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

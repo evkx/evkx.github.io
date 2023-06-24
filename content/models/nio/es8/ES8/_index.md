@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg" alt="Nio ES8" title="Nio ES8">
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg" alt="Nio ES8" title="Nio ES8" width="680" height="423">
 </a>
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
 
@@ -92,7 +92,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_1_st.jpg" alt="Nio ES8" title="Nio ES8">
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_1_st.jpg" alt="Nio ES8" title="Nio ES8" width="680" height="382">
 </a>
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
 
@@ -128,7 +128,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_1_st.jpg" alt="Nio ES8" title="Nio ES8">
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_1_st.jpg" alt="Nio ES8" title="Nio ES8" width="680" height="421">
 </a>
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
 
@@ -182,7 +182,7 @@ The  screen behind the steering wheel mounted into the dashboard is 9,8 inches l
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_1_st.jpg" alt="Nio ES8" title="Nio ES8">
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_1_st.jpg" alt="Nio ES8" title="Nio ES8" width="680" height="376">
 </a>
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
 
@@ -207,7 +207,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/headlights_1_st.jpg" alt="Nio ES8" title="Nio ES8">
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/headlights_1_st.jpg" alt="Nio ES8" title="Nio ES8" width="680" height="382">
 </a>
 <figcaption><h4>Nio ES8</h4></figcaption></figur>
 

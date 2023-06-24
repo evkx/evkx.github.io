@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/main_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/main_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo" width="680" height="453">
 </a>
 <figcaption><h4>Porsche Taycan Turbo Sport Turismo</h4></figcaption></figur>
 
@@ -91,7 +91,7 @@ You can choose between two types of roofs on this model. The optional has a pano
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/exterior_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/exterior_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo" width="680" height="453">
 </a>
 <figcaption><h4>Porsche Taycan Turbo Sport Turismo</h4></figcaption></figur>
 
@@ -153,7 +153,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/frontseats_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/frontseats_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo" width="680" height="453">
 </a>
 <figcaption><h4>Porsche Taycan Turbo Sport Turismo</h4></figcaption></figur>
 
@@ -175,7 +175,7 @@ The second option is two integrated seats in the second row with a third smaller
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/secondrowseats_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/secondrowseats_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo" width="680" height="433">
 </a>
 <figcaption><h4>Porsche Taycan Turbo Sport Turismo</h4></figcaption></figur>
 
@@ -205,7 +205,7 @@ Porsche Taycan Turbo Sport Turismo has multiple integrated screens. Behind the s
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/screens_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/screens_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo" width="680" height="453">
 </a>
 <figcaption><h4>Porsche Taycan Turbo Sport Turismo</h4></figcaption></figur>
 
@@ -226,7 +226,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/headlights_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/headlights_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo" width="680" height="453">
 </a>
 <figcaption><h4>Porsche Taycan Turbo Sport Turismo</h4></figcaption></figur>
 
@@ -283,7 +283,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/trunk_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/trunk_1_st.jpg" alt="Porsche Taycan Turbo Sport Turismo" title="Porsche Taycan Turbo Sport Turismo" width="680" height="395">
 </a>
 <figcaption><h4>Porsche Taycan Turbo Sport Turismo</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

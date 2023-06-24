@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40" width="680" height="452">
 </a>
 <figcaption><h4>BMW iX xDrive40</h4></figcaption></figur>
 
@@ -82,7 +82,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/exterior_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/exterior_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40" width="680" height="453">
 </a>
 <figcaption><h4>BMW iX xDrive40</h4></figcaption></figur>
 
@@ -117,7 +117,7 @@ You can choose from 7 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/frontseat_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/frontseat_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/frontseat_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40" width="680" height="453">
 </a>
 <figcaption><h4>BMW iX xDrive40</h4></figcaption></figur>
 
@@ -134,7 +134,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/secondrowseats_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/secondrowseats_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40" width="680" height="453">
 </a>
 <figcaption><h4>BMW iX xDrive40</h4></figcaption></figur>
 
@@ -168,7 +168,7 @@ BMW iX xDrive40 has twin screens on a shared frame mounted with brackets on top 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/screens_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/screens_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40" width="680" height="510">
 </a>
 <figcaption><h4>BMW iX xDrive40</h4></figcaption></figur>
 
@@ -233,7 +233,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/trunk_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/trunk_1_st.jpg" alt="BMW iX xDrive40" title="BMW iX xDrive40" width="680" height="452">
 </a>
 <figcaption><h4>BMW iX xDrive40</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

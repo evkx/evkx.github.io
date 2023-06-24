@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/main_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/main_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range" width="680" height="453">
 </a>
 <figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/charging_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/charging_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range" width="680" height="442">
 </a>
 <figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 
@@ -84,7 +84,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/exterior_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/exterior_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range" width="680" height="453">
 </a>
 <figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 
@@ -123,7 +123,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/frontseats_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/frontseats_1_st.jpeg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/frontseats_1_st.jpeg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range" width="680" height="510">
 </a>
 <figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 
@@ -140,7 +140,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/secondrowseats_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/secondrowseats_1_st.jpeg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/secondrowseats_1_st.jpeg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range" width="680" height="382">
 </a>
 <figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 
@@ -174,7 +174,7 @@ XPENG G9 RWD Long Range has twin screens on a shared frame mounted with brackets
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/screens_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/screens_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range" width="680" height="453">
 </a>
 <figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 
@@ -239,7 +239,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/trunk_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/trunk_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range" width="680" height="453">
 </a>
 <figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

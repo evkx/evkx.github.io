@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" alt="Tesla Model Y Long Range" title="Tesla Model Y Long Range">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" alt="Tesla Model Y Long Range" title="Tesla Model Y Long Range" width="680" height="510">
 </a>
 <figcaption><h4>Tesla Model Y Long Range</h4></figcaption></figur>
 
@@ -81,7 +81,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_1_st.jpg" alt="Tesla Model Y Long Range" title="Tesla Model Y Long Range">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_1_st.jpg" alt="Tesla Model Y Long Range" title="Tesla Model Y Long Range" width="680" height="556">
 </a>
 <figcaption><h4>Tesla Model Y Long Range</h4></figcaption></figur>
 
@@ -113,7 +113,7 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/frontseats_1_st.jpg" alt="Tesla Model Y Long Range" title="Tesla Model Y Long Range">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/frontseats_1_st.jpg" alt="Tesla Model Y Long Range" title="Tesla Model Y Long Range" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model Y Long Range</h4></figcaption></figur>
 
@@ -128,7 +128,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/secondrowseats_1_st.jpg" alt="Tesla Model Y Long Range" title="Tesla Model Y Long Range">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/secondrowseats_1_st.jpg" alt="Tesla Model Y Long Range" title="Tesla Model Y Long Range" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model Y Long Range</h4></figcaption></figur>
 
@@ -142,7 +142,7 @@ The third row has an optional two-seat bench with a 50:50 split. Again, you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/thirdrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/thirdrowseats_1_st.jpg" alt="Tesla Model Y Long Range" title="Tesla Model Y Long Range">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/thirdrowseats_1_st.jpg" alt="Tesla Model Y Long Range" title="Tesla Model Y Long Range" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model Y Long Range</h4></figcaption></figur>
 
@@ -176,7 +176,7 @@ Tesla Model Y Long Range has a single screen. The dashboard’s center has a sin
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/screens_1_st.jpg" alt="Tesla Model Y Long Range" title="Tesla Model Y Long Range">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/screens_1_st.jpg" alt="Tesla Model Y Long Range" title="Tesla Model Y Long Range" width="680" height="408">
 </a>
 <figcaption><h4>Tesla Model Y Long Range</h4></figcaption></figur>
 

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE" width="680" height="428">
 </a>
 <figcaption><h4>Nissan Ariya 87kWh e-4ORCE</h4></figcaption></figur>
 
@@ -81,7 +81,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE" width="680" height="453">
 </a>
 <figcaption><h4>Nissan Ariya 87kWh e-4ORCE</h4></figcaption></figur>
 
@@ -148,7 +148,7 @@ Nissan Ariya 87kWh e-4ORCE has twin screens on a shared frame mounted with brack
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE" width="680" height="453">
 </a>
 <figcaption><h4>Nissan Ariya 87kWh e-4ORCE</h4></figcaption></figur>
 
@@ -213,7 +213,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE" width="680" height="453">
 </a>
 <figcaption><h4>Nissan Ariya 87kWh e-4ORCE</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

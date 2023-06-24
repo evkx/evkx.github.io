@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg" alt="Hongqi E-HS9 Premium" title="Hongqi E-HS9 Premium">
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg" alt="Hongqi E-HS9 Premium" title="Hongqi E-HS9 Premium" width="680" height="464">
 </a>
 <figcaption><h4>Hongqi E-HS9 Premium</h4></figcaption></figur>
 
@@ -79,7 +79,7 @@ There is only one roof for this model. The standard is a panoramic roof.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_1_st.jpg" alt="Hongqi E-HS9 Premium" title="Hongqi E-HS9 Premium">
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_1_st.jpg" alt="Hongqi E-HS9 Premium" title="Hongqi E-HS9 Premium" width="680" height="398">
 </a>
 <figcaption><h4>Hongqi E-HS9 Premium</h4></figcaption></figur>
 
@@ -154,7 +154,7 @@ Hongqi E-HS9 Premium has multiple integrated screens. Behind the steering wheel 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/screens_1_st.jpg" alt="Hongqi E-HS9 Premium" title="Hongqi E-HS9 Premium">
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/screens_1_st.jpg" alt="Hongqi E-HS9 Premium" title="Hongqi E-HS9 Premium" width="680" height="408">
 </a>
 <figcaption><h4>Hongqi E-HS9 Premium</h4></figcaption></figur>
 
@@ -177,7 +177,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/headlights_1_st.jpg" alt="Hongqi E-HS9 Premium" title="Hongqi E-HS9 Premium">
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/headlights_1_st.jpg" alt="Hongqi E-HS9 Premium" title="Hongqi E-HS9 Premium" width="680" height="548">
 </a>
 <figcaption><h4>Hongqi E-HS9 Premium</h4></figcaption></figur>
 

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1_st.jpg" alt="Volvo EX30 Single Motor" title="Volvo EX30 Single Motor">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1_st.jpg" alt="Volvo EX30 Single Motor" title="Volvo EX30 Single Motor" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX30 Single Motor</h4></figcaption></figur>
 
@@ -75,7 +75,7 @@ You can choose between two types of roofs on this model. The optional has a pano
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/exterior_1_st.jpg" alt="Volvo EX30 Single Motor" title="Volvo EX30 Single Motor">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/exterior_1_st.jpg" alt="Volvo EX30 Single Motor" title="Volvo EX30 Single Motor" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX30 Single Motor</h4></figcaption></figur>
 
@@ -117,7 +117,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/secondrowseats_1_st.jpg" alt="Volvo EX30 Single Motor" title="Volvo EX30 Single Motor">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/secondrowseats_1_st.jpg" alt="Volvo EX30 Single Motor" title="Volvo EX30 Single Motor" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX30 Single Motor</h4></figcaption></figur>
 
@@ -149,7 +149,7 @@ Volvo EX30 Single Motor has multiple integrated screens. The touch screen at the
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/screens_1_st.jpg" alt="Volvo EX30 Single Motor" title="Volvo EX30 Single Motor">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/screens_1_st.jpg" alt="Volvo EX30 Single Motor" title="Volvo EX30 Single Motor" width="680" height="629">
 </a>
 <figcaption><h4>Volvo EX30 Single Motor</h4></figcaption></figur>
 
@@ -168,7 +168,7 @@ You can choose between two types of headlights for the Volvo EX30 Single Motor. 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/headlights_1_st.jpg" alt="Volvo EX30 Single Motor" title="Volvo EX30 Single Motor">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/headlights_1_st.jpg" alt="Volvo EX30 Single Motor" title="Volvo EX30 Single Motor" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX30 Single Motor</h4></figcaption></figur>
 
@@ -219,7 +219,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/trunk_1_st.jpg" alt="Volvo EX30 Single Motor" title="Volvo EX30 Single Motor">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/trunk_1_st.jpg" alt="Volvo EX30 Single Motor" title="Volvo EX30 Single Motor" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX30 Single Motor</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

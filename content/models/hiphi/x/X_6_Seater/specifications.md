@@ -72,6 +72,9 @@ This model is available with a seat configuration with six seats.
 
 ### Front seats
 
+
+#### standard
+
 |Spec|Value|
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/charging_1_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/charging_1_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -89,7 +89,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/exterior.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/exterior_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/exterior_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="382">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -121,7 +121,7 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/frontseats_1_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/frontseats_1_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -136,7 +136,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/secondrowseats_1_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/secondrowseats_1_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -170,7 +170,7 @@ Tesla Model 3 Long Range has a single screen. The dashboard’s center has a sin
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/screens_2.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/screens_2_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/screens_2_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 

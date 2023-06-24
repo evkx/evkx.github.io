@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD" width="680" height="453">
 </a>
 <figcaption><h4>Kia EV6 Standard Range 2WD</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/charging_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/charging_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD" width="680" height="453">
 </a>
 <figcaption><h4>Kia EV6 Standard Range 2WD</h4></figcaption></figur>
 
@@ -85,7 +85,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/exterior_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/exterior_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD" width="680" height="457">
 </a>
 <figcaption><h4>Kia EV6 Standard Range 2WD</h4></figcaption></figur>
 
@@ -118,7 +118,7 @@ You can choose from 6 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/frontseats_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/frontseats_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD" width="680" height="453">
 </a>
 <figcaption><h4>Kia EV6 Standard Range 2WD</h4></figcaption></figur>
 
@@ -134,7 +134,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/secondrowseats_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/secondrowseats_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD" width="680" height="544">
 </a>
 <figcaption><h4>Kia EV6 Standard Range 2WD</h4></figcaption></figur>
 
@@ -162,7 +162,7 @@ Kia EV6 Standard Range 2WD has twin screens on a shared frame mounted with brack
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/screens_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/screens_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD" width="680" height="454">
 </a>
 <figcaption><h4>Kia EV6 Standard Range 2WD</h4></figcaption></figur>
 
@@ -183,7 +183,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/headlights_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/headlights_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD" width="680" height="453">
 </a>
 <figcaption><h4>Kia EV6 Standard Range 2WD</h4></figcaption></figur>
 
@@ -232,7 +232,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/trunk_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/trunk_1_st.jpg" alt="Kia EV6 Standard Range 2WD" title="Kia EV6 Standard Range 2WD" width="680" height="453">
 </a>
 <figcaption><h4>Kia EV6 Standard Range 2WD</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

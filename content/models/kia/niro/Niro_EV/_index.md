@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV">
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV" width="680" height="453">
 </a>
 <figcaption><h4>Kia Niro EV</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/charging_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV">
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/charging_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV" width="680" height="453">
 </a>
 <figcaption><h4>Kia Niro EV</h4></figcaption></figur>
 
@@ -85,7 +85,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV">
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV" width="680" height="453">
 </a>
 <figcaption><h4>Kia Niro EV</h4></figcaption></figur>
 
@@ -126,7 +126,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/secondrowseats_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV">
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/secondrowseats_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV" width="680" height="453">
 </a>
 <figcaption><h4>Kia Niro EV</h4></figcaption></figur>
 
@@ -154,7 +154,7 @@ Kia Niro EV has twin screens on a shared frame mounted with brackets on top of t
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/screens_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV">
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/screens_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV" width="680" height="453">
 </a>
 <figcaption><h4>Kia Niro EV</h4></figcaption></figur>
 
@@ -216,7 +216,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV">
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV" width="680" height="453">
 </a>
 <figcaption><h4>Kia Niro EV</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

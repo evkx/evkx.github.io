@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_st.jpg" alt="HiPhi X 6 Seater" title="HiPhi X 6 Seater">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_st.jpg" alt="HiPhi X 6 Seater" title="HiPhi X 6 Seater" width="680" height="453">
 </a>
 <figcaption><h4>HiPhi X 6 Seater</h4></figcaption></figur>
 
@@ -80,7 +80,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/exterior_1_st.jpg" alt="HiPhi X 6 Seater" title="HiPhi X 6 Seater">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/exterior_1_st.jpg" alt="HiPhi X 6 Seater" title="HiPhi X 6 Seater" width="680" height="382">
 </a>
 <figcaption><h4>HiPhi X 6 Seater</h4></figcaption></figur>
 
@@ -97,7 +97,7 @@ The seat layout is six seats with two in front, two captain chairs in the second
 
 Only one front seat type is available in the HiPhi X 6 Seater. 
 
-The following functionalities are available on the **** seat. 
+The following functionalities are available on the **standard** seat. 
 
 - electric adjustment 
 - [heating](../../../../technology/seats/adjustment/#heating) 
@@ -109,7 +109,7 @@ The following functionalities are available on the **** seat.
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 
 You can choose from 2 different materials/colors for this seat type. 
-- White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Grey [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
@@ -162,7 +162,7 @@ HiPhi X 6 Seater has multiple integrated screens. Behind the steering wheel is a
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/screens_1_st.jpg" alt="HiPhi X 6 Seater" title="HiPhi X 6 Seater">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/screens_1_st.jpg" alt="HiPhi X 6 Seater" title="HiPhi X 6 Seater" width="680" height="453">
 </a>
 <figcaption><h4>HiPhi X 6 Seater</h4></figcaption></figur>
 
@@ -229,7 +229,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/trunk_1_st.jpg" alt="HiPhi X 6 Seater" title="HiPhi X 6 Seater">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/trunk_1_st.jpg" alt="HiPhi X 6 Seater" title="HiPhi X 6 Seater" width="680" height="396">
 </a>
 <figcaption><h4>HiPhi X 6 Seater</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

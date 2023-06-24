@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range">
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" width="680" height="356">
 </a>
 <figcaption><h4>Ford F150 Lightning Extended Range</h4></figcaption></figur>
 
@@ -50,7 +50,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 19,2KW 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range">
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" width="680" height="341">
 </a>
 <figcaption><h4>Ford F150 Lightning Extended Range</h4></figcaption></figur>
 
@@ -83,7 +83,7 @@ There is only one roof for this model.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range">
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" width="680" height="361">
 </a>
 <figcaption><h4>Ford F150 Lightning Extended Range</h4></figcaption></figur>
 
@@ -118,7 +118,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range">
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" width="680" height="382">
 </a>
 <figcaption><h4>Ford F150 Lightning Extended Range</h4></figcaption></figur>
 
@@ -155,7 +155,7 @@ The optional  layout has the following configuration. The  screen behind the ste
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range">
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" width="680" height="382">
 </a>
 <figcaption><h4>Ford F150 Lightning Extended Range</h4></figcaption></figur>
 
@@ -174,7 +174,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/headlights_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range">
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/headlights_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" width="680" height="382">
 </a>
 <figcaption><h4>Ford F150 Lightning Extended Range</h4></figcaption></figur>
 
@@ -226,7 +226,7 @@ The cargo capacity in the truck bed is 1495 liters. The bed width is 1285 mm, an
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range">
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" width="680" height="286">
 </a>
 <figcaption><h4>Ford F150 Lightning Extended Range</h4></figcaption></figur>
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
