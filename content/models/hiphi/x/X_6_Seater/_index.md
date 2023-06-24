@@ -45,6 +45,8 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 
 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 49 minutes. 
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -94,6 +96,12 @@ Only one front seat type is available in the HiPhi X 6 Seater.
 The following functionalities are available on the **** seat. 
 
 - electric adjustment 
+- [heating](../../../../technology/seats/adjustment/#heating) 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- [massage](../../../../technology/seats/adjustment/#massage) 
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 
 You can choose from 2 different materials/colors for this seat type. 
@@ -108,7 +116,8 @@ You can choose from 2 different materials/colors for this seat type.
 
 For the second row, this model has two captain chairs. In addition, the following functionalities are available. 
 
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [heating](../../../../technology/seats/adjustment/#heating) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 
@@ -122,7 +131,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. 
+There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -166,7 +175,7 @@ You can choose between two sound systems on the HiPhi X 6 Seater. With the SONIC
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-
+The model has 1 USB-C connections as standard. As an option you can get additional 2 USB-C connections. The models is equipped with 1 USB-A connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
