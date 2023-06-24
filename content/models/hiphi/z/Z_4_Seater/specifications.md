@@ -16,7 +16,7 @@ EVKX.net seeks to have the most complete specifications for HiPhi Z 4 Seater. Cl
 |----|-----|
 |Peak electrical output in kW|433 Kw|
 |Electrical torque output in Nm|820 Nm|
-|0-100km/h (0-62 mph)|3,9 s|
+|0-100km/h (0-62 mph)|3,8 s|
 
 
 
@@ -25,8 +25,8 @@ EVKX.net seeks to have the most complete specifications for HiPhi Z 4 Seater. Cl
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|460 km|
-|WLTP consumption|26,1 kWh/100km|
+|WLTP range|555 km|
+|WLTP consumption|21,6 kWh/100km|
 
 
 
@@ -44,11 +44,12 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|Length|5200 mm|
-|Height|1618 mm|
+|Length|5036 mm|
+|Height|1439 mm|
+|Width excluding mirrors|2018 mm|
 |Wheelbase|3150 mm|
 |Drag coefficient|0,27|
-|Turning circle|11,6 meters|
+|Turning circle|11,4 meters|
 
 ## Suspension
 
@@ -68,7 +69,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
-This model is available with a seat configuration with six seats.
+This model is available with a seat configuration with four seats.
 
 ### Front seats
 
@@ -104,8 +105,8 @@ This model is available with a seat configuration with six seats.
 |[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
 |[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|
 |[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
-|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
-|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Standard feature|
+|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Not Available|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Unknown|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Standard feature|
 |[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|

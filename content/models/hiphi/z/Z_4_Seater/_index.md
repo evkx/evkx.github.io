@@ -1,7 +1,7 @@
 ---
 title: HiPhi Z 4 Seater
 linktitle: Z 4 Seater
-description: HiPhi Z 4 Seater is an all-electric luxury sedan with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. 
+description: HiPhi Z 4 Seater is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net have all the details. 
 weight: 10
 hidden: true
 ---
@@ -32,11 +32,11 @@ We have separated our HiPhi Z 4 Seater article into sections. If you want to wai
 
 ## Performance
 
-The HiPhi Z 4 Seater has a maximum power of 433KW (589hp). The total torque is 820nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. 
+The HiPhi Z 4 Seater has a maximum power of 433KW (589hp). The total torque is 820nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 125kWh and a net capacity of 120kWh, meaning you have a 5kWh buffer for protection. (4,0%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 460 km (286 mi).   The consumption is 26,1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 125kWh and a net capacity of 120kWh, meaning you have a 5kWh buffer for protection. (4,0%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 555 km (345 mi).   The consumption is 21,6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 98 minutes, while a more common scenario of 10-80% would take 50 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 47% resulting in an actual charge speed including time loss on 104kW. Each charge session would take 30 minutes and 46 seconds. 
 
@@ -77,7 +77,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model. 
+You can choose between 6 different paint colors when ordering this model. 
 
 The car has two [regular doors](../../../../technology/doors/) in front, a special combination of sucide doors with gullwing roof on second row and a [liftgate](../../../../technology/doors/#liftgate) in the rear. 
 
@@ -99,7 +99,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row. 
+
 
 ### First row seats
 
@@ -118,7 +118,7 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 2 different materials/colors for this seat type. 
 - Grey [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -139,7 +139,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
-- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 
 
 <figur>
@@ -148,12 +147,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 </a>
 <figcaption><h4>HiPhi Z 4 Seater</h4></figcaption></figur>
 
-
-### Third-row seats
-
-
-
-The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
 
 There is only one type of steering wheel available. 
 
@@ -181,7 +174,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-HiPhi Z 4 Seater has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 14 inches large. The touch screen at the top of the center console is 16,9 inches large. The touch screen in front of the passenger in the dashboard is 19,9 inches large. 
+HiPhi Z 4 Seater has multiple integrated screens. The touch screen at the top of the center console is 16,9 inches large. 
 
 
 <figur>
@@ -254,6 +247,6 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 204 liters. With the third row seat down, it is 587 liters. 
+The cargo capacity in the trunk is 316 liters. With the rear seat down, it is 654 liters. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. <object type="image/svg+xml" data="modelnavigation.svg"></object>
