@@ -159,7 +159,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-
+The cargo capacity in the trunk is 346 liters. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 

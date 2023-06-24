@@ -65,7 +65,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 5 different paint colors when ordering this model. 
 
-
+The car has two [regular doors](../../../../technology/doors/) in front, a special combination of sucide doors with gullwing roof on second row and a [liftgate](../../../../technology/doors/#liftgate) in the rear. 
 
 There is only one roof for this model. 
 
@@ -209,7 +209,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-
+The cargo capacity in the trunk is 204 liters. With the third row seat down, it is 587 liters. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 

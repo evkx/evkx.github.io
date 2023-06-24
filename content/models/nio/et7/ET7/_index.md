@@ -239,6 +239,6 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 ## Cargo Capacity and Towing Ability
 
-On the roof, you can load up to 100kg. Max weight is 2900kg, and with the base weight of 2379 kg, you can max load 521 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 363 liters. On the roof, you can load up to 100kg. Max weight is 2900kg, and with the base weight of 2379 kg, you can max load 521 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>

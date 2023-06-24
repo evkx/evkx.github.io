@@ -254,7 +254,7 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 85 liters. Max weight is 2860kg, and with the base weight of 2340 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 405 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 85 liters. Max weight is 2860kg, and with the base weight of 2340 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 

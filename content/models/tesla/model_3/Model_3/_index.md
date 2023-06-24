@@ -234,6 +234,6 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 ## Cargo Capacity and Towing Ability
 
-On the roof, you can load up to 70kg. Max weight is 2149kg, and with the base weight of 1760 kg, you can max load 389 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 561 liters. On the roof, you can load up to 70kg. Max weight is 2149kg, and with the base weight of 1760 kg, you can max load 389 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1000, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>
