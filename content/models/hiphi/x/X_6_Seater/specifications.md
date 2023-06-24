@@ -15,7 +15,7 @@ EVKX.net seeks to have the most complete specifications for HiPhi X 6 Seater. Cl
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|433 Kw|
-|Electrical torque output in Nm|410 Nm|
+|Electrical torque output in Nm|820 Nm|
 |0-100km/h (0-62 mph)|3,9 s|
 
 
@@ -26,7 +26,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |WLTP range|460 km|
-|WLTP consumption|20,0 kWh/100km|
+|WLTP consumption|21,1 kWh/100km|
 
 
 
@@ -34,8 +34,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|97 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|92 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|101 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|97 kWh|
+|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|nmc811|
 
 
 
@@ -65,13 +66,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
+This model is available with a seat configuration with six seats.
 
 ### Front seats
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
-|Electric adjustment of height, recline and angle|Unknown|
+|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
+|Electric adjustment of height, recline and angle|Standard feature|
 |Interior.Seatoptions.MemoryDriverSeat|Unknown|
 |Interior.Seatoptions.MemoryPassangerSeat|Unknown|
 |Height adjustable headrest|Unknown|
@@ -81,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Unknown|
 |[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
-|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Standard feature|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Unknown|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Unknown|
 |[Massage function](../../../../../technology/seats/adjustment/#massage)|Unknown|
@@ -90,7 +92,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Seat type](../../../../../technology/seats/types/)|None|
+|[Seat type](../../../../../technology/seats/types/)|TwoCaptainChairs|
 |Height adjustable headrest|Unknown|
 |Length adjustable headrest|Unknown|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
@@ -98,10 +100,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Unknown|
 |[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
-|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Standard feature|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Unknown|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Unknown|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Unknown|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
 
 ## Driver Assistance
 
@@ -110,7 +112,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Lane keeping|Yes, standard equipment|
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert|Yes, standard equipment|
-|Reversing camera||
+|Reversing camera|Yes, standard equipment|
 |360 camera|Yes, standard equipment|
 |Rear cross traffic alert||
 |Rear parking sensors|Yes, standard equipment|
@@ -124,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Traction control|Yes, standard equipment|
 |Left turn crash avoidance||
 |Forward Collision Warning|Yes, standard equipment|
-|Electronic stability control||
+|Electronic stability control|Yes, standard equipment|
 |Temperature warning||
 |Cross traffic assist|Yes, standard equipment|
 |Speed limiter|Yes, standard equipment|
@@ -139,4 +141,19 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |----|-----|
 |Android Auto support||
 |Apple Carplay support||
-|In Car navigation||
+|In Car navigation|Yes, standard equipment|
+|Number of avaiable sound systems|2|
+
+### SONIC LINE SYSTEM
+
+|Spec|Value|
+|----|-----|
+|Number of speakers|9|
+|Total effect|600|
+
+### SONIC PRO SYSTEM
+
+|Spec|Value|
+|----|-----|
+|Number of speakers|17|
+|Total effect|600|
