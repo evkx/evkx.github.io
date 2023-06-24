@@ -6,7 +6,7 @@ weight: 30
 ---
 ## HiPhi Z 4 Seater
 
-[![Z 4 Seater]()](/models/hiphi/z/z_4_seater/)
+[![Z 4 Seater](https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg)](/models/hiphi/z/z_4_seater/)
 
 HiPhi Z 4 Seater is an all-electric luxury sedan with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. 
 

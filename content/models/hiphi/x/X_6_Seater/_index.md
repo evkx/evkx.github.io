@@ -47,6 +47,14 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 49 minutes. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/charging_1_st.jpg" alt="HiPhi X 6 Seater" title="HiPhi X 6 Seater" width="680" height="453">
+</a>
+<figcaption><h4>HiPhi X 6 Seater</h4></figcaption></figur>
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -183,6 +191,14 @@ The model has 1 USB-C connections as standard. As an option you can get addition
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/headlights_1_st.jpg" alt="HiPhi X 6 Seater" title="HiPhi X 6 Seater" width="680" height="453">
+</a>
+<figcaption><h4>HiPhi X 6 Seater</h4></figcaption></figur>
+
 ## Advanced driver assistance systems
 
 The HiPhi X 6 Seater has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
