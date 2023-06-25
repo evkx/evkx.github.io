@@ -79,7 +79,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 6 different paint colors when ordering this model. 
 
-The car has two [regular doors](../../../../technology/doors/) in front, a unique combination of suicide doors with a gullwing roof on the second row, and a [liftgate](../../../../technology/doors/#liftgate) in the rear. 
+The car has two [regular doors](../../../../technology/doors/) in front, [suicide doors](../../../../technology/doors/) on the second row, and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate) in the rear. 
 
 There is only one roof for this model. 
 
@@ -112,13 +112,15 @@ The following functionalities are available on the **standard** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 
 You can choose from 2 different materials/colors for this seat type. 
-- Grey [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Grey [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- White [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 
 
@@ -134,11 +136,11 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-For the second row, this model has two captain chairs. In addition, the following functionalities are available. 
+For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
+- [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
-- [massage](../../../../technology/seats/adjustment/#massage) 
 
 
 <figur>
@@ -152,7 +154,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The 3-zone climate system supports different temperatures in three zones for the driver, passenger, and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
