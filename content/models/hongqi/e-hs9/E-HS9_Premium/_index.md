@@ -165,11 +165,11 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-One type of sound system is available for the Hongqi E-HS9 Premium. With the Hongqi sound system, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
+One type of sound system is available for the Hongqi E-HS9 Premium. With the Hongqi sound system, you get 12 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The model has 1 USB-C connections as standard. The models is equipped with 3 USB-A connections as standard. 
+The model has 1 USB-C connections as standard. The model has 3 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 

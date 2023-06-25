@@ -160,7 +160,7 @@ Polestar 2 Long Range Dual Motor has multiple integrated screens. Behind the ste
 
 ## Infotainment
 
-You can choose between two sound systems on the Polestar 2 Long Range Dual Motor. With the High Performance, you get five amplifier channels and eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get five amplifier channels and 13 speakers with a max system output of 600 watts. 
+You can choose between two sound systems on the Polestar 2 Long Range Dual Motor. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 600 watts. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights

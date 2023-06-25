@@ -194,7 +194,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the Audi Q4 Sportback 45 e-tron quattro. With the Audi Sound system, you get six amplifier channels and eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten amplifier channels and ten speakers with a max system output of 580 watts. 
+You can choose between two sound systems on the Audi Q4 Sportback 45 e-tron quattro. With the Audi Sound system, you get eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten speakers with a max system output of 580 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 Sportback 45 e-tron quattro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

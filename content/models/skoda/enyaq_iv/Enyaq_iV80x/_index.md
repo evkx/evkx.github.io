@@ -197,7 +197,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the SKODA Enyaq iV80x. With the Sound system, you get four amplifier channels and eight speakers with a max system output of 80 watts. With the Canton Soundsystem, you get eight amplifier channels and ten speakers with a max system output of 550 watts. 
+You can choose between two sound systems on the SKODA Enyaq iV80x. With the Sound system, you get eight speakers with a max system output of 80 watts. With the Canton Soundsystem, you get ten speakers with a max system output of 550 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the SKODA Enyaq iV80x supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

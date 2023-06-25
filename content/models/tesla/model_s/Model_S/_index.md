@@ -162,7 +162,7 @@ Tesla Model S has twin screens with information for the driver and passengers an
 
 ## Infotainment
 
-One type of sound system is available for the Tesla Model S. With the Tesla Premium Sound, you get five amplifier channels and 22 speakers with a max system output of 560 watts. 
+One type of sound system is available for the Tesla Model S. With the Tesla Premium Sound, you get 22 speakers with a max system output of 560 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 

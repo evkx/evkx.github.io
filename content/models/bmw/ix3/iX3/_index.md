@@ -174,11 +174,11 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-One type of sound system is available for the BMW iX3. With the Harman Kardon Surround Sound system, you get nine amplifier channels and 16 speakers with a max system output of 464 watts. 
+One type of sound system is available for the BMW iX3. With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW iX3 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 3 USB-C connections as standard. The models is equipped with 1 USB-A connections as standard. 
+The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the BMW iX3. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 

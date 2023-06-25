@@ -193,7 +193,7 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-You can choose between two sound systems on the Mercedes-EQ EQB 350 4MATIC. With the Standard, you get five amplifier channels and seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get seven amplifier channels and nine speakers with a max system output of 225 watts. 
+You can choose between two sound systems on the Mercedes-EQ EQB 350 4MATIC. With the Standard, you get seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQB 350 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

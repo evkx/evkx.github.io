@@ -173,11 +173,11 @@ The  screen behind the steering wheel mounted into the dashboard is 10,2 inches 
 
 ## Infotainment
 
-One type of sound system is available for the Ford Mustang Mach-E Long Range RWD. With the B&O Sound System, you get NULL amplifier channels and ten speakers with a max system output of 560 watts. 
+One type of sound system is available for the Ford Mustang Mach-E Long Range RWD. With the B&O Sound System, you get ten speakers with a max system output of 560 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Ford Mustang Mach-E Long Range RWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 2 USB-C connections as standard. The models is equipped with 2 USB-A connections as standard. 
+The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard. 
 ## Lights
 
 

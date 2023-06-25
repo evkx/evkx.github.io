@@ -173,11 +173,11 @@ On top of the dashboard is a shared frame with three screens, and in the center 
 
 ## Infotainment
 
-One type of sound system is available for the Lucid Air Dream Edition Range. With the Surreal Sound System, you get NULL amplifier channels and 21 speakers with a max system output of  watts. 
+One type of sound system is available for the Lucid Air Dream Edition Range. With the Surreal Sound System, you get 21 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The model has 3 USB-C connections as standard. The models is equipped with 1 USB-A connections as standard. 
+The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.  

@@ -172,11 +172,11 @@ BYD Tang EV600 has twin screens on a shared frame mounted with brackets on top o
 
 ## Infotainment
 
-You can choose between two sound systems on the BYD Tang EV600. With the Surroundsystem, you get seven amplifier channels and seven speakers with a max system output of  watts. With the Premium sound system, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
+You can choose between two sound systems on the BYD Tang EV600. With the Surroundsystem, you get seven speakers with a max system output of  watts. With the Premium sound system, you get 12 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The models is equipped with 4 USB-A connections as standard. 
+The model has 4 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

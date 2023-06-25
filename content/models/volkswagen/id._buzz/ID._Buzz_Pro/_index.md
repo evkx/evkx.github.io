@@ -190,7 +190,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-One type of sound system is available for the Volkswagen ID. Buzz Pro. With the Volkswagen Soundsystem, you get 12 amplifier channels and six speakers with a max system output of 450 watts. 
+One type of sound system is available for the Volkswagen ID. Buzz Pro. With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID. Buzz Pro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

@@ -164,15 +164,15 @@ The  screen behind the steering wheel mounted into the dashboard is 7 inches lar
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
 
-This model is equipped with gesture gestura control system that lets you control specific features. 
+A gesture control system that lets you control specific features using your hands. 
 
 ## Infotainment
 
-One type of sound system is available for the MG MG4 Electric Standard. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+One type of sound system is available for the MG MG4 Electric Standard. With the , you get NULL speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the MG MG4 Electric Standard supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 1 USB-C connections as standard. The models is equipped with 1 USB-A connections as standard. 
+The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
 
 

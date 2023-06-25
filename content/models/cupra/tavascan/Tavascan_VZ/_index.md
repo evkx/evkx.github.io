@@ -163,7 +163,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the CUPRA Tavascan VZ. With the Sound system, you get six amplifier channels and five speakers with a max system output of 140 watts. With the Sennheiser Soundsystem, you get nine amplifier channels and 12 speakers with a max system output of 395 watts. 
+You can choose between two sound systems on the CUPRA Tavascan VZ. With the Sound system, you get five speakers with a max system output of 140 watts. With the Sennheiser Soundsystem, you get 12 speakers with a max system output of 395 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the CUPRA Tavascan VZ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

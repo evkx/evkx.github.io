@@ -147,7 +147,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-One type of sound system is available for the SKODA ENYAQ RS iV. With the Canton Soundsystem, you get eight amplifier channels and ten speakers with a max system output of 550 watts. 
+One type of sound system is available for the SKODA ENYAQ RS iV. With the Canton Soundsystem, you get ten speakers with a max system output of 550 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the SKODA ENYAQ RS iV supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

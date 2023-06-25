@@ -171,11 +171,11 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-One type of sound system is available for the Hyundai Ioniq 5 Long Range AWD. With the Bose Premium Sound System, you get four amplifier channels and eight speakers with a max system output of  watts. 
+One type of sound system is available for the Hyundai Ioniq 5 Long Range AWD. With the Bose Premium Sound System, you get eight speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Hyundai Ioniq 5 Long Range AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 4 USB-C connections as standard. The models is equipped with 1 USB-A connections as standard. 
+The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

@@ -188,15 +188,15 @@ A head-up display is an standard system that presents speed and other important 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
 
-This model is equipped with gesture gestura control system that lets you control specific features. 
+A gesture control system that lets you control specific features using your hands. 
 
 ## Infotainment
 
-You can choose between two sound systems on the HiPhi Z 4 Seater. With the SONIC LINE SYSTEM, you get NULL amplifier channels and nine speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get NULL amplifier channels and 17 speakers with a max system output of 600 watts. 
+You can choose between two sound systems on the HiPhi Z 4 Seater. With the SONIC LINE SYSTEM, you get nine speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get 17 speakers with a max system output of 600 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The model has 1 USB-C connections as standard. As an option you can get additional 2 USB-C connections. The models is equipped with 1 USB-A connections as standard. As an option you can get additional 2 USB-C connections. 
+The model has 1 USB-C connections as standard. As an option you can get additional 2 USB-C connections. The model has 1 USB-A connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

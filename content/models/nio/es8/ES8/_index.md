@@ -195,11 +195,11 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-You can choose between two sound systems on the Nio ES8. With the Surroundsystem, you get seven amplifier channels and seven speakers with a max system output of  watts. With the Premium sound system, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
+You can choose between two sound systems on the Nio ES8. With the Surroundsystem, you get seven speakers with a max system output of  watts. With the Premium sound system, you get 12 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The models is equipped with 3 USB-A connections as standard. 
+The model has 3 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

@@ -188,7 +188,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the Volkswagen ID.5 GTX 4MOTION. With the Sound system, you get six amplifier channels and six speakers with a max system output of 140 watts. With the Volkswagen Soundsystem, you get 12 amplifier channels and six speakers with a max system output of 450 watts. 
+You can choose between two sound systems on the Volkswagen ID.5 GTX 4MOTION. With the Sound system, you get six speakers with a max system output of 140 watts. With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID.5 GTX 4MOTION supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

@@ -156,7 +156,7 @@ Volvo EX30 Single Motor Extended Range has multiple integrated screens. The touc
 
 ## Infotainment
 
-You can choose between two sound systems on the Volvo EX30 Single Motor Extended Range. With the High Performance, you get five amplifier channels and eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get five amplifier channels and 13 speakers with a max system output of 1040 watts. 
+You can choose between two sound systems on the Volvo EX30 Single Motor Extended Range. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 1040 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 

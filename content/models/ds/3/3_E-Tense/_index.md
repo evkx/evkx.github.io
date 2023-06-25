@@ -154,7 +154,7 @@ A head-up display is an standard system that presents speed and other important 
 
 ## Infotainment
 
-One type of sound system is available for the DS 3 E-Tense. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+One type of sound system is available for the DS 3 E-Tense. With the , you get NULL speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the DS 3 E-Tense supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

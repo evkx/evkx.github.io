@@ -125,7 +125,7 @@ Honda e:Ny1 has multiple integrated screens. Behind the steering wheel is a [dig
 
 ## Infotainment
 
-One type of sound system is available for the Honda e:Ny1. With the , you get NULL amplifier channels and NULL speakers with a max system output of  watts. 
+One type of sound system is available for the Honda e:Ny1. With the , you get NULL speakers with a max system output of  watts. 
 
 
 ## Lights

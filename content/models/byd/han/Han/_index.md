@@ -182,11 +182,11 @@ BYD Han has twin screens on a shared frame mounted with brackets on top of the d
 
 ## Infotainment
 
-You can choose between two sound systems on the BYD Han. With the Surroundsystem, you get seven amplifier channels and seven speakers with a max system output of  watts. With the Premium sound system, you get seven amplifier channels and 12 speakers with a max system output of  watts. 
+You can choose between two sound systems on the BYD Han. With the Surroundsystem, you get seven speakers with a max system output of  watts. With the Premium sound system, you get 12 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The model has 1 USB-C connections as standard. The models is equipped with 5 USB-A connections as standard. 
+The model has 1 USB-C connections as standard. The model has 5 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

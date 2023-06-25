@@ -169,11 +169,11 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-One type of sound system is available for the Nio ET5 Touring. With the Premium sound system, you get seven amplifier channels and 23 speakers with a max system output of  watts. 
+One type of sound system is available for the Nio ET5 Touring. With the Premium sound system, you get 23 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The model has 1 USB-C connections as standard. The models is equipped with 2 USB-A connections as standard. 
+The model has 1 USB-C connections as standard. The model has 2 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

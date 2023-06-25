@@ -199,7 +199,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between three sound systems on the BMW i5 M60 xDrive. With the Hifi Sound system, you get seven amplifier channels and six speakers with a max system output of 100 watts. With the Harman Kardon Surround Sound system, you get five amplifier channels and 12 speakers with a max system output of 205 watts. With the Bower & Wilkins Surround System, you get 12 amplifier channels and 18 speakers with a max system output of 655 watts. 
+You can choose between three sound systems on the BMW i5 M60 xDrive. With the Hifi Sound system, you get six speakers with a max system output of 100 watts. With the Harman Kardon Surround Sound system, you get 12 speakers with a max system output of 205 watts. With the Bower & Wilkins Surround System, you get 18 speakers with a max system output of 655 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW i5 M60 xDrive supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

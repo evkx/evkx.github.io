@@ -174,7 +174,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the Lexus RZ 450e. With the Standard, you get NULL amplifier channels and 14 speakers with a max system output of  watts. With the Mark Levinson Premium Surround Sound, you get NULL amplifier channels and 14 speakers with a max system output of  watts. 
+You can choose between two sound systems on the Lexus RZ 450e. With the Standard, you get 14 speakers with a max system output of  watts. With the Mark Levinson Premium Surround Sound, you get 14 speakers with a max system output of  watts. 
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Lexus RZ 450e supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 

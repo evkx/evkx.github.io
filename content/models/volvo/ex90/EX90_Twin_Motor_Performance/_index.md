@@ -179,7 +179,7 @@ A head-up display is an standard system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the Volvo EX90 Twin Motor Performance. With the High Performance, you get five amplifier channels and eight speakers with a max system output of 200 watts. With the Bowers & Wilkins, you get NULL amplifier channels and 25 speakers with a max system output of 1610 watts. 
+You can choose between two sound systems on the Volvo EX90 Twin Motor Performance. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Bowers & Wilkins, you get 25 speakers with a max system output of 1610 watts. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights

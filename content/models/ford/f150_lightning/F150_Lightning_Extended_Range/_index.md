@@ -162,7 +162,7 @@ The optional  layout has the following configuration. The  screen behind the ste
 
 ## Infotainment
 
-You can choose between three sound systems on the Ford F150 Lightning Extended Range. With the Ford, you get two amplifier channels and four speakers with a max system output of 80 watts. With the B&O Sound System, you get four amplifier channels and eight speakers with a max system output of 640 watts. With the B&O Unleashed Sound System, you get four amplifier channels and 18 speakers with a max system output of 1080 watts. 
+You can choose between three sound systems on the Ford F150 Lightning Extended Range. With the Ford, you get four speakers with a max system output of 80 watts. With the B&O Sound System, you get eight speakers with a max system output of 640 watts. With the B&O Unleashed Sound System, you get 18 speakers with a max system output of 1080 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Ford F150 Lightning Extended Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
