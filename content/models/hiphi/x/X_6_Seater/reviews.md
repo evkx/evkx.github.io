@@ -12,7 +12,7 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube 0_u86W-wVt8 >}}
 
-### Supercar Blondie: The Human Horizons Hiphi X Is Like A Sci-fi Movie Prop You Can Actually Drive 08.08.2022
+### Wheelsboy: The Human Horizons Hiphi X Is Like A Sci-fi Movie Prop You Can Actually Drive 08.08.2022
 
 {{< youtube aumWxZLUT28 >}}
 

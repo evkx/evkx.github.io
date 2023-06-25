@@ -8,15 +8,15 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Supercar Blondie: Chinese Gullwing Luxury SUV | HiPhi X 08.08.2022
+### Fully Charged Show: This Might Be The Strangest Car You Can Buy Today 06.04.2023
 
-{{< youtube 0_u86W-wVt8 >}}
+{{< youtube ZjkcBSRTwvk >}}
 
-### Supercar Blondie: The Human Horizons Hiphi X Is Like A Sci-fi Movie Prop You Can Actually Drive 08.08.2022
+### Inside China Auto: You're Not Ready For The HiPhi Z - A Car From 2050 You Can Buy Today 23.03.2023
 
-{{< youtube aumWxZLUT28 >}}
+{{< youtube Iivhd4skAIs >}}
 
-### Fully Charged Show: One of China's strangest Electric Cars yet? | HiPhi X Review 28.10.2021
+### Wheelsboy: The Human Horizons HiPhi Z Is Pure Science Fiction 13.03.2023
 
-{{< youtube oMAlm8rqvO4 >}}
+{{< youtube BHRKx7On4z8 >}}
 

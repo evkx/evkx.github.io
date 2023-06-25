@@ -14,7 +14,7 @@ EVKX.net seeks to have the most complete specifications for HiPhi Z 4 Seater. Cl
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|433 Kw|
+|Peak electrical output in kW|494 Kw|
 |Electrical torque output in Nm|820 Nm|
 |0-100km/h (0-62 mph)|3,8 s|
 
@@ -84,10 +84,10 @@ This model is available with a seat configuration with four seats.
 |Interior.Seatoptions.MemoryPassangerSeat|Standard feature|
 |Height adjustable headrest|Not Available|
 |Length adjustable headrest|Not Available|
-|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Standard feature|
+|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
 |[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Unknown|
 |[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Unknown|
-|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Standard feature|
+|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Standard feature|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
@@ -148,18 +148,3 @@ This model is available with a seat configuration with four seats.
 |Android Auto support||
 |Apple Carplay support||
 |In Car navigation|Yes, standard equipment|
-|Number of avaiable sound systems|2|
-
-### SONIC LINE SYSTEM
-
-|Spec|Value|
-|----|-----|
-|Number of speakers|9|
-|Total effect|600|
-
-### SONIC PRO SYSTEM
-
-|Spec|Value|
-|----|-----|
-|Number of speakers|17|
-|Total effect|600|

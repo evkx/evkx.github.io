@@ -32,7 +32,7 @@ We have separated our HiPhi Z 4 Seater article into sections. If you want to wai
 
 ## Performance
 
-The HiPhi Z 4 Seater has a maximum power of 433KW (589hp). The total torque is 820nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. 
+The HiPhi Z 4 Seater has a maximum power of 494KW (672hp). The total torque is 820nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. 
 
 ## Battery, range, and charging
 
@@ -79,9 +79,9 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 6 different paint colors when ordering this model. 
 
-The car has two [regular doors](../../../../technology/doors/) in front, [suicide doors](../../../../technology/doors/) on the second row, and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate) in the rear. 
+exterior.doors.standardandsucidebootlid
 
-There is only one roof for this model. 
+There is only one roof for this model. The standard is a panoramic roof. 
 
 The windows from B-pillar and back are tinted. 
 
@@ -112,7 +112,6 @@ The following functionalities are available on the **standard** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
@@ -176,7 +175,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-HiPhi Z 4 Seater has multiple integrated screens. The touch screen at the top of the center console is 16,9 inches large. 
+HiPhi Z 4 Seater has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 15 inches large. 
 
 
 <figur>
@@ -194,7 +193,7 @@ A gesture control system that lets you control specific features using your hand
 
 ## Infotainment
 
-You can choose between two sound systems on the HiPhi Z 4 Seater. With the SONIC LINE SYSTEM, you get nine speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get 17 speakers with a max system output of 600 watts. 
+One type of sound system is available for the HiPhi Z 4 Seater. With the SONIC PRO SYSTEM, you get 23 speakers with a max system output of 600 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
