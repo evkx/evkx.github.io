@@ -14,6 +14,13 @@ weight: 30
 This model is available in 1 variant(s). 
 [Read full details](atto_3/)
 
+## BYD Dolphin
+
+[![Dolphin](https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg)](dolphin)
+
+This model is available in 1 variant(s). 
+[Read full details](dolphin/)
+
 ## BYD Han
 
 [![Han](https://media.evkx.net/multimedia/models/byd/han/han/main_1_st.jpg)](han)
