@@ -18,5 +18,5 @@ This model is available in 1 variant(s).
 
 [![Z](https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg)](z)
 
-This model is available in 1 variant(s). 
+This model is available in 2 variant(s). 
 [Read full details](z/)
