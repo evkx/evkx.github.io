@@ -36,7 +36,7 @@ The Volvo EX90 Twin Motor has a maximum power of 300KW (408hp). The total torque
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 111kWh and a net capacity of 107kWh, meaning you have a 4kWh buffer for protection. (3,6%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 580 km (360 mi).   The consumption is 18,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 111kWh and a net capacity of 107kWh, meaning you have a 4kWh buffer for protection. (3,6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 580 km (360 mi).   The consumption is 18,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 68 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 54% resulting in an actual charge speed including time loss on 136kW. Each charge session would take 24 minutes and 31 seconds. 
 
@@ -153,7 +153,7 @@ Volvo EX90 Twin Motor has several features to make your life as a driver or pass
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
-Keyless go makes it possible to start the car without needing to use the key. 
+Keyless go makes it possible to start the car without using the key. 
 
 The steering wheel is electrically adjustable. 
 
@@ -202,15 +202,15 @@ The Volvo EX90 Twin Motor has several standard and optional [advanced driver ass
 
 
 
-The Volvo EX90 Twin Motor has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The Volvo EX90 Twin Motor has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Volvo EX90 Twin Motor has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Volvo EX90 Twin Motor has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Volvo EX90 Twin Motor has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Volvo EX90 Twin Motor has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 

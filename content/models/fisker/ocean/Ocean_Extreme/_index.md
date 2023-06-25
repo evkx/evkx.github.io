@@ -126,7 +126,7 @@ Fisker Ocean Extreme has several features to make your life as a driver or passe
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
-Keyless go makes it possible to start the car without needing to use the key. 
+Keyless go makes it possible to start the car without using the key. 
 
 comfort.easyentryseatcomfort.easyentryseat
 
@@ -167,21 +167,21 @@ The Fisker Ocean Extreme has several standard and optional [advanced driver assi
 
 
 
-The Fisker Ocean Extreme has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Fisker Ocean Extreme has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Fisker Ocean Extreme has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The Fisker Ocean Extreme has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Fisker Ocean Extreme has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Fisker Ocean Extreme has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Fisker Ocean Extreme has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Fisker Ocean Extreme has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
-[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
-driverassistance.exitwarning
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
 
 ### Driving Automation
 

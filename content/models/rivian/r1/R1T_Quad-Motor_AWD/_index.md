@@ -130,7 +130,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
+There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
 
 ## Comfort
 
@@ -138,7 +138,7 @@ Rivian R1T Quad-Motor AWD has several features to make your life as a driver or 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
-Keyless go makes it possible to start the car without needing to use the key. 
+Keyless go makes it possible to start the car without using the key. 
 
 The steering wheel is electrically adjustable. 
 
@@ -189,19 +189,19 @@ The Rivian R1T Quad-Motor AWD has several standard and optional [advanced driver
 
 
 
-The Rivian R1T Quad-Motor AWD has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Rivian R1T Quad-Motor AWD has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Rivian R1T Quad-Motor AWD has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The Rivian R1T Quad-Motor AWD has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Rivian R1T Quad-Motor AWD has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Rivian R1T Quad-Motor AWD has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Rivian R1T Quad-Motor AWD has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Rivian R1T Quad-Motor AWD has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
-[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
 ### Driving Automation
 

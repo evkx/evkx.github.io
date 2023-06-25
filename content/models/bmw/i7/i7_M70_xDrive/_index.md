@@ -144,7 +144,7 @@ There is only one type of steering wheel available. The stock steering wheel is 
 
 ## Climate system
 
-You can choose from two different climate systems. The standard climate system supports different temperatures in two zone for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. 
+You can choose from two different climate systems. The standard climate system supports different temperatures in two zone for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 
 ## Comfort
 
@@ -152,7 +152,7 @@ BMW i7 M70 xDrive has several features to make your life as a driver or passenge
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
-Keyless go makes it possible to start the car without needing to use the key. 
+Keyless go makes it possible to start the car without using the key. 
 
 The steering wheel is electrically adjustable. 
 
@@ -201,17 +201,17 @@ The BMW i7 M70 xDrive has several standard and optional [advanced driver assista
 
 
 
-The BMW i7 M70 xDrive has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The BMW i7 M70 xDrive has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The BMW i7 M70 xDrive has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The BMW i7 M70 xDrive has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The BMW i7 M70 xDrive has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The BMW i7 M70 xDrive has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a optional driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The BMW i7 M70 xDrive has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The BMW i7 M70 xDrive has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

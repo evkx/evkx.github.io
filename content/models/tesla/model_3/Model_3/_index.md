@@ -36,7 +36,7 @@ The Tesla Model 3 has a maximum power of 208KW (283hp). The total torque is 420n
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 60kWh and a net capacity of 57,5kWh, meaning you have a 2,5kWh buffer for protection. (4,2%). The battery is a Lithium-Ion battery based on [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. The [WLTP range](../../../../guides/understandingrange/wltp) varies from 495 to 491 km (308-305 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 11,6kWh/100km for the basic version and 11,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 60kWh and a net capacity of 57,5kWh, meaning you have a 2,5kWh buffer for protection. (4,2%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. The [WLTP range](../../../../guides/understandingrange/wltp) varies from 495 to 491 km (308-305 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 11,6kWh/100km for the basic version and 11,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 68 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 49% resulting in an actual charge speed including time loss on 83kW. Each charge session would take 19 minutes and 9 seconds. 
 
@@ -153,7 +153,7 @@ Tesla Model 3 has several features to make your life as a driver or passenger mo
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
-Keyless go makes it possible to start the car without needing to use the key. 
+Keyless go makes it possible to start the car without using the key. 
 
 The steering wheel is electrically adjustable. 
 
@@ -192,21 +192,21 @@ The Tesla Model 3 has several standard and optional [advanced driver assistance 
 
 
 
-The Tesla Model 3 has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Tesla Model 3 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Tesla Model 3 has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The Tesla Model 3 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Tesla Model 3 has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Tesla Model 3 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Tesla Model 3 has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Tesla Model 3 has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
-[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
 ### Driving Automation
 

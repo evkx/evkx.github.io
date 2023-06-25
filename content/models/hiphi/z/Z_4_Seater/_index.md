@@ -36,7 +36,7 @@ The HiPhi Z 4 Seater has a maximum power of 433KW (589hp). The total torque is 8
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 125kWh and a net capacity of 120kWh, meaning you have a 5kWh buffer for protection. (4,0%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 555 km (345 mi).   The consumption is 21,6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 125kWh and a net capacity of 120kWh, meaning you have a 5kWh buffer for protection. (4,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 555 km (345 mi).   The consumption is 21,6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 98 minutes, while a more common scenario of 10-80% would take 50 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 47% resulting in an actual charge speed including time loss on 104kW. Each charge session would take 30 minutes and 46 seconds. 
 
@@ -79,7 +79,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 6 different paint colors when ordering this model. 
 
-The car has two [regular doors](../../../../technology/doors/) in front, a special combination of sucide doors with gullwing roof on second row and a [liftgate](../../../../technology/doors/#liftgate) in the rear. 
+The car has two [regular doors](../../../../technology/doors/) in front, a unique combination of suicide doors with a gullwing roof on the second row, and a [liftgate](../../../../technology/doors/#liftgate) in the rear. 
 
 There is only one roof for this model. 
 
@@ -152,7 +152,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -160,7 +160,7 @@ HiPhi Z 4 Seater has several features to make your life as a driver or passenger
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
-Keyless go makes it possible to start the car without needing to use the key. 
+Keyless go makes it possible to start the car without using the key. 
 
 The steering wheel is electrically adjustable. 
 
@@ -215,21 +215,21 @@ The HiPhi Z 4 Seater has several standard and optional [advanced driver assistan
 
 
 
-The HiPhi Z 4 Seater has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The HiPhi Z 4 Seater has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The HiPhi Z 4 Seater has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The HiPhi Z 4 Seater has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The HiPhi Z 4 Seater has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The HiPhi Z 4 Seater has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The HiPhi Z 4 Seater has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The HiPhi Z 4 Seater has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
-[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
-driverassistance.exitwarning
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
 
 ### Driving Automation
 

@@ -197,15 +197,15 @@ The Lexus RZ 450e has several standard and optional [advanced driver assistance 
 
 
 
-The Lexus RZ 450e has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Lexus RZ 450e has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Lexus RZ 450e has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Lexus RZ 450e has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
-[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
 ### Driving Automation
 
@@ -221,7 +221,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 522 liters. With the third row seat down, it is 1451 liters. On the roof, you can load up to 80kg. Max weight is 2530kg, and with the base weight of 1980 kg, you can max load 550 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 522 liters. With the third-row seat down, it is 1451 liters. On the roof, you can load up to 80kg. Max weight is 2530kg, and with the base weight of 1980 kg, you can max load 550 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 

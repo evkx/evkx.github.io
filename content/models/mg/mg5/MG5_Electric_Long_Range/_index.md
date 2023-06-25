@@ -36,7 +36,7 @@ The MG MG5 Electric Long Range has a maximum power of 115KW (156hp). The total t
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 61,1kWh and a net capacity of 57,4kWh, meaning you have a 3,7kWh buffer for protection. (6,1%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) The [WLTP range](../../../../guides/understandingrange/wltp) varies from 400 to 380 km (249-236 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,4kWh/100km for the basic version and 15,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 61,1kWh and a net capacity of 57,4kWh, meaning you have a 3,7kWh buffer for protection. (6,1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) The [WLTP range](../../../../guides/understandingrange/wltp) varies from 400 to 380 km (249-236 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,4kWh/100km for the basic version and 15,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 87kW. A full charge from 0 - 100% would take 75 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 58% resulting in an actual charge speed including time loss on 67kW. Each charge session would take 26 minutes and 50 seconds. 
 
@@ -143,7 +143,7 @@ There is one climate system available. The  climate system supports only control
 
 MG MG5 Electric Long Range has several features to make your life as a driver or passenger more comfortable. 
 
-Keyless go makes it possible to start the car without needing to use the key. 
+Keyless go makes it possible to start the car without using the key. 
 
 You have wireless charging for your phone.  
 
@@ -184,7 +184,7 @@ The MG MG5 Electric Long Range has several standard and optional [advanced drive
 
 
 
-The MG MG5 Electric Long Range has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The MG MG5 Electric Long Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 ### Driving Automation
 

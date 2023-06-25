@@ -36,7 +36,7 @@ The Ford F150 Lightning Extended Range has a maximum power of 433KW (589hp). The
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 150kWh and a net capacity of 131kWh, meaning you have a 19kWh buffer for protection. (12,7%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 150kWh and a net capacity of 131kWh, meaning you have a 19kWh buffer for protection. (12,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 155kW. A full charge from 0 - 100% would take 130 minutes, while a more common scenario of 10-80% would take 49 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 62% resulting in an actual charge speed including time loss on 106kW. Each charge session would take 46 minutes and 54 seconds. 
 
@@ -185,17 +185,17 @@ The Ford F150 Lightning Extended Range has several standard and optional [advanc
 
 
 
-The Ford F150 Lightning Extended Range has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Ford F150 Lightning Extended Range has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Ford F150 Lightning Extended Range has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Ford F150 Lightning Extended Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Ford F150 Lightning Extended Range has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Ford F150 Lightning Extended Range has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
-[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
 ### Driving Automation
 

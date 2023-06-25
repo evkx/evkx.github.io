@@ -36,7 +36,7 @@ With overboost, the Audi e-tron 55 Sportback has a maximum power of 300KW (408hp
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 95kWh and a net capacity of 86kWh, meaning you have a 9kWh buffer for protection. (9,5%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) The [WLTP range](../../../../guides/understandingrange/wltp) varies from 452 to 373 km (281-232 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 19,0kWh/100km for the basic version and 23,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 95kWh and a net capacity of 86kWh, meaning you have a 9kWh buffer for protection. (9,5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) The [WLTP range](../../../../guides/understandingrange/wltp) varies from 452 to 373 km (281-232 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 19,0kWh/100km for the basic version and 23,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 44 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 81% resulting in an actual charge speed including time loss on 118kW. Each charge session would take 34 minutes and 14 seconds. 
 
@@ -206,7 +206,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -214,7 +214,7 @@ Audi e-tron 55 Sportback has several features to make your life as a driver or p
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
-Keyless go makes it possible to start the car without needing to use the key. 
+Keyless go makes it possible to start the car without using the key. 
 
 The steering wheel is electrically adjustable. 
 
@@ -267,23 +267,23 @@ The Audi e-tron 55 Sportback has several standard and optional [advanced driver 
 
 
 
-The Audi e-tron 55 Sportback has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Audi e-tron 55 Sportback has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Audi e-tron 55 Sportback has a [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions.
+The Audi e-tron 55 Sportback has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Audi e-tron 55 Sportback has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Audi e-tron 55 Sportback has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a optional driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system that is designed to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Audi e-tron 55 Sportback has a [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Audi e-tron 55 Sportback has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
-[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
 ### Driving Automation
 

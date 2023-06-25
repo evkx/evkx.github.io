@@ -36,7 +36,7 @@ The GMC Hummer EV Edition 1 Pickup has a maximum power of 746KW (1014hp). The to
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 220kWh and a net capacity of 213kWh, meaning you have a 7kWh buffer for protection. (3,2%). The battery is a Lithium-Ion battery based on [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 220kWh and a net capacity of 213kWh, meaning you have a 7kWh buffer for protection. (3,2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 139 minutes, while a more common scenario of 10-80% would take 48 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 52% resulting in an actual charge speed including time loss on 245kW. Each charge session would take 27 minutes and 39 seconds. 
 
@@ -118,7 +118,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -126,7 +126,7 @@ GMC Hummer EV Edition 1 Pickup has several features to make your life as a drive
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
-Keyless go makes it possible to start the car without needing to use the key. 
+Keyless go makes it possible to start the car without using the key. 
 
 The steering wheel is electrically adjustable. 
 
@@ -165,11 +165,11 @@ The GMC Hummer EV Edition 1 Pickup has several standard and optional [advanced d
 
 
 
-The GMC Hummer EV Edition 1 Pickup has a [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The GMC Hummer EV Edition 1 Pickup has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The GMC Hummer EV Edition 1 Pickup has a [**lane keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The GMC Hummer EV Edition 1 Pickup has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-[**Blind spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
 ### Driving Automation
 
