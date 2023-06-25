@@ -1,0 +1,90 @@
+---
+title: HiPhi X 4 Seater gallery
+linktitle: Image Gallery
+description: See below for our large HiPhi X 4 Seater image gallery. Click pictures for high-resolution versions.
+weight: 10
+hidden: true
+---
+<!-- markdownlint-disable MD033 -->
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
+<div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+<a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/charging_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/charging_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/charging_1_st.jpg" alt="HiPhi X 4 Seater" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_1.jpg"
+data-pswp-width="1959"
+data-pswp-height="1102" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_1_st.jpg" alt="HiPhi X 4 Seater" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="1687" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_2_st.jpg" alt="HiPhi X 4 Seater" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_3.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_3_st.jpg" alt="HiPhi X 4 Seater" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_4_st.jpg" alt="HiPhi X 4 Seater" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/headlights_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/headlights_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/headlights_1_st.jpg" alt="HiPhi X 4 Seater" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/main_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/main_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/main_1_st.jpg" alt="HiPhi X 4 Seater" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/rearlights_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/rearlights_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/rearlights_1_st.jpg" alt="HiPhi X 4 Seater" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/screens_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/screens_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/screens_1_st.jpg" alt="HiPhi X 4 Seater" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/trunk_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/trunk_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/trunk_1_st.jpg" alt="HiPhi X 4 Seater" />
+</a>
+</div>
+<script type="module">
+  import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';
+    const lightbox = new PhotoSwipeLightbox({
+       gallery: '#my-gallery',
+        children: 'a',
+        pswpModule: () => import('/js/photoswipe.esm.js')
+    });
+lightbox.init();
+</script>
