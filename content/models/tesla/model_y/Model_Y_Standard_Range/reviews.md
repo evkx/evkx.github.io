@@ -8,4 +8,19 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### Bjørn Nyland: esla Model Y RWD Sunday driving 09.06.2023
+
+{{< youtube Ba0vP0mIwfw >}}
+
+### Bjørn Nyland: Tesla Model Y RWD acceleration, braking and noise test 08.06.2023
+
+{{< youtube HVL5BHWirSI >}}
+
+### Bjørn Nyland: Tesla Model Y RWD 1000 km challenge 08.06.2023
+
+{{< youtube azwqHJ3z5VM >}}
+
+### Bjørn Nyland: Tesla Model Y RWD range teste 07.06.2023
+
+{{< youtube Ba0vP0mIwfw >}}
+
