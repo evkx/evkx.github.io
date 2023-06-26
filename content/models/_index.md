@@ -28,6 +28,14 @@ BYD is a multinational high-tech company dedicated to technological innovations 
 
 BYD has 4 models with total 4 variants. [Read all about them](byd/)
 
+## Chevrolet
+
+[![Chevrolet](https://media.evkx.net/multimedia/models/chevrolet/brandevs_st.jpg)](chevrolet/)
+
+Chevrolet is one of the leading automakers in the electric vehicle (EV) market, with a vision to create a world with zero crashes, zero emissions, and zero congestion. The company is committed to providing EVs for everyone, from compact cars to full-size trucks, with a range of models that suit different needs and preferences.
+
+Chevrolet has 1 models with total 1 variants. [Read all about them](chevrolet/)
+
 ## CUPRA
 
 [![CUPRA](https://media.evkx.net/multimedia/models/cupra/brandevs_st.jpg)](cupra/)
