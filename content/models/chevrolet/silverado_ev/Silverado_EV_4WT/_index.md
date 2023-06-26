@@ -47,6 +47,14 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 19 hours and 21 minutes. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" width="680" height="453">
+</a>
+<figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -132,7 +140,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 1-zone climate system supports only controlling one common zone for the whole car. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -164,7 +172,7 @@ Chevrolet Silverado EV 4WT has twin screens on a shared frame mounted with brack
 
 ## Infotainment
 
-One type of sound system is available for the Chevrolet Silverado EV 4WT. With the Bose Premium Sound System, you get 14 speakers with a max system output of 625 watts. 
+One type of sound system is available for the Chevrolet Silverado EV 4WT. With the Chevrolet Sound System, you get six speakers with a max system output of 200 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Chevrolet Silverado EV 4WT supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
@@ -187,12 +195,10 @@ The Chevrolet Silverado EV 4WT has a [**lane-keeping assist**](../../../../techn
 
 ### Driving Automation
 
+The Chevrolet Silverado EV 4WT offers [driving automation on level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-
-With the Super Cruise  level 2 system, you get the following driving automation features. 
+With the Super Cruise  level 1 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
 
 {{<evkxdisplayaddarticle />}}
@@ -201,7 +207,7 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1039 liters. The bed width is 1286 mm, and length is 1803 mm. The max load weight in bed is 614 kg.  Under the hood, there is frunk with more storage room. This frunk is 303 liters. Max weight is 4490kg, and with the base weight of 3855 kg, you can max load 635 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the truck bed is 1039 liters. The bed width is 1286 mm, and length is 1803 mm. The max load weight in bed is 614 kg.  Under the hood, there is frunk with more storage room. This frunk is 303 liters. Max weight is 4531kg, and with the base weight of 3882 kg, you can max load 649 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 4536, and on unbraked, 750kg. 
 

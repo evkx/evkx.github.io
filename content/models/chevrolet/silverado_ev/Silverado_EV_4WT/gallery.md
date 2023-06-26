@@ -8,6 +8,13 @@ hidden: true
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+<a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1_st.jpg" alt="Chevrolet Silverado EV 4WT" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/exterior_1.jpg"
 data-pswp-width="3000"
@@ -50,6 +57,13 @@ data-pswp-height="2001"
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/interior_1_st.jpg" alt="Chevrolet Silverado EV 4WT" />
 </a>
+<a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/interior_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/interior_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2001" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/interior_2_st.jpg" alt="Chevrolet Silverado EV 4WT" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1.jpg"
 data-pswp-width="3000"
@@ -77,6 +91,13 @@ data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/trailer_1_st.jpg" alt="Chevrolet Silverado EV 4WT" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/trailer_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/trailer_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="1999" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/trailer_2_st.jpg" alt="Chevrolet Silverado EV 4WT" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/trunk_1.jpg"
