@@ -16,7 +16,6 @@ This repository contains a theme for [Hugo](https://gohugo.io/), based on great 
 - Table of contents when enabled in front matter (toc: true)
 - [Reveal.js](https://github.com/hakimel/reveal.js) presentation from markdown (embededed or fullscreen page)
 - Include segment of content from one page in another (Excerpt)
-- [Mermaid](https://mermaidjs.github.io) diagrams
 - Icons, Buttons, Alerts, Panels, Tip/Note/Info/Warning boxes
 
 ## Installation
