@@ -25,5 +25,5 @@ This model is available in 2 variant(s).
 
 [![XC40](https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg)](xc40)
 
-This model is available in 1 variant(s). 
+This model is available in 2 variant(s). 
 [Read full details](xc40/)
