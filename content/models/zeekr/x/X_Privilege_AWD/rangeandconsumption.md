@@ -1,7 +1,7 @@
 ---
-title: Zeekr X Privilge AWD range & consumption
+title: Zeekr X Privilege AWD range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Zeekr X Privilge AWD.
+description: Here you find all details about range and consumption for Zeekr X Privilege AWD.
 weight: 9
 hidden: true
 ---

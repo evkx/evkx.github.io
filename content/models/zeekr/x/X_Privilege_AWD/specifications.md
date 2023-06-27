@@ -1,12 +1,13 @@
 ---
-title: Zeekr X Privilge AWD specifications
+title: Zeekr X Privilege AWD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Zeekr X Privilge AWD.
+description: EVKX.net gives you the full specifications for Zeekr X Privilege AWD.
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-EVKX.net seeks to have the most complete specifications for Zeekr X Privilge AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr X Privilge AWD, visit the [chargeinfo](../chargecurve/) for Zeekr X Privilge AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![Zeekr X Privilege AWD](https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for Zeekr X Privilege AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr X Privilege AWD, visit the [chargeinfo](../chargecurve/) for Zeekr X Privilege AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance

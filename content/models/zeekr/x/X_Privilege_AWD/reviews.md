@@ -1,5 +1,5 @@
 ---
-title: Zeekr X Privilge AWD reviews
+title: Zeekr X Privilege AWD reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80
