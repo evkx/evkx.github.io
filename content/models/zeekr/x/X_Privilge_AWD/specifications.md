@@ -1,13 +1,12 @@
 ---
-title: Zeekr X Privelige AWD specifications
+title: Zeekr X Privilge AWD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Zeekr X Privelige AWD.
+description: EVKX.net gives you the full specifications for Zeekr X Privilge AWD.
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Zeekr X Privelige AWD](https://media.evkx.net/multimedia/models/zeekr/x/x_privelige_awd/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Zeekr X Privelige AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr X Privelige AWD, visit the [chargeinfo](../chargecurve/) for Zeekr X Privelige AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net seeks to have the most complete specifications for Zeekr X Privilge AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr X Privilge AWD, visit the [chargeinfo](../chargecurve/) for Zeekr X Privilge AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -151,20 +150,3 @@ This model is available with a seat configuration with five seats.
 |Android Auto support|Not available|
 |Apple Carplay support|Yes, standard equipment|
 |In Car navigation|Yes, standard equipment|
-|Number of avaiable sound systems|2|
-
-### High Performance
-
-|Spec|Value|
-|----|-----|
-|Number of speakers|8|
-|Channels|5|
-|Total effect|200|
-
-### Harman Kardon Premium Sound
-
-|Spec|Value|
-|----|-----|
-|Number of speakers|13|
-|Channels|5|
-|Total effect|1040|

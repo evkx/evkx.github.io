@@ -1,7 +1,7 @@
 ---
-title: Zeekr X Privelige AWD charging curve & performance
+title: Zeekr X Privilge AWD charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Zeekr X Privelige AWD. 
+description: Here you find the charging curve for Zeekr X Privilge AWD. 
 weight: 10
 hidden: true
 ---
