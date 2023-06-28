@@ -248,7 +248,7 @@ XPENG has 2 models with total 4 variants. [Read all about them](xpeng/)
 
 [![Zeekr](https://media.evkx.net/multimedia/models/zeekr/brandevs_st.jpg)](zeekr/)
 
-Zeekr is a new luxury electric vehicle (EV) brand launched by Geely Automobile in 2021. The brand aims to compete with Tesla and other high-end EV makers in China and beyond. Zeekr's EV strategy is based on four pillars: design, technology, performance and customer experience.
+Zeekr is a new luxury electric vehicle (EV) brand launched by Geely Automobile in 2021. The brand aims to compete with Tesla and other high-end EV makers in China and beyond. Zeekr's EV strategy is based on four pillars design, technology, performance and customer experience.
 
 Zeekr has 2 models with total 2 variants. [Read all about them](zeekr/)
 
