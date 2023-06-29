@@ -65,7 +65,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model. 
+You can choose between 6 different paint colors when ordering this model. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
 
@@ -136,6 +136,14 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The  screen on the steering column  is 8 inches large. The touch screen at the top of the center console is 14,6 inches large. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" width="680" height="382">
+</a>
+<figcaption><h4>Zeekr X Privilege AWD</h4></figcaption></figur>
+
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
 
