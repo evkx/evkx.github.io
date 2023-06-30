@@ -14,10 +14,10 @@ EVKX.net seeks to have the most complete specifications for Zeekr X Long Range R
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|315 Kw|
-|Electrical torque output in Nm|543 Nm|
+|Peak electrical output in kW|200 Kw|
+|Electrical torque output in Nm|343 Nm|
 |Top speed|180 km/h|
-|0-100km/h (0-62 mph)|3,8 s|
+|0-100km/h (0-62 mph)|5,6 s|
 
 
 
@@ -26,9 +26,9 @@ EVKX.net seeks to have the most complete specifications for Zeekr X Long Range R
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|400 km|
-|WLTP consumption|16,0 kWh/100km|
-|WLTP consumption with charging loss|18,3 kWh/100km|
+|WLTP range|440 km|
+|WLTP consumption|14,5 kWh/100km|
+|WLTP consumption with charging loss|16,4 kWh/100km|
 
 
 
