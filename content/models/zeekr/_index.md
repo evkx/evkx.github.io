@@ -18,5 +18,5 @@ This model is available in 1 variant(s).
 
 [![X](https://media.evkx.net/multimedia/models/zeekr/x/x_privelige_awd/main_1_st.jpg)](x)
 
-This model is available in 1 variant(s). 
+This model is available in 2 variant(s). 
 [Read full details](x/)
