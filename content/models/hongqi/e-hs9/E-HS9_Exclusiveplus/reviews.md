@@ -8,4 +8,7 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### Bjørn Nyland: Hongqi E HS9 120 kWh Exclusive+ range test 01.07.2023
+
+{{< youtube Ny4gITMus4 >}}
+
