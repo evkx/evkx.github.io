@@ -41,14 +41,14 @@ The battery has a gross capacity of 60,5kWh and a net capacity of 58kWh, meaning
 The maximum DC charging speed is 88kW. A full charge from 0 - 100% would take 45 minutes, while a more common scenario of 10-80% would take 24 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 60% resulting in an actual charge speed including time loss on 86kW. Each charge session would take 23 minutes and 58 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 35 minutes to drive. This trip will require six charge session(s) charging from 3% to 59%. The total time lost for charging will be 135 minutes.   
-### Onboard charger
 
+### Onboard charger
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 17 minutes. 
 
 ### Charge port
 
-The location of the charge port is on the [right front side](../../../../technology/charging/connectors/#front-side). This makes it easy for charge stations that you parks beside. The connector types varies between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [right front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 

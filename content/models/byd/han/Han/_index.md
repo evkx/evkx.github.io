@@ -41,14 +41,14 @@ The battery has a gross capacity of 85,4kWh and a net capacity of 83kWh, meaning
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 59% resulting in an actual charge speed including time loss on 93kW. Each charge session would take 30 minutes and 36 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 10 minutes to drive. This trip will require four charge session(s) charging from 8% to 59%. The total time lost for charging will be 111 minutes.   
-### Onboard charger
 
+### Onboard charger
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 51 minutes. 
 
 ### Charge port
 
-The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up in to the charger. The connector types varies between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up in to the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 
 <figur>

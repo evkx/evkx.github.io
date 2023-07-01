@@ -41,8 +41,8 @@ The battery has a gross capacity of 61,1kWh and a net capacity of 57,4kWh, meani
 The maximum DC charging speed is 87kW. A full charge from 0 - 100% would take 75 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 58% resulting in an actual charge speed including time loss on 67kW. Each charge session would take 26 minutes and 50 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 57 minutes to drive. This trip will require seven charge session(s) charging from 9% to 52%. The total time lost for charging will be 157 minutes.   
-### Onboard charger
 
+### Onboard charger
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 13 minutes. 
 
@@ -56,7 +56,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ### Charge port
 
-The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This makes it easy for charge stations where you need to park with the front in. The connector types varies between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This makes it easy for charge stations where you need to park with the front in. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 

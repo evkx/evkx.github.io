@@ -41,14 +41,14 @@ The battery has a gross capacity of 66kWh and a net capacity of 63kWh, meaning y
 The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 52 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 57% resulting in an actual charge speed including time loss on 80kW. Each charge session would take 26 minutes and 52 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 10 hours and 33 minutes to drive. This trip will require six charge session(s) charging from 2% to 49%. The total time lost for charging will be 134 minutes.   
-### Onboard charger
 
+### Onboard charger
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 7,2KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 45 minutes. 
 
 ### Charge port
 
-The location of the charge port is on the [right front side](../../../../technology/charging/connectors/#front-side). This makes it easy for charge stations that you parks beside. The connector types varies between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [right front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
