@@ -44,8 +44,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 ### Onboard charger
 
 
-
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 49 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 54 minutes. 
+
+### Charge port
+
+
 
 {{<evkxdisplayaddarticle />}}
 

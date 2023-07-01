@@ -42,7 +42,6 @@ The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 5
 ### Onboard charger
 
 
-
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 37 minutes. 
 
 
@@ -52,6 +51,10 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 </a>
 <figcaption><h4>DS 3 E-Tense</h4></figcaption></figur>
 
+
+### Charge port
+
+The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up in to the charger. The connector types varies between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 

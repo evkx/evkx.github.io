@@ -42,8 +42,11 @@ The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 7
 ### Onboard charger
 
 
-
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 40 minutes. 
+
+### Charge port
+
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This makes it easy for charge stations that you parks beside. The connector types varies between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 

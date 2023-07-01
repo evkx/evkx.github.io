@@ -44,7 +44,6 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 ### Onboard charger
 
 
-
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
 
 
@@ -53,6 +52,10 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" width="680" height="508">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S</h4></figcaption></figur>
+
+
+### Charge port
+
 
 
 {{<evkxdisplayaddarticle />}}

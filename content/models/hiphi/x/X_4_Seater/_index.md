@@ -44,7 +44,6 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 ### Onboard charger
 
 
-
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 49 minutes. 
 
 
@@ -54,6 +53,10 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 </a>
 <figcaption><h4>HiPhi X 4 Seater</h4></figcaption></figur>
 
+
+### Charge port
+
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up in to the charger. The connector types varies between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
