@@ -100,11 +100,8 @@ The following functionalities are available on the **** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 
-You can choose from 4 different materials/colors for this seat type. 
-- White [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
-- Grey [wool upholstering](../../../../technology/seats/materials/#wool)
-- Brown [wool/leatherette upholstering](../../../../technology/seats/materials/#wool)
-- Blue [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+You can choose from 1 different materials/colors for this seat type. 
+- White & Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
 
