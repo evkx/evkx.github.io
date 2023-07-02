@@ -283,5 +283,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had world premiere 19.11.2019 and deliveries started 01.05.2020. This models has now been discontined. 
+This model had world premiere 19.11.2019 and deliveries started May 2020. This models has now been discontined. 
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
