@@ -269,4 +269,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/trunk_1_st.jpg" alt="BMW i5 M60 xDrive" title="BMW i5 M60 xDrive" width="680" height="453">
 </a>
 <figcaption><h4>BMW i5 M60 xDrive</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

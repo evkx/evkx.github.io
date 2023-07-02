@@ -243,4 +243,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/trunk_1_st.jpg" alt="Ford Mustang Mach-E Long Range RWD" title="Ford Mustang Mach-E Long Range RWD" width="680" height="390">
 </a>
 <figcaption><h4>Ford Mustang Mach-E Long Range RWD</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

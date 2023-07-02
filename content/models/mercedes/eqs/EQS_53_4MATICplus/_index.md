@@ -273,4 +273,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/trunk_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -272,4 +272,8 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback" width="680" height="509">
 </a>
 <figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>
+
+### Availability & Pricing
+
+This model had world premiere 19.11.2019 and deliveries started 01.05.2020. This models has now been discontined. 
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

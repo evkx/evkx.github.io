@@ -245,4 +245,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" width="680" height="483">
 </a>
 <figcaption><h4>BYD Dolphin 60.4kWh</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

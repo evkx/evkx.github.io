@@ -192,4 +192,5 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 
 The cargo capacity in the truck bed is 1039 liters. The bed width is 1272 mm, and length is 1524 mm. The max load weight in bed is 614 kg.  Under the hood, there is frunk with more storage room. This frunk is 320 liters. Max weight is 4717kg, and with the base weight of 4103 kg, you can max load 614 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 3402, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>
+You can order the car with a towbar. The maximum total weight on a braked trailer is 3402, and on unbraked, 750kg. 
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

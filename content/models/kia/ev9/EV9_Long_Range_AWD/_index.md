@@ -254,4 +254,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/trunk_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" width="680" height="453">
 </a>
 <figcaption><h4>Kia EV9 Long Range AWD</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

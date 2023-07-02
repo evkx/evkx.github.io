@@ -217,4 +217,5 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 The cargo capacity in the trunk is 405 liters. With the rear seat down, it is 1095 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 31 liters. Max weight is 2520kg, and with the base weight of 2025 kg, you can max load 495 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. <object type="image/svg+xml" data="modelnavigation.svg"></object>
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
+<object type="image/svg+xml" data="modelnavigation.svg"></object>

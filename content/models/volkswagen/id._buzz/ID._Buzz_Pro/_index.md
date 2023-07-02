@@ -255,4 +255,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/trunk_1_st.jpg" alt="Volkswagen ID. Buzz Pro" title="Volkswagen ID. Buzz Pro" width="680" height="453">
 </a>
 <figcaption><h4>Volkswagen ID. Buzz Pro</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -174,4 +174,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/trunk_1_st.jpg" alt="Honda e:Ny1" title="Honda e:Ny1" width="680" height="453">
 </a>
 <figcaption><h4>Honda e:Ny1</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

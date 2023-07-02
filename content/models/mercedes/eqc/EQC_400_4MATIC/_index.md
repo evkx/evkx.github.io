@@ -200,4 +200,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" title="Mercedes-EQ EQC 400 4MATIC" width="680" height="491">
 </a>
 <figcaption><h4>Mercedes-EQ EQC 400 4MATIC</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -245,4 +245,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/trunk_1_st.jpg" alt="XPENG G9 RWD Long Range" title="XPENG G9 RWD Long Range" width="680" height="453">
 </a>
 <figcaption><h4>XPENG G9 RWD Long Range</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

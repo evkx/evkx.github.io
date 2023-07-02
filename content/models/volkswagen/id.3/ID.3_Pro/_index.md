@@ -248,4 +248,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro/trunk_1_st.jpg" alt="Volkswagen ID.3 Pro" title="Volkswagen ID.3 Pro" width="680" height="453">
 </a>
 <figcaption><h4>Volkswagen ID.3 Pro</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

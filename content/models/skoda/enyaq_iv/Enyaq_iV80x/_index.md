@@ -267,4 +267,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" width="680" height="453">
 </a>
 <figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

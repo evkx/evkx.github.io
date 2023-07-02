@@ -243,4 +243,5 @@ The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 13
 <img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/trunk_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" width="680" height="453">
 </a>
 <figcaption><h4>BYD Atto 3</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

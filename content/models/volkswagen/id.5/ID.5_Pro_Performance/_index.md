@@ -272,4 +272,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro_performance/trunk_1_st.jpg" alt="Volkswagen ID.5 Pro Performance" title="Volkswagen ID.5 Pro Performance" width="680" height="453">
 </a>
 <figcaption><h4>Volkswagen ID.5 Pro Performance</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

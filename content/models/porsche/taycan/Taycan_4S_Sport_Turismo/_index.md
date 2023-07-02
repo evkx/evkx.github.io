@@ -299,4 +299,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s_sport_turismo/trunk_1_st.jpg" alt="Porsche Taycan 4S Sport Turismo" title="Porsche Taycan 4S Sport Turismo" width="680" height="395">
 </a>
 <figcaption><h4>Porsche Taycan 4S Sport Turismo</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -318,4 +318,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/trunk_1_st.jpg" alt="Audi Q8 55 e-tron" title="Audi Q8 55 e-tron" width="680" height="509">
 </a>
 <figcaption><h4>Audi Q8 55 e-tron</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

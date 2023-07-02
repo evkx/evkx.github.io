@@ -239,4 +239,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_awd/trunk_1_st.jpg" alt="Hyundai Ioniq 5 Long Range AWD" title="Hyundai Ioniq 5 Long Range AWD" width="680" height="453">
 </a>
 <figcaption><h4>Hyundai Ioniq 5 Long Range AWD</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

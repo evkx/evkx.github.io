@@ -236,4 +236,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/trunk_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" width="680" height="453">
 </a>
 <figcaption><h4>Lucid Air Grand Touring</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

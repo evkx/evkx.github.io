@@ -246,4 +246,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/trunk_1_st.jpg" alt="BMW i4 eDrive40" title="BMW i4 eDrive40" width="680" height="480">
 </a>
 <figcaption><h4>BMW i4 eDrive40</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

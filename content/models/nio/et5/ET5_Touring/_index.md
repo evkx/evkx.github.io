@@ -235,4 +235,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trunk_1_st.jpg" alt="Nio ET5 Touring" title="Nio ET5 Touring" width="680" height="443">
 </a>
 <figcaption><h4>Nio ET5 Touring</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

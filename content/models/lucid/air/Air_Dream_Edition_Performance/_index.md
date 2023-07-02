@@ -236,4 +236,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/trunk_1_st.jpg" alt="Lucid Air Dream Edition Performance" title="Lucid Air Dream Edition Performance" width="680" height="453">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Performance</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

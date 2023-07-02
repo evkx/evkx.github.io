@@ -253,4 +253,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQB 350 4MATIC" title="Mercedes-EQ EQB 350 4MATIC" width="680" height="453">
 </a>
 <figcaption><h4>Mercedes-EQ EQB 350 4MATIC</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

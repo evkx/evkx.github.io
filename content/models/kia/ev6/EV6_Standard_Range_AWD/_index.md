@@ -238,4 +238,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_awd/trunk_1_st.jpg" alt="Kia EV6 Standard Range AWD" title="Kia EV6 Standard Range AWD" width="680" height="453">
 </a>
 <figcaption><h4>Kia EV6 Standard Range AWD</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

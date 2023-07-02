@@ -261,4 +261,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/nio/el7/el7/trunk_1_st.jpg" alt="Nio EL7" title="Nio EL7" width="680" height="423">
 </a>
 <figcaption><h4>Nio EL7</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

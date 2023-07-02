@@ -310,4 +310,8 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50/trunk_1_st.jpg" alt="Audi e-tron 50" title="Audi e-tron 50" width="680" height="453">
 </a>
 <figcaption><h4>Audi e-tron 50</h4></figcaption></figur>
+
+### Availability & Pricing
+
+This model had world premiere 17.10.2018 and deliveries started 01.05.2020. This models has now been discontined. This model has been replaced by [Audi Q8 Sportback 50 e-tron](/models/audi/q8_e-tron/q8_sportback_50_e-tron)
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

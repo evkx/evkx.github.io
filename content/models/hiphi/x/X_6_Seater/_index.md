@@ -251,4 +251,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/trunk_1_st.jpg" alt="HiPhi X 6 Seater" title="HiPhi X 6 Seater" width="680" height="396">
 </a>
 <figcaption><h4>HiPhi X 6 Seater</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

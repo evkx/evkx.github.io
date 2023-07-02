@@ -219,4 +219,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/trunk_1_st.jpg" alt="Nissan Ariya 63kWh" title="Nissan Ariya 63kWh" width="680" height="453">
 </a>
 <figcaption><h4>Nissan Ariya 63kWh</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

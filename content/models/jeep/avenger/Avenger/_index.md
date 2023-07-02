@@ -203,4 +203,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_1_st.jpg" alt="Jeep Avenger" title="Jeep Avenger" width="680" height="453">
 </a>
 <figcaption><h4>Jeep Avenger</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

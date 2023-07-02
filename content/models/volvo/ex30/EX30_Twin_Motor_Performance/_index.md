@@ -225,4 +225,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/trunk_1_st.jpg" alt="Volvo EX30 Twin Motor Performance" title="Volvo EX30 Twin Motor Performance" width="680" height="510">
 </a>
 <figcaption><h4>Volvo EX30 Twin Motor Performance</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

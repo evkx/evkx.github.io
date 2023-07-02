@@ -281,4 +281,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/trunk_1_st.jpg" alt="Porsche Taycan GTS Sport Turismo" title="Porsche Taycan GTS Sport Turismo" width="680" height="453">
 </a>
 <figcaption><h4>Porsche Taycan GTS Sport Turismo</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

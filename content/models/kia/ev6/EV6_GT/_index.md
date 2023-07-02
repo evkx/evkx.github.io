@@ -237,4 +237,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/trunk_1_st.jpg" alt="Kia EV6 GT" title="Kia EV6 GT" width="680" height="382">
 </a>
 <figcaption><h4>Kia EV6 GT</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

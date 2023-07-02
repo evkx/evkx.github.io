@@ -241,4 +241,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/trunk_1_st.jpg" alt="SKODA ENYAQ COUPÉ RS iV" title="SKODA ENYAQ COUPÉ RS iV" width="680" height="453">
 </a>
 <figcaption><h4>SKODA ENYAQ COUPÉ RS iV</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

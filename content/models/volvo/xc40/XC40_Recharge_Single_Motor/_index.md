@@ -209,4 +209,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/trunk_1_st.jpg" alt="Volvo XC40 Recharge Single Motor" title="Volvo XC40 Recharge Single Motor" width="680" height="510">
 </a>
 <figcaption><h4>Volvo XC40 Recharge Single Motor</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -277,4 +277,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_cross_turismo/trunk_1_st.jpg" alt="Porsche Taycan Turbo S Cross Turismo" title="Porsche Taycan Turbo S Cross Turismo" width="680" height="328">
 </a>
 <figcaption><h4>Porsche Taycan Turbo S Cross Turismo</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

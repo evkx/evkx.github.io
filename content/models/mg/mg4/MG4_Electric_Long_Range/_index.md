@@ -221,4 +221,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/trunk_1_st.jpg" alt="MG MG4 Electric Long Range" title="MG MG4 Electric Long Range" width="680" height="453">
 </a>
 <figcaption><h4>MG MG4 Electric Long Range</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -231,4 +231,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/trunk_1_st.jpg" alt="Rivian R1T Quad-Motor AWD" title="Rivian R1T Quad-Motor AWD" width="680" height="453">
 </a>
 <figcaption><h4>Rivian R1T Quad-Motor AWD</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

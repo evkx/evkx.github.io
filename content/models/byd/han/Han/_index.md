@@ -255,4 +255,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/trunk_1_st.jpg" alt="BYD Han" title="BYD Han" width="680" height="453">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

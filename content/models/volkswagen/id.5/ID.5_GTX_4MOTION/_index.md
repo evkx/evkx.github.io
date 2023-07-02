@@ -261,4 +261,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/trunk_1_st.jpg" alt="Volkswagen ID.5 GTX 4MOTION" title="Volkswagen ID.5 GTX 4MOTION" width="680" height="453">
 </a>
 <figcaption><h4>Volkswagen ID.5 GTX 4MOTION</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

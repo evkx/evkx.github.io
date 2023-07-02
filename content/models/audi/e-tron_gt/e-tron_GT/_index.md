@@ -267,4 +267,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/trunk_1_st.jpg" alt="Audi e-tron GT" title="Audi e-tron GT" width="680" height="509">
 </a>
 <figcaption><h4>Audi e-tron GT</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

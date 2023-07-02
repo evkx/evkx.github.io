@@ -232,4 +232,5 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 <img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/trunk_1_st.jpg" alt="Tesla Model S" title="Tesla Model S" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model S</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
