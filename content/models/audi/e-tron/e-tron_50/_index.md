@@ -313,5 +313,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had world premiere 17.10.2018 and deliveries started May 2020. This models has now been discontined. This model has been replaced by [Audi Q8 Sportback 50 e-tron](/models/audi/q8_e-tron/q8_sportback_50_e-tron).
+This model had world premiere 17.10.2018 and deliveries started May 2020. This models has now been discontined. This model has been replaced by [Audi Q8 50 e-tron](/models/audi/q8_e-tron/q8_50_e-tron).
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
