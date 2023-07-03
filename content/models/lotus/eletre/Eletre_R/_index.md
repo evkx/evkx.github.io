@@ -75,7 +75,7 @@ You can choose between different brake systems. The first option brakes use a [c
 You can choose between 6 different paint colors when ordering this model. 
 Additionally, you can choose between 10 wheels with sizes from 22 to 23 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid]](../../../../technology/doors/#boot-lid) for the trunk. 
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
 
 There is only one roof for this model. 
 
@@ -140,7 +140,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. 
+There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 
 ## Comfort
 
@@ -158,7 +158,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The touch screen uicontrols.screen.location. is 15,1 inches large. 
+Lotus Eletre R has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 15,1 inches large. 
 
 
 <figur>
@@ -167,6 +167,12 @@ The touch screen uicontrols.screen.location. is 15,1 inches large.
 </a>
 <figcaption><h4>Lotus Eletre R</h4></figcaption></figur>
 
+
+A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
+
+This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
+
+A gesture control system that lets you control specific features using your hands. 
 
 ## Infotainment
 
@@ -177,7 +183,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
 
-The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
 <figur>
