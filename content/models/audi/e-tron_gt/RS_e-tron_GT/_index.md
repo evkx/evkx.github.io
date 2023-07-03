@@ -276,4 +276,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 </a>
 <figcaption><h4>Audi RS e-tron GT</h4></figcaption></figur>
 
+### Availability & Pricing
+
+This model had world premiere 09.02.2021 and deliveries is expected to start May 2021.
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
