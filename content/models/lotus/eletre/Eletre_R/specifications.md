@@ -147,9 +147,9 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|Android Auto support||
-|Apple Carplay support||
-|In Car navigation||
+|Android Auto support|Yes, standard equipment|
+|Apple Carplay support|Yes, standard equipment|
+|In Car navigation|Yes, standard equipment|
 |Number of avaiable sound systems|2|
 
 ### KEF Sound System

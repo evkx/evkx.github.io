@@ -98,7 +98,7 @@ The following functionalities are available on the **standard** seat.
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
@@ -112,6 +112,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
+- height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
 There is only one type of steering wheel available. 
@@ -142,11 +143,17 @@ Zeekr 001 Performance AWD has multiple integrated screens. Behind the steering w
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
 
+This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
+
+A gesture control system that lets you control specific features using your hands. 
+
 ## Infotainment
 
 You can choose between two sound systems on the Zeekr 001 Performance AWD. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Bowers & Wilkins, you get 25 speakers with a max system output of 1610 watts. 
 
-The model has 4 USB-C connections as standard. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Zeekr 001 Performance AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+
+The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the Zeekr 001 Performance AWD. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 

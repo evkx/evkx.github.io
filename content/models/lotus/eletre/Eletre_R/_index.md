@@ -146,6 +146,12 @@ There is one climate system available.
 
 Lotus Eletre R has several features to make your life as a driver or passenger more comfortable. 
 
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without using the key. 
+
+You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -166,10 +172,12 @@ The touch screen uicontrols.screen.location. is 15,1 inches large.
 
 You can choose between two sound systems on the Lotus Eletre R. With the KEF Sound System, you get 15 speakers with a max system output of 1380 watts. With the KEF Reference System, you get 23 speakers with a max system output of 2160 watts. 
 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Lotus Eletre R supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
+The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
 
-
+The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
 <figur>
