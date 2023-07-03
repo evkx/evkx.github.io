@@ -38,13 +38,13 @@ The Lotus Eletre R has a maximum power of 675KW (918hp). The total torque is 985
 
 The battery has a gross capacity of 112kWh and a net capacity of 107kWh, meaning you have a 5kWh buffer for protection. (4,5%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 460 to 410 km (286-255 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 23,3kWh/100km for the basic version and 26,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 98 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 26% to 70% resulting in an actual charge speed including time loss on 111kW. Each charge session would take 25 minutes and 25 seconds. 
+The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 45% resulting in an actual charge speed including time loss on 160kW. Each charge session would take 16 minutes and 25 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 10 hours and 6 minutes to drive. This trip will require four charge session(s) charging from 25% to 71%. The total time lost for charging will be 106 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 9 hours and 33 minutes to drive. This trip will require four charge session(s) charging from 4% to 50%. The total time lost for charging will be 74 minutes.   
 
 ### Onboard charger
 
-
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 51 minutes. 
 
 ### Charge port
 
@@ -68,7 +68,7 @@ Dynamic steering is standard on the Lotus Eletre R. Dynamic steering varies the 
 
 You can choose between different brake systems. The first option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The standard option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). 
 
-
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
 
 ## Exterior
 
@@ -77,7 +77,7 @@ Additionally, you can choose between 10 wheels with sizes from 22 to 23 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
 
-There is only one roof for this model. 
+You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. 
 
 
 <figur>
@@ -99,7 +99,7 @@ The seat layout is the traditional five seats with two in front and three in the
 
 Only one front seat type is available in the Lotus Eletre R. 
 
-The following functionalities are available on the **** seat. 
+The following functionalities are available on the **standard** seat. 
 
 - electric adjustment 
 - [heating](../../../../technology/seats/adjustment/#heating) 
@@ -140,7 +140,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
+There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 

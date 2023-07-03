@@ -41,6 +41,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |----|-----|
 |[Battery gross](../../../../../technology/battery/buffer/)|112 kWh|
 |[Battery net](../../../../../technology/battery/buffer/)|107 kWh|
+|Max DC charging|350 kW|
 
 
 
@@ -74,6 +75,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 This model is available with a seat configuration with five seats.
 
 ### Front seats
+
+
+#### standard
 
 |Spec|Value|
 |----|-----|
