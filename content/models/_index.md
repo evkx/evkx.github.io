@@ -132,6 +132,14 @@ The Lexus journey begins in 1983, when a Japanese team of engineers, designers a
 
 Lexus has 1 models with total 1 variants. [Read all about them](lexus/)
 
+## Lotus
+
+[![Lotus](https://media.evkx.net/multimedia/models/lotus/brandevs_st.jpeg)](lotus/)
+
+Lotus, the British sports car maker famous for its lightweight and agile models, is undergoing a radical transformation. The company, which is now owned by Chinese giant Geely, has announced that it will stop producing combustion-engined cars after the launch of the Emira, its last petrol-powered model. 
+
+Lotus has 1 models with total 1 variants. [Read all about them](lotus/)
+
 ## Lucid
 
 [![Lucid](https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg)](lucid/)

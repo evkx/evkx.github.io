@@ -48,7 +48,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Charge port
 
-The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -73,6 +73,7 @@ Dynamic steering is standard on the Lotus Eletre R. Dynamic steering varies the 
 ## Exterior
 
 You can choose between 6 different paint colors when ordering this model. 
+Additionally, you can choose between 10 wheels with sizes from 22 to 23 inches. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid]](../../../../technology/doors/#boot-lid) for the trunk. 
 
@@ -151,7 +152,7 @@ Lotus Eletre R has several features to make your life as a driver or passenger m
 
 ## User interface and control
 
-The  screen uicontrols.screen.location. is  inches large. 
+The touch screen uicontrols.screen.location. is 15,1 inches large. 
 
 
 <figur>
@@ -163,7 +164,7 @@ The  screen uicontrols.screen.location. is  inches large.
 
 ## Infotainment
 
-You can choose between two sound systems on the Lotus Eletre R. With the Lotus Sound System, you get eight speakers with a max system output of 200 watts. With the KEF Reference System, you get 23 speakers with a max system output of 2160 watts. 
+You can choose between two sound systems on the Lotus Eletre R. With the KEF Sound System, you get 15 speakers with a max system output of 1380 watts. With the KEF Reference System, you get 23 speakers with a max system output of 2160 watts. 
 
 
 ## Lights
@@ -184,7 +185,13 @@ The Lotus Eletre R has several standard and optional [advanced driver assistance
 
 
 
+The Lotus Eletre R has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
+The Lotus Eletre R has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+
 The Lotus Eletre R has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+The Lotus Eletre R has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 
@@ -201,9 +208,17 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-Under the hood, there is frunk with more storage room. This frunk is 46 liters. 
+The cargo capacity in the trunk is 688 liters. With the rear seat down, it is 1532 liters. Under the hood, there is frunk with more storage room. This frunk is 46 liters. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2250, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/trunk_1_st.jpg" alt="Lotus Eletre R" title="Lotus Eletre R" width="680" height="382">
+</a>
+<figcaption><h4>Lotus Eletre R</h4></figcaption></figur>
+
 ### Availability & Pricing
 
 This model had world premiere 29.01.2021 and deliveries is expected to start March 2023.

@@ -128,19 +128,19 @@ This model is available with a seat configuration with five seats.
 |Side parking sensors|Yes, standard equipment|
 |Hill descent assist||
 |Hill start assist||
-|AntiLock Braking System||
-|Automatic emergency braking||
-|Brake assist||
-|Traction control||
+|AntiLock Braking System|Yes, standard equipment|
+|Automatic emergency braking|Yes, standard equipment|
+|Brake assist|Yes, standard equipment|
+|Traction control|Yes, standard equipment|
 |Left turn crash avoidance||
 |Forward Collision Warning||
-|Electronic stability control||
-|Temperature warning||
+|Electronic stability control|Yes, standard equipment|
+|Temperature warning|Yes, standard equipment|
 |Cross traffic assist||
 |Speed limiter||
 |Efficiency assist||
 |Automatic Emergency Steering||
-|Traffic Sign Recognition||
+|Traffic Sign Recognition|Yes, standard equipment|
 |Night Vision|Not available|
 
 ## Infotainment
@@ -152,12 +152,12 @@ This model is available with a seat configuration with five seats.
 |In Car navigation||
 |Number of avaiable sound systems|2|
 
-### Lotus Sound System
+### KEF Sound System
 
 |Spec|Value|
 |----|-----|
-|Number of speakers|8|
-|Total effect|200|
+|Number of speakers|15|
+|Total effect|1380|
 
 ### KEF Reference System
 
