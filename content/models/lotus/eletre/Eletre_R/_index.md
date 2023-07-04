@@ -110,11 +110,11 @@ The following functionalities are available on the **standard** seat.
 - integrated headrest 
 
 You can choose from 5 different materials/colors for this seat type. 
-- interior.seat.nappaleathermicrofiber
-- interior.seat.nappaleathermicrofiber
+- Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
+- Antracite/Grey [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 - Grey/Yellow [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- interior.seat.nappaleathermicrofiber
-- interior.seat.nappaleathermicrofiber
+- Antracite/Grey [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
+- Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 
 
 
