@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Autogefühl: Zeekr X interior review 04.07.2023
+
+{{< youtube 4MgloigA_VU >}}
+
 ### Autogefühl: Is the Zeekr X the better Volvo EX30 ? 01.07.2023
 
 {{< youtube Wo4YwpbxEDY >}}
