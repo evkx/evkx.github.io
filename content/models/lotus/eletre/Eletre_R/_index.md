@@ -58,7 +58,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Lotus Eletre R has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 204 mm, and the max is 194 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 162 mm, and the max is 212 mm. 
 
 ### Steering
 
@@ -66,7 +66,7 @@ Dynamic steering is standard on the Lotus Eletre R. Dynamic steering varies the 
 
 ### Brakes
 
-You can choose between different brake systems. The first option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The standard option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). 
+You can choose between different brake systems. The first option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 412mm, and the rear discs are 397mm. The standard option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 412mm, and the rear discs are 397mm. 
 
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
 
@@ -109,8 +109,13 @@ The following functionalities are available on the **standard** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 - integrated headrest 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
+You can choose from 5 different materials/colors for this seat type. 
+- interior.seat.nappaleathermicrofiber
+- interior.seat.nappaleathermicrofiber
+- Grey/Yellow [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- interior.seat.nappaleathermicrofiber
+- interior.seat.nappaleathermicrofiber
+
 
 
 
@@ -158,7 +163,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Lotus Eletre R has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 15,1 inches large. 
+The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large. The touch screen on the dashboard's center  is 15,1 inches large. 
 
 
 <figur>
@@ -176,7 +181,7 @@ A gesture control system that lets you control specific features using your hand
 
 ## Infotainment
 
-You can choose between two sound systems on the Lotus Eletre R. With the KEF Sound System, you get 15 speakers with a max system output of 1380 watts. With the KEF Reference System, you get 23 speakers with a max system output of 2160 watts. 
+You can choose between two sound systems on the Lotus Eletre R. With the KEF Premium Audio system, you get 15 speakers with a max system output of 1380 watts. With the KEF Reference Audio system, you get 23 speakers with a max system output of 2160 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Lotus Eletre R supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
@@ -205,13 +210,27 @@ The Lotus Eletre R has an [**Electronic Stability Control**](../../../../technol
 
 The Lotus Eletre R has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
+
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
+
 The Lotus Eletre R has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
+
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
 
 ### Driving Automation
 
 
 
 With the   level 2 system, you get the following driving automation features. 
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
 - [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
@@ -222,7 +241,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 688 liters. With the rear seat down, it is 1532 liters. Under the hood, there is frunk with more storage room. This frunk is 46 liters. 
+The cargo capacity in the trunk is 688 liters. With the rear seat down, it is 1532 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 46 liters. Max weight is 3100kg, and with the base weight of 2640 kg, you can max load 460 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2250, and on unbraked, 750kg. 
 

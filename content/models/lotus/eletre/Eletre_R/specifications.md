@@ -53,6 +53,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Height|1630 mm|
 |Widht including mirrors|2231 mm|
 |Wheelbase|3019 mm|
+|Track width front|1706 mm|
+|Track width rear|1684 mm|
+|Drag coefficient|0,26|
 
 ## Suspension
 
@@ -63,8 +66,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Yes, standard equipment|
 |Adjustable height front|Yes, standard equipment|
 |Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|194|
-|Minimum ground clearance|204|
+|Max ground clearance|212|
+|Minimum ground clearance|162|
 |Suspension type front|AirSuspension|
 |Suspension construction front|DoubleWishbone|
 |Suspension type rear|AirSuspension|
@@ -126,7 +129,7 @@ This model is available with a seat configuration with five seats.
 |Drowsiness Alert|Yes, standard equipment|
 |Reversing camera|Yes, standard equipment|
 |360 camera|Yes, standard equipment|
-|Rear cross traffic alert||
+|Rear cross traffic alert|Yes, standard equipment|
 |Rear parking sensors|Yes, standard equipment|
 |Front parking sensors|Yes, standard equipment|
 |Side parking sensors|Yes, standard equipment|
@@ -137,13 +140,13 @@ This model is available with a seat configuration with five seats.
 |Brake assist|Yes, standard equipment|
 |Traction control|Yes, standard equipment|
 |Left turn crash avoidance||
-|Forward Collision Warning||
+|Forward Collision Warning|Yes, standard equipment|
 |Electronic stability control|Yes, standard equipment|
 |Temperature warning|Yes, standard equipment|
-|Cross traffic assist||
+|Cross traffic assist|Yes, standard equipment|
 |Speed limiter||
 |Efficiency assist||
-|Automatic Emergency Steering||
+|Automatic Emergency Steering|Yes, standard equipment|
 |Traffic Sign Recognition|Yes, standard equipment|
 |Night Vision|Not available|
 
@@ -156,14 +159,14 @@ This model is available with a seat configuration with five seats.
 |In Car navigation|Yes, standard equipment|
 |Number of avaiable sound systems|2|
 
-### KEF Sound System
+### KEF Premium Audio system
 
 |Spec|Value|
 |----|-----|
 |Number of speakers|15|
 |Total effect|1380|
 
-### KEF Reference System
+### KEF Reference Audio system
 
 |Spec|Value|
 |----|-----|
