@@ -1,13 +1,13 @@
 ---
-title: Lotus Eletre S specifications
+title: Lotus Eletre specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Lotus Eletre S.
+description: EVKX.net gives you the full specifications for Lotus Eletre.
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Lotus Eletre S](https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Lotus Eletre S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lotus Eletre S, visit the [chargeinfo](../chargecurve/) for Lotus Eletre S with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![Lotus Eletre](https://media.evkx.net/multimedia/models/lotus/eletre/eletre/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for Lotus Eletre. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lotus Eletre, visit the [chargeinfo](../chargecurve/) for Lotus Eletre with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -26,11 +26,11 @@ EVKX.net seeks to have the most complete specifications for Lotus Eletre S. Clic
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|535 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|20,0 kWh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|600 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|17,8 kWh/100km|
 |[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|21,8 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|490 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|21,8 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|535 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|20,0 kWh/100km|
 |[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|21,8 kwh/100km|
 
 
@@ -108,23 +108,6 @@ This model is available with a seat configuration with five seats.
 |Spec|Value|
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
-|Height adjustable headrest|Unknown|
-|Length adjustable headrest|Unknown|
-|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
-|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
-|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|
-|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
-|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Not Available|
-|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
-|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Not Available|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
-
-#### executive seats
-
-|Spec|Value|
-|----|-----|
-|[Seat type](../../../../../technology/seats/types/)|TwinExecutive|
 |Height adjustable headrest|Unknown|
 |Length adjustable headrest|Unknown|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|

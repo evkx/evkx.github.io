@@ -11,5 +11,5 @@ Instead, Lotus will focus on developing a range of electric vehicles, including 
 
 [![Eletre](https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg)](eletre)
 
-This model is available in 2 variant(s). 
+This model is available in 3 variant(s). 
 [Read full details](eletre/)

@@ -36,15 +36,15 @@ The Tesla Model 3 has a maximum power of 208KW (283hp). The total torque is 420n
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 60kWh and a net capacity of 57,5kWh, meaning you have a 2,5kWh buffer for protection. (4,2%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. The [WLTP range](../../../../guides/understandingrange/wltp) varies from 495 to 491 km (308-305 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 11,6kWh/100km for the basic version and 11,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 60kWh and a net capacity of 59kWh, meaning you have a 1kWh buffer for protection. (1,7%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. The [WLTP range](../../../../guides/understandingrange/wltp) varies from 495 to 491 km (308-305 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 11,9kWh/100km for the basic version and 12,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 68 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 49% resulting in an actual charge speed including time loss on 83kW. Each charge session would take 19 minutes and 9 seconds. 
+The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 70 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 49% resulting in an actual charge speed including time loss on 83kW. Each charge session would take 20 minutes and 31 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 17kWh/100km, 1000km will take 9 hours and 41 minutes to drive. This trip will require four charge session(s) charging from 3% to 52%. The total time lost for charging will be 82 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 17kWh/100km, 1000km will take 9 hours and 41 minutes to drive. This trip will require four charge session(s) charging from 3% to 51%. The total time lost for charging will be 82 minutes.   
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 13 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 21 minutes. 
 
 
 <figur>

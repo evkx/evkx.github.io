@@ -1,7 +1,7 @@
 ---
-title: Tesla Model 3 range & consumption
+title: Lotus Eletre range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Tesla Model 3.
+description: Here you find all details about range and consumption for Lotus Eletre.
 weight: 9
 hidden: true
 ---
@@ -19,8 +19,8 @@ Below are the officially rated ranges. The tests are performed with the heating/
 
 | | Range  | Consumption  |
 |----|-----|------|
-| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 495 km / 308mi |11,92kWh/100km / 5,2 mi/kWh | 
-| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 491 km / 305mi | 12,02 kWh/100km / 5,2 mi/kWh | 
+| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 600 km / 373mi |17,83kWh/100km / 3,5 mi/kWh | 
+| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 535 km / 332mi | 20,0 kWh/100km / 3,1 mi/kWh | 
 
 ### Official test cycle results with added heating
 
@@ -28,8 +28,8 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 
 | | Range  | Change  |
 |----|-----|------|
-| WLTP-combined basic trim with 2KW AC | 364km /226 mi | -26,5%|
-| WLTP-combined top trim with 2KW AC | 362km /225 mi | -26,3%|
+| WLTP-combined basic trim with 2KW AC | 483km /300 mi | -19,5%|
+| WLTP-combined top trim with 2KW AC | 440km /273 mi | -17,8%|
 
 ### Real world range estimates
 
@@ -37,5 +37,7 @@ The table below shows some estimated real-world examples in perfect condition an
 
 | | Range  | Consumption  |
 |----|-----|------|
-| 120kmh/75mph perfect condition | 347km /216mi| 17 kWh/100km / 3,7 mi/kWh |
-| 120kmh/75mph with 2KW heating | 508km /316mi| 18,7 kWh/100km / 3,3 mi/kWh |
+| 90kmh/56mph perfect condition | 412km /256mi| 26 kWh/100km / 2,4 mi/kWh |
+| 90kmh/56mph with 2KW heating | 387km /240mi| 27,7 kWh/100km / 2,2 mi/kWh |
+| 120kmh/75mph perfect condition | 357km /222mi| 30 kWh/100km / 2,1 mi/kWh |
+| 120kmh/75mph with 2KW heating | 545km /339mi| 31,7 kWh/100km / 2,0 mi/kWh |

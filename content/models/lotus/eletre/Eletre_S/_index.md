@@ -1,7 +1,7 @@
 ---
 title: Lotus Eletre S
 linktitle: Eletre S
-description: Lotus Eletre S is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. 
+description: Lotus Eletre S is an all-electric luxury SUV with a WLTP range of up to 535 km (333 miles). EVKX.net have all the details. 
 weight: 10
 hidden: true
 ---
@@ -32,11 +32,11 @@ We have separated our Lotus Eletre S article into sections. If you want to wait 
 
 ## Performance
 
-The Lotus Eletre S has a maximum power of 450KW (612hp). The total torque is 710nm. The 0-100km/h sprint (0-62mph) takes 2,9 seconds. The top speed is 258 km/h. 
+The Lotus Eletre S has a maximum power of 450KW (612hp). The total torque is 710nm. The 0-100km/h sprint (0-62mph) takes 4,5 seconds. The top speed is 258 km/h. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 112kWh and a net capacity of 107kWh, meaning you have a 5kWh buffer for protection. (4,5%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 460 to 410 km (286-255 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 23,3kWh/100km for the basic version and 26,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 112kWh and a net capacity of 107kWh, meaning you have a 5kWh buffer for protection. (4,5%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 535 to 490 km (333-305 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 20,0kWh/100km for the basic version and 21,8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 45% resulting in an actual charge speed including time loss on 160kW. Each charge session would take 16 minutes and 25 seconds. 
 
@@ -93,7 +93,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear. 
+This model offers a four-seat layout or an optional 4+1 layout. 
 
 ### First row seats
 
