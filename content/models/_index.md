@@ -138,7 +138,7 @@ Lexus has 1 models with total 1 variants. [Read all about them](lexus/)
 
 Lotus, the British sports car maker famous for its lightweight and agile models, is undergoing a radical transformation. The company, which is now owned by Chinese giant Geely, has announced that it will stop producing combustion-engined cars after the launch of the Emira, its last petrol-powered model. 
 
-Lotus has 1 models with total 1 variants. [Read all about them](lotus/)
+Lotus has 1 models with total 2 variants. [Read all about them](lotus/)
 
 ## Lucid
 

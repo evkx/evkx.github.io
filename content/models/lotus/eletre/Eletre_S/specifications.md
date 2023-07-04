@@ -1,22 +1,22 @@
 ---
-title: Lotus Eletre R specifications
+title: Lotus Eletre S specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Lotus Eletre R.
+description: EVKX.net gives you the full specifications for Lotus Eletre S.
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Lotus Eletre R](https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Lotus Eletre R. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lotus Eletre R, visit the [chargeinfo](../chargecurve/) for Lotus Eletre R with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![Lotus Eletre S](https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for Lotus Eletre S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lotus Eletre S, visit the [chargeinfo](../chargecurve/) for Lotus Eletre S with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|675 Kw|
-|Electrical torque output in Nm|985 Nm|
-|Top speed|265 km/h|
+|Peak electrical output in kW|450 Kw|
+|Electrical torque output in Nm|710 Nm|
+|Top speed|258 km/h|
 |0-100km/h (0-62 mph)|2,9 s|
 
 
@@ -108,6 +108,23 @@ This model is available with a seat configuration with five seats.
 |Spec|Value|
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
+|Height adjustable headrest|Unknown|
+|Length adjustable headrest|Unknown|
+|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
+|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|
+|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Not Available|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
+|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Not Available|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
+
+#### executive seats
+
+|Spec|Value|
+|----|-----|
+|[Seat type](../../../../../technology/seats/types/)|TwinExecutive|
 |Height adjustable headrest|Unknown|
 |Length adjustable headrest|Unknown|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|

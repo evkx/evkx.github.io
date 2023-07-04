@@ -278,5 +278,5 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 ### Availability & Pricing
 
-This model had world premiere 09.02.2021 and deliveries is expected to start May 2021.
+This model had world premiere 09.02.2021 and deliveries started May 2021.
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
