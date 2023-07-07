@@ -178,6 +178,7 @@ The following table shows how pack density have varied over time between some ex
 | Volkswagen MEB | 2021 | 82 | 493kg | 166Wh/kg |
 | Audi Q8 e-tron 55 | 2022 | 114 | 727kg | 157Wh/kg |
 | Kia EV6 | 2022 | 77.4 | 477kg | 162Wh/kg |
+| Nio Semi-Solid | 2023 | 150 | 575 | 260Wh/kg |
 
 
 Continue reading about [Battery Mangement System](../batterymanagment/) or go back to [article overview](../).
