@@ -171,7 +171,7 @@ The following table shows how pack density have varied over time between some ex
 |---|----|-----|----|-----|
 |Tesla Roadster | 2010 | 53kWh | 450kg | 118 Wh/kg |
 | Tesla Model S | 2012 | 85kWh | 540kg  | 157 Wh/kg |
-| Tesla Model X | 2015 | 60kWh | 385kg  | 155 Wh/kg |
+| Tesla Model X | 2015 | 75kWh | 530kg  | 141 Wh/kg |
 | Tesla Model 3 | 2017 | 80.5kWh | 477kg  | 169 Wh/kg |
 | Audi e-tron 55 | 2018 | 95kWh | 699kg | 136Wh/kg |
 | Tesla Model S | 2022 | 100kWh | 544kg | 184Wh/kg |
