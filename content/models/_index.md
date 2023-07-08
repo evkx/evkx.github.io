@@ -52,6 +52,14 @@ DS is a premium automobile marque that was founded and developed from French man
 
 DS has 1 models with total 1 variants. [Read all about them](ds/)
 
+## Fiat
+
+[![Fiat](https://media.evkx.net/multimedia/models/fiat/brandevs_st.jpg)](fiat/)
+
+Fiat is an Italian car company that is part of the Stellantis group, which also includes brands like Peugeot, Citroën, Jeep, Chrysler and Dodge. Fiat is known for its small and compact cars, such as the Fiat 500, Panda and Tipo.
+
+Fiat has 1 models with total 1 variants. [Read all about them](fiat/)
+
 ## Fisker
 
 [![Fisker](https://media.evkx.net/multimedia/models/fisker/brandevs_st.jpg)](fisker/)

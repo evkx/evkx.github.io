@@ -38,9 +38,9 @@ The Hongqi E-HS9 Exclusive+ has a maximum power of 405KW (551hp). The total torq
 
 The battery has a gross capacity of 120kWh and a net capacity of 110kWh, meaning you have a 10kWh buffer for protection. (8,3%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 515 km (320 mi).   The consumption is 21,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 91 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 65% resulting in an actual charge speed including time loss on 98kW. Each charge session would take 39 minutes and 33 seconds. 
+The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 114 minutes, while a more common scenario of 10-80% would take 62 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 39% resulting in an actual charge speed including time loss on 87kW. Each charge session would take 30 minutes and 35 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32kWh/100km, 1000km will take 10 hours and 30 minutes to drive. This trip will require three charge session(s) charging from 7% to 71%. The total time lost for charging will be 130 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32kWh/100km, 1000km will take 10 hours and 46 minutes to drive. This trip will require six charge session(s) charging from 1% to 33%. The total time lost for charging will be 147 minutes.   
 
 ### Onboard charger
 
