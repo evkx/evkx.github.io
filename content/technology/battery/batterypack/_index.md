@@ -167,18 +167,18 @@ The below video show a detailed analysis of the pack by Munro & Associates.
 
 The following table shows how pack density have varied over time between some example battery packs.
 
-| Pack | Year | Capacity | Weight | Density |
+| Pack | Year | Gross Capacity | Weight | Density |
 |---|----|-----|----|-----|
-|Tesla Roadster | 2010 | 53 | 450 | 118 Wh/kg |
-| Tesla Model S | 2012 | 85 | 540  | 157 Wh/kg |
-| Tesla Model X | 2015 | ? | ?  | 148 Wh/kg |
-| Tesla Model 3 | 2017 | 80.5 | 477  | 169 Wh/kg |
-| Audi e-tron 55 | 2018 | 95 | 699kg | 136Wh/kg |
-| Tesla Model S | 2022 | 100 | 544 | 184Wh/kg |
-| Volkswagen MEB | 2021 | 82 | 493kg | 166Wh/kg |
-| Audi Q8 e-tron 55 | 2022 | 114 | 727kg | 157Wh/kg |
-| Kia EV6 | 2022 | 77.4 | 477kg | 162Wh/kg |
-| Nio Semi-Solid | 2023 | 150 | 575 | 260Wh/kg |
+|Tesla Roadster | 2010 | 53kWh | 450kg | 118 Wh/kg |
+| Tesla Model S | 2012 | 85kWh | 540kg  | 157 Wh/kg |
+| Tesla Model X | 2015 | 60kWh | 385kg  | 155 Wh/kg |
+| Tesla Model 3 | 2017 | 80.5kWh | 477kg  | 169 Wh/kg |
+| Audi e-tron 55 | 2018 | 95kWh | 699kg | 136Wh/kg |
+| Tesla Model S | 2022 | 100kWh | 544kg | 184Wh/kg |
+| Volkswagen MEB | 2021 | 82kWh | 493kg | 166Wh/kg |
+| Audi Q8 e-tron 55 | 2022 | 114kWh | 727kg | 157Wh/kg |
+| Kia EV6 | 2022 | 77.4kWh | 477kg | 162Wh/kg |
+| Nio Semi-Solid | 2023kWh | 150 | 575kg | 260Wh/kg |
 
 
 Continue reading about [Battery Mangement System](../batterymanagment/) or go back to [article overview](../).
