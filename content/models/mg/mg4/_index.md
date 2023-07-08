@@ -30,3 +30,16 @@ MG MG4 Electric Standard is an all-electric crossover with a WLTP range of up to
 - [MG MG4 Electric Standard image gallery](/models/mg/mg4/mg4_electric_standard//gallery)
 - [MG MG4 Electric Standard reviews](/models/mg/mg4/mg4_electric_standard//reviews)
 
+## MG MG4 Electric XPOWER
+
+[![MG4 Electric XPOWER](https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_xpower/main_1_st.jpg)](/models/mg/mg4/mg4_electric_xpower/)
+
+MG MG4 Electric XPOWER is an all-electric crossover with a WLTP range of up to 435 km (270 miles). EVKX.net have all the details. 
+
+- [MG MG4 Electric XPOWER article](/models/mg/mg4/mg4_electric_xpower/)
+- [MG MG4 Electric XPOWER Range & consumption info](/models/mg/mg4/mg4_electric_xpower//rangeandconsumption)
+- [MG MG4 Electric XPOWER Charging curve and performance](/models/mg/mg4/mg4_electric_xpower//chargingcurve)
+- [MG MG4 Electric XPOWER full specifications](/models/mg/mg4/mg4_electric_xpower//specifications)
+- [MG MG4 Electric XPOWER image gallery](/models/mg/mg4/mg4_electric_xpower//gallery)
+- [MG MG4 Electric XPOWER reviews](/models/mg/mg4/mg4_electric_xpower//reviews)
+
