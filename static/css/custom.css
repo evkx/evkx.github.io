@@ -12,16 +12,32 @@
 
 .a-header {
     background: #000000;
+    padding-top: 25px;
 }
 
 .a-globalNav .a-globalNav-logo {
     margin-left: 3px;
 }
 
+.adocs-logo {
+  margin-top: -11px;
+  width: 190px;
+}
+
+
 @media (min-width: 576px) {
     .a-globalNav .a-globalNav-logo {
         margin-left: 12px;
     }
+
+    .a-header  {
+      padding-top: 33px;
+  }
+
+  .adocs-logo {
+    margin-top: -11px;
+    width: 260px;
+  }
 }
 
 @media (min-width: 992px) {
@@ -41,10 +57,6 @@
 
 }
 
-.adocs-logo {
-    margin-top: -11px;
-    width: 260px;
-}
 
 .adocs-logo-text {
     display: inline-flex;
