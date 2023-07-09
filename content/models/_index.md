@@ -188,6 +188,14 @@ Nissan is a multinational automobile manufacturer headquartered in Yokohama, Jap
 
 Nissan has 1 models with total 3 variants. [Read all about them](nissan/)
 
+## Peugot
+
+[![Peugot](https://media.evkx.net/multimedia/models/peugot/brandevs_st.jpg)](peugot/)
+
+Peugeot is a French brand of automobiles that was founded in 1810 as a steel foundry that later produced hand tools, kitchen equipment, bicycles and cars. Peugeot is known for its lion logo, which was registered in 1858 by Émile Peugeot. Peugeot is part of the Stellantis group, which was formed in 2021 by the merger of PSA Peugeot Citroën and Fiat Chrysler Automobiles.
+
+Peugot has 1 models with total 1 variants. [Read all about them](peugot/)
+
 ## Polestar
 
 [![Polestar](https://media.evkx.net/multimedia/models/polestar/brandevs_st.jpg)](polestar/)
