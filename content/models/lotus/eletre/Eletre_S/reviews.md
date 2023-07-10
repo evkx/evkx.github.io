@@ -8,5 +8,11 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### :  01.01.0001
+### Bjørn Nyland: Lotus Eletre S range and charging test 10.07.2023
+
+{{< youtube c81Pyjb5J4U >}}
+
+### Bjørn Nyland: Lotus Eletre S range and charging test 10.07.2023
+
+{{< youtube c81Pyjb5J4U >}}
 
