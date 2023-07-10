@@ -12,7 +12,11 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube c81Pyjb5J4U >}}
 
-### Bjørn Nyland: Lotus Eletre S range and charging test 10.07.2023
+### AutoTrader: NEW Lotus Eletre Review: Absurd Idea Or Game Changer? 10.07.2023
 
-{{< youtube c81Pyjb5J4U >}}
+{{< youtube 5TGyjAYopqk >}}
+
+### Autocar: FIRST DRIVE Lotus Eletre | No-nonsense review of new electric Lotus 10.07.2023
+
+{{< youtube HXRMPN31zqw >}}
 
