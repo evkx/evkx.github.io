@@ -38,9 +38,9 @@ The Lotus Eletre S has a maximum power of 450KW (612hp). The total torque is 710
 
 The battery has a gross capacity of 112kWh and a net capacity of 109kWh, meaning you have a 3kWh buffer for protection. (2,7%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 535 to 490 km (333-305 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 20,4kWh/100km for the basic version and 22,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 69 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 46% resulting in an actual charge speed including time loss on 148kW. Each charge session would take 20 minutes and 17 seconds. 
+The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 20 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 68% resulting in an actual charge speed including time loss on 193kW. Each charge session would take 23 minutes and 45 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 9 hours and 26 minutes to drive. This trip will require three charge session(s) charging from 0% to 50%. The total time lost for charging will be 66 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 9 hours and 10 minutes to drive. This trip will require two charge session(s) charging from 0% to 74%. The total time lost for charging will be 51 minutes.   
 
 ### Onboard charger
 
