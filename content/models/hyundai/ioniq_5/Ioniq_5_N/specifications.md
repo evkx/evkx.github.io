@@ -16,9 +16,10 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 N. C
 |----|-----|
 |Peak electrical output in kW|448 Kw|
 |Peak electrical output boost in kW|478 Kw|
+|Electrical torque output in Nm|714 Nm|
 |Electrical torque output boost in Nm|770 Nm|
 |Top speed|260 km/h|
-|0-100km/h (0-62 mph)|3,9 s|
+|0-100km/h (0-62 mph)|3,5 s|
 |0-100km/h (0-62 mph) boost|3,4 s|
 
 

@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Lotus Eletre interior review 13.07.2023
+
+{{< youtube 8IDP0u3XRZU >}}
+
 ### Bjørn Nyland: Lotus Eletre charging test at 350 kW Ionity 11.07.2023
 
 {{< youtube Zz7L-uZe_tQ >}}
