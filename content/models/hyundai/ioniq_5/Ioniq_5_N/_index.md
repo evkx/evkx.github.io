@@ -98,15 +98,15 @@ Only one front seat type is available in the Hyundai Ioniq 5 N.
 
 The following functionalities are available on the **** seat. 
 
-- electric adjustment 
 - height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 6 different materials/colors for this seat type. <br />
-<br />
+You can choose from 2 different materials/colors for this seat type. 
+- Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+
 
 
 ### Second-row seat

@@ -81,8 +81,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
-|Electric adjustment of height, recline and angle|Standard feature|
-|Interior.Seatoptions.MemoryDriverSeat|Standard feature|
+|Electric adjustment of height, recline and angle|Not Available|
+|Interior.Seatoptions.MemoryDriverSeat|Not Available|
 |Interior.Seatoptions.MemoryPassangerSeat|Not Available|
 |Height adjustable headrest|Standard feature|
 |Length adjustable headrest|Not Available|
@@ -94,7 +94,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Optional feature|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Optional feature|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Unknown|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
 
 ### Front seats
 
