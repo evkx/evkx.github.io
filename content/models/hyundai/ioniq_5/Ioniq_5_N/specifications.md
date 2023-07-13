@@ -16,7 +16,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 N. C
 |----|-----|
 |Peak electrical output in kW|448 Kw|
 |Peak electrical output boost in kW|478 Kw|
-|Electrical torque output in Nm|605 Nm|
+|Electrical torque output boost in Nm|770 Nm|
 |Top speed|260 km/h|
 |0-100km/h (0-62 mph)|3,9 s|
 |0-100km/h (0-62 mph) boost|3,4 s|
@@ -29,7 +29,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |WLTP range|450 km|
-|WLTP consumption|17,8 kWh/100km|
+|WLTP consumption|18,7 kWh/100km|
 |WLTP consumption with charging loss|19,2 kWh/100km|
 
 
@@ -38,8 +38,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|84 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|80 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|89 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|84 kWh|
 |Max DC charging|233 kW|
 |[Pack Configuration](../../../../../technology/battery/batterypack/)|192s2p|
 |[Nominal voltage](../../../../../technology/battery/batterypack/)|697|
