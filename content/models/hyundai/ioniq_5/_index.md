@@ -30,3 +30,16 @@ Hyundai Ioniq 5 Long Range AWD is an all-electric crossover with a WLTP range of
 - [Hyundai Ioniq 5 Long Range AWD image gallery](/models/hyundai/ioniq_5/ioniq_5_long_range_awd//gallery)
 - [Hyundai Ioniq 5 Long Range AWD reviews](/models/hyundai/ioniq_5/ioniq_5_long_range_awd//reviews)
 
+## Hyundai Ioniq 5 N
+
+[![Ioniq 5 N](https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg)](/models/hyundai/ioniq_5/ioniq_5_n/)
+
+Hyundai Ioniq 5 N is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net have all the details. 
+
+- [Hyundai Ioniq 5 N article](/models/hyundai/ioniq_5/ioniq_5_n/)
+- [Hyundai Ioniq 5 N Range & consumption info](/models/hyundai/ioniq_5/ioniq_5_n//rangeandconsumption)
+- [Hyundai Ioniq 5 N Charging curve and performance](/models/hyundai/ioniq_5/ioniq_5_n//chargingcurve)
+- [Hyundai Ioniq 5 N full specifications](/models/hyundai/ioniq_5/ioniq_5_n//specifications)
+- [Hyundai Ioniq 5 N image gallery](/models/hyundai/ioniq_5/ioniq_5_n//gallery)
+- [Hyundai Ioniq 5 N reviews](/models/hyundai/ioniq_5/ioniq_5_n//reviews)
+

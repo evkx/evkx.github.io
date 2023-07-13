@@ -3,7 +3,7 @@
     <g>
         <path d="M 1080 1091 L 40 1091 Q 30 1091 30 1081 L 30 36" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 30 791 L 1080 791" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
-       <path d="M 30  716 40  341 50  337 60  332 70  332 80  331 90  329 100  326 110  281 120  236 130  191 140  191 150  188 160  185 170  185 180  185 190  185 200  182 210  182 220  179 230  182 240  179 250  176 260  176 270  173 280  176 290  173 300  173 310  170 320  170 330  170 340  170 350  368 360  368 370  368 380  371 390  368 400  368 410  368 420  365 430  365 440  365 450  359 460  362 470  359 480  356 490  353 500  353 510  353 520  350 530  350 540  347 550  347 560  344 570  341 580  341 590  338 600  332 610  332 620  332 630  404 640  401 650  401 660  398 670  455 680  452 690  449 700  449 710  449 720  524 730  521 740  518 750  515 760  515 770  512 780  590 790  587 800  587 810  587 820  584 830  584 840  743 850  743 860  740 870  740 880  923 890  926 900  926 910  926 920  926 930  923 940  923 950  944 960  944 970  944 980  944 990  953 1000  1010 1010  1007 1020  1016 1030  1025 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+       <path d="M 30  941 40  476 50  452 60  446 70  446 80  440 90  437 100  434 110  434 120  431 130  428 140  428 150  425 160  425 170  422 180  422 190  425 200  422 210  419 220  419 230  419 240  419 250  419 260  416 270  416 280  416 290  416 300  413 310  416 320  413 330  413 340  413 350  410 360  410 370  410 380  410 390  401 400  401 410  401 420  401 430  395 440  398 450  395 460  392 470  392 480  392 490  389 500  461 510  533 520  533 530  533 540  533 550  530 560  530 570  527 580  527 590  524 600  551 610  546 620  541 630  535 640  530 650  524 660  524 670  523 680  521 690  518 700  515 710  512 720  539 730  539 740  587 750  587 760  587 770  584 780  584 790  620 800  617 810  619 820  620 830  617 840  620 850  673 860  725 870  725 880  725 890  800 900  845 910  872 920  887 930  902 940  914 950  932 960  941 970  959 980  971 990  983 1000  998 1010  1022 1020  1043 1030  1055 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -349,13 +349,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1136px; margin-left: 51px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                EVKX.net - Charging curve for Lotus Eletre R 112 kWh
+                                EVKX.net - Charging curve for Hyundai Ioniq 5 N 84 kWh
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="610" y="1145" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    EVKX.net - Charging curve for Lotus Eletre R 112 kWh
+                    EVKX.net - Charging curve for Hyundai Ioniq 5 N 84 kWh
                 </text>
             </switch>
         </g>

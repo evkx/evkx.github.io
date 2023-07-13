@@ -8,6 +8,14 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Lotus Eletre charging test at 350 kW Ionity 11.07.2023
+
+{{< youtube Zz7L-uZe_tQ >}}
+
+### Bjørn Nyland: Lotus Eletre R acceleration and slalom test 11.07.2023
+
+{{< youtube QsEMzhFc9lo >}}
+
 ### Bjørn Nyland: Lotus Eletre S range and charging test 10.07.2023
 
 {{< youtube c81Pyjb5J4U >}}

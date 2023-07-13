@@ -114,7 +114,7 @@ Hongqi has 1 models with total 4 variants. [Read all about them](hongqi/)
 
 Hyundai Motor Co. (HMC), established in 1967, is the auto sales leader in the Korean domestic market and exports vehicles to 190 countries worldwide. Hyundai Motor Co. operates the world's largest integrated automobile manufacturing facility in Ulsan, located on Korea's southeast coast. Their electric IONIQ series of EV has been popular.  
 
-Hyundai has 2 models with total 4 variants. [Read all about them](hyundai/)
+Hyundai has 2 models with total 5 variants. [Read all about them](hyundai/)
 
 ## Jeep
 
