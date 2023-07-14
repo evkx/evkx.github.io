@@ -72,7 +72,7 @@ Dynamic steering is standard on the Rolls-Royce Spectre. Dynamic steering varies
 
 ## Exterior
 
-You can choose between 12 different paint colors when ordering this model. 
+You can choose between 8 different paint colors when ordering this model. 
 
 The car has two [suicide doors](../../../../technology/doors/) on and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Soft close are an standard function for the regular doors. Powered doors are an standard function for the side doors. 
 
