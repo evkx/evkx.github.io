@@ -12,6 +12,10 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube 8IDP0u3XRZU >}}
 
+### Auto Express: Lotus Eletre review: can a 2.5 ton Lotus really be a home run? 12.07.2023
+
+{{< youtube edbJGK2Rxq8 >}}
+
 ### Bjørn Nyland: Lotus Eletre charging test at 350 kW Ionity 11.07.2023
 
 {{< youtube Zz7L-uZe_tQ >}}
