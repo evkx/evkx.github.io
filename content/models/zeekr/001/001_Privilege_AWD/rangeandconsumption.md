@@ -1,7 +1,7 @@
 ---
-title: Zeekr 001 Priviliege AWD range & consumption
+title: Zeekr 001 Privilege AWD range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Zeekr 001 Priviliege AWD.
+description: Here you find all details about range and consumption for Zeekr 001 Privilege AWD.
 weight: 9
 hidden: true
 ---
