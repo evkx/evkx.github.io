@@ -1,13 +1,12 @@
 ---
-title: Zeekr 001 Performance AWD specifications
+title: Zeekr 001 Priviliege AWD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Zeekr 001 Performance AWD.
+description: EVKX.net gives you the full specifications for Zeekr 001 Priviliege AWD.
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Zeekr 001 Performance AWD](https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Zeekr 001 Performance AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 001 Performance AWD, visit the [chargeinfo](../chargecurve/) for Zeekr 001 Performance AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net seeks to have the most complete specifications for Zeekr 001 Priviliege AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 001 Priviliege AWD, visit the [chargeinfo](../chargecurve/) for Zeekr 001 Priviliege AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -26,8 +25,8 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 Performanc
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|590 km|
-|WLTP consumption|16,1 kWh/100km|
+|WLTP range|580 km|
+|WLTP consumption|16,4 kWh/100km|
 |WLTP consumption with charging loss|18,5 kWh/100km|
 
 
@@ -69,10 +68,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable height front|Yes, standard equipment|
 |Adjustable height rear|Yes, standard equipment|
 |Max ground clearance|194|
-|Minimum ground clearance|194|
-|Suspension type front|SteelSpringsWithOilDampers|
+|Minimum ground clearance|174|
+|Suspension type front|AirSuspension|
 |Suspension construction front|DoubleWishbone|
-|Suspension type rear|SteelSpringsWithOilDampers|
+|Suspension type rear|AirSuspension|
 |Suspension construction rear|Multilink|
 
 ## Interior
@@ -99,8 +98,8 @@ This model is available with a seat configuration with five seats.
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Not Available|
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Standard feature|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
 
 ### Front seats
 

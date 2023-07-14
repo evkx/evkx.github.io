@@ -1,0 +1,18 @@
+---
+title: Zeekr 001 Priviliege AWD reviews
+linktitle: Reviews
+description: EVKX.net helps you find the best review for this model. 
+weight: 80
+hidden: true
+---
+<object type="image/svg+xml" data="../modelnavigation.svg"></object>
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
+### Bjørn Nyland: Zeekr 001 interior review 03.07.2023
+
+{{< youtube BYQKNkMKw5k >}}
+
+### Out of Spec Reviews: Polestar 3 Performance Pack Full Tour! The Spicy Cousin To Volvo EX90 11.01.2023
+
+{{< youtube K3KrRuEgFDs >}}
+
