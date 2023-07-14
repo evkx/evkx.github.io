@@ -20,3 +20,7 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube hx1v0dY0e2o >}}
 
+### Autocar: Rolls-Royce Spectre review | How good is Rolls' first EV?  04.07.2023
+
+{{< youtube rlngkQ75HUE >}}
+
