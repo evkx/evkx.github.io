@@ -8,4 +8,15 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### Electrifying: FIRST DRIVE: Rolls-Royce SPECTRE. We’ve been ex-Spectre-ing you 04.07.2023
+
+{{< youtube Xhk85JAO0ug >}}
+
+### Top Gear: FIRST DRIVE: Rolls-Royce Spectre – 576bhp, £330k Electric Masterpiece 04.07.2023
+
+{{< youtube Zqvx3aNjjXw >}}
+
+### Mr JWW: The Best Rolls Royce Ever Made!? Spectre FIRST DRIVE 04.07.2023
+
+{{< youtube hx1v0dY0e2o >}}
+

@@ -38,7 +38,7 @@ With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). W
 
 The battery has a gross capacity of 113kWh and a net capacity of 106,5kWh, meaning you have a 6,5kWh buffer for protection. (5,8%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 707 to 701 km (439-436 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,1kWh/100km for the basic version and 15,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 76 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 60% resulting in an actual charge speed including time loss on 124kW. Each charge session would take 30 minutes and 47 seconds. 
+The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 77 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 52% resulting in an actual charge speed including time loss on 123kW. Each charge session would take 26 minutes and 53 seconds. 
 
 ### Onboard charger
 

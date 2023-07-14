@@ -82,7 +82,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 6 different paint colors when ordering this model. 
 
-exterior.doors.standardandsucidebootlid
+The car has two [regular doors](../../../../technology/doors/) in front, [suicide doors](../../../../technology/doors/) on the second row, and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Powered doors are an standard function for the side doors. 
 
 There is only one roof for this model. The standard is a panoramic roof. 
 
