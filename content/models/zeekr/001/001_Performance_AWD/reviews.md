@@ -12,7 +12,3 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube BYQKNkMKw5k >}}
 
-### Out of Spec Reviews: Polestar 3 Performance Pack Full Tour! The Spicy Cousin To Volvo EX90 11.01.2023
-
-{{< youtube K3KrRuEgFDs >}}
-

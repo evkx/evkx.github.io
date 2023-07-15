@@ -71,9 +71,9 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 You can choose between 9 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 18 to 20 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid]](../../../../technology/doors/#boot-lid) for the trunk. 
+The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. 
 
-You can choose between two types of roofs on this model. The standard is just a regular roof. The standard is a panoramic roof. 
+You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a sunroof. The glass extends over only the front row, and occupants can open it. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 You can order the car with tinted windows from B-pillar and back. 
 

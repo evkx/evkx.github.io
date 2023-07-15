@@ -38,9 +38,9 @@ The Zeekr 001 Privilege AWD has a maximum power of 400KW (544hp). The total torq
 
 The battery has a gross capacity of 100kWh and a net capacity of 95kWh, meaning you have a 5kWh buffer for protection. (5,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 580 km (360 mi).   The consumption is 16,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 55% resulting in an actual charge speed including time loss on 133kW. Each charge session would take 22 minutes and 52 seconds. 
+The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 58% resulting in an actual charge speed including time loss on 134kW. Each charge session would take 23 minutes and 54 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 44 minutes to drive. This trip will require four charge session(s) charging from 5% to 54%. The total time lost for charging will be 84 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 43 minutes to drive. This trip will require four charge session(s) charging from 5% to 54%. The total time lost for charging will be 83 minutes.   
 
 ### Onboard charger
 
@@ -72,7 +72,7 @@ You can choose between 4 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
 
-There is only one roof for this model. The standard is a panoramic roof. 
+There is only one roof for this model. The standard roof has a large panoramic roof extending over most areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 The windows from B-pillar and back are tinted. 
 

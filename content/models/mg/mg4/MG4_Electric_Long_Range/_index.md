@@ -80,7 +80,7 @@ You can choose between 7 different paint colors when ordering this model.
 
 
 
-There is only one roof for this model. 
+There is only one roof for this model. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
 <figur>

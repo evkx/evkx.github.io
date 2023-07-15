@@ -73,7 +73,7 @@ Additionally, you can choose between 2 wheels with sizes from 21 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). Soft close are an standard function for the regular doors. 
 
-There is only one roof for this model. The standard is a panoramic roof. 
+There is only one roof for this model. The standard roof has a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 You can order the car with tinted windows from B-pillar and back. 
 
