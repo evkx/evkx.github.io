@@ -90,7 +90,7 @@ GMC has 1 models with total 1 variants. [Read all about them](gmc/)
 
 HiPhi is a premium electric vehicle brand of Human Horizons, a Chinese technology and mobility company.
 
-HiPhi has 2 models with total 4 variants. [Read all about them](hiphi/)
+HiPhi has 3 models with total 5 variants. [Read all about them](hiphi/)
 
 ## Honda
 

@@ -50,6 +50,13 @@ data-pswp-height="2250"
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_st.jpg" alt="BMW i5 M60 xDrive" />
 </a>
+<a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/panoramicroof_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/panoramicroof_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/panoramicroof_1_st.jpg" alt="BMW i5 M60 xDrive" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/rearseatentertainment_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/rearseatentertainment_1.jpg"
 data-pswp-width="3000"

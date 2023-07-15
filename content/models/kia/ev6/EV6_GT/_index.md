@@ -78,7 +78,7 @@ Kia EV6 GT has an all-wheel drive system supported by two motors, one on each ax
 
 You can choose between 8 different paint colors when ordering this model. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftgate](../../../../technology/doors/#hatcback-style-liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). 
 
 There is only one roof for this model. The standard roof has a sunroof. The glass extends over only the front row, and occupants can open it. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
