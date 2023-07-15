@@ -1,7 +1,7 @@
 ---
 title: HiPhi Y Performance
 linktitle: Y Performance
-description: HiPhi Y Performance is an all-electric luxury SUV with a WLTP range of up to 620 km (385 miles). EVKX.net have all the details. 
+description: HiPhi Y Performance is an all-electric premium SUV with a WLTP range of up to 620 km (385 miles). EVKX.net have all the details. 
 weight: 10
 hidden: true
 ---
@@ -234,5 +234,5 @@ The cargo capacity in the trunk is 692 liters. With the rear seat down, it is 18
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 ### Availability & Pricing
 
-This model had world premiere 15.07.2023 and deliveries is expected to start March 2024.
+This model had world premiere 18.04.2023 and deliveries is expected to start March 2024.
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

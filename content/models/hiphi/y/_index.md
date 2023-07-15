@@ -8,7 +8,7 @@ weight: 30
 
 [![Y Performance](https://media.evkx.net/multimedia/models/hiphi/y/y_performance/main_1_st.jpg)](/models/hiphi/y/y_performance/)
 
-HiPhi Y Performance is an all-electric luxury SUV with a WLTP range of up to 620 km (385 miles). EVKX.net have all the details. 
+HiPhi Y Performance is an all-electric premium SUV with a WLTP range of up to 620 km (385 miles). EVKX.net have all the details. 
 
 - [HiPhi Y Performance article](/models/hiphi/y/y_performance/)
 - [HiPhi Y Performance Range & consumption info](/models/hiphi/y/y_performance//rangeandconsumption)

@@ -48,7 +48,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Height|1658 mm|
 |Width excluding mirrors|1958 mm|
 |Wheelbase|2950 mm|
-|Drag coefficient|0,27|
+|Drag coefficient|0,24|
 |Turning circle|11,6 meters|
 
 ## Suspension
