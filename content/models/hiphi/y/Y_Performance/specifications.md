@@ -82,8 +82,8 @@ This model is available with a seat configuration with five seats.
 |Electric adjustment of height, recline and angle|Standard feature|
 |Interior.Seatoptions.MemoryDriverSeat|Standard feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Standard feature|
-|Height adjustable headrest|Unknown|
-|Length adjustable headrest|Unknown|
+|Height adjustable headrest|Standard feature|
+|Length adjustable headrest|Standard feature|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
 |[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Unknown|
 |[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Unknown|
@@ -99,8 +99,8 @@ This model is available with a seat configuration with five seats.
 |Spec|Value|
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
-|Height adjustable headrest|Unknown|
-|Length adjustable headrest|Unknown|
+|Height adjustable headrest|Standard feature|
+|Length adjustable headrest|Not Available|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
 |[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
 |[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|
@@ -108,8 +108,8 @@ This model is available with a seat configuration with five seats.
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Standard feature|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Unknown|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Standard feature|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
 
 ## Driver Assistance
 
@@ -154,12 +154,12 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|Number of speakers|9|
+|Number of speakers|14|
 |Total effect|600|
 
 ### SONIC PRO SYSTEM
 
 |Spec|Value|
 |----|-----|
-|Number of speakers|17|
+|Number of speakers|25|
 |Total effect|600|

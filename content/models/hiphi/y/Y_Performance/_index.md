@@ -103,10 +103,13 @@ Only one front seat type is available in the HiPhi Y Performance.
 The following functionalities are available on the **standard** seat. 
 
 - electric adjustment 
+- height adjustable headrest 
+- length adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
@@ -123,9 +126,8 @@ You can choose from 2 different materials/colors for this seat type.
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
+- height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
-- [massage](../../../../technology/seats/adjustment/#massage) 
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 
 There is only one type of steering wheel available. 
@@ -154,7 +156,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-HiPhi Y Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 14 inches large. The touch screen at the top of the center console is 17 inches large. The touch screen in front of the passenger in the dashboard is 15 inches large. 
+HiPhi Y Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large. The touch screen at the top of the center console is 17 inches large. The touch screen in front of the passenger in the dashboard is 15 inches large. 
 
 
 <figur>
@@ -172,11 +174,11 @@ A gesture control system that lets you control specific features using your hand
 
 ## Infotainment
 
-You can choose between two sound systems on the HiPhi Y Performance. With the SONIC LINE SYSTEM, you get nine speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get 17 speakers with a max system output of 600 watts. 
+You can choose between two sound systems on the HiPhi Y Performance. With the SONIC LINE SYSTEM, you get 14 speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get 25 speakers with a max system output of 600 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The model has 3 USB-C connections as standard. The model has 3 USB-A connections as standard. 
+The model has 4 USB-C connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
