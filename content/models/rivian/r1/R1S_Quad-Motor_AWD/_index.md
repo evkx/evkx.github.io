@@ -80,7 +80,7 @@ You can choose between 9 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls and the top part lifts. 
 
-There is only one roof for this model. The optional has a panoramic roof. 
+There is only one roof for this model. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
 The windows from B-pillar and back are tinted. 
 

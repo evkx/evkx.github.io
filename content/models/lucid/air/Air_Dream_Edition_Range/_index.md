@@ -75,9 +75,9 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 You can choose between 4 different paint colors when ordering this model. 
 Additionally, you can choose between 6 wheels with sizes from 19 to 21 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid]](../../../../technology/doors/#boot-lid) for the trunk. 
+The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. 
 
-There is only one roof for this model. 
+There is only one roof for this model. The windshield is panoramic going back over the first row. In addition there is glasspanel over the second row. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 
 <figur>
