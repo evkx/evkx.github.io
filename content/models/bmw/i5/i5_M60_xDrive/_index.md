@@ -85,7 +85,7 @@ Additionally, you can choose between 6 wheels with sizes from 19 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid]](../../../../technology/doors/#boot-lid) for the trunk. Soft close are an optional function for the regular doors. 
 
-You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
+You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 You can order the car with tinted windows from B-pillar and back. 
 
