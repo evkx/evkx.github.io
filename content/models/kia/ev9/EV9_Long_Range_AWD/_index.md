@@ -71,9 +71,9 @@ Kia EV9 Long Range AWD has an all-wheel drive system supported by two motors, on
 You can choose between 11 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftgate](../../../../technology/doors/#hatcback-style-liftgate). 
 
-You can choose between two types of roofs on this model. The standard is just a regular roof. The standard is a panoramic roof. 
+You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
 You can order the car with tinted windows from B-pillar and back. 
 
