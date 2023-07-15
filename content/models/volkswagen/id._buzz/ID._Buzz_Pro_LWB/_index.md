@@ -85,7 +85,7 @@ Additionally, you can choose between 5 wheels with sizes from 19 to 21 inches.
 
 Powered doors are an standard function for the side doors. 
 
-There is only one roof for this model. The standard is a panoramic roof. 
+There is only one roof for this model. The standard is just a regular roof. 
 
 The windows from B-pillar and back are tinted. 
 

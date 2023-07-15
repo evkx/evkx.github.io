@@ -99,7 +99,7 @@ Additionally, you can choose between 8 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
-There is only one roof for this model. 
+The standard is just a regular roof. The optional has a panoramic roof. The optional has a panoramic roof. 
 
 
 <figur>

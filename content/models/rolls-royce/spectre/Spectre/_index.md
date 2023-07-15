@@ -76,7 +76,7 @@ You can choose between 8 different paint colors when ordering this model.
 
 The car has two [suicide doors](../../../../technology/doors/) on and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Soft close are an standard function for the regular doors. Powered doors are an standard function for the side doors. 
 
-You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
+There is only one roof for this model. The standard is just a regular roof. 
 
 You can order the car with tinted windows from B-pillar and back. 
 

@@ -72,7 +72,7 @@ You can choose between 1 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. 
 
-There is only one roof for this model. 
+There is only one roof for this model. The optional has a panoramic roof. 
 
 
 <figur>
