@@ -77,7 +77,7 @@ Additionally, you can choose between 2 wheels with sizes from 20 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
-There is only one roof for this model. The standard is a panoramic roof. 
+There is only one roof for this model. exterior.roof.standard.panoramic.PartialOpenFront.ElectricCurtain
 
 The windows from B-pillar and back are tinted. 
 
