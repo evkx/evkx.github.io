@@ -4,16 +4,16 @@ linktitle: Y
 description: See below for details of the different variants of HiPhi Y
 weight: 30
 ---
-## HiPhi Y Dual Motor
+## HiPhi Y Performance
 
-[![Y Dual Motor](https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/main_1_st.jpg)](/models/hiphi/y/y_dual_motor/)
+[![Y Performance](https://media.evkx.net/multimedia/models/hiphi/y/y_performance/main_1_st.jpg)](/models/hiphi/y/y_performance/)
 
-HiPhi Y Dual Motor is an all-electric luxury SUV with a WLTP range of up to 620 km (385 miles). EVKX.net have all the details. 
+HiPhi Y Performance is an all-electric luxury SUV with a WLTP range of up to 620 km (385 miles). EVKX.net have all the details. 
 
-- [HiPhi Y Dual Motor article](/models/hiphi/y/y_dual_motor/)
-- [HiPhi Y Dual Motor Range & consumption info](/models/hiphi/y/y_dual_motor//rangeandconsumption)
-- [HiPhi Y Dual Motor Charging curve and performance](/models/hiphi/y/y_dual_motor//chargingcurve)
-- [HiPhi Y Dual Motor full specifications](/models/hiphi/y/y_dual_motor//specifications)
-- [HiPhi Y Dual Motor image gallery](/models/hiphi/y/y_dual_motor//gallery)
-- [HiPhi Y Dual Motor reviews](/models/hiphi/y/y_dual_motor//reviews)
+- [HiPhi Y Performance article](/models/hiphi/y/y_performance/)
+- [HiPhi Y Performance Range & consumption info](/models/hiphi/y/y_performance//rangeandconsumption)
+- [HiPhi Y Performance Charging curve and performance](/models/hiphi/y/y_performance//chargingcurve)
+- [HiPhi Y Performance full specifications](/models/hiphi/y/y_performance//specifications)
+- [HiPhi Y Performance image gallery](/models/hiphi/y/y_performance//gallery)
+- [HiPhi Y Performance reviews](/models/hiphi/y/y_performance//reviews)
 

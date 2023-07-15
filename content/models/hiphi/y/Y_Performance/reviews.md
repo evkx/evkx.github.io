@@ -1,5 +1,5 @@
 ---
-title: HiPhi Y Dual Motor reviews
+title: HiPhi Y Performance reviews
 linktitle: Reviews
 description: EVKX.net helps you find the best review for this model. 
 weight: 80

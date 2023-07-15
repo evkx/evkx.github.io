@@ -1,7 +1,7 @@
 ---
-title: HiPhi Y Dual Motor range & consumption
+title: HiPhi Y Performance range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for HiPhi Y Dual Motor.
+description: Here you find all details about range and consumption for HiPhi Y Performance.
 weight: 9
 hidden: true
 ---

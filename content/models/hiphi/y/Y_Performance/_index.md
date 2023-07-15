@@ -1,7 +1,7 @@
 ---
-title: HiPhi Y Dual Motor
-linktitle: Y Dual Motor
-description: HiPhi Y Dual Motor is an all-electric luxury SUV with a WLTP range of up to 620 km (385 miles). EVKX.net have all the details. 
+title: HiPhi Y Performance
+linktitle: Y Performance
+description: HiPhi Y Performance is an all-electric luxury SUV with a WLTP range of up to 620 km (385 miles). EVKX.net have all the details. 
 weight: 10
 hidden: true
 ---
@@ -11,12 +11,12 @@ hidden: true
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/main_1_st.jpg" alt="HiPhi Y Dual Motor" title="HiPhi Y Dual Motor" width="680" height="437">
+<a href="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/main_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" width="680" height="437">
 </a>
-<figcaption><h4>HiPhi Y Dual Motor</h4></figcaption></figur>
+<figcaption><h4>HiPhi Y Performance</h4></figcaption></figur>
 
-We have separated our HiPhi Y Dual Motor article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our HiPhi Y Performance article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -32,7 +32,7 @@ We have separated our HiPhi Y Dual Motor article into sections. If you want to w
 
 ## Performance
 
-The HiPhi Y Dual Motor has a maximum power of 371KW (504hp). The total torque is 620nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. 
+The HiPhi Y Performance has a maximum power of 371KW (504hp). The total torque is 620nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. 
 
 ## Battery, range, and charging
 
@@ -56,13 +56,13 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-HiPhi Y Dual Motor has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+HiPhi Y Performance has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 150 mm, and the max is 200 mm. 
 
 ### Steering
 
-Dynamic steering is standard on the HiPhi Y Dual Motor. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is standard on the HiPhi Y Performance. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -82,10 +82,10 @@ The windows from B-pillar and back are tinted.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/exterior_1_st.jpg" alt="HiPhi Y Dual Motor" title="HiPhi Y Dual Motor" width="680" height="382">
+<a href="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/exterior_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" width="680" height="382">
 </a>
-<figcaption><h4>HiPhi Y Dual Motor</h4></figcaption></figur>
+<figcaption><h4>HiPhi Y Performance</h4></figcaption></figur>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -98,7 +98,7 @@ The seat layout is the traditional five seats with two in front and three in the
 
 ### First row seats
 
-Only one front seat type is available in the HiPhi Y Dual Motor. 
+Only one front seat type is available in the HiPhi Y Performance. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -136,7 +136,7 @@ There is one climate system available. The 3-zone climate system supports differ
 
 ## Comfort
 
-HiPhi Y Dual Motor has several features to make your life as a driver or passenger more comfortable. 
+HiPhi Y Performance has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -154,14 +154,14 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-HiPhi Y Dual Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 14 inches large. The touch screen at the top of the center console is 16,9 inches large. The touch screen in front of the passenger in the dashboard is 19,9 inches large. 
+HiPhi Y Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 14 inches large. The touch screen at the top of the center console is 17 inches large. The touch screen in front of the passenger in the dashboard is 15 inches large. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/screens_1_st.jpg" alt="HiPhi Y Dual Motor" title="HiPhi Y Dual Motor" width="680" height="364">
+<a href="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/screens_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" width="680" height="364">
 </a>
-<figcaption><h4>HiPhi Y Dual Motor</h4></figcaption></figur>
+<figcaption><h4>HiPhi Y Performance</h4></figcaption></figur>
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -172,7 +172,7 @@ A gesture control system that lets you control specific features using your hand
 
 ## Infotainment
 
-You can choose between two sound systems on the HiPhi Y Dual Motor. With the SONIC LINE SYSTEM, you get nine speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get 17 speakers with a max system output of 600 watts. 
+You can choose between two sound systems on the HiPhi Y Performance. With the SONIC LINE SYSTEM, you get nine speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get 17 speakers with a max system output of 600 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
@@ -183,29 +183,29 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/headlights_1_st.jpg" alt="HiPhi Y Dual Motor" title="HiPhi Y Dual Motor" width="680" height="426">
+<a href="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/headlights_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" width="680" height="426">
 </a>
-<figcaption><h4>HiPhi Y Dual Motor</h4></figcaption></figur>
+<figcaption><h4>HiPhi Y Performance</h4></figcaption></figur>
 
 ## Advanced driver assistance systems
 
-The HiPhi Y Dual Motor has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The HiPhi Y Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
 
-The HiPhi Y Dual Motor has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The HiPhi Y Performance has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The HiPhi Y Dual Motor has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The HiPhi Y Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The HiPhi Y Dual Motor has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The HiPhi Y Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The HiPhi Y Dual Motor has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The HiPhi Y Performance has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
