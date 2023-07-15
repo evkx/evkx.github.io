@@ -68,16 +68,16 @@ Dynamic steering is standard on the Lotus Eletre S. Dynamic steering varies the 
 
 You can choose between different brake systems. The first option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 412mm, and the rear discs are 397mm. The standard option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 412mm, and the rear discs are 397mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. 
 
 ## Exterior
 
 You can choose between 6 different paint colors when ordering this model. 
 Additionally, you can choose between 10 wheels with sizes from 22 to 23 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftgate](../../../../technology/doors/#hatcback-style-liftgate). 
 
-You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. 
+You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple levels to protect against the sun. 
 
 
 <figur>

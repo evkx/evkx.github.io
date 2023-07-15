@@ -64,14 +64,14 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 400mm, and the rear discs are 390mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. 
 
 ## Exterior
 
 You can choose between 8 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 21 to 22 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). Soft close are an standard function for the regular doors. 
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close are an standard function for the regular doors. 
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
