@@ -64,7 +64,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive)r coasting is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. 
 
 ## Exterior
 
@@ -72,7 +72,7 @@ You can choose between 1 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. 
 
-There is only one roof for this model. The optional has a panoramic roof. 
+There is only one roof for this model. The standard roof has a 4 seperate glass panels that can be removed, making this a convertible.
 
 
 <figur>
