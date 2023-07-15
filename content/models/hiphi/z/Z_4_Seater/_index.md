@@ -84,7 +84,7 @@ You can choose between 6 different paint colors when ordering this model.
 
 The car has two [regular doors](../../../../technology/doors/) in front, [suicide doors](../../../../technology/doors/) on the second row, and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Powered doors are an standard function for the side doors. 
 
-There is only one roof for this model. The standard is a panoramic roof. 
+There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 The windows from B-pillar and back are tinted. 
 

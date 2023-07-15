@@ -70,9 +70,9 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 You can choose between 1 different paint colors when ordering this model. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftegate](../../../../technology/doors/#hatcback-style-liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback style liftgate](../../../../technology/doors/#hatcback-style-liftgate). 
 
-You can choose between two types of roofs on this model. The standard is just a regular roof. The optional has a panoramic roof. You can open the panoramic roof and have the possibility to block the light with a curtain.  
+You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
 You can order the car with tinted windows from B-pillar and back. 
 
