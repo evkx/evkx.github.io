@@ -8,9 +8,11 @@ weight: 2
 
 A glass panel roof allows for natural light and ventilation to enter the car and enhances the aesthetic appeal and spaciousness of the interior.
 
+## Types
+
 A glass panel roof can be either fixed or movable. A fixed glass panel roof is permanently attached to the car frame and cannot be opened or closed. A movable glass panel roof can be opened or closed by using a button, a switch or a hand crank. A movable glass panel roof may be considered as an extension of the power window concept.
 
-## Sunroof
+### Sunroof
 
 The smallest category of glass roof is a sunroof. This is a glass panel placed above first row. This was the type of glass roof available back in the 80 and 90. 
 
@@ -28,7 +30,7 @@ The smallest category of glass roof is a sunroof. This is a glass panel placed a
     <figcaption><h4>BMW i4 M50 with sunroof</h4></figcaption>
 </figur>
 
-## Panoramic roof with front opening
+### Panoramic roof with front opening
 
 This is a common design where you have two parts mounted together. Where the first part is movable and can be opened while the rear part is fixed.
 
@@ -39,8 +41,7 @@ This is a common design where you have two parts mounted together. Where the fir
     <figcaption><h4>Nissan Ariya Panoramic roof with front opening</h4></figcaption>
 </figur>
 
-
-## Fixed panoramic roof
+### Fixed panoramic roof
 
 <figur>
     <a href="ambientlighting">
@@ -56,30 +57,61 @@ This is a common design where you have two parts mounted together. Where the fir
     <figcaption><h4>Tesla Model Y fixed panoramic roof</h4></figcaption>
 </figur>
 
-<figur>
-    <a href="ambientlighting">
-    <img src="https://media.evkx.net/multimedia/technology/glassroof/roof_4_st.jpg" alt="Tesla Model Y fixed panoramic roof" title="Tesla Model Y fixed panoramic roof" width="800px" height="450px">
-    </a>
-    <figcaption><h4>Tesla Model Y fixed panoramic roof</h4></figcaption>
-</figur>
+### Split fixed glass
+
+Another variant is to have to seperate glass panels. 
 
 <figur>
     <a href="ambientlighting">
-    <img src="https://media.evkx.net/multimedia/technology/glassroof/roof_5_st.jpg" alt="Tesla Model Y fixed panoramic roof" title="Tesla Model Y fixed panoramic roof" width="800px" height="450px">
+    <img src="https://media.evkx.net/multimedia/technology/glassroof/roof_4_st.jpg" alt="Mercedes-Benz EQS Suv with split panoramic roof" title="Mercedes-Benz EQS Suv with split panoramic roof" width="800px" height="450px">
     </a>
-    <figcaption><h4>Tesla Model Y fixed panoramic roof</h4></figcaption>
+    <figcaption><h4>Mercedes-Benz EQS Suv with split panoramic roof</h4></figcaption>
+</figur>
+
+### Panoramic windshield and glass panel
+
+Some models have a panoramic windshield that goes far up on the roof. Combined with glass panels in the rear it makes it a roof with a large panels.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/glassroof/roof_5.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/glassroof/roof_5_st.jpg" alt="Lucid Air with panoramic windshield and glass panel" title="Lucid Air with panoramic windshield and glass panel" width="800px" height="450px">
+    </a>
+    <figcaption><h4>Lucid Air with panoramic windshield and glass panel</h4></figcaption>
+</figur>
+
+## Blending
+
+
+### Curtains
+
+### Electrochromatic glass
+
+Electrochromic glass roof is a type of that can change its level of tint based on the amount of current running through it. It allows the driver to control the intensity of light from transparent to opaque with a push of a button. Some car manufacturers, such as Rivian, Mercedes-Benz and Ferrari, offer this option for their models.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_open.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_open_st.jpg" alt="Porsche Taycan with electrochromatic roof - open mode" title="Porsche Taycan with electrochromatic roof - open mode" width="800px" height="450px">
+    </a>
+    <figcaption><h4>Porsche Taycan with electrochromatic roof - open mode</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_pattern.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_pattern_st.jpg" alt="Porsche Taycan with electrochromatic roof - pattern mode" title="Porsche Taycan with electrochromatic roof - pattern mode" width="800px" height="450px">
+    </a>
+    <figcaption><h4>Porsche Taycan with electrochromatic roof - pattern mode</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_pattern.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_blended_st.jpg" alt="Porsche Taycan with electrochromatic roof - blended mode" title="Porsche Taycan with electrochromatic roof - blended mode" width="800px" height="450px">
+    </a>
+    <figcaption><h4>Porsche Taycan with electrochromatic roof - blended mode</h4></figcaption>
 </figur>
 
 
-Some glass panel roofs may have some additional features, such as:
-
-•  Tinting or coating to reduce glare, heat or UV rays from the sun.
-•  Electric motors or regulators to control the movement of the glass panel roof.
-•  Safety locks or sensors to prevent unauthorized opening or closing of the glass panel roof.
-•  Sun blinds or shades to adjust the amount of light and heat entering the car.
+## Weight & Noise
 
 A glass panel roof is a luxury feature that adds value and comfort to
 the car. However, it also increases the weight and complexity of the car and may reduce its fuel efficiency and safety. A glass panel roof may also be more prone to leaks, cracks or breakage due to weather conditions, road debris or accidents.
 
-Conclusion
-Windows in cars are essential for visibility, ventilation, protection and comfort. They can be classified into different types according to their location, function and design. Each type of window has its own features and benefits, as well as its own maintenance requirements. By knowing the different types of windows in cars, their characteristics and importance, you can make an informed decision when choosing, using or repairing them
