@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/main_1_st.jpg" alt="Zeekr 001 Privilege AWD" title="Zeekr 001 Privilege AWD" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/main_1_st.jpg" alt="Zeekr 001 Privilege AWD" title="Zeekr 001 Privilege AWD" width="680" height="453">
 </a>
 <figcaption><h4>Zeekr 001 Privilege AWD</h4></figcaption></figur>
 
@@ -45,6 +45,14 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 ### Onboard charger
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 38 minutes. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/charging_1_st.jpg" alt="Zeekr 001 Privilege AWD" title="Zeekr 001 Privilege AWD" width="680" height="510">
+</a>
+<figcaption><h4>Zeekr 001 Privilege AWD</h4></figcaption></figur>
+
 
 ### Charge port
 
@@ -79,7 +87,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/exterior_1_st.jpg" alt="Zeekr 001 Privilege AWD" title="Zeekr 001 Privilege AWD" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/exterior_1_st.jpg" alt="Zeekr 001 Privilege AWD" title="Zeekr 001 Privilege AWD" width="680" height="453">
 </a>
 <figcaption><h4>Zeekr 001 Privilege AWD</h4></figcaption></figur>
 
@@ -143,6 +151,14 @@ You have wireless charging for your phone.
 
 Zeekr 001 Privilege AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 8,8 inches large. The touch screen at the top of the center console is 15,4 inches large. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/screens_1_st.jpg" alt="Zeekr 001 Privilege AWD" title="Zeekr 001 Privilege AWD" width="680" height="453">
+</a>
+<figcaption><h4>Zeekr 001 Privilege AWD</h4></figcaption></figur>
+
+
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
@@ -163,7 +179,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/headlights_1_st.jpg" alt="Zeekr 001 Privilege AWD" title="Zeekr 001 Privilege AWD" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/headlights_1_st.jpg" alt="Zeekr 001 Privilege AWD" title="Zeekr 001 Privilege AWD" width="680" height="510">
 </a>
 <figcaption><h4>Zeekr 001 Privilege AWD</h4></figcaption></figur>
 
@@ -204,6 +220,14 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 The cargo capacity in the trunk is 484 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100kg. Under the hood, there is frunk with more storage room. This frunk is 32 liters. Max weight is 3080kg, and with the base weight of 2600 kg, you can max load 480 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2200, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/trunk_1_st.jpg" alt="Zeekr 001 Privilege AWD" title="Zeekr 001 Privilege AWD" width="680" height="453">
+</a>
+<figcaption><h4>Zeekr 001 Privilege AWD</h4></figcaption></figur>
+
 ### Availability & Pricing
 
 This model had world premiere 14.04.2021 and deliveries started October 2021.
