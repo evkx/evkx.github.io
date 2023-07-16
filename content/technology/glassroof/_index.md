@@ -52,9 +52,9 @@ This is a common design where you have two parts mounted together. Where the fir
 
 <figur>
     <a href="ambientlighting">
-    <img src="https://media.evkx.net/multimedia/technology/glassroof/roof_3_st.jpg" alt="Tesla Model Y fixed panoramic roof" title="Tesla Model Y fixed panoramic roof" width="800px" height="450px">
+    <img src="https://media.evkx.net/multimedia/technology/glassroof/roof_3_st.jpg" alt="Porsche Taycan with fixed panoramic roof" title="Porsche Taycan with fixed panoramic roof" width="800px" height="533px">
     </a>
-    <figcaption><h4>Tesla Model Y fixed panoramic roof</h4></figcaption>
+    <figcaption><h4>Porsche Taycan with fixed panoramic roof</h4></figcaption>
 </figur>
 
 ### Split fixed glass
@@ -81,32 +81,31 @@ Some models have a panoramic windshield that goes far up on the roof. Combined w
 
 ## Blending
 
-
 ### Curtains
 
-### Electrochromatic glass
+### Electrochromic glass
 
 Electrochromic glass roof is a type of that can change its level of tint based on the amount of current running through it. It allows the driver to control the intensity of light from transparent to opaque with a push of a button. Some car manufacturers, such as Rivian, Mercedes-Benz and Ferrari, offer this option for their models.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_open.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_open_st.jpg" alt="Porsche Taycan with electrochromatic roof - open mode" title="Porsche Taycan with electrochromatic roof - open mode" width="800px" height="450px">
+    <img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_open_st.jpg" alt="Porsche Taycan with electrochromic roof - open mode" title="Porsche Taycan with electrochromic roof - open mode" width="800px" height="450px">
     </a>
-    <figcaption><h4>Porsche Taycan with electrochromatic roof - open mode</h4></figcaption>
+    <figcaption><h4>Porsche Taycan with electrochromic roof - open mode</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_pattern.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_pattern_st.jpg" alt="Porsche Taycan with electrochromatic roof - pattern mode" title="Porsche Taycan with electrochromatic roof - pattern mode" width="800px" height="450px">
+    <img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_pattern_st.jpg" alt="Porsche Taycan with electrochromic roof - pattern mode" title="Porsche Taycan with electrochromic roof - pattern mode" width="800px" height="450px">
     </a>
-    <figcaption><h4>Porsche Taycan with electrochromatic roof - pattern mode</h4></figcaption>
+    <figcaption><h4>Porsche Taycan with electrochromic roof - pattern mode</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_pattern.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_blended_st.jpg" alt="Porsche Taycan with electrochromatic roof - blended mode" title="Porsche Taycan with electrochromatic roof - blended mode" width="800px" height="450px">
+    <img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_blended_st.jpg" alt="Porsche Taycan with electrochromic roof - blended mode" title="Porsche Taycan with electrochromic roof - blended mode" width="800px" height="450px">
     </a>
-    <figcaption><h4>Porsche Taycan with electrochromatic roof - blended mode</h4></figcaption>
+    <figcaption><h4>Porsche Taycan with electrochromic roof - blended mode</h4></figcaption>
 </figur>
 
 
