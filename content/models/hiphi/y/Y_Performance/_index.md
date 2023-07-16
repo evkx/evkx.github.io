@@ -174,7 +174,7 @@ A gesture control system that lets you control specific features using your hand
 
 ## Infotainment
 
-You can choose between two sound systems on the HiPhi Y Performance. With the SONIC LINE SYSTEM, you get 14 speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get 25 speakers with a max system output of 600 watts. 
+You can choose between two sound systems on the HiPhi Y Performance. With the SONIC LINE SYSTEM, you get 14 speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get 25 speakers with a max system output of 2820 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 

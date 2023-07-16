@@ -162,4 +162,4 @@ This model is available with a seat configuration with five seats.
 |Spec|Value|
 |----|-----|
 |Number of speakers|25|
-|Total effect|600|
+|Total effect|2820|
