@@ -95,6 +95,13 @@ The glass used typical protect against sun heat by reflecting most of the UV ray
 
 Curtains for glass roofs on cars are also known as sunshades or sunroofs. They are designed to block the sunlight and heat from entering the vehicle through the glass roof.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/glassroof/curtain_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/glassroof/curtain_1_st.jpg" alt="BMW i5 with curtain closed" title="BMW i5 with curtain closed" width="800px" height="450px">
+    </a>
+    <figcaption><h4>BMW i5 with curtain closed</h4></figcaption>
+</figur>
+
 ### Electrochromic glass
 
 Electrochromic glass roof is a type of that can change its level of tint based on the amount of current running through it. It allows the driver to control the intensity of light from transparent to opaque with a push of a button. Some car manufacturers, such as Rivian, BMW and Porsche, offer this option for their models.
