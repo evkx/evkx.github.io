@@ -36,6 +36,27 @@ data-pswp-height="1128"
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/exterior_4_st.jpg" alt="Zeekr X Long Range RWD" />
 </a>
+<a href="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/frontseats_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/frontseats_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/frontseats_1_st.jpg" alt="Zeekr X Long Range RWD" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/frunk_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/frunk_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/frunk_1_st.jpg" alt="Zeekr X Long Range RWD" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/headlights_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/headlights_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/headlights_1_st.jpg" alt="Zeekr X Long Range RWD" />
+</a>
 <a href="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/main_1.jpg"
 data-pswp-width="3000"
@@ -63,6 +84,34 @@ data-pswp-width="2280"
 data-pswp-height="1282" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/screens_3_st.jpg" alt="Zeekr X Long Range RWD" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/screens_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/screens_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/screens_4_st.jpg" alt="Zeekr X Long Range RWD" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/secondrowseats_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/secondrowseats_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/secondrowseats_1_st.jpg" alt="Zeekr X Long Range RWD" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/soundsystem_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/soundsystem_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/soundsystem_1_st.jpg" alt="Zeekr X Long Range RWD" />
+</a>
+<a href="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/trunk_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/trunk_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/trunk_1_st.jpg" alt="Zeekr X Long Range RWD" />
 </a>
 </div>
 <script type="module">

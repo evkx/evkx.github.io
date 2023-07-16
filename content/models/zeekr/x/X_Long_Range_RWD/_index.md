@@ -105,6 +105,14 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/frontseats_1_st.jpg" alt="Zeekr X Long Range RWD" title="Zeekr X Long Range RWD" width="680" height="453">
+</a>
+<figcaption><h4>Zeekr X Long Range RWD</h4></figcaption></figur>
+
+
 ### Second-row seat
 
 
@@ -112,6 +120,14 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/secondrowseats_1_st.jpg" alt="Zeekr X Long Range RWD" title="Zeekr X Long Range RWD" width="680" height="453">
+</a>
+<figcaption><h4>Zeekr X Long Range RWD</h4></figcaption></figur>
+
 
 There is only one type of steering wheel available. 
 
@@ -157,6 +173,14 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the Zeekr X Long Range RWD. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/headlights_1_st.jpg" alt="Zeekr X Long Range RWD" title="Zeekr X Long Range RWD" width="680" height="453">
+</a>
+<figcaption><h4>Zeekr X Long Range RWD</h4></figcaption></figur>
+
 ## Advanced driver assistance systems
 
 The Zeekr X Long Range RWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -200,6 +224,14 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 The cargo capacity in the trunk is 362 liters. With the rear seat down, it is 904 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 7 liters. Max weight is 2520kg, and with the base weight of 1960 kg, you can max load 560 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/trunk_1_st.jpg" alt="Zeekr X Long Range RWD" title="Zeekr X Long Range RWD" width="680" height="453">
+</a>
+<figcaption><h4>Zeekr X Long Range RWD</h4></figcaption></figur>
+
 ### Availability & Pricing
 
 This model had world premiere 12.04.2023 and deliveries is expected to start November 2023.
