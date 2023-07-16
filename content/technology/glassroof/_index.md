@@ -17,14 +17,14 @@ A glass panel roof can be either fixed or movable. A fixed glass panel roof is p
 The smallest category of glass roof is a sunroof. This is a glass panel placed above first row. This was the type of glass roof available back in the 80 and 90. 
 
 <figur>
-    <a href="ambientlighting">
+    <a href="https://media.evkx.net/multimedia/technology/glassroof/roof_1.jpg">
     <img src="https://media.evkx.net/multimedia/technology/glassroof/roof_1_st.jpg" alt="Kia EV6 sunroof" title="Kia EV6 sunroof" width="800px" height="533px">
     </a>
     <figcaption><h4>Kia EV6 sunroof</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="ambientlighting">
+    <a href="https://media.evkx.net/multimedia/technology/glassroof/roof_6.jpg">
     <img src="https://media.evkx.net/multimedia/technology/glassroof/roof_6_st.jpg" alt="BMW i4 M50 with sunroof" title="BMW i4 M50 with sunroof" width="800px" height="450px">
     </a>
     <figcaption><h4>BMW i4 M50 with sunroof</h4></figcaption>
@@ -35,7 +35,7 @@ The smallest category of glass roof is a sunroof. This is a glass panel placed a
 This is a common design where you have two parts mounted together. Where the first part is movable and can be opened while the rear part is fixed.
 
 <figur>
-    <a href="ambientlighting">
+    <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/exterior_2.jpg">
     <img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/exterior_2_st.jpg" alt="Nissan Ariya Panoramic roof with front opening" title="Nissan Ariya Panoramic roof with front opening" width="800px" height="533px">
     </a>
     <figcaption><h4>Nissan Ariya Panoramic roof with front opening</h4></figcaption>
@@ -44,17 +44,25 @@ This is a common design where you have two parts mounted together. Where the fir
 ### Fixed panoramic roof
 
 <figur>
-    <a href="ambientlighting">
+    <a href="https://media.evkx.net/multimedia/technology/glassroof/roof_2.jpg">
     <img src="https://media.evkx.net/multimedia/technology/glassroof/roof_2_st.jpg" alt="Tesla Model Y fixed panoramic roof" title="Tesla Model Y fixed panoramic roof" width="800px" height="450px">
     </a>
     <figcaption><h4>Tesla Model Y fixed panoramic roof</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="ambientlighting">
+    <a href="https://media.evkx.net/multimedia/technology/glassroof/roof_3.jpg">
     <img src="https://media.evkx.net/multimedia/technology/glassroof/roof_3_st.jpg" alt="Porsche Taycan with fixed panoramic roof" title="Porsche Taycan with fixed panoramic roof" width="800px" height="533px">
     </a>
     <figcaption><h4>Porsche Taycan with fixed panoramic roof</h4></figcaption>
+</figur>
+
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/glassroof/roof_7.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/glassroof/roof_7_st.jpg" alt="BMW i5 with fixed panoramic roof" title="BMW i5 with fixed panoramic roof" width="800px" height="533px">
+    </a>
+    <figcaption><h4>BMW i5 with fixed panoramic roof</h4></figcaption>
 </figur>
 
 ### Split fixed glass
@@ -62,7 +70,7 @@ This is a common design where you have two parts mounted together. Where the fir
 Another variant is to have to seperate glass panels. 
 
 <figur>
-    <a href="ambientlighting">
+    <a href="https://media.evkx.net/multimedia/technology/glassroof/roof_4.jpg">
     <img src="https://media.evkx.net/multimedia/technology/glassroof/roof_4_st.jpg" alt="Mercedes-Benz EQS Suv with split panoramic roof" title="Mercedes-Benz EQS Suv with split panoramic roof" width="800px" height="450px">
     </a>
     <figcaption><h4>Mercedes-Benz EQS Suv with split panoramic roof</h4></figcaption>
@@ -81,11 +89,15 @@ Some models have a panoramic windshield that goes far up on the roof. Combined w
 
 ## Blending
 
+The glass used typical protect against sun heat by reflecting most of the UV rays and allowing some of the heat to radiate out through the glass. However, some manufacturers add addional blending to reduce heat or increase privacy.
+
 ### Curtains
+
+Curtains for glass roofs on cars are also known as sunshades or sunroofs. They are designed to block the sunlight and heat from entering the vehicle through the glass roof.
 
 ### Electrochromic glass
 
-Electrochromic glass roof is a type of that can change its level of tint based on the amount of current running through it. It allows the driver to control the intensity of light from transparent to opaque with a push of a button. Some car manufacturers, such as Rivian, Mercedes-Benz and Ferrari, offer this option for their models.
+Electrochromic glass roof is a type of that can change its level of tint based on the amount of current running through it. It allows the driver to control the intensity of light from transparent to opaque with a push of a button. Some car manufacturers, such as Rivian, BMW and Porsche, offer this option for their models.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_open.jpg">
@@ -107,7 +119,6 @@ Electrochromic glass roof is a type of that can change its level of tint based o
     </a>
     <figcaption><h4>Porsche Taycan with electrochromic roof - blended mode</h4></figcaption>
 </figur>
-
 
 ## Weight & Noise
 
