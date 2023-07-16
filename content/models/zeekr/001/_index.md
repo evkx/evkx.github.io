@@ -4,6 +4,19 @@ linktitle: 001
 description: See below for details of the different variants of Zeekr 001
 weight: 30
 ---
+## Zeekr 001 Long Range RWD
+
+[![001 Long Range RWD](https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/main_1_st.jpg)](/models/zeekr/001/001_long_range_rwd/)
+
+Zeekr 001 Long Range RWD is an all-electric sedan with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. 
+
+- [Zeekr 001 Long Range RWD article](/models/zeekr/001/001_long_range_rwd/)
+- [Zeekr 001 Long Range RWD Range & consumption info](/models/zeekr/001/001_long_range_rwd//rangeandconsumption)
+- [Zeekr 001 Long Range RWD Charging curve and performance](/models/zeekr/001/001_long_range_rwd//chargingcurve)
+- [Zeekr 001 Long Range RWD full specifications](/models/zeekr/001/001_long_range_rwd//specifications)
+- [Zeekr 001 Long Range RWD image gallery](/models/zeekr/001/001_long_range_rwd//gallery)
+- [Zeekr 001 Long Range RWD reviews](/models/zeekr/001/001_long_range_rwd//reviews)
+
 ## Zeekr 001 Performance AWD
 
 [![001 Performance AWD](https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_st.jpg)](/models/zeekr/001/001_performance_awd/)

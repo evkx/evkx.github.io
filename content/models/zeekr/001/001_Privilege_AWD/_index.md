@@ -32,7 +32,7 @@ We have separated our Zeekr 001 Privilege AWD article into sections. If you want
 
 ## Performance
 
-The Zeekr 001 Privilege AWD has a maximum power of 400KW (544hp). The total torque is 910nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. The top speed is 210 km/h. 
+The Zeekr 001 Privilege AWD has a maximum power of 400KW (544hp). The total torque is 686nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -66,11 +66,11 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Zeekr 001 Privilege AWD has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 174 mm, and the max is 194 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 162 mm, and the max is 192 mm. 
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 400mm, and the rear discs are 390mm. 
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 533mm, and the rear discs are 457mm. 
 
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. 
 
@@ -217,9 +217,9 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 484 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100kg. Under the hood, there is frunk with more storage room. This frunk is 32 liters. Max weight is 3080kg, and with the base weight of 2600 kg, you can max load 480 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 539 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100kg. Under the hood, there is frunk with more storage room. This frunk is 32 liters. Max weight is 3080kg, and with the base weight of 2350 kg, you can max load 730 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2200, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. 
 
 
 <figur>

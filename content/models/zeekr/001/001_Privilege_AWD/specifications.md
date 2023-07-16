@@ -15,8 +15,8 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 Privilege 
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|400 Kw|
-|Electrical torque output in Nm|910 Nm|
-|Top speed|210 km/h|
+|Electrical torque output in Nm|686 Nm|
+|Top speed|200 km/h|
 |0-100km/h (0-62 mph)|3,8 s|
 
 
@@ -68,8 +68,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Yes, standard equipment|
 |Adjustable height front|Yes, standard equipment|
 |Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|194|
-|Minimum ground clearance|174|
+|Max ground clearance|192|
+|Minimum ground clearance|162|
 |Suspension type front|AirSuspension|
 |Suspension construction front|DoubleWishbone|
 |Suspension type rear|AirSuspension|

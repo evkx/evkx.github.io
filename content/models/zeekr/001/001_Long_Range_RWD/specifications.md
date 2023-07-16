@@ -1,23 +1,23 @@
 ---
-title: Zeekr 001 Performance AWD specifications
+title: Zeekr 001 Long Range RWD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Zeekr 001 Performance AWD.
+description: EVKX.net gives you the full specifications for Zeekr 001 Long Range RWD.
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Zeekr 001 Performance AWD](https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Zeekr 001 Performance AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 001 Performance AWD, visit the [chargeinfo](../chargecurve/) for Zeekr 001 Performance AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![Zeekr 001 Long Range RWD](https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for Zeekr 001 Long Range RWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 001 Long Range RWD, visit the [chargeinfo](../chargecurve/) for Zeekr 001 Long Range RWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|400 Kw|
-|Electrical torque output in Nm|686 Nm|
+|Peak electrical output in kW|200 Kw|
+|Electrical torque output in Nm|343 Nm|
 |Top speed|200 km/h|
-|0-100km/h (0-62 mph)|3,8 s|
+|0-100km/h (0-62 mph)|7,2 s|
 
 
 
