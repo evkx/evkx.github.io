@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Mercedes-EQ EQB 250
 
-[![EQB 250](https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_st.jpg)](/models/mercedes/eqb/eqb_250/)
+<a href="/models/mercedes/eqb/eqb_250/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_st.jpg" width="800" height="533" alt="EQB 250" ></a>
 
 Mercedes-EQ EQB 250 is an all-electric premium SUV with a WLTP range of up to 474 km (295 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Mercedes-EQ EQB 250 is an all-electric premium SUV with a WLTP range of up to 47
 
 ## Mercedes-EQ EQB 300 4MATIC
 
-[![EQB 300 4MATIC](https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/main_1_st.jpg)](/models/mercedes/eqb/eqb_300_4matic/)
+<a href="/models/mercedes/eqb/eqb_300_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/main_1_st.jpg" width="800" height="533" alt="EQB 300 4MATIC" ></a>
 
 Mercedes-EQ EQB 300 4MATIC is an all-electric premium SUV with a WLTP range of up to 423 km (263 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Mercedes-EQ EQB 300 4MATIC is an all-electric premium SUV with a WLTP range of u
 
 ## Mercedes-EQ EQB 350 4MATIC
 
-[![EQB 350 4MATIC](https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/main_1_st.jpg)](/models/mercedes/eqb/eqb_350_4matic/)
+<a href="/models/mercedes/eqb/eqb_350_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/main_1_st.jpg" width="800" height="533" alt="EQB 350 4MATIC" ></a>
 
 Mercedes-EQ EQB 350 4MATIC is an all-electric premium SUV with a WLTP range of up to 423 km (263 miles). EVKX.net have all the details. 
 

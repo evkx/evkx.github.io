@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Tesla Model 3 Long Range
 
-[![Model 3 Long Range](https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg)](/models/tesla/model_3/model_3_long_range/)
+<a href="/models/tesla/model_3/model_3_long_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg" width="800" height="533" alt="Model 3 Long Range" ></a>
 
 Tesla Model 3 Long Range is an all-electric sedan with a WLTP range of up to 602 km (374 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Tesla Model 3 Long Range is an all-electric sedan with a WLTP range of up to 602
 
 ## Tesla Model 3 Performance
 
-[![Model 3 Performance](https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/main_1_st.jpg)](/models/tesla/model_3/model_3_performance/)
+<a href="/models/tesla/model_3/model_3_performance/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/main_1_st.jpg" width="800" height="533" alt="Model 3 Performance" ></a>
 
 Tesla Model 3 Performance is an all-electric sedan with a WLTP range of up to 547 km (340 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Tesla Model 3 Performance is an all-electric sedan with a WLTP range of up to 54
 
 ## Tesla Model 3
 
-[![Model 3](https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1_st.jpg)](/models/tesla/model_3/model_3/)
+<a href="/models/tesla/model_3/model_3/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1_st.jpg" width="800" height="533" alt="Model 3" ></a>
 
 Tesla Model 3 is an all-electric sedan with a WLTP range of up to 495 km (308 miles). EVKX.net have all the details. 
 

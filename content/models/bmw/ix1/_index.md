@@ -6,7 +6,7 @@ weight: 30
 ---
 ## BMW iX1 xDrive30
 
-[![iX1 xDrive30](https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg)](/models/bmw/ix1/ix1_xdrive30/)
+<a href="/models/bmw/ix1/ix1_xdrive30/"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg" width="800" height="558" alt="iX1 xDrive30" ></a>
 
 BMW iX1 xDrive30 is an all-electric premium SUV with a WLTP range of up to 440 km (273 miles). EVKX.net have all the details. 
 

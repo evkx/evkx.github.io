@@ -6,7 +6,7 @@ weight: 30
 ---
 ## CUPRA Tavascan VZ
 
-[![Tavascan VZ](https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG)](/models/cupra/tavascan/tavascan_vz/)
+<a href="/models/cupra/tavascan/tavascan_vz/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" width="800" height="446" alt="Tavascan VZ" ></a>
 
 CUPRA Tavascan VZ is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net have all the details. 
 

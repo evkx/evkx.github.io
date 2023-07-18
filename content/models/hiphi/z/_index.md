@@ -6,7 +6,7 @@ weight: 30
 ---
 ## HiPhi Z 4 Seater
 
-[![Z 4 Seater](https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg)](/models/hiphi/z/z_4_seater/)
+<a href="/models/hiphi/z/z_4_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg" width="800" height="396" alt="Z 4 Seater" ></a>
 
 HiPhi Z 4 Seater is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ HiPhi Z 4 Seater is an all-electric luxury sedan with a WLTP range of up to 555 
 
 ## HiPhi Z 5 Seater
 
-[![Z 5 Seater](https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_st.jpg)](/models/hiphi/z/z_5_seater/)
+<a href="/models/hiphi/z/z_5_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_st.jpg" width="800" height="396" alt="Z 5 Seater" ></a>
 
 HiPhi Z 5 Seater is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net have all the details. 
 

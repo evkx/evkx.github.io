@@ -6,7 +6,7 @@ weight: 30
 ---
 ## MG MG5 Electric Long Range
 
-[![MG5 Electric Long Range](https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg)](/models/mg/mg5/mg5_electric_long_range/)
+<a href="/models/mg/mg5/mg5_electric_long_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" width="800" height="512" alt="MG5 Electric Long Range" ></a>
 
 MG MG5 Electric Long Range is an all-electric station wagon with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
 

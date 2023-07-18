@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Volkswagen ID. Buzz Pro
 
-[![ID. Buzz Pro](https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg)](/models/volkswagen/id._buzz/id._buzz_pro/)
+<a href="/models/volkswagen/id._buzz/id._buzz_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg" width="800" height="533" alt="ID. Buzz Pro" ></a>
 
 Volkswagen ID. Buzz Pro is an all-electric MPV with a WLTP range of up to 418 km (260 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Volkswagen ID. Buzz Pro is an all-electric MPV with a WLTP range of up to 418 km
 
 ## Volkswagen ID. Buzz Pro LWB
 
-[![ID. Buzz Pro LWB](https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg)](/models/volkswagen/id._buzz/id._buzz_pro_lwb/)
+<a href="/models/volkswagen/id._buzz/id._buzz_pro_lwb/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" width="800" height="533" alt="ID. Buzz Pro LWB" ></a>
 
 Volkswagen ID. Buzz Pro LWB is an all-electric MPV with a WLTP range of up to 461 km (287 miles). EVKX.net have all the details. 
 

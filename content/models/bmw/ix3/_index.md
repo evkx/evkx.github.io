@@ -6,7 +6,7 @@ weight: 30
 ---
 ## BMW iX3
 
-[![iX3](https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg)](/models/bmw/ix3/ix3/)
+<a href="/models/bmw/ix3/ix3/"><img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg" width="800" height="533" alt="iX3" ></a>
 
 BMW iX3 is an all-electric premium SUV with a WLTP range of up to 461 km (287 miles). EVKX.net have all the details. 
 

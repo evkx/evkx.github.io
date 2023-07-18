@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Toyota bZ4X AWD
 
-[![bZ4X AWD](https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg)](/models/toyota/bz4x/bz4x_awd/)
+<a href="/models/toyota/bz4x/bz4x_awd/"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" width="800" height="533" alt="bZ4X AWD" ></a>
 
 Toyota bZ4X AWD is an all-electric crossover with a WLTP range of up to 470 km (292 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Toyota bZ4X AWD is an all-electric crossover with a WLTP range of up to 470 km (
 
 ## Toyota bZ4X FWD
 
-[![bZ4X FWD](https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/main_1_st.jpg)](/models/toyota/bz4x/bz4x_fwd/)
+<a href="/models/toyota/bz4x/bz4x_fwd/"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/main_1_st.jpg" width="800" height="533" alt="bZ4X FWD" ></a>
 
 Toyota bZ4X FWD is an all-electric crossover with a WLTP range of up to 516 km (321 miles). EVKX.net have all the details. 
 

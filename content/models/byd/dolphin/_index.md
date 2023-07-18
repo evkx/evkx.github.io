@@ -6,7 +6,7 @@ weight: 30
 ---
 ## BYD Dolphin 60.4kWh
 
-[![Dolphin 60.4kWh](https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg)](/models/byd/dolphin/dolphin_60.4kwh/)
+<a href="/models/byd/dolphin/dolphin_60.4kwh/"><img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" width="800" height="564" alt="Dolphin 60.4kWh" ></a>
 
 BYD Dolphin 60.4kWh is an all-electric SUV with a WLTP range of up to 427 km (265 miles). EVKX.net have all the details. 
 

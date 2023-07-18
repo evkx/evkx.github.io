@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Zeekr X Long Range RWD
 
-[![X Long Range RWD](https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/main_1_st.jpg)](/models/zeekr/x/x_long_range_rwd/)
+<a href="/models/zeekr/x/x_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/main_1_st.jpg" width="800" height="449" alt="X Long Range RWD" ></a>
 
 Zeekr X Long Range RWD is an all-electric crossover with a WLTP range of up to 440 km (273 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Zeekr X Long Range RWD is an all-electric crossover with a WLTP range of up to 4
 
 ## Zeekr X Privilege AWD
 
-[![X Privilege AWD](https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/main_1_st.jpg)](/models/zeekr/x/x_privilege_awd/)
+<a href="/models/zeekr/x/x_privilege_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/main_1_st.jpg" width="800" height="449" alt="X Privilege AWD" ></a>
 
 Zeekr X Privilege AWD is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
 

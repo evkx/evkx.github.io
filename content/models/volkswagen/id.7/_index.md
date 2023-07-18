@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Volkswagen ID.7 Pro
 
-[![ID.7 Pro](https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_st.jpg)](/models/volkswagen/id.7/id.7_pro/)
+<a href="/models/volkswagen/id.7/id.7_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_st.jpg" width="800" height="533" alt="ID.7 Pro" ></a>
 
 Volkswagen ID.7 Pro is an all-electric sedan with a WLTP range of up to 615 km (382 miles). EVKX.net have all the details. 
 

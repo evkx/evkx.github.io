@@ -6,7 +6,7 @@ weight: 30
 ---
 ## BMW i7 M70 xDrive
 
-[![i7 M70 xDrive](https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1_st.jpg)](/models/bmw/i7/i7_m70_xdrive/)
+<a href="/models/bmw/i7/i7_m70_xdrive/"><img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1_st.jpg" width="800" height="533" alt="i7 M70 xDrive" ></a>
 
 BMW i7 M70 xDrive is an all-electric luxury sedan with a WLTP range of up to 560 km (348 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ BMW i7 M70 xDrive is an all-electric luxury sedan with a WLTP range of up to 560
 
 ## BMW i7 xDrive60
 
-[![i7 xDrive60](https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/main_1_st.jpg)](/models/bmw/i7/i7_xdrive60/)
+<a href="/models/bmw/i7/i7_xdrive60/"><img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/main_1_st.jpg" width="800" height="533" alt="i7 xDrive60" ></a>
 
 BMW i7 xDrive60 is an all-electric luxury sedan with a WLTP range of up to 625 km (388 miles). EVKX.net have all the details. 
 

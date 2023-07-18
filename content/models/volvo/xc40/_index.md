@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Volvo XC40 Recharge Single Motor
 
-[![XC40 Recharge Single Motor](https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/main_1_st.jpg)](/models/volvo/xc40/xc40_recharge_single_motor/)
+<a href="/models/volvo/xc40/xc40_recharge_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/main_1_st.jpg" width="800" height="450" alt="XC40 Recharge Single Motor" ></a>
 
 Volvo XC40 Recharge Single Motor is an all-electric crossover with a WLTP range of up to 467 km (290 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Volvo XC40 Recharge Single Motor is an all-electric crossover with a WLTP range 
 
 ## Volvo XC40 Recharge Single Motor ER
 
-[![XC40 Recharge Single Motor ER](https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg)](/models/volvo/xc40/xc40_recharge_single_motor_er/)
+<a href="/models/volvo/xc40/xc40_recharge_single_motor_er/"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" width="800" height="450" alt="XC40 Recharge Single Motor ER" ></a>
 
 Volvo XC40 Recharge Single Motor ER is an all-electric crossover with a WLTP range of up to 572 km (356 miles). EVKX.net have all the details. 
 

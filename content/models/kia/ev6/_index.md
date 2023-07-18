@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Kia EV6 Standard Range 2WD
 
-[![EV6 Standard Range 2WD](https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg)](/models/kia/ev6/ev6_standard_range_2wd/)
+<a href="/models/kia/ev6/ev6_standard_range_2wd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg" width="800" height="533" alt="EV6 Standard Range 2WD" ></a>
 
 Kia EV6 Standard Range 2WD is an all-electric crossover with a WLTP range of up to 394 km (245 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Kia EV6 Standard Range 2WD is an all-electric crossover with a WLTP range of up 
 
 ## Kia EV6 Standard Range AWD
 
-[![EV6 Standard Range AWD](https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_awd/main_1_st.jpg)](/models/kia/ev6/ev6_standard_range_awd/)
+<a href="/models/kia/ev6/ev6_standard_range_awd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_awd/main_1_st.jpg" width="800" height="533" alt="EV6 Standard Range AWD" ></a>
 
 Kia EV6 Standard Range AWD is an all-electric crossover with a WLTP range of up to 371 km (231 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Kia EV6 Standard Range AWD is an all-electric crossover with a WLTP range of up 
 
 ## Kia EV6 Long Range 2WD
 
-[![EV6 Long Range 2WD](https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_2wd/main_1_st.jpg)](/models/kia/ev6/ev6_long_range_2wd/)
+<a href="/models/kia/ev6/ev6_long_range_2wd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_2wd/main_1_st.jpg" width="800" height="533" alt="EV6 Long Range 2WD" ></a>
 
 Kia EV6 Long Range 2WD is an all-electric crossover with a WLTP range of up to 528 km (328 miles). EVKX.net have all the details. 
 
@@ -45,7 +45,7 @@ Kia EV6 Long Range 2WD is an all-electric crossover with a WLTP range of up to 5
 
 ## Kia EV6 Long Range AWD
 
-[![EV6 Long Range AWD](https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/main_1_st.jpg)](/models/kia/ev6/ev6_long_range_awd/)
+<a href="/models/kia/ev6/ev6_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/main_1_st.jpg" width="800" height="533" alt="EV6 Long Range AWD" ></a>
 
 Kia EV6 Long Range AWD is an all-electric crossover with a WLTP range of up to 506 km (314 miles). EVKX.net have all the details. 
 
@@ -58,7 +58,7 @@ Kia EV6 Long Range AWD is an all-electric crossover with a WLTP range of up to 5
 
 ## Kia EV6 GT
 
-[![EV6 GT](https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_st.jpg)](/models/kia/ev6/ev6_gt/)
+<a href="/models/kia/ev6/ev6_gt/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_st.jpg" width="800" height="450" alt="EV6 GT" ></a>
 
 Kia EV6 GT is an all-electric crossover with a WLTP range of up to 424 km (264 miles). EVKX.net have all the details. 
 

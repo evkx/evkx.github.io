@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Porsche Taycan
 
-[![Taycan](https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_st.jpg)](/models/porsche/taycan/taycan/)
+<a href="/models/porsche/taycan/taycan/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_st.jpg" width="800" height="449" alt="Taycan" ></a>
 
 Porsche Taycan is an all-electric luxury sedan with a WLTP range of up to 431 km (268 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Porsche Taycan is an all-electric luxury sedan with a WLTP range of up to 431 km
 
 ## Porsche Taycan 4S
 
-[![Taycan 4S](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1_st.jpg)](/models/porsche/taycan/taycan_4s/)
+<a href="/models/porsche/taycan/taycan_4s/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1_st.jpg" width="800" height="449" alt="Taycan 4S" ></a>
 
 Porsche Taycan 4S is an all-electric luxury sedan with a WLTP range of up to 431 km (268 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Porsche Taycan 4S is an all-electric luxury sedan with a WLTP range of up to 431
 
 ## Porsche Taycan 4S Cross Turismo
 
-[![Taycan 4S Cross Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s_cross_turismo/main_1_st.jpg)](/models/porsche/taycan/taycan_4s_cross_turismo/)
+<a href="/models/porsche/taycan/taycan_4s_cross_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s_cross_turismo/main_1_st.jpg" width="800" height="533" alt="Taycan 4S Cross Turismo" ></a>
 
 Porsche Taycan 4S Cross Turismo is an all-electric luxury station wagon with a WLTP range of up to 490 km (305 miles). EVKX.net have all the details. 
 
@@ -45,7 +45,7 @@ Porsche Taycan 4S Cross Turismo is an all-electric luxury station wagon with a W
 
 ## Porsche Taycan 4S Sport Turismo
 
-[![Taycan 4S Sport Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s_sport_turismo/main_1_st.jpg)](/models/porsche/taycan/taycan_4s_sport_turismo/)
+<a href="/models/porsche/taycan/taycan_4s_sport_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s_sport_turismo/main_1_st.jpg" width="800" height="533" alt="Taycan 4S Sport Turismo" ></a>
 
 Porsche Taycan 4S Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 441 km (274 miles). EVKX.net have all the details. 
 
@@ -58,7 +58,7 @@ Porsche Taycan 4S Sport Turismo is an all-electric luxury station wagon with a W
 
 ## Porsche Taycan 4 Cross Turismo
 
-[![Taycan 4 Cross Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/main_1_st.jpg)](/models/porsche/taycan/taycan_4_cross_turismo/)
+<a href="/models/porsche/taycan/taycan_4_cross_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/main_1_st.jpg" width="800" height="533" alt="Taycan 4 Cross Turismo" ></a>
 
 Porsche Taycan 4 Cross Turismo is an all-electric luxury station wagon with a WLTP range of up to 490 km (305 miles). EVKX.net have all the details. 
 
@@ -71,7 +71,7 @@ Porsche Taycan 4 Cross Turismo is an all-electric luxury station wagon with a WL
 
 ## Porsche Taycan GTS
 
-[![Taycan GTS](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1_st.jpg)](/models/porsche/taycan/taycan_gts/)
+<a href="/models/porsche/taycan/taycan_gts/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1_st.jpg" width="800" height="533" alt="Taycan GTS" ></a>
 
 Porsche Taycan GTS is an all-electric luxury sedan with a WLTP range of up to 504 km (313 miles). EVKX.net have all the details. 
 
@@ -84,7 +84,7 @@ Porsche Taycan GTS is an all-electric luxury sedan with a WLTP range of up to 50
 
 ## Porsche Taycan GTS Sport Turismo
 
-[![Taycan GTS Sport Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg)](/models/porsche/taycan/taycan_gts_sport_turismo/)
+<a href="/models/porsche/taycan/taycan_gts_sport_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg" width="800" height="533" alt="Taycan GTS Sport Turismo" ></a>
 
 Porsche Taycan GTS Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 504 km (313 miles). EVKX.net have all the details. 
 
@@ -97,7 +97,7 @@ Porsche Taycan GTS Sport Turismo is an all-electric luxury station wagon with a 
 
 ## Porsche Taycan Sport Turismo
 
-[![Taycan Sport Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg)](/models/porsche/taycan/taycan_sport_turismo/)
+<a href="/models/porsche/taycan/taycan_sport_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" width="800" height="533" alt="Taycan Sport Turismo" ></a>
 
 Porsche Taycan Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 431 km (268 miles). EVKX.net have all the details. 
 
@@ -110,7 +110,7 @@ Porsche Taycan Sport Turismo is an all-electric luxury station wagon with a WLTP
 
 ## Porsche Taycan Turbo
 
-[![Taycan Turbo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1_st.jpg)](/models/porsche/taycan/taycan_turbo/)
+<a href="/models/porsche/taycan/taycan_turbo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1_st.jpg" width="800" height="533" alt="Taycan Turbo" ></a>
 
 Porsche Taycan Turbo is an all-electric luxury sedan with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. 
 
@@ -123,7 +123,7 @@ Porsche Taycan Turbo is an all-electric luxury sedan with a WLTP range of up to 
 
 ## Porsche Taycan Turbo Cross Turismo
 
-[![Taycan Turbo Cross Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/main_1_st.jpg)](/models/porsche/taycan/taycan_turbo_cross_turismo/)
+<a href="/models/porsche/taycan/taycan_turbo_cross_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/main_1_st.jpg" width="800" height="533" alt="Taycan Turbo Cross Turismo" ></a>
 
 Porsche Taycan Turbo Cross Turismo is an all-electric luxury station wagon with a WLTP range of up to 452 km (281 miles). EVKX.net have all the details. 
 
@@ -136,7 +136,7 @@ Porsche Taycan Turbo Cross Turismo is an all-electric luxury station wagon with 
 
 ## Porsche Taycan Turbo S
 
-[![Taycan Turbo S](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1_st.jpg)](/models/porsche/taycan/taycan_turbo_s/)
+<a href="/models/porsche/taycan/taycan_turbo_s/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1_st.jpg" width="800" height="533" alt="Taycan Turbo S" ></a>
 
 Porsche Taycan Turbo S is an all-electric luxury sedan with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. 
 
@@ -149,7 +149,7 @@ Porsche Taycan Turbo S is an all-electric luxury sedan with a WLTP range of up t
 
 ## Porsche Taycan Turbo Sport Turismo
 
-[![Taycan Turbo Sport Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/main_1_st.jpg)](/models/porsche/taycan/taycan_turbo_sport_turismo/)
+<a href="/models/porsche/taycan/taycan_turbo_sport_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/main_1_st.jpg" width="800" height="533" alt="Taycan Turbo Sport Turismo" ></a>
 
 Porsche Taycan Turbo Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. 
 
@@ -162,7 +162,7 @@ Porsche Taycan Turbo Sport Turismo is an all-electric luxury station wagon with 
 
 ## Porsche Taycan Turbo S Cross Turismo
 
-[![Taycan Turbo S Cross Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_cross_turismo/main_1_st.jpg)](/models/porsche/taycan/taycan_turbo_s_cross_turismo/)
+<a href="/models/porsche/taycan/taycan_turbo_s_cross_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_cross_turismo/main_1_st.jpg" width="800" height="533" alt="Taycan Turbo S Cross Turismo" ></a>
 
 Porsche Taycan Turbo S Cross Turismo is an all-electric luxury station wagon with a WLTP range of up to 419 km (260 miles). EVKX.net have all the details. 
 
@@ -175,7 +175,7 @@ Porsche Taycan Turbo S Cross Turismo is an all-electric luxury station wagon wit
 
 ## Porsche Taycan Turbo S Sport Turismo
 
-[![Taycan Turbo S Sport Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/main_1_st.jpg)](/models/porsche/taycan/taycan_turbo_s_sport_turismo/)
+<a href="/models/porsche/taycan/taycan_turbo_s_sport_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/main_1_st.jpg" width="800" height="533" alt="Taycan Turbo S Sport Turismo" ></a>
 
 Porsche Taycan Turbo S Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 457 km (284 miles). EVKX.net have all the details. 
 

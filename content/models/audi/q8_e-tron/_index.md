@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Audi Q8 50 e-tron
 
-[![Q8 50 e-tron](https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_50_e-tron/main_1_st.jpg)](/models/audi/q8_e-tron/q8_50_e-tron/)
+<a href="/models/audi/q8_e-tron/q8_50_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_50_e-tron/main_1_st.jpg" width="800" height="599" alt="Q8 50 e-tron" ></a>
 
 Audi Q8 50 e-tron is an all-electric luxury SUV with a WLTP range of up to 491 km (305 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Audi Q8 50 e-tron is an all-electric luxury SUV with a WLTP range of up to 491 k
 
 ## Audi Q8 Sportback 50 e-tron
 
-[![Q8 Sportback 50 e-tron](https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1_st.jpeg)](/models/audi/q8_e-tron/q8_sportback_50_e-tron/)
+<a href="/models/audi/q8_e-tron/q8_sportback_50_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1_st.jpeg" width="800" height="533" alt="Q8 Sportback 50 e-tron" ></a>
 
 Audi Q8 Sportback 50 e-tron is an all-electric luxury coupe SUV with a WLTP range of up to 505 km (314 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Audi Q8 Sportback 50 e-tron is an all-electric luxury coupe SUV with a WLTP rang
 
 ## Audi Q8 55 e-tron
 
-[![Q8 55 e-tron](https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/main_1_st.jpg)](/models/audi/q8_e-tron/q8_55_e-tron/)
+<a href="/models/audi/q8_e-tron/q8_55_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/main_1_st.jpg" width="800" height="599" alt="Q8 55 e-tron" ></a>
 
 Audi Q8 55 e-tron is an all-electric luxury SUV with a WLTP range of up to 582 km (362 miles). EVKX.net have all the details. 
 
@@ -45,7 +45,7 @@ Audi Q8 55 e-tron is an all-electric luxury SUV with a WLTP range of up to 582 k
 
 ## Audi Q8 Sportback 55 e-tron
 
-[![Q8 Sportback 55 e-tron](https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_55_e-tron/main_1_st.jpeg)](/models/audi/q8_e-tron/q8_sportback_55_e-tron/)
+<a href="/models/audi/q8_e-tron/q8_sportback_55_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_55_e-tron/main_1_st.jpeg" width="800" height="533" alt="Q8 Sportback 55 e-tron" ></a>
 
 Audi Q8 Sportback 55 e-tron is an all-electric luxury coupe SUV with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. 
 
@@ -58,7 +58,7 @@ Audi Q8 Sportback 55 e-tron is an all-electric luxury coupe SUV with a WLTP rang
 
 ## Audi SQ8 e-tron
 
-[![SQ8 e-tron](https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1_st.jpeg)](/models/audi/q8_e-tron/sq8_e-tron/)
+<a href="/models/audi/q8_e-tron/sq8_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1_st.jpeg" width="800" height="533" alt="SQ8 e-tron" ></a>
 
 Audi SQ8 e-tron is an all-electric luxury SUV with a WLTP range of up to 494 km (307 miles). EVKX.net have all the details. 
 
@@ -71,7 +71,7 @@ Audi SQ8 e-tron is an all-electric luxury SUV with a WLTP range of up to 494 km 
 
 ## Audi SQ8 Sportback e-tron
 
-[![SQ8 Sportback e-tron](https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1_st.jpg)](/models/audi/q8_e-tron/sq8_sportback_e-tron/)
+<a href="/models/audi/q8_e-tron/sq8_sportback_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1_st.jpg" width="800" height="599" alt="SQ8 Sportback e-tron" ></a>
 
 Audi SQ8 Sportback e-tron is an all-electric luxury coupe SUV with a WLTP range of up to 513 km (319 miles). EVKX.net have all the details. 
 

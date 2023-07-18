@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Tesla Model S
 
-[![Model S](https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg)](/models/tesla/model_s/model_s/)
+<a href="/models/tesla/model_s/model_s/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" width="800" height="600" alt="Model S" ></a>
 
 Tesla Model S is an all-electric sedan with a WLTP range of up to 649 km (403 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Tesla Model S is an all-electric sedan with a WLTP range of up to 649 km (403 mi
 
 ## Tesla Model S Plaid
 
-[![Model S Plaid](https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/main_1_st.jpg)](/models/tesla/model_s/model_s_plaid/)
+<a href="/models/tesla/model_s/model_s_plaid/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/main_1_st.jpg" width="800" height="600" alt="Model S Plaid" ></a>
 
 Tesla Model S Plaid is an all-electric sedan with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. 
 

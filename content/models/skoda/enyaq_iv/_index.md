@@ -6,7 +6,7 @@ weight: 30
 ---
 ## SKODA ENYAQ COUPÉ RS iV
 
-[![ENYAQ COUPÉ RS iV](https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg)](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
+<a href="/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" width="800" height="533" alt="ENYAQ COUPÉ RS iV" ></a>
 
 SKODA ENYAQ COUPÉ RS iV is an all-electric coupe SUV with a WLTP range of up to 514 km (319 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ SKODA ENYAQ COUPÉ RS iV is an all-electric coupe SUV with a WLTP range of up to
 
 ## SKODA Enyaq iV80
 
-[![Enyaq iV80](https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80/main_1_st.jpg)](/models/skoda/enyaq_iv/enyaq_iv80/)
+<a href="/models/skoda/enyaq_iv/enyaq_iv80/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80/main_1_st.jpg" width="800" height="533" alt="Enyaq iV80" ></a>
 
 SKODA Enyaq iV80 is an all-electric SUV with a WLTP range of up to 534 km (332 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ SKODA Enyaq iV80 is an all-electric SUV with a WLTP range of up to 534 km (332 m
 
 ## SKODA Enyaq iV80x
 
-[![Enyaq iV80x](https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_st.jpg)](/models/skoda/enyaq_iv/enyaq_iv80x/)
+<a href="/models/skoda/enyaq_iv/enyaq_iv80x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_st.jpg" width="800" height="533" alt="Enyaq iV80x" ></a>
 
 SKODA Enyaq iV80x is an all-electric SUV with a WLTP range of up to 504 km (313 miles). EVKX.net have all the details. 
 
@@ -45,7 +45,7 @@ SKODA Enyaq iV80x is an all-electric SUV with a WLTP range of up to 504 km (313 
 
 ## SKODA ENYAQ RS iV
 
-[![ENYAQ RS iV](https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_st.jpg)](/models/skoda/enyaq_iv/enyaq_rs_iv/)
+<a href="/models/skoda/enyaq_iv/enyaq_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_st.jpg" width="800" height="533" alt="ENYAQ RS iV" ></a>
 
 SKODA ENYAQ RS iV is an all-electric SUV with a WLTP range of up to 514 km (319 miles). EVKX.net have all the details. 
 

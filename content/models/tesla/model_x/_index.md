@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Tesla Model X
 
-[![Model X](https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1_st.jpg)](/models/tesla/model_x/model_x/)
+<a href="/models/tesla/model_x/model_x/"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1_st.jpg" width="800" height="600" alt="Model X" ></a>
 
 Tesla Model X is an all-electric SUV with a WLTP range of up to 543 km (337 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Tesla Model X is an all-electric SUV with a WLTP range of up to 543 km (337 mile
 
 ## Tesla Model X Plaid
 
-[![Model X Plaid](https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg)](/models/tesla/model_x/model_x_plaid/)
+<a href="/models/tesla/model_x/model_x_plaid/"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" width="800" height="600" alt="Model X Plaid" ></a>
 
 Tesla Model X Plaid is an all-electric SUV with a WLTP range of up to 543 km (337 miles). EVKX.net have all the details. 
 
