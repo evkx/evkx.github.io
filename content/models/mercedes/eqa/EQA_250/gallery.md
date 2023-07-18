@@ -13,28 +13,28 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/ext
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/exterior_1_st.jpg" alt="Mercedes-EQ EQA 250" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/exterior_1_st.jpg" alt="Mercedes-EQ EQA 250" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/frontseats_1_st.jpg" alt="Mercedes-EQ EQA 250" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/frontseats_1_st.jpg" alt="Mercedes-EQ EQA 250" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_st.jpg" alt="Mercedes-EQ EQA 250" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_st.jpg" alt="Mercedes-EQ EQA 250" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/screens_1_st.jpg" alt="Mercedes-EQ EQA 250" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/screens_1_st.jpg" alt="Mercedes-EQ EQA 250" width="800px" height="533px" />
 </a>
 </div>
 <script type="module">

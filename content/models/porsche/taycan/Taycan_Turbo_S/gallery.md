@@ -13,70 +13,70 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_tu
 data-pswp-width="3000"
 data-pswp-height="2242" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" alt="Porsche Taycan Turbo S" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" alt="Porsche Taycan Turbo S" width="800px" height="597px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2669" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_2_st.jpg" alt="Porsche Taycan Turbo S" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_2_st.jpg" alt="Porsche Taycan Turbo S" width="800px" height="711px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" alt="Porsche Taycan Turbo S" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" alt="Porsche Taycan Turbo S" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_2_st.jpg" alt="Porsche Taycan Turbo S" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_2_st.jpg" alt="Porsche Taycan Turbo S" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="2130" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_3_st.jpg" alt="Porsche Taycan Turbo S" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_3_st.jpg" alt="Porsche Taycan Turbo S" width="800px" height="568px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" alt="Porsche Taycan Turbo S" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" alt="Porsche Taycan Turbo S" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2298" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" alt="Porsche Taycan Turbo S" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" alt="Porsche Taycan Turbo S" width="800px" height="612px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1_st.jpg" alt="Porsche Taycan Turbo S" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1_st.jpg" alt="Porsche Taycan Turbo S" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/rearlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/rearlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/rearlights_1_st.jpg" alt="Porsche Taycan Turbo S" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/rearlights_1_st.jpg" alt="Porsche Taycan Turbo S" width="800px" height="599px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/screens_1_st.jpg" alt="Porsche Taycan Turbo S" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/screens_1_st.jpg" alt="Porsche Taycan Turbo S" width="800px" height="600px" />
 </a>
 </div>
 <script type="module">

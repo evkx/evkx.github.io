@@ -13,35 +13,35 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4ma
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQB 300 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQB 300 4MATIC" width="800px" height="449px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQB 300 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQB 300 4MATIC" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/main_1_st.jpg" alt="Mercedes-EQ EQB 300 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/main_1_st.jpg" alt="Mercedes-EQ EQB 300 4MATIC" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQB 300 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQB 300 4MATIC" width="800px" height="449px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQB 300 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQB 300 4MATIC" width="800px" height="533px" />
 </a>
 </div>
 <script type="module">

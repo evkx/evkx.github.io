@@ -13,91 +13,91 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/chargin
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/charging_1_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/charging_1_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_1_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_1_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_2_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_2_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_3_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_3_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/headupdisplay_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/headupdisplay_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/headupdisplay_1_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/headupdisplay_1_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/interior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/interior_1_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/interior_1_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/screens_1_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/screens_1_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/secondrowseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/secondrowseats_1_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/secondrowseats_1_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_1_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_1_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_2_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_2_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_3_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_3_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/v2l_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/v2l_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/v2l_1_st.jpg" alt="Kia Niro EV" />
+<img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/v2l_1_st.jpg" alt="Kia Niro EV" width="800px" height="533px" />
 </a>
 </div>
 <script type="module">

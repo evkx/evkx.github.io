@@ -13,42 +13,42 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4mat
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/charging_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/charging_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1998" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/exterior_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/exterior_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" width="800px" height="532px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/frontseats_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/frontseats_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/main_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/main_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1695" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/screens_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/screens_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" width="800px" height="452px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/trunk_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/trunk_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" width="800px" height="533px" />
 </a>
 </div>
 <script type="module">

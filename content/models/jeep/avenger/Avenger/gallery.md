@@ -13,98 +13,98 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/bik
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/bikerack_1_st.jpg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/bikerack_1_st.jpg" alt="Jeep Avenger" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_1_st.jpg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_1_st.jpg" alt="Jeep Avenger" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_2.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_2.jpeg"
 data-pswp-width="1920"
 data-pswp-height="1280" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_2_st.jpeg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_2_st.jpeg" alt="Jeep Avenger" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_3.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_3.jpeg"
 data-pswp-width="1920"
 data-pswp-height="1280" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_3_st.jpeg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_3_st.jpeg" alt="Jeep Avenger" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_4.jpg"
 data-pswp-width="3000"
 data-pswp-height="1735" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_4_st.jpg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/exterior_4_st.jpg" alt="Jeep Avenger" width="800px" height="462px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/headlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1838" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/headlights_1_st.jpg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/headlights_1_st.jpg" alt="Jeep Avenger" width="800px" height="490px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/interior_1.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/interior_1.jpeg"
 data-pswp-width="1920"
 data-pswp-height="1443" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/interior_1_st.jpeg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/interior_1_st.jpeg" alt="Jeep Avenger" width="800px" height="601px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/interior_2.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/interior_2.jpeg"
 data-pswp-width="1920"
 data-pswp-height="1440" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/interior_2_st.jpeg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/interior_2_st.jpeg" alt="Jeep Avenger" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1_st.jpg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1_st.jpg" alt="Jeep Avenger" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2263" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/screens_1_st.jpg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/screens_1_st.jpg" alt="Jeep Avenger" width="800px" height="603px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/screens_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/screens_2_st.jpg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/screens_2_st.jpg" alt="Jeep Avenger" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_1_st.jpg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_1_st.jpg" alt="Jeep Avenger" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_2.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_2.jpeg"
 data-pswp-width="1920"
 data-pswp-height="1217" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_2_st.jpeg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_2_st.jpeg" alt="Jeep Avenger" width="800px" height="507px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_3_st.jpg" alt="Jeep Avenger" />
+<img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/trunk_3_st.jpg" alt="Jeep Avenger" width="800px" height="533px" />
 </a>
 </div>
 <script type="module">

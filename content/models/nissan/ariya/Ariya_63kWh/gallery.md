@@ -13,42 +13,42 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/exterior_1_st.jpg" alt="Nissan Ariya 63kWh" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/exterior_1_st.jpg" alt="Nissan Ariya 63kWh" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/exterior_2_st.jpg" alt="Nissan Ariya 63kWh" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/exterior_2_st.jpg" alt="Nissan Ariya 63kWh" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1889" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" alt="Nissan Ariya 63kWh" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" alt="Nissan Ariya 63kWh" width="800px" height="503px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/screens_1_st.jpg" alt="Nissan Ariya 63kWh" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/screens_1_st.jpg" alt="Nissan Ariya 63kWh" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/screens_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/screens_2_st.jpg" alt="Nissan Ariya 63kWh" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/screens_2_st.jpg" alt="Nissan Ariya 63kWh" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/trunk_1_st.jpg" alt="Nissan Ariya 63kWh" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/trunk_1_st.jpg" alt="Nissan Ariya 63kWh" width="800px" height="533px" />
 </a>
 </div>
 <script type="module">

@@ -13,42 +13,42 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_2_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_2_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1889" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" width="800px" height="503px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_2_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_2_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" width="800px" height="533px" />
 </a>
 </div>
 <script type="module">

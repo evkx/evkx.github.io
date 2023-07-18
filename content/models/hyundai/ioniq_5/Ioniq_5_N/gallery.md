@@ -13,63 +13,63 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_1_st.jpg" alt="Hyundai Ioniq 5 N" />
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_1_st.jpg" alt="Hyundai Ioniq 5 N" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_2_st.jpg" alt="Hyundai Ioniq 5 N" />
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_2_st.jpg" alt="Hyundai Ioniq 5 N" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="1871" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_3_st.jpg" alt="Hyundai Ioniq 5 N" />
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_3_st.jpg" alt="Hyundai Ioniq 5 N" width="800px" height="498px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/headlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/headlights_1_st.jpg" alt="Hyundai Ioniq 5 N" />
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/headlights_1_st.jpg" alt="Hyundai Ioniq 5 N" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" alt="Hyundai Ioniq 5 N" />
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" alt="Hyundai Ioniq 5 N" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/rearlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/rearlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/rearlights_1_st.jpg" alt="Hyundai Ioniq 5 N" />
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/rearlights_1_st.jpg" alt="Hyundai Ioniq 5 N" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1748" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/screens_1_st.jpg" alt="Hyundai Ioniq 5 N" />
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/screens_1_st.jpg" alt="Hyundai Ioniq 5 N" width="800px" height="466px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/trunk_1_st.jpg" alt="Hyundai Ioniq 5 N" />
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/trunk_1_st.jpg" alt="Hyundai Ioniq 5 N" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/wheels_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/wheels_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/wheels_1_st.jpg" alt="Hyundai Ioniq 5 N" />
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/wheels_1_st.jpg" alt="Hyundai Ioniq 5 N" width="800px" height="533px" />
 </a>
 </div>
 <script type="module">

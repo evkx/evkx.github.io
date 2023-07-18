@@ -13,42 +13,42 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sport
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/exterior_1_st.jpg" alt="Audi SQ8 Sportback e-tron" />
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/exterior_1_st.jpg" alt="Audi SQ8 Sportback e-tron" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/frontseats_1_st.jpg" alt="Audi SQ8 Sportback e-tron" />
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/frontseats_1_st.jpg" alt="Audi SQ8 Sportback e-tron" width="800px" height="599px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1_st.jpg" alt="Audi SQ8 Sportback e-tron" />
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1_st.jpg" alt="Audi SQ8 Sportback e-tron" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1_st.jpg" alt="Audi SQ8 Sportback e-tron" />
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1_st.jpg" alt="Audi SQ8 Sportback e-tron" width="800px" height="599px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/screens_1_st.jpg" alt="Audi SQ8 Sportback e-tron" />
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/screens_1_st.jpg" alt="Audi SQ8 Sportback e-tron" width="800px" height="599px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1_st.jpg" alt="Audi SQ8 Sportback e-tron" />
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1_st.jpg" alt="Audi SQ8 Sportback e-tron" width="800px" height="599px" />
 </a>
 </div>
 <script type="module">

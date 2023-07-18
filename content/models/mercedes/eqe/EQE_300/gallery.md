@@ -13,35 +13,35 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/cha
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/charging_1_st.jpg" alt="Mercedes-EQ EQE 300" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/charging_1_st.jpg" alt="Mercedes-EQ EQE 300" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/frontseats_1_st.jpg" alt="Mercedes-EQ EQE 300" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/frontseats_1_st.jpg" alt="Mercedes-EQ EQE 300" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1_st.jpg" alt="Mercedes-EQ EQE 300" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1_st.jpg" alt="Mercedes-EQ EQE 300" width="800px" height="449px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/screens_1_st.jpg" alt="Mercedes-EQ EQE 300" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/screens_1_st.jpg" alt="Mercedes-EQ EQE 300" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/trunk_1_st.jpg" alt="Mercedes-EQ EQE 300" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/trunk_1_st.jpg" alt="Mercedes-EQ EQE 300" width="800px" height="533px" />
 </a>
 </div>
 <script type="module">

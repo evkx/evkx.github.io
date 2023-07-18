@@ -13,77 +13,77 @@ data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/ext
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" alt="Toyota bZ4X AWD" />
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" alt="Toyota bZ4X AWD" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/exterior_2_st.jpg" alt="Toyota bZ4X AWD" />
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/exterior_2_st.jpg" alt="Toyota bZ4X AWD" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" alt="Toyota bZ4X AWD" />
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" alt="Toyota bZ4X AWD" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_1_st.jpg" alt="Toyota bZ4X AWD" />
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_1_st.jpg" alt="Toyota bZ4X AWD" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_2_st.jpg" alt="Toyota bZ4X AWD" />
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_2_st.jpg" alt="Toyota bZ4X AWD" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_3_st.jpg" alt="Toyota bZ4X AWD" />
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_3_st.jpg" alt="Toyota bZ4X AWD" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/secondrowseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" alt="Toyota bZ4X AWD" />
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" alt="Toyota bZ4X AWD" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" alt="Toyota bZ4X AWD" />
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" alt="Toyota bZ4X AWD" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_2_st.jpg" alt="Toyota bZ4X AWD" />
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_2_st.jpg" alt="Toyota bZ4X AWD" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_3_st.jpg" alt="Toyota bZ4X AWD" />
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_3_st.jpg" alt="Toyota bZ4X AWD" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_4.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_4_st.jpg" alt="Toyota bZ4X AWD" />
+<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_4_st.jpg" alt="Toyota bZ4X AWD" width="800px" height="533px" />
 </a>
 </div>
 <script type="module">

@@ -13,98 +13,98 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_
 data-pswp-width="2953"
 data-pswp-height="2215" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exteriore_3_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exteriore_3_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exterior_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exterior_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exterior_2_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exterior_2_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="449px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exterior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exterior_4.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exterior_4_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/exterior_4_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="449px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1675" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_2_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_2_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="446px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_3_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/frontseats_3_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="449px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/headlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1766" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/headlights_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/headlights_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="470px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/interior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/interior_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/interior_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/screens_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/screens_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/screens_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/screens_2_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/screens_2_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="599px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/secondrowseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/secondrowseats_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/secondrowseats_1_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/secondrowseats_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/secondrowseats_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/secondrowseats_2_st.jpg" alt="Polestar 2 Long Range Dual Motor" />
+<img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/secondrowseats_2_st.jpg" alt="Polestar 2 Long Range Dual Motor" width="800px" height="600px" />
 </a>
 </div>
 <script type="module">

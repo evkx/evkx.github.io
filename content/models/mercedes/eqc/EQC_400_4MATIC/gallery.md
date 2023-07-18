@@ -13,28 +13,28 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4ma
 data-pswp-width="3000"
 data-pswp-height="1931" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" width="800px" height="514px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1721" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" width="800px" height="458px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2170" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQC 400 4MATIC" width="800px" height="578px" />
 </a>
 </div>
 <script type="module">

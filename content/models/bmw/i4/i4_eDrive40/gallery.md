@@ -13,49 +13,49 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/charg
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/charging_1_st.jpg" alt="BMW i4 eDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/charging_1_st.jpg" alt="BMW i4 eDrive40" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2255" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_1_st.jpg" alt="BMW i4 eDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_1_st.jpg" alt="BMW i4 eDrive40" width="800px" height="601px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_2_st.jpg" alt="BMW i4 eDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_2_st.jpg" alt="BMW i4 eDrive40" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="2245" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_3_st.jpg" alt="BMW i4 eDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_3_st.jpg" alt="BMW i4 eDrive40" width="800px" height="598px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2121" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/frontseats_1_st.jpg" alt="BMW i4 eDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/frontseats_1_st.jpg" alt="BMW i4 eDrive40" width="800px" height="565px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg" alt="BMW i4 eDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg" alt="BMW i4 eDrive40" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2121" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/trunk_1_st.jpg" alt="BMW i4 eDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/trunk_1_st.jpg" alt="BMW i4 eDrive40" width="800px" height="565px" />
 </a>
 </div>
 <script type="module">

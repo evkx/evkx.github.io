@@ -13,91 +13,91 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_2_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_2_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_3_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_3_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_4.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_4_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_4_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_5.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_5.jpg"
 data-pswp-width="3000"
 data-pswp-height="1954" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_5_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_5_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="521px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/frontseats_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/frontseats_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="449px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/frunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/frunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/frunk_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/frunk_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/headlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/headlights_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/headlights_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/interior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1790" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/interior_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/interior_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="477px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/main_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/main_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1854" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/screens_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/screens_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="494px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/secondrowseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/secondrowseats_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/secondrowseats_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1449" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/trunk_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/trunk_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" width="800px" height="386px" />
 </a>
 </div>
 <script type="module">

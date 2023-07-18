@@ -13,63 +13,63 @@ data-pswp-src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" />
+<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1922" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_2_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" />
+<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_2_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" width="800px" height="512px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_3_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" />
+<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_3_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_4.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_4_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" />
+<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_4_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" />
+<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" />
+<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_2_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" />
+<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_2_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/trailer_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/trailer_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/trailer_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" />
+<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/trailer_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/trailer_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/trailer_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/trailer_2_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" />
+<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/trailer_2_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" width="800px" height="533px" />
 </a>
 </div>
 <script type="module">

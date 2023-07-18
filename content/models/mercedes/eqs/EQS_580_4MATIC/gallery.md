@@ -13,49 +13,49 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4ma
 data-pswp-width="3000"
 data-pswp-height="3000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/ambientlight_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/ambientlight_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" width="800px" height="800px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/charging_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/charging_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/charging_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/charging_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/main_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/main_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" width="800px" height="449px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/secondrowseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQS 580 4MATIC" width="800px" height="533px" />
 </a>
 </div>
 <script type="module">

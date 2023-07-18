@@ -13,63 +13,63 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/exter
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/exterior_1_st.jpg" alt="BMW iX xDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/exterior_1_st.jpg" alt="BMW iX xDrive40" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/frontseat_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/frontseat_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/frontseat_1_st.jpg" alt="BMW iX xDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/frontseat_1_st.jpg" alt="BMW iX xDrive40" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/frontseat_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/frontseat_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/frontseat_2_st.jpg" alt="BMW iX xDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/frontseat_2_st.jpg" alt="BMW iX xDrive40" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/interior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/interior_1_st.jpg" alt="BMW iX xDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/interior_1_st.jpg" alt="BMW iX xDrive40" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1998" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg" alt="BMW iX xDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg" alt="BMW iX xDrive40" width="800px" height="532px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/screens_1_st.jpg" alt="BMW iX xDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/screens_1_st.jpg" alt="BMW iX xDrive40" width="800px" height="600px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/secondrowseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/secondrowseats_1_st.jpg" alt="BMW iX xDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/secondrowseats_1_st.jpg" alt="BMW iX xDrive40" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/secondrowseats_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/secondrowseats_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/secondrowseats_2_st.jpg" alt="BMW iX xDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/secondrowseats_2_st.jpg" alt="BMW iX xDrive40" width="800px" height="533px" />
 </a>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1998" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/trunk_1_st.jpg" alt="BMW iX xDrive40" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/trunk_1_st.jpg" alt="BMW iX xDrive40" width="800px" height="532px" />
 </a>
 </div>
 <script type="module">
