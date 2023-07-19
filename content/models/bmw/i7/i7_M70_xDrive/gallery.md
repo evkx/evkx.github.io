@@ -7,91 +7,115 @@ hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-<div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_1_st.jpg" alt="BMW i7 M70 xDrive" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_1_xst.jpg" alt="BMW i7 M70 xDrive" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_2_st.jpg" alt="BMW i7 M70 xDrive" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_2_xst.jpg" alt="BMW i7 M70 xDrive" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_3_st.jpg" alt="BMW i7 M70 xDrive" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_3_xst.jpg" alt="BMW i7 M70 xDrive" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_4.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_4_st.jpg" alt="BMW i7 M70 xDrive" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_4_xst.jpg" alt="BMW i7 M70 xDrive" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_5.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_5.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_5_st.jpg" alt="BMW i7 M70 xDrive" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_5_xst.jpg" alt="BMW i7 M70 xDrive" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/frontseats_1_st.jpg" alt="BMW i7 M70 xDrive" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/frontseats_1_xst.jpg" alt="BMW i7 M70 xDrive" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/headlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/headlights_1_st.jpg" alt="BMW i7 M70 xDrive" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/headlights_1_xst.jpg" alt="BMW i7 M70 xDrive" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/interior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/interior_1_st.jpg" alt="BMW i7 M70 xDrive" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/interior_1_xst.jpg" alt="BMW i7 M70 xDrive" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1_st.jpg" alt="BMW i7 M70 xDrive" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1_xst.jpg" alt="BMW i7 M70 xDrive" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/rearlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/rearlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/rearlights_1_st.jpg" alt="BMW i7 M70 xDrive" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/rearlights_1_xst.jpg" alt="BMW i7 M70 xDrive" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1991" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/screens_1_st.jpg" alt="BMW i7 M70 xDrive" width="800px" height="530px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/screens_1_xst.jpg" alt="BMW i7 M70 xDrive" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/wheels_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/wheels_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/wheels_1_st.jpg" alt="BMW i7 M70 xDrive" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/wheels_1_xst.jpg" alt="BMW i7 M70 xDrive" width="200px" height="0px" />
 </a>
+</div>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';

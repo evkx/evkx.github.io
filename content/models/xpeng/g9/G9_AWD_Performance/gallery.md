@@ -7,147 +7,187 @@ hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-<div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1.jpg"
 data-pswp-width="1600"
 data-pswp-height="1040" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="520px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_2.jpg"
 data-pswp-width="1600"
 data-pswp-height="1251" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_2_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="625px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_2_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_2.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_2.jpeg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_2_st.jpeg" alt="XPENG G9 AWD Performance" width="800px" height="449px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_2_xst.jpeg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_3_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_3_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_4.jpg"
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_4_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_4_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_5.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_5.jpg"
 data-pswp-width="1600"
 data-pswp-height="1257" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_5_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="628px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_5_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_6.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_6.jpg"
 data-pswp-width="1600"
 data-pswp-height="1108" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_6_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="554px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_6_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_7.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_7.jpg"
 data-pswp-width="1600"
 data-pswp-height="1164" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_7_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="582px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_7_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_8.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_8.jpg"
 data-pswp-width="1600"
 data-pswp-height="1038" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_8_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="519px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_8_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_9.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_9.jpg"
 data-pswp-width="1600"
 data-pswp-height="1103" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_9_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="551px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_9_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1.jpeg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1_st.jpeg" alt="XPENG G9 AWD Performance" width="800px" height="600px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1_xst.jpeg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/interior_1.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/interior_1.jpeg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/interior_1_st.jpeg" alt="XPENG G9 AWD Performance" width="800px" height="600px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/interior_1_xst.jpeg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/rearlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/rearlights_1.jpg"
 data-pswp-width="1600"
 data-pswp-height="1200" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/rearlights_1_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="600px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/rearlights_1_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_2.jpg"
 data-pswp-width="1600"
 data-pswp-height="1272" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_2_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="636px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_2_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_3.jpg"
 data-pswp-width="1600"
 data-pswp-height="1140" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_3_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="570px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_3_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1.jpeg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1_st.jpeg" alt="XPENG G9 AWD Performance" width="800px" height="449px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1_xst.jpeg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1_st.jpg" alt="XPENG G9 AWD Performance" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1_xst.jpg" alt="XPENG G9 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';

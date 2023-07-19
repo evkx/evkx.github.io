@@ -7,42 +7,52 @@ hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-<div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_1_st.jpg" alt="XPENG P7 AWD Performance" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_1_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_2_st.jpg" alt="XPENG P7 AWD Performance" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_2_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_st.jpg" alt="XPENG P7 AWD Performance" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_1.jpg"
 data-pswp-width="2000"
 data-pswp-height="1334" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_1_st.jpg" alt="XPENG P7 AWD Performance" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_1_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_2_st.jpg" alt="XPENG P7 AWD Performance" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_2_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="0px" />
 </a>
+</div>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';

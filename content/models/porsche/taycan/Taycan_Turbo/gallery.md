@@ -7,70 +7,88 @@ hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-<div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_1_st.jpg" alt="Porsche Taycan Turbo" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_1_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_2_st.jpg" alt="Porsche Taycan Turbo" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_2_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_3_st.jpg" alt="Porsche Taycan Turbo" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_3_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_4.jpg"
 data-pswp-width="3000"
 data-pswp-height="2473" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_4_st.jpg" alt="Porsche Taycan Turbo" width="800px" height="659px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_4_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/lights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/lights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/lights_1_st.jpg" alt="Porsche Taycan Turbo" width="800px" height="449px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/lights_1_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1_st.jpg" alt="Porsche Taycan Turbo" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_1_st.jpg" alt="Porsche Taycan Turbo" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_1_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_2_st.jpg" alt="Porsche Taycan Turbo" width="800px" height="600px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_2_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/trunk_1_st.jpg" alt="Porsche Taycan Turbo" width="800px" height="600px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/trunk_1_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="0px" />
 </a>
+</div>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';

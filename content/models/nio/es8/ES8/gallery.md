@@ -7,98 +7,124 @@ hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-<div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_1_st.jpg" alt="Nio ES8" width="800px" height="449px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_1_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_2.jpg"
 data-pswp-width="2880"
 data-pswp-height="1624" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_2_st.jpg" alt="Nio ES8" width="800px" height="451px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_2_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_3_st.jpg" alt="Nio ES8" width="800px" height="449px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_3_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_4.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_4_st.jpg" alt="Nio ES8" width="800px" height="449px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_4_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_5.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_5.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_5_st.jpg" alt="Nio ES8" width="800px" height="449px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_5_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_1.jpg"
 data-pswp-width="2880"
 data-pswp-height="1784" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_1_st.jpg" alt="Nio ES8" width="800px" height="495px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_1_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_2.jpg"
 data-pswp-width="1440"
 data-pswp-height="886" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_2_st.jpg" alt="Nio ES8" width="800px" height="492px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_2_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/headlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/headlights_1_st.jpg" alt="Nio ES8" width="800px" height="449px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/headlights_1_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/interior_1.jpg"
 data-pswp-width="800"
 data-pswp-height="600" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/interior_1_st.jpg" alt="Nio ES8" width="800px" height="600px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/interior_1_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1.jpg"
 data-pswp-width="2880"
 data-pswp-height="1792" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg" alt="Nio ES8" width="800px" height="497px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1659" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_1_st.jpg" alt="Nio ES8" width="800px" height="442px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_1_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_2.jpg"
 data-pswp-width="2880"
 data-pswp-height="1620" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_2_st.jpg" alt="Nio ES8" width="800px" height="450px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_2_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/taillights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/es8/es8/taillights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/taillights_1_st.jpg" alt="Nio ES8" width="800px" height="449px" />
+<img src="https://media.evkx.net/multimedia/models/nio/es8/es8/taillights_1_xst.jpg" alt="Nio ES8" width="200px" height="0px" />
 </a>
+</div>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';

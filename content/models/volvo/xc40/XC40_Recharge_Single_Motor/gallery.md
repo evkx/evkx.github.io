@@ -7,70 +7,88 @@ hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-<div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/exterior_1.jpg"
 data-pswp-width="1920"
 data-pswp-height="1080" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/exterior_1_st.jpg" alt="Volvo XC40 Recharge Single Motor" width="800px" height="450px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/exterior_1_xst.jpg" alt="Volvo XC40 Recharge Single Motor" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/exterior_2.jpg"
 data-pswp-width="1920"
 data-pswp-height="1080" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/exterior_2_st.jpg" alt="Volvo XC40 Recharge Single Motor" width="800px" height="450px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/exterior_2_xst.jpg" alt="Volvo XC40 Recharge Single Motor" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/frontseats_1.jpg"
 data-pswp-width="1920"
 data-pswp-height="1080" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/frontseats_1_st.jpg" alt="Volvo XC40 Recharge Single Motor" width="800px" height="450px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/frontseats_1_xst.jpg" alt="Volvo XC40 Recharge Single Motor" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/frontseats_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/frontseats_2.jpg"
 data-pswp-width="1920"
 data-pswp-height="1080" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/frontseats_2_st.jpg" alt="Volvo XC40 Recharge Single Motor" width="800px" height="450px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/frontseats_2_xst.jpg" alt="Volvo XC40 Recharge Single Motor" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/headlights_1.jpg"
 data-pswp-width="1080"
 data-pswp-height="1080" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/headlights_1_st.jpg" alt="Volvo XC40 Recharge Single Motor" width="800px" height="800px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/headlights_1_xst.jpg" alt="Volvo XC40 Recharge Single Motor" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/main_1.jpg"
 data-pswp-width="1920"
 data-pswp-height="1080" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/main_1_st.jpg" alt="Volvo XC40 Recharge Single Motor" width="800px" height="450px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/main_1_xst.jpg" alt="Volvo XC40 Recharge Single Motor" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/screens_1_st.jpg" alt="Volvo XC40 Recharge Single Motor" width="800px" height="599px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/screens_1_xst.jpg" alt="Volvo XC40 Recharge Single Motor" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/screens_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/screens_2_st.jpg" alt="Volvo XC40 Recharge Single Motor" width="800px" height="600px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/screens_2_xst.jpg" alt="Volvo XC40 Recharge Single Motor" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/trunk_1_st.jpg" alt="Volvo XC40 Recharge Single Motor" width="800px" height="600px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/trunk_1_xst.jpg" alt="Volvo XC40 Recharge Single Motor" width="200px" height="0px" />
 </a>
+</div>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';

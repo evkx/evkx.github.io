@@ -7,70 +7,88 @@ hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-<div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/charging_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/charging_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/charging_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/charging_1_xst.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/frontseats_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/frontseats_1_xst.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/headlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1738" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/headlights_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="800px" height="463px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/headlights_1_xst.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2077" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/main_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="800px" height="553px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/main_1_xst.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/screens_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/screens_1_xst.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/secondrowseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/secondrowseats_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/secondrowseats_1_xst.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/taillights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/taillights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/taillights_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/taillights_1_xst.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/trunk_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/trunk_1_xst.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/wheels_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/wheels_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/wheels_1_st.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/wheels_1_xst.jpg" alt="Mercedes-AMG EQE 53 4MATIC+" width="200px" height="0px" />
 </a>
+</div>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';

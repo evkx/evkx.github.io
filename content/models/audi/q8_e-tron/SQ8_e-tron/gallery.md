@@ -7,28 +7,34 @@ hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-<div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/exterior_1.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/exterior_1.jpeg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" alt="Audi SQ8 e-tron" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/exterior_1_xst.jpeg" alt="Audi SQ8 e-tron" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/headlights_1.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/headlights_1.jpeg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/headlights_1_st.jpeg" alt="Audi SQ8 e-tron" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/headlights_1_xst.jpeg" alt="Audi SQ8 e-tron" width="200px" height="0px" />
 </a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1.jpeg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1_st.jpeg" alt="Audi SQ8 e-tron" width="800px" height="533px" />
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1_xst.jpeg" alt="Audi SQ8 e-tron" width="200px" height="0px" />
 </a>
+</div>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';
