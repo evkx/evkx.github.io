@@ -96,12 +96,6 @@ body.adocs-innhold .a-globalNav-main li a[href*='/innhold/'] {
     border-bottom: solid white 3px;
 }
 
-/* Jumbotron */
-
-.a-jumbotron-header {
-    background-size: 100%;
-}
-
 /* Scrollable tables */
 #body-inner table {
    /* display: block;*/
