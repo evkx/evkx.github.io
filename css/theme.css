@@ -1031,44 +1031,6 @@ td {
 #body #breadcrumbs span.adocs-breadcrumb-divider {
     padding: 0 6px;
 }
-.copy-to-clipboard {
-    background-image: url(../images/clippy.svg);
-    background-position: 50% 50%;
-    background-size: 16px 16px;
-    background-repeat: no-repeat;
-    width: 27px;
-    height: 1.45rem;
-    top: -1px;
-    display: inline-block;
-    vertical-align: middle;
-    position: relative;
-    color: #5e5e5e;
-    background-color: #FFF7DD;
-    margin-left: -.2rem;
-    cursor: pointer;
-    border-radius: 0 2px 2px 0;
-    margin-bottom: 1px;
-}
-.copy-to-clipboard:hover {
-    background-color: #E8E2CD;
-}
-pre .copy-to-clipboard {
-    position: absolute;
-    right: 4px;
-    top: 4px;
-    background-color: #4d5257;
-    color: #ccc;
-    border-radius: 2px;
-}
-pre .copy-to-clipboard:hover {
-    background-color: #656c72;
-    color: #fff;
-}
-.parent-element {
-    -webkit-transform-style: preserve-3d;
-    -moz-transform-style: preserve-3d;
-    transform-style: preserve-3d;
-}
 
 #sidebar ul li .read-icon {
     display: none;
