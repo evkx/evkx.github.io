@@ -6973,28 +6973,28 @@ h1 {
       -webkit-font-smoothing: subpixel-antialiased; } }
 
       .a-fontSizeXL, h2,
-      .a-h2, .a-tabs.a-tabs-lg .a-tab-btn, .a-blockquote p {
+      .a-h2, .a-tabs.a-tabs-lg .a-tab-btn {
         font-size: 11px;
         font-size: 1.12rem;
         line-height: 1.5;
         -webkit-font-smoothing: subpixel-antialiased; }
         @media (min-width: 768px) {
           .a-fontSizeXL, h2,
-          .a-h2, .a-tabs.a-tabs-lg .a-tab-btn, .a-blockquote p {
+          .a-h2, .a-tabs.a-tabs-lg .a-tab-btn, {
             font-size: 16px;
             font-size: 1.6rem;
             line-height: 1.5;
             -webkit-font-smoothing: subpixel-antialiased; } }
         @media (min-width: 992px) {
           .a-fontSizeXL, h2,
-          .a-h2, .a-tabs.a-tabs-lg .a-tab-btn, .a-blockquote p {
+          .a-h2, .a-tabs.a-tabs-lg .a-tab-btn, {
             font-size: 16px;
             font-size: 1.6rem;
             line-height: 1.5;
             -webkit-font-smoothing: subpixel-antialiased; } }
         @media (min-width: 1200px) {
           .a-fontSizeXL, h2,
-          .a-h2, .a-tabs.a-tabs-lg .a-tab-btn, .a-blockquote p {
+          .a-h2, .a-tabs.a-tabs-lg .a-tab-btn {
             font-size: 16px;
             font-size: 1.6rem;
             line-height: 1.4;
@@ -11428,41 +11428,6 @@ h1 + .a-byline {
   margin-top: -6px;
   margin-bottom: 12px; }
 
-
-.a-blockquote {
-  font-family: "DIN-reg";
-  font-weight: normal;
-  padding-left: 24px;
-  color: #000000;
-  text-align: left;
-  border-left: 6px solid #1EAEF7; }
-  @media (min-width: 768px) {
-    .a-blockquote {
-      border-left: none; } }
-  @media (min-width: 992px) {
-    .a-blockquote {
-      padding-left: 48px; } }
-  .a-blockquote .a-citation {
-    font-size: 14px;
-    font-size: 1.4rem;
-    line-height: 1.5;
-    -webkit-font-smoothing: subpixel-antialiased;
-    font-family: "DIN-bold";
-    font-weight: normal;
-    font-style: normal; }
-    @media (min-width: 992px) {
-      .a-blockquote .a-citation {
-        font-size: 16px;
-        font-size: 1.6rem;
-        line-height: 1.5;
-        -webkit-font-smoothing: subpixel-antialiased; } }
-  .a-blockquote.a-blockquote-right {
-    margin-top: 24px;
-    margin-bottom: 24px;
-    border-left: 6px solid #1EAEF7; }
-
-blockquote::before, blockquote::after {
-  content: ''; }
 
 /*-- ALTINN SPECIFIC --*/
 .a-bgWhite {
