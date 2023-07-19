@@ -1335,31 +1335,6 @@ ul.a-text.a-bullet-list:not(.connected-bullets):not(.no-decoration):not(.a-list)
     height: 32px;
 }
 
-
-/* cardImage */ 
-#body .a-cardImage img {
-    margin: auto;
-    width: 100px;
-    height: 100px;
-}
-.a-cardImage .a-cardImage-text {
-    text-align: center;
-    width: 100%;
-}
-
-@media (min-width: 576px) {
-    #body .a-cardImage img {
-        margin-right: 36px;
-    }
-    #body .a-cardImage {
-        flex-wrap: nowrap;
-    }
-    .a-cardImage .a-cardImage-text {
-        text-align: left;
-    }
-}
-
-
 /* Large ingress even if its placed inside a-text */
 .a-text .a-leadText {
     font-size: 1.3rem;
