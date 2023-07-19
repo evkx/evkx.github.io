@@ -13,10 +13,14 @@
     <link href="{{"css/nucleus.css" | relURL}}" rel="stylesheet">
     <link href="{{"css/font-awesome.min.css" | relURL}}" rel="stylesheet">
     <link href="{{"css/hybrid.css" | relURL}}" rel="stylesheet">
-    <link href="{{"css/horsey.css" | relURL}}" rel="stylesheet">
     <link href="{{"css/fortawesome.css" | relURL}}" rel="stylesheet">
     <link href="{{"css/evkx.css" | relURL}}" rel="stylesheet">
     <link href="{{"css/photoswipe.css" | relURL}}" rel="stylesheet">
+    {{with .Site.Params.themeStyle}}
+    <link href="{{(printf "css/%s.css" .) | relURL}}" rel="stylesheet">
+    {{else}}
+    <link href="{{"css/theme.css" | relURL}}" rel="stylesheet">
+    {{end}}
     {{with .Site.Params.themeVariant}}
       <link href="{{(printf "css/theme-%s.css" .) | relURL}}" rel="stylesheet">
     {{end}}
