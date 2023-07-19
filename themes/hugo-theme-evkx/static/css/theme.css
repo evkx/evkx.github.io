@@ -1288,13 +1288,6 @@ ul.a-text.a-bullet-list:not(.connected-bullets):not(.no-decoration):not(.a-list)
     color: #fff;
 }
 
-/* Collapsable search input */ 
-.a-form-group .input-group-append .btn, 
-.form-group .input-group-append .btn { 
-    border-radius: 0 !important;
-    box-shadow: none !important;
-}
-
 .a-collapseContent .a-collapseContent-inside {
     padding-bottom: 0;
 }
@@ -1343,12 +1336,6 @@ ul.a-text.a-bullet-list:not(.connected-bullets):not(.no-decoration):not(.a-list)
     .a-text .a-leadText {
         font-size: 1.25rem; 
     }
-}
-
-/* Search */
-
-.a-form-group .input-group-append, .form-group .input-group-append {
-    position: relative;
 }
 
 /* Footer */
