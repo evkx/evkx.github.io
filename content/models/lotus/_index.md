@@ -9,7 +9,7 @@ Instead, Lotus will focus on developing a range of electric vehicles, including 
 
 ## Lotus Eletre
 
-[![Eletre](https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg)](eletre)
+<a href="eletre"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" width="800" height="449" alt="Lotus Eletre" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](eletre/)

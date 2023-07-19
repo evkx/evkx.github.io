@@ -9,14 +9,14 @@ Hyundai has currently 2 model with total 5 variants in the market.
 
 ## Hyundai Ioniq 5
 
-[![Ioniq 5](https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_st.jpg)](ioniq_5)
+<a href="ioniq_5"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_st.jpg" width="800" height="533" alt="Hyundai Ioniq 5" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](ioniq_5/)
 
 ## Hyundai Ioniq 6
 
-[![Ioniq 6](https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg)](ioniq_6)
+<a href="ioniq_6"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" width="800" height="533" alt="Hyundai Ioniq 6" ></a>
 
 This model is available in 2 variant(s). 
 [Read full details](ioniq_6/)

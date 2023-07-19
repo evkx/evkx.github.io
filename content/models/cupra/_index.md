@@ -9,14 +9,14 @@ Cupra has a strong focus on electrification and performance. It aims to combine 
 
 ## CUPRA BORN
 
-[![BORN](https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg)](born)
+<a href="born"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" width="800" height="533" alt="CUPRA BORN" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](born/)
 
 ## CUPRA Tavascan
 
-[![Tavascan](https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG)](tavascan)
+<a href="tavascan"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" width="800" height="446" alt="CUPRA Tavascan" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](tavascan/)

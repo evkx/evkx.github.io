@@ -9,7 +9,7 @@ Lucid has currently 1 all electric models with total 3 variants in the market. B
 
 ## Lucid Air
 
-[![Air](https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg)](air)
+<a href="air"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg" width="800" height="533" alt="Lucid Air" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](air/)

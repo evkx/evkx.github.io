@@ -9,49 +9,49 @@ From 2025 onwards, all newly launched vehicle architectures will be electric-onl
 
 ## Mercedes EQA
 
-[![EQA](https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_st.jpg)](eqa)
+<a href="eqa"><img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_st.jpg" width="800" height="533" alt="Mercedes EQA" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](eqa/)
 
 ## Mercedes EQB
 
-[![EQB](https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_st.jpg)](eqb)
+<a href="eqb"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_st.jpg" width="800" height="533" alt="Mercedes EQB" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](eqb/)
 
 ## Mercedes EQC
 
-[![EQC](https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg)](eqc)
+<a href="eqc"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" width="800" height="533" alt="Mercedes EQC" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](eqc/)
 
 ## Mercedes EQE
 
-[![EQE](https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1_st.jpg)](eqe)
+<a href="eqe"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1_st.jpg" width="800" height="449" alt="Mercedes EQE" ></a>
 
 This model is available in 6 variant(s). 
 [Read full details](eqe/)
 
 ## Mercedes EQE SUV
 
-[![EQE SUV](https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg)](eqe_suv)
+<a href="eqe_suv"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" width="800" height="533" alt="Mercedes EQE SUV" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](eqe_suv/)
 
 ## Mercedes EQS
 
-[![EQS](https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg)](eqs)
+<a href="eqs"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" width="800" height="449" alt="Mercedes EQS" ></a>
 
 This model is available in 5 variant(s). 
 [Read full details](eqs/)
 
 ## Mercedes EQS SUV
 
-[![EQS SUV](https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450plus_suv/main_1_st.jpg)](eqs_suv)
+<a href="eqs_suv"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450plus_suv/main_1_st.jpg" width="800" height="533" alt="Mercedes EQS SUV" ></a>
 
 This model is available in 4 variant(s). 
 [Read full details](eqs_suv/)

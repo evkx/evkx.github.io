@@ -9,7 +9,7 @@ GMC is also committed to an all-electric future as part of GM's vision to create
 
 ## GMC Hummer EV
 
-[![Hummer EV](https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_pickup/main_1_st.jpg)](hummer_ev)
+<a href="hummer_ev"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_pickup/main_1_st.jpg" width="800" height="533" alt="GMC Hummer EV" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](hummer_ev/)

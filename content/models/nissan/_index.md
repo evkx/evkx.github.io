@@ -9,7 +9,7 @@ weight: 30
 
 ## Nissan Ariya
 
-[![Ariya](https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg)](ariya)
+<a href="ariya"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" width="800" height="503" alt="Nissan Ariya" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](ariya/)

@@ -9,21 +9,21 @@ In recent years, Volvo has focused on developing electric vehicles (EVs) as part
 
 ## Volvo EX30
 
-[![EX30](https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg)](ex30)
+<a href="ex30"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" width="800" height="600" alt="Volvo EX30" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](ex30/)
 
 ## Volvo EX90
 
-[![EX90](https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg)](ex90)
+<a href="ex90"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" width="800" height="533" alt="Volvo EX90" ></a>
 
 This model is available in 2 variant(s). 
 [Read full details](ex90/)
 
 ## Volvo XC40
 
-[![XC40](https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg)](xc40)
+<a href="xc40"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" width="800" height="450" alt="Volvo XC40" ></a>
 
 This model is available in 2 variant(s). 
 [Read full details](xc40/)
