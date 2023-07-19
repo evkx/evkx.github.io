@@ -17,11 +17,6 @@
         <link href="{{"css/evkx.css" | relURL}}" rel="stylesheet">
         <link rel="preconnect" href='https://rsms.me/'>
         <link rel="stylesheet" href='https://rsms.me/inter/inter.css'>
-        {{with .Site.Params.themeStyle}}
-        <link href="{{(printf "css/%s.css" .) | relURL}}" rel="stylesheet">
-        {{else}}
-        <link href="{{"css/theme.css" | relURL}}" rel="stylesheet">
-        {{end}}
         {{with .Site.Params.themeVariant}}
           <link href="{{(printf "css/theme-%s.css" .) | relURL}}" rel="stylesheet">
         {{end}}
