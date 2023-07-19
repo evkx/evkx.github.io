@@ -5,7 +5,6 @@ This repository contains a theme for [Hugo](https://gohugo.io/), based on great 
 
 # Main features
 - Sticky sidebar inside resizable grid
-- Jumbotron on firstpage
 - EVKX design
 - Blue and gray theme variations
 - Clickable figures with caption using standard markdown image syntax

@@ -47,10 +47,6 @@ crossorigin="anonymous"></script>
   <body class="a-page" data-url="{{ .RelPermalink }}">
     {{ partial "topbar.html" . }}
 
-    {{ if and (.IsHome) (.Params.jumbotron) }}
-      {{ partial "jumbotron.html" . }}
-    {{end}}
-
     <div align="center">
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
           crossorigin="anonymous"></script>
