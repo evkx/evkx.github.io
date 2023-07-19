@@ -9331,7 +9331,7 @@ button.a-btn-delete {
           -webkit-font-smoothing: subpixel-antialiased; } }
     .a-iconText .a-iconText-text h1 {
       margin-bottom: 0; }
-    .a-iconText .a-iconText-text h1 + .a-byline {
+    .a-iconText .a-iconText-text h1 + {
       margin-top: 0;
       margin-bottom: 0; }
     .a-iconText .a-iconText-text .a-iconText-text-small + .a-iconText-text-large {
@@ -11374,60 +11374,6 @@ ol {
     .a-box.a-article-list-dates .a-box-heading,
     .a-box.a-article-list-dates .a-box-footer {
       margin-left: 96px; } }
-
-.a-article-teaser {
-  width: 100%;
-  margin-bottom: 12px; }
-  .a-article-teaser a {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex; }
-    .a-article-teaser a :hover .a-date,
-    .a-article-teaser a :focus .a-date {
-      background: #0062BA; }
-
-.a-article-teaser-text {
-  float: left;
-  width: calc( 100% - 60px);
-  padding-left: 36px; }
-  @media (min-width: 768px) {
-    .a-article-teaser-text {
-      margin-top: -2px; } }
-  @media (min-width: 992px) {
-    .a-article-teaser-text {
-      margin-top: -5px; } }
-  @media (min-width: 1200px) {
-    .a-article-teaser-text {
-      margin-top: -8px; } }
-  .a-article-teaser-text h2 {
-    font-size: 20px;
-    font-size: 2rem;
-    line-height: 1.5;
-    -webkit-font-smoothing: subpixel-antialiased;
-    font-family: "DIN-bold";
-    font-weight: normal;
-    margin-top: 0;
-    margin-bottom: 0; }
-
-.a-byline {
-  font-size: 14px;
-  font-size: 1.4rem;
-  line-height: 1.5;
-  -webkit-font-smoothing: subpixel-antialiased;
-  font-family: "DIN-medium";
-  font-weight: normal; }
-  .a-byline a {
-    font-size: 14px;
-    font-size: 1.4rem;
-    line-height: 1.5;
-    -webkit-font-smoothing: subpixel-antialiased;
-    font-family: "DIN-medium";
-    font-weight: normal; }
-
-h1 + .a-byline {
-  margin-top: -6px;
-  margin-bottom: 12px; }
-
 
 /*-- ALTINN SPECIFIC --*/
 .a-bgWhite {
