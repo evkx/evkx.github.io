@@ -37,9 +37,9 @@ Side windows can be either fixed or movable. Fixed side windows are permanently 
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/windows/sidewindows_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/sidewindows_1.jpg" alt="Volkswagen ID.Buzz side windows" title="Volkswagen ID.Buzz side windows">
+        <img src="https://media.evkx.net/multimedia/technology/windows/sidewindows_1_st.jpg" alt="Volkswagen ID.Buzz with both fixed and movable side windows" title="Volkswagen ID.Buzz with both fixed and movable side windows">
     </a>
-    <figcaption><h4>Volkswagen ID.Buzz side windows</h4></figcaption>
+    <figcaption><h4>Volkswagen ID.Buzz with both fixed and movable side windows</h4></figcaption>
 </figur>
 
 
@@ -83,5 +83,19 @@ Unlike the conventional single-layer safety glass used for the sides and rear, t
 Privacy glass on cars is a type of glass that has been darkened at the factory by the car manufacturer. It is also known as factory tint. It is different from window tint, which is a film that is applied to the glass after it is manufactured. Privacy glass is usually used for the rear and side windows of the car, while the front windows and windshield have clear glass.
 
 The main benefit of privacy glass is to provide more privacy for the passengers and the items inside the car. It can also help to reduce glare, deter crime, and keep the car cooler by blocking some of the sun's rays. However, privacy glass does not have high heat rejection or UV protection properties, unlike some window films. Privacy glass also cannot be removed, unless the glass itself is replaced.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/windows/privacyglass_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/windows/privacyglass_1_st.jpg" alt="BMW i7 with privacy glass" title="BMW i7 with privacy glass">
+    </a>
+    <figcaption><h4>BMW i7 with privacy glass</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/windows/privacyglass_2.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/windows/privacyglass_2_st.jpg" alt="Porsche Taycan Sport Turismo with privacy glass" title="Porsche Taycan Sport Turismo with privacy glass">
+    </a>
+    <figcaption><h4>Porsche Taycan Sport Turismo with privacy glass</h4></figcaption>
+</figur>
 
 
