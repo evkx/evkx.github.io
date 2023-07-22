@@ -22,23 +22,26 @@ Most EVs have two wipers but large evs like Hummer EV have three.
 The speed of the wipers can be adjusted, and some vehicles also have a windscreen washer system that sprays water or antifreeze fluid to help clean the glass. 
 
 
+### Heating
 
 
 
-The windshield may have some additional features, such as:
+### 
 
-- Heating coils or wires embedded in the glass to defrost or defog the windshield in cold or humid conditions.
-- Antennae for radio, GPS or other communication systems integrated into the glass.
-- Tinting or coating to reduce glare, heat or UV rays from the sun.
-- Sensors or cameras for advanced driver assistance systems (ADAS) such as lane departure warning, adaptive cruise control or automatic braking.
-
-The windshield is one of the most important safety components of a car, as it contributes to the structural integrity and stability of the vehicle. According to Wikipedia, the windshield absorbs 45% of the impact force in a head-on collision and 60% of the impact force in a rollover accident. The windshield also supports the deployment of airbags and prevents the occupants from being ejected from the car in case of a crash.
 
 ## Side Windows
 
 Side windows are the windows on each side of the car, usually located on the doors. They are made of tempered glass, which is a type of glass that is heated and cooled rapidly to increase its strength and resistance to thermal shock. Tempered glass breaks into small, rounded pieces when shattered, which reduces the risk of injury to the occupants.
 
-Side windows can be either fixed or movable. Fixed side windows are permanently attached to the car frame and cannot be opened or closed. Movable side windows can be raised or lowered by using a button, a switch or a hand crank. Movable side windows allow for ventilation, communication and access to the outside of the car.
+Side windows can be either fixed or movable. Fixed side windows are permanently attached to the car frame and cannot be opened or closed. Movable side windows can be raised or lowered by using a button, a switch or a hand crank. 
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/windows/sidewindows_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/windows/sidewindows_1.jpg" alt="Volkswagen ID.Buzz side windows" title="Volkswagen ID.Buzz side windows">
+    </a>
+    <figcaption><h4>Volkswagen ID.Buzz side windows</h4></figcaption>
+</figur>
+
 
 Some side windows may have some additional features, such as:
 
