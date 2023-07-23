@@ -12,6 +12,13 @@ Windows in cars can be classified into different types according to their locati
 
 The windshield is the front window of the car that covers the entire width of the vehicle. It is made of laminated glass, which consists of two layers of glass bonded together by a plastic interlayer. This type of glass is designed to withstand high impact and prevent shattering into sharp pieces in case of a collision. The windshield also protects the occupants from wind, rain, dust, insects and other debris that may fly into the car.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/windows/windshield_1.jpeg">
+        <img src="https://media.evkx.net/multimedia/technology/windows/windshield_1_st.jpeg" alt="Jeep Avenger windshield" title="Jeep Avenger windshield">
+    </a>
+    <figcaption><h4>Jeep Avenger windshield</h4></figcaption>
+</figur>
+
 
 ### Wipers
 
@@ -52,7 +59,17 @@ Some side windows may have some additional features, such as:
 
 ## Rear Window
 
-The rear window is the window at the back of the car that covers most of the width of the vehicle. It is made of tempered glass, similar to side windows. The rear window provides visibility to the rear of the car and allows for rearward illumination by brake lights and reverse lights.
+The rear window is the window at the back of the car that covers most of the width of the vehicle. It is made of tempered glass, similar to side windows. The rear window provides visibility to the rear of the car.
+
+It is not required to have a rear window. Several models does not have a rear window, and some have replaced it with a camera. 
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/windows/sidewindows_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/windows/sidewindows_1_st.jpg" alt="Volkswagen ID.Buzz with both fixed and movable side windows" title="Volkswagen ID.Buzz with both fixed and movable side windows">
+    </a>
+    <figcaption><h4>Volkswagen ID.Buzz with both fixed and movable side windows</h4></figcaption>
+</figur>
+
 
 The rear window may have some additional features, such as:
 
@@ -63,6 +80,8 @@ The rear window may have some additional features, such as:
 
 The rear window is also an important safety component of a car,
 as it helps the driver to see the traffic and obstacles behind the car and avoid collisions. The rear window also prevents the occupants from being ejected from the car in case of a crash.
+
+
 
 
 ## Glass types
