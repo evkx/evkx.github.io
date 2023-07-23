@@ -26,6 +26,14 @@ Windshield wipers are devices that remove rain, snow, ice, washer fluid, water, 
 
 Most EVs have two wipers but large evs like Hummer EV have three. 
 
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/windows/wipers_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/windows/wipers_1_st.jpg" alt="Hummer EV with 3 wiper blades" title="Hummer EV with 3 wiper blades">
+    </a>
+    <figcaption><h4>Hummer EV with 3 wiper blades</h4></figcaption>
+</figur>
+
 The speed of the wipers can be adjusted, and some vehicles also have a windscreen washer system that sprays water or antifreeze fluid to help clean the glass. 
 
 
@@ -33,7 +41,9 @@ The speed of the wipers can be adjusted, and some vehicles also have a windscree
 
 
 
-### 
+### Cameras
+
+Todays moderns Evs have often camea installed in the windhsield.
 
 
 ## Side Windows
