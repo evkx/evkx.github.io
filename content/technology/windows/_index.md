@@ -71,25 +71,26 @@ Some side windows may have some additional features, such as:
 
 The rear window is the window at the back of the car that covers most of the width of the vehicle. It is made of tempered glass, similar to side windows. The rear window provides visibility to the rear of the car.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/windows/rearwindows_1.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/windows/rearwindows_1_st.jpg" alt="Polestar 2 rear windows" title="Polestar 2 rear windows">
+    </a>
+    <figcaption><h4>Polestar 2 rear windows</h4></figcaption>
+</figur>
+
 It is not required to have a rear window. Several models does not have a rear window, and some have replaced it with a camera. 
 
 <figur>
-    <a href="https://media.evkx.net/multimedia/technology/windows/sidewindows_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/sidewindows_1_st.jpg" alt="Volkswagen ID.Buzz with both fixed and movable side windows" title="Volkswagen ID.Buzz with both fixed and movable side windows">
+    <a href="https://media.evkx.net/multimedia/technology/windows/rearwindows_2.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/windows/rearwindows_1_st.jpg" alt="Polestar 4 without rear window" title="Polestar 4 without rear window">
     </a>
-    <figcaption><h4>Volkswagen ID.Buzz with both fixed and movable side windows</h4></figcaption>
+    <figcaption><h4>Polestar 4 without rear window</h4></figcaption>
 </figur>
 
 
-The rear window may have some additional features, such as:
+### Wiper
 
-- Heating coils or wires embedded in the glass to defrost or defog the rear window in cold or humid conditions.
-- Antennae for radio, GPS or other communication systems integrated into the glass.
-- Tinting or coating to reduce glare, heat or UV rays from the sun.
-- Wiper blades or washers to clean the rear window from dirt or moisture.
-
-The rear window is also an important safety component of a car,
-as it helps the driver to see the traffic and obstacles behind the car and avoid collisions. The rear window also prevents the occupants from being ejected from the car in case of a crash.
+Some Evs have a wiper on the rear window. It typical include a washer. 
 
 
 
