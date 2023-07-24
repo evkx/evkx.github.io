@@ -82,7 +82,7 @@ It is not required to have a rear window. Several models does not have a rear wi
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/windows/rearwindows_2.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/rearwindows_1_st.jpg" alt="Polestar 4 without rear window" title="Polestar 4 without rear window">
+        <img src="https://media.evkx.net/multimedia/technology/windows/rearwindows_2_st.jpg" alt="Polestar 4 without rear window" title="Polestar 4 without rear window">
     </a>
     <figcaption><h4>Polestar 4 without rear window</h4></figcaption>
 </figur>
