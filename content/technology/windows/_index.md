@@ -38,6 +38,8 @@ The speed of the wipers can be adjusted, and most vehicles also have a windscree
 
 Typical the wipers are controlled by a stalks, but some is only controlled by screen input.
 
+Many Evs have rain sensors that detect the amount of moisture on the windshield. 
+
 ### Heating
 
 Some models offers a heated windshield as standard or as an option. 
