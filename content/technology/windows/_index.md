@@ -34,17 +34,26 @@ Most EVs have two wipers but large evs like Hummer EV have three.
     <figcaption><h4>Hummer EV with 3 wiper blades</h4></figcaption>
 </figur>
 
-The speed of the wipers can be adjusted, and some vehicles also have a windscreen washer system that sprays water or antifreeze fluid to help clean the glass. 
+The speed of the wipers can be adjusted, and most vehicles also have a windscreen washer system that sprays water or antifreeze fluid to help clean the glass.
 
+Typical the wipers are controlled by a stalks, but some is only controlled by screen input.
 
 ### Heating
 
-
+Some models offers a heated windshield as standard or as an option. 
 
 ### Cameras
 
-Todays moderns Evs have often camea installed in the windhsield.
+Todays moderns Evs have often on or more cameraes installed in the windhsield. 
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/sensorsandcameras/cameras/eqsfrontcameras.jpg">
+        <img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/cameras/eqsfrontcameras_st.jpg" alt="Mercedes EQS Stereo Vision cameras" title="Mercedes EQS Stereo Vision cameras">
+    </a>
+    <figcaption><h4>Mercedes EQS Stereo Vision cameras</h4></figcaption>
+</figur>
+
+This cameras requires carfully adjustments if windshield is replaced. 
 
 ## Side Windows
 
