@@ -1,16 +1,16 @@
 ---
 title: Windows
 linktitle: Windows
-description: Windows are essential parts of any car, as they provide visibility, ventilation, protection and comfort to the driver and passengers. 
+description: Windows are essential parts of any car, providing visibility, ventilation, protection, and comfort to the driver and passengers.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-Windows in cars can be classified into different types according to their location, function and design. In this article, we will explore the main types of windows in cars, their features and benefits, and some tips on how to maintain them.
+Car windows is classified into different types according to location, function, and design. This article will explore the main types of car windows and their feature.
 
 ## Windshield
 
-The windshield is the front window of the car that covers the entire width of the vehicle. It is made of laminated glass, which consists of two layers of glass bonded together by a plastic interlayer. This type of glass is designed to withstand high impact and prevent shattering into sharp pieces in case of a collision. The windshield also protects the occupants from wind, rain, dust, insects and other debris that may fly into the car.
+The windshield is the car's front window that covers the entire vehicle width. It is made of laminated glass, which consists of two layers of glass bonded together by a plastic interlayer. This type of glass is designed to withstand high impact and prevent shattering into sharp pieces in case of a collision. The windshield protects the occupants from wind, rain, dust, insects, and other debris that may fly into the car.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/windows/windshield_1.jpeg">
@@ -22,9 +22,10 @@ The windshield is the front window of the car that covers the entire width of th
 
 ### Wipers
 
-Windshield wipers are devices that remove rain, snow, ice, washer fluid, water, or debris from a vehicle's front window. They are powered by an electric motor and have a metal arm with a rubber blade attached to it. The blade swings back and forth over the glass, pushing away anything that might obstruct the driver's vision. 
+Windshield wipers remove rain, snow, ice, washer fluid, water, or debris from a vehicle's front window. An electric motor powers them and has a metal arm with a rubber blade attached to it. The blade swings back and forth over the glass, pushing away anything that might obstruct the driver's vision.
 
-Most EVs have two wipers but large evs like Hummer EV have three. 
+
+Most EVs have two wipers, but large evs like Hummer EVs have three.
 
 
 <figur>
