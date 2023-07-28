@@ -30,9 +30,9 @@ Most EVs have two wipers, but large evs like Hummer EVs have three.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/windows/wipers_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/wipers_1_st.jpg" alt="Hummer EV with 3 wiper blades" title="Hummer EV with 3 wiper blades">
+        <img src="https://media.evkx.net/multimedia/technology/windows/wipers_1_st.jpg" alt="Hummer EV with three wiper blades" title="Hummer EV with three wiper blades">
     </a>
-    <figcaption><h4>Hummer EV with 3 wiper blades</h4></figcaption>
+    <figcaption><h4>Hummer EV with three wiper blades</h4></figcaption>
 </figur>
 
 The speed of the wipers can be adjusted, and most vehicles also have a windscreen washer system that sprays water or antifreeze fluid to help clean the glass.
@@ -122,9 +122,11 @@ Unlike the conventional single-layer safety glass used for the sides and rear, t
 
 ### Privacy glass
 
-Privacy glass on cars is a type of glass that has been darkened at the factory by the car manufacturer. It is also known as factory tint. It is different from window tint, which is a film that is applied to the glass after it is manufactured. Privacy glass is usually used for the rear and side windows of the car, while the front windows and windshield have clear glass.
+Privacy glass on cars is a type of glass that has been darkened at the factory by the car manufacturer. It is also known as factory tint. It is different from window tint, a film applied to the glass after it is manufactured. Privacy glass is usually used for the rear and side windows of the car, while the front windows and windshield have clear glass.
 
-The main benefit of privacy glass is to provide more privacy for the passengers and the items inside the car. It can also help to reduce glare, deter crime, and keep the car cooler by blocking some of the sun's rays. However, privacy glass does not have high heat rejection or UV protection properties, unlike some window films. Privacy glass also cannot be removed, unless the glass itself is replaced.
+The main benefit of privacy glass is to provide more privacy for the passengers and the items inside the car. It can also help reduce glare, deter crime, and keep the car cooler by blocking the sun’s rays. However, unlike some window films, privacy glass does not have high heat rejection or UV protection properties. Privacy glass also cannot be removed unless the glass itself is replaced.
+
+In addition most EVS looks better with privacy glass. 
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/windows/privacyglass_1.jpg">

@@ -1,7 +1,7 @@
 ---
 title: Lights
 linktitle: Lights
-description: Electric vehicles (EVs) are quickly becoming the norm on our roads. As with any vehicle, lighting is a critical component of EVs. 
+description:  As with any vehicle, lighting is a critical component of EVs. In this article we explains all light technology used in EVs.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
@@ -15,7 +15,9 @@ weight: 2
     <figcaption><h4>Audi SQ8 headlights</h4></figcaption>
 </figur>
 
-As the sun sets and darkness engulfs the landscape, automotive headlights become a beacon of safety, guiding drivers on their journey. Over the years, headlights have evolved from simple oil lamps to sophisticated systems that utilize advanced technologies to provide enhanced visibility and reduce the risk of accidents. However, with the plethora of options available in the market, choosing the right type of headlights can be overwhelming. In this extensive article, we will delve into the world of automotive headlights, exploring their history, functionality, types, and the latest advancements. Join us on this illuminating journey as we shed light on the critical role that headlights play in modern-day driving and how they continue to shape the future of automotive safety.
+As the sun sets and darkness engulfs the landscape, automotive headlights become a beacon of safety, guiding drivers on their journey. Over the years, headlights have evolved from simple oil lamps to sophisticated systems that utilize advanced technologies to provide enhanced visibility and reduce the risk of accidents.
+
+In this extensive article, we will delve into the world of automotive headlights, functionality, types, and the latest advancements. 
 
 [Learn about headlights](headlights)
 
