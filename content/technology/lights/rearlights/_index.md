@@ -35,8 +35,7 @@ In terms of versatility, LEDs offer automotive designers greater flexibility in 
 
 With the advent of LED technology, rear lights have evolved beyond their traditional role of simply emitting light to indicate the presence of a vehicle. Advanced features have been incorporated into rear lights to enhance safety and convenience for both the driver and other road users.
 
-One such feature is the use of dynamic or animated rear lights, also known as sequential turn signals. These rear lights use a series of LEDs that light up sequentially to indicate the direction in which the vehicle is turning. For example, when the driver activates the right turn signal, the LEDs on the right side of the rear light assembly light up sequentially from the inside to the outside, creating a dynamic and eye-catching effect that is more noticeable to 
-other drivers. This sequential turn signal not only enhances the visibility of the vehicle's intended direction but also adds a modern and futuristic look to the rear lights.
+One such feature is the use of dynamic or animated rear lights, also known as sequential turn signals. These rear lights use a series of LEDs that light up sequentially to indicate the direction in which the vehicle is turning. For example, when the driver activates the right turn signal, the LEDs on the right side of the rear light assembly light up sequentially from the inside to the outside, creating a dynamic and eye-catching effect that is more noticeable to other drivers. This sequential turn signal not only enhances the visibility of the vehicle's intended direction but also adds a modern and futuristic look to the rear lights.
 
 Another advanced feature is the use of adaptive rear lighting. This technology adjusts the intensity and direction of the rear lights based on various factors such as the vehicle's speed, weather conditions, and road curvature. For example, during low visibility conditions such as fog or heavy rain, the adaptive rear lights may increase in intensity to improve visibility for other drivers behind the vehicle. Similarly, during high-speed driving or when navigating a curved road, the adaptive rear lights may adjust their direction to provide better illumination around the bend, improving safety and reducing the risk of accidents.
 
@@ -52,12 +51,22 @@ Another design innovation is the use of smoked or tinted lenses for rear lights.
 
 Furthermore, rear lights are now being integrated into other parts of the vehicle's body, such as the rear bumper, diffuser, or even the body panels themselves. This seamless integration of rear lights into the vehicle's overall design creates a cohesive and harmonious look, enhancing the vehicle's aesthetic appeal and making it visually distinct on the road.
 
-## Conclusion: The Future of Rear Lights
+## Communicting with lights 
 
-Rear lights on cars have come a long way from simple incandescent bulbs to advanced LED technology with innovative designs and features. The efficiency, durability, versatility, and safety enhancements of LED rear lights have revolutionized the automotive lighting industry, providing improved visibility, energy efficiency, and safety on the road. Moreover, the integration of rear lights as a design element has opened up new avenues for creative expression in automotive design.
+Future rear lights may incorporate even more advanced features such as communication capabilities, where the rear lights can send signals or messages to other vehicles or pedestrians. We may also see the use of organic LEDs (OLEDs) that can be flexible and seamlessly integrated into curved surfaces, allowing for even more creative and futuristic rear light designs.
 
-As technology continues to advance, we can expect further innovations in rear light design and functionality. Future rear lights may incorporate even more advanced features such as communication capabilities, where the rear lights can send signals or messages to other vehicles or pedestrians. We may also see the use of organic LEDs (OLEDs) that can be flexible and seamlessly integrated into curved surfaces, allowing for even more creative and futuristic rear light designs.
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/rearlights/hiphixrearlights.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/rearlights/hiphixrearlights_st.jpg" alt="HiPhi X can show graphics in their segmented rear lights" title="HiPhi X can show graphics in their segmented rear lights">
+    </a>
+    <figcaption><h4>HiPhi X can show graphics in their segmented rear lights</h4></figcaption>
+</figur>
 
-In conclusion, rear lights on cars have evolved from simple functional components to sophisticated safety features and design elements. With advancements in technology and design, rear lights continue to play a vital role in enhancing safety, efficiency, and aesthetics in modern vehicles, paving the way for a brighter and more stylish future on the road.
+
+## Examples
+
+
+{{< youtube OMx8x8J6Pro >}}
+
 
 [Continue to ambient lighting](../ambientlighting/)
