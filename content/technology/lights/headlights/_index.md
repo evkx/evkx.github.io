@@ -127,8 +127,6 @@ Adaptive headlights, also known as dynamic or swiveling headlights, are designed
 
 There are different types of adaptive headlights, including those that use mechanical actuators to physically swivel the headlight housing, and those that use LED or matrix
 
-
-
 ### Illustration
 
 The below video show how the lights works on Audi e-tron GT inlcuding laser lights, matrid Leds, curve lights ++
@@ -136,4 +134,26 @@ The below video show how the lights works on Audi e-tron GT inlcuding laser ligh
 {{< youtube r4gtZ1dNh4o >}}
 
 
-[Continue to ambient lighting](../ambientlighting/)
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_4.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_4_st.jpg" alt="Audi Q6 e-tron DRL with configurable signature" title="Audi Q6 e-tron DRL with configurable signature">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron with DRL</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_2.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_2_st.jpg" alt="Audi Q6 e-tron DRL with configurable signature" title="Audi Q6 e-tron DRL with configurable signature">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron with low beam (DRL dimmed)</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_3.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_3_st.jpg" alt="Audi Q6 e-tron DRL with configurable signature" title="Audi Q6 e-tron DRL with configurable signature">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron with high beam LED Matrix and low beam modules active (DRL dimmed)</h4></figcaption>
+</figur>
+
+Continue with [rear lighting](../rearlights/) or go back to [article overview](../)
+

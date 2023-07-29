@@ -59,3 +59,5 @@ Rear lights on cars have come a long way from simple incandescent bulbs to advan
 As technology continues to advance, we can expect further innovations in rear light design and functionality. Future rear lights may incorporate even more advanced features such as communication capabilities, where the rear lights can send signals or messages to other vehicles or pedestrians. We may also see the use of organic LEDs (OLEDs) that can be flexible and seamlessly integrated into curved surfaces, allowing for even more creative and futuristic rear light designs.
 
 In conclusion, rear lights on cars have evolved from simple functional components to sophisticated safety features and design elements. With advancements in technology and design, rear lights continue to play a vital role in enhancing safety, efficiency, and aesthetics in modern vehicles, paving the way for a brighter and more stylish future on the road.
+
+[Continue to ambient lighting](../ambientlighting/)

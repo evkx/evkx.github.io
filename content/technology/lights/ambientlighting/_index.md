@@ -2,7 +2,7 @@
 title: Ambient Lighting
 linktitle: Ambient Lighting
 description: In recent years, automotive manufacturers have been exploring new ways to enhance the in-car experience, going beyond just performance and comfort. One such innovation that has gained popularity is interior ambient lighting, which uses strategically placed lights to create a visually appealing and relaxing atmosphere inside the vehicle.
-weight: 2
+weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
  Interior ambient lighting has evolved from a functional feature to a design element that can elevate the aesthetics of the car's interior, creating a unique and personalized environment for the driver and passengers.
@@ -82,5 +82,3 @@ As technology continues to advance, we can expect to see further innovations in 
 **Health and Wellness:** Ambient lighting could also be used to promote health and wellness inside the car. For example, research has shown that certain colors of light can affect mood, sleep, and well-being. We may see the use of ambient lighting that promotes relaxation, reduces stress, or even adjusts to the driver's circadian rhythm for a more comfortable and healthy driving experience.
 
 **Augmented Reality (AR) Lighting:** As augmented reality technology continues to develop, we may see the integration of ambient lighting with AR displays inside the car. This could create a more immersive and interactive experience, where ambient lighting could change dynamically to match the virtual environment displayed by the AR system, enhancing the overall driving experience.
-
-Continue with [rear lighting](../rearlights/) or go back to [article overview](../)
