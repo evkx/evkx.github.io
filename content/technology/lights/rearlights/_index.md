@@ -47,6 +47,30 @@ In addition to their technological advancements, rear lights have also undergone
 
 One popular trend in rear light design is the use of three-dimensional (3D) graphics and shapes. With the use of LEDs, automotive designers can create intricate patterns and shapes that add depth and dimension to the rear lights. This creates a striking visual effect, making the rear lights stand out and giving the vehicle a modern and futuristic look.
 
+In Addition some manufactureres are offering the owner to set it own light signature. An exmple is the Audi Q8 e-tron where you can select between 8 different light signatures for the rear lights. 
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_1_st.jpg" alt="Audi Q6 e-tron with light signature 1" title="Audi Q6 e-tron with  light signature 1">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron with  light signature 1</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_3.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_3_st.jpg" alt="Audi Q6 e-tron with light signature 2" title="Audi Q6 e-tron with  light signature 1">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron with  light signature 1</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_4.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_4_st.jpg" alt="Audi Q6 e-tron with light signature 3" title="Audi Q6 e-tron with  light signature 1">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron with  light signature 1</h4></figcaption>
+</figur>
+
+
 Another design innovation is the use of smoked or tinted lenses for rear lights. Smoked or tinted lenses have a darker or blacked-out appearance, giving the rear lights a sleek and stealthy look. This design trend has gained popularity in recent years, especially in the luxury and performance vehicle segments, as it adds a touch of sophistication and exclusivity to the vehicle's rear end.
 
 Furthermore, rear lights are now being integrated into other parts of the vehicle's body, such as the rear bumper, diffuser, or even the body panels themselves. This seamless integration of rear lights into the vehicle's overall design creates a cohesive and harmonious look, enhancing the vehicle's aesthetic appeal and making it visually distinct on the road.
