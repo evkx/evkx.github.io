@@ -91,11 +91,11 @@ In addition, some manufacturers offer the owner to set their light signature. An
 
 Another design innovation is using smoked or tinted lenses for rear lights. Smoked or tinted lenses have a darker or blacked-out appearance, giving the rear lights a sleek and stealthy look. This design trend has gained popularity in recent years, especially in the luxury and performance vehicle segments, as it adds a touch of sophistication and exclusivity to the vehicle's rear end.
 
-Furthermore, rear lights are now being integrated into other parts of the vehicle's body, such as the rear bumper, diffuser, or even the body panels themselves. This seamless integration of rear lights into the vehicle's overall design creates a cohesive and harmonious look, enhancing its aesthetic appeal and making it visually distinct on the road.
+Furthermore, manufacturers integrate rear lights into other parts of the vehicle’s body, such as the rear bumper, diffuser, or body panels. This seamless integration of rear lights into the vehicle’s overall design creates a cohesive and harmonious look, enhancing its aesthetic appeal and making it visually distinct on the road.
 
 ## Communication lighting
 
-Some manufacturers have starting using the rear lights to communicate to others, where the rear lights can send signals or messages to other vehicles or pedestrians. 
+Some manufacturers have started using the rear lights to communicate with others, where the rear lights can send signals or messages to other vehicles or pedestrians.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/lights/rearlights/hiphixrearlights.jpg">
@@ -104,7 +104,7 @@ Some manufacturers have starting using the rear lights to communicate to others,
     <figcaption><h4>HiPhi X can show graphics in their segmented rear lights</h4></figcaption>
 </figur>
 
-As an example Audi Q6 e-tron have added an extra dimension to the exit warning function. Previously, it only informed the occupants when exiting the car, for example, if another car or a bicycle was approaching. But now, a specially adapted light signature in the rear light graphic warn cyclists or drivers approaching from behind. In this way, the Audi Q6 e-tron extends its safety concept to other road users, increasing road safety for everyone.
+For example, the Audi Q6 e-tron has added an extra dimension to the exit warning function. Previously, it only informed the occupants when exiting the car, for example, if another vehicle or a bicycle was approaching. But now, a specially adapted light signature in the rear light graphic warns cyclists or drivers approaching from behind. In this way, the Audi Q6 e-tron extends its safety concept to other road users, increasing road safety for everyone.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_2.jpg">
