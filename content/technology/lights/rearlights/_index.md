@@ -35,7 +35,7 @@ In terms of versatility, LEDs offer automotive designers greater flexibility in 
 
 ## OLED
 
-Some manufacturers have started using OLED rear lights. OLED lights are thin light sources made of organic semiconductor materials. OLED stands for Organic Light Emitting Diode. OLED light technology is used for automotive applications because of its homogeneous light emission and ultra-thin, lightweight form factor. OLED lights can also be flexible, transparent and color-tunable
+Some manufacturers have started using OLED rear lights. OLED lights are thin light sources made of organic semiconductor materials. OLED stands for Organic Light Emitting Diode. Manufacturers use OLED light technology for automotive applications because of its homogeneous light emission and ultra-thin, lightweight form factor. OLED lights can also be flexible, transparent, and color-tunable.
 
 Flexible OLED lights can seamlessly be integrated into curved surfaces, allowing for even more creative and futuristic rear light designs.
 
