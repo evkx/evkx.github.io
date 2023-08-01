@@ -49,8 +49,8 @@ Some models lets you configure the design of DRL.
 </figur>
 
 <figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_1_st.jpg" alt="Audi Q6 e-tron DRL with configurable signature" title="Audi Q6 e-tron DRL with configurable signature">
+    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q6animations.gif">
+    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q6animations.gif" alt="Audi Q6 e-tron DRL with configurable signature" title="Audi Q6 e-tron DRL with configurable signature">
     </a>
     <figcaption><h4>Audi Q6 e-tron DRL with configurable signature</h4></figcaption>
 </figur>
