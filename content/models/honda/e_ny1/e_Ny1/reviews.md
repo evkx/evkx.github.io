@@ -8,4 +8,7 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### Electrifying: First Drive: Honda e:Ny1 electric SUV. Has Honda finally caught up? 31.07.2023
+
+{{< youtube 927uHNIcO7E >}}
+
