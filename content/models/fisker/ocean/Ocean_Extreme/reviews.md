@@ -8,4 +8,7 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### Autocar: First Drive: new Fisker Ocean review. Sub £40k electric SUV tested. 31.07.2023
+
+{{< youtube ixSE7DkeUpA >}}
+

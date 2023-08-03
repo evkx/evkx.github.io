@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### carwow: This is the most attention-grabbing car I've ever driven! 01.08.2023
+
+{{< youtube zKLNrENnwlc >}}
+
 ### Fully Charged Show: This Might Be The Strangest Car You Can Buy Today 06.04.2023
 
 {{< youtube ZjkcBSRTwvk >}}
