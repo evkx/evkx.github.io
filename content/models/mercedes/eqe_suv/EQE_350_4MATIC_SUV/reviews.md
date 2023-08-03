@@ -8,19 +8,15 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### AutoTrader: NEW Mercedes EQE SUV: Fast, Big & Luxurious! 05.04.2023
+### Bjørn Nyland: Mercedes EQE SUV banana box test 03.08.2023
 
-{{< youtube utCaUa1HWrU >}}
+{{< youtube vm3xC_LEGUQ >}}
 
-### Autogefühl: Mercedes EQE SUV REVIEW 53 AMG vs 500 4Matic AMG-Line - how good is the GLE EV? 16.10.2022
+### Bjørn Nyland: Mercedes EQE SUV 350 4Matic 1000 km challenge 02.08.2023
 
-{{< youtube JKgWnR3YFiA >}}
+{{< youtube 3wGLlJ45g6k >}}
 
-### carwow: First AMG Electric SUV EVER! 16.10.2022
+### Bjørn Nyland: Mercedes EQE SUV 350 4Matic range test 01.08.2023
 
-{{< youtube B1hq-EtXY3g >}}
-
-### InsideEVs US: Mercedes EQE SUV & Mercedes-AMG EQE SUV: InsideEVS First Look Debut 16.10.2022
-
-{{< youtube Zt8MZX9QhHg >}}
+{{< youtube aw2nrdZtrls >}}
 
