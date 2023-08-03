@@ -37,7 +37,7 @@ This model is available in 6 variant(s).
 
 ## Mercedes EQE SUV
 
-<a href="eqe_suv"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" width="800" height="" alt="Mercedes EQE SUV" ></a>
+<a href="eqe_suv"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" width="800" height="533" alt="Mercedes EQE SUV" ></a>
 
 This model is available in 4 variant(s). 
 [Read full details](eqe_suv/)
