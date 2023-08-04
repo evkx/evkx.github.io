@@ -17,26 +17,38 @@ Today's model has a battery size between approx 40kWh and 230kWh, with the major
 
 | Model | Net battery size |
 |-----|-----|
-| Volvo EX30 | 49kWh |
-| Tesla Model Y Standard Range | 57.5kWh  |
-| Ford Mustang Mach E Standard Range | 70kWh |
-| Hyundai Ioniq 5 Long Range |  74kWh |
-| Volkswagen ID4 | 77kWh |
-| Mercedes EQE Suv | 90.6kWh |
-| Tesla Model S Plaid | 96kWh |
-| BMW iX 50 | 105.2kWh |
-| Audi Q8 55 e-tron |  106kWh |
-| Lucid Air Dream Edition | 117kWh | 
-| Ford F150 Extended Range | 131kWh |
+| [Volvo EX30](/models/volvo/ex30/ex30_single_motor/) | 49kWh |
+| [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/) | 57.5kWh  |
+| [Ford Mustang Mach E Standard Range](/models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/) | 70kWh |
+| [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/) |  74kWh |
+| [Volkswagen ID4 Pro](/models/volkswagen/id.4/id.4_pro/) | 77kWh |
+| [Mercedes EQE 350 4matic Suv](/models/mercedes/eqe_suv/eqe_350_4matic_suv/) | 90.6kWh |
+| [Tesla Model S Plaid](/models/tesla/model_x/model_x_plaid/) | 96kWh |
+| [BMW iX 50](/models/bmw/ix/ix_xdrive50/) | 105.2kWh |
+| [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/) |  106kWh |
+| [Lucid Air Dream Edition](/models/lucid/air/air_dream_edition_performance/) | 117kWh | 
+| [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/) | 131kWh |
 
 You can see all models [sorted on net battery size](/evsearch/?sortOrder=NetBattery) in our EV database.
 
-But the battery is not the only factor in the stated range. Another important factor is how efficient the car is.
+But the battery is not the only factor in the stated range. Another critical factor is how efficient the car is.
+And with efficiency, it means how much energy the EV use from the battery for a given distance. It is typically stated in Europe as kWh/100km, indicating how many kWh is needed to drive 100km. In the US and the UK, it is rated as miles per kWh, meaning how far can you go with 1 kWh.
 
-And with efficiency, it means how much energy is used from the battery for a given distance. In Europe, it is typical stated as kWh/100km meaning
-how many kWh is needed to drive 100km. In the US and the UK, it is rated as miles per kWh, meaning how far can you go with 1 kWh.
+The below table shows the calculated consumption in kWh/100km and miles/kWh for different EV is according to WLTP combined rating.
 
-The below diagram shows the calculated consumption in kWh/100km for the different all-electric models is according to WLTP combined rating.
+| Model | WLTP Consumption |
+|-----|-----|-----|
+| [Volvo EX30](/models/volvo/ex30/ex30_single_motor/) | 14,24kWh/100km / 4,4 mi/kWh |
+| [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/) | 13,37kWh/100km / 4,6 mi/kWh |
+| [Ford Mustang Mach E Standard Range](/models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/) | 15,91kWh/100km / 3,9 mi/kWh |
+| [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/) |  15,38kWh/100km / 4,0 mi/kWh |
+| [Volkswagen ID4 Pro](/models/volkswagen/id.4/id.4_pro/) | 14,56kWh/100km / 4,3 mi/kWh |
+| [Mercedes EQE 350 4matic Suv](/models/mercedes/eqe_suv/eqe_350_4matic_suv/) | 16,56kWh/100km / 3,8 mi/kWh |
+| [Tesla Model S Plaid](/models/tesla/model_x/model_x_plaid/) | 17,68kWh/100km / 3,5 mi/kWh |
+| [BMW iX 50](/models/bmw/ix/ix_xdrive50/) | 16,67kWh/100km / 3,7 mi/kWh |
+| [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/) |  18,21kWh/100km / 3,4 mi/kWh |
+| [Lucid Air Dream Edition](/models/lucid/air/air_dream_edition_performance/) | 13,59kWh/100km / 4,6 mi/kWh | 
+| [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/) | 25,4 kWh/100km / 2,4 mi/kWh (EPA) |
 
 ## What affects the WLTP consumption?
 
