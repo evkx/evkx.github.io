@@ -1,23 +1,35 @@
 ---
 title: Understanding range
 linktitle: Understanding range
-description: For many, the range is the most important aspect of an EV. In this guide, we explain what affects the range of your all-electric Audi and why you don't see the range as expected.
+description: For many, the range is the most critical aspect of an EV. In this guide, we explain what factors affect the driving range of EVs and why new EV owners often experience a lower range than expected. 
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
 The range of electric cars is typically given as a [WLTP range](wltp) (Worldwide Harmonised Light Vehicles Test Procedure) in
-Europe or [EPA](epa) in the US.
+Europe, [EPA](epa) in the US, and CLTC in China.
 
-Below you see the range of the different current and some future Audi models. The range is from 341km (211 miles) to 700km (435 miles) according to the WLTP combined standard.
+The models available today (summer 2023) have a rated range between approx 200km and 900km.
 
-![WLTP Range](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/wltprangebasictrim.png "WLTP Range all-electric Audis")
+The most critical aspect of range is how large the battery is. A larger battery means more energy to use.
 
-The most important aspect of range is of course how large the battery is. A larger battery means more energy to use.
+Today's model has a battery size between approx 40kWh and 230kWh, with the majority being 60-100kWh. The table below shows the net battery size of some of the most popular models.
 
-The below chart shows the available battery size for the different models.
+| Model | Net battery size |
+|-----|-----|
+| Volvo EX30 | 49kWh |
+| Tesla Model Y Standard Range | 57.5kWh  |
+| Ford Mustang Mach E Standard Range | 70kWh |
+| Hyundai Ioniq 5 Long Range |  74kWh |
+| Volkswagen ID4 | 77kWh |
+| Mercedes EQE Suv | 90.6kWh |
+| Tesla Model S Plaid | 96kWh |
+| BMW iX 50 | 105.2kWh |
+| Audi Q8 55 e-tron |  106kWh |
+| Lucid Air Dream Edition | 117kWh | 
+| Ford F150 Extended Range | 131kWh |
 
-![Battery size](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/batterysize.png "Available battery all-electric Audis")
+You can see all models [sorted on net battery size](/evsearch/?sortOrder=NetBattery) in our EV database.
 
 But the battery is not the only factor in the stated range. Another important factor is how efficient the car is.
 
@@ -25,8 +37,6 @@ And with efficiency, it means how much energy is used from the battery for a giv
 how many kWh is needed to drive 100km. In the US and the UK, it is rated as miles per kWh, meaning how far can you go with 1 kWh.
 
 The below diagram shows the calculated consumption in kWh/100km for the different all-electric models is according to WLTP combined rating.
-
-![Consumption](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/wltpconsumptionbasictrim.png "Calculated consumption kWh/100km")
 
 ## What affects the WLTP consumption?
 
