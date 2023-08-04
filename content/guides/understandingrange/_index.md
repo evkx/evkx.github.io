@@ -11,6 +11,13 @@ Europe, [EPA](epa) in the US, and CLTC in China.
 
 The models available today (summer 2023) have a rated range between approx 200km and 900km.
 
+<figur>
+<a href="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range" width="680" height="453">
+</a>
+<figcaption><h4>Lucid Air Dream Edition Range with 883km WLTP range</h4></figcaption></figur>
+
+
 The most critical aspect of range is how large the battery is. A larger battery means more energy to use.
 
 Today's model has a battery size between approx 40kWh and 230kWh, with the majority being 60-100kWh. The table below shows the net battery size of some of the most popular models.
@@ -58,9 +65,15 @@ The efficiency or WLTP consumption is affected by many attributes of the car.
 
 The aerodynamic drag affects how much energy is needed to move. The shape of the body affects it but also the design of the wheels.
 
-Audi A6 e-tron concept is currently the model with the lowest [drag coefficient](https://en.wikipedia.org/wiki/Drag_coefficient) with a Cw value on only 0.22
+The Mercedes Vision EQXX is currently the model with the lowest [drag coefficient](https://en.wikipedia.org/wiki/Drag_coefficient) with a Cw value on only 0.17
 
-![Audi A6 e-tron concept](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/audia6etron.jpg "Audi A6 e-tron with Cw value of only 0.22")
+<figur>
+<a href="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_1.jpg">
+<img src="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_1_st.jpg" alt="Mercedes Vision EQXX with record low drag coeffisient 0.17" title="Mercedes Vision EQXX with record low drag coeffisient 0.17" width="680" height="453">
+</a>
+<figcaption><h4>Mercedes Vision EQXX with record low drag coeffisient 0.17</h4></figcaption></figur>
+
+
 
 In the below graph you see how much consumption the aerodynamic drag causes for the different model series for Audi.
 
