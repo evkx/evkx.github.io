@@ -45,6 +45,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |Length|4390 mm|
+|Width excluding mirrors|1790 mm|
 
 ## Suspension
 
