@@ -57,34 +57,31 @@ The below table shows the calculated consumption in kWh/100km and miles/kWh for 
 | [Lucid Air Dream Edition](/models/lucid/air/air_dream_edition_performance/) | 13,59kWh/100km / 4,6 mi/kWh | 
 | [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/) | 25,4 kWh/100km / 2,4 mi/kWh (EPA) |
 
-## What affects the WLTP consumption?
+## What affects the rated consumption?
 
-The efficiency or WLTP consumption is affected by many attributes of the car.
+The efficiency or consumption is affected by many attributes of the car.
 
 ### Aerodynamic drag
 
 The aerodynamic drag affects how much energy is needed to move. The shape of the body affects it but also the design of the wheels.
-
-The Mercedes Vision EQXX is currently the model with the lowest [drag coefficient](https://en.wikipedia.org/wiki/Drag_coefficient) with a Cw value on only 0.17
+The Mercedes Vision EQXX is currently the EV with the lowest [drag coefficient](https://en.wikipedia.org/wiki/Drag_coefficient) with a Cw value of only 0.17
 
 <figur>
 <a href="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_1.jpg">
-<img src="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_1_st.jpg" alt="Mercedes Vision EQXX with record low drag coeffisient 0.17" title="Mercedes Vision EQXX with record low drag coeffisient 0.17" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_1_st.jpg" alt="Mercedes Vision EQXX with record low drag coeffisient 0.17" title="Mercedes Vision EQXX with a record low drag coefficient of 0.17" width="680" height="453">
 </a>
-<figcaption><h4>Mercedes Vision EQXX with record low drag coeffisient 0.17</h4></figcaption></figur>
+<figcaption><h4>Mercedes Vision EQXX with a record low drag coefficient of 0.17</h4></figcaption></figur>
 
-
-
-In the below graph you see how much consumption the aerodynamic drag causes for the different model series for Audi.
+The graph below shows how much consumption the aerodynamic drag causes for the different model series for Audi.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrag.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrags.png" alt="Consumption caused by aerodynamic drag" title="Consumption caused by aerodynamic drag">
     </a>
-    <figcaption><h4>Forbruk grunnet luftmotstand</h4></figcaption>
+    <figcaption><h4>Consumption from aerodynamic drag</h4></figcaption>
 </figure>
 
-Beregnede verdier for forbruk som kun kommer fra aerodynamisk luftmotstand basert på 80 % drivlinjeseffektivitet.
+The below table shows consumption from aerodynamic drag on three different Audi models.
 
 | Speed | Audi e-tron 55 | Audi Q4 e-tron | Audi e-tron GT |
 |-----|---------|-----------|----------|
@@ -92,9 +89,9 @@ Beregnede verdier for forbruk som kun kommer fra aerodynamisk luftmotstand baser
 | 80km/h (49.7mph) | 7.79 kWh/100km | 7.52 kWh/100km | 5.92kWh/100km |
 | 120km/h (74.6mph) | 17.53kWh/100km | 16.94kWh/100km | 13.33kWh/100km |
 
-Du ser hvordan Audi e-tron GT i høy hastighet sparer mye energi sammenlignet med suven på grunn av mindre aerodynamisk luftmotstand.
+You see how Audi e-tron GT at high speed saves energy compared to the SUV because of less aerodynamic drag.
 
-Disse verdiene er basert på luftmotstandskoeffisienten og størrelsen på frontområdet til modellene 
+We base these values on the models' drag coefficient and frontal area.
 
 | Model | Drag coefficient (cd) | Frontal area |
 |----|-----|------|
@@ -103,23 +100,19 @@ Disse verdiene er basert på luftmotstandskoeffisienten og størrelsen på front
 | Audi Q4 e-tron SUV | 0.28 | 2.56m2 |
 | Audi Q4 e-tron Sportback | 0.26 | 2.56m2 |
 | Audi e-tron GT | 0.24 | 2.35m2 |
-| Audi A6 e-tron sportback | 0.22 | ?m2 |
-| Audi A6 Avant e-tron sportback | 0.24 | ?m2 |
+
 
 ### Rolling resistance
 
-The [rolling resistance](https://en.wikipedia.org/wiki/Rolling_resistance) sometimes called rolling friction or rolling drag is the force resisting the motion when a body (such as a ball, tire, or wheel) rolls on a surface.
+[Rolling resistance](https://en.wikipedia.org/wiki/Rolling_resistance), sometimes called rolling friction or rolling drag, is the force resisting the motion when a body (such as a ball, tire, or wheel) rolls on a surface.
 
-This is affected by the width of the tires, the weight of the car, the tire compound, and the tire pressure.
-
-Audi RS e-tron GT has very wide tires with 285mm to get the best traction. This increases rolling resistance. As an option, you can
-get 305mm wide tires that increase traction and decreases range.
+The rolling resistance is affected by the tires' width, the car's weight, the tire compound, and the tire pressure.
 
 ![Audi RS e-tron GT](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/rsetrongt.jpg "Audi RS e-tron GT with 305mm rear tires")
 
-Some tire producers have started producing specific tires for EV with low rolling resistance that affect range.
+Some tire producers have started producing specific tires for EVs with low rolling resistance that affects range.
 
-Audi delivers these types of tires on some of the models. See below for a very good and detailed test that describes the difference between EV optimized tires and regular.
+See below for a detailed test describing the difference between EV-optimized and regular tires.
 
 {{< youtube gg5MdeC6qzI>}}
 
@@ -129,17 +122,11 @@ A heavier car requires more energy to move.
 
 ### The efficiency of the drivetrain/motors
 
-Electric motors are very efficient by default, but there are still some different technologies that give different consumption based on the setup.
+Electric motors are very efficient by default, but different motor technologies still differ in consumption. 
 
-Permanently excited synchronous use less energy in use but have higher coasting resistance.
-Induction motors use a little more energy to move but have almost zero coasting resistance.
+Permanently excited synchronous use less energy in use but have higher coasting resistance. Induction motors use more energy to move but have almost zero coasting resistance.
 
-Newer cars often combine these two techniques having a rear synchronous motor always in use and an induction motor in front. Example Audi Q4 e-tron quattro 50.
-
-Audi is working on the new PPE platform and already now we know that
-this drivetrain will have a improved effiency
-
-![PPE Drivetrain](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/ppepresentation2.png "PPE Drivetrain")
+Newer cars often combine these two techniques having a rear synchronous motor always in use and an induction motor in front. 
 
 ### The internal resistance of the battery
 
@@ -147,47 +134,64 @@ The internal resistance in the battery causes heat loss in the battery.
 
 ### Factors vary based on selected options
 
-Many of the above factors are fixed. Like the e-tron Sportback has less drag than the e-tron SUV because of the body shape.
+How the manufacturer designed the EV gives many of the above factors. Because of its body shape, the e-tron Sportback has less drag than the e-tron SUV.
+But other factors are affected by the equipment you add to your car. 
 
-But other factors are affected by the equipment you add to your car. If you buy wider tires, you will get a higher consumption and then a shorter range.
+The buyer can configure some EVs with many options affecting the rated range. This possibility is typical for brands like Porsche and Audi.
 
-The below diagram shows hows adding the max options of the car increase the WLTP consumption.
+Buying wider tires will give you a higher consumption and a shorter range.
+Adding a panoramic roof can increase range and reduce range. 
+
+The diagram below shows how adding the car's max options increases the rated WLTP consumption and reduces the range on some Audi models.   
 
 ![Consumption](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/optionsconsumption.jpg "WLTP Consumption added with options")
 
-From the diagram, you can see that an Audi e-tron 55 has a consumption of 19.61 kWh/100km in the basic trim, but 23.44 kWh/100km in the top trim.
-Reducing the range from 441km (274 miles)  to 369km (229 miles).
+The diagram shows that an Audi e-tron 55 consumes 19.61 kWh/100km in the basic trim but 23.44 kWh/100km in the top trim. It reduces the range from 441km (274 miles) to 369km (229 miles).
 
 ## What affects the real-world consumption
 
-In the real world, it is almost impossible to get the same range as given by WLTP or EPA. This is because that range is based on
-ideal driving conditions with specific behavior.  
+In the real world, getting the same range as given by WLTP or EPA is almost impossible. That range the manufacturer base on ideal driving conditions with specific behavior.
 
 ### Road condition
 
-Road conditions are one of the factors that affect consumption. If it is dry tarmac the rolling resistance is much lower than
-if the road is wet or is packed with snow.
+Road conditions are one of the factors that affect consumption. If it is dry tarmac, the rolling resistance is much lower than if the road is wet or packed with snow.
 
 ### The speed
 
-High speed increases the consumption because of higher drag.
+High speed increases consumption because of higher drag.
 
 ### The temperature
 
-The temperature affects the range in different ways. If it is cold the air is denser and it is a higher aerodynamical drag.
+The temperature affects the range in different ways. If it is cold, the air is denser and has a higher aerodynamical drag.
 
-In addition, warm and cold weather could increase the consumption of air condition system in the car.
+In addition, warm and cold weather could increase the car's consumption of air condition systems.
 
 ### The driving style
 
-You as a driver can improve range a lot.
+You, as a driver, can improve the range a lot.
 
 - Look ahead and coast as much as possible
-- When needing to reduce speed, start reducing when possible so early that you only use recuperation.
+- When needing to reduce speed, reduce when possible so early that you only use recuperation.
 
 ![Audi e-tron S in the wet](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/etronsinthewet.jpg "Audi e-tron S with a heavy foot")
 
-## How does the range indicator work on electric Audi
+## How does the range indicator work?
+
+Most EVs have a range indicator showing a number in miles or km how much range the car has left. 
+
+This range indicator works differently on the different brands. 
+
+### Range indicator based on rated range and SOC
+
+This type of range indicator base the numbers based on the rated range and the battery's state of charge. If the rated range is 300 miles, and you have a 50% state of charge, the car will indicate a range of 150 miles. 
+
+It does not consider driving history or environment. The car will show the same range in winter and summer. 
+
+Tesla is a brand that uses this kind of range indication and has gotten some [criticism](https://www.reuters.com/investigates/special-report/tesla-batteries-range/). 
+
+### Range indicator based on driving history and environment
+
+
 
 The range indicator on all-electric Audis is much more advanced than many other brands.
 
