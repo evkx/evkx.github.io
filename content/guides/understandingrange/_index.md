@@ -183,7 +183,7 @@ This range indicator works differently on the different brands.
 
 ### Range indicator based on rated range and SOC
 
-This type of range indicator base the numbers based on the rated range and the battery's state of charge. If the rated range is 300 miles, and you have a 50% state of charge, the car will indicate a range of 150 miles. 
+This type of range indicator bases the range on the rated range and the battery's state of charge. If the rated range is 300 miles, and you have a 50% state of charge, the car will indicate a range of 150 miles. 
 
 It does not consider driving history or environment. The car will show the same range in winter and summer. 
 
@@ -191,36 +191,26 @@ Tesla is a brand that uses this kind of range indication and has gotten some [cr
 
 ### Range indicator based on driving history and environment
 
+Many EV manufacturers have range indicators that base the estimated range on driving history and environment. 
 
+They typically try to learn from previous trips, which causes questions about the range from owners since the range varies and drops when the driving condition worsens.
 
-The range indicator on all-electric Audis is much more advanced than many other brands.
+So how does this type of range indicator work?
 
-While some brands show the same range no matter what and ignore the driving condition or the driving style to the owner,
-all-electric Audis tries to learn
-from previous trips and this causes a lot of questions about range from owners since range varies and drops when driving condition worsens.
+The range indicator base its range on the following data
 
-Below you see some typical questions.
-
-![Facebook questions](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/facebook.png "Questions from owners about range indication")
-
-So how does the range indicator works? 
-
-The range indicator  base its range on the following data
-
-- Average consumption on the last 100km driven
-- The state of charge (of much is the battery charged)
+- Average consumption on the previous distance driven (typically last 100km)
+- Outside temprature
+- The state of charge (of much the battery is charged)
 - The planned route in the navigation system
 
 ![Range indicator](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/virtualcockpit.png "Virtual cockpit with range indicator")
 
-So assume you have an e-tron 55 with 86.5kWh battery and you have charged it to 100%.
+So assume you have an e-tron 55 with 86.5kWh battery and charge it to 100%.
 
-If your average consumption was 25kWh/100 on the previous trips, the range indicator, or GOM (guessometer) that many calls it
-would calculate you would have a range on 346km.  If your average consumption was 20kWh/100km it would calculate 432km. And if you are one that likes speed and had an average of 30kWh/100 km your
-calculated range would be 288km.
+If your average consumption were 25kWh/100 on the previous trips, the range indicator, or GOM (guessometer) that many call it, would calculate you would have a range of 346km. If your average consumption were 20kWh/100km, it would calculate 432km. And if you like speed and had an average of 30kWh/100 km, your estimated range would be 288km.
 
-But this is the best guess based on previous trips. If you change behavior on the next trip, the range calculated would be wrong.
+But this is the best guess based on previous trips. If you change your behavior on the next trip, the range calculated would be wrong.
+If you have done many short trips in cold weather, you would have spent lots of energy to heat the car. But this average consumption is irrelevant if you take a long drive the next day. The vehicle would then underestimate the range.
 
-If you have done many short trips in cold weather, you would have spent lots of energy to heat up the car. But this average consumption is not relevant if you the next day are taking a long drive. The car would then underestimate the range.
-
-If a route is defined in the car navigation system the car would adjust range based on elevation and road ahead.
+If you have defined a route in the car navigation system, the car will adjust the range based on elevation and the road ahead.
