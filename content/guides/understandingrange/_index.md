@@ -140,7 +140,7 @@ But other factors are affected by the equipment you add to your car.
 The buyer can configure some EVs with many options affecting the rated range. This possibility is typical for brands like Porsche and Audi.
 
 Buying wider tires will give you a higher consumption and a shorter range.
-Adding a panoramic roof can increase range and reduce range. 
+Adding a panoramic roof can increase consumption and reduce the driving range. 
 
 The diagram below shows how adding the car's max options increases the rated WLTP consumption and reduces the range on some Audi models.   
 
@@ -200,7 +200,7 @@ So how does this type of range indicator work?
 The range indicator base its range on the following data
 
 - Average consumption on the previous distance driven (typically last 100km)
-- Outside temprature
+- Outside temperature
 - The state of charge (of much the battery is charged)
 - The planned route in the navigation system
 
