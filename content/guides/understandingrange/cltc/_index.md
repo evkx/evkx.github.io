@@ -8,11 +8,22 @@ weight: 3
 
 It was developed by the China Automotive Technology & Research Center (CATARC) in 2020, and it is expected to replace the previous test cycle, called the China Automotive Test Cycle (CATC), which was based on the outdated New European Driving Cycle (NEDC). The CLTC aims to provide more realistic and accurate range estimates for EVs in China.
 
-The CLTC consists of four parts: urban, suburban, highway, and extra-highway. The urban part represents city driving with frequent stops and starts, low speeds, and high traffic density. The suburban part represents rural driving with moderate speeds and traffic density. The highway part represents expressway driving with high speeds and low traffic density. The extra-highway part represents high-speed driving with occasional braking and acceleration.
+The CLTC-P contains a total of 11 short trips (including 7 short trips in the low-speed phase, 3 short trips in the 
+medium-speed phase, and 1 short trip in the high-speed phase) and 12 idle segments, with a total duration of 1800 
+seconds.
 
-The CLTC has a total duration of 2,400 seconds (40 minutes) and a total distance of 49.5 kilometers (30.8 miles). The average speed of the CLTC is 74.3 km/h (46.2 mph), which is higher than the NEDC's 33.6 km/h (20.9 mph) and lower than the WLTP's 46.6 km/h (29 mph). The maximum speed of the CLTC is 150 km/h (93 mph), which is higher than both the NEDC's 120 km/h (75 mph) and the WLTP's 131 km/h (81 mph).
+|  | Phase 1 | Phase 2 | Phase 3 |  Total |
+|----|----|----|-----|------|-----|
+|Duration, Seconds | 674 | 693 | 433 | 1800|
+|Stop, seconds |  |  |   |  398 | 
+| Distance in meter | 2450 | 5910 | 6120 | 14480 |
+| Percent stop |  |  | |  22.11% |
+| Max speed | 48.1| 71.2 | 114 |114 |
+| Average speed w/o stop |  | | | 53.5|
+| Avg speed w stop | 13 | 30.7| 50.8 | 46.5|
+| Maximum deceleration  m/s^2 | -1.4 | -1.5 | -1.5 |- 1.44 | |
+| Max acceleration  m/s^2 | 1.47 | 1.44 | 1.06 |  |
 
-The CLTC also has more frequent acceleration and deceleration events than the NEDC and the WLTP, reflecting the more dynamic driving behavior of Chinese drivers. The CLTC has 110 acceleration events and 109 deceleration events, compared to the NEDC's 18 acceleration events and 17 deceleration events, and the WLTP's 25 acceleration events and 24 deceleration events.
 
 ## How is the CLTC performed?
 

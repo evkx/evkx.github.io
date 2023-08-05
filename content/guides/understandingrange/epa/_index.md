@@ -81,10 +81,10 @@ These three extra cycles are used to calculate the adjusted fuel economy ratings
 
 The EV manufacturer can choose whether to use the 2-cycle or five-cycle tests. Typically, they will choose the one that goes the farthest.
 
-[Tesla uses five-cycle test to get longer EPA range](https://www.caranddriver.com/features/a33824052/adjustment-factor-tesla-uses-for-big-epa-range-numbers/). 
+[Tesla uses five-cycle test to get a longer rated EPA range](https://www.caranddriver.com/features/a33824052/adjustment-factor-tesla-uses-for-big-epa-range-numbers/). 
 
 ## How correct is it?
 
 Many consider the EPA tests to be closer to real-world numbers than WLTP tests.
 
-In [EVKX.net model database](/evsearch) we have listed the EPA result for the models.  EPA also have it own [search](https://www.fueleconomy.gov/feg/PowerSearch.do?action=PowerSearch&year1=2021&year2=2023&minmsrpsel=0&maxmsrpsel=0&city=0&highway=0&combined=0&cbftelectricity=Electricity&YearSel=2021-2023&MakeSel=&MarClassSel=&FuelTypeSel=Electricity&VehTypeSel=&TranySel=&DriveTypeSel=&CylindersSel=&MpgSel=000&sortBy=Comb&Units=&url=SearchServlet&opt=new&minmsrp=0&maxmsrp=0&minmpg=0&maxmpg=0&sCharge=&tCharge=&startstop=&cylDeact=&rowLimit=200)
+In the [EVKX.net model database](/evsearch), we have listed the EPA result for the models.  EPA also have it own [search](https://www.fueleconomy.gov/feg/PowerSearch.do?action=PowerSearch&year1=2021&year2=2023&minmsrpsel=0&maxmsrpsel=0&city=0&highway=0&combined=0&cbftelectricity=Electricity&YearSel=2021-2023&MakeSel=&MarClassSel=&FuelTypeSel=Electricity&VehTypeSel=&TranySel=&DriveTypeSel=&CylindersSel=&MpgSel=000&sortBy=Comb&Units=&url=SearchServlet&opt=new&minmsrp=0&maxmsrp=0&minmpg=0&maxmpg=0&sCharge=&tCharge=&startstop=&cylDeact=&rowLimit=200)
