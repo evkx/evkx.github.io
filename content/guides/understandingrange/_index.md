@@ -120,7 +120,13 @@ Mercedes has focused on low aerodynamical drag. But it has drawbacks since many 
 
 The rolling resistance is affected by the tires' width, the car's weight, the tire compound, and the tire pressure.
 
-![Audi RS e-tron GT](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/rsetrongt.jpg "Audi RS e-tron GT with 305mm rear tires")
+Many manufacturers offer narrow tires as a base to advertise the best possible range possible for the model. The disadvantage is less grip. Other manufacturers offer staggered setups with less wide front tires than rear tires. This setup increases range compared to the same width on all four tires. 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_2.jpg">
+<img src="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_2_st.jpg" alt="Mercedes Vision EQXX has narrow tires" title="Mercedes Vision EQXX has narrow tires" width="680" height="453">
+</a>
+<figcaption><h4>Mercedes Vision EQXX has narrow tires</h4></figcaption></figur>
 
 Some tire producers have started producing specific tires for EVs with low rolling resistance that affects range.
 
@@ -168,6 +174,13 @@ In the real world, getting the same range as given by WLTP or EPA is almost impo
 
 Road conditions are one of the factors that affect consumption. If it is dry tarmac, the rolling resistance is much lower than if the road is wet or packed with snow.
 
+<figure>
+    <a href="https://media.evkx.net/multimedia/guides/understandingrange/etronsinthewet.jpg">
+        <img src="https://media.evkx.net/multimedia/guides/understandingrange/etronsinthewet_st.jpg" alt="Audi e-tron S in the wet" title="Audi e-tron S in the wet">
+    </a>
+    <figcaption><h4>Audi e-tron S in the wet</h4></figcaption>
+</figure>
+
 ### The speed
 
 High speed increases consumption because of higher drag.
@@ -176,7 +189,7 @@ High speed increases consumption because of higher drag.
 
 The temperature affects the range in different ways. If it is cold, the air is denser and has a higher aerodynamical drag.
 
-In addition, warm and cold weather could increase the car's consumption of air condition systems.
+In addition, warm and cold weather could increase the car's consumption of air condition systems. On a really cold day you could end up spending 20-30% of the battery to heating the cabin.
 
 ### The driving style
 
@@ -185,7 +198,6 @@ You, as a driver, can improve the range a lot.
 - Look ahead and coast as much as possible
 - When needing to reduce speed, reduce when possible so early that you only use recuperation.
 
-![Audi e-tron S in the wet](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/etronsinthewet.jpg "Audi e-tron S with a heavy foot")
 
 ## How does the range indicator work?
 
