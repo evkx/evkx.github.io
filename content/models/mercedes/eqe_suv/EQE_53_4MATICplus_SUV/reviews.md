@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Out of Spec Reviews: Mercedes AMG EQE SUV 70-MPH Highway Range Test 01.08.2023
+
+{{< youtube vNEe7Of8e34 >}}
+
 ### Autogefühl: Mercedes EQE SUV REVIEW 53 AMG vs 500 4Matic AMG-Line - how good is the GLE EV? 16.10.2022
 
 {{< youtube JKgWnR3YFiA >}}

@@ -12,6 +12,10 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube vm3xC_LEGUQ >}}
 
+### Bjørn Nyland: Mercedes EQE SUV interior review 03.08.2023
+
+{{< youtube 1EKpUS9QZvk >}}
+
 ### Bjørn Nyland: Mercedes EQE SUV 350 4Matic 1000 km challenge 02.08.2023
 
 {{< youtube 3wGLlJ45g6k >}}
