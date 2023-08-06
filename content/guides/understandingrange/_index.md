@@ -72,26 +72,9 @@ The Mercedes Vision EQXX is currently the EV with the lowest [drag coefficient](
 </a>
 <figcaption><h4>Mercedes Vision EQXX with a record low drag coefficient of 0.17</h4></figcaption></figur>
 
-The graph below shows how much consumption the aerodynamic drag causes for the different model series for Audi.
+Calculating how much energy is needed to overcome aerodynamic drag is possible if you know a model's drag coefficient and the frontal area size.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrag.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrags.png" alt="Consumption caused by aerodynamic drag" title="Consumption caused by aerodynamic drag">
-    </a>
-    <figcaption><h4>Consumption from aerodynamic drag</h4></figcaption>
-</figure>
-
-The below table shows consumption from aerodynamic drag on three different Audi models.
-
-| Speed | Audi e-tron 55 | Audi Q4 e-tron | Audi e-tron GT |
-|-----|---------|-----------|----------|
-| 50km/h (31mph) | 3.04kWh/100km | 2.94 kWh/100km | 2.31kWh/100km |
-| 80km/h (49.7mph) | 7.79 kWh/100km | 7.52 kWh/100km | 5.92kWh/100km |
-| 120km/h (74.6mph) | 17.53kWh/100km | 16.94kWh/100km | 13.33kWh/100km |
-
-You see how Audi e-tron GT at high speed saves energy compared to the SUV because of less aerodynamic drag.
-
-We base these values on the models' drag coefficient and frontal area.
+Below you see some examples from various models. 
 
 | Model | Drag coefficient (cd) | Frontal area |
 |----|-----|------|
@@ -100,7 +83,36 @@ We base these values on the models' drag coefficient and frontal area.
 | Audi Q4 e-tron SUV | 0.28 | 2.56m2 |
 | Audi Q4 e-tron Sportback | 0.26 | 2.56m2 |
 | Audi e-tron GT | 0.24 | 2.35m2 |
+| Mercedes EQS | 0.20 | 2.5m2 |
 
+The graph below shows how much aerodynamic drag consumption causes for the different models.
+
+<figure>
+    <a href="https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag.png">
+        <img src="https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_st.png" alt="Consumption caused by aerodynamic drag" title="Consumption caused by aerodynamic drag">
+    </a>
+    <figcaption><h4>Consumption from aerodynamic drag</h4></figcaption>
+</figure>
+
+The table below shows aerodynamic drag consumption on three different Audi models and Mercedes EQS.
+
+| Speed | 50km/h (31mph)| 80km/h (49.7mph)| 120km/h (74.6mph)  |
+|-----|---------|-----------|----------|
+| Audi e-tron 55| 3.04kWh/100km | 7.79 kWh/100km  | 17.53kWh/100km |
+| Audi Q4 e-tron  | 2.94 kWh/100km  | 7.52 kWh/100km  | 16.94kWh/100km |
+| Audi e-tron GT | 2.31kWh/100km| 5.92kWh/100km | 13.33kWh/100km |
+| Mercedes EQS | 2.05kWh/100km| 5.21kWh/100km | 11.81kWh/100km |
+
+
+You see how the Mercedes EQS saves a lot of energy at high speed compared to the SUV because of less aerodynamic drag.
+
+Mercedes has focused on low aerodynamical drag. But it has drawbacks since many complaints about EQS design.
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" width="680" height="382">
+</a>
+<figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
 
 ### Rolling resistance
 
@@ -177,17 +189,20 @@ You, as a driver, can improve the range a lot.
 
 ## How does the range indicator work?
 
-Most EVs have a range indicator showing a number in miles or km how much range the car has left. 
+Most EVs have a range indicator showing in miles or km how much range the car has left before the battery is empty. 
 
-This range indicator works differently on the different brands. 
+This range indicator works differently on different brands.
 
 ### Range indicator based on rated range and SOC
 
-This type of range indicator bases the range on the rated range and the battery's state of charge. If the rated range is 300 miles, and you have a 50% state of charge, the car will indicate a range of 150 miles. 
+This type of range indicator bases the range on the rated range and the battery's state of charge. If the rated range is 300 miles, and you have a 50% state of charge, the car will indicate a range of 150 miles.
+It does not consider driving history or environment. The type of indicator will show the same range in winter and summer and does not care how you drive. 
 
-It does not consider driving history or environment. The car will show the same range in winter and summer. 
+So if you are driving Miss Daisy on country roads or racing on the Autobahn every day, a fully charged EV will show the same range. 
 
-Tesla is a brand that uses this kind of range indication and has gotten some [criticism](https://www.reuters.com/investigates/special-report/tesla-batteries-range/). 
+This type of range indication is useless for the driver but gives a false promise of the range. 
+
+Tesla is a brand that uses this range indication and [has been criticized](https://www.reuters.com/investigates/special-report/tesla-batteries-range/) by many.
 
 ### Range indicator based on driving history and environment
 
