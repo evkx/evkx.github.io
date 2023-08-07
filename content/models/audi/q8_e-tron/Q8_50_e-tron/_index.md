@@ -70,7 +70,7 @@ Dynamic steering is standard on the Audi Q8 50 e-tron. Dynamic steering varies t
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). At low speeds, the one-pedal drive mode will keep the car rolling until it stops by itself. You can adjust how strong regen you get when you lift the foot. There are three levels.
 
 ## Exterior
 
