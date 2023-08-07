@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Tesla Model S Plaid range test in summer 04.08.2023
+
+{{< youtube 08kvW42kJr8 >}}
+
 ### Bjørn Nyland: Tesla Model S Plaid range test 22.02.2023
 
 {{< youtube bPFBz4BfbNg >}}
