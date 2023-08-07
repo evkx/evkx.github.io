@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Autotrader: Kia EV6 GT Review: 585Hp Family Rocket... But Is It Fun? 21.07.2023
+
+{{< youtube bUpBksKY6uM >}}
+
 ### Bjørn Nyland: Kia EV6 GT range test 10.06.2023
 
 {{< youtube -NsLId8dLjc >}}

@@ -38,9 +38,9 @@ The XPENG G9 RWD Long Range has a maximum power of 230KW (313hp). The total torq
 
 The battery has a gross capacity of 98kWh and a net capacity of 93,6kWh, meaning you have a 4,4kWh buffer for protection. (4,5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 570 km (354 mi).   The consumption is 16,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 300kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 51% resulting in an actual charge speed including time loss on 154kW. Each charge session would take 18 minutes and 14 seconds. 
+The maximum DC charging speed is 300kW. A full charge from 0 - 100% would take 40 minutes, while a more common scenario of 10-80% would take 19 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 9% to 63% resulting in an actual charge speed including time loss on 167kW. Each charge session would take 18 minutes and 13 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 32 minutes to drive. This trip will require four charge session(s) charging from 1% to 51%. The total time lost for charging will be 73 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 27 minutes to drive. This trip will require four charge session(s) charging from 9% to 59%. The total time lost for charging will be 68 minutes.   
 
 ### Onboard charger
 
@@ -56,7 +56,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ### Charge port
 
-The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up in to the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 

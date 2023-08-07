@@ -8,4 +8,7 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### Kris Rifa: Audi Q8 E-Tron 50 Range Test 06.08.2023
+
+{{< youtube WZXa3kQW-Fg >}}
+

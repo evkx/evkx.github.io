@@ -48,7 +48,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ### Charge port
 
-The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up in to the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 
 <figur>
@@ -78,7 +78,7 @@ Dynamic steering is optional on the Audi Q4 45 e-tron quattro. Dynamic steering 
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). At low speeds, the one-pedal drive mode will keep the car rolling until it stops by itself. You can adjust how strong regen you get when you lift the foot. There are three levels.
 
 ## Exterior
 

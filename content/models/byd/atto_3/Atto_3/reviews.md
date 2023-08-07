@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: BYD Atto 3 banana box test 05.08.2023
+
+{{< youtube BNR9-YHZINo >}}
+
 ### carwow: The best car you’ve never heard of? 14.04.2023
 
 {{< youtube FemVjBnGP3g >}}
