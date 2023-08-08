@@ -1,7 +1,7 @@
 ---
 title: Tires & Wheels
 linktitle: Tires & Wheels
-description: Tires are one of the most important components of a car, as they affect its performance, safety, comfort, and efficiency. 
+description: Tires are one of the most critical components of a car, as they affect its performance, safety, comfort, and efficiency.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
@@ -17,11 +17,11 @@ Choosing the right tires and wheels for your car depends on several factors, suc
 
 ## Wheels
 
-Wheels are the parts of a car that connect the tires to the vehicle and allow them to rotate and move. Wheels are composed of two main elements: the rim and the hub. The rim is the outer edge of the wheel that holds the tire in place, while the hub is the center part of the wheel that connects to the axle and the brake system. Wheels can have different designs and sizes, depending on the type of car, the driving conditions, and the personal preferences of the owner.
+Wheels are the parts of a car that connect the tires to the vehicle and allow them to rotate and move. Wheels are composed of two main elements: the rim and the hub. The rim is the wheel's outer edge that holds the tire in place, while the hub is the center part of the wheel that connects to the axle and brake system. Wheels can have different designs and sizes, depending on the type of car, the driving conditions, and the owner's personal preferences.
 
 ### Wheel design
 
-The design of a wheel affects the appearance, performance, and aerodynamics of a car. There are many types of wheel designs, such as spoke, mesh, star, multi-piece, split-spoke, turbine, and more. Each design has its own advantages and disadvantages, depending on the style and functionality of the car. Some designs are more suitable for certain types of cars or driving conditions than others. For example, spoke wheels are lightweight and allow better airflow and cooling for the brakes, but they are also more fragile and prone to bending or cracking. Mesh wheels are strong and durable, but they are also heavier and harder to clean. Star wheels are stylish and sporty, but they may not offer enough traction or stability for some cars.
+The wheel's design affects a car's appearance, performance, and aerodynamics. Wheel designs include spoke, mesh, star, multi-piece, split-spoke, turbine, and more. Each design has advantages and disadvantages, depending on the style and functionality of the car. Some designs are more suitable for certain types of vehicles or driving conditions than others. For example, spoke wheels are lightweight and allow better airflow and cooling for the brakes, but they are also more fragile and prone to bending or cracking. Mesh wheels are strong and durable, but they are also heavier and harder to clean. 
 
 <figur>
     <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1.jpg">
@@ -46,11 +46,18 @@ The design of a wheel affects the appearance, performance, and aerodynamics of a
 
 ### Wheel size
 
-The size of a wheel affects the handling, comfort, speed, and energy efficiency of a car, but most of all it affects the overall design and appearence of your EV.
+The wheel size affects a car's handling, comfort, speed, and energy efficiency, but most of all, it affects the overall design and appearance of your EV.
+Most manufacturers let buyers choose from several wheel/tire options when ordering a new EV. Typically, they have wheels in different sizes so the buyer can choose if they prefer design over range.
+Today, EVs are delivered with 16-23" depending on the model.
+Most EVs have wheels with the same diameter and width on all wheels. A few models have a staggered setup with wider wheels at the rear than in the front.
+Lucid Air Sapphire is currently the only model with wider wheels in the rear and a larger diameter of 21" in the rear and 20" in the front.
 
-Most manufacturers lets the buyer choose from serverel wheel/tire options when ordering a new EV. Typical they have wheels in different sizes so the buyer can choose if they prefer design over range. 
-
-Todays EVS are delivered with 16-23" depending on model. 
+<figur>
+    <a href="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_6.jpg">
+        <img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_6_st.jpg" alt="Lucid Air Sapphire with 21 inch on the rear axle and 20 inch on the front axle" title="Lucid Air Sapphire with 21 inch on the rear axle and 20 inch on the front axle">
+    </a>
+    <figcaption><h4>Lucid Air Sapphire with 21" on the rear axle and 20" on the front axle</h4></figcaption>
+</figur>
 
 ## Tires
 
