@@ -1,7 +1,7 @@
 ---
-title: Lucid Air Saphire range & consumption
+title: Lucid Air Sapphire range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Lucid Air Saphire.
+description: Here you find all details about range and consumption for Lucid Air Sapphire.
 weight: 9
 hidden: true
 ---

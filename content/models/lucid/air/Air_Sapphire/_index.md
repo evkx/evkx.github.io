@@ -1,7 +1,7 @@
 ---
-title: Lucid Air Saphire
-linktitle: Air Saphire
-description: Lucid Air Saphire is an all-electric sedan with a EPA range of up to 687 km (427 miles). EVKX.net have all the details. 
+title: Lucid Air Sapphire
+linktitle: Air Sapphire
+description: Lucid Air Sapphire is an all-electric sedan with a EPA range of up to 687 km (427 miles). EVKX.net have all the details. 
 weight: 10
 hidden: true
 ---
@@ -11,12 +11,12 @@ hidden: true
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/main_1_st.jpg" alt="Lucid Air Saphire" title="Lucid Air Saphire" width="680" height="453">
+<a href="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/main_1_st.jpg" alt="Lucid Air Sapphire" title="Lucid Air Sapphire" width="680" height="453">
 </a>
-<figcaption><h4>Lucid Air Saphire</h4></figcaption></figur>
+<figcaption><h4>Lucid Air Sapphire</h4></figcaption></figur>
 
-We have separated our Lucid Air Saphire article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Lucid Air Sapphire article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -32,7 +32,7 @@ We have separated our Lucid Air Saphire article into sections. If you want to wa
 
 ## Performance
 
-The Lucid Air Saphire has a maximum power of 920KW (1251hp). The total torque is 1390nm. The 0-100km/h sprint (0-62mph) takes 1,95 seconds. The top speed is 330 km/h. 
+The Lucid Air Sapphire has a maximum power of 920KW (1251hp). The total torque is 1390nm. The 0-100km/h sprint (0-62mph) takes 1,95 seconds. The top speed is 330 km/h. 
 
 ## Battery, range, and charging
 
@@ -58,13 +58,13 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Lucid Air Saphire has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+Lucid Air Sapphire has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 126 mm. 
 
 ### Steering
 
-Dynamic steering is standard on the Lucid Air Saphire. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is standard on the Lucid Air Sapphire. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -82,10 +82,10 @@ There is only one roof for this model. The windshield is panoramic going back ov
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/exterior_1_st.jpg" alt="Lucid Air Saphire" title="Lucid Air Saphire" width="680" height="453">
+<a href="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_1_st.jpg" alt="Lucid Air Sapphire" title="Lucid Air Sapphire" width="680" height="453">
 </a>
-<figcaption><h4>Lucid Air Saphire</h4></figcaption></figur>
+<figcaption><h4>Lucid Air Sapphire</h4></figcaption></figur>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -98,7 +98,7 @@ The seat layout is the traditional five seats with two in front and three in the
 
 ### First row seats
 
-Only one front seat type is available in the Lucid Air Saphire. 
+Only one front seat type is available in the Lucid Air Sapphire. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -119,10 +119,10 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/frontseats_1_st.jpg" alt="Lucid Air Saphire" title="Lucid Air Saphire" width="680" height="453">
+<a href="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/frontseats_1_st.jpg" alt="Lucid Air Sapphire" title="Lucid Air Sapphire" width="680" height="453">
 </a>
-<figcaption><h4>Lucid Air Saphire</h4></figcaption></figur>
+<figcaption><h4>Lucid Air Sapphire</h4></figcaption></figur>
 
 
 ### Second-row seat
@@ -135,10 +135,10 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/secondrowseats_1_st.jpg" alt="Lucid Air Saphire" title="Lucid Air Saphire" width="680" height="470">
+<a href="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/secondrowseats_1_st.jpg" alt="Lucid Air Sapphire" title="Lucid Air Sapphire" width="680" height="470">
 </a>
-<figcaption><h4>Lucid Air Saphire</h4></figcaption></figur>
+<figcaption><h4>Lucid Air Sapphire</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. 
@@ -149,7 +149,7 @@ There is one climate system available. The  climate system supports different te
 
 ## Comfort
 
-Lucid Air Saphire has several features to make your life as a driver or passenger more comfortable. 
+Lucid Air Sapphire has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -169,15 +169,15 @@ On top of the dashboard is a shared frame with three screens, and in the center 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/screens_1_st.jpg" alt="Lucid Air Saphire" title="Lucid Air Saphire" width="680" height="453">
+<a href="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/screens_1_st.jpg" alt="Lucid Air Sapphire" title="Lucid Air Sapphire" width="680" height="453">
 </a>
-<figcaption><h4>Lucid Air Saphire</h4></figcaption></figur>
+<figcaption><h4>Lucid Air Sapphire</h4></figcaption></figur>
 
 
 ## Infotainment
 
-One type of sound system is available for the Lucid Air Saphire. With the Surreal Sound System, you get 21 speakers with a max system output of  watts. 
+One type of sound system is available for the Lucid Air Sapphire. With the Surreal Sound System, you get 21 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
@@ -188,23 +188,23 @@ The standard headlights use LED technology.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/headlights_1_st.jpg" alt="Lucid Air Saphire" title="Lucid Air Saphire" width="680" height="461">
+<a href="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/headlights_1_st.jpg" alt="Lucid Air Sapphire" title="Lucid Air Sapphire" width="680" height="461">
 </a>
-<figcaption><h4>Lucid Air Saphire</h4></figcaption></figur>
+<figcaption><h4>Lucid Air Sapphire</h4></figcaption></figur>
 
 ## Advanced driver assistance systems
 
-The Lucid Air Saphire has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Lucid Air Sapphire has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
 
-The Lucid Air Saphire has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Lucid Air Sapphire has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Lucid Air Saphire has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Lucid Air Sapphire has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Lucid Air Saphire has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Lucid Air Sapphire has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
@@ -233,9 +233,9 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/trunk_1_st.jpg" alt="Lucid Air Saphire" title="Lucid Air Saphire" width="680" height="453">
+<a href="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/trunk_1_st.jpg" alt="Lucid Air Sapphire" title="Lucid Air Sapphire" width="680" height="453">
 </a>
-<figcaption><h4>Lucid Air Saphire</h4></figcaption></figur>
+<figcaption><h4>Lucid Air Sapphire</h4></figcaption></figur>
 
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
