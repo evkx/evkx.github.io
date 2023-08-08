@@ -27,6 +27,15 @@ target="_blank">
 </a>
 </div>
 <div class="pswp-grid-item">
+<a href="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/exterior_10.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/exterior_10.jpg"
+data-pswp-width="3000"
+data-pswp-height="1687" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/exterior_10_xst.jpg" alt="Lucid Air Saphire" width="200px" height="0px" />
+</a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/exterior_2.jpg"
 data-pswp-width="3000"
@@ -200,8 +209,8 @@ target="_blank">
 <div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/screens_2.jpg"
-data-pswp-width="3000"
-data-pswp-height="1999" 
+data-pswp-width="2000"
+data-pswp-height="1499" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/screens_2_xst.jpg" alt="Lucid Air Saphire" width="200px" height="0px" />
 </a>
@@ -209,8 +218,8 @@ target="_blank">
 <div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/screens_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/screens_3.jpg"
-data-pswp-width="3000"
-data-pswp-height="2248" 
+data-pswp-width="2000"
+data-pswp-height="1499" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/screens_3_xst.jpg" alt="Lucid Air Saphire" width="200px" height="0px" />
 </a>

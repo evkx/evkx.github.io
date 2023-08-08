@@ -8,4 +8,7 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### InsideEvs: 2024 Lucid Air Sapphire: InsideEVs First Drive Review d 08.08.2023
+
+{{< youtube G9lyh6QP_zY >}}
+
