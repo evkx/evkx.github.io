@@ -1,7 +1,7 @@
 ---
 title: Manufactors
 linktitle: Manufactors
-description: There are several large battery manufacturers for Electric Vehicles (EVs) globally, including
+description: There are several large battery manufacturers for Electric Vehicles (EVs) globally.
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -38,3 +38,7 @@ The largest ones are.
 These are just a few more examples of the many battery manufacturers for EVs that exist globally.
 
 In addition serveral EVs companies are now building their own factories. Like Volkswagen.
+
+In addition many just buy cells from cell producers and create the battery itself.
+
+[For a full list of cell producers see Batterydesign.net](https://www.batterydesign.net/battery-cell/cell-manufacturers/)

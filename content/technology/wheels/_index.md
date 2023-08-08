@@ -46,7 +46,11 @@ The design of a wheel affects the appearance, performance, and aerodynamics of a
 
 ### Wheel size
 
-The size of a wheel affects the handling, comfort, speed, and energy efficiency of a car.
+The size of a wheel affects the handling, comfort, speed, and energy efficiency of a car, but most of all it affects the overall design and appearence of your EV.
+
+Most manufacturers lets the buyer choose from serverel wheel/tire options when ordering a new EV. Typical they have wheels in different sizes so the buyer can choose if they prefer design over range. 
+
+Todays EVS are delivered with 16-23" depending on model. 
 
 ## Tires
 
