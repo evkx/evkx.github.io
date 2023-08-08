@@ -36,7 +36,9 @@ The BMW i7 xDrive60 has a maximum power of 400KW (544hp). The total torque is 74
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 105,7kWh and a net capacity of 101,7kWh, meaning you have a 4,0kWh buffer for protection. (3,8%). The [WLTP range](../../../../guides/understandingrange/wltp) varies from 625 to 591 km (388-367 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,3kWh/100km for the basic version and 17,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 105,7kWh and a net capacity of 101,7kWh, meaning you have a 4,0kWh buffer for protection. (3,8%). 
+
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 625 to 591 km (388-367 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16,3kWh/100km for the basic version and 17,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 195kW. A full charge from 0 - 100% would take 56 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 53% resulting in an actual charge speed including time loss on 135kW. Each charge session would take 23 minutes and 4 seconds. 
 

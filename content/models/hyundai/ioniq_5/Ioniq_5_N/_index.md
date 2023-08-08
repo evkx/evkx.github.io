@@ -36,7 +36,9 @@ With overboost, the Hyundai Ioniq 5 N has a maximum power of 478KW (650hp). With
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 89kWh and a net capacity of 84kWh, meaning you have a 5kWh buffer for protection. (5,6%).  The [WLTP range](../../../../guides/understandingrange/wltp) is 450 km (280 mi).   The consumption is 18,7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 89kWh and a net capacity of 84kWh, meaning you have a 5kWh buffer for protection. (5,6%). 
+
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 450 km (280 mi).   The consumption is 18,7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 43 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 75% resulting in an actual charge speed including time loss on 156kW. Each charge session would take 24 minutes and 57 seconds. 
 

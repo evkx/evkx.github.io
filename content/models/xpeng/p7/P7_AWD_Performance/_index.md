@@ -36,7 +36,9 @@ The XPENG P7 AWD Performance has a maximum power of 405KW (551hp). The total tor
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 86,2kWh and a net capacity of 82,7kWh, meaning you have a 3,5kWh buffer for protection. (4,1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)  The [WLTP range](../../../../guides/understandingrange/wltp) is 505 km (314 mi).   The consumption is 16,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 86,2kWh and a net capacity of 82,7kWh, meaning you have a 3,5kWh buffer for protection. (4,1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
+
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 505 km (314 mi).   The consumption is 16,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 175kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 23 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 53% resulting in an actual charge speed including time loss on 149kW. Each charge session would take 17 minutes and 21 seconds. 
 

@@ -36,7 +36,9 @@ The Ford F150 Lightning Extended Range has a maximum power of 433KW (589hp). The
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 150kWh and a net capacity of 131kWh, meaning you have a 19kWh buffer for protection. (12,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The battery has a gross capacity of 150kWh and a net capacity of 131kWh, meaning you have a 19kWh buffer for protection. (12,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
+
+The [EPA range](../../../../guides/understandingrange/epa) varies from 320 to 300 miles (515-483 km), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 2,44mi/kWh for the basic version and 2,29mi/kWh for the top trim version for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 155kW. A full charge from 0 - 100% would take 130 minutes, while a more common scenario of 10-80% would take 49 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 62% resulting in an actual charge speed including time loss on 106kW. Each charge session would take 46 minutes and 54 seconds. 
 
