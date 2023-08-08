@@ -32,7 +32,7 @@ We have separated our Lucid Air Saphire article into sections. If you want to wa
 
 ## Performance
 
-The Lucid Air Saphire has a maximum power of 907KW (1233hp). The total torque is 1390nm. The 0-100km/h sprint (0-62mph) takes 1,95 seconds. The top speed is 270 km/h. 
+The Lucid Air Saphire has a maximum power of 920KW (1251hp). The total torque is 1390nm. The 0-100km/h sprint (0-62mph) takes 1,95 seconds. The top speed is 330 km/h. 
 
 ## Battery, range, and charging
 
@@ -40,7 +40,7 @@ The battery has a gross capacity of 118kWh and a net capacity of 117kWh, meaning
 
  The [EPA range](../../../../guides/understandingrange/epa) is 427 miles (687 km).   The consumption is 3,6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 77 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 46% resulting in an actual charge speed including time loss on 174kW. Each charge session would take 18 minutes and 7 seconds. 
+The maximum DC charging speed is 300kW. A full charge from 0 - 100% would take 77 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 46% resulting in an actual charge speed including time loss on 174kW. Each charge session would take 18 minutes and 7 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 8 hours and 52 minutes to drive. This trip will require two charge session(s) charging from 1% to 41%. The total time lost for charging will be 32 minutes.   
 
@@ -75,7 +75,6 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 You can choose between 4 different paint colors when ordering this model. 
-Additionally, you can choose between 6 wheels with sizes from 19 to 21 inches. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. 
 

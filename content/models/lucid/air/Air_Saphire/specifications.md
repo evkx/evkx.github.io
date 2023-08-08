@@ -14,9 +14,9 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Saphire. C
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|907 Kw|
+|Peak electrical output in kW|920 Kw|
 |Electrical torque output in Nm|1390 Nm|
-|Top speed|270 km/h|
+|Top speed|330 km/h|
 |0-100km/h (0-62 mph)|1,95 s|
 
 
@@ -35,6 +35,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |----|-----|
 |[Battery gross](../../../../../technology/battery/buffer/)|118 kWh|
 |[Battery net](../../../../../technology/battery/buffer/)|117 kWh|
+|Max DC charging|300 kW|
 |[Pack Configuration](../../../../../technology/battery/batterypack/)|220s30p|
 |[Nominal voltage](../../../../../technology/battery/batterypack/)|800|
 
