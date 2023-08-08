@@ -20,7 +20,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q8 Sportback 55
 |Electrical torque output boost in Nm|664 Nm|
 |Top speed|200 km/h|
 |0-100km/h (0-62 mph)|6,6 s|
-|0-100km/h (0-62 mph) boost|5,7 s|
+|0-100km/h (0-62 mph) boost|5,6 s|
 
 
 

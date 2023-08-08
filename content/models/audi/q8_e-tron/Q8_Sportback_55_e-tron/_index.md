@@ -32,7 +32,7 @@ We have separated our Audi Q8 Sportback 55 e-tron article into sections. If you 
 
 ## Performance
 
-With overboost, the Audi Q8 Sportback 55 e-tron has a maximum power of 300KW (408hp). Without overboost, it is 265KW (360hp). The torque is 664nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 5,7 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h. 
+With overboost, the Audi Q8 Sportback 55 e-tron has a maximum power of 300KW (408hp). Without overboost, it is 265KW (360hp). The torque is 664nm with overboost and 561 without overboost. The 0-100km/h sprint (0-62mph) is performed in 5,6 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 

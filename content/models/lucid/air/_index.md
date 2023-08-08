@@ -43,3 +43,16 @@ Lucid Air Grand Touring is an all-electric sedan with a WLTP range of up to 839 
 - [Lucid Air Grand Touring image gallery](/models/lucid/air/air_grand_touring//gallery)
 - [Lucid Air Grand Touring reviews](/models/lucid/air/air_grand_touring//reviews)
 
+## Lucid Air Saphire
+
+<a href="/models/lucid/air/air_saphire/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_saphire/main_1_st.jpg" width="800" height="533" alt="Air Saphire" ></a>
+
+Lucid Air Saphire is an all-electric sedan with a EPA range of up to 687 km (427 miles). EVKX.net have all the details. 
+
+- [Lucid Air Saphire article](/models/lucid/air/air_saphire/)
+- [Lucid Air Saphire Range & consumption info](/models/lucid/air/air_saphire//rangeandconsumption)
+- [Lucid Air Saphire Charging curve and performance](/models/lucid/air/air_saphire//chargingcurve)
+- [Lucid Air Saphire full specifications](/models/lucid/air/air_saphire//specifications)
+- [Lucid Air Saphire image gallery](/models/lucid/air/air_saphire//gallery)
+- [Lucid Air Saphire reviews](/models/lucid/air/air_saphire//reviews)
+
