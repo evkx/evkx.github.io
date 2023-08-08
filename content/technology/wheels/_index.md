@@ -6,7 +6,7 @@ weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-Choosing the right tires for your car depends on several factors, such as the type of car, the driving conditions, the weather, and your personal preferences. In this article, we will explain the difference between types of tires, the sizes of tires, and the special tires for electric vehicles (EVs).
+Choosing the right tires and wheels for your car depends on several factors, such as the type of car, the driving conditions, the weather, and your personal preferences. In this article, we will explain the difference between types of tires & wheels, the sizes of tires & wheels, and the special tires & wheels for electric vehicles (EVs).
 
 <figur>
     <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/exterior_2.jpg">
@@ -23,9 +23,30 @@ Wheels are the parts of a car that connect the tires to the vehicle and allow th
 
 The design of a wheel affects the appearance, performance, and aerodynamics of a car. There are many types of wheel designs, such as spoke, mesh, star, multi-piece, split-spoke, turbine, and more. Each design has its own advantages and disadvantages, depending on the style and functionality of the car. Some designs are more suitable for certain types of cars or driving conditions than others. For example, spoke wheels are lightweight and allow better airflow and cooling for the brakes, but they are also more fragile and prone to bending or cracking. Mesh wheels are strong and durable, but they are also heavier and harder to clean. Star wheels are stylish and sporty, but they may not offer enough traction or stability for some cars.
 
+<figur>
+    <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1.jpg">
+        <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1_st.jpg" alt="Porsche Taycan with split-spoke wheels" title="Porsche Taycan with split-spoke wheels">
+    </a>
+    <figcaption><h4>Porsche Taycan with split-spoke wheels</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_4.jpg">
+        <img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_4_st.jpg" alt="Tesla Model Y with turbin design wheels" title="Tesla Model Y with turbin design wheels">
+    </a>
+    <figcaption><h4>Tesla Model Y with turbin design wheels</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1.jpg">
+        <img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" alt="Mercedes EQS with 11-spoke design wheels" title="Mercedes EQS with 11-spoke design wheels">
+    </a>
+    <figcaption><h4>Mercedes EQS with 11-spoke design wheels</h4></figcaption>
+</figur>
+
 ### Wheel size
 
-The size of a wheel affects the handling, comfort, speed, and fuel efficiency of a car.
+The size of a wheel affects the handling, comfort, speed, and energy efficiency of a car.
 
 ## Tires
 
@@ -61,27 +82,48 @@ It is important to choose the right size of tires for your car, as it affects it
 
 Electric vehicles (EVs) have some unique characteristics that require special tires. Some of these characteristics are:
 
-•  EVs are heavier than conventional cars due to the weight of the battery
-
-•  EVs have instant torque and acceleration that can put more stress on the tires
-
-•  EVs are quieter than conventional cars, which makes tire noise more noticeable
+- EVs are heavier than conventional cars due to the weight of the battery
+- EVs have instant torque and acceleration that can put more stress on the tires
+- EVs are quieter than conventional cars, which makes tire noise more noticeable
 
 Therefore, EVs need tires that can:
 
-•  Support the extra weight of the vehicle without compromising handling or safety
-
-•  Resist wear and tear from frequent acceleration and braking
-
-•  Reduce rolling resistance to improve efficiency and range
-
-•  Minimize noise to enhance comfort
+- Support the extra weight of the vehicle without compromising handling or safety
+- Resist wear and tear from frequent acceleration and braking
+- Reduce rolling resistance to improve efficiency and range
+- Minimize noise to enhance comfort
 
 Some tire manufacturers have developed EV-specific tires that meet these requirements. For example:
 
-•  Sailun Erange EV: These are tires that are designed specifically for EVs, using a special rubber compound process called EcoPoint3 that creates lower rolling resistance, improves tire life, and generates great grip. They also have a tread pattern that reduces noise and enhances wet performance. They are suitable for various EV models and sizes.
+#### Sailun Erange EV
 
-•  Goodyear ElectricDrive GT: These are tires that are adapted from Goodyear's normal tires, but tweaked to provide lower rolling resistance, higher load capacity, and reduced noise for EVs. They also have a tread pattern that improves wet and dry performance and a rubber compound that enhances durability. They are suitable for high-performance EVs such as Tesla Model 3.
+These are tires that are designed specifically for EVs, using a special rubber compound process called EcoPoint3 that creates lower rolling resistance, improves tire life, and generates great grip. They also have a tread pattern that reduces noise and enhances wet performance. They are suitable for various EV models and sizes.
 
-•  Michelin Pilot Sport EV: These are tires that are derived from Michelin's performance tires, but optimized to provide lower rolling resistance, higher load capacity, and reduced noise for EVs. They also have a tread pattern that improves wet and dry performance and a rubber compound that enhances grip and longevity. They are suitable for premium EVs such as Porsche Taycan.
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/wheels/evrange_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/wheels/evrange_1_st.jpg" alt="ERange EV Tires" title="ERange EV Tires">
+    </a>
+    <figcaption><h4>ERange EV Tires</h4></figcaption>
+</figur>
 
+#### Goodyear ElectricDrive GT
+
+These are tires that are adapted from Goodyear's normal tires, but tweaked to provide lower rolling resistance, higher load capacity, and reduced noise for EVs. They also have a tread pattern that improves wet and dry performance and a rubber compound that enhances durability. They are suitable for high-performance EVs such as Tesla Model 3.
+
+#### Michelin Pilot Sport EV
+
+These are tires that are derived from Michelin's performance tires, but optimized to provide lower rolling resistance, higher load capacity, and reduced noise for EVs. They also have a tread pattern that improves wet and dry performance and a rubber compound that enhances grip and longevity. They are suitable for premium EVs such as Porsche Taycan.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_1_st.jpg" alt="Michelin Pilot Sport EV" title="Michelin Pilot Sport EV">
+    </a>
+    <figcaption><h4>Michelin Pilot Sport EV</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_2.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_2_st.jpg" alt="Michelin Pilot Sport EV" title="Michelin Pilot Sport EV">
+    </a>
+    <figcaption><h4>Michelin Pilot Sport EV</h4></figcaption>
+</figur>
