@@ -14,10 +14,10 @@ EVKX.net seeks to have the most complete specifications for Tesla Model S. Click
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|760 Kw|
+|Peak electrical output in kW|504 Kw|
 |Electrical torque output in Nm|493 Nm|
-|Top speed|322 km/h|
-|0-100km/h (0-62 mph)|2,1 s|
+|Top speed|250 km/h|
+|0-100km/h (0-62 mph)|3,2 s|
 
 
 

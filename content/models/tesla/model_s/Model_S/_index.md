@@ -32,7 +32,7 @@ We have separated our Tesla Model S article into sections. If you want to wait t
 
 ## Performance
 
-The Tesla Model S has a maximum power of 760KW (1033hp). The total torque is 493nm. The 0-100km/h sprint (0-62mph) takes 2,1 seconds. The top speed is 322 km/h. 
+The Tesla Model S has a maximum power of 504KW (685hp). The total torque is 493nm. The 0-100km/h sprint (0-62mph) takes 3,2 seconds. The top speed is 250 km/h. 
 
 ## Battery, range, and charging
 
