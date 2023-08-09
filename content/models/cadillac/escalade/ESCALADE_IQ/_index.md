@@ -32,7 +32,7 @@ We have separated our Cadillac ESCALADE IQ article into sections. If you want to
 
 ## Performance
 
-The Cadillac ESCALADE IQ has a maximum power of 560KW (761hp). The total torque is 1000nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. The top speed is 170 km/h. 
+The Cadillac ESCALADE IQ has a maximum power of 560KW (761hp). The total torque is 1064nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -72,7 +72,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 You can choose between 1 different paint colors when ordering this model. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
 There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
@@ -108,7 +108,7 @@ The following functionalities are available on the **** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
 You can choose from 1 different materials/colors for this seat type. 
-- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
 

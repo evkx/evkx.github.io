@@ -15,8 +15,8 @@ EVKX.net seeks to have the most complete specifications for Cadillac ESCALADE IQ
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|560 Kw|
-|Electrical torque output in Nm|1000 Nm|
-|Top speed|170 km/h|
+|Electrical torque output in Nm|1064 Nm|
+|Top speed|200 km/h|
 |0-100km/h (0-62 mph)|4,7 s|
 
 
