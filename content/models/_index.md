@@ -152,7 +152,7 @@ Lotus has 1 models with total 3 variants. [Read all about them](lotus/)
 
 Lucid Group, Inc. is an American electric vehicle manufacturer headquartered in Newark, California. The company was founded in 2007. Deliveries of the Dream Edition launch versions were made available to the first group of 520 reservation holders on October 30, 2021  
 
-Lucid has 1 models with total 3 variants. [Read all about them](lucid/)
+Lucid has 1 models with total 4 variants. [Read all about them](lucid/)
 
 ## Mercedes
 
@@ -217,6 +217,12 @@ Porsche has 1 models with total 14 variants. [Read all about them](porsche/)
 Rivian is an electric vehicle maker that was founded in 2009 by RJ Scaringe. Rivian's EV strategy is to focus on producing premium electric trucks and SUVs that can handle off-road adventures and everyday driving. Rivian's first products are the R1T pickup truck and the R1S SUV, which have a range of up to 400 miles and can accelerate from 0 to 60 mph in about 3 seconds. 
 
 Rivian has 1 models with total 2 variants. [Read all about them](rivian/)
+
+## Rolls-Royce
+
+Rolls Royce is a British luxury car maker that is known for its high-end vehicles and bespoke craftsmanship. The company has recently announced that it will go all-electric by 2030, following the trend of other automakers that are committed to the decarbonisation of the transport sector. 
+
+Rolls-Royce has 1 models with total 1 variants. [Read all about them](rolls-royce/)
 
 ## Skoda
 

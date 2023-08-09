@@ -172,6 +172,8 @@ Keyless go makes it possible to start the car without using the key.
 
 The steering wheel is electrically adjustable. 
 
+comfort.easyentryseatcomfort.easyentryseat
+
 You have wireless charging for your phone.  
 
 {{<evkxdisplayaddarticle />}}
