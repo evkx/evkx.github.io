@@ -140,7 +140,7 @@ Interior.Seatlayout.OnlySix
 |Efficiency assist||
 |Automatic Emergency Steering||
 |Traffic Sign Recognition||
-|Night Vision|Not available|
+|Night Vision|Yes, standard equipment|
 
 ## Infotainment
 

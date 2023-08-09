@@ -68,7 +68,7 @@ The  suspension has a fixed height and damping.
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model. 
+You can choose between 8 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 20 to 22 inches. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. 
@@ -104,8 +104,10 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
+You can choose from 2 different materials/colors for this seat type. 
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+
 
 
 
@@ -156,6 +158,10 @@ Cadillac LYRIQ AWD has a single screen. The dashboard’s center has a single [i
 </a>
 <figcaption><h4>Cadillac LYRIQ AWD</h4></figcaption></figur>
 
+
+This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
+
+A gesture control system that lets you control specific features using your hands. 
 
 ## Infotainment
 

@@ -72,7 +72,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 You can choose between 1 different paint colors when ordering this model. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Powered doors are an standard function for the side doors. 
 
 There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
