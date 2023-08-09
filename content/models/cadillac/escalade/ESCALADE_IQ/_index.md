@@ -60,7 +60,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Cadillac ESCALADE IQ has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 175 mm, and the max is 225 mm. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the max is 200 mm. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -102,8 +102,10 @@ The following functionalities are available on the **** seat.
 - height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- [massage](../../../../technology/seats/adjustment/#massage) 
 
 You can choose from 1 different materials/colors for this seat type. 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -167,7 +169,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Cadillac ESCALADE IQ has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center  is 13,4 inches large and has a 1888x1728 pixels resolution. 
+The  screen behind the steering wheel mounted into the dashboard is 35 inches large. The touch screen at the bottom of the center console is 11 inches large. The touch screen uicontrols.screen.location.PassengerSideOnDash is 20 inches large. 
 
 
 <figur>
@@ -196,7 +198,11 @@ The Cadillac ESCALADE IQ has several standard and optional [advanced driver assi
 
 The Cadillac ESCALADE IQ has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
+The Cadillac ESCALADE IQ has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+
 The Cadillac ESCALADE IQ has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
@@ -207,6 +213,7 @@ The Cadillac ESCALADE IQ has a [**lane-keeping assist**](../../../../technology/
 With the Super Cruise  level 2 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
 - [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
 

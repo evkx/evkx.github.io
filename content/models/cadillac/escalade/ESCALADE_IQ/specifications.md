@@ -53,7 +53,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Wheelbase|3460 mm|
 |Track width front|1745 mm|
 |Track width rear|1745 mm|
-|Turning circle|11,3 meters|
+|Turning circle|12 meters|
 
 ## Suspension
 
@@ -64,8 +64,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Yes, standard equipment|
 |Adjustable height front|Yes, standard equipment|
 |Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|225|
-|Minimum ground clearance|175|
+|Max ground clearance|200|
+|Minimum ground clearance|125|
 |Suspension type front|AirSuspension|
 |Suspension construction front|DoubleWishbone|
 |Suspension type rear|AirSuspension|
@@ -82,7 +82,7 @@ Interior.Seatlayout.OnlySix
 |[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Standard feature|
 |Interior.Seatoptions.MemoryDriverSeat|Standard feature|
-|Interior.Seatoptions.MemoryPassangerSeat|Not Available|
+|Interior.Seatoptions.MemoryPassangerSeat|Standard feature|
 |Height adjustable headrest|Standard feature|
 |Length adjustable headrest|Not Available|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
@@ -93,7 +93,7 @@ Interior.Seatlayout.OnlySix
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Standard feature|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
 
 ### Front seats
 
@@ -122,9 +122,9 @@ Interior.Seatlayout.OnlySix
 |Reversing camera|Yes, standard equipment|
 |360 camera|Yes, standard equipment|
 |Rear cross traffic alert||
-|Rear parking sensors||
-|Front parking sensors||
-|Side parking sensors||
+|Rear parking sensors|Yes, standard equipment|
+|Front parking sensors|Yes, standard equipment|
+|Side parking sensors|Yes, standard equipment|
 |Hill descent assist||
 |Hill start assist||
 |AntiLock Braking System|Yes, standard equipment|
@@ -132,8 +132,8 @@ Interior.Seatlayout.OnlySix
 |Brake assist|Yes, standard equipment|
 |Traction control|Yes, standard equipment|
 |Left turn crash avoidance||
-|Forward Collision Warning||
-|Electronic stability control||
+|Forward Collision Warning|Yes, standard equipment|
+|Electronic stability control|Yes, standard equipment|
 |Temperature warning||
 |Cross traffic assist||
 |Speed limiter||
