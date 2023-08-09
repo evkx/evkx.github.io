@@ -1,7 +1,7 @@
 ---
-title: BYD Atto 3 range & consumption
+title: Cadillac LYRIQ AWD range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for BYD Atto 3.
+description: Here you find all details about range and consumption for Cadillac LYRIQ AWD.
 weight: 9
 hidden: true
 ---
@@ -19,8 +19,8 @@ Below are the officially rated ranges. The tests are performed with the heating/
 
 | | Range  | Consumption  |
 |----|-----|------|
-| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 420 km / 261mi |13,81kWh/100km / 4,5 mi/kWh | 
-| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 420 km / 261mi | 13,81 kWh/100km / 4,5 mi/kWh | 
+| [EPA-combined minimum trim](../../../../../guides/understandingrange/epa/) | 494km / 307 mi| 20,2 kWh/100km / 3,1 mi/kWh |
+| [EPA-combined top trim](../../../../../guides/understandingrange/epa/) | 494km /307mi| 20,2 kWh/100km / 3,1 mi/kWh  |
 
 ### Official test cycle results with added heating
 
@@ -28,8 +28,8 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 
 | | Range  | Change  |
 |----|-----|------|
-| WLTP-combined basic trim with 2KW AC | 320km /199 mi | -23,8%|
-| WLTP-combined top trim with 2KW AC | 320km /199 mi | -23,8%|
+| EPA-combined basic trim with 2KW AC | 253km /157 mi | -17,6%|
+| EPA-combined top trim with 2KW AC | 253km /157 mi | -17,6%|
 
 ### Real world range estimates
 
@@ -37,7 +37,3 @@ The table below shows some estimated real-world examples in perfect condition an
 
 | | Range  | Consumption  |
 |----|-----|------|
-| 90kmh/56mph perfect condition | 341km /212mi| 17 kWh/100km / 3,7 mi/kWh |
-| 90kmh/56mph with 2KW heating | 311km /193mi| 18,7 kWh/100km / 3,3 mi/kWh |
-| 120kmh/75mph perfect condition | 252km /157mi| 23 kWh/100km / 2,7 mi/kWh |
-| 120kmh/75mph with 2KW heating | 379km /236mi| 24,7 kWh/100km / 2,5 mi/kWh |

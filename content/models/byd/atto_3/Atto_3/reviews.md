@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: BYD Atto 3 60 kWh range, acceleration and noise test 09.08.2023
+
+{{< youtube H_PdSOK1QfU >}}
+
 ### Bjørn Nyland: BYD Atto 3 banana box test 05.08.2023
 
 {{< youtube BNR9-YHZINo >}}
