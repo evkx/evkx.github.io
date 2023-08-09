@@ -124,8 +124,12 @@ You can choose from 1 different materials/colors for this seat type.
 
 For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available. 
 
+- electric adjustment 
 - height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- [massage](../../../../technology/seats/adjustment/#massage) 
 
 
 <figur>
@@ -133,6 +137,10 @@ For the second row, this model has twin [executive seats](../../../../technology
 <img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" width="680" height="454">
 </a>
 <figcaption><h4>Cadillac ESCALADE IQ</h4></figcaption></figur>
+
+
+### Third-row seats
+
 
 
 There is only one type of steering wheel available. 
