@@ -17,7 +17,7 @@ EVKX.net seeks to have the most complete specifications for Nio ET7. Click on im
 |Peak electrical output in kW|360 Kw|
 |Electrical torque output in Nm|700 Nm|
 |Top speed|200 km/h|
-|0-100km/h (0-62 mph)|4 s|
+|0-100km/h (0-62 mph)|3,8 s|
 
 
 

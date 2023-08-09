@@ -32,7 +32,7 @@ We have separated our Nio ET7 article into sections. If you want to wait to read
 
 ## Performance
 
-The Nio ET7 has a maximum power of 360KW (489hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 200 km/h. 
+The Nio ET7 has a maximum power of 360KW (489hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
