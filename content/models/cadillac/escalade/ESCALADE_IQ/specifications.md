@@ -146,6 +146,21 @@ Interior.Seatlayout.OnlySix
 
 |Spec|Value|
 |----|-----|
-|Android Auto support|Yes, standard equipment|
-|Apple Carplay support|Yes, standard equipment|
+|Android Auto support|Not available|
+|Apple Carplay support|Not available|
 |In Car navigation|Yes, standard equipment|
+|Number of avaiable sound systems|2|
+
+### AKG Studio audi System
+
+|Spec|Value|
+|----|-----|
+|Number of speakers|19|
+|Total effect|1000|
+
+### AKG Studio Reference System
+
+|Spec|Value|
+|----|-----|
+|Number of speakers|40|
+|Total effect|1000|

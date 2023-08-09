@@ -74,7 +74,7 @@ You can choose between 1 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. 
 
-There is only one roof for this model. The standard roof has a 4 seperate glass panels that can be removed, making this a convertible.
+There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 
 <figur>
@@ -169,7 +169,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 35 inches large. The touch screen at the bottom of the center console is 11 inches large. The touch screen uicontrols.screen.location.PassengerSideOnDash is 20 inches large. 
+The  screen behind the steering wheel mounted into the dashboard is 35 inches large. The touch screen at the bottom of the center console is 11 inches large. The touch screen in front of the passenger on the dashboard is 20 inches large. 
 
 
 <figur>
@@ -181,9 +181,9 @@ The  screen behind the steering wheel mounted into the dashboard is 35 inches la
 
 ## Infotainment
 
-One type of sound system is available for the Cadillac ESCALADE IQ. With the Bose Premium Sound System, you get 14 speakers with a max system output of 625 watts. 
+You can choose between two sound systems on the Cadillac ESCALADE IQ. With the AKG Studio audi System, you get 19 speakers with a max system output of 1000 watts. With the AKG Studio Reference System, you get 40 speakers with a max system output of 1000 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Cadillac ESCALADE IQ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard. 
 ## Lights
