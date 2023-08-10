@@ -41,81 +41,81 @@
         <path d="M 305 1060 L 305 0" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
         <path d="M 405 1060 L 405 0" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
         <path d="M 505 1060 L 505 0" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
-           <rect x="1" y="340" width="494" height="40" fill="#60a917" stroke="#2d7600" />
+           <rect x="1" y="340" width="502" height="40" fill="#60a917" stroke="#2d7600" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%"
                     requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
                     style="overflow: visible; text-align: left;">
                     <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 492px; height: 1px; padding-top: 360px; margin-left: 2px;">
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 500px; height: 1px; padding-top: 360px; margin-left: 2px;">
                         <div data-drawio-colors="color: #ffffff; "
                             style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Combined EPA-Range minimum trim - 494 km
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Combined EPA-Range minimum trim - 502 km
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
-                    text-anchor="middle">Combined EPA-Range minimum trim - 494 km</text>
+                    text-anchor="middle">Combined EPA-Range minimum trim - 502 km</text>
             </switch>
-        </g>    <rect x="1" y="400" width="494" height="40" fill="#60a917" stroke="#2d7600" />
+        </g>    <rect x="1" y="400" width="502" height="40" fill="#60a917" stroke="#2d7600" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%"
                     requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
                     style="overflow: visible; text-align: left;">
                     <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 492px; height: 1px; padding-top: 420px; margin-left: 2px;">
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 500px; height: 1px; padding-top: 420px; margin-left: 2px;">
                         <div data-drawio-colors="color: #ffffff; "
                             style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Combined EPA-Range top trim - 494 km
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Combined EPA-Range top trim - 502 km
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
-                    text-anchor="middle">Combined EPA-Range top trim - 494 km</text>
+                    text-anchor="middle">Combined EPA-Range top trim - 502 km</text>
             </switch>
-        </g>    <rect x="1" y="460" width="409" height="40" fill="#d417c4" stroke="#2d7600" />
+        </g>    <rect x="1" y="460" width="414" height="40" fill="#d417c4" stroke="#2d7600" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%"
                     requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
                     style="overflow: visible; text-align: left;">
                     <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 407px; height: 1px; padding-top: 480px; margin-left: 2px;">
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 412px; height: 1px; padding-top: 480px; margin-left: 2px;">
                         <div data-drawio-colors="color: #ffffff; "
                             style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">EPA basic trim with 2kW heating - 409 km
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">EPA basic trim with 2kW heating - 414 km
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
-                    text-anchor="middle">EPA basic trim with 2kW heating - 409 km</text>
+                    text-anchor="middle">EPA basic trim with 2kW heating - 414 km</text>
             </switch>
-        </g>    <rect x="1" y="520" width="409" height="40" fill="#d417c4" stroke="#2d7600" />
+        </g>    <rect x="1" y="520" width="414" height="40" fill="#d417c4" stroke="#2d7600" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%"
                     requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
                     style="overflow: visible; text-align: left;">
                     <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 407px; height: 1px; padding-top: 540px; margin-left: 2px;">
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 412px; height: 1px; padding-top: 540px; margin-left: 2px;">
                         <div data-drawio-colors="color: #ffffff; "
                             style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">EPA top trim with 2kW heating - 409 km
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">EPA top trim with 2kW heating - 414 km
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
-                    text-anchor="middle">EPA top trim with 2kW heating - 409 km</text>
+                    text-anchor="middle">EPA top trim with 2kW heating - 414 km</text>
             </switch>
         </g> <rect x="275" y="1060" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">

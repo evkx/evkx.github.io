@@ -16,7 +16,7 @@ EVKX.net seeks to have the most complete specifications for Cadillac LYRIQ AWD. 
 |----|-----|
 |Peak electrical output in kW|373 Kw|
 |Electrical torque output in Nm|610 Nm|
-|0-100km/h (0-62 mph)|4,7 s|
+|0-100km/h (0-62 mph)|4,6 s|
 
 
 
