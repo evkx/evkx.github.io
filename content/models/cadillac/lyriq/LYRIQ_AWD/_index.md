@@ -36,15 +36,15 @@ The Cadillac LYRIQ AWD has a maximum power of 373KW (507hp). The total torque is
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 102kWh and a net capacity of 100kWh, meaning you have a 2kWh buffer for protection. (2,0%). 
+The battery has a gross capacity of 110kWh and a net capacity of 102kWh, meaning you have a 8kWh buffer for protection. (7,3%). 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 307 miles (494 km).   The consumption is 3,1mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa) is 307 miles (494 km).   The consumption is 3,0mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 199 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 16% to 72% resulting in an actual charge speed including time loss on 108kW. Each charge session would take 31 minutes and 6 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 203 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 16% to 72% resulting in an actual charge speed including time loss on 108kW. Each charge session would take 32 minutes and 37 seconds. 
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 5 minutes. You can also select an optional onboard charger that supports up to 19,2KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 12 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 16 minutes. You can also select an optional onboard charger that supports up to 19,2KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 18 minutes. 
 
 ### Charge port
 

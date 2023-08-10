@@ -32,8 +32,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|102 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|100 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|110 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|102 kWh|
 
 
 
