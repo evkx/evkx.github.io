@@ -18,5 +18,5 @@ This model is available in 1 variant(s).
 
 <a href="lyriq"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" width="800" height="599" alt="Cadillac LYRIQ" ></a>
 
-This model is available in 1 variant(s). 
+This model is available in 2 variant(s). 
 [Read full details](lyriq/)
