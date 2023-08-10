@@ -44,7 +44,7 @@ The maximum DC charging speed is kW. A full charge from 0 - 100% would take 203 
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 16 minutes. You can also select an optional onboard charger that supports up to 19,2KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 18 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11,5KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 52 minutes. You can also select an optional onboard charger that supports up to 19,2KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 18 minutes. 
 
 ### Charge port
 
@@ -69,9 +69,9 @@ The  suspension has a fixed height and damping.
 ## Exterior
 
 You can choose between 8 different paint colors when ordering this model. 
-Additionally, you can choose between 2 wheels with sizes from 20 to 22 inches. 
+Additionally, you can choose between 3 wheels with sizes from 20 to 22 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
 There is only one roof for this model. 
 
@@ -137,11 +137,15 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The  climate system supports only controlling one common zone for the whole car. The  climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
+You can choose from two different climate systems. The  climate system supports different temperatures in two zone for the driver and passenger. The  climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
 
 ## Comfort
 
 Cadillac LYRIQ AWD has several features to make your life as a driver or passenger more comfortable. 
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without using the key. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -165,11 +169,11 @@ A gesture control system that lets you control specific features using your hand
 
 ## Infotainment
 
-One type of sound system is available for the Cadillac LYRIQ AWD. With the , you get NULL speakers with a max system output of  watts. 
+One type of sound system is available for the Cadillac LYRIQ AWD. With the Lyric sound system, you get seven speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Cadillac LYRIQ AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 2 USB-C connections as standard. 
+The model has 5 USB-C connections as standard. 
 ## Lights
 
 
@@ -189,6 +193,8 @@ The Cadillac LYRIQ AWD has several standard and optional [advanced driver assist
 
 
 The Cadillac LYRIQ AWD has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
 

@@ -108,7 +108,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Lane departure warning|Yes, standard equipment|
 |Drowsiness Alert||
 |Reversing camera|Yes, standard equipment|
-|360 camera|Yes, standard equipment|
+|360 camera|Yes, optional equipment|
 |Rear cross traffic alert|Yes, standard equipment|
 |Rear parking sensors||
 |Front parking sensors||
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Forward Collision Warning||
 |Electronic stability control||
 |Temperature warning||
-|Cross traffic assist||
+|Cross traffic assist|Yes, optional equipment|
 |Speed limiter||
 |Efficiency assist||
 |Automatic Emergency Steering||
