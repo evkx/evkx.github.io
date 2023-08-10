@@ -8,5 +8,5 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### :  01.01.0001
+### Everyday Reviewer: 2023 Cadillac LYRIQ EV is a Total BARGAIN! 08.06.2023
 

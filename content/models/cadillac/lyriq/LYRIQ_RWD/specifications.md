@@ -14,8 +14,8 @@ EVKX.net seeks to have the most complete specifications for Cadillac LYRIQ RWD. 
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|373 Kw|
-|Electrical torque output in Nm|610 Nm|
+|Peak electrical output in kW|255 Kw|
+|Electrical torque output in Nm|450 Nm|
 |0-100km/h (0-62 mph)|4,7 s|
 
 
@@ -45,6 +45,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Height|1623 mm|
 |Width excluding mirrors|1977 mm|
 |Wheelbase|3094 mm|
+|Turning circle|12,1 meters|
 
 ## Suspension
 

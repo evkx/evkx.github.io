@@ -32,7 +32,7 @@ We have separated our Cadillac LYRIQ RWD article into sections. If you want to w
 
 ## Performance
 
-The Cadillac LYRIQ RWD has a maximum power of 373KW (507hp). The total torque is 610nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. 
+The Cadillac LYRIQ RWD has a maximum power of 255KW (347hp). The total torque is 450nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. 
 
 ## Battery, range, and charging
 
@@ -40,7 +40,7 @@ The battery has a gross capacity of 110kWh and a net capacity of 102kWh, meaning
 
  The [EPA range](../../../../guides/understandingrange/epa) is 307 miles (494 km).   The consumption is 3,0mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 203 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 16% to 72% resulting in an actual charge speed including time loss on 108kW. Each charge session would take 32 minutes and 37 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 181 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 16% to 71% resulting in an actual charge speed including time loss on 111kW. Each charge session would take 30 minutes and 14 seconds. 
 
 ### Onboard charger
 
@@ -62,7 +62,7 @@ The  suspension has a fixed height and damping.
 
 ### Brakes
 
-
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 321mm, and the rear discs are 345mm. 
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. drivetrain.regen.onepedaldriving.stoppingmodes.Hold
 
@@ -73,7 +73,7 @@ Additionally, you can choose between 3 wheels with sizes from 20 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
-You can choose between two types of roofs on this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.As an option, you can order this model with a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun. 
+You can choose between two types of roofs on this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.As an option, you can order this model with a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun. 
 
 
 <figur>

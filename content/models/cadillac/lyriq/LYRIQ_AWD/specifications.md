@@ -45,6 +45,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Height|1623 mm|
 |Width excluding mirrors|1977 mm|
 |Wheelbase|3094 mm|
+|Turning circle|12,1 meters|
 
 ## Suspension
 
