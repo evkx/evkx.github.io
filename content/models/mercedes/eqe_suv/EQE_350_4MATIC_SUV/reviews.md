@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Kris Rifa: Mercedes EQE SUV 350 4-Matic | RANGE TEST 10.08.2023
+
+{{< youtube P1ZzLTMS5VU >}}
+
 ### Kris Rifa: Mercedes EQE SUV 350 4-Matic | FIRST LOOK AND TEST DRIVE 09.08.2023
 
 {{< youtube wxW6QZU7ISc >}}

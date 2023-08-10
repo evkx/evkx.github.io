@@ -73,7 +73,7 @@ Additionally, you can choose between 3 wheels with sizes from 20 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
-There is only one roof for this model. 
+You can choose between two types of roofs on this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.exterior.roof.optional.panoramic.TwoPartsFullOpenFront.TonedGlass
 
 
 <figur>
