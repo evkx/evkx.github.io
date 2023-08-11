@@ -130,7 +130,7 @@ This type of tailgate consists of two separate sections, with each section openi
 
 ### Barn-Door Tailgate
 
-This type of tailgate consists of two doors that open outward from the center of the vehicle. It is commonly found on larger SUVs and pickup trucks.
+This type of tailgate consists of two doors that open outward from the center of the vehicle. It is commonly found on larger SUVs.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/doors/evitodoors_1.jpg">
@@ -138,6 +138,31 @@ This type of tailgate consists of two doors that open outward from the center of
     </a>
     <figcaption><h4>Mercedes eVito barn-door tailgate</h4></figcaption>
 </figur>
+
+### Swing gate
+
+This type of tailgate consists of one door that swings to one of the sides.  It is commonly found on larger SUVs.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/hummersuvswinggate_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/hummersuvswinggate_1_st.jpg" alt="GMC Hummer EV Swing door" title="GMC Hummer EV Swing door">
+    </a>
+    <figcaption><h4>GMC Hummer EV Swing door</h4></figcaption>
+</figur>
+
+### Tailgate
+
+This type of tailgate swings up. This is typical what you find on a pick-up truck.
+
+<figur>
+    <a href="https://media.evkx.net/multimedia/technology/doors/fordf150tailgate_1.jpg">
+    <img src="https://media.evkx.net/multimedia/technology/doors/fordf150tailgate_1_st.jpg" alt="Ford F150 Lightning tailgate" title="Ford F150 Lightning tailgate">
+    </a>
+    <figcaption><h4>Ford F150 Lightning tailgate</h4></figcaption>
+</figur>
+
+
+.jpg
 
 ## Hood
 
