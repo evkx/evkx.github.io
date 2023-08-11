@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Raiti's Rides: Is the 2024 Audi Q8 e-tron Sportback a NEW luxury SUV worth the price? 10.08.2023
+
+{{< youtube VZ42yV6ZScY >}}
+
 ### Out of Spec Reviews: I Drive The New Audi Q8 e-tron For The First Time To See If We Should Upgrade Ours! 22.05.2023
 
 {{< youtube wBYOaQJvi0E >}}
