@@ -58,7 +58,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Volvo XC40 Recharge Twin Motor has a rear-wheel drive system supported by one motor on the rear axle. 
+Volvo XC40 Recharge Twin Motor has an all-wheel drive system supported by two motors, one on each axle. 
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 175 mm. 
 
