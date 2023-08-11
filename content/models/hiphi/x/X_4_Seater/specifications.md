@@ -81,8 +81,8 @@ This model is available with a seat configuration with four seats.
 |Electric adjustment of height, recline and angle|Standard feature|
 |Interior.Seatoptions.MemoryDriverSeat|Standard feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Standard feature|
-|Height adjustable headrest|Unknown|
-|Length adjustable headrest|Unknown|
+|Height adjustable headrest|Not Available|
+|Length adjustable headrest|Not Available|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
 |[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Unknown|
 |[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Unknown|
@@ -98,8 +98,8 @@ This model is available with a seat configuration with four seats.
 |Spec|Value|
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|TwoCaptainChairs|
-|Height adjustable headrest|Unknown|
-|Length adjustable headrest|Unknown|
+|Height adjustable headrest|Not Available|
+|Length adjustable headrest|Not Available|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
 |[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
 |[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|

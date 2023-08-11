@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### carwow: This Chinese SUV is absolutely NUTS! 11.08.2023
+
+{{< youtube KxNI2tPY9YY >}}
+
 ### Supercar Blondie: Chinese Gullwing Luxury SUV | HiPhi X 08.08.2022
 
 {{< youtube 0_u86W-wVt8 >}}
