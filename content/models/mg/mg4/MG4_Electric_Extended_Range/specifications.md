@@ -1,13 +1,13 @@
 ---
-title: MG MG4 Electric Long Range specifications
+title: MG MG4 Electric Extended Range specifications
 linktitle: Specifications
-description: "EVKX.net gives you the full specifications for MG MG4 Electric Long Range."
+description: "EVKX.net gives you the full specifications for MG MG4 Electric Extended Range."
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![MG MG4 Electric Long Range](https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for MG MG4 Electric Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG4 Electric Long Range, visit the [chargeinfo](../chargecurve/) for MG MG4 Electric Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![MG MG4 Electric Extended Range](https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_extended_range/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for MG MG4 Electric Extended Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG4 Electric Extended Range, visit the [chargeinfo](../chargecurve/) for MG MG4 Electric Extended Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -26,8 +26,8 @@ EVKX.net seeks to have the most complete specifications for MG MG4 Electric Long
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|435 km|
-|WLTP consumption|14,2 kWh/100km|
+|WLTP range|520 km|
+|WLTP consumption|14,3 kWh/100km|
 |WLTP consumption with charging loss|166 kWh/100km|
 
 
@@ -36,11 +36,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|64 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|61,7 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|77 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|74,4 kWh|
 |Max DC charging|135 kW|
-|[Pack Configuration](../../../../../technology/battery/batterypack/)|104s1p|
-|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC|
+|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC811|
 
 
 
@@ -49,7 +48,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |Length|4287 mm|
-|Height|1516 mm|
+|Height|1504 mm|
 |Width excluding mirrors|1836 mm|
 |Widht including mirrors|2060 mm|
 |Wheelbase|2705 mm|

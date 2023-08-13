@@ -11,7 +11,7 @@ weight: 30
 
 <a href="mg4"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/main_1_st.jpg" width="800" height="599" alt="MG MG4" ></a>
 
-This model is available in 3 variant(s). 
+This model is available in 4 variant(s). 
 [Read full details](mg4/)
 
 ## MG MG5

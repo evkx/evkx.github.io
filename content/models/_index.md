@@ -180,7 +180,7 @@ Mercedes has 7 models with total 26 variants. [Read all about them](mercedes/)
 
 MG is a British car brand that was founded in 1924 and is now owned by SAIC Motor, a Chinese automobile group. MG has a long history of producing sports cars and roadsters, but in recent years it has shifted to electric and hybrid vehicles. 
 
-MG has 2 models with total 4 variants. [Read all about them](mg/)
+MG has 2 models with total 5 variants. [Read all about them](mg/)
 
 ## Nio
 
