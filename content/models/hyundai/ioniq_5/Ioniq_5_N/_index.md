@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 N
 linktitle: Ioniq 5 N
-description: Hyundai Ioniq 5 N is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net have all the details. 
+description: "Hyundai Ioniq 5 N is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

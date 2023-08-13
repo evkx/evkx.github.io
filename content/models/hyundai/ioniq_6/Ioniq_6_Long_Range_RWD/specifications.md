@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 6 Long Range RWD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Hyundai Ioniq 6 Long Range RWD.
+description: "EVKX.net gives you the full specifications for Hyundai Ioniq 6 Long Range RWD."
 weight: 30
 hidden: true
 ---

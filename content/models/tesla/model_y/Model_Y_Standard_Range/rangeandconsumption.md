@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Standard Range range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Tesla Model Y Standard Range.
+description: "Here you find all details about range and consumption for Tesla Model Y Standard Range."
 weight: 9
 hidden: true
 ---

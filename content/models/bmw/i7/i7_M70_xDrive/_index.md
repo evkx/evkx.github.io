@@ -1,7 +1,7 @@
 ---
 title: BMW i7 M70 xDrive
 linktitle: i7 M70 xDrive
-description: BMW i7 M70 xDrive is an all-electric luxury sedan with a WLTP range of up to 560 km (348 miles). EVKX.net have all the details. 
+description: "BMW i7 M70 xDrive is an all-electric luxury sedan with a WLTP range of up to 560 km (348 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

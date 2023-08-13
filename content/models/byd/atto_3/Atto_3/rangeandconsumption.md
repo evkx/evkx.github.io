@@ -1,7 +1,7 @@
 ---
 title: BYD Atto 3 range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for BYD Atto 3.
+description: "Here you find all details about range and consumption for BYD Atto 3."
 weight: 9
 hidden: true
 ---

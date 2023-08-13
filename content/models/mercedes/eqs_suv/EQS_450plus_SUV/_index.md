@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 450+ SUV
 linktitle: EQS 450+ SUV
-description: Mercedes-EQ EQS 450+ SUV is an all-electric luxury sedan with a WLTP range of up to 672 km (418 miles). EVKX.net have all the details. 
+description: "Mercedes-EQ EQS 450+ SUV is an all-electric luxury sedan with a WLTP range of up to 672 km (418 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: BMW i5
 linktitle: i5
-description: See below for details of the different variants of BMW i5
+description: "See below for details of the different variants of BMW i5"
 weight: 30
 ---
 ## BMW i5 M60 xDrive

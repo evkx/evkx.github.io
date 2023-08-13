@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV Edition 1 Pickup specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for GMC Hummer EV Edition 1 Pickup.
+description: "EVKX.net gives you the full specifications for GMC Hummer EV Edition 1 Pickup."
 weight: 30
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Standard Range charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Tesla Model Y Standard Range. 
+description: "Here you find the charging curve for Tesla Model Y Standard Range. "
 weight: 10
 hidden: true
 ---

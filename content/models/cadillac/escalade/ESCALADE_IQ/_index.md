@@ -1,7 +1,7 @@
 ---
 title: Cadillac ESCALADE IQ
 linktitle: ESCALADE IQ
-description: Cadillac ESCALADE IQ is an all-electric SUV with a EPA range of up to 724 km (450 miles). EVKX.net have all the details. 
+description: "Cadillac ESCALADE IQ is an all-electric SUV with a EPA range of up to 724 km (450 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

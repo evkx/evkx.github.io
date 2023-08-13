@@ -1,7 +1,7 @@
 ---
 title: Zeekr X
 linktitle: X
-description: See below for details of the different variants of Zeekr X
+description: "See below for details of the different variants of Zeekr X"
 weight: 30
 ---
 ## Zeekr X Long Range RWD

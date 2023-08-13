@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Long Range charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Tesla Model 3 Long Range. 
+description: "Here you find the charging curve for Tesla Model 3 Long Range. "
 weight: 10
 hidden: true
 ---

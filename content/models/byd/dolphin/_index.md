@@ -1,7 +1,7 @@
 ---
 title: BYD Dolphin
 linktitle: Dolphin
-description: See below for details of the different variants of BYD Dolphin
+description: "See below for details of the different variants of BYD Dolphin"
 weight: 30
 ---
 ## BYD Dolphin 60.4kWh

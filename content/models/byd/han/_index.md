@@ -1,7 +1,7 @@
 ---
 title: BYD Han
 linktitle: Han
-description: See below for details of the different variants of BYD Han
+description: "See below for details of the different variants of BYD Han"
 weight: 30
 ---
 ## BYD Han

@@ -1,7 +1,7 @@
 ---
 title: HiPhi X 6 Seater
 linktitle: X 6 Seater
-description: HiPhi X 6 Seater is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. 
+description: "HiPhi X 6 Seater is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

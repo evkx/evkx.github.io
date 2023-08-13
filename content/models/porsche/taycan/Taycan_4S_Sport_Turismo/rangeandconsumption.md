@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan 4S Sport Turismo range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Porsche Taycan 4S Sport Turismo.
+description: "Here you find all details about range and consumption for Porsche Taycan 4S Sport Turismo."
 weight: 9
 hidden: true
 ---

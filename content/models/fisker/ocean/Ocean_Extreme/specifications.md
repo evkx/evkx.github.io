@@ -1,7 +1,7 @@
 ---
 title: Fisker Ocean Extreme specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Fisker Ocean Extreme.
+description: "EVKX.net gives you the full specifications for Fisker Ocean Extreme."
 weight: 30
 hidden: true
 ---

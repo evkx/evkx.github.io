@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 Pro 4MOTION range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Volkswagen ID.4 Pro 4MOTION.
+description: "Here you find all details about range and consumption for Volkswagen ID.4 Pro 4MOTION."
 weight: 9
 hidden: true
 ---

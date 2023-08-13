@@ -1,7 +1,7 @@
 ---
 title: BMW iX3
 linktitle: iX3
-description: BMW iX3 is an all-electric premium SUV with a WLTP range of up to 461 km (287 miles). EVKX.net have all the details. 
+description: "BMW iX3 is an all-electric premium SUV with a WLTP range of up to 461 km (287 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

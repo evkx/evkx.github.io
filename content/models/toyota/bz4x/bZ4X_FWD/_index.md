@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X FWD
 linktitle: bZ4X FWD
-description: Toyota bZ4X FWD is an all-electric crossover with a WLTP range of up to 516 km (321 miles). EVKX.net have all the details. 
+description: "Toyota bZ4X FWD is an all-electric crossover with a WLTP range of up to 516 km (321 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 Sportback 50 e-tron
 linktitle: Q8 Sportback 50 e-tron
-description: Audi Q8 Sportback 50 e-tron is an all-electric luxury coupe SUV with a WLTP range of up to 505 km (314 miles). EVKX.net have all the details. 
+description: "Audi Q8 Sportback 50 e-tron is an all-electric luxury coupe SUV with a WLTP range of up to 505 km (314 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

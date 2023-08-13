@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 580 4MATIC range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Mercedes-EQ EQS 580 4MATIC.
+description: "Here you find all details about range and consumption for Mercedes-EQ EQS 580 4MATIC."
 weight: 9
 hidden: true
 ---

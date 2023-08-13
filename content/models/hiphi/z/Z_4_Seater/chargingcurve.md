@@ -1,7 +1,7 @@
 ---
 title: HiPhi Z 4 Seater charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for HiPhi Z 4 Seater. 
+description: "Here you find the charging curve for HiPhi Z 4 Seater. "
 weight: 10
 hidden: true
 ---

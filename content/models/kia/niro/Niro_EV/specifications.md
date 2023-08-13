@@ -1,7 +1,7 @@
 ---
 title: Kia Niro EV specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Kia Niro EV.
+description: "EVKX.net gives you the full specifications for Kia Niro EV."
 weight: 30
 hidden: true
 ---

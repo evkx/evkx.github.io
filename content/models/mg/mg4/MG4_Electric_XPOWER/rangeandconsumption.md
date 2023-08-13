@@ -1,7 +1,7 @@
 ---
 title: MG MG4 Electric XPOWER range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for MG MG4 Electric XPOWER.
+description: "Here you find all details about range and consumption for MG MG4 Electric XPOWER."
 weight: 9
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X AWD charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Toyota bZ4X AWD. 
+description: "Here you find the charging curve for Toyota bZ4X AWD. "
 weight: 10
 hidden: true
 ---

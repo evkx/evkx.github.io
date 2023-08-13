@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo S Sport Turismo range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Porsche Taycan Turbo S Sport Turismo.
+description: "Here you find all details about range and consumption for Porsche Taycan Turbo S Sport Turismo."
 weight: 9
 hidden: true
 ---

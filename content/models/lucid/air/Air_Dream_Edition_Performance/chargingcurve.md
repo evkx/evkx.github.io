@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Dream Edition Performance charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Lucid Air Dream Edition Performance. 
+description: "Here you find the charging curve for Lucid Air Dream Edition Performance. "
 weight: 10
 hidden: true
 ---

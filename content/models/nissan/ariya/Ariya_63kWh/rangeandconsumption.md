@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 63kWh range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Nissan Ariya 63kWh.
+description: "Here you find all details about range and consumption for Nissan Ariya 63kWh."
 weight: 9
 hidden: true
 ---

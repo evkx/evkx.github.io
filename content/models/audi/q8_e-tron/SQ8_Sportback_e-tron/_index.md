@@ -1,7 +1,7 @@
 ---
 title: Audi SQ8 Sportback e-tron
 linktitle: SQ8 Sportback e-tron
-description: Audi SQ8 Sportback e-tron is an all-electric luxury coupe SUV with a WLTP range of up to 513 km (319 miles). EVKX.net have all the details. 
+description: "Audi SQ8 Sportback e-tron is an all-electric luxury coupe SUV with a WLTP range of up to 513 km (319 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

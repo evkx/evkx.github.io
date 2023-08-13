@@ -1,7 +1,7 @@
 ---
 title: CUPRA BORN 58 e-BOOST
 linktitle: BORN 58 e-BOOST
-description: CUPRA BORN 58 e-BOOST is an all-electric hatchback with a WLTP range of up to 420 km (261 miles). EVKX.net have all the details. 
+description: "CUPRA BORN 58 e-BOOST is an all-electric hatchback with a WLTP range of up to 420 km (261 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

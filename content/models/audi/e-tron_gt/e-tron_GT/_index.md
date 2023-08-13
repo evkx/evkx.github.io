@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT
 linktitle: e-tron GT
-description: Audi e-tron GT is an all-electric luxury sedan with a WLTP range of up to 488 km (303 miles). EVKX.net have all the details. 
+description: "Audi e-tron GT is an all-electric luxury sedan with a WLTP range of up to 488 km (303 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

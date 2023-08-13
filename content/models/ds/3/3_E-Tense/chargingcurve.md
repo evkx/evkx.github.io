@@ -1,7 +1,7 @@
 ---
 title: DS 3 E-Tense charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for DS 3 E-Tense. 
+description: "Here you find the charging curve for DS 3 E-Tense. "
 weight: 10
 hidden: true
 ---

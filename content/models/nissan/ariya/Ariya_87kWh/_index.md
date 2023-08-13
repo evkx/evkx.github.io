@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh
 linktitle: Ariya 87kWh
-description: Nissan Ariya 87kWh is an all-electric crossover with a WLTP range of up to 533 km (331 miles). EVKX.net have all the details. 
+description: "Nissan Ariya 87kWh is an all-electric crossover with a WLTP range of up to 533 km (331 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

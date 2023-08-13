@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Grand Touring charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Lucid Air Grand Touring. 
+description: "Here you find the charging curve for Lucid Air Grand Touring. "
 weight: 10
 hidden: true
 ---

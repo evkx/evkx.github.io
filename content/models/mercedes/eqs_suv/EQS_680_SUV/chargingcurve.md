@@ -1,7 +1,7 @@
 ---
 title: Mercedes-Maybach EQS 680 SUV charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Mercedes-Maybach EQS 680 SUV. 
+description: "Here you find the charging curve for Mercedes-Maybach EQS 680 SUV. "
 weight: 10
 hidden: true
 ---

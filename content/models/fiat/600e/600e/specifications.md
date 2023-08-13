@@ -1,7 +1,7 @@
 ---
 title: Fiat 600e specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Fiat 600e.
+description: "EVKX.net gives you the full specifications for Fiat 600e."
 weight: 30
 hidden: true
 ---

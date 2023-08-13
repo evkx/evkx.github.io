@@ -1,7 +1,7 @@
 ---
 title: Lexus RZ 450e
 linktitle: RZ 450e
-description: Lexus RZ 450e is an all-electric crossover with a WLTP range of up to 440 km (273 miles). EVKX.net have all the details. 
+description: "Lexus RZ 450e is an all-electric crossover with a WLTP range of up to 440 km (273 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

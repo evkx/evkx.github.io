@@ -1,7 +1,7 @@
 ---
 title: Polestar 3 Long Range Dual Motor Performance gallery
 linktitle: Image Gallery
-description: See below for our large Polestar 3 Long Range Dual Motor Performance image gallery. Click pictures for high-resolution versions.
+description: "See below for our large Polestar 3 Long Range Dual Motor Performance image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
 ---

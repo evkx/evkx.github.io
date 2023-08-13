@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E GT gallery
 linktitle: Image Gallery
-description: See below for our large Ford Mustang Mach-E GT image gallery. Click pictures for high-resolution versions.
+description: "See below for our large Ford Mustang Mach-E GT image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
 ---

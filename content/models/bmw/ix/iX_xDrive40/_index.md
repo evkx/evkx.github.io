@@ -1,7 +1,7 @@
 ---
 title: BMW iX xDrive40
 linktitle: iX xDrive40
-description: BMW iX xDrive40 is an all-electric luxury SUV with a WLTP range of up to 425 km (264 miles). EVKX.net have all the details. 
+description: "BMW iX xDrive40 is an all-electric luxury SUV with a WLTP range of up to 425 km (264 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

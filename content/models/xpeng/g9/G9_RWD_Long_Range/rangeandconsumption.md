@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 RWD Long Range range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for XPENG G9 RWD Long Range.
+description: "Here you find all details about range and consumption for XPENG G9 RWD Long Range."
 weight: 9
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Peugot E-208 gallery
 linktitle: Image Gallery
-description: See below for our large Peugot E-208 image gallery. Click pictures for high-resolution versions.
+description: "See below for our large Peugot E-208 image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
 ---

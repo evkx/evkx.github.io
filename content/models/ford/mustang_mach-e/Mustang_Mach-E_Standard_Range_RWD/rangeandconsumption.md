@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E Standard Range RWD range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Ford Mustang Mach-E Standard Range RWD.
+description: "Here you find all details about range and consumption for Ford Mustang Mach-E Standard Range RWD."
 weight: 9
 hidden: true
 ---

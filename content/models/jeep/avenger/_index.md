@@ -1,7 +1,7 @@
 ---
 title: Jeep Avenger
 linktitle: Avenger
-description: See below for details of the different variants of Jeep Avenger
+description: "See below for details of the different variants of Jeep Avenger"
 weight: 30
 ---
 ## Jeep Avenger

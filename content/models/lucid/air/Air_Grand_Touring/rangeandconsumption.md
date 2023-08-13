@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Grand Touring range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Lucid Air Grand Touring.
+description: "Here you find all details about range and consumption for Lucid Air Grand Touring."
 weight: 9
 hidden: true
 ---

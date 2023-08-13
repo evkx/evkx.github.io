@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001 Performance AWD range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Zeekr 001 Performance AWD.
+description: "Here you find all details about range and consumption for Zeekr 001 Performance AWD."
 weight: 9
 hidden: true
 ---

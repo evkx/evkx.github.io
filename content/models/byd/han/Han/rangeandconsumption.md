@@ -1,7 +1,7 @@
 ---
 title: BYD Han range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for BYD Han.
+description: "Here you find all details about range and consumption for BYD Han."
 weight: 9
 hidden: true
 ---

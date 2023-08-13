@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron S Sportback specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Audi e-tron S Sportback.
+description: "EVKX.net gives you the full specifications for Audi e-tron S Sportback."
 weight: 30
 hidden: true
 ---

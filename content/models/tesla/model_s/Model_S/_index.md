@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S
 linktitle: Model S
-description: Tesla Model S is an all-electric sedan with a WLTP range of up to 649 km (403 miles). EVKX.net have all the details. 
+description: "Tesla Model S is an all-electric sedan with a WLTP range of up to 649 km (403 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

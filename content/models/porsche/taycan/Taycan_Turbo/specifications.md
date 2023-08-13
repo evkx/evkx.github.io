@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Porsche Taycan Turbo.
+description: "EVKX.net gives you the full specifications for Porsche Taycan Turbo."
 weight: 30
 hidden: true
 ---

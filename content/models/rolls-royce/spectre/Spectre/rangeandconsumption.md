@@ -1,7 +1,7 @@
 ---
 title: Rolls-Royce Spectre range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Rolls-Royce Spectre.
+description: "Here you find all details about range and consumption for Rolls-Royce Spectre."
 weight: 9
 hidden: true
 ---

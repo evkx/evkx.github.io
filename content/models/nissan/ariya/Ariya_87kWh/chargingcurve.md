@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Nissan Ariya 87kWh. 
+description: "Here you find the charging curve for Nissan Ariya 87kWh. "
 weight: 10
 hidden: true
 ---

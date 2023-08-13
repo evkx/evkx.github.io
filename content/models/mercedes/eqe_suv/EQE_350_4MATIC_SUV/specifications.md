@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 350 4MATIC SUV specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Mercedes-EQ EQE 350 4MATIC SUV.
+description: "EVKX.net gives you the full specifications for Mercedes-EQ EQE 350 4MATIC SUV."
 weight: 30
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001 Privilege AWD gallery
 linktitle: Image Gallery
-description: See below for our large Zeekr 001 Privilege AWD image gallery. Click pictures for high-resolution versions.
+description: "See below for our large Zeekr 001 Privilege AWD image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
 ---

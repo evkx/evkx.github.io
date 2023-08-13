@@ -1,7 +1,7 @@
 ---
 title: Audi RS e-tron GT charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Audi RS e-tron GT. 
+description: "Here you find the charging curve for Audi RS e-tron GT. "
 weight: 10
 hidden: true
 ---

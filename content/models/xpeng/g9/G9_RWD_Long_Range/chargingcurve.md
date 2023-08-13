@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 RWD Long Range charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for XPENG G9 RWD Long Range. 
+description: "Here you find the charging curve for XPENG G9 RWD Long Range. "
 weight: 10
 hidden: true
 ---

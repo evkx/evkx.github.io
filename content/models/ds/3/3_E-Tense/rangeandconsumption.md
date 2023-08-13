@@ -1,7 +1,7 @@
 ---
 title: DS 3 E-Tense range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for DS 3 E-Tense.
+description: "Here you find all details about range and consumption for DS 3 E-Tense."
 weight: 9
 hidden: true
 ---

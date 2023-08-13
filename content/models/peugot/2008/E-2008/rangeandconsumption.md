@@ -1,7 +1,7 @@
 ---
 title: Peugot E-2008 range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Peugot E-2008.
+description: "Here you find all details about range and consumption for Peugot E-2008."
 weight: 9
 hidden: true
 ---

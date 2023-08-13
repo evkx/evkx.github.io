@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 50 range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Audi e-tron 50.
+description: "Here you find all details about range and consumption for Audi e-tron 50."
 weight: 9
 hidden: true
 ---

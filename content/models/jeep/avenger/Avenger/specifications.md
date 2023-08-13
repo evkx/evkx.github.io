@@ -1,7 +1,7 @@
 ---
 title: Jeep Avenger specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Jeep Avenger.
+description: "EVKX.net gives you the full specifications for Jeep Avenger."
 weight: 30
 hidden: true
 ---

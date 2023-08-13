@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001 Long Range RWD charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Zeekr 001 Long Range RWD. 
+description: "Here you find the charging curve for Zeekr 001 Long Range RWD. "
 weight: 10
 hidden: true
 ---

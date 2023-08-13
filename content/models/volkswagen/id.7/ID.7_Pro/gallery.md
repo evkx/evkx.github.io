@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Pro gallery
 linktitle: Image Gallery
-description: See below for our large Volkswagen ID.7 Pro image gallery. Click pictures for high-resolution versions.
+description: "See below for our large Volkswagen ID.7 Pro image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
 ---

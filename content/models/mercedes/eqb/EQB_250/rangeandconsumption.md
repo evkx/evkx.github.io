@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQB 250 range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Mercedes-EQ EQB 250.
+description: "Here you find all details about range and consumption for Mercedes-EQ EQB 250."
 weight: 9
 hidden: true
 ---

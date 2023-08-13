@@ -1,7 +1,7 @@
 ---
 title: HiPhi X
 linktitle: X
-description: See below for details of the different variants of HiPhi X
+description: "See below for details of the different variants of HiPhi X"
 weight: 30
 ---
 ## HiPhi X 4 Seater

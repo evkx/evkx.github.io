@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C4 X
 linktitle: ë-C4 X
-description: Citroën ë-C4 X is an all-electric crossover with a WLTP range of up to 402 km (250 miles). EVKX.net have all the details. 
+description: "Citroën ë-C4 X is an all-electric crossover with a WLTP range of up to 402 km (250 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

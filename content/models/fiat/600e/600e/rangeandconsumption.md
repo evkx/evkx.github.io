@@ -1,7 +1,7 @@
 ---
 title: Fiat 600e range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Fiat 600e.
+description: "Here you find all details about range and consumption for Fiat 600e."
 weight: 9
 hidden: true
 ---

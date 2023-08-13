@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Sport Turismo specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Porsche Taycan Sport Turismo.
+description: "EVKX.net gives you the full specifications for Porsche Taycan Sport Turismo."
 weight: 30
 hidden: true
 ---

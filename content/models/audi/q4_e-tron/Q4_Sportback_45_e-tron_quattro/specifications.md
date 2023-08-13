@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 45 e-tron quattro specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Audi Q4 Sportback 45 e-tron quattro.
+description: "EVKX.net gives you the full specifications for Audi Q4 Sportback 45 e-tron quattro."
 weight: 30
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Honda e:Ny1
 linktitle: e:Ny1
-description: Honda e:Ny1 is an all-electric crossover with a WLTP range of up to 412 km (256 miles). EVKX.net have all the details. 
+description: "Honda e:Ny1 is an all-electric crossover with a WLTP range of up to 412 km (256 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

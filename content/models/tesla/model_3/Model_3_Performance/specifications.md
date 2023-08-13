@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Performance specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Tesla Model 3 Performance.
+description: "EVKX.net gives you the full specifications for Tesla Model 3 Performance."
 weight: 30
 hidden: true
 ---

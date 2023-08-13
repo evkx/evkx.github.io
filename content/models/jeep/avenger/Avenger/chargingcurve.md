@@ -1,7 +1,7 @@
 ---
 title: Jeep Avenger charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Jeep Avenger. 
+description: "Here you find the charging curve for Jeep Avenger. "
 weight: 10
 hidden: true
 ---

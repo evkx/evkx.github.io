@@ -1,7 +1,7 @@
 ---
 title: Ford F150 Lightning Extended Range range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Ford F150 Lightning Extended Range.
+description: "Here you find all details about range and consumption for Ford F150 Lightning Extended Range."
 weight: 9
 hidden: true
 ---

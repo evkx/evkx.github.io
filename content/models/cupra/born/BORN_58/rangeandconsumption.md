@@ -1,7 +1,7 @@
 ---
 title: CUPRA BORN 58 range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for CUPRA BORN 58.
+description: "Here you find all details about range and consumption for CUPRA BORN 58."
 weight: 9
 hidden: true
 ---

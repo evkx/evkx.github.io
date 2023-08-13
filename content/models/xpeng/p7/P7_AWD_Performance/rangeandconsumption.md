@@ -1,7 +1,7 @@
 ---
 title: XPENG P7 AWD Performance range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for XPENG P7 AWD Performance.
+description: "Here you find all details about range and consumption for XPENG P7 AWD Performance."
 weight: 9
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Nio ET5 Touring charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Nio ET5 Touring. 
+description: "Here you find the charging curve for Nio ET5 Touring. "
 weight: 10
 hidden: true
 ---

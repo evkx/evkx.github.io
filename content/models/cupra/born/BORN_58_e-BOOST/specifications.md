@@ -1,7 +1,7 @@
 ---
 title: CUPRA BORN 58 e-BOOST specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for CUPRA BORN 58 e-BOOST.
+description: "EVKX.net gives you the full specifications for CUPRA BORN 58 e-BOOST."
 weight: 30
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: CUPRA BORN 58 charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for CUPRA BORN 58. 
+description: "Here you find the charging curve for CUPRA BORN 58. "
 weight: 10
 hidden: true
 ---

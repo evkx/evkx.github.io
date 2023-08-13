@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQA 250
 linktitle: EQA 250
-description: Mercedes-EQ EQA 250 is an all-electric premium crossover with a WLTP range of up to 438 km (272 miles). EVKX.net have all the details. 
+description: "Mercedes-EQ EQA 250 is an all-electric premium crossover with a WLTP range of up to 438 km (272 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID. Buzz Pro LWB charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Volkswagen ID. Buzz Pro LWB. 
+description: "Here you find the charging curve for Volkswagen ID. Buzz Pro LWB. "
 weight: 10
 hidden: true
 ---

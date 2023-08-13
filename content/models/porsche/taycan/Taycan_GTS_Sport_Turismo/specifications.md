@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan GTS Sport Turismo specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Porsche Taycan GTS Sport Turismo.
+description: "EVKX.net gives you the full specifications for Porsche Taycan GTS Sport Turismo."
 weight: 30
 hidden: true
 ---

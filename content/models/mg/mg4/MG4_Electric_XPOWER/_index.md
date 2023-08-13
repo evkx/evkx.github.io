@@ -1,7 +1,7 @@
 ---
 title: MG MG4 Electric XPOWER
 linktitle: MG4 Electric XPOWER
-description: MG MG4 Electric XPOWER is an all-electric crossover with a WLTP range of up to 435 km (270 miles). EVKX.net have all the details. 
+description: "MG MG4 Electric XPOWER is an all-electric crossover with a WLTP range of up to 435 km (270 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

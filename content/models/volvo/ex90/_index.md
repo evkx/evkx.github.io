@@ -1,7 +1,7 @@
 ---
 title: Volvo EX90
 linktitle: EX90
-description: See below for details of the different variants of Volvo EX90
+description: "See below for details of the different variants of Volvo EX90"
 weight: 30
 ---
 ## Volvo EX90 Twin Motor

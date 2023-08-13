@@ -1,7 +1,7 @@
 ---
 title: BMW i5 M60 xDrive charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for BMW i5 M60 xDrive. 
+description: "Here you find the charging curve for BMW i5 M60 xDrive. "
 weight: 10
 hidden: true
 ---

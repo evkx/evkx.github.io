@@ -1,7 +1,7 @@
 ---
 title: Lexus RZ 450e specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Lexus RZ 450e.
+description: "EVKX.net gives you the full specifications for Lexus RZ 450e."
 weight: 30
 hidden: true
 ---

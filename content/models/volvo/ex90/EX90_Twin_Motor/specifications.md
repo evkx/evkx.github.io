@@ -1,7 +1,7 @@
 ---
 title: Volvo EX90 Twin Motor specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Volvo EX90 Twin Motor.
+description: "EVKX.net gives you the full specifications for Volvo EX90 Twin Motor."
 weight: 30
 hidden: true
 ---

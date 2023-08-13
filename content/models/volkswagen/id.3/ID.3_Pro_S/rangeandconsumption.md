@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.3 Pro S range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Volkswagen ID.3 Pro S.
+description: "Here you find all details about range and consumption for Volkswagen ID.3 Pro S."
 weight: 9
 hidden: true
 ---

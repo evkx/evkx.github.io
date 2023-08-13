@@ -1,7 +1,7 @@
 ---
 title: BYD Dolphin 60.4kWh range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for BYD Dolphin 60.4kWh.
+description: "Here you find all details about range and consumption for BYD Dolphin 60.4kWh."
 weight: 9
 hidden: true
 ---

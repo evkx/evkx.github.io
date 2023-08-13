@@ -1,7 +1,7 @@
 ---
 title: Mercedes EQC
 linktitle: EQC
-description: See below for details of the different variants of Mercedes EQC
+description: "See below for details of the different variants of Mercedes EQC"
 weight: 30
 ---
 ## Mercedes-EQ EQC 400 4MATIC

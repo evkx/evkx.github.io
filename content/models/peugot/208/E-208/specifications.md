@@ -1,7 +1,7 @@
 ---
 title: Peugot E-208 specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Peugot E-208.
+description: "EVKX.net gives you the full specifications for Peugot E-208."
 weight: 30
 hidden: true
 ---

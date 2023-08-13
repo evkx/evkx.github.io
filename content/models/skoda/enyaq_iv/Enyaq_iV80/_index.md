@@ -1,7 +1,7 @@
 ---
 title: SKODA Enyaq iV80
 linktitle: Enyaq iV80
-description: SKODA Enyaq iV80 is an all-electric SUV with a WLTP range of up to 534 km (332 miles). EVKX.net have all the details. 
+description: "SKODA Enyaq iV80 is an all-electric SUV with a WLTP range of up to 534 km (332 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 500 4MATIC
 linktitle: EQE 500 4MATIC
-description: Mercedes-EQ EQE 500 4MATIC is an all-electric luxury sedan with a WLTP range of up to 596 km (370 miles). EVKX.net have all the details. 
+description: "Mercedes-EQ EQE 500 4MATIC is an all-electric luxury sedan with a WLTP range of up to 596 km (370 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

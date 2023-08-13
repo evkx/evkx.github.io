@@ -1,7 +1,7 @@
 ---
 title: Volvo EX30 Twin Motor Performance specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Volvo EX30 Twin Motor Performance.
+description: "EVKX.net gives you the full specifications for Volvo EX30 Twin Motor Performance."
 weight: 30
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E GT charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Ford Mustang Mach-E GT. 
+description: "Here you find the charging curve for Ford Mustang Mach-E GT. "
 weight: 10
 hidden: true
 ---

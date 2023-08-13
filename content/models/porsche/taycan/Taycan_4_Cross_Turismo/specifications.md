@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan 4 Cross Turismo specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Porsche Taycan 4 Cross Turismo.
+description: "EVKX.net gives you the full specifications for Porsche Taycan 4 Cross Turismo."
 weight: 30
 hidden: true
 ---

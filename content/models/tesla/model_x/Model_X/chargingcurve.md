@@ -1,7 +1,7 @@
 ---
 title: Tesla Model X charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Tesla Model X. 
+description: "Here you find the charging curve for Tesla Model X. "
 weight: 10
 hidden: true
 ---

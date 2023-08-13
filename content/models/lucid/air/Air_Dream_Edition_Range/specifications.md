@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Dream Edition Range specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Lucid Air Dream Edition Range.
+description: "EVKX.net gives you the full specifications for Lucid Air Dream Edition Range."
 weight: 30
 hidden: true
 ---

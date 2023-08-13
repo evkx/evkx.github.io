@@ -1,7 +1,7 @@
 ---
 title: Mercedes EQB
 linktitle: EQB
-description: See below for details of the different variants of Mercedes EQB
+description: "See below for details of the different variants of Mercedes EQB"
 weight: 30
 ---
 ## Mercedes-EQ EQB 250

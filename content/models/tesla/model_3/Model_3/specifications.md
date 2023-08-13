@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Tesla Model 3.
+description: "EVKX.net gives you the full specifications for Tesla Model 3."
 weight: 30
 hidden: true
 ---

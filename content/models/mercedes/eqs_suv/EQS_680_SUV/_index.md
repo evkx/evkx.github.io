@@ -1,7 +1,7 @@
 ---
 title: Mercedes-Maybach EQS 680 SUV
 linktitle: EQS 680 SUV
-description: Mercedes-Maybach EQS 680 SUV is an all-electric luxury SUV with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. 
+description: "Mercedes-Maybach EQS 680 SUV is an all-electric luxury SUV with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

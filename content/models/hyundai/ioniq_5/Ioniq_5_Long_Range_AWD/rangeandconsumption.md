@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 Long Range AWD range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Hyundai Ioniq 5 Long Range AWD.
+description: "Here you find all details about range and consumption for Hyundai Ioniq 5 Long Range AWD."
 weight: 9
 hidden: true
 ---

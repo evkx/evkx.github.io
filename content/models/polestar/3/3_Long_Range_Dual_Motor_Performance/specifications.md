@@ -1,7 +1,7 @@
 ---
 title: Polestar 3 Long Range Dual Motor Performance specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Polestar 3 Long Range Dual Motor Performance.
+description: "EVKX.net gives you the full specifications for Polestar 3 Long Range Dual Motor Performance."
 weight: 30
 hidden: true
 ---

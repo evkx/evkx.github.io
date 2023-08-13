@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C4 X specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Citroën ë-C4 X.
+description: "EVKX.net gives you the full specifications for Citroën ë-C4 X."
 weight: 30
 hidden: true
 ---

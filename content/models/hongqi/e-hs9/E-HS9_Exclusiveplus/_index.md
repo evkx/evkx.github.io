@@ -1,7 +1,7 @@
 ---
 title: Hongqi E-HS9 Exclusive+
 linktitle: E-HS9 Exclusive+
-description: Hongqi E-HS9 Exclusive+ is an all-electric SUV with a WLTP range of up to 515 km (320 miles). EVKX.net have all the details. 
+description: "Hongqi E-HS9 Exclusive+ is an all-electric SUV with a WLTP range of up to 515 km (320 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

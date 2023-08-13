@@ -1,7 +1,7 @@
 ---
 title: Cadillac ESCALADE IQ range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Cadillac ESCALADE IQ.
+description: "Here you find all details about range and consumption for Cadillac ESCALADE IQ."
 weight: 9
 hidden: true
 ---

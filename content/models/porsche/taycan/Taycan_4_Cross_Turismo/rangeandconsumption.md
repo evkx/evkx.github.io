@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan 4 Cross Turismo range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Porsche Taycan 4 Cross Turismo.
+description: "Here you find all details about range and consumption for Porsche Taycan 4 Cross Turismo."
 weight: 9
 hidden: true
 ---

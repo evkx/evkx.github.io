@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Standard Range 2WD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Kia EV6 Standard Range 2WD.
+description: "EVKX.net gives you the full specifications for Kia EV6 Standard Range 2WD."
 weight: 30
 hidden: true
 ---

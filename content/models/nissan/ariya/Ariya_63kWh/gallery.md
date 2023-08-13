@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 63kWh gallery
 linktitle: Image Gallery
-description: See below for our large Nissan Ariya 63kWh image gallery. Click pictures for high-resolution versions.
+description: "See below for our large Nissan Ariya 63kWh image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Nio ET5 Touring specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Nio ET5 Touring.
+description: "EVKX.net gives you the full specifications for Nio ET5 Touring."
 weight: 30
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Kia Niro
 linktitle: Niro
-description: See below for details of the different variants of Kia Niro
+description: "See below for details of the different variants of Kia Niro"
 weight: 30
 ---
 ## Kia Niro EV

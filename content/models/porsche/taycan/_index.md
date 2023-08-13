@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan
 linktitle: Taycan
-description: See below for details of the different variants of Porsche Taycan
+description: "See below for details of the different variants of Porsche Taycan"
 weight: 30
 ---
 ## Porsche Taycan

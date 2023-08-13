@@ -1,7 +1,7 @@
 ---
 title: Smart #1 Brabus
 linktitle: #1 Brabus
-description: Smart #1 Brabus is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
+description: "Smart #1 Brabus is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---
@@ -153,7 +153,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen on the steering column  is 8 inches large. The touch screen at the top of the center console is 14,6 inches large. 
+The  screen behind the steering wheel mounted into the dashboard is 10 inches large. The touch screen at the top of the center console is 12,8 inches large. 
 
 
 <figur>
@@ -236,5 +236,5 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had world premiere 12.04.2023 and deliveries is expected to start November 2023.
+This model had world premiere 07.04.2022 and deliveries is expected to start November 2023.
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

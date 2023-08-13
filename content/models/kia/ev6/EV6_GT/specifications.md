@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 GT specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Kia EV6 GT.
+description: "EVKX.net gives you the full specifications for Kia EV6 GT."
 weight: 30
 hidden: true
 ---

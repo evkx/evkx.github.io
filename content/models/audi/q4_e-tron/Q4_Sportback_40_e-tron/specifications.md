@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 40 e-tron specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Audi Q4 Sportback 40 e-tron.
+description: "EVKX.net gives you the full specifications for Audi Q4 Sportback 40 e-tron."
 weight: 30
 hidden: true
 ---

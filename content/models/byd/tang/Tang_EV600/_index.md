@@ -1,7 +1,7 @@
 ---
 title: BYD Tang EV600
 linktitle: Tang EV600
-description: BYD Tang EV600 is an all-electric SUV with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
+description: "BYD Tang EV600 is an all-electric SUV with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

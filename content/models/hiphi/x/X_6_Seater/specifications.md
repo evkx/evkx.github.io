@@ -1,7 +1,7 @@
 ---
 title: HiPhi X 6 Seater specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for HiPhi X 6 Seater.
+description: "EVKX.net gives you the full specifications for HiPhi X 6 Seater."
 weight: 30
 hidden: true
 ---

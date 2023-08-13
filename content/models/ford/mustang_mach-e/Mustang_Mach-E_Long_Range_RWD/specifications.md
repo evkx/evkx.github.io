@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E Long Range RWD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Ford Mustang Mach-E Long Range RWD.
+description: "EVKX.net gives you the full specifications for Ford Mustang Mach-E Long Range RWD."
 weight: 30
 hidden: true
 ---

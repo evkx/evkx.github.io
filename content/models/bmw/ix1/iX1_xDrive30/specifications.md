@@ -1,7 +1,7 @@
 ---
 title: BMW iX1 xDrive30 specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for BMW iX1 xDrive30.
+description: "EVKX.net gives you the full specifications for BMW iX1 xDrive30."
 weight: 30
 hidden: true
 ---

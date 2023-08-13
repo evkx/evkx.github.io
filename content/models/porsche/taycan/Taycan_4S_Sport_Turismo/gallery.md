@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan 4S Sport Turismo gallery
 linktitle: Image Gallery
-description: See below for our large Porsche Taycan 4S Sport Turismo image gallery. Click pictures for high-resolution versions.
+description: "See below for our large Porsche Taycan 4S Sport Turismo image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
 ---

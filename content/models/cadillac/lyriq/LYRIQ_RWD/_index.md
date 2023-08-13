@@ -1,7 +1,7 @@
 ---
 title: Cadillac LYRIQ RWD
 linktitle: LYRIQ RWD
-description: Cadillac LYRIQ RWD is an all-electric SUV with a EPA range of up to 502 km (312 miles). EVKX.net have all the details. 
+description: "Cadillac LYRIQ RWD is an all-electric SUV with a EPA range of up to 502 km (312 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

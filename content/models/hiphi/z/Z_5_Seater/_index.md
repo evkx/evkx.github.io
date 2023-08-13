@@ -1,7 +1,7 @@
 ---
 title: HiPhi Z 5 Seater
 linktitle: Z 5 Seater
-description: HiPhi Z 5 Seater is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net have all the details. 
+description: "HiPhi Z 5 Seater is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

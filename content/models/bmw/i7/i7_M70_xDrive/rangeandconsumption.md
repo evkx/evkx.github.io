@@ -1,7 +1,7 @@
 ---
 title: BMW i7 M70 xDrive range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for BMW i7 M70 xDrive.
+description: "Here you find all details about range and consumption for BMW i7 M70 xDrive."
 weight: 9
 hidden: true
 ---

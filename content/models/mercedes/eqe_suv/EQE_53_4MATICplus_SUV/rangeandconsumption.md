@@ -1,7 +1,7 @@
 ---
 title: Mercedes-AMG EQE 53 4MATIC+ SUV range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Mercedes-AMG EQE 53 4MATIC+ SUV.
+description: "Here you find all details about range and consumption for Mercedes-AMG EQE 53 4MATIC+ SUV."
 weight: 9
 hidden: true
 ---

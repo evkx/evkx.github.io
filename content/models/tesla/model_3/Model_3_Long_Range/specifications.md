@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Long Range specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Tesla Model 3 Long Range.
+description: "EVKX.net gives you the full specifications for Tesla Model 3 Long Range."
 weight: 30
 hidden: true
 ---

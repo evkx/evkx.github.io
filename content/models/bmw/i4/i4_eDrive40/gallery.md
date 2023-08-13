@@ -1,7 +1,7 @@
 ---
 title: BMW i4 eDrive40 gallery
 linktitle: Image Gallery
-description: See below for our large BMW i4 eDrive40 image gallery. Click pictures for high-resolution versions.
+description: "See below for our large BMW i4 eDrive40 image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
 ---

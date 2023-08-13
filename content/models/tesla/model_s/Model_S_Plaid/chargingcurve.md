@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S Plaid charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Tesla Model S Plaid. 
+description: "Here you find the charging curve for Tesla Model S Plaid. "
 weight: 10
 hidden: true
 ---

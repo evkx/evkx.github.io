@@ -1,7 +1,7 @@
 ---
 title: Polestar 2 Long Range Single Motor specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Polestar 2 Long Range Single Motor.
+description: "EVKX.net gives you the full specifications for Polestar 2 Long Range Single Motor."
 weight: 30
 hidden: true
 ---

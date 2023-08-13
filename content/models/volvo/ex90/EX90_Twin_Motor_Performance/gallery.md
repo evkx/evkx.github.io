@@ -1,7 +1,7 @@
 ---
 title: Volvo EX90 Twin Motor Performance gallery
 linktitle: Image Gallery
-description: See below for our large Volvo EX90 Twin Motor Performance image gallery. Click pictures for high-resolution versions.
+description: "See below for our large Volvo EX90 Twin Motor Performance image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
 ---

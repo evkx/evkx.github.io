@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo Sport Turismo charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Porsche Taycan Turbo Sport Turismo. 
+description: "Here you find the charging curve for Porsche Taycan Turbo Sport Turismo. "
 weight: 10
 hidden: true
 ---

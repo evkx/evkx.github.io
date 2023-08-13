@@ -1,7 +1,7 @@
 ---
 title: Rolls-Royce Spectre
 linktitle: Spectre
-description: Rolls-Royce Spectre is an all-electric luxury sedan with a WLTP range of up to 530 km (329 miles). EVKX.net have all the details. 
+description: "Rolls-Royce Spectre is an all-electric luxury sedan with a WLTP range of up to 530 km (329 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

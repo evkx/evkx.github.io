@@ -1,7 +1,7 @@
 ---
 title: Volvo EX30 Twin Motor Performance charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Volvo EX30 Twin Motor Performance. 
+description: "Here you find the charging curve for Volvo EX30 Twin Motor Performance. "
 weight: 10
 hidden: true
 ---

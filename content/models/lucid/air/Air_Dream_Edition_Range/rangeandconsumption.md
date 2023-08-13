@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Dream Edition Range range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Lucid Air Dream Edition Range.
+description: "Here you find all details about range and consumption for Lucid Air Dream Edition Range."
 weight: 9
 hidden: true
 ---

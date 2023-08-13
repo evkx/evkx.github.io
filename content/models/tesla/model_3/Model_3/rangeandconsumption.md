@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Tesla Model 3.
+description: "Here you find all details about range and consumption for Tesla Model 3."
 weight: 9
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 Pro
 linktitle: ID.4 Pro
-description: Volkswagen ID.4 Pro is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net have all the details. 
+description: "Volkswagen ID.4 Pro is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

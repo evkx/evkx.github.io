@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.3 Pro charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Volkswagen ID.3 Pro. 
+description: "Here you find the charging curve for Volkswagen ID.3 Pro. "
 weight: 10
 hidden: true
 ---

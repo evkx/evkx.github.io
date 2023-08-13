@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 6 Long Range AWD charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Hyundai Ioniq 6 Long Range AWD. 
+description: "Here you find the charging curve for Hyundai Ioniq 6 Long Range AWD. "
 weight: 10
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Honda e:Ny1 charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Honda e:Ny1. 
+description: "Here you find the charging curve for Honda e:Ny1. "
 weight: 10
 hidden: true
 ---

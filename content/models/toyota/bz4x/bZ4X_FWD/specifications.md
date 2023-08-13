@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X FWD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Toyota bZ4X FWD.
+description: "EVKX.net gives you the full specifications for Toyota bZ4X FWD."
 weight: 30
 hidden: true
 ---

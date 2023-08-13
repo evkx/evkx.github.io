@@ -1,7 +1,7 @@
 ---
 title: MG MG5 Electric Long Range
 linktitle: MG5 Electric Long Range
-description: MG MG5 Electric Long Range is an all-electric station wagon with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
+description: "MG MG5 Electric Long Range is an all-electric station wagon with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: BMW i4 eDrive40 specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for BMW i4 eDrive40.
+description: "EVKX.net gives you the full specifications for BMW i4 eDrive40."
 weight: 30
 hidden: true
 ---

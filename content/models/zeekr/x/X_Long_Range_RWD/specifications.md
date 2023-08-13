@@ -1,7 +1,7 @@
 ---
 title: Zeekr X Long Range RWD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Zeekr X Long Range RWD.
+description: "EVKX.net gives you the full specifications for Zeekr X Long Range RWD."
 weight: 30
 hidden: true
 ---

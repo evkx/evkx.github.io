@@ -1,7 +1,7 @@
 ---
 title: MG MG4 Electric Long Range range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for MG MG4 Electric Long Range.
+description: "Here you find all details about range and consumption for MG MG4 Electric Long Range."
 weight: 9
 hidden: true
 ---

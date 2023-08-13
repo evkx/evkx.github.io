@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV
 linktitle: Hummer EV
-description: See below for details of the different variants of GMC Hummer EV
+description: "See below for details of the different variants of GMC Hummer EV"
 weight: 30
 ---
 ## GMC Hummer EV Edition 1 Pickup

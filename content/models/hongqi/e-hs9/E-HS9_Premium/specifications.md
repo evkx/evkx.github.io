@@ -1,7 +1,7 @@
 ---
 title: Hongqi E-HS9 Premium specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Hongqi E-HS9 Premium.
+description: "EVKX.net gives you the full specifications for Hongqi E-HS9 Premium."
 weight: 30
 hidden: true
 ---

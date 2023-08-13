@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ RS iV
 linktitle: ENYAQ RS iV
-description: SKODA ENYAQ RS iV is an all-electric SUV with a WLTP range of up to 514 km (319 miles). EVKX.net have all the details. 
+description: "SKODA ENYAQ RS iV is an all-electric SUV with a WLTP range of up to 514 km (319 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

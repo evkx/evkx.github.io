@@ -1,7 +1,7 @@
 ---
 title: Polestar 2 Long Range Dual Motor Performance range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Polestar 2 Long Range Dual Motor Performance.
+description: "Here you find all details about range and consumption for Polestar 2 Long Range Dual Motor Performance."
 weight: 9
 hidden: true
 ---

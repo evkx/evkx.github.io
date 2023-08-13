@@ -1,7 +1,7 @@
 ---
 title: BYD Atto 3 specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for BYD Atto 3.
+description: "EVKX.net gives you the full specifications for BYD Atto 3."
 weight: 30
 hidden: true
 ---

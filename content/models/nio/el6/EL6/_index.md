@@ -1,7 +1,7 @@
 ---
 title: Nio EL6
 linktitle: EL6
-description: Nio EL6 is an all-electric SUV with a WLTP range of up to 513 km (319 miles). EVKX.net have all the details. 
+description: "Nio EL6 is an all-electric SUV with a WLTP range of up to 513 km (319 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

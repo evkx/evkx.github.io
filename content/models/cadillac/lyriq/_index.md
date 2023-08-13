@@ -1,7 +1,7 @@
 ---
 title: Cadillac LYRIQ
 linktitle: LYRIQ
-description: See below for details of the different variants of Cadillac LYRIQ
+description: "See below for details of the different variants of Cadillac LYRIQ"
 weight: 30
 ---
 ## Cadillac LYRIQ AWD

@@ -1,7 +1,7 @@
 ---
 title: BMW i7
 linktitle: i7
-description: See below for details of the different variants of BMW i7
+description: "See below for details of the different variants of BMW i7"
 weight: 30
 ---
 ## BMW i7 M70 xDrive

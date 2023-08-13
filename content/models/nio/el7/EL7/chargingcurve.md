@@ -1,7 +1,7 @@
 ---
 title: Nio EL7 charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Nio EL7. 
+description: "Here you find the charging curve for Nio EL7. "
 weight: 10
 hidden: true
 ---

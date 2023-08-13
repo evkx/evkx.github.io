@@ -1,7 +1,7 @@
 ---
 title: BMW iX
 linktitle: iX
-description: See below for details of the different variants of BMW iX
+description: "See below for details of the different variants of BMW iX"
 weight: 30
 ---
 ## BMW iX xDrive40

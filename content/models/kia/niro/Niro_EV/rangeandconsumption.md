@@ -1,7 +1,7 @@
 ---
 title: Kia Niro EV range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Kia Niro EV.
+description: "Here you find all details about range and consumption for Kia Niro EV."
 weight: 9
 hidden: true
 ---

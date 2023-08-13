@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 350+ specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Mercedes-EQ EQE 350+.
+description: "EVKX.net gives you the full specifications for Mercedes-EQ EQE 350+."
 weight: 30
 hidden: true
 ---

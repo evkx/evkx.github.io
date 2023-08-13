@@ -1,7 +1,7 @@
 ---
 title: Lotus Eletre
 linktitle: Eletre
-description: See below for details of the different variants of Lotus Eletre
+description: "See below for details of the different variants of Lotus Eletre"
 weight: 30
 ---
 ## Lotus Eletre

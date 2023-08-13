@@ -1,7 +1,7 @@
 ---
 title: Fiat 600e charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Fiat 600e. 
+description: "Here you find the charging curve for Fiat 600e. "
 weight: 10
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Ford F150 Lightning Extended Range charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Ford F150 Lightning Extended Range. 
+description: "Here you find the charging curve for Ford F150 Lightning Extended Range. "
 weight: 10
 hidden: true
 ---

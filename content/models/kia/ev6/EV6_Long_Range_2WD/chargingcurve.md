@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Long Range 2WD charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Kia EV6 Long Range 2WD. 
+description: "Here you find the charging curve for Kia EV6 Long Range 2WD. "
 weight: 10
 hidden: true
 ---

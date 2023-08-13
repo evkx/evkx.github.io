@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 6 Long Range RWD
 linktitle: Ioniq 6 Long Range RWD
-description: Hyundai Ioniq 6 Long Range RWD is an all-electric crossover with a WLTP range of up to 614 km (382 miles). EVKX.net have all the details. 
+description: "Hyundai Ioniq 6 Long Range RWD is an all-electric crossover with a WLTP range of up to 614 km (382 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

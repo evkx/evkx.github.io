@@ -1,7 +1,7 @@
 ---
 title: Fiat 600e gallery
 linktitle: Image Gallery
-description: See below for our large Fiat 600e image gallery. Click pictures for high-resolution versions.
+description: "See below for our large Fiat 600e image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
 ---

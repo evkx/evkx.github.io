@@ -1,7 +1,7 @@
 ---
 title: Polestar 2 Long Range Dual Motor charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Polestar 2 Long Range Dual Motor. 
+description: "Here you find the charging curve for Polestar 2 Long Range Dual Motor. "
 weight: 10
 hidden: true
 ---

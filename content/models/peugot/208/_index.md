@@ -1,7 +1,7 @@
 ---
 title: Peugot 208
 linktitle: 208
-description: See below for details of the different variants of Peugot 208
+description: "See below for details of the different variants of Peugot 208"
 weight: 30
 ---
 ## Peugot E-208

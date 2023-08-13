@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 Long Range 2WD specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Hyundai Ioniq 5 Long Range 2WD.
+description: "EVKX.net gives you the full specifications for Hyundai Ioniq 5 Long Range 2WD."
 weight: 30
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID. Buzz Pro
 linktitle: ID. Buzz Pro
-description: Volkswagen ID. Buzz Pro is an all-electric MPV with a WLTP range of up to 418 km (260 miles). EVKX.net have all the details. 
+description: "Volkswagen ID. Buzz Pro is an all-electric MPV with a WLTP range of up to 418 km (260 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

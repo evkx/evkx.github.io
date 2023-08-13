@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 300 range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Mercedes-EQ EQE 300.
+description: "Here you find all details about range and consumption for Mercedes-EQ EQE 300."
 weight: 9
 hidden: true
 ---

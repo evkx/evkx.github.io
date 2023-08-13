@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 50 specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Audi e-tron 50.
+description: "EVKX.net gives you the full specifications for Audi e-tron 50."
 weight: 30
 hidden: true
 ---

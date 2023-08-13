@@ -1,7 +1,7 @@
 ---
 title: Volvo EX30 Single Motor Extended Range range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Volvo EX30 Single Motor Extended Range.
+description: "Here you find all details about range and consumption for Volvo EX30 Single Motor Extended Range."
 weight: 9
 hidden: true
 ---

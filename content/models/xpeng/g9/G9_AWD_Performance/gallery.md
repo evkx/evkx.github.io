@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 AWD Performance gallery
 linktitle: Image Gallery
-description: See below for our large XPENG G9 AWD Performance image gallery. Click pictures for high-resolution versions.
+description: "See below for our large XPENG G9 AWD Performance image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
 ---

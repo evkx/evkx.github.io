@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 Pro 4MOTION specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Volkswagen ID.4 Pro 4MOTION.
+description: "EVKX.net gives you the full specifications for Volkswagen ID.4 Pro 4MOTION."
 weight: 30
 hidden: true
 ---

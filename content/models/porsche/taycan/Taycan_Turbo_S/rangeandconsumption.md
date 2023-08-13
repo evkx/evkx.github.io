@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo S range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Porsche Taycan Turbo S.
+description: "Here you find all details about range and consumption for Porsche Taycan Turbo S."
 weight: 9
 hidden: true
 ---

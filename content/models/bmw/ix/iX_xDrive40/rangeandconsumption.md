@@ -1,7 +1,7 @@
 ---
 title: BMW iX xDrive40 range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for BMW iX xDrive40.
+description: "Here you find all details about range and consumption for BMW iX xDrive40."
 weight: 9
 hidden: true
 ---

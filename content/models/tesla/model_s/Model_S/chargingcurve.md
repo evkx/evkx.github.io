@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for Tesla Model S. 
+description: "Here you find the charging curve for Tesla Model S. "
 weight: 10
 hidden: true
 ---

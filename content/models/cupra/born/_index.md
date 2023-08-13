@@ -1,7 +1,7 @@
 ---
 title: CUPRA BORN
 linktitle: BORN
-description: See below for details of the different variants of CUPRA BORN
+description: "See below for details of the different variants of CUPRA BORN"
 weight: 30
 ---
 ## CUPRA BORN 58

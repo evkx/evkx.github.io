@@ -1,7 +1,7 @@
 ---
 title: Kia EV6
 linktitle: EV6
-description: See below for details of the different variants of Kia EV6
+description: "See below for details of the different variants of Kia EV6"
 weight: 30
 ---
 ## Kia EV6 Standard Range 2WD

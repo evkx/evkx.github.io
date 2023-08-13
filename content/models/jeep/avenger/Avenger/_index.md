@@ -1,7 +1,7 @@
 ---
 title: Jeep Avenger
 linktitle: Avenger
-description: Jeep Avenger is an all-electric crossover with a WLTP range of up to 404 km (251 miles). EVKX.net have all the details. 
+description: "Jeep Avenger is an all-electric crossover with a WLTP range of up to 404 km (251 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

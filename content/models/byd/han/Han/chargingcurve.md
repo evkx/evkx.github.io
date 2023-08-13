@@ -1,7 +1,7 @@
 ---
 title: BYD Han charging curve & performance
 linktitle: Charging performance
-description: Here you find the charging curve for BYD Han. 
+description: "Here you find the charging curve for BYD Han. "
 weight: 10
 hidden: true
 ---

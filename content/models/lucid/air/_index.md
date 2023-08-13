@@ -1,7 +1,7 @@
 ---
 title: Lucid Air
 linktitle: Air
-description: See below for details of the different variants of Lucid Air
+description: "See below for details of the different variants of Lucid Air"
 weight: 30
 ---
 ## Lucid Air Dream Edition Performance

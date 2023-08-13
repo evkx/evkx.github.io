@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 GT range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Kia EV6 GT.
+description: "Here you find all details about range and consumption for Kia EV6 GT."
 weight: 9
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: HiPhi Z 4 Seater specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for HiPhi Z 4 Seater.
+description: "EVKX.net gives you the full specifications for HiPhi Z 4 Seater."
 weight: 30
 hidden: true
 ---

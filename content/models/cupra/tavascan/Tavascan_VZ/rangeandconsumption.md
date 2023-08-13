@@ -1,7 +1,7 @@
 ---
 title: CUPRA Tavascan VZ range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for CUPRA Tavascan VZ.
+description: "Here you find all details about range and consumption for CUPRA Tavascan VZ."
 weight: 9
 hidden: true
 ---

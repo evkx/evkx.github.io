@@ -1,7 +1,7 @@
 ---
 title: Lotus Eletre S specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Lotus Eletre S.
+description: "EVKX.net gives you the full specifications for Lotus Eletre S."
 weight: 30
 hidden: true
 ---

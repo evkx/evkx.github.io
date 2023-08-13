@@ -1,7 +1,7 @@
 ---
 title: Peugot E-2008 specifications
 linktitle: Specifications
-description: EVKX.net gives you the full specifications for Peugot E-2008.
+description: "EVKX.net gives you the full specifications for Peugot E-2008."
 weight: 30
 hidden: true
 ---

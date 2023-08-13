@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 50 e-tron
 linktitle: Q8 50 e-tron
-description: Audi Q8 50 e-tron is an all-electric luxury SUV with a WLTP range of up to 491 km (305 miles). EVKX.net have all the details. 
+description: "Audi Q8 50 e-tron is an all-electric luxury SUV with a WLTP range of up to 491 km (305 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

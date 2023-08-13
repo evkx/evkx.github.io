@@ -1,7 +1,7 @@
 ---
 title: BMW i4 M50 range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for BMW i4 M50.
+description: "Here you find all details about range and consumption for BMW i4 M50."
 weight: 9
 hidden: true
 ---

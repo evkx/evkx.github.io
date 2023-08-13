@@ -1,7 +1,7 @@
 ---
 title: Audi SQ8 Sportback e-tron range & consumption
 linktitle: Range & Consumption
-description: Here you find all details about range and consumption for Audi SQ8 Sportback e-tron.
+description: "Here you find all details about range and consumption for Audi SQ8 Sportback e-tron."
 weight: 9
 hidden: true
 ---

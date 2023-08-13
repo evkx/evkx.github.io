@@ -1,7 +1,7 @@
 ---
 title: Mercedes-AMG EQE 53 4MATIC+ SUV
 linktitle: EQE 53 4MATIC+ SUV
-description: Mercedes-AMG EQE 53 4MATIC+ SUV is an all-electric luxury SUV with a WLTP range of up to 470 km (292 miles). EVKX.net have all the details. 
+description: "Mercedes-AMG EQE 53 4MATIC+ SUV is an all-electric luxury SUV with a WLTP range of up to 470 km (292 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---
