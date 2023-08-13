@@ -42,6 +42,12 @@ Chevrolet is one of the leading automakers in the electric vehicle (EV) market, 
 
 Chevrolet has 1 models with total 1 variants. [Read all about them](chevrolet/)
 
+## Citroën
+
+Citroën is a French automotive brand that was founded in 1919 by André Citroën. It is known for its innovative and distinctive designs, such as the Traction Avant, the 2CV, the DS, and the CX. Citroën is also a pioneer in mass production, front-wheel drive, hydropneumatic suspension, and aerodynamics. Citroën is part of the Stellantis group, which was formed in 2021 by the merger of PSA and FCA
+
+Citroën has 1 models with total 1 variants. [Read all about them](citroën/)
+
 ## CUPRA
 
 <a href="cupra/"><img src="https://media.evkx.net/multimedia/models/cupra/brandevs_st.jpg" width="800px" height="434px" alt="CUPRA" ></a>
@@ -237,6 +243,12 @@ Rolls-Royce has 1 models with total 1 variants. [Read all about them](rolls-royc
 The Czech car manufacturer aims to be one of the five best-selling brands in Europe by 2030, and the company plans to become the leading European brand in the growth regions of India, Russia and North Africa. 
 
 Skoda has 1 models with total 4 variants. [Read all about them](skoda/)
+
+## Smart
+
+The Smart car manufacturer is a German automotive marque that produces small electric vehicles. It is a joint venture between Mercedes-Benz AG and Zhejiang Geely Holding Group, established in 2019. The venture is headquartered in Ningbo, China, and aims to produce Smart-badged cars in China to be marketed globally.
+
+Smart has 1 models with total 1 variants. [Read all about them](smart/)
 
 ## Tesla
 
