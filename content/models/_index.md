@@ -54,7 +54,7 @@ Citroën has 1 models with total 1 variants. [Read all about them](citroën/)
 
 Cupra is a Spanish automobile brand that forms part of SEAT. It was created in 2018 as a spin-off of SEAT's performance division. Cupra stands for Cup Racing and reflects the brand's passion for racing and powerful car.
 
-CUPRA has 2 models with total 4 variants. [Read all about them](cupra/)
+CUPRA has 2 models with total 5 variants. [Read all about them](cupra/)
 
 ## DS
 

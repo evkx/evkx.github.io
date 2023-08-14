@@ -18,5 +18,5 @@ This model is available in 3 variant(s).
 
 <a href="tavascan"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" width="800" height="446" alt="CUPRA Tavascan" ></a>
 
-This model is available in 1 variant(s). 
+This model is available in 2 variant(s). 
 [Read full details](tavascan/)
