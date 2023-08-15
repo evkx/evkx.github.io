@@ -30,3 +30,16 @@ Tesla Model S Plaid is an all-electric sedan with a WLTP range of up to 600 km (
 - [Tesla Model S Plaid image gallery](/models/tesla/model_s/model_s_plaid//gallery)
 - [Tesla Model S Plaid reviews](/models/tesla/model_s/model_s_plaid//reviews)
 
+## Tesla Model S Standard Range
+
+<a href="/models/tesla/model_s/model_s_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/main_1_st.jpg" width="800" height="600" alt="Model S Standard Range" ></a>
+
+Tesla Model S Standard Range is an all-electric sedan with a WLTP range of up to 512 km (318 miles). EVKX.net have all the details. 
+
+- [Tesla Model S Standard Range article](/models/tesla/model_s/model_s_standard_range/)
+- [Tesla Model S Standard Range Range & consumption info](/models/tesla/model_s/model_s_standard_range//rangeandconsumption)
+- [Tesla Model S Standard Range Charging curve and performance](/models/tesla/model_s/model_s_standard_range//chargingcurve)
+- [Tesla Model S Standard Range full specifications](/models/tesla/model_s/model_s_standard_range//specifications)
+- [Tesla Model S Standard Range image gallery](/models/tesla/model_s/model_s_standard_range//gallery)
+- [Tesla Model S Standard Range reviews](/models/tesla/model_s/model_s_standard_range//reviews)
+

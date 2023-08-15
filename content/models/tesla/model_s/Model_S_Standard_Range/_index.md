@@ -1,7 +1,7 @@
 ---
-title: Tesla Model S Plaid
-linktitle: Model S Plaid
-description: "Tesla Model S Plaid is an all-electric sedan with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. "
+title: Tesla Model S Standard Range
+linktitle: Model S Standard Range
+description: "Tesla Model S Standard Range is an all-electric sedan with a WLTP range of up to 512 km (318 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---
@@ -11,12 +11,12 @@ hidden: true
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/main_1_st.jpg" alt="Tesla Model S Plaid" title="Tesla Model S Plaid" width="680" height="510">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/main_1_st.jpg" alt="Tesla Model S Standard Range" title="Tesla Model S Standard Range" width="680" height="510">
 </a>
-<figcaption><h4>Tesla Model S Plaid</h4></figcaption></figur>
+<figcaption><h4>Tesla Model S Standard Range</h4></figcaption></figur>
 
-We have separated our Tesla Model S Plaid article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Tesla Model S Standard Range article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -32,21 +32,21 @@ We have separated our Tesla Model S Plaid article into sections. If you want to 
 
 ## Performance
 
-The Tesla Model S Plaid has a maximum power of 760KW (1033hp). The total torque is 1420nm. The 0-100km/h sprint (0-62mph) takes 2,1 seconds. The top speed is 322 km/h. 
+The Tesla Model S Standard Range has a maximum power of 381KW (518hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 250 km/h. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 100kWh and a net capacity of 96kWh, meaning you have a 4kWh buffer for protection. (4,0%). 
+The battery has a gross capacity of 100kWh and a net capacity of 75kWh, meaning you have a 25kWh buffer for protection. (25,0%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 600 km (373 mi).   The consumption is 16,0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 512 to 500 km (318-311 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,6kWh/100km for the basic version and 15,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 80 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 47% resulting in an actual charge speed including time loss on 143kW. Each charge session would take 16 minutes and 9 seconds. 
+The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 24 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 50% resulting in an actual charge speed including time loss on 132kW. Each charge session would take 15 minutes and 20 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21,0kWh/100km, 1000km will take 9 hours and 8 minutes to drive. This trip will require three charge session(s) charging from 7% to 47%. The total time lost for charging will be 48 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,7kWh/100km, 1000km will take 9 hours and 16 minutes to drive. This trip will require four charge session(s) charging from 7% to 48%. The total time lost for charging will be 56 minutes.   
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 43 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes. 
 
 ### Charge port
 
@@ -58,13 +58,13 @@ The location of the charge port is on the [left rear corner](../../../../technol
 
 ## Drivetrain
 
-Tesla Model S Plaid has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
+Tesla Model S Standard Range has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
 The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 117 mm, and the max is 158 mm. 
 
 ### Steering
 
-Dynamic steering is standard on the Tesla Model S Plaid. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is standard on the Tesla Model S Standard Range. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -85,10 +85,10 @@ The windows from B-pillar and back are tinted.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/exterior_1_st.jpg" alt="Tesla Model S Plaid" title="Tesla Model S Plaid" width="680" height="510">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/exterior_1_st.jpg" alt="Tesla Model S Standard Range" title="Tesla Model S Standard Range" width="680" height="510">
 </a>
-<figcaption><h4>Tesla Model S Plaid</h4></figcaption></figur>
+<figcaption><h4>Tesla Model S Standard Range</h4></figcaption></figur>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -101,7 +101,7 @@ There is one seat type you can select in different materials. The seat layout is
 
 ### First row seats
 
-Only one front seat type is available in the Tesla Model S Plaid. 
+Only one front seat type is available in the Tesla Model S Standard Range. 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -125,10 +125,10 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/secondrowseats_1_st.jpg" alt="Tesla Model S Plaid" title="Tesla Model S Plaid" width="680" height="453">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/secondrowseats_1_st.jpg" alt="Tesla Model S Standard Range" title="Tesla Model S Standard Range" width="680" height="453">
 </a>
-<figcaption><h4>Tesla Model S Plaid</h4></figcaption></figur>
+<figcaption><h4>Tesla Model S Standard Range</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. 
@@ -139,7 +139,7 @@ There is one climate system available. The standard climate system supports diff
 
 ## Comfort
 
-Tesla Model S Plaid has several features to make your life as a driver or passenger more comfortable. 
+Tesla Model S Standard Range has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -155,19 +155,19 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Tesla Model S Plaid has twin screens with information for the driver and passengers and a third screen in rear for multimedia.  The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1280 x 480 pixels resolution. The touch screen on the dashboard's center  is 17 inches large and has a 2200 x 1300 pixels resolution. The touch screen in the rear center console  is 8 inches large. 
+Tesla Model S Standard Range has twin screens with information for the driver and passengers and a third screen in rear for multimedia.  The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1280 x 480 pixels resolution. The touch screen on the dashboard's center  is 17 inches large and has a 2200 x 1300 pixels resolution. The touch screen in the rear center console  is 8 inches large. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/screens_1_st.jpg" alt="Tesla Model S Plaid" title="Tesla Model S Plaid" width="680" height="453">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/screens_1_st.jpg" alt="Tesla Model S Standard Range" title="Tesla Model S Standard Range" width="680" height="453">
 </a>
-<figcaption><h4>Tesla Model S Plaid</h4></figcaption></figur>
+<figcaption><h4>Tesla Model S Standard Range</h4></figcaption></figur>
 
 
 ## Infotainment
 
-One type of sound system is available for the Tesla Model S Plaid. With the Tesla Premium Sound, you get 22 speakers with a max system output of 560 watts. 
+One type of sound system is available for the Tesla Model S Standard Range. With the Tesla Premium Sound, you get 22 speakers with a max system output of 560 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
@@ -177,22 +177,22 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The standard headlights use LED technology.  
 ## Advanced driver assistance systems
 
-The Tesla Model S Plaid has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Tesla Model S Standard Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
 
-The Tesla Model S Plaid has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Tesla Model S Standard Range has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Tesla Model S Plaid has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Tesla Model S Standard Range has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Tesla Model S Plaid has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Tesla Model S Standard Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Tesla Model S Plaid has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Tesla Model S Standard Range has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
@@ -200,7 +200,7 @@ The Tesla Model S Plaid has an [**automatic emergency braking**](../../../../tec
 
 ### Driving Automation
 
-The Tesla Model S Plaid offers [driving automation on level 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
+The Tesla Model S Standard Range offers [driving automation on level 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
@@ -230,9 +230,9 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/trunk_1_st.jpg" alt="Tesla Model S Plaid" title="Tesla Model S Plaid" width="680" height="453">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/trunk_1_st.jpg" alt="Tesla Model S Standard Range" title="Tesla Model S Standard Range" width="680" height="453">
 </a>
-<figcaption><h4>Tesla Model S Plaid</h4></figcaption></figur>
+<figcaption><h4>Tesla Model S Standard Range</h4></figcaption></figur>
 
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

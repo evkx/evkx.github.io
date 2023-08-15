@@ -1,23 +1,23 @@
 ---
-title: Tesla Model S specifications
+title: Tesla Model S Standard Range specifications
 linktitle: Specifications
-description: "EVKX.net gives you the full specifications for Tesla Model S."
+description: "EVKX.net gives you the full specifications for Tesla Model S Standard Range."
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Tesla Model S](https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Tesla Model S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model S, visit the [chargeinfo](../chargecurve/) for Tesla Model S with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![Tesla Model S Standard Range](https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for Tesla Model S Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model S Standard Range, visit the [chargeinfo](../chargecurve/) for Tesla Model S Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|493 Kw|
-|Electrical torque output in Nm|800 Nm|
+|Peak electrical output in kW|381 Kw|
+|Electrical torque output in Nm|700 Nm|
 |Top speed|250 km/h|
-|0-100km/h (0-62 mph)|3,2 s|
+|0-100km/h (0-62 mph)|3,9 s|
 
 
 
@@ -26,11 +26,11 @@ EVKX.net seeks to have the most complete specifications for Tesla Model S. Click
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|649 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|14,8 kWh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|512 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|14,6 kWh/100km|
 |[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|17,5 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|634 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|15,1 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|500 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|15,0 kWh/100km|
 |[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|17,4 kwh/100km|
 
 
@@ -40,7 +40,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |[Battery gross](../../../../../technology/battery/buffer/)|100 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|96 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|75 kWh|
 |Max DC charging|250 kW|
 |[Pack Configuration](../../../../../technology/battery/batterypack/)|110s72p|
 |[Nominal voltage](../../../../../technology/battery/batterypack/)|407|
