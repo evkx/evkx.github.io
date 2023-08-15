@@ -30,3 +30,16 @@ Tesla Model X Plaid is an all-electric SUV with a WLTP range of up to 543 km (33
 - [Tesla Model X Plaid image gallery](/models/tesla/model_x/model_x_plaid//gallery)
 - [Tesla Model X Plaid reviews](/models/tesla/model_x/model_x_plaid//reviews)
 
+## Tesla Model X Standard Range
+
+<a href="/models/tesla/model_x/model_x_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_standard_range/main_1_st.jpg" width="800" height="600" alt="Model X Standard Range" ></a>
+
+Tesla Model X Standard Range is an all-electric SUV with a WLTP range of up to 543 km (337 miles). EVKX.net have all the details. 
+
+- [Tesla Model X Standard Range article](/models/tesla/model_x/model_x_standard_range/)
+- [Tesla Model X Standard Range Range & consumption info](/models/tesla/model_x/model_x_standard_range//rangeandconsumption)
+- [Tesla Model X Standard Range Charging curve and performance](/models/tesla/model_x/model_x_standard_range//chargingcurve)
+- [Tesla Model X Standard Range full specifications](/models/tesla/model_x/model_x_standard_range//specifications)
+- [Tesla Model X Standard Range image gallery](/models/tesla/model_x/model_x_standard_range//gallery)
+- [Tesla Model X Standard Range reviews](/models/tesla/model_x/model_x_standard_range//reviews)
+
