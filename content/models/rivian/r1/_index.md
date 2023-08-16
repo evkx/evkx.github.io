@@ -4,6 +4,19 @@ linktitle: R1
 description: "See below for details of the different variants of Rivian R1"
 weight: 30
 ---
+## Rivian R1S Performance Dual-Motor AWD LP
+
+<a href="/models/rivian/r1/r1s_performance_dual-motor_awd_lp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/main_1_st.jpg" width="800" height="533" alt="R1S Performance Dual-Motor AWD LP" ></a>
+
+Rivian R1S Performance Dual-Motor AWD LP is an all-electric SUV with a EPA range of up to 515 km (320 miles). EVKX.net have all the details. 
+
+- [Rivian R1S Performance Dual-Motor AWD LP article](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+- [Rivian R1S Performance Dual-Motor AWD LP Range & consumption info](/models/rivian/r1/r1s_performance_dual-motor_awd_lp//rangeandconsumption)
+- [Rivian R1S Performance Dual-Motor AWD LP Charging curve and performance](/models/rivian/r1/r1s_performance_dual-motor_awd_lp//chargingcurve)
+- [Rivian R1S Performance Dual-Motor AWD LP full specifications](/models/rivian/r1/r1s_performance_dual-motor_awd_lp//specifications)
+- [Rivian R1S Performance Dual-Motor AWD LP image gallery](/models/rivian/r1/r1s_performance_dual-motor_awd_lp//gallery)
+- [Rivian R1S Performance Dual-Motor AWD LP reviews](/models/rivian/r1/r1s_performance_dual-motor_awd_lp//reviews)
+
 ## Rivian R1S Quad-Motor AWD
 
 <a href="/models/rivian/r1/r1s_quad-motor_awd/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg" width="800" height="533" alt="R1S Quad-Motor AWD" ></a>
