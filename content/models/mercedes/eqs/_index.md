@@ -1,6 +1,6 @@
 ---
 title: Mercedes EQS
-linktitle: EQS
+linktitle: "EQS"
 description: "See below for details of the different variants of Mercedes EQS"
 weight: 30
 ---

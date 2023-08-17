@@ -1,6 +1,6 @@
 ---
 title: Honda e:Ny1 specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Honda e:Ny1."
 weight: 30
 hidden: true

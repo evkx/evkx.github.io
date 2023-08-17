@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan 4S
-linktitle: Taycan 4S
+linktitle: "Taycan 4S"
 description: "Porsche Taycan 4S is an all-electric luxury sedan with a WLTP range of up to 431 km (268 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

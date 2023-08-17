@@ -1,6 +1,6 @@
 ---
 title: Chevrolet Silverado EV 4WT
-linktitle: Silverado EV 4WT
+linktitle: "Silverado EV 4WT"
 description: "Chevrolet Silverado EV 4WT is an all-electric Pickup Truck with a EPA range of up to 724 km (450 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

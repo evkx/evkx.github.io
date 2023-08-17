@@ -1,6 +1,6 @@
 ---
 title: Ford Mustang Mach-E Long Range AWD charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Ford Mustang Mach-E Long Range AWD. "
 weight: 10
 hidden: true

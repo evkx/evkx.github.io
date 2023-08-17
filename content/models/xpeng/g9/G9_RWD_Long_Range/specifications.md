@@ -1,6 +1,6 @@
 ---
 title: XPENG G9 RWD Long Range specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for XPENG G9 RWD Long Range."
 weight: 30
 hidden: true

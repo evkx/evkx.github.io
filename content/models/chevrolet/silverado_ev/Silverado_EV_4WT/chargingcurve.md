@@ -1,6 +1,6 @@
 ---
 title: Chevrolet Silverado EV 4WT charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Chevrolet Silverado EV 4WT. "
 weight: 10
 hidden: true

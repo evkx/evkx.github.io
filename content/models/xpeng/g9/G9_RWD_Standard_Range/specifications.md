@@ -1,6 +1,6 @@
 ---
 title: XPENG G9 RWD Standard Range specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for XPENG G9 RWD Standard Range."
 weight: 30
 hidden: true

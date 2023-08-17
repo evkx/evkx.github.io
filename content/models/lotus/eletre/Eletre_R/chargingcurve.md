@@ -1,6 +1,6 @@
 ---
 title: Lotus Eletre R charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Lotus Eletre R. "
 weight: 10
 hidden: true

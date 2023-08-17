@@ -1,6 +1,6 @@
 ---
 title: SKODA Enyaq iV80x specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for SKODA Enyaq iV80x."
 weight: 30
 hidden: true

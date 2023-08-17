@@ -1,6 +1,6 @@
 ---
 title: Tesla Model Y Long Range
-linktitle: Model Y Long Range
+linktitle: "Model Y Long Range"
 description: "Tesla Model Y Long Range is an all-electric coupe SUV with a WLTP range of up to 542 km (337 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

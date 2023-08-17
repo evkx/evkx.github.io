@@ -1,6 +1,6 @@
 ---
 title: Nio ET5
-linktitle: ET5
+linktitle: "ET5"
 description: "Nio ET5 is an all-electric sedan with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

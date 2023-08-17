@@ -1,6 +1,6 @@
 ---
 title: Toyota bZ4X FWD gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Toyota bZ4X FWD image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

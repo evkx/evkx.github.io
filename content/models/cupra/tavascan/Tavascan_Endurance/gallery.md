@@ -1,6 +1,6 @@
 ---
 title: CUPRA Tavascan Endurance gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large CUPRA Tavascan Endurance image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

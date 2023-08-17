@@ -1,6 +1,6 @@
 ---
 title: Smart #1 Brabus specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Smart #1 Brabus."
 weight: 30
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: BYD Dolphin 60.4kWh specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for BYD Dolphin 60.4kWh."
 weight: 30
 hidden: true

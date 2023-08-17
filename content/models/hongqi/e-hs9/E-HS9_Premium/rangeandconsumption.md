@@ -1,6 +1,6 @@
 ---
 title: Hongqi E-HS9 Premium range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Hongqi E-HS9 Premium."
 weight: 9
 hidden: true

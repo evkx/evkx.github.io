@@ -1,6 +1,6 @@
 ---
 title: Audi RS e-tron GT
-linktitle: RS e-tron GT
+linktitle: "RS e-tron GT"
 description: "Audi RS e-tron GT is an all-electric luxury sedan with a WLTP range of up to 495 km (308 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

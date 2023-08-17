@@ -1,6 +1,6 @@
 ---
 title: Audi Q4 40 e-tron charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Audi Q4 40 e-tron. "
 weight: 10
 hidden: true

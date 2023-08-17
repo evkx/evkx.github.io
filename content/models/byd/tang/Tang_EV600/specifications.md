@@ -1,6 +1,6 @@
 ---
 title: BYD Tang EV600 specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for BYD Tang EV600."
 weight: 30
 hidden: true

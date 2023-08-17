@@ -1,6 +1,6 @@
 ---
 title: Tesla Model X specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Tesla Model X."
 weight: 30
 hidden: true

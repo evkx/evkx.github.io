@@ -1,6 +1,6 @@
 ---
 title: CUPRA Tavascan
-linktitle: Tavascan
+linktitle: "Tavascan"
 description: "See below for details of the different variants of CUPRA Tavascan"
 weight: 30
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQB 300 4MATIC
-linktitle: EQB 300 4MATIC
+linktitle: "EQB 300 4MATIC"
 description: "Mercedes-EQ EQB 300 4MATIC is an all-electric premium SUV with a WLTP range of up to 423 km (263 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

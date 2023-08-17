@@ -1,6 +1,6 @@
 ---
 title: Nio ET5 Touring range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Nio ET5 Touring."
 weight: 9
 hidden: true

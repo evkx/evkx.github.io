@@ -1,6 +1,6 @@
 ---
 title: Volvo EX30 Twin Motor Performance gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Volvo EX30 Twin Motor Performance image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Rivian R1S Performance Dual-Motor AWD LP specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Rivian R1S Performance Dual-Motor AWD LP."
 weight: 30
 hidden: true

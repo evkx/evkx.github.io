@@ -1,6 +1,6 @@
 ---
 title: Audi Q4 35 e-tron
-linktitle: Q4 35 e-tron
+linktitle: "Q4 35 e-tron"
 description: "Audi Q4 35 e-tron is an all-electric premium SUV with a WLTP range of up to 357 km (222 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

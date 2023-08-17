@@ -1,6 +1,6 @@
 ---
 title: Lucid Air Dream Edition Performance specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Lucid Air Dream Edition Performance."
 weight: 30
 hidden: true

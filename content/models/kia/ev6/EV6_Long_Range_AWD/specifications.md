@@ -1,6 +1,6 @@
 ---
 title: Kia EV6 Long Range AWD specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Kia EV6 Long Range AWD."
 weight: 30
 hidden: true

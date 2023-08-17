@@ -1,6 +1,6 @@
 ---
 title: BMW i7 M70 xDrive gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large BMW i7 M70 xDrive image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

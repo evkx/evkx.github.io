@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQE 350+
-linktitle: EQE 350+
+linktitle: "EQE 350+"
 description: "Mercedes-EQ EQE 350+ is an all-electric luxury sedan with a WLTP range of up to 639 km (397 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

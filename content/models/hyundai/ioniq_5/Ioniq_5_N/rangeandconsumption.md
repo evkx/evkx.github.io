@@ -1,6 +1,6 @@
 ---
 title: Hyundai Ioniq 5 N range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Hyundai Ioniq 5 N."
 weight: 9
 hidden: true

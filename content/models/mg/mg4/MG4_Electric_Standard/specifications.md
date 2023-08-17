@@ -1,6 +1,6 @@
 ---
 title: MG MG4 Electric Standard specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for MG MG4 Electric Standard."
 weight: 30
 hidden: true

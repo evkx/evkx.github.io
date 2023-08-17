@@ -1,6 +1,6 @@
 ---
 title: Lucid Air Dream Edition Range
-linktitle: Air Dream Edition Range
+linktitle: "Air Dream Edition Range"
 description: "Lucid Air Dream Edition Range is an all-electric sedan with a WLTP range of up to 883 km (549 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan Turbo Cross Turismo
-linktitle: Taycan Turbo Cross Turismo
+linktitle: "Taycan Turbo Cross Turismo"
 description: "Porsche Taycan Turbo Cross Turismo is an all-electric luxury station wagon with a WLTP range of up to 452 km (281 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

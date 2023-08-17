@@ -1,6 +1,6 @@
 ---
 title: Rivian R1S Quad-Motor AWD specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Rivian R1S Quad-Motor AWD."
 weight: 30
 hidden: true

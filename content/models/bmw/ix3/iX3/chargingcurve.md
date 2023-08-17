@@ -1,6 +1,6 @@
 ---
 title: BMW iX3 charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for BMW iX3. "
 weight: 10
 hidden: true

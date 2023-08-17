@@ -1,6 +1,6 @@
 ---
 title: Volvo XC40 Recharge Twin Motor
-linktitle: XC40 Recharge Twin Motor
+linktitle: "XC40 Recharge Twin Motor"
 description: "Volvo XC40 Recharge Twin Motor is an all-electric crossover with a WLTP range of up to 535 km (333 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

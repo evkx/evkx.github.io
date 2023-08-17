@@ -1,6 +1,6 @@
 ---
 title: BMW iX M60 specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for BMW iX M60."
 weight: 30
 hidden: true

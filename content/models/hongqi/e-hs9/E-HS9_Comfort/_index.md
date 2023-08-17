@@ -1,6 +1,6 @@
 ---
 title: Hongqi E-HS9 Comfort
-linktitle: E-HS9 Comfort
+linktitle: "E-HS9 Comfort"
 description: "Hongqi E-HS9 Comfort is an all-electric SUV with a WLTP range of up to 396 km (246 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

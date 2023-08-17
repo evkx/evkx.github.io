@@ -1,6 +1,6 @@
 ---
 title: Audi SQ8 Sportback e-tron gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Audi SQ8 Sportback e-tron image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

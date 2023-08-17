@@ -1,6 +1,6 @@
 ---
 title: Volkswagen ID.4 Pro charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Volkswagen ID.4 Pro. "
 weight: 10
 hidden: true

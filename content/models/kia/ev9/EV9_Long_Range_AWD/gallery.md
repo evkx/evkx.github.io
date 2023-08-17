@@ -1,6 +1,6 @@
 ---
 title: Kia EV9 Long Range AWD gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Kia EV9 Long Range AWD image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

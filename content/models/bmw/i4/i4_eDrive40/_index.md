@@ -1,6 +1,6 @@
 ---
 title: BMW i4 eDrive40
-linktitle: i4 eDrive40
+linktitle: "i4 eDrive40"
 description: "BMW i4 eDrive40 is an all-electric premium sedan with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

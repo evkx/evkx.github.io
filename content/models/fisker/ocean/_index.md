@@ -1,6 +1,6 @@
 ---
 title: Fisker Ocean
-linktitle: Ocean
+linktitle: "Ocean"
 description: "See below for details of the different variants of Fisker Ocean"
 weight: 30
 ---

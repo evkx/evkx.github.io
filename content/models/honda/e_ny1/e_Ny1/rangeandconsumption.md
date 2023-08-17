@@ -1,6 +1,6 @@
 ---
 title: Honda e:Ny1 range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Honda e:Ny1."
 weight: 9
 hidden: true

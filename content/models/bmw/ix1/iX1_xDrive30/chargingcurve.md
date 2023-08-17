@@ -1,6 +1,6 @@
 ---
 title: BMW iX1 xDrive30 charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for BMW iX1 xDrive30. "
 weight: 10
 hidden: true

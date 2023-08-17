@@ -1,6 +1,6 @@
 ---
 title: SKODA ENYAQ RS iV gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large SKODA ENYAQ RS iV image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

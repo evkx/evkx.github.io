@@ -1,6 +1,6 @@
 ---
 title: Audi Q4 Sportback 40 e-tron range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Audi Q4 Sportback 40 e-tron."
 weight: 9
 hidden: true

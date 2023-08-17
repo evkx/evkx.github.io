@@ -1,6 +1,6 @@
 ---
 title: Kia EV6
-linktitle: EV6
+linktitle: "EV6"
 description: "See below for details of the different variants of Kia EV6"
 weight: 30
 ---

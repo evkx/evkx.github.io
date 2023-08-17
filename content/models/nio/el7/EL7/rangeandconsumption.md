@@ -1,6 +1,6 @@
 ---
 title: Nio EL7 range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Nio EL7."
 weight: 9
 hidden: true

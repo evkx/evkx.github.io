@@ -1,6 +1,6 @@
 ---
 title: Nio EL6 charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Nio EL6. "
 weight: 10
 hidden: true

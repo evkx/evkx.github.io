@@ -1,6 +1,6 @@
 ---
 title: Smart #1 Brabus
-linktitle: #1 Brabus
+linktitle: "#1 Brabus"
 description: "Smart #1 Brabus is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

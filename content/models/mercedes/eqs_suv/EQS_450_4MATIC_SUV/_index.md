@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQS 450 4MATIC SUV
-linktitle: EQS 450 4MATIC SUV
+linktitle: "EQS 450 4MATIC SUV"
 description: "Mercedes-EQ EQS 450 4MATIC SUV is an all-electric luxury sedan with a WLTP range of up to 611 km (380 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

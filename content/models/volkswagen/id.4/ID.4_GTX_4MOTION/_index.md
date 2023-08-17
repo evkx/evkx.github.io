@@ -1,6 +1,6 @@
 ---
 title: Volkswagen ID.4 GTX 4MOTION
-linktitle: ID.4 GTX 4MOTION
+linktitle: "ID.4 GTX 4MOTION"
 description: "Volkswagen ID.4 GTX 4MOTION is an all-electric SUV with a WLTP range of up to 496 km (308 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

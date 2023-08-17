@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQS 450 4MATIC specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Mercedes-EQ EQS 450 4MATIC."
 weight: 30
 hidden: true

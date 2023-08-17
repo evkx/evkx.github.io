@@ -1,6 +1,6 @@
 ---
 title: Chevrolet Silverado EV 4WT range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Chevrolet Silverado EV 4WT."
 weight: 9
 hidden: true

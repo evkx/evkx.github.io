@@ -1,6 +1,6 @@
 ---
 title: BMW iX1 xDrive30
-linktitle: iX1 xDrive30
+linktitle: "iX1 xDrive30"
 description: "BMW iX1 xDrive30 is an all-electric premium SUV with a WLTP range of up to 440 km (273 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: BMW i7 xDrive60
-linktitle: i7 xDrive60
+linktitle: "i7 xDrive60"
 description: "BMW i7 xDrive60 is an all-electric luxury sedan with a WLTP range of up to 625 km (388 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

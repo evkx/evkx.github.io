@@ -1,6 +1,6 @@
 ---
 title: Volkswagen ID.5 Pro Performance
-linktitle: ID.5 Pro Performance
+linktitle: "ID.5 Pro Performance"
 description: "Volkswagen ID.5 Pro Performance is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

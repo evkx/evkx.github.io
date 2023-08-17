@@ -1,6 +1,6 @@
 ---
 title: Volkswagen ID. Buzz Pro LWB
-linktitle: ID. Buzz Pro LWB
+linktitle: "ID. Buzz Pro LWB"
 description: "Volkswagen ID. Buzz Pro LWB is an all-electric MPV with a WLTP range of up to 461 km (287 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

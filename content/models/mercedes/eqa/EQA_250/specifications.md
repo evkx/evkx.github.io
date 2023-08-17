@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQA 250 specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Mercedes-EQ EQA 250."
 weight: 30
 hidden: true

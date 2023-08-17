@@ -1,6 +1,6 @@
 ---
 title: Chevrolet Silverado EV 4WT specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Chevrolet Silverado EV 4WT."
 weight: 30
 hidden: true

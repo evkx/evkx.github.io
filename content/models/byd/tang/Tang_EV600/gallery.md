@@ -1,6 +1,6 @@
 ---
 title: BYD Tang EV600 gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large BYD Tang EV600 image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

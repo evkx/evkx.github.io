@@ -1,6 +1,6 @@
 ---
 title: Audi Q4 50 e-tron quattro gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Audi Q4 50 e-tron quattro image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

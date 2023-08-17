@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan GTS specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Porsche Taycan GTS."
 weight: 30
 hidden: true

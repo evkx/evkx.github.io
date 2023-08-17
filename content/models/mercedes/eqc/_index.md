@@ -1,6 +1,6 @@
 ---
 title: Mercedes EQC
-linktitle: EQC
+linktitle: "EQC"
 description: "See below for details of the different variants of Mercedes EQC"
 weight: 30
 ---

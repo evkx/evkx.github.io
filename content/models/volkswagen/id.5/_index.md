@@ -1,6 +1,6 @@
 ---
 title: Volkswagen ID.5
-linktitle: ID.5
+linktitle: "ID.5"
 description: "See below for details of the different variants of Volkswagen ID.5"
 weight: 30
 ---

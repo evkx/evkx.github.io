@@ -1,6 +1,6 @@
 ---
 title: Tesla Model S Standard Range charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Tesla Model S Standard Range. "
 weight: 10
 hidden: true

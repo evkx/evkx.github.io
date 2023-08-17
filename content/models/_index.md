@@ -1,6 +1,6 @@
 ---
 title: EV models
-linktitle: EV models
+linktitle: "EV models"
 description: "The future is electric, and EVKX.net gives you a complete overview of the EV market's brands, models, and variants."
 weight: 2
 ---

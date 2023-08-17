@@ -1,6 +1,6 @@
 ---
 title: Tesla Model S Standard Range specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Tesla Model S Standard Range."
 weight: 30
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Volkswagen ID.3 Pro S gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Volkswagen ID.3 Pro S image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

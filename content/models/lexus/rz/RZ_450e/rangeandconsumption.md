@@ -1,6 +1,6 @@
 ---
 title: Lexus RZ 450e range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Lexus RZ 450e."
 weight: 9
 hidden: true

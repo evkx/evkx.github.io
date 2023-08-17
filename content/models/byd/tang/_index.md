@@ -1,6 +1,6 @@
 ---
 title: BYD Tang
-linktitle: Tang
+linktitle: "Tang"
 description: "See below for details of the different variants of BYD Tang"
 weight: 30
 ---

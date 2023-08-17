@@ -1,6 +1,6 @@
 ---
 title: BYD Dolphin 60.4kWh charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for BYD Dolphin 60.4kWh. "
 weight: 10
 hidden: true

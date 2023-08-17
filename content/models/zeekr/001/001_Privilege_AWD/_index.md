@@ -1,6 +1,6 @@
 ---
 title: Zeekr 001 Privilege AWD
-linktitle: 001 Privilege AWD
+linktitle: "001 Privilege AWD"
 description: "Zeekr 001 Privilege AWD is an all-electric sedan with a WLTP range of up to 580 km (360 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

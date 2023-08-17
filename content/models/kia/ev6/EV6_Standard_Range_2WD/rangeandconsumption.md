@@ -1,6 +1,6 @@
 ---
 title: Kia EV6 Standard Range 2WD range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Kia EV6 Standard Range 2WD."
 weight: 9
 hidden: true

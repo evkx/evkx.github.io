@@ -1,6 +1,6 @@
 ---
 title: CUPRA BORN 77 e-BOOST
-linktitle: BORN 77 e-BOOST
+linktitle: "BORN 77 e-BOOST"
 description: "CUPRA BORN 77 e-BOOST is an all-electric hatchback with a WLTP range of up to 548 km (341 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Mercedes-AMG EQE 43 4MATIC SUV specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Mercedes-AMG EQE 43 4MATIC SUV."
 weight: 30
 hidden: true

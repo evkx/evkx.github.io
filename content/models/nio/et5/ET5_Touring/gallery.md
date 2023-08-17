@@ -1,6 +1,6 @@
 ---
 title: Nio ET5 Touring gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Nio ET5 Touring image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

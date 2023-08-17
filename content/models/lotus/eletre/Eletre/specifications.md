@@ -1,6 +1,6 @@
 ---
 title: Lotus Eletre specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Lotus Eletre."
 weight: 30
 hidden: true

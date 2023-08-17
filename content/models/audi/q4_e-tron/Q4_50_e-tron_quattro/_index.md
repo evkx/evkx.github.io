@@ -1,6 +1,6 @@
 ---
 title: Audi Q4 50 e-tron quattro
-linktitle: Q4 50 e-tron quattro
+linktitle: "Q4 50 e-tron quattro"
 description: "Audi Q4 50 e-tron quattro is an all-electric premium SUV with a WLTP range of up to 491 km (305 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

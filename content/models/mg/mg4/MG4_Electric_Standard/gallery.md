@@ -1,6 +1,6 @@
 ---
 title: MG MG4 Electric Standard gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large MG MG4 Electric Standard image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Cadillac LYRIQ AWD range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Cadillac LYRIQ AWD."
 weight: 9
 hidden: true

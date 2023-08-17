@@ -1,6 +1,6 @@
 ---
 title: CUPRA Tavascan Endurance charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for CUPRA Tavascan Endurance. "
 weight: 10
 hidden: true

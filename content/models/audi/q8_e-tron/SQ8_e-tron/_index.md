@@ -1,6 +1,6 @@
 ---
 title: Audi SQ8 e-tron
-linktitle: SQ8 e-tron
+linktitle: "SQ8 e-tron"
 description: "Audi SQ8 e-tron is an all-electric luxury SUV with a WLTP range of up to 494 km (307 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Tesla Model 3 charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Tesla Model 3. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Nissan Ariya 87kWh e-4ORCE specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Nissan Ariya 87kWh e-4ORCE."
 weight: 30
 hidden: true

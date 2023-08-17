@@ -1,6 +1,6 @@
 ---
 title: Hyundai Ioniq 5 Long Range 2WD charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Hyundai Ioniq 5 Long Range 2WD. "
 weight: 10
 hidden: true

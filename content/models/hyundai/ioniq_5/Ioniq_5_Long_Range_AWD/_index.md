@@ -1,6 +1,6 @@
 ---
 title: Hyundai Ioniq 5 Long Range AWD
-linktitle: Ioniq 5 Long Range AWD
+linktitle: "Ioniq 5 Long Range AWD"
 description: "Hyundai Ioniq 5 Long Range AWD is an all-electric crossover with a WLTP range of up to 481 km (299 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

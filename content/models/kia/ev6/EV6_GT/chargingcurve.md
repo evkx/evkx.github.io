@@ -1,6 +1,6 @@
 ---
 title: Kia EV6 GT charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Kia EV6 GT. "
 weight: 10
 hidden: true

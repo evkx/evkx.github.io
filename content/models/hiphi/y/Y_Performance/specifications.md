@@ -1,6 +1,6 @@
 ---
 title: HiPhi Y Performance specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for HiPhi Y Performance."
 weight: 30
 hidden: true

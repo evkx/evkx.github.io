@@ -1,6 +1,6 @@
 ---
 title: HiPhi X 4 Seater
-linktitle: X 4 Seater
+linktitle: "X 4 Seater"
 description: "HiPhi X 4 Seater is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

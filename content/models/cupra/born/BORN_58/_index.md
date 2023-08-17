@@ -1,6 +1,6 @@
 ---
 title: CUPRA BORN 58
-linktitle: BORN 58
+linktitle: "BORN 58"
 description: "CUPRA BORN 58 is an all-electric hatchback with a WLTP range of up to 424 km (264 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

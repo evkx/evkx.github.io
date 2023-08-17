@@ -1,6 +1,6 @@
 ---
 title: Tesla Model X Plaid gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Tesla Model X Plaid image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

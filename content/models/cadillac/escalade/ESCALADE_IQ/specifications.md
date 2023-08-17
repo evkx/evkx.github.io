@@ -1,6 +1,6 @@
 ---
 title: Cadillac ESCALADE IQ specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Cadillac ESCALADE IQ."
 weight: 30
 hidden: true

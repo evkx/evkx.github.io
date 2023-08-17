@@ -1,6 +1,6 @@
 ---
 title: Rolls-Royce Spectre specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Rolls-Royce Spectre."
 weight: 30
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Peugot E-2008 charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Peugot E-2008. "
 weight: 10
 hidden: true

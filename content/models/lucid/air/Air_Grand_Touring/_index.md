@@ -1,6 +1,6 @@
 ---
 title: Lucid Air Grand Touring
-linktitle: Air Grand Touring
+linktitle: "Air Grand Touring"
 description: "Lucid Air Grand Touring is an all-electric sedan with a WLTP range of up to 839 km (521 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

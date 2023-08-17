@@ -1,6 +1,6 @@
 ---
 title: HiPhi Z
-linktitle: Z
+linktitle: "Z"
 description: "See below for details of the different variants of HiPhi Z"
 weight: 30
 ---

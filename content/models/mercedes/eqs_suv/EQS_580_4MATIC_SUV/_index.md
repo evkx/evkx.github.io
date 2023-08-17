@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQS 580 4MATIC SUV
-linktitle: EQS 580 4MATIC SUV
+linktitle: "EQS 580 4MATIC SUV"
 description: "Mercedes-EQ EQS 580 4MATIC SUV is an all-electric luxury sedan with a WLTP range of up to 610 km (379 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

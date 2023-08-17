@@ -1,6 +1,6 @@
 ---
 title: Nio ET5 charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Nio ET5. "
 weight: 10
 hidden: true

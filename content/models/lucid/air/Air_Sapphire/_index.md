@@ -1,6 +1,6 @@
 ---
 title: Lucid Air Sapphire
-linktitle: Air Sapphire
+linktitle: "Air Sapphire"
 description: "Lucid Air Sapphire is an all-electric sedan with a EPA range of up to 687 km (427 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

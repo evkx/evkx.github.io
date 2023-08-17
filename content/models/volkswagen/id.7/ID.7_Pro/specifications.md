@@ -1,6 +1,6 @@
 ---
 title: Volkswagen ID.7 Pro specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Volkswagen ID.7 Pro."
 weight: 30
 hidden: true

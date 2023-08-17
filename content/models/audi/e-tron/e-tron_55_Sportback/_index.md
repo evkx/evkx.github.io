@@ -1,6 +1,6 @@
 ---
 title: Audi e-tron 55 Sportback
-linktitle: e-tron 55 Sportback
+linktitle: "e-tron 55 Sportback"
 description: "Audi e-tron 55 Sportback is an all-electric luxury coupe SUV with a WLTP range of up to 452 km (281 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Kia Niro EV gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Kia Niro EV image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

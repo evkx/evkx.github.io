@@ -1,6 +1,6 @@
 ---
 title: BMW iX3 specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for BMW iX3."
 weight: 30
 hidden: true

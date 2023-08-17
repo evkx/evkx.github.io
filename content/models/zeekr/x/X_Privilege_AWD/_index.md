@@ -1,6 +1,6 @@
 ---
 title: Zeekr X Privilege AWD
-linktitle: X Privilege AWD
+linktitle: "X Privilege AWD"
 description: "Zeekr X Privilege AWD is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

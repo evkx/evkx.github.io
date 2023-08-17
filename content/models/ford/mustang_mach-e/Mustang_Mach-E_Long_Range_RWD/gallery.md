@@ -1,6 +1,6 @@
 ---
 title: Ford Mustang Mach-E Long Range RWD gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Ford Mustang Mach-E Long Range RWD image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

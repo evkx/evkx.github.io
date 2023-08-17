@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQB 250 gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Mercedes-EQ EQB 250 image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

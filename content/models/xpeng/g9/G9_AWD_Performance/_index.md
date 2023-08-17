@@ -1,6 +1,6 @@
 ---
 title: XPENG G9 AWD Performance
-linktitle: G9 AWD Performance
+linktitle: "G9 AWD Performance"
 description: "XPENG G9 AWD Performance is an all-electric SUV with a WLTP range of up to 520 km (323 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

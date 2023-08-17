@@ -1,6 +1,6 @@
 ---
 title: Nissan Ariya 63kWh specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Nissan Ariya 63kWh."
 weight: 30
 hidden: true

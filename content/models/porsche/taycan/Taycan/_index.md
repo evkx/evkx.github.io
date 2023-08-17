@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan
-linktitle: Taycan
+linktitle: "Taycan"
 description: "Porsche Taycan is an all-electric luxury sedan with a WLTP range of up to 431 km (268 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

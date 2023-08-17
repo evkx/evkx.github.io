@@ -1,6 +1,6 @@
 ---
 title: Kia Niro EV
-linktitle: Niro EV
+linktitle: "Niro EV"
 description: "Kia Niro EV is an all-electric crossover with a WLTP range of up to 463 km (288 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

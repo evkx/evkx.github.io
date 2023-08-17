@@ -1,6 +1,6 @@
 ---
 title: Ford Mustang Mach-E Standard Range AWD specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Ford Mustang Mach-E Standard Range AWD."
 weight: 30
 hidden: true

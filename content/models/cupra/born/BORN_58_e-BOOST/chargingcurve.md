@@ -1,6 +1,6 @@
 ---
 title: CUPRA BORN 58 e-BOOST charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for CUPRA BORN 58 e-BOOST. "
 weight: 10
 hidden: true

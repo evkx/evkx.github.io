@@ -1,6 +1,6 @@
 ---
 title: BYD Han gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large BYD Han image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

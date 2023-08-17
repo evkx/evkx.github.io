@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQA 250 charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Mercedes-EQ EQA 250. "
 weight: 10
 hidden: true

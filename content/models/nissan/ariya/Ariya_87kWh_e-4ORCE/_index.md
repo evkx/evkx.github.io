@@ -1,6 +1,6 @@
 ---
 title: Nissan Ariya 87kWh e-4ORCE
-linktitle: Ariya 87kWh e-4ORCE
+linktitle: "Ariya 87kWh e-4ORCE"
 description: "Nissan Ariya 87kWh e-4ORCE is an all-electric crossover with a WLTP range of up to 500 km (311 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

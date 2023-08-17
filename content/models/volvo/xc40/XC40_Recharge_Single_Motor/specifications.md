@@ -1,6 +1,6 @@
 ---
 title: Volvo XC40 Recharge Single Motor specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Volvo XC40 Recharge Single Motor."
 weight: 30
 hidden: true

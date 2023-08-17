@@ -1,6 +1,6 @@
 ---
 title: Kia EV6 GT
-linktitle: EV6 GT
+linktitle: "EV6 GT"
 description: "Kia EV6 GT is an all-electric crossover with a WLTP range of up to 424 km (264 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

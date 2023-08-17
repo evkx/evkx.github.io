@@ -1,6 +1,6 @@
 ---
 title: Kia EV6 Standard Range AWD
-linktitle: EV6 Standard Range AWD
+linktitle: "EV6 Standard Range AWD"
 description: "Kia EV6 Standard Range AWD is an all-electric crossover with a WLTP range of up to 371 km (231 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

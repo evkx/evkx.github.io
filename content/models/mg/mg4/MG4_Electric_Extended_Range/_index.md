@@ -1,6 +1,6 @@
 ---
 title: MG MG4 Electric Extended Range
-linktitle: MG4 Electric Extended Range
+linktitle: "MG4 Electric Extended Range"
 description: "MG MG4 Electric Extended Range is an all-electric crossover with a WLTP range of up to 520 km (323 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

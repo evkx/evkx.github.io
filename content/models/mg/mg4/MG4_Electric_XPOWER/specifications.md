@@ -1,6 +1,6 @@
 ---
 title: MG MG4 Electric XPOWER specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for MG MG4 Electric XPOWER."
 weight: 30
 hidden: true

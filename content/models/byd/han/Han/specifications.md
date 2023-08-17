@@ -1,6 +1,6 @@
 ---
 title: BYD Han specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for BYD Han."
 weight: 30
 hidden: true

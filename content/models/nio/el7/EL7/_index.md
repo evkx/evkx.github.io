@@ -1,6 +1,6 @@
 ---
 title: Nio EL7
-linktitle: EL7
+linktitle: "EL7"
 description: "Nio EL7 is an all-electric SUV with a WLTP range of up to 513 km (319 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

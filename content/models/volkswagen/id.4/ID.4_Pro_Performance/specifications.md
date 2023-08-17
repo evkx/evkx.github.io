@@ -1,6 +1,6 @@
 ---
 title: Volkswagen ID.4 Pro Performance specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Volkswagen ID.4 Pro Performance."
 weight: 30
 hidden: true

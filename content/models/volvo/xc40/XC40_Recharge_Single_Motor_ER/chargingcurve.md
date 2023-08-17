@@ -1,6 +1,6 @@
 ---
 title: Volvo XC40 Recharge Single Motor ER charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Volvo XC40 Recharge Single Motor ER. "
 weight: 10
 hidden: true

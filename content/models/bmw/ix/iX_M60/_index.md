@@ -1,6 +1,6 @@
 ---
 title: BMW iX M60
-linktitle: iX M60
+linktitle: "iX M60"
 description: "BMW iX M60 is an all-electric luxury SUV with a WLTP range of up to 561 km (349 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

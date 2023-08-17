@@ -1,6 +1,6 @@
 ---
 title: Lotus Eletre
-linktitle: Eletre
+linktitle: "Eletre"
 description: "Lotus Eletre is an all-electric luxury SUV with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

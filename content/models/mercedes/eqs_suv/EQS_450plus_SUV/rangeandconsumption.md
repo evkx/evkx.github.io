@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQS 450+ SUV range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Mercedes-EQ EQS 450+ SUV."
 weight: 9
 hidden: true

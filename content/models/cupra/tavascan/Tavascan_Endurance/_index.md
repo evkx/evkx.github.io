@@ -1,6 +1,6 @@
 ---
 title: CUPRA Tavascan Endurance
-linktitle: Tavascan Endurance
+linktitle: "Tavascan Endurance"
 description: "CUPRA Tavascan Endurance is an all-electric SUV with a WLTP range of up to 547 km (340 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

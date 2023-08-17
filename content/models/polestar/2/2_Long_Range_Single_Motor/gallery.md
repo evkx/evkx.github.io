@@ -1,6 +1,6 @@
 ---
 title: Polestar 2 Long Range Single Motor gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Polestar 2 Long Range Single Motor image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

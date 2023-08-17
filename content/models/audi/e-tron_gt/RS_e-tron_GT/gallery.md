@@ -1,6 +1,6 @@
 ---
 title: Audi RS e-tron GT gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Audi RS e-tron GT image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

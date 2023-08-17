@@ -1,6 +1,6 @@
 ---
 title: Volvo EX90 Twin Motor charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Volvo EX90 Twin Motor. "
 weight: 10
 hidden: true

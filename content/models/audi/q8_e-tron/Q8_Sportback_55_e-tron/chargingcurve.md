@@ -1,6 +1,6 @@
 ---
 title: Audi Q8 Sportback 55 e-tron charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Audi Q8 Sportback 55 e-tron. "
 weight: 10
 hidden: true

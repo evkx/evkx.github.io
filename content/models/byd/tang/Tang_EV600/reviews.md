@@ -1,6 +1,6 @@
 ---
 title: BYD Tang EV600 reviews
-linktitle: Reviews
+linktitle: "Reviews"
 description: "EVKX.net helps you find the best review for this model. "
 weight: 80
 hidden: true

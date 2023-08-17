@@ -1,6 +1,6 @@
 ---
 title: Audi RS e-tron GT specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Audi RS e-tron GT."
 weight: 30
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Tesla Model Y Performance specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Tesla Model Y Performance."
 weight: 30
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: CUPRA BORN 77 e-BOOST specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for CUPRA BORN 77 e-BOOST."
 weight: 30
 hidden: true

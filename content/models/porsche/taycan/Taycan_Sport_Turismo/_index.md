@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan Sport Turismo
-linktitle: Taycan Sport Turismo
+linktitle: "Taycan Sport Turismo"
 description: "Porsche Taycan Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 431 km (268 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

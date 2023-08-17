@@ -1,6 +1,6 @@
 ---
 title: Honda e:Ny1 gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Honda e:Ny1 image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

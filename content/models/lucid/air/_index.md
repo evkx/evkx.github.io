@@ -1,6 +1,6 @@
 ---
 title: Lucid Air
-linktitle: Air
+linktitle: "Air"
 description: "See below for details of the different variants of Lucid Air"
 weight: 30
 ---

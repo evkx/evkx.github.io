@@ -1,6 +1,6 @@
 ---
 title: Polestar 2 Long Range Dual Motor range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Polestar 2 Long Range Dual Motor."
 weight: 9
 hidden: true

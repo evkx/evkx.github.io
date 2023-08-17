@@ -1,6 +1,6 @@
 ---
 title: Kia Niro EV charging curve & performance
-linktitle: Charging performance
+linktitle: "Charging performance"
 description: "Here you find the charging curve for Kia Niro EV. "
 weight: 10
 hidden: true

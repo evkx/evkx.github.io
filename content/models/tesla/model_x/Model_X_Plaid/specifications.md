@@ -1,6 +1,6 @@
 ---
 title: Tesla Model X Plaid specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Tesla Model X Plaid."
 weight: 30
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Hongqi E-HS9 Comfort gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Hongqi E-HS9 Comfort image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQS 450+ SUV specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Mercedes-EQ EQS 450+ SUV."
 weight: 30
 hidden: true

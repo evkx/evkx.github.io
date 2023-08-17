@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan 4S Sport Turismo
-linktitle: Taycan 4S Sport Turismo
+linktitle: "Taycan 4S Sport Turismo"
 description: "Porsche Taycan 4S Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 441 km (274 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

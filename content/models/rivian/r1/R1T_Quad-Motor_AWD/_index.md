@@ -1,6 +1,6 @@
 ---
 title: Rivian R1T Quad-Motor AWD
-linktitle: R1T Quad-Motor AWD
+linktitle: "R1T Quad-Motor AWD"
 description: "Rivian R1T Quad-Motor AWD is an all-electric Pickup Truck with a EPA range of up to 516 km (321 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

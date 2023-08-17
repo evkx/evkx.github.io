@@ -1,6 +1,6 @@
 ---
 title: Ford Mustang Mach-E GT specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Ford Mustang Mach-E GT."
 weight: 30
 hidden: true

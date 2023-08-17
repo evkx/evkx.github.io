@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan Turbo S Sport Turismo specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Porsche Taycan Turbo S Sport Turismo."
 weight: 30
 hidden: true

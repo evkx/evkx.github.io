@@ -1,6 +1,6 @@
 ---
 title: Tesla Model 3 gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Tesla Model 3 image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

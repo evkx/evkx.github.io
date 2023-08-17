@@ -1,6 +1,6 @@
 ---
 title: Hyundai Ioniq 6 Long Range RWD range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Hyundai Ioniq 6 Long Range RWD."
 weight: 9
 hidden: true

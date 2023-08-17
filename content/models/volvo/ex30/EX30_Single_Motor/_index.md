@@ -1,6 +1,6 @@
 ---
 title: Volvo EX30 Single Motor
-linktitle: EX30 Single Motor
+linktitle: "EX30 Single Motor"
 description: "Volvo EX30 Single Motor is an all-electric crossover with a WLTP range of up to 344 km (214 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

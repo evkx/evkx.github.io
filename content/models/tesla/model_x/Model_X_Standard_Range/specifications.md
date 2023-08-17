@@ -1,6 +1,6 @@
 ---
 title: Tesla Model X Standard Range specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Tesla Model X Standard Range."
 weight: 30
 hidden: true

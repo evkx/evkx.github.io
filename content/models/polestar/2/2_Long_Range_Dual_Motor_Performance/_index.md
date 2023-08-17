@@ -1,6 +1,6 @@
 ---
 title: Polestar 2 Long Range Dual Motor Performance
-linktitle: 2 Long Range Dual Motor Performance
+linktitle: "2 Long Range Dual Motor Performance"
 description: "Polestar 2 Long Range Dual Motor Performance is an all-electric sedan with a WLTP range of up to 592 km (368 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

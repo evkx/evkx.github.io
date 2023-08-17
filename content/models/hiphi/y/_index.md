@@ -1,6 +1,6 @@
 ---
 title: HiPhi Y
-linktitle: Y
+linktitle: "Y"
 description: "See below for details of the different variants of HiPhi Y"
 weight: 30
 ---

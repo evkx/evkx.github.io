@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan 4 Cross Turismo gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Porsche Taycan 4 Cross Turismo image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

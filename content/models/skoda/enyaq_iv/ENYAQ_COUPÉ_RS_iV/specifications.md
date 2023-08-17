@@ -1,6 +1,6 @@
 ---
 title: SKODA ENYAQ COUPÉ RS iV specifications
-linktitle: Specifications
+linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for SKODA ENYAQ COUPÉ RS iV."
 weight: 30
 hidden: true

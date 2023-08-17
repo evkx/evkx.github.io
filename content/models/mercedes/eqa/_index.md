@@ -1,6 +1,6 @@
 ---
 title: Mercedes EQA
-linktitle: EQA
+linktitle: "EQA"
 description: "See below for details of the different variants of Mercedes EQA"
 weight: 30
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mercedes-AMG EQE 53 4MATIC+
-linktitle: EQE 53 4MATIC+
+linktitle: "EQE 53 4MATIC+"
 description: "Mercedes-AMG EQE 53 4MATIC+ is an all-electric luxury sedan with a WLTP range of up to 526 km (327 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

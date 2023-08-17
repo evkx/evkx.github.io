@@ -1,6 +1,6 @@
 ---
 title: Polestar 2 Long Range Single Motor
-linktitle: 2 Long Range Single Motor
+linktitle: "2 Long Range Single Motor"
 description: "Polestar 2 Long Range Single Motor is an all-electric sedan with a WLTP range of up to 635 km (395 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: GMC Hummer EV Edition 1 Pickup range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for GMC Hummer EV Edition 1 Pickup."
 weight: 9
 hidden: true

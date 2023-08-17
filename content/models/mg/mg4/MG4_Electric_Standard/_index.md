@@ -1,6 +1,6 @@
 ---
 title: MG MG4 Electric Standard
-linktitle: MG4 Electric Standard
+linktitle: "MG4 Electric Standard"
 description: "MG MG4 Electric Standard is an all-electric crossover with a WLTP range of up to 350 km (218 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

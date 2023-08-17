@@ -1,6 +1,6 @@
 ---
 title: Audi e-tron 50 Sportback range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Audi e-tron 50 Sportback."
 weight: 9
 hidden: true

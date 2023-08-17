@@ -1,6 +1,6 @@
 ---
 title: Fiat 600e
-linktitle: 600e
+linktitle: "600e"
 description: "Fiat 600e is an all-electric crossover with a WLTP range of up to 409 km (254 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true

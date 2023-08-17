@@ -1,6 +1,6 @@
 ---
 title: Volkswagen ID.4 Pro Performance gallery
-linktitle: Image Gallery
+linktitle: "Image Gallery"
 description: "See below for our large Volkswagen ID.4 Pro Performance image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

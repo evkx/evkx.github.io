@@ -1,6 +1,6 @@
 ---
 title: Ford Mustang Mach-E GT range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Ford Mustang Mach-E GT."
 weight: 9
 hidden: true

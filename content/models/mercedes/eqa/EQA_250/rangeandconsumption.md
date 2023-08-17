@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQA 250 range & consumption
-linktitle: Range & Consumption
+linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Mercedes-EQ EQA 250."
 weight: 9
 hidden: true
