@@ -55,6 +55,22 @@
     "wheelbase": "Wheelbase",
     "grossweight": "Curb weight",
     "battery": "Battery",
-    "seats": "Seats"
-  }
+    "seats": "Seats",
+    "charging": "Charging",
+    "EnergyCharged10Percent10Min": "Energy charged after 10 minutes from 10%",
+    "EnergyCharged10Percent15Min": "Energy charged after 15 minutes from 10%",
+    "EnergyCharged10Percent20Min": "Energy charged after 20 minutes from 10%",
+    "EnergyCharged10Percent25Min": "Energy charged after 25 minutes from 10%",
+    "EnergyCharged10Percent30Min": "Energy charged after 30 minutes from 10%",
+    "DrivingDistance120kmhCharged10Percent10Min": "120km/h driving distance charged after 10 minutes from 10%",
+    "DrivingDistance120kmhCharged10Percent15Min": "120km/h driving distance charged after 25 minutes from 10%",
+    "DrivingDistance120kmhCharged10Percent20Min": "120km/h driving distance charged after 20 minutes from 10%",
+    "DrivingDistance120kmhCharged10Percent25Min": "120km/h driving distance charged after 25 minutes from 10%",
+    "DrivingDistance120kmhCharged10Percent30Min": "120km/h driving distance charged after 30 minutes from 10%",
+    "DrivingDistanceWltpCharged10Percent10Min": "WLTP driving distance charged after 10 minutes from 10%",
+    "DrivingDistanceWltpCharged10Percent15Min": "WLTP driving distance charged after 25 minutes from 10%",
+    "DrivingDistanceWltpCharged10Percent20Min": "WLTPdriving distance charged after 20 minutes from 10%",
+    "DrivingDistanceWltpCharged10Percent25Min": "WLTP driving distance charged after 25 minutes from 10%",
+    "DrivingDistanceWltpCharged10Percent30Min": "WLTP driving distance charged after 30 minutes from 10%"
+   }
 }
