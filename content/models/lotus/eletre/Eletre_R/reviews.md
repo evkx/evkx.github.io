@@ -8,5 +8,7 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### :  01.01.0001
+### Out of Spec Reviews: I Drive The Lotus Eletre For The First Time! A Charging Monster w/ Fantastic Interior & Performance 20.08.2023
+
+{{< youtube S3xklKVH7ro >}}
 
