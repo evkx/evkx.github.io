@@ -44,6 +44,16 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|LFP|
 
 
+|Spec|Value|
+|----|-----|
+|[Battery gross](../../../../../technology/battery/buffer/)|70 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|68,5 kWh|
+|Max DC charging|250 kW|
+|[Pack Configuration](../../../../../technology/battery/batterypack/)|106s1p|
+|[Nominal voltage](../../../../../technology/battery/batterypack/)|340|
+|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|LFP|
+
+
 
 ## Dimensions
 

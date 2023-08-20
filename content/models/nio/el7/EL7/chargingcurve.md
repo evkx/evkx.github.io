@@ -139,9 +139,9 @@ The above charging curve is at optimum conditions. However, cold or hot temperat
 
 |  | |
 |-----|-----|
-|Average charging speed 0 - 100% |71,7 kW|
-|Average charging speed 10-100% |69,3 kW|
-|Average charging speed 10-80% |91,2 kW|
+|Average charging speed 0 - 100% |65,3 kW|
+|Average charging speed 10-100% |66,5 kW|
+|Average charging speed 10-80% |87,1 kW|
 |Optimum charging area|7% - 74%|
 |Optimum charging speed included 5 minutes loss|76,7kW|
 |Optimum charge stop time |37m57s|

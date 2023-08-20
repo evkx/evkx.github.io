@@ -142,9 +142,9 @@ Porsche Taycan Sport Turismo have battery heating, making charging at an optimum
 
 |  | |
 |-----|-----|
-|Average charging speed 0 - 100% |94,0 kW|
-|Average charging speed 10-100% |88,8 kW|
-|Average charging speed 10-80% |156,5 kW|
+|Average charging speed 0 - 100% |99,6 kW|
+|Average charging speed 10-100% |95,2 kW|
+|Average charging speed 10-80% |195,5 kW|
 |Optimum charging area|3% - 65%|
 |Optimum charging speed included 5 minutes loss|164,9kW|
 |Optimum charge stop time |19m53s|

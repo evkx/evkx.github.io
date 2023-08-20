@@ -36,6 +36,9 @@ The Tesla Model Y Standard Range has a maximum power of 255KW (347hp). The total
 
 ## Battery, range, and charging
 
+Tesla Model Y Standard Range has two battery options with different specifications. Below you see how this affects range and charging. 
+### LFP Europa/China market
+
 The battery has a gross capacity of 60kWh and a net capacity of 57,5kWh, meaning you have a 2,5kWh buffer for protection. (4,2%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
 
  The [WLTP range](../../../../guides/understandingrange/wltp) is 430 km (267 mi).   The consumption is 13,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
@@ -43,6 +46,15 @@ The battery has a gross capacity of 60kWh and a net capacity of 57,5kWh, meaning
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 24 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 50% resulting in an actual charge speed including time loss on 101kW. Each charge session would take 16 minutes and 28 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 42 minutes to drive. This trip will require five charge session(s) charging from 2% to 50%. The total time lost for charging will be 82 minutes.   
+### NMC 4850 US Market
+
+The battery has a gross capacity of 70kWh and a net capacity of 68,5kWh, meaning you have a 1,5kWh buffer for protection. (2,1%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
+
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 430 km (267 mi).   The consumption is 13,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+
+The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 84 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 36% resulting in an actual charge speed including time loss on 82kW. Each charge session would take 18 minutes and 60 seconds. 
+
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 52 minutes to drive. This trip will require five charge session(s) charging from 0% to 37%. The total time lost for charging will be 93 minutes.   
 
 ### Onboard charger
 
