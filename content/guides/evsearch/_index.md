@@ -13,15 +13,15 @@ Below, you see the sort orders and filters available.
 
 ### Brand & Model
 
-This is the default sort order. The result is based on the name of brand and name of model.
+This sort order is the default sort order. We base the result on the manufacturer's and model's names.
+
+[See search result](/evsearch/)
 
 ### WLTP Range base trim
 
-This sorts the models based on the specificed WLTP range for the base trim for the model.
-Models with longest range are listed first.
+This sort order sorts the models based on the specific WLTP range for the base trim for the model. Models with the longest range are listed first. Not all models have a WLTP rating.
 
 [See search result](/evsearch/?sortOrder=RangeMinimumWltp)
-
 
 ### WLTP Consumption base trim
 
