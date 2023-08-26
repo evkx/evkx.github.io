@@ -45,6 +45,35 @@ This sort models on the max power. From large to small.
 [See search result](/evsearch/?sortOrder=PowerDesc)
 
 
+
+### Top speed
+
+This sort the EV-models based on rated top speed (V-MAX) From large to small.
+
+
+[See search result](/evsearch/?sortOrder=TopSpeedDesc)
+
+
+
+### Max DC Charging
+
+This sort EV-models based on the rated MAX DC Charging speed. 
+
+[See search result](/evsearch/?sortOrder=MaxDCCharging)
+
+### The Average charging speed 
+
+The average charging speed vary a lot. We have 3 versions of this average. 
+
+
+[Average Charging speed 0-100%](/evsearch/?sortOrder=AverageChargingSpeedDesc)
+
+[Average Charging speed 10-100%](/evsearch/?sortOrder=AverageChargingSpeed10100Desc)
+
+
+[Average Charging speed 10-80%](/evsearch/?sortOrder=AverageChargingSpeed1080Desc)
+
+
 ## Filters
 
 
