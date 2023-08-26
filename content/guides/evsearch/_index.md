@@ -20,8 +20,29 @@ This is the default sort order. The result is based on the name of brand and nam
 This sorts the models based on the specificed WLTP range for the base trim for the model.
 Models with longest range are listed first.
 
-### Net battery size
+[See search result](/evsearch/?sortOrder=RangeMinimumWltp)
 
+
+### WLTP Consumption base trim
+
+This sort models based on the consumption for base model for the WLTP cyclus
+
+[See search result](/evsearch/?sortOrder=WltpBasicConsumption)
+
+### Usable battery
+
+This sort models on the usable (net) battery size. To versions with two sorting
+
+[See search result small -> large](/evsearch/?sortOrder=NetBattery)
+
+[See search result large -> small](/evsearch/?sortOrder=NetBattery)
+
+### Power
+
+This sort models on the max power. From large to small.
+
+
+[See search result](/evsearch/?sortOrder=PowerDesc)
 
 
 ## Filters
