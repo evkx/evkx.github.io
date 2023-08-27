@@ -195,9 +195,20 @@ You can filter on EV types.
 
 ### Drivetrain filters
 
-You can filter on different drive train features
+You can filter on different drive train features. Both in combination and seperate. 
+Examples:
 
 - [Models with all wheel drive](/evsearch/?allWheelDrive=true)
 - [Models with rear wheel drive (RWD)](/evsearch/?rWD=true)
 - [Models with front wheel drive (FWD)](/evsearch/?fWD=true)
 - [Models with adaptive damping suspension](/evsearch/?adaptiveSuspension=true)
+- [Models with air suspension](/evsearch/?airSuspension=true)
+- [Models with rear axle steering](/evsearch/?rearAxleSteering=true)
+
+### Adas filters
+
+EVS get more and more Advanced Driver Assist systems (ADAS). In our EVKX database you can filter on the ADAS systems you require
+
+- [Models with NighVision](/evsearch/?nightVision=true)
+- [Models with Adaptive Cruise Control](/evsearch/?nightVision=true)
+- [Models with Autosteer](/evsearch/?autoSteer=true)
