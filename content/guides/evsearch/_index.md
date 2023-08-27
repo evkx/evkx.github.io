@@ -12,6 +12,8 @@ Below, you see the sort orders and filters available.
 
 ## Sorting
 
+Below you see details about the different sort orders EVKX EV database offers.
+
 ### Brand & Model
 
 This sort order is the default sort order. We base the result on the manufacturer's and model's names.
@@ -128,7 +130,7 @@ The database lets you sort on different size and weight specifications.
 
 ### 10% challenge
 
-Made famous by the 10% challenge from Kyle Connor and his Out of Spec channel on YouTube,  EVKX offers two sorts of models around the scenario that on road trips, drivers will charge their EV when the state of charge reaches around 10% and will want to charge a given time after he had time to stretch his legs, visiting a bathroom and maybe get something to eat.
+Made famous by the 10% challenge from [Kyle Connor and his Out of Spec channel](../evreviewers/) on YouTube,  EVKX offers two sorts of models around the scenario that on road trips, drivers will charge their EV when the state of charge reaches around 10% and will want to charge a given time after he had time to stretch his legs, visiting a bathroom and maybe get something to eat.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/guides/evsearch/10percentchallenge.jpg">
@@ -162,15 +164,26 @@ Since people are different, we offer various lengths of charging sessions. While
 - [Energy charged after 30 minutes from 10%](/evsearch/?sortOrder=EnergyCharged10Percent30Min)
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Filters
+
+The EV database offer various filters that can let you set requiremenst a car need to fullfill to be listed
+
+### Brand
+
+You can select on or many brands
+
+- [Example: List models from Audi, BMW and Mercedes](/evsearch/?evType=&brands=Audi%2CBMW%2CMercedes)
+
+### Paint Color
+
+You can select which colors the model needs to be offered. On or many colors could be set
+
+### Seat configuration
+
+You can filter the models based on the seat configuration. 
+
+- [Example: List models available with 7 seats configuration](/evsearch/?seatConfiguration=7)
+
+### Ev Type
+
+You can filter on EV types.
