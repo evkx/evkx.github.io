@@ -25,7 +25,7 @@ This sort order sorts the models based on the specific WLTP range for the base t
 
 ### WLTP Consumption base trim
 
-This sort models based on the consumption for base model for the WLTP cyclus
+This sorts model based on the consumption for the WLTP cycle
 
 [See search result](/evsearch/?sortOrder=WltpBasicConsumption)
 
@@ -66,12 +66,9 @@ This sort EV-models based on the rated MAX DC Charging speed.
 The average charging speed vary a lot. We have 3 versions of this average. 
 
 
-[Average Charging speed 0-100%](/evsearch/?sortOrder=AverageChargingSpeedDesc)
-
-[Average Charging speed 10-100%](/evsearch/?sortOrder=AverageChargingSpeed10100Desc)
-
-
-[Average Charging speed 10-80%](/evsearch/?sortOrder=AverageChargingSpeed1080Desc)
+- [Average Charging speed 0-100%](/evsearch/?sortOrder=AverageChargingSpeedDesc)
+- [Average Charging speed 10-100%](/evsearch/?sortOrder=AverageChargingSpeed10100Desc)
+- [Average Charging speed 10-80%](/evsearch/?sortOrder=AverageChargingSpeed1080Desc)
 
 
 ## Filters
