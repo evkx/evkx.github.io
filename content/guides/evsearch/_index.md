@@ -4,8 +4,9 @@ linktitle: EV Search
 description: EVKX offers the most comprehensive search for EVs available online. This guide guides you on how to get the most out of this feature.
 weight: 3
 ---
+<!-- markdownlint-disable MD033 -->
 
-The search lets you order the EVs in various technical and functional aspects. In addition, you can filter the result based on your criteria. 
+The search lets you order the EVs in various technical and functional aspects. In addition, you can filter the result based on your criteria.
 
 Below, you see the sort orders and filters available.
 
@@ -83,19 +84,82 @@ If there is a model that can do 1000km without charging, it could drive this dis
 
 ### Travel speed
 
-Sorting on travel speed is considering how fast a model can drive if you include optimal charging speed and consumption. 
+Sorting on travel speed is considering how fast a model can drive if you include optimal charging speed and consumption.
 
 Higher consumption requires more charging. Faster charging means shorter charging stops. All affect the average driving speed.
 
-We offer sorting for two scenarios: Driving the WLTP cycle (46.5 km/h) and driving 120km/h. 
+We offer sorting for two scenarios: Driving the WLTP cycle (46.5 km/h) and driving 120km/h.
 
 - [Travel speed WLTP Cyclus](/evsearch/?sortOrder=TravelSpeedWltpDesc)
 - [Travel speed 120km/h](/evsearch/?sortOrder=TravelSpeed120kmhDesc)
 
+### Nominal voltage
+
+This sort order sorts the models based on the models nominal voltage
+
+ [See models sorted on battery nomal voltage High > low](/evsearch/?sortOrder=NominalVoltage)
+
+### Loading capacity
+
+The loading capacity varies a lot between the models. EVKX sorts the models based on some essential specifications.
+
+- [Models sorted on trunk space](/evsearch/?sortOrder=TrunkSizeDesc)
+- [Models sorted on trunk space when seats are down](/evsearch/?sortOrder=MaxTrunkSizeDesc)
+- [Max loading weight, including driver](/evsearch/?sortOrder=MaxLoadDesc)
+- [Max Trailer capacity](/evsearch/?sortOrder=MaxTrailerSizeDesc)
 
 
+### Ground clearance
+
+This sort orders focus on the ground clearance
+
+- [Max ground clearance](/evsearch/?sortOrder=MaxGroundClearanceDesc)
+- [Min ground clearance](/evsearch/?sortOrder=MaxGroundClearanceDesc)
+- [Suspension height adjustment](/evsearch/?sortOrder=SuspensionHeightAdjustment)
 
 
+### Size & Weight
+
+The database lets you sort on different size and weight specifications.
+
+- [Models sorted on length large > smaller](/evsearch/?sortOrder=Length)
+- [Models sorted on wheelbase large > smaller](/evsearch/?sortOrder=Wheelbase)
+- [Models sorted on curb weight large > smaller](/evsearch/?sortOrder=WeightUnladenDINKg)
+
+### 10% challenge
+
+Made famous by the 10% challenge from Kyle Connor and his Out of Spec channel on YouTube,  EVKX offers two sorts of models around the scenario that on road trips, drivers will charge their EV when the state of charge reaches around 10% and will want to charge a given time after he had time to stretch his legs, visiting a bathroom and maybe get something to eat.
+
+<figur>
+<a href="https://media.evkx.net/multimedia/guides/evsearch/10percentchallenge.jpg">
+<img src="https://media.evkx.net/multimedia/guides/evsearch/10percentchallenge_st.jpg" alt="Out of spec first 10% challenge was Tesla Model Y" title="Out of spec first 10% challenge was Tesla Model Y" width="680" height="453">
+</a>
+<figcaption><h4>Out of spec first 10% challenge was Tesla Model Y</h4></figcaption></figur>
+
+Depending on charging speed and consumption, you can drive the car a distance before the next charging session. Higher charging speed and lower consumption reduced the number of charging sessions for a road trip. 
+
+Since people are different, we offer various lengths of charging sessions. While others prefer a quick stop of 10 minutes, others would rather have a longer stop to reduce the number of charging sessions.
+
+#### Driving distance added in charging session
+
+- [120km/h driving distance charged after 10 minutes from 10%](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent10Min)
+- [120km/h driving distance charged after 15 minutes from 10%](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent15Min)
+- [120km/h driving distance charged after 20 minutes from 10%](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent20Min)
+- [120km/h driving distance charged after 25 minutes from 10%](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent25Min)
+- [120km/h driving distance charged after 30 minutes from 10%](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent30Min)
+- [WLTP driving distance charged after 10 minutes from 10%](/evsearch/?sortOrder=DrivingDistanceWltpCharged10Percent10Min)
+- [WLTP driving distance charged after 15 minutes from 10%](/evsearch/?sortOrder=DrivingDistanceWltpCharged10Percent15Min)
+- [WLTP driving distance charged after 20 minutes from 10%](/evsearch/?sortOrder=DrivingDistanceWltpCharged10Percent20Min)
+- [WLTP driving distance charged after 25 minutes from 10%](/evsearch/?sortOrder=DrivingDistanceWltpCharged10Percent25Min)
+- [WLTP driving distance charged after 30 minutes from 10%](/evsearch/?sortOrder=DrivingDistanceWltpCharged10Percent30Min)
+
+#### Energy charged
+
+- [Energy charged after 10 minutes from 10%](/evsearch/?sortOrder=EnergyCharged10Percent10Min)
+- [Energy charged after 15 minutes from 10%](/evsearch/?sortOrder=EnergyCharged10Percent15Min)
+- [Energy charged after 20 minutes from 10%](/evsearch/?sortOrder=EnergyCharged10Percent20Min)
+- [Energy charged after 25 minutes from 10%](/evsearch/?sortOrder=EnergyCharged10Percent25Min)
+- [Energy charged after 30 minutes from 10%](/evsearch/?sortOrder=EnergyCharged10Percent30Min)
 
 
 
