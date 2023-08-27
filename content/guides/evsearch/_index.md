@@ -163,10 +163,11 @@ Since people are different, we offer various lengths of charging sessions. While
 - [Energy charged after 25 minutes from 10%](/evsearch/?sortOrder=EnergyCharged10Percent25Min)
 - [Energy charged after 30 minutes from 10%](/evsearch/?sortOrder=EnergyCharged10Percent30Min)
 
-
 ## Filters
 
-The EV database offer various filters that can let you set requiremenst a car need to fullfill to be listed
+The EV database offer various filters that can let you set requiremenst a car need to fullfill to be listed.
+
+The most common filters are on top while you find a lot of others under advanced filters.
 
 ### Brand
 
@@ -187,3 +188,13 @@ You can filter the models based on the seat configuration.
 ### Ev Type
 
 You can filter on EV types.
+
+- [Example: List station wagons](/evsearch/?evType=StationWagon)
+- [Example: List SUVs](/evsearch/?evType=SUV)
+
+
+### Drivetrain filters
+
+You can filter on different drive train features
+
+[Models with all wheel drive](/evsearch/?allWheelDrive=true)
