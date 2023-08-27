@@ -197,4 +197,7 @@ You can filter on EV types.
 
 You can filter on different drive train features
 
-[Models with all wheel drive](/evsearch/?allWheelDrive=true)
+- [Models with all wheel drive](/evsearch/?allWheelDrive=true)
+- [Models with rear wheel drive (RWD)](/evsearch/?rWD=true)
+- [Models with front wheel drive (FWD)](/evsearch/?fWD=true)
+- [Models with adaptive damping suspension](/evsearch/?adaptiveSuspension=true)
