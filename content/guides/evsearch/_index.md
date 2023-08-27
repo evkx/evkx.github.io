@@ -77,6 +77,36 @@ While the theoretical result comes close to the real-world result for most model
 
 If there is a model that can do 1000km without charging, it could drive this distance in 500 minutes. So any time over 500 minutes in the result is time lost for charging.
 
-[See search result sorted on 1000km time.](/evsearch/?sortOrder=DrivingTime1000kmChallenge)
+- [See search result sorted on 1000km time.](/evsearch/?sortOrder=DrivingTime1000kmChallenge)
+- [See search result sorted on 1000km average speed.](/evsearch/?sortOrder=AverageSpeed1000kmChallengeDesc)
+
+
+### Travel speed
+
+Sorting on travel speed is considering how fast a model can drive if you include optimal charging speed and consumption. 
+
+Higher consumption requires more charging. Faster charging means shorter charging stops. All affect the average driving speed.
+
+We offer sorting for two scenarios: Driving the WLTP cycle (46.5 km/h) and driving 120km/h. 
+
+- [Travel speed WLTP Cyclus](/evsearch/?sortOrder=TravelSpeedWltpDesc)
+- [Travel speed 120km/h](/evsearch/?sortOrder=TravelSpeed120kmhDesc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Filters
