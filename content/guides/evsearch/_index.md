@@ -25,7 +25,7 @@ This sort order sorts the models based on the specific WLTP range for the base t
 
 ### WLTP Consumption base trim
 
-This sorts model based on the consumption for the WLTP cycle
+This sort order sorts models based on the consumption for the WLTP cycle
 
 [See search result](/evsearch/?sortOrder=WltpBasicConsumption)
 
@@ -33,18 +33,14 @@ This sorts model based on the consumption for the WLTP cycle
 
 This sort models on the usable (net) battery size. To versions with two sorting
 
-[See search result small -> large](/evsearch/?sortOrder=NetBattery)
-
-[See search result large -> small](/evsearch/?sortOrder=NetBattery)
+- [See search result small -> large](/evsearch/?sortOrder=NetBattery)
+- [See search result large -> small](/evsearch/?sortOrder=NetBattery)
 
 ### Power
 
-This sort models on the max power. From large to small.
-
+This sort order sort models based on the max power. From large to small.
 
 [See search result](/evsearch/?sortOrder=PowerDesc)
-
-
 
 ### Top speed
 
