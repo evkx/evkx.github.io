@@ -62,11 +62,21 @@ The average charging speed defines how long a charging session lasts. You can so
 - [Average Charging speed 10-100%](/evsearch/?sortOrder=AverageChargingSpeed10100Desc)
 - [Average Charging speed 10-80%](/evsearch/?sortOrder=AverageChargingSpeed1080Desc)
 
-### Accelration
+### Acceleration
 
-This sorts models based on accelariotion 0 - 100km/h (0-60 mph)
+This sort order sorts models based on acceleration time 0 - 100km/h (0-60 mph)
 
 [See search result](/evsearch/?sortOrder=ZeroTo100)
 
+### Calculated 1000 km challenge
+
+Made famous by [Bjørn Nyland](../evreviewers)  and his 1000km driving tests, where he starts with a full battery and times how long it takes to drive 1000km in 120km/h (75mph). Typical, this includes several charging sessions, and the result depends on the model's charging speed and energy consumption since the driving speed is the same.
+
+EVKX offers a theoretical result for all models based on charging curve and consumption.
+While the theoretical result comes close to the real-world result for most models, the real-world tests often show how inconsistent charging performance caused by overheating or other limitations can negatively affect the outcome.
+
+If there is a model that can do 1000km without charging, it could drive this distance in 500 minutes. So any time over 500 minutes in the result is time lost for charging.
+
+[See search result sorted on 1000km time.](/evsearch/?sortOrder=DrivingTime1000kmChallenge)
 
 ## Filters
