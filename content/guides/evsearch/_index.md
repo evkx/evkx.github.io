@@ -31,7 +31,7 @@ This sort order sorts models based on the consumption for the WLTP cycle
 
 ### Usable battery
 
-This sort models on the usable (net) battery size. To versions with two sorting
+This sorts models based on the usable (net) battery size. To versions with two sorting
 
 - [See search result small -> large](/evsearch/?sortOrder=NetBattery)
 - [See search result large -> small](/evsearch/?sortOrder=NetBattery)
@@ -44,16 +44,13 @@ This sort order sort models based on the max power. From large to small.
 
 ### Top speed
 
-This sort the EV-models based on rated top speed (V-MAX) From large to small.
-
+This sort order sorts the EV models based on rated top speed (V-MAX) From large to small.
 
 [See search result](/evsearch/?sortOrder=TopSpeedDesc)
 
-
-
 ### Max DC Charging
 
-This sort EV-models based on the rated MAX DC Charging speed. 
+This sort order sorts the  EV models based on the rated MAX DC Charging speed.
 
 [See search result](/evsearch/?sortOrder=MaxDCCharging)
 
