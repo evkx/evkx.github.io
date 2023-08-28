@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Autogefühl: Why VW invests $700 million in this! XPeng G9 electric SUV REVIEW 28.08.2023
+
+{{< youtube niKz4XePRfQ >}}
+
 ### Bjørn Nyland: Xpeng G9 pre-production first drive 26.04.2023
 
 {{< youtube B9pqoa2f5Hw >}}
