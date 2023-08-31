@@ -11,7 +11,7 @@ Global expansion: Zeekr has ambitious plans to expand its presence in the global
 
 <a href="001"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_st.jpg" width="800" height="533" alt="Zeekr 001" ></a>
 
-This model is available in 3 variant(s). 
+This model is available in 4 variant(s). 
 [Read full details](001/)
 
 ## Zeekr X
