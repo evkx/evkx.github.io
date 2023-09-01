@@ -21,7 +21,7 @@ Tesla Model 3 Long Range is an all-electric sedan with a WLTP range of up to 602
 
 <a href="/models/tesla/model_3/model_3_long_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpeg" width="800" height="533" alt="Model 3 Long Range" ></a>
 
-Tesla Model 3 Long Range is an all-electric sedan with a WLTP range of up to 602 km (374 miles). EVKX.net have all the details. 
+Tesla Model 3 Long Range is an all-electric sedan with a WLTP range of up to 629 km (391 miles). EVKX.net have all the details. 
 
 - [Tesla Model 3 Long Range article](/models/tesla/model_3/model_3_long_range/)
 - [Tesla Model 3 Long Range Range & consumption info](/models/tesla/model_3/model_3_long_range//rangeandconsumption)

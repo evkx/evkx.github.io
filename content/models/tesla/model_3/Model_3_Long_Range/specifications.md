@@ -26,9 +26,12 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Long R
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|602 km|
-|WLTP consumption|12,5 kWh/100km|
-|WLTP consumption with charging loss|14,8 kWh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|629 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|11,9 kWh/100km|
+|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|14,8 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|6629 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|1,1 kWh/100km|
+|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|14,8 kwh/100km|
 
 
 
