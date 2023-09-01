@@ -11,9 +11,9 @@ weight: 30
 Jeep Avenger is an all-electric crossover with a WLTP range of up to 404 km (251 miles). EVKX.net have all the details. 
 
 - [Jeep Avenger article](/models/jeep/avenger/avenger/)
-- [Jeep Avenger Range & consumption info](/models/jeep/avenger/avenger//rangeandconsumption)
-- [Jeep Avenger Charging curve and performance](/models/jeep/avenger/avenger//chargingcurve)
-- [Jeep Avenger full specifications](/models/jeep/avenger/avenger//specifications)
-- [Jeep Avenger image gallery](/models/jeep/avenger/avenger//gallery)
-- [Jeep Avenger reviews](/models/jeep/avenger/avenger//reviews)
+- [Jeep Avenger Range & consumption info](/models/jeep/avenger/avenger/rangeandconsumption)
+- [Jeep Avenger Charging curve and performance](/models/jeep/avenger/avenger/chargingcurve)
+- [Jeep Avenger full specifications](/models/jeep/avenger/avenger/specifications)
+- [Jeep Avenger image gallery](/models/jeep/avenger/avenger/gallery)
+- [Jeep Avenger reviews](/models/jeep/avenger/avenger/reviews)
 

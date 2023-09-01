@@ -11,11 +11,11 @@ weight: 30
 Tesla Model Y Long Range is an all-electric coupe SUV with a WLTP range of up to 542 km (337 miles). EVKX.net have all the details. 
 
 - [Tesla Model Y Long Range article](/models/tesla/model_y/model_y_long_range/)
-- [Tesla Model Y Long Range Range & consumption info](/models/tesla/model_y/model_y_long_range//rangeandconsumption)
-- [Tesla Model Y Long Range Charging curve and performance](/models/tesla/model_y/model_y_long_range//chargingcurve)
-- [Tesla Model Y Long Range full specifications](/models/tesla/model_y/model_y_long_range//specifications)
-- [Tesla Model Y Long Range image gallery](/models/tesla/model_y/model_y_long_range//gallery)
-- [Tesla Model Y Long Range reviews](/models/tesla/model_y/model_y_long_range//reviews)
+- [Tesla Model Y Long Range Range & consumption info](/models/tesla/model_y/model_y_long_range/rangeandconsumption)
+- [Tesla Model Y Long Range Charging curve and performance](/models/tesla/model_y/model_y_long_range/chargingcurve)
+- [Tesla Model Y Long Range full specifications](/models/tesla/model_y/model_y_long_range/specifications)
+- [Tesla Model Y Long Range image gallery](/models/tesla/model_y/model_y_long_range/gallery)
+- [Tesla Model Y Long Range reviews](/models/tesla/model_y/model_y_long_range/reviews)
 
 ## Tesla Model Y Performance
 
@@ -24,11 +24,11 @@ Tesla Model Y Long Range is an all-electric coupe SUV with a WLTP range of up to
 Tesla Model Y Performance is an all-electric coupe SUV with a WLTP range of up to 514 km (319 miles). EVKX.net have all the details. 
 
 - [Tesla Model Y Performance article](/models/tesla/model_y/model_y_performance/)
-- [Tesla Model Y Performance Range & consumption info](/models/tesla/model_y/model_y_performance//rangeandconsumption)
-- [Tesla Model Y Performance Charging curve and performance](/models/tesla/model_y/model_y_performance//chargingcurve)
-- [Tesla Model Y Performance full specifications](/models/tesla/model_y/model_y_performance//specifications)
-- [Tesla Model Y Performance image gallery](/models/tesla/model_y/model_y_performance//gallery)
-- [Tesla Model Y Performance reviews](/models/tesla/model_y/model_y_performance//reviews)
+- [Tesla Model Y Performance Range & consumption info](/models/tesla/model_y/model_y_performance/rangeandconsumption)
+- [Tesla Model Y Performance Charging curve and performance](/models/tesla/model_y/model_y_performance/chargingcurve)
+- [Tesla Model Y Performance full specifications](/models/tesla/model_y/model_y_performance/specifications)
+- [Tesla Model Y Performance image gallery](/models/tesla/model_y/model_y_performance/gallery)
+- [Tesla Model Y Performance reviews](/models/tesla/model_y/model_y_performance/reviews)
 
 ## Tesla Model Y Standard Range
 
@@ -37,9 +37,9 @@ Tesla Model Y Performance is an all-electric coupe SUV with a WLTP range of up t
 Tesla Model Y Standard Range is an all-electric coupe SUV with a WLTP range of up to 430 km (267 miles). EVKX.net have all the details. 
 
 - [Tesla Model Y Standard Range article](/models/tesla/model_y/model_y_standard_range/)
-- [Tesla Model Y Standard Range Range & consumption info](/models/tesla/model_y/model_y_standard_range//rangeandconsumption)
-- [Tesla Model Y Standard Range Charging curve and performance](/models/tesla/model_y/model_y_standard_range//chargingcurve)
-- [Tesla Model Y Standard Range full specifications](/models/tesla/model_y/model_y_standard_range//specifications)
-- [Tesla Model Y Standard Range image gallery](/models/tesla/model_y/model_y_standard_range//gallery)
-- [Tesla Model Y Standard Range reviews](/models/tesla/model_y/model_y_standard_range//reviews)
+- [Tesla Model Y Standard Range Range & consumption info](/models/tesla/model_y/model_y_standard_range/rangeandconsumption)
+- [Tesla Model Y Standard Range Charging curve and performance](/models/tesla/model_y/model_y_standard_range/chargingcurve)
+- [Tesla Model Y Standard Range full specifications](/models/tesla/model_y/model_y_standard_range/specifications)
+- [Tesla Model Y Standard Range image gallery](/models/tesla/model_y/model_y_standard_range/gallery)
+- [Tesla Model Y Standard Range reviews](/models/tesla/model_y/model_y_standard_range/reviews)
 

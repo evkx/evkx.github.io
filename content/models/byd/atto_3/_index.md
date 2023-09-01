@@ -11,9 +11,9 @@ weight: 30
 BYD Atto 3 is an all-electric SUV with a WLTP range of up to 420 km (261 miles). EVKX.net have all the details. 
 
 - [BYD Atto 3 article](/models/byd/atto_3/atto_3/)
-- [BYD Atto 3 Range & consumption info](/models/byd/atto_3/atto_3//rangeandconsumption)
-- [BYD Atto 3 Charging curve and performance](/models/byd/atto_3/atto_3//chargingcurve)
-- [BYD Atto 3 full specifications](/models/byd/atto_3/atto_3//specifications)
-- [BYD Atto 3 image gallery](/models/byd/atto_3/atto_3//gallery)
-- [BYD Atto 3 reviews](/models/byd/atto_3/atto_3//reviews)
+- [BYD Atto 3 Range & consumption info](/models/byd/atto_3/atto_3/rangeandconsumption)
+- [BYD Atto 3 Charging curve and performance](/models/byd/atto_3/atto_3/chargingcurve)
+- [BYD Atto 3 full specifications](/models/byd/atto_3/atto_3/specifications)
+- [BYD Atto 3 image gallery](/models/byd/atto_3/atto_3/gallery)
+- [BYD Atto 3 reviews](/models/byd/atto_3/atto_3/reviews)
 

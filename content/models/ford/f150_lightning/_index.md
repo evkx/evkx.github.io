@@ -11,9 +11,9 @@ weight: 30
 Ford F150 Lightning Extended Range is an all-electric Pickup Truck with a EPA range of up to 515 km (320 miles). EVKX.net have all the details. 
 
 - [Ford F150 Lightning Extended Range article](/models/ford/f150_lightning/f150_lightning_extended_range/)
-- [Ford F150 Lightning Extended Range Range & consumption info](/models/ford/f150_lightning/f150_lightning_extended_range//rangeandconsumption)
-- [Ford F150 Lightning Extended Range Charging curve and performance](/models/ford/f150_lightning/f150_lightning_extended_range//chargingcurve)
-- [Ford F150 Lightning Extended Range full specifications](/models/ford/f150_lightning/f150_lightning_extended_range//specifications)
-- [Ford F150 Lightning Extended Range image gallery](/models/ford/f150_lightning/f150_lightning_extended_range//gallery)
-- [Ford F150 Lightning Extended Range reviews](/models/ford/f150_lightning/f150_lightning_extended_range//reviews)
+- [Ford F150 Lightning Extended Range Range & consumption info](/models/ford/f150_lightning/f150_lightning_extended_range/rangeandconsumption)
+- [Ford F150 Lightning Extended Range Charging curve and performance](/models/ford/f150_lightning/f150_lightning_extended_range/chargingcurve)
+- [Ford F150 Lightning Extended Range full specifications](/models/ford/f150_lightning/f150_lightning_extended_range/specifications)
+- [Ford F150 Lightning Extended Range image gallery](/models/ford/f150_lightning/f150_lightning_extended_range/gallery)
+- [Ford F150 Lightning Extended Range reviews](/models/ford/f150_lightning/f150_lightning_extended_range/reviews)
 

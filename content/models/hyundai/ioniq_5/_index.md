@@ -11,11 +11,11 @@ weight: 30
 Hyundai Ioniq 5 Long Range 2WD is an all-electric crossover with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. 
 
 - [Hyundai Ioniq 5 Long Range 2WD article](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/)
-- [Hyundai Ioniq 5 Long Range 2WD Range & consumption info](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd//rangeandconsumption)
-- [Hyundai Ioniq 5 Long Range 2WD Charging curve and performance](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd//chargingcurve)
-- [Hyundai Ioniq 5 Long Range 2WD full specifications](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd//specifications)
-- [Hyundai Ioniq 5 Long Range 2WD image gallery](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd//gallery)
-- [Hyundai Ioniq 5 Long Range 2WD reviews](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd//reviews)
+- [Hyundai Ioniq 5 Long Range 2WD Range & consumption info](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/rangeandconsumption)
+- [Hyundai Ioniq 5 Long Range 2WD Charging curve and performance](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/chargingcurve)
+- [Hyundai Ioniq 5 Long Range 2WD full specifications](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/specifications)
+- [Hyundai Ioniq 5 Long Range 2WD image gallery](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/gallery)
+- [Hyundai Ioniq 5 Long Range 2WD reviews](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/reviews)
 
 ## Hyundai Ioniq 5 Long Range AWD
 
@@ -24,11 +24,11 @@ Hyundai Ioniq 5 Long Range 2WD is an all-electric crossover with a WLTP range of
 Hyundai Ioniq 5 Long Range AWD is an all-electric crossover with a WLTP range of up to 481 km (299 miles). EVKX.net have all the details. 
 
 - [Hyundai Ioniq 5 Long Range AWD article](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
-- [Hyundai Ioniq 5 Long Range AWD Range & consumption info](/models/hyundai/ioniq_5/ioniq_5_long_range_awd//rangeandconsumption)
-- [Hyundai Ioniq 5 Long Range AWD Charging curve and performance](/models/hyundai/ioniq_5/ioniq_5_long_range_awd//chargingcurve)
-- [Hyundai Ioniq 5 Long Range AWD full specifications](/models/hyundai/ioniq_5/ioniq_5_long_range_awd//specifications)
-- [Hyundai Ioniq 5 Long Range AWD image gallery](/models/hyundai/ioniq_5/ioniq_5_long_range_awd//gallery)
-- [Hyundai Ioniq 5 Long Range AWD reviews](/models/hyundai/ioniq_5/ioniq_5_long_range_awd//reviews)
+- [Hyundai Ioniq 5 Long Range AWD Range & consumption info](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/rangeandconsumption)
+- [Hyundai Ioniq 5 Long Range AWD Charging curve and performance](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/chargingcurve)
+- [Hyundai Ioniq 5 Long Range AWD full specifications](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/specifications)
+- [Hyundai Ioniq 5 Long Range AWD image gallery](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/gallery)
+- [Hyundai Ioniq 5 Long Range AWD reviews](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/reviews)
 
 ## Hyundai Ioniq 5 N
 
@@ -37,9 +37,9 @@ Hyundai Ioniq 5 Long Range AWD is an all-electric crossover with a WLTP range of
 Hyundai Ioniq 5 N is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net have all the details. 
 
 - [Hyundai Ioniq 5 N article](/models/hyundai/ioniq_5/ioniq_5_n/)
-- [Hyundai Ioniq 5 N Range & consumption info](/models/hyundai/ioniq_5/ioniq_5_n//rangeandconsumption)
-- [Hyundai Ioniq 5 N Charging curve and performance](/models/hyundai/ioniq_5/ioniq_5_n//chargingcurve)
-- [Hyundai Ioniq 5 N full specifications](/models/hyundai/ioniq_5/ioniq_5_n//specifications)
-- [Hyundai Ioniq 5 N image gallery](/models/hyundai/ioniq_5/ioniq_5_n//gallery)
-- [Hyundai Ioniq 5 N reviews](/models/hyundai/ioniq_5/ioniq_5_n//reviews)
+- [Hyundai Ioniq 5 N Range & consumption info](/models/hyundai/ioniq_5/ioniq_5_n/rangeandconsumption)
+- [Hyundai Ioniq 5 N Charging curve and performance](/models/hyundai/ioniq_5/ioniq_5_n/chargingcurve)
+- [Hyundai Ioniq 5 N full specifications](/models/hyundai/ioniq_5/ioniq_5_n/specifications)
+- [Hyundai Ioniq 5 N image gallery](/models/hyundai/ioniq_5/ioniq_5_n/gallery)
+- [Hyundai Ioniq 5 N reviews](/models/hyundai/ioniq_5/ioniq_5_n/reviews)
 

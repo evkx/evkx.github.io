@@ -11,9 +11,9 @@ weight: 30
 Citroën ë-C4 X is an all-electric crossover with a WLTP range of up to 402 km (250 miles). EVKX.net have all the details. 
 
 - [Citroën ë-C4 X article](/models/citroën/ë-c4/ë-c4_x/)
-- [Citroën ë-C4 X Range & consumption info](/models/citroën/ë-c4/ë-c4_x//rangeandconsumption)
-- [Citroën ë-C4 X Charging curve and performance](/models/citroën/ë-c4/ë-c4_x//chargingcurve)
-- [Citroën ë-C4 X full specifications](/models/citroën/ë-c4/ë-c4_x//specifications)
-- [Citroën ë-C4 X image gallery](/models/citroën/ë-c4/ë-c4_x//gallery)
-- [Citroën ë-C4 X reviews](/models/citroën/ë-c4/ë-c4_x//reviews)
+- [Citroën ë-C4 X Range & consumption info](/models/citroën/ë-c4/ë-c4_x/rangeandconsumption)
+- [Citroën ë-C4 X Charging curve and performance](/models/citroën/ë-c4/ë-c4_x/chargingcurve)
+- [Citroën ë-C4 X full specifications](/models/citroën/ë-c4/ë-c4_x/specifications)
+- [Citroën ë-C4 X image gallery](/models/citroën/ë-c4/ë-c4_x/gallery)
+- [Citroën ë-C4 X reviews](/models/citroën/ë-c4/ë-c4_x/reviews)
 

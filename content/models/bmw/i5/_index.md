@@ -11,9 +11,9 @@ weight: 30
 BMW i5 M60 xDrive is an all-electric premium sedan with a WLTP range of up to 516 km (321 miles). EVKX.net have all the details. 
 
 - [BMW i5 M60 xDrive article](/models/bmw/i5/i5_m60_xdrive/)
-- [BMW i5 M60 xDrive Range & consumption info](/models/bmw/i5/i5_m60_xdrive//rangeandconsumption)
-- [BMW i5 M60 xDrive Charging curve and performance](/models/bmw/i5/i5_m60_xdrive//chargingcurve)
-- [BMW i5 M60 xDrive full specifications](/models/bmw/i5/i5_m60_xdrive//specifications)
-- [BMW i5 M60 xDrive image gallery](/models/bmw/i5/i5_m60_xdrive//gallery)
-- [BMW i5 M60 xDrive reviews](/models/bmw/i5/i5_m60_xdrive//reviews)
+- [BMW i5 M60 xDrive Range & consumption info](/models/bmw/i5/i5_m60_xdrive/rangeandconsumption)
+- [BMW i5 M60 xDrive Charging curve and performance](/models/bmw/i5/i5_m60_xdrive/chargingcurve)
+- [BMW i5 M60 xDrive full specifications](/models/bmw/i5/i5_m60_xdrive/specifications)
+- [BMW i5 M60 xDrive image gallery](/models/bmw/i5/i5_m60_xdrive/gallery)
+- [BMW i5 M60 xDrive reviews](/models/bmw/i5/i5_m60_xdrive/reviews)
 

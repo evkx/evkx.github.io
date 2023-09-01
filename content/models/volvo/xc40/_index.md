@@ -11,11 +11,11 @@ weight: 30
 Volvo XC40 Recharge Single Motor is an all-electric crossover with a WLTP range of up to 467 km (290 miles). EVKX.net have all the details. 
 
 - [Volvo XC40 Recharge Single Motor article](/models/volvo/xc40/xc40_recharge_single_motor/)
-- [Volvo XC40 Recharge Single Motor Range & consumption info](/models/volvo/xc40/xc40_recharge_single_motor//rangeandconsumption)
-- [Volvo XC40 Recharge Single Motor Charging curve and performance](/models/volvo/xc40/xc40_recharge_single_motor//chargingcurve)
-- [Volvo XC40 Recharge Single Motor full specifications](/models/volvo/xc40/xc40_recharge_single_motor//specifications)
-- [Volvo XC40 Recharge Single Motor image gallery](/models/volvo/xc40/xc40_recharge_single_motor//gallery)
-- [Volvo XC40 Recharge Single Motor reviews](/models/volvo/xc40/xc40_recharge_single_motor//reviews)
+- [Volvo XC40 Recharge Single Motor Range & consumption info](/models/volvo/xc40/xc40_recharge_single_motor/rangeandconsumption)
+- [Volvo XC40 Recharge Single Motor Charging curve and performance](/models/volvo/xc40/xc40_recharge_single_motor/chargingcurve)
+- [Volvo XC40 Recharge Single Motor full specifications](/models/volvo/xc40/xc40_recharge_single_motor/specifications)
+- [Volvo XC40 Recharge Single Motor image gallery](/models/volvo/xc40/xc40_recharge_single_motor/gallery)
+- [Volvo XC40 Recharge Single Motor reviews](/models/volvo/xc40/xc40_recharge_single_motor/reviews)
 
 ## Volvo XC40 Recharge Single Motor ER
 
@@ -24,11 +24,11 @@ Volvo XC40 Recharge Single Motor is an all-electric crossover with a WLTP range 
 Volvo XC40 Recharge Single Motor ER is an all-electric crossover with a WLTP range of up to 572 km (356 miles). EVKX.net have all the details. 
 
 - [Volvo XC40 Recharge Single Motor ER article](/models/volvo/xc40/xc40_recharge_single_motor_er/)
-- [Volvo XC40 Recharge Single Motor ER Range & consumption info](/models/volvo/xc40/xc40_recharge_single_motor_er//rangeandconsumption)
-- [Volvo XC40 Recharge Single Motor ER Charging curve and performance](/models/volvo/xc40/xc40_recharge_single_motor_er//chargingcurve)
-- [Volvo XC40 Recharge Single Motor ER full specifications](/models/volvo/xc40/xc40_recharge_single_motor_er//specifications)
-- [Volvo XC40 Recharge Single Motor ER image gallery](/models/volvo/xc40/xc40_recharge_single_motor_er//gallery)
-- [Volvo XC40 Recharge Single Motor ER reviews](/models/volvo/xc40/xc40_recharge_single_motor_er//reviews)
+- [Volvo XC40 Recharge Single Motor ER Range & consumption info](/models/volvo/xc40/xc40_recharge_single_motor_er/rangeandconsumption)
+- [Volvo XC40 Recharge Single Motor ER Charging curve and performance](/models/volvo/xc40/xc40_recharge_single_motor_er/chargingcurve)
+- [Volvo XC40 Recharge Single Motor ER full specifications](/models/volvo/xc40/xc40_recharge_single_motor_er/specifications)
+- [Volvo XC40 Recharge Single Motor ER image gallery](/models/volvo/xc40/xc40_recharge_single_motor_er/gallery)
+- [Volvo XC40 Recharge Single Motor ER reviews](/models/volvo/xc40/xc40_recharge_single_motor_er/reviews)
 
 ## Volvo XC40 Recharge Twin Motor
 
@@ -37,9 +37,9 @@ Volvo XC40 Recharge Single Motor ER is an all-electric crossover with a WLTP ran
 Volvo XC40 Recharge Twin Motor is an all-electric crossover with a WLTP range of up to 535 km (333 miles). EVKX.net have all the details. 
 
 - [Volvo XC40 Recharge Twin Motor article](/models/volvo/xc40/xc40_recharge_twin_motor/)
-- [Volvo XC40 Recharge Twin Motor Range & consumption info](/models/volvo/xc40/xc40_recharge_twin_motor//rangeandconsumption)
-- [Volvo XC40 Recharge Twin Motor Charging curve and performance](/models/volvo/xc40/xc40_recharge_twin_motor//chargingcurve)
-- [Volvo XC40 Recharge Twin Motor full specifications](/models/volvo/xc40/xc40_recharge_twin_motor//specifications)
-- [Volvo XC40 Recharge Twin Motor image gallery](/models/volvo/xc40/xc40_recharge_twin_motor//gallery)
-- [Volvo XC40 Recharge Twin Motor reviews](/models/volvo/xc40/xc40_recharge_twin_motor//reviews)
+- [Volvo XC40 Recharge Twin Motor Range & consumption info](/models/volvo/xc40/xc40_recharge_twin_motor/rangeandconsumption)
+- [Volvo XC40 Recharge Twin Motor Charging curve and performance](/models/volvo/xc40/xc40_recharge_twin_motor/chargingcurve)
+- [Volvo XC40 Recharge Twin Motor full specifications](/models/volvo/xc40/xc40_recharge_twin_motor/specifications)
+- [Volvo XC40 Recharge Twin Motor image gallery](/models/volvo/xc40/xc40_recharge_twin_motor/gallery)
+- [Volvo XC40 Recharge Twin Motor reviews](/models/volvo/xc40/xc40_recharge_twin_motor/reviews)
 

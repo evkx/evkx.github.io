@@ -11,11 +11,11 @@ weight: 30
 BMW i4 eDrive40 is an all-electric premium sedan with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. 
 
 - [BMW i4 eDrive40 article](/models/bmw/i4/i4_edrive40/)
-- [BMW i4 eDrive40 Range & consumption info](/models/bmw/i4/i4_edrive40//rangeandconsumption)
-- [BMW i4 eDrive40 Charging curve and performance](/models/bmw/i4/i4_edrive40//chargingcurve)
-- [BMW i4 eDrive40 full specifications](/models/bmw/i4/i4_edrive40//specifications)
-- [BMW i4 eDrive40 image gallery](/models/bmw/i4/i4_edrive40//gallery)
-- [BMW i4 eDrive40 reviews](/models/bmw/i4/i4_edrive40//reviews)
+- [BMW i4 eDrive40 Range & consumption info](/models/bmw/i4/i4_edrive40/rangeandconsumption)
+- [BMW i4 eDrive40 Charging curve and performance](/models/bmw/i4/i4_edrive40/chargingcurve)
+- [BMW i4 eDrive40 full specifications](/models/bmw/i4/i4_edrive40/specifications)
+- [BMW i4 eDrive40 image gallery](/models/bmw/i4/i4_edrive40/gallery)
+- [BMW i4 eDrive40 reviews](/models/bmw/i4/i4_edrive40/reviews)
 
 ## BMW i4 M50
 
@@ -24,9 +24,9 @@ BMW i4 eDrive40 is an all-electric premium sedan with a WLTP range of up to 590 
 BMW i4 M50 is an all-electric premium sedan with a WLTP range of up to 521 km (324 miles). EVKX.net have all the details. 
 
 - [BMW i4 M50 article](/models/bmw/i4/i4_m50/)
-- [BMW i4 M50 Range & consumption info](/models/bmw/i4/i4_m50//rangeandconsumption)
-- [BMW i4 M50 Charging curve and performance](/models/bmw/i4/i4_m50//chargingcurve)
-- [BMW i4 M50 full specifications](/models/bmw/i4/i4_m50//specifications)
-- [BMW i4 M50 image gallery](/models/bmw/i4/i4_m50//gallery)
-- [BMW i4 M50 reviews](/models/bmw/i4/i4_m50//reviews)
+- [BMW i4 M50 Range & consumption info](/models/bmw/i4/i4_m50/rangeandconsumption)
+- [BMW i4 M50 Charging curve and performance](/models/bmw/i4/i4_m50/chargingcurve)
+- [BMW i4 M50 full specifications](/models/bmw/i4/i4_m50/specifications)
+- [BMW i4 M50 image gallery](/models/bmw/i4/i4_m50/gallery)
+- [BMW i4 M50 reviews](/models/bmw/i4/i4_m50/reviews)
 

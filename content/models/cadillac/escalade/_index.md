@@ -11,9 +11,9 @@ weight: 30
 Cadillac ESCALADE IQ is an all-electric SUV with a EPA range of up to 724 km (450 miles). EVKX.net have all the details. 
 
 - [Cadillac ESCALADE IQ article](/models/cadillac/escalade/escalade_iq/)
-- [Cadillac ESCALADE IQ Range & consumption info](/models/cadillac/escalade/escalade_iq//rangeandconsumption)
-- [Cadillac ESCALADE IQ Charging curve and performance](/models/cadillac/escalade/escalade_iq//chargingcurve)
-- [Cadillac ESCALADE IQ full specifications](/models/cadillac/escalade/escalade_iq//specifications)
-- [Cadillac ESCALADE IQ image gallery](/models/cadillac/escalade/escalade_iq//gallery)
-- [Cadillac ESCALADE IQ reviews](/models/cadillac/escalade/escalade_iq//reviews)
+- [Cadillac ESCALADE IQ Range & consumption info](/models/cadillac/escalade/escalade_iq/rangeandconsumption)
+- [Cadillac ESCALADE IQ Charging curve and performance](/models/cadillac/escalade/escalade_iq/chargingcurve)
+- [Cadillac ESCALADE IQ full specifications](/models/cadillac/escalade/escalade_iq/specifications)
+- [Cadillac ESCALADE IQ image gallery](/models/cadillac/escalade/escalade_iq/gallery)
+- [Cadillac ESCALADE IQ reviews](/models/cadillac/escalade/escalade_iq/reviews)
 
