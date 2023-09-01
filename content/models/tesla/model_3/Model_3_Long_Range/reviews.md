@@ -16,3 +16,7 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube nKn57dcMTBk >}}
 
+### carwow: New Tesla Model 3 - what's changed? 01.09.2023
+
+{{< youtube gQ6zIHHMlSs >}}
+
