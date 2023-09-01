@@ -4,18 +4,18 @@ linktitle: "Model 3"
 description: "See below for details of the different variants of Tesla Model 3"
 weight: 30
 ---
-## Tesla Model 3 Long Range
+## Tesla Model 3 Long Range (GEN1)
 
 <a href="/models/tesla/model_3/model_3_long_range_gen1/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/main_1_st.jpg" width="800" height="533" alt="Model 3 Long Range" ></a>
 
-Tesla Model 3 Long Range is an all-electric sedan with a WLTP range of up to 602 km (374 miles). EVKX.net have all the details. 
+Tesla Model 3 Long Range (GEN1) is an all-electric sedan with a WLTP range of up to 602 km (374 miles). EVKX.net have all the details. 
 
-- [Tesla Model 3 Long Range article](/models/tesla/model_3/model_3_long_range_gen1/)
-- [Tesla Model 3 Long Range Range & consumption info](/models/tesla/model_3/model_3_long_range_gen1//rangeandconsumption)
-- [Tesla Model 3 Long Range Charging curve and performance](/models/tesla/model_3/model_3_long_range_gen1//chargingcurve)
-- [Tesla Model 3 Long Range full specifications](/models/tesla/model_3/model_3_long_range_gen1//specifications)
-- [Tesla Model 3 Long Range image gallery](/models/tesla/model_3/model_3_long_range_gen1//gallery)
-- [Tesla Model 3 Long Range reviews](/models/tesla/model_3/model_3_long_range_gen1//reviews)
+- [Tesla Model 3 Long Range (GEN1) article](/models/tesla/model_3/model_3_long_range_gen1/)
+- [Tesla Model 3 Long Range (GEN1) Range & consumption info](/models/tesla/model_3/model_3_long_range_gen1//rangeandconsumption)
+- [Tesla Model 3 Long Range (GEN1) Charging curve and performance](/models/tesla/model_3/model_3_long_range_gen1//chargingcurve)
+- [Tesla Model 3 Long Range (GEN1) full specifications](/models/tesla/model_3/model_3_long_range_gen1//specifications)
+- [Tesla Model 3 Long Range (GEN1) image gallery](/models/tesla/model_3/model_3_long_range_gen1//gallery)
+- [Tesla Model 3 Long Range (GEN1) reviews](/models/tesla/model_3/model_3_long_range_gen1//reviews)
 
 ## Tesla Model 3 Long Range
 

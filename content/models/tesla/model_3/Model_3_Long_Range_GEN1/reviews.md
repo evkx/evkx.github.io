@@ -1,5 +1,5 @@
 ---
-title: Tesla Model 3 Long Range reviews
+title: Tesla Model 3 Long Range (GEN1) reviews
 linktitle: "Reviews"
 description: "EVKX.net helps you find the best review for this model. "
 weight: 80

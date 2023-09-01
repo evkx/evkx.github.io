@@ -1,7 +1,7 @@
 ---
-title: Tesla Model 3 Long Range range & consumption
+title: Tesla Model 3 Long Range (GEN1) range & consumption
 linktitle: "Range & Consumption"
-description: "Here you find all details about range and consumption for Tesla Model 3 Long Range."
+description: "Here you find all details about range and consumption for Tesla Model 3 Long Range (GEN1)."
 weight: 9
 hidden: true
 ---

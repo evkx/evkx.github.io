@@ -1,7 +1,7 @@
 ---
-title: Tesla Model 3 Long Range gallery
+title: Tesla Model 3 Long Range (GEN1) gallery
 linktitle: "Image Gallery"
-description: "See below for our large Tesla Model 3 Long Range image gallery. Click pictures for high-resolution versions."
+description: "See below for our large Tesla Model 3 Long Range (GEN1) image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
 ---
@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/charging_1_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/charging_1_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2100" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_1_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_1_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_2_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_2_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_3_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_3_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_4_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_4_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_5_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_5_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_6_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_6_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/frontseats_1_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/frontseats_1_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="1963" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/interior_1_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/interior_1_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/interior_2_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/interior_2_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/main_1_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/main_1_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/screens_2_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/screens_2_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/screen_1_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/screen_1_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/secondrowseats_1_xst.jpg" alt="Tesla Model 3 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/secondrowseats_1_xst.jpg" alt="Tesla Model 3 Long Range (GEN1)" width="200px" height="0px" />
 </a>
 </div>
 </div>
