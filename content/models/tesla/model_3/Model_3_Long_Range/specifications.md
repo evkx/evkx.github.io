@@ -16,7 +16,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Long R
 |----|-----|
 |Peak electrical output in kW|324 Kw|
 |Electrical torque output in Nm|493 Nm|
-|Top speed|233 km/h|
+|Top speed|201 km/h|
 |0-100km/h (0-62 mph)|4,4 s|
 
 
