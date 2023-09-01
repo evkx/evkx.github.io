@@ -58,6 +58,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Wheelbase|2875 mm|
 |Track width front|1636 mm|
 |Track width rear|1636 mm|
+|Drag coefficient|0,219|
 |Turning circle|11,6 meters|
 
 ## Suspension
