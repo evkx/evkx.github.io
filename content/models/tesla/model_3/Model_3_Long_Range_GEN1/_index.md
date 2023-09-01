@@ -1,6 +1,6 @@
 ---
 title: Tesla Model 3 Long Range
-linktitle: "Model 3 Long Range"
+linktitle: "Model 3 Long Range GEN1"
 description: "Tesla Model 3 Long Range is an all-electric sedan with a WLTP range of up to 602 km (374 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
@@ -11,8 +11,8 @@ hidden: true
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="453">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/main_1_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -47,6 +47,14 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 ### Onboard charger
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/charging_1_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="453">
+</a>
+<figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
+
 
 ### Charge port
 
@@ -85,8 +93,8 @@ The windows from B-pillar and back are tinted.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/exterior_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/exterior_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="510">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/exterior_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="382">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -110,7 +118,6 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 You can choose from 2 different materials/colors for this seat type. <br />
 <br />
@@ -118,8 +125,8 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/frontseats_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="382">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/frontseats_1_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -129,6 +136,14 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/secondrowseats_1_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="453">
+</a>
+<figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. 
@@ -159,8 +174,8 @@ Tesla Model 3 Long Range has a single screen. The dashboard’s center has a sin
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/screens_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="382">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/screens_2.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/screens_2_st.jpg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="453">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -175,14 +190,6 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 The standard headlights use LED technology.  
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/headlights_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/headlights_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="510">
-</a>
-<figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
-
 ## Advanced driver assistance systems
 
 The Tesla Model 3 Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
