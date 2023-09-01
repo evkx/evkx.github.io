@@ -12,3 +12,7 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube mhdHP1GzoI4 >}}
 
+### AutoTopNL: 2024 ALL NEW Tesla Model 3 // FULL REVIEW 01.09.2023
+
+{{< youtube nKn57dcMTBk >}}
+

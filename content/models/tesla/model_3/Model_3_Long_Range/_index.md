@@ -167,7 +167,7 @@ Tesla Model 3 Long Range has a single screen. The dashboard’s center has a sin
 
 ## Infotainment
 
-One type of sound system is available for the Tesla Model 3 Long Range. With the Tesla Premium Sound, you get 13 speakers with a max system output of 560 watts. 
+One type of sound system is available for the Tesla Model 3 Long Range. With the Tesla Premium Sound, you get 17 speakers with a max system output of 560 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
