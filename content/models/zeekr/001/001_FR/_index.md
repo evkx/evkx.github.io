@@ -32,7 +32,7 @@ We have separated our Zeekr 001 FR article into sections. If you want to wait to
 
 ## Performance
 
-The Zeekr 001 FR has a maximum power of 800KW (1088hp). The total torque is 1200nm. The 0-100km/h sprint (0-62mph) takes 2 seconds. The top speed is 260 km/h. 
+The Zeekr 001 FR has a maximum power of 930KW (1264hp). The total torque is 1200nm. The 0-100km/h sprint (0-62mph) takes 2,07 seconds. The top speed is 280 km/h. 
 
 ## Battery, range, and charging
 
@@ -64,7 +64,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 533mm, and the rear discs are 457mm. 
+The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 533mm, and the rear discs are 457mm. 
 
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. 
 
