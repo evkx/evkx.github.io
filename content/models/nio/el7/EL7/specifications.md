@@ -92,7 +92,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Max ground clearance|198|
 |Minimum ground clearance|143|
 |Suspension type front|AirSuspension|
+|Suspension construction front|DoubleWishbone|
 |Suspension type rear|AirSuspension|
+|Suspension construction rear|Multilink|
 
 ## Interior
 

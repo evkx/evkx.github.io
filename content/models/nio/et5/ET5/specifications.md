@@ -90,7 +90,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Max ground clearance|150|
 |Minimum ground clearance|150|
 |Suspension type front|SteelSpringsWithOilDampers|
+|Suspension construction front|Multilink|
 |Suspension type rear|SteelSpringsWithOilDampers|
+|Suspension construction rear|Multilink|
 
 ## Interior
 
