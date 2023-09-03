@@ -19,8 +19,8 @@ Below are the officially rated ranges. The tests are performed with the heating/
 
 | | Range  | Consumption  |
 |----|-----|------|
-| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 520 km / 323mi |15,77kWh/100km / 3,9 mi/kWh | 
-| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 520 km / 323mi | 15,77 kWh/100km / 3,9 mi/kWh | 
+| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 520 km / 323mi |15,87kWh/100km / 3,9 mi/kWh | 
+| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 520 km / 323mi | 15,87 kWh/100km / 3,9 mi/kWh | 
 
 ### Official test cycle results with added heating
 
@@ -37,9 +37,9 @@ The table below shows some estimated real-world examples in perfect condition an
 
 | | Range  | Consumption  |
 |----|-----|------|
-| 90kmh/56mph perfect condition | 390km /242mi| 21 kWh/100km / 3,0 mi/kWh |
-| 90kmh/56mph with 2KW heating | 361km /224mi| 22,7 kWh/100km / 2,7 mi/kWh |
-| 70mph/112kmh perfect condition | 357km /222mi| 23 kWh/100km / 2,7 mi/kWh|
-| 70mph/112kmh with 2KW heating | 536km /333mi| 24,7 kWh/100km / 2,5 mi/kWh  |
-| 120kmh/75mph perfect condition | 328km /204mi| 25 kWh/100km / 2,5 mi/kWh |
-| 120kmh/75mph with 2KW heating | 495km /308mi| 26,7 kWh/100km / 2,3 mi/kWh |
+| 90kmh/56mph perfect condition | 393km /244mi| 21 kWh/100km / 3,0 mi/kWh |
+| 90kmh/56mph with 2KW heating | 364km /226mi| 22,7 kWh/100km / 2,7 mi/kWh |
+| 70mph/112kmh perfect condition | 359km /223mi| 23 kWh/100km / 2,7 mi/kWh|
+| 70mph/112kmh with 2KW heating | 539km /335mi| 24,7 kWh/100km / 2,5 mi/kWh  |
+| 120kmh/75mph perfect condition | 330km /205mi| 25 kWh/100km / 2,5 mi/kWh |
+| 120kmh/75mph with 2KW heating | 498km /309mi| 26,7 kWh/100km / 2,3 mi/kWh |

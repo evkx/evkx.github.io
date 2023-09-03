@@ -32,21 +32,21 @@ We have separated our BYD Seal AWD article into sections. If you want to wait to
 
 ## Performance
 
-The BYD Seal AWD has a maximum power of 390KW (530hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 180 km/h. 
+The BYD Seal AWD has a maximum power of 390KW (530hp). The total torque is 670nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 85,4kWh and a net capacity of 82kWh, meaning you have a 3,4kWh buffer for protection. (4,0%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
+The battery has a gross capacity of 85,4kWh and a net capacity of 82,5kWh, meaning you have a 2,9kWh buffer for protection. (3,4%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 520 km (323 mi).   The consumption is 15,8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 520 km (323 mi).   The consumption is 15,9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 64 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 59% resulting in an actual charge speed including time loss on 92kW. Each charge session would take 29 minutes and 18 seconds. 
+The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 64 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 59% resulting in an actual charge speed including time loss on 92kW. Each charge session would take 29 minutes and 27 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 11 minutes to drive. This trip will require four charge session(s) charging from 7% to 59%. The total time lost for charging will be 112 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 10 minutes to drive. This trip will require four charge session(s) charging from 8% to 59%. The total time lost for charging will be 110 minutes.   
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 27 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 30 minutes. 
 
 ### Charge port
 
@@ -107,7 +107,6 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
@@ -132,7 +131,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 - electric adjustment 
 - height adjustable headrest 
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 
 <figur>
@@ -213,7 +211,7 @@ The BYD Seal AWD has a [**lane-keeping assist**](../../../../technology/driveras
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
 The BYD Seal AWD has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
@@ -223,15 +221,11 @@ The BYD Seal AWD has an [**automatic emergency braking**](../../../../technology
 
 ### Driving Automation
 
-The BYD Seal AWD offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the   level 1 system, you get the following driving automation features. 
+
+With the Smart Pilot  level 2 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
-
-
-With the Smart Pilot  level 2 system, you get additional driving automation features to the ones listed above. 
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 {{<evkxdisplayaddarticle />}}

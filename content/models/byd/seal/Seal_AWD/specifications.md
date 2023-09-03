@@ -15,9 +15,9 @@ EVKX.net seeks to have the most complete specifications for BYD Seal AWD. Click 
 |Spec|Value|
 |----|-----|
 |Peak electrical output in kW|390 Kw|
-|Electrical torque output in Nm|700 Nm|
+|Electrical torque output in Nm|670 Nm|
 |Top speed|180 km/h|
-|0-100km/h (0-62 mph)|3,9 s|
+|0-100km/h (0-62 mph)|3,8 s|
 
 
 
@@ -27,7 +27,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |WLTP range|520 km|
-|WLTP consumption|15,8 kWh/100km|
+|WLTP consumption|15,9 kWh/100km|
 |WLTP consumption with charging loss|18,5 kWh/100km|
 
 
@@ -37,7 +37,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |[Battery gross](../../../../../technology/battery/buffer/)|85,4 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|82 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|82,5 kWh|
 |Max DC charging|150 kW|
 |[Pack Configuration](../../../../../technology/battery/batterypack/)|178s1p|
 |[Nominal voltage](../../../../../technology/battery/batterypack/)|569|
@@ -67,8 +67,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Yes, standard equipment|
 |Adjustable height front|Not available|
 |Adjustable height rear|Not available|
-|Max ground clearance|125|
-|Minimum ground clearance|125|
+|Max ground clearance|150|
+|Minimum ground clearance|150|
 |Suspension type front|SteelSpringsWithOilDampers|
 |Suspension construction front|DoubleWishbone|
 |Suspension type rear|SteelSpringsWithOilDampers|
@@ -88,7 +88,7 @@ This model is available with a seat configuration with five seats.
 |[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
 |Electric adjustment of height, recline and angle|Standard feature|
 |Interior.Seatoptions.MemoryDriverSeat|Standard feature|
-|Interior.Seatoptions.MemoryPassangerSeat|Standard feature|
+|Interior.Seatoptions.MemoryPassangerSeat|Not Available|
 |Height adjustable headrest|Not Available|
 |Length adjustable headrest|Not Available|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
@@ -141,7 +141,7 @@ This model is available with a seat configuration with five seats.
 |Brake assist|Yes, standard equipment|
 |Traction control|Yes, standard equipment|
 |Left turn crash avoidance|Yes, optional equipment|
-|Forward Collision Warning|Yes, optional equipment|
+|Forward Collision Warning|Yes, standard equipment|
 |Electronic stability control|Yes, standard equipment|
 |Temperature warning|Yes, standard equipment|
 |Cross traffic assist|Yes, optional equipment|
