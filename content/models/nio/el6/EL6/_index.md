@@ -75,7 +75,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio EL6 has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
-
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. 
 
 ### Steering
 
@@ -85,7 +85,7 @@ Dynamic steering is standard on the Nio EL6. Dynamic steering varies the steerin
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. You can adjust how strong regen you get when you lift the foot. There are two levels.
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. At low speeds, the one-pedal drive mode will keep the car rolling until it stops by itself. You can adjust how strong regen you get when you lift the foot. There are three levels.
 
 ## Exterior
 
