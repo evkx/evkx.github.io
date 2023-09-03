@@ -26,7 +26,7 @@ BMW has 6 models with total 10 variants. [Read all about them](bmw/)
 
 BYD is a multinational high-tech company dedicated to technological innovations for a better life. BYD operates in four industries, including automotive, electronics, new energy and rail. 
 
-BYD has 4 models with total 4 variants. [Read all about them](byd/)
+BYD has 5 models with total 5 variants. [Read all about them](byd/)
 
 ## Cadillac
 

@@ -28,6 +28,13 @@ This model is available in 1 variant(s).
 This model is available in 1 variant(s). 
 [Read full details](han/)
 
+## BYD Seal
+
+<a href="seal"><img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_st.jpg" width="800" height="533" alt="BYD Seal" ></a>
+
+This model is available in 1 variant(s). 
+[Read full details](seal/)
+
 ## BYD Tang
 
 <a href="tang"><img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1_st.jpg" width="800" height="457" alt="BYD Tang" ></a>
