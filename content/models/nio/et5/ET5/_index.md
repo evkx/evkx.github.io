@@ -85,7 +85,7 @@ Dynamic steering is standard on the Nio ET5. Dynamic steering varies the steerin
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. At low speeds, the one-pedal drive mode will keep the car rolling until it stops by itself. You can adjust how strong regen you get when you lift the foot. There are three levels.
 
 ## Exterior
 
