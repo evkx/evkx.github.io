@@ -14,7 +14,7 @@ EVKX.net seeks to have the most complete specifications for BYD Seal AWD. Click 
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|385 Kw|
+|Peak electrical output in kW|390 Kw|
 |Electrical torque output in Nm|700 Nm|
 |Top speed|180 km/h|
 |0-100km/h (0-62 mph)|3,9 s|
@@ -26,8 +26,8 @@ EVKX.net seeks to have the most complete specifications for BYD Seal AWD. Click 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|WLTP range|521 km|
-|WLTP consumption|15,7 kWh/100km|
+|WLTP range|520 km|
+|WLTP consumption|15,8 kWh/100km|
 |WLTP consumption with charging loss|18,5 kWh/100km|
 
 
@@ -55,7 +55,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Wheelbase|2920 mm|
 |Track width front|1640 mm|
 |Track width rear|1640 mm|
-|Drag coefficient|0,233|
+|Drag coefficient|0,219|
 |Turning circle|12,3 meters|
 
 ## Suspension
@@ -89,9 +89,9 @@ This model is available with a seat configuration with five seats.
 |Electric adjustment of height, recline and angle|Standard feature|
 |Interior.Seatoptions.MemoryDriverSeat|Standard feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Standard feature|
-|Height adjustable headrest|Standard feature|
-|Length adjustable headrest|Standard feature|
-|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Standard feature|
+|Height adjustable headrest|Not Available|
+|Length adjustable headrest|Not Available|
+|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
 |[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
 |[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|
 |[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
@@ -109,14 +109,14 @@ This model is available with a seat configuration with five seats.
 |Spec|Value|
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
-|Height adjustable headrest|Not Available|
+|Height adjustable headrest|Standard feature|
 |Length adjustable headrest|Not Available|
 |[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
 |[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Not Available|
 |[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Not Available|
 |[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
-|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
-|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
+|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Not Available|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Not Available|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
 |[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
@@ -155,21 +155,6 @@ This model is available with a seat configuration with five seats.
 
 |Spec|Value|
 |----|-----|
-|Android Auto support|Not available|
+|Android Auto support|Yes, standard equipment|
 |Apple Carplay support|Yes, standard equipment|
 |In Car navigation|Yes, standard equipment|
-|Number of avaiable sound systems|2|
-
-### Surroundsystem
-
-|Spec|Value|
-|----|-----|
-|Number of speakers|7|
-|Channels|7|
-
-### Premium sound system
-
-|Spec|Value|
-|----|-----|
-|Number of speakers|12|
-|Channels|7|

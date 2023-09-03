@@ -1,7 +1,7 @@
 ---
 title: BYD Seal AWD
 linktitle: "Seal AWD"
-description: "BYD Seal AWD is an all-electric sedan with a WLTP range of up to 521 km (324 miles). EVKX.net have all the details. "
+description: "BYD Seal AWD is an all-electric sedan with a WLTP range of up to 520 km (323 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---
@@ -32,13 +32,13 @@ We have separated our BYD Seal AWD article into sections. If you want to wait to
 
 ## Performance
 
-The BYD Seal AWD has a maximum power of 385KW (523hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 180 km/h. 
+The BYD Seal AWD has a maximum power of 390KW (530hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
 The battery has a gross capacity of 85,4kWh and a net capacity of 82kWh, meaning you have a 3,4kWh buffer for protection. (4,0%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 521 km (324 mi).   The consumption is 15,7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 520 km (323 mi).   The consumption is 15,8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 64 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 59% resulting in an actual charge speed including time loss on 92kW. Each charge session would take 29 minutes and 18 seconds. 
 
@@ -46,7 +46,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 42 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 27 minutes. 
 
 ### Charge port
 
@@ -78,7 +78,7 @@ You can choose between 6 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. 
 
-There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
+There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 The windows from B-pillar and back are tinted. 
 
@@ -105,13 +105,11 @@ Only one front seat type is available in the BYD Seal AWD.
 The following functionalities are available on the **standard** seat. 
 
 - electric adjustment 
-- height adjustable headrest 
-- length adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 You can choose from 3 different materials/colors for this seat type. <br />
@@ -133,6 +131,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - electric adjustment 
+- height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 
@@ -167,7 +166,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-BYD Seal AWD has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large. The touch screen on the dashboard's center  is 15,6 inches large. 
+BYD Seal AWD has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 15,6 inches large. 
 
 
 <figur>
@@ -177,13 +176,15 @@ BYD Seal AWD has twin screens on a shared frame mounted with brackets on top of 
 <figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
 
 
+A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
+
 ## Infotainment
 
-You can choose between two sound systems on the BYD Seal AWD. With the Surroundsystem, you get seven speakers with a max system output of  watts. With the Premium sound system, you get 12 speakers with a max system output of  watts. 
+One type of sound system is available for the BYD Seal AWD. With the Dynaudio Performance Audio System, you get 12 speakers with a max system output of  watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BYD Seal AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 1 USB-C connections as standard. The model has 5 USB-A connections as standard. 
+The model has 4 USB-C connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
@@ -239,7 +240,7 @@ With the Smart Pilot  level 2 system, you get additional driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 402 liters. Under the hood, there is frunk with more storage room. This frunk is 53 liters. Max weight is 2660kg, and with the base weight of 2250 kg, you can max load 410 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 402 liters. Under the hood, there is frunk with more storage room. This frunk is 53 liters. Max weight is 2660kg, and with the base weight of 2185 kg, you can max load 475 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

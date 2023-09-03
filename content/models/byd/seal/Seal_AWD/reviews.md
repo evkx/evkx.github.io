@@ -12,3 +12,7 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube uk2ksTLfRms >}}
 
+### Wheelsboy: The BYD Seal Is The New Benchmark 02.12.2022
+
+{{< youtube U_JQVRWymLI >}}
+
