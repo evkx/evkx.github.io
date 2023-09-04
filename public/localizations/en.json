@@ -72,6 +72,8 @@
     "DrivingDistanceWltpCharged10Percent20Min": "WLTPdriving distance charged after 20 minutes from 10%",
     "DrivingDistanceWltpCharged10Percent25Min": "WLTP driving distance charged after 25 minutes from 10%",
     "DrivingDistanceWltpCharged10Percent30Min": "WLTP driving distance charged after 30 minutes from 10%",
-    "regen": "Regen"
+    "regen": "Regen",
+    "compare":"Compare",
+    "removecompare": "Remove"
    }
 }
