@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Out of Spec Reviews: Full Tour Of The New Tesla Model 3 Refresh! All Of The Changes Make The Best Car Even Better 05.09.2023
+
+{{< youtube wn5SV0oYXeQ >}}
+
 ### Fully Charged Show: NEW Tesla Model 3: The Best Just Got Better! 01.09.2023
 
 {{< youtube mhdHP1GzoI4 >}}
