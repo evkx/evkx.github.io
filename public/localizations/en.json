@@ -74,6 +74,9 @@
     "DrivingDistanceWltpCharged10Percent30Min": "WLTP driving distance charged after 30 minutes from 10%",
     "regen": "Regen",
     "compare":"Compare",
-    "removecompare": "Remove"
+    "removecompare": "Remove",
+    "minimumwltprange": "Minimum WLTP range",
+    "minimumhp": "Minium power in HP",
+    "minimumtrailerweight": "Minimum trailer weight"
    }
 }
