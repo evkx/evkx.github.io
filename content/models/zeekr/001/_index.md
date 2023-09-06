@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/zeekr/001/001_fr/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_st.jpeg" width="800" height="533" alt="001 FR" ></a>
 
-Zeekr 001 FR is an all-electric sedan with a WLTP range of up to 580 km (360 miles). EVKX.net have all the details. 
+Zeekr 001 FR is an all-electric station wagon with a WLTP range of up to 580 km (360 miles). EVKX.net have all the details. 
 
 - [Zeekr 001 FR article](/models/zeekr/001/001_fr/)
 - [Zeekr 001 FR Range & consumption info](/models/zeekr/001/001_fr/rangeandconsumption)

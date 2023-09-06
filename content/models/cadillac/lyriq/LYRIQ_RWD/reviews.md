@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Throttle House: 2023 Cadillac LYRIQ Review // A Mercedes In Disguise 06.09.2023
+
+{{< youtube 5v8EbDLqeDc >}}
+
 ### State Of Charge: How Fast Does The Cadillac Lyriq DC Fast Charge? 13.07.2023
 
 {{< youtube ruVYsEM6OLg >}}
