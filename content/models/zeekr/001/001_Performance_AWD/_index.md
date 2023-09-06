@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001 Performance AWD
 linktitle: "001 Performance AWD"
-description: "Zeekr 001 Performance AWD is an all-electric sedan with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. "
+description: "Zeekr 001 Performance AWD is an all-electric station wagon with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---

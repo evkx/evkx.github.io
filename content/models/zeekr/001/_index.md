@@ -21,7 +21,7 @@ Zeekr 001 FR is an all-electric sedan with a WLTP range of up to 580 km (360 mil
 
 <a href="/models/zeekr/001/001_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/main_1_st.jpg" width="800" height="533" alt="001 Long Range RWD" ></a>
 
-Zeekr 001 Long Range RWD is an all-electric sedan with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. 
+Zeekr 001 Long Range RWD is an all-electric station wagon with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. 
 
 - [Zeekr 001 Long Range RWD article](/models/zeekr/001/001_long_range_rwd/)
 - [Zeekr 001 Long Range RWD Range & consumption info](/models/zeekr/001/001_long_range_rwd/rangeandconsumption)
@@ -34,7 +34,7 @@ Zeekr 001 Long Range RWD is an all-electric sedan with a WLTP range of up to 590
 
 <a href="/models/zeekr/001/001_performance_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_st.jpg" width="800" height="533" alt="001 Performance AWD" ></a>
 
-Zeekr 001 Performance AWD is an all-electric sedan with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. 
+Zeekr 001 Performance AWD is an all-electric station wagon with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. 
 
 - [Zeekr 001 Performance AWD article](/models/zeekr/001/001_performance_awd/)
 - [Zeekr 001 Performance AWD Range & consumption info](/models/zeekr/001/001_performance_awd/rangeandconsumption)
@@ -47,7 +47,7 @@ Zeekr 001 Performance AWD is an all-electric sedan with a WLTP range of up to 59
 
 <a href="/models/zeekr/001/001_privilege_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/main_1_st.jpg" width="800" height="533" alt="001 Privilege AWD" ></a>
 
-Zeekr 001 Privilege AWD is an all-electric sedan with a WLTP range of up to 580 km (360 miles). EVKX.net have all the details. 
+Zeekr 001 Privilege AWD is an all-electric station wagon with a WLTP range of up to 580 km (360 miles). EVKX.net have all the details. 
 
 - [Zeekr 001 Privilege AWD article](/models/zeekr/001/001_privilege_awd/)
 - [Zeekr 001 Privilege AWD Range & consumption info](/models/zeekr/001/001_privilege_awd/rangeandconsumption)
