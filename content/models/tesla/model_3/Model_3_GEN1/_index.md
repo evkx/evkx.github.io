@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 (GEN1)
 linktitle: "Model 3 GEN1"
-description: "Tesla Model 3 (GEN1) is an all-electric sedan with a WLTP range of up to 513 km (319 miles). EVKX.net have all the details. "
+description: "Tesla Model 3 (GEN1) is an all-electric sedan with a WLTP range of up to 495 km (308 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---
@@ -38,7 +38,7 @@ The Tesla Model 3 (GEN1) has a maximum power of 208KW (283hp). The total torque 
 
 The battery has a gross capacity of 60kWh and a net capacity of 59kWh, meaning you have a 1kWh buffer for protection. (1,7%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 513 km (319 mi).   The consumption is 11,5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 495 to 491 km (308-305 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 11,9kWh/100km for the basic version and 12,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 70 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 49% resulting in an actual charge speed including time loss on 83kW. Each charge session would take 20 minutes and 31 seconds. 
 
@@ -118,7 +118,6 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 You can choose from 2 different materials/colors for this seat type. <br />
 <br />

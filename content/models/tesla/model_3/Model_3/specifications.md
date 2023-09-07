@@ -26,12 +26,9 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3. Click
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|495 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|11,9 kWh/100km|
-|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|14,4 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|491 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|12,0 kWh/100km|
-|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|14,4 kwh/100km|
+|WLTP range|513 km|
+|WLTP consumption|11,5 kWh/100km|
+|WLTP consumption with charging loss|14,4 kWh/100km|
 
 
 
@@ -99,7 +96,7 @@ This model is available with a seat configuration with five seats.
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Not Available|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Standard feature|
 |[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
 
 ### Front seats
