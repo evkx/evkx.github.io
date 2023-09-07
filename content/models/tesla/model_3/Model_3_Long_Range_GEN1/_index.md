@@ -186,7 +186,7 @@ One type of sound system is available for the Tesla Model 3 Long Range (GEN1). W
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-
+The model has 4 USB-C connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.  

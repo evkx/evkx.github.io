@@ -1,7 +1,7 @@
 ---
-title: Tesla Model 3
-linktitle: "Model 3"
-description: "Tesla Model 3 is an all-electric sedan with a WLTP range of up to 495 km (308 miles). EVKX.net have all the details. "
+title: Tesla Model 3 (GEN1)
+linktitle: "Model 3 GEN1"
+description: "Tesla Model 3 (GEN1) is an all-electric sedan with a WLTP range of up to 513 km (319 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---
@@ -11,12 +11,12 @@ hidden: true
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1_st.jpeg" alt="Tesla Model 3" title="Tesla Model 3" width="680" height="453">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/main_1_st.jpg" alt="Tesla Model 3 (GEN1)" title="Tesla Model 3 (GEN1)" width="680" height="453">
 </a>
-<figcaption><h4>Tesla Model 3</h4></figcaption></figur>
+<figcaption><h4>Tesla Model 3 (GEN1)</h4></figcaption></figur>
 
-We have separated our Tesla Model 3 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Tesla Model 3 (GEN1) article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -32,13 +32,13 @@ We have separated our Tesla Model 3 article into sections. If you want to wait t
 
 ## Performance
 
-The Tesla Model 3 has a maximum power of 208KW (283hp). The total torque is 420nm. The 0-100km/h sprint (0-62mph) takes 6,1 seconds. The top speed is 225 km/h. 
+The Tesla Model 3 (GEN1) has a maximum power of 208KW (283hp). The total torque is 420nm. The 0-100km/h sprint (0-62mph) takes 6,1 seconds. The top speed is 225 km/h. 
 
 ## Battery, range, and charging
 
 The battery has a gross capacity of 60kWh and a net capacity of 59kWh, meaning you have a 1kWh buffer for protection. (1,7%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 495 to 491 km (308-305 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 11,9kWh/100km for the basic version and 12,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 513 km (319 mi).   The consumption is 11,5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 70 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 49% resulting in an actual charge speed including time loss on 83kW. Each charge session would take 20 minutes and 31 seconds. 
 
@@ -47,6 +47,14 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 ### Onboard charger
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 21 minutes. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/charging_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/charging_1_st.jpg" alt="Tesla Model 3 (GEN1)" title="Tesla Model 3 (GEN1)" width="680" height="453">
+</a>
+<figcaption><h4>Tesla Model 3 (GEN1)</h4></figcaption></figur>
+
 
 ### Charge port
 
@@ -58,13 +66,13 @@ The location of the charge port is on the [left rear corner](../../../../technol
 
 ## Drivetrain
 
-Tesla Model 3 has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
+Tesla Model 3 (GEN1) has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
 The standard suspension has a fixed height and damping. The ground clearance with this suspension is 167 mm. 
 
 ### Steering
 
-Dynamic steering is standard on the Tesla Model 3. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is standard on the Tesla Model 3 (GEN1). Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -85,10 +93,10 @@ The windows from B-pillar and back are tinted.
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_1_st.jpeg" alt="Tesla Model 3" title="Tesla Model 3" width="680" height="510">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/exterior.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/exterior_st.jpg" alt="Tesla Model 3 (GEN1)" title="Tesla Model 3 (GEN1)" width="680" height="382">
 </a>
-<figcaption><h4>Tesla Model 3</h4></figcaption></figur>
+<figcaption><h4>Tesla Model 3 (GEN1)</h4></figcaption></figur>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -101,7 +109,7 @@ There is one seat type you can select in different materials. The seat layout is
 
 ### First row seats
 
-Only one front seat type is available in the Tesla Model 3. 
+Only one front seat type is available in the Tesla Model 3 (GEN1). 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -110,6 +118,7 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 You can choose from 2 different materials/colors for this seat type. <br />
 <br />
@@ -117,10 +126,10 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/frontseats_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/frontseats_1_st.jpeg" alt="Tesla Model 3" title="Tesla Model 3" width="680" height="382">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/frontseats_1_st.jpg" alt="Tesla Model 3 (GEN1)" title="Tesla Model 3 (GEN1)" width="680" height="453">
 </a>
-<figcaption><h4>Tesla Model 3</h4></figcaption></figur>
+<figcaption><h4>Tesla Model 3 (GEN1)</h4></figcaption></figur>
 
 
 ### Second-row seat
@@ -128,6 +137,14 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/secondrowseats_1_st.jpg" alt="Tesla Model 3 (GEN1)" title="Tesla Model 3 (GEN1)" width="680" height="453">
+</a>
+<figcaption><h4>Tesla Model 3 (GEN1)</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. 
@@ -138,7 +155,7 @@ There is one climate system available. The standard climate system supports only
 
 ## Comfort
 
-Tesla Model 3 has several features to make your life as a driver or passenger more comfortable. 
+Tesla Model 3 (GEN1) has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -154,52 +171,44 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Tesla Model 3 has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The  screen on the dashboard's center  is 15 inches large and has a 2200 x 1300 pixels resolution. 
+Tesla Model 3 (GEN1) has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The  screen on the dashboard's center  is 15 inches large and has a 2200 x 1300 pixels resolution. 
 
 
 <figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_1_st.jpeg" alt="Tesla Model 3" title="Tesla Model 3" width="680" height="382">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/screens_2.jpg">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/screens_2_st.jpg" alt="Tesla Model 3 (GEN1)" title="Tesla Model 3 (GEN1)" width="680" height="453">
 </a>
-<figcaption><h4>Tesla Model 3</h4></figcaption></figur>
+<figcaption><h4>Tesla Model 3 (GEN1)</h4></figcaption></figur>
 
 
 ## Infotainment
 
-One type of sound system is available for the Tesla Model 3. With the Tesla Imersive Sound, you get nine speakers with a max system output of 560 watts. 
+One type of sound system is available for the Tesla Model 3 (GEN1). With the Tesla Immersive Sound, you get seven speakers with a max system output of 560 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The model has 3 USB-C connections as standard. 
+The model has 4 USB-C connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.  
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/headlights_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/headlights_1_st.jpeg" alt="Tesla Model 3" title="Tesla Model 3" width="680" height="510">
-</a>
-<figcaption><h4>Tesla Model 3</h4></figcaption></figur>
-
 ## Advanced driver assistance systems
 
-The Tesla Model 3 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Tesla Model 3 (GEN1) has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
 
-The Tesla Model 3 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Tesla Model 3 (GEN1) has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Tesla Model 3 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Tesla Model 3 (GEN1) has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Tesla Model 3 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Tesla Model 3 (GEN1) has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Tesla Model 3 has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Tesla Model 3 (GEN1) has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
@@ -207,7 +216,7 @@ The Tesla Model 3 has an [**automatic emergency braking**](../../../../technolog
 
 ### Driving Automation
 
-The Tesla Model 3 offers [driving automation on level 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
+The Tesla Model 3 (GEN1) offers [driving automation on level 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level. 
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 

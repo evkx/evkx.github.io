@@ -9,138 +9,111 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-grid-container" id ="my-gallery">
 <div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/charging_1.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/charging_1.jpg"
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/camera_1.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/camera_1.jpeg"
+data-pswp-width="3000"
+data-pswp-height="2250" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/camera_1_xst.jpeg" alt="Tesla Model 3" width="200px" height="0px" />
+</a>
+</div>
+<div class="pswp-grid-item">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_1.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_1.jpeg"
+data-pswp-width="3000"
+data-pswp-height="2250" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_1_xst.jpeg" alt="Tesla Model 3" width="200px" height="0px" />
+</a>
+</div>
+<div class="pswp-grid-item">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_2.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_2.jpeg"
+data-pswp-width="3000"
+data-pswp-height="2250" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_2_xst.jpeg" alt="Tesla Model 3" width="200px" height="0px" />
+</a>
+</div>
+<div class="pswp-grid-item">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_3.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_3.jpeg"
+data-pswp-width="1920"
+data-pswp-height="1080" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_3_xst.jpeg" alt="Tesla Model 3" width="200px" height="0px" />
+</a>
+</div>
+<div class="pswp-grid-item">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/frontseats_1.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/frontseats_1.jpeg"
+data-pswp-width="1920"
+data-pswp-height="1080" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/frontseats_1_xst.jpeg" alt="Tesla Model 3" width="200px" height="0px" />
+</a>
+</div>
+<div class="pswp-grid-item">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/headlights_1.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/headlights_1.jpeg"
+data-pswp-width="3000"
+data-pswp-height="2250" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/headlights_1_xst.jpeg" alt="Tesla Model 3" width="200px" height="0px" />
+</a>
+</div>
+<div class="pswp-grid-item">
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1.jpeg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/charging_1_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1_xst.jpeg" alt="Tesla Model 3" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior.jpg"
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/rearlights_1.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/rearlights_1.jpeg"
 data-pswp-width="3000"
-data-pswp-height="1687" 
+data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/rearlights_1_xst.jpeg" alt="Tesla Model 3" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_1.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_1.jpg"
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/rearlights_2.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/rearlights_2.jpeg"
 data-pswp-width="3000"
-data-pswp-height="2100" 
+data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_1_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/rearlights_2_xst.jpeg" alt="Tesla Model 3" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_2.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_2.jpg"
-data-pswp-width="3000"
-data-pswp-height="2000" 
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_1.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_1.jpeg"
+data-pswp-width="1920"
+data-pswp-height="1080" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_2_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_1_xst.jpeg" alt="Tesla Model 3" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_3.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_3.jpg"
-data-pswp-width="3000"
-data-pswp-height="2000" 
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_2.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_2.jpeg"
+data-pswp-width="2400"
+data-pswp-height="1200" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_3_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_2_xst.jpeg" alt="Tesla Model 3" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_4.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_4.jpg"
+<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/wheels_1.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/wheels_1.jpeg"
 data-pswp-width="3000"
-data-pswp-height="2000" 
+data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_4_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
-</a>
-</div>
-<div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_5.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_5.jpg"
-data-pswp-width="3000"
-data-pswp-height="2000" 
-target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_5_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
-</a>
-</div>
-<div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_6.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_6.jpg"
-data-pswp-width="3000"
-data-pswp-height="2002" 
-target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/exterior_6_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
-</a>
-</div>
-<div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/frontseats_1.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/frontseats_1.jpg"
-data-pswp-width="3000"
-data-pswp-height="2000" 
-target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/frontseats_1_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
-</a>
-</div>
-<div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/interior_1.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/interior_1.jpg"
-data-pswp-width="3000"
-data-pswp-height="1963" 
-target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/interior_1_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
-</a>
-</div>
-<div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/interior_2.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/interior_2.jpg"
-data-pswp-width="3000"
-data-pswp-height="2000" 
-target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/interior_2_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
-</a>
-</div>
-<div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1.jpg"
-data-pswp-width="3000"
-data-pswp-height="2000" 
-target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
-</a>
-</div>
-<div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_2.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_2.jpg"
-data-pswp-width="3000"
-data-pswp-height="2000" 
-target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screens_2_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
-</a>
-</div>
-<div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screen_1.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screen_1.jpg"
-data-pswp-width="3000"
-data-pswp-height="2000" 
-target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/screen_1_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
-</a>
-</div>
-<div class="pswp-grid-item">
-<a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/secondrowseats_1.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/secondrowseats_1.jpg"
-data-pswp-width="3000"
-data-pswp-height="2000" 
-target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/secondrowseats_1_xst.jpg" alt="Tesla Model 3" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/wheels_1_xst.jpeg" alt="Tesla Model 3" width="200px" height="0px" />
 </a>
 </div>
 </div>
