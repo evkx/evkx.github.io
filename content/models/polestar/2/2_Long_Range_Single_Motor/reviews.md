@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Polestar 2 LR SM refresh range test 07.09.2023
+
+{{< youtube fhw6t1K84dY >}}
+
 ### Electrifying: DRIVEN: New Polestar 2 (2024). Has the Tesla Model 3 finally met its match? 07.07.2023
 
 {{< youtube 8jQp9Lzc5L0 >}}
