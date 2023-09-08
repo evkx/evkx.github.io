@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Out of Spec Reviews: A Fast EV Wagon For Half The Price Of A Taycan! I Drive The NIO ET5 Touring For The First Time 08.09.2023
+
+{{< youtube rcf17eD8aUE >}}
+
 ### Fully Charged Show: This Futuristic Estate Car Is The Cure To Boring SUVs! 29.06.2023
 
 {{< youtube TdcawbBTM5c >}}
