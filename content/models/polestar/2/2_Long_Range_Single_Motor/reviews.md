@@ -8,6 +8,14 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Polestar 2 LR SM acceleration and noise test 09.09.2023
+
+{{< youtube GE_0wL-XqFw >}}
+
+### Bjørn Nyland: Polestar 2 LR SM refresh charging test 08.09.2023
+
+{{< youtube acZFIyEDTDY >}}
+
 ### Bjørn Nyland: Polestar 2 LR SM refresh range test 07.09.2023
 
 {{< youtube fhw6t1K84dY >}}
