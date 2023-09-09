@@ -1,23 +1,23 @@
 ---
-title: BMW i7 xDrive60 specifications
+title: BMW i7 eDrive50 specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for BMW i7 xDrive60."
+description: "EVKX.net gives you the full specifications for BMW i7 eDrive50."
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![BMW i7 xDrive60](https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for BMW i7 xDrive60. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i7 xDrive60, visit the [chargeinfo](../chargecurve/) for BMW i7 xDrive60 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![BMW i7 eDrive50](https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for BMW i7 eDrive50. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i7 eDrive50, visit the [chargeinfo](../chargecurve/) for BMW i7 eDrive50 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|400 Kw|
-|Electrical torque output in Nm|745 Nm|
-|Top speed|240 km/h|
-|0-100km/h (0-62 mph)|4,7 s|
+|Peak electrical output in kW|335 Kw|
+|Electrical torque output in Nm|650 Nm|
+|Top speed|205 km/h|
+|0-100km/h (0-62 mph)|5,5 s|
 
 
 
@@ -26,11 +26,11 @@ EVKX.net seeks to have the most complete specifications for BMW i7 xDrive60. Cli
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|625 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|16,3 kWh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|611 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|16,6 kWh/100km|
 |[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|18,4 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|591 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|17,2 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|575 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|17,7 kWh/100km|
 |[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|19,6 kwh/100km|
 
 
@@ -53,6 +53,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Length|5391 mm|
 |Height|1544 mm|
 |Width excluding mirrors|1950 mm|
+|Widht including mirrors|2192 mm|
 |Wheelbase|3215 mm|
 |Track width front|1714 mm|
 |Track width rear|1735 mm|

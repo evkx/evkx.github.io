@@ -1,5 +1,5 @@
 ---
-title: BMW i7 xDrive60 reviews
+title: BMW i7 eDrive50 reviews
 linktitle: "Reviews"
 description: "EVKX.net helps you find the best review for this model. "
 weight: 80

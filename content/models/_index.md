@@ -18,7 +18,7 @@ Audi has 4 models with total 22 variants. [Read all about them](audi/)
 
 Electric drivetrains are a prerequisite for climate-neutral mobility of the future. This is why the BMW Group is consistently expanding its range of electric vehicles. As early as 2023, the Group will offer at least one fully electric model in virtually all key segments. 
 
-BMW has 6 models with total 12 variants. [Read all about them](bmw/)
+BMW has 6 models with total 13 variants. [Read all about them](bmw/)
 
 ## BYD
 
