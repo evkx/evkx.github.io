@@ -86,7 +86,12 @@ These are doors that open upward instead of outward. They are hinged on their to
 
 ## Rear opening
 
-### Trunk
+There is serveral types of rear opening.
+
+### Trunk lid
+
+A trunk lid is standard on many sedans. The lid is typically hinged below the rear window. A sedan with a trunk lid has a more separated trunk area than the rest of the cabin. A trunk lid rear door limits the size of objects in the trunk compared to sedans with a hatchback-style liftgate. 
+
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/doors/lucidairtrunk_1.jpg">
