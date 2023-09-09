@@ -1,23 +1,23 @@
 ---
-title: BMW i5 M60 xDrive specifications
+title: BMW i5 eDrive40 specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for BMW i5 M60 xDrive."
+description: "EVKX.net gives you the full specifications for BMW i5 eDrive40."
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![BMW i5 M60 xDrive](https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for BMW i5 M60 xDrive. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i5 M60 xDrive, visit the [chargeinfo](../chargecurve/) for BMW i5 M60 xDrive with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![BMW i5 eDrive40](https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i5 eDrive40, visit the [chargeinfo](../chargecurve/) for BMW i5 eDrive40 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|442 Kw|
+|Peak electrical output in kW|250 Kw|
 |Electrical torque output in Nm|795 Nm|
 |Top speed|230 km/h|
-|0-100km/h (0-62 mph)|3,8 s|
+|0-100km/h (0-62 mph)|6 s|
 
 
 
@@ -26,11 +26,11 @@ EVKX.net seeks to have the most complete specifications for BMW i5 M60 xDrive. C
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|515 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|15,8 kWh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|581 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|14,0 kWh/100km|
 |[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|18,2 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|456 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|17,8 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|498 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|16,3 kWh/100km|
 |[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|20,6 kwh/100km|
 
 

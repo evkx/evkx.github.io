@@ -1,7 +1,7 @@
 ---
-title: BMW i5 M60 xDrive range & consumption
+title: BMW i5 eDrive40 range & consumption
 linktitle: "Range & Consumption"
-description: "Here you find all details about range and consumption for BMW i5 M60 xDrive."
+description: "Here you find all details about range and consumption for BMW i5 eDrive40."
 weight: 9
 hidden: true
 ---
@@ -19,8 +19,8 @@ Below are the officially rated ranges. The tests are performed with the heating/
 
 | | Range  | Consumption  |
 |----|-----|------|
-| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 515 km / 320mi |15,77kWh/100km / 3,9 mi/kWh | 
-| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 456 km / 283mi | 17,81 kWh/100km / 3,5 mi/kWh | 
+| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 581 km / 361mi |13,98kWh/100km / 4,4 mi/kWh | 
+| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 498 km / 309mi | 16,31 kWh/100km / 3,8 mi/kWh | 
 
 ### Official test cycle results with added heating
 
@@ -28,8 +28,8 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 
 | | Range  | Change  |
 |----|-----|------|
-| WLTP-combined basic trim with 2KW AC | 405km /252 mi | -21,4%|
-| WLTP-combined top trim with 2KW AC | 367km /228 mi | -19,5%|
+| WLTP-combined basic trim with 2KW AC | 444km /276 mi | -23,6%|
+| WLTP-combined top trim with 2KW AC | 394km /245 mi | -20,9%|
 
 ### Real world range estimates
 
