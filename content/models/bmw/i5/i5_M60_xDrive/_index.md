@@ -83,7 +83,7 @@ Dynamic steering is standard on the BMW i5 M60 xDrive. Dynamic steering varies t
 ## Exterior
 
 You can choose between 12 different paint colors when ordering this model. 
-Additionally, you can choose between 6 wheels with sizes from 19 to 20 inches. 
+Additionally, you can choose between 8 wheels with sizes from 19 to 21 inches. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close are an optional function for the regular doors. 
 
