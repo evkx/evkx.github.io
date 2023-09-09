@@ -11,7 +11,7 @@ In recent years, Volvo has focused on developing electric vehicles (EVs) as part
 
 <a href="c40"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/main_1_st.jpg" width="800" height="533" alt="Volvo C40" ></a>
 
-This model is available in 2 variant(s). 
+This model is available in 3 variant(s). 
 [Read full details](c40/)
 
 ## Volvo EX30

@@ -1,22 +1,22 @@
 ---
-title: Volvo C40 Recharge Single Motor ER specifications
+title: Volvo C40 Recharge Single Motor specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Volvo C40 Recharge Single Motor ER."
+description: "EVKX.net gives you the full specifications for Volvo C40 Recharge Single Motor."
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Volvo C40 Recharge Single Motor ER](https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Volvo C40 Recharge Single Motor ER. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo C40 Recharge Single Motor ER, visit the [chargeinfo](../chargecurve/) for Volvo C40 Recharge Single Motor ER with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![Volvo C40 Recharge Single Motor](https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for Volvo C40 Recharge Single Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo C40 Recharge Single Motor, visit the [chargeinfo](../chargecurve/) for Volvo C40 Recharge Single Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
 
 |Spec|Value|
 |----|-----|
-|Peak electrical output in kW|185 Kw|
+|Peak electrical output in kW|175 Kw|
 |Electrical torque output in Nm|420 Nm|
-|Top speed|160 km/h|
+|Top speed|180 km/h|
 |0-100km/h (0-62 mph)|7,3 s|
 
 
@@ -26,11 +26,11 @@ EVKX.net seeks to have the most complete specifications for Volvo C40 Recharge S
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|572 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|13,8 kWh/100km|
-|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|16,7 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|553 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|14,3 kWh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|467 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|14,1 kWh/100km|
+|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|16,8 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|454 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|14,5 kWh/100km|
 |[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|17,3 kwh/100km|
 
 
@@ -39,10 +39,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|82 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|79 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|69 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|66 kWh|
 |Max DC charging|205 kW|
-|[Pack Configuration](../../../../../technology/battery/batterypack/)|108s3p|
+|[Pack Configuration](../../../../../technology/battery/batterypack/)|96s3p|
 |[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC|
 
 
@@ -51,8 +51,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|Length|4440 mm|
-|Height|1596 mm|
+|Length|4425 mm|
+|Height|1652 mm|
 |Width excluding mirrors|1873 mm|
 |Widht including mirrors|2034 mm|
 |Wheelbase|2702 mm|
