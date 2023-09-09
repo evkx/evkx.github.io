@@ -1,7 +1,7 @@
 ---
 title: Volvo C40 Recharge Single Motor
 linktitle: "C40 Recharge Single Motor"
-description: "Volvo C40 Recharge Single Motor is an all-electric crossover with a WLTP range of up to 467 km (290 miles). EVKX.net have all the details. "
+description: "Volvo C40 Recharge Single Motor is an all-electric crossover with a WLTP range of up to 478 km (297 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---
@@ -38,7 +38,7 @@ The Volvo C40 Recharge Single Motor has a maximum power of 175KW (238hp). The to
 
 The battery has a gross capacity of 69kWh and a net capacity of 66kWh, meaning you have a 3kWh buffer for protection. (4,3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 467 to 454 km (290-282 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,1kWh/100km for the basic version and 14,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 478 to 466 km (297-290 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,8kWh/100km for the basic version and 14,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 205kW. A full charge from 0 - 100% would take 85 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 54% resulting in an actual charge speed including time loss on 90kW. Each charge session would take 21 minutes and 28 seconds. 
 
@@ -217,7 +217,7 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1295 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 31 liters. Max weight is 2470kg, and with the base weight of 1965 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1205 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 31 liters. Max weight is 2460kg, and with the base weight of 1990 kg, you can max load 470 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
 

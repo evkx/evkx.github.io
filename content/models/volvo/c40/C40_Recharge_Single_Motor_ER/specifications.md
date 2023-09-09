@@ -26,11 +26,11 @@ EVKX.net seeks to have the most complete specifications for Volvo C40 Recharge S
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|572 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|13,8 kWh/100km|
+|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|581 km|
+|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|13,6 kWh/100km|
 |[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|16,7 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|553 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|14,3 kWh/100km|
+|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|566 km|
+|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|14,0 kWh/100km|
 |[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|17,3 kwh/100km|
 
 

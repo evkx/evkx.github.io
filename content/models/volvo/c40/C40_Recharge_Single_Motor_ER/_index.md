@@ -1,7 +1,7 @@
 ---
 title: Volvo C40 Recharge Single Motor ER
 linktitle: "C40 Recharge Single Motor ER"
-description: "Volvo C40 Recharge Single Motor ER is an all-electric crossover with a WLTP range of up to 572 km (356 miles). EVKX.net have all the details. "
+description: "Volvo C40 Recharge Single Motor ER is an all-electric crossover with a WLTP range of up to 581 km (361 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---
@@ -38,7 +38,7 @@ The Volvo C40 Recharge Single Motor ER has a maximum power of 185KW (252hp). The
 
 The battery has a gross capacity of 82kWh and a net capacity of 79kWh, meaning you have a 3kWh buffer for protection. (3,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 572 to 553 km (356-344 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,8kWh/100km for the basic version and 14,3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 581 to 566 km (361-352 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,6kWh/100km for the basic version and 14,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 205kW. A full charge from 0 - 100% would take 102 minutes, while a more common scenario of 10-80% would take 38 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 51% resulting in an actual charge speed including time loss on 94kW. Each charge session would take 23 minutes and 11 seconds. 
 
