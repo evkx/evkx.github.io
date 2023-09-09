@@ -8,4 +8,7 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### Bjørn Nyland: Citroen e-C4X banana box test 09.09.2023
+
+{{< youtube nay0EuG3uW4 >}}
+
