@@ -4,6 +4,19 @@ linktitle: "C40"
 description: "See below for details of the different variants of Volvo C40"
 weight: 30
 ---
+## Volvo C40 Recharge Single Motor ER
+
+<a href="/models/volvo/c40/c40_recharge_single_motor_er/"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/main_1_st.jpg" width="800" height="533" alt="C40 Recharge Single Motor ER" ></a>
+
+Volvo C40 Recharge Single Motor ER is an all-electric crossover with a WLTP range of up to 572 km (356 miles). EVKX.net have all the details. 
+
+- [Volvo C40 Recharge Single Motor ER article](/models/volvo/c40/c40_recharge_single_motor_er/)
+- [Volvo C40 Recharge Single Motor ER Range & consumption info](/models/volvo/c40/c40_recharge_single_motor_er/rangeandconsumption)
+- [Volvo C40 Recharge Single Motor ER Charging curve and performance](/models/volvo/c40/c40_recharge_single_motor_er/chargingcurve)
+- [Volvo C40 Recharge Single Motor ER full specifications](/models/volvo/c40/c40_recharge_single_motor_er/specifications)
+- [Volvo C40 Recharge Single Motor ER image gallery](/models/volvo/c40/c40_recharge_single_motor_er/gallery)
+- [Volvo C40 Recharge Single Motor ER reviews](/models/volvo/c40/c40_recharge_single_motor_er/reviews)
+
 ## Volvo C40 Recharge Twin Motor
 
 <a href="/models/volvo/c40/c40_recharge_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/main_1_st.jpg" width="800" height="533" alt="C40 Recharge Twin Motor" ></a>

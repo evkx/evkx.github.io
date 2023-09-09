@@ -75,7 +75,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio ET5 Touring has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 150 mm, and the max is 150 mm. 
+
 
 ### Steering
 
@@ -142,7 +142,7 @@ You can choose from 3 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - electric adjustment 
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) 
 
 There is only one type of steering wheel available. 
 
@@ -180,7 +180,7 @@ One type of sound system is available for the Nio ET5 Touring. With the Premium 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-The model has 1 USB-C connections as standard. The model has 2 USB-A connections as standard. 
+The model has 2 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

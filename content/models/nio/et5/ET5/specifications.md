@@ -83,8 +83,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Spec|Value|
 |----|-----|
 |Adaptive suspension|Yes, standard equipment|
-|Adjustable damping front|Yes, optional equipment|
-|Adjustable damping rear|Yes, optional equipment|
+|Adjustable damping front|Not available|
+|Adjustable damping rear|Not available|
 |Adjustable height front|Yes, standard equipment|
 |Adjustable height rear|Yes, standard equipment|
 |Max ground clearance|150|
