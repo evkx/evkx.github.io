@@ -188,5 +188,5 @@ With the   level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 560 liters. With the rear seat down, it is 1320 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 72 liters. Max weight is 2945kg, and with the base weight of 2340 kg, you can max load 605 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. 
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
