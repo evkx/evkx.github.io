@@ -77,19 +77,19 @@ This model is available with a seat configuration with five seats.
 |Spec|Value|
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
-|Electric adjustment of height, recline and angle|Unknown|
+|Electric adjustment of height, recline and angle|Standard feature|
 |Interior.Seatoptions.MemoryDriverSeat|Standard feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Unknown|
-|Height adjustable headrest|Unknown|
+|Height adjustable headrest|Standard feature|
 |Length adjustable headrest|Unknown|
-|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
+|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
 |[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Unknown|
 |[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Unknown|
-|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
-|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
-|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
+|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
+|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Not Available|
+|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Unknown|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Unknown|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Standard feature|
 |[Massage function](../../../../../technology/seats/adjustment/#massage)|Standard feature|
 
 ### Front seats
@@ -127,10 +127,10 @@ This model is available with a seat configuration with five seats.
 |AntiLock Braking System|Yes, standard equipment|
 |Automatic emergency braking||
 |Brake assist||
-|Traction control||
+|Traction control|Yes, standard equipment|
 |Left turn crash avoidance||
 |Forward Collision Warning||
-|Electronic stability control||
+|Electronic stability control|Yes, standard equipment|
 |Temperature warning||
 |Cross traffic assist||
 |Speed limiter||
@@ -145,4 +145,4 @@ This model is available with a seat configuration with five seats.
 |----|-----|
 |Android Auto support||
 |Apple Carplay support||
-|In Car navigation||
+|In Car navigation|Yes, standard equipment|

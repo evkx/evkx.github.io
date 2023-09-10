@@ -282,6 +282,12 @@ Volvo is a Swedish multinational automotive company that produces a range of car
 
 Volvo has 4 models with total 11 variants. [Read all about them](volvo/)
 
+## VOYAH
+
+Voyah is a car brand that specializes in designing and developing electric vehicles. Voyah is the premium division of Chinese state-owned automaker Dongfeng Motor Corporation. 
+
+VOYAH has 1 models with total 1 variants. [Read all about them](voyah/)
+
 ## XPENG
 
 <a href="xpeng/"><img src="https://media.evkx.net/multimedia/models/xpeng/brandevs_st.jpg" width="800px" height="376px" alt="XPENG" ></a>

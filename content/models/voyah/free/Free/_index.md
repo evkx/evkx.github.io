@@ -44,11 +44,11 @@ The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 9
 
 ### Onboard charger
 
-
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 5 minutes. 
 
 ### Charge port
 
-The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -64,15 +64,15 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 
 
-
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. At low speeds, the one-pedal drive mode will keep the car rolling until it stops by itself. 
 
 ## Exterior
 
 You can choose between 6 different paint colors when ordering this model. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
-There is only one roof for this model. 
+There is only one roof for this model. exterior.roof.standard.panoramic.FullFixed.ElectrochromicMultipleLevels
 
 The windows from B-pillar and back are tinted. 
 
@@ -98,8 +98,11 @@ Only one front seat type is available in the VOYAH FREE.
 
 The following functionalities are available on the **** seat. 
 
+- electric adjustment 
+- height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
 You can choose from 4 different materials/colors for this seat type. 
@@ -114,7 +117,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 
 There is only one type of steering wheel available. 
@@ -126,6 +129,8 @@ There is one climate system available. This model has a [heat pump](../../../../
 ## Comfort
 
 VOYAH FREE has several features to make your life as a driver or passenger more comfortable. 
+
+You have wireless charging for your phone.  
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,10 +152,12 @@ VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digi
 
 One type of sound system is available for the VOYAH FREE. With the , you get NULL speakers with a max system output of  watts. 
 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
+The model has 1 USB-C connections as standard. The model has 3 USB-A connections as standard. 
 ## Lights
 
-
+The standard headlights use LED technology.  
 ## Advanced driver assistance systems
 
 The VOYAH FREE has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -159,6 +166,8 @@ The VOYAH FREE has several standard and optional [advanced driver assistance sys
 
 
 The VOYAH FREE has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
+The VOYAH FREE has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
 The VOYAH FREE has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 

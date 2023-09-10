@@ -10,3 +10,5 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Bjørn Nyland: Voyah Free driving impressions 11.10.2022
 
+### Wheelsboy: The Voyah Free Is Way Better Than We Expected 15.08.2022
+
