@@ -142,7 +142,7 @@ The standard option is a three-seat bench with a  split where you can fold each 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest 
 
-The following functionalities are available on the **Executive Lounge** seat. 
+interior.seat.category.ExecutivePlusTwoSeatBenchIn addition, the following functionalities are available. 
 
 - electric adjustment 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
@@ -152,24 +152,6 @@ The following functionalities are available on the **Executive Lounge** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) 
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 - [footrest for passenger](../../../../technology/seats/adjustment/#footrest) 
-
-You can choose from 14 different materials/colors for this seat type. 
-- Black/Burgundy [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Mokka [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Cognac [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Smoke [leather upholstering](../../../../technology/seats/materials/#leather)
-- Mocha [leather upholstering](../../../../technology/seats/materials/#leather)
-- Black [leather upholstering](../../../../technology/seats/materials/#leather)
-- Tartufo [leather upholstering](../../../../technology/seats/materials/#leather)
-- Smoke White/Light gr [wool/leather upholstering](../../../../technology/seats/materials/#wool)
-- Caramel/Atlas Grey [leather upholstering](../../../../technology/seats/materials/#leather)
-- Taupegrau/Nachtblau [leather upholstering](../../../../technology/seats/materials/#leather)
-- Black/Grey [wool/leather upholstering](../../../../technology/seats/materials/#wool)
-- Tartufo [leather upholstering](../../../../technology/seats/materials/#leather)
-- Smoke White [leather upholstering](../../../../technology/seats/materials/#leather)
-
-
 
 
 <figur>

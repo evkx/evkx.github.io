@@ -135,7 +135,7 @@ The standard option is a three-seat bench with a  split where you can fold each 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest 
 
-The following functionalities are available on the **Executive Lounge** seat. 
+interior.seat.category.ExecutivePlusTwoSeatBenchIn addition, the following functionalities are available. 
 
 - electric adjustment 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)

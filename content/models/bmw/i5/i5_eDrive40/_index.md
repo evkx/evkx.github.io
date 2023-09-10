@@ -68,11 +68,15 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 BMW i5 eDrive40 has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/). 
 
-The  suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 136 mm. 
+The Adaptive M Suspension suspension has a fixed height and damping. The ground clearance with this suspension is 144 mm. 
+
+You can order BMW i5 eDrive40 with an alternative M Sport Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. 
+
+You can order BMW i5 eDrive40 with an alternative Adaptives suspension professional suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 140 mm. 
 
 ### Steering
 
-Dynamic steering is standard on the BMW i5 eDrive40. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is standard on the BMW i5 eDrive40. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 

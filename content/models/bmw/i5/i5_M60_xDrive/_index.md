@@ -72,7 +72,7 @@ The  suspension has adaptive damping on the front and rear axle and air suspensi
 
 ### Steering
 
-Dynamic steering is standard on the BMW i5 M60 xDrive. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is standard on the BMW i5 M60 xDrive. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 

@@ -65,6 +65,42 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
+The model offers 3 suspension variants
+
+### Adaptive M Suspension
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Not available|
+|Adjustable damping front|Not available|
+|Adjustable damping rear|Not available|
+|Adjustable height front|Not available|
+|Adjustable height rear|Not available|
+|Max ground clearance|144|
+|Minimum ground clearance|144|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension construction front|DoubleWishbone|
+|Suspension type rear|AirSuspension|
+|Suspension construction rear|Multilink|
+
+### M Sport Suspension
+
+|Spec|Value|
+|----|-----|
+|Adaptive suspension|Not available|
+|Adjustable damping front|Not available|
+|Adjustable damping rear|Not available|
+|Adjustable height front|Not available|
+|Adjustable height rear|Yes, standard equipment|
+|Max ground clearance|136|
+|Minimum ground clearance|136|
+|Suspension type front|SteelSpringsWithOilDampers|
+|Suspension construction front|DoubleWishbone|
+|Suspension type rear|SteelSpringsWithOilDampers|
+|Suspension construction rear|Multilink|
+
+### Adaptives suspension professional
+
 |Spec|Value|
 |----|-----|
 |Adaptive suspension|Yes, standard equipment|
@@ -72,11 +108,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Adjustable damping rear|Yes, standard equipment|
 |Adjustable height front|Not available|
 |Adjustable height rear|Yes, standard equipment|
-|Max ground clearance|136|
-|Minimum ground clearance|136|
+|Max ground clearance|140|
+|Minimum ground clearance|140|
 |Suspension type front|SteelSpringsWithOilDampers|
 |Suspension construction front|DoubleWishbone|
-|Suspension type rear|AirSuspension|
+|Suspension type rear|SteelSpringsWithOilDampers|
 |Suspension construction rear|Multilink|
 
 ## Interior
