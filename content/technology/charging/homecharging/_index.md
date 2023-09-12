@@ -130,7 +130,14 @@ Another rule that may affect your home charging options is the US buildin codes.
 
 If you want to get tips on charging stations for US market we recomend following the "State of Charge" [youtube channel](https://www.youtube.com/@StateOfChargeWithTomMoloughney).
 
-Below you see a review video of the best charing stations for 2023
+There is one charger in the US market that stands out. The **Tesla Universal Wall Connector** is currently the only charger that allows AC charging of EVs with NACS and J1772 connectors. This feature makes the charger future-proof for whatever EV you are buying next.
+
+See this review to see why this charger is the one to select. 
+
+{{< youtube X7HnxjNcH5Y >}}
+
+
+Below you see a review video of the best charing stations for 2023 (created before Teslla Universal Wall Connector was released)
 
 {{< youtube 56e8-nLqM0c >}}
 
