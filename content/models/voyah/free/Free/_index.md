@@ -150,7 +150,7 @@ VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digi
 
 ## Infotainment
 
-One type of sound system is available for the VOYAH FREE. With the , you get NULL speakers with a max system output of  watts. 
+One type of sound system is available for the VOYAH FREE. With the DYNAUDIO HIFI Sound system, you get NULL speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 

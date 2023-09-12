@@ -8,6 +8,14 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: I drove Polestar 2 LR SM refresh until the battery died 11.09.2023
+
+{{< youtube NYtOxscgx9Y >}}
+
+### Bjørn Nyland: Polestar 2 LR SM refresh driving impressions 11.09.2023
+
+{{< youtube vpMyB-0GE0M >}}
+
 ### Bjørn Nyland: Polestar 2 LR SM acceleration and noise test 09.09.2023
 
 {{< youtube GE_0wL-XqFw >}}
