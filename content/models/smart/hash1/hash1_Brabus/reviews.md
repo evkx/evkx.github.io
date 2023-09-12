@@ -8,7 +8,7 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Out of Spec Reviews: Smart #1 Full Tour! The Funky Sibling To Volvo EX30 w/ Over 400hp, AWD, Mercedes Tech, & More 11.10.2023
+### Out of Spec Reviews: Smart #1 Full Tour! The Funky Sibling To Volvo EX30 w/ Over 400hp, AWD, Mercedes Tech, & More 11.09.2023
 
 {{< youtube XiyvmdJnybk >}}
 
