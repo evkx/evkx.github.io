@@ -20,3 +20,10 @@ This model is available in 1 variant(s).
 
 This model is available in 1 variant(s). 
 [Read full details](208/)
+
+## Peugot 3008
+
+<a href="3008"><img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_st.jpg" width="800" height="500" alt="Peugot 3008" ></a>
+
+This model is available in 1 variant(s). 
+[Read full details](3008/)
