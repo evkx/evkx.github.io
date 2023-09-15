@@ -116,7 +116,7 @@ You can choose from 6 different materials/colors for this seat type. <br />
 
 
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
@@ -215,9 +215,9 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 527 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 100kg. Under the hood, there is frunk with more storage room. This frunk is 27 liters. Max weight is 2220kg, and with the base weight of 1723 kg, you can max load 497 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 466 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 100kg. Under the hood, there is frunk with more storage room. This frunk is 27 liters. Max weight is 2220kg, and with the base weight of 1723 kg, you can max load 497 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 300kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 
 
 <figur>
