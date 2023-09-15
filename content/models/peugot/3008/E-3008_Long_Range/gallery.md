@@ -125,6 +125,15 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/screens_3_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
 </a>
 </div>
+<div class="pswp-grid-item">
+<a href="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/wheels_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/wheels_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2250" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/wheels_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+</a>
+</div>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';

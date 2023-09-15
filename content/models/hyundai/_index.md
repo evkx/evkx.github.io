@@ -4,7 +4,7 @@ linktitle: "Hyundai"
 description: "Hyundai Motor Co. (HMC), established in 1967, is the auto sales leader in the Korean domestic market and exports vehicles to 190 countries worldwide. Hyundai Motor Co. operates the world's largest integrated automobile manufacturing facility in Ulsan, located on Korea's southeast coast. Their electric IONIQ series of EV has been popular.  "
 weight: 30
 ---
-Hyundai has currently 2 model with total 5 variants in the market. 
+Hyundai has currently 3 model with total 6 variants in the market. 
 
 
 ## Hyundai Ioniq 5
@@ -20,3 +20,10 @@ This model is available in 3 variant(s).
 
 This model is available in 2 variant(s). 
 [Read full details](ioniq_6/)
+
+## Hyundai Kona
+
+<a href="kona"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg" width="800" height="533" alt="Hyundai Kona" ></a>
+
+This model is available in 1 variant(s). 
+[Read full details](kona/)
