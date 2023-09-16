@@ -74,10 +74,13 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ### Front seats
 
+
+#### standard
+
 |Spec|Value|
 |----|-----|
 |[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
-|Electric adjustment of height, recline and angle|Standard feature|
+|Electric adjustment of height, recline and angle|Optional feature|
 |Interior.Seatoptions.MemoryDriverSeat|Standard feature|
 |Interior.Seatoptions.MemoryPassangerSeat|Not Available|
 |Height adjustable headrest|Standard feature|
@@ -88,9 +91,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Not Available|
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
-|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Optional feature|
+|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
 |[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Optional feature|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Unknown|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
 
 ### Front seats
 
@@ -106,8 +109,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Not Available|
 |[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Not Available|
 |[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Not Available|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Unknown|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Unknown|
+|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
+|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
 
 ## Driver Assistance
 
@@ -119,7 +122,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Reversing camera|Yes, standard equipment|
 |360 camera|Yes (Surround View Monitor), optional equipment|
 |Rear cross traffic alert|Yes, standard equipment|
-|Rear parking sensors||
+|Rear parking sensors|Yes, standard equipment|
 |Front parking sensors||
 |Side parking sensors||
 |Hill descent assist||
@@ -128,10 +131,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 |Automatic emergency braking|Yes, standard equipment|
 |Brake assist|Yes, standard equipment|
 |Traction control|Yes, standard equipment|
-|Left turn crash avoidance||
-|Forward Collision Warning||
+|Left turn crash avoidance|Yes, standard equipment|
+|Forward Collision Warning|Yes, standard equipment|
 |Electronic stability control|Yes, standard equipment|
-|Temperature warning||
+|Temperature warning|Yes, standard equipment|
 |Cross traffic assist|Yes, standard equipment|
 |Speed limiter||
 |Efficiency assist||
