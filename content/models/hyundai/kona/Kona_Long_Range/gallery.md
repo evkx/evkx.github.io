@@ -45,6 +45,15 @@ target="_blank">
 </a>
 </div>
 <div class="pswp-grid-item">
+<a href="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/exterior_3.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/exterior_3.jpeg"
+data-pswp-width="3000"
+data-pswp-height="1842" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/exterior_3_xst.jpeg" alt="Hyundai Kona Long Range" width="200px" height="0px" />
+</a>
+</div>
+<div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/frunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/frunk_1.jpg"
 data-pswp-width="3000"
@@ -69,6 +78,15 @@ data-pswp-width="3000"
 data-pswp-height="2041" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/interior_1_xst.jpg" alt="Hyundai Kona Long Range" width="200px" height="0px" />
+</a>
+</div>
+<div class="pswp-grid-item">
+<a href="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/interior_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/interior_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/interior_2_xst.jpg" alt="Hyundai Kona Long Range" width="200px" height="0px" />
 </a>
 </div>
 <div class="pswp-grid-item">

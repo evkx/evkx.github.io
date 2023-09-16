@@ -17,3 +17,16 @@ Smart #1 Brabus is an all-electric crossover with a WLTP range of up to 400 km (
 - [Smart #1 Brabus image gallery](/models/smart/hash1/hash1_brabus/gallery)
 - [Smart #1 Brabus reviews](/models/smart/hash1/hash1_brabus/reviews)
 
+## Smart #1 Pulse
+
+<a href="/models/smart/hash1/hash1_pulse/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1_st.jpg" width="800" height="600" alt="#1 Pulse" ></a>
+
+Smart #1 Pulse is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
+
+- [Smart #1 Pulse article](/models/smart/hash1/hash1_pulse/)
+- [Smart #1 Pulse Range & consumption info](/models/smart/hash1/hash1_pulse/rangeandconsumption)
+- [Smart #1 Pulse Charging curve and performance](/models/smart/hash1/hash1_pulse/chargingcurve)
+- [Smart #1 Pulse full specifications](/models/smart/hash1/hash1_pulse/specifications)
+- [Smart #1 Pulse image gallery](/models/smart/hash1/hash1_pulse/gallery)
+- [Smart #1 Pulse reviews](/models/smart/hash1/hash1_pulse/reviews)
+
