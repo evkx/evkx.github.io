@@ -116,6 +116,16 @@ The following functionalities are available on the **standard** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
+You can choose from 6 different materials/colors for this seat type. 
+- Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Grey [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Grey [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Green [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+
+
+
 ### Second-row seat
 
 
