@@ -1,13 +1,13 @@
 ---
-title: Hyundai Kona Long Range specifications
+title: Hyundai Kona Standard Range specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Hyundai Kona Long Range."
+description: "EVKX.net gives you the full specifications for Hyundai Kona Standard Range."
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Hyundai Kona Long Range](https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Hyundai Kona Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Kona Long Range, visit the [chargeinfo](../chargecurve/) for Hyundai Kona Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+[![Hyundai Kona Standard Range](https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1_st.jpg)](../)
+EVKX.net seeks to have the most complete specifications for Hyundai Kona Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Kona Standard Range, visit the [chargeinfo](../chargecurve/) for Hyundai Kona Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -26,12 +26,9 @@ EVKX.net seeks to have the most complete specifications for Hyundai Kona Long Ra
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 |Spec|Value|
 |----|-----|
-|[Basic trim WLTP range](../../../../../guides/understandingrange/wltp/)|514 km|
-|[Basic trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|12,7 kWh/100km|
-|[Basic trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|14,7 kWh/100km|
-|[Top trim WLTP range](../../../../../guides/understandingrange/wltp/)|454 km|
-|[Top trim WLTP consumption](../../../../../guides/understandingrange/wltp/)|14,4 kWh/100km|
-|[Top trim WLTP consumption with charging loss](../../../../../guides/understandingrange/wltp/)|16,6 kwh/100km|
+|WLTP range|377 km|
+|WLTP consumption|12,8 kWh/100km|
+|WLTP consumption with charging loss|14,6 kWh/100km|
 
 
 
@@ -39,8 +36,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 |Spec|Value|
 |----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|68,5 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|65,4 kWh|
+|[Battery gross](../../../../../technology/battery/buffer/)|51 kWh|
+|[Battery net](../../../../../technology/battery/buffer/)|48,4 kWh|
 |Max DC charging|100 kW|
 
 
