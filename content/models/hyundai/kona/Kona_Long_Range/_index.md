@@ -101,7 +101,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling. 
+You can choose between different types of seat materials and interior styling. You can choose between several interior designs. 
 
 ### First row seats
 
