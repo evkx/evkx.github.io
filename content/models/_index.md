@@ -222,6 +222,12 @@ Porsche is a German luxury sports car manufacturer that was founded in 1931 by F
 
 Porsche has 1 models with total 14 variants. [Read all about them](porsche/)
 
+## Renault
+
+Renault is a French car manufacturer that has a strong focus on electric vehicles (EVs). Renault has been a pioneer in the EV market since it launched the first mass-produced electric car, the ZOE, in 2012.
+
+Renault has 1 models with total 1 variants. [Read all about them](renault/)
+
 ## Rivian
 
 <a href="rivian/"><img src="https://media.evkx.net/multimedia/models/rivian/brandevs_st.jpg" width="800px" height="520px" alt="Rivian" ></a>
