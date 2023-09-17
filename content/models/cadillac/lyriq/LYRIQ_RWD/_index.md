@@ -56,7 +56,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Cadillac LYRIQ RWD has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+Cadillac LYRIQ RWD has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm. 
 
