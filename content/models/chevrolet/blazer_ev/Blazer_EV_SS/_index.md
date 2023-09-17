@@ -46,7 +46,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11,5KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 52 minutes. You can also select an optional onboard charger that supports up to 19,2KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 18 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 52 minutes. 
 
 ### Charge port
 
@@ -210,7 +210,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 793 liters. With the rear seat down, it is 1723 liters. 
+The cargo capacity in the trunk is 863 liters. With the rear seat down, it is 1676 liters. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1588, and on unbraked, 750kg. 
 
