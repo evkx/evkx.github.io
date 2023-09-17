@@ -248,7 +248,7 @@ Skoda has 1 models with total 4 variants. [Read all about them](skoda/)
 
 The Smart car manufacturer is a German automotive marque that produces small electric vehicles. It is a joint venture between Mercedes-Benz AG and Zhejiang Geely Holding Group, established in 2019. The venture is headquartered in Ningbo, China, and aims to produce Smart-badged cars in China to be marketed globally.
 
-Smart has 1 models with total 2 variants. [Read all about them](smart/)
+Smart has 1 models with total 3 variants. [Read all about them](smart/)
 
 ## Tesla
 
