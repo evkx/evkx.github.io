@@ -17,7 +17,7 @@ EVKX.net seeks to have the most complete specifications for Smart #1 Pulse. Clic
 |Peak electrical output in kW|315 Kw|
 |Electrical torque output in Nm|584 Nm|
 |Top speed|180 km/h|
-|0-100km/h (0-62 mph)|3,9 s|
+|0-100km/h (0-62 mph)|4,5 s|
 
 
 

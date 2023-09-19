@@ -32,7 +32,7 @@ We have separated our Smart #1 Pulse article into sections. If you want to wait 
 
 ## Performance
 
-The Smart #1 Pulse has a maximum power of 315KW (428hp). The total torque is 584nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 180 km/h. 
+The Smart #1 Pulse has a maximum power of 315KW (428hp). The total torque is 584nm. The 0-100km/h sprint (0-62mph) takes 4,5 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -74,7 +74,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 333mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. At low speeds, the one-pedal drive mode will keep the car creeping forward. You can adjust how strong regen you get when you lift the foot. There are two levels.
 
 ## Exterior
 
