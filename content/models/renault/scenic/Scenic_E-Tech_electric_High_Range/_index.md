@@ -79,7 +79,7 @@ Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
-You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
+There is only one roof for this model. exterior.roof.standard.panoramic.FullFixed.ElectrochromicPattern
 
 The windows from B-pillar and back are tinted. 
 
@@ -186,7 +186,7 @@ You can choose between two sound systems on the Renault Scenic E-Tech electric H
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Renault Scenic E-Tech electric High Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-
+The model has 6 USB-C connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the Renault Scenic E-Tech electric High Range. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
