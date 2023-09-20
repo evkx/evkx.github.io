@@ -96,6 +96,8 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
+The windows from B-pillar and back are tinted. 
+
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1.jpg">
