@@ -7,15 +7,22 @@ weight: 3
 
 Understanding the technology behind EVs is crucial for anyone looking to own, operate, or simply learn more about these vehicles. In this technology section, we will delve into the different technologies that power EVs, explaining how they work and their benefits and limitations. By the end of this section, you will have a comprehensive understanding of the technology that drives the future of transportation.
 
-## Battery
+Quicklinks to intro
 
-[![Battery](https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterypacks.jpg)](battery)
-
-EV batteries are responsible for storing the energy that powers the vehicle's electric motor, and they play a critical role in determining an EV's performance, range, and overall cost.
-
-In this article, we will explore the different types of EV batteries, how they work, their advantages and disadvantages, and the latest developments in EV battery technology. We will also discuss the environmental impact of EV batteries. If you go throug all articles in this section, you will better understand the current state and future prospects of EV batteries and their role in the transition to a more sustainable transportation system.
-
-[Read our battery technology article](battery/)
+- [Advanced Driver Assistance systems (ADAS)](#advanced-driver-assistance-systems-adas)
+- [Battery](#battery)
+- [Charging](#charging)
+- [Climate system](#climate-system)
+- [Doors](#doors)
+- [Electric motors](#electric-motors)
+- [Sensors \& Cameras](#sensors--cameras)
+- [Suspension](#suspension)
+- [Airbags](#airbags)
+- [Seats](#seats)
+- [User Interface](#user-interface)
+- [Lights](#lights)
+- [Regenerative braking](#regenerative-braking)
+- [Brakes](#brakes)
 
 ## Advanced Driver Assistance systems (ADAS)
 
@@ -30,17 +37,47 @@ By the end of this article, you will have a better understanding of the importan
 
 [Read our advanced driver assist systems technology article](driverassistance)
 
-## Suspension
+## Battery
 
-[![Suspension](https://media.evkx.net/multimedia/technology/suspension/mcphersonfront_1_st.jpg)](suspension)
+[![Battery](https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterypacks.jpg)](battery)
 
-One of the key aspects of EVs is their suspension system, which plays a crucial role in providing a smooth and comfortable ride, as well as ensuring safety and stability. In this article, we will delve into the world of EV suspension systems and explore the different types of suspension used in EVs. We will discuss how these systems work, their benefits, and the challenges they face.
+EV batteries are responsible for storing the energy that powers the vehicle's electric motor, and they play a critical role in determining an EV's performance, range, and overall cost.
 
-We will also look at some of the latest developments and innovations in EV suspension technology, such as active and air suspension, and how they are improving the ride quality and performance of EVs. Additionally, we will examine the role of suspension in enhancing the efficiency and range of EVs, and the potential for future improvements in this area.
+In this article, we will explore the different types of EV batteries, how they work, their advantages and disadvantages, and the latest developments in EV battery technology. We will also discuss the environmental impact of EV batteries. If you go throug all articles in this section, you will better understand the current state and future prospects of EV batteries and their role in the transition to a more sustainable transportation system.
 
-By the end of this article, you will have a better understanding of the importance of suspension in EVs, and how advancements in this technology are shaping the future of transportation.
+[Read our battery technology article](battery/)
 
-[Read our suspension technology article](suspension/)
+## Charging
+
+Electric vehicles (EVs) are becoming more popular and affordable but require a different refueling method than conventional cars. Instead of filling up a gas tank, EVs must plug into a charging station and recharge their batteries.
+
+However, not all EVs and charging stations are compatible. Different charging ports and connectors vary by region, speed, and standards.
+
+[Read our charging technology article](charging/)
+
+## Climate system
+
+Climate systems in cars refer to the HVAC (Heating, Ventilation, and Air Conditioning) systems that are designed to regulate the temperature, humidity, and air quality inside the vehicle cabin for passenger comfort.
+
+These systems typically consist of various components, including a heat pump, which play a crucial role in providing a comfortable cabin environment.
+
+[Read our climate system technology article](hvac/)
+
+## Doors
+
+Doors are essential parts of cars that allow passengers and drivers to enter and exit the vehicle, as well as secure the interior from unauthorized access.
+
+Doors also integrate side windows for visibility and ventilation, and may have other features such as mirrors, handles, locks, speakers, and storage compartments. Depending on the design and style of the car, doors may vary in size, shape, location, and mechanism.
+
+[Read our doors technology article](doors/)
+
+## Electric motors
+
+[![Suspension](https://media.evkx.net/multimedia/technology/motors/asmmotorq8etron_st.jpg)](motors)
+
+Electric motors are the heart of any electric vehicle (EV), converting electrical energy into mechanical energy to propel the vehicle. As the demand for EVs continues to grow, there is an increasing need to understand the different types of electric motors used in these vehicles and their advantages and limitations. In this article, we will explore the various types of electric motors used in EVs, how they work, and the pros and cons of each type.
+
+[Read our electric motors technology article](motors)
 
 ## Sensors & Cameras
 
@@ -56,13 +93,22 @@ By the end of this article, you will have a better understanding of the importan
 
 [Read our sensors and cameras technology article](sensorsandcameras)
 
-## Electric motors
+## Suspension
 
-[![Suspension](https://media.evkx.net/multimedia/technology/motors/asmmotorq8etron_st.jpg)](motors)
+[![Suspension](https://media.evkx.net/multimedia/technology/suspension/mcphersonfront_1_st.jpg)](suspension)
 
-Electric motors are the heart of any electric vehicle (EV), converting electrical energy into mechanical energy to propel the vehicle. As the demand for EVs continues to grow, there is an increasing need to understand the different types of electric motors used in these vehicles and their advantages and limitations. In this article, we will explore the various types of electric motors used in EVs, how they work, and the pros and cons of each type.
+One of the key aspects of EVs is their suspension system, which plays a crucial role in providing a smooth and comfortable ride, as well as ensuring safety and stability. In this article, we will delve into the world of EV suspension systems and explore the different types of suspension used in EVs. We will discuss how these systems work, their benefits, and the challenges they face.
 
-[Read our electric motors technology article](motors)
+We will also look at some of the latest developments and innovations in EV suspension technology, such as active and air suspension, and how they are improving the ride quality and performance of EVs. Additionally, we will examine the role of suspension in enhancing the efficiency and range of EVs, and the potential for future improvements in this area.
+
+By the end of this article, you will have a better understanding of the importance of suspension in EVs, and how advancements in this technology are shaping the future of transportation.
+
+[Read our suspension technology article](suspension/)
+
+
+
+
+
 
 ## Airbags
 
