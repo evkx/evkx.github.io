@@ -115,8 +115,7 @@ Because of the high cost of creating a new EV platform, there are serveral examp
 
 - The Hyundai E-GMP platform (Electric Global Modular Platform)  is used on Hyundai [Ioniq 5](../../models/hyundai/ioniq_5/) and [Ioniq 6](../../models/hyundai/ioniq_6/) and KIA [EV6](../../models/kia/ev6/) and [EV9](../../models/kia/ev9/)
 - Volkswagen MEB platform is used on Volkswagen ID.3 ID.4 ID.5 ID.Buzz, Audi Q4, Skoda Enyaq, Cupra Born & Tavascan, Ford Explorer
-
-
+- Geely SEA1 (Sustainable Experience Architecture platform) is used by Polestar 4 and 5, Zeekr 001 and 009, Volvo Ex90
 
 
 ## Conclusion
