@@ -15,6 +15,7 @@ Quicklinks to intro
 - [Climate system](#climate-system)
 - [Doors](#doors)
 - [Electric motors](#electric-motors)
+- [EV Platforms](#ev-platforms)
 - [Sensors \& Cameras](#sensors--cameras)
 - [Suspension](#suspension)
 - [Airbags](#airbags)
@@ -78,6 +79,12 @@ Doors also integrate side windows for visibility and ventilation, and may have o
 Electric motors are the heart of any electric vehicle (EV), converting electrical energy into mechanical energy to propel the vehicle. As the demand for EVs continues to grow, there is an increasing need to understand the different types of electric motors used in these vehicles and their advantages and limitations. In this article, we will explore the various types of electric motors used in EVs, how they work, and the pros and cons of each type.
 
 [Read our electric motors technology article](motors)
+
+## EV Platforms
+
+Building an EV is more complex than replacing a combustion engine with an electric motor and a battery pack. EVs require a different approach to design, engineering, and manufacturing, which is where EV platforms come in.
+
+[Read or EV platform technology article](platforms)
 
 ## Sensors & Cameras
 
