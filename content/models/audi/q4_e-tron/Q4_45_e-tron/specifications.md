@@ -217,7 +217,7 @@ This model is available with a seat configuration with five seats.
 |----|-----|
 |Android Auto support|Yes (Smartphone Interface), optional equipment (option IU1 )|
 |Apple Carplay support|Yes (Smartphone Interface), optional equipment (option IU1 )|
-|In Car navigation|Yes (MMI Navigation plus), optional equipment|
+|In Car navigation|Yes (MMI Navigation plus), standard equipment|
 |Number of avaiable sound systems|2|
 
 ### Audi Sound system

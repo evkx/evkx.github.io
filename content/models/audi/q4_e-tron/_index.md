@@ -43,6 +43,19 @@ Audi Q4 45 e-tron quattro is an all-electric premium SUV with a WLTP range of up
 - [Audi Q4 45 e-tron quattro image gallery](/models/audi/q4_e-tron/q4_45_e-tron_quattro/gallery)
 - [Audi Q4 45 e-tron quattro reviews](/models/audi/q4_e-tron/q4_45_e-tron_quattro/reviews)
 
+## Audi Q4 45 e-tron quattro (GEN1)
+
+<a href="/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/"><img src="" width="800" height="0" alt="Q4 45 e-tron quattro" ></a>
+
+Audi Q4 45 e-tron quattro (GEN1) is an all-electric premium SUV with a WLTP range of up to 512 km (318 miles). EVKX.net have all the details. 
+
+- [Audi Q4 45 e-tron quattro (GEN1) article](/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/)
+- [Audi Q4 45 e-tron quattro (GEN1) Range & consumption info](/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/rangeandconsumption)
+- [Audi Q4 45 e-tron quattro (GEN1) Charging curve and performance](/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/chargingcurve)
+- [Audi Q4 45 e-tron quattro (GEN1) full specifications](/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/specifications)
+- [Audi Q4 45 e-tron quattro (GEN1) image gallery](/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/gallery)
+- [Audi Q4 45 e-tron quattro (GEN1) reviews](/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/reviews)
+
 ## Audi Q4 45 e-tron
 
 <a href="/models/audi/q4_e-tron/q4_45_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron/main_1_st.jpg" width="800" height="532" alt="Q4 45 e-tron" ></a>

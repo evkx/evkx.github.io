@@ -1,22 +1,14 @@
 ---
-title: Audi Q4 45 e-tron quattro
-linktitle: "Q4 45 e-tron quattro"
-description: "Audi Q4 45 e-tron quattro is an all-electric premium SUV with a WLTP range of up to 512 km (318 miles). EVKX.net have all the details. "
+title: Audi Q4 45 e-tron quattro (GEN1)
+linktitle: "Q4 45 e-tron quattro GEN1"
+description: "Audi Q4 45 e-tron quattro (GEN1) is an all-electric premium SUV with a WLTP range of up to 512 km (318 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/main_1_st.jpg" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro" width="680" height="452">
-</a>
-<figcaption><h4>Audi Q4 45 e-tron quattro</h4></figcaption></figur>
-
-We have separated our Audi Q4 45 e-tron quattro article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Audi Q4 45 e-tron quattro (GEN1) article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -32,7 +24,7 @@ We have separated our Audi Q4 45 e-tron quattro article into sections. If you wa
 
 ## Performance
 
-The Audi Q4 45 e-tron quattro has a maximum power of 195KW (265hp). The total torque is 425nm. The 0-100km/h sprint (0-62mph) takes 6,9 seconds. The top speed is 180 km/h. 
+The Audi Q4 45 e-tron quattro (GEN1) has a maximum power of 195KW (265hp). The total torque is 425nm. The 0-100km/h sprint (0-62mph) takes 6,9 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -52,29 +44,21 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/battery_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/battery_1_st.jpg" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro" width="680" height="400">
-</a>
-<figcaption><h4>Audi Q4 45 e-tron quattro</h4></figcaption></figur>
-
-
 {{<evkxdisplayaddarticle />}}
 
 
 
 ## Drivetrain
 
-Audi Q4 45 e-tron quattro has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
+Audi Q4 45 e-tron quattro (GEN1) has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
 The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
 
-You can order Audi Q4 45 e-tron quattro with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm. 
+You can order Audi Q4 45 e-tron quattro (GEN1) with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm. 
 
 ### Steering
 
-Dynamic steering is optional on the Audi Q4 45 e-tron quattro. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is optional on the Audi Q4 45 e-tron quattro (GEN1). Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -99,14 +83,6 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 You can order the car with tinted windows from B-pillar and back. 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/exterior_1_st.jpg" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro" width="680" height="510">
-</a>
-<figcaption><h4>Audi Q4 45 e-tron quattro</h4></figcaption></figur>
-
-
 {{<evkxdisplayaddarticle />}}
 
 
@@ -117,7 +93,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are two seat types you can choose from for the front row in the Audi Q4 45 e-tron quattro. 
+There are two seat types you can choose from for the front row in the Audi Q4 45 e-tron quattro (GEN1). 
 
 The following functionalities are available on the **standard** seat. 
 
@@ -143,30 +119,14 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 
 
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/frontseats_1_st.jpg" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro" width="680" height="452">
-</a>
-<figcaption><h4>Audi Q4 45 e-tron quattro</h4></figcaption></figur>
-
-
 ### Second-row seats
 
-You can choose two seat types for the second row in the Audi Q4 45 e-tron quattro. 
+You can choose two seat types for the second row in the Audi Q4 45 e-tron quattro (GEN1). 
 
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
 
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
-
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/secondrowseats_1_st.jpg" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro" width="680" height="453">
-</a>
-<figcaption><h4>Audi Q4 45 e-tron quattro</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. 
@@ -177,7 +137,7 @@ You can choose from two different climate systems. The 1-zone climate system sup
 
 ## Comfort
 
-Audi Q4 45 e-tron quattro has several features to make your life as a driver or passenger more comfortable. 
+Audi Q4 45 e-tron quattro (GEN1) has several features to make your life as a driver or passenger more comfortable. 
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
 
@@ -193,54 +153,38 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Audi Q4 45 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/screens_1_st.jpg" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro" width="680" height="382">
-</a>
-<figcaption><h4>Audi Q4 45 e-tron quattro</h4></figcaption></figur>
-
+Audi Q4 45 e-tron quattro (GEN1) has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
-You can choose between two sound systems on the Audi Q4 45 e-tron quattro. With the Audi Sound system, you get eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten speakers with a max system output of 580 watts. 
+You can choose between two sound systems on the Audi Q4 45 e-tron quattro (GEN1). With the Audi Sound system, you get eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten speakers with a max system output of 580 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 45 e-tron quattro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 45 e-tron quattro (GEN1) supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
 ## Lights
 
-You can choose between two types of headlights for the Audi Q4 45 e-tron quattro. The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/headlights_1_st.jpg" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro" width="680" height="454">
-</a>
-<figcaption><h4>Audi Q4 45 e-tron quattro</h4></figcaption></figur>
-
+You can choose between two types of headlights for the Audi Q4 45 e-tron quattro (GEN1). The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 
 ## Advanced driver assistance systems
 
-The Audi Q4 45 e-tron quattro has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Audi Q4 45 e-tron quattro (GEN1) has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps the driver to drive preemptively and save energy. 
 ### Safety systems
 
 
 
-The Audi Q4 45 e-tron quattro has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Audi Q4 45 e-tron quattro (GEN1) has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Audi Q4 45 e-tron quattro has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Audi Q4 45 e-tron quattro (GEN1) has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Audi Q4 45 e-tron quattro has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Audi Q4 45 e-tron quattro (GEN1) has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
@@ -248,7 +192,7 @@ The Audi Q4 45 e-tron quattro has an [**automatic emergency braking**](../../../
 
 ### Driving Automation
 
-The Audi Q4 45 e-tron quattro offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+The Audi Q4 45 e-tron quattro (GEN1) offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features. 
 - Cruise control. 
@@ -258,7 +202,6 @@ With the   level 1 system, you get the following driving automation features.
 With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
 
 {{<evkxdisplayaddarticle />}}
@@ -270,12 +213,4 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
-
-
-<figur>
-<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/trunk_1_st.jpg" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro" width="680" height="509">
-</a>
-<figcaption><h4>Audi Q4 45 e-tron quattro</h4></figcaption></figur>
-
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

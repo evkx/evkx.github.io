@@ -10,7 +10,7 @@ weight: 2
 
 Audi is continuously expanding its electric vehicle fleet and will only launch all-electric models from 2026. The e-roadmap also stipulates the gradual phasing out of the production of vehicles with combustion engines by 2033. 
 
-Audi has 4 models with total 23 variants. [Read all about them](audi/)
+Audi has 4 models with total 24 variants. [Read all about them](audi/)
 
 ## BMW
 

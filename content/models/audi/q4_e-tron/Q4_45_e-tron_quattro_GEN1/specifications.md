@@ -1,13 +1,12 @@
 ---
-title: Audi Q4 45 e-tron quattro specifications
+title: Audi Q4 45 e-tron quattro (GEN1) specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Audi Q4 45 e-tron quattro."
+description: "EVKX.net gives you the full specifications for Audi Q4 45 e-tron quattro (GEN1)."
 weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Audi Q4 45 e-tron quattro](https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro/main_1_st.jpg)](../)
-EVKX.net seeks to have the most complete specifications for Audi Q4 45 e-tron quattro. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q4 45 e-tron quattro, visit the [chargeinfo](../chargecurve/) for Audi Q4 45 e-tron quattro with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net seeks to have the most complete specifications for Audi Q4 45 e-tron quattro (GEN1). Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q4 45 e-tron quattro (GEN1), visit the [chargeinfo](../chargecurve/) for Audi Q4 45 e-tron quattro (GEN1) with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -217,7 +216,7 @@ This model is available with a seat configuration with five seats.
 |----|-----|
 |Android Auto support|Yes (Smartphone Interface), optional equipment (option IU1 )|
 |Apple Carplay support|Yes (Smartphone Interface), optional equipment (option IU1 )|
-|In Car navigation|Yes (MMI Navigation plus), standard equipment|
+|In Car navigation|Yes (MMI Navigation plus), optional equipment|
 |Number of avaiable sound systems|2|
 
 ### Audi Sound system
