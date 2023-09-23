@@ -11,19 +11,21 @@ Quicklinks to intro
 
 - [Advanced Driver Assistance systems (ADAS)](#advanced-driver-assistance-systems-adas)
 - [Battery](#battery)
+- [Brakes](#brakes)
 - [Charging](#charging)
 - [Climate system](#climate-system)
 - [Doors](#doors)
 - [Electric motors](#electric-motors)
 - [EV Platforms](#ev-platforms)
-- [Sensors \& Cameras](#sensors--cameras)
-- [Suspension](#suspension)
-- [Airbags](#airbags)
-- [Seats](#seats)
-- [User Interface](#user-interface)
 - [Lights](#lights)
 - [Regenerative braking](#regenerative-braking)
-- [Brakes](#brakes)
+- [Sensors \& Cameras](#sensors--cameras)
+- [Suspension](#suspension)
+- [Safety](#safety)
+- [Seats](#seats)
+- [Sensors \& cameras](#sensors--cameras-1)
+- [Tires \& Wheels](#tires--wheels)
+- [User Interface](#user-interface)
 
 ## Advanced Driver Assistance systems (ADAS)
 
@@ -47,6 +49,15 @@ EV batteries are responsible for storing the energy that powers the vehicle's el
 In this article, we will explore the different types of EV batteries, how they work, their advantages and disadvantages, and the latest developments in EV battery technology. We will also discuss the environmental impact of EV batteries. If you go throug all articles in this section, you will better understand the current state and future prospects of EV batteries and their role in the transition to a more sustainable transportation system.
 
 [Read our battery technology article](battery/)
+
+## Brakes
+
+[![Lights](https://media.evkx.net/multimedia/technology/brakes/ceramicetrongt_st.jpg)](brakes)
+
+As electric vehicles (EVs) continue to grow in popularity, the demand for high-performance braking systems has increased. Brakes are a crucial safety feature in any vehicle, but with the unique characteristics of EVs, such as regenerative braking, specialized brake systems are necessary. In this article, we will explore the different types of brakes used on EVs, including ceramic brakes, steel brakes, drum brakes, and more. We will delve into the advantages and disadvantages of each type, as well as their specific applications in EVs. Join us as we take a deep dive into the world of EV braking systems.
+
+[Read our brake technology article](brakes)
+
 
 ## Charging
 
@@ -94,6 +105,21 @@ Building an EV is more complex than replacing a combustion engine with an electr
 
 [Read or EV platform technology article](platforms)
 
+## Lights
+
+[![Lights](https://media.evkx.net/multimedia/technology/lights/digitalmatrixetron_st.jpg)](lights)
+
+Electric vehicles (EVs) are revolutionizing the way we think about transportation, and with this revolution comes a whole new world of lighting technology. Lights are an essential component of any vehicle, but in the case of EVs, they serve a dual purpose: to improve visibility for the driver and make the vehicle more visible to other drivers and pedestrians. In this article, we will explore the various types of lights used in EVs, from traditional LED lights to advanced technologies like laser lights and adaptive headlights. We will also delve into the importance of ambient lights, rear lights, and other relevant lights in EVs. Join us on a journey through the fascinating world of EV lighting technology.
+
+
+## Regenerative braking
+
+[![Regen](https://media.evkx.net/multimedia/technology/regen/illustration1.jpg)](regen)
+
+Electric vehicles (EVs) are becoming increasingly popular due to their eco-friendly nature and low operating costs. One of the unique features of EVs is regenerative braking, a system that converts the kinetic energy of the vehicle's motion into electrical energy to recharge the battery. Regenerative braking not only improves the vehicle's efficiency and range but also reduces wear and tear on the brakes. In this article, we will explore the science behind regenerative braking and how it works in EVs. We will also examine the benefits and limitations of this braking system and its impact on the overall performance of EVs. Join us as we delve into the fascinating world of regenerative braking in electric vehicles.
+
+[Read our regenerative braking technology article](regen)
+
 ## Sensors & Cameras
 
 [![Suspension](https://media.evkx.net/multimedia/technology/sensorsandcameras/illustrationsensors_st.jpg)](sensorsandcameras)
@@ -120,18 +146,13 @@ By the end of this article, you will have a better understanding of the importan
 
 [Read our suspension technology article](suspension/)
 
-
-
-
-
-
-## Airbags
+## Safety 
 
 [![Suspension](https://media.evkx.net/multimedia/technology/safety/illustration_st.jpg)](safety)
 
 Airbags are a critical safety feature in modern vehicles, including electric vehicles (EVs). These devices are designed to protect occupants in the event of a collision, reducing the risk of serious injury or death. With the growing popularity of EVs, it's essential to understand the different types of airbags available, their locations, and how they work. In this extensive article, we will explore the different types of airbags used in EVs, their placement within the vehicle, and the benefits of their locations. We will also examine the role of airbags in improving overall vehicle safety and reducing the severity of injuries in the event of an accident.
 
-[Read our airbags technology article](safety)
+[Read our safety technology article](safety)
 
 ## Seats
 
@@ -142,6 +163,27 @@ Electric vehicles (EVs) have revolutionized the way we think about transportatio
 One area where we see rapid innovation is in seat technology, with EVs boasting a range of features that go beyond traditional power adjustment. In this article, we will explore the various seat technologies used in EVs, including electric adjustment, memory seats, side bolster adjustment, massage functions, ventilation, and other advanced features.
 
 We will delve into how these technologies work and the benefits they provide, giving you a comprehensive understanding of the seat features available in modern EVs.
+
+## Sensors & cameras
+
+[![Sensors & Cameras](https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/lidarvolvoex90_3.jpg)](sensorsandcameras)
+
+Sensors and cameras are very important on modern cars because they play a key role in many of the advanced driver assistance systems. EVKX.net gives you details about the different types used in EVs.
+
+There are various types of technologies used for sensors in modern cars, depending on the specific application and the sensor’s requirements.
+
+[Read our sensors & cameras technology article](sensorsandcameras)
+
+## Tires & Wheels
+
+[![Tires & Wheels](https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_1.jpg)](wheels)
+
+Tires are one of the most critical components of a car, as they affect its performance, safety, comfort, and efficiency.
+
+Choosing the right tires and wheels for your car depends on several factors, such as the type of car, the driving conditions, the weather, and your personal preferences. In this article, we will explain the difference between types of tires & wheels, the sizes of tires & wheels, and the special tires & wheels for electric vehicles (EVs).
+
+[Read our tires & wheels technology article](wheels)
+
 
 ## User Interface
 
@@ -155,22 +197,4 @@ Understanding these features and how they work together can help drivers make in
 
 [Read our user interface technology article](userinterface)
 
-## Lights
 
-[![Lights](https://media.evkx.net/multimedia/technology/lights/digitalmatrixetron_st.jpg)](lights)
-
-Electric vehicles (EVs) are revolutionizing the way we think about transportation, and with this revolution comes a whole new world of lighting technology. Lights are an essential component of any vehicle, but in the case of EVs, they serve a dual purpose: to improve visibility for the driver and make the vehicle more visible to other drivers and pedestrians. In this article, we will explore the various types of lights used in EVs, from traditional LED lights to advanced technologies like laser lights and adaptive headlights. We will also delve into the importance of ambient lights, rear lights, and other relevant lights in EVs. Join us on a journey through the fascinating world of EV lighting technology.
-
-## Regenerative braking
-
-Electric vehicles (EVs) are becoming increasingly popular due to their eco-friendly nature and low operating costs. One of the unique features of EVs is regenerative braking, a system that converts the kinetic energy of the vehicle's motion into electrical energy to recharge the battery. Regenerative braking not only improves the vehicle's efficiency and range but also reduces wear and tear on the brakes. In this article, we will explore the science behind regenerative braking and how it works in EVs. We will also examine the benefits and limitations of this braking system and its impact on the overall performance of EVs. Join us as we delve into the fascinating world of regenerative braking in electric vehicles.
-
-[Read our regenerative braking technology article](brakes)
-
-## Brakes
-
-[![Lights](https://media.evkx.net/multimedia/technology/brakes/ceramicetrongt_st.jpg)](brakes)
-
-As electric vehicles (EVs) continue to grow in popularity, the demand for high-performance braking systems has increased. Brakes are a crucial safety feature in any vehicle, but with the unique characteristics of EVs, such as regenerative braking, specialized brake systems are necessary. In this article, we will explore the different types of brakes used on EVs, including ceramic brakes, steel brakes, drum brakes, and more. We will delve into the advantages and disadvantages of each type, as well as their specific applications in EVs. Join us as we take a deep dive into the world of EV braking systems.
-
-[Read our brake technology article](brakes)
