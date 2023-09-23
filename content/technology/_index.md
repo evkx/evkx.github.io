@@ -50,6 +50,8 @@ In this article, we will explore the different types of EV batteries, how they w
 
 ## Charging
 
+[![Charging](https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/charging_1_st.jpg)](charging)
+
 Electric vehicles (EVs) are becoming more popular and affordable but require a different refueling method than conventional cars. Instead of filling up a gas tank, EVs must plug into a charging station and recharge their batteries.
 
 However, not all EVs and charging stations are compatible. Different charging ports and connectors vary by region, speed, and standards.
@@ -58,6 +60,8 @@ However, not all EVs and charging stations are compatible. Different charging po
 
 ## Climate system
 
+[![Climate system](https://media.evkx.net/multimedia/technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg)](hvac)
+
 Climate systems in cars refer to the HVAC (Heating, Ventilation, and Air Conditioning) systems that are designed to regulate the temperature, humidity, and air quality inside the vehicle cabin for passenger comfort.
 
 These systems typically consist of various components, including a heat pump, which play a crucial role in providing a comfortable cabin environment.
@@ -65,6 +69,8 @@ These systems typically consist of various components, including a heat pump, wh
 [Read our climate system technology article](hvac/)
 
 ## Doors
+
+[![Doors](https://media.evkx.net/multimedia/technology/doors/xpengp7wingdoors_1_st.jpg)](doors)
 
 Doors are essential parts of cars that allow passengers and drivers to enter and exit the vehicle, as well as secure the interior from unauthorized access.
 
@@ -81,6 +87,8 @@ Electric motors are the heart of any electric vehicle (EV), converting electrica
 [Read our electric motors technology article](motors)
 
 ## EV Platforms
+
+[![Suspension](https://media.evkx.net/multimedia/technology/platforms/e-golf_1_st.jpg)](platforms)
 
 Building an EV is more complex than replacing a combustion engine with an electric motor and a battery pack. EVs require a different approach to design, engineering, and manufacturing, which is where EV platforms come in.
 
