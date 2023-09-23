@@ -45,10 +45,10 @@ The two examples below show how the manufacturer located the battery and other E
 
 ## Hybrid
 
-Manufacturers design hybrid platforms to accommodate different types of powertrains, such as ICE, plug-in hybrid, or pure electric. This approach gives carmakers more flexibility to adjust to market demand and customer preferences. However, it also has some disadvantages, such as:
+Legacy automakers with a large customer base often design hybrid platforms to accommodate different types of powertrains, such as ICE, plug-in hybrid, or pure electric. This approach gives carmakers more flexibility to adjust to market demand and customer preferences. However, it also has some disadvantages, such as:
 
 - Increased complexity: Hybrid platforms must account for various scenarios and configurations, which may increase the engineering and manufacturing challenges.
-- Reduced optimization: Hybrid platforms must balance the trade-offs between different powertrains, which may prevent them from achieving the best possible performance or range for each type.
+- Reduced optimization: Hybrid platforms must balance the trade-offs between different powertrains, which may prevent them from achieving the best possible performance or range for each type. This could be needing to have a larger front to fit a ICE engine or shorter wheelbase because of ICE motor.
 - Higher weight: Hybrid platforms must carry extra components and systems for different powertrains, which may add to the vehicle’s weight and reduce efficiency.
 
 Some examples of EVs that use hybrid platforms are:
@@ -80,9 +80,13 @@ Below, you see how the CLAR platform underpins the different variants of the BMW
     <figcaption><h4>BMW i7 with hybrid platform. This in EV configuration</h4></figcaption>
 </figur>
 
-## Dedicated with reuse of parts
+## Dedicated with shared components
 
-Some EVs are built on platforms that the carmakers build as dedicated EV platforms but reuse some parts from existing platforms. These platforms are designed specifically for electric vehicles from the ground up but also incorporate some components or systems from conventional internal combustion engine (ICE) platforms. Manufacturers may take this approach to save costs, reduce development time, or leverage existing expertise.
+Some EVs are built on platforms that the carmakers build as dedicated EV platforms but reuse some parts from existing platforms. 
+
+These platforms are designed specifically for electric vehicles from the ground up but also incorporate some components or systems from conventional internal combustion engine (ICE) platforms.
+
+Manufacturers may take this approach to save costs, reduce development time, or leverage existing expertise.
 
 The parts reused typically do not negatively affect the design of features of the EV.
 
@@ -125,12 +129,9 @@ Some examples of EVs that use dedicated platforms are:
 - Hyundai Ioniq 5: The first Hyundai model from its Ioniq sub-brand is built on Hyundai's E-GMP platform, which promises fast charging, long range, bi-directional power supply, and high performance.
 - Volkswagen ID.3 and ID.4: The first Volkswagen EVs are built on Volkswagen's MEB platform.
 
-Because of the high cost of creating a new EV platform, there are serveral examples of sharing between brands.
+Because of the high cost of creating a new EV platform, there are serveral examples of sharing between brands. See examples in the platform overview in the last section of this article.
 
-- The Hyundai E-GMP platform (Electric Global Modular Platform)  is used on Hyundai [Ioniq 5](../../models/hyundai/ioniq_5/) and [Ioniq 6](../../models/hyundai/ioniq_6/) and KIA [EV6](../../models/kia/ev6/) and [EV9](../../models/kia/ev9/)
-- Volkswagen MEB platform is used on Volkswagen [ID.3](../../models/volkswagen/id.3/), [ID.4](../../models/volkswagen/id.4/),  [ID.5](../../models/volkswagen/id.5/), 
-[ID.7](../../models/volkswagen/id.7/), [ID.BUZZ](../../models/volkswagen/id.buzz/), [Audi Q4 e-tron](../../models/audi/q4_e-tron/), [Skoda Enyaq](../../models/skoda/enyaq_iv/), [Cupra Born](../../models/cupra/born/) & [Tavascan](../../models/cupra/tavascan/), Ford Explorer
-- Geely SEA1 (Sustainable Experience Architecture platform) is used by [Polestar 3](../../models/polestar/3) and [4](../../models/polestar/4/), [Zeekr 001](../../models/zeekr/001/) and 009, [Volvo EX90](../../models/volvo/ex90/)
+Below you see examples of use of the scalable MEB platform made by the Volkswagen group. When an EV platform is scalable, it means that it can be easily adapted and modified to fit different types of electric vehicles, such as sedans, SUVs, or trucks. A scalable EV platform allows carmakers to use the same basic structure and components for various models and sizes of EVs, without having to redesign the chassis or the battery pack. This can save costs, reduce development time, and increase efficiency. A scalable EV platform can also be adjusted to meet different customer preferences and market demands, such as performance, range, or features. 
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/platforms/idbuzz_1.jpg">
@@ -139,10 +140,35 @@ Because of the high cost of creating a new EV platform, there are serveral examp
     <figcaption><h4>Volkswagen ID.Buzz with MEB dedicated EV platform</h4></figcaption>
 </figur>
 
-
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/platforms/q4_1.jpg">
     <img src="https://media.evkx.net/multimedia/technology/platforms/q4_1_st.jpg" alt="Audi Q4 e-tron with MEB dedicated EV platform" title="Audi Q4 e-tron with MEB dedicated EV platform">
     </a>
     <figcaption><h4>Audi Q4 e-tron with MEB dedicated EV platform</h4></figcaption>
 </figur>
+
+Volkswagen is working on a new platform called SSP (Scalable Systems Platform). This platform will underpin all
+Volkswagen group models in the future. [Read more at electrichasgoneaudi.net](https://electrichasgoneaudi.net/technology/bev-platforms/ssp/)
+
+## Platform overview
+
+The following table shows the most common EV platforms used on models the latest years.
+
+|Platform | Type | EVs built on platform |
+|------|-----|--------|
+| Audi / Porsche PPE | Dedicated | Audi Q6 e-tron<br> Audi A6 e-tron<br> Porsche Macan EV<br> Porsche Cayenne EV |
+| Audi / Porsche  J1 Performance | Dedicated | [Audi e-tron GT](../../models/audi/e-tron_gt/)<br> [Porsche Taycan](../../models/porsche/taycan/) |
+| Audi MLB EVO | Dedicated w/shared components | [Audi e-tron](../../models/audi/e-tron/)<br> [Audi Q8 e-tron](../../models/audi/q8_e-tron/) | 
+| BMW CLAR | Hybrid | [BMW i4](../../models/bmw/i4/) <br> [BMW i5](../../models/bmw/i5/) <br> [BMW i7](../../models/bmw/i7/) |
+| BMW FAAR | Hybrid | [BMW iX1](../../models/bmw/ix1/) <br> [BMW iX3](../../models/bmw/ix3) |
+| BMW CLAR WE | Dedicated w/shared components | [BMW iX](../../models/bmw/ix/) |
+| Geely SEA1 | Dedicated | [Polestar 3](../../models/polestar/3) <br> [Polestar 4](../../models/polestar/4) <br> [Zeekr 001](../../models/zeekr/001/)<br> Zeekr 009<br> [Volvo EX90](../../models/volvo/ex90/) |
+| Geely SEA2 | Dedicated | [Volvo EX30](../../models/volvo/ex30/)<br> [Smart #1](../../models/smart/hash1/)<br> [Smart #3](../../models/smart/hash3)<br>[Zeekr X](../../models/zeekr/x/) |
+| Geely SEA-S | Dedicated | [Lotus Eletre](../../models/lotus/eletre/)<br> Lotus Emeya |
+| Hyundai E-GMP | Dedicated | [Hyundai Ioniq 5](../../models/hyundai/ioniq_5/)<br> [Hyundai Ioniq 6](../../models/hyundai/ioniq_6/)<br> [KIA EV6](../../models/kia/ev6/)<br> [KIA EV9](../../models/kia/ev9/)<br> |
+| Mercedes EVA 2.0 | Dedicated | [Mercedes EQE](../../models/mercedes/eqe/)<br> [Mercedes EQE SUV](../../models/mercedes/eqe_suv/)<br> [Mercedes EQS](../../models/mercedes/eqs/)<br> [Mercedes EQS SUV](../../models/mercedes/eqs_suv/)| 
+| Renault-Nissan-Mitsubishi CMF-EV | Dedicated | [Renault Megane](../../models/renault/megane)<br> [Renault Scenic](../../models/renault/scenic/)<br> [Nissan Aryia](../../models/nissan/ariya/)|
+| Tesla Model 3/Y platform | Dedicated | Tesla Model 3<br> Tesla Model Y |
+| Tesla Model S/X platform | Dedicated | Tesla Model S<br> Tesla Model X |
+| Volkswagen MEB | Dedicated | [Volkswagen ID.3](../../models/volkswagen/id.3/)<br> [Volkswagen ID.4](../../models/volkswagen/id.4/)<br> [Volkswagen ID.5](../../models/volkswagen/id.5/)<br> [Volkswagen ID.7](../../models/volkswagen/id.7/)<br> [Volkswagen ID.Buzz](../../models/volkswagen/id._buzz/)<br> [Audi Q4 e-tron](../../models/audi/q4_e-tron/)<br>Audi Q5 e-tron<br> [Cupra Born](../../models/cupra/born/)<br> [Cupra Tavascan](../../models/cupra/tavascan/) <br> Ford Explorer|
+ 
