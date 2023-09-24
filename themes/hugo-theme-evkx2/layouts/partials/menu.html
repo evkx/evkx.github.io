@@ -1,0 +1,99 @@
+
+<aside class="bd-sidebar">
+  <div class="offcanvas-lg offcanvas-start" tabindex="-1" id="bdSidebar" aria-labelledby="bdSidebarOffcanvasLabel">
+    <div class="offcanvas-header border-bottom">
+      <h5 class="offcanvas-title" id="bdSidebarOffcanvasLabel">Browse evkx.net</h5>
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"
+        data-bs-target="#evkxSidebar"></button>
+    </div>
+    <div class="offcanvas-body">
+    {{ $currentNode := . }}
+      <nav class="links w-100" id="bd-docs-nav" aria-label="Docs navigation">
+        <ul class="links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
+          {{if eq .Site.Params.ordersectionsby "title"}}
+            {{range .Site.Home.Sections.ByTitle}}
+            {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode }}
+          {{end}}
+            {{else}}
+              {{range .Site.Home.Sections.ByWeight}}
+              {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode }}
+            {{end}}
+          {{end}}
+
+          {{with .Site.Menus.shortcuts}}
+
+          {{ range sort . "Weight"}}
+          <li>
+            {{.Pre}}
+            <a href="{{.RelPermalink}}">{{safeHTML .Name}}</a>
+            {{.Post}}
+          </li>
+          {{end}}
+
+          {{end}}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</aside>
+
+
+<!-- templates -->
+{{ define "section-tree-nav" }}
+{{ $currentNode := .currentnode }}
+{{with .sect}}
+{{if .IsSection}}
+{{safeHTML .Params.head}}
+<li class="links-group py-2">
+  <a href="{{ .RelPermalink}}" class="evkx-links-link d-inline-block rounded">
+    {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}
+
+    {{if .Params.titleSup }}
+      <sup>{{.Params.titleSup}}</sup>
+    {{end}}
+
+    {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
+
+    {{ if ne $numberOfPages 0 }}
+
+    {{ end }}
+  </a>
+  {{ if ne $numberOfPages 0 }}
+  <ul class="list fw-normal pb-2 small">
+    {{ .Scratch.Set "pages" .Pages }}
+    {{ if .Sections}}
+      {{ .Scratch.Set "pages" (.Pages | union .Sections) }}
+    {{end}}
+    {{ $pages := (.Scratch.Get "pages") }}
+
+    {{if eq .Site.Params.ordersectionsby "title"}}
+      {{ range $pages.ByTitle }}
+    {{ if and .Params.hidden (not $.showhidden) }}
+      {{else}}
+      {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode }}
+    {{end}}
+    {{ end }}
+    {{else}}
+    {{ range $pages.ByWeight }}
+    {{ if and .Params.hidden (not $.showhidden) }}
+    {{else}}
+    {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode }}
+    {{end}}
+    {{ end }}
+    {{end}}
+  </ul>
+  {{ end }}
+</li>
+{{else}}
+{{ if not .Params.Hidden }}
+<li data-nav-id="{{.RelPermalink}}" class="dd-item
+       {{if eq .File.UniqueID $currentNode.File.UniqueID}}active{{end}}
+        ">
+  <a href="{{ .RelPermalink}}">
+    {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}
+  </a>
+</li>
+{{ end }}
+{{end}}
+{{ end }}
+{{ end }}
