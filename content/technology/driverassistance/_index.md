@@ -1,8 +1,8 @@
 ---
 title: Advanced driver-assistance systems
-linktitle: Driver Assistance
+linktitle: ADAS
 description: Advanced driver-assistance system (ADAS) technologies are designed to help drivers operate their vehicles more safely and efficiently. EVKX.net gives you details about the different systems in EVs.
-weight: 3
+weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 Several types of advanced driver-assistance systems are available in modern cars, and each one works differently to improve driving performance and safety.
