@@ -8,6 +8,14 @@ hidden: true
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="modelnavigation.svg"></object>
 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/main_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/main_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="452">
+</a>
+<figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
+
 We have separated our Audi Q4 45 e-tron quattro (GEN1) article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
 - [Performance](#performance)
@@ -43,6 +51,14 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/battery_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/battery_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="400">
+</a>
+<figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -83,6 +99,14 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 You can order the car with tinted windows from B-pillar and back. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/exterior_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/exterior_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="510">
+</a>
+<figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -119,6 +143,14 @@ You can choose from 4 different materials/colors for this seat type. <br />
 <br />
 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/frontseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/frontseats_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="452">
+</a>
+<figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
+
+
 ### Second-row seats
 
 You can choose two seat types for the second row in the Audi Q4 45 e-tron quattro (GEN1). 
@@ -127,6 +159,14 @@ The standard option is a three-seat bench with a 60:40 split where you can fold 
 
 
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
+
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/secondrowseats_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="453">
+</a>
+<figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
 
 
 There is only one type of steering wheel available. 
@@ -155,6 +195,14 @@ You have wireless charging for your phone.
 
 Audi Q4 45 e-tron quattro (GEN1) has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
 
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/screens_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/screens_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="382">
+</a>
+<figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
+
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
@@ -167,6 +215,14 @@ The model has 2 USB-C connections as standard. As an option you can get addition
 ## Lights
 
 You can choose between two types of headlights for the Audi Q4 45 e-tron quattro (GEN1). The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="454">
+</a>
+<figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
+
 ## Advanced driver assistance systems
 
 The Audi Q4 45 e-tron quattro (GEN1) has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -213,4 +269,12 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
+
+
+<figur>
+<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/trunk_1.jpg">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/trunk_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="509">
+</a>
+<figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
+
 <object type="image/svg+xml" data="modelnavigation.svg"></object>

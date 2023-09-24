@@ -8,6 +8,10 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Jeep Avenger range test 24.09.2023
+
+{{< youtube ZcO0UbNRY0k >}}
+
 ### Kris Rifa: Jeep Avenger | Range Test 22.09.2023
 
 {{< youtube jnWpyCLQJHg >}}

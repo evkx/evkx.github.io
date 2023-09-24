@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 ---
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
+[![Audi Q4 45 e-tron quattro (GEN1)](https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/main_1_st.jpg)](../)
 EVKX.net seeks to have the most complete specifications for Audi Q4 45 e-tron quattro (GEN1). Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q4 45 e-tron quattro (GEN1), visit the [chargeinfo](../chargecurve/) for Audi Q4 45 e-tron quattro (GEN1) with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
