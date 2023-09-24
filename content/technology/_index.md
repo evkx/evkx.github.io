@@ -1,13 +1,17 @@
 ---
 title: EV Technology
 linktitle: Technology
-description: Electric vehicles (EVs) are rapidly becoming an increasingly popular mode of transportation due to their sustainability, efficiency, and technological advancements. EVs rely on a range of technologies to function, including electric motors, batteries, advanced driver assistance systems (ADAS), suspension systems, and safety features. 
+description: EVs are built using various technologies to function, including electric motors, batteries, advanced driver assistance systems (ADAS), suspension systems, and safety features.
 weight: 3
 ---
 
-Understanding the technology behind EVs is crucial for anyone looking to own, operate, or simply learn more about these vehicles. In this technology section, we will delve into the different technologies that power EVs, explaining how they work and their benefits and limitations. By the end of this section, you will have a comprehensive understanding of the technology that drives the future of transportation.
+This technology section will delve into the different technologies that power EVs, explaining how they work and their benefits and limitations.
 
-Quicklinks to intro
+If you go through every subsection, you will have a comprehensive understanding of the technology that drives the future of transportation.
+
+The technology articles target anyone wanting to learn more about EV technology, from the potential EV owner wanting to understand how stuff works to sales personnel wishing to know how EVs work.
+
+You will find quick links to each section introduction below, or you can scroll down the page. 
 
 - [Advanced Driver Assistance systems (ADAS)](#advanced-driver-assistance-systems-adas)
 - [Brakes](#brakes)
