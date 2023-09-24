@@ -18,18 +18,16 @@
       window.dataLayer = window.dataLayer || [];
       function gtag() { dataLayer.push(arguments); }
       gtag('js', new Date());
-
       gtag('config', 'G-KYF7FS1DDJ');
     </script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
-      crossorigin="anonymous"></script>
-
-    {{ partial "custom-head2.html" . }}
+      crossorigin="anonymous">
+    </script>
   </head>
   <body data-url="{{ .RelPermalink }}">
     {{ partial "navbar.html" . }}
 
-    <div class="container-xxl bd-gutter mt-3 my-md-4 bd-layout">
+    <div class="container">
       <div>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
           crossorigin="anonymous"></script>
@@ -51,20 +49,11 @@
           <div id="top-bar">
             
 
-            <div id="breadcrumbs">
-                <span id="sidebar-toggle-span" class="adocs-sidebarToggle">
-                  <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
-                    <i class="fa fa-bars"></i>
-                    <span class="sr-only">Vis/skjul meny</span>
-                  </a>
-                </span>
-                <span class="links">
-                  {{if eq .Kind "taxonomy"}}
-                    <a href="/docs/tags/">Tags</a> /
-                  {{end}}
-                  {{ template "breadcrumb" dict "page" . "value" .LinkTitle }}
-                </span>
-            </div>
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb">
+                {{ template "breadcrumb" dict "page" . "value" .LinkTitle }}
+              </ol>
+            </nav>
           </div>
         {{end}}
         {{if .Params.tags }}
@@ -95,10 +84,10 @@
           {{ end }}
 
 {{define "breadcrumb"}}
-{{ if .page.Parent}}
-{{$value := (printf "<a href='%s'>%s</a> <span class='adocs-breadcrumb-divider'> / </span> %s" .page.Parent.RelPermalink .page.Parent.LinkTitle .value)}}
-{{ template "breadcrumb" dict "page" .page.Parent "value" $value }} 
-{{else}}
- {{.value|safeHTML}}
-{{end}}
+  {{ if .page.Parent}}
+    {{$value := (printf "<li class='breadcrumb-item'><a href='%s'>%s</a></li> %s" .page.Parent.RelPermalink .page.Parent.LinkTitle .value)}}
+    {{ template "breadcrumb" dict "page" .page.Parent "value" $value }} 
+  {{else}}
+   {{.value|safeHTML}}
+  {{end}}
 {{end}}
