@@ -17,15 +17,14 @@ Quicklinks to intro
 - [EV Batteries](#ev-batteries)
 - [EV Platforms](#ev-platforms)
 - [Glass Panel roof](#glass-panel-roof)
-- [Interior](#interior)
 - [Infotainment system](#infotainment-system)
+- [Interior](#interior)
 - [Lights](#lights)
 - [Motors \& Drive Units](#motors--drive-units)
 - [Regenerative braking](#regenerative-braking)
-- [Sensors \& Cameras](#sensors--cameras)
 - [Safety](#safety)
 - [Seats](#seats)
-- [Sensors \& cameras](#sensors--cameras-1)
+- [Sensors \& cameras](#sensors--cameras)
 - [Suspension](#suspension)
 - [Tires \& Wheels](#tires--wheels)
 - [User Interface](#user-interface)
@@ -114,13 +113,6 @@ A glass panel roof allows for natural light and ventilation to enter the car and
 
 [Read our glass panel roof technology article](glassroof)
 
-
-## Interior
-
-[![Interior](https://media.evkx.net/multimedia/technology/interior/cockpitdesign/hiphixcockpit_1_st.jpg)](Interior)
-
-
-
 ## Infotainment system
 
 [![Infotainment](https://media.evkx.net/multimedia/technology/infotainment/teslamodelxinfotainment_st.jpg)](infotainment)
@@ -128,6 +120,18 @@ A glass panel roof allows for natural light and ventilation to enter the car and
 Infotainment systems have become a standard feature in most modern cars. They combine entertainment and information functionalities, providing drivers access to music, navigation, communication, and vehicle controls.
 
 [Read our infotainment sytem technology article](glassroof)
+
+
+
+
+## Interior
+
+[![Interior](https://media.evkx.net/multimedia/technology/interior/cockpitdesign/hiphixcockpit_1_st.jpg)](interior)
+
+Electric vehicles (EVs) are not only transforming the way we drive, but also the way we design car interiors. EVs offer new possibilities and challenges for car interior designers, who have to balance functionality, comfort, aesthetics, and sustainability.
+
+
+[Read our infotainment sytem technolog article](glassroof)
 
 
 ## Lights
@@ -156,21 +160,6 @@ Electric motors are the heart of any electric vehicle (EV), converting electrica
 Electric vehicles (EVs) are becoming increasingly popular due to their eco-friendly nature and low operating costs. One of the unique features of EVs is regenerative braking, a system that converts the kinetic energy of the vehicle's motion into electrical energy to recharge the battery. Regenerative braking not only improves the vehicle's efficiency and range but also reduces wear and tear on the brakes. In this article, we will explore the science behind regenerative braking and how it works in EVs. We will also examine the benefits and limitations of this braking system and its impact on the overall performance of EVs. Join us as we delve into the fascinating world of regenerative braking in electric vehicles.
 
 [Read our regenerative braking technology article](regen)
-
-## Sensors & Cameras
-
-[![Suspension](https://media.evkx.net/multimedia/technology/sensorsandcameras/illustrationsensors_st.jpg)](sensorsandcameras)
-
-Modern electric vehicles (EVs) rely on advanced sensors and cameras to provide a range of safety and convenience features, as well as enabling semi-autonomous and autonomous driving capabilities.
-
-These sensors and cameras are crucial components of the EV's advanced driver assistance systems (ADAS), allowing the vehicle to "see" its surroundings and react to changes in real-time. In this article, we will explore the different types of sensors and cameras used in EVs, including LiDAR, radar, ultrasonic sensors, and cameras.
-
-We will discuss how these technologies work, their advantages and disadvantages, and how they are integrated into the EV's overall architecture. Additionally, we will examine the future of sensor and camera technology in EVs, including the potential for fully autonomous driving and the role of artificial intelligence in improving safety and efficiency.
-
-By the end of this article, you will have a better understanding of the importance of sensors and cameras in EVs, and how they are helping to shape the future of transportation.
-
-[Read our sensors and cameras technology article](sensorsandcameras)
-
 
 ## Safety 
 
