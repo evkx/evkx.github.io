@@ -6,7 +6,7 @@
   <div class="offcanvas-body">
   {{ $currentNode := . }}
     <nav class="links w-100" id="bd-docs-nav" aria-label="Docs navigation">
-      <ul class="links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
+      <ul class="links-nav list-unstyled">
         {{if eq .Site.Params.ordersectionsby "title"}}
           {{range .Site.Home.Sections.ByTitle}}
           {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode }}
@@ -39,7 +39,7 @@
 {{with .sect}}
 {{if .IsSection}}
 {{safeHTML .Params.head}}
-<li class="links-group py-2">
+<li>
   <a href="{{ .RelPermalink}}" class="evkx-links-link d-inline-block rounded">
     {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}
 
@@ -47,7 +47,7 @@
       <sup>{{.Params.titleSup}}</sup>
     {{end}}
 
-    {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
+    {{ $numberOfPages :=  (len (where .Pages "Params.hidden" "ne" true)) }}
 
     {{ if ne $numberOfPages 0 }}
 
@@ -56,9 +56,9 @@
   {{ if ne $numberOfPages 0 }}
   <ul class="list fw-normal pb-2 small">
     {{ .Scratch.Set "pages" .Pages }}
-    {{ if .Sections}}
-      {{ .Scratch.Set "pages" (.Pages | union .Sections) }}
-    {{end}}
+      {{ if .Sections}}
+        {{ .Scratch.Set "pages" (.Pages | union .Sections) }}
+      {{end}}
     {{ $pages := (.Scratch.Get "pages") }}
 
     {{if eq .Site.Params.ordersectionsby "title"}}
@@ -89,6 +89,6 @@
   </a>
 </li>
 {{ end }}
-{{end}}
+{{ end }}
 {{ end }}
 {{ end }}
