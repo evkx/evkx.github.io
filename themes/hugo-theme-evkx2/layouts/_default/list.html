@@ -5,13 +5,11 @@
 {{ $finalContent := .Content | replaceRE $regExpIn $regExpOut | safeHTML }}
 {{ $finalContent }}
 
-<footer class=" footline" >
-	{{with .Params.LastModifierDisplayName}}
-	    <i class='fa fa-user'></i> <a href="mailto:{{ $.Params.LastModifierEmail }}">{{ . }}</a> {{with $.Date}} <i class='fa fa-calendar'></i> {{ .Format "02/01/2006" }}{{end}}
-	    </div>
-	{{end}}
-</footer>
-
+    </div>
+    <div class="col-0 col-xl-4 col-xxl-5 bg-dark">
+      Column
+    </div>
+  </div>
 
 {{if not .Content }}
 	{{ $paginator := .Paginator }}
