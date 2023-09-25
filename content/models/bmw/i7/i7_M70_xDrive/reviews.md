@@ -8,4 +8,7 @@ hidden: true
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### Out of Spec Reviews: I Drive The Incredible BMW i7 M70 EV For The First Time! The Ultimate 7 Series 25.09.2023
+
+{{< youtube __T6SNGsF2Y >}}
+
