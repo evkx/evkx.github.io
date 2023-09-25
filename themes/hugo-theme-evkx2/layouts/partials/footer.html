@@ -14,33 +14,24 @@
               {{ end }}
             {{ end }}
 
-        </section>
-
-
-        </div> <!-- End col-sm-12 -->
-      </div> <!-- End row -->
-    </div>
-    </div> <!-- End container -->
-
-    {{ partial "footer-content.html" . }}
-
-    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
-      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
-    </div>
-
-    <script src="{{"js/bootstrap.js" | relURL}}"></script>
-
-    <script>
-      var a = new StickySidebar('#sidebar', {
-        topSpacing: 20,
-        bottomSpacing: 60,
-        containerSelector: '.adocs-scrollcontainer',
-        innerWrapperSelector: '.sidebar__inner',
-        minWidth: 768
-      });
-    </script>
-
-    {{ partial "custom-footer.html" . }}
-  </div>
+          </main>
+          <footer class="container bg-dark">          
+              <ul class="nav justify-content-center">
+                <li class="nav-item">
+                  <a class="nav-link" href="https://www.facebook.com/evkx.net">Facebook</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://www.youtube.com/channel/UCQ1Q_faRR0AF0gAZABvcKFw">Youtube</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://www.instagram.com/evkxnet/">Instagram</a>
+                </li>
+              </ul>
+              <a class="navbar-brand" href="/">
+                <img class="img-fluid mx-auto d-block" src="/images/evkxblacktrans_m.png" alt="EVKX logo">
+              </a>
+          </footer>
+        </div> <!-- End container -->
+    <script src="js/bootstrap.js"></script>
   </body>
 </html>

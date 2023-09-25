@@ -26,9 +26,8 @@
   </head>
   <body data-url="{{ .RelPermalink }}">
     {{ partial "navbar.html" . }}
-
     <div class="container">
-      <div>
+      <div class="container bg-primary-subtle">
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
           crossorigin="anonymous"></script>
         <!-- EVKX Top Display Add -->
@@ -38,17 +37,12 @@
           (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
       </div>
-
-
-    {{ partial "menu.html" . }}
-        <section id="body">
-          <div id="content" class="adocs-content js-moveChildrenTo">
-        <div id="overlay"></div>
-        <div class="a-text">
+      <aside>
+        {{ partial "menu.html" . }}
+      </aside>
+      <main class="bg-light">
         {{if not .IsHome}}
           <div id="top-bar">
-            
-
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
                 {{ template "breadcrumbleaf" dict "page" . "value" .LinkTitle }}
