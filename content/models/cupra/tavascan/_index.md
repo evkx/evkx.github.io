@@ -6,7 +6,7 @@ weight: 30
 ---
 ## CUPRA Tavascan Endurance
 
-<a href="/models/cupra/tavascan/tavascan_endurance/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_endurance/main_1_st.JPG" width="800" height="446" alt="Tavascan Endurance" ></a>
+<a href="/models/cupra/tavascan/tavascan_endurance/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_endurance/main_1_st.JPG" class="img-fluid" alt="Tavascan Endurance" ></a>
 
 CUPRA Tavascan Endurance is an all-electric SUV with a WLTP range of up to 547 km (340 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ CUPRA Tavascan Endurance is an all-electric SUV with a WLTP range of up to 547 k
 
 ## CUPRA Tavascan VZ
 
-<a href="/models/cupra/tavascan/tavascan_vz/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" width="800" height="446" alt="Tavascan VZ" ></a>
+<a href="/models/cupra/tavascan/tavascan_vz/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" class="img-fluid" alt="Tavascan VZ" ></a>
 
 CUPRA Tavascan VZ is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net have all the details. 
 

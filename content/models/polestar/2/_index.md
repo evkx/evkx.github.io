@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Polestar 2 Long Range Dual Motor
 
-<a href="/models/polestar/2/2_long_range_dual_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" width="800" height="600" alt="2 Long Range Dual Motor" ></a>
+<a href="/models/polestar/2/2_long_range_dual_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" class="img-fluid" alt="2 Long Range Dual Motor" ></a>
 
 Polestar 2 Long Range Dual Motor is an all-electric sedan with a WLTP range of up to 592 km (368 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Polestar 2 Long Range Dual Motor is an all-electric sedan with a WLTP range of u
 
 ## Polestar 2 Long Range Dual Motor Performance
 
-<a href="/models/polestar/2/2_long_range_dual_motor_performance/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/main_1_st.jpg" width="800" height="600" alt="2 Long Range Dual Motor Performance" ></a>
+<a href="/models/polestar/2/2_long_range_dual_motor_performance/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/main_1_st.jpg" class="img-fluid" alt="2 Long Range Dual Motor Performance" ></a>
 
 Polestar 2 Long Range Dual Motor Performance is an all-electric sedan with a WLTP range of up to 592 km (368 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Polestar 2 Long Range Dual Motor Performance is an all-electric sedan with a WLT
 
 ## Polestar 2 Long Range Single Motor
 
-<a href="/models/polestar/2/2_long_range_single_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg" width="800" height="600" alt="2 Long Range Single Motor" ></a>
+<a href="/models/polestar/2/2_long_range_single_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg" class="img-fluid" alt="2 Long Range Single Motor" ></a>
 
 Polestar 2 Long Range Single Motor is an all-electric sedan with a WLTP range of up to 635 km (395 miles). EVKX.net have all the details. 
 

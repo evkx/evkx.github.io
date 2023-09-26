@@ -9,28 +9,28 @@ Tesla's EV models have been at the forefront of the electric vehicle revolution,
 
 ## Tesla Model 3
 
-<a href="model_3"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg" width="800" height="533" alt="Tesla Model 3" ></a>
+<a href="model_3"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg" class="img-fluid" alt="Tesla Model 3" ></a>
 
 This model is available in 5 variant(s). 
 [Read full details](model_3/)
 
 ## Tesla Model S
 
-<a href="model_s"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" width="800" height="600" alt="Tesla Model S" ></a>
+<a href="model_s"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" class="img-fluid" alt="Tesla Model S" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](model_s/)
 
 ## Tesla Model X
 
-<a href="model_x"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" width="800" height="600" alt="Tesla Model X" ></a>
+<a href="model_x"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" class="img-fluid" alt="Tesla Model X" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](model_x/)
 
 ## Tesla Model Y
 
-<a href="model_y"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" width="800" height="600" alt="Tesla Model Y" ></a>
+<a href="model_y"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" class="img-fluid" alt="Tesla Model Y" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](model_y/)

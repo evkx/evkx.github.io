@@ -6,7 +6,7 @@ weight: 30
 ---
 ## BMW i5 eDrive40
 
-<a href="/models/bmw/i5/i5_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1_st.jpg" width="800" height="600" alt="i5 eDrive40" ></a>
+<a href="/models/bmw/i5/i5_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1_st.jpg" class="img-fluid" alt="i5 eDrive40" ></a>
 
 BMW i5 eDrive40 is an all-electric premium sedan with a WLTP range of up to 581 km (361 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ BMW i5 eDrive40 is an all-electric premium sedan with a WLTP range of up to 581 
 
 ## BMW i5 M60 xDrive
 
-<a href="/models/bmw/i5/i5_m60_xdrive/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_st.jpg" width="800" height="600" alt="i5 M60 xDrive" ></a>
+<a href="/models/bmw/i5/i5_m60_xdrive/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_st.jpg" class="img-fluid" alt="i5 M60 xDrive" ></a>
 
 BMW i5 M60 xDrive is an all-electric premium sedan with a WLTP range of up to 515 km (320 miles). EVKX.net have all the details. 
 

@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Volkswagen ID.4 GTX 4MOTION
 
-<a href="/models/volkswagen/id.4/id.4_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg" width="800" height="533" alt="ID.4 GTX 4MOTION" ></a>
+<a href="/models/volkswagen/id.4/id.4_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.4 GTX 4MOTION" ></a>
 
 Volkswagen ID.4 GTX 4MOTION is an all-electric SUV with a WLTP range of up to 496 km (308 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Volkswagen ID.4 GTX 4MOTION is an all-electric SUV with a WLTP range of up to 49
 
 ## Volkswagen ID.4 Pro
 
-<a href="/models/volkswagen/id.4/id.4_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/main_1_st.jpg" width="800" height="487" alt="ID.4 Pro" ></a>
+<a href="/models/volkswagen/id.4/id.4_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/main_1_st.jpg" class="img-fluid" alt="ID.4 Pro" ></a>
 
 Volkswagen ID.4 Pro is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Volkswagen ID.4 Pro is an all-electric SUV with a WLTP range of up to 529 km (32
 
 ## Volkswagen ID.4 Pro 4MOTION
 
-<a href="/models/volkswagen/id.4/id.4_pro_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" width="800" height="533" alt="ID.4 Pro 4MOTION" ></a>
+<a href="/models/volkswagen/id.4/id.4_pro_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" class="img-fluid" alt="ID.4 Pro 4MOTION" ></a>
 
 Volkswagen ID.4 Pro 4MOTION is an all-electric SUV with a WLTP range of up to 510 km (317 miles). EVKX.net have all the details. 
 
@@ -45,7 +45,7 @@ Volkswagen ID.4 Pro 4MOTION is an all-electric SUV with a WLTP range of up to 51
 
 ## Volkswagen ID.4 Pro Performance
 
-<a href="/models/volkswagen/id.4/id.4_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/main_1_st.jpg" width="800" height="487" alt="ID.4 Pro Performance" ></a>
+<a href="/models/volkswagen/id.4/id.4_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/main_1_st.jpg" class="img-fluid" alt="ID.4 Pro Performance" ></a>
 
 Volkswagen ID.4 Pro Performance is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net have all the details. 
 

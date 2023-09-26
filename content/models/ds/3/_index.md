@@ -6,7 +6,7 @@ weight: 30
 ---
 ## DS 3 E-Tense
 
-<a href="/models/ds/3/3_e-tense/"><img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1_st.jpg" width="800" height="533" alt="3 E-Tense" ></a>
+<a href="/models/ds/3/3_e-tense/"><img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1_st.jpg" class="img-fluid" alt="3 E-Tense" ></a>
 
 DS 3 E-Tense is an all-electric crossover with a WLTP range of up to 402 km (250 miles). EVKX.net have all the details. 
 

@@ -9,7 +9,7 @@ Lexus has currently 1 all electric models with total 1 variants in the market. B
 
 ## Lexus RZ
 
-<a href="rz"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" width="800" height="533" alt="Lexus RZ" ></a>
+<a href="rz"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" class="img-fluid" alt="Lexus RZ" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](rz/)

@@ -6,7 +6,7 @@ weight: 30
 ---
 ## XPENG P7 AWD Performance
 
-<a href="/models/xpeng/p7/p7_awd_performance/"><img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_st.jpg" width="800" height="533" alt="P7 AWD Performance" ></a>
+<a href="/models/xpeng/p7/p7_awd_performance/"><img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_st.jpg" class="img-fluid" alt="P7 AWD Performance" ></a>
 
 XPENG P7 AWD Performance is an all-electric sedan with a WLTP range of up to 505 km (314 miles). EVKX.net have all the details. 
 

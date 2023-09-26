@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Mercedes-EQ EQC 400 4MATIC
 
-<a href="/models/mercedes/eqc/eqc_400_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" width="800" height="533" alt="EQC 400 4MATIC" ></a>
+<a href="/models/mercedes/eqc/eqc_400_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" class="img-fluid" alt="EQC 400 4MATIC" ></a>
 
 Mercedes-EQ EQC 400 4MATIC is an all-electric luxury SUV with a WLTP range of up to 432 km (268 miles). EVKX.net have all the details. 
 

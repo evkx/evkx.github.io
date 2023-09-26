@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Lucid Air Dream Edition Performance
 
-<a href="/models/lucid/air/air_dream_edition_performance/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg" width="800" height="533" alt="Air Dream Edition Performance" ></a>
+<a href="/models/lucid/air/air_dream_edition_performance/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg" class="img-fluid" alt="Air Dream Edition Performance" ></a>
 
 Lucid Air Dream Edition Performance is an all-electric sedan with a WLTP range of up to 861 km (535 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Lucid Air Dream Edition Performance is an all-electric sedan with a WLTP range o
 
 ## Lucid Air Dream Edition Range
 
-<a href="/models/lucid/air/air_dream_edition_range/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_st.jpg" width="800" height="533" alt="Air Dream Edition Range" ></a>
+<a href="/models/lucid/air/air_dream_edition_range/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_st.jpg" class="img-fluid" alt="Air Dream Edition Range" ></a>
 
 Lucid Air Dream Edition Range is an all-electric sedan with a WLTP range of up to 883 km (549 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Lucid Air Dream Edition Range is an all-electric sedan with a WLTP range of up t
 
 ## Lucid Air Grand Touring
 
-<a href="/models/lucid/air/air_grand_touring/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/main_1_st.jpg" width="800" height="533" alt="Air Grand Touring" ></a>
+<a href="/models/lucid/air/air_grand_touring/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/main_1_st.jpg" class="img-fluid" alt="Air Grand Touring" ></a>
 
 Lucid Air Grand Touring is an all-electric sedan with a WLTP range of up to 839 km (521 miles). EVKX.net have all the details. 
 
@@ -45,7 +45,7 @@ Lucid Air Grand Touring is an all-electric sedan with a WLTP range of up to 839 
 
 ## Lucid Air Sapphire
 
-<a href="/models/lucid/air/air_sapphire/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/main_1_st.jpg" width="800" height="533" alt="Air Sapphire" ></a>
+<a href="/models/lucid/air/air_sapphire/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/main_1_st.jpg" class="img-fluid" alt="Air Sapphire" ></a>
 
 Lucid Air Sapphire is an all-electric sedan with a EPA range of up to 687 km (427 miles). EVKX.net have all the details. 
 

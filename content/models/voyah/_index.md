@@ -9,7 +9,7 @@ The name Voyah comes from the word 'voyage' and reflects the brand's vision of p
 
 ## VOYAH FREE
 
-<a href="free"><img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_st.jpg" width="800" height="600" alt="VOYAH FREE" ></a>
+<a href="free"><img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_st.jpg" class="img-fluid" alt="VOYAH FREE" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](free/)

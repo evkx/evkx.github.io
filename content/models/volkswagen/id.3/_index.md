@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Volkswagen ID.3 Pro
 
-<a href="/models/volkswagen/id.3/id.3_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro/main_1_st.jpg" width="800" height="532" alt="ID.3 Pro" ></a>
+<a href="/models/volkswagen/id.3/id.3_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro/main_1_st.jpg" class="img-fluid" alt="ID.3 Pro" ></a>
 
 Volkswagen ID.3 Pro is an all-electric hatchback with a WLTP range of up to 427 km (265 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Volkswagen ID.3 Pro is an all-electric hatchback with a WLTP range of up to 427 
 
 ## Volkswagen ID.3 Pro S
 
-<a href="/models/volkswagen/id.3/id.3_pro_s/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" width="800" height="532" alt="ID.3 Pro S" ></a>
+<a href="/models/volkswagen/id.3/id.3_pro_s/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" class="img-fluid" alt="ID.3 Pro S" ></a>
 
 Volkswagen ID.3 Pro S is an all-electric hatchback with a WLTP range of up to 553 km (344 miles). EVKX.net have all the details. 
 

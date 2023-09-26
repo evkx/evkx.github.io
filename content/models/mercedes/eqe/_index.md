@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Mercedes-EQ EQE 300
 
-<a href="/models/mercedes/eqe/eqe_300/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1_st.jpg" width="800" height="449" alt="EQE 300" ></a>
+<a href="/models/mercedes/eqe/eqe_300/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1_st.jpg" class="img-fluid" alt="EQE 300" ></a>
 
 Mercedes-EQ EQE 300 is an all-electric luxury sedan with a WLTP range of up to 639 km (397 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Mercedes-EQ EQE 300 is an all-electric luxury sedan with a WLTP range of up to 6
 
 ## Mercedes-EQ EQE 350+
 
-<a href="/models/mercedes/eqe/eqe_350plus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/main_1_st.jpg" width="800" height="449" alt="EQE 350+" ></a>
+<a href="/models/mercedes/eqe/eqe_350plus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/main_1_st.jpg" class="img-fluid" alt="EQE 350+" ></a>
 
 Mercedes-EQ EQE 350+ is an all-electric luxury sedan with a WLTP range of up to 639 km (397 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Mercedes-EQ EQE 350+ is an all-electric luxury sedan with a WLTP range of up to 
 
 ## Mercedes-EQ EQE 350 4MATIC
 
-<a href="/models/mercedes/eqe/eqe_350_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350_4matic/main_1_st.jpg" width="800" height="449" alt="EQE 350 4MATIC" ></a>
+<a href="/models/mercedes/eqe/eqe_350_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350_4matic/main_1_st.jpg" class="img-fluid" alt="EQE 350 4MATIC" ></a>
 
 Mercedes-EQ EQE 350 4MATIC is an all-electric luxury sedan with a WLTP range of up to 597 km (371 miles). EVKX.net have all the details. 
 
@@ -45,7 +45,7 @@ Mercedes-EQ EQE 350 4MATIC is an all-electric luxury sedan with a WLTP range of 
 
 ## Mercedes-AMG EQE 43 4MATIC
 
-<a href="/models/mercedes/eqe/eqe_43_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/main_1_st.jpg" width="800" height="533" alt="EQE 43 4MATIC" ></a>
+<a href="/models/mercedes/eqe/eqe_43_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/main_1_st.jpg" class="img-fluid" alt="EQE 43 4MATIC" ></a>
 
 Mercedes-AMG EQE 43 4MATIC is an all-electric luxury sedan with a WLTP range of up to 533 km (331 miles). EVKX.net have all the details. 
 
@@ -58,7 +58,7 @@ Mercedes-AMG EQE 43 4MATIC is an all-electric luxury sedan with a WLTP range of 
 
 ## Mercedes-EQ EQE 500 4MATIC
 
-<a href="/models/mercedes/eqe/eqe_500_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/main_1_st.jpg" width="800" height="494" alt="EQE 500 4MATIC" ></a>
+<a href="/models/mercedes/eqe/eqe_500_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/main_1_st.jpg" class="img-fluid" alt="EQE 500 4MATIC" ></a>
 
 Mercedes-EQ EQE 500 4MATIC is an all-electric luxury sedan with a WLTP range of up to 596 km (370 miles). EVKX.net have all the details. 
 
@@ -71,7 +71,7 @@ Mercedes-EQ EQE 500 4MATIC is an all-electric luxury sedan with a WLTP range of 
 
 ## Mercedes-AMG EQE 53 4MATIC+
 
-<a href="/models/mercedes/eqe/eqe_53_4maticplus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/main_1_st.jpg" width="800" height="553" alt="EQE 53 4MATIC+" ></a>
+<a href="/models/mercedes/eqe/eqe_53_4maticplus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/main_1_st.jpg" class="img-fluid" alt="EQE 53 4MATIC+" ></a>
 
 Mercedes-AMG EQE 53 4MATIC+ is an all-electric luxury sedan with a WLTP range of up to 526 km (327 miles). EVKX.net have all the details. 
 

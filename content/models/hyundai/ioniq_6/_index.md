@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Hyundai Ioniq 6 Long Range AWD
 
-<a href="/models/hyundai/ioniq_6/ioniq_6_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" width="800" height="533" alt="Ioniq 6 Long Range AWD" ></a>
+<a href="/models/hyundai/ioniq_6/ioniq_6_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Ioniq 6 Long Range AWD" ></a>
 
 Hyundai Ioniq 6 Long Range AWD is an all-electric sedan with a WLTP range of up to 583 km (362 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Hyundai Ioniq 6 Long Range AWD is an all-electric sedan with a WLTP range of up 
 
 ## Hyundai Ioniq 6 Long Range RWD
 
-<a href="/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" width="800" height="533" alt="Ioniq 6 Long Range RWD" ></a>
+<a href="/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" class="img-fluid" alt="Ioniq 6 Long Range RWD" ></a>
 
 Hyundai Ioniq 6 Long Range RWD is an all-electric sedan with a WLTP range of up to 614 km (382 miles). EVKX.net have all the details. 
 

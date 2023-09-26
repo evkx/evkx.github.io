@@ -6,7 +6,7 @@ weight: 30
 ---
 ## BYD Han
 
-<a href="/models/byd/han/han/"><img src="https://media.evkx.net/multimedia/models/byd/han/han/main_1_st.jpg" width="800" height="450" alt="Han" ></a>
+<a href="/models/byd/han/han/"><img src="https://media.evkx.net/multimedia/models/byd/han/han/main_1_st.jpg" class="img-fluid" alt="Han" ></a>
 
 BYD Han is an all-electric sedan with a WLTP range of up to 521 km (324 miles). EVKX.net have all the details. 
 

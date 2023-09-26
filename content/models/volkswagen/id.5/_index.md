@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Volkswagen ID.5 GTX 4MOTION
 
-<a href="/models/volkswagen/id.5/id.5_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" width="800" height="533" alt="ID.5 GTX 4MOTION" ></a>
+<a href="/models/volkswagen/id.5/id.5_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.5 GTX 4MOTION" ></a>
 
 Volkswagen ID.5 GTX 4MOTION is an all-electric coupe SUV with a WLTP range of up to 496 km (308 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Volkswagen ID.5 GTX 4MOTION is an all-electric coupe SUV with a WLTP range of up
 
 ## Volkswagen ID.5 Pro Performance
 
-<a href="/models/volkswagen/id.5/id.5_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro_performance/main_1_st.jpg" width="800" height="533" alt="ID.5 Pro Performance" ></a>
+<a href="/models/volkswagen/id.5/id.5_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro_performance/main_1_st.jpg" class="img-fluid" alt="ID.5 Pro Performance" ></a>
 
 Volkswagen ID.5 Pro Performance is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net have all the details. 
 

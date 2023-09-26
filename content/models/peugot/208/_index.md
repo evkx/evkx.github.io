@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Peugot E-208
 
-<a href="/models/peugot/208/e-208/"><img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1_st.jpg" width="800" height="444" alt="E-208" ></a>
+<a href="/models/peugot/208/e-208/"><img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1_st.jpg" class="img-fluid" alt="E-208" ></a>
 
 Peugot E-208 is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
 

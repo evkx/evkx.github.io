@@ -9,7 +9,7 @@ Honda has a goal to achieve carbon neutrality for all its products and corporate
 
 ## Honda e:Ny1
 
-<a href="e_ny1"><img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/main_1_st.jpg" width="800" height="533" alt="Honda e:Ny1" ></a>
+<a href="e_ny1"><img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/main_1_st.jpg" class="img-fluid" alt="Honda e:Ny1" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](e_ny1/)

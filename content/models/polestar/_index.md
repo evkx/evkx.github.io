@@ -9,14 +9,14 @@ Polestar's EV strategy revolves around sustainability, technology, and performan
 
 ## Polestar 2
 
-<a href="2"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg" width="800" height="600" alt="Polestar 2" ></a>
+<a href="2"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg" class="img-fluid" alt="Polestar 2" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](2/)
 
 ## Polestar 3
 
-<a href="3"><img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" width="800" height="600" alt="Polestar 3" ></a>
+<a href="3"><img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" class="img-fluid" alt="Polestar 3" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](3/)

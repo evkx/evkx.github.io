@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Tesla Model Y Long Range
 
-<a href="/models/tesla/model_y/model_y_long_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" width="800" height="600" alt="Model Y Long Range" ></a>
+<a href="/models/tesla/model_y/model_y_long_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" class="img-fluid" alt="Model Y Long Range" ></a>
 
 Tesla Model Y Long Range is an all-electric coupe SUV with a WLTP range of up to 542 km (337 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Tesla Model Y Long Range is an all-electric coupe SUV with a WLTP range of up to
 
 ## Tesla Model Y Performance
 
-<a href="/models/tesla/model_y/model_y_performance/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_st.jpg" width="800" height="600" alt="Model Y Performance" ></a>
+<a href="/models/tesla/model_y/model_y_performance/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_st.jpg" class="img-fluid" alt="Model Y Performance" ></a>
 
 Tesla Model Y Performance is an all-electric coupe SUV with a WLTP range of up to 514 km (319 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Tesla Model Y Performance is an all-electric coupe SUV with a WLTP range of up t
 
 ## Tesla Model Y Standard Range
 
-<a href="/models/tesla/model_y/model_y_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_standard_range/main_1_st.jpg" width="800" height="600" alt="Model Y Standard Range" ></a>
+<a href="/models/tesla/model_y/model_y_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_standard_range/main_1_st.jpg" class="img-fluid" alt="Model Y Standard Range" ></a>
 
 Tesla Model Y Standard Range is an all-electric coupe SUV with a WLTP range of up to 430 km (267 miles). EVKX.net have all the details. 
 

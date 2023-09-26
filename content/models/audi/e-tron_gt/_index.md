@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Audi e-tron GT
 
-<a href="/models/audi/e-tron_gt/e-tron_gt/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg" width="800" height="533" alt="e-tron GT" ></a>
+<a href="/models/audi/e-tron_gt/e-tron_gt/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg" class="img-fluid" alt="e-tron GT" ></a>
 
 Audi e-tron GT is an all-electric luxury sedan with a WLTP range of up to 488 km (303 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Audi e-tron GT is an all-electric luxury sedan with a WLTP range of up to 488 km
 
 ## Audi RS e-tron GT
 
-<a href="/models/audi/e-tron_gt/rs_e-tron_gt/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" width="800" height="599" alt="RS e-tron GT" ></a>
+<a href="/models/audi/e-tron_gt/rs_e-tron_gt/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" class="img-fluid" alt="RS e-tron GT" ></a>
 
 Audi RS e-tron GT is an all-electric luxury sedan with a WLTP range of up to 495 km (308 miles). EVKX.net have all the details. 
 

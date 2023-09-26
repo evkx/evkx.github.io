@@ -9,21 +9,21 @@ Hyundai has currently 3 model with total 7 variants in the market.
 
 ## Hyundai Ioniq 5
 
-<a href="ioniq_5"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_st.jpg" width="800" height="533" alt="Hyundai Ioniq 5" ></a>
+<a href="ioniq_5"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_st.jpg" class="img-fluid" alt="Hyundai Ioniq 5" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](ioniq_5/)
 
 ## Hyundai Ioniq 6
 
-<a href="ioniq_6"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" width="800" height="533" alt="Hyundai Ioniq 6" ></a>
+<a href="ioniq_6"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Hyundai Ioniq 6" ></a>
 
 This model is available in 2 variant(s). 
 [Read full details](ioniq_6/)
 
 ## Hyundai Kona
 
-<a href="kona"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg" width="800" height="533" alt="Hyundai Kona" ></a>
+<a href="kona"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg" class="img-fluid" alt="Hyundai Kona" ></a>
 
 This model is available in 2 variant(s). 
 [Read full details](kona/)

@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Hyundai Ioniq 5 Long Range 2WD
 
-<a href="/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_st.jpg" width="800" height="533" alt="Ioniq 5 Long Range 2WD" ></a>
+<a href="/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_st.jpg" class="img-fluid" alt="Ioniq 5 Long Range 2WD" ></a>
 
 Hyundai Ioniq 5 Long Range 2WD is an all-electric crossover with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Hyundai Ioniq 5 Long Range 2WD is an all-electric crossover with a WLTP range of
 
 ## Hyundai Ioniq 5 Long Range AWD
 
-<a href="/models/hyundai/ioniq_5/ioniq_5_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_awd/main_1_st.jpg" width="800" height="533" alt="Ioniq 5 Long Range AWD" ></a>
+<a href="/models/hyundai/ioniq_5/ioniq_5_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Ioniq 5 Long Range AWD" ></a>
 
 Hyundai Ioniq 5 Long Range AWD is an all-electric crossover with a WLTP range of up to 481 km (299 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Hyundai Ioniq 5 Long Range AWD is an all-electric crossover with a WLTP range of
 
 ## Hyundai Ioniq 5 N
 
-<a href="/models/hyundai/ioniq_5/ioniq_5_n/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" width="800" height="533" alt="Ioniq 5 N" ></a>
+<a href="/models/hyundai/ioniq_5/ioniq_5_n/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" class="img-fluid" alt="Ioniq 5 N" ></a>
 
 Hyundai Ioniq 5 N is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net have all the details. 
 

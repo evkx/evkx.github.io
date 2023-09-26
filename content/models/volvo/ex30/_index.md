@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Volvo EX30 Twin Motor Performance
 
-<a href="/models/volvo/ex30/ex30_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" width="800" height="600" alt="EX30 Twin Motor Performance" ></a>
+<a href="/models/volvo/ex30/ex30_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" class="img-fluid" alt="EX30 Twin Motor Performance" ></a>
 
 Volvo EX30 Twin Motor Performance is an all-electric crossover with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Volvo EX30 Twin Motor Performance is an all-electric crossover with a WLTP range
 
 ## Volvo EX30 Single Motor
 
-<a href="/models/volvo/ex30/ex30_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1_st.jpg" width="800" height="600" alt="EX30 Single Motor" ></a>
+<a href="/models/volvo/ex30/ex30_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1_st.jpg" class="img-fluid" alt="EX30 Single Motor" ></a>
 
 Volvo EX30 Single Motor is an all-electric crossover with a WLTP range of up to 344 km (214 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Volvo EX30 Single Motor is an all-electric crossover with a WLTP range of up to 
 
 ## Volvo EX30 Single Motor Extended Range
 
-<a href="/models/volvo/ex30/ex30_single_motor_extended_range/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1_st.jpg" width="800" height="600" alt="EX30 Single Motor Extended Range" ></a>
+<a href="/models/volvo/ex30/ex30_single_motor_extended_range/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1_st.jpg" class="img-fluid" alt="EX30 Single Motor Extended Range" ></a>
 
 Volvo EX30 Single Motor Extended Range is an all-electric crossover with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. 
 

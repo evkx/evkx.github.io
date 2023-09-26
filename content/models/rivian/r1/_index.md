@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Rivian R1S Performance Dual-Motor AWD LP
 
-<a href="/models/rivian/r1/r1s_performance_dual-motor_awd_lp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/main_1_st.jpg" width="800" height="533" alt="R1S Performance Dual-Motor AWD LP" ></a>
+<a href="/models/rivian/r1/r1s_performance_dual-motor_awd_lp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/main_1_st.jpg" class="img-fluid" alt="R1S Performance Dual-Motor AWD LP" ></a>
 
 Rivian R1S Performance Dual-Motor AWD LP is an all-electric SUV with a EPA range of up to 515 km (320 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Rivian R1S Performance Dual-Motor AWD LP is an all-electric SUV with a EPA range
 
 ## Rivian R1S Quad-Motor AWD
 
-<a href="/models/rivian/r1/r1s_quad-motor_awd/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg" width="800" height="533" alt="R1S Quad-Motor AWD" ></a>
+<a href="/models/rivian/r1/r1s_quad-motor_awd/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg" class="img-fluid" alt="R1S Quad-Motor AWD" ></a>
 
 Rivian R1S Quad-Motor AWD is an all-electric SUV with a EPA range of up to 516 km (321 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Rivian R1S Quad-Motor AWD is an all-electric SUV with a EPA range of up to 516 k
 
 ## Rivian R1T Quad-Motor AWD
 
-<a href="/models/rivian/r1/r1t_quad-motor_awd/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" width="800" height="533" alt="R1T Quad-Motor AWD" ></a>
+<a href="/models/rivian/r1/r1t_quad-motor_awd/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" class="img-fluid" alt="R1T Quad-Motor AWD" ></a>
 
 Rivian R1T Quad-Motor AWD is an all-electric Pickup Truck with a EPA range of up to 516 km (321 miles). EVKX.net have all the details. 
 

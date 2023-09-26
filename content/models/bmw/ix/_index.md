@@ -6,7 +6,7 @@ weight: 30
 ---
 ## BMW iX xDrive40
 
-<a href="/models/bmw/ix/ix_xdrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg" width="800" height="532" alt="iX xDrive40" ></a>
+<a href="/models/bmw/ix/ix_xdrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg" class="img-fluid" alt="iX xDrive40" ></a>
 
 BMW iX xDrive40 is an all-electric luxury SUV with a WLTP range of up to 425 km (264 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ BMW iX xDrive40 is an all-electric luxury SUV with a WLTP range of up to 425 km 
 
 ## BMW iX xDrive50
 
-<a href="/models/bmw/ix/ix_xdrive50/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/main_1_st.jpg" width="800" height="532" alt="iX xDrive50" ></a>
+<a href="/models/bmw/ix/ix_xdrive50/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/main_1_st.jpg" class="img-fluid" alt="iX xDrive50" ></a>
 
 BMW iX xDrive50 is an all-electric luxury SUV with a WLTP range of up to 631 km (392 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ BMW iX xDrive50 is an all-electric luxury SUV with a WLTP range of up to 631 km 
 
 ## BMW iX M60
 
-<a href="/models/bmw/ix/ix_m60/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/main_1_st.jpg" width="800" height="533" alt="iX M60" ></a>
+<a href="/models/bmw/ix/ix_m60/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/main_1_st.jpg" class="img-fluid" alt="iX M60" ></a>
 
 BMW iX M60 is an all-electric luxury SUV with a WLTP range of up to 561 km (349 miles). EVKX.net have all the details. 
 

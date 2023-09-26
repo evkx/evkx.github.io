@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Fisker Ocean Extreme
 
-<a href="/models/fisker/ocean/ocean_extreme/"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" width="800" height="533" alt="Ocean Extreme" ></a>
+<a href="/models/fisker/ocean/ocean_extreme/"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" class="img-fluid" alt="Ocean Extreme" ></a>
 
 Fisker Ocean Extreme is an all-electric crossover with a WLTP range of up to 707 km (439 miles). EVKX.net have all the details. 
 

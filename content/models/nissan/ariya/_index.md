@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Nissan Ariya 63kWh
 
-<a href="/models/nissan/ariya/ariya_63kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" width="800" height="503" alt="Ariya 63kWh" ></a>
+<a href="/models/nissan/ariya/ariya_63kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" class="img-fluid" alt="Ariya 63kWh" ></a>
 
 Nissan Ariya 63kWh is an all-electric crossover with a WLTP range of up to 403 km (250 miles). EVKX.net have all the details. 
 
@@ -19,7 +19,7 @@ Nissan Ariya 63kWh is an all-electric crossover with a WLTP range of up to 403 k
 
 ## Nissan Ariya 87kWh
 
-<a href="/models/nissan/ariya/ariya_87kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/main_1_st.jpg" width="800" height="503" alt="Ariya 87kWh" ></a>
+<a href="/models/nissan/ariya/ariya_87kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/main_1_st.jpg" class="img-fluid" alt="Ariya 87kWh" ></a>
 
 Nissan Ariya 87kWh is an all-electric crossover with a WLTP range of up to 533 km (331 miles). EVKX.net have all the details. 
 
@@ -32,7 +32,7 @@ Nissan Ariya 87kWh is an all-electric crossover with a WLTP range of up to 533 k
 
 ## Nissan Ariya 87kWh e-4ORCE
 
-<a href="/models/nissan/ariya/ariya_87kwh_e-4orce/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" width="800" height="503" alt="Ariya 87kWh e-4ORCE" ></a>
+<a href="/models/nissan/ariya/ariya_87kwh_e-4orce/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" class="img-fluid" alt="Ariya 87kWh e-4ORCE" ></a>
 
 Nissan Ariya 87kWh e-4ORCE is an all-electric crossover with a WLTP range of up to 500 km (311 miles). EVKX.net have all the details. 
 

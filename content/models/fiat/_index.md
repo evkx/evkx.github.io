@@ -9,7 +9,7 @@ Fiat's EV strategy is aligned with the Stellantis group's vision of accelerating
 
 ## Fiat 600e
 
-<a href="600e"><img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" width="800" height="533" alt="Fiat 600e" ></a>
+<a href="600e"><img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" class="img-fluid" alt="Fiat 600e" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](600e/)

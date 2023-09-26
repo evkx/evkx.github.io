@@ -9,21 +9,21 @@ Peugeot has announced an all-electric strategy in Europe by 2030, which means th
 
 ## Peugot 2008
 
-<a href="2008"><img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_1_st.jpg" width="800" height="444" alt="Peugot 2008" ></a>
+<a href="2008"><img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_1_st.jpg" class="img-fluid" alt="Peugot 2008" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](2008/)
 
 ## Peugot 208
 
-<a href="208"><img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1_st.jpg" width="800" height="444" alt="Peugot 208" ></a>
+<a href="208"><img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1_st.jpg" class="img-fluid" alt="Peugot 208" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](208/)
 
 ## Peugot 3008
 
-<a href="3008"><img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_st.jpg" width="800" height="500" alt="Peugot 3008" ></a>
+<a href="3008"><img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_st.jpg" class="img-fluid" alt="Peugot 3008" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](3008/)

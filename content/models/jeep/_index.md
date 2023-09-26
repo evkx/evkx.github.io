@@ -9,7 +9,7 @@ The company has announced four all-electric SUVs that will launch in key markets
 
 ## Jeep Avenger
 
-<a href="avenger"><img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1_st.jpg" width="800" height="533" alt="Jeep Avenger" ></a>
+<a href="avenger"><img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1_st.jpg" class="img-fluid" alt="Jeep Avenger" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](avenger/)

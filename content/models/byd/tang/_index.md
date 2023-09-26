@@ -6,7 +6,7 @@ weight: 30
 ---
 ## BYD Tang EV600
 
-<a href="/models/byd/tang/tang_ev600/"><img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1_st.jpg" width="800" height="457" alt="Tang EV600" ></a>
+<a href="/models/byd/tang/tang_ev600/"><img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1_st.jpg" class="img-fluid" alt="Tang EV600" ></a>
 
 BYD Tang EV600 is an all-electric SUV with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
 

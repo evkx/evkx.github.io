@@ -6,7 +6,7 @@ weight: 30
 ---
 ## Lexus RZ 450e
 
-<a href="/models/lexus/rz/rz_450e/"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" width="800" height="533" alt="RZ 450e" ></a>
+<a href="/models/lexus/rz/rz_450e/"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" class="img-fluid" alt="RZ 450e" ></a>
 
 Lexus RZ 450e is an all-electric crossover with a WLTP range of up to 440 km (273 miles). EVKX.net have all the details. 
 
