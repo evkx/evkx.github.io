@@ -10,7 +10,7 @@ Choosing the right tires and wheels for your car depends on several factors, suc
 
 <figur>
     <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/exterior_2.jpg">
-        <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/exterior_2_st.jpg" alt="Lotus Eletre with big wheels" title="Lotus Eletre with big wheels">
+        <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/exterior_2_st.jpg" alt="Lotus Eletre with big wheels" title="Lotus Eletre with big wheels" class="img-fluid">
     </a>
     <figcaption><h4>Lotus Eletre with big wheels</h4></figcaption>
 </figur>
@@ -25,21 +25,21 @@ The wheel's design affects a car's appearance, performance, and aerodynamics. Wh
 
 <figur>
     <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1.jpg">
-        <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1_st.jpg" alt="Porsche Taycan with split-spoke wheels" title="Porsche Taycan with split-spoke wheels">
+        <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1_st.jpg" alt="Porsche Taycan with split-spoke wheels" title="Porsche Taycan with split-spoke wheels" class="img-fluid">
     </a>
     <figcaption><h4>Porsche Taycan with split-spoke wheels</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_4.jpg">
-        <img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_4_st.jpg" alt="Tesla Model Y with turbin design wheels" title="Tesla Model Y with turbin design wheels">
+        <img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_4_st.jpg" alt="Tesla Model Y with turbin design wheels" title="Tesla Model Y with turbin design wheels" class="img-fluid">
     </a>
     <figcaption><h4>Tesla Model Y with turbin design wheels</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1.jpg">
-        <img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" alt="Mercedes EQS with 11-spoke design wheels" title="Mercedes EQS with 11-spoke design wheels">
+        <img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" alt="Mercedes EQS with 11-spoke design wheels" title="Mercedes EQS with 11-spoke design wheels" class="img-fluid">
     </a>
     <figcaption><h4>Mercedes EQS with 11-spoke design wheels</h4></figcaption>
 </figur>
@@ -54,7 +54,7 @@ Lucid Air Sapphire is currently the only model with wider wheels in the rear and
 
 <figur>
     <a href="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_6.jpg">
-        <img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_6_st.jpg" alt="Lucid Air Sapphire with 21 inch on the rear axle and 20 inch on the front axle" title="Lucid Air Sapphire with 21 inch on the rear axle and 20 inch on the front axle">
+        <img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_6_st.jpg" alt="Lucid Air Sapphire with 21 inch on the rear axle and 20 inch on the front axle" title="Lucid Air Sapphire with 21 inch on the rear axle and 20 inch on the front axle" class="img-fluid">
     </a>
     <figcaption><h4>Lucid Air Sapphire with 21" on the rear axle and 20" on the front axle</h4></figcaption>
 </figur>
@@ -112,7 +112,7 @@ These are tires that are designed specifically for EVs, using a special rubber c
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/wheels/evrange_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/wheels/evrange_1_st.jpg" alt="ERange EV Tires" title="ERange EV Tires">
+    <img src="https://media.evkx.net/multimedia/technology/wheels/evrange_1_st.jpg" alt="ERange EV Tires" title="ERange EV Tires" class="img-fluid">
     </a>
     <figcaption><h4>ERange EV Tires</h4></figcaption>
 </figur>
@@ -127,14 +127,14 @@ These are tires that are derived from Michelin's performance tires, but optimize
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_1_st.jpg" alt="Michelin Pilot Sport EV" title="Michelin Pilot Sport EV">
+    <img src="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_1_st.jpg" alt="Michelin Pilot Sport EV" title="Michelin Pilot Sport EV" class="img-fluid">
     </a>
     <figcaption><h4>Michelin Pilot Sport EV</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_2.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_2_st.jpg" alt="Michelin Pilot Sport EV" title="Michelin Pilot Sport EV">
+    <img src="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_2_st.jpg" alt="Michelin Pilot Sport EV" title="Michelin Pilot Sport EV" class="img-fluid">
     </a>
     <figcaption><h4>Michelin Pilot Sport EV</h4></figcaption>
 </figur>

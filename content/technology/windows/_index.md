@@ -14,7 +14,7 @@ The windshield is the car's front window that covers the entire vehicle width. I
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/windows/windshield_1.jpeg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/windshield_1_st.jpeg" alt="Jeep Avenger windshield" title="Jeep Avenger windshield">
+        <img src="https://media.evkx.net/multimedia/technology/windows/windshield_1_st.jpeg" alt="Jeep Avenger windshield" title="Jeep Avenger windshield" class="img-fluid">
     </a>
     <figcaption><h4>Jeep Avenger windshield</h4></figcaption>
 </figur>
@@ -30,7 +30,7 @@ Most EVs have two wipers, but large evs like Hummer EVs have three.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/windows/wipers_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/wipers_1_st.jpg" alt="Hummer EV with three wiper blades" title="Hummer EV with three wiper blades">
+        <img src="https://media.evkx.net/multimedia/technology/windows/wipers_1_st.jpg" alt="Hummer EV with three wiper blades" title="Hummer EV with three wiper blades" class="img-fluid">
     </a>
     <figcaption><h4>Hummer EV with three wiper blades</h4></figcaption>
 </figur>
@@ -51,7 +51,7 @@ Todays moderns Evs have often on or more cameraes installed in the windhsield.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/sensorsandcameras/cameras/eqsfrontcameras.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/cameras/eqsfrontcameras_st.jpg" alt="Mercedes EQS Stereo Vision cameras" title="Mercedes EQS Stereo Vision cameras">
+        <img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/cameras/eqsfrontcameras_st.jpg" alt="Mercedes EQS Stereo Vision cameras" title="Mercedes EQS Stereo Vision cameras" class="img-fluid">
     </a>
     <figcaption><h4>Mercedes EQS Stereo Vision cameras</h4></figcaption>
 </figur>
@@ -66,7 +66,7 @@ Side windows can be either fixed or movable. Fixed side windows are permanently 
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/windows/sidewindows_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/sidewindows_1_st.jpg" alt="Volkswagen ID.Buzz with both fixed and movable side windows" title="Volkswagen ID.Buzz with both fixed and movable side windows">
+        <img src="https://media.evkx.net/multimedia/technology/windows/sidewindows_1_st.jpg" alt="Volkswagen ID.Buzz with both fixed and movable side windows" title="Volkswagen ID.Buzz with both fixed and movable side windows" class="img-fluid">
     </a>
     <figcaption><h4>Volkswagen ID.Buzz with both fixed and movable side windows</h4></figcaption>
 </figur>
@@ -85,7 +85,7 @@ The rear window is the window at the back of the car that covers most of the wid
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/windows/rearwindows_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/rearwindows_1_st.jpg" alt="Polestar 2 rear windows" title="Polestar 2 rear windows">
+        <img src="https://media.evkx.net/multimedia/technology/windows/rearwindows_1_st.jpg" alt="Polestar 2 rear windows" title="Polestar 2 rear windows" class="img-fluid">
     </a>
     <figcaption><h4>Polestar 2 rear windows</h4></figcaption>
 </figur>
@@ -94,7 +94,7 @@ It is not required to have a rear window. Several models does not have a rear wi
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/windows/rearwindows_2.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/rearwindows_2_st.jpg" alt="Polestar 4 without rear window" title="Polestar 4 without rear window">
+        <img src="https://media.evkx.net/multimedia/technology/windows/rearwindows_2_st.jpg" alt="Polestar 4 without rear window" title="Polestar 4 without rear window" class="img-fluid">
     </a>
     <figcaption><h4>Polestar 4 without rear window</h4></figcaption>
 </figur>
@@ -130,14 +130,14 @@ In addition most EVS looks better with privacy glass.
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/windows/privacyglass_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/privacyglass_1_st.jpg" alt="BMW i7 with privacy glass" title="BMW i7 with privacy glass">
+        <img src="https://media.evkx.net/multimedia/technology/windows/privacyglass_1_st.jpg" alt="BMW i7 with privacy glass" title="BMW i7 with privacy glass" class="img-fluid">
     </a>
     <figcaption><h4>BMW i7 with privacy glass</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/windows/privacyglass_2.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/privacyglass_2_st.jpg" alt="Porsche Taycan Sport Turismo with privacy glass" title="Porsche Taycan Sport Turismo with privacy glass">
+        <img src="https://media.evkx.net/multimedia/technology/windows/privacyglass_2_st.jpg" alt="Porsche Taycan Sport Turismo with privacy glass" title="Porsche Taycan Sport Turismo with privacy glass" class="img-fluid">
     </a>
     <figcaption><h4>Porsche Taycan Sport Turismo with privacy glass</h4></figcaption>
 </figur>
