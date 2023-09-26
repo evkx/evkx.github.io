@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" width="680" height="313">
+<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" class="img-fluid">
 </a>
 <figcaption><h4>Cadillac ESCALADE IQ</h4></figcaption></figur>
 
@@ -79,7 +79,7 @@ There is only one roof for this model. As an option, you can order this model wi
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" width="680" height="459">
+<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" class="img-fluid">
 </a>
 <figcaption><h4>Cadillac ESCALADE IQ</h4></figcaption></figur>
 
@@ -115,7 +115,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" width="680" height="435">
+<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" class="img-fluid">
 </a>
 <figcaption><h4>Cadillac ESCALADE IQ</h4></figcaption></figur>
 
@@ -136,7 +136,7 @@ For the second row, this model has twin [executive seats](../../../../technology
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" width="680" height="454">
+<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" class="img-fluid">
 </a>
 <figcaption><h4>Cadillac ESCALADE IQ</h4></figcaption></figur>
 
@@ -174,7 +174,7 @@ The  screen behind the steering wheel mounted into the dashboard is 35 inches la
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/screens_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/screens_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" class="img-fluid">
 </a>
 <figcaption><h4>Cadillac ESCALADE IQ</h4></figcaption></figur>
 

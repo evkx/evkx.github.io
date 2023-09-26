@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/voyah/free/free/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_st.jpg" alt="VOYAH FREE" title="VOYAH FREE" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_st.jpg" alt="VOYAH FREE" title="VOYAH FREE" class="img-fluid">
 </a>
 <figcaption><h4>VOYAH FREE</h4></figcaption></figur>
 
@@ -79,7 +79,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/voyah/free/free/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/voyah/free/free/exterior_1_st.jpg" alt="VOYAH FREE" title="VOYAH FREE" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/voyah/free/free/exterior_1_st.jpg" alt="VOYAH FREE" title="VOYAH FREE" class="img-fluid">
 </a>
 <figcaption><h4>VOYAH FREE</h4></figcaption></figur>
 
@@ -143,7 +143,7 @@ VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digi
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/voyah/free/free/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/voyah/free/free/screens_1_st.jpg" alt="VOYAH FREE" title="VOYAH FREE" width="680" height="469">
+<img src="https://media.evkx.net/multimedia/models/voyah/free/free/screens_1_st.jpg" alt="VOYAH FREE" title="VOYAH FREE" class="img-fluid">
 </a>
 <figcaption><h4>VOYAH FREE</h4></figcaption></figur>
 

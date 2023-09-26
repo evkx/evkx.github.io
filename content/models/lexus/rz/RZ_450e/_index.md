@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
 </a>
 <figcaption><h4>Lexus RZ 450e</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/charging_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/charging_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
 </a>
 <figcaption><h4>Lexus RZ 450e</h4></figcaption></figur>
 
@@ -90,7 +90,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/exterior_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/exterior_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
 </a>
 <figcaption><h4>Lexus RZ 450e</h4></figcaption></figur>
 
@@ -122,7 +122,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/frontseats_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/frontseats_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
 </a>
 <figcaption><h4>Lexus RZ 450e</h4></figcaption></figur>
 
@@ -138,7 +138,7 @@ The second row has a standard three-seat bench with a 40:60 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/secondrowseats_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/secondrowseats_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
 </a>
 <figcaption><h4>Lexus RZ 450e</h4></figcaption></figur>
 
@@ -170,7 +170,7 @@ The optional  layout has the following configuration. Behind the steering wheel 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/screens_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/screens_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
 </a>
 <figcaption><h4>Lexus RZ 450e</h4></figcaption></figur>
 
@@ -191,7 +191,7 @@ You can choose between two types of headlights for the Lexus RZ 450e. The standa
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/headlights_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/headlights_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
 </a>
 <figcaption><h4>Lexus RZ 450e</h4></figcaption></figur>
 
@@ -233,7 +233,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/trunk_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/trunk_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
 </a>
 <figcaption><h4>Lexus RZ 450e</h4></figcaption></figur>
 

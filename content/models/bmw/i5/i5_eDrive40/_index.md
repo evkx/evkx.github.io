@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
 <figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/charging_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" width="680" height="680">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/charging_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
 <figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
 
@@ -98,7 +98,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/exterior_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/exterior_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
 <figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
 
@@ -148,7 +148,7 @@ The following functionalities are available on the **M Sport** seat.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/frontseats_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/frontseats_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
 <figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
 
@@ -165,7 +165,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/secondrowseats_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/secondrowseats_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
 <figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
 
@@ -199,7 +199,7 @@ BMW i5 eDrive40 has twin screens on a shared frame mounted with brackets on top 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/screens_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/screens_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
 <figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
 
@@ -220,7 +220,7 @@ You can choose between two types of headlights for the BMW i5 eDrive40. The stan
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/headlights_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/headlights_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
 <figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
 
@@ -272,7 +272,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/trunk_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/trunk_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
 <figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
 

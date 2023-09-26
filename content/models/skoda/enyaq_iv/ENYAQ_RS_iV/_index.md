@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_st.jpg" alt="SKODA ENYAQ RS iV" title="SKODA ENYAQ RS iV" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_st.jpg" alt="SKODA ENYAQ RS iV" title="SKODA ENYAQ RS iV" class="img-fluid">
 </a>
 <figcaption><h4>SKODA ENYAQ RS iV</h4></figcaption></figur>
 
@@ -86,7 +86,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/exterior_1_st.jpg" alt="SKODA ENYAQ RS iV" title="SKODA ENYAQ RS iV" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/exterior_1_st.jpg" alt="SKODA ENYAQ RS iV" title="SKODA ENYAQ RS iV" class="img-fluid">
 </a>
 <figcaption><h4>SKODA ENYAQ RS iV</h4></figcaption></figur>
 

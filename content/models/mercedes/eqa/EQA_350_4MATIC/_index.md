@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/main_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/main_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/charging_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/charging_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
 
@@ -94,7 +94,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
 
@@ -147,7 +147,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
 
@@ -187,7 +187,7 @@ Mercedes-EQ EQA 350 4MATIC has twin screens on a shared frame mounted with brack
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQA 350 4MATIC</h4></figcaption></figur>
 

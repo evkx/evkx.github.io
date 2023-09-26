@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/main_1_st.jpg" alt="HiPhi X 4 Seater" title="HiPhi X 4 Seater" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/main_1_st.jpg" alt="HiPhi X 4 Seater" title="HiPhi X 4 Seater" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi X 4 Seater</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/charging_1_st.jpg" alt="HiPhi X 4 Seater" title="HiPhi X 4 Seater" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/charging_1_st.jpg" alt="HiPhi X 4 Seater" title="HiPhi X 4 Seater" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi X 4 Seater</h4></figcaption></figur>
 
@@ -93,7 +93,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_1_st.jpg" alt="HiPhi X 4 Seater" title="HiPhi X 4 Seater" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_1_st.jpg" alt="HiPhi X 4 Seater" title="HiPhi X 4 Seater" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi X 4 Seater</h4></figcaption></figur>
 
@@ -172,7 +172,7 @@ HiPhi X 4 Seater has multiple integrated screens. Behind the steering wheel is a
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/screens_1_st.jpg" alt="HiPhi X 4 Seater" title="HiPhi X 4 Seater" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/screens_1_st.jpg" alt="HiPhi X 4 Seater" title="HiPhi X 4 Seater" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi X 4 Seater</h4></figcaption></figur>
 
@@ -197,7 +197,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/headlights_1_st.jpg" alt="HiPhi X 4 Seater" title="HiPhi X 4 Seater" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/headlights_1_st.jpg" alt="HiPhi X 4 Seater" title="HiPhi X 4 Seater" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi X 4 Seater</h4></figcaption></figur>
 
@@ -247,7 +247,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/trunk_1_st.jpg" alt="HiPhi X 4 Seater" title="HiPhi X 4 Seater" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/trunk_1_st.jpg" alt="HiPhi X 4 Seater" title="HiPhi X 4 Seater" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi X 4 Seater</h4></figcaption></figur>
 

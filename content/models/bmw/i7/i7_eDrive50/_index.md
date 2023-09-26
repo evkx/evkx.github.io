@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/main_1_st.jpg" alt="BMW i7 eDrive50" title="BMW i7 eDrive50" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/main_1_st.jpg" alt="BMW i7 eDrive50" title="BMW i7 eDrive50" class="img-fluid">
 </a>
 <figcaption><h4>BMW i7 eDrive50</h4></figcaption></figur>
 
@@ -86,7 +86,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/exterior_1_st.jpg" alt="BMW i7 eDrive50" title="BMW i7 eDrive50" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/exterior_1_st.jpg" alt="BMW i7 eDrive50" title="BMW i7 eDrive50" class="img-fluid">
 </a>
 <figcaption><h4>BMW i7 eDrive50</h4></figcaption></figur>
 
@@ -156,7 +156,7 @@ interior.seat.category.ExecutivePlusTwoSeatBenchIn addition, the following funct
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/secondrowseats_1_st.jpg" alt="BMW i7 eDrive50" title="BMW i7 eDrive50" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/secondrowseats_1_st.jpg" alt="BMW i7 eDrive50" title="BMW i7 eDrive50" class="img-fluid">
 </a>
 <figcaption><h4>BMW i7 eDrive50</h4></figcaption></figur>
 
@@ -190,7 +190,7 @@ BMW i7 eDrive50 has twin screens on a shared frame mounted with brackets on top 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/screens_1_st.jpg" alt="BMW i7 eDrive50" title="BMW i7 eDrive50" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/screens_1_st.jpg" alt="BMW i7 eDrive50" title="BMW i7 eDrive50" class="img-fluid">
 </a>
 <figcaption><h4>BMW i7 eDrive50</h4></figcaption></figur>
 
@@ -211,7 +211,7 @@ You can choose between two types of headlights for the BMW i7 eDrive50. The stan
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/headlights_1_st.jpg" alt="BMW i7 eDrive50" title="BMW i7 eDrive50" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/headlights_1_st.jpg" alt="BMW i7 eDrive50" title="BMW i7 eDrive50" class="img-fluid">
 </a>
 <figcaption><h4>BMW i7 eDrive50</h4></figcaption></figur>
 

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
 
@@ -88,7 +88,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
 
@@ -136,7 +136,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/frontseats_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/frontseats_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
 
@@ -151,7 +151,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
 
@@ -187,7 +187,7 @@ The optional  layout has the following configuration. Behind the steering wheel 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
 
@@ -208,7 +208,7 @@ You can choose between two types of headlights for the Volkswagen ID.4 Pro 4MOTI
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/headlights_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/headlights_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
 
@@ -263,7 +263,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_1_st.jpg" alt="Volkswagen ID.4 Pro 4MOTION" title="Volkswagen ID.4 Pro 4MOTION" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.4 Pro 4MOTION</h4></figcaption></figur>
 

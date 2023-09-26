@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
 
@@ -87,7 +87,7 @@ There is only one roof for this model.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/exterior_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/exterior_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
 
@@ -119,7 +119,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/frontseats_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/frontseats_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
 
@@ -136,7 +136,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
 
@@ -170,7 +170,7 @@ Chevrolet Silverado EV 4WT has twin screens on a shared frame mounted with brack
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
 
@@ -219,7 +219,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/trunk_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/trunk_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
 

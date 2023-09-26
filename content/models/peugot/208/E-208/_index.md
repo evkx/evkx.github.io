@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1_st.jpg" alt="Peugot E-208" title="Peugot E-208" width="680" height="377">
+<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1_st.jpg" alt="Peugot E-208" title="Peugot E-208" class="img-fluid">
 </a>
 <figcaption><h4>Peugot E-208</h4></figcaption></figur>
 
@@ -80,7 +80,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/peugot/208/e-208/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/exterior_1_st.jpg" alt="Peugot E-208" title="Peugot E-208" width="680" height="377">
+<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/exterior_1_st.jpg" alt="Peugot E-208" title="Peugot E-208" class="img-fluid">
 </a>
 <figcaption><h4>Peugot E-208</h4></figcaption></figur>
 
@@ -114,7 +114,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/peugot/208/e-208/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/frontseats_1_st.jpg" alt="Peugot E-208" title="Peugot E-208" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/frontseats_1_st.jpg" alt="Peugot E-208" title="Peugot E-208" class="img-fluid">
 </a>
 <figcaption><h4>Peugot E-208</h4></figcaption></figur>
 
@@ -151,7 +151,7 @@ The  screen behind the steering wheel integrated into the dashboard is 10,25 inc
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/peugot/208/e-208/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/screens_1_st.jpg" alt="Peugot E-208" title="Peugot E-208" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/screens_1_st.jpg" alt="Peugot E-208" title="Peugot E-208" class="img-fluid">
 </a>
 <figcaption><h4>Peugot E-208</h4></figcaption></figur>
 
@@ -172,7 +172,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/peugot/208/e-208/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/headlights_1_st.jpg" alt="Peugot E-208" title="Peugot E-208" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/headlights_1_st.jpg" alt="Peugot E-208" title="Peugot E-208" class="img-fluid">
 </a>
 <figcaption><h4>Peugot E-208</h4></figcaption></figur>
 

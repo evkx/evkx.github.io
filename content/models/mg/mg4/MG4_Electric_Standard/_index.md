@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/main_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/main_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
 </a>
 <figcaption><h4>MG MG4 Electric Standard</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/charging_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/charging_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
 </a>
 <figcaption><h4>MG MG4 Electric Standard</h4></figcaption></figur>
 
@@ -87,7 +87,7 @@ There is only one roof for this model. As an option, you can order this model wi
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/exterior_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/exterior_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
 </a>
 <figcaption><h4>MG MG4 Electric Standard</h4></figcaption></figur>
 
@@ -117,7 +117,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/frontseats_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/frontseats_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
 </a>
 <figcaption><h4>MG MG4 Electric Standard</h4></figcaption></figur>
 
@@ -132,7 +132,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/secondrowseats_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/secondrowseats_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
 </a>
 <figcaption><h4>MG MG4 Electric Standard</h4></figcaption></figur>
 
@@ -162,7 +162,7 @@ The  screen behind the steering wheel mounted into the dashboard is 7 inches lar
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/screens_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/screens_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
 </a>
 <figcaption><h4>MG MG4 Electric Standard</h4></figcaption></figur>
 
@@ -185,7 +185,7 @@ The model has 1 USB-C connections as standard. The model has 1 USB-A connections
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/headlights_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/headlights_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
 </a>
 <figcaption><h4>MG MG4 Electric Standard</h4></figcaption></figur>
 
@@ -220,7 +220,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/trunk_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/trunk_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
 </a>
 <figcaption><h4>MG MG4 Electric Standard</h4></figcaption></figur>
 

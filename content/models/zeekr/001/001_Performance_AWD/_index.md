@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_st.jpg" alt="Zeekr 001 Performance AWD" title="Zeekr 001 Performance AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_st.jpg" alt="Zeekr 001 Performance AWD" title="Zeekr 001 Performance AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 Performance AWD</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/charging_1_st.jpg" alt="Zeekr 001 Performance AWD" title="Zeekr 001 Performance AWD" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/charging_1_st.jpg" alt="Zeekr 001 Performance AWD" title="Zeekr 001 Performance AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 Performance AWD</h4></figcaption></figur>
 
@@ -89,7 +89,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/exterior_1_st.jpg" alt="Zeekr 001 Performance AWD" title="Zeekr 001 Performance AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/exterior_1_st.jpg" alt="Zeekr 001 Performance AWD" title="Zeekr 001 Performance AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 Performance AWD</h4></figcaption></figur>
 
@@ -154,7 +154,7 @@ Zeekr 001 Performance AWD has multiple integrated screens. Behind the steering w
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/screens_1_st.jpg" alt="Zeekr 001 Performance AWD" title="Zeekr 001 Performance AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/screens_1_st.jpg" alt="Zeekr 001 Performance AWD" title="Zeekr 001 Performance AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 Performance AWD</h4></figcaption></figur>
 
@@ -179,7 +179,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/headlights_1_st.jpg" alt="Zeekr 001 Performance AWD" title="Zeekr 001 Performance AWD" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/headlights_1_st.jpg" alt="Zeekr 001 Performance AWD" title="Zeekr 001 Performance AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 Performance AWD</h4></figcaption></figur>
 
@@ -224,7 +224,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/trunk_1_st.jpg" alt="Zeekr 001 Performance AWD" title="Zeekr 001 Performance AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/trunk_1_st.jpg" alt="Zeekr 001 Performance AWD" title="Zeekr 001 Performance AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 Performance AWD</h4></figcaption></figur>
 

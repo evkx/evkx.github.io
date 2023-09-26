@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/main_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/main_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" class="img-fluid">
 </a>
 <figcaption><h4>Porsche Taycan 4 Cross Turismo</h4></figcaption></figur>
 
@@ -96,7 +96,7 @@ The standard is just a regular roof. As an option, you can order this model with
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/exterior_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" class="img-fluid">
 </a>
 <figcaption><h4>Porsche Taycan 4 Cross Turismo</h4></figcaption></figur>
 
@@ -158,7 +158,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/frontseats_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/frontseats_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" class="img-fluid">
 </a>
 <figcaption><h4>Porsche Taycan 4 Cross Turismo</h4></figcaption></figur>
 
@@ -180,7 +180,7 @@ The second option is two integrated seats in the second row with a third smaller
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/secondrowseats_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/secondrowseats_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" class="img-fluid">
 </a>
 <figcaption><h4>Porsche Taycan 4 Cross Turismo</h4></figcaption></figur>
 
@@ -210,7 +210,7 @@ Porsche Taycan 4 Cross Turismo has multiple integrated screens. Behind the steer
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/screens_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" width="680" height="420">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/screens_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" class="img-fluid">
 </a>
 <figcaption><h4>Porsche Taycan 4 Cross Turismo</h4></figcaption></figur>
 
@@ -231,7 +231,7 @@ You can choose between two types of headlights for the Porsche Taycan 4 Cross Tu
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/headlights_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/headlights_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" class="img-fluid">
 </a>
 <figcaption><h4>Porsche Taycan 4 Cross Turismo</h4></figcaption></figur>
 
@@ -288,7 +288,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/trunk_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" width="680" height="328">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/trunk_1_st.jpg" alt="Porsche Taycan 4 Cross Turismo" title="Porsche Taycan 4 Cross Turismo" class="img-fluid">
 </a>
 <figcaption><h4>Porsche Taycan 4 Cross Turismo</h4></figcaption></figur>
 

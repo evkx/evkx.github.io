@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1_st.jpeg" alt="Audi SQ8 e-tron" title="Audi SQ8 e-tron" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1_st.jpeg" alt="Audi SQ8 e-tron" title="Audi SQ8 e-tron" class="img-fluid">
 </a>
 <figcaption><h4>Audi SQ8 e-tron</h4></figcaption></figur>
 
@@ -90,7 +90,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/exterior_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" alt="Audi SQ8 e-tron" title="Audi SQ8 e-tron" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" alt="Audi SQ8 e-tron" title="Audi SQ8 e-tron" class="img-fluid">
 </a>
 <figcaption><h4>Audi SQ8 e-tron</h4></figcaption></figur>
 
@@ -205,7 +205,7 @@ You can choose between three types of headlights for the Audi SQ8 e-tron. The st
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/headlights_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/headlights_1_st.jpeg" alt="Audi SQ8 e-tron" title="Audi SQ8 e-tron" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/headlights_1_st.jpeg" alt="Audi SQ8 e-tron" title="Audi SQ8 e-tron" class="img-fluid">
 </a>
 <figcaption><h4>Audi SQ8 e-tron</h4></figcaption></figur>
 

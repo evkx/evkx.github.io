@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" class="img-fluid">
 </a>
 <figcaption><h4>Rolls-Royce Spectre</h4></figcaption></figur>
 
@@ -85,7 +85,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/exterior_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/exterior_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" class="img-fluid">
 </a>
 <figcaption><h4>Rolls-Royce Spectre</h4></figcaption></figur>
 
@@ -128,7 +128,7 @@ You can choose from 7 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" class="img-fluid">
 </a>
 <figcaption><h4>Rolls-Royce Spectre</h4></figcaption></figur>
 
@@ -149,7 +149,7 @@ For the second row, this model has twin [executive seats](../../../../technology
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/secondrowseats_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/secondrowseats_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" class="img-fluid">
 </a>
 <figcaption><h4>Rolls-Royce Spectre</h4></figcaption></figur>
 
@@ -183,7 +183,7 @@ Rolls-Royce Spectre has twin screens on a shared frame mounted with brackets on 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/screens_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" width="680" height="422">
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/screens_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" class="img-fluid">
 </a>
 <figcaption><h4>Rolls-Royce Spectre</h4></figcaption></figur>
 
@@ -204,7 +204,7 @@ You can choose between two types of headlights for the Rolls-Royce Spectre. The 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/headlights_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" width="680" height="385">
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/headlights_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" class="img-fluid">
 </a>
 <figcaption><h4>Rolls-Royce Spectre</h4></figcaption></figur>
 

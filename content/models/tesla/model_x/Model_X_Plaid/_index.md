@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid" class="img-fluid">
 </a>
 <figcaption><h4>Tesla Model X Plaid</h4></figcaption></figur>
 
@@ -86,7 +86,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/exterior_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/exterior_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid" class="img-fluid">
 </a>
 <figcaption><h4>Tesla Model X Plaid</h4></figcaption></figur>
 
@@ -126,7 +126,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/secondrowseats_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/secondrowseats_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid" class="img-fluid">
 </a>
 <figcaption><h4>Tesla Model X Plaid</h4></figcaption></figur>
 
@@ -166,7 +166,7 @@ Tesla Model X Plaid has twin screens with information for the driver and passeng
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/screens_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/screens_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid" class="img-fluid">
 </a>
 <figcaption><h4>Tesla Model X Plaid</h4></figcaption></figur>
 
@@ -237,7 +237,7 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/trunk_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/trunk_1_st.jpg" alt="Tesla Model X Plaid" title="Tesla Model X Plaid" class="img-fluid">
 </a>
 <figcaption><h4>Tesla Model X Plaid</h4></figcaption></figur>
 

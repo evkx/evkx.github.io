@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
 <figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" width="680" height="442">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
 <figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
 
@@ -89,7 +89,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
 <figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
 
@@ -128,7 +128,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1_st.jpeg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1_st.jpeg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
 <figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
 
@@ -145,7 +145,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1_st.jpeg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1_st.jpeg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
 <figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
 
@@ -179,7 +179,7 @@ XPENG G9 AWD Performance has twin screens on a shared frame mounted with bracket
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
 <figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
 
@@ -244,7 +244,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
 <figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
 

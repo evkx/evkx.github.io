@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_st.jpg" alt="Nio ET5" title="Nio ET5" width="680" height="423">
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_st.jpg" alt="Nio ET5" title="Nio ET5" class="img-fluid">
 </a>
 <figcaption><h4>Nio ET5</h4></figcaption></figur>
 
@@ -99,7 +99,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/exterior_1_st.jpg" alt="Nio ET5" title="Nio ET5" width="680" height="391">
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/exterior_1_st.jpg" alt="Nio ET5" title="Nio ET5" class="img-fluid">
 </a>
 <figcaption><h4>Nio ET5</h4></figcaption></figur>
 
@@ -173,7 +173,7 @@ The  screen behind the steering wheel mounted into the dashboard is 10,2 inches 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/screens_1_st.jpg" alt="Nio ET5" title="Nio ET5" width="680" height="383">
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/screens_1_st.jpg" alt="Nio ET5" title="Nio ET5" class="img-fluid">
 </a>
 <figcaption><h4>Nio ET5</h4></figcaption></figur>
 

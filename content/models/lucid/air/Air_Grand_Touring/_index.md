@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/main_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/main_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" class="img-fluid">
 </a>
 <figcaption><h4>Lucid Air Grand Touring</h4></figcaption></figur>
 
@@ -84,7 +84,7 @@ There is only one roof for this model. The windshield is panoramic going back ov
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/exterior_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" width="680" height="440">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/exterior_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" class="img-fluid">
 </a>
 <figcaption><h4>Lucid Air Grand Touring</h4></figcaption></figur>
 
@@ -121,7 +121,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/frontseats_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/frontseats_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" class="img-fluid">
 </a>
 <figcaption><h4>Lucid Air Grand Touring</h4></figcaption></figur>
 
@@ -137,7 +137,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/secondrowseats_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" width="680" height="470">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/secondrowseats_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" class="img-fluid">
 </a>
 <figcaption><h4>Lucid Air Grand Touring</h4></figcaption></figur>
 
@@ -171,7 +171,7 @@ On top of the dashboard is a shared frame with three screens, and in the center 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/screens_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/screens_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" class="img-fluid">
 </a>
 <figcaption><h4>Lucid Air Grand Touring</h4></figcaption></figur>
 
@@ -190,7 +190,7 @@ The standard headlights use LED technology.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/headlights_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/headlights_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" class="img-fluid">
 </a>
 <figcaption><h4>Lucid Air Grand Touring</h4></figcaption></figur>
 
@@ -235,7 +235,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/trunk_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/trunk_1_st.jpg" alt="Lucid Air Grand Touring" title="Lucid Air Grand Touring" class="img-fluid">
 </a>
 <figcaption><h4>Lucid Air Grand Touring</h4></figcaption></figur>
 

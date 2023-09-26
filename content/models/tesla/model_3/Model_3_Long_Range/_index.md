@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" class="img-fluid">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -86,7 +86,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/exterior_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/exterior_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/exterior_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" class="img-fluid">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -119,7 +119,7 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/frontseats_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" class="img-fluid">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -160,7 +160,7 @@ Tesla Model 3 Long Range has a single screen. The dashboard’s center has a sin
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/screens_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" class="img-fluid">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 
@@ -179,7 +179,7 @@ The standard headlights use LED technology.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/headlights_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/headlights_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/headlights_1_st.jpeg" alt="Tesla Model 3 Long Range" title="Tesla Model 3 Long Range" class="img-fluid">
 </a>
 <figcaption><h4>Tesla Model 3 Long Range</h4></figcaption></figur>
 

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/main_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" width="680" height="437">
+<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/main_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi Y Performance</h4></figcaption></figur>
 
@@ -85,7 +85,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/exterior_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/exterior_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi Y Performance</h4></figcaption></figur>
 
@@ -163,7 +163,7 @@ HiPhi Y Performance has multiple integrated screens. Behind the steering wheel i
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/screens_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" width="680" height="364">
+<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/screens_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi Y Performance</h4></figcaption></figur>
 
@@ -188,7 +188,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/headlights_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" width="680" height="426">
+<img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/headlights_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi Y Performance</h4></figcaption></figur>
 

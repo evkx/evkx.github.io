@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" class="img-fluid">
 </a>
 <figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
 
@@ -85,7 +85,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exterior_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exterior_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" class="img-fluid">
 </a>
 <figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
 
@@ -118,7 +118,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/frontseats_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/frontseats_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" class="img-fluid">
 </a>
 <figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
 
@@ -135,7 +135,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/secondrowseats_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/secondrowseats_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" class="img-fluid">
 </a>
 <figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
 
@@ -169,7 +169,7 @@ BYD Seal AWD has twin screens on a shared frame mounted with brackets on top of 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" class="img-fluid">
 </a>
 <figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
 
@@ -190,7 +190,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/headlights_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/headlights_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" class="img-fluid">
 </a>
 <figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
 

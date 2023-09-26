@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC SUV" title="Mercedes-AMG EQE 43 4MATIC SUV" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC SUV" title="Mercedes-AMG EQE 43 4MATIC SUV" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC SUV</h4></figcaption></figur>
 
@@ -90,7 +90,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/exterior_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC SUV" title="Mercedes-AMG EQE 43 4MATIC SUV" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/exterior_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC SUV" title="Mercedes-AMG EQE 43 4MATIC SUV" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC SUV</h4></figcaption></figur>
 
@@ -151,7 +151,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/secondrowseats_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC SUV" title="Mercedes-AMG EQE 43 4MATIC SUV" width="680" height="473">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/secondrowseats_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC SUV" title="Mercedes-AMG EQE 43 4MATIC SUV" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC SUV</h4></figcaption></figur>
 
@@ -191,7 +191,7 @@ The optional MBUX Hyperscreen layout has the following configuration. Behind the
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/screens_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC SUV" title="Mercedes-AMG EQE 43 4MATIC SUV" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/screens_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC SUV" title="Mercedes-AMG EQE 43 4MATIC SUV" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC SUV</h4></figcaption></figur>
 
@@ -216,7 +216,7 @@ You can choose between two types of headlights for the Mercedes-AMG EQE 43 4MATI
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/headlights_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC SUV" title="Mercedes-AMG EQE 43 4MATIC SUV" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/headlights_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC SUV" title="Mercedes-AMG EQE 43 4MATIC SUV" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC SUV</h4></figcaption></figur>
 
@@ -269,7 +269,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/trunk_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC SUV" title="Mercedes-AMG EQE 43 4MATIC SUV" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/trunk_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC SUV" title="Mercedes-AMG EQE 43 4MATIC SUV" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC SUV</h4></figcaption></figur>
 

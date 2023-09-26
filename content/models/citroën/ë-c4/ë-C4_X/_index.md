@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" alt="Citroën ë-C4 X" title="Citroën ë-C4 X" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" alt="Citroën ë-C4 X" title="Citroën ë-C4 X" class="img-fluid">
 </a>
 <figcaption><h4>Citroën ë-C4 X</h4></figcaption></figur>
 
@@ -82,7 +82,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/exterior_1_st.jpg" alt="Citroën ë-C4 X" title="Citroën ë-C4 X" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/exterior_1_st.jpg" alt="Citroën ë-C4 X" title="Citroën ë-C4 X" class="img-fluid">
 </a>
 <figcaption><h4>Citroën ë-C4 X</h4></figcaption></figur>
 
@@ -157,7 +157,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/headlights_1_st.jpg" alt="Citroën ë-C4 X" title="Citroën ë-C4 X" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/headlights_1_st.jpg" alt="Citroën ë-C4 X" title="Citroën ë-C4 X" class="img-fluid">
 </a>
 <figcaption><h4>Citroën ë-C4 X</h4></figcaption></figur>
 

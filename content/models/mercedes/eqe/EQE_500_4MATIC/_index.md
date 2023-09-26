@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/main_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" width="680" height="420">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/main_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/charging_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/charging_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC</h4></figcaption></figur>
 
@@ -98,7 +98,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" width="680" height="419">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC</h4></figcaption></figur>
 
@@ -150,7 +150,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC</h4></figcaption></figur>
 
@@ -167,7 +167,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC</h4></figcaption></figur>
 
@@ -205,7 +205,7 @@ The optional MBUX Hyperscreen layout has the following configuration. Behind the
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC</h4></figcaption></figur>
 
@@ -275,7 +275,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQE 500 4MATIC" title="Mercedes-EQ EQE 500 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC</h4></figcaption></figur>
 

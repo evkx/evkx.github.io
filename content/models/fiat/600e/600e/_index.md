@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" alt="Fiat 600e" title="Fiat 600e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" alt="Fiat 600e" title="Fiat 600e" class="img-fluid">
 </a>
 <figcaption><h4>Fiat 600e</h4></figcaption></figur>
 
@@ -80,7 +80,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/fiat/600e/600e/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/exterior_1_st.jpg" alt="Fiat 600e" title="Fiat 600e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/exterior_1_st.jpg" alt="Fiat 600e" title="Fiat 600e" class="img-fluid">
 </a>
 <figcaption><h4>Fiat 600e</h4></figcaption></figur>
 
@@ -114,7 +114,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/fiat/600e/600e/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/frontseats_1_st.jpg" alt="Fiat 600e" title="Fiat 600e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/frontseats_1_st.jpg" alt="Fiat 600e" title="Fiat 600e" class="img-fluid">
 </a>
 <figcaption><h4>Fiat 600e</h4></figcaption></figur>
 
@@ -151,7 +151,7 @@ The  screen behind the steering wheel integrated into the dashboard is 10,25 inc
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/fiat/600e/600e/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/screens_1_st.jpg" alt="Fiat 600e" title="Fiat 600e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/screens_1_st.jpg" alt="Fiat 600e" title="Fiat 600e" class="img-fluid">
 </a>
 <figcaption><h4>Fiat 600e</h4></figcaption></figur>
 
@@ -172,7 +172,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/fiat/600e/600e/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/headlights_1_st.jpg" alt="Fiat 600e" title="Fiat 600e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/headlights_1_st.jpg" alt="Fiat 600e" title="Fiat 600e" class="img-fluid">
 </a>
 <figcaption><h4>Fiat 600e</h4></figcaption></figur>
 
@@ -210,7 +210,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/fiat/600e/600e/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/trunk_1_st.jpg" alt="Fiat 600e" title="Fiat 600e" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/trunk_1_st.jpg" alt="Fiat 600e" title="Fiat 600e" class="img-fluid">
 </a>
 <figcaption><h4>Fiat 600e</h4></figcaption></figur>
 

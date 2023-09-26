@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" alt="Hyundai Ioniq 5 N" title="Hyundai Ioniq 5 N" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" alt="Hyundai Ioniq 5 N" title="Hyundai Ioniq 5 N" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Ioniq 5 N</h4></figcaption></figur>
 
@@ -81,7 +81,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_1_st.jpg" alt="Hyundai Ioniq 5 N" title="Hyundai Ioniq 5 N" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/exterior_1_st.jpg" alt="Hyundai Ioniq 5 N" title="Hyundai Ioniq 5 N" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Ioniq 5 N</h4></figcaption></figur>
 
@@ -142,7 +142,7 @@ Hyundai Ioniq 5 N has twin screens on a shared frame mounted with brackets on to
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/screens_1_st.jpg" alt="Hyundai Ioniq 5 N" title="Hyundai Ioniq 5 N" width="680" height="396">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/screens_1_st.jpg" alt="Hyundai Ioniq 5 N" title="Hyundai Ioniq 5 N" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Ioniq 5 N</h4></figcaption></figur>
 
@@ -163,7 +163,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/headlights_1_st.jpg" alt="Hyundai Ioniq 5 N" title="Hyundai Ioniq 5 N" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/headlights_1_st.jpg" alt="Hyundai Ioniq 5 N" title="Hyundai Ioniq 5 N" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Ioniq 5 N</h4></figcaption></figur>
 
@@ -213,7 +213,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/trunk_1_st.jpg" alt="Hyundai Ioniq 5 N" title="Hyundai Ioniq 5 N" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/trunk_1_st.jpg" alt="Hyundai Ioniq 5 N" title="Hyundai Ioniq 5 N" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Ioniq 5 N</h4></figcaption></figur>
 

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" width="680" height="567">
+<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" class="img-fluid">
 </a>
 <figcaption><h4>BMW i4 M50</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/charging_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/charging_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" class="img-fluid">
 </a>
 <figcaption><h4>BMW i4 M50</h4></figcaption></figur>
 
@@ -94,7 +94,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/exterior_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/exterior_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" class="img-fluid">
 </a>
 <figcaption><h4>BMW i4 M50</h4></figcaption></figur>
 
@@ -145,7 +145,7 @@ You can choose from 21 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/frontseats_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" width="680" height="480">
+<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/frontseats_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" class="img-fluid">
 </a>
 <figcaption><h4>BMW i4 M50</h4></figcaption></figur>
 
@@ -188,7 +188,7 @@ BMW i4 M50 has twin screens on a shared frame mounted with brackets on top of th
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/screens_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/screens_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" class="img-fluid">
 </a>
 <figcaption><h4>BMW i4 M50</h4></figcaption></figur>
 

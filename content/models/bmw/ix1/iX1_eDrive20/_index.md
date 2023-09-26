@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/main_1_st.jpg" alt="BMW iX1 eDrive20" title="BMW iX1 eDrive20" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/main_1_st.jpg" alt="BMW iX1 eDrive20" title="BMW iX1 eDrive20" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX1 eDrive20</h4></figcaption></figur>
 
@@ -86,7 +86,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_1_st.jpg" alt="BMW iX1 eDrive20" title="BMW iX1 eDrive20" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_1_st.jpg" alt="BMW iX1 eDrive20" title="BMW iX1 eDrive20" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX1 eDrive20</h4></figcaption></figur>
 
@@ -171,7 +171,7 @@ BMW iX1 eDrive20 has twin screens on a shared frame mounted with brackets on top
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/screens_1_st.jpg" alt="BMW iX1 eDrive20" title="BMW iX1 eDrive20" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/screens_1_st.jpg" alt="BMW iX1 eDrive20" title="BMW iX1 eDrive20" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX1 eDrive20</h4></figcaption></figur>
 
@@ -192,7 +192,7 @@ You can choose between two types of headlights for the BMW iX1 eDrive20. The sta
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/headlights_1_st.jpg" alt="BMW iX1 eDrive20" title="BMW iX1 eDrive20" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/headlights_1_st.jpg" alt="BMW iX1 eDrive20" title="BMW iX1 eDrive20" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX1 eDrive20</h4></figcaption></figur>
 

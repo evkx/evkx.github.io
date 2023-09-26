@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/main_1_st.jpg" alt="Honda e:Ny1" title="Honda e:Ny1" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/main_1_st.jpg" alt="Honda e:Ny1" title="Honda e:Ny1" class="img-fluid">
 </a>
 <figcaption><h4>Honda e:Ny1</h4></figcaption></figur>
 
@@ -77,7 +77,7 @@ There is only one roof for this model.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_1_st.jpg" alt="Honda e:Ny1" title="Honda e:Ny1" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_1_st.jpg" alt="Honda e:Ny1" title="Honda e:Ny1" class="img-fluid">
 </a>
 <figcaption><h4>Honda e:Ny1</h4></figcaption></figur>
 
@@ -125,7 +125,7 @@ Honda e:Ny1 has multiple integrated screens. Behind the steering wheel is a [dig
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/screens_1_st.jpg" alt="Honda e:Ny1" title="Honda e:Ny1" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/screens_1_st.jpg" alt="Honda e:Ny1" title="Honda e:Ny1" class="img-fluid">
 </a>
 <figcaption><h4>Honda e:Ny1</h4></figcaption></figur>
 
@@ -142,7 +142,7 @@ One type of sound system is available for the Honda e:Ny1. With the , you get NU
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/headlights_1_st.jpg" alt="Honda e:Ny1" title="Honda e:Ny1" width="680" height="412">
+<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/headlights_1_st.jpg" alt="Honda e:Ny1" title="Honda e:Ny1" class="img-fluid">
 </a>
 <figcaption><h4>Honda e:Ny1</h4></figcaption></figur>
 
@@ -173,7 +173,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/trunk_1_st.jpg" alt="Honda e:Ny1" title="Honda e:Ny1" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/trunk_1_st.jpg" alt="Honda e:Ny1" title="Honda e:Ny1" class="img-fluid">
 </a>
 <figcaption><h4>Honda e:Ny1</h4></figcaption></figur>
 

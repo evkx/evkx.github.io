@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/main_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/main_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr X Privilege AWD</h4></figcaption></figur>
 
@@ -79,7 +79,7 @@ You can choose between two types of roofs on this model. As an option, you can o
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/exterior_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/exterior_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr X Privilege AWD</h4></figcaption></figur>
 
@@ -110,7 +110,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/frontseats_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/frontseats_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr X Privilege AWD</h4></figcaption></figur>
 
@@ -126,7 +126,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/secondrowseats_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/secondrowseats_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr X Privilege AWD</h4></figcaption></figur>
 
@@ -158,7 +158,7 @@ The  screen on the steering column  is 8 inches large. The touch screen at the t
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr X Privilege AWD</h4></figcaption></figur>
 
@@ -179,7 +179,7 @@ You can choose between two types of headlights for the Zeekr X Privilege AWD. Th
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/headlights_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/headlights_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr X Privilege AWD</h4></figcaption></figur>
 
@@ -230,7 +230,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/trunk_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/trunk_1_st.jpg" alt="Zeekr X Privilege AWD" title="Zeekr X Privilege AWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr X Privilege AWD</h4></figcaption></figur>
 

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/main_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/main_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 Long Range RWD</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/charging_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/charging_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 Long Range RWD</h4></figcaption></figur>
 
@@ -89,7 +89,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/exterior_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/exterior_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 Long Range RWD</h4></figcaption></figur>
 
@@ -154,7 +154,7 @@ Zeekr 001 Long Range RWD has multiple integrated screens. Behind the steering wh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/screens_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/screens_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 Long Range RWD</h4></figcaption></figur>
 
@@ -179,7 +179,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/headlights_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/headlights_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 Long Range RWD</h4></figcaption></figur>
 
@@ -224,7 +224,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/trunk_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/trunk_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 Long Range RWD</h4></figcaption></figur>
 

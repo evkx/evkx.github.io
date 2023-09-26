@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1_st.jpg" alt="Smart #1 Pulse" title="Smart #1 Pulse" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1_st.jpg" alt="Smart #1 Pulse" title="Smart #1 Pulse" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1 Pulse</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/charging_1_st.jpg" alt="Smart #1 Pulse" title="Smart #1 Pulse" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/charging_1_st.jpg" alt="Smart #1 Pulse" title="Smart #1 Pulse" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1 Pulse</h4></figcaption></figur>
 
@@ -87,7 +87,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_1_st.jpg" alt="Smart #1 Pulse" title="Smart #1 Pulse" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_1_st.jpg" alt="Smart #1 Pulse" title="Smart #1 Pulse" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1 Pulse</h4></figcaption></figur>
 
@@ -150,7 +150,7 @@ The  screen behind the steering wheel mounted into the dashboard is 10 inches la
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/screens_1_st.jpg" alt="Smart #1 Pulse" title="Smart #1 Pulse" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/screens_1_st.jpg" alt="Smart #1 Pulse" title="Smart #1 Pulse" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1 Pulse</h4></figcaption></figur>
 

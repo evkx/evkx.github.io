@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/main_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/main_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/charging_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/charging_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
 
@@ -98,7 +98,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/exterior_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" width="680" height="459">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/exterior_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
 
@@ -150,7 +150,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/frontseats_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/frontseats_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
 
@@ -197,7 +197,7 @@ The optional MBUX Hyperscreen layout has the following configuration. Behind the
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/screens_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/screens_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
 
@@ -222,7 +222,7 @@ You can choose between two types of headlights for the Mercedes-AMG EQE 43 4MATI
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/headlights_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/headlights_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
 
@@ -275,7 +275,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/trunk_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/trunk_1_st.jpg" alt="Mercedes-AMG EQE 43 4MATIC" title="Mercedes-AMG EQE 43 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQE 43 4MATIC</h4></figcaption></figur>
 

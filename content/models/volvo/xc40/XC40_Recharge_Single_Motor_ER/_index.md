@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER" class="img-fluid">
 </a>
 <figcaption><h4>Volvo XC40 Recharge Single Motor ER</h4></figcaption></figur>
 
@@ -80,7 +80,7 @@ You can choose between two types of roofs on this model. As an option, you can o
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/exterior_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/exterior_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER" class="img-fluid">
 </a>
 <figcaption><h4>Volvo XC40 Recharge Single Motor ER</h4></figcaption></figur>
 
@@ -106,7 +106,7 @@ The zero option is a three-seat bench with a  split where you can fold each sect
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/frontseats_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/frontseats_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER" class="img-fluid">
 </a>
 <figcaption><h4>Volvo XC40 Recharge Single Motor ER</h4></figcaption></figur>
 
@@ -146,7 +146,7 @@ Volvo XC40 Recharge Single Motor ER has multiple integrated screens. Behind the 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/screens_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/screens_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER" class="img-fluid">
 </a>
 <figcaption><h4>Volvo XC40 Recharge Single Motor ER</h4></figcaption></figur>
 
@@ -163,7 +163,7 @@ You can choose between two types of headlights for the Volvo XC40 Recharge Singl
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/headlights_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER" width="680" height="680">
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/headlights_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER" class="img-fluid">
 </a>
 <figcaption><h4>Volvo XC40 Recharge Single Motor ER</h4></figcaption></figur>
 
@@ -208,7 +208,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/trunk_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/trunk_1_st.jpg" alt="Volvo XC40 Recharge Single Motor ER" title="Volvo XC40 Recharge Single Motor ER" class="img-fluid">
 </a>
 <figcaption><h4>Volvo XC40 Recharge Single Motor ER</h4></figcaption></figur>
 

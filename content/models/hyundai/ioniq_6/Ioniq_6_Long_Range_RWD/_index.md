@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Ioniq 6 Long Range RWD</h4></figcaption></figur>
 
@@ -82,7 +82,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/exterior_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/exterior_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Ioniq 6 Long Range RWD</h4></figcaption></figur>
 
@@ -115,7 +115,7 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/frontseats_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/frontseats_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Ioniq 6 Long Range RWD</h4></figcaption></figur>
 
@@ -131,7 +131,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/secondrowseats_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD" width="680" height="481">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/secondrowseats_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Ioniq 6 Long Range RWD</h4></figcaption></figur>
 
@@ -159,7 +159,7 @@ Hyundai Ioniq 6 Long Range RWD has twin screens on a shared frame mounted with b
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/screens_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/screens_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Ioniq 6 Long Range RWD</h4></figcaption></figur>
 
@@ -180,7 +180,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/headlights_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/headlights_1_st.jpg" alt="Hyundai Ioniq 6 Long Range RWD" title="Hyundai Ioniq 6 Long Range RWD" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Ioniq 6 Long Range RWD</h4></figcaption></figur>
 

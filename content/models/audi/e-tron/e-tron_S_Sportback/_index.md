@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/main_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/main_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback" class="img-fluid">
 </a>
 <figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>
 
@@ -90,7 +90,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/exterior_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/exterior_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback" class="img-fluid">
 </a>
 <figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>
 
@@ -156,7 +156,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/frontseats_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/frontseats_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback" class="img-fluid">
 </a>
 <figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>
 
@@ -200,7 +200,7 @@ Audi e-tron S Sportback has multiple integrated screens. Behind the steering whe
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/screens_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/screens_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback" class="img-fluid">
 </a>
 <figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>
 
@@ -271,7 +271,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" alt="Audi e-tron S Sportback" title="Audi e-tron S Sportback" class="img-fluid">
 </a>
 <figcaption><h4>Audi e-tron S Sportback</h4></figcaption></figur>
 

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/main_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/main_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
 
@@ -79,7 +79,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/exterior_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" width="680" height="464">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/exterior_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
 
@@ -110,7 +110,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/frontseats_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/frontseats_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
 
@@ -126,7 +126,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/secondrowseats_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/secondrowseats_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
 
@@ -158,7 +158,7 @@ The  screen behind the steering wheel mounted into the dashboard is 10 inches la
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/screens_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/screens_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
 
@@ -179,7 +179,7 @@ You can choose between two types of headlights for the Smart #1 Brabus. The stan
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/headlights_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/headlights_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
 
@@ -230,7 +230,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/trunk_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/trunk_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
 

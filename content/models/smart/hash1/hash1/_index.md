@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/main_1_st.jpg" alt="Smart #1" title="Smart #1" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/main_1_st.jpg" alt="Smart #1" title="Smart #1" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/charging_1_st.jpg" alt="Smart #1" title="Smart #1" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/charging_1_st.jpg" alt="Smart #1" title="Smart #1" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1</h4></figcaption></figur>
 
@@ -87,7 +87,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1/exterior_2.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/exterior_2_st.jpg" alt="Smart #1" title="Smart #1" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/exterior_2_st.jpg" alt="Smart #1" title="Smart #1" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1</h4></figcaption></figur>
 
@@ -118,7 +118,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/frontseats_1_st.jpg" alt="Smart #1" title="Smart #1" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/frontseats_1_st.jpg" alt="Smart #1" title="Smart #1" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1</h4></figcaption></figur>
 
@@ -134,7 +134,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/secondrowseats_1_st.jpg" alt="Smart #1" title="Smart #1" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/secondrowseats_1_st.jpg" alt="Smart #1" title="Smart #1" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1</h4></figcaption></figur>
 
@@ -166,7 +166,7 @@ The  screen behind the steering wheel mounted into the dashboard is 10 inches la
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/screens_1_st.jpg" alt="Smart #1" title="Smart #1" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/screens_1_st.jpg" alt="Smart #1" title="Smart #1" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1</h4></figcaption></figur>
 
@@ -187,7 +187,7 @@ You can choose between two types of headlights for the Smart #1. The standard he
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/headlights_1_st.jpg" alt="Smart #1" title="Smart #1" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/headlights_1_st.jpg" alt="Smart #1" title="Smart #1" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1</h4></figcaption></figur>
 
@@ -238,7 +238,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1/trunk_3.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/trunk_3_st.jpg" alt="Smart #1" title="Smart #1" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/trunk_3_st.jpg" alt="Smart #1" title="Smart #1" class="img-fluid">
 </a>
 <figcaption><h4>Smart #1</h4></figcaption></figur>
 

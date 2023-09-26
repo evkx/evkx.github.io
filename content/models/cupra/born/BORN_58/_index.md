@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" class="img-fluid">
 </a>
 <figcaption><h4>CUPRA BORN 58</h4></figcaption></figur>
 
@@ -86,7 +86,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" width="680" height="387">
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" class="img-fluid">
 </a>
 <figcaption><h4>CUPRA BORN 58</h4></figcaption></figur>
 
@@ -120,7 +120,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/born/born_58/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/frontseats_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" width="680" height="478">
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/frontseats_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" class="img-fluid">
 </a>
 <figcaption><h4>CUPRA BORN 58</h4></figcaption></figur>
 
@@ -159,7 +159,7 @@ CUPRA BORN 58 has twin screens with information for the driver and passengers. B
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/born/born_58/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/screens_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" width="680" height="388">
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/screens_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" class="img-fluid">
 </a>
 <figcaption><h4>CUPRA BORN 58</h4></figcaption></figur>
 
@@ -180,7 +180,7 @@ The standard headlights use LED technology.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/born/born_58/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/headlights_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" width="680" height="447">
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/headlights_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" class="img-fluid">
 </a>
 <figcaption><h4>CUPRA BORN 58</h4></figcaption></figur>
 

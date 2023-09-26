@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Blazer EV SS</h4></figcaption></figur>
 
@@ -79,7 +79,7 @@ You can choose between two types of roofs on this model. The standard roof has a
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" width="680" height="437">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Blazer EV SS</h4></figcaption></figur>
 
@@ -114,7 +114,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Blazer EV SS</h4></figcaption></figur>
 
@@ -151,7 +151,7 @@ Chevrolet Blazer EV SS has twin screens on a shared frame mounted with brackets 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Blazer EV SS</h4></figcaption></figur>
 
@@ -174,7 +174,7 @@ The model has 5 USB-C connections as standard.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Blazer EV SS</h4></figcaption></figur>
 
@@ -217,7 +217,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" class="img-fluid">
 </a>
 <figcaption><h4>Chevrolet Blazer EV SS</h4></figcaption></figur>
 

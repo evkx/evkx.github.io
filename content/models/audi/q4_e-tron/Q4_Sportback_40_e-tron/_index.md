@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/main_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/main_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 Sportback 40 e-tron</h4></figcaption></figur>
 
@@ -94,7 +94,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/exterior_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/exterior_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 Sportback 40 e-tron</h4></figcaption></figur>
 
@@ -138,7 +138,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/frontseats_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/frontseats_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 Sportback 40 e-tron</h4></figcaption></figur>
 
@@ -156,7 +156,7 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/secondrowseats_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/secondrowseats_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 Sportback 40 e-tron</h4></figcaption></figur>
 
@@ -190,7 +190,7 @@ Audi Q4 Sportback 40 e-tron has multiple integrated screens. Behind the steering
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/screens_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/screens_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 Sportback 40 e-tron</h4></figcaption></figur>
 
@@ -211,7 +211,7 @@ You can choose between two types of headlights for the Audi Q4 Sportback 40 e-tr
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/headlights_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/headlights_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 Sportback 40 e-tron</h4></figcaption></figur>
 
@@ -265,7 +265,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/trunk_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_40_e-tron/trunk_1_st.jpg" alt="Audi Q4 Sportback 40 e-tron" title="Audi Q4 Sportback 40 e-tron" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 Sportback 40 e-tron</h4></figcaption></figur>
 

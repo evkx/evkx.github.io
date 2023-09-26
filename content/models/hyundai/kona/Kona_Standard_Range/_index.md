@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Kona Standard Range</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/charging_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" width="680" height="465">
+<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/charging_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Kona Standard Range</h4></figcaption></figur>
 
@@ -90,7 +90,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/exterior_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/exterior_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Kona Standard Range</h4></figcaption></figur>
 
@@ -137,7 +137,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/secondrowseats_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" width="680" height="488">
+<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/secondrowseats_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Kona Standard Range</h4></figcaption></figur>
 
@@ -169,7 +169,7 @@ Hyundai Kona Standard Range has twin screens on a shared frame mounted with brac
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/screens_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/screens_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Kona Standard Range</h4></figcaption></figur>
 
@@ -190,7 +190,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/headlights_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/headlights_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Kona Standard Range</h4></figcaption></figur>
 
@@ -243,7 +243,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/trunk_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/trunk_1_st.jpg" alt="Hyundai Kona Standard Range" title="Hyundai Kona Standard Range" class="img-fluid">
 </a>
 <figcaption><h4>Hyundai Kona Standard Range</h4></figcaption></figur>
 

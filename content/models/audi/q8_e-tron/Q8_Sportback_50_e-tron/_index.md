@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1_st.jpeg" alt="Audi Q8 Sportback 50 e-tron" title="Audi Q8 Sportback 50 e-tron" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1_st.jpeg" alt="Audi Q8 Sportback 50 e-tron" title="Audi Q8 Sportback 50 e-tron" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q8 Sportback 50 e-tron</h4></figcaption></figur>
 
@@ -94,7 +94,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/exterior_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/exterior_1_st.jpeg" alt="Audi Q8 Sportback 50 e-tron" title="Audi Q8 Sportback 50 e-tron" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/exterior_1_st.jpeg" alt="Audi Q8 Sportback 50 e-tron" title="Audi Q8 Sportback 50 e-tron" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q8 Sportback 50 e-tron</h4></figcaption></figur>
 

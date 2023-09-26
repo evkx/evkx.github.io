@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #3 Brabus</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/charging_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/charging_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #3 Brabus</h4></figcaption></figur>
 
@@ -87,7 +87,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/exterior_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/exterior_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #3 Brabus</h4></figcaption></figur>
 
@@ -118,7 +118,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/frontseats_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/frontseats_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #3 Brabus</h4></figcaption></figur>
 
@@ -158,7 +158,7 @@ The  screen behind the steering wheel mounted into the dashboard is 10 inches la
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/screens_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/screens_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #3 Brabus</h4></figcaption></figur>
 
@@ -179,7 +179,7 @@ You can choose between two types of headlights for the Smart #3 Brabus. The stan
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/headlights_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/headlights_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" class="img-fluid">
 </a>
 <figcaption><h4>Smart #3 Brabus</h4></figcaption></figur>
 

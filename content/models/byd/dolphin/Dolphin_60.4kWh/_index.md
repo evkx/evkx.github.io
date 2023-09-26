@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" width="680" height="479">
+<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" class="img-fluid">
 </a>
 <figcaption><h4>BYD Dolphin 60.4kWh</h4></figcaption></figur>
 
@@ -85,7 +85,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/exterior_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" width="680" height="441">
+<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/exterior_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" class="img-fluid">
 </a>
 <figcaption><h4>BYD Dolphin 60.4kWh</h4></figcaption></figur>
 
@@ -121,7 +121,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/frontseats_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" width="680" height="429">
+<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/frontseats_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" class="img-fluid">
 </a>
 <figcaption><h4>BYD Dolphin 60.4kWh</h4></figcaption></figur>
 
@@ -137,7 +137,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" width="680" height="441">
+<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" class="img-fluid">
 </a>
 <figcaption><h4>BYD Dolphin 60.4kWh</h4></figcaption></figur>
 
@@ -175,7 +175,7 @@ The optional Design layout has the following configuration. Behind the steering 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" width="680" height="421">
+<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" class="img-fluid">
 </a>
 <figcaption><h4>BYD Dolphin 60.4kWh</h4></figcaption></figur>
 
@@ -194,7 +194,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/headlights_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" width="680" height="393">
+<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/headlights_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" class="img-fluid">
 </a>
 <figcaption><h4>BYD Dolphin 60.4kWh</h4></figcaption></figur>
 
@@ -244,7 +244,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" width="680" height="483">
+<img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" alt="BYD Dolphin 60.4kWh" title="BYD Dolphin 60.4kWh" class="img-fluid">
 </a>
 <figcaption><h4>BYD Dolphin 60.4kWh</h4></figcaption></figur>
 

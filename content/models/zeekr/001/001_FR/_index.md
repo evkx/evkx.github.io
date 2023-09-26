@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_st.jpeg" alt="Zeekr 001 FR" title="Zeekr 001 FR" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_st.jpeg" alt="Zeekr 001 FR" title="Zeekr 001 FR" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 FR</h4></figcaption></figur>
 
@@ -81,7 +81,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_1_st.jpeg" alt="Zeekr 001 FR" title="Zeekr 001 FR" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_1_st.jpeg" alt="Zeekr 001 FR" title="Zeekr 001 FR" class="img-fluid">
 </a>
 <figcaption><h4>Zeekr 001 FR</h4></figcaption></figur>
 

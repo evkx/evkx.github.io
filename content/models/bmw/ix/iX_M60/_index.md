@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/main_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/main_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/charging_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/charging_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
 
@@ -93,7 +93,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/exterior_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/exterior_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
 
@@ -128,7 +128,7 @@ You can choose from 7 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/frontseats_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/frontseats_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
 
@@ -171,7 +171,7 @@ BMW iX M60 has twin screens on a shared frame mounted with brackets on top of th
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/screens_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/screens_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
 
@@ -192,7 +192,7 @@ You can choose between two types of headlights for the BMW iX M60. The standard 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/headlights_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/headlights_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
 
@@ -244,7 +244,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/trunk_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/trunk_1_st.jpg" alt="BMW iX M60" title="BMW iX M60" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX M60</h4></figcaption></figur>
 

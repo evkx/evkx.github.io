@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1_st.jpg" alt="Porsche Taycan Turbo" title="Porsche Taycan Turbo" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1_st.jpg" alt="Porsche Taycan Turbo" title="Porsche Taycan Turbo" class="img-fluid">
 </a>
 <figcaption><h4>Porsche Taycan Turbo</h4></figcaption></figur>
 
@@ -96,7 +96,7 @@ The standard is just a regular roof. As an option, you can order this model with
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_1_st.jpg" alt="Porsche Taycan Turbo" title="Porsche Taycan Turbo" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_1_st.jpg" alt="Porsche Taycan Turbo" title="Porsche Taycan Turbo" class="img-fluid">
 </a>
 <figcaption><h4>Porsche Taycan Turbo</h4></figcaption></figur>
 
@@ -194,7 +194,7 @@ Porsche Taycan Turbo has multiple integrated screens. Behind the steering wheel 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_1_st.jpg" alt="Porsche Taycan Turbo" title="Porsche Taycan Turbo" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_1_st.jpg" alt="Porsche Taycan Turbo" title="Porsche Taycan Turbo" class="img-fluid">
 </a>
 <figcaption><h4>Porsche Taycan Turbo</h4></figcaption></figur>
 
@@ -264,7 +264,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/trunk_1_st.jpg" alt="Porsche Taycan Turbo" title="Porsche Taycan Turbo" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/trunk_1_st.jpg" alt="Porsche Taycan Turbo" title="Porsche Taycan Turbo" class="img-fluid">
 </a>
 <figcaption><h4>Porsche Taycan Turbo</h4></figcaption></figur>
 

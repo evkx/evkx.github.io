@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/main_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/main_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
 
@@ -53,7 +53,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/charging_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/charging_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
 
@@ -96,7 +96,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/exterior_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" width="680" height="452">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/exterior_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
 
@@ -148,7 +148,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/frontseats_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/frontseats_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
 
@@ -198,7 +198,7 @@ Mercedes-AMG EQS 53 4MATIC+ has multiple integrated screens. Behind the steering
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/screens_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" width="680" height="384">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/screens_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
 
@@ -272,7 +272,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/trunk_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/trunk_1_st.jpg" alt="Mercedes-AMG EQS 53 4MATIC+" title="Mercedes-AMG EQS 53 4MATIC+" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-AMG EQS 53 4MATIC+</h4></figcaption></figur>
 

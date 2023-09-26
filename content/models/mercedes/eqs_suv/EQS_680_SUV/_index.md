@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" width="680" height="480">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
 
@@ -90,7 +90,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
 
@@ -128,7 +128,7 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
 
@@ -153,7 +153,7 @@ For the second row, this model has twin [executive seats](../../../../technology
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
 
@@ -187,7 +187,7 @@ Mercedes-Maybach EQS 680 SUV has multiple integrated screens. Behind the steerin
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
 
@@ -212,7 +212,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/headlights_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/headlights_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-Maybach EQS 680 SUV</h4></figcaption></figur>
 

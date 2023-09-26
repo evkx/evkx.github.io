@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" class="img-fluid">
 </a>
 <figcaption><h4>Cadillac LYRIQ AWD</h4></figcaption></figur>
 
@@ -78,7 +78,7 @@ You can choose between two types of roofs on this model. The standard roof has a
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/exterior_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/exterior_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" class="img-fluid">
 </a>
 <figcaption><h4>Cadillac LYRIQ AWD</h4></figcaption></figur>
 
@@ -113,7 +113,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/frontseats_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" width="680" height="612">
+<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/frontseats_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" class="img-fluid">
 </a>
 <figcaption><h4>Cadillac LYRIQ AWD</h4></figcaption></figur>
 
@@ -128,7 +128,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/secondrowseats_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/secondrowseats_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" class="img-fluid">
 </a>
 <figcaption><h4>Cadillac LYRIQ AWD</h4></figcaption></figur>
 
@@ -158,7 +158,7 @@ Cadillac LYRIQ AWD has a single screen. The dashboard’s center has a single [i
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/screens_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/screens_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" class="img-fluid">
 </a>
 <figcaption><h4>Cadillac LYRIQ AWD</h4></figcaption></figur>
 
@@ -181,7 +181,7 @@ The model has 5 USB-C connections as standard.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/headlights_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" width="680" height="447">
+<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/headlights_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" class="img-fluid">
 </a>
 <figcaption><h4>Cadillac LYRIQ AWD</h4></figcaption></figur>
 
@@ -224,7 +224,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/trunk_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/trunk_1_st.jpg" alt="Cadillac LYRIQ AWD" title="Cadillac LYRIQ AWD" class="img-fluid">
 </a>
 <figcaption><h4>Cadillac LYRIQ AWD</h4></figcaption></figur>
 

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/main_1_st.jpg" alt="Mercedes-EQ EQB 350 4MATIC" title="Mercedes-EQ EQB 350 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/main_1_st.jpg" alt="Mercedes-EQ EQB 350 4MATIC" title="Mercedes-EQ EQB 350 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQB 350 4MATIC</h4></figcaption></figur>
 
@@ -86,7 +86,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQB 350 4MATIC" title="Mercedes-EQ EQB 350 4MATIC" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQB 350 4MATIC" title="Mercedes-EQ EQB 350 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQB 350 4MATIC</h4></figcaption></figur>
 
@@ -139,7 +139,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQB 350 4MATIC" title="Mercedes-EQ EQB 350 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQB 350 4MATIC" title="Mercedes-EQ EQB 350 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQB 350 4MATIC</h4></figcaption></figur>
 
@@ -185,7 +185,7 @@ Mercedes-EQ EQB 350 4MATIC has twin screens on a shared frame mounted with brack
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQB 350 4MATIC" title="Mercedes-EQ EQB 350 4MATIC" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQB 350 4MATIC" title="Mercedes-EQ EQB 350 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQB 350 4MATIC</h4></figcaption></figur>
 
@@ -252,7 +252,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQB 350 4MATIC" title="Mercedes-EQ EQB 350 4MATIC" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/trunk_1_st.jpg" alt="Mercedes-EQ EQB 350 4MATIC" title="Mercedes-EQ EQB 350 4MATIC" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQB 350 4MATIC</h4></figcaption></figur>
 

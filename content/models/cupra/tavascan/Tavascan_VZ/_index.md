@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1.JPG">
-<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ" width="680" height="379">
+<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ" class="img-fluid">
 </a>
 <figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
 
@@ -86,7 +86,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_1.JPG">
-<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_1_st.JPG" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ" width="680" height="379">
+<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_1_st.JPG" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ" class="img-fluid">
 </a>
 <figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
 
@@ -120,7 +120,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/frontseats_1_st.jpg" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/frontseats_1_st.jpg" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ" class="img-fluid">
 </a>
 <figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
 
@@ -159,7 +159,7 @@ CUPRA Tavascan VZ has twin screens with information for the driver and passenger
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/screens_1_st.jpg" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ" width="680" height="388">
+<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/screens_1_st.jpg" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ" class="img-fluid">
 </a>
 <figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
 
@@ -180,7 +180,7 @@ The standard headlights use LED technology.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/headlights_1.JPG">
-<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/headlights_1_st.JPG" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ" width="680" height="379">
+<img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/headlights_1_st.JPG" alt="CUPRA Tavascan VZ" title="CUPRA Tavascan VZ" class="img-fluid">
 </a>
 <figcaption><h4>CUPRA Tavascan VZ</h4></figcaption></figur>
 

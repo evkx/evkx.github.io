@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" alt="Fisker Ocean Extreme" title="Fisker Ocean Extreme" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" alt="Fisker Ocean Extreme" title="Fisker Ocean Extreme" class="img-fluid">
 </a>
 <figcaption><h4>Fisker Ocean Extreme</h4></figcaption></figur>
 
@@ -78,7 +78,7 @@ There is only one roof for this model. As an option, you can order this model wi
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/exterior_1_st.jpg" alt="Fisker Ocean Extreme" title="Fisker Ocean Extreme" width="680" height="370">
+<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/exterior_1_st.jpg" alt="Fisker Ocean Extreme" title="Fisker Ocean Extreme" class="img-fluid">
 </a>
 <figcaption><h4>Fisker Ocean Extreme</h4></figcaption></figur>
 
@@ -148,7 +148,7 @@ Fisker Ocean Extreme has multiple integrated screens. Behind the steering wheel 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/screens_1_st.jpg" alt="Fisker Ocean Extreme" title="Fisker Ocean Extreme" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/screens_1_st.jpg" alt="Fisker Ocean Extreme" title="Fisker Ocean Extreme" class="img-fluid">
 </a>
 <figcaption><h4>Fisker Ocean Extreme</h4></figcaption></figur>
 

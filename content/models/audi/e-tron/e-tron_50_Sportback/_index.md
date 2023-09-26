@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/main_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" width="680" height="451">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/main_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
 <figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
 
@@ -94,7 +94,7 @@ You can order the car with tinted windows from B-pillar and back. As an option, 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/exterior_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/exterior_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
 <figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
 
@@ -186,7 +186,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/frontseats_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/frontseats_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
 <figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
 
@@ -202,7 +202,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/secondrowseats_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/secondrowseats_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
 <figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
 
@@ -238,7 +238,7 @@ Audi e-tron 50 Sportback has multiple integrated screens. Behind the steering wh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/screens_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/screens_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
 <figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
 
@@ -259,7 +259,7 @@ You can choose between three types of headlights for the Audi e-tron 50 Sportbac
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/headlights_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/headlights_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
 <figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
 
@@ -317,7 +317,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/trunk_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/trunk_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
 <figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
 

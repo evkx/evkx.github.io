@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" alt="Nissan Ariya 63kWh" title="Nissan Ariya 63kWh" width="680" height="428">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" alt="Nissan Ariya 63kWh" title="Nissan Ariya 63kWh" class="img-fluid">
 </a>
 <figcaption><h4>Nissan Ariya 63kWh</h4></figcaption></figur>
 
@@ -86,7 +86,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/exterior_1_st.jpg" alt="Nissan Ariya 63kWh" title="Nissan Ariya 63kWh" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/exterior_1_st.jpg" alt="Nissan Ariya 63kWh" title="Nissan Ariya 63kWh" class="img-fluid">
 </a>
 <figcaption><h4>Nissan Ariya 63kWh</h4></figcaption></figur>
 
@@ -153,7 +153,7 @@ Nissan Ariya 63kWh has twin screens on a shared frame mounted with brackets on t
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/screens_1_st.jpg" alt="Nissan Ariya 63kWh" title="Nissan Ariya 63kWh" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/screens_1_st.jpg" alt="Nissan Ariya 63kWh" title="Nissan Ariya 63kWh" class="img-fluid">
 </a>
 <figcaption><h4>Nissan Ariya 63kWh</h4></figcaption></figur>
 
@@ -218,7 +218,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/trunk_1_st.jpg" alt="Nissan Ariya 63kWh" title="Nissan Ariya 63kWh" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/trunk_1_st.jpg" alt="Nissan Ariya 63kWh" title="Nissan Ariya 63kWh" class="img-fluid">
 </a>
 <figcaption><h4>Nissan Ariya 63kWh</h4></figcaption></figur>
 

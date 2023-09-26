@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" width="680" height="452">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
 
@@ -86,7 +86,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
 
@@ -116,7 +116,7 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/frontseats_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/frontseats_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
 
@@ -131,7 +131,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/secondrowseats_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/secondrowseats_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
 
@@ -167,7 +167,7 @@ The optional  layout has the following configuration. Behind the steering wheel 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
 
@@ -188,7 +188,7 @@ You can choose between two types of headlights for the Volkswagen ID.3 Pro S. Th
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/headlights_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" width="680" height="429">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/headlights_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
 
@@ -247,7 +247,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
 

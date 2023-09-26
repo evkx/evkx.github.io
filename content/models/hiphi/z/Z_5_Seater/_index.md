@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_st.jpg" alt="HiPhi Z 5 Seater" title="HiPhi Z 5 Seater" width="680" height="336">
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_st.jpg" alt="HiPhi Z 5 Seater" title="HiPhi Z 5 Seater" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi Z 5 Seater</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/charging_1_st.jpg" alt="HiPhi Z 5 Seater" title="HiPhi Z 5 Seater" width="680" height="460">
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/charging_1_st.jpg" alt="HiPhi Z 5 Seater" title="HiPhi Z 5 Seater" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi Z 5 Seater</h4></figcaption></figur>
 
@@ -93,7 +93,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/exterior_1_st.jpg" alt="HiPhi Z 5 Seater" title="HiPhi Z 5 Seater" width="680" height="317">
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/exterior_1_st.jpg" alt="HiPhi Z 5 Seater" title="HiPhi Z 5 Seater" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi Z 5 Seater</h4></figcaption></figur>
 
@@ -131,7 +131,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/frontseats_1_st.jpg" alt="HiPhi Z 5 Seater" title="HiPhi Z 5 Seater" width="680" height="511">
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/frontseats_1_st.jpg" alt="HiPhi Z 5 Seater" title="HiPhi Z 5 Seater" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi Z 5 Seater</h4></figcaption></figur>
 
@@ -175,7 +175,7 @@ HiPhi Z 5 Seater has a single screen. The dashboard’s center has a single [inf
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/screens_1_st.jpg" alt="HiPhi Z 5 Seater" title="HiPhi Z 5 Seater" width="680" height="465">
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/screens_1_st.jpg" alt="HiPhi Z 5 Seater" title="HiPhi Z 5 Seater" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi Z 5 Seater</h4></figcaption></figur>
 
@@ -200,7 +200,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/headlights_1_st.jpg" alt="HiPhi Z 5 Seater" title="HiPhi Z 5 Seater" width="680" height="332">
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/headlights_1_st.jpg" alt="HiPhi Z 5 Seater" title="HiPhi Z 5 Seater" class="img-fluid">
 </a>
 <figcaption><h4>HiPhi Z 5 Seater</h4></figcaption></figur>
 

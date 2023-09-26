@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/han/han/main_1_st.jpg" alt="BYD Han" title="BYD Han" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/byd/han/han/main_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
 
@@ -55,7 +55,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/battery_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/han/han/battery_1_st.jpg" alt="BYD Han" title="BYD Han" width="680" height="294">
+<img src="https://media.evkx.net/multimedia/models/byd/han/han/battery_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
 
@@ -93,7 +93,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/han/han/exterior_1_st.jpg" alt="BYD Han" title="BYD Han" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/byd/han/han/exterior_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
 
@@ -129,7 +129,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/han/han/frontseats_1_st.jpg" alt="BYD Han" title="BYD Han" width="680" height="409">
+<img src="https://media.evkx.net/multimedia/models/byd/han/han/frontseats_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
 
@@ -146,7 +146,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/han/han/secondrowseats_1_st.jpg" alt="BYD Han" title="BYD Han" width="680" height="408">
+<img src="https://media.evkx.net/multimedia/models/byd/han/han/secondrowseats_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
 
@@ -180,7 +180,7 @@ BYD Han has twin screens on a shared frame mounted with brackets on top of the d
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/han/han/screens_1_st.jpg" alt="BYD Han" title="BYD Han" width="680" height="375">
+<img src="https://media.evkx.net/multimedia/models/byd/han/han/screens_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
 
@@ -199,7 +199,7 @@ The standard headlights use LED technology.   In addition, the standard tailligh
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/han/han/headlights_1_st.jpg" alt="BYD Han" title="BYD Han" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/byd/han/han/headlights_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
 
@@ -254,7 +254,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/han/han/trunk_1_st.jpg" alt="BYD Han" title="BYD Han" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/byd/han/han/trunk_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
 <figcaption><h4>BYD Han</h4></figcaption></figur>
 

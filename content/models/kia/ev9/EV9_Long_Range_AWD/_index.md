@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/main_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/main_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" class="img-fluid">
 </a>
 <figcaption><h4>Kia EV9 Long Range AWD</h4></figcaption></figur>
 
@@ -82,7 +82,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" class="img-fluid">
 </a>
 <figcaption><h4>Kia EV9 Long Range AWD</h4></figcaption></figur>
 
@@ -115,7 +115,7 @@ You can choose from 6 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/frontseats_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/frontseats_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" class="img-fluid">
 </a>
 <figcaption><h4>Kia EV9 Long Range AWD</h4></figcaption></figur>
 
@@ -135,7 +135,7 @@ The second option is two captain chairs. In addition, the following functionalit
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/secondrowseats_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/secondrowseats_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" class="img-fluid">
 </a>
 <figcaption><h4>Kia EV9 Long Range AWD</h4></figcaption></figur>
 
@@ -149,7 +149,7 @@ The third row has a two-seat bench with a 50:50 split. Again, you can fold down 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/thirdrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/thirdrowseats_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/thirdrowseats_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" class="img-fluid">
 </a>
 <figcaption><h4>Kia EV9 Long Range AWD</h4></figcaption></figur>
 
@@ -183,7 +183,7 @@ Kia EV9 Long Range AWD has twin screens on a shared frame mounted with brackets 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/screens_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/screens_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" class="img-fluid">
 </a>
 <figcaption><h4>Kia EV9 Long Range AWD</h4></figcaption></figur>
 
@@ -204,7 +204,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/headlights_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/headlights_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" class="img-fluid">
 </a>
 <figcaption><h4>Kia EV9 Long Range AWD</h4></figcaption></figur>
 
@@ -253,7 +253,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/trunk_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/trunk_1_st.jpg" alt="Kia EV9 Long Range AWD" title="Kia EV9 Long Range AWD" class="img-fluid">
 </a>
 <figcaption><h4>Kia EV9 Long Range AWD</h4></figcaption></figur>
 

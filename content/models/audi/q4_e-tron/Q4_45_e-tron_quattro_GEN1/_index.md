@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/main_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="452">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/main_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
 
@@ -55,7 +55,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/battery_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/battery_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="400">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/battery_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
 
@@ -102,7 +102,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/exterior_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/exterior_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
 
@@ -146,7 +146,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/frontseats_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="452">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/frontseats_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
 
@@ -164,7 +164,7 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
 
@@ -198,7 +198,7 @@ Audi Q4 45 e-tron quattro (GEN1) has multiple integrated screens. Behind the ste
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/screens_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/screens_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
 
@@ -219,7 +219,7 @@ You can choose between two types of headlights for the Audi Q4 45 e-tron quattro
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="454">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
 
@@ -273,7 +273,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/trunk_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" width="680" height="509">
+<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/trunk_1_st.jpg" alt="Audi Q4 45 e-tron quattro (GEN1)" title="Audi Q4 45 e-tron quattro (GEN1)" class="img-fluid">
 </a>
 <figcaption><h4>Audi Q4 45 e-tron quattro (GEN1)</h4></figcaption></figur>
 

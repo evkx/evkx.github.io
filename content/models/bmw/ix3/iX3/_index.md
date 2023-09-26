@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg" alt="BMW iX3" title="BMW iX3" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg" alt="BMW iX3" title="BMW iX3" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX3</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/charging_1_st.jpg" alt="BMW iX3" title="BMW iX3" width="680" height="469">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/charging_1_st.jpg" alt="BMW iX3" title="BMW iX3" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX3</h4></figcaption></figur>
 
@@ -94,7 +94,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/exterior_1_st.jpg" alt="BMW iX3" title="BMW iX3" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/exterior_1_st.jpg" alt="BMW iX3" title="BMW iX3" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX3</h4></figcaption></figur>
 
@@ -138,7 +138,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/secondrowseats_1_st.jpg" alt="BMW iX3" title="BMW iX3" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/secondrowseats_1_st.jpg" alt="BMW iX3" title="BMW iX3" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX3</h4></figcaption></figur>
 
@@ -170,7 +170,7 @@ The  screen behind the steering wheel integrated into the dashboard is 12 inches
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_1_st.jpg" alt="BMW iX3" title="BMW iX3" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_1_st.jpg" alt="BMW iX3" title="BMW iX3" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX3</h4></figcaption></figur>
 
@@ -231,7 +231,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/trunk_1_st.jpg" alt="BMW iX3" title="BMW iX3" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/trunk_1_st.jpg" alt="BMW iX3" title="BMW iX3" class="img-fluid">
 </a>
 <figcaption><h4>BMW iX3</h4></figcaption></figur>
 

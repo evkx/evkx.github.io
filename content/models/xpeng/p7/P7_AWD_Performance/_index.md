@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_st.jpg" alt="XPENG P7 AWD Performance" title="XPENG P7 AWD Performance" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_st.jpg" alt="XPENG P7 AWD Performance" title="XPENG P7 AWD Performance" class="img-fluid">
 </a>
 <figcaption><h4>XPENG P7 AWD Performance</h4></figcaption></figur>
 
@@ -81,7 +81,7 @@ The windows from B-pillar and back are tinted.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_1_st.jpg" alt="XPENG P7 AWD Performance" title="XPENG P7 AWD Performance" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_1_st.jpg" alt="XPENG P7 AWD Performance" title="XPENG P7 AWD Performance" class="img-fluid">
 </a>
 <figcaption><h4>XPENG P7 AWD Performance</h4></figcaption></figur>
 
@@ -153,7 +153,7 @@ XPENG P7 AWD Performance has twin screens on a shared frame mounted with bracket
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_1_st.jpg" alt="XPENG P7 AWD Performance" title="XPENG P7 AWD Performance" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_1_st.jpg" alt="XPENG P7 AWD Performance" title="XPENG P7 AWD Performance" class="img-fluid">
 </a>
 <figcaption><h4>XPENG P7 AWD Performance</h4></figcaption></figur>
 

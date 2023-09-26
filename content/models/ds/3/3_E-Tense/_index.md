@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1_st.jpg" alt="DS 3 E-Tense" title="DS 3 E-Tense" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1_st.jpg" alt="DS 3 E-Tense" title="DS 3 E-Tense" class="img-fluid">
 </a>
 <figcaption><h4>DS 3 E-Tense</h4></figcaption></figur>
 
@@ -49,7 +49,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/charging_1_st.jpg" alt="DS 3 E-Tense" title="DS 3 E-Tense" width="680" height="446">
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/charging_1_st.jpg" alt="DS 3 E-Tense" title="DS 3 E-Tense" class="img-fluid">
 </a>
 <figcaption><h4>DS 3 E-Tense</h4></figcaption></figur>
 
@@ -88,7 +88,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/exterior_1_st.jpg" alt="DS 3 E-Tense" title="DS 3 E-Tense" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/exterior_1_st.jpg" alt="DS 3 E-Tense" title="DS 3 E-Tense" class="img-fluid">
 </a>
 <figcaption><h4>DS 3 E-Tense</h4></figcaption></figur>
 
@@ -150,7 +150,7 @@ The  screen behind the steering wheel integrated into the dashboard is 7 inches 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/screens_1_st.jpg" alt="DS 3 E-Tense" title="DS 3 E-Tense" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/screens_1_st.jpg" alt="DS 3 E-Tense" title="DS 3 E-Tense" class="img-fluid">
 </a>
 <figcaption><h4>DS 3 E-Tense</h4></figcaption></figur>
 
@@ -171,7 +171,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/headlights_1_st.jpg" alt="DS 3 E-Tense" title="DS 3 E-Tense" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/headlights_1_st.jpg" alt="DS 3 E-Tense" title="DS 3 E-Tense" class="img-fluid">
 </a>
 <figcaption><h4>DS 3 E-Tense</h4></figcaption></figur>
 
@@ -205,7 +205,7 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/trunk_1_st.jpg" alt="DS 3 E-Tense" title="DS 3 E-Tense" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/trunk_1_st.jpg" alt="DS 3 E-Tense" title="DS 3 E-Tense" class="img-fluid">
 </a>
 <figcaption><h4>DS 3 E-Tense</h4></figcaption></figur>
 

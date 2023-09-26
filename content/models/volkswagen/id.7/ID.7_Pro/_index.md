@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.7 Pro</h4></figcaption></figur>
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/charging_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/charging_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.7 Pro</h4></figcaption></figur>
 
@@ -96,7 +96,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/exterior_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/exterior_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.7 Pro</h4></figcaption></figur>
 
@@ -144,7 +144,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/frontseats_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/frontseats_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.7 Pro</h4></figcaption></figur>
 
@@ -159,7 +159,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/secondrowseats_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/secondrowseats_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.7 Pro</h4></figcaption></figur>
 
@@ -191,7 +191,7 @@ Volkswagen ID.7 Pro has twin screens with information for the driver and passeng
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/screens_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/screens_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.7 Pro</h4></figcaption></figur>
 
@@ -212,7 +212,7 @@ You can choose between two types of headlights for the Volkswagen ID.7 Pro. The 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/headlights_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/headlights_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.7 Pro</h4></figcaption></figur>
 
@@ -267,7 +267,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/trunk_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/trunk_1_st.jpg" alt="Volkswagen ID.7 Pro" title="Volkswagen ID.7 Pro" class="img-fluid">
 </a>
 <figcaption><h4>Volkswagen ID.7 Pro</h4></figcaption></figur>
 

@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/main_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" width="680" height="417">
+<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/main_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" class="img-fluid">
 </a>
 <figcaption><h4>Lotus Eletre S</h4></figcaption></figur>
 
@@ -84,7 +84,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/exterior_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" width="680" height="405">
+<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/exterior_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" class="img-fluid">
 </a>
 <figcaption><h4>Lotus Eletre S</h4></figcaption></figur>
 
@@ -123,7 +123,7 @@ You can choose from 5 different materials/colors for this seat type.
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/frontseats_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/frontseats_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" class="img-fluid">
 </a>
 <figcaption><h4>Lotus Eletre S</h4></figcaption></figur>
 
@@ -143,7 +143,7 @@ The second option is twin [executive seats](../../../../technology/seats/types/#
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/secondrowseats_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/secondrowseats_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" class="img-fluid">
 </a>
 <figcaption><h4>Lotus Eletre S</h4></figcaption></figur>
 
@@ -175,7 +175,7 @@ The  screen behind the steering wheel integrated into the dashboard is 12,3 inch
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/screens_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" width="680" height="434">
+<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/screens_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" class="img-fluid">
 </a>
 <figcaption><h4>Lotus Eletre S</h4></figcaption></figur>
 
@@ -200,7 +200,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/headlights_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/headlights_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" class="img-fluid">
 </a>
 <figcaption><h4>Lotus Eletre S</h4></figcaption></figur>
 
@@ -255,7 +255,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/trunk_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/trunk_1_st.jpg" alt="Lotus Eletre S" title="Lotus Eletre S" class="img-fluid">
 </a>
 <figcaption><h4>Lotus Eletre S</h4></figcaption></figur>
 

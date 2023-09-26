@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/el6/el6/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_1_st.jpg" alt="Nio EL6" title="Nio EL6" width="680" height="377">
+<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_1_st.jpg" alt="Nio EL6" title="Nio EL6" class="img-fluid">
 </a>
 <figcaption><h4>Nio EL6</h4></figcaption></figur>
 
@@ -99,7 +99,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/el6/el6/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/exterior_1_st.jpg" alt="Nio EL6" title="Nio EL6" width="680" height="340">
+<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/exterior_1_st.jpg" alt="Nio EL6" title="Nio EL6" class="img-fluid">
 </a>
 <figcaption><h4>Nio EL6</h4></figcaption></figur>
 
@@ -136,7 +136,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/el6/el6/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/frontseats_1_st.jpg" alt="Nio EL6" title="Nio EL6" width="680" height="546">
+<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/frontseats_1_st.jpg" alt="Nio EL6" title="Nio EL6" class="img-fluid">
 </a>
 <figcaption><h4>Nio EL6</h4></figcaption></figur>
 
@@ -178,7 +178,7 @@ The  screen behind the steering wheel mounted into the dashboard is 9,8 inches l
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/el6/el6/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/screens_1_st.jpg" alt="Nio EL6" title="Nio EL6" width="680" height="340">
+<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/screens_1_st.jpg" alt="Nio EL6" title="Nio EL6" class="img-fluid">
 </a>
 <figcaption><h4>Nio EL6</h4></figcaption></figur>
 
@@ -251,7 +251,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/nio/el6/el6/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/trunk_1_st.jpg" alt="Nio EL6" title="Nio EL6" width="680" height="425">
+<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/trunk_1_st.jpg" alt="Nio EL6" title="Nio EL6" class="img-fluid">
 </a>
 <figcaption><h4>Nio EL6</h4></figcaption></figur>
 

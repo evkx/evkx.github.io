@@ -12,7 +12,7 @@ hidden: true
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1_st.jpg" alt="Volvo EX30 Single Motor Extended Range" title="Volvo EX30 Single Motor Extended Range" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1_st.jpg" alt="Volvo EX30 Single Motor Extended Range" title="Volvo EX30 Single Motor Extended Range" class="img-fluid">
 </a>
 <figcaption><h4>Volvo EX30 Single Motor Extended Range</h4></figcaption></figur>
 
@@ -80,7 +80,7 @@ You can choose between two types of roofs on this model. As an option, you can o
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/exterior_1_st.jpg" alt="Volvo EX30 Single Motor Extended Range" title="Volvo EX30 Single Motor Extended Range" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/exterior_1_st.jpg" alt="Volvo EX30 Single Motor Extended Range" title="Volvo EX30 Single Motor Extended Range" class="img-fluid">
 </a>
 <figcaption><h4>Volvo EX30 Single Motor Extended Range</h4></figcaption></figur>
 
@@ -122,7 +122,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/secondrowseats_1_st.jpg" alt="Volvo EX30 Single Motor Extended Range" title="Volvo EX30 Single Motor Extended Range" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/secondrowseats_1_st.jpg" alt="Volvo EX30 Single Motor Extended Range" title="Volvo EX30 Single Motor Extended Range" class="img-fluid">
 </a>
 <figcaption><h4>Volvo EX30 Single Motor Extended Range</h4></figcaption></figur>
 
@@ -154,7 +154,7 @@ Volvo EX30 Single Motor Extended Range has multiple integrated screens. The touc
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/screens_1_st.jpg" alt="Volvo EX30 Single Motor Extended Range" title="Volvo EX30 Single Motor Extended Range" width="680" height="629">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/screens_1_st.jpg" alt="Volvo EX30 Single Motor Extended Range" title="Volvo EX30 Single Motor Extended Range" class="img-fluid">
 </a>
 <figcaption><h4>Volvo EX30 Single Motor Extended Range</h4></figcaption></figur>
 
@@ -173,7 +173,7 @@ You can choose between two types of headlights for the Volvo EX30 Single Motor E
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/headlights_1_st.jpg" alt="Volvo EX30 Single Motor Extended Range" title="Volvo EX30 Single Motor Extended Range" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/headlights_1_st.jpg" alt="Volvo EX30 Single Motor Extended Range" title="Volvo EX30 Single Motor Extended Range" class="img-fluid">
 </a>
 <figcaption><h4>Volvo EX30 Single Motor Extended Range</h4></figcaption></figur>
 
@@ -224,7 +224,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/trunk_1_st.jpg" alt="Volvo EX30 Single Motor Extended Range" title="Volvo EX30 Single Motor Extended Range" width="680" height="510">
+<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/trunk_1_st.jpg" alt="Volvo EX30 Single Motor Extended Range" title="Volvo EX30 Single Motor Extended Range" class="img-fluid">
 </a>
 <figcaption><h4>Volvo EX30 Single Motor Extended Range</h4></figcaption></figur>
 
