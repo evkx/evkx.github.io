@@ -12,7 +12,7 @@ HUDs typically display information such as speed, navigation directions, incomin
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/hud/hud_ix_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/hud/hud_ix_1_st.jpg" alt="BMW iX HUD" title="BMW iX HUD">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/hud/hud_ix_1_st.jpg" alt="BMW iX HUD" title="BMW iX HUD" class="img-fluid">
     </a>
     <figcaption><h4>BMW iX HUD</h4></figcaption>
 </figur>
@@ -29,7 +29,7 @@ The AR HUD uses this data to generate the superimposed virtual content onto the 
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/hud/hudq4_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/hud/hudq4_1_st.jpg" alt="Audi Q4 e-tron AR HUD" title="Audi Q4 e-tron AR HUD">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/hud/hudq4_1_st.jpg" alt="Audi Q4 e-tron AR HUD" title="Audi Q4 e-tron AR HUD" class="img-fluid">
     </a>
     <figcaption><h4>Audi Q4 e-tron AR HUD</h4></figcaption>
 </figur>
@@ -40,7 +40,7 @@ HUDs use different methods to project information onto the windshield or transpa
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/hud/hudq4_2.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/hud/hudq4_2_st.jpg" alt="Audi Q4 e-tron AR HUD" title="Audi Q4 e-tron AR HUD">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/hud/hudq4_2_st.jpg" alt="Audi Q4 e-tron AR HUD" title="Audi Q4 e-tron AR HUD" class="img-fluid">
     </a>
     <figcaption><h4>Audi Q4 e-tron AR HUD system</h4></figcaption>
 </figur>
@@ -49,7 +49,7 @@ Another method is to use a transparent screen, such as a thin plastic or glass p
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/hud/hud_ds3_etense.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/hud/hud_ds3_etense_st.jpg" alt="DS 3 E-Tense HUD on a transparant screen" title="DS 3 E-Tense HUD on a transparant screen">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/hud/hud_ds3_etense_st.jpg" alt="DS 3 E-Tense HUD on a transparant screen" title="DS 3 E-Tense HUD on a transparant screen" class="img-fluid">
     </a>
     <figcaption><h4>DS 3 E-Tense HUD on a transparant screen</h4></figcaption>
 </figur>

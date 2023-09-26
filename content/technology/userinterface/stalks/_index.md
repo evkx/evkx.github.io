@@ -22,7 +22,7 @@ Cars with adaptive cruise control often have an adjustment for distance to the v
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/stalks/audicruisecontrol.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/audicruisecontrol_st.jpg" alt="Audi Q8 e-tron adaptive cruise control stalk with distance adjustment" title="Audi Q8 e-tron adaptive cruise control stalk with distance adjustment">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/audicruisecontrol_st.jpg" alt="Audi Q8 e-tron adaptive cruise control stalk with distance adjustment" title="Audi Q8 e-tron adaptive cruise control stalk with distance adjustment" class="img-fluid">
     </a>
     <figcaption><h4>Audi Q8 e-tron cruise control stalk with distance adjustment</h4></figcaption>
 </figur>

@@ -10,7 +10,7 @@ Steering wheels come in various shapes, sizes, and materials. Common steering wh
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/steeringwheel/porschewheel_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/steeringwheel/porschewheel_1_st.jpg" alt="Porsche Taycan steering wheel" title="Porsche Taycan steering wheel">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/steeringwheel/porschewheel_1_st.jpg" alt="Porsche Taycan steering wheel" title="Porsche Taycan steering wheel" class="img-fluid">
     </a>
     <figcaption><h4>Porsche Taycan steering wheel</h4></figcaption>
 </figur>
@@ -19,7 +19,7 @@ Both Tesla and Lexus have launched EVs with Yoke wheels. However, this design ha
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/steeringwheel/teslayoke.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/steeringwheel/teslayoke_st.jpg" alt="Porsche Taycan steering wheel" title="Porsche Taycan steering wheel">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/steeringwheel/teslayoke_st.jpg" alt="Porsche Taycan steering wheel" title="Porsche Taycan steering wheel" class="img-fluid">
     </a>
     <figcaption><h4>Porsche Taycan steering wheel</h4></figcaption>
 </figur>

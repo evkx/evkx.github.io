@@ -18,7 +18,7 @@ The manufacturer may design these interfaces for different types of users, inclu
 
 <figur>
     <a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/screens_1.jpg">
-        <img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/screens_1_st.jpg" alt="Tesla Model S" title="Tesla Model S">
+        <img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/screens_1_st.jpg" alt="Tesla Model S" title="Tesla Model S" class="img-fluid">
     </a>
     <figcaption><h4>Tesla Model S</h4></figcaption>
 </figur>

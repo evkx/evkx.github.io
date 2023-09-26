@@ -24,7 +24,7 @@ Overall, the suspension system plays a crucial role in ensuring the vehicle's co
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/suspension/mercedeseqssuvterrain.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqssuvterrain_st.jpg" alt="Mercedes EQS Suv Offroad" title="Mercedes EQS Suv Offroad">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqssuvterrain_st.jpg" alt="Mercedes EQS Suv Offroad" title="Mercedes EQS Suv Offroad" class="img-fluid">
     </a>
     <figcaption><h4>Mercedes EQS Suv Offroad</h4></figcaption>
 </figur>
@@ -49,7 +49,7 @@ Overall, the suspension system is a complex assembly of components that work tog
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/suspension/bilstein.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/suspension/bilstein_st.jpg" alt="Bilstein dampers and springs" title="Bilstein dampers and springs">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/bilstein_st.jpg" alt="Bilstein dampers and springs" title="Bilstein dampers and springs" class="img-fluid">
     </a>
     <figcaption><h4>Bilstein dampers and springs</h4></figcaption>
 </figur>
@@ -66,7 +66,7 @@ A MacPherson strut uses a wishbone or a substantial compression link stabilized 
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/suspension/mcphersonfront_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/suspension/mcphersonfront_1_st.jpg" alt="Front Air Suspension" title="Front Air Suspension">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/mcphersonfront_1_st.jpg" alt="Front Air Suspension" title="Front Air Suspension" class="img-fluid">
     </a>
     <figcaption><h4>McPherson front suspension Audi Q4</h4></figcaption>
 </figur>
@@ -95,7 +95,7 @@ The upper and lower wishbones work together to control the vertical movement of 
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/suspension/mercedeseqesteel.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqesteel_st.jpg" alt="Mercedes-Benz EQE Suspension" title="Mercedes-Benz EQE Suspension">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqesteel_st.jpg" alt="Mercedes-Benz EQE Suspension" title="Mercedes-Benz EQE Suspension" class="img-fluid">
     </a>
     <figcaption><h4>Mercedes-Benz EQE Suspension with double wishbone</h4></figcaption>
 </figur>
@@ -147,7 +147,7 @@ Multilink suspension can be used on both the front and rear axles of a vehicle, 
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/suspension/fivelinkrearsuspension_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/suspension/fivelinkrearsuspension_1_st.jpg" alt="Front Air Suspension" title="Front Air Suspension">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/fivelinkrearsuspension_1_st.jpg" alt="Front Air Suspension" title="Front Air Suspension" class="img-fluid">
     </a>
     <figcaption><h4>Multilink rear suspension</h4></figcaption>
 </figur>
@@ -194,7 +194,7 @@ Some models only use the air suspension to adjust for different loads, trying to
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/suspension/wishboneairsuspensionfront.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/suspension/wishboneairsuspensionfront_st.jpg" alt="Front Air Suspension" title="Front Air Suspension">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/wishboneairsuspensionfront_st.jpg" alt="Front Air Suspension" title="Front Air Suspension" class="img-fluid">
     </a>
     <figcaption><h4>Front Air Suspension</h4></figcaption>
 </figur>
@@ -203,7 +203,7 @@ On other models, the driver can set the drive height based on drive mode. For ex
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/suspension/suspensionmode.png">
-        <img src="https://media.evkx.net/multimedia/technology/suspension/suspensionmode.png" alt="Suspension modes Audi Q8 e-tron" title="Suspension modes Audi Q8 e-tron">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/suspensionmode.png" alt="Suspension modes Audi Q8 e-tron" title="Suspension modes Audi Q8 e-tron" class="img-fluid">
     </a>
     <figcaption><h4>Suspension modes Audi Q8 e-tron</h4></figcaption>
 </figur>
@@ -220,7 +220,7 @@ Overall, adaptive damping suspension can improve the driving experience by provi
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/suspension/rsetrongtsuspension.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/suspension/rsetrongtsuspension_st.jpg" alt="Audi RS e-tron GT adaptive air suspension" title="Audi RS e-tron GT adaptive air suspension">
+        <img src="https://media.evkx.net/multimedia/technology/suspension/rsetrongtsuspension_st.jpg" alt="Audi RS e-tron GT adaptive air suspension" title="Audi RS e-tron GT adaptive air suspension" class="img-fluid">
     </a>
     <figcaption><h4>Audi RS e-tron GT adaptive air suspension</h4></figcaption>
 </figur>

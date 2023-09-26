@@ -16,7 +16,7 @@ EV manufacturers typically locate these buttons on the instrument panel, which i
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/buttons/audietronbuttonsinstrument.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/audietronbuttonsinstrument_st.jpg" alt="Audi Q8 e-tron light control buttons" title="Audi Q8 e-tron light control buttons">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/audietronbuttonsinstrument_st.jpg" alt="Audi Q8 e-tron light control buttons" title="Audi Q8 e-tron light control buttons" class="img-fluid">
     </a>
     <figcaption><h4>Audi Q8 e-tron light control buttons</h4></figcaption>
 </figur>
@@ -27,14 +27,14 @@ EV manufacturers locate these buttons on the center console, the central area be
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/buttons/kiaev6centerconsolbuttons.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/kiaev6centerconsolbuttons_st.jpg" alt="Kia EV6 center console buttons" title="Kia EV6 center console buttons">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/kiaev6centerconsolbuttons_st.jpg" alt="Kia EV6 center console buttons" title="Kia EV6 center console buttons" class="img-fluid">
     </a>
     <figcaption><h4>Kia EV6 center console buttons</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/buttons/etrongtcenterconsolbuttons.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/etrongtcenterconsolbuttons_st.jpg" alt="Audi e-tron GT center console buttons" title="Audi e-tron GT center console buttons">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/etrongtcenterconsolbuttons_st.jpg" alt="Audi e-tron GT center console buttons" title="Audi e-tron GT center console buttons" class="img-fluid">
     </a>
     <figcaption><h4>Audi e-tron GT center console buttons</h4></figcaption>
 </figur>
@@ -45,7 +45,7 @@ EV manufacturers locate these buttons on the door panels and control functions s
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/buttons/eqssuvdoorbuttons.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/eqssuvdoorbuttons_st.jpg" alt="Mercedes EQS Suv door panels buttons" title="Mercedes EQS Suv door panels buttons">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/eqssuvdoorbuttons_st.jpg" alt="Mercedes EQS Suv door panels buttons" title="Mercedes EQS Suv door panels buttons" class="img-fluid">
     </a>
     <figcaption><h4>Mercedes EQS Suv door panels buttons</h4></figcaption>
 </figur>
@@ -76,7 +76,7 @@ Twenty years ago, every function had a button in a car, but more and more are mo
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/buttons/teslamodelybuttons.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/teslamodelybuttons_st.jpg" alt="Tesla Model Y with only a few physical buttons" title="Tesla Model Y with only a few physical buttons">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/teslamodelybuttons_st.jpg" alt="Tesla Model Y with only a few physical buttons" title="Tesla Model Y with only a few physical buttons" class="img-fluid">
     </a>
     <figcaption><h4>Tesla Model Y with only a few physical buttons</h4></figcaption>
 </figur>

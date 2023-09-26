@@ -24,7 +24,7 @@ Some vehicles come equipped with a rearview camera mirror, which uses a rear-fac
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/mirrors/eqxxsidemirror.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/mirrors/eqxxsidemirror_st.jpg" alt="Mercedes EQXX side mirror" title="Mercedes EQXX side mirror">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/mirrors/eqxxsidemirror_st.jpg" alt="Mercedes EQXX side mirror" title="Mercedes EQXX side mirror" class="img-fluid">
     </a>
     <figcaption><h4>Mercedes EQXX side mirror</h4></figcaption>
 </figur>
@@ -41,7 +41,7 @@ Some vehicles also have side-view camera mirrors, which use cameras mounted on t
 
 <figur>
     <a href="https://media.evkx.net/multimedia/technology/userinterface/mirrors/audivirtualmirrors.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/mirrors/audivirtualmirrors_st.jpg" alt="Audi camera mirrors" title="Audi camera mirrors">
+        <img src="https://media.evkx.net/multimedia/technology/userinterface/mirrors/audivirtualmirrors_st.jpg" alt="Audi camera mirrors" title="Audi camera mirrors" class="img-fluid">
     </a>
     <figcaption><h4>Audi camera mirrors</h4></figcaption>
 </figur>
