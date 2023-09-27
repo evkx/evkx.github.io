@@ -5,7 +5,7 @@ description: "EVKX.net helps you find the best review for this model. "
 weight: 80
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Out of Spec Reviews: This Is A New iX / e-tron Competitor Launching In Europe This Week! I Drive The Voyah Free 22.11.2022

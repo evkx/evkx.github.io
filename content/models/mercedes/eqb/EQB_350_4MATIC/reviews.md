@@ -5,7 +5,7 @@ description: "EVKX.net helps you find the best review for this model. "
 weight: 80
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Out of Spec Reviews: 2023 Mercedes EQB 350 4MATIC 70mph Highway Range Test 22.10.2022

@@ -5,7 +5,7 @@ description: "EVKX.net helps you find the best review for this model. "
 weight: 80
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### State Of Charge: I Explain How The Ford F-150 Lightning Charges Like NO Other Electric Vehicle 08.10.2022

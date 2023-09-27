@@ -5,7 +5,7 @@ description: "EVKX.net helps you find the best review for this model. "
 weight: 80
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Bjørn Nyland: Audi e-tron 55 Black Edition driving impressions & summary 09.04.2022

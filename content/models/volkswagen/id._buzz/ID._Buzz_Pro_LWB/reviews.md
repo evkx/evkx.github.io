@@ -5,7 +5,7 @@ description: "EVKX.net helps you find the best review for this model. "
 weight: 80
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Out of Spec Reviews: The US Spec Volkswagen ID. Buzz Is Finally Here! The LWB Is Freaking Awesome & Worth The Wait 02.06.2023

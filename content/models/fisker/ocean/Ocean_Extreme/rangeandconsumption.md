@@ -6,38 +6,47 @@ weight: 9
 hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 
 The range will vary depending on several factors. Like how fast you drive, the temperature, wet or dry road, and the equipped equipment. On this page, you will find a diagram and tables with the standard test cycle results like WLTP and EPA and estimated real-world range in different environments. 
 
-![Charge curve](../range.svg  "Range information")
-[Full screen](../range.svg)
+<img class="img-fluid" alt="Charge curve" src="../range.svg"/>
+<a href="../range.svg">Full screen</a>
 
 ### Official test cycle results
 
 Below are the officially rated ranges. The tests are performed with the heating/AC turned off. Click on the links in the table for more details about test procedures. 
 
-| | Range  | Consumption  |
-|----|-----|------|
-| [WLTP-combined basic trim](../../../../../guides/understandingrange/wltp/) | 707 km / 439mi |15,06kWh/100km / 4,1 mi/kWh | 
-| [WLTP-combined top trim](../../../../../guides/understandingrange/wltp/) | 701 km / 436mi | 15,19 kWh/100km / 4,1 mi/kWh | 
-| [EPA-combined minimum trim](../../../../../guides/understandingrange/epa/) | 579km / 360 mi| 18,4 kWh/100km / 3,4 mi/kWh |
-| [EPA-combined top trim](../../../../../guides/understandingrange/epa/) | 571km /355mi| 18,7 kWh/100km / 3,3 mi/kWh  |
+<table class="table">
+<thead>
+<tr><th></th><th>  Range </th><th>Consumption </th></tr>
+<tbody>
+<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 707 km / 439mi </td><td>15,06kWh/100km / 4,1 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 701 km / 436mi </td><td> 15,19 kWh/100km / 4,1 mi/kWh </td></tr>  
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>579km / 360 mi</td><td> 18,4 kWh/100km / 3,4 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>571km /355mi</td><td> 18,7 kWh/100km / 3,3 mi/kWh  </td></tr> 
+</tbody></table>
 
 ### Official test cycle results with added heating
 
 The table below shows how turning on heating/cooling on a cold/hot day affects the official range. 
 
-| | Range  | Change  |
-|----|-----|------|
-| WLTP-combined basic trim with 2KW AC | 550km /342 mi | -22,2%|
-| WLTP-combined top trim with 2KW AC | 546km /339 mi | -22,1%|
-| EPA-combined basic trim with 2KW AC | 292km /181 mi | -18,9%|
-| EPA-combined top trim with 2KW AC | 289km /180 mi | -18,6%|
+<table class="table">
+<thead>
+<tr><th></th><th>  Range </th><th>Change </th></tr>
+<tbody>
+<tr><td> WLTP-combined basic trim with 2KW AC </td><td> 550km /342 mi </td><td> -22,2%</td></tr>
+<tr><td>  WLTP-combined top trim with 2KW AC </td><td> 546km /339 mi </td><td>-22,1%</td></tr>
+<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 292km /181 mi </td><td> -18,9%</td></tr>
+<tr><td>  EPA-combined top trim with 2KW AC </td><td> 289km /180 mi </td><td> -18,6%</td></tr>
+</tbody></table>
 
 ### Real world range estimates
 
 The table below shows some estimated real-world examples in perfect condition and in conditions needing A/C to heat or cool vehicles. 
 
-| | Range  | Consumption  |
-|----|-----|------|
+<table class="table">
+<thead>
+<tr><th></th><th>  Range </th><th>Consumption </th></tr>
+<tbody>
+</tbody></table>
