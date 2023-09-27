@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for XPENG P7 AWD Perfor
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![XPENG P7 AWD Performance](https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="XPENG P7 AWD Performance" src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for XPENG P7 AWD Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of XPENG P7 AWD Performance, visit the [chargeinfo](../chargecurve/) for XPENG P7 AWD Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

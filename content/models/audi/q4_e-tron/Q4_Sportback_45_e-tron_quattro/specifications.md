@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Audi Q4 Sportback 4
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Audi Q4 Sportback 45 e-tron quattro](https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Audi Q4 Sportback 45 e-tron quattro" src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Audi Q4 Sportback 45 e-tron quattro. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q4 Sportback 45 e-tron quattro, visit the [chargeinfo](../chargecurve/) for Audi Q4 Sportback 45 e-tron quattro with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

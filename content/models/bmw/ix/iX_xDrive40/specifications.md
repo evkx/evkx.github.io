@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for BMW iX xDrive40."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![BMW iX xDrive40](https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="BMW iX xDrive40" src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for BMW iX xDrive40. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW iX xDrive40, visit the [chargeinfo](../chargecurve/) for BMW iX xDrive40 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Lucid Air Dream Edi
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Lucid Air Dream Edition Performance](https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Lucid Air Dream Edition Performance" src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Lucid Air Dream Edition Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lucid Air Dream Edition Performance, visit the [chargeinfo](../chargecurve/) for Lucid Air Dream Edition Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

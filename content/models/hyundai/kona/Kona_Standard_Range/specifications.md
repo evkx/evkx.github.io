@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Hyundai Kona Standa
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Hyundai Kona Standard Range](https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Hyundai Kona Standard Range" src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Hyundai Kona Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Kona Standard Range, visit the [chargeinfo](../chargecurve/) for Hyundai Kona Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

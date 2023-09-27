@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Fisker Ocean Extrem
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Fisker Ocean Extreme](https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Fisker Ocean Extreme" src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Fisker Ocean Extreme. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Fisker Ocean Extreme, visit the [chargeinfo](../chargecurve/) for Fisker Ocean Extreme with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

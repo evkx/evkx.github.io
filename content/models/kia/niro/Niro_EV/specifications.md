@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Kia Niro EV."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Kia Niro EV](https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Kia Niro EV" src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Kia Niro EV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia Niro EV, visit the [chargeinfo](../chargecurve/) for Kia Niro EV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for BMW i4 M50."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![BMW i4 M50](https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="BMW i4 M50" src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for BMW i4 M50. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i4 M50, visit the [chargeinfo](../chargecurve/) for BMW i4 M50 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

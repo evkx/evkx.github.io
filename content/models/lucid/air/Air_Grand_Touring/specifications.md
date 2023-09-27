@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Lucid Air Grand Tou
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Lucid Air Grand Touring](https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Lucid Air Grand Touring" src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Lucid Air Grand Touring. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lucid Air Grand Touring, visit the [chargeinfo](../chargecurve/) for Lucid Air Grand Touring with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

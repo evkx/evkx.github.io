@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for CUPRA Tavascan Endu
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![CUPRA Tavascan Endurance](https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_endurance/main_1_st.JPG)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="CUPRA Tavascan Endurance" src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_endurance/main_1_st.JPG" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for CUPRA Tavascan Endurance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of CUPRA Tavascan Endurance, visit the [chargeinfo](../chargecurve/) for CUPRA Tavascan Endurance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

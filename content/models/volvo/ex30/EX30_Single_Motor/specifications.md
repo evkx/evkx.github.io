@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Volvo EX30 Single M
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Volvo EX30 Single Motor](https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Volvo EX30 Single Motor" src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Volvo EX30 Single Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo EX30 Single Motor, visit the [chargeinfo](../chargecurve/) for Volvo EX30 Single Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for BMW i5 M60 xDrive."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![BMW i5 M60 xDrive](https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="BMW i5 M60 xDrive" src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for BMW i5 M60 xDrive. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i5 M60 xDrive, visit the [chargeinfo](../chargecurve/) for BMW i5 M60 xDrive with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

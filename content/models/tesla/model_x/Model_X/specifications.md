@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Tesla Model X."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Tesla Model X](https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Tesla Model X" src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Tesla Model X. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model X, visit the [chargeinfo](../chargecurve/) for Tesla Model X with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

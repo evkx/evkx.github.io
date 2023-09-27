@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Volvo XC40 Recharge
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Volvo XC40 Recharge Single Motor](https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Volvo XC40 Recharge Single Motor" src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Volvo XC40 Recharge Single Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo XC40 Recharge Single Motor, visit the [chargeinfo](../chargecurve/) for Volvo XC40 Recharge Single Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

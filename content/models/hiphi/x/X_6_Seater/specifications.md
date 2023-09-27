@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for HiPhi X 6 Seater."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![HiPhi X 6 Seater](https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="HiPhi X 6 Seater" src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for HiPhi X 6 Seater. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi X 6 Seater, visit the [chargeinfo](../chargecurve/) for HiPhi X 6 Seater with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

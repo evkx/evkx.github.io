@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for HiPhi Z 5 Seater."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![HiPhi Z 5 Seater](https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="HiPhi Z 5 Seater" src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for HiPhi Z 5 Seater. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi Z 5 Seater, visit the [chargeinfo](../chargecurve/) for HiPhi Z 5 Seater with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

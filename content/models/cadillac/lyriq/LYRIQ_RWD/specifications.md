@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Cadillac LYRIQ RWD.
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Cadillac LYRIQ RWD](https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Cadillac LYRIQ RWD" src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Cadillac LYRIQ RWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Cadillac LYRIQ RWD, visit the [chargeinfo](../chargecurve/) for Cadillac LYRIQ RWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

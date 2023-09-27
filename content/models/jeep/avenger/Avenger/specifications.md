@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Jeep Avenger."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Jeep Avenger](https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Jeep Avenger" src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Jeep Avenger. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Jeep Avenger, visit the [chargeinfo](../chargecurve/) for Jeep Avenger with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

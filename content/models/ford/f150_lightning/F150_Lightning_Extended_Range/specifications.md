@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Ford F150 Lightning
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Ford F150 Lightning Extended Range](https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Ford F150 Lightning Extended Range" src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Ford F150 Lightning Extended Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford F150 Lightning Extended Range, visit the [chargeinfo](../chargecurve/) for Ford F150 Lightning Extended Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

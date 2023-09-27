@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Citroën ë-C4 X."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Citroën ë-C4 X](https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Citroën ë-C4 X" src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Citroën ë-C4 X. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Citroën ë-C4 X, visit the [chargeinfo](../chargecurve/) for Citroën ë-C4 X with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

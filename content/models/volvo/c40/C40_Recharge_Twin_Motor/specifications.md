@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Volvo C40 Recharge 
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Volvo C40 Recharge Twin Motor](https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Volvo C40 Recharge Twin Motor" src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Volvo C40 Recharge Twin Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo C40 Recharge Twin Motor, visit the [chargeinfo](../chargecurve/) for Volvo C40 Recharge Twin Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Porsche Taycan GTS.
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Porsche Taycan GTS](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Porsche Taycan GTS" src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Porsche Taycan GTS. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan GTS, visit the [chargeinfo](../chargecurve/) for Porsche Taycan GTS with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

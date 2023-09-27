@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Volkswagen ID.5 GTX
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Volkswagen ID.5 GTX 4MOTION](https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Volkswagen ID.5 GTX 4MOTION" src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 GTX 4MOTION. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.5 GTX 4MOTION, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.5 GTX 4MOTION with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

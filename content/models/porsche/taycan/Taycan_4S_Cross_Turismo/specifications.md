@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Porsche Taycan 4S C
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Porsche Taycan 4S Cross Turismo](https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s_cross_turismo/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Porsche Taycan 4S Cross Turismo" src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s_cross_turismo/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Cross Turismo. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan 4S Cross Turismo, visit the [chargeinfo](../chargecurve/) for Porsche Taycan 4S Cross Turismo with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

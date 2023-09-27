@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Zeekr 001 FR."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Zeekr 001 FR](https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_st.jpeg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Zeekr 001 FR" src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_st.jpeg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Zeekr 001 FR. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 001 FR, visit the [chargeinfo](../chargecurve/) for Zeekr 001 FR with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

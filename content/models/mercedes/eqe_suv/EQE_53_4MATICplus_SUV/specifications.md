@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Mercedes-AMG EQE 53
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Mercedes-AMG EQE 53 4MATIC+ SUV](https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Mercedes-AMG EQE 53 4MATIC+ SUV" src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 53 4MATIC+ SUV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-AMG EQE 53 4MATIC+ SUV, visit the [chargeinfo](../chargecurve/) for Mercedes-AMG EQE 53 4MATIC+ SUV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

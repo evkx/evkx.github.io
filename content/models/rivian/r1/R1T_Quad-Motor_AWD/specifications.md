@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Rivian R1T Quad-Mot
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Rivian R1T Quad-Motor AWD](https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Rivian R1T Quad-Motor AWD" src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Rivian R1T Quad-Motor AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Rivian R1T Quad-Motor AWD, visit the [chargeinfo](../chargecurve/) for Rivian R1T Quad-Motor AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

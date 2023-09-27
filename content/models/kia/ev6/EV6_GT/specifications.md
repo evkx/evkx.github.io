@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Kia EV6 GT."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Kia EV6 GT](https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Kia EV6 GT" src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Kia EV6 GT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia EV6 GT, visit the [chargeinfo](../chargecurve/) for Kia EV6 GT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

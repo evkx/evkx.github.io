@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Volkswagen ID.3 Pro
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Volkswagen ID.3 Pro S](https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Volkswagen ID.3 Pro S" src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.3 Pro S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.3 Pro S, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.3 Pro S with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

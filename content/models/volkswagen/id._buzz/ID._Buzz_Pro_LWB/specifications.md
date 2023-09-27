@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Volkswagen ID. Buzz
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Volkswagen ID. Buzz Pro LWB](https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Volkswagen ID. Buzz Pro LWB" src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Volkswagen ID. Buzz Pro LWB. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID. Buzz Pro LWB, visit the [chargeinfo](../chargecurve/) for Volkswagen ID. Buzz Pro LWB with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

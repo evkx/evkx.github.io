@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Audi e-tron S."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Audi e-tron S](https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Audi e-tron S" src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Audi e-tron S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron S, visit the [chargeinfo](../chargecurve/) for Audi e-tron S with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -5,8 +5,8 @@ description: "EVKX.net gives you the full specifications for Nio ES8."
 weight: 30
 hidden: true
 ---
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
-[![Nio ES8](https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg)](../)
+<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
+<img alt="Nio ES8" src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg" class="img-fluid">
 EVKX.net seeks to have the most complete specifications for Nio ES8. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio ES8, visit the [chargeinfo](../chargecurve/) for Nio ES8 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
