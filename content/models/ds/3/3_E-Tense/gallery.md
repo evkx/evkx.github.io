@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/charging_
 data-pswp-width="3000"
 data-pswp-height="1970" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/charging_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/charging_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="131px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/exterior_
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/exterior_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/exterior_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/headlight
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/headlights_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/headlights_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/interior_
 data-pswp-width="3000"
 data-pswp-height="1690" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/interior_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/interior_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/interior_
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/interior_3_xst.jpg" alt="DS 3 E-Tense" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/interior_3_xst.jpg" alt="DS 3 E-Tense" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1.jp
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/screens_1
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/screens_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/screens_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/trunk_1.j
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/trunk_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/trunk_1_xst.jpg" alt="DS 3 E-Tense" width="200px" height="133px" />
 </a>
 </div>
 </div>

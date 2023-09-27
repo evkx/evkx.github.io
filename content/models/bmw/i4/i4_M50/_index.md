@@ -6,7 +6,7 @@ weight: 10
 hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -249,4 +249,4 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 The cargo capacity in the trunk is 470 liters. With the rear seat down, it is 1290 liters. On the roof, you can load up to 75kg. Max weight is 2735kg, and with the base weight of 2215 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
-<object type="image/svg+xml" data="modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

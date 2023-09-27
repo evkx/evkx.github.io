@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exter
 data-pswp-width="3000"
 data-pswp-height="1711" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_1_xst.jpg" alt="CUPRA BORN 58" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_1_xst.jpg" alt="CUPRA BORN 58" width="200px" height="114px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exter
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_2_xst.jpg" alt="CUPRA BORN 58" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_2_xst.jpg" alt="CUPRA BORN 58" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exter
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_3_xst.jpg" alt="CUPRA BORN 58" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_3_xst.jpg" alt="CUPRA BORN 58" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exter
 data-pswp-width="3000"
 data-pswp-height="1886" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_4_xst.jpg" alt="CUPRA BORN 58" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_4_xst.jpg" alt="CUPRA BORN 58" width="200px" height="125px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exter
 data-pswp-width="3000"
 data-pswp-height="1680" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_5_xst.jpg" alt="CUPRA BORN 58" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_5_xst.jpg" alt="CUPRA BORN 58" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58/front
 data-pswp-width="3000"
 data-pswp-height="2110" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/frontseats_1_xst.jpg" alt="CUPRA BORN 58" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/frontseats_1_xst.jpg" alt="CUPRA BORN 58" width="200px" height="140px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58/headl
 data-pswp-width="3000"
 data-pswp-height="1976" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/headlights_1_xst.jpg" alt="CUPRA BORN 58" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/headlights_1_xst.jpg" alt="CUPRA BORN 58" width="200px" height="131px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_xst.jpg" alt="CUPRA BORN 58" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_xst.jpg" alt="CUPRA BORN 58" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58/scree
 data-pswp-width="3000"
 data-pswp-height="1714" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/screens_1_xst.jpg" alt="CUPRA BORN 58" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/screens_1_xst.jpg" alt="CUPRA BORN 58" width="200px" height="114px" />
 </a>
 </div>
 </div>

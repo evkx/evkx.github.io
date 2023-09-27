@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2048"
 data-pswp-height="1280" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/charging_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/charging_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="125px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2880"
 data-pswp-height="1920" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/charging_2_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/charging_2_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2100"
 data-pswp-height="1400" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2100"
 data-pswp-height="1400" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_10_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_10_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="1697"
 data-pswp-height="1060" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_11_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_11_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2880"
 data-pswp-height="1920" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_12_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_12_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2880"
 data-pswp-height="1920" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_13_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_13_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2880"
 data-pswp-height="1920" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_14_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_14_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2880"
 data-pswp-height="1920" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_15_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_15_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2100"
 data-pswp-height="1400" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_2_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_2_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2100"
 data-pswp-height="1400" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_3_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_3_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2100"
 data-pswp-height="1400" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_4_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_4_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2100"
 data-pswp-height="1400" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_5_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_5_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2100"
 data-pswp-height="1400" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_6_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_6_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2100"
 data-pswp-height="1400" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_7_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_7_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2100"
 data-pswp-height="1400" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_8_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_8_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2100"
 data-pswp-height="1349" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_9_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/exterior_9_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="128px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2880"
 data-pswp-height="1920" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/frunk_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/frunk_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2880"
 data-pswp-height="1920" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/headlights_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/headlights_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2880"
 data-pswp-height="1920" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/interior_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/interior_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -194,7 +194,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2880"
 data-pswp-height="1920" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/interior_2_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/interior_2_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -203,7 +203,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2100"
 data-pswp-height="1400" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -212,7 +212,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="1600"
 data-pswp-height="1067" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/screens_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/screens_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -221,7 +221,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="1534"
 data-pswp-height="1016" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/screens_2_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/screens_2_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="132px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -230,7 +230,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2880"
 data-pswp-height="1920" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/screens_3_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/screens_3_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -239,7 +239,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor
 data-pswp-width="2880"
 data-pswp-height="1920" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/trunk_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/trunk_1_xst.jpg" alt="Rivian R1T Quad-Motor AWD" width="200px" height="133px" />
 </a>
 </div>
 </div>

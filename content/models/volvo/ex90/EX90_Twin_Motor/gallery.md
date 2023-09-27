@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_mot
 data-pswp-width="3000"
 data-pswp-height="2212" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/exterior_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/exterior_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="147px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_mot
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/exterior_2_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/exterior_2_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_mot
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/exterior_3_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/exterior_3_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_mot
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/frontseats_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/frontseats_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_mot
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/headlights_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/headlights_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_mot
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/interior_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/interior_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_mot
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/lidar_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/lidar_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_mot
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/main_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/main_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_mot
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/screens_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/screens_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_mot
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/screens_2_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/screens_2_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_mot
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/secondrowseats_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/secondrowseats_1_xst.jpg" alt="Volvo EX90 Twin Motor" width="200px" height="150px" />
 </a>
 </div>
 </div>

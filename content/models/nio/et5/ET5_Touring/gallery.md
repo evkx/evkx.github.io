@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exte
 data-pswp-width="2880"
 data-pswp-height="2316" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1_xst.jpg" alt="Nio ET5 Touring" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1_xst.jpg" alt="Nio ET5 Touring" width="200px" height="160px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exte
 data-pswp-width="2880"
 data-pswp-height="1600" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_2_xst.jpg" alt="Nio ET5 Touring" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_2_xst.jpg" alt="Nio ET5 Touring" width="200px" height="111px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/inte
 data-pswp-width="2560"
 data-pswp-height="1280" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/interior_1_xst.jpg" alt="Nio ET5 Touring" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/interior_1_xst.jpg" alt="Nio ET5 Touring" width="200px" height="100px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/inte
 data-pswp-width="2560"
 data-pswp-height="1280" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/interior_2_xst.jpg" alt="Nio ET5 Touring" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/interior_2_xst.jpg" alt="Nio ET5 Touring" width="200px" height="100px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main
 data-pswp-width="3000"
 data-pswp-height="1851" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_xst.jpg" alt="Nio ET5 Touring" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_xst.jpg" alt="Nio ET5 Touring" width="200px" height="123px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trun
 data-pswp-width="2560"
 data-pswp-height="1670" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trunk_1_xst.jpg" alt="Nio ET5 Touring" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trunk_1_xst.jpg" alt="Nio ET5 Touring" width="200px" height="130px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trun
 data-pswp-width="1240"
 data-pswp-height="829" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trunk_2_xst.jpg" alt="Nio ET5 Touring" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trunk_2_xst.jpg" alt="Nio ET5 Touring" width="200px" height="133px" />
 </a>
 </div>
 </div>

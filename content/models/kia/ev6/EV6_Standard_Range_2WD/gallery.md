@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/charging_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/charging_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2017" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/exterior_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/exterior_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="134px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/exterior_2_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/exterior_2_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/exterior_3_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/exterior_3_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/exterior_4_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/exterior_4_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/frontseats_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/frontseats_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/headlights_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/headlights_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/headupdisplay_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/headupdisplay_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/interior_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/interior_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="1875" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/interior_2_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/interior_2_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="125px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="1997" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/interior_3_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/interior_3_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/interior_4_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/interior_4_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/rearlights_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/rearlights_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/rearlights_2_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/rearlights_2_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/roof_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/roof_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2003" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/screens_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/screens_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/screens_2_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/screens_2_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/screens_3_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/screens_3_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2400" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/secondrowseats_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/secondrowseats_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="160px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -194,7 +194,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/soundsystem_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/soundsystem_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -203,7 +203,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/trunk_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/trunk_1_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -212,7 +212,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/trunk_2_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/trunk_2_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -221,7 +221,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/trunk_3_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/trunk_3_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -230,7 +230,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_ran
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/trunk_4_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/trunk_4_xst.jpg" alt="Kia EV6 Standard Range 2WD" width="200px" height="133px" />
 </a>
 </div>
 </div>

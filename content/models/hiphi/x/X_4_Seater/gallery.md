@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/charg
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/charging_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/charging_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exter
 data-pswp-width="1959"
 data-pswp-height="1102" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exter
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_2_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_2_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exter
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_3_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_3_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exter
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_4_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/exterior_4_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/headl
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/headlights_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/headlights_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/main_
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/main_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/main_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/rearl
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/rearlights_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/rearlights_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/scree
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/screens_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/screens_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/trunk
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/trunk_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/trunk_1_xst.jpg" alt="HiPhi X 4 Seater" width="200px" height="133px" />
 </a>
 </div>
 </div>

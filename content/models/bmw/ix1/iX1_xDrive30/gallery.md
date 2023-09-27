@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/ext
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/exterior_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/exterior_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/ext
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/exterior_2_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/exterior_2_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/ext
 data-pswp-width="2039"
 data-pswp-height="1500" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/exterior_3_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/exterior_3_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="147px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/ext
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/exterior_4_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/exterior_4_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/ext
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/exterior_5_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/exterior_5_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/fro
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/frontseats_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/frontseats_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/fro
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/frontseats_2_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/frontseats_2_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/hea
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/headlights_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/headlights_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/int
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/interior_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/interior_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/mai
 data-pswp-width="3000"
 data-pswp-height="2095" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="139px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/scr
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/screens_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/screens_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/sec
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/secondrowseats_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/secondrowseats_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/tru
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/trunk_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/trunk_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/whe
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/wheels_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/wheels_1_xst.jpg" alt="BMW iX1 xDrive30" width="200px" height="133px" />
 </a>
 </div>
 </div>

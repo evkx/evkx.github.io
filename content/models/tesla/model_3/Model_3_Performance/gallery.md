@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/charging_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/charging_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2100" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="140px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_2_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_2_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_3_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_3_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_4_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_4_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_5_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_5_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_6_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_6_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/frontseats_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/frontseats_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="1963" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/interior_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/interior_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="130px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/interior_2_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/interior_2_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/main_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/main_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/screens_2_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/screens_2_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/screen_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/screen_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/secondrowseats_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/secondrowseats_1_xst.jpg" alt="Tesla Model 3 Performance" width="200px" height="133px" />
 </a>
 </div>
 </div>

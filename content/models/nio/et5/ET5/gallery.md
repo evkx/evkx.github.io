@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5/exterior_1.j
 data-pswp-width="1920"
 data-pswp-height="1104" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/exterior_1_xst.jpg" alt="Nio ET5" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/exterior_1_xst.jpg" alt="Nio ET5" width="200px" height="115px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1.jpg"
 data-pswp-width="2880"
 data-pswp-height="1792" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_xst.jpg" alt="Nio ET5" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_xst.jpg" alt="Nio ET5" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5/rearlights_1
 data-pswp-width="1920"
 data-pswp-height="1195" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/rearlights_1_xst.jpg" alt="Nio ET5" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/rearlights_1_xst.jpg" alt="Nio ET5" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/et5/et5/screens_1.jp
 data-pswp-width="3000"
 data-pswp-height="1690" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/screens_1_xst.jpg" alt="Nio ET5" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/et5/et5/screens_1_xst.jpg" alt="Nio ET5" width="200px" height="112px" />
 </a>
 </div>
 </div>

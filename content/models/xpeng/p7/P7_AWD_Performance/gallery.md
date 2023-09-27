@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performa
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_1_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_1_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performa
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_2_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_2_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performa
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performa
 data-pswp-width="2000"
 data-pswp-height="1334" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_1_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_1_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performa
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_2_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_2_xst.jpg" alt="XPENG P7 AWD Performance" width="200px" height="133px" />
 </a>
 </div>
 </div>

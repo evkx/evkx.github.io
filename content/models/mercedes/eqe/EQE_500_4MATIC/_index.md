@@ -6,7 +6,7 @@ weight: 10
 hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -279,4 +279,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 </a>
 <figcaption><h4>Mercedes-EQ EQE 500 4MATIC</h4></figcaption></figur>
 
-<object type="image/svg+xml" data="modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

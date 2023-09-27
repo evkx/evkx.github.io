@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/ex
 data-pswp-width="3000"
 data-pswp-height="1713" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/exterior_1_xst.jpg" alt="Porsche Taycan" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/exterior_1_xst.jpg" alt="Porsche Taycan" width="200px" height="114px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/fr
 data-pswp-width="2048"
 data-pswp-height="1536" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/frontseats_1_xst.jpg" alt="Porsche Taycan" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/frontseats_1_xst.jpg" alt="Porsche Taycan" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/li
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/lights_1_xst.jpg" alt="Porsche Taycan" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/lights_1_xst.jpg" alt="Porsche Taycan" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/ma
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_xst.jpg" alt="Porsche Taycan" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_xst.jpg" alt="Porsche Taycan" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/sc
 data-pswp-width="3000"
 data-pswp-height="1870" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/screens_1_xst.jpg" alt="Porsche Taycan" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/screens_1_xst.jpg" alt="Porsche Taycan" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/sc
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/screens_2_xst.jpg" alt="Porsche Taycan" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/screens_2_xst.jpg" alt="Porsche Taycan" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/tr
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/trunk_1_xst.jpg" alt="Porsche Taycan" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/trunk_1_xst.jpg" alt="Porsche Taycan" width="200px" height="150px" />
 </a>
 </div>
 </div>

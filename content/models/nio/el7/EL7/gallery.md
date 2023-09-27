@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_1.j
 data-pswp-width="2880"
 data-pswp-height="1792" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_1_xst.jpeg" alt="Nio EL7" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_1_xst.jpeg" alt="Nio EL7" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_2.j
 data-pswp-width="2880"
 data-pswp-height="1792" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_2_xst.jpeg" alt="Nio EL7" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_2_xst.jpeg" alt="Nio EL7" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_3.j
 data-pswp-width="2880"
 data-pswp-height="1792" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_3_xst.jpeg" alt="Nio EL7" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_3_xst.jpeg" alt="Nio EL7" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_4.j
 data-pswp-width="2880"
 data-pswp-height="1620" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_4_xst.jpeg" alt="Nio EL7" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_4_xst.jpeg" alt="Nio EL7" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/el7/el7/frontseats_1
 data-pswp-width="2880"
 data-pswp-height="1792" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/frontseats_1_xst.jpg" alt="Nio EL7" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/frontseats_1_xst.jpg" alt="Nio EL7" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/el7/el7/frontseats_2
 data-pswp-width="2400"
 data-pswp-height="1280" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/frontseats_2_xst.jpg" alt="Nio EL7" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/frontseats_2_xst.jpg" alt="Nio EL7" width="200px" height="106px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/el7/el7/headlights_1
 data-pswp-width="2880"
 data-pswp-height="1792" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/headlights_1_xst.jpg" alt="Nio EL7" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/headlights_1_xst.jpg" alt="Nio EL7" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/el7/el7/interior_1.j
 data-pswp-width="2880"
 data-pswp-height="1792" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/interior_1_xst.jpg" alt="Nio EL7" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/interior_1_xst.jpg" alt="Nio EL7" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1.jpg"
 data-pswp-width="2880"
 data-pswp-height="1792" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_xst.jpg" alt="Nio EL7" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_xst.jpg" alt="Nio EL7" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/el7/el7/screens_1.jp
 data-pswp-width="2880"
 data-pswp-height="1792" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/screens_1_xst.jpg" alt="Nio EL7" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/screens_1_xst.jpg" alt="Nio EL7" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/el7/el7/trailer_1.jp
 data-pswp-width="2880"
 data-pswp-height="1400" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/trailer_1_xst.jpg" alt="Nio EL7" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/trailer_1_xst.jpg" alt="Nio EL7" width="200px" height="97px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nio/el7/el7/trunk_1.jpg"
 data-pswp-width="2880"
 data-pswp-height="1792" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/trunk_1_xst.jpg" alt="Nio EL7" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nio/el7/el7/trunk_1_xst.jpg" alt="Nio EL7" width="200px" height="124px" />
 </a>
 </div>
 </div>

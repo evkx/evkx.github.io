@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exte
 data-pswp-width="1680"
 data-pswp-height="920" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exterior_1_xst.jpg" alt="BYD Tang EV600" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exterior_1_xst.jpg" alt="BYD Tang EV600" width="200px" height="109px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exte
 data-pswp-width="1200"
 data-pswp-height="805" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exterior_2_xst.jpg" alt="BYD Tang EV600" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/exterior_2_xst.jpg" alt="BYD Tang EV600" width="200px" height="134px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main
 data-pswp-width="1680"
 data-pswp-height="960" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1_xst.jpg" alt="BYD Tang EV600" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1_xst.jpg" alt="BYD Tang EV600" width="200px" height="114px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/scre
 data-pswp-width="1920"
 data-pswp-height="1079" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/screens_1_xst.jpg" alt="BYD Tang EV600" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/screens_1_xst.jpg" alt="BYD Tang EV600" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/seco
 data-pswp-width="1921"
 data-pswp-height="1080" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/secondrowseats_1_xst.jpg" alt="BYD Tang EV600" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/secondrowseats_1_xst.jpg" alt="BYD Tang EV600" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/seco
 data-pswp-width="1200"
 data-pswp-height="771" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/secondrowseats_2_xst.jpg" alt="BYD Tang EV600" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/secondrowseats_2_xst.jpg" alt="BYD Tang EV600" width="200px" height="128px" />
 </a>
 </div>
 </div>

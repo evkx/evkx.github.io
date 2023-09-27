@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/voyah/free/free/exterior
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/voyah/free/free/exterior_1_xst.jpg" alt="VOYAH FREE" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/voyah/free/free/exterior_1_xst.jpg" alt="VOYAH FREE" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/voyah/free/free/interior
 data-pswp-width="2560"
 data-pswp-height="1750" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/voyah/free/free/interior_1_xst.jpg" alt="VOYAH FREE" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/voyah/free/free/interior_1_xst.jpg" alt="VOYAH FREE" width="200px" height="136px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1.j
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_xst.jpg" alt="VOYAH FREE" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_xst.jpg" alt="VOYAH FREE" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/voyah/free/free/screens_
 data-pswp-width="2560"
 data-pswp-height="1767" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/voyah/free/free/screens_1_xst.jpg" alt="VOYAH FREE" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/voyah/free/free/screens_1_xst.jpg" alt="VOYAH FREE" width="200px" height="138px" />
 </a>
 </div>
 </div>

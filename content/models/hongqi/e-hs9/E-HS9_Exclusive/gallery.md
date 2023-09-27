@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclu
 data-pswp-width="3000"
 data-pswp-height="1757" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/exterior_1_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/exterior_1_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="117px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclu
 data-pswp-width="3000"
 data-pswp-height="2191" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/exterior_2_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/exterior_2_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="146px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclu
 data-pswp-width="1760"
 data-pswp-height="820" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/exterior_3_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/exterior_3_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="93px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclu
 data-pswp-width="1137"
 data-pswp-height="758" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/exterior_4_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/exterior_4_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclu
 data-pswp-width="851"
 data-pswp-height="686" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/headlights_1_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/headlights_1_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="161px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclu
 data-pswp-width="1760"
 data-pswp-height="686" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/interior_1_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/interior_1_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="77px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclu
 data-pswp-width="3000"
 data-pswp-height="2050" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/main_1_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/main_1_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="136px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclu
 data-pswp-width="3000"
 data-pswp-height="1800" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/screens_1_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/screens_1_xst.jpg" alt="Hongqi E-HS9 Exclusive" width="200px" height="120px" />
 </a>
 </div>
 </div>

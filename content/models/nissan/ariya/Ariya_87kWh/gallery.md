@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/exterior_1_xst.jpg" alt="Nissan Ariya 87kWh" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/exterior_1_xst.jpg" alt="Nissan Ariya 87kWh" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/exterior_2_xst.jpg" alt="Nissan Ariya 87kWh" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/exterior_2_xst.jpg" alt="Nissan Ariya 87kWh" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh
 data-pswp-width="3000"
 data-pswp-height="1889" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/main_1_xst.jpg" alt="Nissan Ariya 87kWh" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/main_1_xst.jpg" alt="Nissan Ariya 87kWh" width="200px" height="125px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/screens_1_xst.jpg" alt="Nissan Ariya 87kWh" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/screens_1_xst.jpg" alt="Nissan Ariya 87kWh" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/screens_2_xst.jpg" alt="Nissan Ariya 87kWh" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/screens_2_xst.jpg" alt="Nissan Ariya 87kWh" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/trunk_1_xst.jpg" alt="Nissan Ariya 87kWh" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/trunk_1_xst.jpg" alt="Nissan Ariya 87kWh" width="200px" height="133px" />
 </a>
 </div>
 </div>

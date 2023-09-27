@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/charging_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/charging_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/exterior_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/exterior_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/exterior_2_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/exterior_2_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/exterior_3_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/exterior_3_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/frontseats_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/frontseats_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/frontseats_2_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/frontseats_2_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/frunk_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/frunk_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/headlights_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/headlights_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/main_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/main_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/rearlights_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/rearlights_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/screens_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/screens_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/screens_2_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/screens_2_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/screens_3_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/screens_3_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/secondrowseats_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/secondrowseats_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/trunk_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/trunk_1_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/trunk_2_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/trunk_2_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/trunk_3_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/trunk_3_xst.jpg" alt="Volvo C40 Recharge Single Motor ER" width="200px" height="133px" />
 </a>
 </div>
 </div>

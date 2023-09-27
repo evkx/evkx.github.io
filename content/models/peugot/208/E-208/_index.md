@@ -6,7 +6,7 @@ weight: 10
 hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -209,4 +209,4 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 ### Availability & Pricing
 
 This model had world premiere 06.07.2023 and deliveries is expected to start November 2023.
-<object type="image/svg+xml" data="modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

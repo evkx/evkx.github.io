@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/ext
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_1_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_1_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/ext
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_2_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_2_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/ext
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_3_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_3_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/ext
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_4_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_4_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/ext
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_5_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/exterior_5_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/hea
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/headlights_1_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/headlights_1_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/mai
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/main_1_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/main_1_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/rea
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/rearlights_1_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/rearlights_1_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/scr
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/screens_1_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/screens_1_xst.jpg" alt="BMW iX1 eDrive20" width="200px" height="150px" />
 </a>
 </div>
 </div>

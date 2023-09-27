@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gt
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_1_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_1_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gt
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_2_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_2_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gt
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_3_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_3_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gt
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_4_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/exterior_4_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gt
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/frontseats_1_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/frontseats_1_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gt
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/interior_1_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/interior_1_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gt
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gt
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/screens_1_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/screens_1_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gt
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/wheels_1_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/wheels_1_xst.jpg" alt="Porsche Taycan GTS" width="200px" height="150px" />
 </a>
 </div>
 </div>

@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/charging_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/charging_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4ma
 data-pswp-width="3000"
 data-pswp-height="1849" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/exterior_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/exterior_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="123px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/frontseats_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/frontseats_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4ma
 data-pswp-width="3000"
 data-pswp-height="1854" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/main_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/main_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="123px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4ma
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/screens_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/screens_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4ma
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/screens_2_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/screens_2_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4ma
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/screens_3_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/screens_3_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/secondrowseats_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/secondrowseats_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/secondrowseats_2_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/secondrowseats_2_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/trunk_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/trunk_1_xst.jpg" alt="Mercedes-EQ EQE 500 4MATIC" width="200px" height="133px" />
 </a>
 </div>
 </div>

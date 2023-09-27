@@ -6,7 +6,7 @@ weight: 10
 hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -256,4 +256,4 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 316 liters. With the rear seat down, it is 654 liters. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
-<object type="image/svg+xml" data="modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

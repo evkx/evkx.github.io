@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/exterior_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/exterior_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_
 data-pswp-width="3000"
 data-pswp-height="2086" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/exterior_2_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/exterior_2_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="139px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/frontseats_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/frontseats_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="149px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/headlights_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/headlights_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/headlights_2_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/headlights_2_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_
 data-pswp-width="3000"
 data-pswp-height="2262" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/interior_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/interior_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_
 data-pswp-width="3000"
 data-pswp-height="2251" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/interior_2_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/interior_2_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/rearlights_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/rearlights_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_
 data-pswp-width="3000"
 data-pswp-height="2251" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/screens_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/screens_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_
 data-pswp-width="3000"
 data-pswp-height="1311" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/screens_2_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/screens_2_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="87px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_
 data-pswp-width="3000"
 data-pswp-height="2248" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/secondrowseats_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/secondrowseats_1_xst.jpg" alt="Polestar 3 Long Range Dual Motor Performance" width="200px" height="149px" />
 </a>
 </div>
 </div>

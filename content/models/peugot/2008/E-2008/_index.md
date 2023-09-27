@@ -6,7 +6,7 @@ weight: 10
 hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -206,4 +206,4 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 </a>
 <figcaption><h4>Peugot E-2008</h4></figcaption></figur>
 
-<object type="image/svg+xml" data="modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

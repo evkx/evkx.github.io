@@ -6,7 +6,7 @@ weight: 10
 hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -235,4 +235,4 @@ The cargo capacity in the truck bed is 1495 liters. The bed width is 1285 mm, an
 </a>
 <figcaption><h4>Ford F150 Lightning Extended Range</h4></figcaption></figur>
 
-<object type="image/svg+xml" data="modelnavigation.svg"></object>
+<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

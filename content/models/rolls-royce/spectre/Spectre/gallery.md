@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spec
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/exterior_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/exterior_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spec
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/exterior_2_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/exterior_2_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spec
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/exterior_3_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/exterior_3_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spec
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/frontseats_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/frontseats_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spec
 data-pswp-width="3000"
 data-pswp-height="1700" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/headlights_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/headlights_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="113px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spec
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/headlights_2_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/headlights_2_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spec
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spec
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/rearlights_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/rearlights_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spec
 data-pswp-width="3000"
 data-pswp-height="1862" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/screens_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/screens_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="124px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spec
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/secondrowseats_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/secondrowseats_1_xst.jpg" alt="Rolls-Royce Spectre" width="200px" height="133px" />
 </a>
 </div>
 </div>

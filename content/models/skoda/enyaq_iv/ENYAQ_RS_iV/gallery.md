@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/exterior_1_xst.jpg" alt="SKODA ENYAQ RS iV" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/exterior_1_xst.jpg" alt="SKODA ENYAQ RS iV" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/exterior_2_xst.jpg" alt="SKODA ENYAQ RS iV" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/exterior_2_xst.jpg" alt="SKODA ENYAQ RS iV" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/exterior_3_xst.jpg" alt="SKODA ENYAQ RS iV" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/exterior_3_xst.jpg" alt="SKODA ENYAQ RS iV" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_xst.jpg" alt="SKODA ENYAQ RS iV" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_xst.jpg" alt="SKODA ENYAQ RS iV" width="200px" height="133px" />
 </a>
 </div>
 </div>

@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="1666" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/exterior_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/exterior_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="111px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="1875" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/exterior_2_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/exterior_2_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="125px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="1666" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/exterior_3_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/exterior_3_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="111px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="1666" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/exterior_4_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/exterior_4_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="111px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/frontseats_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/frontseats_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/headlights_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/headlights_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/interior_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/interior_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/interior_2_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/interior_2_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="1875" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="125px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/rearlights_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/rearlights_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="2167" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/screens_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/screens_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="144px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="1954" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/screens_2_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/screens_2_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="130px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/screens_3_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/screens_3_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/wheels_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/wheels_1_xst.jpg" alt="Peugot E-3008 Long Range" width="200px" height="150px" />
 </a>
 </div>
 </div>

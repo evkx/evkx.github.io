@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4ma
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/exterior_1_xst.jpg" alt="Mercedes-EQ EQB 350 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/exterior_1_xst.jpg" alt="Mercedes-EQ EQB 350 4MATIC" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4ma
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/frontseats_1_xst.jpg" alt="Mercedes-EQ EQB 350 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/frontseats_1_xst.jpg" alt="Mercedes-EQ EQB 350 4MATIC" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4ma
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/main_1_xst.jpg" alt="Mercedes-EQ EQB 350 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/main_1_xst.jpg" alt="Mercedes-EQ EQB 350 4MATIC" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4ma
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/screens_1_xst.jpg" alt="Mercedes-EQ EQB 350 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/screens_1_xst.jpg" alt="Mercedes-EQ EQB 350 4MATIC" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4ma
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/trunk_1_xst.jpg" alt="Mercedes-EQ EQB 350 4MATIC" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/trunk_1_xst.jpg" alt="Mercedes-EQ EQB 350 4MATIC" width="200px" height="133px" />
 </a>
 </div>
 </div>

@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="3000"
 data-pswp-height="2455" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/exterior_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/exterior_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="163px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="2829"
 data-pswp-height="1623" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/exterior_2_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/exterior_2_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="114px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="1921"
 data-pswp-height="1237" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/exterior_3_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/exterior_3_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="128px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="1796"
 data-pswp-height="1054" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/exterior_4_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/exterior_4_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="117px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/frontseats_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/frontseats_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="3000"
 data-pswp-height="1998" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/interior_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/interior_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="3000"
 data-pswp-height="1800" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/screens_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/screens_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="120px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/screens_2_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/screens_2_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/screens_3_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/screens_3_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/seats_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/seats_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/secondrowseats_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/secondrowseats_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/thirdrowseats_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/thirdrowseats_1_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_pe
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/thirdrowseats_2_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/thirdrowseats_2_xst.jpg" alt="Tesla Model Y Performance" width="200px" height="133px" />
 </a>
 </div>
 </div>

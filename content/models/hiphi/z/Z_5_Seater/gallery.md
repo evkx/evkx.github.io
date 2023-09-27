@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/charg
 data-pswp-width="3000"
 data-pswp-height="2032" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/charging_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/charging_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="135px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/exter
 data-pswp-width="3000"
 data-pswp-height="1399" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/exterior_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/exterior_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="93px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/exter
 data-pswp-width="3000"
 data-pswp-height="1682" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/exterior_2_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/exterior_2_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/front
 data-pswp-width="3000"
 data-pswp-height="2256" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/frontseats_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/frontseats_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="150px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/headl
 data-pswp-width="3000"
 data-pswp-height="1467" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/headlights_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/headlights_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="97px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/inter
 data-pswp-width="3000"
 data-pswp-height="1676" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/interior_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/interior_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="111px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_
 data-pswp-width="3000"
 data-pswp-height="1486" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="99px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/scree
 data-pswp-width="3000"
 data-pswp-height="2052" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/screens_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/screens_1_xst.jpg" alt="HiPhi Z 5 Seater" width="200px" height="136px" />
 </a>
 </div>
 </div>

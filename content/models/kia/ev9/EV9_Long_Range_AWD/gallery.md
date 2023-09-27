@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_2_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_2_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_3_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_3_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_4_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_4_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_5_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_5_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_6_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/exterior_6_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/frontseats_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/frontseats_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="1350"
 data-pswp-height="900" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/frontseats_2_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/frontseats_2_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/headlights_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/headlights_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/headlights_2_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/headlights_2_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/interior_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/interior_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/main_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/main_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/rearlights_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/rearlights_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/screens_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/screens_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2018" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/screens_2_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/screens_2_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="134px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/secondrowseats_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/secondrowseats_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="1350"
 data-pswp-height="900" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/thirdrowseats_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/thirdrowseats_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_a
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/trunk_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/trunk_1_xst.jpg" alt="Kia EV9 Long Range AWD" width="200px" height="133px" />
 </a>
 </div>
 </div>

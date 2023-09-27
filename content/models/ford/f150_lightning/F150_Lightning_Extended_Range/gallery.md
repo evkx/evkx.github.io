@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1717" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/camping_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/camping_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="114px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1554" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/camping_2_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/camping_2_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="103px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1506" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/charging_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/charging_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="100px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1595" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="106px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1848" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_2_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_2_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="123px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1121" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_3_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_3_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="74px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1439" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_4_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_4_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="95px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1633" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_5_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_5_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="108px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frunk_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frunk_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/headlights_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/headlights_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/headlights_3_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/headlights_3_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/interior_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/interior_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/lights_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/lights_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1571" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="104px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_2_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_2_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_3_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_3_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_4_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_4_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_5_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_5_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -194,7 +194,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/suspension_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/suspension_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -203,7 +203,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1534" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trailer_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trailer_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="102px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -212,7 +212,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1154" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trailer_2_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trailer_2_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="76px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -221,7 +221,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1296" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trailer_3_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trailer_3_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="86px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -230,7 +230,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trailer_4_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trailer_4_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -239,7 +239,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1264" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="84px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -248,7 +248,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trunk_2_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trunk_2_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -257,7 +257,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trunk_3_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trunk_3_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="112px" />
 </a>
 </div>
 <div class="pswp-grid-item">
@@ -266,7 +266,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150
 data-pswp-width="3000"
 data-pswp-height="1915" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/v2l_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="0px" />
+<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/v2l_1_xst.jpg" alt="Ford F150 Lightning Extended Range" width="200px" height="127px" />
 </a>
 </div>
 </div>
