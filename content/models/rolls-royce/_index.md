@@ -9,7 +9,7 @@ Rolls Royce's EV strategy is based on three pillars: delivering on its commitmen
 
 ## Rolls-Royce Spectre
 
-<a href="spectre"><img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" class="img-fluid" alt="Rolls-Royce Spectre" ></a>
+<a href="spectre"><img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" class="img-fluid" alt="Spectre" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](spectre/)

@@ -9,7 +9,7 @@ Renault's EV strategy is based on six pillars: - Batteries: Renault aims to mast
 
 ## Renault Scenic
 
-<a href="scenic"><img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/main_1_st.jpg" class="img-fluid" alt="Renault Scenic" ></a>
+<a href="scenic"><img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/main_1_st.jpg" class="img-fluid" alt="Scenic" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](scenic/)

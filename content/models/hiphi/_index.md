@@ -9,21 +9,21 @@ Human Horizons is an innovative technology company based in Shanghai, China. It 
 
 ## HiPhi X
 
-<a href="x"><img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_st.jpg" class="img-fluid" alt="HiPhi X" ></a>
+<a href="x"><img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_st.jpg" class="img-fluid" alt="X" ></a>
 
 This model is available in 2 variant(s). 
 [Read full details](x/)
 
 ## HiPhi Y
 
-<a href="y"><img src="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/main_1_st.jpg" class="img-fluid" alt="HiPhi Y" ></a>
+<a href="y"><img src="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/main_1_st.jpg" class="img-fluid" alt="Y" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](y/)
 
 ## HiPhi Z
 
-<a href="z"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg" class="img-fluid" alt="HiPhi Z" ></a>
+<a href="z"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg" class="img-fluid" alt="Z" ></a>
 
 This model is available in 2 variant(s). 
 [Read full details](z/)

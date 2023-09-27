@@ -9,14 +9,14 @@ Cadillac's electric vehicle (EV) strategy is part of GM's vision to create a wor
 
 ## Cadillac ESCALADE
 
-<a href="escalade"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" class="img-fluid" alt="Cadillac ESCALADE" ></a>
+<a href="escalade"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" class="img-fluid" alt="ESCALADE" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](escalade/)
 
 ## Cadillac LYRIQ
 
-<a href="lyriq"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" class="img-fluid" alt="Cadillac LYRIQ" ></a>
+<a href="lyriq"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" class="img-fluid" alt="LYRIQ" ></a>
 
 This model is available in 2 variant(s). 
 [Read full details](lyriq/)

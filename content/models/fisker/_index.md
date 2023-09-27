@@ -9,7 +9,7 @@ Fisker's first car was the Fisker Karma, which was a plug-in hybrid electric veh
 
 ## Fisker Ocean
 
-<a href="ocean"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" class="img-fluid" alt="Fisker Ocean" ></a>
+<a href="ocean"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" class="img-fluid" alt="Ocean" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](ocean/)

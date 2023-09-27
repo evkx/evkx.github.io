@@ -9,7 +9,7 @@ Rivian also has a contract with Amazon to deliver 100,000 electric delivery vans
 
 ## Rivian R1
 
-<a href="r1"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg" class="img-fluid" alt="Rivian R1" ></a>
+<a href="r1"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg" class="img-fluid" alt="R1" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](r1/)

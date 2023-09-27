@@ -9,7 +9,7 @@ The name DS is a reference to the classic Citroën DS, a legendary car that was 
 
 ## DS 3
 
-<a href="3"><img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1_st.jpg" class="img-fluid" alt="DS 3" ></a>
+<a href="3"><img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1_st.jpg" class="img-fluid" alt="3" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](3/)

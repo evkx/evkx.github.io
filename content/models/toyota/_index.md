@@ -9,7 +9,7 @@ weight: 30
 
 ## Toyota bZ4X
 
-<a href="bz4x"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" class="img-fluid" alt="Toyota bZ4X" ></a>
+<a href="bz4x"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" class="img-fluid" alt="bZ4X" ></a>
 
 This model is available in 2 variant(s). 
 [Read full details](bz4x/)

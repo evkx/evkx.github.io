@@ -9,7 +9,7 @@ Citroën's EV strategy is to offer electrified versions of all its models by 202
 
 ## Citroën ë-C4
 
-<a href="ë-c4"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" class="img-fluid" alt="Citroën ë-C4" ></a>
+<a href="ë-c4"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" class="img-fluid" alt="ë-C4" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](ë-c4/)

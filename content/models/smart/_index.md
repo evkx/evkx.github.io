@@ -9,14 +9,14 @@ The Smart car brand was originally founded in 1994 by Micro Compact Car AG, a jo
 
 ## Smart #1
 
-<a href="hash1"><img src="https://media.evkx.net/multimedia/models/smart/#1/#1_brabus/main_1_st.jpg" class="img-fluid" alt="Smart #1" ></a>
+<a href="hash1"><img src="https://media.evkx.net/multimedia/models/smart/#1/#1_brabus/main_1_st.jpg" class="img-fluid" alt="#1" ></a>
 
 This model is available in 3 variant(s). 
 [Read full details](hash1/)
 
 ## Smart #3
 
-<a href="hash3"><img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" class="img-fluid" alt="Smart #3" ></a>
+<a href="hash3"><img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" class="img-fluid" alt="#3" ></a>
 
 This model is available in 1 variant(s). 
 [Read full details](hash3/)
