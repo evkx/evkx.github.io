@@ -12,66 +12,91 @@ EVKX.net seeks to have the most complete specifications for Volvo EX30 Single Mo
 
 ## Performance
 
-|Spec|Value|
-|----|-----|
-|Peak electrical output in kW|200 Kw|
-|Electrical torque output in Nm|343 Nm|
-|Top speed|180 km/h|
-|0-100km/h (0-62 mph)|5,3 s|
+<table class="table">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Peak electrical output in kW</td><td>200 Kw</td></tr>
+<tr><td>Electrical torque output in Nm</td><td>343 Nm</td></tr>
+<tr><td>Top speed</td><td>180 km/h</td></tr>
+<tr><td>0-100km/h (0-62 mph)</td><td>5,3 s</td></tr>
+</tbody>
+</table>
 
 
 
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-|Spec|Value|
-|----|-----|
-|WLTP range|460 km|
-|WLTP consumption|13,9 kWh/100km|
-|WLTP consumption with charging loss|16,7 kWh/100km|
+<table class="table">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>WLTP range</td><td>460 km</td></tr>
+<tr><td>WLTP consumption</td><td>13,9 kWh/100km</td></tr>
+<tr><td>WLTP consumption with charging loss</td><td>16,7 kWh/100km</td></tr>
+</tbody>
+</table>
 
 
 
 ## Battery & Charging
 
-|Spec|Value|
-|----|-----|
-|[Battery gross](../../../../../technology/battery/buffer/)|69 kWh|
-|[Battery net](../../../../../technology/battery/buffer/)|64 kWh|
-|Max DC charging|153 kW|
-|[Cathode Materials](../../../../../technology/battery/cellchemistry/#cathode)|NMC|
+<table class="table">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Battery gross</td><td>69 kWh</td></tr>
+<tr><td>Battery net</td><td>64 kWh</td></tr>
+<tr><td>Max DC charging</td><td>153 kW</td></tr>
+<tr><td>Cathode Materials</td><td>NMC</td></tr>
+</tbody>
+</table>
 
 
 
 ## Dimensions
 
-|Spec|Value|
-|----|-----|
-|Length|4233 mm|
-|Height|1549 mm|
-|Width excluding mirrors|1837 mm|
-|Widht including mirrors|2032 mm|
-|Wheelbase|2650 mm|
-|Track width front|1590 mm|
-|Track width rear|1595 mm|
-|Drag coefficient|0,28|
-|Turning circle|10,6 meters|
+<table class="table">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Length</td><td>4233 mm</td></tr>
+<tr><td>Height</td><td>1549 mm</td></tr>
+<tr><td>Width excluding mirrors</td><td>1837 mm</td></tr>
+<tr><td>Widht including mirrors</td><td>2032 mm</td></tr>
+<tr><td>Wheelbase</td><td>2650 mm</td></tr>
+<tr><td>Track width front</td><td>1590 mm</td></tr>
+<tr><td>Track width rear</td><td>1595 mm</td></tr>
+<tr><td>Drag coefficient</td><td>0,28</td></tr>
+<tr><td>Turning circle</td><td>10,6 meters</td></tr>
+</tbody>
+</table>
 
 ## Suspension
 
-|Spec|Value|
-|----|-----|
-|Adaptive suspension|Not available|
-|Adjustable damping front|Not available|
-|Adjustable damping rear|Not available|
-|Adjustable height front|Not available|
-|Adjustable height rear|Not available|
-|Max ground clearance|165|
-|Minimum ground clearance|175|
-|Suspension type front|SteelSpringsWithOilDampers|
-|Suspension construction front|MacPhersonStrut|
-|Suspension type rear|SteelSpringsWithOilDampers|
-|Suspension construction rear|Multilink|
+<table class="table">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Adaptive suspension</td><td>Not available</td></tr>
+<tr><td>Adjustable damping front</td><td>Not available</td></tr>
+<tr><td>Adjustable damping rear</td><td>Not available</td></tr>
+<tr><td>Adjustable height front</td><td>Not available</td></tr>
+<tr><td>Adjustable height rear</td><td>Not available</td></tr>
+<tr><td>Max ground clearance</td><td>165</td></tr>
+<tr><td>Minimum ground clearance</td><td>175</td></tr>
+<tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction front</td><td>MacPhersonStrut</td></tr>
+<tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction rear</td><td>Multilink</td></tr>
+</tbody>
+</table>
 
 ## Interior
 
@@ -79,92 +104,122 @@ This model is available with a seat configuration with five seats.
 
 ### Front seats
 
-|Spec|Value|
-|----|-----|
-|[Seat type](../../../../../technology/seats/types/)|PassengerAndDriver|
-|Electric adjustment of height, recline and angle|Unknown|
-|Interior.Seatoptions.MemoryDriverSeat|Unknown|
-|Interior.Seatoptions.MemoryPassangerSeat|Unknown|
-|Height adjustable headrest|Unknown|
-|Length adjustable headrest|Unknown|
-|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Standard feature|
-|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Unknown|
-|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Unknown|
-|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
-|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
-|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
-|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Standard feature|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Unknown|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
+<table class="table">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
+<tr><td>Electric adjustment of height, recline and angle</td><td>Unknown</td></tr>
+<tr><td>Interior.Seatoptions.MemoryDriverSeat</td><td>Unknown</td></tr>
+<tr><td>Interior.Seatoptions.MemoryPassangerSeat</td><td>Unknown</td></tr>
+<tr><td>Height adjustable headrest</td><td>Unknown</td></tr>
+<tr><td>Length adjustable headrest</td><td>Unknown</td></tr>
+<tr><td>Adjustable thigh support</td><td>Standard feature</td></tr>
+<tr><td>Backrest side bolster adjustment</td><td>Unknown</td></tr>
+<tr><td>Seat cushion side bolster adjustement</td><td>Unknown</td></tr>
+<tr><td>Electric adjustable thigh support</td><td>Unknown</td></tr>
+<tr><td>Footrest passengers</td><td>Unknown</td></tr>
+<tr><td>Leg support passenger</td><td>Unknown</td></tr>
+<tr><td>Electric lumbar adjustment</td><td>Standard feature</td></tr>
+<tr><td>Seat ventilation</td><td>Unknown</td></tr>
+<tr><td>Massage function</td><td>Not Available</td></tr>
+</tbody>
+</table>
 
 ### Front seats
 
-|Spec|Value|
-|----|-----|
-|[Seat type](../../../../../technology/seats/types/)|ThreeSeatBench|
-|Height adjustable headrest|Unknown|
-|Length adjustable headrest|Unknown|
-|[Adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
-|[Backrest side bolster adjustment](../../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)|Unknown|
-|[Seat cushion side bolster adjustement](../../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)|Unknown|
-|[Electric adjustable thigh support](../../../../../technology/seats/adjustment/#thigh-support-adjustment)|Unknown|
-|[Footrest passengers](../../../../../technology/seats/adjustment/#footrest)|Unknown|
-|[Leg support passenger](../../../../../technology/seats/adjustment/#leg-support)|Unknown|
-|[Electric lumbar adjustment](../../../../../technology/seats/adjustment/#lumbar-support)|Not Available|
-|[Seat ventilation](../../../../../technology/seats/adjustment/#ventilation)|Not Available|
-|[Massage function](../../../../../technology/seats/adjustment/#massage)|Not Available|
+<table class="table">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Seat type</td><td>ThreeSeatBench</td></tr>
+<tr><td>Height adjustable headrest</td><td>Unknown</td></tr>
+<tr><td>Length adjustable headrest</td><td>Unknown</td></tr>
+<tr><td>Adjustable thigh support</td><td>Unknown</td></tr>
+<tr><td>Backrest side bolster adjustment</td><td>Unknown</td></tr>
+<tr><td>Seat cushion side bolster adjustement</td><td>Unknown</td></tr>
+<tr><td>Electric adjustable thigh support</td><td>Unknown</td></tr>
+<tr><td>Footrest passengers</td><td>Unknown</td></tr>
+<tr><td>Leg support passenger</td><td>Unknown</td></tr>
+<tr><td>Electric lumbar adjustment</td><td>Not Available</td></tr>
+<tr><td>Seat ventilation</td><td>Not Available</td></tr>
+<tr><td>Massage function</td><td>Not Available</td></tr>
+</tbody>
+</table>
 
 ## Driver Assistance
 
-|Spec|Value|
-|----|-----|
-|Lane keeping|Yes, standard equipment|
-|Lane departure warning|Yes, standard equipment|
-|Drowsiness Alert|Yes, standard equipment|
-|Reversing camera|Yes, standard equipment|
-|360 camera|Yes, optional equipment|
-|Rear cross traffic alert|Yes (BLIS Cross Traffic Alert), standard equipment|
-|Rear parking sensors|Yes, standard equipment|
-|Front parking sensors|Yes, standard equipment|
-|Side parking sensors|Yes, optional equipment|
-|Hill descent assist|Yes, standard equipment|
-|Hill start assist|Yes, standard equipment|
-|AntiLock Braking System|Yes, standard equipment|
-|Automatic emergency braking|Yes, standard equipment|
-|Brake assist|Yes, standard equipment|
-|Traction control|Yes, standard equipment|
-|Left turn crash avoidance|Yes, standard equipment|
-|Forward Collision Warning|Yes, standard equipment|
-|Electronic stability control|Yes, standard equipment|
-|Temperature warning|Yes, standard equipment|
-|Cross traffic assist||
-|Speed limiter||
-|Efficiency assist|Yes, standard equipment|
-|Automatic Emergency Steering||
-|Traffic Sign Recognition||
-|Night Vision|Not available|
+<table class="table">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Lane keeping</td><td>Yes, standard equipment</td></tr>
+<tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
+<tr><td>Drowsiness Alert</td><td>Yes, standard equipment</td></tr>
+<tr><td>Reversing camera</td><td>Yes, standard equipment</td></tr>
+<tr><td>360 camera</td><td>Yes, optional equipment</td></tr>
+<tr><td>Rear cross traffic alert</td><td>Yes (BLIS Cross Traffic Alert), standard equipment</td></tr>
+<tr><td>Rear parking sensors</td><td>Yes, standard equipment</td></tr>
+<tr><td>Front parking sensors</td><td>Yes, standard equipment</td></tr>
+<tr><td>Side parking sensors</td><td>Yes, optional equipment</td></tr>
+<tr><td>Hill descent assist</td><td>Yes, standard equipment</td></tr>
+<tr><td>Hill start assist</td><td>Yes, standard equipment</td></tr>
+<tr><td>AntiLock Braking System</td><td>Yes, standard equipment</td></tr>
+<tr><td>Automatic emergency braking</td><td>Yes, standard equipment</td></tr>
+<tr><td>Brake assist</td><td>Yes, standard equipment</td></tr>
+<tr><td>Traction control</td><td>Yes, standard equipment</td></tr>
+<tr><td>Left turn crash avoidance</td><td>Yes, standard equipment</td></tr>
+<tr><td>Forward Collision Warning</td><td>Yes, standard equipment</td></tr>
+<tr><td>Electronic stability control</td><td>Yes, standard equipment</td></tr>
+<tr><td>Temperature warning</td><td>Yes, standard equipment</td></tr>
+<tr><td>Cross traffic assist</td><td></td></tr>
+<tr><td>Speed limiter</td><td></td></tr>
+<tr><td>Efficiency assist</td><td>Yes, standard equipment</td></tr>
+<tr><td>Automatic Emergency Steering</td><td></td></tr>
+<tr><td>Traffic Sign Recognition</td><td></td></tr>
+<tr><td>Night Vision</td><td>Not available</td></tr>
+</tbody>
+</table>
 
 ## Infotainment
 
-|Spec|Value|
-|----|-----|
-|Android Auto support|Not available|
-|Apple Carplay support|Yes, standard equipment|
-|In Car navigation|Yes, standard equipment|
-|Number of avaiable sound systems|2|
+<table class="table">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Android Auto support</td><td>Not available</td></tr>
+<tr><td>Apple Carplay support</td><td>Yes, standard equipment</td></tr>
+<tr><td>In Car navigation</td><td>Yes, standard equipment</td></tr>
+</tbody>
+</table>
+<tr><td>Number of avaiable sound systems</td><td>2</td></tr>
 
 ### High Performance
 
-|Spec|Value|
-|----|-----|
-|Number of speakers|8|
-|Channels|5|
-|Total effect|200|
+<table class="table">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Number of speakers</td><td>8</td></tr>
+<tr><td>Channels</td><td>5</td></tr>
+<tr><td>Total effect</td><td>200</td></tr>
+</tbody>
+</table>
 
 ### Harman Kardon Premium Sound
 
-|Spec|Value|
-|----|-----|
-|Number of speakers|13|
-|Channels|5|
-|Total effect|1040|
+<table class="table">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Number of speakers</td><td>13</td></tr>
+<tr><td>Channels</td><td>5</td></tr>
+<tr><td>Total effect</td><td>1040</td></tr>
+</tbody>
+</table>
