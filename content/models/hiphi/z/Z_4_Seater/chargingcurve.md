@@ -43,7 +43,7 @@ HiPhi Z 4 Seater have battery heating, making charging at an optimum battery tem
 {{<evkxdisplayaddarticle />}}
 <table class="table">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Chargetime total</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
 </thead>
 <tbody>
 <tr>
