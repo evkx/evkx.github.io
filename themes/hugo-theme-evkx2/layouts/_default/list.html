@@ -6,9 +6,9 @@
 {{ $finalContent }}
 
     </div>
-    <div class="col-0 col-xl-4 col-xxl-5 bg-dark">
-      Column
-    </div>
+	<div class="col-0 col-xl-4 col-xxl-5 p-4">
+		{{ partial "models-new.html" . }}
+	</div>
   </div>
 
 {{if not .Content }}

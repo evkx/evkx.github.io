@@ -24,10 +24,10 @@
       crossorigin="anonymous">
     </script>
   </head>
-  <body data-url="{{ .RelPermalink }}">
+  <body data-url="{{ .RelPermalink }}" class="bg-light">
     {{ partial "navbar.html" . }}
-    <div class="container">
-        <div class="container bg-primary-subtle">
+    <div class="container p-0 bg-white">
+        <div class="container">
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
           crossorigin="anonymous"></script>
         <!-- EVKX Top Display Add -->
@@ -40,7 +40,7 @@
       <aside>
         {{ partial "menu.html" . }}
       </aside>
-      <main class="bg-light">
+      <main>
         <div class="row">
           <div class="col-12 col-xl-8 col-xxl-7 p-4" >
             {{if not .IsHome}}
