@@ -7,7 +7,7 @@ staticDir = "static"
 publishDir = "public"
 
 title = "Electric Vehicle Knowledge eXchange"
-theme = "hugo-theme-evkx"
+theme = "hugo-theme-evkx2"
 metadataFormat = "yaml"
 pluralizeListTitles = false
 preservetaxonomynames = true
