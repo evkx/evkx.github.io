@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" class="img-fluid">
 </a>
-<figcaption><h4>BMW i4 M50</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i4 M50</blockquote></figure>
 
 We have separated our BMW i4 M50 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +49,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 20 minutes. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/charging_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/charging_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" class="img-fluid">
 </a>
-<figcaption><h4>BMW i4 M50</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i4 M50</blockquote></figure>
 
 
 ### Charge port
@@ -92,11 +92,11 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/exterior_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" class="img-fluid">
 </a>
-<figcaption><h4>BMW i4 M50</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i4 M50</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -143,11 +143,11 @@ You can choose from 21 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/frontseats_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" class="img-fluid">
 </a>
-<figcaption><h4>BMW i4 M50</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i4 M50</blockquote></figure>
 
 
 ### Second-row seat
@@ -186,11 +186,11 @@ You have wireless charging for your phone.
 BMW i4 M50 has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 14,9 inches large and has a 2880 x 1080 pixels resolution. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/screens_1_st.jpg" alt="BMW i4 M50" title="BMW i4 M50" class="img-fluid">
 </a>
-<figcaption><h4>BMW i4 M50</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i4 M50</blockquote></figure>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 

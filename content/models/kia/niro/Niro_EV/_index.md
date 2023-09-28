@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV" class="img-fluid">
 </a>
-<figcaption><h4>Kia Niro EV</h4></figcaption></figur>
+<blockquote class="blockquote">Kia Niro EV</blockquote></figure>
 
 We have separated our Kia Niro EV article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +49,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 53 minutes. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/charging_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/charging_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV" class="img-fluid">
 </a>
-<figcaption><h4>Kia Niro EV</h4></figcaption></figur>
+<blockquote class="blockquote">Kia Niro EV</blockquote></figure>
 
 
 ### Charge port
@@ -88,11 +88,11 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/exterior_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV" class="img-fluid">
 </a>
-<figcaption><h4>Kia Niro EV</h4></figcaption></figur>
+<blockquote class="blockquote">Kia Niro EV</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -129,11 +129,11 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/secondrowseats_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV" class="img-fluid">
 </a>
-<figcaption><h4>Kia Niro EV</h4></figcaption></figur>
+<blockquote class="blockquote">Kia Niro EV</blockquote></figure>
 
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
@@ -157,11 +157,11 @@ You have wireless charging for your phone.
 Kia Niro EV has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 10,25 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 10,25 inches large and has a 2880 x 1080 pixels resolution. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/screens_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV" class="img-fluid">
 </a>
-<figcaption><h4>Kia Niro EV</h4></figcaption></figur>
+<blockquote class="blockquote">Kia Niro EV</blockquote></figure>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -219,10 +219,10 @@ The cargo capacity in the trunk is 475 liters. With the rear seat down, it is 13
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 300kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/trunk_1_st.jpg" alt="Kia Niro EV" title="Kia Niro EV" class="img-fluid">
 </a>
-<figcaption><h4>Kia Niro EV</h4></figcaption></figur>
+<blockquote class="blockquote">Kia Niro EV</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

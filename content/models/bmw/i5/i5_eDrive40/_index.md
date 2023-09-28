@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i5 eDrive40</blockquote></figure>
 
 We have separated our BMW i5 eDrive40 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +49,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 22 minutes. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/charging_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/charging_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i5 eDrive40</blockquote></figure>
 
 
 ### Charge port
@@ -96,11 +96,11 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/exterior_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i5 eDrive40</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -146,11 +146,11 @@ The following functionalities are available on the **M Sport** seat.
 - integrated headrest 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/frontseats_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i5 eDrive40</blockquote></figure>
 
 
 ### Second-row seat
@@ -163,11 +163,11 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 - integrated headrest 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/secondrowseats_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i5 eDrive40</blockquote></figure>
 
 
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
@@ -197,11 +197,11 @@ You have wireless charging for your phone.
 BMW i5 eDrive40 has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 14,9 inches large and has a 2880 x 1080 pixels resolution. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/screens_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i5 eDrive40</blockquote></figure>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -218,11 +218,11 @@ The model has 6 USB-C connections as standard.
 You can choose between two types of headlights for the BMW i5 eDrive40. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/headlights_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i5 eDrive40</blockquote></figure>
 
 ## Advanced driver assistance systems
 
@@ -270,10 +270,10 @@ The cargo capacity in the trunk is 490 liters. With the rear seat down, it is 12
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/trunk_1_st.jpg" alt="BMW i5 eDrive40" title="BMW i5 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i5 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i5 eDrive40</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range" class="img-fluid">
 </a>
-<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+<blockquote class="blockquote">MG MG5 Electric Long Range</blockquote></figure>
 
 We have separated our MG MG5 Electric Long Range article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +49,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 13 minutes. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/charging_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/charging_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range" class="img-fluid">
 </a>
-<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+<blockquote class="blockquote">MG MG5 Electric Long Range</blockquote></figure>
 
 
 ### Charge port
@@ -85,11 +85,11 @@ You can choose between 4 different paint colors when ordering this model.
 There is only one roof for this model. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/exterior_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range" class="img-fluid">
 </a>
-<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+<blockquote class="blockquote">MG MG5 Electric Long Range</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -116,11 +116,11 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/frontseats_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range" class="img-fluid">
 </a>
-<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+<blockquote class="blockquote">MG MG5 Electric Long Range</blockquote></figure>
 
 
 ### Second-row seat
@@ -131,11 +131,11 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/secondrowseats_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range" class="img-fluid">
 </a>
-<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+<blockquote class="blockquote">MG MG5 Electric Long Range</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -161,11 +161,11 @@ You have wireless charging for your phone.
 MG MG5 Electric Long Range has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen at the top of the center console is 10,25 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/screens_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range" class="img-fluid">
 </a>
-<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+<blockquote class="blockquote">MG MG5 Electric Long Range</blockquote></figure>
 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
@@ -211,10 +211,10 @@ The cargo capacity in the trunk is 479 liters. With the rear seat down, it is 13
 You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, 500kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/trunk_1_st.jpg" alt="MG MG5 Electric Long Range" title="MG MG5 Electric Long Range" class="img-fluid">
 </a>
-<figcaption><h4>MG MG5 Electric Long Range</h4></figcaption></figur>
+<blockquote class="blockquote">MG MG5 Electric Long Range</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

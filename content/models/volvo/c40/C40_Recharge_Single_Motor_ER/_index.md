@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/main_1_st.jpg" alt="Volvo C40 Recharge Single Motor ER" title="Volvo C40 Recharge Single Motor ER" class="img-fluid">
 </a>
-<figcaption><h4>Volvo C40 Recharge Single Motor ER</h4></figcaption></figur>
+<blockquote class="blockquote">Volvo C40 Recharge Single Motor ER</blockquote></figure>
 
 We have separated our Volvo C40 Recharge Single Motor ER article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +49,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 10 minutes. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/charging_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/charging_1_st.jpg" alt="Volvo C40 Recharge Single Motor ER" title="Volvo C40 Recharge Single Motor ER" class="img-fluid">
 </a>
-<figcaption><h4>Volvo C40 Recharge Single Motor ER</h4></figcaption></figur>
+<blockquote class="blockquote">Volvo C40 Recharge Single Motor ER</blockquote></figure>
 
 
 ### Charge port
@@ -86,11 +86,11 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 You can choose between two types of roofs on this model. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/exterior_1_st.jpg" alt="Volvo C40 Recharge Single Motor ER" title="Volvo C40 Recharge Single Motor ER" class="img-fluid">
 </a>
-<figcaption><h4>Volvo C40 Recharge Single Motor ER</h4></figcaption></figur>
+<blockquote class="blockquote">Volvo C40 Recharge Single Motor ER</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -112,11 +112,11 @@ The zero option is a three-seat bench with a  split where you can fold each sect
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/frontseats_1_st.jpg" alt="Volvo C40 Recharge Single Motor ER" title="Volvo C40 Recharge Single Motor ER" class="img-fluid">
 </a>
-<figcaption><h4>Volvo C40 Recharge Single Motor ER</h4></figcaption></figur>
+<blockquote class="blockquote">Volvo C40 Recharge Single Motor ER</blockquote></figure>
 
 
 ### Second-row seat
@@ -128,11 +128,11 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/secondrowseats_1_st.jpg" alt="Volvo C40 Recharge Single Motor ER" title="Volvo C40 Recharge Single Motor ER" class="img-fluid">
 </a>
-<figcaption><h4>Volvo C40 Recharge Single Motor ER</h4></figcaption></figur>
+<blockquote class="blockquote">Volvo C40 Recharge Single Motor ER</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -160,11 +160,11 @@ You have wireless charging for your phone.
 Volvo C40 Recharge Single Motor ER has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The touch screen at the top of the center console is 9 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/screens_1_st.jpg" alt="Volvo C40 Recharge Single Motor ER" title="Volvo C40 Recharge Single Motor ER" class="img-fluid">
 </a>
-<figcaption><h4>Volvo C40 Recharge Single Motor ER</h4></figcaption></figur>
+<blockquote class="blockquote">Volvo C40 Recharge Single Motor ER</blockquote></figure>
 
 
 ## Infotainment
@@ -177,11 +177,11 @@ The model has 1 USB-C connections as standard.
 You can choose between two types of headlights for the Volvo C40 Recharge Single Motor ER. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/headlights_1_st.jpg" alt="Volvo C40 Recharge Single Motor ER" title="Volvo C40 Recharge Single Motor ER" class="img-fluid">
 </a>
-<figcaption><h4>Volvo C40 Recharge Single Motor ER</h4></figcaption></figur>
+<blockquote class="blockquote">Volvo C40 Recharge Single Motor ER</blockquote></figure>
 
 ## Advanced driver assistance systems
 
@@ -222,10 +222,10 @@ The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 12
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/trunk_1_st.jpg" alt="Volvo C40 Recharge Single Motor ER" title="Volvo C40 Recharge Single Motor ER" class="img-fluid">
 </a>
-<figcaption><h4>Volvo C40 Recharge Single Motor ER</h4></figcaption></figur>
+<blockquote class="blockquote">Volvo C40 Recharge Single Motor ER</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

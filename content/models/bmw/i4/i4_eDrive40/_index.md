@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg" alt="BMW i4 eDrive40" title="BMW i4 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i4 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i4 eDrive40</blockquote></figure>
 
 We have separated our BMW i4 eDrive40 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +49,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 20 minutes. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/charging_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/charging_1_st.jpg" alt="BMW i4 eDrive40" title="BMW i4 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i4 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i4 eDrive40</blockquote></figure>
 
 
 ### Charge port
@@ -92,11 +92,11 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/exterior_1_st.jpg" alt="BMW i4 eDrive40" title="BMW i4 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i4 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i4 eDrive40</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -143,11 +143,11 @@ You can choose from 21 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/frontseats_1_st.jpg" alt="BMW i4 eDrive40" title="BMW i4 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i4 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i4 eDrive40</blockquote></figure>
 
 
 ### Second-row seat
@@ -243,10 +243,10 @@ The cargo capacity in the trunk is 470 liters. With the rear seat down, it is 12
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/trunk_1_st.jpg" alt="BMW i4 eDrive40" title="BMW i4 eDrive40" class="img-fluid">
 </a>
-<figcaption><h4>BMW i4 eDrive40</h4></figcaption></figur>
+<blockquote class="blockquote">BMW i4 eDrive40</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

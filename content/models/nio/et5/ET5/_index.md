@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_st.jpg" alt="Nio ET5" title="Nio ET5" class="img-fluid">
 </a>
-<figcaption><h4>Nio ET5</h4></figcaption></figur>
+<blockquote class="blockquote">Nio ET5</blockquote></figure>
 
 We have separated our Nio ET5 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -97,11 +97,11 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/et5/et5/exterior_1_st.jpg" alt="Nio ET5" title="Nio ET5" class="img-fluid">
 </a>
-<figcaption><h4>Nio ET5</h4></figcaption></figur>
+<blockquote class="blockquote">Nio ET5</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -171,11 +171,11 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel mounted into the dashboard is 10,2 inches large. The touch screen in the middle of the center console is 12,3 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/et5/et5/screens_1_st.jpg" alt="Nio ET5" title="Nio ET5" class="img-fluid">
 </a>
-<figcaption><h4>Nio ET5</h4></figcaption></figur>
+<blockquote class="blockquote">Nio ET5</blockquote></figure>
 
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 

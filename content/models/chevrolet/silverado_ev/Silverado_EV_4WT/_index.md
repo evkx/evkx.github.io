@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
-<figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
+<blockquote class="blockquote">Chevrolet Silverado EV 4WT</blockquote></figure>
 
 We have separated our Chevrolet Silverado EV 4WT article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +49,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 19 hours and 21 minutes. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
-<figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
+<blockquote class="blockquote">Chevrolet Silverado EV 4WT</blockquote></figure>
 
 
 ### Charge port
@@ -85,11 +85,11 @@ The car has four [regular doors](../../../../technology/doors/) and a [tailgate]
 There is only one roof for this model. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/exterior_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
-<figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
+<blockquote class="blockquote">Chevrolet Silverado EV 4WT</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -117,11 +117,11 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/frontseats_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
-<figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
+<blockquote class="blockquote">Chevrolet Silverado EV 4WT</blockquote></figure>
 
 
 ### Second-row seat
@@ -134,11 +134,11 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
-<figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
+<blockquote class="blockquote">Chevrolet Silverado EV 4WT</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -168,11 +168,11 @@ You have wireless charging for your phone.
 Chevrolet Silverado EV 4WT has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center  is 11 inches large and has a 1888x1728 pixels resolution. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
-<figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
+<blockquote class="blockquote">Chevrolet Silverado EV 4WT</blockquote></figure>
 
 
 ## Infotainment
@@ -217,10 +217,10 @@ The cargo capacity in the truck bed is 1039 liters. The bed width is 1286 mm, an
 You can order the car with a towbar. The maximum total weight on a braked trailer is 4536, and on unbraked, 750kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/trunk_1_st.jpg" alt="Chevrolet Silverado EV 4WT" title="Chevrolet Silverado EV 4WT" class="img-fluid">
 </a>
-<figcaption><h4>Chevrolet Silverado EV 4WT</h4></figcaption></figur>
+<blockquote class="blockquote">Chevrolet Silverado EV 4WT</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

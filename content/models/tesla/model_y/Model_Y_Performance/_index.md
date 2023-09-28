@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_st.jpg" alt="Tesla Model Y Performance" title="Tesla Model Y Performance" class="img-fluid">
 </a>
-<figcaption><h4>Tesla Model Y Performance</h4></figcaption></figur>
+<blockquote class="blockquote">Tesla Model Y Performance</blockquote></figure>
 
 We have separated our Tesla Model Y Performance article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -84,11 +84,11 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/exterior_1_st.jpg" alt="Tesla Model Y Performance" title="Tesla Model Y Performance" class="img-fluid">
 </a>
-<figcaption><h4>Tesla Model Y Performance</h4></figcaption></figur>
+<blockquote class="blockquote">Tesla Model Y Performance</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -116,11 +116,11 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/frontseats_1_st.jpg" alt="Tesla Model Y Performance" title="Tesla Model Y Performance" class="img-fluid">
 </a>
-<figcaption><h4>Tesla Model Y Performance</h4></figcaption></figur>
+<blockquote class="blockquote">Tesla Model Y Performance</blockquote></figure>
 
 
 ### Second-row seat
@@ -131,11 +131,11 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/secondrowseats_1_st.jpg" alt="Tesla Model Y Performance" title="Tesla Model Y Performance" class="img-fluid">
 </a>
-<figcaption><h4>Tesla Model Y Performance</h4></figcaption></figur>
+<blockquote class="blockquote">Tesla Model Y Performance</blockquote></figure>
 
 
 ### Third-row seats
@@ -145,11 +145,11 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/thirdrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/thirdrowseats_1_st.jpg" alt="Tesla Model Y Performance" title="Tesla Model Y Performance" class="img-fluid">
 </a>
-<figcaption><h4>Tesla Model Y Performance</h4></figcaption></figur>
+<blockquote class="blockquote">Tesla Model Y Performance</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -179,11 +179,11 @@ You have wireless charging for your phone.
 Tesla Model Y Performance has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 15 inches large and has a 2200 x 1300 pixels resolution. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/screens_1_st.jpg" alt="Tesla Model Y Performance" title="Tesla Model Y Performance" class="img-fluid">
 </a>
-<figcaption><h4>Tesla Model Y Performance</h4></figcaption></figur>
+<blockquote class="blockquote">Tesla Model Y Performance</blockquote></figure>
 
 
 ## Infotainment

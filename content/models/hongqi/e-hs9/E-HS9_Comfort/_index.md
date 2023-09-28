@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/main_1_st.jpg" alt="Hongqi E-HS9 Comfort" title="Hongqi E-HS9 Comfort" class="img-fluid">
 </a>
-<figcaption><h4>Hongqi E-HS9 Comfort</h4></figcaption></figur>
+<blockquote class="blockquote">Hongqi E-HS9 Comfort</blockquote></figure>
 
 We have separated our Hongqi E-HS9 Comfort article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -82,11 +82,11 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/exterior_1_st.jpg" alt="Hongqi E-HS9 Comfort" title="Hongqi E-HS9 Comfort" class="img-fluid">
 </a>
-<figcaption><h4>Hongqi E-HS9 Comfort</h4></figcaption></figur>
+<blockquote class="blockquote">Hongqi E-HS9 Comfort</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -157,11 +157,11 @@ You have wireless charging for your phone.
 Hongqi E-HS9 Comfort has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16,2 inches large. The touch screen in the dashboard's center  is 16,2 inches large. The touch screen in front of the passenger in the dashboard is 16,2 inches large. The touch screen in the middle of the center console is 10,2 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/screens_1_st.jpg" alt="Hongqi E-HS9 Comfort" title="Hongqi E-HS9 Comfort" class="img-fluid">
 </a>
-<figcaption><h4>Hongqi E-HS9 Comfort</h4></figcaption></figur>
+<blockquote class="blockquote">Hongqi E-HS9 Comfort</blockquote></figure>
 
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
@@ -180,11 +180,11 @@ The model has 1 USB-C connections as standard. The model has 3 USB-A connections
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/headlights_1_st.jpg" alt="Hongqi E-HS9 Comfort" title="Hongqi E-HS9 Comfort" class="img-fluid">
 </a>
-<figcaption><h4>Hongqi E-HS9 Comfort</h4></figcaption></figur>
+<blockquote class="blockquote">Hongqi E-HS9 Comfort</blockquote></figure>
 
 ## Advanced driver assistance systems
 

@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_st.jpg" alt="SKODA ENYAQ RS iV" title="SKODA ENYAQ RS iV" class="img-fluid">
 </a>
-<figcaption><h4>SKODA ENYAQ RS iV</h4></figcaption></figur>
+<blockquote class="blockquote">SKODA ENYAQ RS iV</blockquote></figure>
 
 We have separated our SKODA ENYAQ RS iV article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -84,11 +84,11 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 The windows from B-pillar and back are tinted. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/exterior_1_st.jpg" alt="SKODA ENYAQ RS iV" title="SKODA ENYAQ RS iV" class="img-fluid">
 </a>
-<figcaption><h4>SKODA ENYAQ RS iV</h4></figcaption></figur>
+<blockquote class="blockquote">SKODA ENYAQ RS iV</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}

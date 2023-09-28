@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/main_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
-<figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
+<blockquote class="blockquote">Smart #1 Brabus</blockquote></figure>
 
 We have separated our Smart #1 Brabus article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -77,11 +77,11 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/exterior_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
-<figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
+<blockquote class="blockquote">Smart #1 Brabus</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -108,11 +108,11 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/frontseats_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
-<figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
+<blockquote class="blockquote">Smart #1 Brabus</blockquote></figure>
 
 
 ### Second-row seat
@@ -124,11 +124,11 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/secondrowseats_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
-<figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
+<blockquote class="blockquote">Smart #1 Brabus</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -156,11 +156,11 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel mounted into the dashboard is 10 inches large. The touch screen at the top of the center console is 12,8 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/screens_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
-<figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
+<blockquote class="blockquote">Smart #1 Brabus</blockquote></figure>
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -177,11 +177,11 @@ The model has 4 USB-C connections as standard.
 You can choose between two types of headlights for the Smart #1 Brabus. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/headlights_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
-<figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
+<blockquote class="blockquote">Smart #1 Brabus</blockquote></figure>
 
 ## Advanced driver assistance systems
 
@@ -228,11 +228,11 @@ The cargo capacity in the trunk is 313 liters. With the rear seat down, it is 97
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/trunk_1_st.jpg" alt="Smart #1 Brabus" title="Smart #1 Brabus" class="img-fluid">
 </a>
-<figcaption><h4>Smart #1 Brabus</h4></figcaption></figur>
+<blockquote class="blockquote">Smart #1 Brabus</blockquote></figure>
 
 ### Availability & Pricing
 

@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg" alt="Polestar 2 Long Range Single Motor" title="Polestar 2 Long Range Single Motor" class="img-fluid">
 </a>
-<figcaption><h4>Polestar 2 Long Range Single Motor</h4></figcaption></figur>
+<blockquote class="blockquote">Polestar 2 Long Range Single Motor</blockquote></figure>
 
 We have separated our Polestar 2 Long Range Single Motor article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -78,11 +78,11 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 You can choose between two types of roofs on this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/exteriore_3.jpg">
 <img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/exteriore_3_st.jpg" alt="Polestar 2 Long Range Single Motor" title="Polestar 2 Long Range Single Motor" class="img-fluid">
 </a>
-<figcaption><h4>Polestar 2 Long Range Single Motor</h4></figcaption></figur>
+<blockquote class="blockquote">Polestar 2 Long Range Single Motor</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -108,11 +108,11 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/frontseats_1_st.jpg" alt="Polestar 2 Long Range Single Motor" title="Polestar 2 Long Range Single Motor" class="img-fluid">
 </a>
-<figcaption><h4>Polestar 2 Long Range Single Motor</h4></figcaption></figur>
+<blockquote class="blockquote">Polestar 2 Long Range Single Motor</blockquote></figure>
 
 
 ### Second-row seat
@@ -124,11 +124,11 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/secondrowseats_1_st.jpg" alt="Polestar 2 Long Range Single Motor" title="Polestar 2 Long Range Single Motor" class="img-fluid">
 </a>
-<figcaption><h4>Polestar 2 Long Range Single Motor</h4></figcaption></figur>
+<blockquote class="blockquote">Polestar 2 Long Range Single Motor</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -156,11 +156,11 @@ You have wireless charging for your phone.
 Polestar 2 Long Range Single Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large. The touch screen at the top of the center console is 11,2 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/screens_1_st.jpg" alt="Polestar 2 Long Range Single Motor" title="Polestar 2 Long Range Single Motor" class="img-fluid">
 </a>
-<figcaption><h4>Polestar 2 Long Range Single Motor</h4></figcaption></figur>
+<blockquote class="blockquote">Polestar 2 Long Range Single Motor</blockquote></figure>
 
 
 ## Infotainment
@@ -173,11 +173,11 @@ The model has 4 USB-C connections as standard.
 You can choose between two types of headlights for the Polestar 2 Long Range Single Motor. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/headlights_1_st.jpg" alt="Polestar 2 Long Range Single Motor" title="Polestar 2 Long Range Single Motor" class="img-fluid">
 </a>
-<figcaption><h4>Polestar 2 Long Range Single Motor</h4></figcaption></figur>
+<blockquote class="blockquote">Polestar 2 Long Range Single Motor</blockquote></figure>
 
 ## Advanced driver assistance systems
 

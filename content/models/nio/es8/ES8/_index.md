@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg" alt="Nio ES8" title="Nio ES8" class="img-fluid">
 </a>
-<figcaption><h4>Nio ES8</h4></figcaption></figur>
+<blockquote class="blockquote">Nio ES8</blockquote></figure>
 
 We have separated our Nio ES8 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -97,11 +97,11 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/es8/es8/exterior_1_st.jpg" alt="Nio ES8" title="Nio ES8" class="img-fluid">
 </a>
-<figcaption><h4>Nio ES8</h4></figcaption></figur>
+<blockquote class="blockquote">Nio ES8</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -133,11 +133,11 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/es8/es8/frontseats_1_st.jpg" alt="Nio ES8" title="Nio ES8" class="img-fluid">
 </a>
-<figcaption><h4>Nio ES8</h4></figcaption></figur>
+<blockquote class="blockquote">Nio ES8</blockquote></figure>
 
 
 ### Second-row seats
@@ -187,11 +187,11 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel mounted into the dashboard is 9,8 inches large. The touch screen in the middle of the center console is 11,3 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/es8/es8/screens_1_st.jpg" alt="Nio ES8" title="Nio ES8" class="img-fluid">
 </a>
-<figcaption><h4>Nio ES8</h4></figcaption></figur>
+<blockquote class="blockquote">Nio ES8</blockquote></figure>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -212,11 +212,11 @@ The model has 3 USB-A connections as standard.
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/es8/es8/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/es8/es8/headlights_1_st.jpg" alt="Nio ES8" title="Nio ES8" class="img-fluid">
 </a>
-<figcaption><h4>Nio ES8</h4></figcaption></figur>
+<blockquote class="blockquote">Nio ES8</blockquote></figure>
 
 ## Advanced driver assistance systems
 

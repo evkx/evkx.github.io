@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" alt="Citroën ë-C4 X" title="Citroën ë-C4 X" class="img-fluid">
 </a>
-<figcaption><h4>Citroën ë-C4 X</h4></figcaption></figur>
+<blockquote class="blockquote">Citroën ë-C4 X</blockquote></figure>
 
 We have separated our Citroën ë-C4 X article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -80,11 +80,11 @@ There is only one roof for this model.
 You can order the car with tinted windows from B-pillar and back. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/exterior_1_st.jpg" alt="Citroën ë-C4 X" title="Citroën ë-C4 X" class="img-fluid">
 </a>
-<figcaption><h4>Citroën ë-C4 X</h4></figcaption></figur>
+<blockquote class="blockquote">Citroën ë-C4 X</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -155,11 +155,11 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/headlights_1_st.jpg" alt="Citroën ë-C4 X" title="Citroën ë-C4 X" class="img-fluid">
 </a>
-<figcaption><h4>Citroën ë-C4 X</h4></figcaption></figur>
+<blockquote class="blockquote">Citroën ë-C4 X</blockquote></figure>
 
 ## Advanced driver assistance systems
 

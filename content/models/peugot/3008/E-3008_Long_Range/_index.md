@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_st.jpg" alt="Peugot E-3008 Long Range" title="Peugot E-3008 Long Range" class="img-fluid">
 </a>
-<figcaption><h4>Peugot E-3008 Long Range</h4></figcaption></figur>
+<blockquote class="blockquote">Peugot E-3008 Long Range</blockquote></figure>
 
 We have separated our Peugot E-3008 Long Range article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -78,11 +78,11 @@ There is only one roof for this model.
 You can order the car with tinted windows from B-pillar and back. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/exterior_1_st.jpg" alt="Peugot E-3008 Long Range" title="Peugot E-3008 Long Range" class="img-fluid">
 </a>
-<figcaption><h4>Peugot E-3008 Long Range</h4></figcaption></figur>
+<blockquote class="blockquote">Peugot E-3008 Long Range</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -112,11 +112,11 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/frontseats_1_st.jpg" alt="Peugot E-3008 Long Range" title="Peugot E-3008 Long Range" class="img-fluid">
 </a>
-<figcaption><h4>Peugot E-3008 Long Range</h4></figcaption></figur>
+<blockquote class="blockquote">Peugot E-3008 Long Range</blockquote></figure>
 
 
 ### Second-row seat
@@ -149,11 +149,11 @@ Keyless go makes it possible to start the car without using the key.
 The  screen behind the steering wheel integrated into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 10,25 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/screens_1_st.jpg" alt="Peugot E-3008 Long Range" title="Peugot E-3008 Long Range" class="img-fluid">
 </a>
-<figcaption><h4>Peugot E-3008 Long Range</h4></figcaption></figur>
+<blockquote class="blockquote">Peugot E-3008 Long Range</blockquote></figure>
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -170,11 +170,11 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/headlights_1_st.jpg" alt="Peugot E-3008 Long Range" title="Peugot E-3008 Long Range" class="img-fluid">
 </a>
-<figcaption><h4>Peugot E-3008 Long Range</h4></figcaption></figur>
+<blockquote class="blockquote">Peugot E-3008 Long Range</blockquote></figure>
 
 ## Advanced driver assistance systems
 

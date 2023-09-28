@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" class="img-fluid">
 </a>
-<figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Seal AWD</blockquote></figure>
 
 We have separated our BYD Seal AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -83,11 +83,11 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exterior_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" class="img-fluid">
 </a>
-<figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Seal AWD</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -116,11 +116,11 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/frontseats_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" class="img-fluid">
 </a>
-<figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Seal AWD</blockquote></figure>
 
 
 ### Second-row seat
@@ -133,11 +133,11 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - height adjustable headrest 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/secondrowseats_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" class="img-fluid">
 </a>
-<figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Seal AWD</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -167,11 +167,11 @@ You have wireless charging for your phone.
 BYD Seal AWD has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 15,6 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" class="img-fluid">
 </a>
-<figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Seal AWD</blockquote></figure>
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -188,11 +188,11 @@ The model has 4 USB-C connections as standard.
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/headlights_1_st.jpg" alt="BYD Seal AWD" title="BYD Seal AWD" class="img-fluid">
 </a>
-<figcaption><h4>BYD Seal AWD</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Seal AWD</blockquote></figure>
 
 ## Advanced driver assistance systems
 

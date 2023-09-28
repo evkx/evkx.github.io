@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/main_1_st.jpg" alt="Porsche Taycan Turbo Cross Turismo" title="Porsche Taycan Turbo Cross Turismo" class="img-fluid">
 </a>
-<figcaption><h4>Porsche Taycan Turbo Cross Turismo</h4></figcaption></figur>
+<blockquote class="blockquote">Porsche Taycan Turbo Cross Turismo</blockquote></figure>
 
 We have separated our Porsche Taycan Turbo Cross Turismo article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -96,11 +96,11 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_1_st.jpg" alt="Porsche Taycan Turbo Cross Turismo" title="Porsche Taycan Turbo Cross Turismo" class="img-fluid">
 </a>
-<figcaption><h4>Porsche Taycan Turbo Cross Turismo</h4></figcaption></figur>
+<blockquote class="blockquote">Porsche Taycan Turbo Cross Turismo</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -158,11 +158,11 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_1_st.jpg" alt="Porsche Taycan Turbo Cross Turismo" title="Porsche Taycan Turbo Cross Turismo" class="img-fluid">
 </a>
-<figcaption><h4>Porsche Taycan Turbo Cross Turismo</h4></figcaption></figur>
+<blockquote class="blockquote">Porsche Taycan Turbo Cross Turismo</blockquote></figure>
 
 
 ### Second-row seats
@@ -180,11 +180,11 @@ The second option is two integrated seats in the second row with a third smaller
 - integrated headrest 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/secondrowseats_1_st.jpg" alt="Porsche Taycan Turbo Cross Turismo" title="Porsche Taycan Turbo Cross Turismo" class="img-fluid">
 </a>
-<figcaption><h4>Porsche Taycan Turbo Cross Turismo</h4></figcaption></figur>
+<blockquote class="blockquote">Porsche Taycan Turbo Cross Turismo</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -210,11 +210,11 @@ Keyless go makes it possible to start the car without using the key.
 Porsche Taycan Turbo Cross Turismo has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen). The touch screen behind the steering wheel integrated into the dashboard is 16,8 inches large. The touch screen at the top of the center console is 10,9 inches large. The touch screen at the bottom of the center console is 8,4 inches large. The touch screen in front of the passenger in the dashboard is 10,9 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_1_st.jpg" alt="Porsche Taycan Turbo Cross Turismo" title="Porsche Taycan Turbo Cross Turismo" class="img-fluid">
 </a>
-<figcaption><h4>Porsche Taycan Turbo Cross Turismo</h4></figcaption></figur>
+<blockquote class="blockquote">Porsche Taycan Turbo Cross Turismo</blockquote></figure>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -231,11 +231,11 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_1_st.jpg" alt="Porsche Taycan Turbo Cross Turismo" title="Porsche Taycan Turbo Cross Turismo" class="img-fluid">
 </a>
-<figcaption><h4>Porsche Taycan Turbo Cross Turismo</h4></figcaption></figur>
+<blockquote class="blockquote">Porsche Taycan Turbo Cross Turismo</blockquote></figure>
 
 ## Advanced driver assistance systems
 
@@ -288,10 +288,10 @@ The cargo capacity in the trunk is 405 liters. With the rear seat down, it is 11
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/trunk_1_st.jpg" alt="Porsche Taycan Turbo Cross Turismo" title="Porsche Taycan Turbo Cross Turismo" class="img-fluid">
 </a>
-<figcaption><h4>Porsche Taycan Turbo Cross Turismo</h4></figcaption></figur>
+<blockquote class="blockquote">Porsche Taycan Turbo Cross Turismo</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/main_1_st.jpg" alt="Tesla Model 3 Performance" title="Tesla Model 3 Performance" class="img-fluid">
 </a>
-<figcaption><h4>Tesla Model 3 Performance</h4></figcaption></figur>
+<blockquote class="blockquote">Tesla Model 3 Performance</blockquote></figure>
 
 We have separated our Tesla Model 3 Performance article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +49,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/charging_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/charging_1_st.jpg" alt="Tesla Model 3 Performance" title="Tesla Model 3 Performance" class="img-fluid">
 </a>
-<figcaption><h4>Tesla Model 3 Performance</h4></figcaption></figur>
+<blockquote class="blockquote">Tesla Model 3 Performance</blockquote></figure>
 
 
 ### Charge port
@@ -92,11 +92,11 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior.jpg">
 <img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/exterior_st.jpg" alt="Tesla Model 3 Performance" title="Tesla Model 3 Performance" class="img-fluid">
 </a>
-<figcaption><h4>Tesla Model 3 Performance</h4></figcaption></figur>
+<blockquote class="blockquote">Tesla Model 3 Performance</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -124,11 +124,11 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" alt="Tesla Model 3 Performance" title="Tesla Model 3 Performance" class="img-fluid">
 </a>
-<figcaption><h4>Tesla Model 3 Performance</h4></figcaption></figur>
+<blockquote class="blockquote">Tesla Model 3 Performance</blockquote></figure>
 
 
 ### Second-row seat
@@ -139,11 +139,11 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/secondrowseats_1_st.jpg" alt="Tesla Model 3 Performance" title="Tesla Model 3 Performance" class="img-fluid">
 </a>
-<figcaption><h4>Tesla Model 3 Performance</h4></figcaption></figur>
+<blockquote class="blockquote">Tesla Model 3 Performance</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -173,11 +173,11 @@ You have wireless charging for your phone.
 Tesla Model 3 Performance has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The  screen on the dashboard's center  is 15 inches large and has a 2200 x 1300 pixels resolution. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/screens_2.jpg">
 <img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/screens_2_st.jpg" alt="Tesla Model 3 Performance" title="Tesla Model 3 Performance" class="img-fluid">
 </a>
-<figcaption><h4>Tesla Model 3 Performance</h4></figcaption></figur>
+<blockquote class="blockquote">Tesla Model 3 Performance</blockquote></figure>
 
 
 ## Infotainment

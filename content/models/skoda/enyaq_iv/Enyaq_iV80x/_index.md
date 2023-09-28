@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" class="img-fluid">
 </a>
-<figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+<blockquote class="blockquote">SKODA Enyaq iV80x</blockquote></figure>
 
 We have separated our SKODA Enyaq iV80x article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +49,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/charging_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/charging_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" class="img-fluid">
 </a>
-<figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+<blockquote class="blockquote">SKODA Enyaq iV80x</blockquote></figure>
 
 
 ### Charge port
@@ -96,11 +96,11 @@ You can choose between two types of roofs on this model. The standard is just a 
 The windows from B-pillar and back are tinted. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" class="img-fluid">
 </a>
-<figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+<blockquote class="blockquote">SKODA Enyaq iV80x</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -144,11 +144,11 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" class="img-fluid">
 </a>
-<figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+<blockquote class="blockquote">SKODA Enyaq iV80x</blockquote></figure>
 
 
 ### Second-row seat
@@ -159,11 +159,11 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" class="img-fluid">
 </a>
-<figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+<blockquote class="blockquote">SKODA Enyaq iV80x</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -191,11 +191,11 @@ You have wireless charging for your phone.
 SKODA Enyaq iV80x has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5,3 inches large. The touch screen on the dashboard's center  is 13 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" class="img-fluid">
 </a>
-<figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+<blockquote class="blockquote">SKODA Enyaq iV80x</blockquote></figure>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -212,11 +212,11 @@ The model has 2 USB-C connections as standard. As an option you can get addition
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/headlights_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" class="img-fluid">
 </a>
-<figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+<blockquote class="blockquote">SKODA Enyaq iV80x</blockquote></figure>
 
 ## Advanced driver assistance systems
 
@@ -264,10 +264,10 @@ The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 17
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_st.jpg" alt="SKODA Enyaq iV80x" title="SKODA Enyaq iV80x" class="img-fluid">
 </a>
-<figcaption><h4>SKODA Enyaq iV80x</h4></figcaption></figur>
+<blockquote class="blockquote">SKODA Enyaq iV80x</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

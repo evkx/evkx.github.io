@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" class="img-fluid">
 </a>
-<figcaption><h4>Rolls-Royce Spectre</h4></figcaption></figur>
+<blockquote class="blockquote">Rolls-Royce Spectre</blockquote></figure>
 
 We have separated our Rolls-Royce Spectre article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -83,11 +83,11 @@ There is only one roof for this model. The standard is just a regular roof.
 You can order the car with tinted windows from B-pillar and back. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/exterior_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" class="img-fluid">
 </a>
-<figcaption><h4>Rolls-Royce Spectre</h4></figcaption></figur>
+<blockquote class="blockquote">Rolls-Royce Spectre</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -126,11 +126,11 @@ You can choose from 7 different materials/colors for this seat type.
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" class="img-fluid">
 </a>
-<figcaption><h4>Rolls-Royce Spectre</h4></figcaption></figur>
+<blockquote class="blockquote">Rolls-Royce Spectre</blockquote></figure>
 
 
 ### Second-row seat
@@ -147,11 +147,11 @@ For the second row, this model has twin [executive seats](../../../../technology
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/secondrowseats_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" class="img-fluid">
 </a>
-<figcaption><h4>Rolls-Royce Spectre</h4></figcaption></figur>
+<blockquote class="blockquote">Rolls-Royce Spectre</blockquote></figure>
 
 
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
@@ -181,11 +181,11 @@ You have wireless charging for your phone.
 Rolls-Royce Spectre has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 14,9 inches large and has a 2880 x 1080 pixels resolution. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/screens_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" class="img-fluid">
 </a>
-<figcaption><h4>Rolls-Royce Spectre</h4></figcaption></figur>
+<blockquote class="blockquote">Rolls-Royce Spectre</blockquote></figure>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -202,11 +202,11 @@ The model has 6 USB-C connections as standard.
 You can choose between two types of headlights for the Rolls-Royce Spectre. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/headlights_1_st.jpg" alt="Rolls-Royce Spectre" title="Rolls-Royce Spectre" class="img-fluid">
 </a>
-<figcaption><h4>Rolls-Royce Spectre</h4></figcaption></figur>
+<blockquote class="blockquote">Rolls-Royce Spectre</blockquote></figure>
 
 ## Advanced driver assistance systems
 

@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/main_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" class="img-fluid">
 </a>
-<figcaption><h4>HiPhi Y Performance</h4></figcaption></figur>
+<blockquote class="blockquote">HiPhi Y Performance</blockquote></figure>
 
 We have separated our HiPhi Y Performance article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -83,11 +83,11 @@ There is only one roof for this model. The standard roof has a panoramic glass o
 The windows from B-pillar and back are tinted. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/exterior_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" class="img-fluid">
 </a>
-<figcaption><h4>HiPhi Y Performance</h4></figcaption></figur>
+<blockquote class="blockquote">HiPhi Y Performance</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -161,11 +161,11 @@ You have wireless charging for your phone.
 HiPhi Y Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large. The touch screen at the top of the center console is 17 inches large. The touch screen in front of the passenger in the dashboard is 15 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/screens_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" class="img-fluid">
 </a>
-<figcaption><h4>HiPhi Y Performance</h4></figcaption></figur>
+<blockquote class="blockquote">HiPhi Y Performance</blockquote></figure>
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -186,11 +186,11 @@ The model has 4 USB-C connections as standard.
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/headlights_1_st.jpg" alt="HiPhi Y Performance" title="HiPhi Y Performance" class="img-fluid">
 </a>
-<figcaption><h4>HiPhi Y Performance</h4></figcaption></figur>
+<blockquote class="blockquote">HiPhi Y Performance</blockquote></figure>
 
 ## Advanced driver assistance systems
 

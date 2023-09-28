@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/main_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
-<figcaption><h4>BYD Han</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Han</blockquote></figure>
 
 We have separated our BYD Han article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -53,11 +53,11 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW cha
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/battery_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/battery_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
-<figcaption><h4>BYD Han</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Han</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -91,11 +91,11 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 The windows from B-pillar and back are tinted. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/exterior_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
-<figcaption><h4>BYD Han</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Han</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -127,11 +127,11 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/frontseats_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
-<figcaption><h4>BYD Han</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Han</blockquote></figure>
 
 
 ### Second-row seat
@@ -144,11 +144,11 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/secondrowseats_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
-<figcaption><h4>BYD Han</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Han</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -178,11 +178,11 @@ You have wireless charging for your phone.
 BYD Han has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large. The touch screen on the dashboard's center  is 15,6 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/screens_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
-<figcaption><h4>BYD Han</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Han</blockquote></figure>
 
 
 ## Infotainment
@@ -197,11 +197,11 @@ The model has 1 USB-C connections as standard. The model has 5 USB-A connections
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/headlights_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
-<figcaption><h4>BYD Han</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Han</blockquote></figure>
 
 ## Advanced driver assistance systems
 
@@ -252,10 +252,10 @@ The cargo capacity in the trunk is 410 liters. Max weight is 2660kg, and with th
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/byd/han/han/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/byd/han/han/trunk_1_st.jpg" alt="BYD Han" title="BYD Han" class="img-fluid">
 </a>
-<figcaption><h4>BYD Han</h4></figcaption></figur>
+<blockquote class="blockquote">BYD Han</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

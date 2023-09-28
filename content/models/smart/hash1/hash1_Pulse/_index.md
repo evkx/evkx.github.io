@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1_st.jpg" alt="Smart #1 Pulse" title="Smart #1 Pulse" class="img-fluid">
 </a>
-<figcaption><h4>Smart #1 Pulse</h4></figcaption></figur>
+<blockquote class="blockquote">Smart #1 Pulse</blockquote></figure>
 
 We have separated our Smart #1 Pulse article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +49,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 2 hours and 49 minutes. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/charging_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/charging_1_st.jpg" alt="Smart #1 Pulse" title="Smart #1 Pulse" class="img-fluid">
 </a>
-<figcaption><h4>Smart #1 Pulse</h4></figcaption></figur>
+<blockquote class="blockquote">Smart #1 Pulse</blockquote></figure>
 
 
 ### Charge port
@@ -85,11 +85,11 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_1_st.jpg" alt="Smart #1 Pulse" title="Smart #1 Pulse" class="img-fluid">
 </a>
-<figcaption><h4>Smart #1 Pulse</h4></figcaption></figur>
+<blockquote class="blockquote">Smart #1 Pulse</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -148,11 +148,11 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel mounted into the dashboard is 10 inches large. The touch screen at the top of the center console is 12,8 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/screens_1_st.jpg" alt="Smart #1 Pulse" title="Smart #1 Pulse" class="img-fluid">
 </a>
-<figcaption><h4>Smart #1 Pulse</h4></figcaption></figur>
+<blockquote class="blockquote">Smart #1 Pulse</blockquote></figure>
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 

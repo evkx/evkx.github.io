@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1_st.jpg" alt="Mercedes-EQ EQE 300" title="Mercedes-EQ EQE 300" class="img-fluid">
 </a>
-<figcaption><h4>Mercedes-EQ EQE 300</h4></figcaption></figur>
+<blockquote class="blockquote">Mercedes-EQ EQE 300</blockquote></figure>
 
 We have separated our Mercedes-EQ EQE 300 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +49,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/charging_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/charging_1_st.jpg" alt="Mercedes-EQ EQE 300" title="Mercedes-EQ EQE 300" class="img-fluid">
 </a>
-<figcaption><h4>Mercedes-EQ EQE 300</h4></figcaption></figur>
+<blockquote class="blockquote">Mercedes-EQ EQE 300</blockquote></figure>
 
 
 ### Charge port
@@ -140,11 +140,11 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/frontseats_1_st.jpg" alt="Mercedes-EQ EQE 300" title="Mercedes-EQ EQE 300" class="img-fluid">
 </a>
-<figcaption><h4>Mercedes-EQ EQE 300</h4></figcaption></figur>
+<blockquote class="blockquote">Mercedes-EQ EQE 300</blockquote></figure>
 
 
 ### Second-row seat
@@ -187,11 +187,11 @@ The standard layout has the following configuration. The  screen behind the stee
 The optional MBUX Hyperscreen layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/screens_1_st.jpg" alt="Mercedes-EQ EQE 300" title="Mercedes-EQ EQE 300" class="img-fluid">
 </a>
-<figcaption><h4>Mercedes-EQ EQE 300</h4></figcaption></figur>
+<blockquote class="blockquote">Mercedes-EQ EQE 300</blockquote></figure>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -257,10 +257,10 @@ The cargo capacity in the trunk is 430 liters. With the rear seat down, it is 89
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/trunk_1_st.jpg" alt="Mercedes-EQ EQE 300" title="Mercedes-EQ EQE 300" class="img-fluid">
 </a>
-<figcaption><h4>Mercedes-EQ EQE 300</h4></figcaption></figur>
+<blockquote class="blockquote">Mercedes-EQ EQE 300</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

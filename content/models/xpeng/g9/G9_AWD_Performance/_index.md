@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<blockquote class="blockquote">XPENG G9 AWD Performance</blockquote></figure>
 
 We have separated our XPENG G9 AWD Performance article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +49,11 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 30 minutes. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<blockquote class="blockquote">XPENG G9 AWD Performance</blockquote></figure>
 
 
 ### Charge port
@@ -87,11 +87,11 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<blockquote class="blockquote">XPENG G9 AWD Performance</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -126,11 +126,11 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1.jpeg">
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/frontseats_1_st.jpeg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<blockquote class="blockquote">XPENG G9 AWD Performance</blockquote></figure>
 
 
 ### Second-row seat
@@ -143,11 +143,11 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1.jpeg">
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/secondrowseats_1_st.jpeg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<blockquote class="blockquote">XPENG G9 AWD Performance</blockquote></figure>
 
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
@@ -177,11 +177,11 @@ You have wireless charging for your phone.
 XPENG G9 AWD Performance has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel mounted into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 14,96 inches large. The touch screen in front of the passenger on the dashboard is 14,96 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/screens_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<blockquote class="blockquote">XPENG G9 AWD Performance</blockquote></figure>
 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
@@ -242,10 +242,10 @@ The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 15
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/trunk_1_st.jpg" alt="XPENG G9 AWD Performance" title="XPENG G9 AWD Performance" class="img-fluid">
 </a>
-<figcaption><h4>XPENG G9 AWD Performance</h4></figcaption></figur>
+<blockquote class="blockquote">XPENG G9 AWD Performance</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

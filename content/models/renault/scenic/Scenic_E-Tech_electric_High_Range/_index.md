@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/main_1_st.jpg" alt="Renault Scenic E-Tech electric High Range" title="Renault Scenic E-Tech electric High Range" class="img-fluid">
 </a>
-<figcaption><h4>Renault Scenic E-Tech electric High Range</h4></figcaption></figur>
+<blockquote class="blockquote">Renault Scenic E-Tech electric High Range</blockquote></figure>
 
 We have separated our Renault Scenic E-Tech electric High Range article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -84,11 +84,11 @@ There is only one roof for this model. exterior.roof.standard.panoramic.FullFixe
 The windows from B-pillar and back are tinted. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/exterior_1_st.jpg" alt="Renault Scenic E-Tech electric High Range" title="Renault Scenic E-Tech electric High Range" class="img-fluid">
 </a>
-<figcaption><h4>Renault Scenic E-Tech electric High Range</h4></figcaption></figur>
+<blockquote class="blockquote">Renault Scenic E-Tech electric High Range</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -117,11 +117,11 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/frontseats_1_st.jpg" alt="Renault Scenic E-Tech electric High Range" title="Renault Scenic E-Tech electric High Range" class="img-fluid">
 </a>
-<figcaption><h4>Renault Scenic E-Tech electric High Range</h4></figcaption></figur>
+<blockquote class="blockquote">Renault Scenic E-Tech electric High Range</blockquote></figure>
 
 
 ### Second-row seat
@@ -133,11 +133,11 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/secondrowseats_1_st.jpg" alt="Renault Scenic E-Tech electric High Range" title="Renault Scenic E-Tech electric High Range" class="img-fluid">
 </a>
-<figcaption><h4>Renault Scenic E-Tech electric High Range</h4></figcaption></figur>
+<blockquote class="blockquote">Renault Scenic E-Tech electric High Range</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -167,11 +167,11 @@ You have wireless charging for your phone.
 Renault Scenic E-Tech electric High Range has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large. The touch screen at the right part of the shared frame is 12,3 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/screens_1_st.jpg" alt="Renault Scenic E-Tech electric High Range" title="Renault Scenic E-Tech electric High Range" class="img-fluid">
 </a>
-<figcaption><h4>Renault Scenic E-Tech electric High Range</h4></figcaption></figur>
+<blockquote class="blockquote">Renault Scenic E-Tech electric High Range</blockquote></figure>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -192,11 +192,11 @@ The model has 6 USB-C connections as standard.
 You can choose between two types of headlights for the Renault Scenic E-Tech electric High Range. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/headlights_1_st.jpg" alt="Renault Scenic E-Tech electric High Range" title="Renault Scenic E-Tech electric High Range" class="img-fluid">
 </a>
-<figcaption><h4>Renault Scenic E-Tech electric High Range</h4></figcaption></figur>
+<blockquote class="blockquote">Renault Scenic E-Tech electric High Range</blockquote></figure>
 
 ## Advanced driver assistance systems
 
@@ -240,10 +240,10 @@ The cargo capacity in the trunk is 545 liters. With the rear seat down, it is 14
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/trunk_1_st.jpg" alt="Renault Scenic E-Tech electric High Range" title="Renault Scenic E-Tech electric High Range" class="img-fluid">
 </a>
-<figcaption><h4>Renault Scenic E-Tech electric High Range</h4></figcaption></figur>
+<blockquote class="blockquote">Renault Scenic E-Tech electric High Range</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

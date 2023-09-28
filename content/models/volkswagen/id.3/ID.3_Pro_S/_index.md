@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
-<figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
+<blockquote class="blockquote">Volkswagen ID.3 Pro S</blockquote></figure>
 
 We have separated our Volkswagen ID.3 Pro S article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -84,11 +84,11 @@ You can choose between two types of roofs on this model. The standard is just a 
 The windows from B-pillar and back are tinted. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
-<figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
+<blockquote class="blockquote">Volkswagen ID.3 Pro S</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -114,11 +114,11 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/frontseats_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
-<figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
+<blockquote class="blockquote">Volkswagen ID.3 Pro S</blockquote></figure>
 
 
 ### Second-row seat
@@ -129,11 +129,11 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/secondrowseats_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
-<figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
+<blockquote class="blockquote">Volkswagen ID.3 Pro S</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -165,11 +165,11 @@ The standard layout has the following configuration. Behind the steering wheel i
 The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12 inches large and has a 1920 x 869 pixels resolution. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
-<figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
+<blockquote class="blockquote">Volkswagen ID.3 Pro S</blockquote></figure>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -186,11 +186,11 @@ The model has 4 USB-C connections as standard.
 You can choose between two types of headlights for the Volkswagen ID.3 Pro S. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/headlights_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
-<figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
+<blockquote class="blockquote">Volkswagen ID.3 Pro S</blockquote></figure>
 
 ## Advanced driver assistance systems
 
@@ -245,10 +245,10 @@ The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 12
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" alt="Volkswagen ID.3 Pro S" title="Volkswagen ID.3 Pro S" class="img-fluid">
 </a>
-<figcaption><h4>Volkswagen ID.3 Pro S</h4></figcaption></figur>
+<blockquote class="blockquote">Volkswagen ID.3 Pro S</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

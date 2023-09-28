@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_st.jpg" alt="Nio EL7" title="Nio EL7" class="img-fluid">
 </a>
-<figcaption><h4>Nio EL7</h4></figcaption></figur>
+<blockquote class="blockquote">Nio EL7</blockquote></figure>
 
 We have separated our Nio EL7 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -97,11 +97,11 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_1.jpeg">
 <img src="https://media.evkx.net/multimedia/models/nio/el7/el7/exterior_1_st.jpeg" alt="Nio EL7" title="Nio EL7" class="img-fluid">
 </a>
-<figcaption><h4>Nio EL7</h4></figcaption></figur>
+<blockquote class="blockquote">Nio EL7</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -134,11 +134,11 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/el7/el7/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/el7/el7/frontseats_1_st.jpg" alt="Nio EL7" title="Nio EL7" class="img-fluid">
 </a>
-<figcaption><h4>Nio EL7</h4></figcaption></figur>
+<blockquote class="blockquote">Nio EL7</blockquote></figure>
 
 
 ### Second-row seat
@@ -179,11 +179,11 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel mounted into the dashboard is 9,8 inches large. The touch screen in the middle of the center console is 12,8 inches large. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/el7/el7/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/el7/el7/screens_1_st.jpg" alt="Nio EL7" title="Nio EL7" class="img-fluid">
 </a>
-<figcaption><h4>Nio EL7</h4></figcaption></figur>
+<blockquote class="blockquote">Nio EL7</blockquote></figure>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -204,11 +204,11 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/el7/el7/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/el7/el7/headlights_1_st.jpg" alt="Nio EL7" title="Nio EL7" class="img-fluid">
 </a>
-<figcaption><h4>Nio EL7</h4></figcaption></figur>
+<blockquote class="blockquote">Nio EL7</blockquote></figure>
 
 ## Advanced driver assistance systems
 
@@ -260,10 +260,10 @@ The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 15
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/el7/el7/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/el7/el7/trunk_1_st.jpg" alt="Nio EL7" title="Nio EL7" class="img-fluid">
 </a>
-<figcaption><h4>Nio EL7</h4></figcaption></figur>
+<blockquote class="blockquote">Nio EL7</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/main_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
-<figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
+<blockquote class="blockquote">Audi e-tron 50 Sportback</blockquote></figure>
 
 We have separated our Audi e-tron 50 Sportback article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -92,11 +92,11 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. As an option, you can equip the model with double-glazed side windows. These windows reduce cabin noise. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/exterior_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
-<figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
+<blockquote class="blockquote">Audi e-tron 50 Sportback</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -184,11 +184,11 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/frontseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/frontseats_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
-<figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
+<blockquote class="blockquote">Audi e-tron 50 Sportback</blockquote></figure>
 
 
 ### Second-row seat
@@ -200,11 +200,11 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 - height adjustable headrest 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/secondrowseats_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/secondrowseats_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
-<figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
+<blockquote class="blockquote">Audi e-tron 50 Sportback</blockquote></figure>
 
 
 There is only one type of steering wheel available. 
@@ -236,11 +236,11 @@ You have wireless charging for your phone.
 Audi e-tron 50 Sportback has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. The touch screen at the bottom of the center console is 8,6 inches large and has a 1280 x 660 pixels resolution. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/screens_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/screens_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
-<figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
+<blockquote class="blockquote">Audi e-tron 50 Sportback</blockquote></figure>
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -257,11 +257,11 @@ The model has 2 USB-C connections as standard. As an option you can get addition
 You can choose between three types of headlights for the Audi e-tron 50 Sportback. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/headlights_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/headlights_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
-<figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
+<blockquote class="blockquote">Audi e-tron 50 Sportback</blockquote></figure>
 
 ## Advanced driver assistance systems
 
@@ -315,11 +315,11 @@ The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 17
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, 750kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/trunk_1_st.jpg" alt="Audi e-tron 50 Sportback" title="Audi e-tron 50 Sportback" class="img-fluid">
 </a>
-<figcaption><h4>Audi e-tron 50 Sportback</h4></figcaption></figur>
+<blockquote class="blockquote">Audi e-tron 50 Sportback</blockquote></figure>
 
 ### Availability & Pricing
 

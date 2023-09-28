@@ -10,11 +10,11 @@ hidden: true
 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_st.jpg" alt="Nio ET5 Touring" title="Nio ET5 Touring" class="img-fluid">
 </a>
-<figcaption><h4>Nio ET5 Touring</h4></figcaption></figur>
+<blockquote class="blockquote">Nio ET5 Touring</blockquote></figure>
 
 We have separated our Nio ET5 Touring article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -99,11 +99,11 @@ There is only one roof for this model. The standard roof has a large panoramic e
 The windows from B-pillar and back are tinted. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/exterior_1_st.jpg" alt="Nio ET5 Touring" title="Nio ET5 Touring" class="img-fluid">
 </a>
-<figcaption><h4>Nio ET5 Touring</h4></figcaption></figur>
+<blockquote class="blockquote">Nio ET5 Touring</blockquote></figure>
 
 
 {{<evkxdisplayaddarticle />}}
@@ -236,10 +236,10 @@ The cargo capacity in the trunk is 450 liters. With the rear seat down, it is 14
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. 
 
 
-<figur>
+<figure class="text-center">
 <a href="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trunk_1.jpg">
 <img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/trunk_1_st.jpg" alt="Nio ET5 Touring" title="Nio ET5 Touring" class="img-fluid">
 </a>
-<figcaption><h4>Nio ET5 Touring</h4></figcaption></figur>
+<blockquote class="blockquote">Nio ET5 Touring</blockquote></figure>
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
