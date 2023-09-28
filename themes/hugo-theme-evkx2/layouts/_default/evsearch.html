@@ -10,19 +10,10 @@
         {{else}}
         <title>{{ .Title }} :: EVKX.net</title>
         {{end}}
-        <link rel="shortcut icon" href="{{"images/favicon.png" | relURL}}" type="image/x-icon" />
-        <link href="{{"css/font-awesome.min.css" | relURL}}" rel="stylesheet">
-        <link href="{{"css/evkx.css" | relURL}}" rel="stylesheet">
+        <link rel="shortcut icon" href="{{" images/favicon.png" | relURL}}" type="image/x-icon" />
+        <link href="{{"css/bootstrap.min.css" | relURL}}" rel="stylesheet">
         <link rel="preconnect" href='https://rsms.me/'>
         <link rel="stylesheet" href='https://rsms.me/inter/inter.css'>
-        {{with .Site.Params.themeStyle}}
-        <link href="{{(printf "css/%s.css" .) | relURL}}" rel="stylesheet">
-        {{else}}
-        <link href="{{"css/theme.css" | relURL}}" rel="stylesheet">
-        {{end}}
-        {{with .Site.Params.themeVariant}}
-          <link href="{{(printf "css/theme-%s.css" .) | relURL}}" rel="stylesheet">
-        {{end}}
         
         {{ partial "custom-head2.html" . }}
         <style>
@@ -30,14 +21,31 @@
             display:none !important;
           }
         </style>
-            <link rel="stylesheet" href="/public/assets/entrypoint.css">
+      
+      <link rel="stylesheet" href="/public/assets/entrypoint.css">
       </head>
 
 <body data-url="{{ .RelPermalink }}">
-    {{ partial "topbar.html" . }}
-    <div id="root"></div>
+    {{ partial "navbar.html" . }}
+    <div class="container" id="root"></div>
     <script type="module" src="/public/assets/entrypoint.js"></script>
-    {{ partial "footer-content.html" . }}
+    <footer class="container bg-dark">          
+      <ul class="nav justify-content-center">
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.facebook.com/evkx.net">Facebook</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.youtube.com/channel/UCQ1Q_faRR0AF0gAZABvcKFw">Youtube</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.instagram.com/evkxnet/">Instagram</a>
+        </li>
+      </ul>
+      <a class="navbar-brand" href="/">
+        <img class="img-fluid mx-auto d-block" src="/images/evkxblacktrans_m.png" alt="EVKX logo">
+      </a>
+  </footer>
+<script src="/js/bootstrap.min.js"></script>
 </body>
 </html>
 
