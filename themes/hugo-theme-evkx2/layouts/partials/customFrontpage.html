@@ -30,7 +30,7 @@
   </head>
   <body class="a-page" data-url="{{ .RelPermalink }}">
     {{ partial "navbar.html" . }}
-    <div align="center">
+    <div>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
       crossorigin="anonymous"></script>
   <!-- EVKX Top Display Add -->
@@ -51,24 +51,16 @@
 
     {{ partial "latestreviews.html" . }}
 
-    <div class="container pt-2 pt-md-3 pt-lg-5">
-    <div class="row adocs-featuredBlocks">
-        <div class="col-12 col-lg-4 mb-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-4">
             {{ partial "models-new.html" . }}
         </div>
-        <div class="col-12 col-lg-4 mb-5">
+        <div class="col-12 col-lg-4">
             {{ partial "technology.html" . }}
         </div>
-        <div class="col-12 col-lg-4 mb-5">
+        <div class="col-12 col-lg-4">
             {{ partial "guides.html" . }}
           </div>
       </div>
-      <div class="adocs-scrollcontainer d-none">
-        <div class="row">
-            <div class="col-sm-12">
-
-        <section>
-          <div id="content" class="adocs-content js-moveChildrenTo">
-        <div id="overlay"></div>
-        <div class="a-text">
-        <div id="body-inner"> 
+    </div>
