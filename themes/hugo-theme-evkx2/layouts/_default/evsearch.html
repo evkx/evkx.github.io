@@ -27,8 +27,13 @@
 
 <body data-url="{{ .RelPermalink }}">
     {{ partial "navbar.html" . }}
+    <aside>
+      {{ partial "menu.html" . }}
+    </aside>
+    <main>
     <div class="container" id="root"></div>
     <script type="module" src="/public/assets/entrypoint.js"></script>
+  </main>
     <footer class="container bg-dark">          
       <ul class="nav justify-content-center">
         <li class="nav-item">
