@@ -27,21 +27,9 @@ Some examples of EVs that use retrofitting are:
 
 The two examples below show how the manufacturer located the battery and other EV components on retrofitted platforms.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/platforms/e-golf_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/platforms/e-golf_1_st.jpg" alt="Volkswagen e-golf on a retrofitted platform" title="Volkswagen e-golf on a retrofitted platform">
-    </a>
-    <figcaption><h4>Volkswagen e-golf on a retrofitted platform</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/platforms/e-golf_1_st.jpg" title="Volkswagen e-golf on a retrofitted platform" >}}
 
-
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/platforms/fordfocus_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/platforms/fordfocus_1_st.jpg" alt="Ford Focus Electric with a retrofitted platform" title="Ford Focus Electric with a retrofitted platform">
-    </a>
-    <figcaption><h4>Ford Focus Electric with a retrofitted platform</h4></figcaption>
-</figur>
-
+{{< sitefigure thumb="technology/platforms/fordfocus_1_st.jpg" title="Ford Focus Electric with a retrofitted platform" >}}
 
 ## Hybrid
 
@@ -59,26 +47,11 @@ Some examples of EVs that use hybrid platforms are:
 
 Below, you see how the CLAR platform underpins the different variants of the BMW 7 series.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/platforms/bmw7_4.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/platforms/bmw7_4_st.jpg" alt="BMW i7 with hybrid platform. This in PHEV configuration" title="BMW i7 with hybrid platform. This in PHEV configuration">
-    </a>
-    <figcaption><h4>BMW i7 with hybrid platform. This in petrol configuration</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/platforms/bmw7_4_st.jpg" title="BMW i7 with hybrid platform. This in petrol configuration" >}}
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/platforms/bmw7_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/platforms/bmw7_1_st.jpg" alt="BMW i7 with hybrid platform. This in PHEV configuration" title="BMW i7 with hybrid platform. This in PHEV configuration">
-    </a>
-    <figcaption><h4>BMW i7 with hybrid platform. This in PHEV configuration</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/platforms/bmw7_1_st.jpg" title="BMW i7 with hybrid platform. This in PHEV configuration" >}}
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/platforms/bmw7_2.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/platforms/bmw7_2_st.jpg" alt="BMW i7 with hybrid platform. This in PHEV configuration" title="BMW i7 with hybrid platform. This in PHEV configuration">
-    </a>
-    <figcaption><h4>BMW i7 with hybrid platform. This in EV configuration</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/platforms/bmw7_2_st.jpg" title="BMW i7 with hybrid platform. This in EV configuration" >}}
 
 ## Dedicated with shared components
 
@@ -97,19 +70,9 @@ Some examples of EV platforms that follow this approach are:
 
 These EV platforms are examples of how carmakers can balance between innovation and pragmatism when developing electric vehicles. They offer some advantages over retrofitting or hybrid platforms, such as more design flexibility, better efficiency, and higher performance. However, they may not be as optimal as dedicated EV platforms that are designed from scratch for e-mobility.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/platforms/audiq8_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/platforms/audiq8_1_st.jpg" alt="Audi Q8 e-tron drivetrain with dedicated EV skateboard and reuse of MLB-EVO parts" title="Audi Q8 e-tron drivetrain with dedicated EV skateboard and reuse of MLB-EVO parts">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron drivetrain with dedicated EV skateboard and reuse of MLB-EVO parts</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/platforms/audiq8_1_st.jpg" title="Audi Q8 e-tron drivetrain with dedicated EV skateboard and reuse of MLB-EVO parts" >}}
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/platforms/bmwix_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/platforms/bmwix_1_st.jpg" alt="BMW iX drivetrain with dedicated EV skateboard and some reuse of BMW CLAR parts" title="BMW iX drivetrain with dedicated EV skateboard and some reuse of BMW CLAR parts">
-    </a>
-    <figcaption><h4>BMW iX drivetrain with dedicated EV skateboard and some reuse of BMW CLAR parts</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/platforms/bmwix_1_st.jpg" title="BMW iX drivetrain with dedicated EV skateboard and some reuse of BMW CLAR parts" >}}
 
 ## Dedicated
 
@@ -131,21 +94,11 @@ Some examples of EVs that use dedicated platforms are:
 
 Because of the high cost of creating a new EV platform, there are serveral examples of sharing between brands. See examples in the platform overview in the last section of this article.
 
-Below you see examples of use of the scalable MEB platform made by the Volkswagen group. When an EV platform is scalable, it means that it can be easily adapted and modified to fit different types of electric vehicles, such as sedans, SUVs, or trucks. A scalable EV platform allows carmakers to use the same basic structure and components for various models and sizes of EVs, without having to redesign the chassis or the battery pack. This can save costs, reduce development time, and increase efficiency. A scalable EV platform can also be adjusted to meet different customer preferences and market demands, such as performance, range, or features. 
+Below you see examples of use of the scalable MEB platform made by the Volkswagen group. When an EV platform is scalable, it means that it can be easily adapted and modified to fit different types of electric vehicles, such as sedans, SUVs, or trucks. A scalable EV platform allows carmakers to use the same basic structure and components for various models and sizes of EVs, without having to redesign the chassis or the battery pack. This can save costs, reduce development time, and increase efficiency. A scalable EV platform can also be adjusted to meet different customer preferences and market demands, such as performance, range, or features.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/platforms/idbuzz_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/platforms/idbuzz_1_st.jpg" alt="Volkswagen ID.Buzz with MEB dedicated EV platform" title="Volkswagen ID.Buzz with MEB dedicated EV platform">
-    </a>
-    <figcaption><h4>Volkswagen ID.Buzz with MEB dedicated EV platform</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/platforms/idbuzz_1_st.jpg" title="Volkswagen ID.Buzz with MEB dedicated EV platform" >}}
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/platforms/q4_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/platforms/q4_1_st.jpg" alt="Audi Q4 e-tron with MEB dedicated EV platform" title="Audi Q4 e-tron with MEB dedicated EV platform">
-    </a>
-    <figcaption><h4>Audi Q4 e-tron with MEB dedicated EV platform</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/platforms/q4_1_st.jpg" title="Audi Q4 e-tron with MEB dedicated EV platform" >}}
 
 Volkswagen is working on a new platform called SSP (Scalable Systems Platform). This platform will underpin all
 Volkswagen group models in the future. [Read more at electrichasgoneaudi.net](https://electrichasgoneaudi.net/technology/bev-platforms/ssp/)
@@ -154,21 +107,176 @@ Volkswagen group models in the future. [Read more at electrichasgoneaudi.net](ht
 
 The following table shows the most common EV platforms used on models the latest years.
 
-|Platform | Type | EVs built on platform |
-|------|-----|--------|
-| Audi / Porsche PPE | Dedicated | Audi Q6 e-tron<br> Audi A6 e-tron<br> Porsche Macan EV<br> Porsche Cayenne EV |
-| Audi / Porsche  J1 Performance | Dedicated | [Audi e-tron GT](../../models/audi/e-tron_gt/)<br> [Porsche Taycan](../../models/porsche/taycan/) |
-| Audi MLB EVO | Dedicated w/shared components | [Audi e-tron](../../models/audi/e-tron/)<br> [Audi Q8 e-tron](../../models/audi/q8_e-tron/) | 
-| BMW CLAR | Hybrid | [BMW i4](../../models/bmw/i4/) <br> [BMW i5](../../models/bmw/i5/) <br> [BMW i7](../../models/bmw/i7/) |
-| BMW FAAR | Hybrid | [BMW iX1](../../models/bmw/ix1/) <br> [BMW iX3](../../models/bmw/ix3) |
-| BMW CLAR WE | Dedicated w/shared components | [BMW iX](../../models/bmw/ix/) |
-| Geely SEA1 | Dedicated | [Polestar 3](../../models/polestar/3) <br> [Polestar 4](../../models/polestar/4) <br> [Zeekr 001](../../models/zeekr/001/)<br> Zeekr 009<br> [Volvo EX90](../../models/volvo/ex90/) |
-| Geely SEA2 | Dedicated | [Volvo EX30](../../models/volvo/ex30/)<br> [Smart #1](../../models/smart/hash1/)<br> [Smart #3](../../models/smart/hash3)<br>[Zeekr X](../../models/zeekr/x/) |
-| Geely SEA-S | Dedicated | [Lotus Eletre](../../models/lotus/eletre/)<br> Lotus Emeya |
-| Hyundai E-GMP | Dedicated | [Hyundai Ioniq 5](../../models/hyundai/ioniq_5/)<br> [Hyundai Ioniq 6](../../models/hyundai/ioniq_6/)<br> [KIA EV6](../../models/kia/ev6/)<br> [KIA EV9](../../models/kia/ev9/)<br> |
-| Mercedes EVA 2.0 | Dedicated | [Mercedes EQE](../../models/mercedes/eqe/)<br> [Mercedes EQE SUV](../../models/mercedes/eqe_suv/)<br> [Mercedes EQS](../../models/mercedes/eqs/)<br> [Mercedes EQS SUV](../../models/mercedes/eqs_suv/)| 
-| Renault-Nissan-Mitsubishi CMF-EV | Dedicated | [Renault Megane](../../models/renault/megane)<br> [Renault Scenic](../../models/renault/scenic/)<br> [Nissan Aryia](../../models/nissan/ariya/)|
-| Tesla Model 3/Y platform | Dedicated | Tesla Model 3<br> Tesla Model Y |
-| Tesla Model S/X platform | Dedicated | Tesla Model S<br> Tesla Model X |
-| Volkswagen MEB | Dedicated | [Volkswagen ID.3](../../models/volkswagen/id.3/)<br> [Volkswagen ID.4](../../models/volkswagen/id.4/)<br> [Volkswagen ID.5](../../models/volkswagen/id.5/)<br> [Volkswagen ID.7](../../models/volkswagen/id.7/)<br> [Volkswagen ID.Buzz](../../models/volkswagen/id._buzz/)<br> [Audi Q4 e-tron](../../models/audi/q4_e-tron/)<br>Audi Q5 e-tron<br> [Cupra Born](../../models/cupra/born/)<br> [Cupra Tavascan](../../models/cupra/tavascan/) <br> Ford Explorer|
- 
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Platform
+            </th>
+             <th>Type
+            </th>
+             <th>EVs built on platform
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Audi / Porsche PPE
+            </td>
+            <td>Dedicated
+            </td>
+            <td>Audi Q6 e-tron<br>
+                Audi A6 e-tron<br>
+                Porsche Macan EV<br>
+                Porsche Cayenne EV
+            </td>
+        </tr>
+        <tr>
+            <td>Audi / Porsche J1 Performance
+            </td>
+            <td>Dedicated
+            </td>
+            <td>
+                <a href="../../models/audi/e-tron_gt/">Audi e-tron GT</a><br> 
+                <a href="../../models/porsche/taycan/">Porsche Taycan</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Audi MLB EVO
+            </td>
+            <td>Dedicated w/shared components
+            </td>
+            <td><a href="../../models/audi/e-tron/">Audi e-tron</a><br>
+            <a href="../../models/audi/q8_e-tron/">Audi Q8 e-tron</a>
+            </td>
+        </tr>
+       <tr>
+            <td>BMW CLAR
+            </td>
+            <td>Hybrid
+            </td>
+            <td><a href="../../models/bmw/i4/">BMW i4</a><br> 
+            <a href="../../models/bmw/i5/">BMW i5</a><br>
+             <a href="../../models/bmw/i7/">BMW i7</a>
+            </td>
+        </tr>
+        <tr>
+            <td>BMW FAAR
+            </td>
+            <td>Hybrid
+            </td>
+            <td><a href="../../models/bmw/ix1/">BMW iX1</a><br>
+                 <a href="../../models/bmw/ix3">BMW iX3</a>
+            </td>
+        </tr>
+         <tr>
+            <td>BMW CLAR WE
+            </td>
+            <td>Dedicated w/shared components
+            </td>
+            <td><a href="../../models/bmw/ix/">BMW iX</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Geely SEA1
+            </td>
+            <td>Dedicated
+            </td>
+            <td><a href="../../models/polestar/3">Polestar 3</a><br>
+             <a href="../../models/polestar/4">Polestar 4</a><br>
+             <a href="../../models/zeekr/001/">Zeekr 001</a><br>
+              Zeekr 009<br> 
+            <a href="../../models/volvo/ex90/">Volvo EX90</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Geely SEA2
+            </td>
+            <td>Dedicated
+            </td>
+            <td><a href="../../models/volvo/ex30/">Volvo EX30</a><br>
+            <a href="../../models/smart/hash1/">Smart #1</a><br>
+            <a href="../../models/smart/hash3">Smart #3</a><br>
+            <a href="../../models/zeekr/x/">Zeekr X</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Geely SEA-S
+            </td>
+            <td>Dedicated
+            </td>
+            <td><a href="../../models/lotus/eletre/">Lotus Eletre</a><br>
+             Lotus Emeya<
+            </td>
+        </tr>
+        <tr>
+            <td>Hyundai E-GMP
+            </td>
+            <td>Dedicated
+            </td>
+            <td><a href="../../models/hyundai/ioniq_5/">Hyundai Ioniq 5</a><br>
+            <a href="../../models/hyundai/ioniq_6/">Hyundai Ioniq 6</a><br>
+            <a href="../../models/kia/ev6/">KIA EV6</a><br>
+            <a href="../../models/kia/ev9/">KIA EV9</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td>Mercedes EVA 2.0
+            </td>
+            <td>Dedicated
+            </td>
+            <td>
+                <a href="../../models/mercedes/eqe/">Mercedes EQE</a><br>
+                <a href="../../models/mercedes/eqe_suv/">Mercedes EQE SUV</a><br>
+                <a href="../../models/mercedes/eqs/">Mercedes EQS</a><br>
+                <a href="../../models/mercedes/eqs_suv/">Mercedes EQS SUV</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Renault-Nissan-Mitsubishi CMF-EV
+            </td>
+            <td>Dedicated
+            </td>
+            <td><a href="../../models/renault/megane">Renault Megane</a><br>
+            <a href="../../models/renault/scenic/">Renault Scenic</a><br>
+            <a href="../../models/nissan/ariya/">Nissan Aryia</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Tesla Model 3/Y platform
+            </td>
+            <td>Dedicated
+            </td>
+            <td>
+                Tesla Model 3<br>
+                Tesla Model Y
+            </td>
+        </tr>
+        <tr>
+            <td>Tesla Model S/X platform
+            </td>
+            <td>Dedicated
+            </td>
+            <td>
+                Tesla Model S<br>
+                Tesla Model X
+            </td>
+        </tr>
+        <tr>
+            <td>Volkswagen MEB
+            </td>
+            <td>Dedicated
+            </td>
+            <td>
+                <a href="../../models/volkswagen/id.3/">Volkswagen ID.3</a><br>
+                <a href="../../models/volkswagen/id.4/">Volkswagen ID.4</a><br>
+                <a href="../../models/volkswagen/id.5/">Volkswagen ID.5</a><br>
+                <a href="../../models/volkswagen/id.7/">Volkswagen ID.7</a><br>
+                <a href="../../models/volkswagen/id._buzz/">Volkswagen ID.Buzz</a><br>
+                <a href="../../models/audi/q4_e-tron/">Audi Q4 e-tron</a><br>Audi Q5 e-tron<br>
+                <a href="../../models/cupra/born/">Cupra Born</a><br>
+                <a href="../../models/cupra/tavascan/">Cupra Tavascan</a><br>
+                 Ford Explorer
+            </td>
+        </tr>
+        </tbody>
+</table>
