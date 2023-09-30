@@ -12,12 +12,7 @@ These systems typically consist of various components, including a heat pump, wh
 
 Modern car climate systems often have multiple zones, typically referred to as "zones" or "dual zones." A single-zone system provides the same temperature and airflow for the entire cabin, while a multi-zone system allows for individual temperature and airflow control for different sections of the vehicle, usually the driver and front passenger sides. In some advanced systems, there may be additional zones for rear passengers as well, providing greater customization and comfort.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/hvac/3zoneclimatesystemskodaoctavia.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg" alt="Skoda 3 zone climate system" title="Skoda 3 zone climate system">
-    </a>
-    <figcaption><h4>Skoda 3 zone climate system</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg" title="Skoda 3 zone climate system" >}}
 
 The zone setups typical available are
 
@@ -32,12 +27,7 @@ The zone setups typical available are
 
 HVAC vents in cars are an important part of the vehicle's climate control system. They are designed to distribute conditioned air, whether heated or cooled, to various parts of the passenger cabin to provide a comfortable environment for the occupants. Here are some key points about vents for HVAC in cars:
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/hvac/ex90airvents_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/hvac/ex90airvents_1_st.jpg" alt="Volvo EX90 Air Vent" title="Volvo EX90 Air Vent">
-    </a>
-    <figcaption><h4>Volvo EX90 Air Vent</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/hvac/ex90airvents_1_st.jpg" title="Volvo EX90 Air Vent" >}}
 
 **Types of Vents:** Most modern cars have a variety of vents located throughout the passenger cabin. These can include dash vents, floor vents, rear-seat vents, and defrost vents. Dash vents are usually located on the dashboard and direct airflow towards the face of the driver and front passenger. Floor vents are typically located at the base of the dashboard and direct airflow towards the feet of passengers. Rear-seat vents are usually located on the rear of the center console or in the rear of the vehicle, and they provide airflow to the rear-seat passengers. Defrost vents are usually located on the dashboard near the windshield and are used to defrost or defog the windshield.
 
@@ -87,14 +77,7 @@ Components that are used to draw heat from are
 - AC to DC converter
 - Battery
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/hvac/mercedeseqesuvheatpump_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/hvac/mercedeseqesuvheatpump_1_st.jpg" alt="Mercedes EQE Suv heatpump reuse heat from battery and motors in to the cabin" title="Mercedes EQE Suv heatpump reuse heat from battery and motors in to the cabin">
-    </a>
-    <figcaption><h4>Mercedes EQE Suv heatpump reuses heat from battery and motors in to the cabin</h4></figcaption>
-</figur>
-
-
+{{< sitefigure thumb="technology/hvac/mercedeseqesuvheatpump_1_st.jpg" title="Mercedes EQE Suv heatpump reuses heat from battery and motors in to the cabin" >}}
 
 Heat pumps in car climate systems are designed to be efficient and effective in various weather conditions, providing reliable heating and cooling performance regardless of the outside temperature. They are commonly used in electric and hybrid vehicles due to their energy-efficient operation, which helps extend the driving range by reducing the load on the battery.
 
@@ -106,12 +89,7 @@ EV manufacturers like BWM and Lexus have introduced infrared heating to reduce c
 
 On the Lexus RZ450 panels installed beneath the steering column and the left-hand side of the instrument panel use infrared heating to warm the driver and front passenger’s legs directly. Delivering heat only where it is required reduces the load on the air conditioning system and helps preserve the vehicle’s driving range. Compared to a standard climate control system, energy consumption is reduced by around eight per cent.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/hvac/lexusradiantheating_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/hvac/lexusradiantheating_1_st.jpg" alt="Volvo EX90 Air Vent" title="Volvo EX90 Air Vent">
-    </a>
-    <figcaption><h4>Lexus RZ450 Radint heating</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/hvac/lexusradiantheating_1_st.jpg" title="Lexus RZ450 Radiant heating" >}}
 
 ## Surface heating
 
@@ -137,7 +115,27 @@ a short time when heating a cold car to comfortable temprature.  When a car is h
 
 So how much does that affect range. 
 
-| Scenario  | Bases consumption | Heating | Range change |
-|---------|-------------|---------|----------|
-| Tesla model 3 LR WLTP cyclus | 12.5kWh/100km | 2KW | -25.6%  |
-| Mercedes EQS SUV 580 | 17.8kWh/100km | 2KW  | -19.5% |
+<table class="table table-striped">
+<thead>
+    <tr>
+        <th>Scenario</th>
+        <th>Bases consumption</th>
+        <th>Heating</th>
+        <th>Range change</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>Tesla model 3 LR WLTP cyclus</td>
+        <td>12.5kWh/100km</td>
+        <td>2KW</td>
+        <td>-25.6%</td>
+    </tr>
+        <tr>
+        <td>Mercedes EQS SUV 580</td>
+        <td>17.8kWh/100km</td>
+        <td>2KW</td>
+        <td>-19.5%%</td>
+    </tr>
+</tbody>
+</table>
