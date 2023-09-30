@@ -8,14 +8,7 @@ weight: 3
 
 It uses a high-power DC (Direct Current) to deliver up to 1000 volts and 250 amps. High-speed charging can add up to 200 miles of range in just 20 to 30 minutes, so it can quickly replenish an EV battery for long-distance driving.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/charging_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/charging_1_st.jpg"
-        alt="BMW i4 M50 DC Fast charging" title="BMW i4 M50 DC Fast charging">
-    </a>
-    <figcaption><h4>BMW i4 M50 DC Fast charging</h4></figcaption>
-</figure>
-
+{{< sitefigure thumb="technology/charging/ontheroadcharging/charging_1_st.jpg" title="BMW i4 M50 DC Fast charging" >}}
 
 ## DC Fast Charging availability
 
@@ -25,13 +18,7 @@ This availability can vary very much between the brands. While Tesla has superch
 
 Below you see all charger locations for [Electrify America](https://www.electrifyamerica.com/locate-charger/), some very dense areas, whereas, in other areas, there are many miles/km between the chargers.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/chargermap.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/chargermap_st.jpg"
-        alt="Electrify America charging locations June 10. 2023" title="Electrify America charging locations June 10. 2023">
-    </a>
-    <figcaption><h4>Electrify America charging location map June 10. 2023</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/ontheroadcharging/chargermap_st.jpg" title="Electrify America charging location map June 10. 2023" >}}
 
 ## DC Fast Charging performance
 
@@ -53,7 +40,8 @@ How the charge curve looks varies vastly between models. Some can have a flat cu
 
 Below you see the charging curve for Lucid Air Dream Edition Performance. The charging curve has a deep dive from early on. Charging 30% from 50-80% takes 20 minutes, while charging 30% from 5%-35% takes only 9 minutes.
 
-![Charge curve](../../../models/lucid/air/air_dream_edition_performance/chargingcurve.svg  "Charging curve")
+<img src="../../../models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
+
 
 If you need to keep the charging stops as short as possible, identify the optimal charging area for your EV. EVKX.net helps you with that. We have detailed charging performance information for every model in our [EV database](/evsearch/), with charging curves and calculating optimum charging stops for the different models.
 
@@ -87,13 +75,7 @@ Here are some of the largest EV charging networks in the US:
 
 - [Electrify America](https://www.electrifyamerica.com/): The largest DC fast charging network for the majority of EV models. They're open to all EVs with a CCS charging connection (the industry standard) and, for the time being, the few vehicles that still use CHAdeMO like the Nissan Leaf.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/teslasupercharger_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/teslasupercharger_1_st.jpg"
-        alt="Tesla Supercharger location" title="Tesla Supercharger location">
-    </a>
-    <figcaption><h4>Tesla Supercharger location</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/ontheroadcharging/teslasupercharger_1_st.jpg" title="Tesla Supercharger location" >}}
 
 - [Tesla Superchargers](https://www.tesla.com/findus/list/superchargers/United+States): Tesla's Supercharger network is the largest in the country, with less distance between stations compared to Electrify America. Most Superchargers requires NACS Port on the EV, but they are building out chargers with Magic Dock that supports CCS1 EVs. See chargers [here](https://www.tesla.com/findus?v=2&bounds=60.61822541172234%2C-37.567384000000004%2C18.24809425121173%2C-150.067384&zoom=5&filters=party)
 
@@ -106,13 +88,7 @@ Here are some of the largest EV charging networks in the US:
 
 There are several charging networks in Europe for EVs. Here are some of the largest EV charging networks in Europe:
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/ionity_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/ionity_1_st.jpg"
-        alt="Ionity charging location" title="Ionity charging location">
-    </a>
-    <figcaption><h4>Ionity charging location</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/ontheroadcharging/ionity_1_st.jpg" title="Ionity charging location" >}}
 
 - Ionity: A high-power charging station network for EVs that enables long-distance travel across Europe. It was founded as a joint venture by the BMW Group, Mercedes-Benz Group, Ford Motor Company, and Volkswagen Group².
 
