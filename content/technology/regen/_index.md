@@ -13,12 +13,7 @@ Regenerative braking is a process where the kinetic energy of a moving vehicle i
 
 An electric motor can work as a generator in an EV by using the principle of electromagnetic induction, which states that the change in the magnetic field around a conductor generates an electric current in the circuit. When an electric motor rotates, it creates a magnetic field that interacts with the stator windings and produces an electric current that powers the vehicle. When the car decelerates or brakes, the wheels drive the motor in reverse, causing the magnetic field to change direction and induce electric current in the opposite direction. This current can be fed back to the battery and stored as energy, reducing the need for conventional friction brakes and increasing the range and efficiency of the EV.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/regen/illustration1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/regen/illustration1_st.jpg" alt="Illustration Regen Audi Q8 e-tron" title="Illustration Regen Audi Q8 e-tron">
-    </a>
-    <figcaption><h4>Illustration Regen Audi Q8 e-tron</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/regen/illustration1_st.jpg" title="Illustration Regen Audi Q8 e-tron" >}}
 
 ## Types of Regenerative Braking Strategies
 
@@ -40,21 +35,11 @@ The cons of one-pedal regen are that it can require some adaptation from drivers
 
 While some EVs have a fixed level of regen for one-pedal driving, others have paddles on the steering wheel to activate regen on different levels.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/regen/kiaev6regenpaddles.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/regen/kiaev6regenpaddles_st.jpg" alt="Kia EV6 Regen paddles" title="Kia EV6 Regen paddles">
-    </a>
-    <figcaption><h4>Kia EV6 Regen paddles</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/regen/kiaev6regenpaddles_st.jpg" title="Kia EV6 Regen paddles" >}}
 
-Others, like Tesla, have settings available in their infotainment system. 
+Others, like Tesla, have settings available in their infotainment system.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/regen/teslaregensetting.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/regen/teslaregensetting_st.jpg" alt="Tesla one-pedal driving settings" title="Tesla one-pedal driving settings">
-    </a>
-    <figcaption><h4>Tesla one-pedal driving settings</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/regen/teslaregensetting_st.jpg" title="Tesla one-pedal driving settings" >}}
 
 In the picture above, you also see how Tesla lets the driver decide how the car should behave at low speed. For example, they can add physical brakes at low vehicle speeds to make the vehicle entirely stop and hold.
 
@@ -86,12 +71,7 @@ The maximum regenerative power of an EV depends on several factors, such as the 
 
 ## Brake lights & regenerative braking
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/regen/rearlights_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/regen/rearlights_1_st.jpg" alt="KIA EV6 brake lights" title="KIA EV6 brake lights">
-    </a>
-    <figcaption><h4>KIA EV6 brake lights</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/platforms/rearlights_1_st.jpg" title="KIA EV6 brake lights" >}}
 
 Typical brake lights will come on as long as the braking force is high enough to reduce speed substantially. But this is not always the case. For example, Hyundai Ionic 5 does not enable the braking lights when using one-pedal driving. This behavior can be dangerous. This danger is explained in [this video](https://www.youtube.com/watch?v=U0YW7x9U5TQ). Check how your EV works so you are not rear-ended.
 In Europe, the [regulation](https://unece.org/transport/documents/2022/02/standards/un-regulation-no-13h-revision-4-amendment-2) is that if deceleration is above 1.3 m/s2, it should generate a brake signal.

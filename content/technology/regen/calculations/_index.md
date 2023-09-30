@@ -18,12 +18,7 @@ Let's take Pikes Peak as an example. This mountain is 14.110 ft (4300 meters) hi
 
 1993 meters for an Audi e-tron 55 at 2900kg is 15.74kWh in potential energy.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/pikespeak.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/pikespeaks.jpg" alt="Driving down Pikes Peak in Audi e-tron" title="Driving down Pikes Peak in Audi e-tron">
-    </a>
-    <figcaption><h4>Driving down Pikes Peak in Audi e-tron</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/regen/calculations/pikespeak_st.jpg" title="Driving down Pikes Peak in Audi e-tron" >}}
 
 18.6 miles is 30 km. The speed down is low and based on rolling resistance and speed at 40km/h have an energy consumption of 10.52kWh/100km.
 
@@ -39,12 +34,7 @@ In the video below you see a real-world test of just exactly this trip and how m
 
 In this scenario, the car is moving at 75mph (120.7km/h) and needs to make a full stop for a red light.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/stops.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/stops.jpg" alt="Making a full stop from 75mph" title="Making a full stop from 75mph">
-    </a>
-    <figcaption><h4>Making a full stop from 75mph</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/regen/calculations/stop_st.jpg" title="Making a full stop from 75mph" >}}
 
 As shown in the graph below 75mph for a 2900kg Audi e-tron gives the total kinetic energy of 0,473 kWh.
 
@@ -56,12 +46,7 @@ This means a consumption reduction of 3.8kWh/100km.
 
 ### Scenario 3: Reduce speed from 30 mph to fully stop
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/fullstop.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/fullstops.jpg" alt="Making a full stop from 75mph" title="Making a full stop from 75mph">
-    </a>
-    <figcaption><h4>Making a full stop from 75mph</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/regen/calculations/fullstop_st.jpg" title="Making a full stop from 30mph" >}}
 
 This scenario is a typical city-driving scenario. When driving at 30 mph (48.28km/h), the Audi e-tron has a total kinetic energy of 0,0756kWh.
 
@@ -73,7 +58,7 @@ This regeneration reduces energy consumption by 6.05kWh/100km compared to a car 
 
 ### Scenario 4: Driving down from Saltfjellet mountain
 
-![Saltfjellet](https://media.electrichasgoneaudi.net/multimedia/guides/regen/saltfjellet.jpg "Saltfjellet in winter")
+{{< sitefigure thumb="technology/regen/calculations/saltfjellet_st.jpg" title="Saltfjellet in winter" >}}
 
 This mountain is located in Northern Norway and the main road from South to North passes over it (E6).
 
@@ -166,12 +151,7 @@ See [potential energy calculator](https://www.omnicalculator.com/physics/potenti
 
 The below graph shows the total kinetic energy and the two types of kinetic energy.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/kinetic.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/kinetics.png" alt="Graph over kinetic energy" title="Graph over kinetic energy">
-    </a>
-    <figcaption><h4>Graph over kinetic energy</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/regen/calculations/kinetic_st.png" title="Graph over kinetic energy" >}}
 
 ## Understanding energy consumption
 
@@ -181,12 +161,7 @@ Before we give you an example of how much energy can be regenerated, we need to 
 
 A moving car will have forces based on air resistance that will push against the movement.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnel.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnels.jpg" alt="Audi e-tron in wind tunnel" title="Audi e-tron in wind tunnel">
-    </a>
-    <figcaption><h4>Audi e-tron in wind tunnel</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/regen/calculations/windtunnel_st.jpg" title="Audi e-tron in wind tunnel" >}}
 
 The formula for drag is:
 
@@ -223,12 +198,7 @@ This number is an estimate. On wet roads or roads with snow, the rolling resista
 
 The below diagram shows the calculated consumption needed to overcome drag and rolling resistance and consumption from the battery based on 80% efficiency of the drivetrain. The real efficiency is not known but it is expected to be around 80%.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumption.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumptions.png" alt="Calculated consumption" title="Calculated consumption">
-    </a>
-    <figcaption><h4>Calculated consumption</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/regen/calculations/consumption_st.png" title="Calculated consumption" >}}
 
 See also [full table](https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumptiontable.png) with kinetic energy and consumption for all speeds from 1-100 mph (1-161 km/h)
 
@@ -254,7 +224,7 @@ But this is in the best-case scenario where you can calculate exactly where to l
 
 ## Can you see in the car how much was regenerated?
 
-A common misunderstanding is that you can look at the range reported in the car to see how much was regenerated.
+A common misunderstanding is that you can look at the range reported in the car to see how much was regenerated. For most cars this is not possible
 
 The range meter bases its calculation on the last 100km driven. If we take scenario 4 and assume the car has been driven from sea level up to the top at 650 meters in 80km/h (49.7 mph) the consumption would be 25.4kWh/100km at 650 meters.
 
@@ -268,12 +238,7 @@ This type of increase you could even see in scenarios where there is no regenera
 
 The only way to know how much you have regenerated is to look at how much the state of charge of the battery changes from top to bottom of the mountain.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/soc.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/soc.jpg" alt="State of charge, the only way to see how much you have regenerated" title="State of charge, the only way to see how much you have regenerated">
-    </a>
-    <figcaption><h4>State of charge, the only way to see how much you have regenerated</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/regen/calculations/soc_st.jpg" title="State of charge, the only way to see how much you have regenerated on many cars" >}}
 
 ## One pedal driving vs. manual/automatic regen
 
