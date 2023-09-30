@@ -16,17 +16,152 @@ In short, the new WLTP procedure relies on the new driving cycles (WLTC – Worl
 
 The WLTP cycle has four sub-parts, each with a different maximum speed. The total test cycle time is 30 minutes (1800 seconds).
 
-|  | City | Suburban | Rural | Highway | Total |
-|----|----|----|-----|------|-----|
-|Duration, Seconds | 589 | 483 | 455 | 323 | 1800|
-|Stop, seconds | 150 | 49 | 31 | 8| 235 |
-| Distance in meter | 3095 | 4756 | 7162 | 8254 | 23266 |
-| Percent stop | 26.5% | 11.1% | 6.8% | 2.2% | 13.5% |
-| Max speed | 56.5 | 76.6 | 97.4 | 131.3 | |
-| Average speed w/o stop | 25.3 | 44.5 | 60.7 | 94 | 53.5|
-| Avg speed w stop | 18.9 | 39.4 | 56.5 | 91.7 | 46.5|
-| Min acceleration  m/s^2 | -1.5 | -1.5 | -1.5 |- 1.44 | |
-| Max acceleration  m/s^2 | 1.611 | 1.611 | 1.666 | 1.055 |
+<table class="table">
+    <thead>
+        <tr>
+         <th>#
+         </th>
+         <th>City
+         </th>
+         <th>Suburban
+         </th>
+         <th>Rural
+         </th>
+         <th>Highway
+         </th>
+         <th>Total
+         </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Duration, Seconds 
+            </td>
+            <td>589
+            </td>
+            <td>483
+            </td>
+            <td>455
+            </td>
+            <td>323
+            </td>
+            <td>1800
+            </td>
+        </tr>
+        <tr>
+            <td>Stop, seconds
+            </td>
+            <td>150
+            </td>
+            <td>49
+            </td>
+            <td>31
+            </td>
+            <td>8
+            </td>
+            <td>235
+            </td>
+        </tr>
+        <tr>
+            <td>Distance in meter
+            </td>
+            <td>3095
+            </td>
+            <td>4756
+            </td>
+            <td>7162
+            </td>
+            <td>8254
+            </td>
+            <td>23266
+            </td>
+        </tr>
+             <tr>
+            <td>Percent stop
+            </td>
+            <td>26.5% 
+            </td>
+            <td>11.1%
+            </td>
+            <td>6.8%
+            </td>
+            <td>2.2%
+            </td>
+            <td>13.5% 
+            </td>
+        </tr>
+             <tr>
+            <td>Max speed
+            </td>
+            <td>56.5
+            </td>
+            <td>76.6
+            </td>
+            <td> 97.4
+            </td>
+            <td>131.3
+            </td>
+            <td>
+            </td>
+        </tr>
+             <tr>
+            <td>Average speed w/o stop
+            </td>
+            <td>25.3
+            </td>
+            <td>44.5
+            </td>
+            <td>60.7
+            </td>
+            <td>94
+            </td>
+            <td>53.5
+            </td>
+        </tr>
+             <tr>
+            <td>Avg speed w stop
+            </td>
+            <td>18.9
+            </td>
+            <td>39.4
+            </td>
+            <td>56.5
+            </td>
+            <td>91.7
+            </td>
+            <td>46.5
+            </td>
+        </tr>
+        <tr>
+            <td>Min acceleration  m/s^2
+            </td>
+            <td>-1.5 
+            </td>
+            <td>-1.5
+            </td>
+            <td>-1.5
+            </td>
+            <td>- 1.44
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>Max acceleration  m/s^2
+            </td>
+            <td>1.611
+            </td>
+            <td>1.611
+            </td>
+            <td>1.666
+            </td>
+            <td>1.055
+            </td>
+            <td>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 The below graph shows the speed for the different cycles.
 
