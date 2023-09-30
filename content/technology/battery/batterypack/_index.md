@@ -55,16 +55,62 @@ Faster charging: An 800-volt battery system can support faster charging times th
 
 Here are some configuration examples
 
-| Model | Gross Capacity | Configuration | Nominal Voltage |
-|------|------|-------|-----|
-| Audi Q8 e-tron | 116kWh | 108s4p | 396 Volt|
-| Audi e-tron GT | 93.7kWh | 198s2p | 725 Volt |
-| Kia EV6 GT | 77.4 | 192s2p | 697 Volt |
-| [Nio 100KWh Battery](../../../models/nio/) | 100kWh | 96s1p | 358 Volt |
-| [Nio 100KWh Battery](../../../models/nio/) | 100kWh | 96s2p | 358 Volt |
-| [Mercedes EQE](../../../models/mercedes/eqe/) | 120kWh | 108s4p | 328 Volt |
-| [Mercedes EQS](../../../models/mercedes/eqs/) | 120kWh | 108s4p | 396 Volt |
-| [Tesla Model Y Long Range](../../../models/tesla/model_y/model_y_long_range/) | 78.1kWh | 96s46p | 357 Volt |
+<table class="table table-striped ">
+    <thead>
+        <tr>
+        <th>Model
+        </th>
+        <th>Gross Capacity
+        </th>
+        <th>Configuration
+        </th>
+        <th>Nominal Voltage
+    </thead>
+    <tbody>
+    <tr>
+        <td>Audi Q8 e-tron</td>
+        <td>116kWh</td>
+        <td>108s4p</td>
+        <td>396 Volt</td>
+    </tr>
+    <tr>
+        <td>Audi e-tron GT</td>
+        <td>93.7kWh</td>
+        <td>198s2p</td>
+        <td>725 Volt</td>
+    </tr>
+    <tr>
+        <td>Kia EV6 GT</td>
+        <td>77.4</td>
+        <td>192s2p</td>
+        <td>697 Volt</td>
+    </tr>
+    <tr>
+        <td><a href="../../../models/nio/">Nio 100KWh Battery</a></td>
+        <td>100kWh</td>
+        <td>96s1p</td>
+        <td>358 Volt</td>
+    </tr>
+    <tr>
+        <td><a href="../../../models/mercedes/eqe/">Mercedes EQE</a></td>
+        <td>96,12 kWh</td>
+        <td>90s4p</td>
+        <td>328 Volt</td>
+    </tr>
+    <tr>
+        <td><a href="../../../models/mercedes/eqs/">Mercedes EQS</a></td>
+        <td>120kWh</td>
+        <td>108s4p</td>
+        <td>396 Volt</td>
+    </tr>
+    <tr>
+        <td><a href="../../../models/tesla/model_y/model_y_long_range/">Tesla Model Y Long Range</a></td>
+        <td>78.1kWh</td>
+        <td>96s46p</td>
+        <td>357 Volt</td>
+    </tr>
+</tbody>
+</table>
 
 {{<evkxdisplayaddarticle />}}
 
@@ -76,25 +122,13 @@ Cell-to-module (C2M) is a technology used in electric vehicle (EV) battery packs
 
 In a traditional EV battery pack, individual battery cells are connected to form a module, and multiple modules are then connected in series and/or parallel to form the complete battery pack. This can be complex and expensive, especially in large battery packs, and may require extensive wiring and cooling systems to ensure even charging and discharging of the cells.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/module_lg_pouch.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/module_lg_pouch.jpg"
-        alt="LG battery module" title="LG battery module">
-    </a>
-    <figcaption><h4>LG battery module</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/batterypack/module_lg_pouch_st.jpg" title="LG battery module" >}}
 
 With C2M technology, multiple battery cells are assembled into a single, self-contained module with integrated electronics and cooling systems. The modules can then be easily connected together to form the complete battery pack. Each module has its own BMS (battery management system) that monitors and controls the charging and discharging of the cells within the module, allowing for more precise control and monitoring of the individual cells.
 
 C2M technology has several advantages over traditional battery pack designs. It can simplify the overall design of the battery pack, reduce wiring and cooling requirements, and allow for greater flexibility in the overall pack design. It can also improve the overall reliability of the pack, since each module is self-contained and faults can be detected and isolated more quickly.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/batterypack_e-tron-gt.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/batterypack_e-tron-gts.jpg"
-        alt="Battery pack with 33 modules" title="Battery pack with 33 modules">
-    </a>
-    <figcaption><h4>Battery pack with 33 modules</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/batterypack/batterypack_e-tron-gt_st.jpg" title="Battery pack with 33 modules" >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -104,23 +138,11 @@ Cell-to-pack (CTP) batteries are a new type of battery technology that eliminate
 
 This technology is being developed by several companies such as Tesla, BYD and CATL.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/battery/batterypack/catl_qilin_3.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/battery/batterypack/catl_qilin_3_st.jpg"
-        alt="CATL Qilin cell-to-pack battery" title="CATL Qilin cell-to-pack battery">
-    </a>
-    <figcaption><h4>CATL Qilin cell-to-pack battery</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/batterypack/catl_qilin_3_st.jpg" title="CATL Qilin cell-to-pack battery" >}}
 
 BYD Blade and CATL Qilin are two examples of CTP batteries. The main difference between these two batteries is their cooling system.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/battery/cell/bladebattery.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_st.jpg"
-        alt="Blade Battery" title="Blade Battery">
-    </a>
-    <figcaption><h4>BYD Blade Battery</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/cell/bladebattery_st.jpg" title="BYD Blade Battery" >}}
 
 BYD Blade uses a liquid cooling system while CATL Qilin uses a structural cooling system. The structural cooling system is more efficient than the liquid cooling system used in BYD Blade.
 
@@ -140,24 +162,11 @@ They have the potential to revolutionize the design of electric vehicles and oth
 
 Currently it is only Tesla Model Y that have structural packs. According to Tesla, this solution presents many advantages, such as a great reduction in the number of parts used in both the battery pack and the car.
 
-
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/battery/batterypack/teslastructuralbattery_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/battery/batterypack/teslastructuralbattery_1_st.jpg"
-        alt="Tesla 4680 Structural pack compared with traditional pack" title="Tesla 4680 Structural pack compared with traditional pack">
-    </a>
-    <figcaption><h4>Tesla 4680 Structural pack compared with traditional pack</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/batterypack/teslastructuralbattery_1_st.jpg" title="Tesla 4680 Structural pack compared with traditional pack" >}}
 
 More importantly, the company said the new cells together with the structural pack are expected to increase the Model Y's range by 16 percent and decrease the overall weight of the car by 10 percent, resulting in improved acceleration and handling.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/battery/batterypack/teslastructuralbattery_2.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/battery/batterypack/teslastructuralbattery_2_st.jpg"
-        alt="Tesla structural pack works as the floor on the EV" title="Tesla structural pack works as the floor on the EV">
-    </a>
-    <figcaption><h4>Tesla structural pack works as the floor on the EV</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/batterypack/teslastructuralbattery_2_st.jpg" title="Tesla structural pack works as the floor on the EV" >}}
 
 The below video show a detailed analysis of the pack by Munro & Associates.
 
@@ -167,19 +176,91 @@ The below video show a detailed analysis of the pack by Munro & Associates.
 
 The following table shows how pack density have varied over time between some example battery packs.
 
-| Pack | Year | Gross Capacity | Weight | Density |
-|---|----|-----|----|-----|
-|Tesla Roadster | 2010 | 53kWh | 450kg | 118 Wh/kg |
-| Tesla Model S | 2012 | 85kWh | 540kg  | 157 Wh/kg |
-| Tesla Model X | 2015 | 75kWh | 530kg  | 141 Wh/kg |
-| Tesla Model 3 | 2017 | 80.5kWh | 477kg  | 169 Wh/kg |
-| Audi e-tron 55 | 2018 | 95kWh | 699kg | 136Wh/kg |
-| Tesla Model S | 2022 | 100kWh | 544kg | 184Wh/kg |
-| Volkswagen MEB | 2021 | 82kWh | 493kg | 166Wh/kg |
-| Audi Q8 e-tron 55 | 2022 | 114kWh | 727kg | 157Wh/kg |
-| Kia EV6 | 2022 | 77.4kWh | 477kg | 162Wh/kg |
-| Mercedes EQXX | 2022 | 107.8kWh | 495kg | 217Wh/kg |
-| Nio Semi-Solid | 2023 | 150kWh | 575kg | 260Wh/kg |
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Pack</th>
+            <th>Year</th>
+            <th>Gross Capacity</th>
+            <th>Weight</th>
+            <th>Density</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tesla Roadster</td>
+            <td>2010</td>
+            <td>53kWh</td>
+            <td>450kg</td>
+            <td>118 Wh/kg</td>
+        </tr>
+         <tr>
+            <td>Tesla Model S</td>
+            <td>2012</td>
+            <td>85kWh</td>
+            <td>540kg</td>
+            <td>157 Wh/kg</td>
+        </tr>
+         <tr>
+            <td>Tesla Model X </td>
+            <td>2015</td>
+            <td>75kWh</td>
+            <td>530kg</td>
+            <td>141 Wh/kg</td>
+        </tr>
+         <tr>
+            <td>Audi e-tron 55</td>
+            <td>2018</td>
+            <td>95kWh</td>
+            <td>699kg</td>
+            <td>136Wh/kg</td>
+        </tr>
+        <tr>
+            <td>Volkswagen MEB</td>
+            <td>2021</td>
+            <td>82kWh</td>
+            <td>493kg</td>
+            <td>166Wh/kg</td>
+        </tr>
+         <tr>
+            <td>Tesla Model S</td>
+            <td>2022</td>
+            <td>100kWh</td>
+            <td>544kg</td>
+            <td>184Wh/kg</td>
+        </tr>
+         <tr>
+            <td>Audi Q8 e-tron 55 </td>
+            <td>2022</td>
+            <td>114kWh</td>
+            <td>727kg</td>
+            <td>157Wh/kg</td>
+        </tr>
+         <tr>
+            <td>Kia EV6</td>
+            <td>2022</td>
+            <td>77.4kWh</td>
+            <td>477kg</td>
+            <td>162Wh/kg</td>
+        </tr>
+         <tr>
+            <td>Mercedes EQXX</td>
+            <td>2022</td>
+            <td>107.8kWh</td>
+            <td>495kg</td>
+            <td>217Wh/kg</td>
+        </tr>
+         <tr>
+            <td>Nio Semi-Solid</td>
+            <td>2023</td>
+            <td>150kWh</td>
+            <td>575kg</td>
+            <td>260Wh/kg</td>
+        </tr>
+    </tbody>
+</table>
+
+If you want to get the details about more packs we recomend <a href="https://www.batterydesign.net/maximising-pack-energy-density/">BatteryDesign.net</a>
 
 
 Continue reading about [Battery Mangement System](../batterymanagment/) or go back to [article overview](../).

@@ -8,13 +8,7 @@ weight: 2
 
 In this article, we will explore the different types of EV batteries, how they work, their advantages and disadvantages, and the latest developments in EV battery technology. We will also discuss the environmental impact of EV batteries. 
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/battery/bmwixbattery_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/battery/bmwixbattery_1_st.jpg"
-        alt="BMW iX Battery pack" title="BMW iX Battery pack">
-    </a>
-    <figcaption><h4>BMW iX Battery pack</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/bmwixbattery_1_st.jpg" title="BMW iX Battery pack" >}}
 
 By the end of this article, you will better understand the current state and prospects of EV batteries and their role in the transition to a more sustainable transportation system.
 
@@ -32,6 +26,4 @@ We have split the article into separate sections.
 - [Manufacturers](manufactors) - What are the largest battery producers?
 - [Warranty](warranty) - What kind of battery warranty is common?
   
-
-
 {{<evkxdisplayaddarticle />}}

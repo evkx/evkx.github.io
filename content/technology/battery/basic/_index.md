@@ -16,6 +16,7 @@ The Cathode is known as the oxidizing agent because it accepts lithium ions from
 
 ![Battery](batteryconcept.drawio.svg "Battery concept")
 
+
 When the Anode releases positive Lithium-ions, at the same time, it frees electrons from the lithium atoms of the electrode.
 
 These free electrons congregate inside the anode. As a result, the two electrodes have different charges:

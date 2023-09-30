@@ -10,13 +10,7 @@ weight: 3
 
 A cylindrical cell consists of sheet-like anodes, separators, and cathodes that are sandwiched, rolled up, and packed into a cylinder-shaped can. This form factor is the form factor that battery manufacturers have used for years in the market with battery sizes like AAA and AA used in electronics. 
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680s.jpg"
-        alt="Tesla 4680 cylinder battery" title="Tesla 4680 cylinder battery">
-    </a>
-    <figcaption><h4>Tesla 4680 cylinder battery</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/cell/cylinder4680_st.jpg" title="Tesla 4680 cylinder battery" >}}
 
 One advantage is mechanical stability. The round shape of the battery distributes the internal pressure from side reactions over the cell circumference almost evenly. This stability allows the cell to tolerate higher internal pressure without deformation.
 
@@ -28,13 +22,7 @@ Tesla is one of the few EV manufacturers that uses this. [BMW will start](https:
 
 Li-ion cells with prismatic housing consist of large sheets of anodes, cathodes, and separators sandwiched, rolled up, and pressed to fit into a hard-plastic or metallic housing in cubic form. The electrodes can also be assembled by layer stacking rather than jelly rolling.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatic.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatics.jpg"
-        alt="Samsung prismatic cells" title="Samsung prismatic cells">
-    </a>
-    <figcaption><h4>Samsung prismatic cells</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/cell/samsungprismatic_st.jpg" title="Samsung prismatic cells" >}}
 
 Parts of a prismatic cell's electrode and separator sheets close to the container corners can experience more stress. This stress can damage electrode coating and lead to the non-uniform distribution of the electrolyte.
 
@@ -50,13 +38,7 @@ Swelling Pouch Cell Battery as a Result of Gas Generation During Charge and Disc
 
 The electrode and separator layers of a pouch cell are stacked rather than jelly-rolled. With pouch cells, the designer should allocate enough space for the cell swelling. A swelling of as much as 8% to 10% can occur after 500 cycles.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21s.jpg"
-        alt="LG Chem pouch cell" title="LG Chem pouch cell">
-    </a>
-    <figcaption><h4>LG Chem pouch cell</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/cell/lgchenx21_st.jpg" title="LG Chem pouch cell" >}}
 
 ## Blade
 
@@ -66,13 +48,7 @@ The blade design of the battery cell allows for a more compact and efficient bat
 
 Blade batteries are primarily produced by the Chinese battery manufacturer BYD.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/battery/cell/bladebattery.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_st.jpg"
-        alt="Blade Battery" title="Blade Battery">
-    </a>
-    <figcaption><h4>BYD Blade Battery</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/cell/bladebattery_st.jpg" title="BYD Blade Battery" >}}
 
 One of the key safety features of blade batteries is the use of a ceramic separator between the anode and cathode layers of the cell. This ceramic separator is more resistant to thermal runaway and provides better protection against internal short circuits, reducing the risk of battery fires and explosions.
 
