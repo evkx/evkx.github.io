@@ -12,15 +12,6 @@
     <link rel="shortcut icon" href="{{"images/favicon.png" | relURL}}" type="image/x-icon" />
     <link href="{{"css/bootstrap.min.css" | relURL}}" rel="stylesheet">
     <link href="{{"css/photoswipe.css" | relURL}}" rel="stylesheet">
-    {{with .Site.Params.themeStyle}}
-    <link href="{{(printf "css/%s.css" .) | relURL}}" rel="stylesheet">
-    {{else}}
-    <link href="{{"css/theme.css" | relURL}}" rel="stylesheet">
-    {{end}}
-    {{with .Site.Params.themeVariant}}
-      <link href="{{(printf "css/theme-%s.css" .) | relURL}}" rel="stylesheet">
-    {{end}}
-    
     {{ partial "custom-head.html" . }}
     <style>
       :root #header + #content > #left > #rlblock_left {
