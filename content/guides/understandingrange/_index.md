@@ -13,7 +13,7 @@ The models available today (summer 2023) have a rated range between approx 200km
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range" class="img-fluid">
 </a>
 <figcaption><h4>Lucid Air Dream Edition Range with 883km WLTP range</h4></figcaption></figur>
 
@@ -68,7 +68,7 @@ The Mercedes Vision EQXX is currently the EV with the lowest [drag coefficient](
 
 <figur>
 <a href="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_1.jpg">
-<img src="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_1_st.jpg" alt="Mercedes Vision EQXX with record low drag coeffisient 0.17" title="Mercedes Vision EQXX with a record low drag coefficient of 0.17" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_1_st.jpg" alt="Mercedes Vision EQXX with record low drag coeffisient 0.17" title="Mercedes Vision EQXX with a record low drag coefficient of 0.17" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes Vision EQXX with a record low drag coefficient of 0.17</h4></figcaption></figur>
 
@@ -89,7 +89,7 @@ The graph below shows how much aerodynamic drag consumption causes for the diffe
 
 <figure>
     <a href="https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag.png">
-        <img src="https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_st.png" alt="Consumption caused by aerodynamic drag" title="Consumption caused by aerodynamic drag">
+        <img src="https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_st.png" alt="Consumption caused by aerodynamic drag" title="Consumption caused by aerodynamic drag" class="img-fluid">
     </a>
     <figcaption><h4>Consumption from aerodynamic drag</h4></figcaption>
 </figure>
@@ -110,7 +110,7 @@ Mercedes has focused on low aerodynamical drag. But it has drawbacks since many 
 
 <figur>
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" width="680" height="382">
+<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
 
@@ -124,7 +124,7 @@ Many manufacturers offer narrow tires as a base to advertise the best possible r
 
 <figur>
 <a href="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_2.jpg">
-<img src="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_2_st.jpg" alt="Mercedes Vision EQXX has narrow tires" title="Mercedes Vision EQXX has narrow tires" width="680" height="453">
+<img src="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_2_st.jpg" alt="Mercedes Vision EQXX has narrow tires" title="Mercedes Vision EQXX has narrow tires" class="img-fluid">
 </a>
 <figcaption><h4>Mercedes Vision EQXX has narrow tires</h4></figcaption></figur>
 
@@ -162,7 +162,12 @@ Adding a panoramic roof can increase consumption and reduce the driving range.
 
 The diagram below shows how adding the car's max options increases the rated WLTP consumption and reduces the range on some Audi models.   
 
-![Consumption](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/optionsconsumption.jpg "WLTP Consumption added with options")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/optionsconsumption.jp">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/optionsconsumption_st.jp" alt="WLTP Consumption added with options" title="WLTP Consumption added with options" class="img-fluid">
+    </a>
+    <figcaption><h4>WLTP Consumption added with options</h4></figcaption>
+</figure>
 
 The diagram shows that an Audi e-tron 55 consumes 19.61 kWh/100km in the basic trim but 23.44 kWh/100km in the top trim. It reduces the range from 441km (274 miles) to 369km (229 miles).
 
@@ -176,7 +181,7 @@ Road conditions are one of the factors that affect consumption. If it is dry tar
 
 <figure>
     <a href="https://media.evkx.net/multimedia/guides/understandingrange/etronsinthewet.jpg">
-        <img src="https://media.evkx.net/multimedia/guides/understandingrange/etronsinthewet_st.jpg" alt="Audi e-tron S in the wet" title="Audi e-tron S in the wet">
+        <img src="https://media.evkx.net/multimedia/guides/understandingrange/etronsinthewet_st.jpg" alt="Audi e-tron S in the wet" title="Audi e-tron S in the wet" class="img-fluid">
     </a>
     <figcaption><h4>Audi e-tron S in the wet</h4></figcaption>
 </figure>
@@ -231,7 +236,12 @@ The range indicator base its range on the following data
 - The state of charge (of much the battery is charged)
 - The planned route in the navigation system
 
-![Range indicator](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/virtualcockpit.png "Virtual cockpit with range indicator")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/virtualcockpit.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/virtualcockpit_st.png" alt="Virtual cockpit with range indicator" title="Virtual cockpit with range indicator" class="img-fluid">
+    </a>
+    <figcaption><h4>Virtual cockpit with range indicator</h4></figcaption>
+</figure>
 
 So assume you have an e-tron 55 with 86.5kWh battery and charge it to 100%.
 

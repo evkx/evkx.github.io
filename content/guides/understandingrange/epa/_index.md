@@ -14,7 +14,7 @@ The manufacturers perform the EPA tests on a dynamometer, a device that simulate
 
 <figure>
     <a href="https://media.evkx.net/multimedia/guides/understandingrange/epa/bmwi7dynamometer_1.jpg">
-        <img src="https://media.evkx.net/multimedia/guides/understandingrange/epa/bmwi7dynamometer_1_st.jpg" alt="BMW i7 on a dynamometer" title="BMW i7 on a dynamometer">
+        <img src="https://media.evkx.net/multimedia/guides/understandingrange/epa/bmwi7dynamometer_1_st.jpg" alt="BMW i7 on a dynamometer" title="BMW i7 on a dynamometer" class="img-fluid">
     </a>
     <figcaption><h4>BMW i7 on a dynamometer</h4></figcaption>
 </figure>
@@ -42,7 +42,7 @@ The UDDS cycle involves frequent stops and starts, while the HWFET cycle involve
 
 <figure>
     <a href="https://media.evkx.net/multimedia/guides/understandingrange/epa/epacycles.png">
-        <img src="https://media.evkx.net/multimedia/guides/understandingrange/epa/epacycles_st.png" alt="EPA Cycles" title="EPA Cycles">
+        <img src="https://media.evkx.net/multimedia/guides/understandingrange/epa/epacycles_st.png" alt="EPA Cycles" title="EPA Cycles" class="img-fluid">
     </a>
     <figcaption><h4>EPA Cycles</h4></figcaption>
 </figure>

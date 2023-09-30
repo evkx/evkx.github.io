@@ -32,7 +32,7 @@ The below graph shows the speed for the different cycles.
 
 <figure>
     <a href="https://media.evkx.net/multimedia/guides/understandingrange/wltp/wltpcycle3.png">
-        <img src="https://media.evkx.net/multimedia/guides/understandingrange/wltp/wltpcycle3_st.png" alt="WLTP cycle 3B" title="WLTP cycle 3B">
+        <img src="https://media.evkx.net/multimedia/guides/understandingrange/wltp/wltpcycle3_st.png" alt="WLTP cycle 3B" title="WLTP cycle 3B" class="img-fluid">
     </a>
     <figcaption><h4>WLTP cycle 3B</h4></figcaption>
 </figure>
@@ -47,7 +47,7 @@ In addition to the dynamometer test, the manufacturer must test the car in a win
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnel.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnels.jpg" alt="Audi e-tron in wind tunnel" title="Audi e-tron in wind tunnel">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnels.jpg" alt="Audi e-tron in wind tunnel" title="Audi e-tron in wind tunnel" class="img-fluid">
     </a>
     <figcaption><h4>Audi e-tron in a wind tunnel</h4></figcaption>
 </figure>
