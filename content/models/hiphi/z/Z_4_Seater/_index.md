@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg" alt="HiPhi Z 4 Seater" title="HiPhi Z 4 Seater" class="img-fluid">
-</a>
-<blockquote class="blockquote">HiPhi Z 4 Seater</blockquote></figure>
+{{< sitefigure thumb="models/hiphi/z/z_4_seater/main_1_st.jpg" title="HiPhi Z 4 Seater" >}}
 
 We have separated our HiPhi Z 4 Seater article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 54 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/charging_1_st.jpg" alt="HiPhi Z 4 Seater" title="HiPhi Z 4 Seater" class="img-fluid">
-</a>
-<blockquote class="blockquote">HiPhi Z 4 Seater</blockquote></figure>
+{{< sitefigure thumb="models/hiphi/z/z_4_seater/charging_1_st.jpg" title="HiPhi Z 4 Seater" >}}
 
 
 ### Charge port
@@ -91,11 +83,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/exterior_1_st.jpg" alt="HiPhi Z 4 Seater" title="HiPhi Z 4 Seater" class="img-fluid">
-</a>
-<blockquote class="blockquote">HiPhi Z 4 Seater</blockquote></figure>
+{{< sitefigure thumb="models/hiphi/z/z_4_seater/exterior_1_st.jpg" title="HiPhi Z 4 Seater" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -129,11 +117,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/frontseats_1_st.jpg" alt="HiPhi Z 4 Seater" title="HiPhi Z 4 Seater" class="img-fluid">
-</a>
-<blockquote class="blockquote">HiPhi Z 4 Seater</blockquote></figure>
+{{< sitefigure thumb="models/hiphi/z/z_4_seater/frontseats_1_st.jpg" title="HiPhi Z 4 Seater" >}}
 
 
 ### Second-row seat
@@ -147,11 +131,7 @@ For the second row, this model has twin [executive seats](../../../../technology
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/secondrowseats_1_st.jpg" alt="HiPhi Z 4 Seater" title="HiPhi Z 4 Seater" class="img-fluid">
-</a>
-<blockquote class="blockquote">HiPhi Z 4 Seater</blockquote></figure>
+{{< sitefigure thumb="models/hiphi/z/z_4_seater/secondrowseats_1_st.jpg" title="HiPhi Z 4 Seater" >}}
 
 
 There is only one type of steering wheel available. 
@@ -183,11 +163,7 @@ You have wireless charging for your phone.
 HiPhi Z 4 Seater has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 15 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/screens_1_st.jpg" alt="HiPhi Z 4 Seater" title="HiPhi Z 4 Seater" class="img-fluid">
-</a>
-<blockquote class="blockquote">HiPhi Z 4 Seater</blockquote></figure>
+{{< sitefigure thumb="models/hiphi/z/z_4_seater/screens_1_st.jpg" title="HiPhi Z 4 Seater" >}}
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -208,11 +184,7 @@ The model has 1 USB-C connections as standard. As an option you can get addition
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/headlights_1_st.jpg" alt="HiPhi Z 4 Seater" title="HiPhi Z 4 Seater" class="img-fluid">
-</a>
-<blockquote class="blockquote">HiPhi Z 4 Seater</blockquote></figure>
+{{< sitefigure thumb="models/hiphi/z/z_4_seater/headlights_1_st.jpg" title="HiPhi Z 4 Seater" >}}
 
 ## Advanced driver assistance systems
 

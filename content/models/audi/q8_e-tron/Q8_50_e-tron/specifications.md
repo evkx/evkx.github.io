@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Audi Q8 50 e-tron" src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_50_e-tron/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/audi/q8_e-tron/q8_50_e-tron/main_1_st.jpg" title="Audi Q8 50 e-tron" >}}
 EVKX.net seeks to have the most complete specifications for Audi Q8 50 e-tron. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q8 50 e-tron, visit the [chargeinfo](../chargecurve/) for Audi Q8 50 e-tron with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

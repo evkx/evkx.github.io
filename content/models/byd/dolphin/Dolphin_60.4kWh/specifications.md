@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="BYD Dolphin 60.4kWh" src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" title="BYD Dolphin 60.4kWh" >}}
 EVKX.net seeks to have the most complete specifications for BYD Dolphin 60.4kWh. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BYD Dolphin 60.4kWh, visit the [chargeinfo](../chargecurve/) for BYD Dolphin 60.4kWh with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

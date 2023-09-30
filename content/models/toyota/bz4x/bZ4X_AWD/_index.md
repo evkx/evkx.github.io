@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Toyota bZ4X AWD</blockquote></figure>
+{{< sitefigure thumb="models/toyota/bz4x/bz4x_awd/main_1_st.jpg" title="Toyota bZ4X AWD" >}}
 
 We have separated our Toyota bZ4X AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -79,11 +75,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Toyota bZ4X AWD</blockquote></figure>
+{{< sitefigure thumb="models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" title="Toyota bZ4X AWD" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -119,11 +111,7 @@ The second row has a standard three-seat bench with a 40:60 split where you can 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Toyota bZ4X AWD</blockquote></figure>
+{{< sitefigure thumb="models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" title="Toyota bZ4X AWD" >}}
 
 
 There is only one type of steering wheel available. 
@@ -151,11 +139,7 @@ The standard layout has the following configuration. Behind the steering wheel i
 The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen at the top of the center console is 12,3 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/screens_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Toyota bZ4X AWD</blockquote></figure>
+{{< sitefigure thumb="models/toyota/bz4x/bz4x_awd/screens_1_st.jpg" title="Toyota bZ4X AWD" >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -206,10 +190,6 @@ The cargo capacity in the trunk is 452 liters. On the roof, you can load up to 8
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" alt="Toyota bZ4X AWD" title="Toyota bZ4X AWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Toyota bZ4X AWD</blockquote></figure>
+{{< sitefigure thumb="models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" title="Toyota bZ4X AWD" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

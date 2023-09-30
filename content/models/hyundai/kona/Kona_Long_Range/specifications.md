@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Hyundai Kona Long Range" src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/hyundai/kona/kona_long_range/main_1_st.jpg" title="Hyundai Kona Long Range" >}}
 EVKX.net seeks to have the most complete specifications for Hyundai Kona Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Kona Long Range, visit the [chargeinfo](../chargecurve/) for Hyundai Kona Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

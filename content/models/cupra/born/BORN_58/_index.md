@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" class="img-fluid">
-</a>
-<blockquote class="blockquote">CUPRA BORN 58</blockquote></figure>
+{{< sitefigure thumb="models/cupra/born/born_58/main_1_st.jpg" title="CUPRA BORN 58" >}}
 
 We have separated our CUPRA BORN 58 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -84,11 +80,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/exterior_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" class="img-fluid">
-</a>
-<blockquote class="blockquote">CUPRA BORN 58</blockquote></figure>
+{{< sitefigure thumb="models/cupra/born/born_58/exterior_1_st.jpg" title="CUPRA BORN 58" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -118,11 +110,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cupra/born/born_58/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/frontseats_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" class="img-fluid">
-</a>
-<blockquote class="blockquote">CUPRA BORN 58</blockquote></figure>
+{{< sitefigure thumb="models/cupra/born/born_58/frontseats_1_st.jpg" title="CUPRA BORN 58" >}}
 
 
 ### Second-row seat
@@ -157,11 +145,7 @@ You have wireless charging for your phone.
 CUPRA BORN 58 has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12 inches large and has a 1920 x 869 pixels resolution. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cupra/born/born_58/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/screens_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" class="img-fluid">
-</a>
-<blockquote class="blockquote">CUPRA BORN 58</blockquote></figure>
+{{< sitefigure thumb="models/cupra/born/born_58/screens_1_st.jpg" title="CUPRA BORN 58" >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -178,11 +162,7 @@ The model has 4 USB-C connections as standard.
 The standard headlights use LED technology.  
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cupra/born/born_58/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/headlights_1_st.jpg" alt="CUPRA BORN 58" title="CUPRA BORN 58" class="img-fluid">
-</a>
-<blockquote class="blockquote">CUPRA BORN 58</blockquote></figure>
+{{< sitefigure thumb="models/cupra/born/born_58/headlights_1_st.jpg" title="CUPRA BORN 58" >}}
 
 ## Advanced driver assistance systems
 

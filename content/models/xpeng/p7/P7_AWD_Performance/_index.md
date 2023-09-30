@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_st.jpg" alt="XPENG P7 AWD Performance" title="XPENG P7 AWD Performance" class="img-fluid">
-</a>
-<blockquote class="blockquote">XPENG P7 AWD Performance</blockquote></figure>
+{{< sitefigure thumb="models/xpeng/p7/p7_awd_performance/main_1_st.jpg" title="XPENG P7 AWD Performance" >}}
 
 We have separated our XPENG P7 AWD Performance article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -79,11 +75,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/exterior_1_st.jpg" alt="XPENG P7 AWD Performance" title="XPENG P7 AWD Performance" class="img-fluid">
-</a>
-<blockquote class="blockquote">XPENG P7 AWD Performance</blockquote></figure>
+{{< sitefigure thumb="models/xpeng/p7/p7_awd_performance/exterior_1_st.jpg" title="XPENG P7 AWD Performance" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -151,11 +143,7 @@ You have wireless charging for your phone.
 XPENG P7 AWD Performance has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 14,96 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/screens_1_st.jpg" alt="XPENG P7 AWD Performance" title="XPENG P7 AWD Performance" class="img-fluid">
-</a>
-<blockquote class="blockquote">XPENG P7 AWD Performance</blockquote></figure>
+{{< sitefigure thumb="models/xpeng/p7/p7_awd_performance/screens_1_st.jpg" title="XPENG P7 AWD Performance" >}}
 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 

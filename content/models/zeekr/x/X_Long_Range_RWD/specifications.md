@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Zeekr X Long Range RWD" src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/zeekr/x/x_long_range_rwd/main_1_st.jpg" title="Zeekr X Long Range RWD" >}}
 EVKX.net seeks to have the most complete specifications for Zeekr X Long Range RWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr X Long Range RWD, visit the [chargeinfo](../chargecurve/) for Zeekr X Long Range RWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/main_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford Mustang Mach-E GT</blockquote></figure>
+{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/main_1_st.jpg" title="Ford Mustang Mach-E GT" >}}
 
 We have separated our Ford Mustang Mach-E GT article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 21 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/charging_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford Mustang Mach-E GT</blockquote></figure>
+{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/charging_1_st.jpg" title="Ford Mustang Mach-E GT" >}}
 
 
 ### Charge port
@@ -86,11 +78,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/exterior_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford Mustang Mach-E GT</blockquote></figure>
+{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/exterior_1_st.jpg" title="Ford Mustang Mach-E GT" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -119,11 +107,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/frontseats_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford Mustang Mach-E GT</blockquote></figure>
+{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/frontseats_1_st.jpg" title="Ford Mustang Mach-E GT" >}}
 
 
 ### Second-row seat
@@ -135,11 +119,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - height adjustable headrest 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/secondrowseats_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford Mustang Mach-E GT</blockquote></figure>
+{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E GT" >}}
 
 
 There is only one type of steering wheel available. 
@@ -169,11 +149,7 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel mounted into the dashboard is 10,2 inches large. The touch screen at the top of the center console is 15,5 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/screens_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford Mustang Mach-E GT</blockquote></figure>
+{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/screens_1_st.jpg" title="Ford Mustang Mach-E GT" >}}
 
 
 ## Infotainment
@@ -188,11 +164,7 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/headlights_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford Mustang Mach-E GT</blockquote></figure>
+{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/headlights_1_st.jpg" title="Ford Mustang Mach-E GT" >}}
 
 ## Advanced driver assistance systems
 
@@ -240,10 +212,6 @@ The cargo capacity in the trunk is 402 liters. With the rear seat down, it is 14
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/trunk_1_st.jpg" alt="Ford Mustang Mach-E GT" title="Ford Mustang Mach-E GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford Mustang Mach-E GT</blockquote></figure>
+{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/trunk_1_st.jpg" title="Ford Mustang Mach-E GT" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

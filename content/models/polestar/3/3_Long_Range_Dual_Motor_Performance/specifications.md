@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Polestar 3 Long Range Dual Motor Performance" src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" >}}
 EVKX.net seeks to have the most complete specifications for Polestar 3 Long Range Dual Motor Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Polestar 3 Long Range Dual Motor Performance, visit the [chargeinfo](../chargecurve/) for Polestar 3 Long Range Dual Motor Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

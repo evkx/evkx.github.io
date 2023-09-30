@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" title="GMC Hummer EV Edition 1 Pickup" class="img-fluid">
-</a>
-<blockquote class="blockquote">GMC Hummer EV Edition 1 Pickup</blockquote></figure>
+{{< sitefigure thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" >}}
 
 We have separated our GMC Hummer EV Edition 1 Pickup article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -77,11 +73,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [tailgate]
 There is only one roof for this model. The standard roof has a 4 seperate glass panels that can be removed, making this a convertible.
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" title="GMC Hummer EV Edition 1 Pickup" class="img-fluid">
-</a>
-<blockquote class="blockquote">GMC Hummer EV Edition 1 Pickup</blockquote></figure>
+{{< sitefigure thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -146,11 +138,7 @@ You have wireless charging for your phone.
 GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center  is 13,4 inches large and has a 1888x1728 pixels resolution. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" alt="GMC Hummer EV Edition 1 Pickup" title="GMC Hummer EV Edition 1 Pickup" class="img-fluid">
-</a>
-<blockquote class="blockquote">GMC Hummer EV Edition 1 Pickup</blockquote></figure>
+{{< sitefigure thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" >}}
 
 
 ## Infotainment

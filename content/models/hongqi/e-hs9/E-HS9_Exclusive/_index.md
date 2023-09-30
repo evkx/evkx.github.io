@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/main_1_st.jpg" alt="Hongqi E-HS9 Exclusive" title="Hongqi E-HS9 Exclusive" class="img-fluid">
-</a>
-<blockquote class="blockquote">Hongqi E-HS9 Exclusive</blockquote></figure>
+{{< sitefigure thumb="models/hongqi/e-hs9/e-hs9_exclusive/main_1_st.jpg" title="Hongqi E-HS9 Exclusive" >}}
 
 We have separated our Hongqi E-HS9 Exclusive article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -82,11 +78,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/exterior_1_st.jpg" alt="Hongqi E-HS9 Exclusive" title="Hongqi E-HS9 Exclusive" class="img-fluid">
-</a>
-<blockquote class="blockquote">Hongqi E-HS9 Exclusive</blockquote></figure>
+{{< sitefigure thumb="models/hongqi/e-hs9/e-hs9_exclusive/exterior_1_st.jpg" title="Hongqi E-HS9 Exclusive" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -160,11 +152,7 @@ You have wireless charging for your phone.
 Hongqi E-HS9 Exclusive has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16,2 inches large. The touch screen in the dashboard's center  is 16,2 inches large. The touch screen in front of the passenger in the dashboard is 16,2 inches large. The touch screen in the middle of the center console is 10,2 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/screens_1_st.jpg" alt="Hongqi E-HS9 Exclusive" title="Hongqi E-HS9 Exclusive" class="img-fluid">
-</a>
-<blockquote class="blockquote">Hongqi E-HS9 Exclusive</blockquote></figure>
+{{< sitefigure thumb="models/hongqi/e-hs9/e-hs9_exclusive/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive" >}}
 
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
@@ -183,11 +171,7 @@ The model has 1 USB-C connections as standard. The model has 3 USB-A connections
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/headlights_1_st.jpg" alt="Hongqi E-HS9 Exclusive" title="Hongqi E-HS9 Exclusive" class="img-fluid">
-</a>
-<blockquote class="blockquote">Hongqi E-HS9 Exclusive</blockquote></figure>
+{{< sitefigure thumb="models/hongqi/e-hs9/e-hs9_exclusive/headlights_1_st.jpg" title="Hongqi E-HS9 Exclusive" >}}
 
 ## Advanced driver assistance systems
 

@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Mercedes-EQ EQC 400 4MATIC" src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQC 400 4MATIC. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQC 400 4MATIC, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQC 400 4MATIC with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

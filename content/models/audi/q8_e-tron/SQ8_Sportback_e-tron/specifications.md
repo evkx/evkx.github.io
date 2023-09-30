@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Audi SQ8 Sportback e-tron" src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/main_1_st.jpg" title="Audi SQ8 Sportback e-tron" >}}
 EVKX.net seeks to have the most complete specifications for Audi SQ8 Sportback e-tron. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi SQ8 Sportback e-tron, visit the [chargeinfo](../chargecurve/) for Audi SQ8 Sportback e-tron with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

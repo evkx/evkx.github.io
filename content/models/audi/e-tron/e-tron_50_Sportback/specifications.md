@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Audi e-tron 50 Sportback" src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/audi/e-tron/e-tron_50_sportback/main_1_st.jpg" title="Audi e-tron 50 Sportback" >}}
 EVKX.net seeks to have the most complete specifications for Audi e-tron 50 Sportback. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron 50 Sportback, visit the [chargeinfo](../chargecurve/) for Audi e-tron 50 Sportback with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

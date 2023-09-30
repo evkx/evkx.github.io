@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" class="img-fluid">
-</a>
-<blockquote class="blockquote">Smart #3 Brabus</blockquote></figure>
+{{< sitefigure thumb="models/smart/hash3/hash3_brabus/main_1_st.jpg" title="Smart #3 Brabus" >}}
 
 We have separated our Smart #3 Brabus article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 2 hours and 49 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/charging_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" class="img-fluid">
-</a>
-<blockquote class="blockquote">Smart #3 Brabus</blockquote></figure>
+{{< sitefigure thumb="models/smart/hash3/hash3_brabus/charging_1_st.jpg" title="Smart #3 Brabus" >}}
 
 
 ### Charge port
@@ -85,11 +77,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/exterior_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" class="img-fluid">
-</a>
-<blockquote class="blockquote">Smart #3 Brabus</blockquote></figure>
+{{< sitefigure thumb="models/smart/hash3/hash3_brabus/exterior_1_st.jpg" title="Smart #3 Brabus" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -116,11 +104,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/frontseats_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" class="img-fluid">
-</a>
-<blockquote class="blockquote">Smart #3 Brabus</blockquote></figure>
+{{< sitefigure thumb="models/smart/hash3/hash3_brabus/frontseats_1_st.jpg" title="Smart #3 Brabus" >}}
 
 
 ### Second-row seat
@@ -156,11 +140,7 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel mounted into the dashboard is 10 inches large. The touch screen at the top of the center console is 12,8 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/screens_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" class="img-fluid">
-</a>
-<blockquote class="blockquote">Smart #3 Brabus</blockquote></figure>
+{{< sitefigure thumb="models/smart/hash3/hash3_brabus/screens_1_st.jpg" title="Smart #3 Brabus" >}}
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -177,11 +157,7 @@ The model has 4 USB-C connections as standard.
 You can choose between two types of headlights for the Smart #3 Brabus. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/headlights_1_st.jpg" alt="Smart #3 Brabus" title="Smart #3 Brabus" class="img-fluid">
-</a>
-<blockquote class="blockquote">Smart #3 Brabus</blockquote></figure>
+{{< sitefigure thumb="models/smart/hash3/hash3_brabus/headlights_1_st.jpg" title="Smart #3 Brabus" >}}
 
 ## Advanced driver assistance systems
 

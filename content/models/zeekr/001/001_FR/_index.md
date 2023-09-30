@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_st.jpeg" alt="Zeekr 001 FR" title="Zeekr 001 FR" class="img-fluid">
-</a>
-<blockquote class="blockquote">Zeekr 001 FR</blockquote></figure>
+{{< sitefigure thumb="models/zeekr/001/001_fr/main_1_st.jpeg" title="Zeekr 001 FR" >}}
 
 We have separated our Zeekr 001 FR article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -79,11 +75,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_1_st.jpeg" alt="Zeekr 001 FR" title="Zeekr 001 FR" class="img-fluid">
-</a>
-<blockquote class="blockquote">Zeekr 001 FR</blockquote></figure>
+{{< sitefigure thumb="models/zeekr/001/001_fr/exterior_1_st.jpeg" title="Zeekr 001 FR" >}}
 
 
 {{<evkxdisplayaddarticle />}}

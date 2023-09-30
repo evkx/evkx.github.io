@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="BYD Han" src="https://media.evkx.net/multimedia/models/byd/han/han/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/byd/han/han/main_1_st.jpg" title="BYD Han" >}}
 EVKX.net seeks to have the most complete specifications for BYD Han. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BYD Han, visit the [chargeinfo](../chargecurve/) for BYD Han with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

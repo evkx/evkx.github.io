@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Mercedes-EQ EQS 580 4MATIC SUV" src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/main_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQS 580 4MATIC SUV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQS 580 4MATIC SUV, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQS 580 4MATIC SUV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

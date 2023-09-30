@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
-</a>
-<blockquote class="blockquote">Lexus RZ 450e</blockquote></figure>
+{{< sitefigure thumb="models/lexus/rz/rz_450e/main_1_st.jpg" title="Lexus RZ 450e" >}}
 
 We have separated our Lexus RZ 450e article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 6,6KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 41 minutes. You can also select an optional onboard charger that supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/charging_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
-</a>
-<blockquote class="blockquote">Lexus RZ 450e</blockquote></figure>
+{{< sitefigure thumb="models/lexus/rz/rz_450e/charging_1_st.jpg" title="Lexus RZ 450e" >}}
 
 
 ### Charge port
@@ -88,11 +80,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/exterior_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
-</a>
-<blockquote class="blockquote">Lexus RZ 450e</blockquote></figure>
+{{< sitefigure thumb="models/lexus/rz/rz_450e/exterior_1_st.jpg" title="Lexus RZ 450e" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -120,11 +108,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/frontseats_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
-</a>
-<blockquote class="blockquote">Lexus RZ 450e</blockquote></figure>
+{{< sitefigure thumb="models/lexus/rz/rz_450e/frontseats_1_st.jpg" title="Lexus RZ 450e" >}}
 
 
 ### Second-row seat
@@ -136,11 +120,7 @@ The second row has a standard three-seat bench with a 40:60 split where you can 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/secondrowseats_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
-</a>
-<blockquote class="blockquote">Lexus RZ 450e</blockquote></figure>
+{{< sitefigure thumb="models/lexus/rz/rz_450e/secondrowseats_1_st.jpg" title="Lexus RZ 450e" >}}
 
 
 There is only one type of steering wheel available. 
@@ -168,11 +148,7 @@ The standard layout has the following configuration. Behind the steering wheel i
 The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen at the top of the center console is 12,3 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/screens_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
-</a>
-<blockquote class="blockquote">Lexus RZ 450e</blockquote></figure>
+{{< sitefigure thumb="models/lexus/rz/rz_450e/screens_1_st.jpg" title="Lexus RZ 450e" >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -189,11 +165,7 @@ The model has 5 USB-C connections as standard.
 You can choose between two types of headlights for the Lexus RZ 450e. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/headlights_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
-</a>
-<blockquote class="blockquote">Lexus RZ 450e</blockquote></figure>
+{{< sitefigure thumb="models/lexus/rz/rz_450e/headlights_1_st.jpg" title="Lexus RZ 450e" >}}
 
 ## Advanced driver assistance systems
 
@@ -231,10 +203,6 @@ The cargo capacity in the trunk is 522 liters. With the third-row seat down, it 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/trunk_1_st.jpg" alt="Lexus RZ 450e" title="Lexus RZ 450e" class="img-fluid">
-</a>
-<blockquote class="blockquote">Lexus RZ 450e</blockquote></figure>
+{{< sitefigure thumb="models/lexus/rz/rz_450e/trunk_1_st.jpg" title="Lexus RZ 450e" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

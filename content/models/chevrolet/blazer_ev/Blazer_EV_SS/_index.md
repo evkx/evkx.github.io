@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" class="img-fluid">
-</a>
-<blockquote class="blockquote">Chevrolet Blazer EV SS</blockquote></figure>
+{{< sitefigure thumb="models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" title="Chevrolet Blazer EV SS" >}}
 
 We have separated our Chevrolet Blazer EV SS article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -77,11 +73,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 You can choose between two types of roofs on this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.As an option, you can order this model with a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" class="img-fluid">
-</a>
-<blockquote class="blockquote">Chevrolet Blazer EV SS</blockquote></figure>
+{{< sitefigure thumb="models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1_st.jpg" title="Chevrolet Blazer EV SS" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -112,11 +104,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" class="img-fluid">
-</a>
-<blockquote class="blockquote">Chevrolet Blazer EV SS</blockquote></figure>
+{{< sitefigure thumb="models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" title="Chevrolet Blazer EV SS" >}}
 
 
 ### Second-row seat
@@ -149,11 +137,7 @@ Keyless go makes it possible to start the car without using the key.
 Chevrolet Blazer EV SS has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 11 inches large. The touch screen at the right part of the shared frame is 17,7 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" class="img-fluid">
-</a>
-<blockquote class="blockquote">Chevrolet Blazer EV SS</blockquote></figure>
+{{< sitefigure thumb="models/chevrolet/blazer_ev/blazer_ev_ss/screens_1_st.jpg" title="Chevrolet Blazer EV SS" >}}
 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
@@ -172,11 +156,7 @@ The model has 5 USB-C connections as standard.
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" class="img-fluid">
-</a>
-<blockquote class="blockquote">Chevrolet Blazer EV SS</blockquote></figure>
+{{< sitefigure thumb="models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1_st.jpg" title="Chevrolet Blazer EV SS" >}}
 
 ## Advanced driver assistance systems
 
@@ -215,10 +195,6 @@ The cargo capacity in the trunk is 863 liters. With the rear seat down, it is 16
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1588, and on unbraked, 750kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_st.jpg" alt="Chevrolet Blazer EV SS" title="Chevrolet Blazer EV SS" class="img-fluid">
-</a>
-<blockquote class="blockquote">Chevrolet Blazer EV SS</blockquote></figure>
+{{< sitefigure thumb="models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_st.jpg" title="Chevrolet Blazer EV SS" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Porsche Taycan 4S" src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/porsche/taycan/taycan_4s/main_1_st.jpg" title="Porsche Taycan 4S" >}}
 EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan 4S, visit the [chargeinfo](../chargecurve/) for Porsche Taycan 4S with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/main_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Zeekr 001 Long Range RWD</blockquote></figure>
+{{< sitefigure thumb="models/zeekr/001/001_long_range_rwd/main_1_st.jpg" title="Zeekr 001 Long Range RWD" >}}
 
 We have separated our Zeekr 001 Long Range RWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 38 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/charging_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Zeekr 001 Long Range RWD</blockquote></figure>
+{{< sitefigure thumb="models/zeekr/001/001_long_range_rwd/charging_1_st.jpg" title="Zeekr 001 Long Range RWD" >}}
 
 
 ### Charge port
@@ -87,11 +79,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/exterior_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Zeekr 001 Long Range RWD</blockquote></figure>
+{{< sitefigure thumb="models/zeekr/001/001_long_range_rwd/exterior_1_st.jpg" title="Zeekr 001 Long Range RWD" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -152,11 +140,7 @@ You have wireless charging for your phone.
 Zeekr 001 Long Range RWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 8,8 inches large. The touch screen at the top of the center console is 15,4 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/screens_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Zeekr 001 Long Range RWD</blockquote></figure>
+{{< sitefigure thumb="models/zeekr/001/001_long_range_rwd/screens_1_st.jpg" title="Zeekr 001 Long Range RWD" >}}
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -177,11 +161,7 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/headlights_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Zeekr 001 Long Range RWD</blockquote></figure>
+{{< sitefigure thumb="models/zeekr/001/001_long_range_rwd/headlights_1_st.jpg" title="Zeekr 001 Long Range RWD" >}}
 
 ## Advanced driver assistance systems
 
@@ -222,11 +202,7 @@ The cargo capacity in the trunk is 539 liters. With the rear seat down, it is 14
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/trunk_1_st.jpg" alt="Zeekr 001 Long Range RWD" title="Zeekr 001 Long Range RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Zeekr 001 Long Range RWD</blockquote></figure>
+{{< sitefigure thumb="models/zeekr/001/001_long_range_rwd/trunk_1_st.jpg" title="Zeekr 001 Long Range RWD" >}}
 
 ### Availability & Pricing
 

@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="GMC Hummer EV Edition 1 Pickup" src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" >}}
 EVKX.net seeks to have the most complete specifications for GMC Hummer EV Edition 1 Pickup. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of GMC Hummer EV Edition 1 Pickup, visit the [chargeinfo](../chargecurve/) for GMC Hummer EV Edition 1 Pickup with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

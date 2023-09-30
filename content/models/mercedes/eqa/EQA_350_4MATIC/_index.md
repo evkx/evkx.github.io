@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/main_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-EQ EQA 350 4MATIC</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqa/eqa_350_4matic/main_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" >}}
 
 We have separated our Mercedes-EQ EQA 350 4MATIC article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 2 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/charging_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-EQ EQA 350 4MATIC</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqa/eqa_350_4matic/charging_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" >}}
 
 
 ### Charge port
@@ -92,11 +84,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-EQ EQA 350 4MATIC</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqa/eqa_350_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -145,11 +133,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-EQ EQA 350 4MATIC</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" >}}
 
 
 ### Second-row seat
@@ -185,11 +169,7 @@ You have wireless charging for your phone.
 Mercedes-EQ EQA 350 4MATIC has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 10,25 inches large and has a 1920x720 pixels resolution. The touch screen at the right part of the shared frame is 10,25 inches large and has a 1920x720 pixels resolution. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" alt="Mercedes-EQ EQA 350 4MATIC" title="Mercedes-EQ EQA 350 4MATIC" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-EQ EQA 350 4MATIC</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 

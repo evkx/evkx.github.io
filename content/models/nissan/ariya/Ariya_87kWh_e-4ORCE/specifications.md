@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Nissan Ariya 87kWh e-4ORCE" src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" >}}
 EVKX.net seeks to have the most complete specifications for Nissan Ariya 87kWh e-4ORCE. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nissan Ariya 87kWh e-4ORCE, visit the [chargeinfo](../chargecurve/) for Nissan Ariya 87kWh e-4ORCE with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

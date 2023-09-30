@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Peugot E-2008" src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/peugot/2008/e-2008/main_1_st.jpg" title="Peugot E-2008" >}}
 EVKX.net seeks to have the most complete specifications for Peugot E-2008. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Peugot E-2008, visit the [chargeinfo](../chargecurve/) for Peugot E-2008 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

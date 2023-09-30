@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="SKODA ENYAQ COUPÉ RS iV" src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" >}}
 EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ RS iV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of SKODA ENYAQ COUPÉ RS iV, visit the [chargeinfo](../chargecurve/) for SKODA ENYAQ COUPÉ RS iV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

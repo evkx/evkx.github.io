@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Volvo C40 Recharge Single Motor" src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/volvo/c40/C40_recharge_single_motor/main_1_st.jpg" title="Volvo C40 Recharge Single Motor" >}}
 EVKX.net seeks to have the most complete specifications for Volvo C40 Recharge Single Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo C40 Recharge Single Motor, visit the [chargeinfo](../chargecurve/) for Volvo C40 Recharge Single Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

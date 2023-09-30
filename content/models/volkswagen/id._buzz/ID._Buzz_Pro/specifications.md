@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Volkswagen ID. Buzz Pro" src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg" title="Volkswagen ID. Buzz Pro" >}}
 EVKX.net seeks to have the most complete specifications for Volkswagen ID. Buzz Pro. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID. Buzz Pro, visit the [chargeinfo](../chargecurve/) for Volkswagen ID. Buzz Pro with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

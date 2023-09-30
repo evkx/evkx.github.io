@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Hyundai Kona Standard Range" src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/hyundai/kona/kona_standard_range/main_1_st.jpg" title="Hyundai Kona Standard Range" >}}
 EVKX.net seeks to have the most complete specifications for Hyundai Kona Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Kona Standard Range, visit the [chargeinfo](../chargecurve/) for Hyundai Kona Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

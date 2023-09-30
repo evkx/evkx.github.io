@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg" alt="Volkswagen ID. Buzz Pro" title="Volkswagen ID. Buzz Pro" class="img-fluid">
-</a>
-<blockquote class="blockquote">Volkswagen ID. Buzz Pro</blockquote></figure>
+{{< sitefigure thumb="models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg" title="Volkswagen ID. Buzz Pro" >}}
 
 We have separated our Volkswagen ID. Buzz Pro article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/charging_1_st.jpg" alt="Volkswagen ID. Buzz Pro" title="Volkswagen ID. Buzz Pro" class="img-fluid">
-</a>
-<blockquote class="blockquote">Volkswagen ID. Buzz Pro</blockquote></figure>
+{{< sitefigure thumb="models/volkswagen/id._buzz/id._buzz_pro/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro" >}}
 
 
 ### Charge port
@@ -92,11 +84,7 @@ There is only one roof for this model. The standard is just a regular roof.
 The windows from B-pillar and back are tinted. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/exterior_1_st.jpg" alt="Volkswagen ID. Buzz Pro" title="Volkswagen ID. Buzz Pro" class="img-fluid">
-</a>
-<blockquote class="blockquote">Volkswagen ID. Buzz Pro</blockquote></figure>
+{{< sitefigure thumb="models/volkswagen/id._buzz/id._buzz_pro/exterior_1_st.jpg" title="Volkswagen ID. Buzz Pro" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -135,11 +123,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/frontseats_1_st.jpg" alt="Volkswagen ID. Buzz Pro" title="Volkswagen ID. Buzz Pro" class="img-fluid">
-</a>
-<blockquote class="blockquote">Volkswagen ID. Buzz Pro</blockquote></figure>
+{{< sitefigure thumb="models/volkswagen/id._buzz/id._buzz_pro/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro" >}}
 
 
 ### Second-row seat
@@ -150,11 +134,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/secondrowseats_1_st.jpg" alt="Volkswagen ID. Buzz Pro" title="Volkswagen ID. Buzz Pro" class="img-fluid">
-</a>
-<blockquote class="blockquote">Volkswagen ID. Buzz Pro</blockquote></figure>
+{{< sitefigure thumb="models/volkswagen/id._buzz/id._buzz_pro/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro" >}}
 
 
 There is only one type of steering wheel available. 
@@ -184,11 +164,7 @@ You have wireless charging for your phone.
 Volkswagen ID. Buzz Pro has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12 inches large and has a 1920 x 869 pixels resolution. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/screens_1_st.jpg" alt="Volkswagen ID. Buzz Pro" title="Volkswagen ID. Buzz Pro" class="img-fluid">
-</a>
-<blockquote class="blockquote">Volkswagen ID. Buzz Pro</blockquote></figure>
+{{< sitefigure thumb="models/volkswagen/id._buzz/id._buzz_pro/screens_1_st.jpg" title="Volkswagen ID. Buzz Pro" >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -252,10 +228,6 @@ The cargo capacity in the trunk is 1121 liters. With the rear seat down, it is 2
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, 750kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/trunk_1_st.jpg" alt="Volkswagen ID. Buzz Pro" title="Volkswagen ID. Buzz Pro" class="img-fluid">
-</a>
-<blockquote class="blockquote">Volkswagen ID. Buzz Pro</blockquote></figure>
+{{< sitefigure thumb="models/volkswagen/id._buzz/id._buzz_pro/trunk_1_st.jpg" title="Volkswagen ID. Buzz Pro" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

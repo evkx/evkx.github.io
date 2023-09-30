@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1_st.jpeg" alt="Audi Q8 Sportback 50 e-tron" title="Audi Q8 Sportback 50 e-tron" class="img-fluid">
-</a>
-<blockquote class="blockquote">Audi Q8 Sportback 50 e-tron</blockquote></figure>
+{{< sitefigure thumb="models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1_st.jpeg" title="Audi Q8 Sportback 50 e-tron" >}}
 
 We have separated our Audi Q8 Sportback 50 e-tron article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -92,11 +88,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. As an option, you can equip the model with double-glazed side windows. These windows reduce cabin noise. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/exterior_1.jpeg">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/exterior_1_st.jpeg" alt="Audi Q8 Sportback 50 e-tron" title="Audi Q8 Sportback 50 e-tron" class="img-fluid">
-</a>
-<blockquote class="blockquote">Audi Q8 Sportback 50 e-tron</blockquote></figure>
+{{< sitefigure thumb="models/audi/q8_e-tron/q8_sportback_50_e-tron/exterior_1_st.jpeg" title="Audi Q8 Sportback 50 e-tron" >}}
 
 
 {{<evkxdisplayaddarticle />}}

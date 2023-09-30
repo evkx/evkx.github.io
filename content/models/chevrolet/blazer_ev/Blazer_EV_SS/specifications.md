@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Chevrolet Blazer EV SS" src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" title="Chevrolet Blazer EV SS" >}}
 EVKX.net seeks to have the most complete specifications for Chevrolet Blazer EV SS. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Chevrolet Blazer EV SS, visit the [chargeinfo](../chargecurve/) for Chevrolet Blazer EV SS with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

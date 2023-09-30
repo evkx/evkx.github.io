@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Audi RS e-tron GT</blockquote></figure>
+{{< sitefigure thumb="models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" title="Audi RS e-tron GT" >}}
 
 We have separated our Audi RS e-tron GT article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/charging_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Audi RS e-tron GT</blockquote></figure>
+{{< sitefigure thumb="models/audi/e-tron_gt/rs_e-tron_gt/charging_1_st.jpg" title="Audi RS e-tron GT" >}}
 
 
 ### Charge port
@@ -98,11 +90,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 You can choose between two types of roofs on this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Audi RS e-tron GT</blockquote></figure>
+{{< sitefigure thumb="models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" title="Audi RS e-tron GT" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -160,11 +148,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Audi RS e-tron GT</blockquote></figure>
+{{< sitefigure thumb="models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1_st.jpg" title="Audi RS e-tron GT" >}}
 
 
 There is only one type of steering wheel available. 
@@ -194,11 +178,7 @@ You have wireless charging for your phone.
 Audi RS e-tron GT has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Audi RS e-tron GT</blockquote></figure>
+{{< sitefigure thumb="models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" title="Audi RS e-tron GT" >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -215,11 +195,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 You can choose between three types of headlights for the Audi RS e-tron GT. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Audi RS e-tron GT</blockquote></figure>
+{{< sitefigure thumb="models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" title="Audi RS e-tron GT" >}}
 
 ## Advanced driver assistance systems
 
@@ -272,11 +248,7 @@ The cargo capacity in the trunk is 405 liters. On the roof, you can load up to 7
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/trunk_1_st.jpg" alt="Audi RS e-tron GT" title="Audi RS e-tron GT" class="img-fluid">
-</a>
-<blockquote class="blockquote">Audi RS e-tron GT</blockquote></figure>
+{{< sitefigure thumb="models/audi/e-tron_gt/rs_e-tron_gt/trunk_1_st.jpg" title="Audi RS e-tron GT" >}}
 
 ### Availability & Pricing
 

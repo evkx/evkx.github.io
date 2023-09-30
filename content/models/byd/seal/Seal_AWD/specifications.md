@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="BYD Seal AWD" src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/byd/seal/seal_awd/main_1_st.jpg" title="BYD Seal AWD" >}}
 EVKX.net seeks to have the most complete specifications for BYD Seal AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BYD Seal AWD, visit the [chargeinfo](../chargecurve/) for BYD Seal AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

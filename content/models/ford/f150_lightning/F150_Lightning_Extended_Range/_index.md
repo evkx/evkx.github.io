@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford F150 Lightning Extended Range</blockquote></figure>
+{{< sitefigure thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" >}}
 
 We have separated our Ford F150 Lightning Extended Range article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 19,2KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford F150 Lightning Extended Range</blockquote></figure>
+{{< sitefigure thumb="models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" title="Ford F150 Lightning Extended Range" >}}
 
 
 ### Charge port
@@ -86,11 +78,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [tailgate]
 There is only one roof for this model. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/exterior_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford F150 Lightning Extended Range</blockquote></figure>
+{{< sitefigure thumb="models/ford/f150_lightning/f150_lightning_extended_range/exterior_1_st.jpg" title="Ford F150 Lightning Extended Range" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -121,11 +109,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford F150 Lightning Extended Range</blockquote></figure>
+{{< sitefigure thumb="models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_st.jpg" title="Ford F150 Lightning Extended Range" >}}
 
 
 ### Second-row seat
@@ -158,11 +142,7 @@ The standard layout has the following configuration. The  screen behind the stee
 The optional  layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The  screen on the dashboard's center  is 15,5 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/screens_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford F150 Lightning Extended Range</blockquote></figure>
+{{< sitefigure thumb="models/ford/f150_lightning/f150_lightning_extended_range/screens_1_st.jpg" title="Ford F150 Lightning Extended Range" >}}
 
 
 ## Infotainment
@@ -177,11 +157,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/headlights_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford F150 Lightning Extended Range</blockquote></figure>
+{{< sitefigure thumb="models/ford/f150_lightning/f150_lightning_extended_range/headlights_1_st.jpg" title="Ford F150 Lightning Extended Range" >}}
 
 ## Advanced driver assistance systems
 
@@ -229,10 +205,6 @@ With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driv
 The cargo capacity in the truck bed is 1495 liters. The bed width is 1285 mm, and length is 1704 mm. The max load weight in bed is 907 kg.  Under the hood, there is frunk with more storage room. This frunk is 399 liters. Max weight is 3878kg, and with the base weight of 2988 kg, you can max load 890 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" alt="Ford F150 Lightning Extended Range" title="Ford F150 Lightning Extended Range" class="img-fluid">
-</a>
-<blockquote class="blockquote">Ford F150 Lightning Extended Range</blockquote></figure>
+{{< sitefigure thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

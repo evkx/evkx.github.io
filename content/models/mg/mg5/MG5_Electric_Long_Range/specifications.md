@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="MG MG5 Electric Long Range" src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" title="MG MG5 Electric Long Range" >}}
 EVKX.net seeks to have the most complete specifications for MG MG5 Electric Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG5 Electric Long Range, visit the [chargeinfo](../chargecurve/) for MG MG5 Electric Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

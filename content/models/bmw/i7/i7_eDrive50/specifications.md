@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="BMW i7 eDrive50" src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/bmw/i7/i7_edrive50/main_1_st.jpg" title="BMW i7 eDrive50" >}}
 EVKX.net seeks to have the most complete specifications for BMW i7 eDrive50. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i7 eDrive50, visit the [chargeinfo](../chargecurve/) for BMW i7 eDrive50 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

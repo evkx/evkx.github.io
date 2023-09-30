@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Citroën ë-C4 X" src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" title="Citroën ë-C4 X" >}}
 EVKX.net seeks to have the most complete specifications for Citroën ë-C4 X. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Citroën ë-C4 X, visit the [chargeinfo](../chargecurve/) for Citroën ë-C4 X with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

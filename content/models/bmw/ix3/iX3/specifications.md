@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="BMW iX3" src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/bmw/ix3/ix3/main_1_st.jpg" title="BMW iX3" >}}
 EVKX.net seeks to have the most complete specifications for BMW iX3. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW iX3, visit the [chargeinfo](../chargecurve/) for BMW iX3 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

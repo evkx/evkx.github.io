@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" class="img-fluid">
-</a>
-<blockquote class="blockquote">Porsche Taycan Turbo S</blockquote></figure>
+{{< sitefigure thumb="models/porsche/taycan/taycan_turbo_s/main_1_st.jpg" title="Porsche Taycan Turbo S" >}}
 
 We have separated our Porsche Taycan Turbo S article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" class="img-fluid">
-</a>
-<blockquote class="blockquote">Porsche Taycan Turbo S</blockquote></figure>
+{{< sitefigure thumb="models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" title="Porsche Taycan Turbo S" >}}
 
 
 ### Charge port
@@ -100,11 +92,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" class="img-fluid">
-</a>
-<blockquote class="blockquote">Porsche Taycan Turbo S</blockquote></figure>
+{{< sitefigure thumb="models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" title="Porsche Taycan Turbo S" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -150,11 +138,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" class="img-fluid">
-</a>
-<blockquote class="blockquote">Porsche Taycan Turbo S</blockquote></figure>
+{{< sitefigure thumb="models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" title="Porsche Taycan Turbo S" >}}
 
 
 ### Second-row seats
@@ -194,11 +178,7 @@ Keyless go makes it possible to start the car without using the key.
 Porsche Taycan Turbo S has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen). The touch screen behind the steering wheel integrated into the dashboard is 16,8 inches large. The touch screen at the top of the center console is 10,9 inches large. The touch screen at the bottom of the center console is 8,4 inches large. The touch screen in front of the passenger in the dashboard is 10,9 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/screens_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" class="img-fluid">
-</a>
-<blockquote class="blockquote">Porsche Taycan Turbo S</blockquote></figure>
+{{< sitefigure thumb="models/porsche/taycan/taycan_turbo_s/screens_1_st.jpg" title="Porsche Taycan Turbo S" >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -215,11 +195,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" alt="Porsche Taycan Turbo S" title="Porsche Taycan Turbo S" class="img-fluid">
-</a>
-<blockquote class="blockquote">Porsche Taycan Turbo S</blockquote></figure>
+{{< sitefigure thumb="models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" title="Porsche Taycan Turbo S" >}}
 
 ## Advanced driver assistance systems
 

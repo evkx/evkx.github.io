@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="VOYAH FREE" src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/voyah/free/free/main_1_st.jpg" title="VOYAH FREE" >}}
 EVKX.net seeks to have the most complete specifications for VOYAH FREE. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of VOYAH FREE, visit the [chargeinfo](../chargecurve/) for VOYAH FREE with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

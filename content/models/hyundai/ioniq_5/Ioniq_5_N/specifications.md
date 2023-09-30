@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Hyundai Ioniq 5 N" src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" title="Hyundai Ioniq 5 N" >}}
 EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 N. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Ioniq 5 N, visit the [chargeinfo](../chargecurve/) for Hyundai Ioniq 5 N with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/main_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
-</a>
-<blockquote class="blockquote">MG MG4 Electric Standard</blockquote></figure>
+{{< sitefigure thumb="models/mg/mg4/mg4_electric_standard/main_1_st.jpg" title="MG MG4 Electric Standard" >}}
 
 We have separated our MG MG4 Electric Standard article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 37 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/charging_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
-</a>
-<blockquote class="blockquote">MG MG4 Electric Standard</blockquote></figure>
+{{< sitefigure thumb="models/mg/mg4/mg4_electric_standard/charging_1_st.jpg" title="MG MG4 Electric Standard" >}}
 
 
 ### Charge port
@@ -85,11 +77,7 @@ You can choose between 7 different paint colors when ordering this model.
 There is only one roof for this model. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/exterior_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
-</a>
-<blockquote class="blockquote">MG MG4 Electric Standard</blockquote></figure>
+{{< sitefigure thumb="models/mg/mg4/mg4_electric_standard/exterior_1_st.jpg" title="MG MG4 Electric Standard" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -115,11 +103,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/frontseats_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
-</a>
-<blockquote class="blockquote">MG MG4 Electric Standard</blockquote></figure>
+{{< sitefigure thumb="models/mg/mg4/mg4_electric_standard/frontseats_1_st.jpg" title="MG MG4 Electric Standard" >}}
 
 
 ### Second-row seat
@@ -130,11 +114,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/secondrowseats_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
-</a>
-<blockquote class="blockquote">MG MG4 Electric Standard</blockquote></figure>
+{{< sitefigure thumb="models/mg/mg4/mg4_electric_standard/secondrowseats_1_st.jpg" title="MG MG4 Electric Standard" >}}
 
 
 There is only one type of steering wheel available. 
@@ -160,11 +140,7 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel mounted into the dashboard is 7 inches large. The touch screen at the top of the center console is 10,2 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/screens_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
-</a>
-<blockquote class="blockquote">MG MG4 Electric Standard</blockquote></figure>
+{{< sitefigure thumb="models/mg/mg4/mg4_electric_standard/screens_1_st.jpg" title="MG MG4 Electric Standard" >}}
 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
@@ -183,11 +159,7 @@ The model has 1 USB-C connections as standard. The model has 1 USB-A connections
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/headlights_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
-</a>
-<blockquote class="blockquote">MG MG4 Electric Standard</blockquote></figure>
+{{< sitefigure thumb="models/mg/mg4/mg4_electric_standard/headlights_1_st.jpg" title="MG MG4 Electric Standard" >}}
 
 ## Advanced driver assistance systems
 
@@ -218,10 +190,6 @@ Max weight is 2133kg, and with the base weight of 1715 kg, you can max load 418 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, 500kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/trunk_1_st.jpg" alt="MG MG4 Electric Standard" title="MG MG4 Electric Standard" class="img-fluid">
-</a>
-<blockquote class="blockquote">MG MG4 Electric Standard</blockquote></figure>
+{{< sitefigure thumb="models/mg/mg4/mg4_electric_standard/trunk_1_st.jpg" title="MG MG4 Electric Standard" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

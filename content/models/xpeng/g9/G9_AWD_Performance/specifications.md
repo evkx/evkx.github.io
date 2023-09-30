@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="XPENG G9 AWD Performance" src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/xpeng/g9/g9_awd_performance/main_1_st.jpg" title="XPENG G9 AWD Performance" >}}
 EVKX.net seeks to have the most complete specifications for XPENG G9 AWD Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of XPENG G9 AWD Performance, visit the [chargeinfo](../chargecurve/) for XPENG G9 AWD Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

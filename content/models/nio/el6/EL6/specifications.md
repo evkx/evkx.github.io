@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Nio EL6" src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/nio/el6/el6/main_1_st.jpg" title="Nio EL6" >}}
 EVKX.net seeks to have the most complete specifications for Nio EL6. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio EL6, visit the [chargeinfo](../chargecurve/) for Nio EL6 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

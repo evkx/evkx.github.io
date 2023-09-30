@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_st.jpg" alt="Hyundai Ioniq 5 Long Range 2WD" title="Hyundai Ioniq 5 Long Range 2WD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Hyundai Ioniq 5 Long Range 2WD</blockquote></figure>
+{{< sitefigure thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" >}}
 
 We have separated our Hyundai Ioniq 5 Long Range 2WD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 43 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/charging_1_st.jpg" alt="Hyundai Ioniq 5 Long Range 2WD" title="Hyundai Ioniq 5 Long Range 2WD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Hyundai Ioniq 5 Long Range 2WD</blockquote></figure>
+{{< sitefigure thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/charging_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" >}}
 
 
 ### Charge port
@@ -88,11 +80,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/exterior_1_st.jpg" alt="Hyundai Ioniq 5 Long Range 2WD" title="Hyundai Ioniq 5 Long Range 2WD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Hyundai Ioniq 5 Long Range 2WD</blockquote></figure>
+{{< sitefigure thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/exterior_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -121,11 +109,7 @@ You can choose from 6 different materials/colors for this seat type. <br />
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/frontseats_1_st.jpg" alt="Hyundai Ioniq 5 Long Range 2WD" title="Hyundai Ioniq 5 Long Range 2WD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Hyundai Ioniq 5 Long Range 2WD</blockquote></figure>
+{{< sitefigure thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/frontseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" >}}
 
 
 ### Second-row seat
@@ -137,11 +121,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/secondrowseats_1_st.jpg" alt="Hyundai Ioniq 5 Long Range 2WD" title="Hyundai Ioniq 5 Long Range 2WD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Hyundai Ioniq 5 Long Range 2WD</blockquote></figure>
+{{< sitefigure thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" >}}
 
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
@@ -165,11 +145,7 @@ You have wireless charging for your phone.
 Hyundai Ioniq 5 Long Range 2WD has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 12,3 inches large and has a 2880 x 1080 pixels resolution. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/screens_1_st.jpg" alt="Hyundai Ioniq 5 Long Range 2WD" title="Hyundai Ioniq 5 Long Range 2WD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Hyundai Ioniq 5 Long Range 2WD</blockquote></figure>
+{{< sitefigure thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/screens_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -186,11 +162,7 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/headlights_1_st.jpg" alt="Hyundai Ioniq 5 Long Range 2WD" title="Hyundai Ioniq 5 Long Range 2WD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Hyundai Ioniq 5 Long Range 2WD</blockquote></figure>
+{{< sitefigure thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/headlights_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" >}}
 
 ## Advanced driver assistance systems
 
@@ -236,10 +208,6 @@ The cargo capacity in the trunk is 527 liters. With the rear seat down, it is 15
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/trunk_1_st.jpg" alt="Hyundai Ioniq 5 Long Range 2WD" title="Hyundai Ioniq 5 Long Range 2WD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Hyundai Ioniq 5 Long Range 2WD</blockquote></figure>
+{{< sitefigure thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/trunk_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

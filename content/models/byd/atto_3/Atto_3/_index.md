@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" class="img-fluid">
-</a>
-<blockquote class="blockquote">BYD Atto 3</blockquote></figure>
+{{< sitefigure thumb="models/byd/atto_3/atto_3/main_1_st.jpg" title="BYD Atto 3" >}}
 
 We have separated our BYD Atto 3 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -83,11 +79,7 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 The windows from B-pillar and back are tinted. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/exterior_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" class="img-fluid">
-</a>
-<blockquote class="blockquote">BYD Atto 3</blockquote></figure>
+{{< sitefigure thumb="models/byd/atto_3/atto_3/exterior_1_st.jpg" title="BYD Atto 3" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -119,11 +111,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/frontseats_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" class="img-fluid">
-</a>
-<blockquote class="blockquote">BYD Atto 3</blockquote></figure>
+{{< sitefigure thumb="models/byd/atto_3/atto_3/frontseats_1_st.jpg" title="BYD Atto 3" >}}
 
 
 ### Second-row seat
@@ -135,11 +123,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - electric adjustment 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/secondrowseats_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" class="img-fluid">
-</a>
-<blockquote class="blockquote">BYD Atto 3</blockquote></figure>
+{{< sitefigure thumb="models/byd/atto_3/atto_3/secondrowseats_1_st.jpg" title="BYD Atto 3" >}}
 
 
 There is only one type of steering wheel available. 
@@ -173,11 +157,7 @@ The standard layout has the following configuration. Behind the steering wheel i
 The optional Design layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5 inches large. The touch screen on the dashboard's center  is 15,6 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/screens_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" class="img-fluid">
-</a>
-<blockquote class="blockquote">BYD Atto 3</blockquote></figure>
+{{< sitefigure thumb="models/byd/atto_3/atto_3/screens_1_st.jpg" title="BYD Atto 3" >}}
 
 
 ## Infotainment
@@ -192,11 +172,7 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/headlights_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" class="img-fluid">
-</a>
-<blockquote class="blockquote">BYD Atto 3</blockquote></figure>
+{{< sitefigure thumb="models/byd/atto_3/atto_3/headlights_1_st.jpg" title="BYD Atto 3" >}}
 
 ## Advanced driver assistance systems
 
@@ -240,10 +216,6 @@ With the   level 1 system, you get the following driving automation features.
 The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 1338 liters. On the roof, you can load up to 50kg. Max weight is 2160kg, and with the base weight of 1750 kg, you can max load 410 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/trunk_1_st.jpg" alt="BYD Atto 3" title="BYD Atto 3" class="img-fluid">
-</a>
-<blockquote class="blockquote">BYD Atto 3</blockquote></figure>
+{{< sitefigure thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

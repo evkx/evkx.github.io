@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE" class="img-fluid">
-</a>
-<blockquote class="blockquote">Nissan Ariya 87kWh e-4ORCE</blockquote></figure>
+{{< sitefigure thumb="models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" >}}
 
 We have separated our Nissan Ariya 87kWh e-4ORCE article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -84,11 +80,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 The windows from B-pillar and back are tinted. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE" class="img-fluid">
-</a>
-<blockquote class="blockquote">Nissan Ariya 87kWh e-4ORCE</blockquote></figure>
+{{< sitefigure thumb="models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -151,11 +143,7 @@ You have wireless charging for your phone.
 Nissan Ariya 87kWh e-4ORCE has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large. The touch screen at the right part of the shared frame is 12,3 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/screens_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE" class="img-fluid">
-</a>
-<blockquote class="blockquote">Nissan Ariya 87kWh e-4ORCE</blockquote></figure>
+{{< sitefigure thumb="models/nissan/ariya/ariya_87kwh_e-4orce/screens_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -216,10 +204,6 @@ The cargo capacity in the trunk is 415 liters. With the rear seat down, it is 14
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1_st.jpg" alt="Nissan Ariya 87kWh e-4ORCE" title="Nissan Ariya 87kWh e-4ORCE" class="img-fluid">
-</a>
-<blockquote class="blockquote">Nissan Ariya 87kWh e-4ORCE</blockquote></figure>
+{{< sitefigure thumb="models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

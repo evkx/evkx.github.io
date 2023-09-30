@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Fiat 600e" src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/fiat/600e/600e/main_1_st.jpg" title="Fiat 600e" >}}
 EVKX.net seeks to have the most complete specifications for Fiat 600e. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Fiat 600e, visit the [chargeinfo](../chargecurve/) for Fiat 600e with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

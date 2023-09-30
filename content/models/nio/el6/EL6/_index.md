@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/nio/el6/el6/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_1_st.jpg" alt="Nio EL6" title="Nio EL6" class="img-fluid">
-</a>
-<blockquote class="blockquote">Nio EL6</blockquote></figure>
+{{< sitefigure thumb="models/nio/el6/el6/main_1_st.jpg" title="Nio EL6" >}}
 
 We have separated our Nio EL6 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -97,11 +93,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/nio/el6/el6/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/exterior_1_st.jpg" alt="Nio EL6" title="Nio EL6" class="img-fluid">
-</a>
-<blockquote class="blockquote">Nio EL6</blockquote></figure>
+{{< sitefigure thumb="models/nio/el6/el6/exterior_1_st.jpg" title="Nio EL6" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -134,11 +126,7 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/nio/el6/el6/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/frontseats_1_st.jpg" alt="Nio EL6" title="Nio EL6" class="img-fluid">
-</a>
-<blockquote class="blockquote">Nio EL6</blockquote></figure>
+{{< sitefigure thumb="models/nio/el6/el6/frontseats_1_st.jpg" title="Nio EL6" >}}
 
 
 ### Second-row seat
@@ -176,11 +164,7 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel mounted into the dashboard is 9,8 inches large. The touch screen in the middle of the center console is 12,8 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/nio/el6/el6/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/screens_1_st.jpg" alt="Nio EL6" title="Nio EL6" class="img-fluid">
-</a>
-<blockquote class="blockquote">Nio EL6</blockquote></figure>
+{{< sitefigure thumb="models/nio/el6/el6/screens_1_st.jpg" title="Nio EL6" >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -249,10 +233,6 @@ The cargo capacity in the trunk is 668 liters. With the rear seat down, it is 14
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/nio/el6/el6/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/nio/el6/el6/trunk_1_st.jpg" alt="Nio EL6" title="Nio EL6" class="img-fluid">
-</a>
-<blockquote class="blockquote">Nio EL6</blockquote></figure>
+{{< sitefigure thumb="models/nio/el6/el6/trunk_1_st.jpg" title="Nio EL6" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

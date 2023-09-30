@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Tesla Model S Standard Range" src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/tesla/model_s/model_s_standard_range/main_1_st.jpg" title="Tesla Model S Standard Range" >}}
 EVKX.net seeks to have the most complete specifications for Tesla Model S Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model S Standard Range, visit the [chargeinfo](../chargecurve/) for Tesla Model S Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

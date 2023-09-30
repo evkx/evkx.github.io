@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Fisker Ocean Extreme" src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/fisker/ocean/ocean_extreme/main_1_st.jpg" title="Fisker Ocean Extreme" >}}
 EVKX.net seeks to have the most complete specifications for Fisker Ocean Extreme. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Fisker Ocean Extreme, visit the [chargeinfo](../chargecurve/) for Fisker Ocean Extreme with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

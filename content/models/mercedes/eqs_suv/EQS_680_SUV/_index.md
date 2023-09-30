@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-Maybach EQS 680 SUV</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" >}}
 
 We have separated our Mercedes-Maybach EQS 680 SUV article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -88,11 +84,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-Maybach EQS 680 SUV</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -126,11 +118,7 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-Maybach EQS 680 SUV</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" >}}
 
 
 ### Second-row seat
@@ -151,11 +139,7 @@ For the second row, this model has twin [executive seats](../../../../technology
 - [footrest for passenger](../../../../technology/seats/adjustment/#footrest) 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-Maybach EQS 680 SUV</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" >}}
 
 
 There is only one type of steering wheel available. 
@@ -185,11 +169,7 @@ You have wireless charging for your phone.
 Mercedes-Maybach EQS 680 SUV has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-Maybach EQS 680 SUV</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -210,11 +190,7 @@ The model has 4 USB-C connections as standard. As an option you can get addition
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/headlights_1_st.jpg" alt="Mercedes-Maybach EQS 680 SUV" title="Mercedes-Maybach EQS 680 SUV" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-Maybach EQS 680 SUV</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqs_suv/eqs_680_suv/headlights_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" >}}
 
 ## Advanced driver assistance systems
 

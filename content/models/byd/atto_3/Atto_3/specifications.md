@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="BYD Atto 3" src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/byd/atto_3/atto_3/main_1_st.jpg" title="BYD Atto 3" >}}
 EVKX.net seeks to have the most complete specifications for BYD Atto 3. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BYD Atto 3, visit the [chargeinfo](../chargecurve/) for BYD Atto 3 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

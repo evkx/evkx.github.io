@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" class="img-fluid">
-</a>
-<blockquote class="blockquote">Cadillac ESCALADE IQ</blockquote></figure>
+{{< sitefigure thumb="models/cadillac/escalade/escalade_iq/main_1_st.jpg" title="Cadillac ESCALADE IQ" >}}
 
 We have separated our Cadillac ESCALADE IQ article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -77,11 +73,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" class="img-fluid">
-</a>
-<blockquote class="blockquote">Cadillac ESCALADE IQ</blockquote></figure>
+{{< sitefigure thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -113,11 +105,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" class="img-fluid">
-</a>
-<blockquote class="blockquote">Cadillac ESCALADE IQ</blockquote></figure>
+{{< sitefigure thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" >}}
 
 
 ### Second-row seat
@@ -134,11 +122,7 @@ For the second row, this model has twin [executive seats](../../../../technology
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" class="img-fluid">
-</a>
-<blockquote class="blockquote">Cadillac ESCALADE IQ</blockquote></figure>
+{{< sitefigure thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" >}}
 
 
 ### Third-row seats
@@ -172,11 +156,7 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel mounted into the dashboard is 35 inches large. The touch screen at the bottom of the center console is 11 inches large. The touch screen in front of the passenger on the dashboard is 20 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/screens_1_st.jpg" alt="Cadillac ESCALADE IQ" title="Cadillac ESCALADE IQ" class="img-fluid">
-</a>
-<blockquote class="blockquote">Cadillac ESCALADE IQ</blockquote></figure>
+{{< sitefigure thumb="models/cadillac/escalade/escalade_iq/screens_1_st.jpg" title="Cadillac ESCALADE IQ" >}}
 
 
 ## Infotainment

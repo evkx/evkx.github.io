@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/main_1_st.jpg" alt="Cadillac LYRIQ RWD" title="Cadillac LYRIQ RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Cadillac LYRIQ RWD</blockquote></figure>
+{{< sitefigure thumb="models/cadillac/lyriq/lyriq_rwd/main_1_st.jpg" title="Cadillac LYRIQ RWD" >}}
 
 We have separated our Cadillac LYRIQ RWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -76,11 +72,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 You can choose between two types of roofs on this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.As an option, you can order this model with a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/exterior_1_st.jpg" alt="Cadillac LYRIQ RWD" title="Cadillac LYRIQ RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Cadillac LYRIQ RWD</blockquote></figure>
+{{< sitefigure thumb="models/cadillac/lyriq/lyriq_rwd/exterior_1_st.jpg" title="Cadillac LYRIQ RWD" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -111,11 +103,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/frontseats_1_st.jpg" alt="Cadillac LYRIQ RWD" title="Cadillac LYRIQ RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Cadillac LYRIQ RWD</blockquote></figure>
+{{< sitefigure thumb="models/cadillac/lyriq/lyriq_rwd/frontseats_1_st.jpg" title="Cadillac LYRIQ RWD" >}}
 
 
 ### Second-row seat
@@ -126,11 +114,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/secondrowseats_1_st.jpg" alt="Cadillac LYRIQ RWD" title="Cadillac LYRIQ RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Cadillac LYRIQ RWD</blockquote></figure>
+{{< sitefigure thumb="models/cadillac/lyriq/lyriq_rwd/secondrowseats_1_st.jpg" title="Cadillac LYRIQ RWD" >}}
 
 
 There is only one type of steering wheel available. 
@@ -156,11 +140,7 @@ Keyless go makes it possible to start the car without using the key.
 Cadillac LYRIQ RWD has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen behind the steering wheel accross the the center of the dash  is 33 inches large. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/screens_1_st.jpg" alt="Cadillac LYRIQ RWD" title="Cadillac LYRIQ RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Cadillac LYRIQ RWD</blockquote></figure>
+{{< sitefigure thumb="models/cadillac/lyriq/lyriq_rwd/screens_1_st.jpg" title="Cadillac LYRIQ RWD" >}}
 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
@@ -179,11 +159,7 @@ The model has 5 USB-C connections as standard.
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/headlights_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/headlights_1_st.jpg" alt="Cadillac LYRIQ RWD" title="Cadillac LYRIQ RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Cadillac LYRIQ RWD</blockquote></figure>
+{{< sitefigure thumb="models/cadillac/lyriq/lyriq_rwd/headlights_1_st.jpg" title="Cadillac LYRIQ RWD" >}}
 
 ## Advanced driver assistance systems
 
@@ -222,10 +198,6 @@ The cargo capacity in the trunk is 793 liters. With the rear seat down, it is 17
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1588, and on unbraked, 750kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/trunk_1_st.jpg" alt="Cadillac LYRIQ RWD" title="Cadillac LYRIQ RWD" class="img-fluid">
-</a>
-<blockquote class="blockquote">Cadillac LYRIQ RWD</blockquote></figure>
+{{< sitefigure thumb="models/cadillac/lyriq/lyriq_rwd/trunk_1_st.jpg" title="Cadillac LYRIQ RWD" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

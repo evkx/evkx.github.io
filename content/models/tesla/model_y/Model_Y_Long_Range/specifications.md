@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 ---
 <object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
-<img alt="Tesla Model Y Long Range" src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" class="img-fluid">
+{{< sitefigure thumb="models/tesla/model_y/model_y_long_range/main_1_st.jpg" title="Tesla Model Y Long Range" >}}
 EVKX.net seeks to have the most complete specifications for Tesla Model Y Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model Y Long Range, visit the [chargeinfo](../chargecurve/) for Tesla Model Y Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

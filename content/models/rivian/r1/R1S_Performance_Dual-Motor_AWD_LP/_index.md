@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/main_1_st.jpg" alt="Rivian R1S Performance Dual-Motor AWD LP" title="Rivian R1S Performance Dual-Motor AWD LP" class="img-fluid">
-</a>
-<blockquote class="blockquote">Rivian R1S Performance Dual-Motor AWD LP</blockquote></figure>
+{{< sitefigure thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/main_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" >}}
 
 We have separated our Rivian R1S Performance Dual-Motor AWD LP article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -49,11 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 52 minutes. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/charging_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/charging_1_st.jpg" alt="Rivian R1S Performance Dual-Motor AWD LP" title="Rivian R1S Performance Dual-Motor AWD LP" class="img-fluid">
-</a>
-<blockquote class="blockquote">Rivian R1S Performance Dual-Motor AWD LP</blockquote></figure>
+{{< sitefigure thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" >}}
 
 
 ### Charge port
@@ -87,11 +79,7 @@ There is only one roof for this model. As an option, you can order this model wi
 The windows from B-pillar and back are tinted. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/exterior_1_st.jpg" alt="Rivian R1S Performance Dual-Motor AWD LP" title="Rivian R1S Performance Dual-Motor AWD LP" class="img-fluid">
-</a>
-<blockquote class="blockquote">Rivian R1S Performance Dual-Motor AWD LP</blockquote></figure>
+{{< sitefigure thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/exterior_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -164,11 +152,7 @@ You have wireless charging for your phone.
 Rivian R1S Performance Dual-Motor AWD LP has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 15,3 inches large and has a 1540 x 720 pixels resolution. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/screens_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/screens_1_st.jpg" alt="Rivian R1S Performance Dual-Motor AWD LP" title="Rivian R1S Performance Dual-Motor AWD LP" class="img-fluid">
-</a>
-<blockquote class="blockquote">Rivian R1S Performance Dual-Motor AWD LP</blockquote></figure>
+{{< sitefigure thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/screens_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" >}}
 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
@@ -226,10 +210,6 @@ The cargo capacity in the trunk is 498 liters. With the rear seat down, it is 29
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3500, and on unbraked, 750kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/trunk_1_st.jpg" alt="Rivian R1S Performance Dual-Motor AWD LP" title="Rivian R1S Performance Dual-Motor AWD LP" class="img-fluid">
-</a>
-<blockquote class="blockquote">Rivian R1S Performance Dual-Motor AWD LP</blockquote></figure>
+{{< sitefigure thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/trunk_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

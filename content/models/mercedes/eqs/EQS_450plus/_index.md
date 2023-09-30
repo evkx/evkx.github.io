@@ -10,11 +10,7 @@ hidden: true
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-EQ EQS 450+</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqs/eqs_450plus/main_1_st.jpg" title="Mercedes-EQ EQS 450+" >}}
 
 We have separated our Mercedes-EQ EQS 450+ article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -88,11 +84,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/exterior_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/exterior_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-EQ EQS 450+</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqs/eqs_450plus/exterior_1_st.jpg" title="Mercedes-EQ EQS 450+" >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -140,11 +132,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/frontseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/frontseats_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-EQ EQS 450+</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqs/eqs_450plus/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+" >}}
 
 
 ### Second-row seats
@@ -164,11 +152,7 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/secondrowseats_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-EQ EQS 450+</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+" >}}
 
 
 There is only one type of steering wheel available. 
@@ -268,10 +252,6 @@ The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 17
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 
 
-<figure class="text-center">
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/trunk_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/trunk_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" class="img-fluid">
-</a>
-<blockquote class="blockquote">Mercedes-EQ EQS 450+</blockquote></figure>
+{{< sitefigure thumb="models/mercedes/eqs/eqs_450plus/trunk_1_st.jpg" title="Mercedes-EQ EQS 450+" >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
