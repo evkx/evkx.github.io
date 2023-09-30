@@ -30,12 +30,8 @@ The WLTP cycle has four sub-parts, each with a different maximum speed. The tota
 
 The below graph shows the speed for the different cycles.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/guides/understandingrange/wltp/wltpcycle3.png">
-        <img src="https://media.evkx.net/multimedia/guides/understandingrange/wltp/wltpcycle3_st.png" alt="WLTP cycle 3B" title="WLTP cycle 3B" class="img-fluid">
-    </a>
-    <figcaption><h4>WLTP cycle 3B</h4></figcaption>
-</figure>
+{{< sitefigure thumb="guides/understandingrange/wltp/wltpcycle3_st.png" title="WLTP cycle 3B" >}}
+
 
 The test is done on a dynamometer to get the same conditions. The 
 
@@ -45,12 +41,7 @@ The test is done on a dynamometer to get the same conditions. The
 
 In addition to the dynamometer test, the manufacturer must test the car in a wind tunnel. The test will result in a drag coefficient, and a front area size used to calculate the WLTP range. 
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnel.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnels.jpg" alt="Audi e-tron in wind tunnel" title="Audi e-tron in wind tunnel" class="img-fluid">
-    </a>
-    <figcaption><h4>Audi e-tron in a wind tunnel</h4></figcaption>
-</figure>
+{{< sitefigure thumb="guides\understandingrange\wltp\windtunnel_st.jpg" title="Audi e-tron in a wind tunnel" >}}
 
 ## The result depends on the equipment level
 

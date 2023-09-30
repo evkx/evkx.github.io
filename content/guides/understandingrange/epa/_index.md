@@ -22,7 +22,6 @@ The EPA defines two driving cycles to represent typical city and highway scenari
 
 The UDDS cycle involves frequent stops and starts, while the HWFET cycle involves steady speeds and minimal braking.
 
-
 <table class="table">
     <thead>
     <tr>
