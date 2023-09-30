@@ -1,0 +1,158 @@
+<div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbar">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title" id="offcanvasDarkNavbar">EVKX.net</h5>
+    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+    <div class="accordion accordion-flush" id="accordionFlushExample">
+  {{ $currentNode := . }}
+    <nav class="links w-100" id="bd-docs-nav" aria-label="Docs navigation">
+      <ul class="links-nav list-unstyled">
+        {{if eq .Site.Params.ordersectionsby "title"}}
+          {{range .Site.Home.Sections.ByTitle }}
+          {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode }}
+        {{end}}
+          {{else}}
+            {{range .Site.Home.Sections.ByWeight }}
+            {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode }}
+          {{end}}
+        {{end}}
+
+        {{with .Site.Menus.shortcuts}}
+
+        {{ range sort . "Weight"}}
+        <li>
+          {{.Pre}}
+          <a href="{{.RelPermalink}}">{{safeHTML .Name}} XXXX</a>
+          {{.Post}}
+        </li>
+        {{end}}
+
+        {{end}}
+      </ul>
+    </nav>
+    </div>
+  </div>
+</div>
+
+<!-- templates -->
+{{ define "section-tree-nav" }}
+{{ $currentNode := .currentnode }}
+{{with .sect}}
+{{if .IsSection}}
+{{safeHTML .Params.head}}
+<div class="accordion-item">
+  <h2 class="accordion-header">
+    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+      {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}
+    </button>
+  </h2>
+  <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+    <div class="accordion-body">
+      <a href="{{ .RelPermalink}}" class="evkx-links-link d-inline-block rounded">
+        {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}
+        {{ $numberOfPages :=  (len (where .Pages "Params.hidden" "ne" true)) }}
+      </a>
+     {{ if ne $numberOfPages 0 }}
+      <ul class="list fw-normal pb-2 small">
+        {{ .Scratch.Set "pages" .Pages }}
+          {{ if .Sections}}
+            {{ .Scratch.Set "pages" (.Pages | union .Sections) }}
+          {{end}}
+        {{ $pages := (.Scratch.Get "pages") }}
+    
+        {{if eq .Site.Params.ordersectionsby "title"}}
+          {{ range $pages.ByTitle }}
+        {{ if and .Params.hidden (not $.showhidden) }}
+          {{else}}
+
+          {{ template "section-tree-nav2" dict "sect" . "currentnode" $currentNode }}
+        {{end}}
+        {{ end }}
+        {{else}}
+        {{ range $pages.ByWeight }}
+        {{ if and .Params.hidden (not $.showhidden) }}
+        {{else}}
+
+        {{ template "section-tree-nav2" dict "sect" . "currentnode" $currentNode }}
+        {{end}}
+        {{ end }}
+        {{end}}
+      </ul>
+      {{ end }}
+    </div>
+{{else}}
+{{ if not .Params.Hidden }}
+<li data-nav-id="{{.RelPermalink}}" class="dd-item
+       {{if eq .File.UniqueID $currentNode.File.UniqueID}}active{{end}}
+        ">
+  <a href="{{ .RelPermalink}}">
+    {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}
+  </a>
+</li>
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}
+
+<!-- templates -->
+{{ define "section-tree-nav2" }}
+{{ $currentNode := .currentnode }}
+{{with .sect}}
+{{if .IsSection}}
+{{safeHTML .Params.head}}
+<li>
+  <a href="{{ .RelPermalink}}" class="evkx-links-link d-inline-block rounded">
+    {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}
+
+    {{if .Params.titleSup }}
+      <sup>{{.Params.titleSup}}</sup>
+    {{end}}
+
+    {{ $numberOfPages :=  (len (where .Pages "Params.hidden" "ne" true)) }}
+
+    {{ if ne $numberOfPages 0 }}
+
+    {{ end }}
+  </a>
+  {{ if ne $numberOfPages 0 }}
+  <ul class="list fw-normal pb-2 small">
+    {{ .Scratch.Set "pages" .Pages }}
+      {{ if .Sections}}
+        {{ .Scratch.Set "pages" (.Pages | union .Sections) }}
+      {{end}}
+    {{ $pages := (.Scratch.Get "pages") }}
+
+    {{if eq .Site.Params.ordersectionsby "title"}}
+      {{ range $pages.ByTitle }}
+    {{ if and .Params.hidden (not $.showhidden) }}
+      {{else}}
+      {{ template "section-tree-nav2" dict "sect" . "currentnode" $currentNode }}
+    {{end}}
+    {{ end }}
+    {{else}}
+    {{ range $pages.ByWeight }}
+    {{ if and .Params.hidden (not $.showhidden) }}
+    {{else}}
+    {{ template "section-tree-nav2" dict "sect" . "currentnode" $currentNode }}
+    {{end}}
+    {{ end }}
+    {{end}}
+  </ul>
+  {{ end }}
+</li>
+{{else}}
+{{ if not .Params.Hidden }}
+<li data-nav-id="{{.RelPermalink}}" class="dd-item
+       {{if eq .File.UniqueID $currentNode.File.UniqueID}}active{{end}}
+        ">
+  <a href="{{ .RelPermalink}}">
+    {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}
+  </a>
+</li>
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}
+
+
