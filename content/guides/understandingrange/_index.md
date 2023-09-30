@@ -11,12 +11,7 @@ Europe, [EPA](epa) in the US, and CLTC in China.
 
 The models available today (summer 2023) have a rated range between approx 200km and 900km.
 
-<figur>
-<a href="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_st.jpg" alt="Lucid Air Dream Edition Range" title="Lucid Air Dream Edition Range" class="img-fluid">
-</a>
-<figcaption><h4>Lucid Air Dream Edition Range with 883km WLTP range</h4></figcaption></figur>
-
+{{< sitefigure thumb="models/lucid/air/air_dream_edition_range/main_1_st.jpg" title="Lucid Air Dream Edition Range with 883km WLTP range" >}}
 
 The most critical aspect of range is how large the battery is. A larger battery means more energy to use.
 
@@ -66,11 +61,7 @@ The efficiency or consumption is affected by many attributes of the car.
 The aerodynamic drag affects how much energy is needed to move. The shape of the body affects it but also the design of the wheels.
 The Mercedes Vision EQXX is currently the EV with the lowest [drag coefficient](https://en.wikipedia.org/wiki/Drag_coefficient) with a Cw value of only 0.17
 
-<figur>
-<a href="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_1.jpg">
-<img src="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_1_st.jpg" alt="Mercedes Vision EQXX with record low drag coeffisient 0.17" title="Mercedes Vision EQXX with a record low drag coefficient of 0.17" class="img-fluid">
-</a>
-<figcaption><h4>Mercedes Vision EQXX with a record low drag coefficient of 0.17</h4></figcaption></figur>
+{{< sitefigure thumb="guides/understandingrange/mercedeseqxx_1_st.jpg" title="Mercedes Vision EQXX with a record low drag coefficient of 0.17" >}}
 
 Calculating how much energy is needed to overcome aerodynamic drag is possible if you know a model's drag coefficient and the frontal area size.
 
@@ -87,12 +78,7 @@ Below you see some examples from various models.
 
 The graph below shows how much aerodynamic drag consumption causes for the different models.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag.png">
-        <img src="https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_st.png" alt="Consumption caused by aerodynamic drag" title="Consumption caused by aerodynamic drag" class="img-fluid">
-    </a>
-    <figcaption><h4>Consumption from aerodynamic drag</h4></figcaption>
-</figure>
+{{< sitefigure thumb="guides/understandingrange/aerodynamicdrag_st.png" title="Consumption from aerodynamic drag" >}}
 
 The table below shows aerodynamic drag consumption on three different Audi models and Mercedes EQS.
 
@@ -108,11 +94,7 @@ You see how the Mercedes EQS saves a lot of energy at high speed compared to the
 
 Mercedes has focused on low aerodynamical drag. But it has drawbacks since many complaints about EQS design.
 
-<figur>
-<a href="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1.jpg">
-<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" alt="Mercedes-EQ EQS 450+" title="Mercedes-EQ EQS 450+" class="img-fluid">
-</a>
-<figcaption><h4>Mercedes-EQ EQS 450+</h4></figcaption></figur>
+{{< sitefigure thumb="models/mercedes/eqs/eqs_450plus/main_1_st.jpg" title="Mercedes-EQ EQS 450+" >}}
 
 ### Rolling resistance
 
@@ -120,13 +102,9 @@ Mercedes has focused on low aerodynamical drag. But it has drawbacks since many 
 
 The rolling resistance is affected by the tires' width, the car's weight, the tire compound, and the tire pressure.
 
-Many manufacturers offer narrow tires as a base to advertise the best possible range possible for the model. The disadvantage is less grip. Other manufacturers offer staggered setups with less wide front tires than rear tires. This setup increases range compared to the same width on all four tires. 
+Many manufacturers offer narrow tires as a base to advertise the best possible range possible for the model. The disadvantage is less grip. Other manufacturers offer staggered setups with less wide front tires than rear tires. This setup increases range compared to the same width on all four tires.
 
-<figur>
-<a href="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_2.jpg">
-<img src="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_2_st.jpg" alt="Mercedes Vision EQXX has narrow tires" title="Mercedes Vision EQXX has narrow tires" class="img-fluid">
-</a>
-<figcaption><h4>Mercedes Vision EQXX has narrow tires</h4></figcaption></figur>
+{{< sitefigure thumb="guides/understandingrange/mercedeseqxx_2_st.jpg" title="Mercedes Vision EQXX has narrow tires" >}}
 
 Some tire producers have started producing specific tires for EVs with low rolling resistance that affects range.
 
@@ -140,11 +118,11 @@ A heavier car requires more energy to move.
 
 ### The efficiency of the drivetrain/motors
 
-Electric motors are very efficient by default, but different motor technologies still differ in consumption. 
+Electric motors are very efficient by default, but different motor technologies still differ in consumption.
 
 Permanently excited synchronous use less energy in use but have higher coasting resistance. Induction motors use more energy to move but have almost zero coasting resistance.
 
-Newer cars often combine these two techniques having a rear synchronous motor always in use and an induction motor in front. 
+Newer cars often combine these two techniques having a rear synchronous motor always in use and an induction motor in front.
 
 ### The internal resistance of the battery
 
@@ -153,21 +131,16 @@ The internal resistance in the battery causes heat loss in the battery.
 ### Factors vary based on selected options
 
 How the manufacturer designed the EV gives many of the above factors. Because of its body shape, the e-tron Sportback has less drag than the e-tron SUV.
-But other factors are affected by the equipment you add to your car. 
+But other factors are affected by the equipment you add to your car.
 
 The buyer can configure some EVs with many options affecting the rated range. This possibility is typical for brands like Porsche and Audi.
 
 Buying wider tires will give you a higher consumption and a shorter range.
-Adding a panoramic roof can increase consumption and reduce the driving range. 
+Adding a panoramic roof can increase consumption and reduce the driving range.
 
-The diagram below shows how adding the car's max options increases the rated WLTP consumption and reduces the range on some Audi models.   
+The diagram below shows how adding the car's max options increases the rated WLTP consumption and reduces the range on some Audi models.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/optionsconsumption.jp">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/optionsconsumption_st.jp" alt="WLTP Consumption added with options" title="WLTP Consumption added with options" class="img-fluid">
-    </a>
-    <figcaption><h4>WLTP Consumption added with options</h4></figcaption>
-</figure>
+{{< sitefigure thumb="guides/understandingrange/optionsconsumption_st.jpg" title="WLTP Consumption added with options" >}}
 
 The diagram shows that an Audi e-tron 55 consumes 19.61 kWh/100km in the basic trim but 23.44 kWh/100km in the top trim. It reduces the range from 441km (274 miles) to 369km (229 miles).
 
@@ -179,12 +152,7 @@ In the real world, getting the same range as given by WLTP or EPA is almost impo
 
 Road conditions are one of the factors that affect consumption. If it is dry tarmac, the rolling resistance is much lower than if the road is wet or packed with snow.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/guides/understandingrange/etronsinthewet.jpg">
-        <img src="https://media.evkx.net/multimedia/guides/understandingrange/etronsinthewet_st.jpg" alt="Audi e-tron S in the wet" title="Audi e-tron S in the wet" class="img-fluid">
-    </a>
-    <figcaption><h4>Audi e-tron S in the wet</h4></figcaption>
-</figure>
+{{< sitefigure thumb="guides/understandingrange/etronsinthewet_st.jpg" title="Audi e-tron S in the wet" >}}
 
 ### The speed
 
@@ -213,17 +181,17 @@ This range indicator works differently on different brands.
 ### Range indicator based on rated range and SOC
 
 This type of range indicator bases the range on the rated range and the battery's state of charge. If the rated range is 300 miles, and you have a 50% state of charge, the car will indicate a range of 150 miles.
-It does not consider driving history or environment. The type of indicator will show the same range in winter and summer and does not care how you drive. 
+It does not consider driving history or environment. The type of indicator will show the same range in winter and summer and does not care how you drive.
 
-So if you are driving Miss Daisy on country roads or racing on the Autobahn every day, a fully charged EV will show the same range. 
+So if you are driving Miss Daisy on country roads or racing on the Autobahn every day, a fully charged EV will show the same range.
 
-This type of range indication is useless for the driver but gives a false promise of the range. 
+This type of range indication is useless for the driver but gives a false promise of the range.
 
 Tesla is a brand that uses this range indication and [has been criticized](https://www.reuters.com/investigates/special-report/tesla-batteries-range/) by many.
 
 ### Range indicator based on driving history and environment
 
-Many EV manufacturers have range indicators that base the estimated range on driving history and environment. 
+Many EV manufacturers have range indicators that base the estimated range on driving history and environment.
 
 They typically try to learn from previous trips, which causes questions about the range from owners since the range varies and drops when the driving condition worsens.
 
@@ -236,12 +204,7 @@ The range indicator base its range on the following data
 - The state of charge (of much the battery is charged)
 - The planned route in the navigation system
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/virtualcockpit.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/virtualcockpit_st.png" alt="Virtual cockpit with range indicator" title="Virtual cockpit with range indicator" class="img-fluid">
-    </a>
-    <figcaption><h4>Virtual cockpit with range indicator</h4></figcaption>
-</figure>
+{{< sitefigure thumb="guides/understandingrange/virtualcockpit_st.png" title="Virtual cockpit with range indicator" >}}
 
 So assume you have an e-tron 55 with 86.5kWh battery and charge it to 100%.
 

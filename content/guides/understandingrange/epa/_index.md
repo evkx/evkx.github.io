@@ -12,12 +12,7 @@ EPA defines the [test cycles](https://www.fueleconomy.gov/feg/fe_test_schedules.
 
 The manufacturers perform the EPA tests on a dynamometer, a device that simulates driving conditions by placing the vehicle on rollers and measuring its performance.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/guides/understandingrange/epa/bmwi7dynamometer_1.jpg">
-        <img src="https://media.evkx.net/multimedia/guides/understandingrange/epa/bmwi7dynamometer_1_st.jpg" alt="BMW i7 on a dynamometer" title="BMW i7 on a dynamometer" class="img-fluid">
-    </a>
-    <figcaption><h4>BMW i7 on a dynamometer</h4></figcaption>
-</figure>
+{{< sitefigure thumb="guides/understandingrange/epa/bmwi7dynamometer_1_st.jpg" title="BMW i7 on a dynamometer" >}}
 
 The manufacturer can choose between a two- or five-cycle test.
 
@@ -28,24 +23,68 @@ The EPA defines two driving cycles to represent typical city and highway scenari
 The UDDS cycle involves frequent stops and starts, while the HWFET cycle involves steady speeds and minimal braking.
 
 
-|  | UDDP | HWFET |
-|----|----|----|
-| Duration, Seconds | 1874 | 765 |
-| Stop, seconds | 358 | 0 |
-| Distance in meters | 17767 | 16142 |
-| Distance in miles | 11.04 | 10.03 |
-| Percent stop | 18% | 0% |
-| Max speed km/h | 90.93 | 96.6 |
-| Max speed mph | 56.5 | 60 |
-| Avg speed km/h | 34.2 | 77.7 |
-| Avg speed mph | 21.2 | 48.3 |
+<table class="table">
+    <thead>
+    <tr>
+    <th>
+    </th>
+    <th>
+        UDDP
+    </th>
+    <th>
+        HWFET
+    </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Duration, Seconds</td>
+            <td>1874</td>
+            <td>765</td>
+        </tr>
+        <tr>
+            <td>Stop, seconds</td>
+            <td>358</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Distance in meters</td>
+            <td>17767</td>
+            <td>16142</td>
+        </tr>
+        <tr>
+            <td>Distance in miles</td>
+            <td>11.04</td>
+            <td>10.03</td>
+        </tr>
+        <tr>
+            <td>Percent stop</td>
+            <td>18%</td>
+            <td>0%</td>
+        </tr>
+        <tr>
+            <td>Max speed km/h</td>
+            <td>90.93</td>
+            <td>96.6</td>
+        </tr>
+        <tr>
+            <td>Max speed mph</td>
+            <td>56.5</td>
+            <td>60</td>
+        </tr>
+        <tr>
+            <td>Avg speed km/h</td>
+            <td>34.2</td>
+            <td>77.7</td>
+        </tr>
+        <tr>
+            <td>Avg speed mph</td>
+            <td>21.2</td>
+            <td>48.3</td>
+        </tr>
+    </tbody>
+</table>
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/guides/understandingrange/epa/epacycles.png">
-        <img src="https://media.evkx.net/multimedia/guides/understandingrange/epa/epacycles_st.png" alt="EPA Cycles" title="EPA Cycles" class="img-fluid">
-    </a>
-    <figcaption><h4>EPA Cycles</h4></figcaption>
-</figure>
+{{< sitefigure thumb="guides/understandingrange/epa/epacycles_st.png" title="EPA Cycles" >}}
 
 The manufacturers test EVs by fully charging them, leaving them parked overnight, and running them through multiple UDDS and HWFET cycles until the test has completely depleted the battery. The manufacturers perform the tests with a 55% HWFET and 45% UDDS mix. 
 
