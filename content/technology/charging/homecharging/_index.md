@@ -21,25 +21,13 @@ First, you should understand that some limitations in your home prevent installi
 
 The next question is to install a hardwired or plugged home charger. EVKX always recommends installing hardwired solutions. A plug/socket like Nema 14-50 has a substantial risk of overheating and causing a fire that causes harm to buildings and people.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/homecharging/audievse_3.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/homecharging/audievse_3_st.jpg"
-        alt="Not recommended! Plugged charging station" title="Not recommended! Plugged charging station">
-    </a>
-    <figcaption><h4>Not recommended! Plugged charging station</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/homecharging/audievse_3_st.jpg" title="Not recommended! Plugged charging station" >}}
 
 Many EVs include a portable EVSE when no other charging solutions are available. You can compare it to a gas can. The best thing is to keep this EVSE in your car when you don’t have other options. In some countries, using a plugged EVSE as a permanent charging solution for your EV is prohibited.
 
 Below you see examples where people experienced overheating in plugs. Luckily, in this example, people could stop it, and no one got harmed.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/homecharging/burnedsocket_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/homecharging/burnedsocket_1_st.jpg"
-        alt="Examples from owners that experienced overheated plugged solutions" title="Examples from owners that experienced overheated plugged solutions">
-    </a>
-    <figcaption><h4>Examples from owners that experienced overheated plugged solutions</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/homecharging/burnedsocket_1_st.jpg" title="Examples from owners that experienced overheated plugged solutions" >}}
 
 If you don't have any options other than using a plugged solution, please use high-quality plugs and try to reduce the number of times you unplug the charger. It is often the unplugging that causes wear on the plug that, again, increases the risk of overheating.
 
@@ -53,43 +41,137 @@ So what is the capacity needed for a home charging station? This capacity depend
 
 The table below shows examples of energy consumed by different EVS for three daily driving distances at 120km/h / 75mph.
 
-| Model | 50km / 31 miles| 100km / 62 miles | 200km / 124 miles |
-|----|---------|-----------|---------| 
-| [Tesla Model 3](/models/tesla/model_3/model_3/rangeandconsumption/) | 8.5kWh  | 17kWh  | 36kWh |
-| [Kia EV6](/models/kia/ev6/ev6_standard_range_2wd/rangeandconsumption/) | 10kWh  | 20kWh  | 40kWh |
-| [Audi Q8 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/rangeandconsumption/) | 13kWh  | 26kWh  | 52kWh |
-| [Rivian R1S](/models/audi/q8_e-tron/q8_55_e-tron/rangeandconsumption/) | 15kWh  | 30kWh  | 60kWh |
+<table class="table table-striped">
+    <thead>
+        <tr>
+        <th>Model</th>
+        <th>50km / 31 miles</th>
+        <th>100km / 62 miles</th>
+        <th>200km / 124 miles</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="/models/tesla/model_3/model_3/rangeandconsumption/">Tesla Model 3</a></td>
+            <td>8.5kWh</td>
+            <td>17kWh</td>
+            <td>36kWh</td>
+        </tr>
+        <tr>
+            <td><a href="/models/kia/ev6/ev6_standard_range_2wd/rangeandconsumption/">Kia EV6</a></td>
+            <td>10kWh</td>
+            <td>20kWh</td>
+            <td>40kWh</td>
+        </tr>
+        <tr>
+            <td><a href="/models/audi/q8_e-tron/q8_55_e-tron/rangeandconsumption/">Audi Q8 e-tron</a></td>
+            <td>13kWh</td>
+            <td>26kWh</td>
+            <td>52kWh</td>
+        </tr>
+        <tr>
+            <td><a href="/models/audi/q8_e-tron/q8_55_e-tron/rangeandconsumption/">Rivian R1S</a></td>
+            <td>15kWh</td>
+            <td>30kWh</td>
+            <td>60kWh</td>
+        </tr>
+    </tbody>
+</table>
 
 The table shows that Rivian R1S needs almost double the amount of energy compared to a Tesla Model 3 for the same daily driving distance.
 
 The table below shows how much energy different chargers charge for 10 hours.
 
-| Volt  | Circuit(max load) | Capacity | 10 hour charging |
-|----|--------|--------|----------|
-| 120 volt | 15(12) |1.4KW   | 14kWh  |
-| 240  | 15(12) | 2.8 KW | 28 kWh |
-| 240  | 20(16) | 3.7 KW | 37 kWh |
-| 230  | 16 | 3.7 KW | 37 kWh |
-| 240  | 30(24) |  5.7KW | 57 kWh |
-| 230  | 32 | 7.4 KW | 72 kWh |
-| 240  | 40(32) |  7.6KW | 76 kWh |
-| 240  | 50 |  9.6KW | 96 kWh |
-| 400 3 phase | 16 | 11 KW | 11 kWh |
-| 240  | 60(48) |  11.5KW | 115 kWh |
-| 240  | 100(80) |  19.2KW | 192 kWh |
-| 400 3 phase | 32 | 22 KW | 220 kWh |
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Volt</th>
+            <th>Circuit(max load)</th>
+            <th>Capacity</th>
+            <th>10 hour charging</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>120 volt</td>
+            <td>15(12)</td>
+            <td>1.4KW</td>
+            <td>14kWh</td>
+        </tr>
+        <tr>
+            <td>240</td>
+            <td>15(12)</td>
+            <td>2.8 KW</td>
+            <td>28 kWh</td>
+        </tr>
+        <tr>
+            <td>240</td>
+            <td>20(16)</td>
+            <td>3.7 KW</td>
+            <td>37 kWh</td>
+        </tr>
+        <tr>
+            <td>230</td>
+            <td>16</td>
+            <td>3.7 KW</td>
+            <td>37 kWh</td>
+        </tr>
+        <tr>
+            <td>240</td>
+            <td>30(24)</td>
+            <td>5.7KW</td>
+            <td>57 kWh</td>
+        </tr>
+        <tr>
+            <td>230</td>
+            <td>32</td>
+            <td>7.4 KW</td>
+            <td>72 kWh</td>
+        </tr>
+        <tr>
+            <td>240</td>
+            <td>40(32)</td>
+            <td>7.6KW</td>
+            <td>76 kWh</td>
+        </tr>
+        <tr>
+            <td>240</td>
+            <td>50</td>
+            <td>9.6KW</td>
+            <td>96 kWh</td>
+        </tr>
+        <tr>
+            <td>400 3 phase</td>
+            <td>16</td>
+            <td>11 KW</td>
+            <td>11 kWh</td>
+        </tr>
+        <tr>
+            <td>240</td>
+            <td>60(48)</td>
+            <td>11.5KW</td>
+            <td>115 kWh</td>
+        </tr>
+        <tr>
+            <td>240</td>
+            <td>100(80)</td>
+            <td>19.2KW</td>
+            <td>192 kWh</td>
+        </tr>
+        <tr>
+            <td>400 3 phase </td>
+            <td>32</td>
+            <td>22 KW</td>
+            <td>220 kWh</td>
+        </tr>
+    </tbody>
+</table>
 
 As you can see from comparing the tables, even for the models with high consumption that during a 10-hour charge, you would be able to refill the energy with no problem for the example driving distances.
 
 It would be best to consider the future when installing a new dedicated circuit. The future is Electric, and your new EV is probably not the last. So if you need a less powerful full charger now, you can still install a circuit that could handle more power in the future.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/homecharging/porsche100amps_1.jpeg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/homecharging/porsche100amps_1_st.jpeg"
-        alt="Porsche 19.2 KW hardwired charger" title="Porsche 19.2 KW hardwired charger">
-    </a>
-    <figcaption><h4>Porsche 19.2 KW hardwired charger</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/homecharging/porsche100amps_1_st.jpg" title="Porsche 19.2 KW hardwired charger" >}}
 
 Check the electrical requirements of your chosen charger and compare them with your home's existing wiring and circuit breaker. You may need to upgrade your electrical panel or install a new dedicated circuit for your charger.
 Hire a licensed electrician to install your home charger according to the local codes and regulations. 
@@ -106,13 +188,7 @@ Smart chargers let you charge when it is cheapest. Connected to the Internet, it
 
 The chart below shows the next-day energy prices from [Nordpool](https://www.nordpoolgroup.com/en/Market-data1/Dayahead/Area-Prices/NO/Hourly/?view=chart). A smart charger could use this data to plan when to charge the next day. On a sunny day like this, the energy is almost free in the middle of the day because of excess solar power.  Smart charging can save a lot of money in situations like this.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/homecharging/nordpool_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/homecharging/nordpool_1_st.jpg"
-        alt="Nordpool daily electricity cost Norway June 4. 2023" title="Nordpool daily electricity cost Norway June 4. 2023">
-    </a>
-    <figcaption><h4>Nordpool daily electricity cost Norway June 4. 2023</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/homecharging/nordpool_1_st.jpg" title="Nordpool daily electricity cost Norway June 4. 2023" >}}
 
 ## Country specific home charging info
 
