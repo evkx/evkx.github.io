@@ -17,13 +17,7 @@ This article will explain everything you need to know about charging an EV, whet
 - The future trends and developments in EV charging
 - By the end of this article, you will have a clear understanding of how to charge an EV efficiently, safely, and conveniently. You will also learn how to choose the best charging option for your EV model, driving habits, and budget12345
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/charging_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/charging_1_st.jpg"
-        alt="Porsche Taycan Turbo S charging" title="Porsche Taycan Turbo S charging">
-    </a>
-    <figcaption><h4>Porsche Taycan Turbo S charging</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/charging_1_st.jpg" title="Porsche Taycan Turbo S charging" >}}
 
 ## Charging Levels
 
