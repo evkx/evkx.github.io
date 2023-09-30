@@ -22,12 +22,7 @@ In this article, we will explore the various components of a modern car audio sy
 
 ## Speakers
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/bwspeakerbmwix.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/bwspeakerbmwix_st.jpg" alt="BMW iX speaker" title="BMW iX speaker">
-    </a>
-    <figcaption><h4>BMW iX speaker</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/infotainment/audiosystem/bwspeakerbmwix_st.jpg" title="BMW iX speaker" >}}
 
 Speakers are the most critical component of any car audio system. They convert electrical signals into sound waves, allowing us to hear music, podcasts, or audiobooks while driving. There are several types of speakers available for car audio systems, including component speakers, coaxial speakers, and subwoofers.
 
@@ -39,12 +34,7 @@ Coaxial speakers, on the other hand, are more affordable and easier to install. 
 
 ### Speaker locations
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/audiq8speakers_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/audiq8speakers_1_st.jpg" alt="Audi Q8 e-tron speaker locations" title="Audi Q8 e-tron speaker locations">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron speaker locations</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/infotainment/audiosystem/audiq8speakers_1_st.jpg" title="Audi Q8 e-tron speaker locations" >}}
 
 They are usually installed in various locations in the car's interior, depending on the size, shape, and design of the car and the speakers.
 
@@ -52,42 +42,21 @@ Some of the common locations for audio system speakers for cars are:
 
 **The dashboard** Speakers installed here are usually small and aimed at the windshield to create a sound reflection. They are often used for high-frequency sounds, such as tweeters.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/polestar3centerspeaker_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/polestar3centerspeaker_1_st.jpg" alt="Polestar 3 center speaker on dashboard" title="Polestar 3 center speaker on dashboard">
-    </a>
-    <figcaption><h4>Polestar 3 center speaker on dashboard</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/infotainment/audiosystem/polestar3centerspeaker_1_st.jpg" title="Polestar 3 center speaker on dashboard" >}}
 
 **A-pillar** Speakers installed here are usually small high-frequency sounds, such as tweeters.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/audiq4apillarspeaker.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/audiq4apillarspeaker_st.jpg" alt="Audi Q4 e-tron speaker in A-pillar" title="Audi Q4 e-tron speaker in A-pillar">
-    </a>
-    <figcaption><h4>Audi Q4 e-tron speaker in A-pillar</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/infotainment/audiosystem/audiq4apillarspeaker_st.jpg" title="Audi Q4 e-tron speaker in A-pillar" >}}
 
 **The doors** This is the area on the side of the car where the windows and door handles are located. Speakers installed here are usually larger and aimed at the passengers to create a direct sound. They are often used for mid-range and low-frequency sounds, such as woofers and mid-range drivers.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/bmwi7reardoorspeaker.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/bmwi7reardoorspeaker_st.jpg" alt="BMW i7 speaker in doors" title="BMW i7 speaker in doors">
-    </a>
-    <figcaption><h4>BMW i7 speaker in doors</h4></figcaption>
-</figur>
-
+{{< sitefigure thumb="technology/infotainment/audiosystem/bmwi7reardoorspeaker_st.jpg" title="BMW i7 speaker in doors" >}}
 
 **The rear deck:** This is the area behind the rear seats and below the rear window. Speakers installed here are usually large and aimed at the rear window to create a sound reflection. They are often used for low-frequency sounds, such as subwoofers.
 
 **Headrest:** Some Audio systems have speakers mounted in the headrest. 
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/speakersvolvoex90_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/speakersvolvoex90_1_st.jpg" alt="Headrest with speakers in Volvo EX90" title="Headrest with speakers in Volvo EX90">
-    </a>
-    <figcaption><h4>Headrest with speakers in Volvo EX90</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/infotainment/audiosystem/speakersvolvoex90_1_st.jpg" title="Headrest with speakers in Volvo EX90" >}}
 
 Depending on the type and quality of the audio system, a car may have different numbers and combinations of speakers in these locations. Some cars may have only two or four speakers, while others may have six, eight, or more speakers. Some cars may also have component speakers, which are separate units for different frequency ranges, or coaxial speakers, which are combined units for different frequency ranges. Some cars may also have amplifiers or equalizers to enhance or adjust the sound quality of the speakers.
 
@@ -97,12 +66,7 @@ Depending on the type and quality of the audio system, a car may have different 
 
 Amplifiers are used to increase the power of the audio signal and drive the speakers. They come in various sizes and power ratings, and selecting the right amplifier is critical for achieving the best sound quality. Amplifiers are typically classified by their number of channels, with mono, two-channel, four-channel, and even six-channel amplifiers available.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/bospeaker.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/infotainment/audiosystem/bospeaker_st.jpg" alt="Bang & Olufsen Amplifier" title="Bang & Olufsen Amplifier">
-    </a>
-    <figcaption><h4>Bang & Olufsen Amplifier</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/infotainment/audiosystem/bospeaker_st.jpg" title="Bang & Olufsen Amplifier" >}}
 
 ## Head Units
 

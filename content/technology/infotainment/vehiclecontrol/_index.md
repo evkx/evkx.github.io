@@ -17,12 +17,7 @@ Depending on model you typcal can change between modes that could change
 - Suspension hardness
 - Steering respons
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/infotainment/vehiclecontrol/mercedeseqe_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/infotainment/vehiclecontrol/mercedeseqe_1_st.jpg" alt="Mercedes EQE AMG veichle controls" title="Mercedes EQE AMG veichle controls">
-    </a>
-    <figcaption><h4>Mercedes EQE AMG veichle controls</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/infotainment/vehiclecontrol/mercedeseqe_1_st.jpg" title="Mercedes EQE AMG veichle controls" >}}
 
 ## Climate System
 
