@@ -8,12 +8,7 @@ weight: 3
 
 The system alerts the driver with visual and/or audible warnings to prevent a collision.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/driverassistance/rearcrosstrafficalert/illustration.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/driverassistance/rearcrosstrafficalert/illustration_st.jpg" alt="Rear Cross traffic alert" title="Rear Cross traffic alert">
-    </a>
-    <figcaption><h4>Rear Cross traffic alert can prevents accidents</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/driverassistance/rearcrosstrafficalert/illustration_st.jpg" title="Rear Cross traffic alert can prevents accidents" >}}
 
 ## How does it work?
 
@@ -27,12 +22,7 @@ If the system detects a vehicle approaching within a certain range, it will aler
 
 The warning can be in the form of an icon or a flashing light on the side mirrors, or a beep or a chime sound.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/driverassistance/rearcrosstrafficalert/illustration2.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/driverassistance/rearcrosstrafficalert/illustration2_st.jpg" alt="Rear Cross Traffic Alert - Mercedes Benz" title="Rear Cross Traffic Alert - Mercedes Benz">
-    </a>
-    <figcaption><h4>Rear Cross Traffic Alert - Mercedes Benz</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/driverassistance/rearcrosstrafficalert/illustration2_st.jpg" title="Rear Cross Traffic Alert - Mercedes Benz" >}}
 
 The driver can then take evasive action to prevent a collision.
 

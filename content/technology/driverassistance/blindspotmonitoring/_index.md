@@ -16,12 +16,7 @@ Some BSM systems also provide additional features, such as Rear Cross Traffic Al
 
 Blind Spot Monitoring can help improve safety on the roads by reducing the likelihood of collisions caused by driver error or misjudgment. However, it's important to note that BSM systems are not a substitute for attentive and safe driving practices, and drivers should always check their mirrors and look over their shoulder to ensure that the lane is clear before changing lanes or merging into traffic.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/driverassistance/blindspotmonitoring/illustration.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/driverassistance/blindspotmonitoring/illustration_st.jpg" alt="Blind Spot Monitoring Mercedes" title="Blind Spot Monitoring Mercedes">
-    </a>
-    <figcaption><h4>Blind Spot Monitoring Mercedes</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/driverassistance/blindspotmonitoring/illustration_st.jpg" title="Blind Spot Monitoring Mercedes" >}}
 
 Different manufacturers may use different names to refer to Blind Spot Monitoring (BSM) depending on the specific branding and marketing strategy of each company. Some of the common names used by manufacturers for their BSM systems include:
 

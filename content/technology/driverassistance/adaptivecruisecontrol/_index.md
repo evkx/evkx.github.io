@@ -12,12 +12,7 @@ It is an advanced version of traditional cruise control that adjusts your car's 
 
 ## How does it work?
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/driverassistance/adaptivecruisecontrol/illustration.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/driverassistance/adaptivecruisecontrol/illustration_st.jpg" alt="Illustration Adaptive Cruise Control Audi" title="Illustration Adaptive Cruise Control Audi">
-    </a>
-    <figcaption><h4>Illustration Adaptive Cruise Control Audi</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/driverassistance/adaptivecruisecontrol/illustration_st.jpg" title="Illustration Adaptive Cruise Control Audi" >}}
 
 **Sensors:** ACC uses radar or cameras to detect the distance between your car and the vehicle in front of you.
 

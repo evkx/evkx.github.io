@@ -10,12 +10,9 @@ This feature is particularly relevant when the car is parked in a busy area or o
 
 The exit warning system uses sensors, cameras, or radar to detect the presence of other vehicles, bicycles, or pedestrians in the vicinity of the car. When a potential hazard is detected, the system provides a warning to the driver or passengers in the form of an audible or visual alert.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/driverassistance/exitwarning/illustration.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/driverassistance/exitwarning/illustration_st.jpg" alt="Exit warning Audi" title="Exit warning Audi">
-    </a>
-    <figcaption><h4>Exit warning Audi</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/driverassistance/exitwarning/illustration_st.jpg" title="Exit warning Audi" >}}
+
+
 
 The warning may come in the form of a chime, a vibration, or a message on the car's display screen, indicating that it is not safe to open the door. The system may also activate the hazard lights to warn other drivers of the potential danger.
 
@@ -25,9 +22,4 @@ The exit warning ADAS system can work in different ways depending on the specifi
 
 Exit warning ADAS is a useful safety feature that can help prevent accidents and improve overall safety for drivers and passengers. By providing a warning before the door is opened, it can help to prevent collisions with other vehicles or cyclists, especially in urban areas with heavy traffic and limited visibility.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/driverassistance/exitwarning/illustration2.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/driverassistance/exitwarning/illustration2_st.jpg" alt="Exit warning Mercedes" title="Exit warning Mercedes">
-    </a>
-    <figcaption><h4>Exit warning Mercedes</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/driverassistance/exitwarning/illustration2_st.jpg" title="Exit warning Mercedes" >}}

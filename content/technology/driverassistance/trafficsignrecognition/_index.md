@@ -18,24 +18,13 @@ The software analyzes the images captured by the cameras and uses pattern recogn
 
 Once a road sign is recognized, the system may display the information on the dashboard, head-up display, or infotainment screen, depending on the vehicle model.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/driverassistance/trafficsignrecognition/illustration.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/driverassistance/trafficsignrecognition/illustration_st.jpg" alt="Illustration Attention Assist Mercedes-Benz" title="Illustration Attention Assist Mercedes-Benz">
-    </a>
-    <figcaption><h4>Traffic sign assist Mercedes-Benz</h4></figcaption>
-</figur>
-
+{{< sitefigure thumb="technology/driverassistance/trafficsignrecognition/illustration_st.jpg" title="Traffic sign assist Mercedes-Benz" >}}
 
 The information displayed may include the type of sign, its meaning, and sometimes even the distance to the sign or the speed limit.
 
 Some systems may also provide a warning or an alert if the driver fails to comply with the recognized sign.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/driverassistance/trafficsignrecognition/illustration2.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/driverassistance/trafficsignrecognition/illustration2_st.jpg" alt="Traffic sign assist Mercedes-Benz with warning" title="Traffic sign assist Mercedes-Benz with warning">
-    </a>
-    <figcaption><h4>Traffic sign assist Mercedes-Benz with warning</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/driverassistance/trafficsignrecognition/illustration2_st.jpg" title="Traffic sign assist Mercedes-Benz with warning" >}}
 
 Traffic Sign Recognition can help drivers stay aware of road conditions and regulations, especially when driving in unfamiliar areas or when visibility is poor. However, it is important to note that TSR is not infallible and can sometimes misinterpret or fail to detect certain signs, so it should not be relied on exclusively. Drivers should always keep an eye out for road signs and comply with them accordingly.
 

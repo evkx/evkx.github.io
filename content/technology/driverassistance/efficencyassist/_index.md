@@ -30,9 +30,4 @@ Some examples of car brands that offer this feature include:
 - BMW offers a feature called "EfficientDynamics" that provides real-time feedback to the driver and offers suggestions for more efficient driving techniques.
 - Audi offers a feature called "Efficiency Assist System" This system provides real-time feedback to the driver and offers suggestions for optimizing driving behavior to maximize range and efficiency.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/driverassistance/efficencyassist/illustration.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/driverassistance/efficencyassist/illustration_st.jpg" alt="Effiency assist in Audi suggestion to take the foot of the accelerator" title="Effiency assist in Audi suggestion to take the foot of the accelerator">
-    </a>
-    <figcaption><h4>Effiency assist in Audi suggestion to take the foot of the accelerator</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/driverassistance/efficencyassist/illustration_st.jpg" title="Effiency assist in Audi suggestion to take the foot of the accelerator" >}}
