@@ -12,23 +12,13 @@ weight: 2
 
 **Rotor:** The rotor of a PMSM contains permanent magnets that generate a fixed magnetic field. The magnets are typically made of materials such as neodymium iron boron (NdFeB) or samarium cobalt (SmCo) that have high magnetic strength.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/motors/pmsm/porschetaycanrotor.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/motors/pmsm/porschetaycanrotor_st.jpg" alt="Porsche Taycan Rotor" title="Porsche Taycan Rotor">
-    </a>
-    <figcaption><h4>Porsche Taycan Rotor with permanent magnets</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/motors/pmsm/porschetaycanrotor_st.jpg" title="Porsche Taycan Rotor with permanent magnets" >}}
 
 Typical the rotor has 6 or 8 magnetic poles.
 
 **Stator:** The stator is the stationary part of the motor and consists of windings that are wound around the stator poles. These windings are usually made of copper and are supplied with alternating current (AC) to create a magnetic field that interacts with the rotor.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/motors/pmsm/porschetaycanstator.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/motors/pmsm/porschetaycanstator_st.jpg" alt="Porsche Taycan Stator" title="Porsche Taycan Stator">
-    </a>
-    <figcaption><h4>Porsche Taycan Stator</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/motors/pmsm/porschetaycanstator_st.jpg" title="Porsche Taycan Stator" >}}
 
 **Commutation:** The PMSM relies on electronic commutation to control the direction and speed of the motor. Sensors, such as Hall effect sensors or encoders, are used to detect the position of the rotor and provide feedback to the motor controller. Based on this feedback, the motor controller determines when and how to switch the stator windings on and off to create a rotating magnetic field that drives the rotor.
 
@@ -60,12 +50,8 @@ Another advantage of synchronous motors is their ability to achieve high efficie
 In the case of permanent magnet motors, which have magnets in the rotor, can generate more drag when the motor is not powered. The magnets in the rotor create a fixed magnetic field, which can create additional resistance to the rotor's motion, resulting in higher motor drag compared to induction motors. However, the drag from the permanent magnet motor can also depend on the specific design and control strategy employed, as some permanent magnet motors may have reduced drag due to advanced motor control techniques.
 
 Some EV manufacturers have uses a clutch to decouple the motor from the drivetrain, effectively disengaging the motor from the wheels and allowing the vehicle to roll without any drag from the motor. This can help reduce the resistance felt by the wheels when the motor is not powered, which can potentially improve the vehicle's efficiency and reduce energy consumption.
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/motors/pmsm/mercedeseqesuvfrontmotordisconnect.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/motors/pmsm/mercedeseqesuvfrontmotordisconnect_st.jpg" alt="Mercedes EQE Suv with clutch that disconnects front motor when coasting" title="Mercedes EQE Suv with clutch that disconnects front motor when coasting">
-    </a>
-    <figcaption><h4>Mercedes EQE Suv with clutch that disconnects front motor when coasting</h4></figcaption>
-</figur>
+
+{{< sitefigure thumb="technology/motors/pmsm/mercedeseqesuvfrontmotordisconnect_st.jpg" title="Mercedes EQE Suv with clutch that disconnects front motor when coasting" >}}
 
 Others uses Induction Motors in front and PSMS in rear. Example are all care based on Volkswagen MEB platform.
 

@@ -10,12 +10,7 @@ In this extensive article, we will take an in-depth look at motors and drive uni
 
 First, we will explain the common principles of electric motors.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/motors/vwapp550.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/motors/vwapp550_st.jpg" alt="Electric drive unit" title="Electric drive unit">
-    </a>
-    <figcaption><h4>VW Electric drive unit parts.</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/motors/vwapp550_st.jpg" title="VW Electric drive unit parts." >}}
 
 Then we will explore the different types of motors utilized in electric cars, from permanent magnet motors to induction motors.
 
@@ -39,12 +34,7 @@ Whether you’re an EV enthusiast, an automotive engineer, or simply curious abo
 
 Even though there exist several types of electric motors, the principles are the same. Electric motors work based on the principles of electromagnetism. They consist of a stator and a rotor, with the stator being a stationary part and the rotor being a rotating part.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/motors/asyncronmotor.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/motors/asyncronmotor_st.jpg" alt="Electric drive unit" title="Electric drive unit">
-    </a>
-    <figcaption><h4>Stator & Rotor</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/motors/asyncronmotor_st.jpg" title="Stator & Rotor." >}}
 
 The stator contains coil windings that are connected to a power source, which generates an electric current that flows through the windings, creating a magnetic field.
 
@@ -104,11 +94,7 @@ Electric vehicles (EVs) can use various motor setups depending on the specific d
 
 **Tri-motor setup:** A tri-motor setup is similar to a dual-motor design but with three electric motors instead of two. This setup is rare and used in high-performance models like Tesla Model S Plaid and Audi SQ8 e-tron. One advantage is the possibility of torque vectoring.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/motors/trimotorsetupaudi.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/motors/trimotorsetupaudi_st.jpg" alt="Tri motor setup" title="Tri motor setup">
-    </a>
-    <figcaption><h4>Tri-motor setup</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/motors/trimotorsetupaudi_st.jpg" title="Tri-motor setup" >}}
+
 
 The choice of motor setup depends on various factors, including the desired performance, efficiency, cost, and packaging constraints of the EV, as well as the target market and application. As a result, different motor setups offer other advantages and trade-offs in performance, efficiency, complexity, and cost. Therefore, EV manufacturers carefully select the appropriate motor setup based on their requirements and design considerations.
