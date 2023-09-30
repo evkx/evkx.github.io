@@ -4,6 +4,8 @@ linktitle: Verify battery health
 description: It is possible with simple math to verify the overall status of your battery. This guide explains how.
 weight: 1
 ---
+<!-- markdownlint-disable MD033 -->
+
 
 When the battery degrades the available battery capacity reduces. This causes a shorter range.
 
@@ -76,8 +78,6 @@ For the people that love to keep track of this, we recommend  tracking this from
 
 The following example show the stats from an e-tron 55 2020v1 with 83.6kWh capacity from it was new.
 
-![Graph](https://media.electrichasgoneaudi.net/multimedia/guides/checkingbatteryhealth/graph1.jpg "Tracking of actual battery capacity compared with total consumption")
+{{< sitefigure thumb="guides/checkingbatteryhealth/graph1_st.jpg" title="Tracking of actual battery capacity compared with total consumption" >}}
 
-![Graph](https://media.electrichasgoneaudi.net/multimedia/guides/checkingbatteryhealth/graph2.jpg "Tracking of actual battery capacity compared with consumption kWh/100 km")
-
-
+{{< sitefigure thumb="guides/checkingbatteryhealth/graph2_st.jpg" title="Tracking of actual battery capacity compared with consumption kWh/100 km" >}}

@@ -48,7 +48,7 @@ Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos)
 
 ## Out of spec Reviews
 
-![Out of spec Reviews](https://media.evkx.net/multimedia/guides/evreviewers/outofspecreviews.jpg)
+{{< sitefigure thumb="guides/evreviewers/outofspecreviews.jpg" title="Out of spec Reviews" >}}
 
 Out of Spec Reviews is a YouTube channel that focuses on reviewing electric vehicles and highlighting their capabilities beyond what is typically advertised by manufacturers. The channel is run by Kyle Conner and his team, who are passionate about EVs and adventure travel.
 

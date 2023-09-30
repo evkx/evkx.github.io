@@ -1,0 +1,11 @@
+<figure>
+    {{ $url := .Get "thumb" | replaceRE "_st" "" }}
+    <a href="https://media.evkx.net/multimedia/{{ $url }}">
+        <img src="https://media.evkx.net/multimedia/{{ .Get "thumb" }}" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" class="img-fluid">
+    </a>
+    <figcaption>
+        <p class="lead text-center fw-semibold">
+            {{ .Get "title" }}
+        </p>
+    </figcaption>
+</figure>
