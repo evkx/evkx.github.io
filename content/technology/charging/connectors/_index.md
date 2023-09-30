@@ -14,25 +14,13 @@ A way to classify charging ports is by their charging connector, which is the ph
 
 J1772 is the standard Level 1 and Level 2 charging connector for all American EVs except Teslas. It was created by the [Society of Automotive Engineers](https://www.sae.org/standards/content/j1772_201710/) (SAE) and works with any Level 1 or Level 2 charger in the US. It has a round shape with five pins and a latch. It can deliver up to 19.2 kW of power.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/j1772_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/j1772_1_st.jpg"
-        alt="Audi e-tron J1772 charge port" title="Audi e-tron J1772 charge port">
-    </a>
-    <figcaption><h4>Audi e-tron J1772 charge port</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/connectors/j1772_1_st.jpg" title="Audi e-tron J1772 charge port" >}}
 
 ### Type 2
 
 Type 2 is the standard Level 2 charging connector for European EVs. It was created by the International Electrotechnical Commission (IEC) and works with any Level 1 or Level 2 charger in Europe. It has a round shape with seven pins and a latch. It can deliver up to 43 kW of power.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/type2_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/type2_1_st.jpg"
-        alt="Audi e-tron GT type 2 charge port" title="Audi e-tron GT type 2 charge port">
-    </a>
-    <figcaption><h4>Audi e-tron GT type 2 charge port</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/connectors/type2_1_st.jpg" title="Audi e-tron GT type 2 charge port" >}}
 
 ### CCS
 
@@ -46,25 +34,13 @@ It comes in two versions
 
 It has a round shape with two additional DC pins below the J1772 connector. It can deliver up to 350 kW of power with a maximum of 920 Volts. It is used in North America.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo1_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo1_1_st.jpg"
-        alt="CCS Combo 1 port with J1772 for AC charging" title="CCS Combo 1 port with J1772 for AC charging">
-    </a>
-    <figcaption><h4>CCS Combo 1 port with J1772 for AC charging</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/connectors/ccscombo1_1_st.jpg" title="CCS Combo 1 port with J1772 for AC charging" >}}
 
 #### CCS Combo 2
 
 It has a round shape with two additional DC pins below the type 2 connector. It can deliver up to 350 kW of power with a maximum of 920 Volts. This version is used in Europe on all brands.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_2.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_2_st.jpg"
-        alt="CCS Combo 2 port with Type 2 for AC charging" title="CCS Combo 2 port with Type 2 for AC charging">
-    </a>
-    <figcaption><h4>CCS Combo 2 port with Type 2 for AC charging</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/connectors/ccscombo2_2_st.jpg" title="CCS Combo 2 port with Type 2 for AC charging" >}}
 
 ### NACS (Tesla)
 
@@ -76,36 +52,17 @@ The [standard](https://tesla-cdn.thron.com/static/HXVNIC_North_American_Charging
 
 EVKX.net expect others to follow soon.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_1_st.jpg"
-        alt="NACS connector / Tesla connector" title="NACS connector / Tesla connector">
-    </a>
-    <figcaption><h4>NACS connector / Tesla connector</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/connectors/nacs_1_st.jpg" title="NACS connector / Tesla connector" >}}
 
 NACS is smaller and lighter than CCS Combo 1, which makes it easier to handle and plug in.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_2.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_2_st.jpg"
-        alt="NACS connector / Tesla connector" title="NACS connector / Tesla connector">
-    </a>
-    <figcaption><h4>NACS connector / Tesla connector compared with CCS Combo 1</h4></figcaption>
-</figure>
-
+{{< sitefigure thumb="technology/charging/connectors/nacs_2_st.jpg" title="NACS connector / Tesla connector compared with CCS Combo 1" >}}
 
 ### CHAdeMO
 
 CHAdeMO is the standard Level 3 charging connector for most Japanese EVs, such as Nissan, Mitsubishi, and Toyota. It stood for CHArge de MOve and was created by a [consortium of Japanese companies and organizations](https://www.chademo.com/). It is round, with two large DC pins and two small communication pins. It can deliver up to 62.5 kW of power.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/chademo_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/chademo_1_st.jpg"
-        alt="Nissan Leaf Chademo port" title="Nissan Leaf Chademo port">
-    </a>
-    <figcaption><h4>Nissan Leaf Chademo port</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/connectors/chademo_1_st.jpg" title="Nissan Leaf Chademo port" >}}
 
 ## Charge port location
 
@@ -115,55 +72,22 @@ EVs have different locations for their charge port. Here are the most common
 
 This is a very common location since all Tesla models have this location.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/rearcornerport_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/rearcornerport_1_st.jpg"
-        alt="Tesla Model 3 with rear corner port" title="Tesla Model 3 with rear corner port">
-    </a>
-    <figcaption><h4>Tesla Model 3 with rear corner port</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/connectors/rearcornerport_1_st.jpg" title="Tesla Model 3 with rear corner port" >}}
 
 ### Front side
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/frontsideport_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/frontsideport_1_st.jpg"
-        alt="Audi e-tron GT with front side port" title="Audi e-tron GT with front side port">
-    </a>
-    <figcaption><h4>Audi e-tron GT with front side port</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/charging/connectors/frontsideport_1_st.jpg" title="Audi e-tron GT with front side port" >}}
 
 ### Rear Side
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/rearsideport_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/rearsideport_1_st.jpg"
-        alt="Audi Q4 e-tron with rear side port" title="Audi Q4 e-tron with rear side port">
-    </a>
-    <figcaption><h4>Audi Q4 e-tron with rear side port</h4></figcaption>
-</figure>
-
+{{< sitefigure thumb="technology/charging/connectors/rearsideport_1_st.jpg" title="Audi Q4 e-tron with rear side port" >}}
 
 ### Front Corner
 
 Front corner is used by some and can be a benefit if you are towing a trailer.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/frontcornerport_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/frontcornerport_1_st.jpg"
-        alt="Rivian R1S with left front corner location of charge port" title="Rivian R1S with left front corner location of charge port">
-    </a>
-    <figcaption><h4>Rivian R1S with left front corner location of charge port</h4></figcaption>
-</figure>
-
+{{< sitefigure thumb="technology/charging/connectors/frontcornerport_1_st.jpg" title="Rivian R1S with left front corner location of charge port" >}}
 
 ### Front
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/charging/connectors/frontport_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/charging/connectors/frontport_1_st.jpg"
-        alt="Kia Niro EV with front charge port" title="Kia Niro EV with front charge port">
-    </a>
-    <figcaption><h4>Kia Niro EV with front charge port</h4></figcaption>
-</figure>
-
+{{< sitefigure thumb="technology/charging/connectors/frontport_1_st.jpg" title="Kia Niro EV with front charge port" >}}
