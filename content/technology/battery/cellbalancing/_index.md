@@ -7,7 +7,7 @@ weight: 8
 <!-- markdownlint-disable MD033 -->
 Cell balancing is needed when a group of cells has higher or lower SOC than other groups of cells.
 
-![Cell balancing](cellbalancing.drawio.svg "Cell balancing")
+<img src="cellbalancing.drawio.svg" class="img-fluid">
 
 In this example, the top group of cells is 100% charged and the charging procedure is complete.
 However, the high-voltage battery charge level is only 96 %. Balancing means that this cell is now discharged via a resistor and can thereby continue to be charged until all cells have reached the same charge level. This allows the high-voltage battery to achieve its maximum capacitance.

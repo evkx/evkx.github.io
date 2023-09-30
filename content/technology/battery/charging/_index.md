@@ -11,7 +11,8 @@ During the charging process, electrons flow from the charging source (e.g., char
 
 When the battery is fully charged, the cathode material is at its maximum capacity to store electrons, and the anode is fully depleted of positive ions. The battery is in a stable state with a high potential difference between the cathode and the anode, which is what provides the electric energy stored in the battery.
 
-![Battery charging](batteryconceptcharging.drawio.svg "Charging process")
+<img src="batteryconceptcharging.drawio.svg" class="img-fluid">
+
 
 The charging process is reversible, and during discharge, the electrons flow back from the cathode to the anode through an external circuit, creating a flow of electric current that can power an electric motor.
 
@@ -21,13 +22,7 @@ The charging process is reversible, and during discharge, the electrons flow bac
 
 The charging performance varies a lot between EVs. Several aspects affect the charging speed of EVs they are.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/battery/charging/charging_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/battery/charging/charging_1_st.jpg"
-        alt="Kia EV6 GT charging at Ionity" title="Kia EV6 GT charging at Ionity">
-    </a>
-    <figcaption><h4>Kia EV6 GT charging at Ionity</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/charging/charging_1_st.jpg" title="Kia EV6 GT charging at Ionity" >}}
 
 #### The pack configuration
 
@@ -53,13 +48,7 @@ The manufacturer decides the curve based on various inputs. The input could be t
 
 Some manufacturers also limit the number of High-speed charging sessions during a period. Toytota BZ4X is one model that Toyota launched with a limitation of only two high-speed sessions during 24 hours. More charging would be at a low speed.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/technology/battery/charging/taycancharging_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/battery/charging/taycancharging_1_st.jpg"
-        alt="Porsche Taycan charging" title="Porsche Taycan charging">
-    </a>
-    <figcaption><h4>Porsche Taycan charging</h4></figcaption>
-</figure>
+{{< sitefigure thumb="technology/battery/charging/taycancharging_1_st.jpg" title="Porsche Taycan charging" >}}
 
 Porsche Taycan is a model where the owner can set a ‘battery-friendly’ charging speed as max to decrease degradation. A Taycan can initially charge with up to 270KW speed. With this setting enabled, it is limited to 200KW.
 
@@ -71,17 +60,17 @@ The following are some examples of EVs with different types of charging performa
 
 [Lucid Air Dream Edition Performance](/models/lucid/air/air_dream_edition_performance/chargingcurve/) is the first example. It has an extreme top charging speed of over 300kW but falls quickly.
 
-![Image](/models/lucid/air/air_dream_edition_performance/chargingcurve.svg)
+<img src="/models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
 
 [Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve7/) is the next example.  This model is one of the fastest-charging EVs with high speed and a much flatter curve than the Lucid Air.
 
-![Image](/models/kia/ev6/ev6_gt/chargingcurve.svg)
+<img src="/models/kia/ev6/ev6_gt/chargingcurve.svg" class="img-fluid">
 
 {{<evkxdisplayaddarticle />}}
 
 [Nissan Aryia](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/) This model does not have a very high top peak, but the curve is relatively flat.
 
-![Image](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve.svg)
+<img src="/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve.svg" class="img-fluid">
 
 On longer trips, the charging curve may affect the optimum charging stop. For example, a flatter curve would benefit those who prefer longer stops, while a curve with high peaks benefits short stops, and you charge around the peak area.
 

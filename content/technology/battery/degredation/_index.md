@@ -22,13 +22,7 @@ High temperatures can accelerate the rate of calendar aging, which is why it is 
 
 To prevent or minimize the impact of calendar aging on EV batteries, it is recommended to follow manufacturer guidelines for battery storage and charging.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/evstoragestress.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/evstoragestress.png"
-        alt="Storage stress" title="Storage stress">
-    </a>
-    <figcaption><h4>Storage stress</h4></figcaption>
-</figure>
+{{< sitefigure thumb="guides/degradation/evstoragestress_st.png" title="Storage stress" >}}
 
 ## Cycle aging
 
@@ -42,13 +36,7 @@ During cycle aging, the active materials in the electrodes can degrade and lose 
 
 The below diagram shows how the SOC area used when charging/discharging affect the degradation
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/dstcycles.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/dstcycles.png"
-        alt="Cycle stress" title="Cycle stress">
-    </a>
-    <figcaption><h4>Cycle stress</h4></figcaption>
-</figure>
+{{< sitefigure thumb="guides/degradation/dstcycles_st.png" title="Cycle stress" >}}
 
 ### Charging speed effect on cycle aging
 

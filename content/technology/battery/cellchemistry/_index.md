@@ -106,11 +106,36 @@ Some of the challenges of LMFP battery chemistry are:
 
 The below table summaries the differences
 
-| Chemistry | NCA | NMC |  LFP|
-|------|-----------|----------|--------|
-|Gravimetric density | 240-272 Wh/kg | 200-272 Wh/kg | 90-120Wh/kg |
-|Volummetric density | 580-720 Wh/l | 500 - 620 Wh/l | 220-300 Wh/l|
-|Cycles | 500-1000 | 1000-2000 | 2000 - 5000 |
+<table class="table table-striped">
+<thead>
+<tr>
+<th>#</th>
+<th>NCA</th>
+<th>NMC</th>
+<th>LFP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gravimetric density</td>
+<td>240-272 Wh/kg</td>
+<td>200-272 Wh/kg</td>
+<td>90-120Wh/kg</td>
+</tr>
+<tr>
+<td>Volummetric density</td>
+<td>580-720 Wh/l</td>
+<td>500 - 620 Wh/l</td>
+<td> 220-300 Wh/l</td>
+</tr>
+<tr>
+<td>Cycles</td>
+<td>500-1000</td>
+<td>1000-2000</td>
+<td>2000 - 5000</td>
+</tr>
+</tbody>
+</table>
 
 ## Seperator
 
