@@ -19,21 +19,15 @@ You should try to charge at home at much as possible.
 Most EV's has a buffer to protect the battery.
 But many people believe this buffer protects it against charging to 100%. But in most cases, all or almost all buffer is on the bottom to protect the battery from running empty.
 
-<a src="buffersize.png">
-    <img src="buffersize.png"  alt="Buffer size" class="img-fluid">
-</a>
+{{< sitefigure thumb="guides/protectingbattery/buffersize_st.png" title="Buffer size" >}}
 
 Most EV brands recommends not to charge more than 80% on daily basis. This is shown in the MMI and the user manual.
 
-<a src="chargingtarget.png">
-    <img src="chargingtarget.png"  alt="Charging target" class="img-fluid">
-</a>
+{{< sitefigure thumb="guides/protectingbattery/chargingtarget_st.png" title="Buffer size" >}}
 
 The graph below shows a generalized stress level depending on the charge level.
 
-<a src="evstoragestress.png">
-    <img src="evstoragestress.png"  alt="Storage stress" class="img-fluid">
-</a>
+{{< sitefigure thumb="guides/protectingbattery/evstoragestress_st.png" title="Storage stress" >}}
 
 Based on this the optimal is probably to keep it between 30 and 70%, but how much better it is compared to just charge to 100% is impossible to know.
 
@@ -45,9 +39,7 @@ The number of charge cycles affects the degradation.
 
 The diagram below shows hows the battery degrade based on charging habits.
 
-<a src="dstcycles.png">
-    <img src="dstcycles.png"  alt="DST Cycles" class="img-fluid">
-</a>
+{{< sitefigure thumb="guides/protectingbattery/dstcycles_st.png" title="DST Cycles" >}}
 
 Based on this, the best is to keep the charging levels around 50%.
 

@@ -8,7 +8,7 @@ weight: 3
 
 ## Bjørn Nyland
 
-![Bjørn Nyland](https://media.evkx.net/multimedia/guides/evreviewers/bjornyland.jpg)
+{{< sitefigure thumb="guides/evreviewers/bjornyland_st.jpg" title="Bjørn Nyland" >}}
 
 Bjørn Nyland is a Norwegian electric vehicle enthusiast and YouTuber who has gained a following for his long-distance tests of electric vehicles. He is known for his thorough and objective reviews of EVs, often testing them in extreme conditions and documenting his experiences in videos that are informative and entertaining.
 
@@ -24,7 +24,7 @@ Visit his Youtube Channel and subscribe [here](https://www.youtube.com/@bjornnyl
 
 ## Kris Rifa
 
-![Kris Rifa](https://media.evkx.net/multimedia/guides/evreviewers/krisrifa.jpg)
+{{< sitefigure thumb="guides/evreviewers/krisrifa_st.jpg" title="Kris Rifa" >}}
 
 As Bjørn Nyland, he is a Norwegian testing various models through some standard tests.
 
@@ -36,7 +36,7 @@ Visit his Youtube Channel [here](https://www.youtube.com/c/krisrifa).
 
 ## Autogefühl
 
-![Autogefühl](https://media.evkx.net/multimedia/guides/evreviewers/autogefuhl.jpg)
+{{< sitefigure thumb="guides/evreviewers/autogefuhl_st.jpg" title="Autogefühl" >}}
 
 Autogefühl is a popular YouTube channel that focuses on providing in-depth, detailed reviews of cars and providing automotive news and updates. The channel is known for its comprehensive and objective reviews, covering various aspects of a car's performance, design, technology, and practicality. Autogefühl's reviews are typically conducted by its host, Thomas Majchrzak, who has a background in automotive engineering and a passion for cars.
 
@@ -48,7 +48,7 @@ Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos)
 
 ## Out of spec Reviews
 
-{{< sitefigure thumb="guides/evreviewers/outofspecreviews.jpg" title="Out of spec Reviews" >}}
+{{< sitefigure thumb="guides/evreviewers/outofspecreviews_st.jpg" title="Out of spec Reviews" >}}
 
 Out of Spec Reviews is a YouTube channel that focuses on reviewing electric vehicles and highlighting their capabilities beyond what is typically advertised by manufacturers. The channel is run by Kyle Conner and his team, who are passionate about EVs and adventure travel.
 

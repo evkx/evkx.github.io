@@ -110,7 +110,6 @@ The loading capacity varies a lot between the models. EVKX sorts the models base
 - [Max loading weight, including driver](/evsearch/?sortOrder=MaxLoadDesc)
 - [Max Trailer capacity](/evsearch/?sortOrder=MaxTrailerSizeDesc)
 
-
 ### Ground clearance
 
 This sort orders focus on the ground clearance
@@ -132,16 +131,7 @@ The database lets you sort on different size and weight specifications.
 
 Made famous by the 10% challenge from [Kyle Connor and his Out of Spec channel](../evreviewers/) on YouTube,  EVKX offers two sorts of models around the scenario that on road trips, drivers will charge their EV when the state of charge reaches around 10% and will want to charge a given time after he had time to stretch his legs, visiting a bathroom and maybe get something to eat.
 
-<figure>
-    <a href="https://media.evkx.net/multimedia/guides/evsearch/10percentchallenge.jpg">
-        <img src="https://media.evkx.net/multimedia/guides/evsearch/10percentchallenge_st.jpg" alt="Out of spec first 10% challenge was Tesla Model Y" title="Out of spec first 10% challenge was Tesla Model Y" class="img-fluid">
-    </a>
-     <figcaption>
-        <p class="lead text-center fw-semibold">
-           Out of spec first 10% challenge was Tesla Model Y
-        </p>
-    </figcaption>
-</figure>
+{{< sitefigure thumb="guides/evsearch/10percentchallenge_st.jpg" title="Out of spec first 10% challenge was Tesla Model Y" >}}
 
 Depending on charging speed and consumption, you can drive the car a distance before the next charging session. Higher charging speed and lower consumption reduced the number of charging sessions for a road trip. 
 
