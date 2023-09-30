@@ -37,13 +37,7 @@ The most common systems are:
 
 The level of autonomous driving, also known as the autonomy level, refers to the degree of automation and control a vehicle has over its operation. 
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/driverassistance/illustration.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/driverassistance/illustration_st.jpg" alt="Mercedes EQS with level 3 autonomous  driving" title="Mercedes EQS with level 3 autonomous  driving">
-    </a>
-    <figcaption><h4>Mercedes EQS with level 3 autonomous  driving</h4></figcaption>
-</figur>
-
+{{< sitefigure thumb="technology/driverassistance/illustration_st.jpg" title="Mercedes EQS with level 3 autonomous  driving" >}}
 
 There are six levels of autonomy defined by the Society of Automotive Engineers ([SAE](https://www.sae.org/)) that describe the increasing levels of automation and decreasing need for human input:
 
