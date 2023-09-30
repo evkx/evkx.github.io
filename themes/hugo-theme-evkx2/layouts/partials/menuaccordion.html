@@ -91,16 +91,7 @@
 <li>
   <a href="{{ .RelPermalink}}" class="evkx-links-link d-inline-block rounded">
     {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}
-
-    {{if .Params.titleSup }}
-      <sup>{{.Params.titleSup}}</sup>
-    {{end}}
-
     {{ $numberOfPages :=  (len (where .Pages "Params.hidden" "ne" true)) }}
-
-    {{ if ne $numberOfPages 0 }}
-
-    {{ end }}
   </a>
   {{ if ne $numberOfPages 0 }}
   <ul class="list fw-normal pb-2 small">
