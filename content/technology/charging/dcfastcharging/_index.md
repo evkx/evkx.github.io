@@ -95,7 +95,7 @@ Here are some of the largest EV charging networks in the US:
     <figcaption><h4>Tesla Supercharger location</h4></figcaption>
 </figure>
 
-- [Tesla Superchargers](https://www.tesla.com/findus/list/superchargers/United+States): Tesla's Supercharger network is the largest in the country, with less distance between stations compared to Electrify America.
+- [Tesla Superchargers](https://www.tesla.com/findus/list/superchargers/United+States): Tesla's Supercharger network is the largest in the country, with less distance between stations compared to Electrify America. Most Superchargers requires NACS Port on the EV, but they are building out chargers with Magic Dock that supports CCS1 EVs. See chargers [here](https://www.tesla.com/findus?v=2&bounds=60.61822541172234%2C-37.567384000000004%2C18.24809425121173%2C-150.067384&zoom=5&filters=party)
 
 - [EVgo](https://www.evgo.com/): DC fast charging isn't limited to road trips. EVgo has over **800 fast charging locations** across 34 states and more than 65 metropolitan areas.
 

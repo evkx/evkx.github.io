@@ -50,4 +50,4 @@ When this happens the available ions in the battery are reduced. Higher speed ch
 - Don't park the car in extreme heat
 - Limit high-speed charging.
 
-Continue to [manufactors](../manufactors/) or go back to the [article overview](../).
+Continue to [buffer](../buffer/) or go back to the [article overview](../).

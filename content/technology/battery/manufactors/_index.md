@@ -42,3 +42,6 @@ In addition serveral EVs companies are now building their own factories. Like Vo
 In addition many just buy cells from cell producers and create the battery itself.
 
 [For a full list of cell producers see Batterydesign.net](https://www.batterydesign.net/battery-cell/cell-manufacturers/)
+
+
+Continue to [warranty](../warranty/) or go back to the [article overview](../).

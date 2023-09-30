@@ -24,7 +24,6 @@ The cathode is the electrode where reduction occurs during the discharge cycle o
 
 In a lithium-ion battery, the cathode is typically made of a metal oxide, such as lithium cobalt oxide (LCO), lithium nickel cobalt manganese oxide (NMC), or lithium iron phosphate (LFP). The choice of cathode material can have a significant impact on the performance, safety, and cost of the battery.
 
-{{<evkxdisplayaddarticle />}}
 
 ### Lithium nickel manganese cobalt oxides (NMC)
 
@@ -54,7 +53,7 @@ However, NCA cathodes can be sensitive to high temperatures, which can cause the
 
 Overall, NCA cathodes offer a good balance between energy density and power density, making them a popular choice for EVs that require high performance and long driving range. However, their sensitivity to high temperatures means they require careful thermal management to maintain their performance and lifespan.
 
-{{<evkxdisplayaddarticle />}}
+
 
 ### Lithium iron phosphate battery (LFP)
 
@@ -158,8 +157,6 @@ Liquid electrolytes in lithium-ion batteries consist of lithium salts in an orga
 A liquid electrolyte acts as a conductive pathway for the movement of cations passing from the negative to the positive electrodes during discharge and the opposite direction when charging.
 
 Electrolytes based on solid materials are areas that many works on. These are called [solid-state batteries](https://en.wikipedia.org/wiki/Solid-state_battery). Currently, there are no concrete plans for any mass production EV with Solid-state batteries.
-
-{{<evkxdisplayaddarticle />}}
 
 ## Current collector
 

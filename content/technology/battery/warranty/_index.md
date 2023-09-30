@@ -12,19 +12,73 @@ In terms of capacity, some EV manufacturers may offer a warranty that guarantees
 
 The warranty may also take into account the age of the battery. For example, a manufacturer might offer a warranty that covers any defects in materials or workmanship for the first 3 years, and then cover the battery against a drop in capacity below a certain level for an additional 5 years.
 
-| Manufacturer | Driving Distance | Minimum Remaining Capacity | Age |
-| ------------ | ---------------- | -------------------------- | --- |
-| Tesla        | 120,000 miles     | 70%                        | 8 years |
-| Audi         | 100,000 miles    | 70%                        | 8 years |
-| Chevrolet    | 100,000 miles    | 60%                        | 8 years |
-| Ford         | 100,000 miles    | N/A                        | 8 years |
-| Nissan       | 100,000 miles    | 75%                        | 8 years |
-| Hyundai      | Unlimited        | 70%                        | 10 years |
-| Kia          | Unlimited        | 70%                        | 10 years |
-| Toyota       | 600.000 miles     70%                        | 10 years |
-| Mercedes (EQA,EQB,EQC)       | 100,000 miles              | N/A                        | 8 years |
+<table class="table table-striped">
+<thead>
+<tr>
+    <th>Manufacturer</th>
+    <th>Driving Distance</th>
+    <th>Minimum Remaining Capacity</th>
+    <th>Age</th>
+</tr>
 
+</thead>
+<tbody>
+<tr>
+    <td>Tesla</td>
+    <td>120,000 miles</td>
+    <td>70%</td>
+    <td>8 years</td>
+</tr>
+<tr>
+    <td>Audi</td>
+    <td>100,000 miles</td>
+    <td>70%</td>
+    <td>8 years</td>
+</tr>
+<tr>
+    <td>Chevrolet</td>
+    <td>100,000 miles</td>
+    <td>60%</td>
+    <td>8 years</td>
+</tr>
+<tr>
+    <td>Ford</td>
+    <td>100,000 miles</td>
+    <td>N/A</td>
+    <td>8 years</td>
+</tr>
+<tr>
+    <td>Nissan</td>
+    <td>100,000 miles</td>
+    <td>75%</td>
+    <td> 8 years</td>
+</tr>
+<tr>
+    <td>Hyundai</td>
+    <td>Unlimited</td>
+    <td>70%</td>
+    <td>10 years</td>
+</tr>
+<tr>
+    <td>Kia</td>
+    <td>Unlimited</td>
+    <td>70%</td>
+    <td>10 years</td>
+</tr>
+<tr>
+    <td>Toyota</td>
+    <td>600.000 miles</td>
+    <td>70%</td>
+    <td>10 years</td>
+</tr>
+<tr>
+    <td>Mercedes (EQA,EQB,EQC)</td>
+    <td>100,000 miles</td>
+    <td>N/A</td>
+    <td>8 years</td>
+</tr>
+
+</body>
+</table>
 
 It's important to note that the specific terms of the warranty can vary widely between manufacturers, so it's always a good idea to carefully review the warranty information before purchasing an EV.
-
-

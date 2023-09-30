@@ -6,6 +6,10 @@ weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+
+
 In this article, we will explore the different types of EV batteries, how they work, their advantages and disadvantages, and the latest developments in EV battery technology. We will also discuss the environmental impact of EV batteries. 
 
 {{< sitefigure thumb="technology/battery/bmwixbattery_1_st.jpg" title="BMW iX Battery pack" >}}
@@ -23,7 +27,11 @@ We have split the article into separate sections.
 - [Charging](charging) - How charging works
 - [Cell Balancing](cellbalancing) - What is cell balancing
 - [Degradation](degredation) -  What happens when the battery degrades? How to reduce it?
+- [Buffer](buffer) - Understand buffer
 - [Manufacturers](manufactors) - What are the largest battery producers?
 - [Warranty](warranty) - What kind of battery warranty is common?
+
   
 {{<evkxdisplayaddarticle />}}
+
+
