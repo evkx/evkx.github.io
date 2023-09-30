@@ -7,13 +7,7 @@ weight: 3
 <!-- markdownlint-disable MD033 -->
  Interior ambient lighting has evolved from a functional feature to a design element that can elevate the aesthetics of the car's interior, creating a unique and personalized environment for the driver and passengers.
 
-
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/ambientlighting/mercedeseqsambientlighting_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/ambientlighting/mercedeseqsambientlighting_1_st.jpg" alt="Mercedes EQS Ambient lighting" title="Mercedes EQS Ambient lighting">
-    </a>
-    <figcaption><h4>Mercedes EQS Ambient lighting</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/lights/ambientlighting/mercedeseqsambientlighting_1_st.jpg" title="Mercedes EQS Ambient lighting" >}}
 
 
 ## What is Interior Ambient Lighting?

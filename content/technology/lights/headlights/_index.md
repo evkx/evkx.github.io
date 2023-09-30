@@ -6,12 +6,7 @@ weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/bmwi7headlights.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/bmwi7headlights_st.jpg" alt="BMW i7 headlights" title="BMW i7 headlights">
-    </a>
-    <figcaption><h4>BMW i7 headlights</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/lights/headlights/bmwi7headlights_st.jpg" title="BMW i7 headlights" >}}
 
 These advancements have significantly improved headlights’ performance, efficiency, and safety, allowing for better visibility on the road and enhanced driving experiences. This article will explore the different types of car headlight technology used, focusing on LED headlights, matrix LED headlights, laser headlights, adaptive headlights, and daytime running lights (DRLs).
 
@@ -33,27 +28,11 @@ In many countries, DRLs have become a mandatory safety feature on vehicles, and 
 
 Some models lets you configure the design of DRL.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q4drl_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q4drl_1_st.jpg" alt="Audi Q4 e-tron DRL personal style 1" title="Audi Q4 e-tron DRL personal style 1">
-    </a>
-    <figcaption><h4>Audi Q4 e-tron DRL personal style 1</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/lights/headlights/q4drl_1_st.jpg" title="Audi Q4 e-tron DRL personal style 1" >}}
 
+{{< sitefigure thumb="technology/lights/headlights/q4drl_2_st.jpg" title="Audi Q4 e-tron DRL personal style 2" >}}
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q4drl_2.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q4drl_2_st.jpg" alt="Audi Q4 e-tron DRL personal style 1" title="Audi Q4 e-tron DRL personal style 2">
-    </a>
-    <figcaption><h4>Audi Q4 e-tron DRL personal style 2</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q6animations.gif">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q6animations.gif" alt="Audi Q6 e-tron DRL with configurable signature" title="Audi Q6 e-tron DRL with configurable signature">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron DRL with configurable signature</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/lights/headlights/q6animations_st.gif" title="Audi Q6 e-tron DRL with configurable signature" >}}
 
 ## Low/High beam headlights
 
@@ -69,12 +48,7 @@ LED (Light Emitting Diode) headlights have become the standard in modern vehicle
 
 LED headlights also offer flexibility in design, allowing for various shapes and styles that can enhance the aesthetics of a vehicle’s front-end appearance. In addition, they can be used for low beam, high beam, and fog lights, providing versatile lighting solutions for different driving conditions. LED headlights also have faster response times than traditional bulbs, enabling quicker illumination and better reaction to changing road conditions.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/teslaheadlights.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/teslaheadlights_st.jpg" alt="Tesla headlights" title="Tesla headlights">
-    </a>
-    <figcaption><h4>Tesla headlights</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/lights/headlights/teslaheadlights_st.jpg" title="Tesla Model 3 headlights" >}}
 
 Another significant advantage of LED headlights is their durability. They are more resistant to vibration, shock, and temperature changes, making them highly reliable for long-term use. LED headlights also consume less power than traditional bulbs, improving vehicle energy efficiency.
 
@@ -84,34 +58,17 @@ Matrix LED headlights, also known as adaptive LED or pixel headlights, represent
 
 Matrix LED headlights can automatically adjust the light distribution based on various factors, such as the vehicle’s speed, driving conditions, and surroundings.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/matrixdim.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/matrixdim_st.jpg" alt="Matrix Headlights dimming for oncoming traffic" title="Matrix Headlights dimming for oncoming traffic">
-    </a>
-    <figcaption><h4>Matrix Headlights dimming for oncoming traffic</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/lights/headlights/matrixdim_st.jpg" title="Matrix Headlights dimming for oncoming traffic" >}}
 
 Matrix LED headlights detect oncoming or preceding vehicles and selectively dim or switch off specific LEDs to avoid glare while maintaining maximum illumination in other areas. This feature lets the driver enjoy improved visibility without disturbing other road users, making night driving safer and more convenient.
 
 Some of the newest generation Matrix LED headlights offer visual effects to help driver, like the image below showing that the lights can show information on the road. Mercedes call this Digital Light while Audi calls it Digital Matrix.  It uses a device from projectors that let them controls million of pixels. 
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/audiq8lights_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/audiq8lights_1_st.jpg" alt="Audi Q8 e-tron Digital Matrix LED" title="Audi Q8 e-tron Digital Matrix LED">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron Digital Matrix LED</h4></figcaption>
-</figur>
-
+{{< sitefigure thumb="technology/lights/headlights/audiq8lights_1_st.jpg" title="Audi Q8 e-tron Digital Matrix LED" >}}
 
 Or it can be used to show just cool effects.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/sq8digitalmatrix.gif">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/sq8digitalmatrix_st.gif" alt="Audi Q8 e-tron Digital Matrix LED" title="Audi Q8 e-tron Digital Matrix LED">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron Digital Matrix LED</h4></figcaption>
-</figur>
-
+{{< sitefigure thumb="technology/lights/headlights/sq8digitalmatrix_st.gif" title="Audi Q8 e-tron Digital Matrix LED" >}}
 
 ### Laser Headlights
 
@@ -133,27 +90,11 @@ The below video show how the lights works on Audi e-tron GT inlcuding laser ligh
 
 {{< youtube r4gtZ1dNh4o >}}
 
+{{< sitefigure thumb="technology/lights/headlights/q6headlights_4_st.jpg" title="Audi Q6 e-tron with DRL" >}}
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_4.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_4_st.jpg" alt="Audi Q6 e-tron DRL with configurable signature" title="Audi Q6 e-tron DRL with configurable signature">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron with DRL</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/lights/headlights/q6headlights_2_st.jpg" title="Audi Q6 e-tron with low beam (DRL dimmed)" >}}
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_2.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_2_st.jpg" alt="Audi Q6 e-tron DRL with configurable signature" title="Audi Q6 e-tron DRL with configurable signature">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron with low beam (DRL dimmed)</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_3.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/headlights/q6headlights_3_st.jpg" alt="Audi Q6 e-tron DRL with configurable signature" title="Audi Q6 e-tron DRL with configurable signature">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron with high beam LED Matrix and low beam modules active (DRL dimmed)</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/lights/headlights/q6headlights_3_st.jpg" title="Audi Q6 e-tron with high beam LED Matrix and low beam modules active (DRL dimmed)" >}}
 
 Continue with [rear lighting](../rearlights/) or go back to [article overview](../)
 
