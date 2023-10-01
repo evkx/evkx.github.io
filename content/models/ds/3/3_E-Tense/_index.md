@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/ds/3/3_e-tense/main_1_st.jpg" title="DS 3 E-Tense" >}}
+{{< sitefiguresized thumb="models/ds/3/3_e-tense/main_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
 We have separated our DS 3 E-Tense article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -43,7 +43,7 @@ The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 5
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 37 minutes. 
 
 
-{{< sitefigure thumb="models/ds/3/3_e-tense/charging_1_st.jpg" title="DS 3 E-Tense" >}}
+{{< sitefiguresized thumb="models/ds/3/3_e-tense/charging_1_st.jpg" title="DS 3 E-Tense" width="3000" height="1970"  >}}
 
 
 ### Charge port
@@ -78,7 +78,7 @@ There is only one roof for this model.
 You can order the car with tinted windows from B-pillar and back. 
 
 
-{{< sitefigure thumb="models/ds/3/3_e-tense/exterior_1_st.jpg" title="DS 3 E-Tense" >}}
+{{< sitefiguresized thumb="models/ds/3/3_e-tense/exterior_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -136,7 +136,7 @@ Keyless go makes it possible to start the car without using the key.
 The  screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen on the dashboard's center  is 10,3 inches large. 
 
 
-{{< sitefigure thumb="models/ds/3/3_e-tense/screens_1_st.jpg" title="DS 3 E-Tense" >}}
+{{< sitefiguresized thumb="models/ds/3/3_e-tense/screens_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -153,7 +153,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
-{{< sitefigure thumb="models/ds/3/3_e-tense/headlights_1_st.jpg" title="DS 3 E-Tense" >}}
+{{< sitefiguresized thumb="models/ds/3/3_e-tense/headlights_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
 ## Advanced driver assistance systems
 
@@ -183,6 +183,6 @@ The cargo capacity in the trunk is 350 liters. With the rear seat down, it is 10
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 
 
-{{< sitefigure thumb="models/ds/3/3_e-tense/trunk_1_st.jpg" title="DS 3 E-Tense" >}}
+{{< sitefiguresized thumb="models/ds/3/3_e-tense/trunk_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

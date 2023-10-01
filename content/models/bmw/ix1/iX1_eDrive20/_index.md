@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/bmw/ix1/ix1_edrive20/main_1_st.jpg" title="BMW iX1 eDrive20" >}}
+{{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/main_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
 We have separated our BMW iX1 eDrive20 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -80,7 +80,7 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 You can order the car with tinted windows from B-pillar and back. 
 
 
-{{< sitefigure thumb="models/bmw/ix1/ix1_edrive20/exterior_1_st.jpg" title="BMW iX1 eDrive20" >}}
+{{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/exterior_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -161,7 +161,7 @@ You have wireless charging for your phone.
 BMW iX1 eDrive20 has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 10,25 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 10,7 inches large and has a 2880 x 1080 pixels resolution. 
 
 
-{{< sitefigure thumb="models/bmw/ix1/ix1_edrive20/screens_1_st.jpg" title="BMW iX1 eDrive20" >}}
+{{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/screens_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -178,7 +178,7 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 You can choose between two types of headlights for the BMW iX1 eDrive20. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 
 
-{{< sitefigure thumb="models/bmw/ix1/ix1_edrive20/headlights_1_st.jpg" title="BMW iX1 eDrive20" >}}
+{{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/headlights_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
 ## Advanced driver assistance systems
 

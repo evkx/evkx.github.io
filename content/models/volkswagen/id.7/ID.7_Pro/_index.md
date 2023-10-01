@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/volkswagen/id.7/id.7_pro/main_1_st.jpg" title="Volkswagen ID.7 Pro" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/main_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
 We have separated our Volkswagen ID.7 Pro article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
 
 
-{{< sitefigure thumb="models/volkswagen/id.7/id.7_pro/charging_1_st.jpg" title="Volkswagen ID.7 Pro" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/charging_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
 
 ### Charge port
@@ -86,7 +86,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-{{< sitefigure thumb="models/volkswagen/id.7/id.7_pro/exterior_1_st.jpg" title="Volkswagen ID.7 Pro" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/exterior_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -130,7 +130,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 
-{{< sitefigure thumb="models/volkswagen/id.7/id.7_pro/frontseats_1_st.jpg" title="Volkswagen ID.7 Pro" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/frontseats_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
 
 ### Second-row seat
@@ -141,7 +141,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-{{< sitefigure thumb="models/volkswagen/id.7/id.7_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Pro" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
 
 There is only one type of steering wheel available. 
@@ -169,7 +169,7 @@ You have wireless charging for your phone.
 Volkswagen ID.7 Pro has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 15 inches large. 
 
 
-{{< sitefigure thumb="models/volkswagen/id.7/id.7_pro/screens_1_st.jpg" title="Volkswagen ID.7 Pro" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/screens_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -186,7 +186,7 @@ The model has 4 USB-C connections as standard.
 You can choose between two types of headlights for the Volkswagen ID.7 Pro. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
-{{< sitefigure thumb="models/volkswagen/id.7/id.7_pro/headlights_1_st.jpg" title="Volkswagen ID.7 Pro" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/headlights_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
 ## Advanced driver assistance systems
 
@@ -237,6 +237,6 @@ The cargo capacity in the trunk is 542 liters. With the rear seat down, it is 15
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/volkswagen/id.7/id.7_pro/trunk_1_st.jpg" title="Volkswagen ID.7 Pro" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/trunk_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

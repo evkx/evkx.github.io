@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/main_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" >}}
+{{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/main_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1674"  >}}
 
 We have separated our Ford Mustang Mach-E Long Range RWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 21 minutes. 
 
 
-{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/charging_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" >}}
+{{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/charging_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1736"  >}}
 
 
 ### Charge port
@@ -78,7 +78,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/exterior_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" >}}
+{{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/exterior_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1642"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -107,7 +107,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" >}}
+{{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1999"  >}}
 
 
 ### Second-row seat
@@ -119,7 +119,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - height adjustable headrest 
 
 
-{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" >}}
+{{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="2250"  >}}
 
 
 There is only one type of steering wheel available. 
@@ -149,7 +149,7 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel mounted into the dashboard is 10,2 inches large. The touch screen at the top of the center console is 15,5 inches large. 
 
 
-{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/screens_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" >}}
+{{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/screens_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="2000"  >}}
 
 
 ## Infotainment
@@ -164,7 +164,7 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 
 
 
-{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/headlights_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" >}}
+{{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/headlights_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1999"  >}}
 
 ## Advanced driver assistance systems
 
@@ -212,6 +212,6 @@ The cargo capacity in the trunk is 402 liters. With the rear seat down, it is 14
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/trunk_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" >}}
+{{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/trunk_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1721"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

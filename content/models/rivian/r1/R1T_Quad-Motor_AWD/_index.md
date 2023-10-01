@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" title="Rivian R1T Quad-Motor AWD" >}}
+{{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2100" height="1400"  >}}
 
 We have separated our Rivian R1T Quad-Motor AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 52 minutes. 
 
 
-{{< sitefigure thumb="models/rivian/r1/r1t_quad-motor_awd/charging_1_st.jpg" title="Rivian R1T Quad-Motor AWD" >}}
+{{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/charging_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2048" height="1280"  >}}
 
 
 ### Charge port
@@ -79,7 +79,7 @@ There is only one roof for this model. As an option, you can order this model wi
 The windows from B-pillar and back are tinted. 
 
 
-{{< sitefigure thumb="models/rivian/r1/r1t_quad-motor_awd/exterior_1_st.jpg" title="Rivian R1T Quad-Motor AWD" >}}
+{{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/exterior_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2100" height="1400"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -146,7 +146,7 @@ You have wireless charging for your phone.
 Rivian R1T Quad-Motor AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 15,3 inches large and has a 1540 x 720 pixels resolution. 
 
 
-{{< sitefigure thumb="models/rivian/r1/r1t_quad-motor_awd/screens_1_st.jpg" title="Rivian R1T Quad-Motor AWD" >}}
+{{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/screens_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="1600" height="1067"  >}}
 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
@@ -165,7 +165,7 @@ The model has 8 USB-C connections as standard.
 The standard headlights use LED technology.  
 
 
-{{< sitefigure thumb="models/rivian/r1/r1t_quad-motor_awd/headlights_1_st.jpg" title="Rivian R1T Quad-Motor AWD" >}}
+{{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/headlights_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2880" height="1920"  >}}
 
 ## Advanced driver assistance systems
 
@@ -208,6 +208,6 @@ The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm, an
 You can order the car with a towbar. The maximum total weight on a braked trailer is 5000, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/rivian/r1/r1t_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1T Quad-Motor AWD" >}}
+{{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2880" height="1920"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

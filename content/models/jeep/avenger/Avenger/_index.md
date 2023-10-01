@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/jeep/avenger/avenger/main_1_st.jpg" title="Jeep Avenger" >}}
+{{< sitefiguresized thumb="models/jeep/avenger/avenger/main_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 
 We have separated our Jeep Avenger article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -76,7 +76,7 @@ There is only one roof for this model.
 You can order the car with tinted windows from B-pillar and back. 
 
 
-{{< sitefigure thumb="models/jeep/avenger/avenger/exterior_1_st.jpg" title="Jeep Avenger" >}}
+{{< sitefiguresized thumb="models/jeep/avenger/avenger/exterior_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -135,7 +135,7 @@ Keyless go makes it possible to start the car without using the key.
 The  screen behind the steering wheel integrated into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 10,25 inches large. 
 
 
-{{< sitefigure thumb="models/jeep/avenger/avenger/screens_1_st.jpg" title="Jeep Avenger" >}}
+{{< sitefiguresized thumb="models/jeep/avenger/avenger/screens_1_st.jpg" title="Jeep Avenger" width="3000" height="2263"  >}}
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -152,7 +152,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
-{{< sitefigure thumb="models/jeep/avenger/avenger/headlights_1_st.jpg" title="Jeep Avenger" >}}
+{{< sitefiguresized thumb="models/jeep/avenger/avenger/headlights_1_st.jpg" title="Jeep Avenger" width="3000" height="1838"  >}}
 
 ## Advanced driver assistance systems
 
@@ -186,6 +186,6 @@ The cargo capacity in the trunk is 355 liters. With the rear seat down, it is 10
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 
 
-{{< sitefigure thumb="models/jeep/avenger/avenger/trunk_1_st.jpg" title="Jeep Avenger" >}}
+{{< sitefiguresized thumb="models/jeep/avenger/avenger/trunk_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

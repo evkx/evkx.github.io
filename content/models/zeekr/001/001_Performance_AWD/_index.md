@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/zeekr/001/001_performance_awd/main_1_st.jpg" title="Zeekr 001 Performance AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/main_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2000"  >}}
 
 We have separated our Zeekr 001 Performance AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 38 minutes. 
 
 
-{{< sitefigure thumb="models/zeekr/001/001_performance_awd/charging_1_st.jpg" title="Zeekr 001 Performance AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/charging_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2250"  >}}
 
 
 ### Charge port
@@ -79,7 +79,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-{{< sitefigure thumb="models/zeekr/001/001_performance_awd/exterior_1_st.jpg" title="Zeekr 001 Performance AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/exterior_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2000"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -140,7 +140,7 @@ You have wireless charging for your phone.
 Zeekr 001 Performance AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 8,8 inches large. The touch screen at the top of the center console is 15,4 inches large. 
 
 
-{{< sitefigure thumb="models/zeekr/001/001_performance_awd/screens_1_st.jpg" title="Zeekr 001 Performance AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/screens_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2000"  >}}
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -161,7 +161,7 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
-{{< sitefigure thumb="models/zeekr/001/001_performance_awd/headlights_1_st.jpg" title="Zeekr 001 Performance AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/headlights_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2250"  >}}
 
 ## Advanced driver assistance systems
 
@@ -202,7 +202,7 @@ The cargo capacity in the trunk is 539 liters. With the rear seat down, it is 14
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/zeekr/001/001_performance_awd/trunk_1_st.jpg" title="Zeekr 001 Performance AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/trunk_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2001"  >}}
 
 ### Availability & Pricing
 

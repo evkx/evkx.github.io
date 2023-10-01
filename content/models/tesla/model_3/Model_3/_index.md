@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/tesla/model_3/model_3/main_1_st.jpeg" title="Tesla Model 3" >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3/main_1_st.jpeg" title="Tesla Model 3" width="3000" height="2000"  >}}
 
 We have separated our Tesla Model 3 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -80,7 +80,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-{{< sitefigure thumb="models/tesla/model_3/model_3/exterior_1_st.jpeg" title="Tesla Model 3" >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3/exterior_1_st.jpeg" title="Tesla Model 3" width="3000" height="2250"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -109,7 +109,7 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 
-{{< sitefigure thumb="models/tesla/model_3/model_3/frontseats_1_st.jpeg" title="Tesla Model 3" >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3/frontseats_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 
 
 ### Second-row seat
@@ -146,7 +146,7 @@ You have wireless charging for your phone.
 Tesla Model 3 has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The  screen on the dashboard's center  is 15 inches large and has a 2200 x 1300 pixels resolution. 
 
 
-{{< sitefigure thumb="models/tesla/model_3/model_3/screens_1_st.jpeg" title="Tesla Model 3" >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3/screens_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 
 
 ## Infotainment
@@ -161,7 +161,7 @@ The model has 3 USB-C connections as standard.
 The standard headlights use LED technology.  
 
 
-{{< sitefigure thumb="models/tesla/model_3/model_3/headlights_1_st.jpeg" title="Tesla Model 3" >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3/headlights_1_st.jpeg" title="Tesla Model 3" width="3000" height="2250"  >}}
 
 ## Advanced driver assistance systems
 

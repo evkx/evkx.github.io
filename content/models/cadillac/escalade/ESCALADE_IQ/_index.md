@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/cadillac/escalade/escalade_iq/main_1_st.jpg" title="Cadillac ESCALADE IQ" >}}
+{{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/main_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1383"  >}}
 
 We have separated our Cadillac ESCALADE IQ article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -73,7 +73,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 
-{{< sitefigure thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" >}}
+{{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -105,7 +105,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-{{< sitefigure thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" >}}
+{{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 
 ### Second-row seat
@@ -122,7 +122,7 @@ For the second row, this model has twin [executive seats](../../../../technology
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
 
-{{< sitefigure thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" >}}
+{{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
 
 
 ### Third-row seats
@@ -156,7 +156,7 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel mounted into the dashboard is 35 inches large. The touch screen at the bottom of the center console is 11 inches large. The touch screen in front of the passenger on the dashboard is 20 inches large. 
 
 
-{{< sitefigure thumb="models/cadillac/escalade/escalade_iq/screens_1_st.jpg" title="Cadillac ESCALADE IQ" >}}
+{{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/screens_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2250"  >}}
 
 
 ## Infotainment

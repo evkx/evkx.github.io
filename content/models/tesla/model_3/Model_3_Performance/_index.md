@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/tesla/model_3/model_3_performance/main_1_st.jpg" title="Tesla Model 3 Performance" >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/main_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 We have separated our Tesla Model 3 Performance article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes. 
 
 
-{{< sitefigure thumb="models/tesla/model_3/model_3_performance/charging_1_st.jpg" title="Tesla Model 3 Performance" >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/charging_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 
 ### Charge port
@@ -84,7 +84,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-{{< sitefigure thumb="models/tesla/model_3/model_3_performance/exterior_st.jpg" title="Tesla Model 3 Performance" >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_st.jpg" title="Tesla Model 3 Performance" width="3000" height="1687"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -112,7 +112,7 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 
-{{< sitefigure thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 
 ### Second-row seat
@@ -123,7 +123,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-{{< sitefigure thumb="models/tesla/model_3/model_3_performance/secondrowseats_1_st.jpg" title="Tesla Model 3 Performance" >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/secondrowseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 
 There is only one type of steering wheel available. 
@@ -153,7 +153,7 @@ You have wireless charging for your phone.
 Tesla Model 3 Performance has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The  screen on the dashboard's center  is 15 inches large and has a 2200 x 1300 pixels resolution. 
 
 
-{{< sitefigure thumb="models/tesla/model_3/model_3_performance/screens_2_st.jpg" title="Tesla Model 3 Performance" >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_2_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 
 ## Infotainment

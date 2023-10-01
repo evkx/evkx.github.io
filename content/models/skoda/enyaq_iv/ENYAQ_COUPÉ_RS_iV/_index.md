@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" >}}
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="1999"  >}}
 
 We have separated our SKODA ENYAQ COUPÉ RS iV article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
 
 
-{{< sitefigure thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/charging_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" >}}
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/charging_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="2001"  >}}
 
 
 ### Charge port
@@ -84,7 +84,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-{{< sitefigure thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/exterior_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" >}}
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/exterior_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="1999"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -114,7 +114,7 @@ You can choose from 2 different materials/colors for this seat type. <br />
 
 
 
-{{< sitefigure thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" >}}
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="2001"  >}}
 
 
 ### Second-row seat
@@ -125,7 +125,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-{{< sitefigure thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/secondrowseats_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" >}}
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/secondrowseats_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="2001"  >}}
 
 
 There is only one type of steering wheel available. 
@@ -153,7 +153,7 @@ You have wireless charging for your phone.
 SKODA ENYAQ COUPÉ RS iV has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5,3 inches large. The touch screen on the dashboard's center  is 13 inches large. 
 
 
-{{< sitefigure thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/screens_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" >}}
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/screens_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="1999"  >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -214,6 +214,6 @@ The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 16
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" >}}
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="2001"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

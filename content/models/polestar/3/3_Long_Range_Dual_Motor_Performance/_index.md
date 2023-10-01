@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" >}}
+{{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
 We have separated our Polestar 3 Long Range Dual Motor Performance article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -73,7 +73,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 You can choose between two types of roofs on this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 
-{{< sitefigure thumb="models/polestar/3/3_long_range_dual_motor_performance/exterior_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" >}}
+{{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/exterior_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -101,7 +101,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 
-{{< sitefigure thumb="models/polestar/3/3_long_range_dual_motor_performance/frontseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" >}}
+{{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/frontseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2249"  >}}
 
 
 ### Second-row seat
@@ -113,7 +113,7 @@ The second row has a standard three-seat bench with a 40:60 split where you can 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
 
-{{< sitefigure thumb="models/polestar/3/3_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" >}}
+{{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2248"  >}}
 
 
 There is only one type of steering wheel available. 
@@ -143,7 +143,7 @@ You have wireless charging for your phone.
 Polestar 3 Long Range Dual Motor Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9 inches large. The touch screen at the top of the center console is 14,5 inches large. 
 
 
-{{< sitefigure thumb="models/polestar/3/3_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" >}}
+{{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2251"  >}}
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -158,7 +158,7 @@ The model has 4 USB-C connections as standard.
 You can choose between two types of headlights for the Polestar 3 Long Range Dual Motor Performance. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
-{{< sitefigure thumb="models/polestar/3/3_long_range_dual_motor_performance/headlights_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" >}}
+{{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/headlights_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
 ## Advanced driver assistance systems
 

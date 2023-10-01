@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/zeekr/x/x_privilege_awd/main_1_st.jpg" title="Zeekr X Privilege AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/main_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="1687"  >}}
 
 We have separated our Zeekr X Privilege AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -73,7 +73,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 You can choose between two types of roofs on this model. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-{{< sitefigure thumb="models/zeekr/x/x_privilege_awd/exterior_1_st.jpg" title="Zeekr X Privilege AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/exterior_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="1687"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -100,7 +100,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-{{< sitefigure thumb="models/zeekr/x/x_privilege_awd/frontseats_1_st.jpg" title="Zeekr X Privilege AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/frontseats_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
 
 ### Second-row seat
@@ -112,7 +112,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
 
-{{< sitefigure thumb="models/zeekr/x/x_privilege_awd/secondrowseats_1_st.jpg" title="Zeekr X Privilege AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/secondrowseats_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
 
 There is only one type of steering wheel available. 
@@ -140,7 +140,7 @@ You have wireless charging for your phone.
 The  screen on the steering column  is 8 inches large. The touch screen at the top of the center console is 14,6 inches large. 
 
 
-{{< sitefigure thumb="models/zeekr/x/x_privilege_awd/screens_1_st.jpg" title="Zeekr X Privilege AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/screens_1_st.jpg" title="Zeekr X Privilege AWD" width="2280" height="1282"  >}}
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -157,7 +157,7 @@ The model has 4 USB-C connections as standard.
 You can choose between two types of headlights for the Zeekr X Privilege AWD. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
-{{< sitefigure thumb="models/zeekr/x/x_privilege_awd/headlights_1_st.jpg" title="Zeekr X Privilege AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/headlights_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
 ## Advanced driver assistance systems
 
@@ -204,7 +204,7 @@ The cargo capacity in the trunk is 362 liters. With the rear seat down, it is 90
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/zeekr/x/x_privilege_awd/trunk_1_st.jpg" title="Zeekr X Privilege AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/trunk_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
 ### Availability & Pricing
 

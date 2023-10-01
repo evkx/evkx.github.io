@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/volvo/ex90/ex90_twin_motor/main_1_st.jpg" title="Volvo EX90 Twin Motor" >}}
+{{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/main_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2000"  >}}
 
 We have separated our Volvo EX90 Twin Motor article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -76,7 +76,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 You can order the car with tinted windows from B-pillar and back. 
 
 
-{{< sitefigure thumb="models/volvo/ex90/ex90_twin_motor/exterior_1_st.jpg" title="Volvo EX90 Twin Motor" >}}
+{{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/exterior_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2212"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -109,7 +109,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-{{< sitefigure thumb="models/volvo/ex90/ex90_twin_motor/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor" >}}
+{{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 
 ### Second-row seat
@@ -121,7 +121,7 @@ The second row has a standard three-seat bench with a 40:60 split where you can 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
 
-{{< sitefigure thumb="models/volvo/ex90/ex90_twin_motor/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor" >}}
+{{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 
 ### Third-row seats
@@ -157,7 +157,7 @@ You have wireless charging for your phone.
 Volvo EX90 Twin Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9 inches large. The touch screen at the top of the center console is 14,5 inches large. 
 
 
-{{< sitefigure thumb="models/volvo/ex90/ex90_twin_motor/screens_1_st.jpg" title="Volvo EX90 Twin Motor" >}}
+{{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/screens_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -172,7 +172,7 @@ The model has 4 USB-C connections as standard.
 You can choose between two types of headlights for the Volvo EX90 Twin Motor. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
-{{< sitefigure thumb="models/volvo/ex90/ex90_twin_motor/headlights_1_st.jpg" title="Volvo EX90 Twin Motor" >}}
+{{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/headlights_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 ## Advanced driver assistance systems
 

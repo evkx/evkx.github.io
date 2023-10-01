@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/bmw/i4/i4_edrive40/main_1_st.jpg" title="BMW i4 eDrive40" >}}
+{{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/main_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="1999"  >}}
 
 We have separated our BMW i4 eDrive40 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 20 minutes. 
 
 
-{{< sitefigure thumb="models/bmw/i4/i4_edrive40/charging_1_st.jpg" title="BMW i4 eDrive40" >}}
+{{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/charging_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2001"  >}}
 
 
 ### Charge port
@@ -84,7 +84,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-{{< sitefigure thumb="models/bmw/i4/i4_edrive40/exterior_1_st.jpg" title="BMW i4 eDrive40" >}}
+{{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/exterior_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2255"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -131,7 +131,7 @@ You can choose from 21 different materials/colors for this seat type. <br />
 
 
 
-{{< sitefigure thumb="models/bmw/i4/i4_edrive40/frontseats_1_st.jpg" title="BMW i4 eDrive40" >}}
+{{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/frontseats_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
 
 
 ### Second-row seat
@@ -227,6 +227,6 @@ The cargo capacity in the trunk is 470 liters. With the rear seat down, it is 12
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/bmw/i4/i4_edrive40/trunk_1_st.jpg" title="BMW i4 eDrive40" >}}
+{{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/trunk_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

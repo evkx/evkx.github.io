@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2000"  >}}
 
 We have separated our Volkswagen ID.5 GTX 4MOTION article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -82,7 +82,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-{{< sitefigure thumb="models/volkswagen/id.5/id.5_gtx_4motion/exterior_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/exterior_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2000"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -123,7 +123,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 
-{{< sitefigure thumb="models/volkswagen/id.5/id.5_gtx_4motion/frontseats_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/frontseats_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2000"  >}}
 
 
 ### Second-row seat
@@ -134,7 +134,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-{{< sitefigure thumb="models/volkswagen/id.5/id.5_gtx_4motion/secondrowseats_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/secondrowseats_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2061"  >}}
 
 
 There is only one type of steering wheel available. 
@@ -166,7 +166,7 @@ The standard layout has the following configuration. Behind the steering wheel i
 The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12 inches large and has a 1920 x 869 pixels resolution. 
 
 
-{{< sitefigure thumb="models/volkswagen/id.5/id.5_gtx_4motion/screens_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/screens_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2000"  >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -183,7 +183,7 @@ The model has 4 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  
 
 
-{{< sitefigure thumb="models/volkswagen/id.5/id.5_gtx_4motion/headlights_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/headlights_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2400"  >}}
 
 ## Advanced driver assistance systems
 
@@ -234,6 +234,6 @@ The cargo capacity in the trunk is 549 liters. With the rear seat down, it is 15
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/volkswagen/id.5/id.5_gtx_4motion/trunk_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/trunk_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2000"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

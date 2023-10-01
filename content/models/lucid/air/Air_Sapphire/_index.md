@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/lucid/air/air_sapphire/main_1_st.jpg" title="Lucid Air Sapphire" >}}
+{{< sitefiguresized thumb="models/lucid/air/air_sapphire/main_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
 
 We have separated our Lucid Air Sapphire article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -77,7 +77,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [boot lid]
 There is only one roof for this model. The windshield is panoramic going back over the first row. In addition there is glasspanel over the second row. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 
-{{< sitefigure thumb="models/lucid/air/air_sapphire/exterior_1_st.jpg" title="Lucid Air Sapphire" >}}
+{{< sitefiguresized thumb="models/lucid/air/air_sapphire/exterior_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -110,7 +110,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 
-{{< sitefigure thumb="models/lucid/air/air_sapphire/frontseats_1_st.jpg" title="Lucid Air Sapphire" >}}
+{{< sitefiguresized thumb="models/lucid/air/air_sapphire/frontseats_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
 
 
 ### Second-row seat
@@ -122,7 +122,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
 
-{{< sitefigure thumb="models/lucid/air/air_sapphire/secondrowseats_1_st.jpg" title="Lucid Air Sapphire" >}}
+{{< sitefiguresized thumb="models/lucid/air/air_sapphire/secondrowseats_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2077"  >}}
 
 
 There is only one type of steering wheel available. 
@@ -152,7 +152,7 @@ You have wireless charging for your phone.
 On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).The touch screen in the left side of the shared frame  is 8 inches large. The  screen behind the steering wheel in the middle of the shared frame  is 14 inches large. The touch screen at the right part of the shared frame is 12 inches large. The touch screen in the middle of the center console is 12 inches large. 
 
 
-{{< sitefigure thumb="models/lucid/air/air_sapphire/screens_1_st.jpg" title="Lucid Air Sapphire" >}}
+{{< sitefiguresized thumb="models/lucid/air/air_sapphire/screens_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2000"  >}}
 
 
 ## Infotainment
@@ -167,7 +167,7 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 The standard headlights use LED technology.  
 
 
-{{< sitefigure thumb="models/lucid/air/air_sapphire/headlights_1_st.jpg" title="Lucid Air Sapphire" >}}
+{{< sitefiguresized thumb="models/lucid/air/air_sapphire/headlights_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2037"  >}}
 
 ## Advanced driver assistance systems
 
@@ -208,6 +208,6 @@ The cargo capacity in the trunk is 456 liters. With the rear seat down, it is 62
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 
 
-{{< sitefigure thumb="models/lucid/air/air_sapphire/trunk_1_st.jpg" title="Lucid Air Sapphire" >}}
+{{< sitefiguresized thumb="models/lucid/air/air_sapphire/trunk_1_st.jpg" title="Lucid Air Sapphire" width="2000" height="1334"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/hiphi/x/x_4_seater/main_1_st.jpg" title="HiPhi X 4 Seater" >}}
+{{< sitefiguresized thumb="models/hiphi/x/x_4_seater/main_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 We have separated our HiPhi X 4 Seater article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 49 minutes. 
 
 
-{{< sitefigure thumb="models/hiphi/x/x_4_seater/charging_1_st.jpg" title="HiPhi X 4 Seater" >}}
+{{< sitefiguresized thumb="models/hiphi/x/x_4_seater/charging_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 
 ### Charge port
@@ -83,7 +83,7 @@ There is only one roof for this model. The standard roof has a panoramic glass o
 The windows from B-pillar and back are tinted. 
 
 
-{{< sitefigure thumb="models/hiphi/x/x_4_seater/exterior_1_st.jpg" title="HiPhi X 4 Seater" >}}
+{{< sitefiguresized thumb="models/hiphi/x/x_4_seater/exterior_1_st.jpg" title="HiPhi X 4 Seater" width="1959" height="1102"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -158,7 +158,7 @@ You have wireless charging for your phone.
 HiPhi X 4 Seater has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 14 inches large. The touch screen at the top of the center console is 16,9 inches large. The touch screen in front of the passenger in the dashboard is 19,9 inches large. 
 
 
-{{< sitefigure thumb="models/hiphi/x/x_4_seater/screens_1_st.jpg" title="HiPhi X 4 Seater" >}}
+{{< sitefiguresized thumb="models/hiphi/x/x_4_seater/screens_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -179,7 +179,7 @@ The model has 3 USB-C connections as standard. The model has 3 USB-A connections
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
-{{< sitefigure thumb="models/hiphi/x/x_4_seater/headlights_1_st.jpg" title="HiPhi X 4 Seater" >}}
+{{< sitefiguresized thumb="models/hiphi/x/x_4_seater/headlights_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 ## Advanced driver assistance systems
 
@@ -225,6 +225,6 @@ The cargo capacity in the trunk is 204 liters. With the third-row seat down, it 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 
 
-{{< sitefigure thumb="models/hiphi/x/x_4_seater/trunk_1_st.jpg" title="HiPhi X 4 Seater" >}}
+{{< sitefiguresized thumb="models/hiphi/x/x_4_seater/trunk_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

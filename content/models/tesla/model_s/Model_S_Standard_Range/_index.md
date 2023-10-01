@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/tesla/model_s/model_s_standard_range/main_1_st.jpg" title="Tesla Model S Standard Range" >}}
+{{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/main_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2250"  >}}
 
 We have separated our Tesla Model S Standard Range article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -80,7 +80,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-{{< sitefigure thumb="models/tesla/model_s/model_s_standard_range/exterior_1_st.jpg" title="Tesla Model S Standard Range" >}}
+{{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/exterior_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2250"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -116,7 +116,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-{{< sitefigure thumb="models/tesla/model_s/model_s_standard_range/secondrowseats_1_st.jpg" title="Tesla Model S Standard Range" >}}
+{{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/secondrowseats_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2000"  >}}
 
 
 There is only one type of steering wheel available. 
@@ -146,7 +146,7 @@ You have wireless charging for your phone.
 Tesla Model S Standard Range has twin screens with information for the driver and passengers and a third screen in rear for multimedia.  The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1280 x 480 pixels resolution. The touch screen on the dashboard's center  is 17 inches large and has a 2200 x 1300 pixels resolution. The touch screen in the rear center console  is 8 inches large. 
 
 
-{{< sitefigure thumb="models/tesla/model_s/model_s_standard_range/screens_1_st.jpg" title="Tesla Model S Standard Range" >}}
+{{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/screens_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2000"  >}}
 
 
 ## Infotainment
@@ -213,6 +213,6 @@ The cargo capacity in the trunk is 709 liters. With the rear seat down, it is 18
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/tesla/model_s/model_s_standard_range/trunk_1_st.jpg" title="Tesla Model S Standard Range" >}}
+{{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/trunk_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2000"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

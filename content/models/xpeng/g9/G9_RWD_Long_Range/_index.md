@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/xpeng/g9/g9_rwd_long_range/main_1_st.jpg" title="XPENG G9 RWD Long Range" >}}
+{{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/main_1_st.jpg" title="XPENG G9 RWD Long Range" width="3000" height="1999"  >}}
 
 We have separated our XPENG G9 RWD Long Range article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 30 minutes. 
 
 
-{{< sitefigure thumb="models/xpeng/g9/g9_rwd_long_range/charging_1_st.jpg" title="XPENG G9 RWD Long Range" >}}
+{{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/charging_1_st.jpg" title="XPENG G9 RWD Long Range" width="1600" height="1040"  >}}
 
 
 ### Charge port
@@ -79,7 +79,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted. 
 
 
-{{< sitefigure thumb="models/xpeng/g9/g9_rwd_long_range/exterior_1_st.jpg" title="XPENG G9 RWD Long Range" >}}
+{{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/exterior_1_st.jpg" title="XPENG G9 RWD Long Range" width="3000" height="2002"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -114,7 +114,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-{{< sitefigure thumb="models/xpeng/g9/g9_rwd_long_range/frontseats_1_st.jpeg" title="XPENG G9 RWD Long Range" >}}
+{{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/frontseats_1_st.jpeg" title="XPENG G9 RWD Long Range" width="3000" height="2250"  >}}
 
 
 ### Second-row seat
@@ -127,7 +127,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
 
-{{< sitefigure thumb="models/xpeng/g9/g9_rwd_long_range/secondrowseats_1_st.jpeg" title="XPENG G9 RWD Long Range" >}}
+{{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/secondrowseats_1_st.jpeg" title="XPENG G9 RWD Long Range" width="3000" height="1687"  >}}
 
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
@@ -157,7 +157,7 @@ You have wireless charging for your phone.
 XPENG G9 RWD Long Range has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel mounted into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 14,96 inches large. The touch screen in front of the passenger on the dashboard is 14,96 inches large. 
 
 
-{{< sitefigure thumb="models/xpeng/g9/g9_rwd_long_range/screens_1_st.jpg" title="XPENG G9 RWD Long Range" >}}
+{{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/screens_1_st.jpg" title="XPENG G9 RWD Long Range" width="3000" height="2002"  >}}
 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
@@ -218,6 +218,6 @@ The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 15
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/xpeng/g9/g9_rwd_long_range/trunk_1_st.jpg" title="XPENG G9 RWD Long Range" >}}
+{{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/trunk_1_st.jpg" title="XPENG G9 RWD Long Range" width="3000" height="2002"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

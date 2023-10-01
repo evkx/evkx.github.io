@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/volvo/xc40/xc40_recharge_single_motor/main_1_st.jpg" title="Volvo XC40 Recharge Single Motor" >}}
+{{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/main_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1920" height="1080"  >}}
 
 We have separated our Volvo XC40 Recharge Single Motor article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -74,7 +74,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 You can choose between two types of roofs on this model. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-{{< sitefigure thumb="models/volvo/xc40/xc40_recharge_single_motor/exterior_1_st.jpg" title="Volvo XC40 Recharge Single Motor" >}}
+{{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/exterior_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1920" height="1080"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -96,7 +96,7 @@ The zero option is a three-seat bench with a  split where you can fold each sect
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 
 
-{{< sitefigure thumb="models/volvo/xc40/xc40_recharge_single_motor/frontseats_1_st.jpg" title="Volvo XC40 Recharge Single Motor" >}}
+{{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/frontseats_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1920" height="1080"  >}}
 
 
 ### Second-row seat
@@ -132,7 +132,7 @@ You have wireless charging for your phone.
 Volvo XC40 Recharge Single Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The touch screen at the top of the center console is 9 inches large. 
 
 
-{{< sitefigure thumb="models/volvo/xc40/xc40_recharge_single_motor/screens_1_st.jpg" title="Volvo XC40 Recharge Single Motor" >}}
+{{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/screens_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="3000" height="2249"  >}}
 
 
 ## Infotainment
@@ -145,7 +145,7 @@ The model has 1 USB-C connections as standard.
 You can choose between two types of headlights for the Volvo XC40 Recharge Single Motor. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
 
 
-{{< sitefigure thumb="models/volvo/xc40/xc40_recharge_single_motor/headlights_1_st.jpg" title="Volvo XC40 Recharge Single Motor" >}}
+{{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/headlights_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1080" height="1080"  >}}
 
 ## Advanced driver assistance systems
 
@@ -186,6 +186,6 @@ The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 12
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/volvo/xc40/xc40_recharge_single_motor/trunk_1_st.jpg" title="Volvo XC40 Recharge Single Motor" >}}
+{{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/trunk_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="3000" height="2250"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

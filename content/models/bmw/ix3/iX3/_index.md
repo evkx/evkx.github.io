@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/bmw/ix3/ix3/main_1_st.jpg" title="BMW iX3" >}}
+{{< sitefiguresized thumb="models/bmw/ix3/ix3/main_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 
 We have separated our BMW iX3 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 43 minutes. 
 
 
-{{< sitefigure thumb="models/bmw/ix3/ix3/charging_1_st.jpg" title="BMW iX3" >}}
+{{< sitefiguresized thumb="models/bmw/ix3/ix3/charging_1_st.jpg" title="BMW iX3" width="3000" height="2070"  >}}
 
 
 ### Charge port
@@ -84,7 +84,7 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 You can order the car with tinted windows from B-pillar and back. 
 
 
-{{< sitefigure thumb="models/bmw/ix3/ix3/exterior_1_st.jpg" title="BMW iX3" >}}
+{{< sitefiguresized thumb="models/bmw/ix3/ix3/exterior_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -124,7 +124,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 - integrated headrest 
 
 
-{{< sitefigure thumb="models/bmw/ix3/ix3/secondrowseats_1_st.jpg" title="BMW iX3" >}}
+{{< sitefiguresized thumb="models/bmw/ix3/ix3/secondrowseats_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
 
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
@@ -152,7 +152,7 @@ You have wireless charging for your phone.
 The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The touch screen on the dashboard's center  is 12,3 inches large. 
 
 
-{{< sitefigure thumb="models/bmw/ix3/ix3/screens_1_st.jpg" title="BMW iX3" >}}
+{{< sitefiguresized thumb="models/bmw/ix3/ix3/screens_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -209,6 +209,6 @@ The cargo capacity in the trunk is 510 liters. With the rear seat down, it is 15
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/bmw/ix3/ix3/trunk_1_st.jpg" title="BMW iX3" >}}
+{{< sitefiguresized thumb="models/bmw/ix3/ix3/trunk_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

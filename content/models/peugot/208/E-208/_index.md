@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/peugot/208/e-208/main_1_st.jpg" title="Peugot E-208" >}}
+{{< sitefiguresized thumb="models/peugot/208/e-208/main_1_st.jpg" title="Peugot E-208" width="3000" height="1666"  >}}
 
 We have separated our Peugot E-208 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -74,7 +74,7 @@ There is only one roof for this model.
 You can order the car with tinted windows from B-pillar and back. 
 
 
-{{< sitefigure thumb="models/peugot/208/e-208/exterior_1_st.jpg" title="Peugot E-208" >}}
+{{< sitefiguresized thumb="models/peugot/208/e-208/exterior_1_st.jpg" title="Peugot E-208" width="3000" height="1666"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -104,7 +104,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-{{< sitefigure thumb="models/peugot/208/e-208/frontseats_1_st.jpg" title="Peugot E-208" >}}
+{{< sitefiguresized thumb="models/peugot/208/e-208/frontseats_1_st.jpg" title="Peugot E-208" width="3000" height="2250"  >}}
 
 
 ### Second-row seat
@@ -137,7 +137,7 @@ Keyless go makes it possible to start the car without using the key.
 The  screen behind the steering wheel integrated into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 10,25 inches large. 
 
 
-{{< sitefigure thumb="models/peugot/208/e-208/screens_1_st.jpg" title="Peugot E-208" >}}
+{{< sitefiguresized thumb="models/peugot/208/e-208/screens_1_st.jpg" title="Peugot E-208" width="3000" height="2001"  >}}
 
 
 A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -154,7 +154,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
-{{< sitefigure thumb="models/peugot/208/e-208/headlights_1_st.jpg" title="Peugot E-208" >}}
+{{< sitefiguresized thumb="models/peugot/208/e-208/headlights_1_st.jpg" title="Peugot E-208" width="3000" height="2000"  >}}
 
 ## Advanced driver assistance systems
 

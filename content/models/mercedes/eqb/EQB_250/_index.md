@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/mercedes/eqb/eqb_250/main_1_st.jpg" title="Mercedes-EQ EQB 250" >}}
+{{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/main_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 
 We have separated our Mercedes-EQ EQB 250 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -80,7 +80,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
 
-{{< sitefigure thumb="models/mercedes/eqb/eqb_250/exterior_1_st.jpg" title="Mercedes-EQ EQB 250" >}}
+{{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/exterior_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1686"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -129,7 +129,7 @@ You can choose from 5 different materials/colors for this seat type. <br />
 
 
 
-{{< sitefigure thumb="models/mercedes/eqb/eqb_250/frontseats_1_st.jpg" title="Mercedes-EQ EQB 250" >}}
+{{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/frontseats_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 
 
 ### Second-row seat
@@ -171,7 +171,7 @@ You have wireless charging for your phone.
 Mercedes-EQ EQB 250 has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 10,25 inches large and has a 1920x720 pixels resolution. The touch screen at the right part of the shared frame is 10,25 inches large and has a 1920x720 pixels resolution. 
 
 
-{{< sitefigure thumb="models/mercedes/eqb/eqb_250/screens_1_st.jpg" title="Mercedes-EQ EQB 250" >}}
+{{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/screens_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1686"  >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -234,6 +234,6 @@ The cargo capacity in the trunk is 495 liters. With the rear seat down, it is 14
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 
 
-{{< sitefigure thumb="models/mercedes/eqb/eqb_250/trunk_1_st.jpg" title="Mercedes-EQ EQB 250" >}}
+{{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/trunk_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

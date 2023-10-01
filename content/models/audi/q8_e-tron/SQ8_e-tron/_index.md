@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/audi/q8_e-tron/sq8_e-tron/main_1_st.jpeg" title="Audi SQ8 e-tron" >}}
+{{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/main_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 
 We have separated our Audi SQ8 e-tron article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -84,7 +84,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. As an option, you can equip the model with double-glazed side windows. These windows reduce cabin noise. 
 
 
-{{< sitefigure thumb="models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" title="Audi SQ8 e-tron" >}}
+{{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -195,7 +195,7 @@ The model has 2 USB-C connections as standard. As an option you can get addition
 You can choose between three types of headlights for the Audi SQ8 e-tron. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology. 
 
 
-{{< sitefigure thumb="models/audi/q8_e-tron/sq8_e-tron/headlights_1_st.jpeg" title="Audi SQ8 e-tron" >}}
+{{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/headlights_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 
 ## Advanced driver assistance systems
 

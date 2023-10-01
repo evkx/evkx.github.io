@@ -10,7 +10,7 @@ hidden: true
 
 
 
-{{< sitefigure thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/main_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/main_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="1999"  >}}
 
 We have separated our Audi Q4 Sportback 50 e-tron quattro article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -88,7 +88,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-{{< sitefigure thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/exterior_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/exterior_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -128,7 +128,7 @@ You can choose from 4 different materials/colors for this seat type. <br />
 
 
 
-{{< sitefigure thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
 
 ### Second-row seats
@@ -142,7 +142,7 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 
 
 
-{{< sitefigure thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
 
 There is only one type of steering wheel available. 
@@ -172,7 +172,7 @@ You have wireless charging for your phone.
 Audi Q4 Sportback 50 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
 
 
-{{< sitefigure thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
@@ -189,7 +189,7 @@ The model has 2 USB-C connections as standard. As an option you can get addition
 You can choose between two types of headlights for the Audi Q4 Sportback 50 e-tron quattro. The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 
 
 
-{{< sitefigure thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 
 ## Advanced driver assistance systems
 
@@ -241,6 +241,6 @@ The cargo capacity in the trunk is 535 liters. With the rear seat down, it is 14
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
 
 
-{{< sitefigure thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 
 <object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
