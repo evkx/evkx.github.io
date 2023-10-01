@@ -8,7 +8,7 @@
 {{with .sect}}
 {{safeHTML .Params.head}}
     {{ if and (eq . $currentNode) .Params.shownavtabs }}
-    <ul class="nav nav-tabs bg-light">
+    <ul class="nav nav-tabs bg-light mb-3">
       <li class="nav-item">
         {{if .Params.navicon }}
         <a class="nav-link active" aria-current="page" href="{{ .RelPermalink}}"><i class="{{ .Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
@@ -28,7 +28,7 @@
       </ul>
     {{ end }}
     {{ if and (eq . $currentNode) .Parent.Params.shownavtabs }}
-     <ul class="nav nav-tabs bg-light">
+     <ul class="nav nav-tabs bg-light mb-3">
        <li class="nav-item">
         {{if .Parent.Params.navicon }}
         <a class="nav-link" aria-current="page" href="{{ .Parent.RelPermalink}}"><i class="{{ .Parent.Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.Parent.LinkTitle}}{{safeHTML .Params.Post}}</a>
