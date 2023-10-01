@@ -12,28 +12,15 @@ Car windows is classified into different types according to location, function, 
 
 The windshield is the car's front window that covers the entire vehicle width. It is made of laminated glass, which consists of two layers of glass bonded together by a plastic interlayer. This type of glass is designed to withstand high impact and prevent shattering into sharp pieces in case of a collision. The windshield protects the occupants from wind, rain, dust, insects, and other debris that may fly into the car.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/windows/windshield_1.jpeg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/windshield_1_st.jpeg" alt="Jeep Avenger windshield" title="Jeep Avenger windshield" class="img-fluid">
-    </a>
-    <figcaption><h4>Jeep Avenger windshield</h4></figcaption>
-</figur>
-
+{{< sitefigure thumb="technology/windows/windshield_1_st.jpeg" title="Jeep Avenger windshield" >}}
 
 ### Wipers
 
 Windshield wipers remove rain, snow, ice, washer fluid, water, or debris from a vehicle's front window. An electric motor powers them and has a metal arm with a rubber blade attached to it. The blade swings back and forth over the glass, pushing away anything that might obstruct the driver's vision.
 
-
 Most EVs have two wipers, but large evs like Hummer EVs have three.
 
-
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/windows/wipers_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/wipers_1_st.jpg" alt="Hummer EV with three wiper blades" title="Hummer EV with three wiper blades" class="img-fluid">
-    </a>
-    <figcaption><h4>Hummer EV with three wiper blades</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/windows/wipers_1_st.jpg" title="Hummer EV with three wiper blades" >}}
 
 The speed of the wipers can be adjusted, and most vehicles also have a windscreen washer system that sprays water or antifreeze fluid to help clean the glass.
 
@@ -43,18 +30,13 @@ Many Evs have rain sensors that detect the amount of moisture on the windshield.
 
 ### Heating
 
-Some models offers a heated windshield as standard or as an option. 
+Some models offers a heated windshield as standard or as an option.
 
 ### Cameras
 
 Todays moderns Evs have often on or more cameraes installed in the windhsield. 
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/sensorsandcameras/cameras/eqsfrontcameras.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/cameras/eqsfrontcameras_st.jpg" alt="Mercedes EQS Stereo Vision cameras" title="Mercedes EQS Stereo Vision cameras" class="img-fluid">
-    </a>
-    <figcaption><h4>Mercedes EQS Stereo Vision cameras</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/sensorsandcameras/cameras/eqsfrontcameras_st.jpg" title="Mercedes EQS Stereo Vision cameras" >}}
 
 This cameras requires carfully adjustments if windshield is replaced. 
 
@@ -64,13 +46,7 @@ Side windows are the windows on each side of the car, usually located on the doo
 
 Side windows can be either fixed or movable. Fixed side windows are permanently attached to the car frame and cannot be opened or closed. Movable side windows can be raised or lowered by using a button, a switch or a hand crank. 
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/windows/sidewindows_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/sidewindows_1_st.jpg" alt="Volkswagen ID.Buzz with both fixed and movable side windows" title="Volkswagen ID.Buzz with both fixed and movable side windows" class="img-fluid">
-    </a>
-    <figcaption><h4>Volkswagen ID.Buzz with both fixed and movable side windows</h4></figcaption>
-</figur>
-
+{{< sitefigure thumb="technology/windows/sidewindows_1_st.jpg" title="Volkswagen ID.Buzz with both fixed and movable side windows" >}}
 
 Some side windows may have some additional features, such as:
 
@@ -83,21 +59,11 @@ Some side windows may have some additional features, such as:
 
 The rear window is the window at the back of the car that covers most of the width of the vehicle. It is made of tempered glass, similar to side windows. The rear window provides visibility to the rear of the car.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/windows/rearwindows_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/rearwindows_1_st.jpg" alt="Polestar 2 rear windows" title="Polestar 2 rear windows" class="img-fluid">
-    </a>
-    <figcaption><h4>Polestar 2 rear windows</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/windows/rearwindows_1_st.jpg" title="Polestar 2 rear windows" >}}
 
 It is not required to have a rear window. Several models does not have a rear window, and some have replaced it with a camera. 
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/windows/rearwindows_2.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/rearwindows_2_st.jpg" alt="Polestar 4 without rear window" title="Polestar 4 without rear window" class="img-fluid">
-    </a>
-    <figcaption><h4>Polestar 4 without rear window</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/windows/rearwindows_2_st.jpg" title="Polestar 4 without rear window" >}}
 
 
 ### Wiper
@@ -128,18 +94,6 @@ The main benefit of privacy glass is to provide more privacy for the passengers 
 
 In addition most EVS looks better with privacy glass. 
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/windows/privacyglass_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/privacyglass_1_st.jpg" alt="BMW i7 with privacy glass" title="BMW i7 with privacy glass" class="img-fluid">
-    </a>
-    <figcaption><h4>BMW i7 with privacy glass</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/windows/privacyglass_1_st.jpg" title="BMW i7 with privacy glass" >}}
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/windows/privacyglass_2.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/windows/privacyglass_2_st.jpg" alt="Porsche Taycan Sport Turismo with privacy glass" title="Porsche Taycan Sport Turismo with privacy glass" class="img-fluid">
-    </a>
-    <figcaption><h4>Porsche Taycan Sport Turismo with privacy glass</h4></figcaption>
-</figur>
-
-
+{{< sitefigure thumb="technology/windows/privacyglass_2_st.jpg" title="Porsche Taycan Sport Turismo with privacy glass" >}}
