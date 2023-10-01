@@ -1,61 +1,35 @@
 <!DOCTYPE html>
-<html lang="{{ .Page.Language | default "en" }}" class="js csstransforms3d">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {{ partial "meta.html" . }}
-    {{if .IsHome}}
-    <title>Electric Vehicle Knowledge eXchange- Everything about all-electric cars</title>
-    {{else}}
-    <title>{{ .Title }} :: EVKX.net</title>
-    {{end}}
-    <link rel="shortcut icon" href="{{"images/favicon.png" | relURL}}" type="image/x-icon" />
-    <link href="{{"css/bootstrap.min.css" | relURL}}" rel="stylesheet">
-    <link href="{{"css/photoswipe.css" | relURL}}" rel="stylesheet">
-    {{ partial "custom-head.html" . }}
-    <style>
-      :root #header + #content > #left > #rlblock_left {
-        display:none !important;
-      }
-    </style>
-  </head>
-  <body class="a-page" data-url="{{ .RelPermalink }}">
-    {{ partial "navbar.html" . }}
-    <div class="container">
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
-      crossorigin="anonymous"></script>
-  <!-- EVKX Top Display Add -->
-  <ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-6415007331199958"
-      data-ad-slot="7805150783"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-  <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
-  </div>
+<html lang="{{ .Page.Language | default " en" }}">
+{{ partial "headstandard.html" . }}
+<body class="a-page" data-url="{{ .RelPermalink }}">
+  {{ partial "navbar.html" . }}
+  {{ partial "addsensetop.html" . }}
   <aside>
     {{ partial "menuaccordion.html" . }}
   </aside>
   <main>
- 
     {{ partial "toparticle.html" . }}
-
     {{ partial "secondrowarticles.html" . }}
-
     {{ partial "latestreviews.html" . }}
 
     <div class="container">
       <div class="row">
         <div class="col-12 col-lg-4">
-            {{ partial "models-new.html" . }}
+          {{ partial "models-new.html" . }}
         </div>
         <div class="col-12 col-lg-4">
-            {{ partial "technology.html" . }}
+          {{ partial "technology.html" . }}
         </div>
         <div class="col-12 col-lg-4">
-            {{ partial "guides.html" . }}
-          </div>
+          {{ partial "guides.html" . }}
+        </div>
       </div>
     </div>
+  </main>
+  <footer class="container bg-dark">
+    {{ partial "footercontent.html" . }}
+  </footer>
+  </div> <!-- End container -->
+  <script src="/js/bootstrap.min.js"></script>
+</body>
+</html>
