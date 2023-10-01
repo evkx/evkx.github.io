@@ -5,6 +5,7 @@ description: "BYD Dolphin 60.4kWh is an all-electric SUV with a WLTP range of up
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

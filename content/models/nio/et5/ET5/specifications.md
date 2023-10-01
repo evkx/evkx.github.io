@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Nio ET5."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/nio/et5/et5/main_1_st.jpg" title="Nio ET5" >}}
 EVKX.net seeks to have the most complete specifications for Nio ET5. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio ET5, visit the [chargeinfo](../chargecurve/) for Nio ET5 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

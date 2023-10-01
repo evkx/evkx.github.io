@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for GMC Hummer EV Edition 1 Pickup."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" >}}
 EVKX.net seeks to have the most complete specifications for GMC Hummer EV Edition 1 Pickup. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of GMC Hummer EV Edition 1 Pickup, visit the [chargeinfo](../chargecurve/) for GMC Hummer EV Edition 1 Pickup with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

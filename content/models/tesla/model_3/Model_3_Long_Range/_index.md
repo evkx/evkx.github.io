@@ -5,6 +5,7 @@ description: "Tesla Model 3 Long Range is an all-electric sedan with a WLTP rang
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

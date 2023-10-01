@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Lotus Eletre R."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/lotus/eletre/eletre_r/main_1_st.jpg" title="Lotus Eletre R" >}}
 EVKX.net seeks to have the most complete specifications for Lotus Eletre R. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lotus Eletre R, visit the [chargeinfo](../chargecurve/) for Lotus Eletre R with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

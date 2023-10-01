@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Mercedes-EQ EQE 300."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/mercedes/eqe/eqe_300/main_1_st.jpg" title="Mercedes-EQ EQE 300" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 300. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQE 300, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQE 300 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

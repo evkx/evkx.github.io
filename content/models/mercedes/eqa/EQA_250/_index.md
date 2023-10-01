@@ -5,6 +5,7 @@ description: "Mercedes-EQ EQA 250 is an all-electric premium crossover with a WL
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

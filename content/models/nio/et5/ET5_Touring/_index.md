@@ -5,6 +5,7 @@ description: "Nio ET5 Touring is an all-electric station wagon with a WLTP range
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -5,6 +5,7 @@ description: "Volkswagen ID.5 Pro Performance is an all-electric SUV with a WLTP
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

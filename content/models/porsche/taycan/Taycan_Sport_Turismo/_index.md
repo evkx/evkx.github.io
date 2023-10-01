@@ -5,6 +5,7 @@ description: "Porsche Taycan Sport Turismo is an all-electric luxury station wag
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

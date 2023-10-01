@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Lucid Air Sapphire."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/lucid/air/air_sapphire/main_1_st.jpg" title="Lucid Air Sapphire" >}}
 EVKX.net seeks to have the most complete specifications for Lucid Air Sapphire. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lucid Air Sapphire, visit the [chargeinfo](../chargecurve/) for Lucid Air Sapphire with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

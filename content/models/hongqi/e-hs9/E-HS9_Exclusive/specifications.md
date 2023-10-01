@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Hongqi E-HS9 Exclusive."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/hongqi/e-hs9/e-hs9_exclusive/main_1_st.jpg" title="Hongqi E-HS9 Exclusive" >}}
 EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Exclusive. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hongqi E-HS9 Exclusive, visit the [chargeinfo](../chargecurve/) for Hongqi E-HS9 Exclusive with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

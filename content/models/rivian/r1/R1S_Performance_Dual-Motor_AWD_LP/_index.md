@@ -5,6 +5,7 @@ description: "Rivian R1S Performance Dual-Motor AWD LP is an all-electric SUV wi
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

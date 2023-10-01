@@ -5,6 +5,7 @@ description: "BMW i5 M60 xDrive is an all-electric premium sedan with a WLTP ran
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

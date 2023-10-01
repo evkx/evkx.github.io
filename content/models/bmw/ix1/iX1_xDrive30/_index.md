@@ -5,6 +5,7 @@ description: "BMW iX1 xDrive30 is an all-electric premium SUV with a WLTP range 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

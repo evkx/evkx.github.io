@@ -5,6 +5,7 @@ description: "Smart #1 Brabus is an all-electric crossover with a WLTP range of 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

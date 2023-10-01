@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Smart #3 Brabus."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/smart/hash3/hash3_brabus/main_1_st.jpg" title="Smart #3 Brabus" >}}
 EVKX.net seeks to have the most complete specifications for Smart #3 Brabus. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Smart #3 Brabus, visit the [chargeinfo](../chargecurve/) for Smart #3 Brabus with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

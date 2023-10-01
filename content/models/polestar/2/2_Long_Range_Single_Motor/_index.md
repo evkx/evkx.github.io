@@ -5,6 +5,7 @@ description: "Polestar 2 Long Range Single Motor is an all-electric sedan with a
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

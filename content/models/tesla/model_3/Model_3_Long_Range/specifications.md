@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Tesla Model 3 Long Range."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/tesla/model_3/model_3_long_range/main_1_st.jpeg" title="Tesla Model 3 Long Range" >}}
 EVKX.net seeks to have the most complete specifications for Tesla Model 3 Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model 3 Long Range, visit the [chargeinfo](../chargecurve/) for Tesla Model 3 Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

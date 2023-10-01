@@ -5,6 +5,7 @@ description: "MG MG4 Electric Extended Range is an all-electric crossover with a
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

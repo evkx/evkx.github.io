@@ -5,6 +5,7 @@ description: "XPENG G9 AWD Performance is an all-electric SUV with a WLTP range 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

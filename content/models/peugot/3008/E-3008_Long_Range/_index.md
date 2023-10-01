@@ -5,6 +5,7 @@ description: "Peugot E-3008 Long Range is an all-electric coupe SUV with a WLTP 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

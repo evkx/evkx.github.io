@@ -5,6 +5,7 @@ description: "Volkswagen ID. Buzz Pro LWB is an all-electric MPV with a WLTP ran
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

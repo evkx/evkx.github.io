@@ -5,6 +5,7 @@ description: "CUPRA BORN 58 is an all-electric hatchback with a WLTP range of up
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -5,6 +5,7 @@ description: "Mercedes-EQ EQA 300 4MATIC is an all-electric premium crossover wi
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

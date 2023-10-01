@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Peugot E-3008 Long Range."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/peugot/3008/e-3008_long_range/main_1_st.jpg" title="Peugot E-3008 Long Range" >}}
 EVKX.net seeks to have the most complete specifications for Peugot E-3008 Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Peugot E-3008 Long Range, visit the [chargeinfo](../chargecurve/) for Peugot E-3008 Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

@@ -5,6 +5,7 @@ description: "Hyundai Ioniq 5 N is an all-electric crossover with a WLTP range o
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

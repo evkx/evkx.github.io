@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Ford Mustang Mach-E GT."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/main_1_st.jpg" title="Ford Mustang Mach-E GT" >}}
 EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E GT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford Mustang Mach-E GT, visit the [chargeinfo](../chargecurve/) for Ford Mustang Mach-E GT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

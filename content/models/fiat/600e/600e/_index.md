@@ -5,6 +5,7 @@ description: "Fiat 600e is an all-electric crossover with a WLTP range of up to 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

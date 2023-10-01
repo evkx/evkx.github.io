@@ -5,6 +5,7 @@ description: "Mercedes-EQ EQB 300 4MATIC is an all-electric premium SUV with a W
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -5,6 +5,7 @@ description: "Volkswagen ID.3 Pro is an all-electric hatchback with a WLTP range
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

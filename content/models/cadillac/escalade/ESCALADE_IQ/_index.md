@@ -5,6 +5,7 @@ description: "Cadillac ESCALADE IQ is an all-electric SUV with a EPA range of up
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

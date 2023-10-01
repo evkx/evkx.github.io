@@ -5,6 +5,7 @@ description: "Audi e-tron 55 Sportback is an all-electric luxury coupe SUV with 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

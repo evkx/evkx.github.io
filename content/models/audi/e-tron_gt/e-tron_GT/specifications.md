@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Audi e-tron GT."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg" title="Audi e-tron GT" >}}
 EVKX.net seeks to have the most complete specifications for Audi e-tron GT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron GT, visit the [chargeinfo](../chargecurve/) for Audi e-tron GT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

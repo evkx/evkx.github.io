@@ -5,6 +5,7 @@ description: "Audi Q4 Sportback 35 e-tron is an all-electric premium SUV with a 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

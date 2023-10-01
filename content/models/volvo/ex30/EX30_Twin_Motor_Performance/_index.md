@@ -5,6 +5,7 @@ description: "Volvo EX30 Twin Motor Performance is an all-electric crossover wit
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

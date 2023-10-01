@@ -5,6 +5,7 @@ description: "Volvo XC40 Recharge Single Motor is an all-electric crossover with
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

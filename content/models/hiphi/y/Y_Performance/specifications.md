@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for HiPhi Y Performance."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/hiphi/y/y_performance/main_1_st.jpg" title="HiPhi Y Performance" >}}
 EVKX.net seeks to have the most complete specifications for HiPhi Y Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi Y Performance, visit the [chargeinfo](../chargecurve/) for HiPhi Y Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

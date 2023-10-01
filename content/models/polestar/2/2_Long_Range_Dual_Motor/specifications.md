@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Polestar 2 Long Range Dual Motor."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" title="Polestar 2 Long Range Dual Motor" >}}
 EVKX.net seeks to have the most complete specifications for Polestar 2 Long Range Dual Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Polestar 2 Long Range Dual Motor, visit the [chargeinfo](../chargecurve/) for Polestar 2 Long Range Dual Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

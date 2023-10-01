@@ -5,6 +5,7 @@ description: "XPENG G9 RWD Standard Range is an all-electric SUV with a WLTP ran
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

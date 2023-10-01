@@ -5,6 +5,7 @@ description: "Ford F150 Lightning Extended Range is an all-electric Pickup Truck
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Audi Q4 35 e-tron."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" >}}
 EVKX.net seeks to have the most complete specifications for Audi Q4 35 e-tron. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q4 35 e-tron, visit the [chargeinfo](../chargecurve/) for Audi Q4 35 e-tron with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

@@ -4,6 +4,7 @@ linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Volkswagen ID.4 GTX 4MOTION."
 weight: 9
 hidden: true
+navicon: bi-file-earmark-bar-graph
 ---
 <!-- markdownlint-disable MD033 -->
 

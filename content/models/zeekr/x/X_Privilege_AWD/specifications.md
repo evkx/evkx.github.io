@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Zeekr X Privilege AWD."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/zeekr/x/x_privilege_awd/main_1_st.jpg" title="Zeekr X Privilege AWD" >}}
 EVKX.net seeks to have the most complete specifications for Zeekr X Privilege AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr X Privilege AWD, visit the [chargeinfo](../chargecurve/) for Zeekr X Privilege AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

@@ -5,6 +5,7 @@ description: "GMC Hummer EV Edition 1 Pickup is an all-electric Pickup Truck wit
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

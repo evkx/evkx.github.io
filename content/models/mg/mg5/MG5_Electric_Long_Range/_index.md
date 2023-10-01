@@ -5,6 +5,7 @@ description: "MG MG5 Electric Long Range is an all-electric station wagon with a
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

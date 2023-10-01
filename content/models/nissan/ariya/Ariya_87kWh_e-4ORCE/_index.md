@@ -5,6 +5,7 @@ description: "Nissan Ariya 87kWh e-4ORCE is an all-electric crossover with a WLT
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

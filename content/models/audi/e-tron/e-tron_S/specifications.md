@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Audi e-tron S."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/audi/e-tron/e-tron_s/main_1_st.jpg" title="Audi e-tron S" >}}
 EVKX.net seeks to have the most complete specifications for Audi e-tron S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron S, visit the [chargeinfo](../chargecurve/) for Audi e-tron S with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

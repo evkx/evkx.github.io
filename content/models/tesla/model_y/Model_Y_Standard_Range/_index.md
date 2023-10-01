@@ -5,6 +5,7 @@ description: "Tesla Model Y Standard Range is an all-electric coupe SUV with a W
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

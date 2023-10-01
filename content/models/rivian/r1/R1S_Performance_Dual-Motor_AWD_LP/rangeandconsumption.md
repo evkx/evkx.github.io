@@ -4,6 +4,7 @@ linktitle: "Range & Consumption"
 description: "Here you find all details about range and consumption for Rivian R1S Performance Dual-Motor AWD LP."
 weight: 9
 hidden: true
+navicon: bi-file-earmark-bar-graph
 ---
 <!-- markdownlint-disable MD033 -->
 

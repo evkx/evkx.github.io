@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for BYD Atto 3."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/byd/atto_3/atto_3/main_1_st.jpg" title="BYD Atto 3" >}}
 EVKX.net seeks to have the most complete specifications for BYD Atto 3. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BYD Atto 3, visit the [chargeinfo](../chargecurve/) for BYD Atto 3 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

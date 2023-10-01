@@ -5,6 +5,7 @@ description: "Mercedes-EQ EQS 450 4MATIC is an all-electric luxury sedan with a 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -5,6 +5,7 @@ description: "Audi Q4 Sportback 45 e-tron quattro is an all-electric premium SUV
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

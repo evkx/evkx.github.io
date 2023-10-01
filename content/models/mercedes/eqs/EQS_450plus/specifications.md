@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Mercedes-EQ EQS 450+."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/mercedes/eqs/eqs_450plus/main_1_st.jpg" title="Mercedes-EQ EQS 450+" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQS 450+. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQS 450+, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQS 450+ with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

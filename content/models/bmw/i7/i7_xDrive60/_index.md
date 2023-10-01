@@ -5,6 +5,7 @@ description: "BMW i7 xDrive60 is an all-electric luxury sedan with a WLTP range 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

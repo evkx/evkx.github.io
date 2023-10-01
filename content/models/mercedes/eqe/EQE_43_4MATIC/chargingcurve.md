@@ -4,6 +4,7 @@ linktitle: "Charging performance"
 description: "Here you find the charging curve for Mercedes-AMG EQE 43 4MATIC. "
 weight: 10
 hidden: true
+navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">

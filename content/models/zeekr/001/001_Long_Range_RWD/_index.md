@@ -5,6 +5,7 @@ description: "Zeekr 001 Long Range RWD is an all-electric station wagon with a W
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

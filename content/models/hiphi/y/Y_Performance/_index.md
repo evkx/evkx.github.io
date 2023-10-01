@@ -5,6 +5,7 @@ description: "HiPhi Y Performance is an all-electric premium SUV with a WLTP ran
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

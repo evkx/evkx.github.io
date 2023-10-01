@@ -5,6 +5,7 @@ description: "BYD Tang EV600 is an all-electric SUV with a WLTP range of up to 4
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

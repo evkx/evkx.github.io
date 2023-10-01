@@ -5,6 +5,7 @@ description: "Mercedes-Maybach EQS 680 SUV is an all-electric luxury SUV with a 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

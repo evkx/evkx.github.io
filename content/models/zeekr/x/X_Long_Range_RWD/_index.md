@@ -5,6 +5,7 @@ description: "Zeekr X Long Range RWD is an all-electric crossover with a WLTP ra
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

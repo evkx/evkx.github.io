@@ -5,6 +5,7 @@ description: "Porsche Taycan GTS is an all-electric luxury sedan with a WLTP ran
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

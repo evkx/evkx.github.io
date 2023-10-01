@@ -4,6 +4,7 @@ linktitle: "Charging performance"
 description: "Here you find the charging curve for Porsche Taycan Sport Turismo. "
 weight: 10
 hidden: true
+navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 This model is available with multiple batteries. Below you find the performance for the different battery packs.

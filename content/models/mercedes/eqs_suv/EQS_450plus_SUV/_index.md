@@ -5,6 +5,7 @@ description: "Mercedes-EQ EQS 450+ SUV is an all-electric luxury SUV with a WLTP
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

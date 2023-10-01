@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for BMW iX xDrive50."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/bmw/ix/ix_xdrive50/main_1_st.jpg" title="BMW iX xDrive50" >}}
 EVKX.net seeks to have the most complete specifications for BMW iX xDrive50. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW iX xDrive50, visit the [chargeinfo](../chargecurve/) for BMW iX xDrive50 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

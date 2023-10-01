@@ -5,6 +5,7 @@ description: "Mercedes-EQ EQC 400 4MATIC is an all-electric luxury SUV with a WL
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

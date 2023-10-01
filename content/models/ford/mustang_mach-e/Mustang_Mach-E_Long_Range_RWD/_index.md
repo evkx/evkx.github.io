@@ -5,6 +5,7 @@ description: "Ford Mustang Mach-E Long Range RWD is an all-electric coupe SUV wi
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -5,6 +5,7 @@ description: "Porsche Taycan 4 Cross Turismo is an all-electric luxury station w
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

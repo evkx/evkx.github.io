@@ -5,6 +5,7 @@ description: "Porsche Taycan 4S is an all-electric luxury sedan with a WLTP rang
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

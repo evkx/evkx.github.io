@@ -5,6 +5,7 @@ description: "Renault Scenic E-Tech electric High Range is an all-electric cross
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

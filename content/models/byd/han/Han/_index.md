@@ -5,6 +5,7 @@ description: "BYD Han is an all-electric sedan with a WLTP range of up to 521 km
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

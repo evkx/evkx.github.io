@@ -5,6 +5,7 @@ description: "Audi Q4 40 e-tron is an all-electric premium SUV with a WLTP range
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

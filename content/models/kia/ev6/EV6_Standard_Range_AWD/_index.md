@@ -5,6 +5,7 @@ description: "Kia EV6 Standard Range AWD is an all-electric crossover with a WLT
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

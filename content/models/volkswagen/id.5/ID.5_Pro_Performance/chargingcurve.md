@@ -4,6 +4,7 @@ linktitle: "Charging performance"
 description: "Here you find the charging curve for Volkswagen ID.5 Pro Performance. "
 weight: 10
 hidden: true
+navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">

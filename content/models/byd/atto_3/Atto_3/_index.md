@@ -5,6 +5,7 @@ description: "BYD Atto 3 is an all-electric SUV with a WLTP range of up to 420 k
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

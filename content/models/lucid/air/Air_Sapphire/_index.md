@@ -5,6 +5,7 @@ description: "Lucid Air Sapphire is an all-electric sedan with a EPA range of up
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

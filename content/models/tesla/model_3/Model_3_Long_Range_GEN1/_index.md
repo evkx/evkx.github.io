@@ -5,6 +5,7 @@ description: "Tesla Model 3 Long Range (GEN1) is an all-electric sedan with a WL
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

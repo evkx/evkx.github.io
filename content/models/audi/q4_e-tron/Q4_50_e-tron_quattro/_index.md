@@ -5,6 +5,7 @@ description: "Audi Q4 50 e-tron quattro is an all-electric premium SUV with a WL
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

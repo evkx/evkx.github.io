@@ -5,6 +5,7 @@ description: "Tesla Model S is an all-electric sedan with a WLTP range of up to 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

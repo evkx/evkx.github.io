@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for VOYAH FREE."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/voyah/free/free/main_1_st.jpg" title="VOYAH FREE" >}}
 EVKX.net seeks to have the most complete specifications for VOYAH FREE. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of VOYAH FREE, visit the [chargeinfo](../chargecurve/) for VOYAH FREE with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

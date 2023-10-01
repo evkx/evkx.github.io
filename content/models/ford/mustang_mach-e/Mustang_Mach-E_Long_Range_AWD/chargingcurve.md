@@ -4,6 +4,7 @@ linktitle: "Charging performance"
 description: "Here you find the charging curve for Ford Mustang Mach-E Long Range AWD. "
 weight: 10
 hidden: true
+navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
 <img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">

@@ -5,6 +5,7 @@ description: "Hyundai Ioniq 6 Long Range RWD is an all-electric sedan with a WLT
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

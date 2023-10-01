@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Rivian R1S Quad-Motor AWD."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg" title="Rivian R1S Quad-Motor AWD" >}}
 EVKX.net seeks to have the most complete specifications for Rivian R1S Quad-Motor AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Rivian R1S Quad-Motor AWD, visit the [chargeinfo](../chargecurve/) for Rivian R1S Quad-Motor AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

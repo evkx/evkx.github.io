@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Mercedes-EQ EQS 500 4MATIC."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/mercedes/eqs/eqs_500_4matic/main_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQS 500 4MATIC. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQS 500 4MATIC, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQS 500 4MATIC with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

@@ -5,6 +5,7 @@ description: "Chevrolet Silverado EV 4WT is an all-electric Pickup Truck with a 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

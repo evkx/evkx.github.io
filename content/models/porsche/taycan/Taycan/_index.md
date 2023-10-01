@@ -5,6 +5,7 @@ description: "Porsche Taycan is an all-electric luxury sedan with a WLTP range o
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

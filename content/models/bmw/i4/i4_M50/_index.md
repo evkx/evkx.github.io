@@ -5,6 +5,7 @@ description: "BMW i4 M50 is an all-electric premium sedan with a WLTP range of u
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

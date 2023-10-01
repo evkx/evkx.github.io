@@ -5,6 +5,7 @@ description: "Audi Q4 45 e-tron quattro (GEN1) is an all-electric premium SUV wi
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

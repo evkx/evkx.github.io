@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for BYD Seal AWD."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/byd/seal/seal_awd/main_1_st.jpg" title="BYD Seal AWD" >}}
 EVKX.net seeks to have the most complete specifications for BYD Seal AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BYD Seal AWD, visit the [chargeinfo](../chargecurve/) for BYD Seal AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

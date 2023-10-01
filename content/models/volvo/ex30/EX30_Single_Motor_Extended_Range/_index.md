@@ -5,6 +5,7 @@ description: "Volvo EX30 Single Motor Extended Range is an all-electric crossove
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

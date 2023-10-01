@@ -5,6 +5,7 @@ description: "Volvo EX90 Twin Motor is an all-electric SUV with a WLTP range of 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

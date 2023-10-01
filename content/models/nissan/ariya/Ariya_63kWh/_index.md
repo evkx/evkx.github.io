@@ -5,6 +5,7 @@ description: "Nissan Ariya 63kWh is an all-electric crossover with a WLTP range 
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Volvo EX30 Twin Motor Performance."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" title="Volvo EX30 Twin Motor Performance" >}}
 EVKX.net seeks to have the most complete specifications for Volvo EX30 Twin Motor Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo EX30 Twin Motor Performance, visit the [chargeinfo](../chargecurve/) for Volvo EX30 Twin Motor Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

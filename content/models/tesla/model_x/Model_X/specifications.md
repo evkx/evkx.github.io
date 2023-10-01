@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Tesla Model X."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/tesla/model_x/model_x/main_1_st.jpg" title="Tesla Model X" >}}
 EVKX.net seeks to have the most complete specifications for Tesla Model X. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model X, visit the [chargeinfo](../chargecurve/) for Tesla Model X with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 

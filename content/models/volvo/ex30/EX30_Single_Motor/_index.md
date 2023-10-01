@@ -5,6 +5,7 @@ description: "Volvo EX30 Single Motor is an all-electric crossover with a WLTP r
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

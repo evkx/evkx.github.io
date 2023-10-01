@@ -5,6 +5,7 @@ description: "Tesla Model X Standard Range is an all-electric SUV with a WLTP ra
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

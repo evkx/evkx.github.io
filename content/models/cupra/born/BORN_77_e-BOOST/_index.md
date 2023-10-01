@@ -5,6 +5,7 @@ description: "CUPRA BORN 77 e-BOOST is an all-electric hatchback with a WLTP ran
 weight: 10
 hidden: true
 shownavtabs: true
+navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 

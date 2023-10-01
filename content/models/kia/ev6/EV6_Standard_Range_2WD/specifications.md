@@ -4,6 +4,7 @@ linktitle: "Specifications"
 description: "EVKX.net gives you the full specifications for Kia EV6 Standard Range 2WD."
 weight: 30
 hidden: true
+navicon: bi-layout-text-sidebar-reverse
 ---
 {{< sitefigure thumb="models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg" title="Kia EV6 Standard Range 2WD" >}}
 EVKX.net seeks to have the most complete specifications for Kia EV6 Standard Range 2WD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia EV6 Standard Range 2WD, visit the [chargeinfo](../chargecurve/) for Kia EV6 Standard Range 2WD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
