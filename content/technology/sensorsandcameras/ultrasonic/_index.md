@@ -11,12 +11,7 @@ Ultrasonic sensors are typically mounted on the rear bumper of a car, but can al
 
 When a driver engages reverse gear, the ultrasonic sensors are activated and begin scanning the area behind the car. If an object is detected within a certain distance, the sensors will emit a warning sound or display an image on the car's display screen to alert the driver.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/sensorsandcameras/ultrasonic/illustrationetronfront.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/ultrasonic/illustrationetronfront_st.jpg" alt="Audi e-tron ultrasonic sensors front" title="Audi e-tron ultrasonic sensors front">
-    </a>
-    <figcaption><h4>Audi e-tron ultrasonic sensors front</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/sensorsandcameras/ultrasonic/illustrationetronfront_st.jpg" title="Audi e-tron ultrasonic sensors front" >}}
 
 Some advanced ultrasonic sensor systems can also provide haptic feedback to the driver through the steering wheel or seat, providing a physical indication of the proximity of objects.
 
@@ -24,13 +19,7 @@ While ultrasonic sensors are effective for detecting objects at close range, the
 
 Overall, ultrasonic sensors are a useful safety feature in cars that can help drivers avoid collisions and park more easily. However, they should not be relied upon as the sole means of detecting obstacles, and drivers should always exercise caution and use their mirrors and other safety features to ensure safe driving.
 
-
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/sensorsandcameras/ultrasonic/illustrationetronrear.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/ultrasonic/illustrationetronrear_st.jpg" alt="Audi e-tron ultrasonic sensors front" title="Audi e-tron ultrasonic sensors front">
-    </a>
-    <figcaption><h4>Audi e-tron ultrasonic sensors front</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/sensorsandcameras/ultrasonic/illustrationetronrear_st.jpg" title="Audi e-tron ultrasonic sensors front" >}}
 
 To reduce cost, Tesla has decided to remove ultrasonic sensors from some of their models. This has not been a great success. See test below.
 
