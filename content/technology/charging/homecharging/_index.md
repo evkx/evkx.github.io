@@ -171,7 +171,7 @@ As you can see from comparing the tables, even for the models with high consumpt
 
 It would be best to consider the future when installing a new dedicated circuit. The future is Electric, and your new EV is probably not the last. So if you need a less powerful full charger now, you can still install a circuit that could handle more power in the future.
 
-{{< sitefigure thumb="technology/charging/homecharging/porsche100amps_1_st.jpg" title="Porsche 19.2 KW hardwired charger" >}}
+{{< sitefigure thumb="technology/charging/homecharging/porsche100amps_1_st.jpeg" title="Porsche 19.2 KW hardwired charger" >}}
 
 Check the electrical requirements of your chosen charger and compare them with your home's existing wiring and circuit breaker. You may need to upgrade your electrical panel or install a new dedicated circuit for your charger.
 Hire a licensed electrician to install your home charger according to the local codes and regulations. 
