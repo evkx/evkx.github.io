@@ -7,8 +7,8 @@ hidden: true
 navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
-<div class="pswp-grid-item">
+<div class="row" id ="my-gallery">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_1.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_1.jpeg"
 data-pswp-width="1280"
@@ -17,7 +17,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_1_xst.jpeg" alt="Zeekr 001 FR" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_2.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_2.jpeg"
 data-pswp-width="3000"
@@ -26,7 +26,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_2_xst.jpeg" alt="Zeekr 001 FR" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_3.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_3.jpeg"
 data-pswp-width="2277"
@@ -35,7 +35,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_3_xst.jpeg" alt="Zeekr 001 FR" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_4.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_4.jpeg"
 data-pswp-width="2882"
@@ -44,7 +44,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_4_xst.jpeg" alt="Zeekr 001 FR" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_5.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_5.jpeg"
 data-pswp-width="3000"
@@ -53,7 +53,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_5_xst.jpeg" alt="Zeekr 001 FR" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1.jpeg"
 data-pswp-width="1280"

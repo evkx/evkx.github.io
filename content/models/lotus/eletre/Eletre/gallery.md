@@ -7,8 +7,8 @@ hidden: true
 navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
-<div class="pswp-grid-item">
+<div class="row" id ="my-gallery">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/chargport_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/chargport_1.jpg"
 data-pswp-width="3000"
@@ -17,7 +17,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/chargport_1_xst.jpg" alt="Lotus Eletre" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/exterior_1.jpg"
 data-pswp-width="3000"
@@ -26,7 +26,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/exterior_1_xst.jpg" alt="Lotus Eletre" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/exterior_2.jpg"
 data-pswp-width="3000"
@@ -35,7 +35,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/exterior_2_xst.jpg" alt="Lotus Eletre" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/exterior_3.jpg"
 data-pswp-width="3000"
@@ -44,7 +44,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/exterior_3_xst.jpg" alt="Lotus Eletre" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/exterior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/exterior_4.jpg"
 data-pswp-width="3000"
@@ -53,7 +53,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/exterior_4_xst.jpg" alt="Lotus Eletre" width="200px" height="114px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/frontseats_1.jpg"
 data-pswp-width="3000"
@@ -62,7 +62,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/frontseats_1_xst.jpg" alt="Lotus Eletre" width="200px" height="118px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/headlights_1.jpg"
 data-pswp-width="3000"
@@ -71,7 +71,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/headlights_1_xst.jpg" alt="Lotus Eletre" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/interior_1.jpg"
 data-pswp-width="3000"
@@ -80,7 +80,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/interior_1_xst.jpg" alt="Lotus Eletre" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/interior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/interior_2.jpg"
 data-pswp-width="3000"
@@ -89,7 +89,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/interior_2_xst.jpg" alt="Lotus Eletre" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/interior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/interior_3.jpg"
 data-pswp-width="3000"
@@ -98,7 +98,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/interior_3_xst.jpg" alt="Lotus Eletre" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/main_1.jpg"
 data-pswp-width="3000"
@@ -107,7 +107,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/main_1_xst.jpg" alt="Lotus Eletre" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/rearlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/rearlights_1.jpg"
 data-pswp-width="3000"
@@ -116,7 +116,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/rearlights_1_xst.jpg" alt="Lotus Eletre" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/screens_1.jpg"
 data-pswp-width="3000"
@@ -125,7 +125,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/screens_1_xst.jpg" alt="Lotus Eletre" width="200px" height="127px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/screens_2.jpg"
 data-pswp-width="3000"
@@ -134,7 +134,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/screens_2_xst.jpg" alt="Lotus Eletre" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/secondrowseats_1.jpg"
 data-pswp-width="3000"
@@ -143,7 +143,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/secondrowseats_1_xst.jpg" alt="Lotus Eletre" width="200px" height="123px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/trunk_1.jpg"
 data-pswp-width="3000"

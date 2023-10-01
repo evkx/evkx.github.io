@@ -7,8 +7,8 @@ hidden: true
 navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
-<div class="pswp-grid-item">
+<div class="row" id ="my-gallery">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/nio/et7/et7/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/et7/et7/exterior_1.jpg"
 data-pswp-width="2880"
@@ -17,7 +17,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/nio/et7/et7/exterior_1_xst.jpg" alt="Nio ET7" width="200px" height="124px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/nio/et7/et7/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/et7/et7/exterior_2.jpg"
 data-pswp-width="2880"
@@ -26,7 +26,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/nio/et7/et7/exterior_2_xst.jpg" alt="Nio ET7" width="200px" height="124px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/nio/et7/et7/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/et7/et7/headlights_1.jpg"
 data-pswp-width="1200"
@@ -35,7 +35,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/nio/et7/et7/headlights_1_xst.jpg" alt="Nio ET7" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/nio/et7/et7/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/et7/et7/interior_1.jpg"
 data-pswp-width="1390"
@@ -44,7 +44,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/nio/et7/et7/interior_1_xst.jpg" alt="Nio ET7" width="200px" height="109px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/nio/et7/et7/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/et7/et7/main_1.jpg"
 data-pswp-width="2880"
@@ -53,7 +53,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/nio/et7/et7/main_1_xst.jpg" alt="Nio ET7" width="200px" height="124px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/nio/et7/et7/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/et7/et7/screens_1.jpg"
 data-pswp-width="1390"
@@ -62,7 +62,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/nio/et7/et7/screens_1_xst.jpg" alt="Nio ET7" width="200px" height="109px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/nio/et7/et7/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/et7/et7/screens_2.jpg"
 data-pswp-width="2880"

@@ -7,8 +7,8 @@ hidden: true
 navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
-<div class="pswp-grid-item">
+<div class="row" id ="my-gallery">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_1.jpg"
 data-pswp-width="3000"
@@ -17,7 +17,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_1_xst.jpg" alt="Audi e-tron GT" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_2.jpg"
 data-pswp-width="3000"
@@ -26,7 +26,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/exterior_2_xst.jpg" alt="Audi e-tron GT" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/frontseats_1.jpg"
 data-pswp-width="3000"
@@ -35,7 +35,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/frontseats_1_xst.jpg" alt="Audi e-tron GT" width="200px" height="149px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/headlights_1.jpg"
 data-pswp-width="3000"
@@ -44,7 +44,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/headlights_1_xst.jpg" alt="Audi e-tron GT" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/interior_1.jpg"
 data-pswp-width="3000"
@@ -53,7 +53,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/interior_1_xst.jpg" alt="Audi e-tron GT" width="200px" height="130px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1.jpg"
 data-pswp-width="3000"
@@ -62,7 +62,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_xst.jpg" alt="Audi e-tron GT" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/screens_1.jpg"
 data-pswp-width="3000"
@@ -71,7 +71,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/screens_1_xst.jpg" alt="Audi e-tron GT" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/secondrowseats_1.jpg"
 data-pswp-width="3000"
@@ -80,7 +80,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/secondrowseats_1_xst.jpg" alt="Audi e-tron GT" width="200px" height="149px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/trunk_1.jpg"
 data-pswp-width="3000"
@@ -89,7 +89,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/trunk_1_xst.jpg" alt="Audi e-tron GT" width="200px" height="149px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/wheels_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/wheels_1.jpg"
 data-pswp-width="3000"

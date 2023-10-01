@@ -7,8 +7,8 @@ hidden: true
 navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
-<div class="pswp-grid-item">
+<div class="row" id ="my-gallery">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/battery_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/battery_1.jpg"
 data-pswp-width="3000"
@@ -17,7 +17,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/battery_1_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="117px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/exterior_1.jpg"
 data-pswp-width="3000"
@@ -26,7 +26,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/exterior_1_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="150px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/exterior_2.jpg"
 data-pswp-width="3000"
@@ -35,7 +35,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/exterior_2_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/exterior_3.jpg"
 data-pswp-width="3000"
@@ -44,7 +44,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/exterior_3_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="127px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/frontseats_1.jpg"
 data-pswp-width="3000"
@@ -53,7 +53,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/frontseats_1_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/frontseats_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/frontseats_2.jpg"
 data-pswp-width="3000"
@@ -62,7 +62,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/frontseats_2_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/headlights_1.jpg"
 data-pswp-width="3000"
@@ -71,7 +71,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/headlights_1_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/interior_1.jpg"
 data-pswp-width="3000"
@@ -80,7 +80,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/interior_1_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/main_1.jpg"
 data-pswp-width="3000"
@@ -89,7 +89,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/main_1_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/screens_1.jpg"
 data-pswp-width="3000"
@@ -98,7 +98,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/screens_1_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/secondrowseats_1.jpg"
 data-pswp-width="3000"
@@ -107,7 +107,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/secondrowseats_1_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/secondrowseats_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/secondrowseats_2.jpg"
 data-pswp-width="3000"
@@ -116,7 +116,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/secondrowseats_2_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/technology_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/technology_1.jpg"
 data-pswp-width="3000"
@@ -125,7 +125,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/technology_1_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/trunk_1.jpg"
 data-pswp-width="3000"
@@ -134,7 +134,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/trunk_1_xst.jpg" alt="Audi Q4 50 e-tron quattro" width="200px" height="149px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/trunk_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_50_e-tron_quattro/trunk_2.jpg"
 data-pswp-width="3000"

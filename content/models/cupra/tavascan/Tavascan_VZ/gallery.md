@@ -7,8 +7,8 @@ hidden: true
 navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
-<div class="pswp-grid-item">
+<div class="row" id ="my-gallery">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_1.JPG"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_1.JPG"
 data-pswp-width="3000"
@@ -17,7 +17,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_1_xst.JPG" alt="CUPRA Tavascan VZ" width="200px" height="111px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_2.JPG"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_2.JPG"
 data-pswp-width="3000"
@@ -26,7 +26,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_2_xst.JPG" alt="CUPRA Tavascan VZ" width="200px" height="108px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_3.JPG"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_3.JPG"
 data-pswp-width="3000"
@@ -35,7 +35,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_3_xst.JPG" alt="CUPRA Tavascan VZ" width="200px" height="101px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_4.JPG"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_4.JPG"
 data-pswp-width="3000"
@@ -44,7 +44,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_4_xst.JPG" alt="CUPRA Tavascan VZ" width="200px" height="103px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_5.JPG"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_5.JPG"
 data-pswp-width="3000"
@@ -53,7 +53,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_5_xst.JPG" alt="CUPRA Tavascan VZ" width="200px" height="109px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_6.JPG"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_6.JPG"
 data-pswp-width="3000"
@@ -62,7 +62,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/exterior_6_xst.JPG" alt="CUPRA Tavascan VZ" width="200px" height="110px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/frontseats_1.jpg"
 data-pswp-width="3000"
@@ -71,7 +71,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/frontseats_1_xst.jpg" alt="CUPRA Tavascan VZ" width="200px" height="150px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/headlights_1.JPG"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/headlights_1.JPG"
 data-pswp-width="3000"
@@ -80,7 +80,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/headlights_1_xst.JPG" alt="CUPRA Tavascan VZ" width="200px" height="111px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_1.jpg"
 data-pswp-width="3000"
@@ -89,7 +89,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_1_xst.jpg" alt="CUPRA Tavascan VZ" width="200px" height="132px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_2.jpg"
 data-pswp-width="3000"
@@ -98,7 +98,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_2_xst.jpg" alt="CUPRA Tavascan VZ" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_3.jpg"
 data-pswp-width="3000"
@@ -107,7 +107,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_3_xst.jpg" alt="CUPRA Tavascan VZ" width="200px" height="114px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_4.jpg"
 data-pswp-width="3000"
@@ -116,7 +116,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_4_xst.jpg" alt="CUPRA Tavascan VZ" width="200px" height="114px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_5.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_5.jpg"
 data-pswp-width="3000"
@@ -125,7 +125,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/interior_5_xst.jpg" alt="CUPRA Tavascan VZ" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1.JPG"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1.JPG"
 data-pswp-width="3000"
@@ -134,7 +134,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_xst.JPG" alt="CUPRA Tavascan VZ" width="200px" height="111px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/rearlights_1.JPG"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/rearlights_1.JPG"
 data-pswp-width="3000"
@@ -143,7 +143,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/rearlights_1_xst.JPG" alt="CUPRA Tavascan VZ" width="200px" height="100px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/screens_1.jpg"
 data-pswp-width="3000"
@@ -152,7 +152,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/screens_1_xst.jpg" alt="CUPRA Tavascan VZ" width="200px" height="114px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/screens_2.jpg"
 data-pswp-width="3000"
@@ -161,7 +161,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/screens_2_xst.jpg" alt="CUPRA Tavascan VZ" width="200px" height="114px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/wheels_1.JPG"
 data-pswp-src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/wheels_1.JPG"
 data-pswp-width="3000"

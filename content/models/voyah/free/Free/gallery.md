@@ -7,8 +7,8 @@ hidden: true
 navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
-<div class="pswp-grid-item">
+<div class="row" id ="my-gallery">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/voyah/free/free/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/voyah/free/free/exterior_1.jpg"
 data-pswp-width="3000"
@@ -17,7 +17,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/voyah/free/free/exterior_1_xst.jpg" alt="VOYAH FREE" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/voyah/free/free/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/voyah/free/free/interior_1.jpg"
 data-pswp-width="2560"
@@ -26,7 +26,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/voyah/free/free/interior_1_xst.jpg" alt="VOYAH FREE" width="200px" height="136px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/voyah/free/free/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1.jpg"
 data-pswp-width="3000"
@@ -35,7 +35,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_xst.jpg" alt="VOYAH FREE" width="200px" height="150px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/voyah/free/free/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/voyah/free/free/screens_1.jpg"
 data-pswp-width="2560"

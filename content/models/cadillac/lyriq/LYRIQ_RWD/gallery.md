@@ -7,8 +7,8 @@ hidden: true
 navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
-<div class="pswp-grid-item">
+<div class="row" id ="my-gallery">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/chargeport_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/chargeport_1.jpg"
 data-pswp-width="3000"
@@ -17,7 +17,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/chargeport_1_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/exterior_1.jpg"
 data-pswp-width="3000"
@@ -26,7 +26,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/exterior_1_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="149px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/exterior_2.jpg"
 data-pswp-width="3000"
@@ -35,7 +35,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/exterior_2_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="149px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/exterior_3.jpg"
 data-pswp-width="3000"
@@ -44,7 +44,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/exterior_3_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/frontseats_1.jpg"
 data-pswp-width="3000"
@@ -53,7 +53,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/frontseats_1_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="180px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/frontseats_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/frontseats_2.jpg"
 data-pswp-width="3000"
@@ -62,7 +62,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/frontseats_2_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/glassroof_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/glassroof_1.jpg"
 data-pswp-width="3000"
@@ -71,7 +71,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/glassroof_1_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="113px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/glassroof_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/glassroof_2.jpg"
 data-pswp-width="3000"
@@ -80,7 +80,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/glassroof_2_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/headlights_1.jpg"
 data-pswp-width="3000"
@@ -89,7 +89,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/headlights_1_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="131px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/interior_1.jpg"
 data-pswp-width="3000"
@@ -98,7 +98,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/interior_1_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/interior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/interior_2.jpg"
 data-pswp-width="3000"
@@ -107,7 +107,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/interior_2_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/main_1.jpg"
 data-pswp-width="3000"
@@ -116,7 +116,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/main_1_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="149px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/rearlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/rearlights_1.jpg"
 data-pswp-width="3000"
@@ -125,7 +125,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/rearlights_1_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="149px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/screens_1.jpg"
 data-pswp-width="3000"
@@ -134,7 +134,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/screens_1_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/screens_2.jpg"
 data-pswp-width="3000"
@@ -143,7 +143,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/screens_2_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/secondrowseats_1.jpg"
 data-pswp-width="3000"
@@ -152,7 +152,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/secondrowseats_1_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="149px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/trunk_1.jpg"
 data-pswp-width="3000"
@@ -161,7 +161,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/trunk_1_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/trunk_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/trunk_2.jpg"
 data-pswp-width="3000"
@@ -170,7 +170,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/trunk_2_xst.jpg" alt="Cadillac LYRIQ RWD" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/wheels_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/wheels_1.jpg"
 data-pswp-width="3000"

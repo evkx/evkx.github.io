@@ -7,8 +7,8 @@ hidden: true
 navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
-<div class="pswp-grid-item">
+<div class="row" id ="my-gallery">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_1.jpg"
 data-pswp-width="3000"
@@ -17,7 +17,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_1_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_2.jpg"
 data-pswp-width="3000"
@@ -26,7 +26,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_2_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_3.jpg"
 data-pswp-width="3000"
@@ -35,7 +35,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_3_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_4.jpg"
 data-pswp-width="3000"
@@ -44,7 +44,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/exterior_4_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="164px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/lights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/lights_1.jpg"
 data-pswp-width="3000"
@@ -53,7 +53,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/lights_1_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="112px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1.jpg"
 data-pswp-width="3000"
@@ -62,7 +62,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/main_1_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_1.jpg"
 data-pswp-width="3000"
@@ -71,7 +71,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_1_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_2.jpg"
 data-pswp-width="3000"
@@ -80,7 +80,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/screens_2_xst.jpg" alt="Porsche Taycan Turbo" width="200px" height="150px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo/trunk_1.jpg"
 data-pswp-width="3000"

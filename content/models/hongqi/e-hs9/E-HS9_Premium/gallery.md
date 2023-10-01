@@ -7,8 +7,8 @@ hidden: true
 navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
-<div class="pswp-grid-item">
+<div class="row" id ="my-gallery">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_1.jpg"
 data-pswp-width="3000"
@@ -17,7 +17,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_1_xst.jpg" alt="Hongqi E-HS9 Premium" width="200px" height="117px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_2.jpg"
 data-pswp-width="3000"
@@ -26,7 +26,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_2_xst.jpg" alt="Hongqi E-HS9 Premium" width="200px" height="146px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_3.jpg"
 data-pswp-width="1760"
@@ -35,7 +35,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_3_xst.jpg" alt="Hongqi E-HS9 Premium" width="200px" height="93px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_4.jpg"
 data-pswp-width="1137"
@@ -44,7 +44,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/exterior_4_xst.jpg" alt="Hongqi E-HS9 Premium" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/headlights_1.jpg"
 data-pswp-width="851"
@@ -53,7 +53,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/headlights_1_xst.jpg" alt="Hongqi E-HS9 Premium" width="200px" height="161px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/interior_1.jpg"
 data-pswp-width="1760"
@@ -62,7 +62,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/interior_1_xst.jpg" alt="Hongqi E-HS9 Premium" width="200px" height="77px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1.jpg"
 data-pswp-width="3000"
@@ -71,7 +71,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1_xst.jpg" alt="Hongqi E-HS9 Premium" width="200px" height="136px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/screens_1.jpg"
 data-pswp-width="3000"

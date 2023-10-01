@@ -7,8 +7,8 @@ hidden: true
 navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="pswp-gallery pswp-grid-container" id ="my-gallery">
-<div class="pswp-grid-item">
+<div class="row" id ="my-gallery">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/centerconsole_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/centerconsole_1.jpg"
 data-pswp-width="2500"
@@ -17,7 +17,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/centerconsole_1_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="116px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/exterior_1.jpg"
 data-pswp-width="2499"
@@ -26,7 +26,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/exterior_1_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="129px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/exterior_2.jpg"
 data-pswp-width="2500"
@@ -35,7 +35,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/exterior_2_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="129px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/exterior_3.jpg"
 data-pswp-width="2500"
@@ -44,7 +44,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/exterior_3_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="129px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/frontseats_1.jpg"
 data-pswp-width="2500"
@@ -53,7 +53,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/frontseats_1_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="126px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/frontseats_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/frontseats_2.jpg"
 data-pswp-width="2500"
@@ -62,7 +62,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/frontseats_2_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/headlights_1.jpg"
 data-pswp-width="2500"
@@ -71,7 +71,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/headlights_1_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="115px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_1.jpg"
 data-pswp-width="2500"
@@ -80,7 +80,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_1_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_2.jpg"
 data-pswp-width="2500"
@@ -89,7 +89,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_2_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="129px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_3.jpg"
 data-pswp-width="2500"
@@ -98,7 +98,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_3_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_4.jpg"
 data-pswp-width="2500"
@@ -107,7 +107,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_4_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="129px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_5.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_5.jpg"
 data-pswp-width="3000"
@@ -116,7 +116,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_5_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_6.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_6.jpg"
 data-pswp-width="3000"
@@ -125,7 +125,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/interior_6_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1.jpg"
 data-pswp-width="3000"
@@ -134,7 +134,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="141px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/screens_1.jpg"
 data-pswp-width="2500"
@@ -143,7 +143,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/screens_1_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="124px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/screens_2.jpg"
 data-pswp-width="3000"
@@ -152,7 +152,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/screens_2_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/screen_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/screen_3.jpg"
 data-pswp-width="3000"
@@ -161,7 +161,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/screen_3_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1.jpg"
 data-pswp-width="2500"
@@ -170,7 +170,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="129px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/secondrowseats_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/secondrowseats_2.jpg"
 data-pswp-width="2500"
@@ -179,7 +179,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/secondrowseats_2_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="139px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/secondrowseats_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/secondrowseats_3.jpg"
 data-pswp-width="3000"
@@ -188,7 +188,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/secondrowseats_3_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="133px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/trunk_1.jpg"
 data-pswp-width="2500"
@@ -197,7 +197,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/trunk_1_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="142px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/trunk_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/trunk_2.jpg"
 data-pswp-width="2500"
@@ -206,7 +206,7 @@ target="_blank">
 <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/trunk_2_xst.jpg" alt="BYD Dolphin 60.4kWh" width="200px" height="129px" />
 </a>
 </div>
-<div class="pswp-grid-item">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/wheels_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/wheels_1.jpg"
 data-pswp-width="2500"
