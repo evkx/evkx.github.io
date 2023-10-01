@@ -8,21 +8,11 @@ weight: 4
 
 Steering wheels come in various shapes, sizes, and materials. Common steering wheel shapes include classic circular designs and sportier designs such as D-shaped, flat-bottomed, or contoured ones.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/userinterface/steeringwheel/porschewheel_1.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/steeringwheel/porschewheel_1_st.jpg" alt="Porsche Taycan steering wheel" title="Porsche Taycan steering wheel" class="img-fluid">
-    </a>
-    <figcaption><h4>Porsche Taycan steering wheel</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/userinterface/steeringwheel/porschewheel_1_st.jpg" title="Porsche Taycan steering wheel" >}}
 
 Both Tesla and Lexus have launched EVs with Yoke wheels. However, this design has gotten mixed reviews.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/userinterface/steeringwheel/teslayoke.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/steeringwheel/teslayoke_st.jpg" alt="Porsche Taycan steering wheel" title="Porsche Taycan steering wheel" class="img-fluid">
-    </a>
-    <figcaption><h4>Porsche Taycan steering wheel</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/userinterface/steeringwheel/teslayoke_st.jpg" title="Porsche Taycan steering wheel" >}}
 
 The size of a steering wheel can vary depending on the make and model of the vehicle, with smaller steering wheels often used in sportier cars for more precise control.
 

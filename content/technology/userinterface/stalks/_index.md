@@ -20,12 +20,7 @@ Here are some common types of stalks found in cars:
 
 Cars with adaptive cruise control often have an adjustment for distance to the vehicle in front.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/userinterface/stalks/audicruisecontrol.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/audicruisecontrol_st.jpg" alt="Audi Q8 e-tron adaptive cruise control stalk with distance adjustment" title="Audi Q8 e-tron adaptive cruise control stalk with distance adjustment" class="img-fluid">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron cruise control stalk with distance adjustment</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/userinterface/stalks/audicruisecontrol_st.jpg" title="Audi Q8 e-tron cruise control stalk with distance adjustment" >}}
 
 **Multi-Function Stalks:** Some vehicles may have stalks that combine multiple functions, such as incorporating controls for the turn signals, headlights, and windshield wipers into a single stalk. These multi-function stalks can vary in design and functionality, depending on the vehicle manufacturer and model.
 

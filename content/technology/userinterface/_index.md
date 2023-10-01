@@ -16,12 +16,7 @@ Modern vehicles often feature advanced user interfaces incorporating infotainmen
 
 The manufacturer may design these interfaces for different types of users, including drivers, passengers, and sometimes even pedestrians, and may vary depending on the car's make, model, and year. 
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/screens_1.jpg">
-        <img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/screens_1_st.jpg" alt="Tesla Model S" title="Tesla Model S" class="img-fluid">
-    </a>
-    <figcaption><h4>Tesla Model S</h4></figcaption>
-</figur>
+{{< sitefigure thumb="models/tesla/model_s/model_s_plaid/screens_1_st.jpg" title="Tesla Model S" >}}
 
 The user interface of cars continues to evolve with advancements in technology, including integrating voice commands, touchless gestures, augmented reality, and other emerging technologies to improve the overall driving experience.
 

@@ -14,41 +14,21 @@ Manufacturers design these buttons to provide the driver and passengers convenie
 
 EV manufacturers typically locate these buttons on the instrument panel, which is in front of the driver and contains gauges, displays, and controls. These buttons may control functions such as lights, wipers, climate control, and other vehicle settings.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/userinterface/buttons/audietronbuttonsinstrument.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/audietronbuttonsinstrument_st.jpg" alt="Audi Q8 e-tron light control buttons" title="Audi Q8 e-tron light control buttons" class="img-fluid">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron light control buttons</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/userinterface/buttons/audietronbuttonsinstrument_st.jpg" title="Audi Q8 e-tron light control buttons" >}}
 
 ### Center console buttons
 
 EV manufacturers locate these buttons on the center console, the central area between the driver and front passenger seats. These buttons may control functions such as audio and infotainment, air conditioning, seat heating/cooling, and more.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/userinterface/buttons/kiaev6centerconsolbuttons.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/kiaev6centerconsolbuttons_st.jpg" alt="Kia EV6 center console buttons" title="Kia EV6 center console buttons" class="img-fluid">
-    </a>
-    <figcaption><h4>Kia EV6 center console buttons</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/userinterface/buttons/kiaev6centerconsolbuttons_st.jpg" title="Kia EV6 center console buttons" >}}
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/userinterface/buttons/etrongtcenterconsolbuttons.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/etrongtcenterconsolbuttons_st.jpg" alt="Audi e-tron GT center console buttons" title="Audi e-tron GT center console buttons" class="img-fluid">
-    </a>
-    <figcaption><h4>Audi e-tron GT center console buttons</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/userinterface/buttons/etrongtcenterconsolbuttons_st.jpg" title="Audi e-tron GT center console buttons" >}}
 
 ### Door panel buttons
 
 EV manufacturers locate these buttons on the door panels and control functions such as window switches, door lock/unlock, mirror adjustments, and sometimes even seat adjustments.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/userinterface/buttons/eqssuvdoorbuttons.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/eqssuvdoorbuttons_st.jpg" alt="Mercedes EQS Suv door panels buttons" title="Mercedes EQS Suv door panels buttons" class="img-fluid">
-    </a>
-    <figcaption><h4>Mercedes EQS Suv door panels buttons</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/userinterface/buttons/eqssuvdoorbuttons_st.jpg" title="Mercedes EQS Suv door panels buttons" >}}
 
 ### Steering wheel buttons
 
@@ -74,12 +54,7 @@ Buttons may be made of durable materials such as plastic or metal, and they may 
 
 Twenty years ago, every function had a button in a car, but more and more are moved to touch screens. Tesla is one of the most extreme manufacturers, with only a few physical buttons.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/userinterface/buttons/teslamodelybuttons.jpg">
-        <img src="https://media.evkx.net/multimedia/technology/userinterface/buttons/teslamodelybuttons_st.jpg" alt="Tesla Model Y with only a few physical buttons" title="Tesla Model Y with only a few physical buttons" class="img-fluid">
-    </a>
-    <figcaption><h4>Tesla Model Y with only a few physical buttons</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/userinterface/buttons/teslamodelybuttons_st.jpg" title="Tesla Model Y with only a few physical buttons" >}}
 
 Buttons in cars provide a convenient way to control various functions without having to navigate through menus or settings on screens, allowing for quick and easy operation.
 
