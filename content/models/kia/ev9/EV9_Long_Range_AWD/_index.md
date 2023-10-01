@@ -4,9 +4,9 @@ linktitle: "EV9 Long Range AWD"
 description: "Kia EV9 Long Range AWD is an all-electric SUV with a WLTP range of up to 497 km (309 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -225,4 +225,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/trunk_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

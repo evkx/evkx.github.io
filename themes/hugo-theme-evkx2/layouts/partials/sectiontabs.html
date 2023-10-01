@@ -1,38 +1,52 @@
 {{ $currentNode := . }}
       {{range .Site.Home.Sections.ByWeight }}
-      {{ template "section-tree-tabs" dict "sect" . "currentnode" $currentNode }}
+      {{ template "section-tree-tabs" dict "sect" . "currentnode" $currentNode  }}
 {{end}}
-
 <!-- templates -->
 {{ define "section-tree-tabs" }}
 {{ $currentNode := .currentnode }}
 {{with .sect}}
 {{safeHTML .Params.head}}
     {{ if and (eq . $currentNode) .Params.shownavtabs }}
-    <ul class="nav nav-tabs"></ul>
+    <ul class="nav nav-tabs bg-light">
       <li class="nav-item">
-        <a class="nav-link" href="#">{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+        <a class="nav-link active" aria-current="page" href="{{ .RelPermalink}}">{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
       </li>
-      {{ $numberOfPages :=  (len (where .Pages "Params.hidden" "ne" true)) }}
+      {{ $numberOfPages :=  (len .Pages) }}
       {{ .Scratch.Set "pages" .Pages }}
         {{ if .Sections}}
           {{ .Scratch.Set "pages" (.Pages | union .Sections) }}
         {{end}}
       {{ $pages := (.Scratch.Get "pages") }}
         {{ range $pages.ByWeight }}
-            {{ template "section-tree-tabs2" dict "sect" . "currentnode" $currentNode }}
+            {{ template "section-tree-tabs2" dict "sect" . "currentnode" $currentNode}}
         {{ end }}
+      </ul>
+    {{ end }}
+    {{ if and (eq . $currentNode) .Parent.Params.shownavtabs }}
+     <ul class="nav nav-tabs bg-light">
+       <li class="nav-item">
+        <a class="nav-link" href="{{ .Parent.RelPermalink}}">{{ .Parent.LinkTitle}}</a>
+      </li>
+      {{ .Scratch.Set "pages" .Parent.Pages }}
+        {{ if .Sections}}
+          {{ .Scratch.Set "pages" (.Pages | union .Parent.Sections) }}
+        {{end}}
+      {{ $pages := (.Scratch.Get "pages") }}
+        {{ range $pages.ByWeight }}
+            {{ template "section-tree-tabs2" dict "sect" . "currentnode" $currentNode   }}
+        {{ end }}
+     </ul>
+    {{ end }}
 
-      {{ end }}
-    </ul>
-    {{ $numberOfPages :=  (len (where .Pages "Params.hidden" "ne" true)) }}
+    {{ $numberOfPages :=  (len .Pages ) }}
     {{ .Scratch.Set "pages" .Pages }}
       {{ if .Sections}}
         {{ .Scratch.Set "pages" (.Pages | union .Sections) }}
       {{end}}
     {{ $pages := (.Scratch.Get "pages") }}
       {{ range $pages.ByWeight }}
-          {{ template "section-tree-tabs" dict "sect" . "currentnode" $currentNode }}
+          {{ template "section-tree-tabs" dict "sect" . "currentnode" $currentNode}}
       {{ end }}
 {{ end }}
 {{ end }}
@@ -42,9 +56,12 @@
 {{ $currentNode := .currentnode }}
 {{with .sect}}
 {{safeHTML .Params.head}}
-    
       <li class="nav-item">
-        <a class="nav-link" href="#">{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+        {{ if eq . $currentNode }}
+          <a class="nav-link active" href="{{ .RelPermalink}}">{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+        {{else}}
+          <a class="nav-link" href="{{ .RelPermalink}}">{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+        {{ end }}
       </li>
 {{ end }}
 {{ end }}

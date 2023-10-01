@@ -4,9 +4,9 @@ linktitle: "FREE"
 description: "VOYAH FREE is an all-electric SUV with a WLTP range of up to 500 km (311 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -177,4 +177,3 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 560 liters. With the rear seat down, it is 1320 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 72 liters. Max weight is 2945kg, and with the base weight of 2340 kg, you can max load 605 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2000, and on unbraked, 750kg. 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

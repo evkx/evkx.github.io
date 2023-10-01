@@ -4,9 +4,9 @@ linktitle: "ET5 Touring"
 description: "Nio ET5 Touring is an all-electric station wagon with a WLTP range of up to 560 km (348 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -230,4 +230,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/trunk_1_st.jpg" title="Nio ET5 Touring" width="2560" height="1670"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

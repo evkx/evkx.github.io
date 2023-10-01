@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Renault Scenic E-Te
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/renault/scenic/scenic_e-tech_electric_high_range/main_1_st.jpg" title="Renault Scenic E-Tech electric High Range" >}}
 EVKX.net seeks to have the most complete specifications for Renault Scenic E-Tech electric High Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Renault Scenic E-Tech electric High Range, visit the [chargeinfo](../chargecurve/) for Renault Scenic E-Tech electric High Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

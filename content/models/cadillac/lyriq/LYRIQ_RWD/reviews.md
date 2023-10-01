@@ -5,7 +5,6 @@ description: "EVKX.net helps you find the best review for this model. "
 weight: 80
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Throttle House: 2023 Cadillac LYRIQ Review // A Mercedes In Disguise 06.09.2023

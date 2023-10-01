@@ -4,9 +4,9 @@ linktitle: "C40 Recharge Single Motor ER"
 description: "Volvo C40 Recharge Single Motor ER is an all-electric crossover with a WLTP range of up to 581 km (361 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -196,4 +196,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/trunk_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

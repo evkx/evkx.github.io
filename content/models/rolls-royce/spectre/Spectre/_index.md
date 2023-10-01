@@ -4,9 +4,9 @@ linktitle: "Spectre"
 description: "Rolls-Royce Spectre is an all-electric luxury sedan with a WLTP range of up to 530 km (329 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -228,4 +228,3 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 The cargo capacity in the trunk is 500 liters. Max weight is 3400kg, and with the base weight of 2890 kg, you can max load 510 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

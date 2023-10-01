@@ -4,9 +4,9 @@ linktitle: "i5 M60 xDrive"
 description: "BMW i5 M60 xDrive is an all-electric premium sedan with a WLTP range of up to 515 km (320 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -240,4 +240,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/trunk_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

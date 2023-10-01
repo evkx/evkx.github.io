@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Rolls-Royce Spectre
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/rolls-royce/spectre/spectre/main_1_st.jpg" title="Rolls-Royce Spectre" >}}
 EVKX.net seeks to have the most complete specifications for Rolls-Royce Spectre. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Rolls-Royce Spectre, visit the [chargeinfo](../chargecurve/) for Rolls-Royce Spectre with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

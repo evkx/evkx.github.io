@@ -4,9 +4,9 @@ linktitle: "#1"
 description: "Smart #1 is an all-electric crossover with a WLTP range of up to 440 km (273 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -213,4 +213,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 ### Availability & Pricing
 
 This model had world premiere 07.04.2022 and deliveries is expected to start November 2023.
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

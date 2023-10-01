@@ -4,9 +4,9 @@ linktitle: "ESCALADE IQ"
 description: "Cadillac ESCALADE IQ is an all-electric SUV with a EPA range of up to 724 km (450 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -206,4 +206,3 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 The cargo capacity in the trunk is 670 liters. With the rear seat down, it is 3374 liters. Under the hood, there is frunk with more storage room. This frunk is 345 liters. Max weight is 4717kg, and with the base weight of 4103 kg, you can max load 614 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3628, and on unbraked, 750kg. 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

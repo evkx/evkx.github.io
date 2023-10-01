@@ -4,9 +4,9 @@ linktitle: "Atto 3"
 description: "BYD Atto 3 is an all-electric SUV with a WLTP range of up to 420 km (261 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -218,4 +218,3 @@ The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 13
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

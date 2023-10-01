@@ -4,9 +4,9 @@ linktitle: "Q8 55 e-tron"
 description: "Audi Q8 55 e-tron is an all-electric luxury SUV with a WLTP range of up to 582 km (362 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -293,4 +293,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/trunk_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2249"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

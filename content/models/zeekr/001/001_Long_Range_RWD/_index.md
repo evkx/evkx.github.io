@@ -4,9 +4,9 @@ linktitle: "001 Long Range RWD"
 description: "Zeekr 001 Long Range RWD is an all-electric station wagon with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -207,4 +207,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 ### Availability & Pricing
 
 This model had world premiere 14.04.2021 and deliveries started October 2021.
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

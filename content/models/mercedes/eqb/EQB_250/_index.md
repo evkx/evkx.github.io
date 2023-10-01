@@ -4,9 +4,9 @@ linktitle: "EQB 250"
 description: "Mercedes-EQ EQB 250 is an all-electric premium SUV with a WLTP range of up to 474 km (295 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -236,4 +236,3 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/trunk_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

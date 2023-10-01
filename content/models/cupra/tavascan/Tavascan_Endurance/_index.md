@@ -4,9 +4,9 @@ linktitle: "Tavascan Endurance"
 description: "CUPRA Tavascan Endurance is an all-electric SUV with a WLTP range of up to 547 km (340 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -217,4 +217,3 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0kg. Max weight is 2650kg, and with the base weight of 2042 kg, you can max load 608 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

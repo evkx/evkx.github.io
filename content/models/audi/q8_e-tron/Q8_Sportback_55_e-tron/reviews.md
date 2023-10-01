@@ -5,7 +5,6 @@ description: "EVKX.net helps you find the best review for this model. "
 weight: 80
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Raiti's Rides: Is the 2024 Audi Q8 e-tron Sportback a NEW luxury SUV worth the price? 10.08.2023

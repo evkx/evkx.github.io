@@ -4,9 +4,9 @@ linktitle: "ID.7 Pro"
 description: "Volkswagen ID.7 Pro is an all-electric sedan with a WLTP range of up to 615 km (382 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -239,4 +239,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/trunk_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

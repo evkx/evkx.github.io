@@ -6,7 +6,6 @@ weight: 10
 hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 This model is available with multiple batteries. Below you find the performance for the different battery packs.
 
 ### 60 kWh

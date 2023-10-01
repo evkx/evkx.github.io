@@ -4,9 +4,9 @@ linktitle: "Ioniq 5 N"
 description: "Hyundai Ioniq 5 N is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -200,4 +200,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 ### Availability & Pricing
 
 This model had world premiere 13.07.2023 and deliveries is expected to start March 2024.
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

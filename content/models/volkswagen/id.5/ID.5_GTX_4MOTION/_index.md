@@ -4,9 +4,9 @@ linktitle: "ID.5 GTX 4MOTION"
 description: "Volkswagen ID.5 GTX 4MOTION is an all-electric coupe SUV with a WLTP range of up to 496 km (308 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -236,4 +236,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/trunk_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2000"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

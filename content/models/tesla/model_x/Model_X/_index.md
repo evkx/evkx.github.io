@@ -4,9 +4,9 @@ linktitle: "Model X"
 description: "Tesla Model X is an all-electric SUV with a WLTP range of up to 543 km (337 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -221,4 +221,3 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/trunk_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

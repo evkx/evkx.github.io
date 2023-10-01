@@ -4,9 +4,9 @@ linktitle: "e-tron 50"
 description: "Audi e-tron 50 is an all-electric luxury SUV with a WLTP range of up to 341 km (212 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -292,4 +292,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 ### Availability & Pricing
 
 This model had world premiere 17.10.2018 and deliveries started May 2020. This models has now been discontined. This model has been replaced by [Audi Q8 50 e-tron](/models/audi/q8_e-tron/q8_50_e-tron).
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

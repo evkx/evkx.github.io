@@ -4,6 +4,7 @@ linktitle: "Image Gallery"
 description: "See below for our large Mercedes-EQ EQC 400 4MATIC image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 <object type="image/svg+xml" data="../modelnavigation.svg"></object>

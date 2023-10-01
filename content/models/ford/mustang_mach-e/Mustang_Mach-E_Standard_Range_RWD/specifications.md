@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Ford Mustang Mach-E
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/main_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" >}}
 EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E Standard Range RWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford Mustang Mach-E Standard Range RWD, visit the [chargeinfo](../chargecurve/) for Ford Mustang Mach-E Standard Range RWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

@@ -5,7 +5,6 @@ description: "EVKX.net helps you find the best review for this model. "
 weight: 80
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Autotrader: Kia EV6 GT Review: 585Hp Family Rocket... But Is It Fun? 21.07.2023

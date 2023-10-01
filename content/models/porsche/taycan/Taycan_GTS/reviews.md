@@ -5,7 +5,6 @@ description: "EVKX.net helps you find the best review for this model. "
 weight: 80
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Auto Express: NEW Porsche Taycan GTS Sport Turismo review: the ULTIMATE electric driver's car? 15.12.2021

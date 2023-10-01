@@ -4,9 +4,9 @@ linktitle: "e-tron 55 Sportback"
 description: "Audi e-tron 55 Sportback is an all-electric luxury coupe SUV with a WLTP range of up to 452 km (281 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -296,4 +296,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 ### Availability & Pricing
 
 This model had world premiere 19.11.2019 and deliveries started May 2020. This models has now been discontined. This model has been replaced by [Audi Q8 Sportback 55 e-tron](/models/audi/q8_e-tron/q8_sportback_55_e-tron).
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

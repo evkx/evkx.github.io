@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Lotus Eletre."
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/lotus/eletre/eletre/main_1_st.jpg" title="Lotus Eletre" >}}
 EVKX.net seeks to have the most complete specifications for Lotus Eletre. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lotus Eletre, visit the [chargeinfo](../chargecurve/) for Lotus Eletre with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

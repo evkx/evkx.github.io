@@ -5,7 +5,6 @@ description: "EVKX.net helps you find the best review for this model. "
 weight: 80
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Inside China Auto: Move Over Germans! - The HiPhi Y Crams The Tech and Madness of the X and Z Into A Smaller Package 15.07.2023

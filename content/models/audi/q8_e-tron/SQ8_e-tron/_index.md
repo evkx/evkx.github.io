@@ -4,9 +4,9 @@ linktitle: "SQ8 e-tron"
 description: "Audi SQ8 e-tron is an all-electric luxury SUV with a WLTP range of up to 494 km (307 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -247,4 +247,3 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 555 liters. With the rear seat down, it is 1594 liters. On the roof, you can load up to 75kg. Max weight is 3280kg, and with the base weight of 2655 kg, you can max load 625 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, 750kg. 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Nissan Ariya 63kWh.
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/nissan/ariya/ariya_63kwh/main_1_st.jpg" title="Nissan Ariya 63kWh" >}}
 EVKX.net seeks to have the most complete specifications for Nissan Ariya 63kWh. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nissan Ariya 63kWh, visit the [chargeinfo](../chargecurve/) for Nissan Ariya 63kWh with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

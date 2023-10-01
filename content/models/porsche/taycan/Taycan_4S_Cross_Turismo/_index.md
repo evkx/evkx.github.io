@@ -4,9 +4,9 @@ linktitle: "Taycan 4S Cross Turismo"
 description: "Porsche Taycan 4S Cross Turismo is an all-electric luxury station wagon with a WLTP range of up to 490 km (305 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -264,4 +264,3 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_cross_turismo/trunk_1_st.jpg" title="Porsche Taycan 4S Cross Turismo" width="3000" height="1449"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

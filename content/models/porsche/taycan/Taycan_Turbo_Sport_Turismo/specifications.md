@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Porsche Taycan Turb
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/porsche/taycan/taycan_turbo_sport_turismo/main_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" >}}
 EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo Sport Turismo. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan Turbo Sport Turismo, visit the [chargeinfo](../chargecurve/) for Porsche Taycan Turbo Sport Turismo with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

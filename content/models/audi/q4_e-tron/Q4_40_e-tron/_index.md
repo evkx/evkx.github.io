@@ -4,9 +4,9 @@ linktitle: "Q4 40 e-tron"
 description: "Audi Q4 40 e-tron is an all-electric premium SUV with a WLTP range of up to 521 km (324 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -245,4 +245,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/trunk_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="2249"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

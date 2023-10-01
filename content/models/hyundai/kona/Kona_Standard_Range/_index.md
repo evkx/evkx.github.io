@@ -4,9 +4,9 @@ linktitle: "Kona Standard Range"
 description: "Hyundai Kona Standard Range is an all-electric crossover with a WLTP range of up to 377 km (234 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -219,4 +219,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/trunk_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2000"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

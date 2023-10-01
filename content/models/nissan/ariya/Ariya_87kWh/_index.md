@@ -4,9 +4,9 @@ linktitle: "Ariya 87kWh"
 description: "Nissan Ariya 87kWh is an all-electric crossover with a WLTP range of up to 533 km (331 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -206,4 +206,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh/trunk_1_st.jpg" title="Nissan Ariya 87kWh" width="3000" height="1999"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

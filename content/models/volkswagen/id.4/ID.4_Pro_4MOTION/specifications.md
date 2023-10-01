@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Volkswagen ID.4 Pro
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" >}}
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro 4MOTION. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.4 Pro 4MOTION, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.4 Pro 4MOTION with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

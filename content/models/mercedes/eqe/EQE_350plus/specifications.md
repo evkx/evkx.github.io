@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Mercedes-EQ EQE 350
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/mercedes/eqe/eqe_350plus/main_1_st.jpg" title="Mercedes-EQ EQE 350+" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 350+. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQE 350+, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQE 350+ with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

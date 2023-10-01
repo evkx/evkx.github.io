@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Hyundai Kona Long R
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/hyundai/kona/kona_long_range/main_1_st.jpg" title="Hyundai Kona Long Range" >}}
 EVKX.net seeks to have the most complete specifications for Hyundai Kona Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Kona Long Range, visit the [chargeinfo](../chargecurve/) for Hyundai Kona Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

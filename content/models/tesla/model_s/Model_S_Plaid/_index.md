@@ -4,9 +4,9 @@ linktitle: "Model S Plaid"
 description: "Tesla Model S Plaid is an all-electric sedan with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -215,4 +215,3 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/trunk_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

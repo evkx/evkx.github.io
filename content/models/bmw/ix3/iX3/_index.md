@@ -4,9 +4,9 @@ linktitle: "iX3"
 description: "BMW iX3 is an all-electric premium SUV with a WLTP range of up to 461 km (287 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -211,4 +211,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/trunk_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

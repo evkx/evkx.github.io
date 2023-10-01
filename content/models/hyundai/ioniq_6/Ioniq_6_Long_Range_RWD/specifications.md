@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Hyundai Ioniq 6 Lon
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" >}}
 EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 6 Long Range RWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Ioniq 6 Long Range RWD, visit the [chargeinfo](../chargecurve/) for Hyundai Ioniq 6 Long Range RWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

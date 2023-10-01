@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for SKODA ENYAQ RS iV."
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/skoda/enyaq_iv/enyaq_rs_iv/main_1_st.jpg" title="SKODA ENYAQ RS iV" >}}
 EVKX.net seeks to have the most complete specifications for SKODA ENYAQ RS iV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of SKODA ENYAQ RS iV, visit the [chargeinfo](../chargecurve/) for SKODA ENYAQ RS iV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

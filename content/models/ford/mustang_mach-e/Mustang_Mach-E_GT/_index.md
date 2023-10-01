@@ -4,9 +4,9 @@ linktitle: "Mustang Mach-E GT"
 description: "Ford Mustang Mach-E GT is an all-electric coupe SUV with a WLTP range of up to 490 km (305 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -214,4 +214,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/trunk_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

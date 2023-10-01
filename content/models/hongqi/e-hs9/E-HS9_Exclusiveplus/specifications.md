@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Hongqi E-HS9 Exclus
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/main_1_st.jpg" title="Hongqi E-HS9 Exclusive+" >}}
 EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Exclusive+. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hongqi E-HS9 Exclusive+, visit the [chargeinfo](../chargecurve/) for Hongqi E-HS9 Exclusive+ with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

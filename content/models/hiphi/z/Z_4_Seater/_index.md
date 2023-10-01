@@ -4,9 +4,9 @@ linktitle: "Z 4 Seater"
 description: "HiPhi Z 4 Seater is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -228,4 +228,3 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 316 liters. With the rear seat down, it is 654 liters. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

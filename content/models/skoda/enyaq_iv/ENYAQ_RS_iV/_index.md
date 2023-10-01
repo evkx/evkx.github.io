@@ -4,9 +4,9 @@ linktitle: "ENYAQ RS iV"
 description: "SKODA ENYAQ RS iV is an all-electric SUV with a WLTP range of up to 514 km (319 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -196,4 +196,3 @@ With the MAX  level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 1710 liters. On the roof, you can load up to 75kg. Max weight is 2750kg, and with the base weight of 2117 kg, you can max load 633 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

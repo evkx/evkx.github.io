@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Tesla Model 3 Perfo
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/tesla/model_3/model_3_performance/main_1_st.jpg" title="Tesla Model 3 Performance" >}}
 EVKX.net seeks to have the most complete specifications for Tesla Model 3 Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model 3 Performance, visit the [chargeinfo](../chargecurve/) for Tesla Model 3 Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for BMW i7 xDrive60."
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/bmw/i7/i7_xdrive60/main_1_st.jpg" title="BMW i7 xDrive60" >}}
 EVKX.net seeks to have the most complete specifications for BMW i7 xDrive60. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i7 xDrive60, visit the [chargeinfo](../chargecurve/) for BMW i7 xDrive60 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

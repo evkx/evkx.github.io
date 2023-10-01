@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Smart #1 Pulse."
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/smart/hash1/hash1_pulse/main_1_st.jpg" title="Smart #1 Pulse" >}}
 EVKX.net seeks to have the most complete specifications for Smart #1 Pulse. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Smart #1 Pulse, visit the [chargeinfo](../chargecurve/) for Smart #1 Pulse with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

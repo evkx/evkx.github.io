@@ -4,9 +4,9 @@ linktitle: "e-tron S"
 description: "Audi e-tron S is an all-electric luxury SUV with a WLTP range of up to 374 km (232 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -262,4 +262,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 ### Availability & Pricing
 
 This model had world premiere 19.11.2019 and deliveries started May 2020. This models has now been discontined. This model has been replaced by [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron).
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

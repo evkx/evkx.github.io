@@ -4,9 +4,9 @@ linktitle: "3 Long Range Dual Motor Performance"
 description: "Polestar 3 Long Range Dual Motor Performance is an all-electric SUV with a WLTP range of up to 560 km (348 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -197,4 +197,3 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 The cargo capacity in the trunk is 484 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100kg. Under the hood, there is frunk with more storage room. This frunk is 32 liters. Max weight is 3080kg, and with the base weight of 2600 kg, you can max load 480 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2200, and on unbraked, 750kg. 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

@@ -4,9 +4,9 @@ linktitle: "Q4 50 e-tron quattro"
 description: "Audi Q4 50 e-tron quattro is an all-electric premium SUV with a WLTP range of up to 491 km (305 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -247,4 +247,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="2249"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

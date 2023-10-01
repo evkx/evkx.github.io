@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Volvo C40 Recharge 
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/volvo/c40/C40_recharge_single_motor_er/main_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" >}}
 EVKX.net seeks to have the most complete specifications for Volvo C40 Recharge Single Motor ER. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo C40 Recharge Single Motor ER, visit the [chargeinfo](../chargecurve/) for Volvo C40 Recharge Single Motor ER with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

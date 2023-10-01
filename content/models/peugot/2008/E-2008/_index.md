@@ -4,9 +4,9 @@ linktitle: "E-2008"
 description: "Peugot E-2008 is an all-electric crossover with a WLTP range of up to 406 km (252 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -186,4 +186,3 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/trunk_1_st.jpg" title="Peugot E-2008" width="3000" height="2000"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>

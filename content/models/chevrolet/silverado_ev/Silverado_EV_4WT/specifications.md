@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for Chevrolet Silverado
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" title="Chevrolet Silverado EV 4WT" >}}
 EVKX.net seeks to have the most complete specifications for Chevrolet Silverado EV 4WT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Chevrolet Silverado EV 4WT, visit the [chargeinfo](../chargecurve/) for Chevrolet Silverado EV 4WT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

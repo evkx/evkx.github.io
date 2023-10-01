@@ -5,7 +5,6 @@ description: "EVKX.net gives you the full specifications for CUPRA BORN 58."
 weight: 30
 hidden: true
 ---
-<object class="img-fluid" type="image/svg+xml" data="../modelnavigation.svg"></object>
 {{< sitefigure thumb="models/cupra/born/born_58/main_1_st.jpg" title="CUPRA BORN 58" >}}
 EVKX.net seeks to have the most complete specifications for CUPRA BORN 58. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of CUPRA BORN 58, visit the [chargeinfo](../chargecurve/) for CUPRA BORN 58 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 

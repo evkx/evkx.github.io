@@ -4,9 +4,9 @@ linktitle: "iX xDrive50"
 description: "BMW iX xDrive50 is an all-electric luxury SUV with a WLTP range of up to 631 km (392 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
 
 
 
@@ -216,4 +216,3 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/trunk_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1998"  >}}
 
-<object class="img-fluid" type="image/svg+xml" data="modelnavigation.svg"></object>
