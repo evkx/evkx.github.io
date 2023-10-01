@@ -11,12 +11,7 @@ This extensive article will explore the different functionalities of EV car seat
 
 The adjustment options vary between the different seating options on the various EV models.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/seats/adjustment/audietron18wayseats.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/seats/adjustment/audietron18wayseats_st.jpg" alt="Audi e-tron front seats with 18-way adjustment" title="Audi e-tron front seats with 18-way adjustment">
-    </a>
-    <figcaption><h4>Audi e-tron front seats with 18-way adjustment</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/seats/adjustment/audietron18wayseats_st.jpg" title="Audi e-tron GT front seats with 18-way adjustment" >}}
 
 ### Fore and aft adjustment
 
@@ -28,19 +23,9 @@ Fore and aft adjustment is important, particularly for drivers of different heig
 
 The fore and aft adjustment is available on most front seats and some second-row benches or Captain chairs. This to allow better room in trunk or the third row.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/seats/adjustment/hyundaiioniqaftforward_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/seats/adjustment/hyundaiioniqaftforward_1_st.jpg" alt="Hyundai Ionic 5 second-row bench with fore and aft adjustment" title="Hyundai Ionic 5 second-row bench with fore and aft adjustment">
-    </a>
-    <figcaption><h4>Hyundai Ionic 5 second-row bench with fore and aft adjustment</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/seats/adjustment/hyundaiioniqaftforward_1_st.jpg" title="Hyundai Ionic 5 second-row bench with fore and aft adjustment" >}}
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/seats/adjustment/mercedeseqssuvaftforward_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/seats/adjustment/mercedeseqssuvaftforward_1_st.jpg" alt="Mercedes EQS SUV can move forward the second row to give access to third row" title="Mercedes EQS SUV can move forward the second row to give access to third row">
-    </a>
-    <figcaption><h4>Mercedes EQS SUV can move forward the second row to give access to third row</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/seats/adjustment/mercedeseqssuvaftforward_1_st.jpg" title="Mercedes EQS SUV can move forward the second row to give access to third row" >}}
 
 ### Height Adjustment
 
@@ -70,12 +55,7 @@ It's important to note that the optimal seatback angle may vary depending on you
 
 Some front seats allow that it is recline back to a sleeping position.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/seats/adjustment/hyundaiionic5recline_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/seats/adjustment/hyundaiionic5recline_1_st.jpg" alt="Hyundai Ionic 5 seat reclined in sleep mode" title="Hyundai Ionic 5 seat reclined in sleep mode">
-    </a>
-    <figcaption><h4>Hyundai Ionic 5 seat reclined in sleep mode</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/seats/adjustment/hyundaiionic5recline_1_st.jpg" title="Hyundai Ionic 5 seat reclined in sleep mode" >}}
 
 ### Thigh support adjustment
 
@@ -135,21 +115,11 @@ Easy entry functionality is a feature that allows the seat to move automatically
 
 Some seats offer leg support for relaxing positions.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/seats/adjustement/nioes8legsupport_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/seats/adjustment/nioes8legsupport_1_st.jpg" alt="Nio ES8 with leg support for front passenger" title="Nio ES8 with leg support for front passenger">
-    </a>
-    <figcaption><h4>Nio ES8 with leg support for front passenger</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/seats/adjustment/nioes8legsupport_1_st.jpg" title="Nio ES8 with leg support for front passenger" >}}
 
 ### Swivel
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/seats/types/kiaev9captainseats_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/seats/types/kiaev9captainseats_1_st.jpg" alt="Kia EV9 captain chairs in second row" title="Kia EV9 captain chairs in second row">
-    </a>
-    <figcaption><h4>Kia EV9 captain chairs in second row with swivel function</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/seats/adjustment/kiaev9captainseats_1_st.jpg" title="Kia EV9 captain chairs in second row with swivel function" >}}
 
 
 ### Footrest

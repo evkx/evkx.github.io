@@ -8,12 +8,7 @@ weight: 2
 
 Car seats have come a long way from their basic design, with various types, adjustments, and features available to cater to different needs and preferences.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/seats/mercedeseqsfrontseats_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/seats/mercedeseqsfrontseats_1_st.jpg" alt="Mercedes EQS front-seats" title="Mercedes EQS front-seats">
-    </a>
-    <figcaption><h4>Mercedes EQS front-seats</h4></figcaption>
-</figur>
+{{< sitefigure thumb="technology/seats/mercedeseqsfrontseats_1_st.jpg" title="Mercedes EQS front-seats" >}}
 
 This comprehensive article will delve into car seats, exploring the different types, their adjustments and features, and the available seat upholstery. Whether you’re a car enthusiast or a concerned parent, this article will equip you with the knowledge to make informed decisions about car seats and enhance your driving experience. So, let’s buckle up and dive into the world of car seats!
 
