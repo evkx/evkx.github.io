@@ -4,6 +4,7 @@ linktitle: "Image Gallery"
 description: "See below for our large Volvo C40 Recharge Single Motor image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
+navicon: image-fill
 ---
 <!-- markdownlint-disable MD033 -->
 <div class="pswp-gallery pswp-grid-container" id ="my-gallery">

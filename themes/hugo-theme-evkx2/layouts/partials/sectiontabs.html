@@ -57,10 +57,19 @@
 {{with .sect}}
 {{safeHTML .Params.head}}
       <li class="nav-item">
+
         {{ if eq . $currentNode }}
+          {{if .Params.navicon }}
+           <a class="nav-link active" href="{{ .RelPermalink}}"><i class="{{ .Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+          {{else}}
           <a class="nav-link active" href="{{ .RelPermalink}}">{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+          {{end}}
         {{else}}
+          {{if .Params.navicon }}
+          <a class="nav-link" href="{{ .RelPermalink}}"><i class="{{ .Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+          {{else}}
           <a class="nav-link" href="{{ .RelPermalink}}">{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+            {{end}}
         {{ end }}
       </li>
 {{ end }}

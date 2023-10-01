@@ -4,6 +4,7 @@ linktitle: "Image Gallery"
 description: "See below for our large Volkswagen ID.3 Pro image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
+navicon: image-fill
 ---
 <!-- markdownlint-disable MD033 -->
 <div class="pswp-gallery pswp-grid-container" id ="my-gallery">
