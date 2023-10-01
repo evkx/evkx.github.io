@@ -31,9 +31,9 @@
      <ul class="nav nav-tabs bg-light">
        <li class="nav-item">
         {{if .Parent.Params.navicon }}
-        <a class="nav-link" aria-current="page" href="{{ .Parent.RelPermalink}}"><i class="{{ .Parent.Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+        <a class="nav-link" aria-current="page" href="{{ .Parent.RelPermalink}}"><i class="{{ .Parent.Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.Parent.LinkTitle}}{{safeHTML .Params.Post}}</a>
        {{else}}
-       <a class="nav-link" aria-current="page" href="{{ .Parent.RelPermalink}}">{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+       <a class="nav-link" aria-current="page" href="{{ .Parent.RelPermalink}}">{{safeHTML .Params.Pre}}{{.Parent.LinkTitle}}{{safeHTML .Params.Post}}</a>
        {{end}}
       </li>
       {{ .Scratch.Set "pages" .Parent.Pages }}
