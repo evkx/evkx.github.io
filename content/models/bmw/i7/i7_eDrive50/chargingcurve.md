@@ -1,6 +1,6 @@
 ---
 title: BMW i7 eDrive50 charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for BMW i7 eDrive50. "
 weight: 10
 hidden: true

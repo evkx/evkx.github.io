@@ -1,6 +1,6 @@
 ---
 title: BYD Seal AWD charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for BYD Seal AWD. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: SKODA Enyaq iV80x gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large SKODA Enyaq iV80x image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

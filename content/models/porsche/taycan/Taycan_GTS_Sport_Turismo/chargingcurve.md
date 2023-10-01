@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan GTS Sport Turismo charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for Porsche Taycan GTS Sport Turismo. "
 weight: 10
 hidden: true

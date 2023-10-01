@@ -1,6 +1,6 @@
 ---
 title: Tesla Model X Plaid range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Tesla Model X Plaid."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Mercedes-AMG EQE 53 4MATIC+ SUV gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Mercedes-AMG EQE 53 4MATIC+ SUV image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

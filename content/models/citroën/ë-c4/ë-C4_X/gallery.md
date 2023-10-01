@@ -1,6 +1,6 @@
 ---
 title: Citroën ë-C4 X gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Citroën ë-C4 X image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

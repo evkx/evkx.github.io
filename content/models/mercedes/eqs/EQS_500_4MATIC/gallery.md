@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQS 500 4MATIC gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Mercedes-EQ EQS 500 4MATIC image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

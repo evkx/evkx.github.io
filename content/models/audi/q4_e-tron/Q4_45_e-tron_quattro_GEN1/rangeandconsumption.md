@@ -1,6 +1,6 @@
 ---
 title: Audi Q4 45 e-tron quattro (GEN1) range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Audi Q4 45 e-tron quattro (GEN1)."
 weight: 9
 hidden: true

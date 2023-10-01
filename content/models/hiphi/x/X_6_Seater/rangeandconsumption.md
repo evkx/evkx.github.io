@@ -1,6 +1,6 @@
 ---
 title: HiPhi X 6 Seater range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for HiPhi X 6 Seater."
 weight: 9
 hidden: true

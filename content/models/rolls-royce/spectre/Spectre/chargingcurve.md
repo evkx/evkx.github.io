@@ -1,6 +1,6 @@
 ---
 title: Rolls-Royce Spectre charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for Rolls-Royce Spectre. "
 weight: 10
 hidden: true

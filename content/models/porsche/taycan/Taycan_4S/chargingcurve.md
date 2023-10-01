@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan 4S charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for Porsche Taycan 4S. "
 weight: 10
 hidden: true

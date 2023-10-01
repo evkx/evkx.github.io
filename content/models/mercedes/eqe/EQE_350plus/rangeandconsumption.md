@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQE 350+ range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Mercedes-EQ EQE 350+."
 weight: 9
 hidden: true

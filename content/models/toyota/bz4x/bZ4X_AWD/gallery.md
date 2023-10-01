@@ -1,6 +1,6 @@
 ---
 title: Toyota bZ4X AWD gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Toyota bZ4X AWD image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

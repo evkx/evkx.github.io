@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQE 500 4MATIC charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for Mercedes-EQ EQE 500 4MATIC. "
 weight: 10
 hidden: true

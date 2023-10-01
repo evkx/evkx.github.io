@@ -1,6 +1,6 @@
 ---
 title: Audi e-tron 50 gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Audi e-tron 50 image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

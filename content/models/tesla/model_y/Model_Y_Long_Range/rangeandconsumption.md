@@ -1,6 +1,6 @@
 ---
 title: Tesla Model Y Long Range range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Tesla Model Y Long Range."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Smart #1 Pulse range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Smart #1 Pulse."
 weight: 9
 hidden: true

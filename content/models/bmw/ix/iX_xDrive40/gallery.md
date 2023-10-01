@@ -1,6 +1,6 @@
 ---
 title: BMW iX xDrive40 gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large BMW iX xDrive40 image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

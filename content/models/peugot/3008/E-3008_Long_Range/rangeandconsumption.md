@@ -1,6 +1,6 @@
 ---
 title: Peugot E-3008 Long Range range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Peugot E-3008 Long Range."
 weight: 9
 hidden: true

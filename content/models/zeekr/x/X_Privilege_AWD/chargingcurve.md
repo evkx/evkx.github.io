@@ -1,6 +1,6 @@
 ---
 title: Zeekr X Privilege AWD charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for Zeekr X Privilege AWD. "
 weight: 10
 hidden: true

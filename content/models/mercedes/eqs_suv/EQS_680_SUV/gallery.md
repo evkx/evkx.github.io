@@ -1,6 +1,6 @@
 ---
 title: Mercedes-Maybach EQS 680 SUV gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Mercedes-Maybach EQS 680 SUV image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

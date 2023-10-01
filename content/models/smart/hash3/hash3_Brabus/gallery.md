@@ -1,6 +1,6 @@
 ---
 title: Smart #3 Brabus gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Smart #3 Brabus image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

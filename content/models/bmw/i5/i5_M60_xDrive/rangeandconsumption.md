@@ -1,6 +1,6 @@
 ---
 title: BMW i5 M60 xDrive range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for BMW i5 M60 xDrive."
 weight: 9
 hidden: true

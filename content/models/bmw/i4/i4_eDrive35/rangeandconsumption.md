@@ -1,6 +1,6 @@
 ---
 title: BMW i4 eDrive35 range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for BMW i4 eDrive35."
 weight: 9
 hidden: true

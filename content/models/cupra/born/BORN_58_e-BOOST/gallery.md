@@ -1,6 +1,6 @@
 ---
 title: CUPRA BORN 58 e-BOOST gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large CUPRA BORN 58 e-BOOST image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

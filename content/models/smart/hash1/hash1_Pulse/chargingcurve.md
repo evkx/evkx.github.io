@@ -1,6 +1,6 @@
 ---
 title: Smart #1 Pulse charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for Smart #1 Pulse. "
 weight: 10
 hidden: true

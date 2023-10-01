@@ -1,6 +1,6 @@
 ---
 title: Renault Scenic E-Tech electric High Range charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for Renault Scenic E-Tech electric High Range. "
 weight: 10
 hidden: true

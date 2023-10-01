@@ -1,6 +1,6 @@
 ---
 title: Zeekr 001 Performance AWD charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for Zeekr 001 Performance AWD. "
 weight: 10
 hidden: true

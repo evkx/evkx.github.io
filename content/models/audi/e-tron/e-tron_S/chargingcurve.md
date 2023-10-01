@@ -1,6 +1,6 @@
 ---
 title: Audi e-tron S charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for Audi e-tron S. "
 weight: 10
 hidden: true

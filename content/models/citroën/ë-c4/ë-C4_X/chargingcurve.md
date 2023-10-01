@@ -1,6 +1,6 @@
 ---
 title: Citroën ë-C4 X charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for Citroën ë-C4 X. "
 weight: 10
 hidden: true

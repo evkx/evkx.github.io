@@ -1,6 +1,6 @@
 ---
 title: XPENG G9 RWD Standard Range charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for XPENG G9 RWD Standard Range. "
 weight: 10
 hidden: true

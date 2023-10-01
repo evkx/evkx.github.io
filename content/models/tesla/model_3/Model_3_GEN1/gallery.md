@@ -1,6 +1,6 @@
 ---
 title: Tesla Model 3 (GEN1) gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Tesla Model 3 (GEN1) image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: BMW iX1 eDrive20 charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for BMW iX1 eDrive20. "
 weight: 10
 hidden: true

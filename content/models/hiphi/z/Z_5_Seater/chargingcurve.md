@@ -1,6 +1,6 @@
 ---
 title: HiPhi Z 5 Seater charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for HiPhi Z 5 Seater. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Audi Q8 55 e-tron range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Audi Q8 55 e-tron."
 weight: 9
 hidden: true

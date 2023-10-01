@@ -1,6 +1,6 @@
 ---
 title: Rivian R1T Quad-Motor AWD range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Rivian R1T Quad-Motor AWD."
 weight: 9
 hidden: true

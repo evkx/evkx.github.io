@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan 4S gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Porsche Taycan 4S image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

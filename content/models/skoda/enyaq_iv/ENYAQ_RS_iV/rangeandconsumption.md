@@ -1,6 +1,6 @@
 ---
 title: SKODA ENYAQ RS iV range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for SKODA ENYAQ RS iV."
 weight: 9
 hidden: true

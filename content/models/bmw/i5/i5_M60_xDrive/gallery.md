@@ -1,6 +1,6 @@
 ---
 title: BMW i5 M60 xDrive gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large BMW i5 M60 xDrive image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

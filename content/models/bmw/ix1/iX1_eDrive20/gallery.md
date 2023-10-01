@@ -1,6 +1,6 @@
 ---
 title: BMW iX1 eDrive20 gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large BMW iX1 eDrive20 image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Hyundai Ioniq 6 Long Range AWD gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Hyundai Ioniq 6 Long Range AWD image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

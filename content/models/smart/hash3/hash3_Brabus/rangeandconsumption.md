@@ -1,6 +1,6 @@
 ---
 title: Smart #3 Brabus range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Smart #3 Brabus."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Hyundai Ioniq 5 N gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Hyundai Ioniq 5 N image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

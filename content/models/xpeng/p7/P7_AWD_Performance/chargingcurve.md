@@ -1,6 +1,6 @@
 ---
 title: XPENG P7 AWD Performance charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for XPENG P7 AWD Performance. "
 weight: 10
 hidden: true

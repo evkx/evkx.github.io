@@ -1,6 +1,6 @@
 ---
 title: MG MG5 Electric Long Range range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for MG MG5 Electric Long Range."
 weight: 9
 hidden: true

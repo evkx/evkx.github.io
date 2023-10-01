@@ -1,6 +1,6 @@
 ---
 title: HiPhi Z 5 Seater gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large HiPhi Z 5 Seater image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

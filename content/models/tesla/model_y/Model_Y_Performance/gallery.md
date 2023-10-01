@@ -1,6 +1,6 @@
 ---
 title: Tesla Model Y Performance gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Tesla Model Y Performance image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Tesla Model Y Long Range gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Tesla Model Y Long Range image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

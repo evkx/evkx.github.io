@@ -1,6 +1,6 @@
 ---
 title: Ford F150 Lightning Extended Range gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Ford F150 Lightning Extended Range image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

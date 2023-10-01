@@ -1,6 +1,6 @@
 ---
 title: Hongqi E-HS9 Premium gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Hongqi E-HS9 Premium image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

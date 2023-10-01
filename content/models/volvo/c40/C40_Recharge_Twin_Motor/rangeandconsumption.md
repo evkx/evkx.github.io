@@ -1,6 +1,6 @@
 ---
 title: Volvo C40 Recharge Twin Motor range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Volvo C40 Recharge Twin Motor."
 weight: 9
 hidden: true

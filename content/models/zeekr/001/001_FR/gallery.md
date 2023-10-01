@@ -1,6 +1,6 @@
 ---
 title: Zeekr 001 FR gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Zeekr 001 FR image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

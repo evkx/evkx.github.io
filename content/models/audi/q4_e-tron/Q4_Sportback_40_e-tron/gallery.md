@@ -1,6 +1,6 @@
 ---
 title: Audi Q4 Sportback 40 e-tron gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Audi Q4 Sportback 40 e-tron image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

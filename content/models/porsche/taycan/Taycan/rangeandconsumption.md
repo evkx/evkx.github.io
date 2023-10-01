@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Porsche Taycan."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: HiPhi X 4 Seater gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large HiPhi X 4 Seater image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

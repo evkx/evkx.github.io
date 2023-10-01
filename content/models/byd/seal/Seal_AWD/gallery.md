@@ -1,6 +1,6 @@
 ---
 title: BYD Seal AWD gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large BYD Seal AWD image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

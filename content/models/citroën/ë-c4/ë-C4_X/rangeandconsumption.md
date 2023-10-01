@@ -1,6 +1,6 @@
 ---
 title: Citroën ë-C4 X range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Citroën ë-C4 X."
 weight: 9
 hidden: true

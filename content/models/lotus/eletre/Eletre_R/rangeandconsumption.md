@@ -1,6 +1,6 @@
 ---
 title: Lotus Eletre R range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Lotus Eletre R."
 weight: 9
 hidden: true

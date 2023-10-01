@@ -1,6 +1,6 @@
 ---
 title: BMW i4 M50 gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large BMW i4 M50 image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

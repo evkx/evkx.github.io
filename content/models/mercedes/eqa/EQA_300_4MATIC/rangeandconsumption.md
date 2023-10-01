@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQA 300 4MATIC range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Mercedes-EQ EQA 300 4MATIC."
 weight: 9
 hidden: true

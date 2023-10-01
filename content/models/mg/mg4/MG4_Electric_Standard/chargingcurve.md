@@ -1,6 +1,6 @@
 ---
 title: MG MG4 Electric Standard charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for MG MG4 Electric Standard. "
 weight: 10
 hidden: true

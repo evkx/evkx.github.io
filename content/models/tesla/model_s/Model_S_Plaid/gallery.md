@@ -1,6 +1,6 @@
 ---
 title: Tesla Model S Plaid gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Tesla Model S Plaid image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Renault Scenic E-Tech electric High Range range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Renault Scenic E-Tech electric High Range."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQA 300 4MATIC gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Mercedes-EQ EQA 300 4MATIC image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

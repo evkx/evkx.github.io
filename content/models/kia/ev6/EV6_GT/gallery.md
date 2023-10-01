@@ -1,6 +1,6 @@
 ---
 title: Kia EV6 GT gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Kia EV6 GT image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

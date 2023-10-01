@@ -1,6 +1,6 @@
 ---
 title: HiPhi Y Performance range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for HiPhi Y Performance."
 weight: 9
 hidden: true

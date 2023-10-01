@@ -1,6 +1,6 @@
 ---
 title: Toyota bZ4X FWD range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Toyota bZ4X FWD."
 weight: 9
 hidden: true

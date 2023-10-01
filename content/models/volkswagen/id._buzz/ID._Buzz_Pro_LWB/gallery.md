@@ -1,6 +1,6 @@
 ---
 title: Volkswagen ID. Buzz Pro LWB gallery
-linktitle: "Image Gallery"
+linktitle: "Gallery"
 description: "See below for our large Volkswagen ID. Buzz Pro LWB image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true

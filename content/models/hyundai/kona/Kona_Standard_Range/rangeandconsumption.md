@@ -1,6 +1,6 @@
 ---
 title: Hyundai Kona Standard Range range & consumption
-linktitle: "Range & Consumption"
+linktitle: "Range"
 description: "Here you find all details about range and consumption for Hyundai Kona Standard Range."
 weight: 9
 hidden: true

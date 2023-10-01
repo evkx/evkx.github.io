@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQS 580 4MATIC charging curve & performance
-linktitle: "Charging performance"
+linktitle: "Chargingcurve"
 description: "Here you find the charging curve for Mercedes-EQ EQS 580 4MATIC. "
 weight: 10
 hidden: true
