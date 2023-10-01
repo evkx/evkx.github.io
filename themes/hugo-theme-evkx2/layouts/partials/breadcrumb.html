@@ -1,0 +1,28 @@
+
+            {{if not .IsHome}}
+              <div id="top-bar">
+                <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                    {{ template "breadcrumbleaf" dict "page" . "value" .LinkTitle }}
+                  </ol>
+                </nav>
+              </div>
+            {{end}}
+
+{{define "breadcrumb"}}
+  {{ if .page.Parent}}
+    {{$value := (printf "<li class='breadcrumb-item'><a href='%s'>%s</a></li> %s" .page.Parent.RelPermalink .page.Parent.LinkTitle .value)}}
+    {{ template "breadcrumb" dict "page" .page.Parent "value" $value }} 
+    {{ else }}
+   {{.value|safeHTML}}
+  {{end}}
+{{end}}
+
+{{define "breadcrumbleaf"}}
+  {{ if .page.Parent}}
+    {{$value := (printf "<li class='breadcrumb-item'><a href='%s'>%s</a></li> <li class='breadcrumb-item'>%s</li>" .page.Parent.RelPermalink .page.Parent.LinkTitle .value)}}
+    {{ template "breadcrumb" dict "page" .page.Parent "value" $value }} 
+    {{ else  }}
+   {{.value|safeHTML}}
+  {{end}}
+{{end}}

@@ -1,30 +1,29 @@
-{{ partial "header.html" . }}
-
-{{ $regExpIn := "<p><img src=\"([^\"]+)\" alt=\"([^\"]+)\" title=\"([^\"]+)\"></p>" }}
-{{ $regExpOut := "<figure><a href=\"$1\"><img src=\"$1\" alt=\"$2\" title=\"$3\" /></a><figcaption><h4>$3</h4></figcaption></figure>" }}
-{{ $finalContent := .Content | replaceRE $regExpIn $regExpOut | safeHTML }}
-{{ $finalContent }}
-
-    </div>
-	<div class="col-xl-4 col-xxl-5 p-4 d-none d-lg-block">
-		{{ partial "models-new.html" . }}
-	</div>
-  </div>
-
-{{if not .Content }}
-	{{ $paginator := .Paginator }}
-
-	<div class="extra-pagination inner">
-	{{ partial "pagination.html" $paginator }}
-	</div>
-
-	{{ range $index, $page := $paginator.Pages }}
-	   {{ .Render "li" }}
-	{{ end }}
-
-	<div style="margin-bottom:2rem"></div>
-
-	{{ partial "pagination.html" $paginator }}
-{{end}}
-
-{{ partial "footer.html" . }}
+<!DOCTYPE html>
+<html lang="{{ .Page.Language | default "en" }}" class="js csstransforms3d">
+   {{ partial "headstandard.html" . }}
+<body data-url="{{ .RelPermalink }}" class="bg-light">
+    {{ partial "navbar.html" . }}
+	<div class="container p-0 bg-white">
+      	{{ partial "addsensetop.html" . }}
+      	<aside>
+			{{ partial "menuaccordion.html" . }}
+      	</aside>
+      	<main>
+			<div class="row">
+				<div class="col-12 col-xl-8 col-xxl-7 p-4" >
+					{{ partial "breadcrumb.html" . }}
+					{{ partial "titleandcontent.html" . }}
+				</div>
+				<div class="col-xl-4 col-xxl-5 p-4 d-none d-lg-block">
+					{{ partial "models-new.html" . }}
+				</div>
+			</div>
+			{{ partial "githubedit.html" . }}
+		</main>
+		<footer class="container bg-dark">          
+			{{ partial "footer.html" . }}
+		</footer>
+	</div> <!-- End container -->
+	<script src="/js/bootstrap.min.js"></script>
+</body>
+</html>

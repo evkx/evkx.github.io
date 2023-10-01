@@ -1,57 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ .Page.Language | default "en" }}" class="js csstransforms3d">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {{ partial "meta.html" . }}
-    {{if .IsHome}}
-    <title>evkx.net</title>
-    {{else}}
-    <title>{{ .Title }} :: evkx.net</title>
-    {{end}}
-    <link rel="shortcut icon" href="{{" images/favicon.png" | relURL}}" type="image/x-icon" />
-    <link href="{{"css/bootstrap.min.css" | relURL}}" rel="stylesheet">
-    <link href="{{"css/photoswipe.css" | relURL}}" rel="stylesheet">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KYF7FS1DDJ"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('js', new Date());
-      gtag('config', 'G-KYF7FS1DDJ');
-    </script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
-      crossorigin="anonymous">
-    </script>
-  </head>
+   {{ partial "headstandard.html" . }}
   <body data-url="{{ .RelPermalink }}" class="bg-light">
     {{ partial "navbar.html" . }}
     <div class="container p-0 bg-white">
-        <div class="container">
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6415007331199958"
-          crossorigin="anonymous"></script>
-        <!-- EVKX Top Display Add -->
-        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6415007331199958" data-ad-slot="7805150783"
-          data-ad-format="auto" data-full-width-responsive="true"></ins>
-        <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-      </div>
+        {{ partial "addsensetop.html" . }}
       <aside>
         {{ partial "menuaccordion.html" . }}
       </aside>
       <main>
         <div class="row">
           <div class="col-12 col-xl-8 col-xxl-7 p-4" >
-            {{if not .IsHome}}
-              <div id="top-bar">
-                <nav aria-label="breadcrumb">
-                  <ol class="breadcrumb">
-                    {{ template "breadcrumbleaf" dict "page" . "value" .LinkTitle }}
-                  </ol>
-                </nav>
-              </div>
-            {{end}}
+            {{ partial "breadcrumb.html" . }}
 
             {{if not .IsHome}}
               {{if eq .Kind "taxonomy"}}
@@ -71,21 +31,3 @@
             <h2>På denne siden:</h2>
               {{ .TableOfContents }}
           {{ end }}
-
-{{define "breadcrumb"}}
-  {{ if .page.Parent}}
-    {{$value := (printf "<li class='breadcrumb-item'><a href='%s'>%s</a></li> %s" .page.Parent.RelPermalink .page.Parent.LinkTitle .value)}}
-    {{ template "breadcrumb" dict "page" .page.Parent "value" $value }} 
-    {{ else }}
-   {{.value|safeHTML}}
-  {{end}}
-{{end}}
-
-{{define "breadcrumbleaf"}}
-  {{ if .page.Parent}}
-    {{$value := (printf "<li class='breadcrumb-item'><a href='%s'>%s</a></li> <li class='breadcrumb-item'>%s</li>" .page.Parent.RelPermalink .page.Parent.LinkTitle .value)}}
-    {{ template "breadcrumb" dict "page" .page.Parent "value" $value }} 
-    {{ else  }}
-   {{.value|safeHTML}}
-  {{end}}
-{{end}}
