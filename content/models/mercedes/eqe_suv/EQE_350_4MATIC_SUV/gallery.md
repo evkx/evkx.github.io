@@ -4,10 +4,8 @@ linktitle: "Image Gallery"
 description: "See below for our large Mercedes-EQ EQE 350 4MATIC SUV image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
-shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-grid-container" id ="my-gallery">
 <div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_350_4matic_suv/charging_1.jpg"

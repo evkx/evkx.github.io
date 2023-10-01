@@ -4,10 +4,8 @@ linktitle: "Image Gallery"
 description: "See below for our large Volvo EX30 Single Motor image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
-shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-grid-container" id ="my-gallery">
 <div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/exterior_1.jpg"

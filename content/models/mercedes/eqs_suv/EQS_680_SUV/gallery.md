@@ -4,10 +4,8 @@ linktitle: "Image Gallery"
 description: "See below for our large Mercedes-Maybach EQS 680 SUV image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
-shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-grid-container" id ="my-gallery">
 <div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/exterior_1.jpg"

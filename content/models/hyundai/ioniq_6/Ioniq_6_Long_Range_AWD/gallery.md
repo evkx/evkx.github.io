@@ -4,10 +4,8 @@ linktitle: "Image Gallery"
 description: "See below for our large Hyundai Ioniq 6 Long Range AWD image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
-shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-grid-container" id ="my-gallery">
 <div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/exterior_1.jpg"

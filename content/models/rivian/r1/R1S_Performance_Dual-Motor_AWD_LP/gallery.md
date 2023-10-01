@@ -4,10 +4,8 @@ linktitle: "Image Gallery"
 description: "See below for our large Rivian R1S Performance Dual-Motor AWD LP image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
-shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-grid-container" id ="my-gallery">
 <div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/charging_1.jpg"

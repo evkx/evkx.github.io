@@ -4,10 +4,8 @@ linktitle: "Image Gallery"
 description: "See below for our large Ford F150 Lightning Extended Range image gallery. Click pictures for high-resolution versions."
 weight: 10
 hidden: true
-shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-<object type="image/svg+xml" data="../modelnavigation.svg"></object>
 <div class="pswp-gallery pswp-grid-container" id ="my-gallery">
 <div class="pswp-grid-item">
 <a href="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/camping_1.jpg"
