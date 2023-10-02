@@ -1,12 +1,12 @@
 ---
-title: Veicle Types
-linktitle: Veicle Types
-description: There is lot of different veichles types. We explain the difference.
+title: Vehicle Types
+linktitle: Vehicle Types
+description: There is lot of different vehicles types. We explain the difference.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-Electric Veichles are delivered in different form and shapes. In this guide we explain the different variants. 
+Electric Vehicles are delivered in different form and shapes. In this guide we explain the different variants. 
 
 ## Sedan
 

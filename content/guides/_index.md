@@ -37,7 +37,7 @@ For many, the range is the most important aspect of an EV. In this guide, we exp
 
 [Read guide](understandingrange)
 
-## Veihcle Types
+## Vehicle Types
 
 There is lot of different veichles types. We explain the difference.
 
