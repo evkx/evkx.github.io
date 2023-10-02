@@ -17,13 +17,10 @@ EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ R
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Peak electrical output in kW</td><td>195 Kw</td></tr>
-<tr><td>Peak electrical output boost in kW</td><td>220 Kw</td></tr>
-<tr><td>Electrical torque output in Nm</td><td>425 Nm</td></tr>
-<tr><td>Electrical torque output boost in Nm</td><td>460 Nm</td></tr>
+<tr><td>Peak electrical output in kW</td><td>250 Kw</td></tr>
+<tr><td>Electrical torque output in Nm</td><td>679 Nm</td></tr>
 <tr><td>Top speed</td><td>180 km/h</td></tr>
-<tr><td>0-100km/h (0-62 mph)</td><td>6,9 s</td></tr>
-<tr><td>0-100km/h (0-62 mph) boost</td><td>6,5 s</td></tr>
+<tr><td>0-100km/h (0-62 mph)</td><td>5,5 s</td></tr>
 </tbody>
 </table>
 
@@ -37,11 +34,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Basic trim WLTP range</td><td>514 km</td></tr>
-<tr><td>Basic trim WLTP consumption</td><td>15,0 kWh/100km</td></tr>
+<tr><td>Basic trim WLTP range</td><td>547 km</td></tr>
+<tr><td>Basic trim WLTP consumption</td><td>14,1 kWh/100km</td></tr>
 <tr><td>Basic trim WLTP consumption with charging loss</td><td>16,9 kWh/100km</td></tr>
-<tr><td>Top trim WLTP range</td><td>496 km</td></tr>
-<tr><td>Top trim WLTP consumption</td><td>15,5 kWh/100km</td></tr>
+<tr><td>Top trim WLTP range</td><td>543 km</td></tr>
+<tr><td>Top trim WLTP consumption</td><td>14,2 kWh/100km</td></tr>
 <tr><td>Top trim WLTP consumption with charging loss</td><td>17,4 kwh/100km</td></tr>
 </tbody>
 </table>

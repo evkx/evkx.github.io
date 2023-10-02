@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ RS iV
 linktitle: "ENYAQ COUPÉ RS iV"
-description: "SKODA ENYAQ COUPÉ RS iV is an all-electric coupe SUV with a WLTP range of up to 514 km (319 miles). EVKX.net have all the details. "
+description: "SKODA ENYAQ COUPÉ RS iV is an all-electric coupe SUV with a WLTP range of up to 547 km (340 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,13 +29,13 @@ We have separated our SKODA ENYAQ COUPÉ RS iV article into sections. If you wan
 
 ## Performance
 
-With overboost, the SKODA ENYAQ COUPÉ RS iV has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,5 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h. 
+The SKODA ENYAQ COUPÉ RS iV has a maximum power of 250KW (340hp). The total torque is 679nm. The 0-100km/h sprint (0-62mph) takes 5,5 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
 The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 514 to 496 km (319-308 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,0kWh/100km for the basic version and 15,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 547 to 543 km (340-337 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,1kWh/100km for the basic version and 14,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43% resulting in an actual charge speed including time loss on 101kW. Each charge session would take 19 minutes and 43 seconds. 
 
@@ -71,7 +71,7 @@ Dynamic steering is standard on the SKODA ENYAQ COUPÉ RS iV. Dynamic steering v
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). At low speeds, the one-pedal drive mode will keep the car rolling until it stops by itself. 
 
 ## Exterior
 
