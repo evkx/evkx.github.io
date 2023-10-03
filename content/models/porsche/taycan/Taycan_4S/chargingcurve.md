@@ -12,6 +12,7 @@ This model is available with multiple batteries. Below you find the performance 
 ### 79,2 kWh
 
 <img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+
 [Full screen](../chargingcurve_1.svg)
 
 
@@ -359,6 +360,7 @@ Porsche Taycan 4S have battery heating, making charging at an optimum battery te
 ### 93,4 kWh
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+
 [Full screen](../chargingcurve_2.svg)
 
 

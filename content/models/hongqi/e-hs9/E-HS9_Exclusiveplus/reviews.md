@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Nybiltester: Test av Hongqi E-HS9 Exclusive pluss 03.10.2023
+
+{{< youtube 6XZPuuzwd3E >}}
+
 ### Bjørn Nyland: Hongqi E-HS9 Exclusive+ 120 kWh 1000 km challenge 06.07.2023
 
 {{< youtube FBNbcNo4JHE >}}

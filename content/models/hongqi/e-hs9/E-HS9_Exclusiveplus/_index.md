@@ -162,7 +162,7 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-One type of sound system is available for the Hongqi E-HS9 Exclusive+. With the Hongqi sound system, you get 12 speakers with a max system output of  watts. 
+One type of sound system is available for the Hongqi E-HS9 Exclusive+. With the Hongqi sound system, you get 16 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 

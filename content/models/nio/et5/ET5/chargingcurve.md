@@ -12,6 +12,7 @@ This model is available with multiple batteries. Below you find the performance 
 ### 100 kWh
 
 <img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+
 [Full screen](../chargingcurve_1.svg)
 
 
@@ -359,6 +360,7 @@ Nio ET5 have battery heating, making charging at an optimum battery temperature 
 ### 75 kWh
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+
 [Full screen](../chargingcurve_2.svg)
 
 
