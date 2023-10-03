@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Raiti's Rides: Is the 2023 Rivian R1S Adventure Edition a better SUV to BUY than a GMC Hummer? 03.10.2023
+
+{{< youtube OksI4zKyiX0 >}}
+
 ### State Of Charge: Rivian R1S Delivery Deep Dive Features Review 29.04.2023
 
 {{< youtube MCTDtYSL6lo >}}
