@@ -10,7 +10,8 @@ navicon: bi-battery-charging
 <img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
 [Full screen](../chargingcurve.svg)
 
-<table class="table">
+
+<table class="table table-striped">
 <tbody>
 <tr>
 <td>Average charging speed 0 - 100% </td><td>46,9 kW</td>
@@ -41,7 +42,7 @@ Toyota bZ4X FWD have battery heating, making charging at an optimum battery temp
 
 
 {{<evkxdisplayaddarticle />}}
-<table class="table">
+<table class="table table-striped">
 <thead>
 <tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
 </thead>
