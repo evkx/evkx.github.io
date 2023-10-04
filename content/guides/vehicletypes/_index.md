@@ -24,7 +24,7 @@ Hatchbacks are small, compact cars with a sloping back design for more headroom 
 
 SUVs or Sport Utility Vehicles are a type of vehicle that combines the features of a truck and a car. They are typically larger and heavier than other cars and have a higher ground clearance, making them ideal for off-road driving. SUVs come in various sizes, from compact to full-size, and are known for their spacious interiors and powerful engines. They are also available in four-wheel or all-wheel drive, making them suitable for driving in different terrains and weather conditions. In the last ten years, SUVs have taken more and more of the market.
 
-{{< sitefigure thumb="models/audi/q8_e-tron/sq8_e-tron/main_1_st.jpeg" title="Audi SQ8 e-tron SUV" >}}
+{{< sitefigure thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/exterior_1_st.jpg" title="Rivian R1S full size SUV" >}}
 
 ## Crossover
 
@@ -36,7 +36,7 @@ Crossovers blend SUVs and hatchbacks, combining an SUV's spaciousness with a hat
 
 Coupe SUVs are a relatively new type of vehicle that combines a coupe's sporty, sleek design of a coupe with elevated ride height and spaciousness. They typically have a sloping roofline that gives them a more aerodynamic look, similar to a coupe. Coupe SUVs are known for their sporty handling and acceleration, as well as their spacious interior and cargo capacity. They are designed for those who want the practicality and versatility of an SUV but with a more stylish and dynamic appearance. Coupe SUVs come in different sizes. However, they can be more expensive than traditional SUVs and may need more headroom and cargo space due to their sleeker design.
 
-{{< sitefigure thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" >}}
+{{< sitefigure thumb="models/audi/q8_e-tron/q8_sportback_55_e-tron/exterior_1_st.jpeg"" title="Audi Q8 Sportback e-tron Coupe SUV" >}}
 
 ## Pickup Truck
 
