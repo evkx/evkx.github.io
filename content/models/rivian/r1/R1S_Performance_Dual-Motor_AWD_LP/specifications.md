@@ -101,8 +101,8 @@ Interior.Seatlayout.OnlySix
 <tbody>
 <tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
 <tr><td>Electric adjustment of height, recline and angle</td><td>Standard feature</td></tr>
-<tr><td>Interior.Seatoptions.MemoryDriverSeat</td><td>Standard feature</td></tr>
-<tr><td>Interior.Seatoptions.MemoryPassangerSeat</td><td>Standard feature</td></tr>
+<tr><td>Memory driver seat</td><td>Standard feature</td></tr>
+<tr><td>Memory passenger seat</td><td>Standard feature</td></tr>
 <tr><td>Height adjustable headrest</td><td>Unknown</td></tr>
 <tr><td>Length adjustable headrest</td><td>Unknown</td></tr>
 <tr><td>Adjustable thigh support</td><td>Unknown</td></tr>

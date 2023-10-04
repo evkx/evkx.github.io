@@ -116,8 +116,8 @@ This model is available with a seat configuration with six or seven seats.
 <tbody>
 <tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
 <tr><td>Electric adjustment of height, recline and angle</td><td>Optional feature</td></tr>
-<tr><td>Interior.Seatoptions.MemoryDriverSeat</td><td>Optional feature</td></tr>
-<tr><td>Interior.Seatoptions.MemoryPassangerSeat</td><td>Optional feature</td></tr>
+<tr><td>Memory driver seat</td><td>Optional feature</td></tr>
+<tr><td>Memory passenger seat</td><td>Optional feature</td></tr>
 <tr><td>Height adjustable headrest</td><td>Standard feature</td></tr>
 <tr><td>Length adjustable headrest</td><td>Optional feature</td></tr>
 <tr><td>Adjustable thigh support</td><td>Not Available</td></tr>
@@ -141,8 +141,8 @@ This model is available with a seat configuration with six or seven seats.
 <tbody>
 <tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
 <tr><td>Electric adjustment of height, recline and angle</td><td>Standard feature</td></tr>
-<tr><td>Interior.Seatoptions.MemoryDriverSeat</td><td>Standard feature</td></tr>
-<tr><td>Interior.Seatoptions.MemoryPassangerSeat</td><td>Standard feature</td></tr>
+<tr><td>Memory driver seat</td><td>Standard feature</td></tr>
+<tr><td>Memory passenger seat</td><td>Standard feature</td></tr>
 <tr><td>Height adjustable headrest</td><td>Standard feature</td></tr>
 <tr><td>Length adjustable headrest</td><td>Standard feature</td></tr>
 <tr><td>Adjustable thigh support</td><td>Standard feature</td></tr>
