@@ -64,7 +64,6 @@ MPVs or Multi-Purpose Vehicles are designed to provide ample space for passenger
 
 ## Coupe
 
-{{< sitefigure thumb="guides/veichletypes/coupe_1_st.jpg" title="Neta GT coupe" >}}
-
-
 Coupes are two-door cars designed for speed and style. They are typically sleek and sporty and often built for high-performance driving. There is currently a minimal number of electric coupes available.
+
+{{< sitefigure thumb="guides/veichletypes/coupe_1_st.jpg" title="Neta GT coupe" >}}
