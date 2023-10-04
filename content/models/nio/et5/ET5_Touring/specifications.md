@@ -69,7 +69,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tbody>
 <tr><td>Battery gross</td><td>100 kWh</td></tr>
 <tr><td>Battery net</td><td>90 kWh</td></tr>
-<tr><td>Max DC charging</td><td>126 kW</td></tr>
+<tr><td>Max DC charging</td><td>180 kW</td></tr>
 <tr><td>Pack Configuration</td><td>96s1p</td></tr>
 <tr><td>Nominal voltage</td><td>358</td></tr>
 </tbody>
@@ -196,7 +196,7 @@ This model is available with a seat configuration with five seats.
 <tr><td>Lane keeping</td><td>Yes, standard equipment</td></tr>
 <tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
 <tr><td>Drowsiness Alert</td><td>Yes, standard equipment</td></tr>
-<tr><td>Reversing camera</td><td>Yes, optional equipment</td></tr>
+<tr><td>Reversing camera</td><td>Yes, standard equipment</td></tr>
 <tr><td>360 camera</td><td>Yes, standard equipment</td></tr>
 <tr><td>Rear cross traffic alert</td><td>Yes, standard equipment</td></tr>
 <tr><td>Rear parking sensors</td><td>Yes, standard equipment</td></tr>

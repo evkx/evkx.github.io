@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### It's Only Electric: Say no to the SUV! - Nio ET5 Touring | Full Review 28.09.2023
+
+{{< youtube HncdCcBlTlU >}}
+
 ### Bjørn Nyland: Nio ET5 Touring test drive 20.09.2023
 
 {{< youtube -gajenBF4ac >}}
