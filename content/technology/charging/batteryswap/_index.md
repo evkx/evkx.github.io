@@ -28,4 +28,4 @@ The benefits of Battery Swap is
 
 See review of system from Bjørn Nyland below
 
-{{ < youtube VmWL1hZQmD0 >}}
+{{< youtube VmWL1hZQmD0 >}}
