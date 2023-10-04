@@ -46,3 +46,7 @@ Read all about [charging on the road](dcfastcharging)
 ## Bidirectonal charging
 
 Read all about this in the [bidirection charging](bidirectional)
+
+## Battery Swapping
+
+Read all about [battery swapping](batteryswap)
