@@ -54,6 +54,8 @@ Station wagons, also known as estate cars, are similar to sedans but have an elo
 
 Convertibles are cars with retractable roofs that allow for an open-air driving experience. They come in various sizes and styles, from compact two-seaters to full-size luxury cars. Convertibles are ideal for driving in warm weather and offer a unique and exhilarating driving experience.
 
+{{< sitefigure thumb="guides/veichletypes/convertible_1_st.jpg" title="MG Cyberster convertible" >}}
+
 ## Multi-Purpose Vehicle (MPV)
 
 MPVs or Multi-Purpose Vehicles are designed to provide ample space for passengers and cargo. They typically have three rows of seats and are often used as family vehicles or for commercial purposes. MPVs offer a smooth and comfortable ride and have various seating configurations, making them versatile for different needs. They are also available in both front-wheel, rear-wheel, and all-wheel drive.
@@ -61,5 +63,8 @@ MPVs or Multi-Purpose Vehicles are designed to provide ample space for passenger
 {{< sitefigure thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB MPV" >}}
 
 ## Coupe
+
+{{< sitefigure thumb="guides/veichletypes/coupe_1_st.jpg" title="Neta GT coupe" >}}
+
 
 Coupes are two-door cars designed for speed and style. They are typically sleek and sporty and often built for high-performance driving. There is currently a minimal number of electric coupes available.
