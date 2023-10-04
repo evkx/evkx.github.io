@@ -14,6 +14,18 @@ Battery swapping is not a new concept, as it was first proposed by Better Place,
 
 {{< sitefigure thumb="technology/charging/batteryswap/powerswap_1_st.jpg" title="Nio Power Battery swap station" >}}
 
+### Pro
+
+The benefits of Battery Swap is
+
+- Much quicker to swap a battery than fully charge a battery
+- If your battery is getting degraded you can swap it
+
+### Cons
+
+- Battery swap ability requires the brand to keep a compatible form factor for future models. This can prevent innovation
+- Owners will care less with the battery since they dont own it so the batteries will degrade faster
+
 See review of system from Bjørn Nyland below
 
 {{ < youtube VmWL1hZQmD0 >}}
