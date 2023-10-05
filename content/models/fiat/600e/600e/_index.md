@@ -129,6 +129,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without using the key. 
 
+You have wireless charging for your phone.  
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -147,9 +149,9 @@ A head-up display is an standard system that presents speed and other important 
 
 One type of sound system is available for the Fiat 600e. With the , you get NULL speakers with a max system output of  watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Fiat 600e supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Fiat 600e supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-
+The model has 3 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 

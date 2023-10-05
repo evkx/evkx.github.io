@@ -198,6 +198,6 @@ This model is available with a seat configuration with five seats.
 <tbody>
 <tr><td>Android Auto support</td><td>Yes, standard equipment</td></tr>
 <tr><td>Apple Carplay support</td><td>Yes, standard equipment</td></tr>
-<tr><td>In Car navigation</td><td>Yes, standard equipment</td></tr>
+<tr><td>In Car navigation</td><td>Yes, optional equipment</td></tr>
 </tbody>
 </table>

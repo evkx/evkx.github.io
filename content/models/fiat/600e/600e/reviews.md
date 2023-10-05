@@ -8,11 +8,11 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Electrifying: ALL NEW JEEP AVENGER: the new superhero of small electric cars? 20.01.2023
+### AutoTrader: NEW Fiat 600E Review: Fun For All The Family? | 4K 05.10.2023
 
-{{< youtube Ofj_X4415R0 >}}
+{{< youtube AXGNb76QgH0 >}}
 
-### Fully Charged Show: Jeep Avenger: The New King Of SMALL EVs? 20.01.2023
+### Electryfing: FIRST DRIVE: New Fiat 600e - does the 500e’s bigger brother deliver la dolce vita? 23.09.2023
 
-{{< youtube OW-0LMwcjgQ >}}
+{{< youtube VokQJrHzBR8 >}}
 
