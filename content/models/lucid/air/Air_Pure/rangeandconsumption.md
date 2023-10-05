@@ -21,8 +21,8 @@ Below are the officially rated ranges. The tests are performed with the heating/
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>660km / 410 mi</td><td> 17,0 kWh/100km / 3,7 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>660km /410mi</td><td> 17,0 kWh/100km / 3,7 mi/kWh  </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>660km / 410 mi</td><td> 13,9 kWh/100km / 4,5 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>660km /410mi</td><td> 13,9 kWh/100km / 4,5 mi/kWh  </td></tr> 
 </tbody></table>
 
 ### Official test cycle results with added heating
@@ -33,8 +33,8 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 <thead>
 <tr><th></th><th>  Range </th><th>Change </th></tr>
 <tbody>
-<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 327km /203 mi </td><td> -20,2%</td></tr>
-<tr><td>  EPA-combined top trim with 2KW AC </td><td> 327km /203 mi </td><td> -20,2%</td></tr>
+<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 313km /194 mi </td><td> -23,7%</td></tr>
+<tr><td>  EPA-combined top trim with 2KW AC </td><td> 313km /194 mi </td><td> -23,7%</td></tr>
 </tbody></table>
 
 ### Real world range estimates
@@ -45,10 +45,10 @@ The table below shows some estimated real-world examples in perfect condition an
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td> 90kmh/56mph perfect condition </td><td> 800km /497mi</td><td> 14 kWh/100km / 4,4 mi/kWh </td></tr>
-<tr><td> 90kmh/56mph with 2KW heating </td><td> 715km /444mi</td><td> 15,7 kWh/100km / 4,0 mi/kWh </td></tr
-<tr><td> 70mph/112kmh perfect condition </td><td> 770km /478mi</td><td> 14,55 kWh/100km / 4,3 mi/kWh</td></tr>
-<tr><td> 70mph/112kmh with 2KW heating </td><td> 1112km /691mi</td><td> 16,2 kWh/100km / 3,8 mi/kWh  </td></tr
-<tr><td> 120kmh/75mph perfect condition </td><td> 589km /366mi</td><td> 19 kWh/100km / 3,3 mi/kWh </td></tr>
-<tr><td> 120kmh/75mph with 2KW heating </td><td> 872km /542mi</td><td> 20,7 kWh/100km / 3,0 mi/kWh </td></tr
+<tr><td> 90kmh/56mph perfect condition </td><td> 657km /408mi</td><td> 14 kWh/100km / 4,4 mi/kWh </td></tr>
+<tr><td> 90kmh/56mph with 2KW heating </td><td> 587km /365mi</td><td> 15,7 kWh/100km / 4,0 mi/kWh </td></tr
+<tr><td> 70mph/112kmh perfect condition </td><td> 632km /393mi</td><td> 14,55 kWh/100km / 4,3 mi/kWh</td></tr>
+<tr><td> 70mph/112kmh with 2KW heating </td><td> 912km /567mi</td><td> 16,2 kWh/100km / 3,8 mi/kWh  </td></tr
+<tr><td> 120kmh/75mph perfect condition </td><td> 484km /301mi</td><td> 19 kWh/100km / 3,3 mi/kWh </td></tr>
+<tr><td> 120kmh/75mph with 2KW heating </td><td> 716km /445mi</td><td> 20,7 kWh/100km / 3,0 mi/kWh </td></tr
 </tbody></table>

@@ -29,21 +29,21 @@ We have separated our Lucid Air Pure article into sections. If you want to wait 
 
 ## Performance
 
-The Lucid Air Pure has a maximum power of 320KW (435hp). The total torque is 1200nm. The 0-100km/h sprint (0-62mph) takes 3 seconds. The top speed is 270 km/h. 
+The Lucid Air Pure has a maximum power of 320KW (435hp). The total torque is 400nm. The 0-100km/h sprint (0-62mph) takes 4,5 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 112kWh and a net capacity of 112kWh, meaning you have a 0kWh buffer for protection. (0,0%). 
+The battery has a gross capacity of 94kWh and a net capacity of 92kWh, meaning you have a 2kWh buffer for protection. (2,1%). 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 410 miles (660 km).   The consumption is 3,7mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa) is 410 miles (660 km).   The consumption is 4,5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 74 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 46% resulting in an actual charge speed including time loss on 172kW. Each charge session would take 18 minutes and 34 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 49% resulting in an actual charge speed including time loss on 163kW. Each charge session would take 16 minutes and 18 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19kWh/100km, 1000km will take 8 hours and 48 minutes to drive. This trip will require two charge session(s) charging from 1% to 36%. The total time lost for charging will be 28 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19kWh/100km, 1000km will take 8 hours and 56 minutes to drive. This trip will require two charge session(s) charging from 0% to 54%. The total time lost for charging will be 37 minutes.   
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 5 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 10 minutes. 
 
 ### Charge port
 
@@ -76,7 +76,7 @@ Additionally, you can choose between 6 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. 
 
-There is only one roof for this model. The windshield is panoramic going back over the first row. In addition there is glasspanel over the second row. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
+There is only one roof for this model. The standard is just a regular roof. 
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/exterior_1_st.jpg" title="Lucid Air Pure" width="3000" height="1945"  >}}
@@ -104,8 +104,6 @@ The following functionalities are available on the **standard** seat.
 - [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
-- [massage](../../../../technology/seats/adjustment/#massage) 
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />

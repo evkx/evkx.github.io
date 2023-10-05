@@ -18,9 +18,9 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Pure. Clic
 </thead>
 <tbody>
 <tr><td>Peak electrical output in kW</td><td>320 Kw</td></tr>
-<tr><td>Electrical torque output in Nm</td><td>1200 Nm</td></tr>
-<tr><td>Top speed</td><td>270 km/h</td></tr>
-<tr><td>0-100km/h (0-62 mph)</td><td>3 s</td></tr>
+<tr><td>Electrical torque output in Nm</td><td>400 Nm</td></tr>
+<tr><td>Top speed</td><td>200 km/h</td></tr>
+<tr><td>0-100km/h (0-62 mph)</td><td>4,5 s</td></tr>
 </tbody>
 </table>
 
@@ -46,9 +46,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Battery gross</td><td>112 kWh</td></tr>
-<tr><td>Battery net</td><td>112 kWh</td></tr>
-<tr><td>Pack Configuration</td><td>220s30p</td></tr>
+<tr><td>Battery gross</td><td>94 kWh</td></tr>
+<tr><td>Battery net</td><td>92 kWh</td></tr>
+<tr><td>Pack Configuration</td><td>180s30p</td></tr>
 <tr><td>Nominal voltage</td><td>800</td></tr>
 </tbody>
 </table>
@@ -117,8 +117,8 @@ This model is available with a seat configuration with five seats.
 <tr><td>Footrest passengers</td><td>Not Available</td></tr>
 <tr><td>Leg support passenger</td><td>Not Available</td></tr>
 <tr><td>Electric lumbar adjustment</td><td>Standard feature</td></tr>
-<tr><td>Seat ventilation</td><td>Standard feature</td></tr>
-<tr><td>Massage function</td><td>Standard feature</td></tr>
+<tr><td>Seat ventilation</td><td>Not Available</td></tr>
+<tr><td>Massage function</td><td>Not Available</td></tr>
 </tbody>
 </table>
 
