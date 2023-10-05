@@ -1,16 +1,17 @@
 ---
 title: Battery Swapping
 linktitle: Battery Swapping
-description: Battery swapping is a method of charging EVs that involves replacing the depleted battery with a fully charged one at a dedicated station. 
+description: Battery swapping is a method of charging EVs that involves replacing the depleted battery with a fully charged one at a dedicated station.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
-The battery swap process can take as little as three minutes, depending on the station and the vehicle. The swapped battery is then recharged at the station and ready for another use.
 
-Battery swapping requires EVs to have standardized and swappable batteries that can be easily removed and installed by robots or humans. The batteries are usually leased or rented by the EV owners, who pay a monthly fee or per swap fee for the service. The batteries are owned and maintained by the service provider, who also operates the swap stations.
+Depending on the station and the vehicle, the battery swap process can take as little as three minutes. The swapped battery is then recharged at the station and ready for another use.
 
-Battery swapping is not a new concept, as it was first proposed by Better Place, an Israeli startup that went bankrupt in 2013. However, some companies have revived the idea and implemented it successfully in some markets. One of them is Nio, a Chinese EV maker that offers battery swapping as a service for its models. Nio has built over 1100 swap stations in China and Europe.
+Battery swapping requires EVs to have standardized and swappable batteries that robots or humans can easily remove and install. The EV owners usually lease or rent the batteries and pay a monthly or per-swap fee for the service. The service provider owns and maintains the batteries and operates the swap stations.
+
+Battery swapping is a concept that has been introduced previously, as it was first proposed by Better Place, an Israeli startup that went bankrupt in 2013. However, some companies have revived the idea and implemented it successfully in some markets. One of them is Nio, a Chinese EV maker that offers battery swapping as a service for its models. Nio has built almost 2,000 swap stations in China and Europe. It takes 4-7 minutes to perform a battery swap on a Nio Power Swap station, depending on its version.
 
 {{< sitefigure thumb="technology/charging/batteryswap/powerswap_1_st.jpg" title="Nio Power Battery swap station" >}}
 
@@ -18,14 +19,15 @@ Battery swapping is not a new concept, as it was first proposed by Better Place,
 
 The benefits of Battery Swap is
 
-- Much quicker to swap a battery than fully charge a battery
-- If your battery is getting degraded you can swap it
+- It is much quicker to swap a battery than fully charge a battery.
+- If your battery is getting degraded or faulty, you can swap it.
 
 ### Cons
 
-- Battery swap ability requires the brand to keep a compatible form factor for future models. This can prevent innovation
-- Owners will care less with the battery since they dont own it so the batteries will degrade faster
+- Battery swap ability requires the brand to keep a compatible form factor for future models. This limitation can prevent innovation.
+- Owners will care less about the battery since they don't own it, so the batteries in the swap pool will degrade faster than those owned by the EV owner that, to a larger extent, would [protect the battery](../../../guides/protectingbattery/).
+- If you have the latest and newest battery, there is a considerable risk of getting a worse battery in return. For example, Nio started providing batteries with 180KW charging, but all old ones were 130KW. Swapping would give them an older battery.
 
-See review of system from Bjørn Nyland below
+See the review of the system from Bjørn Nyland below.
 
 {{< youtube VmWL1hZQmD0 >}}
