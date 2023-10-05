@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/lucid/air/air_pure/main_1_st.jpg" title="Lucid Air Pure" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/lucid/air/air_pure/main_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334"  >}}
 
 We have separated our Lucid Air Pure article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
 
@@ -79,7 +79,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [boot lid]
 There is only one roof for this model. The standard is just a regular roof. 
 
 
-{{< sitefiguresized thumb="models/lucid/air/air_pure/exterior_1_st.jpg" title="Lucid Air Pure" width="3000" height="1945"  >}}
+{{< sitefiguresized thumb="models/lucid/air/air_pure/exterior_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -109,10 +109,6 @@ You can choose from 1 different materials/colors for this seat type. <br />
 <br />
 
 
-
-{{< sitefiguresized thumb="models/lucid/air/air_pure/frontseats_1_st.jpg" title="Lucid Air Pure" width="3000" height="2248"  >}}
-
-
 ### Second-row seat
 
 
@@ -122,7 +118,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 
 
-{{< sitefiguresized thumb="models/lucid/air/air_pure/secondrowseats_1_st.jpg" title="Lucid Air Pure" width="3000" height="2077"  >}}
+{{< sitefiguresized thumb="models/lucid/air/air_pure/secondrowseats_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}
 
 
 There is only one type of steering wheel available. 
@@ -152,7 +148,7 @@ You have wireless charging for your phone.
 On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).The touch screen in the left side of the shared frame  is 8 inches large. The  screen behind the steering wheel in the middle of the shared frame  is 14 inches large. The touch screen at the right part of the shared frame is 12 inches large. The touch screen in the middle of the center console is 12 inches large. 
 
 
-{{< sitefiguresized thumb="models/lucid/air/air_pure/screens_1_st.jpg" title="Lucid Air Pure" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/lucid/air/air_pure/screens_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}
 
 
 ## Infotainment
@@ -167,7 +163,7 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 The standard headlights use LED technology.  
 
 
-{{< sitefiguresized thumb="models/lucid/air/air_pure/headlights_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/lucid/air/air_pure/headlights_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334"  >}}
 
 ## Advanced driver assistance systems
 
