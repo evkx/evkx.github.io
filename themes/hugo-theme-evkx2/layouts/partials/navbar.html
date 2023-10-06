@@ -8,22 +8,22 @@
          <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-ld-0">
             <li class="nav-item">
-              <a class="nav-link" href="/evsearch/">
+              <a class="nav-link" href="{{ with .Site.GetPage `/evsearch/`}}{{.RelPermalink}}{{end}}">
                 {{ T "menu-search"}}
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/models/">
+              <a class="nav-link" href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}">
                 {{ T "menu-brands"}}
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/technology/">           
+              <a class="nav-link" href="{{ with .Site.GetPage `/technology/`}}{{.RelPermalink}}{{end}}">           
                 {{ T "menu-technology"}} 
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/guides/">
+              <a class="nav-link" href="{{ with .Site.GetPage `/guides/`}}{{.RelPermalink}}{{end}}">
                 {{ T "menu-guides"}}
               </a>
             </li>
