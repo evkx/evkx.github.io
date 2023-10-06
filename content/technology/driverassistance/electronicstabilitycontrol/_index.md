@@ -1,6 +1,6 @@
 ---
 title: Electronic Stability Control
-linktitle: Electronic Stability Control
+linktitle: ESC
 description: Electronic Stability Control (ESC) is a driver assistance system that is designed to improve the stability and handling of a vehicle during sudden maneuvers or slippery road conditions. 
 weight: 3
 ---

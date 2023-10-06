@@ -1,6 +1,6 @@
 ---
 title: Adaptive Cruise Control
-linktitle: Adaptive Cruise Control
+linktitle: ACC
 description: Adaptive Cruise Control (ACC) is a driver assistance system that uses sensors and software to maintain a safe following distance between your car and the vehicle in front of you while cruising on the highway.
 weight: 3
 ---

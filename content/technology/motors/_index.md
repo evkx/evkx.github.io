@@ -3,6 +3,7 @@ title: Motors & Drive Units
 linktitle: Motors & Drive Units
 description: As the automotive industry rapidly shifts towards electrification, the heart of electric vehicles (EVs) lies in their motors and drive units. With a diverse array of motor types and intricate inverters, understanding the complexities of these components is crucial for comprehending the inner workings of EVs.
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 

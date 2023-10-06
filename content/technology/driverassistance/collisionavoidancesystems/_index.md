@@ -1,6 +1,6 @@
 ---
 title: Collision Avoidance Systems
-linktitle: Collision Avoidance Systems
+linktitle: CAS
 description: Collision Avoidance Systems (CAS) is a family of advanced driver assistance systems that are designed to help drivers avoid collisions with other vehicles, pedestrians, and objects on the road.
 weight: 3
 ---

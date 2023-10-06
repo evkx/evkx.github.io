@@ -3,6 +3,7 @@ title: Interior
 linktitle: Interior
 description: Electric vehicles (EVs) are not only transforming the way we drive, but also the way we design car interiors. EVs offer new possibilities and challenges for car interior designers, who have to balance functionality, comfort, aesthetics, and sustainability. 
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 

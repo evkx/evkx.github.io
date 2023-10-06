@@ -3,6 +3,7 @@ title: User Interface
 linktitle: User Interface
 description: User interface refers to the various ways drivers and passengers interact with the features and controls of a vehicle.
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
  

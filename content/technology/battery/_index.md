@@ -3,16 +3,13 @@ title: EV Batteries
 linktitle: EV Batteries
 description: EV batteries are responsible for storing the energy that powers the vehicle's electric motor, and they play a critical role in determining an EV's performance, range, and overall cost. 
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
+In this article, we will explore the different types of EV batteries, how they work, their advantages and disadvantages, and the latest developments in EV battery technology. 
 
-
-
-
-In this article, we will explore the different types of EV batteries, how they work, their advantages and disadvantages, and the latest developments in EV battery technology. We will also discuss the environmental impact of EV batteries. 
-
-{{< sitefigure thumb="technology/battery/bmwixbattery_1_st.jpg" title="BMW iX Battery pack" >}}
+{{< sitefiguresized thumb="technology/battery/bmwixbattery_1_st.jpg" title="BMW iX Battery pack" width="3000" height="1688">}}
 
 By the end of this article, you will better understand the current state and prospects of EV batteries and their role in the transition to a more sustainable transportation system.
 
@@ -29,9 +26,6 @@ We have split the article into separate sections.
 - [Degradation](degredation) -  What happens when the battery degrades? How to reduce it?
 - [Buffer](buffer) - Understand buffer
 - [Manufacturers](manufactors) - What are the largest battery producers?
-- [Warranty](warranty) - What kind of battery warranty is common?
+- [Warranty](warranty) - What kind of battery warranty is typical?
 
-  
 {{<evkxdisplayaddarticle />}}
-
-

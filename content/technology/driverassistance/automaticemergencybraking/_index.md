@@ -1,6 +1,6 @@
 ---
 title: Automatic Emergency Braking
-linktitle: Automatic Emergency Braking
+linktitle: AEB
 description: Automatic Emergency Braking (AEB) is an advanced safety feature found in many modern vehicles that can help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 weight: 3
 ---

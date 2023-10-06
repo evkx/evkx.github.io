@@ -1,6 +1,6 @@
 ---
 title: Driver Drowsiness Detection
-linktitle: Driver Drowsiness Detection
+linktitle: DDD
 description: Driver Drowsiness Detection (DDD) is a safety feature in some modern vehicles that uses various sensors and algorithms to monitor the driver's level of alertness and detect signs of drowsiness or fatigue. 
 weight: 3
 ---

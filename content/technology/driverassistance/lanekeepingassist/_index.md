@@ -1,6 +1,6 @@
 ---
 title: Lane Keeping Assist
-linktitle: Lane Keeping Assist
+linktitle: LKA
 description: Lane Keeping Assist (LKA) is another advanced driver assistance system (ADAS) that helps drivers stay within their lane while driving.
 weight: 3
 ---

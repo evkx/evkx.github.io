@@ -1,6 +1,6 @@
 ---
 title: Automated lane change
-linktitle: Automated lane change
+linktitle: ALC
 description: Automated lane change (ALC) is an advanced driver assistance system (ADAS) that is designed to allow a vehicle to change lanes on its own, without requiring the driver to steer the vehicle or take manual control.
 weight: 3
 ---

@@ -1,6 +1,6 @@
 ---
 title: Automatic Emergency Steering
-linktitle: Automatic Emergency Steering
+linktitle: AES
 description: Automatic Emergency Steering (AES) is an advanced driver assistance system that is designed to help drivers avoid collisions by automatically steering the vehicle in an emergency situation. 
 weight: 3
 ---

@@ -3,6 +3,7 @@ title: Car Seats
 linktitle: Seats
 description: Welcome to the ultimate guide to car seats in Evs! As we spend a significant amount of time in our vehicles, the seats we sit in play a crucial role in providing comfort, support, and safety during our travels. 
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -1,6 +1,6 @@
 ---
 title: Blind Spot Monitoring
-linktitle: Blind Spot Monitoring
+linktitle: BSM
 description: Blind Spot Monitoring (BSM) is an advanced driver assistance system designed to help drivers detect and avoid collisions while changing lanes or merging into traffic.
 weight: 3
 ---

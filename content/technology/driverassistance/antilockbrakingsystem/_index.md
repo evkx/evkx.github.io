@@ -1,6 +1,6 @@
 ---
 title: Anti-lock Braking System
-linktitle: Anti-lock Braking System
+linktitle: ABS
 description: Anti-lock Braking System (ABS) is a safety feature designed to prevent a vehicle's wheels from locking up during braking, which can cause the vehicle to skid and lose control.
 weight: 3
 ---
