@@ -1,6 +1,6 @@
 ---
 title: Front cross traffic assist
-linktitle: Front cross traffic assist
+linktitle: FCTA
 description: Front cross traffic assist is a safety feature found in some modern vehicles that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 weight: 3
 ---
