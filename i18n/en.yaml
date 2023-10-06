@@ -1,4 +1,13 @@
-# Header
+# Menu
 - id: menu-technology
   translation: Technology
+
+- id: menu-guides
+  translation: Guides
+
+- id: menu-search
+  translation: EV Search
+
+- id: menu-brands
+  translation: Brands & Models
 

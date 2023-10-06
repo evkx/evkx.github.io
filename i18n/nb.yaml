@@ -1,4 +1,14 @@
 # Header
+# Menu
 - id: menu-technology
   translation: Teknologi
+
+- id: menu-guides
+  translation: Guider
+
+- id: menu-search
+  translation: Elbil søk
+
+- id: menu-brands
+  translation: Merker & Modeller
 
