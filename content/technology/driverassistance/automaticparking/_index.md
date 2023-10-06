@@ -1,7 +1,7 @@
 ---
-title: Automatic parking
-linktitle: Automatic parking
-description: Automatic parking is a technology that allows a vehicle to park itself without the need for human intervention. 
+title: Automatic parking assist
+linktitle: APA
+description: Automatic parking assist is a technology that allows a vehicle to park itself without the need for human intervention. 
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
