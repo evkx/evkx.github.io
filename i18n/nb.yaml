@@ -12,3 +12,10 @@
 - id: menu-brands
   translation: Merker & Modeller
 
+  # Common Sections
+- id: common-section-mostsold-world-title
+  translation: Most sold EVs globaly
+
+- id: common-section-mostsold-world-description
+  translation: Below, you find the top 10 most-sold EV models in the world. Click on the name for full info.
+

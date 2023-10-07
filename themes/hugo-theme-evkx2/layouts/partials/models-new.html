@@ -1,54 +1,55 @@
-<h3>Top 10 most sold models</h3>
-<p>Read about the most sold models.</p>
+<h3>{{ T "common-section-mostsold-world-title"}}</h3>
+<p>{{ T "common-section-mostsold-world-description"}}</p>
 
 <ul class="list-group list-group-numbered">
     <li class="list-group-item list-group-item-action">
-        <a class="text-decoration-none text-black" href="/models/tesla/model_y/">
+        <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/models/tesla/model_y/`}}{{.RelPermalink}}{{end}}">
             Tesla Model Y
         </a>
     </li>
     <li class="list-group-item list-group-item-action">
-        <a class="text-decoration-none text-black" href="/models/volkswagen/id.4/">
-            Volkswagen ID.4
-        </a>
-    </li>
-    <li class="list-group-item list-group-item-action">
-        <a class="text-decoration-none text-black" href="/models/skoda/enyaq_iv/">
-            Skoda Enyaq
-        </a>
-    </li>
-    <li class="list-group-item list-group-item-action">
-        <a class="text-decoration-none text-black" href="/models/bmw/ix/">
-            BMW iX
-        </a>
-    </li>
-    <li class="list-group-item list-group-item-action">
-        <a class="text-decoration-none text-black" href="/models/hyundai/ioniq_5/">
-            Hyundai Ioniq 5
-        </a>
-    </li>
-    <li class="list-group-item list-group-item-action">
-        <a class="text-decoration-none text-black" href="/models/audi/q8_e-tron/">
-            Audi Q8 e-tron
-        </a>
-    </li>
-    <li class="list-group-item list-group-item-action">
-        <a class="text-decoration-none text-black" href="/models/audi/q4_e-tron/">
-            Audi Q4 e-tron
-        </a>
-    </li>
-    <li class="list-group-item list-group-item-action">
-        <a class="text-decoration-none text-black" href="/models/hyundai/ioniq_6/">
-            Hyundai Ioniq 6
-        </a>
-    </li>
-    <li class="list-group-item list-group-item-action">
-        <a class="text-decoration-none text-black" href="/models/tesla/model_3/">
+        <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/models/tesla/model_3/`}}{{.RelPermalink}}{{end}}">
             Tesla Model 3
         </a>
     </li>
     <li class="list-group-item list-group-item-action">
-        <a class="text-decoration-none text-black" href="/models/polestar/2/">
+        <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/models/volkswagen/id.4/`}}{{.RelPermalink}}{{end}}">
+            Volkswagen ID.4
+        </a>
+    </li>
+    <li class="list-group-item list-group-item-action">
+        <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/models/skoda/enyaq_iv/`}}{{.RelPermalink}}{{end}}">
+            Skoda Enyaq
+        </a>
+    </li>
+    <li class="list-group-item list-group-item-action">
+        <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/models/bmw/ix/`}}{{.RelPermalink}}{{end}}">
+            BMW iX
+        </a>
+    </li>
+    <li class="list-group-item list-group-item-action">
+        <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/models/hyundai/ioniq_5/`}}{{.RelPermalink}}{{end}}">
+            Hyundai Ioniq 5
+        </a>
+    </li>
+    <li class="list-group-item list-group-item-action">
+        <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/models/audi/q8_e-tron/`}}{{.RelPermalink}}{{end}}">
+            Audi Q8 e-tron
+        </a>
+    </li>
+    <li class="list-group-item list-group-item-action">
+        <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/models/audi/q4_e-tron/`}}{{.RelPermalink}}{{end}}">
+            Audi Q4 e-tron
+        </a>
+    </li>
+    <li class="list-group-item list-group-item-action">
+        <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/models/hyundai/ioniq_6/`}}{{.RelPermalink}}{{end}}">
+            Hyundai Ioniq 6
+        </a>
+    </li>
+
+    <li class="list-group-item list-group-item-action">
+        <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/models/polestar/2/`}}{{.RelPermalink}}{{end}}">
             Polestar 2
         </a>
     </li>
