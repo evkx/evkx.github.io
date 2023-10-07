@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Branden Flasch: Barely Acceptable - 70MPH Highway Range Test In 2023 Model Y AWD 4680 Batter 07.10.2023
+
+{{< youtube YBA7_eG2lNk >}}
+
 ### Bjørn Nyland: esla Model Y RWD Sunday driving 09.06.2023
 
 {{< youtube Ba0vP0mIwfw >}}
