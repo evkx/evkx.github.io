@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Out of Spec Reviews: Hyundai IONIQ 6 Crushes The 10% Challenge! Huge Result For A Great Car 08.10.2023
+
+{{< youtube rPBiPnP0A5Q >}}
+
 ### Kris Rifa: Hyundai Ioniq 6 | Almost Perfect ! 01.05.2023
 
 {{< youtube gThzhV1KiHM >}}
