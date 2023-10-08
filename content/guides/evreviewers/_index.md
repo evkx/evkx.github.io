@@ -60,6 +60,10 @@ Out of Spec Reviews is also the only channel that do a systematic tests of Advan
 
 Visit their channel and subscribe [here](https://www.youtube.com/@OutofSpecReviews/videos)
 
+Out of Spec Reviews is run by Kyle Connor and Out Spec Studios from [Fort Collins Colorado USA](https://www.google.com/maps/place/40%C2%B033'27.0%22N+105%C2%B004'37.2%22W/@40.5331224,-105.1267027,13.25z/data=!4m4!3m3!8m2!3d40.5575024!4d-105.077008?entry=ttu).
+
+They have serveral other EV related channels. 
+
 ## Other notable mentions
 
 In addition we follow the following channels that have some good reviews
