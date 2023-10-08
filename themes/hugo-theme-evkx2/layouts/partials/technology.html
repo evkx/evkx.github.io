@@ -1,54 +1,54 @@
-<h3>Technology</h3>
-<p>Learn about all technology in EV's</p>
+<h3>{{ T "common-section-technology-title"}}</h3>
+<p>{{ T "common-section-technology-description"}}</p>
 <ul class="list-group">
     <li class="list-group-item list-group-item-action">
         <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/technology/battery/`}}{{.RelPermalink}}{{end}}">
-            Battery
+            {{ T "common-section-technology-section-battery"}}  
         </a>
     </li>
     <li class="list-group-item list-group-item-action">
         <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/technology/driverassistance/`}}{{.RelPermalink}}{{end}}">
-            Advanced Driver Assistance Systems
+            {{ T "common-section-technology-section-adas"}}
         </a>
     </li>
     <li class="list-group-item list-group-item-action">
         <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/technology/motors/`}}{{.RelPermalink}}{{end}}">
-            Electric motors
+            {{ T "common-section-technology-section-adas"}} 
         </a>
     </li>
     <li class="list-group-item list-group-item-action">
         <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/technology/suspension/`}}{{.RelPermalink}}{{end}}">
-            Suspension
+            {{ T "common-section-technology-section-suspension"}} 
         </a>
     </li>
     <li class="list-group-item list-group-item-action">
         <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/technology/brakes`}}{{.RelPermalink}}{{end}}">
-            Brakes
+            {{ T "common-section-technology-section-brakes"}} 
         </a>
     </li>
     <li class="list-group-item list-group-item-action">
         <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/technology/lights/`}}{{.RelPermalink}}{{end}}">
-            Lights
+            {{ T "common-section-technology-section-lights"}} 
         </a>
     </li>
     <li class="list-group-item list-group-item-action">
         <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/technology/regen/`}}{{.RelPermalink}}{{end}}">
-            Regenerative braking
+            {{ T "common-section-technology-section-regen"}} 
         </a>
     </li>
     <li class="list-group-item list-group-item-action">
         <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/technology/seats/`}}{{.RelPermalink}}{{end}}">
-            Seats
+            {{ T "common-section-technology-section-seats"}} 
         </a>
     </li>
     <li class="list-group-item list-group-item-action">
         <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/technology/sensorsandcameras/`}}{{.RelPermalink}}{{end}}">
-            Sensors & Cameras
+            {{ T "common-section-technology-section-sensors"}} 
         </a>
     </li>
     <li class="list-group-item list-group-item-action">
         <a class="text-decoration-none text-black" href="{{ with .Site.GetPage `/technology/userinterface/`}}{{.RelPermalink}}{{end}}">
-            User interface
+            {{ T "common-section-technology-section-ui"}} 
         </a>
     </li>
 </ul>

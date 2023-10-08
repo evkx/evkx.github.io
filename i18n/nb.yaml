@@ -12,10 +12,46 @@
 - id: menu-brands
   translation: Merker & Modeller
 
-  # Common Sections
+# Common Sections
 - id: common-section-mostsold-world-title
   translation: Most sold EVs globaly
 
 - id: common-section-mostsold-world-description
   translation: Below, you find the top 10 most-sold EV models in the world. Click on the name for full info.
+
+- id: common-section-technology-title
+  translation: Lær elbilteknologi
+
+- id: common-section-technology-description
+  translation: EVKX offers the most extensive collection of in-depth articles about EV-technology. 
+
+- id: common-section-technology-section-battery
+  translation: Battery
+
+- id: common-section-technology-section-adas
+  translation: Advanced Driver Assistance Systems
+
+- id: common-section-technology-section-motors
+  translation: Electric motors
+
+- id: common-section-technology-section-suspension
+  translation: Suspension
+
+- id: common-section-technology-section-brakes
+  translation: Brakes
+
+- id: common-section-technology-section-lights
+  translation: Lights
+
+- id: common-section-technology-section-regen
+  translation: Regenerative braking
+
+- id: common-section-technology-section-seats
+  translation: Seats
+
+- id: common-section-technology-section-sensors
+  translation: Sensors & Cameras
+
+- id: common-section-technology-section-ui
+  translation: User interface
 
