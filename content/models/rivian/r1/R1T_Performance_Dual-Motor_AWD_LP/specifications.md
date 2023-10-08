@@ -1,13 +1,13 @@
 ---
-title: Rivian R1T Quad-Motor AWD specifications
+title: Rivian R1T Performance Dual-Motor AWD LP specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Rivian R1T Quad-Motor AWD."
+description: "EVKX.net gives you the full specifications for Rivian R1T Performance Dual-Motor AWD LP."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" title="Rivian R1T Quad-Motor AWD" >}}
-EVKX.net seeks to have the most complete specifications for Rivian R1T Quad-Motor AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Rivian R1T Quad-Motor AWD, visit the [chargeinfo](../chargecurve/) for Rivian R1T Quad-Motor AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefigure thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/main_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" >}}
+EVKX.net seeks to have the most complete specifications for Rivian R1T Performance Dual-Motor AWD LP. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Rivian R1T Performance Dual-Motor AWD LP, visit the [chargeinfo](../chargecurve/) for Rivian R1T Performance Dual-Motor AWD LP with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -17,10 +17,10 @@ EVKX.net seeks to have the most complete specifications for Rivian R1T Quad-Moto
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Peak electrical output in kW</td><td>620 Kw</td></tr>
-<tr><td>Electrical torque output in Nm</td><td>1231 Nm</td></tr>
+<tr><td>Peak electrical output in kW</td><td>495 Kw</td></tr>
+<tr><td>Electrical torque output in Nm</td><td>1124 Nm</td></tr>
 <tr><td>Top speed</td><td>201 km/h</td></tr>
-<tr><td>0-100km/h (0-62 mph)</td><td>3,1 s</td></tr>
+<tr><td>0-100km/h (0-62 mph)</td><td>3,5 s</td></tr>
 </tbody>
 </table>
 
