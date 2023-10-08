@@ -10,14 +10,15 @@
           <h2 class="accordion-header">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseSearch" aria-expanded="true" aria-controls="collapseSearch">
-              <i class="bi-search me-2"></i> EV Search
+              <i class="bi-search me-2"></i>{{ T "common-section-search-title"}}
             </button>
           </h2>
           <div id="collapseSearch" class="accordion-collapse collapse show" data-bs-parent="#evkxmenuaccordion">
             <div class="accordion-body">
-              EVKX.net have the most complete and EV database. Search and filter on a lot of features.
-    
-              <a href="/evsearch">Go to search</a>
+              {{ T "common-section-search-description"}}
+              <a href="{{ with .Site.GetPage `/evsearch/`}}{{.RelPermalink}}{{end}}">
+                {{ T "common-section-search-link"}}
+              </a>
             </div>
           </div>
         </div>
@@ -31,7 +32,6 @@
           <div id="collapseModels" class="accordion-collapse collapse" data-bs-parent="#evkxmenuaccordion">
             <div class="accordion-body">
               Read about all the different EVs in the market
-  
               {{ $currentNode := . }}
               {{range .Site.Home.Sections.ByWeight }}
                 {{ if eq .Title "EV models" }}
@@ -45,11 +45,12 @@
           <h2 class="accordion-header">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#technology" aria-expanded="false" aria-controls="technology">
-            <i class="bi-info-square me-2"></i> Technology Articles
+            <i class="bi-info-square me-2"></i>{{ T "common-section-technology-title"}}
             </button>
           </h2>
           <div id="technology" class="accordion-collapse collapse" data-bs-parent="#evkxmenuaccordion">
             <div class="accordion-body">
+              {{ T "common-section-technology-description"}}
               {{ $currentNode := . }}
               {{range .Site.Home.Sections.ByWeight }}
               {{ if eq .Title "EV Technology" }}
@@ -63,11 +64,12 @@
           <h2 class="accordion-header">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#collapseGuides" aria-expanded="false" aria-controls="collapseGuides">
-            <i class="bi-question-square me-2"></i> Guides
+            <i class="bi-question-square me-2"></i>{{ T "common-section-guides-title"}}
             </button>
           </h2>
           <div id="collapseGuides" class="accordion-collapse collapse" data-bs-parent="#evkxmenuaccordion">
             <div class="accordion-body">
+              {{ T "common-section-guides-description"}}
               {{ $currentNode := . }}
               {{range .Site.Home.Sections.ByWeight }}
               {{ if eq .Title "Guides" }}

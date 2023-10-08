@@ -12,6 +12,15 @@
   translation: Brands & Models
 
 # Common Sections
+- id: common-section-search-title
+  translation: EV Search
+
+- id: common-section-search-description
+  translation: EVKX.net has the most complete EV database. Search and filter on a lot of features & specifications.
+
+- id: common-section-search-link
+  translation: Go to EV Search
+
 - id: common-section-mostsold-world-title
   translation: Most sold EVs globaly
 
@@ -22,7 +31,7 @@
   translation: Learn EV technology
 
 - id: common-section-technology-description
-  translation: EVKX.net offers the most extensive collection of in-depth articles about EV-technology. 
+  translation: EVKX.net offers the most extensive collection of in-depth articles about EV technology. 
 
 - id: common-section-technology-section-battery
   translation: Battery
@@ -54,5 +63,22 @@
 - id: common-section-technology-section-ui
   translation: User interface
 
+- id: common-section-guides-title
+  translation: Guides
+
+- id: common-section-guides-description
+  translation: Below, you find different guides for owning and EV and for using this site.
+
+- id: common-section-guides-section-search
+  translation: How to use EV Search
+
+- id: common-section-guides-section-preservebattery
+  translation: Preserving battery
+
+- id: common-section-guides-section-understandingrange
+  translation: Understanding range
+
+- id: common-section-guides-section-vehicletypes
+  translation: Vehicletypes
 
    
