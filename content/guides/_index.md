@@ -49,6 +49,11 @@ EVKX.net offers the most comprehensive search for EVs available online. This gui
 [Read guide](evsearch)
 
 ## Understanding range
+<a href="evsearch">
+    <img src="https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_st.png" alt="EV Reviewers" title="EV Reviewers" class="img-fluid">
+</a>
+
+
 
 For many, the range is the most critical aspect of an EV. In this guide, we explain what affects the range of your EV and why you don’t see the driving range as expected.
 
