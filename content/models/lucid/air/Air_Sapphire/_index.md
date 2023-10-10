@@ -75,7 +75,7 @@ You can choose between 1 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close are an standard function for the regular doors. 
 
-There is only one roof for this model. The windshield is panoramic going back over the first row. In addition there is glasspanel over the second row. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
+There is only one roof for this model. The standard is just a regular roof. 
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/exterior_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
