@@ -65,7 +65,7 @@ Dynamic steering is standard on the Lucid Air Sapphire. Dynamic steering varies 
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 420mm, and the rear discs are 390mm. 
+The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420mm, and the rear discs are 390mm. 
 
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. The system stops the car completely using friction brakes. 
 
