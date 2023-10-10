@@ -34,6 +34,12 @@ Some manufacturers hide some available battery capacity in a hidden usable buffe
 
 It typically means that the SOC scale is not linear. Meaning 0-1% is larger than all other percent. In many cases, the percentage from 0-1% could be the size of 5-10x the other percent.
 
+The diagram show how 0-1% is much larger for the displayed SOC than other percent.
+
+<a href="hiddenbuffer.drawio.svg">
+    <img src="hiddenbuffer.drawio.svg" class="img-fluid">
+</a>
+
 This strategy makes it less likely that the EV would run out of battery. The problem with this approach is that you typically charge the car when there is 5-10% left to ensure you don't run out, but when there is hidden capacity, the driver ends up charging already when there is 15-20% battery left. This approach causes the owner to experience the electric range being lower than reality. 
 
 EVKX.net believes this is a bad practice from the manufacturers.
