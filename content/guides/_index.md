@@ -27,11 +27,11 @@ Simple math makes it possible to verify your battery's overall status. This guid
 
 [Read guide](checkingbatteryhealth)
 
-
 ## EV Reviewers
 
-
-
+<a href="evreviewers">
+    <img src="https://media.evkx.net/multimedia/guides/evreviewers/bjornyland_st.jpg" alt="EV Reviewers" title="EV Reviewers" class="img-fluid">
+</a>
 
 The internet has made car reviews so much better than before. On TV, you might get a 2-3 minute review for a specific model in some Car show, but with YouTube and online reviews, you can get hours of materials for each EV model. EVKX.net has some favorite reviewers who give you the best EV reviews.
 
@@ -40,20 +40,18 @@ The internet has made car reviews so much better than before. On TV, you might g
 ## EV Search
 
 <a href="evsearch">
-    <img src="https://media.evkx.net/multimedia/guides/evsearch/search_1_st.jpg" alt="EV Reviewers" title="EV Reviewers" class="img-fluid">
+    <img src="https://media.evkx.net/multimedia/guides/evsearch/search_1_st.jpg" alt="EV Search" title="EV Search" class="img-fluid">
 </a>
-
 
 EVKX.net offers the most comprehensive search for EVs available online. This guide guides you on how to get the most out of this feature.
 
 [Read guide](evsearch)
 
 ## Understanding range
+
 <a href="evsearch">
     <img src="https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_st.png" alt="EV Reviewers" title="EV Reviewers" class="img-fluid">
 </a>
-
-
 
 For many, the range is the most critical aspect of an EV. In this guide, we explain what affects the range of your EV and why you don’t see the driving range as expected.
 
