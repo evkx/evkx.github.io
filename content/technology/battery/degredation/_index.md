@@ -44,10 +44,15 @@ The most important factor for cycle charging is the charging speed. High-speed D
 
 When this happens the available ions in the battery are reduced. Higher speed charging increases the number of lithium ions that are not able to reach the anode. This is again caused by limitations on the chemistry process. If you want to learn more about lithium plating you can read [this presentation](https://www.nasa.gov/sites/default/files/atoms/files/1-lithium_plating_azimmerman.pdf) from Nasa.
 
+### Real world degredation statistics
+
+Tesla has in the [2022 Tesla Impact Report](https://www.tesla.com/ns_videos/2022-tesla-impact-report-highlights.pdf) given their most updated data on the Model S and Model X.
+
+{{< sitefigure thumb="technology/battery/degradation/teslastats_1_st.png" title="After 200,000 miles, the Tesla batteries degrade just 12%" >}}
+
 ## How to preserve battery
 
-- Don't park the car with High SOC over a long time
-- Don't park the car in extreme heat
-- Limit high-speed charging.
+Read how to preserver your battery in our [guide](../../../guides/protectingbattery/).
+
 
 Continue to [buffer](../buffer/) or go back to the [article overview](../).
