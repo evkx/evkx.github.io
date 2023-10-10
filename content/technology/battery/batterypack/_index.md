@@ -109,6 +109,18 @@ Here are some configuration examples
         <td>96s46p</td>
         <td>357 Volt</td>
     </tr>
+    <tr>
+        <td>Rivan R1S Large pack</a></td>
+        <td>135kWh</td>
+        <td>108s72p</td>
+        <td>390 Volt</td>
+    </tr>
+    <tr>
+        <td>Rivan R1S Max pack</a></td>
+        <td>149kWh</td>
+        <td>108s72p</td>
+        <td>390 Volt</td>
+    </tr>
 </tbody>
 </table>
 

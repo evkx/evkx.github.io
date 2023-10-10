@@ -26,7 +26,24 @@ The size of the buffer can depend on the type and chemistry of the cells used in
 
 The BMS regulate the charging and discharging of the battery pack accordingly to keep it inside the approve limits. 
 
-Sometimes the manufacturer choose to change the size of the buffer with software updates. This typical happens when the manufacturer knows more about how a new battery performance when it comes to degradation. 
+Sometimes the manufacturer choose to change the size of the buffer with software updates. This typical happens when the manufacturer knows more about how a new battery performance when it comes to degradation.
+
+## Hidden usable buffer
+
+Some manufacturers hide some available battery capacity in a hidden usable buffer. What does that mean?
+
+It typically means that the SOC scale is not linear. Meaning 0-1% is larger than all other percent. In many cases, the percentage from 0-1% could be the size of 5-10x the other percent.
+
+This strategy makes it less likely that the EV would run out of battery. The problem with this approach is that you typically charge the car when there is 5-10% left to ensure you don't run out, but when there is hidden capacity, the driver ends up charging already when there is 15-20% battery left. This approach causes the owner to experience the electric range being lower than reality. 
+
+EVKX.net believes this is a bad practice from the manufacturers.
+
+Some examples on EVs with hidden usable buffer
+
+- [Toyota bZ4X](/models/toyota/bz4x/bz4x_awd/)
+- Lexus RZ450e
+- 
+
 
 
 Continue to [manufactors](../manufactors/) or go back to the [article overview](../).
