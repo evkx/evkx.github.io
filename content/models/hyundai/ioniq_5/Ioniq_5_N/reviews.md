@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Top Gear: FIRST DRIVE: Hyundai Ioniq 5 N, 641bhp Hyper-Hatch! 10.10.2023
+
+{{< youtube 1N81QvAJRkI >}}
+
 ### Fully Charged Show: The New Ioniq 5 N Comes With An Imaginary Gearbox… 13.07.2023
 
 {{< youtube G6_h3a7XWwo >}}
