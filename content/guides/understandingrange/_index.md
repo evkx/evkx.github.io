@@ -17,19 +17,90 @@ The most critical aspect of range is how large the battery is. A larger battery 
 
 Today's model has a battery size between approx 40kWh and 230kWh, with the majority being 60-100kWh. The table below shows the net battery size of some of the most popular models.
 
-| Model | Net battery size |
-|-----|-----|
-| [Volvo EX30](/models/volvo/ex30/ex30_single_motor/) | 49kWh |
-| [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/) | 57.5kWh  |
-| [Ford Mustang Mach E Standard Range](/models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/) | 70kWh |
-| [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/) |  74kWh |
-| [Volkswagen ID4 Pro](/models/volkswagen/id.4/id.4_pro/) | 77kWh |
-| [Mercedes EQE 350 4matic Suv](/models/mercedes/eqe_suv/eqe_350_4matic_suv/) | 90.6kWh |
-| [Tesla Model S Plaid](/models/tesla/model_x/model_x_plaid/) | 96kWh |
-| [BMW iX 50](/models/bmw/ix/ix_xdrive50/) | 105.2kWh |
-| [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/) |  106kWh |
-| [Lucid Air Dream Edition](/models/lucid/air/air_dream_edition_performance/) | 117kWh | 
-| [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/) | 131kWh |
+<table class="table table-striped">
+<thead>
+    <th>
+        <td>
+            Model
+        </td>
+        <td>
+            Net battery size
+        </td>
+    </th>
+</thead>
+<tbody>
+<tr>
+    <td><a href="/models/volvo/ex30/ex30_single_motor/">Volvo EX30</a>
+    </td>
+    <td>49kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/tesla/model_y/model_y_standard_range/">Tesla Model Y Standard Range</a>
+    </td>
+    <td>57.5kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/">Ford Mustang Mach E Standard Range</a>
+    </td>
+    <td>70kWh
+    </td>
+</tr>
+
+<tr>
+    <td><a href="/models/hyundai/ioniq_5/ioniq_5_long_range_awd/">Hyundai Ioniq 5 Long Range AWD</a>
+    </td>
+    <td>74kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/volkswagen/id.4/id.4_pro/">Volkswagen ID4 Pro</a>
+    </td>
+    <td>77kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/mercedes/eqe_suv/eqe_350_4matic_suv/">Mercedes EQE 350 4matic Suv</a>
+    </td>
+    <td>90.6kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/tesla/model_x/model_x_plaid/">Tesla Model S Plaid</a>
+    </td>
+    <td>96kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/bmw/ix/ix_xdrive50/">BMW iX 50</a>
+    </td>
+    <td>105.2kWh
+    </td>
+</tr>
+
+<tr>
+    <td><a href="/models/audi/q8_e-tron/q8_55_e-tron/">Audi Q8 55 e-tron</a>
+    </td>
+    <td>106kWh
+    </td>
+</tr>
+
+<tr>
+    <td><a href="/models/lucid/air/air_dream_edition_performance/">Lucid Air Dream Edition</a>
+    </td>
+    <td>117kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/ford/f150_lightning/f150_lightning_extended_range/">Ford F150 Lightning Extended Range</a>
+    </td>
+    <td>131kWh
+    </td>
+</tr>
+</tbody>
+
+</table>
 
 You can see all models [sorted on net battery size](/evsearch/?sortOrder=NetBattery) in our EV database.
 
