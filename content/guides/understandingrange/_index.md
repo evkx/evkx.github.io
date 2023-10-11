@@ -19,14 +19,14 @@ Today's model has a battery size between approx 40kWh and 230kWh, with the major
 
 <table class="table table-striped">
 <thead>
-    <th>
-        <td>
+    <tr>
+        <th>
             Model
-        </td>
-        <td>
+        </th>
+        <th>
             Net battery size
-        </td>
-    </th>
+        </th>
+    </tr>
 </thead>
 <tbody>
 <tr>
