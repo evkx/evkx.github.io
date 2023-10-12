@@ -61,7 +61,7 @@ Out of Spec Reviews is also the only channel that do a systematic tests of Advan
 Visit their channel and subscribe [here](https://www.youtube.com/@OutofSpecReviews/videos)
 
 Out of Spec Reviews is run by Kyle Connor and Out Spec Studios from [Fort Collins Colorado USA](https://www.google.com/maps/place/40%C2%B033'27.0%22N+105%C2%B004'37.2%22W/@40.5331224,-105.1267027,13.25z/data=!4m4!3m3!8m2!3d40.5575024!4d-105.077008?entry=ttu).
-They even have a own DC Charger at [CSU Powerhouse](https://www.google.com/maps/place/Powerhouse+Energy+Campus/@40.5944304,-105.0754419,114m/data=!3m1!1e3!4m6!3m5!1s0x87694a8906ce0dcb:0x548abeb929d4e02a!8m2!3d40.5942362!4d-105.0757866!16s%2Fg%2F1tf24knk?entry=ttu) 
+They even have a own DC Charger at [CSU Powerhouse](https://www.google.com/maps/@40.5942626,-105.0753647,74m/data=!3m1!1e3?entry=ttu) 
 
 They have serveral other EV related channels. 
 
