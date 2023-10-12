@@ -15,7 +15,8 @@ The models available today (summer 2023) have a rated range between approx 200km
 
 The most critical aspect of range is how large the battery is. A larger battery means more energy to use.
 
-Today's model has a battery size between approx 40kWh and 230kWh, with the majority being 60-100kWh. The table below shows the net battery size of some of the most popular models.
+Today's model has a battery size between approx 40kWh and 230kWh, with the majority being 60-100kWh. 
+The table below shows the usable battery size of some of the most popular models.
 
 <table class="table table-striped">
 <thead>
@@ -24,7 +25,7 @@ Today's model has a battery size between approx 40kWh and 230kWh, with the major
             Model
         </th>
         <th>
-            Net battery size
+            Usable battery size (net size)
         </th>
     </tr>
 </thead>
@@ -105,10 +106,9 @@ Today's model has a battery size between approx 40kWh and 230kWh, with the major
 You can see all models [sorted on net battery size](/evsearch/?sortOrder=NetBattery) in our EV database.
 
 But the battery is not the only factor in the stated range. Another critical factor is how efficient the car is.
-And with efficiency, it means how much energy the EV use from the battery for a given distance. It is typically stated in Europe as kWh/100km, indicating how many kWh is needed to drive 100km. In the US and the UK, it is rated as miles per kWh, meaning how far can you go with 1 kWh.
+And with efficiency, it means how much energy the EV uses from the battery for a given distance. It is typically stated in Europe as kWh/100km, indicating how many kWh is needed to drive 100km. In the US and the UK, it is rated as miles per kWh, meaning a calculation of how far you can go with 1 kWh.
 
-The below table shows the calculated consumption in kWh/100km and miles/kWh for different EV is according to WLTP combined rating.
-
+The table below shows the calculated kWh/100km consumption and miles/kWh for different EVs according to the WLTP combined rating.
 
 <table class="table table-striped">
 <thead>
@@ -201,17 +201,14 @@ The efficiency or consumption is affected by many attributes of the car.
 
 ### Aerodynamic drag
 
-The aerodynamic drag affects how much energy is needed to move. The shape of the body affects it but also the design of the wheels.
+The aerodynamic drag affects how much energy is needed to move. The shape of the body affects it, but also the design of the wheels.
 The Mercedes Vision EQXX is currently the EV with the lowest [drag coefficient](https://en.wikipedia.org/wiki/Drag_coefficient) with a Cw value of only 0.17
 
 {{< sitefigure thumb="guides/understandingrange/mercedeseqxx_1_st.jpg" title="Mercedes Vision EQXX with a record low drag coefficient of 0.17" >}}
 
 Calculating how much energy is needed to overcome aerodynamic drag is possible if you know a model's drag coefficient and the frontal area size.
 
-Below you see some examples from various models.
-
-
-
+Below, you see some examples from various models.
 
 <table class="table table-striped">
 <thead>
@@ -419,7 +416,7 @@ High speed increases consumption because of higher drag.
 
 The temperature affects the range in different ways. If it is cold, the air is denser and has a higher aerodynamical drag.
 
-In addition, warm and cold weather could increase the car's consumption of air condition systems. On a really cold day you could end up spending 20-30% of the battery to heating the cabin.
+In addition, warm and cold weather could increase the car's consumption of air condition systems.  On a freezing day, you could spend 20-30% of the battery to heat the cabin.
 
 ### The driving style
 
@@ -458,7 +455,7 @@ The range indicator base its range on the following data
 
 - Average consumption on the previous distance driven (typically last 100km)
 - Outside temperature
-- The state of charge (of much the battery is charged)
+- The state of charge (how much the battery is charged)
 - The planned route in the navigation system
 
 {{< sitefigure thumb="guides/understandingrange/virtualcockpit_st.png" title="Virtual cockpit with range indicator" >}}
