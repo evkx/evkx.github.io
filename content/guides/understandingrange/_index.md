@@ -109,19 +109,91 @@ And with efficiency, it means how much energy the EV use from the battery for a 
 
 The below table shows the calculated consumption in kWh/100km and miles/kWh for different EV is according to WLTP combined rating.
 
-| Model | WLTP Consumption |
-|-----|-----|-----|
-| [Volvo EX30](/models/volvo/ex30/ex30_single_motor/) | 14,24kWh/100km / 4,4 mi/kWh |
-| [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/) | 13,37kWh/100km / 4,6 mi/kWh |
-| [Ford Mustang Mach E Standard Range](/models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/) | 15,91kWh/100km / 3,9 mi/kWh |
-| [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/) |  15,38kWh/100km / 4,0 mi/kWh |
-| [Volkswagen ID4 Pro](/models/volkswagen/id.4/id.4_pro/) | 14,56kWh/100km / 4,3 mi/kWh |
-| [Mercedes EQE 350 4matic Suv](/models/mercedes/eqe_suv/eqe_350_4matic_suv/) | 16,56kWh/100km / 3,8 mi/kWh |
-| [Tesla Model S Plaid](/models/tesla/model_x/model_x_plaid/) | 17,68kWh/100km / 3,5 mi/kWh |
-| [BMW iX 50](/models/bmw/ix/ix_xdrive50/) | 16,67kWh/100km / 3,7 mi/kWh |
-| [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/) |  18,21kWh/100km / 3,4 mi/kWh |
-| [Lucid Air Dream Edition](/models/lucid/air/air_dream_edition_performance/) | 13,59kWh/100km / 4,6 mi/kWh | 
-| [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/) | 25,4 kWh/100km / 2,4 mi/kWh (EPA) |
+
+<table class="table table-striped">
+<thead>
+    <tr>
+        <th>
+            Model
+        </th>
+        <th>
+           WLTP Consumption
+        </th>
+    </tr>
+</thead>
+<tbody>
+<tr>
+    <td><a href="/models/volvo/ex30/ex30_single_motor/">Volvo EX30</a>
+    </td>
+    <td>14,24kWh/100km / 4,4 mi/kWh 
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/tesla/model_y/model_y_standard_range/">Tesla Model Y Standard Range</a>
+    </td>
+    <td>13,37kWh/100km / 4,6 mi/kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/">Ford Mustang Mach E Standard Range</a>
+    </td>
+    <td>15,91kWh/100km / 3,9 mi/kWh
+    </td>
+</tr>
+
+<tr>
+    <td><a href="/models/hyundai/ioniq_5/ioniq_5_long_range_awd/">Hyundai Ioniq 5 Long Range AWD</a>
+    </td>
+    <td> 15,38kWh/100km / 4,0 mi/kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/volkswagen/id.4/id.4_pro/">Volkswagen ID4 Pro</a>
+    </td>
+    <td>14,56kWh/100km / 4,3 mi/kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/mercedes/eqe_suv/eqe_350_4matic_suv/">Mercedes EQE 350 4matic Suv</a>
+    </td>
+    <td>16,56kWh/100km / 3,8 mi/kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/tesla/model_x/model_x_plaid/">Tesla Model S Plaid</a>
+    </td>
+    <td>17,68kWh/100km / 3,5 mi/kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/bmw/ix/ix_xdrive50/">BMW iX 50</a>
+    </td>
+    <td> 16,67kWh/100km / 3,7 mi/kWh
+    </td>
+</tr>
+
+<tr>
+    <td><a href="/models/audi/q8_e-tron/q8_55_e-tron/">Audi Q8 55 e-tron</a>
+    </td>
+    <td>18,21kWh/100km / 3,4 mi/kWh
+    </td>
+</tr>
+
+<tr>
+    <td><a href="/models/lucid/air/air_dream_edition_performance/">Lucid Air Dream Edition</a>
+    </td>
+    <td>13,59kWh/100km / 4,6 mi/kWh
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/ford/f150_lightning/f150_lightning_extended_range/">Ford F150 Lightning Extended Range</a>
+    </td>
+    <td>25,4 kWh/100km / 2,4 mi/kWh (EPA)
+    </td>
+</tr>
+</tbody>
+
+</table>
 
 ## What affects the rated consumption?
 
@@ -136,16 +208,77 @@ The Mercedes Vision EQXX is currently the EV with the lowest [drag coefficient](
 
 Calculating how much energy is needed to overcome aerodynamic drag is possible if you know a model's drag coefficient and the frontal area size.
 
-Below you see some examples from various models. 
+Below you see some examples from various models.
 
-| Model | Drag coefficient (cd) | Frontal area |
-|----|-----|------|
-| Audi e-tron SUV | 0.28 | 2.65m2 |
-| Audi e-tron Sportback | 0.26 | 2.65m2 |
-| Audi Q4 e-tron SUV | 0.28 | 2.56m2 |
-| Audi Q4 e-tron Sportback | 0.26 | 2.56m2 |
-| Audi e-tron GT | 0.24 | 2.35m2 |
-| Mercedes EQS | 0.20 | 2.5m2 |
+
+
+
+<table class="table table-striped">
+<thead>
+    <tr>
+        <th>
+            Model
+        </th>
+        <th>
+          Drag coefficient (cd)
+        </th>
+        <th>
+          Drag coefficient (cd)
+        </th>
+    </tr>
+</thead>
+<tbody>
+<tr>
+    <td><a href="/models/audi/e-tron/">Audi e-tron SUV</a>
+    </td>
+    <td>0.28
+    </td>
+    <td>2.65m2
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/audi/e-tron/">Audi e-tron Sportback</a>
+    </td>
+    <td>0.26
+    </td>
+    <td>2.65m2
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/audi/q4-e-tron/">Audi Q4 e-tron SUV</a>
+    </td>
+    <td>0.28
+    </td>
+    <td>2.56m2
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/audi/q4-e-tron/">Audi Q4 e-tron Sportback</a>
+    </td>
+    <td>0.28
+    </td>
+    <td>2.56m2
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/audi/e-tron-gt/">Audi e-tron GT </a>
+    </td>
+    <td>0.24
+    </td>
+    <td>2.35m2
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/mercedes/eqs/">Mercedes EQS </a>
+    </td>
+    <td>0.20
+    </td>
+    <td>2.5m2
+    </td>
+</tr>
+
+</tbody>
+</table>
 
 The graph below shows how much aerodynamic drag consumption causes for the different models.
 
@@ -153,13 +286,66 @@ The graph below shows how much aerodynamic drag consumption causes for the diffe
 
 The table below shows aerodynamic drag consumption on three different Audi models and Mercedes EQS.
 
-| Speed | 50km/h (31mph)| 80km/h (49.7mph)| 120km/h (74.6mph)  |
-|-----|---------|-----------|----------|
-| Audi e-tron 55| 3.04kWh/100km | 7.79 kWh/100km  | 17.53kWh/100km |
-| Audi Q4 e-tron  | 2.94 kWh/100km  | 7.52 kWh/100km  | 16.94kWh/100km |
-| Audi e-tron GT | 2.31kWh/100km| 5.92kWh/100km | 13.33kWh/100km |
-| Mercedes EQS | 2.05kWh/100km| 5.21kWh/100km | 11.81kWh/100km |
-
+<table class="table table-striped">
+<thead>
+    <tr>
+        <th>
+            Model
+        </th>
+        <th>
+            50km/h (31mph)
+        </th>
+        <th>
+            80km/h (49.7mph)
+        </th>
+        <th>
+            120km/h (74.6mph)
+        </th>
+    </tr>
+</thead>
+<tbody>
+<tr>
+    <td><a href="/models/audi/e-tron/">Audi e-tron SUV</a>
+    </td>
+    <td>3.04kWh/100km
+    </td>
+    <td>7.79 kWh/100km
+    </td>
+    <td>17.53kWh/100km
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/audi/q4-e-tron/">Audi Q4 e-tron SUV</a>
+    </td>
+    <td>2.94 kWh/100km
+    </td>
+    <td>7.52 kWh/100km
+    </td>
+    <td>16.94kWh/100km
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/audi/e-tron-gt/">Audi e-tron GT</a>
+    </td>
+    <td>2.31kWh/100km
+    </td>
+    <td>5.92kWh/100km
+    </td>
+    <td>13.33kWh/100km
+    </td>
+</tr>
+<tr>
+    <td><a href="/models/mercedes/eqs/">Mercedes EQS</a>
+    </td>
+    <td>2.05kWh/100km
+    </td>
+    <td>5.21kWh/100km
+    </td>
+    <td>11.81kWh/100km
+    </td>
+</tr>
+</tbody>
+</table>
 
 You see how the Mercedes EQS saves a lot of energy at high speed compared to the SUV because of less aerodynamic drag.
 
