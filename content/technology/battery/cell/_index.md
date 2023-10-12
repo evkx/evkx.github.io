@@ -18,6 +18,53 @@ Another advantage is that it is possible to get a high throughput of cells from 
 
 Tesla is one of the few EV manufacturers that uses this. [BMW will start](https://www.press.bmwgroup.com/global/article/detail/T0403470EN/more-performance-co2-reduced-production-significantly-lower-costs:-bmw-group-to-use-innovative-round-bmw-battery-cells-in-neue-klasse-from-2025?language=en) using it in next generation.
 
+There is three different sizes used
+
+<table class="table table-striped">
+<thead>
+<tr>
+<td>Type
+</td>
+<td>Size
+</td>
+<td>Capacity
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>18650
+</td>
+<td>18 x 65mm
+</td>
+<td>2300mWh - 36000mWh
+</td>
+</tr>
+<tr>
+<td>21700
+</td>
+<td>21 x 70mm
+</td>
+<td>4000mWh - 53000mWh
+</td>
+</tr>
+
+<tr>
+<td>4680
+</td>
+<td>46 x 80mm
+</td>
+<td>~98000mWh
+</td>
+</tr>
+
+
+</tbody>
+</table>
+
+{{< sitefiguresized thumb="technology/battery/cell/cylinderpanasonic_1_st.jpg" title="Panasonic 18650, 21700 and 4680 batteries" width="1920" height="1080" >}}
+
+
 ## Prismatic housing
 
 Li-ion cells with prismatic housing consist of large sheets of anodes, cathodes, and separators sandwiched, rolled up, and pressed to fit into a hard-plastic or metallic housing in cubic form. The electrodes can also be assembled by layer stacking rather than jelly rolling.
