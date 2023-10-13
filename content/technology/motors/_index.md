@@ -97,5 +97,18 @@ Electric vehicles (EVs) can use various motor setups depending on the specific d
 
 {{< sitefigure thumb="technology/motors/trimotorsetupaudi_st.jpg" title="Tri-motor setup" >}}
 
+**Quad motor setup** A quad motor setup has one motor for each wheel. Here are some of the advantages of having four motors in an EV
 
-The choice of motor setup depends on various factors, including the desired performance, efficiency, cost, and packaging constraints of the EV, as well as the target market and application. As a result, different motor setups offer other advantages and trade-offs in performance, efficiency, complexity, and cost. Therefore, EV manufacturers carefully select the appropriate motor setup based on their requirements and design considerations.
+- <b>Precise traction control:</b> Each motor can independently adjust the torque at each wheel, depending on the road conditions and the driver's input. This can improve the stability, handling, and safety of the vehicle, especially in off-road and snowy situations. For example, the Rivian R1S quad motor can use a feature called "tank turn" to spin on the spot by rotating the wheels on one side in one direction and the wheels on the other side in the opposite direction
+
+- <b>Torque vectoring</b>: Each motor can also vary the torque at each wheel to enhance the steering and cornering of the vehicle. This can reduce oversteer and understeer, common problems in conventional vehicles. Torque vectoring can also make the vehicle more agile and responsive and more fun to drive.
+
+Some models with Quad motor setup is
+
+- [Zeekr 001 FR](/models/zeekr/001/001_fr/)
+- [Rivian R1T/R1S Quad Motor](/models/rivian/r1/r1t_quad-motor_awd/)
+- [GMC Hummer](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
+
+Below, you see the Rivian R1T Quad motor do a tank turn with the quad motor setup.
+
+{{< youtube yzwM8KE2L3I >}}
