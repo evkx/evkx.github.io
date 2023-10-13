@@ -24,6 +24,6 @@ In an EV, the BMS plays a crucial role in ensuring the optimal performance and l
 
 **State of Health (SOH) monitoring:** The BMS monitors the SOH of the battery by analyzing its performance and degradation over time. It provides warnings and alerts when the battery's health is compromised, and recommends maintenance or replacement when necessary.
 
-{{< sitefigure thumb="technology/battery/batterymanagment/batterymanagement1s.jpg" title="Battery management electronics for Audi e-tron battery pack" >}}
+{{< sitefiguresized thumb="technology/battery/batterymanagement/batterymanagement1_st.jpg" width="2000" height="1186" title="Battery management electronics for Audi e-tron battery pack" >}}
 
 Continue to [Thermal Management](../thermalmanagement/) or go back to the [article overview](../).
