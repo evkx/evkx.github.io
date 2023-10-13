@@ -11,7 +11,7 @@ Here are some of the main aspects of EV interior design and how they differ from
 
 ## Space and Layout
 
-{{< sitefigure thumb="technology/interior/grandsphere_1_st.jpg" title="Audi Grandsphere Concept interior" >}}
+{{< sitefiguresized thumb="technology/interior/grandsphere_1_st.jpg" widht="3000" height="2249" title="Audi Grandsphere Concept interior" >}}
 
 One of the biggest advantages of EVs is that they have more space and flexibility for interior layout than conventional cars. This is because EVs do not have internal combustion engines, transmissions, fuel tanks, exhaust pipes, or other components that take up space and limit the placement of seats, consoles, storage compartments, and other features. EVs also have flat floors and lower center of gravity, which allow for more headroom, legroom, and cargo space.
 
@@ -39,7 +39,7 @@ Another major aspect of EV interior design is technology and connectivity. EVs a
 
 - Augmented reality (AR) and virtual reality (VR) that project images or information onto the windshield or the windows to create immersive experiences or assist with navigation or safety.
 
-{{< sitefigure thumb="technology/interior/activesphereinterior_2_st.jpg" title="Audi Activesphere Concept interior with AR" >}}
+{{< sitefiguresized thumb="technology/interior/activesphereinterior_2_st.jpeg" width="3000" height="2249" title="Audi Activesphere Concept interior with AR" >}}
 
 ## Materials and Sustainability
 
@@ -55,7 +55,7 @@ Some of the materials that are used or being developed for EV interiors are:
 
 - Carbon fiber or aluminum that are lightweight materials that reduce the weight of the car and improve its performance and efficiency.
 
-{{< sitefigure thumb="technology/interior/urbansphere_1_st.jpg" title="Audi Urbansphere Concept interior" >}}
+{{< sitefiguresized thumb="technology/interior/urbansphere_1_st.jpg" width="3000" height="2249" title="Audi Urbansphere Concept interior" >}}
 
 Continue to one of the subsection of this article
 

@@ -137,7 +137,7 @@ A glass panel roof allows for natural light and ventilation to enter the car and
 
 Infotainment systems have become a standard feature in most modern cars. They combine entertainment and information functionalities, providing drivers access to music, navigation, communication, and vehicle controls.
 
-[Read our infotainment sytem technology article](glassroof)
+[Read our infotainment system technology article](glassroof)
 
 ## Interior
 
@@ -147,7 +147,7 @@ Infotainment systems have become a standard feature in most modern cars. They co
 
 Electric vehicles (EVs) are not only transforming the way we drive, but also the way we design car interiors. EVs offer new possibilities and challenges for car interior designers, who have to balance functionality, comfort, aesthetics, and sustainability.
 
-[Read our infotainment sytem technolog article](glassroof)
+[Read our interior technolog article](interior)
 
 ## Lights
 
