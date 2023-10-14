@@ -26,6 +26,12 @@ We have separated our Audi e-tron 55 Sportback article into sections. If you wan
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Audi Q8 Sportback 55 e-tron](/models/audi/q8_e-tron/q8_sportback_55_e-tron/).
+
+</div>
+
 
 ## Performance
 

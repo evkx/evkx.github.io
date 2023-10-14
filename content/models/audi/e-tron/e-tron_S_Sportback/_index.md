@@ -26,6 +26,12 @@ We have separated our Audi e-tron S Sportback article into sections. If you want
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron/).
+
+</div>
+
 
 ## Performance
 

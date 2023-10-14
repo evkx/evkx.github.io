@@ -26,6 +26,12 @@ We have separated our Audi e-tron 50 article into sections. If you want to wait 
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Audi Q8 50 e-tron](/models/audi/q8_e-tron/q8_50_e-tron/).
+
+</div>
+
 
 ## Performance
 

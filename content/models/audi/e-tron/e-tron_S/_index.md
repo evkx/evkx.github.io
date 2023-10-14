@@ -26,6 +26,12 @@ We have separated our Audi e-tron S article into sections. If you want to wait t
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron/).
+
+</div>
+
 
 ## Performance
 
