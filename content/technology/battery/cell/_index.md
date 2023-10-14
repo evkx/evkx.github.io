@@ -10,7 +10,7 @@ weight: 3
 
 A cylindrical cell consists of sheet-like anodes, separators, and cathodes that are sandwiched, rolled up, and packed into a cylinder-shaped can. This form factor is the form factor that battery manufacturers have used for years in the market with battery sizes like AAA and AA used in electronics. 
 
-{{< sitefigure thumb="technology/battery/cell/cylinder4680_st.jpg" title="Tesla 4680 cylinder battery" >}}
+{{< sitefiguresized thumb="technology/battery/cell/cylinder4680_st.jpg"  width="2109" height="1157" title="Tesla 4680 cylinder battery" >}}
 
 One advantage is mechanical stability. The round shape of the battery distributes the internal pressure from side reactions over the cell circumference almost evenly. This stability allows the cell to tolerate higher internal pressure without deformation.
 
@@ -22,54 +22,50 @@ There is three different sizes used
 
 <table class="table table-striped">
 <thead>
-<tr>
-<td>Type
-</td>
-<td>Size
-</td>
-<td>Capacity
-</td>
-</tr>
+    <tr>
+        <td>Type
+        </td>
+        <td>Size
+        </td>
+        <td>Capacity
+    </td>
+    </tr>
 </thead>
 <tbody>
-<tr>
-<td>18650
-</td>
-<td>18 x 65mm
-</td>
-<td>2300mWh - 36000mWh
-</td>
+    <tr>
+        <td>18650
+        </td>
+        <td>18 x 65mm
+        </td>
+        <td>2300mWh - 36000mWh
+        </td>
+        </tr>
+    <tr>
+        <td>21700
+        </td>
+        <td>21 x 70mm
+        </td>
+        <td>4000mWh - 53000mWh
+        </td>
+    </tr>
+    <tr>
+        <td>4680
+        </td>
+        <td>46 x 80mm
+        </td>
+    <td>~98000mWh
+    </td>
 </tr>
-<tr>
-<td>21700
-</td>
-<td>21 x 70mm
-</td>
-<td>4000mWh - 53000mWh
-</td>
-</tr>
-
-<tr>
-<td>4680
-</td>
-<td>46 x 80mm
-</td>
-<td>~98000mWh
-</td>
-</tr>
-
-
 </tbody>
 </table>
 
 {{< sitefiguresized thumb="technology/battery/cell/cylinderpanasonic_1_st.jpg" title="Panasonic 18650, 21700 and 4680 batteries" width="1920" height="1080" >}}
 
-
 ## Prismatic housing
 
 Li-ion cells with prismatic housing consist of large sheets of anodes, cathodes, and separators sandwiched, rolled up, and pressed to fit into a hard-plastic or metallic housing in cubic form. The electrodes can also be assembled by layer stacking rather than jelly rolling.
 
-{{< sitefigure thumb="technology/battery/cell/samsungprismatic_st.jpg" title="Samsung prismatic cells" >}}
+{{< sitefiguresized thumb="technology/battery/cell/samsungprismatic_st.jpg" width="2800" height="1000" title="Samsung prismatic cells" >}}
 
 Parts of a prismatic cell's electrode and separator sheets close to the container corners can experience more stress. This stress can damage electrode coating and lead to the non-uniform distribution of the electrolyte.
 

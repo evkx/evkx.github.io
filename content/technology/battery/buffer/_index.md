@@ -81,8 +81,6 @@ EVKX.net believes this is a bad practice from the manufacturers.
 </tbody>
 </table>
 
-
-
 See Bjørns test results for <a href="https://docs.google.com/spreadsheets/d/1V6ucyFGKWuSQzvI8lMzvvWJHrBS82echMVJH37kwgjE/edit#gid=52159941" target="_blank">more data</a> or all his <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Zero Miles Tests</a>
 
 Continue to [manufacturers](../manufactors/) or go back to the [article overview](../).

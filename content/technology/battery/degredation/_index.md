@@ -48,11 +48,10 @@ When this happens the available ions in the battery are reduced. Higher speed ch
 
 Tesla has in the [2022 Tesla Impact Report](https://www.tesla.com/ns_videos/2022-tesla-impact-report-highlights.pdf) given their most updated data on the Model S and Model X.
 
-{{< sitefigure thumb="technology/battery/degradation/teslastats_1_st.png" title="After 200,000 miles, the Tesla batteries degrade just 12%" >}}
+{{< sitefiguresized thumb="technology/battery/degradation/teslastats_1_st.png" width="991" height="550" title="After 200,000 miles, the Tesla batteries degrade just 12%" >}}
 
 ## How to preserve battery
 
 Read how to preserver your battery in our [guide](../../../guides/protectingbattery/).
-
 
 Continue to [buffer](../buffer/) or go back to the [article overview](../).

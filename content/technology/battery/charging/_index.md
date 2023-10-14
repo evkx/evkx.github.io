@@ -31,7 +31,7 @@ The charging process is reversible, and during discharge, the electrons flow bac
 
 The charging performance varies a lot between EVs. Several aspects affect the charging speed of EVs they are.
 
-{{< sitefigure thumb="technology/battery/charging/charging_1_st.jpg" title="Kia EV6 GT charging at Ionity" >}}
+{{< sitefiguresized thumb="technology/battery/charging/charging_1_st.jpg" width="1920" height="1080" title="Kia EV6 GT charging at Ionity" >}}
 
 #### The pack configuration
 
@@ -57,7 +57,7 @@ The manufacturer decides the curve based on various inputs. The input could be t
 
 Some manufacturers also limit the number of High-speed charging sessions during a period. Toytota BZ4X is one model that Toyota launched with a limitation of only two high-speed sessions during 24 hours. More charging would be at a low speed.
 
-{{< sitefigure thumb="technology/battery/charging/taycancharging_1_st.jpg" title="Porsche Taycan charging" >}}
+{{< sitefiguresized thumb="technology/battery/charging/taycancharging_1_st.jpg" width="3000" height="2669" title="Porsche Taycan charging" >}}
 
 Porsche Taycan is a model where the owner can set a ‘battery-friendly’ charging speed as max to decrease degradation. A Taycan can initially charge with up to 270KW speed. With this setting enabled, it is limited to 200KW.
 

@@ -11,7 +11,7 @@ A battery pack has a thermal management system to try to keep the battery in the
 
 This includes cooling when in use to not overheat.
 
-{{< sitefigure thumb="technology/battery/thermalmanagment/batterycooling_1_st.jpg" title="Battery cooling" >}}
+{{< sitefiguresized thumb="technology/battery/thermalmanagment/batterycooling_1_st.jpg" width="3000" height="1808" title="Battery cooling" >}}
 
 On some cars, it can also heat the battery before charging to improve charging performance.
 
@@ -21,13 +21,12 @@ This is called Active Precondition. On cold days this is necessary to get the fu
 
 In the picture below you see both cooling circuits and an auxiliary heater that can heat the battery when cold.
 
-{{< sitefigure thumb="technology/battery/thermalmanagment/thermal_management_st.jpg" title="Audi e-tron GT thermal management" >}}
+{{< sitefiguresized thumb="technology/battery/thermalmanagment/thermal_management_st.jpg" width="2000" height="1200" title="Audi e-tron GT thermal management" >}}
 
 In this clip, you see details about the thermal management system on [Audi e-tron GT](/models/e-tron-gt).
 
 {{< youtube zdCiTtRR4TE >}}
 
 <br />
-
 
 Continue to [cell balancing](../cellbalancing/) or go back to the [article overview](../).
