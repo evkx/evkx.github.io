@@ -20,11 +20,11 @@ A typical disc brake system has several components, including the brake rotor, b
 The brake caliper is a mechanism that houses the brake pads and is positioned over the brake rotor. The brake pads are typically made of high-friction material and are positioned on each rotor side. When the driver applies the brakes, hydraulic pressure is used to push the brake pads against the rotor, creating friction and causing the vehicle to slow down or stop. Pistons are used to push the brake pads, and more powerful brakes have more pistons.
 
 
-{{< sitefigure thumb="technology/brakes/discbrakes_3_st.jpg" title="Front axle with 6-piston brake caliper and ventilated disc" >}}
+{{< sitefiguresized thumb="technology/brakes/discbrakes_3_st.jpg" width="3000" height="1920" title="Front axle with 6-piston brake caliper and ventilated disc" >}}
 
 Disc brakes are known for their superior stopping power and heat dissipation compared to other types of braking systems, such as drum brakes. They are more effective in dissipating heat generated during braking, which helps to reduce brake fade, a phenomenon where the braking performance decreases due to excessive heat buildup. Disc brakes also tend to provide more consistent and linear braking performance, allowing for better modulation and control.
 
-{{< sitefigure thumb="technology/brakes/brakepads_1_st.jpg" title="Mercedes Benz Brake Pad" >}}
+{{< sitefiguresized thumb="technology/brakes/brakepads_1_st.jpg" width="1295" height="844" title="Mercedes Benz Brake Pad" >}}
 
 Disc brakes have become the standard in most modern vehicles due to their performance advantages, although some older or smaller vehicles may still use drum brakes in certain applications. Disc brakes can be found on both the front and rear wheels of many vehicles and are a critical safety feature that plays a crucial role in the overall braking system of a vehicle.
 
@@ -38,13 +38,13 @@ Steel disc brakes are the most common type of brakes used in automobiles, includ
 
 One of the main advantages of steel disc brakes is their reliability and durability. They are also relatively inexpensive compared to other types of brakes. However, they do have some drawbacks. One is that they can generate a lot of heat, which can lead to brake fade and reduced performance. Additionally, they can create a lot of brake dust, which can be harmful to the environment.
 
-{{< sitefigure thumb="technology/brakes/steelbrakedisck_st.jpg" title="Steel disc brakes" >}}
+{{< sitefiguresized thumb="technology/brakes/steelbrakedisck_st.jpg" width="3000" height="2001" title="Steel disc brakes" >}}
 
 ### Carbid Brakes
 
 Carbid brakes are a type of high-performance brake that is used in some EVs. They are made of a composite material that includes carbon fibers and silicon carbide. This material has a high resistance to heat and wear, which makes it ideal for use in high-performance applications.
 
-{{< sitefigure thumb="technology/brakes/carbidetrongt_st.jpg" title="Carbid disc brake" >}}
+{{< sitefiguresized thumb="technology/brakes/carbidetrongt_st.jpg" width="3000" height="2023" title="Carbid disc brake" >}}
 
 One of the main advantages of carbid brakes is their ability to withstand high temperatures without losing their effectiveness. They are also more resistant to wear than steel disc brakes, which means they have a longer lifespan. However, they are more expensive than steel disc brakes, which can make them less practical for some applications.
 
@@ -62,7 +62,7 @@ In addition to their high-temperature performance, ceramic brakes also offer sev
 
 However, there are some downsides to ceramic brakes. One of the main drawbacks is their high cost. Ceramic brakes are significantly more expensive to manufacture than traditional steel brakes, which can make them a luxury option for high-end EVs or performance vehicles. Additionally, ceramic brakes can be more brittle and may not perform as well in extremely cold temperatures, which could limit their effectiveness in certain climates.
 
-{{< sitefigure thumb="technology/brakes/ceramicetrongt_st.jpg" title="Ceramic disc brakes" >}}
+{{< sitefiguresized thumb="technology/brakes/ceramicetrongt_st.jpg" width="3000" height="2039" title="Ceramic disc brakes" >}}
 
 Overall, ceramic brakes are a high-performance braking option for EVs that offer excellent thermal resistance, durability, and weight reduction benefits. However, their higher cost and potential limitations in extreme cold temperatures should be considered when evaluating their suitability for a particular EV application.
 
@@ -100,7 +100,7 @@ Drum brakes are a type of brake that is used in some EVs, especially in the rear
 
 One of the main advantages of drum brakes is their simplicity and low cost. They are also very reliable and have a long lifespan. However, they are less effective than other types of brakes, especially at high speeds. Additionally, they can generate a lot of heat, which can lead to brake fade and reduced performance.
 
-{{< sitefigure thumb="technology/brakes/drumbrake_st.jpg" title="Drumbrakes on VW MEB platform" >}}
+{{< sitefiguresized thumb="technology/brakes/drumbrake_st.jpg" width="3000" height="2425" title="Drumbrakes on VW MEB platform" >}}
 
 ## Different Sizes
 
@@ -116,7 +116,7 @@ Brake-by-wire technology is an innovative system used in electric vehicles (EVs)
 
 The basic components of a brake-by-wire system include sensors, actuators, and an electronic control unit (ECU) that monitors and controls the braking system. Sensors, such as wheel speed sensors, brake pedal position sensors, and battery state of charge sensors, gather data on the vehicle's speed, acceleration, braking, and battery status. Actuators, such as electric motors or solenoids, control the application of braking force to the wheels. The ECU processes the sensor data and determines the appropriate amount of braking force to be applied, either through regenerative braking or friction braking, and commands the actuators accordingly.
 
-{{< sitefigure thumb="technology/brakes/blendedbrakesystem_st.jpg" title="Brake By Wire System" >}}
+{{< sitefiguresized thumb="technology/brakes/blendedbrakesystem_st.jpg" width="3000" height="1711" title="Brake By Wire System" >}}
 
 One of the key advantages of brake-by-wire technology is its ability to blend regenerative braking with friction braking in a seamless and efficient manner. When the vehicle is decelerating or coming to a stop, the brake-by-wire system can first engage regenerative braking, which captures the kinetic energy of the vehicle and converts it into electrical energy to charge the battery. This helps to extend the vehicle's driving range and increase overall energy efficiency. If more braking force is needed beyond what regenerative braking can provide, the system can then gradually transition to friction braking, where the brake pads are applied to the wheels to provide additional stopping power.
 
