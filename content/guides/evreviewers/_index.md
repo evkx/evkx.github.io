@@ -52,21 +52,24 @@ Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos)
 
 Out of Spec Reviews is a YouTube channel that focuses on reviewing electric vehicles and highlighting their capabilities beyond what is typically advertised by manufacturers. The channel is run by Kyle Conner and his team, who are passionate about EVs and adventure travel.
 
-On Out of Spec Reviews, you can expect to find in-depth reviews of a variety of electric vehicles,
+On Out of Spec Reviews, you can expect to find in-depth reviews of a variety of electric vehicles. 
+The vehicles typically goes through the following test
 
-The reviews often include range tests, performance tests, off-road tests, and long-distance road trips to showcase the vehicles’ capabilities.
+- In-depth review covering the interior, exterior, drivetrain, and options
+- 70Mph motorway range test
+- 10% challenge. How far can you drive after 15 minutes of charging from 10%? [See the calculated result in our database](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent15Min).
 
-The channel also covers other EV-related content, such as charging infrastructure, electric motorcycles, and even an electric airplane. 
+The channel also covers other EV-related content, such as charging infrastructure, electric motorcycles, and even an electric airplane.
 
 Overall, Out of Spec Reviews provides a unique perspective on electric vehicles and is a great resource for anyone interested in the EV space.
 Out of Spec Reviews is also the only channel that does systematics tests of Advance Driver Assist Systems.
 
-Visit their channel and subscribe [here](https://www.youtube.com/@OutofSpecReviews/videos)
+Visit their channel and subscribe [here](https://www.youtube.com/@OutofSpecReviews/videos).
 
-Out of Spec Reviews is run by Kyle Connor and Out Spec Studios from [Fort Collins Colorado USA](https://www.google.com/maps/place/40%C2%B033'27.0%22N+105%C2%B004'37.2%22W/@40.5331224,-105.1267027,13.25z/data=!4m4!3m3!8m2!3d40.5575024!4d-105.077008?entry=ttu).
+Out of Spec Reviews is run by Kyle Connor and Out Spec Studios from [Fort Collins, Colorado, USA](https://www.google.com/maps/place/40%C2%B033'27.0%22N+105%C2%B004'37.2%22W/@40.5331224,-105.1267027,13.25z/data=!4m4!3m3!8m2!3d40.5575024!4d-105.077008?entry=ttu).
 They even have their own DC Charger at  [CSU Powerhouse](https://www.google.com/maps/@40.5942626,-105.0753647,74m/data=!3m1!1e3?entry=ttu) 
 
-They have several other EV-related channels.
+They have several other EV-related channels. Kyle also joins the [Batteries Included podcast](https://www.youtube.com/channel/UC8t6qd-ss-pTvi0bqVzYGog) that we recommend.
 
 ## Other notable mentions
 
