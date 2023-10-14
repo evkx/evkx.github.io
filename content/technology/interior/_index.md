@@ -11,7 +11,7 @@ Here are some of the main aspects of EV interior design and how they differ from
 
 ## Space and Layout
 
-{{< sitefiguresized thumb="technology/interior/grandsphere_1_st.jpg" widht="3000" height="2249" title="Audi Grandsphere Concept interior" >}}
+{{< sitefiguresized thumb="technology/interior/grandsphere_1_st.jpg" width="3000" height="2249" title="Audi Grandsphere Concept interior" >}}
 
 One of the biggest advantages of EVs is that they have more space and flexibility for interior layout than conventional cars. This is because EVs do not have internal combustion engines, transmissions, fuel tanks, exhaust pipes, or other components that take up space and limit the placement of seats, consoles, storage compartments, and other features. EVs also have flat floors and lower center of gravity, which allow for more headroom, legroom, and cargo space.
 
