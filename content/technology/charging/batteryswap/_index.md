@@ -13,7 +13,7 @@ Battery swapping requires EVs to have standardized and swappable batteries that 
 
 Battery swapping is a concept that has been introduced previously, as it was first proposed by Better Place, an Israeli startup that went bankrupt in 2013. However, some companies have revived the idea and implemented it successfully in some markets. One of them is Nio, a Chinese EV maker that offers battery swapping as a service for its models. Nio has built almost 2,000 swap stations in China and Europe. It takes 4-7 minutes to perform a battery swap on a Nio Power Swap station, depending on its version.
 
-{{< sitefigure thumb="technology/charging/batteryswap/powerswap_1_st.jpg" title="Nio Power Battery swap station" >}}
+{{< sitefiguresized thumb="technology/charging/batteryswap/powerswap_1_st.jpg" width="3000" height="1687" title="Nio Power Battery swap station" >}}
 
 ### Pro
 

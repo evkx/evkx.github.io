@@ -64,7 +64,7 @@ V2H stands for vehicle-to-home and refers to bidirectional charging between an E
 
 V2L stands for vehicle-to-load and refers to bidirectional charging between an EV and a load. A load is any device or appliance that consumes electricity, such as a refrigerator, a coffee maker, a laptop, or another EV. V2L allows an EV to send electricity to a load when it is needed or requested by the user or the device. V2L can provide portable power to a load in case of a lack of access to the grid or a charging station. V2L can also enable sharing of power between EVs or other loads.
 
-{{< sitefigure thumb="technology/charging/bidirectional/v2l_1_st.jpg" title="Hyundai Ioniq 5 charging electric bike" >}}
+{{< sitefiguresized thumb="technology/charging/bidirectional/v2l_1_st.jpg" width="3000" height="2000" title="Hyundai Ioniq 5 charging electric bike" >}}
 
 ## The Different Types of Bidirectional Chargers and Connectors
 

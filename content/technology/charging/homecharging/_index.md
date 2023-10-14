@@ -21,13 +21,13 @@ First, you should understand that some limitations in your home prevent installi
 
 The next question is to install a hardwired or plugged home charger. EVKX always recommends installing hardwired solutions. A plug/socket like Nema 14-50 has a substantial risk of overheating and causing a fire that causes harm to buildings and people.
 
-{{< sitefigure thumb="technology/charging/homecharging/audievse_3_st.jpg" title="Not recommended! Plugged charging station" >}}
+{{< sitefiguresized thumb="technology/charging/homecharging/audievse_3_st.jpg" width="3000" height="1999" title="Not recommended! Plugged charging station" >}}
 
 Many EVs include a portable EVSE when no other charging solutions are available. You can compare it to a gas can. The best thing is to keep this EVSE in your car when you don’t have other options. In some countries, using a plugged EVSE as a permanent charging solution for your EV is prohibited.
 
 Below you see examples where people experienced overheating in plugs. Luckily, in this example, people could stop it, and no one got harmed.
 
-{{< sitefigure thumb="technology/charging/homecharging/burnedsocket_1_st.jpg" title="Examples from owners that experienced overheated plugged solutions" >}}
+{{< sitefiguresized thumb="technology/charging/homecharging/burnedsocket_1_st.jpg" width="3000" height="2000" title="Examples from owners that experienced overheated plugged solutions" >}}
 
 If you don't have any options other than using a plugged solution, please use high-quality plugs and try to reduce the number of times you unplug the charger. It is often the unplugging that causes wear on the plug that, again, increases the risk of overheating.
 
@@ -171,7 +171,7 @@ As you can see from comparing the tables, even for the models with high consumpt
 
 It would be best to consider the future when installing a new dedicated circuit. The future is Electric, and your new EV is probably not the last. So if you need a less powerful full charger now, you can still install a circuit that could handle more power in the future.
 
-{{< sitefigure thumb="technology/charging/homecharging/porsche100amps_1_st.jpeg" title="Porsche 19.2 KW hardwired charger" >}}
+{{< sitefiguresized thumb="technology/charging/homecharging/porsche100amps_1_st.jpeg" width="2048" height="1365" title="Porsche 19.2 KW hardwired charger" >}}
 
 Check the electrical requirements of your chosen charger and compare them with your home's existing wiring and circuit breaker. You may need to upgrade your electrical panel or install a new dedicated circuit for your charger.
 Hire a licensed electrician to install your home charger according to the local codes and regulations. 
@@ -188,7 +188,7 @@ Smart chargers let you charge when it is cheapest. Connected to the Internet, it
 
 The chart below shows the next-day energy prices from [Nordpool](https://www.nordpoolgroup.com/en/Market-data1/Dayahead/Area-Prices/NO/Hourly/?view=chart). A smart charger could use this data to plan when to charge the next day. On a sunny day like this, the energy is almost free in the middle of the day because of excess solar power.  Smart charging can save a lot of money in situations like this.
 
-{{< sitefigure thumb="technology/charging/homecharging/nordpool_1_st.jpg" title="Nordpool daily electricity cost Norway June 4. 2023" >}}
+{{< sitefiguresized thumb="technology/charging/homecharging/nordpool_1_st.jpg" width="1523" height="541" title="Nordpool daily electricity cost Norway June 4. 2023" >}}
 
 ## Country specific home charging info
 

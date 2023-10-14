@@ -18,7 +18,7 @@ This article will explain everything you need to know about charging an EV, whet
 - The future trends and developments in EV charging
 - By the end of this article, you will have a clear understanding of how to charge an EV efficiently, safely, and conveniently. You will also learn how to choose the best charging option for your EV model, driving habits, and budget12345
 
-{{< sitefigure thumb="technology/charging/charging_1_st.jpg" title="Porsche Taycan Turbo S charging" >}}
+{{< sitefiguresized thumb="technology/charging/charging_1_st.jpg" width="3000" height="2669" title="Porsche Taycan Turbo S charging" >}}
 
 ## Charging Levels
 
@@ -54,4 +54,4 @@ Battery swapping is a method of charging EVs that involves replacing the deplete
 
 Read all about [battery swapping](batteryswap)
 
-{{< sitefigure thumb="technology/charging/batteryswap/powerswap_1_st.jpg" title="Nio Power Battery swap station" >}}
+{{< sitefiguresized thumb="technology/charging/batteryswap/powerswap_1_st.jpg" width="3000" height="1687" title="Nio Power Battery swap station" >}}
