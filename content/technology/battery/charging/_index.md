@@ -12,7 +12,15 @@ During the charging process, electrons flow from the charging source (e.g., char
 
 When the battery is fully charged, the cathode material is at its maximum capacity to store electrons, and the anode is fully depleted of positive ions. The battery is in a stable state with a high potential difference between the cathode and the anode, which is what provides the electric energy stored in the battery.
 
-<img src="batteryconceptcharging.drawio.svg" class="img-fluid">
+<figure>
+<img src="batteryconceptcharging.drawio.svg" class="img-fluid mx-auto d-block">
+<figcaption>
+        <p class="lead text-center fw-semibold">
+            Battery charging
+        </p>
+    </figcaption>
+</figure>
+
 
 
 The charging process is reversible, and during discharge, the electrons flow back from the cathode to the anode through an external circuit, creating a flow of electric current that can power an electric motor.

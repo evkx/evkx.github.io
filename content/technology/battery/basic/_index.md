@@ -14,8 +14,14 @@ This reaction in Anode is called reduction, and the Anode is known as the reduci
 
 The Cathode is known as the oxidizing agent because it accepts lithium ions from the Anode.
 
-![Battery](batteryconcept.drawio.svg "Battery concept")
-
+<figure>
+<img src="batteryconcept.drawio.svg" class="img-fluid mx-auto d-block">
+<figcaption>
+        <p class="lead text-center fw-semibold">
+            Battery concept
+        </p>
+    </figcaption>
+</figure>
 
 When the Anode releases positive Lithium-ions, at the same time, it frees electrons from the lithium atoms of the electrode.
 

@@ -134,13 +134,13 @@ Cell-to-module (C2M) is a technology used in electric vehicle (EV) battery packs
 
 In a traditional EV battery pack, individual battery cells are connected to form a module, and multiple modules are then connected in series and/or parallel to form the complete battery pack. This can be complex and expensive, especially in large battery packs, and may require extensive wiring and cooling systems to ensure even charging and discharging of the cells.
 
-{{< sitefigure thumb="technology/battery/batterypack/module_lg_pouch_st.jpg" title="LG battery module" >}}
+{{< sitefiguresized thumb="technology/battery/batterypack/module_lg_pouch_st.jpg" width="3000" height="1790" title="LG battery module" >}}
 
 With C2M technology, multiple battery cells are assembled into a single, self-contained module with integrated electronics and cooling systems. The modules can then be easily connected together to form the complete battery pack. Each module has its own BMS (battery management system) that monitors and controls the charging and discharging of the cells within the module, allowing for more precise control and monitoring of the individual cells.
 
 C2M technology has several advantages over traditional battery pack designs. It can simplify the overall design of the battery pack, reduce wiring and cooling requirements, and allow for greater flexibility in the overall pack design. It can also improve the overall reliability of the pack, since each module is self-contained and faults can be detected and isolated more quickly.
 
-{{< sitefigure thumb="technology/battery/batterypack/batterypack_e-tron-gt_st.jpg" title="Battery pack with 33 modules" >}}
+{{< sitefiguresized thumb="technology/battery/batterypack/batterypack_e-tron-gt_st.jpg" width="3000" height="2062" title="Battery pack with 33 modules" >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -150,11 +150,11 @@ Cell-to-pack (CTP) batteries are a new type of battery technology that eliminate
 
 This technology is being developed by several companies such as Tesla, BYD and CATL.
 
-{{< sitefigure thumb="technology/battery/batterypack/catl_qilin_3_st.jpg" title="CATL Qilin cell-to-pack battery" >}}
+{{< sitefiguresized thumb="technology/battery/batterypack/catl_qilin_3_st.jpg" width="2222" height="1032" title="CATL Qilin cell-to-pack battery" >}}
 
 BYD Blade and CATL Qilin are two examples of CTP batteries. The main difference between these two batteries is their cooling system.
 
-{{< sitefigure thumb="technology/battery/cell/bladebattery_st.jpg" title="BYD Blade Battery" >}}
+{{< sitefiguresized thumb="technology/battery/cell/bladebattery_st.jpg" width="3000" height="1351" title="BYD Blade Battery" >}}
 
 BYD Blade uses a liquid cooling system while CATL Qilin uses a structural cooling system. The structural cooling system is more efficient than the liquid cooling system used in BYD Blade.
 
@@ -174,11 +174,11 @@ They have the potential to revolutionize the design of electric vehicles and oth
 
 Currently it is only Tesla Model Y that have structural packs. According to Tesla, this solution presents many advantages, such as a great reduction in the number of parts used in both the battery pack and the car.
 
-{{< sitefigure thumb="technology/battery/batterypack/teslastructuralbattery_1_st.jpg" title="Tesla 4680 Structural pack compared with traditional pack" >}}
+{{< sitefiguresized thumb="technology/battery/batterypack/teslastructuralbattery_1_st.jpg" width="1585" height="714" title="Tesla 4680 Structural pack compared with traditional pack" >}}
 
 More importantly, the company said the new cells together with the structural pack are expected to increase the Model Y's range by 16 percent and decrease the overall weight of the car by 10 percent, resulting in improved acceleration and handling.
 
-{{< sitefigure thumb="technology/battery/batterypack/teslastructuralbattery_2_st.jpg" title="Tesla structural pack works as the floor on the EV" >}}
+{{< sitefiguresized thumb="technology/battery/batterypack/teslastructuralbattery_2_st.jpg" width="1344" height="645" title="Tesla structural pack works as the floor on the EV" >}}
 
 The below video show a detailed analysis of the pack by Munro & Associates.
 
