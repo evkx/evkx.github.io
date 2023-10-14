@@ -14,7 +14,18 @@ Bjørn Nyland is a Norwegian electric vehicle enthusiast and YouTuber who has ga
 
 Bjørn has been interested in electric vehicles since 2011, when he started driving a converted electric Citroën Berlingo. In 2019 he set the [world record](https://www.youtube.com/watch?v=R-2Yj-uVeB0)  for the longest distance driven in an electric vehicle in 24 hours. He has owned and tested numerous other electric vehicles, including the Tesla Model S, Model X, Model 3, and Model Y, as well as the Audi e-tron, Hyundai Kona Electric, and many others.
 
-Bjørn's YouTube channel, Bjørn Nyland, has over 298,000 subscribers, and he has become a respected authority on electric vehicles. His videos often feature detailed range tests, in which he drives an EV as far as possible on a single charge, as well as reviews of the latest EVs on the market. He also shares his experiences with charging infrastructure and offers tips for EV owners on how to get the most out of their vehicles. He shares his data [here](https://drive.google.com/drive/folders/1HOwktdiZmm40atGPwymzrxErMi1ZrKPP)
+Bjørn's YouTube channel, Bjørn Nyland, has over 306,000 subscribers, and he has become a respected authority on electric vehicles. His videos often feature detailed range tests, in which he drives an EV as far as possible on a single charge, as well as reviews of the latest EVs on the market. He also shares his experiences with charging infrastructure and offers tips for EV owners on how to get the most out of their vehicles. He shares his data [here](https://drive.google.com/drive/folders/1HOwktdiZmm40atGPwymzrxErMi1ZrKPP)
+
+Bjørn has a large suite of standard tests
+
+- 1000km range test (how fast can the EV drive 1000km)
+- 1000km range test with trailer (how fast can the EV drive 1000km with trailer)
+- Banana box test
+- Interior review
+- Range test in 90 and 120km/h
+- Noise and accelration test
+- Sunday driving test
+- Zero mile test
 
 Overall, Bjørn Nyland is a valuable contributor to the EV community, and his passion for electric vehicles and his dedication to sharing his experiences with others has helped to increase awareness and adoption of EVs around the world.
 
