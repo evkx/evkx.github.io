@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Honda e:Ny1 range test 15.10.2023
+
+{{< youtube 0BY0EO7VymY >}}
+
 ### Electrifying: First Drive: Honda e:Ny1 electric SUV. Has Honda finally caught up? 31.07.2023
 
 {{< youtube 927uHNIcO7E >}}
