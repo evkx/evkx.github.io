@@ -1,13 +1,13 @@
 ---
-title: Volkswagen ID.5 GTX 4MOTION specifications
+title: Volkswagen ID.5 GTX 4MOTION (GEN1) specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Volkswagen ID.5 GTX 4MOTION."
+description: "EVKX.net gives you the full specifications for Volkswagen ID.5 GTX 4MOTION (GEN1)."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" >}}
-EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 GTX 4MOTION. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.5 GTX 4MOTION, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.5 GTX 4MOTION with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefigure thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/main_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" >}}
+EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 GTX 4MOTION (GEN1). Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.5 GTX 4MOTION (GEN1), visit the [chargeinfo](../chargecurve/) for Volkswagen ID.5 GTX 4MOTION (GEN1) with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -17,13 +17,13 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 GTX 
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Peak electrical output in kW</td><td>210 Kw</td></tr>
-<tr><td>Peak electrical output boost in kW</td><td>250 Kw</td></tr>
-<tr><td>Electrical torque output in Nm</td><td>545 Nm</td></tr>
-<tr><td>Electrical torque output boost in Nm</td><td>679 Nm</td></tr>
+<tr><td>Peak electrical output in kW</td><td>195 Kw</td></tr>
+<tr><td>Peak electrical output boost in kW</td><td>220 Kw</td></tr>
+<tr><td>Electrical torque output in Nm</td><td>425 Nm</td></tr>
+<tr><td>Electrical torque output boost in Nm</td><td>460 Nm</td></tr>
 <tr><td>Top speed</td><td>180 km/h</td></tr>
-<tr><td>0-100km/h (0-62 mph)</td><td>6,7 s</td></tr>
-<tr><td>0-100km/h (0-62 mph) boost</td><td>5,5 s</td></tr>
+<tr><td>0-100km/h (0-62 mph)</td><td>6,9 s</td></tr>
+<tr><td>0-100km/h (0-62 mph) boost</td><td>6,3 s</td></tr>
 </tbody>
 </table>
 
@@ -37,9 +37,12 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>WLTP range</td><td>533 km</td></tr>
-<tr><td>WLTP consumption</td><td>14,4 kWh/100km</td></tr>
-<tr><td>WLTP consumption with charging loss</td><td>17,9 kWh/100km</td></tr>
+<tr><td>Basic trim WLTP range</td><td>496 km</td></tr>
+<tr><td>Basic trim WLTP consumption</td><td>15,5 kWh/100km</td></tr>
+<tr><td>Basic trim WLTP consumption with charging loss</td><td>17,9 kWh/100km</td></tr>
+<tr><td>Top trim WLTP range</td><td>409 km</td></tr>
+<tr><td>Top trim WLTP consumption</td><td>18,8 kWh/100km</td></tr>
+<tr><td>Top trim WLTP consumption with charging loss</td><td>21,4 kwh/100km</td></tr>
 </tbody>
 </table>
 

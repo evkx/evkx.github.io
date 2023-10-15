@@ -4,11 +4,24 @@ linktitle: "ID.5"
 description: "See below for details of the different variants of Volkswagen ID.5"
 weight: 30
 ---
+## Volkswagen ID.5 GTX 4MOTION (GEN1)
+
+<a href="/models/volkswagen/id.5/id.5_gtx_4motion_gen1/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion_gen1/main_1_st.jpg" class="img-fluid" alt="ID.5 GTX 4MOTION" ></a>
+
+Volkswagen ID.5 GTX 4MOTION (GEN1) is an all-electric coupe SUV with a WLTP range of up to 496 km (308 miles). EVKX.net have all the details. 
+
+- [Volkswagen ID.5 GTX 4MOTION (GEN1) article](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/)
+- [Volkswagen ID.5 GTX 4MOTION (GEN1) Range & consumption info](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/rangeandconsumption)
+- [Volkswagen ID.5 GTX 4MOTION (GEN1) Charging curve and performance](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/chargingcurve)
+- [Volkswagen ID.5 GTX 4MOTION (GEN1) full specifications](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/specifications)
+- [Volkswagen ID.5 GTX 4MOTION (GEN1) image gallery](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/gallery)
+- [Volkswagen ID.5 GTX 4MOTION (GEN1) reviews](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/reviews)
+
 ## Volkswagen ID.5 GTX 4MOTION
 
 <a href="/models/volkswagen/id.5/id.5_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.5 GTX 4MOTION" ></a>
 
-Volkswagen ID.5 GTX 4MOTION is an all-electric coupe SUV with a WLTP range of up to 496 km (308 miles). EVKX.net have all the details. 
+Volkswagen ID.5 GTX 4MOTION is an all-electric coupe SUV with a WLTP range of up to 533 km (331 miles). EVKX.net have all the details. 
 
 - [Volkswagen ID.5 GTX 4MOTION article](/models/volkswagen/id.5/id.5_gtx_4motion/)
 - [Volkswagen ID.5 GTX 4MOTION Range & consumption info](/models/volkswagen/id.5/id.5_gtx_4motion/rangeandconsumption)
