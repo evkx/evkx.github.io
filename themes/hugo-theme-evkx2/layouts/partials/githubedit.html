@@ -4,7 +4,7 @@
 {{ $Site := .Site }}
 {{with $File.Path }}
   <div id="top-github-link" class="text-end" >
-	<a class="text-end" href="{{ $Site.Params.editURL }}{{ replace $File.Dir "\\" "/" }}{{ $File.LogicalName }}" target="blank">
+	<a class="btn btn-secondary btn-sm" href="{{ $Site.Params.editURL }}{{ replace $File.Dir "\\" "/" }}{{ $File.LogicalName }}" target="blank">
 	  <i class="bi bi-pencil-square"></i>
 	  {{T "Edit-this-page"}}
 	</a>
