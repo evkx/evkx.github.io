@@ -8,6 +8,14 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Renault Megane E-Tech 1000 km challenge 19.11.2022
+
+{{< youtube wrk8RXnAkrc >}}
+
+### Bjørn Nyland: Renault Megane E-Tech interior review 18.11.2022
+
+{{< youtube Bi5WJQu8JUA >}}
+
 ### Bjørn Nyland: Renault Megane E-Tech range test 16.11.2022
 
 {{< youtube xiTwCYsLB40 >}}

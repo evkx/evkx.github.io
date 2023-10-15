@@ -80,7 +80,7 @@ Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
-There is only one roof for this model. exterior.roof.standard.panoramic.FullFixed.ElectrochromicPattern
+There is only one roof for this model. The standard is just a regular roof. 
 
 The windows from B-pillar and back are tinted. 
 
@@ -108,6 +108,7 @@ The following functionalities are available on the **standard** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />
@@ -153,7 +154,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Renault Megane E-Tech Techno has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large. The touch screen at the right part of the shared frame is 12,3 inches large. 
+Renault Megane E-Tech Techno has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large. The touch screen on the dashboard's center  is 12 inches large. 
 
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/screens_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
@@ -171,7 +172,7 @@ You can choose between two sound systems on the Renault Megane E-Tech Techno. Wi
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Renault Megane E-Tech Techno supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 6 USB-C connections as standard. 
+The model has 4 USB-C connections as standard. 
 ## Lights
 
 You can choose between two types of headlights for the Renault Megane E-Tech Techno. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
