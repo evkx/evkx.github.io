@@ -55,7 +55,7 @@ The location of the charge port is on the [right front side](../../../../technol
 
 ## Drivetrain
 
-Renault Scenic E-Tech electric High Range has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
+Renault Scenic E-Tech electric High Range has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/). 
 
 The standard suspension has a fixed height and damping. The ground clearance with this suspension is 180 mm. 
 

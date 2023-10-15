@@ -55,7 +55,7 @@ The location of the charge port is on the [right front side](../../../../technol
 
 ## Drivetrain
 
-Nissan Ariya 87kWh e-4ORCE has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
+Nissan Ariya 87kWh e-4ORCE has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/). 
 
 The standard suspension has a fixed height and damping. The ground clearance with this suspension is 170 mm. 
 
