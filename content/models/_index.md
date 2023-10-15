@@ -5,6 +5,7 @@ description: "The future is electric, and EVKX.net gives you a complete overview
 weight: 2
 ---
 Click on the logos below to go directly to the brand page, or scroll down to read the introduction for each brand.
+<p>
 <a href="https://evkx.net/models/audi"><img src="https://media.evkx.net/multimedia/models/audi/logo_xst.png" alt="Audi" title="Audi" width="130px" class="img-fluid" /></a>
 <a href="https://evkx.net/models/bmw"><img src="https://media.evkx.net/multimedia/models/bmw/logo_xst.png" alt="BMW" title="BMW" width="130px" class="img-fluid" /></a>
 <a href="https://evkx.net/models/byd"><img src="https://media.evkx.net/multimedia/models/byd/logo_xst.png" alt="BYD" title="BYD" width="130px" class="img-fluid" /></a>
@@ -45,6 +46,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 <a href="https://evkx.net/models/voyah"><img src="https://media.evkx.net/multimedia/models/voyah/logo_xst.png" alt="VOYAH" title="VOYAH" width="130px" class="img-fluid" /></a>
 <a href="https://evkx.net/models/xpeng"><img src="https://media.evkx.net/multimedia/models/xpeng/logo_xst.png" alt="XPENG" title="XPENG" width="130px" class="img-fluid" /></a>
 <a href="https://evkx.net/models/zeekr"><img src="https://media.evkx.net/multimedia/models/zeekr/logo_xst.png" alt="Zeekr" title="Zeekr" width="130px" class="img-fluid" /></a>
+</p>
 ## Audi
 
 <a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid" alt="Audi" ></a>
