@@ -8,7 +8,7 @@ weight: 3
 
 ALC systems are typically found in higher-end vehicles and use a combination of sensors and cameras to detect other vehicles on the road and determine when it is safe to initiate a lane change.
 
-{{< sitefigure thumb="technology/driverassistance/automatedlanechange/illustration_st.jpg" title="Automatic Lane Change Mercedes EQS" >}}
+{{< sitefiguresized thumb="technology/driverassistance/automatedlanechange/illustration_st.jpg" width="3000" height="1687" title="Automatic Lane Change Mercedes EQS" >}}
 
 ## This is typical how it works
 

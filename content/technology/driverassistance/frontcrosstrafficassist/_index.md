@@ -14,7 +14,7 @@ When the driver is about to cross an intersection or make a turn, the system sca
 
 Front cross traffic assist is particularly useful in situations where visibility is limited, such as at intersections with tall buildings or dense foliage that can obstruct the driver's view. It can help drivers avoid accidents and reduce the risk of collisions with other vehicles, pedestrians, or objects when making turns or crossing intersections.
 
-{{< sitefigure thumb="technology/driverassistance/frontcrosstrafficassist/illustration2_st.jpg" title="Front Cross Traffic Assist - Volkswagen" >}}
+{{< sitefiguresized thumb="technology/driverassistance/frontcrosstrafficassist/illustration2_st.jpg" width="3000" height="1686" title="Front Cross Traffic Assist - Volkswagen" >}}
 
 ## How does it work?
 
@@ -22,7 +22,7 @@ Front cross traffic assist works by using sensors or cameras mounted on the fron
 
 When the driver is about to cross an intersection or make a turn, the system activates and scans the area ahead of the vehicle for any potential hazards. If it detects oncoming traffic or obstacles, it alerts the driver with audible and/or visual warnings, such as beeping sounds, flashing lights, or warning messages on the dashboard display.
 
-{{< sitefigure thumb="technology/driverassistance/frontcrosstrafficassist/illustration_st.jpg" title="Front Cross Traffic Assist - Volkswagen" >}}
+{{< sitefiguresized thumb="technology/driverassistance/frontcrosstrafficassist/illustration_st.jpg" width="3000" height="2250" title="Front Cross Traffic Assist - Volkswagen" >}}
 
 In some advanced systems, the front cross traffic assist may work in conjunction with other driver assistance systems, such as automatic emergency braking or adaptive cruise control, to help the driver avoid collisions or reduce the severity of an accident.
 
