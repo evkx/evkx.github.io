@@ -16,18 +16,18 @@ Bjørn has been interested in electric vehicles since 2011, when he started driv
 
 Bjørn's YouTube channel, Bjørn Nyland, has over 306,000 subscribers, and he has become a respected authority on electric vehicles. His videos often feature detailed range tests, in which he drives an EV as far as possible on a single charge, as well as reviews of the latest EVs on the market. He also shares his experiences with charging infrastructure and offers tips for EV owners on how to get the most out of their vehicles. He shares his data [here](https://drive.google.com/drive/folders/1HOwktdiZmm40atGPwymzrxErMi1ZrKPP)
 
-Bjørn has a large suite of standard tests
+Bjørn has a large suite of standard tests. Click on <i class="bi-collection-play-fill text-black"></i> for playlists.
 
-- Charging test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4PSt0Sk_9tEkZ3fh6F7_qV" target="_blank">Playlist</a>
-- 1000km range test (how fast can the EV drive 1000km) <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv7JYxuVkc5gSVJNWxaJmUNF" target="_blank">Playlist</a>
+- Charging test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4PSt0Sk_9tEkZ3fh6F7_qV" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
+- 1000km range test (how fast can the EV drive 1000km) <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv7JYxuVkc5gSVJNWxaJmUNF" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 - 1000km range test with trailer (how fast can the EV drive 1000km with trailer)
-- Banana box test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4S_twAZeVNXQkWIC--PapZ" target="_blank">Playlist</a>
+- Banana box test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4S_twAZeVNXQkWIC--PapZ" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 - Interior review
-- Range test in 90 and 120km/h. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6aKC29mT8aC3YI6izOTzpF" target="_blank">Playlist</a>
-- Noise and accelration test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv5AMA7O-5EE1tSB8AXrPx2e" target="_blank">Playlist</a>
-- Sunday driving test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv7QSOjrZHCBBei5_1EEPJKS" target="_blank">Playlist</a>
-- Zero mile test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Playlist</a>
-- Battery degradation test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4jDGrgoNliG_5PaxqT9a_P" taget="_blank">Playlist</a>
+- Range test in 90 and 120km/h. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6aKC29mT8aC3YI6izOTzpF" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
+- Noise and accelration test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv5AMA7O-5EE1tSB8AXrPx2e" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
+- Sunday driving test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv7QSOjrZHCBBei5_1EEPJKS" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
+- Zero mile test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
+- Battery degradation test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4jDGrgoNliG_5PaxqT9a_P" taget="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 
 Overall, Bjørn Nyland is a valuable contributor to the EV community, and his passion for electric vehicles and his dedication to sharing his experiences with others has helped to increase awareness and adoption of EVs around the world.
 
@@ -41,13 +41,13 @@ Visit his Youtube Channel and subscribe [here](https://www.youtube.com/@bjornnyl
 
 Out of Spec Reviews is a YouTube channel that focuses on reviewing electric vehicles and highlighting their capabilities beyond what is typically advertised by manufacturers. The channel is run by Kyle Conner and his team, who are passionate about EVs and adventure travel.
 
-On Out of Spec Reviews, you can expect to find in-depth reviews of a variety of electric vehicles. 
-The vehicles typically goes through the following test.
+On Out of Spec Reviews, you can expect to find in-depth reviews of a variety of electric vehicles.
+Out of Spec Reviews has a large suite of standard tests.  Click on <i class="bi-collection-play-fill text-black"></i> for playlists.
 
 - In-depth review covering the interior, exterior, drivetrain, and options
-- 70Mph motorway range test. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbC-i-UCr10bnI3zwbnAm7kU" target="_blank">Playlist</a>
-- 10% challenge. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCaQZul0c2KxJnRaH8uxZ4I" target="_blank">Playlist</a> How far can you drive after 15 minutes of charging from 10%? [See the calculated result in our database](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent15Min).
-- ADAS Test. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbBRwZoFf2rrenzUwsKU0jZk" target="_blank">Playlist</a> Testing Advanced driver assist systems
+- 70Mph motorway range test. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbC-i-UCr10bnI3zwbnAm7kU" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
+- 10% challenge. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCaQZul0c2KxJnRaH8uxZ4I" target="_blank"><i class="bi-collection-play-fill text-black"></i></a> How far can you drive after 15 minutes of charging from 10%? [See the calculated result in our database](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent15Min).
+- ADAS Test. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbBRwZoFf2rrenzUwsKU0jZk" target="_blank"><i class="bi-collection-play-fill text-black"></i></a> Testing Advanced driver assist systems
 
 The channel also covers other EV-related content, such as charging infrastructure, electric motorcycles, and even an electric airplane.
 
