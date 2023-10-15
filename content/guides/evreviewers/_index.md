@@ -25,7 +25,7 @@ Bjørn has a large suite of standard tests
 - Interior review
 - Range test in 90 and 120km/h. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6aKC29mT8aC3YI6izOTzpF" target="_blank">Playlist</a>
 - Noise and accelration test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv5AMA7O-5EE1tSB8AXrPx2e" target="_blank">Playlist</a>
-- Sunday driving test
+- Sunday driving test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv7QSOjrZHCBBei5_1EEPJKS" target="_blank">Playlist</a>
 - Zero mile test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Playlist</a>
 - Battery degradation test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4jDGrgoNliG_5PaxqT9a_P" taget="_blank">Playlist</a>
 
