@@ -18,14 +18,16 @@ Bjørn's YouTube channel, Bjørn Nyland, has over 306,000 subscribers, and he ha
 
 Bjørn has a large suite of standard tests
 
-- 1000km range test (how fast can the EV drive 1000km)
+- Charging test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4PSt0Sk_9tEkZ3fh6F7_qV" target="_blank">Playlist</a>
+- 1000km range test (how fast can the EV drive 1000km) <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv7JYxuVkc5gSVJNWxaJmUNF" target="_blank">Playlist</a>
 - 1000km range test with trailer (how fast can the EV drive 1000km with trailer)
-- Banana box test
+- Banana box test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4S_twAZeVNXQkWIC--PapZ" target="_blank">Playlist</a>
 - Interior review
-- Range test in 90 and 120km/h
-- Noise and accelration test
+- Range test in 90 and 120km/h. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6aKC29mT8aC3YI6izOTzpF" target="_blank">Playlist</a>
+- Noise and accelration test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv5AMA7O-5EE1tSB8AXrPx2e" target="_blank">Playlist</a>
 - Sunday driving test
-- Zero mile test
+- Zero mile test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Playlist</a>
+- Battery degradation test. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4jDGrgoNliG_5PaxqT9a_P" taget="_blank">Playlist</a>
 
 Overall, Bjørn Nyland is a valuable contributor to the EV community, and his passion for electric vehicles and his dedication to sharing his experiences with others has helped to increase awareness and adoption of EVs around the world.
 
