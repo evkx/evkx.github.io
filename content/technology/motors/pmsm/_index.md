@@ -12,13 +12,13 @@ weight: 2
 
 **Rotor:** The rotor of a PMSM contains permanent magnets that generate a fixed magnetic field. The magnets are typically made of materials such as neodymium iron boron (NdFeB) or samarium cobalt (SmCo) that have high magnetic strength.
 
-{{< sitefigure thumb="technology/motors/pmsm/porschetaycanrotor_st.jpg" title="Porsche Taycan Rotor with permanent magnets" >}}
+{{< sitefiguresized thumb="technology/motors/pmsm/porschetaycanrotor_st.jpg" width="3000" height="1687" title="Porsche Taycan Rotor with permanent magnets" >}}
 
 Typical the rotor has 6 or 8 magnetic poles.
 
 **Stator:** The stator is the stationary part of the motor and consists of windings that are wound around the stator poles. These windings are usually made of copper and are supplied with alternating current (AC) to create a magnetic field that interacts with the rotor.
 
-{{< sitefigure thumb="technology/motors/pmsm/porschetaycanstator_st.jpg" title="Porsche Taycan Stator" >}}
+{{< sitefiguresized thumb="technology/motors/pmsm/porschetaycanstator_st.jpg" width="3000" height="1687" title="Porsche Taycan Stator" >}}
 
 **Commutation:** The PMSM relies on electronic commutation to control the direction and speed of the motor. Sensors, such as Hall effect sensors or encoders, are used to detect the position of the rotor and provide feedback to the motor controller. Based on this feedback, the motor controller determines when and how to switch the stator windings on and off to create a rotating magnetic field that drives the rotor.
 
@@ -41,6 +41,7 @@ Synchronous motors in EVs are also known for their precise and efficient control
 Another advantage of synchronous motors is their ability to achieve high efficiency over a wide range of speeds and loads. This allows for efficient operation at both low and high speeds, which is particularly useful in EVs that require different levels of power and torque depending on driving conditions.
 
 {{<evkxdisplayaddarticle />}}
+
 ## Limitations
 
 **Rare earth materials:** PMSM require rare earth magnets, which can be expensive and have environmental implications in terms of mining and sustainability.
@@ -51,7 +52,7 @@ In the case of permanent magnet motors, which have magnets in the rotor, can gen
 
 Some EV manufacturers have uses a clutch to decouple the motor from the drivetrain, effectively disengaging the motor from the wheels and allowing the vehicle to roll without any drag from the motor. This can help reduce the resistance felt by the wheels when the motor is not powered, which can potentially improve the vehicle's efficiency and reduce energy consumption.
 
-{{< sitefigure thumb="technology/motors/pmsm/mercedeseqesuvfrontmotordisconnect_st.jpg" title="Mercedes EQE Suv with clutch that disconnects front motor when coasting" >}}
+{{< sitefiguresized thumb="technology/motors/pmsm/mercedeseqesuvfrontmotordisconnect_st.jpg" width="3000" height="1687" title="Mercedes EQE Suv with clutch that disconnects front motor when coasting" >}}
 
 Others uses Induction Motors in front and PSMS in rear. Example are all care based on Volkswagen MEB platform.
 

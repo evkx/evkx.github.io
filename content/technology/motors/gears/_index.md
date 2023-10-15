@@ -13,7 +13,7 @@ Here are some common types of gears used in EV drive units:
 
 These gearboxes have multiple gear ratios that allow the electric motor to operate at its optimal efficiency over a wider range of speeds and loads. Multi-speed gearboxes can provide improved acceleration, top speed, and overall performance, especially in situations where a wide range of speeds and driving conditions are encountered.
 
-{{< sitefigure thumb="technology/motors/gears/porschetaycangearbox_st.jpg" title="Porsche Taycan 2-gear gearbox" >}}
+{{< sitefiguresized thumb="technology/motors/gears/porschetaycangearbox_st.jpg" width="3000" height="2121" title="Porsche Taycan 2-gear gearbox" >}}
 
 **Reduction Gearbox:** In many EVs, a reduction gearbox is used to lower the speed of the electric motor and increase the torque output to the wheels. Reduction gearboxes are used to match the relatively high rotational speed of the electric motor with the lower rotational speed required by the wheels for efficient operation. These gearboxes typically consist of one or more gear stages that reduce the motor speed while increasing the torque output, allowing the EV to achieve high levels of torque for quick acceleration and improved performance.
 
