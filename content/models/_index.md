@@ -88,6 +88,8 @@ Chevrolet has 2 models with total 2 variants. [Read all about them](chevrolet/)
 
 ## Citroën
 
+<a href="citroën/"><img src="https://media.evkx.net/multimedia/models/citroën/brandevs_st.jpg" class="img-fluid" alt="Citroën" ></a>
+
 Citroën is a French automotive brand that was founded in 1919 by André Citroën. It is known for its innovative and distinctive designs, such as the Traction Avant, the 2CV, the DS, and the CX. Citroën is also a pioneer in mass production, front-wheel drive, hydropneumatic suspension, and aerodynamics. Citroën is part of the Stellantis group, which was formed in 2021 by the merger of PSA and FCA
 
 Citroën has 1 models with total 1 variants. [Read all about them](citroën/)
@@ -157,6 +159,8 @@ Honda is a Japanese multinational conglomerate that manufactures automobiles, mo
 Honda has 1 models with total 1 variants. [Read all about them](honda/)
 
 ## Hongqi
+
+<a href="hongqi/"><img src="https://media.evkx.net/multimedia/models/hongqi/brandevs_st.jpg" class="img-fluid" alt="Hongqi" ></a>
 
 Hongqi is a Chinese car brand that belongs to the state-owned FAW Group. The name means Red Flag and it is a symbol of the Communist Party of China. Hongqi was founded in 1958 and is known for making luxury cars for the Chinese government and elites. 
 
@@ -268,6 +272,8 @@ Porsche has 1 models with total 14 variants. [Read all about them](porsche/)
 
 ## Renault
 
+<a href="renault/"><img src="https://media.evkx.net/multimedia/models/renault/brandevs_st.jpg" class="img-fluid" alt="Renault" ></a>
+
 Renault is a French car manufacturer that has a strong focus on electric vehicles (EVs). Renault has been a pioneer in the EV market since it launched the first mass-produced electric car, the ZOE, in 2012.
 
 Renault has 1 models with total 1 variants. [Read all about them](renault/)
@@ -282,6 +288,8 @@ Rivian has 1 models with total 6 variants. [Read all about them](rivian/)
 
 ## Rolls-Royce
 
+<a href="rolls-royce/"><img src="https://media.evkx.net/multimedia/models/rolls-royce/brandevs_st.jpg" class="img-fluid" alt="Rolls-Royce" ></a>
+
 Rolls Royce is a British luxury car maker that is known for its high-end vehicles and bespoke craftsmanship. The company has recently announced that it will go all-electric by 2030, following the trend of other automakers that are committed to the decarbonisation of the transport sector. 
 
 Rolls-Royce has 1 models with total 1 variants. [Read all about them](rolls-royce/)
@@ -295,6 +303,8 @@ The Czech car manufacturer aims to be one of the five best-selling brands in Eur
 Skoda has 1 models with total 5 variants. [Read all about them](skoda/)
 
 ## Smart
+
+<a href="smart/"><img src="https://media.evkx.net/multimedia/models/smart/brandevs_st.jpg" class="img-fluid" alt="Smart" ></a>
 
 The Smart car manufacturer is a German automotive marque that produces small electric vehicles. It is a joint venture between Mercedes-Benz AG and Zhejiang Geely Holding Group, established in 2019. The venture is headquartered in Ningbo, China, and aims to produce Smart-badged cars in China to be marketed globally.
 
@@ -333,6 +343,8 @@ Volvo is a Swedish multinational automotive company that produces a range of car
 Volvo has 4 models with total 11 variants. [Read all about them](volvo/)
 
 ## VOYAH
+
+<a href="voyah/"><img src="https://media.evkx.net/multimedia/models/voyah/brandevs_st.jpg" class="img-fluid" alt="VOYAH" ></a>
 
 Voyah is a car brand that specializes in designing and developing electric vehicles. Voyah is the premium division of Chinese state-owned automaker Dongfeng Motor Corporation. 
 
