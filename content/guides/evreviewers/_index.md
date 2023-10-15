@@ -63,6 +63,18 @@ They even have their own DC Charger at  [CSU Powerhouse](https://www.google.com/
 
 They have several other EV-related channels. Kyle also joins the [Batteries Included podcast](https://www.youtube.com/channel/UC8t6qd-ss-pTvi0bqVzYGog) that we recommend.
 
+## Autogefühl
+
+{{< sitefigure thumb="guides/evreviewers/autogefuhl_st.jpg" title="Autogefühl" >}}
+
+Autogefühl is a popular YouTube channel that focuses on providing in-depth, detailed reviews of cars and providing automotive news and updates. The channel is known for its comprehensive and objective reviews, covering various aspects of a car's performance, design, technology, and practicality. Autogefühl's reviews are typically conducted by its host, Thomas Majchrzak, who has a background in automotive engineering and a passion for cars.
+
+The Autogefühl channel was created in 2010 and is based in Germany. Over the years, it has gained a significant following for its high-quality content and unbiased approach to car reviews. The channel reviews a wide range of vehicles, including sedans, SUVs, hatchbacks, electric cars, and luxury cars, from various brands and segments. The reviews often include detailed driving impressions, interior and exterior walkthroughs, as well as assessments of the car's features, safety, and practicality.
+
+He has a separate channel also for <a href="https://www.youtube.com/@only_ev" target="_blank">only electric</a> reviews.
+
+Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos) 
+
 ## Kris Rifa
 
 {{< sitefigure thumb="guides/evreviewers/krisrifa_st.jpg" title="Kris Rifa" >}}
@@ -74,20 +86,6 @@ His tests are more accessible for people who do not need to understand every det
 He also gives a good overview of model options and features.
 
 Visit his Youtube Channel [here](https://www.youtube.com/c/krisrifa).
-
-## Autogefühl
-
-{{< sitefigure thumb="guides/evreviewers/autogefuhl_st.jpg" title="Autogefühl" >}}
-
-Autogefühl is a popular YouTube channel that focuses on providing in-depth, detailed reviews of cars and providing automotive news and updates. The channel is known for its comprehensive and objective reviews, covering various aspects of a car's performance, design, technology, and practicality. Autogefühl's reviews are typically conducted by its host, Thomas Majchrzak, who has a background in automotive engineering and a passion for cars.
-
-The Autogefühl channel was created in 2010 and is based in Germany. Over the years, it has gained a significant following for its high-quality content and unbiased approach to car reviews. The channel reviews a wide range of vehicles, including sedans, SUVs, hatchbacks, electric cars, and luxury cars, from various brands and segments. The reviews often include detailed driving impressions, interior and exterior walkthroughs, as well as assessments of the car's features, safety, and practicality.
-
-He has a separate channel also for only electric reviews.
-
-Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos)
-
-
 
 ## Other notable mentions
 
