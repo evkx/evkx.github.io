@@ -44,7 +44,9 @@ Out of Spec Reviews is a YouTube channel that focuses on reviewing electric vehi
 On Out of Spec Reviews, you can expect to find in-depth reviews of a variety of electric vehicles.
 Out of Spec Reviews has a large suite of standard tests.  Click on <i class="bi-collection-play-fill text-black"></i> for playlists.
 
-- In-depth review covering the interior, exterior, drivetrain, and options
+- Charging test. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCM9DepIl6Ms1WENgEmki1b" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
+- First Drives. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbBWaieOY6Z_zd37XlbHvsG6" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
+- In-depth review covering the interior, exterior, drivetrain, and options <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCcL-FHtFY9837w0Hw5mAiG" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 - 70Mph motorway range test. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbC-i-UCr10bnI3zwbnAm7kU" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 - 10% challenge. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCaQZul0c2KxJnRaH8uxZ4I" target="_blank"><i class="bi-collection-play-fill text-black"></i></a> How far can you drive after 15 minutes of charging from 10%? [See the calculated result in our database](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent15Min).
 - ADAS Test. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbBRwZoFf2rrenzUwsKU0jZk" target="_blank"><i class="bi-collection-play-fill text-black"></i></a> Testing Advanced driver assist systems
