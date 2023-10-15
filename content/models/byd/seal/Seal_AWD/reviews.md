@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Autogeühl: Is the BYD Seal the true competitor of the Tesla Model 3? 13.10.2023
+
+{{< youtube Y8yTY_7w3KA >}}
+
 ### Electryfing: FIRST DRIVE: 2024 BYD Seal. Has BYD built a better Tesla Model 3? 02.09.2023
 
 {{< youtube uk2ksTLfRms >}}

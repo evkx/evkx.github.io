@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### AutoTrader: NEW Tesla Model S Plaid TRACK PACKAGE Review: A 1020hp Game Changer 14.10.2023
+
+{{< youtube KuVHq39boj0 >}}
+
 ### Bjørn Nyland: Tesla Model S Plaid range test in summer 04.08.2023
 
 {{< youtube 08kvW42kJr8 >}}
