@@ -278,7 +278,7 @@ Porsche has 1 models with total 14 variants. [Read all about them](porsche/)
 
 Renault is a French car manufacturer that has a strong focus on electric vehicles (EVs). Renault has been a pioneer in the EV market since it launched the first mass-produced electric car, the ZOE, in 2012.
 
-Renault has 1 models with total 1 variants. [Read all about them](renault/)
+Renault has 2 models with total 2 variants. [Read all about them](renault/)
 
 ## Rivian
 
