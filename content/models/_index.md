@@ -74,6 +74,8 @@ BYD has 5 models with total 5 variants. [Read all about them](byd/)
 
 ## Cadillac
 
+<a href="cadillac/"><img src="https://media.evkx.net/multimedia/models/cadillac/brandevs_st.jpg" class="img-fluid" alt="Cadillac" ></a>
+
 Cadillac is a luxury brand of General Motors (GM) that produces and sells premium vehicles in North America, China, and other markets. Cadillac is known for its history of innovation, design, and performance, as well as its iconic models such as the Escalade, CTS, and Eldorado. 
 
 Cadillac has 2 models with total 3 variants. [Read all about them](cadillac/)
