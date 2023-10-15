@@ -4,7 +4,7 @@ linktitle: EV Reviewers
 description: The internet has made car reviews so much better than before. On TV, you might get a 2-3 minute review for a specific model in some Car show, but with youtube and online reviews, you can get hours of materials for each EV model. EVKX.net has some favorite reviewers that give you the best EV reviews. 
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 ## Bjørn Nyland
 
@@ -40,16 +40,17 @@ Visit his Youtube Channel and subscribe [here](https://www.youtube.com/@bjornnyl
 Out of Spec Reviews is a YouTube channel that focuses on reviewing electric vehicles and highlighting their capabilities beyond what is typically advertised by manufacturers. The channel is run by Kyle Conner and his team, who are passionate about EVs and adventure travel.
 
 On Out of Spec Reviews, you can expect to find in-depth reviews of a variety of electric vehicles. 
-The vehicles typically goes through the following test
+The vehicles typically goes through the following test.
 
 - In-depth review covering the interior, exterior, drivetrain, and options
-- 70Mph motorway range test
-- 10% challenge. How far can you drive after 15 minutes of charging from 10%? [See the calculated result in our database](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent15Min).
+- 70Mph motorway range test. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbC-i-UCr10bnI3zwbnAm7kU" target="_blank">Playlist</a>
+- 10% challenge. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCaQZul0c2KxJnRaH8uxZ4I" target="_blank">Playlist</a> How far can you drive after 15 minutes of charging from 10%? [See the calculated result in our database](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent15Min).
+- ADAS Test. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbBRwZoFf2rrenzUwsKU0jZk" target="_blank">Playlist</a> Testing Advanced driver assist systems
 
 The channel also covers other EV-related content, such as charging infrastructure, electric motorcycles, and even an electric airplane.
 
 Overall, Out of Spec Reviews provides a unique perspective on electric vehicles and is a great resource for anyone interested in the EV space.
-Out of Spec Reviews is also the only channel that does systematics tests of Advance Driver Assist Systems.
+Out of Spec Reviews is also the only channel that does systematic tests of Advance Driver Assist Systems.
 
 Visit their channel and subscribe [here](https://www.youtube.com/@OutofSpecReviews/videos).
 
