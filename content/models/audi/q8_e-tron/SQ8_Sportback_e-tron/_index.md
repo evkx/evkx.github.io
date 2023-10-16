@@ -260,3 +260,6 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2249"  >}}
 
+### Availability & Pricing
+
+This model had world premiere 09.11.2022 and deliveries started March 2023.

@@ -26,6 +26,12 @@ We have separated our Volkswagen ID.5 GTX 4MOTION (GEN1) article into sections. 
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/).
+
+</div>
+
 
 ## Performance
 
@@ -236,4 +242,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/trunk_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
+
+### Availability & Pricing
+
 

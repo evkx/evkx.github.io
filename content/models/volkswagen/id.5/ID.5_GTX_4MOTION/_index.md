@@ -233,3 +233,6 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/trunk_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2000"  >}}
 
+### Availability & Pricing
+
+This model had world premiere 10.10.2023 and deliveries started November 2023.

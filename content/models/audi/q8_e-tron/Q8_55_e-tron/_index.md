@@ -294,3 +294,6 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/trunk_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2249"  >}}
 
+### Availability & Pricing
+
+This model had world premiere 09.11.2022 and deliveries started March 2023.
