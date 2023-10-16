@@ -167,11 +167,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Two different screen setups are available on the Volkswagen ID.5 Pro. 
-
-The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 10 inches large. 
-
-The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12 inches large and has a 1920 x 869 pixels resolution. 
+Volkswagen ID.5 Pro has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12,9 inches large. 
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/screens_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2206"  >}}
