@@ -43,3 +43,16 @@ Volkswagen ID.5 Pro Performance is an all-electric SUV with a WLTP range of up t
 - [Volkswagen ID.5 Pro Performance image gallery](/models/volkswagen/id.5/id.5_pro_performance/gallery)
 - [Volkswagen ID.5 Pro Performance reviews](/models/volkswagen/id.5/id.5_pro_performance/reviews)
 
+## Volkswagen ID.5 Pro
+
+<a href="/models/volkswagen/id.5/id.5_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro/main_1_st.jpg" class="img-fluid" alt="ID.5 Pro" ></a>
+
+Volkswagen ID.5 Pro is an all-electric SUV with a WLTP range of up to 556 km (346 miles). EVKX.net have all the details. 
+
+- [Volkswagen ID.5 Pro article](/models/volkswagen/id.5/id.5_pro/)
+- [Volkswagen ID.5 Pro Range & consumption info](/models/volkswagen/id.5/id.5_pro/rangeandconsumption)
+- [Volkswagen ID.5 Pro Charging curve and performance](/models/volkswagen/id.5/id.5_pro/chargingcurve)
+- [Volkswagen ID.5 Pro full specifications](/models/volkswagen/id.5/id.5_pro/specifications)
+- [Volkswagen ID.5 Pro image gallery](/models/volkswagen/id.5/id.5_pro/gallery)
+- [Volkswagen ID.5 Pro reviews](/models/volkswagen/id.5/id.5_pro/reviews)
+
