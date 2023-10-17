@@ -59,11 +59,11 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 drivetrain.drivesetup.NotSet
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm. 
 
 ### Brakes
 
-
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
 
 
 
@@ -138,7 +138,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen uicontrols.screen.location. is 10,25 inches large. 
+Citroën ë-C3 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 5 inches large. The touch screen at the top of the center console is 10,25 inches large. 
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}

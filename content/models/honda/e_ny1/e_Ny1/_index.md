@@ -57,7 +57,7 @@ The location of the charge port is on the [front](../../../../technology/chargin
 
 drivetrain.drivesetup.NotSet
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 140 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 140 mm. 
 
 ### Brakes
 

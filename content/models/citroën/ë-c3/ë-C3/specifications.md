@@ -83,6 +83,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><td>Adjustable height rear</td><td>Not available</td></tr>
 <tr><td>Max ground clearance</td><td>163</td></tr>
 <tr><td>Minimum ground clearance</td><td>163</td></tr>
+<tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction front</td><td>MacPhersonStrut</td></tr>
+<tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction rear</td><td>Multilink</td></tr>
 </tbody>
 </table>
 

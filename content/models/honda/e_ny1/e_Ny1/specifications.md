@@ -81,6 +81,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><td>Adjustable height rear</td><td>Not available</td></tr>
 <tr><td>Max ground clearance</td><td>140</td></tr>
 <tr><td>Minimum ground clearance</td><td>140</td></tr>
+<tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction front</td><td>MacPhersonStrut</td></tr>
+<tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction rear</td><td>Multilink</td></tr>
 </tbody>
 </table>
 
@@ -94,7 +98,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Seat type</td><td>None</td></tr>
+<tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
 <tr><td>Electric adjustment of height, recline and angle</td><td>Unknown</td></tr>
 <tr><td>Memory driver seat</td><td>Unknown</td></tr>
 <tr><td>Memory passenger seat</td><td>Unknown</td></tr>
