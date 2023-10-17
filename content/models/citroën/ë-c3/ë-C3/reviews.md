@@ -8,5 +8,7 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### :  01.01.0001
+### Electrifying: FIRST LOOK: £21k Citroen ë-C3 - Is this the affordable car we’ve been waiting for? 17.10.2023
+
+{{< youtube L8T7sX27Ai8 >}}
 

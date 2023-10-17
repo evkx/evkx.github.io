@@ -97,8 +97,9 @@ Only one front seat type is available in the Citroën ë-C3.
 The following functionalities are available on the **** seat. 
 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
+You can choose from 1 different materials/colors for this seat type. 
+- black/white [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+
 
 
 
@@ -112,8 +113,9 @@ You can choose from 1 different materials/colors for this seat type. <br />
 The following functionalities are available on the **** seat. 
 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
+You can choose from 1 different materials/colors for this seat type. 
+- black/white [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+
 
 
 
@@ -124,7 +126,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. 
+There is one climate system available. The standard climate system supports only controlling one common zone for the whole car. 
 
 ## Comfort
 
@@ -153,7 +155,7 @@ In addition, with the optional in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. 
 ## Lights
 
-
+The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/headlights_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
