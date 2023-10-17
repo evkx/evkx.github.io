@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### AutoTrader: NEW 2024 Tesla Model 3 HIGHLAND Review: The Best Just Got Better? 17.10.2023
+
+{{< youtube z_3F98XIIKA >}}
+
 ### Out of Spec Reviews: Full Tour Of The New Tesla Model 3 Refresh! All Of The Changes Make The Best Car Even Better 05.09.2023
 
 {{< youtube wn5SV0oYXeQ >}}
