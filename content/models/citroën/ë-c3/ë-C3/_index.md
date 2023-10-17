@@ -57,7 +57,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-drivetrain.drivesetup.NotSet
+Citroën ë-C3 has a front-wheel drive system supported by one motor on the front axle. 
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm. 
 
@@ -150,7 +150,7 @@ One type of sound system is available for the Citroën ë-C3. With the , you get
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Citroën ë-C3 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-
+The model has 4 USB-C connections as standard. 
 ## Lights
 
 
