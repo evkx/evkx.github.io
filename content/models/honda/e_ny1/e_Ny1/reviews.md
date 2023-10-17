@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Honda eNy1 charging test 17.10.2023
+
+{{< youtube bM6EpwYDnAk >}}
+
 ### Bjørn Nyland: Honda e:Ny1 range test 15.10.2023
 
 {{< youtube 0BY0EO7VymY >}}
