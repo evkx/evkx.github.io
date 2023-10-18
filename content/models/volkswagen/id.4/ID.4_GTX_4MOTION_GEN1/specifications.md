@@ -1,13 +1,13 @@
 ---
-title: Volkswagen ID.5 Pro Performance specifications
+title: Volkswagen ID.4 GTX 4MOTION (GEN1) specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Volkswagen ID.5 Pro Performance."
+description: "EVKX.net gives you the full specifications for Volkswagen ID.4 GTX 4MOTION (GEN1)."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/volkswagen/id.5/id.5_pro_performance/main_1_st.jpg" title="Volkswagen ID.5 Pro Performance" >}}
-EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 Pro Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.5 Pro Performance, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.5 Pro Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefigure thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/main_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" >}}
+EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 4MOTION (GEN1). Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.4 GTX 4MOTION (GEN1), visit the [chargeinfo](../chargecurve/) for Volkswagen ID.4 GTX 4MOTION (GEN1) with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -17,10 +17,13 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 Pro 
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Peak electrical output in kW</td><td>150 Kw</td></tr>
-<tr><td>Electrical torque output in Nm</td><td>310 Nm</td></tr>
-<tr><td>Top speed</td><td>160 km/h</td></tr>
-<tr><td>0-100km/h (0-62 mph)</td><td>8,4 s</td></tr>
+<tr><td>Peak electrical output in kW</td><td>195 Kw</td></tr>
+<tr><td>Peak electrical output boost in kW</td><td>220 Kw</td></tr>
+<tr><td>Electrical torque output in Nm</td><td>425 Nm</td></tr>
+<tr><td>Electrical torque output boost in Nm</td><td>460 Nm</td></tr>
+<tr><td>Top speed</td><td>180 km/h</td></tr>
+<tr><td>0-100km/h (0-62 mph)</td><td>6,9 s</td></tr>
+<tr><td>0-100km/h (0-62 mph) boost</td><td>6,3 s</td></tr>
 </tbody>
 </table>
 
@@ -34,8 +37,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Basic trim WLTP range</td><td>529 km</td></tr>
-<tr><td>Basic trim WLTP consumption</td><td>14,6 kWh/100km</td></tr>
+<tr><td>Basic trim WLTP range</td><td>496 km</td></tr>
+<tr><td>Basic trim WLTP consumption</td><td>15,5 kWh/100km</td></tr>
 <tr><td>Basic trim WLTP consumption with charging loss</td><td>17,9 kWh/100km</td></tr>
 <tr><td>Top trim WLTP range</td><td>409 km</td></tr>
 <tr><td>Top trim WLTP consumption</td><td>18,8 kWh/100km</td></tr>
@@ -70,15 +73,18 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4599 mm</td></tr>
-<tr><td>Height</td><td>1615 mm</td></tr>
-<tr><td>Width excluding mirrors</td><td>1852 mm</td></tr>
+<tr><td>Length</td><td>4582 mm</td></tr>
+<tr><td>Height</td><td>1637 mm</td></tr>
+<tr><td>Width excluding mirrors</td><td>1865 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2108 mm</td></tr>
-<tr><td>Wheelbase</td><td>2771 mm</td></tr>
+<tr><td>Wheelbase</td><td>2764 mm</td></tr>
 <tr><td>Track width front</td><td>1587 mm</td></tr>
-<tr><td>Track width rear</td><td>1567 mm</td></tr>
-<tr><td>Drag coefficient</td><td>0,26</td></tr>
-<tr><td>Turning circle</td><td>10,2 meters</td></tr>
+<tr><td>Track width rear</td><td>1562 mm</td></tr>
+<tr><td>Drag coefficient</td><td>0,28</td></tr>
+<tr><td>Frontal area</td><td>2,56</td></tr>
+<tr><td>Overhang angle front</td><td>16,9</td></tr>
+<tr><td>Overhang angle rear</td><td>19,4</td></tr>
+<tr><td>Turning circle</td><td>11,6 meters</td></tr>
 </tbody>
 </table>
 
@@ -98,8 +104,8 @@ The model offers 2 suspension variants
 <tr><td>Adjustable damping rear</td><td>Yes (Dynamic Chassis Control), optional equipment</td></tr>
 <tr><td>Adjustable height front</td><td>Not available</td></tr>
 <tr><td>Adjustable height rear</td><td>Not available</td></tr>
-<tr><td>Max ground clearance</td><td>170</td></tr>
-<tr><td>Minimum ground clearance</td><td>170</td></tr>
+<tr><td>Max ground clearance</td><td>180</td></tr>
+<tr><td>Minimum ground clearance</td><td>180</td></tr>
 <tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
 <tr><td>Suspension construction front</td><td>MacPhersonStrut</td></tr>
 <tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
@@ -119,8 +125,8 @@ The model offers 2 suspension variants
 <tr><td>Adjustable damping rear</td><td>Not available</td></tr>
 <tr><td>Adjustable height front</td><td>Not available</td></tr>
 <tr><td>Adjustable height rear</td><td>Not available</td></tr>
-<tr><td>Max ground clearance</td><td>155</td></tr>
-<tr><td>Minimum ground clearance</td><td>155</td></tr>
+<tr><td>Max ground clearance</td><td>163</td></tr>
+<tr><td>Minimum ground clearance</td><td>163</td></tr>
 <tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
 <tr><td>Suspension construction front</td><td>MacPhersonStrut</td></tr>
 <tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
@@ -148,15 +154,15 @@ This model is available with a seat configuration with five seats.
 <tr><td>Memory passenger seat</td><td>Not Available</td></tr>
 <tr><td>Height adjustable headrest</td><td>Standard feature</td></tr>
 <tr><td>Length adjustable headrest</td><td>Not Available</td></tr>
-<tr><td>Adjustable thigh support</td><td>Standard feature</td></tr>
+<tr><td>Adjustable thigh support</td><td>Not Available</td></tr>
 <tr><td>Backrest side bolster adjustment</td><td>Not Available</td></tr>
 <tr><td>Seat cushion side bolster adjustement</td><td>Not Available</td></tr>
 <tr><td>Electric adjustable thigh support</td><td>Not Available</td></tr>
 <tr><td>Footrest passengers</td><td>Unknown</td></tr>
 <tr><td>Leg support passenger</td><td>Unknown</td></tr>
-<tr><td>Electric lumbar adjustment</td><td>Optional feature</td></tr>
+<tr><td>Electric lumbar adjustment</td><td>Not Available</td></tr>
 <tr><td>Seat ventilation</td><td>Not Available</td></tr>
-<tr><td>Massage function</td><td>Optional feature</td></tr>
+<tr><td>Massage function</td><td>Not Available</td></tr>
 </tbody>
 </table>
 

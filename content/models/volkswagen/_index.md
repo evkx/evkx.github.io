@@ -4,7 +4,7 @@ linktitle: "Volkswagen"
 description: "Volkswagen’s product portfolio is focused on electric mobility. The last purely combustion-driven platform will be developed in 2026. After that, only electric vehicles will be developed. Even with today’s current power mix in the EU, battery-powered drive systems offer the best balance for the climate out of all drive concepts and this will continue to improve over the years to come. "
 weight: 30
 ---
-Volkswagen is aiming to increase the proportion of unit sales accounted for by purely electric vehicles to at least 70 percent in Europe and to more than 50 percent in North America and China by 2030. In 2030, nine out of 14 Volkswagen models will be purely electric vehicles. Volkswagen has currently 5 all electric models with total 13 variants in the market. Below you find links for each model page.
+Volkswagen is aiming to increase the proportion of unit sales accounted for by purely electric vehicles to at least 70 percent in Europe and to more than 50 percent in North America and China by 2030. In 2030, nine out of 14 Volkswagen models will be purely electric vehicles. Volkswagen has currently 5 all electric models with total 14 variants in the market. Below you find links for each model page.
 
 
 ## Volkswagen ID. Buzz
@@ -25,7 +25,7 @@ This model is available in 2 variant(s).
 
 <a href="id.4"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.4" ></a>
 
-This model is available in 4 variant(s). 
+This model is available in 5 variant(s). 
 [Read full details](id.4/)
 
 ## Volkswagen ID.5

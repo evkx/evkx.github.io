@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 GTX 4MOTION
 linktitle: "ID.4 GTX 4MOTION"
-description: "Volkswagen ID.4 GTX 4MOTION is an all-electric SUV with a WLTP range of up to 496 km (308 miles). EVKX.net have all the details. "
+description: "Volkswagen ID.4 GTX 4MOTION is an all-electric SUV with a WLTP range of up to 515 km (320 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,13 +29,13 @@ We have separated our Volkswagen ID.4 GTX 4MOTION article into sections. If you 
 
 ## Performance
 
-With overboost, the Volkswagen ID.4 GTX 4MOTION has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,3 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h. 
+With overboost, the Volkswagen ID.4 GTX 4MOTION has a maximum power of 250KW (340hp). Without overboost, it is 210KW (286hp). The torque is 679nm with overboost and 545 without overboost. The 0-100km/h sprint (0-62mph) is performed in 5,5 seconds with overboost and 6,7 seconds without overboost. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
 The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 496 to 409 km (308-254 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,5kWh/100km for the basic version and 18,8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 515 km (320 mi).   The consumption is 15,0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43% resulting in an actual charge speed including time loss on 101kW. Each charge session would take 19 minutes and 43 seconds. 
 
@@ -57,9 +57,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Volkswagen ID.4 GTX 4MOTION has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
-The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
 
-You can order Volkswagen ID.4 GTX 4MOTION with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm. 
+You can order Volkswagen ID.4 GTX 4MOTION with an alternative sport suspension. The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm. 
 
 ### Steering
 
@@ -160,11 +160,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Two different screen setups are available on the Volkswagen ID.4 GTX 4MOTION. 
-
-The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 10 inches large. 
-
-The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12 inches large and has a 1920 x 869 pixels resolution. 
+Volkswagen ID.4 GTX 4MOTION has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12,9 inches large. 
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/screens_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="2000"  >}}
@@ -237,3 +233,6 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/trunk_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="2000"  >}}
 
+### Availability & Pricing
+
+This model had world premiere 10.10.2023 and deliveries started November 2023.

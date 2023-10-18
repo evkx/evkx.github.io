@@ -106,7 +106,9 @@ The model offers 2 suspension variants
 <tr><td>Max ground clearance</td><td>170</td></tr>
 <tr><td>Minimum ground clearance</td><td>170</td></tr>
 <tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction front</td><td>MacPhersonStrut</td></tr>
 <tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction rear</td><td>Multilink</td></tr>
 </tbody>
 </table>
 
@@ -125,7 +127,9 @@ The model offers 2 suspension variants
 <tr><td>Max ground clearance</td><td>153</td></tr>
 <tr><td>Minimum ground clearance</td><td>153</td></tr>
 <tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction front</td><td>MacPhersonStrut</td></tr>
 <tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction rear</td><td>Multilink</td></tr>
 </tbody>
 </table>
 

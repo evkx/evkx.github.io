@@ -17,13 +17,13 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Peak electrical output in kW</td><td>195 Kw</td></tr>
-<tr><td>Peak electrical output boost in kW</td><td>220 Kw</td></tr>
-<tr><td>Electrical torque output in Nm</td><td>425 Nm</td></tr>
-<tr><td>Electrical torque output boost in Nm</td><td>460 Nm</td></tr>
+<tr><td>Peak electrical output in kW</td><td>210 Kw</td></tr>
+<tr><td>Peak electrical output boost in kW</td><td>250 Kw</td></tr>
+<tr><td>Electrical torque output in Nm</td><td>545 Nm</td></tr>
+<tr><td>Electrical torque output boost in Nm</td><td>679 Nm</td></tr>
 <tr><td>Top speed</td><td>180 km/h</td></tr>
-<tr><td>0-100km/h (0-62 mph)</td><td>6,9 s</td></tr>
-<tr><td>0-100km/h (0-62 mph) boost</td><td>6,3 s</td></tr>
+<tr><td>0-100km/h (0-62 mph)</td><td>6,7 s</td></tr>
+<tr><td>0-100km/h (0-62 mph) boost</td><td>5,5 s</td></tr>
 </tbody>
 </table>
 
@@ -37,12 +37,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Basic trim WLTP range</td><td>496 km</td></tr>
-<tr><td>Basic trim WLTP consumption</td><td>15,5 kWh/100km</td></tr>
-<tr><td>Basic trim WLTP consumption with charging loss</td><td>17,9 kWh/100km</td></tr>
-<tr><td>Top trim WLTP range</td><td>409 km</td></tr>
-<tr><td>Top trim WLTP consumption</td><td>18,8 kWh/100km</td></tr>
-<tr><td>Top trim WLTP consumption with charging loss</td><td>21,4 kwh/100km</td></tr>
+<tr><td>WLTP range</td><td>515 km</td></tr>
+<tr><td>WLTP consumption</td><td>15,0 kWh/100km</td></tr>
+<tr><td>WLTP consumption with charging loss</td><td>16,7 kWh/100km</td></tr>
 </tbody>
 </table>
 
@@ -107,7 +104,9 @@ The model offers 2 suspension variants
 <tr><td>Max ground clearance</td><td>180</td></tr>
 <tr><td>Minimum ground clearance</td><td>180</td></tr>
 <tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction front</td><td>MacPhersonStrut</td></tr>
 <tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction rear</td><td>Multilink</td></tr>
 </tbody>
 </table>
 
@@ -126,7 +125,9 @@ The model offers 2 suspension variants
 <tr><td>Max ground clearance</td><td>163</td></tr>
 <tr><td>Minimum ground clearance</td><td>163</td></tr>
 <tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction front</td><td>MacPhersonStrut</td></tr>
 <tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Suspension construction rear</td><td>Multilink</td></tr>
 </tbody>
 </table>
 

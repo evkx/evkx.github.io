@@ -1,7 +1,7 @@
 ---
-title: Volkswagen ID.4 GTX 4MOTION range & consumption
+title: Volkswagen ID.4 GTX 4MOTION (GEN1) range & consumption
 linktitle: "Range"
-description: "Here you find all details about range and consumption for Volkswagen ID.4 GTX 4MOTION."
+description: "Here you find all details about range and consumption for Volkswagen ID.4 GTX 4MOTION (GEN1)."
 weight: 9
 hidden: true
 navicon: bi-file-earmark-bar-graph
@@ -21,8 +21,8 @@ Below are the officially rated ranges. The tests are performed with the heating/
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 515 km / 320mi </td><td>14,95kWh/100km / 4,2 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 515 km / 320mi </td><td> 14,95 kWh/100km / 4,2 mi/kWh </td></tr>  
+<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 496 km / 308mi </td><td>15,52kWh/100km / 4,0 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 409 km / 254mi </td><td> 18,83 kWh/100km / 3,3 mi/kWh </td></tr>  
 </tbody></table>
 
 ### Official test cycle results with added heating
@@ -33,8 +33,8 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 <thead>
 <tr><th></th><th>  Range </th><th>Change </th></tr>
 <tbody>
-<tr><td> WLTP-combined basic trim with 2KW AC </td><td> 400km /249 mi </td><td> -22,3%</td></tr>
-<tr><td>  WLTP-combined top trim with 2KW AC </td><td> 400km /249 mi </td><td>-22,3%</td></tr>
+<tr><td> WLTP-combined basic trim with 2KW AC </td><td> 388km /241 mi </td><td> -21,8%</td></tr>
+<tr><td>  WLTP-combined top trim with 2KW AC </td><td> 333km /207 mi </td><td>-18,6%</td></tr>
 </tbody></table>
 
 ### Real world range estimates

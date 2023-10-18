@@ -61,9 +61,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Volkswagen ID.5 Pro has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
-The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 170 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 170 mm. 
 
-You can order Volkswagen ID.5 Pro with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 155 mm. 
+You can order Volkswagen ID.5 Pro with an alternative sport suspension. The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 155 mm. 
 
 ### Steering
 

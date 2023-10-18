@@ -61,9 +61,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Audi Q4 45 e-tron quattro (GEN1) has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
-The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm. 
 
-You can order Audi Q4 45 e-tron quattro (GEN1) with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm. 
+You can order Audi Q4 45 e-tron quattro (GEN1) with an alternative sport suspension. The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm. 
 
 ### Steering
 
