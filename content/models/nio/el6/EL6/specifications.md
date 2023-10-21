@@ -151,10 +151,10 @@ This model is available with a seat configuration with five seats.
 <tr><td>Memory passenger seat</td><td>Standard feature</td></tr>
 <tr><td>Height adjustable headrest</td><td>Standard feature</td></tr>
 <tr><td>Length adjustable headrest</td><td>Standard feature</td></tr>
-<tr><td>Adjustable thigh support</td><td>Not Available</td></tr>
+<tr><td>Adjustable thigh support</td><td>Standard feature</td></tr>
 <tr><td>Backrest side bolster adjustment</td><td>Not Available</td></tr>
 <tr><td>Seat cushion side bolster adjustement</td><td>Not Available</td></tr>
-<tr><td>Electric adjustable thigh support</td><td>Not Available</td></tr>
+<tr><td>Electric adjustable thigh support</td><td>Standard feature</td></tr>
 <tr><td>Footrest passengers</td><td>Standard feature</td></tr>
 <tr><td>Leg support passenger</td><td>Standard feature</td></tr>
 <tr><td>Electric lumbar adjustment</td><td>Not Available</td></tr>
