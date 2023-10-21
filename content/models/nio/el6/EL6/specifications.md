@@ -118,8 +118,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </thead>
 <tbody>
 <tr><td>Adaptive suspension</td><td>Yes, standard equipment</td></tr>
-<tr><td>Adjustable damping front</td><td>Not available</td></tr>
-<tr><td>Adjustable damping rear</td><td>Not available</td></tr>
+<tr><td>Adjustable damping front</td><td>Yes, standard equipment</td></tr>
+<tr><td>Adjustable damping rear</td><td>Yes, standard equipment</td></tr>
 <tr><td>Adjustable height front</td><td>Not available</td></tr>
 <tr><td>Adjustable height rear</td><td>Not available</td></tr>
 <tr><td>Max ground clearance</td><td>170</td></tr>
@@ -183,7 +183,7 @@ This model is available with a seat configuration with five seats.
 <tr><td>Footrest passengers</td><td>Unknown</td></tr>
 <tr><td>Leg support passenger</td><td>Unknown</td></tr>
 <tr><td>Electric lumbar adjustment</td><td>Not Available</td></tr>
-<tr><td>Seat ventilation</td><td>Not Available</td></tr>
+<tr><td>Seat ventilation</td><td>Standard feature</td></tr>
 <tr><td>Massage function</td><td>Not Available</td></tr>
 </tbody>
 </table>

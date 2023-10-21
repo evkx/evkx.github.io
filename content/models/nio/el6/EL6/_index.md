@@ -72,7 +72,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio EL6 has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 170 mm. 
 
 ### Steering
 
@@ -134,9 +134,10 @@ You can choose from 3 different materials/colors for this seat type. <br />
 
 
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 There is only one type of steering wheel available. 
 
@@ -183,7 +184,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard. 
 ## Lights
 
-The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 ## Advanced driver assistance systems
 
 The Nio EL6 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
