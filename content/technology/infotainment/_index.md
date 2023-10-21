@@ -8,7 +8,7 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
  In this article, we will discuss the various aspects of infotainment systems.
 
- {{< sitefigure thumb="technology/infotainment/teslamodelxinfotainment_st.jpg" title="Tesla Model X Infotainment system" >}}
+ {{< sitefiguresized thumb="technology/infotainment/teslamodelxinfotainment_st.jpg" width="1767" height="1228" title="Tesla Model X Infotainment system" >}}
 
 
 ## History of Infotainment Systems

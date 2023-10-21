@@ -7,8 +7,7 @@ weight: 3
 <!-- markdownlint-disable MD033 -->
  Interior ambient lighting has evolved from a functional feature to a design element that can elevate the aesthetics of the car's interior, creating a unique and personalized environment for the driver and passengers.
 
-{{< sitefigure thumb="technology/lights/ambientlighting/mercedeseqsambientlighting_1_st.jpg" title="Mercedes EQS Ambient lighting" >}}
-
+{{< sitefiguresized thumb="technology/lights/ambientlighting/mercedeseqsambientlighting_1_st.jpg" width="3000" height="2250" title="Mercedes EQS Ambient lighting" >}}
 
 ## What is Interior Ambient Lighting?
 
@@ -16,12 +15,7 @@ Interior ambient lighting refers to the use of low-intensity lights placed in va
 
 The purpose of interior ambient lighting is not only to provide illumination but also to enhance the overall ambiance and mood inside the car. It can create a cozy and inviting atmosphere, add a touch of luxury, or even evoke a sense of excitement. Many modern cars come equipped with ambient lighting as a standard or optional feature, and some manufacturers offer customization options that allow drivers to choose from a variety of colors and lighting effects to suit their preferences.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/ambientlighting/rrspectre_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/ambientlighting/rrspectre_1_st.jpg" alt="Rolls Roys Spectre with ambient lighting in headliner" title="Rolls Roys Spectre with ambient lighting in headliner">
-    </a>
-    <figcaption><h4>Rolls Roys Spectre with ambient lighting in headliner</h4></figcaption>
-</figur>
+{{< sitefiguresized thumb="technology/lights/ambientlighting/rrspectre_1_st.jpg" width="3000" height="2000" title="Rolls Roys Spectre with ambient lighting in headlinerg" >}}
 
 ## Advancements in Lighting Technology
 
@@ -29,12 +23,7 @@ Advancements in lighting technology have played a significant role in the evolut
 
 LED lights used for interior ambient lighting can be controlled through sophisticated systems that allow for customization of color, intensity, and patterns. Some systems use RGB (red-green-blue) LEDs, which can produce millions of colors by mixing different intensities of these primary colors. Others may use single-color LEDs that are pre-set to emit a specific color. These lights can be controlled via a central control unit or through infotainment systems, allowing drivers and passengers to adjust the lighting according to their preferences and mood.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/ambientlighting/audiq4ambientlightingcontrol_1.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/ambientlighting/audiq4ambientlightingcontrol_1_st.jpg" alt="Audi Q4 e-tron ambient lighting control" title="Audi Q4 e-tron ambient lighting control">
-    </a>
-    <figcaption><h4>Audi Q4 e-tron ambient lighting control</h4></figcaption>
-</figur>
+{{< sitefiguresized thumb="technology/lights/ambientlighting/audiq4ambientlightingcontrol_1_st.jpg" width="3000" height="2031" title="Audi Q4 e-tron ambient lighting control" >}}
 
 ## Design and Aesthetic Considerations
 
@@ -54,12 +43,7 @@ In addition to aesthetics, interior ambient lighting in cars also offers functio
 
 **Personalization:** Interior ambient lighting allows drivers and passengers to customize the atmosphere inside the car according to their preferences and mood. It can be adjusted to different colors, intensities, and patterns, allowing for a personalized experience that reflects the driver's individual style and taste.
 
-<figur>
-    <a href="https://media.evkx.net/multimedia/technology/lights/ambientlighting/i7ambientlightning.jpg">
-    <img src="https://media.evkx.net/multimedia/technology/lights/ambientlighting/i7ambientlightning_st.jpg" alt="BMW i7 ambient lighting" title="BMW i7 ambient lighting">
-    </a>
-    <figcaption><h4>BMW i7 ambient lighting</h4></figcaption>
-</figur>
+{{< sitefiguresized thumb="technology/lights/ambientlighting/i7ambientlightning_st.jpg" width="3000" height="2000" title="BMW i7 ambient lighting" >}}
 
 **Mood Enhancement:** Ambient lighting can have a significant impact on the mood and ambiance inside the car. Different colors and lighting effects can evoke various emotions, such as calmness, excitement, or warmth, enhancing the overall driving experience. For example, soft blue lighting can create a modern and serene ambiance, while warm orange lighting can create a cozy and inviting atmosphere.
 

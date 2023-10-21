@@ -22,6 +22,6 @@ Android Auto and Apple CarPlay have some similarities and differences, such as:
 
 - They have different preferences and limitations for some features. For example, Android Auto allows you to use Google Maps or Waze for navigation, while Apple CarPlay only supports Apple Maps by default (although you can use other navigation apps as well). Apple CarPlay allows you to use iMessage or WhatsApp for messaging, while Android Auto only supports SMS or WhatsApp.
 
-{{< sitefigure thumb="technology/infotainment/smartphoneintegration/kiaev6applecarplay_1_st.jpg" title="Kia EV6 with Apple Car Play" >}}
+{{< sitefiguresized thumb="technology/infotainment/smartphoneintegration/kiaev6applecarplay_1_st.jpg" width="3000" height="2018" title="Kia EV6 with Apple Car Play" >}}
 
 Android Auto and Apple CarPlay are systems that aim to improve your driving experience by integrating your smartphone with your car's infotainment system. They offer similar features but have different designs and functionalities. Depending on your phone model and car model, you may prefer one system over the other, or you may be able to use both systems interchangeably

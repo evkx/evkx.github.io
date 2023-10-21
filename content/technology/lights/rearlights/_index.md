@@ -9,7 +9,7 @@ Rear lights, also known as tail lights, are an essential component of a car's li
 
 From their humble beginnings as simple incandescent bulbs to the cutting-edge LED lights of today, rear lights have come a long way in functionality and aesthetics.
 
-{{< sitefigure thumb="technology/lights/rearlights/eqsrearlights_st.jpg" title="Mercedes EQS rear lights" >}}
+{{< sitefiguresized thumb="technology/lights/rearlights/eqsrearlights_st.jpg" width="3000" height="2250" title="Mercedes EQS rear lights" >}}
 
 ## LED Revolution: Efficiency, Versatility, and Style
 
@@ -19,7 +19,7 @@ One of the key advantages of LED rear lights is their efficiency. LEDs require s
 
 Furthermore, LEDs are known for their durability. They have a longer lifespan than incandescent bulbs, as they are not prone to burning out or breaking easily. This feature means that vehicle owners can enjoy longer-lasting rear lights that require fewer replacements, reducing maintenance costs.
 
-{{< sitefigure thumb="technology/lights/rearlights/audiq8etronrearlight_st.jpg" title="Audi Q8 e-tron rear lights" >}}
+{{< sitefiguresized thumb="technology/lights/rearlights/audiq8etronrearlight_st.jpg" width="3000" height="1999" title="Audi Q8 e-tron rear lights" >}}
 
 In terms of versatility, LEDs offer automotive designers greater flexibility in creating unique and innovative rear light designs. LEDs are available in various shapes, sizes, and colors, allowing for creative freedom in designing rear lights that are not only functional but also visually appealing. These features have resulted in a wide range of rear light designs, from sleek and minimalist to bold and futuristic, adding a touch of style to modern vehicles.
 
@@ -32,7 +32,7 @@ Flexible OLED lights can seamlessly be integrated into curved surfaces, allowing
 The Audi Q6 e-tron is one example of an EV using OLED rear lights.
 The below illustration shows how Audi has integrated OLED panels in the Audi Q6 e-tron rear lights.
 
-{{< sitefigure thumb="technology/lights/rearlights/audiq6rearlightsconstruction_st.jpg" title="Audi Q6 e-tron rear lights construction" >}}
+{{< sitefiguresized thumb="technology/lights/rearlights/audiq6rearlightsconstruction_st.jpg" width="3000" height="1665" title="Audi Q6 e-tron rear lights construction" >}}
 
 ## Advanced Features: Safety and Convenience
 
@@ -52,11 +52,11 @@ One popular trend in rear light design is using three-dimensional (3D) graphics 
 
 In addition, some manufacturers offer the owner to set their light signature. An example is the Audi Q6 e-tron, where you can select eight signatures for the rear lights.
 
-{{< sitefigure thumb="technology/lights/rearlights/audiq8rearlights_1_st.jpg" title="Audi Q6 e-tron with light signature 3" >}}
+{{< sitefiguresized thumb="technology/lights/rearlights/audiq8rearlights_1_st.jpg" width="3000" height="2000" title="Audi Q6 e-tron with light signature 3" >}}
 
-{{< sitefigure thumb="technology/lights/rearlights/audiq8rearlights_3_st.jpg" title="Audi Q6 e-tron with light signature 6" >}}
+{{< sitefiguresized thumb="technology/lights/rearlights/audiq8rearlights_3_st.jpg" width="3000" height="2000" title="Audi Q6 e-tron with light signature 6" >}}
 
-{{< sitefigure thumb="technology/lights/rearlights/audiq8rearlightsignatures_st.jpg" title="Audi Q6 e-tron possible light signatures" >}}
+{{< sitefiguresized thumb="technology/lights/rearlights/audiq8rearlightsignatures_st.jpg" width="3000" height="1676" title="Audi Q6 e-tron possible light signatures" >}}
 
 Another design innovation is using smoked or tinted lenses for rear lights. Smoked or tinted lenses have a darker or blacked-out appearance, giving the rear lights a sleek and stealthy look. This design trend has gained popularity in recent years, especially in the luxury and performance vehicle segments, as it adds a touch of sophistication and exclusivity to the vehicle's rear end.
 
@@ -66,11 +66,11 @@ Furthermore, manufacturers integrate rear lights into other parts of the vehicle
 
 Some manufacturers have started using the rear lights to communicate with others, where the rear lights can send signals or messages to other vehicles or pedestrians.
 
-{{< sitefigure thumb="technology/lights/rearlights/hiphixrearlights_st.jpg" title="HiPhi X can show graphics in their segmented rear lights" >}}
+{{< sitefiguresized thumb="technology/lights/rearlights/hiphixrearlights_st.jpg" width="3000" height="2000" title="HiPhi X can show graphics in their segmented rear lights" >}}
 
 For example, the Audi Q6 e-tron has added an extra dimension to the exit warning function. Previously, it only informed the occupants when exiting the car, for example, if another vehicle or a bicycle was approaching. But now, a specially adapted light signature in the rear light graphic warns cyclists or drivers approaching from behind. In this way, the Audi Q6 e-tron extends its safety concept to other road users, increasing road safety for everyone.
 
-{{< sitefigure thumb="technology/lights/rearlights/audiq8rearlights_2_st.jpg" title="Audi Q6 e-tron with exit warning on the rear lights" >}}
+{{< sitefiguresized thumb="technology/lights/rearlights/audiq8rearlights_2_st.jpg" width="3000" height="1687" title="Audi Q6 e-tron with exit warning on the rear lights" >}}
 
 ## Examples
 

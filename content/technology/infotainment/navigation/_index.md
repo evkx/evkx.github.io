@@ -8,7 +8,7 @@ weight: 2
 
 The navigation system offer drivers various functions and features that help them plan their trips, find their destinations, and access relevant information and services along the way.
 
-{{< sitefigure thumb="technology/infotainment/navigation/mercedeseqsnavigation_st.jpg" title="Mercedes EQS Navigation system" >}}
+{{< sitefiguresized thumb="technology/infotainment/navigation/mercedeseqsnavigation_st.jpg" width="3000" height="1687" title="Mercedes EQS Navigation system" >}}
 
 Built-in navigation systems in EVs are especially designed to meet the needs and preferences of electric vehicle drivers, such as finding and using charging stations, optimizing battery range and efficiency, and enhancing the overall driving experience.
 
@@ -39,13 +39,13 @@ Built-in navigation systems in EVs offer various features that are tailored to t
 ### Route planning with charging
 
 The route planning feature is one of the most significant feature. Adding the destination most systems will then suggest a route with the needed charge stops for most efficient travel. 
-It will typical show information about expected charge level on arrivel at the different chargers and how much you need to charge at each location. Drivers can often filter the charging stations according to different criteria, such as operator, connector type, power level, or amenities. 
+It will typical show information about expected charge level on arrivel at the different chargers and how much you need to charge at each location. Drivers can often filter the charging stations according to different criteria, such as operator, connector type, power level, or amenities.
 
-{{< sitefigure thumb="technology/infotainment/audiosystem/bmwi4navigation_1_st.jpg" title="BMW i4 navigation system suggesting different routes" >}}
+{{< sitefiguresized thumb="technology/infotainment/navigation/bmwi4navigation_1_st.jpg" width="2500" height="1400" title="BMW i4 navigation system suggesting different routes" >}}
 
 The navigation system can often suggest optimal charging stops along the route based on the driver&apos;s preferences, and traffic conditions.
 
-{{< sitefigure thumb="technology/infotainment/navigation/bmwi4navigation_2_st.jpg" title="BMW i4 navigation system preferences" >}}
+{{< sitefiguresized thumb="technology/infotainment/navigation/bmwi4navigation_2_st.jpg" width="2600" height="1400" title="BMW i4 navigation system preferences" >}}
 
 On some models you are able to plan the route on the mobile app and then transfer the route directly to the car.
 

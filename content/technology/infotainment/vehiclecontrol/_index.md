@@ -17,15 +17,8 @@ Depending on model you typcal can change between modes that could change
 - Suspension hardness
 - Steering respons
 
-{{< sitefigure thumb="technology/infotainment/vehiclecontrol/mercedeseqe_1_st.jpg" title="Mercedes EQE AMG veichle controls" >}}
+{{< sitefiguresized thumb="technology/infotainment/vehiclecontrol/mercedeseqe_1_st.jpg" width="3000" height="2000" title="Mercedes EQE AMG veichle controls" >}}
 
 ## Climate System
 
 Many Infotainment systems have controls for the climate system. Read more in our climate system technology article.
-
-## 
-
-
-
-
-
