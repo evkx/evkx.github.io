@@ -119,7 +119,7 @@ Building an EV is more complex than replacing a combustion engine with an electr
 
 ## Glass Panel roof
 
-<a href="platforms">
+<a href="glassroof">
     <img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_open_st.jpg" alt="Glass roof" title="Glass roof" class="img-fluid">
 </a>
 

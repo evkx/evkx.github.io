@@ -16,35 +16,35 @@ A glass panel roof can be either fixed or movable. A fixed glass panel roof is p
 
 The smallest category of glass roof is a sunroof. This is a glass panel placed above first row. This was the type of glass roof available back in the 80 and 90. 
 
-{{< sitefigure thumb="technology/glassroof/roof_1_st.jpg" title="Kia EV6 sunroof" >}}
+{{< sitefiguresized thumb="technology/glassroof/roof_1_st.jpg" width="3000" height="2000" title="Kia EV6 sunroof" >}}
 
-{{< sitefigure thumb="technology/glassroof/roof_6.jpg" title="BMW i4 M50 with sunroof" >}}
+{{< sitefiguresized thumb="technology/glassroof/roof_6.jpg" width="1600" height="900" title="BMW i4 M50 with sunroof" >}}
 
 ### Panoramic roof with front opening
 
 This is a common design where you have two parts mounted together. Where the first part is movable and can be opened while the rear part is fixed.
 
-{{< sitefigure thumb="models/nissan/ariya/ariya_63kwh/exterior_2_st.jpg" title="Nissan Ariya Panoramic roof with front opening" >}}
+{{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/exterior_2_st.jpg" width="3000" height="1999" title="Nissan Ariya Panoramic roof with front opening" >}}
 
 ### Fixed panoramic roof
 
-{{< sitefigure thumb="technology/glassroof/roof_2_st.jpg" title="Tesla Model Y fixed panoramic roof" >}}
+{{< sitefiguresized thumb="technology/glassroof/roof_2_st.jpg" width="3000" height="2000" title="Tesla Model Y fixed panoramic roof" >}}
 
-{{< sitefigure thumb="technology/glassroof/roof_3_st.jpg" title="Porsche Taycan with fixed panoramic roof" >}}
+{{< sitefiguresized thumb="technology/glassroof/roof_3_st.jpg" width="3000" height="2000" title="Porsche Taycan with fixed panoramic roof" >}}
 
-{{< sitefigure thumb="technology/glassroof/roof_7_st.jpg" title="BMW i5 with fixed panoramic roof" >}}
+{{< sitefiguresized thumb="technology/glassroof/roof_7_st.jpg" width="3000" height="2000" title="BMW i5 with fixed panoramic roof" >}}
 
 ### Split fixed glass
 
 Another variant is to have to seperate glass panels.
 
-{{< sitefigure thumb="technology/glassroof/roof_4_st.jpg" title="Mercedes-Benz EQS Suv with split panoramic roof" >}}
+{{< sitefiguresized thumb="technology/glassroof/roof_4_st.jpg" width="3000" height="1999" title="Mercedes-Benz EQS Suv with split panoramic roof" >}}
 
 ### Panoramic windshield and glass panel
 
 Some models have a panoramic windshield that goes far up on the roof. Combined with glass panels in the rear it makes it a roof with a large panels.
 
-{{< sitefigure thumb="technology/glassroof/roof_5_st.jpg" title="Lucid Air with panoramic windshield and glass panel" >}}
+{{< sitefiguresized thumb="technology/glassroof/roof_5_st.jpg" width="3000" height="1999" title="Lucid Air with panoramic windshield and glass panel" >}}
 
 ## Blending
 
@@ -54,17 +54,17 @@ The glass used typical protect against sun heat by reflecting most of the UV ray
 
 Curtains for glass roofs on cars are also known as sunshades or sunroofs. They are designed to block the sunlight and heat from entering the vehicle through the glass roof.
 
-{{< sitefigure thumb="technology/glassroof/curtain_1_st.jpg" title="BMW i5 with curtain closed" >}}
+{{< sitefiguresized thumb="technology/glassroof/curtain_1_st.jpg" width="3000" height="2000" title="BMW i5 with curtain closed" >}}
 
 ### Electrochromic glass
 
 Electrochromic glass roof is a type of that can change its level of tint based on the amount of current running through it. It allows the driver to control the intensity of light from transparent to opaque with a push of a button. Some car manufacturers, such as Rivian, BMW and Porsche, offer this option for their models.
 
-{{< sitefigure thumb="technology/glassroof/taycan_roof_open_st.jpg" title="Porsche Taycan with electrochromic roof - open mode" >}}
+{{< sitefiguresized thumb="technology/glassroof/taycan_roof_open_st.jpg" width="3000" height="2255" title="Porsche Taycan with electrochromic roof - open mode" >}}
 
-{{< sitefigure thumb="technology/glassroof/taycan_roof_pattern_st.jpg" title="Porsche Taycan with electrochromic roof - pattern mode" >}}
+{{< sitefiguresized thumb="technology/glassroof/taycan_roof_pattern_st.jpg" width="3000" height="2255" title="Porsche Taycan with electrochromic roof - pattern mode" >}}
 
-{{< sitefigure thumb="technology/glassroof/taycan_roof_blended_st.jpg" title="Porsche Taycan with electrochromic roof - blended mode" >}}
+{{< sitefiguresized thumb="technology/glassroof/taycan_roof_blended_st.jpg" width="3000" height="2255" title="Porsche Taycan with electrochromic roof - blended mode" >}}
 
 ## Weight & Noise
 
