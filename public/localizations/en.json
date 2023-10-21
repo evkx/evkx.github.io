@@ -8,6 +8,9 @@
   },
   "evsearch":{
     "title" : "EV Search",
+    "welcome" : "Welcome to EVKX EV Search",
+    "guide" : "Please read our search guide to get the most of the database.",
+    "searchintro": "The EVKX EV database is a comprehensive and up-to-date source of information on various EV models, features, prices, and performance. You can search and filter on EVs based on your preferences and needs, such as battery size, range, charging time, power, speed, safety, and more. You can also view detailed specifications, reviews, ratings, and images of each EV.",
     "searchresult": "matching models",
     "specifications": "Specifications",
     "advanced": "Advanced filters",
@@ -77,6 +80,7 @@
     "removecompare": "Remove",
     "minimumwltprange": "Minimum WLTP range",
     "minimumhp": "Minimum power in HP",
-    "minimumtrailerweight": "Minimum trailer weight"
+    "minimumtrailerweight": "Minimum trailer weight",
+    "includediscontinued": "Include discontinued models"
    }
 }
