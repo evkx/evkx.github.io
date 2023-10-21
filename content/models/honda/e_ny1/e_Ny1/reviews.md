@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Honda e:Ny1 1000 km challenget 20.10.2023
+
+{{< youtube mgpnmVEIiFo >}}
+
 ### Bjørn Nyland: Honda eNy1 charging test 17.10.2023
 
 {{< youtube bM6EpwYDnAk >}}
