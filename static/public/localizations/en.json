@@ -81,6 +81,11 @@
     "minimumwltprange": "Minimum WLTP range",
     "minimumhp": "Minimum power in HP",
     "minimumtrailerweight": "Minimum trailer weight",
-    "includediscontinued": "Include discontinued models"
+    "includediscontinued": "Include discontinued models",
+    "advanceddrivetrain": "Drivetrain (motor, regen, suspension ++)",
+    "advancedbattery": "Battery & Charging",
+    "advanceduserinterface": "User interface, screens, controls, interior ++",
+    "advancedadas": "Advanced Driver Assist Systems",
+    "adas_description": "Select ADAS features"
    }
 }
