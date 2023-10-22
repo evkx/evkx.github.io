@@ -242,3 +242,6 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro" width="3000" height="2000"  >}}
 
+### Availability & Pricing
+
+This model had world premiere 21.09.2023 and deliveries started December 2023.
