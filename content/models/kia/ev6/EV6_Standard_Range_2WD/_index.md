@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Standard Range 2WD
 linktitle: "EV6 Standard Range 2WD"
-description: "Kia EV6 Standard Range 2WD is an all-electric crossover with a WLTP range of up to 394 km (245 miles). EVKX.net have all the details. "
+description: "Kia EV6 Standard Range 2WD is an all-electric coupe SUV with a WLTP range of up to 394 km (245 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

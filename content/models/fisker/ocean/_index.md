@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/fisker/ocean/ocean_extreme/"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" class="img-fluid" alt="Ocean Extreme" ></a>
 
-Fisker Ocean Extreme is an all-electric crossover with a WLTP range of up to 707 km (439 miles). EVKX.net have all the details. 
+Fisker Ocean Extreme is an all-electric SUV with a WLTP range of up to 707 km (439 miles). EVKX.net have all the details. 
 
 - [Fisker Ocean Extreme article](/models/fisker/ocean/ocean_extreme/)
 - [Fisker Ocean Extreme Range & consumption info](/models/fisker/ocean/ocean_extreme/rangeandconsumption)

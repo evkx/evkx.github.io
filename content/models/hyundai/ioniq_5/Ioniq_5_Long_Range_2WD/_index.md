@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 Long Range 2WD
 linktitle: "Ioniq 5 Long Range 2WD"
-description: "Hyundai Ioniq 5 Long Range 2WD is an all-electric crossover with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. "
+description: "Hyundai Ioniq 5 Long Range 2WD is an all-electric SUV with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
