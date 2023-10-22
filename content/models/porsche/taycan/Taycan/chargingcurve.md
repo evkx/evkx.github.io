@@ -31,8 +31,8 @@ This model is available with multiple batteries. Below you find the performance 
 <td>Optimum charging area</td><td>0% - 67%</td>
 </tr>
 <tr>
-</tr>
 <td>Optimum charging speed included 5 minutes loss</td><td>135,6kW</td>
+</tr>
 <tr>
 <td>Optimum charge stop time </td><td>21m2s</td>
 </tr>
@@ -379,8 +379,8 @@ Porsche Taycan have battery heating, making charging at an optimum battery tempe
 <td>Optimum charging area</td><td>3% - 65%</td>
 </tr>
 <tr>
-</tr>
 <td>Optimum charging speed included 5 minutes loss</td><td>164,9kW</td>
+</tr>
 <tr>
 <td>Optimum charge stop time </td><td>19m53s</td>
 </tr>

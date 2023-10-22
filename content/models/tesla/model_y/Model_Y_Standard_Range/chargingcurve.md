@@ -31,8 +31,8 @@ This model is available with multiple batteries. Below you find the performance 
 <td>Optimum charging area</td><td>2% - 50%</td>
 </tr>
 <tr>
-</tr>
 <td>Optimum charging speed included 5 minutes loss</td><td>100,5kW</td>
+</tr>
 <tr>
 <td>Optimum charge stop time </td><td>16m28s</td>
 </tr>
@@ -379,8 +379,8 @@ Tesla Model Y Standard Range have battery heating, making charging at an optimum
 <td>Optimum charging area</td><td>0% - 36%</td>
 </tr>
 <tr>
-</tr>
 <td>Optimum charging speed included 5 minutes loss</td><td>82,2kW</td>
+</tr>
 <tr>
 <td>Optimum charge stop time </td><td>18m60s</td>
 </tr>

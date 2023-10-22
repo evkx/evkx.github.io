@@ -27,8 +27,8 @@ navicon: bi-battery-charging
 <td>Optimum charging area</td><td>6% - 59%</td>
 </tr>
 <tr>
-</tr>
 <td>Optimum charging speed included 5 minutes loss</td><td>97,7kW</td>
+</tr>
 <tr>
 <td>Optimum charge stop time </td><td>28m18s</td>
 </tr>
