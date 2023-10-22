@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Battery Life: Hyundai Kona 2024 65 kWh - 130 km/h full range test 21.10.2023
+
+{{< youtube 0rw3RcJufhI >}}
+
 ### Electryfing: FIRST DRIVE: 2024 Hyundai Kona Electric. Bold, but is it still brilliant? 21.07.2023
 
 {{< youtube GRdDnwYFcQk >}}
