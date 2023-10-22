@@ -26,6 +26,12 @@ We have separated our Audi Q4 40 e-tron article into sections. If you want to wa
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron/).
+
+</div>
+
 
 ## Performance
 
@@ -252,4 +258,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had world premiere 14.04.2021 and deliveries started January 2022. This models has now been discontined. 
+This model had world premiere 14.04.2021 and deliveries started January 2022. This models has now been discontined. This model has been replaced by [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron).
