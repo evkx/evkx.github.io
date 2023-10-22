@@ -82,6 +82,19 @@ Audi Q4 50 e-tron quattro is an all-electric premium SUV with a WLTP range of up
 - [Audi Q4 50 e-tron quattro image gallery](/models/audi/q4_e-tron/q4_50_e-tron_quattro/gallery)
 - [Audi Q4 50 e-tron quattro reviews](/models/audi/q4_e-tron/q4_50_e-tron_quattro/reviews)
 
+## Audi Q4 55 e-tron quattro
+
+<a href="/models/audi/q4_e-tron/q4_55_e-tron_quattro/"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_55_e-tron_quattro/main_1_st.jpg" class="img-fluid" alt="Q4 55 e-tron quattro" ></a>
+
+Audi Q4 55 e-tron quattro is an all-electric premium SUV with a WLTP range of up to 523 km (325 miles). EVKX.net have all the details. 
+
+- [Audi Q4 55 e-tron quattro article](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
+- [Audi Q4 55 e-tron quattro Range & consumption info](/models/audi/q4_e-tron/q4_55_e-tron_quattro/rangeandconsumption)
+- [Audi Q4 55 e-tron quattro Charging curve and performance](/models/audi/q4_e-tron/q4_55_e-tron_quattro/chargingcurve)
+- [Audi Q4 55 e-tron quattro full specifications](/models/audi/q4_e-tron/q4_55_e-tron_quattro/specifications)
+- [Audi Q4 55 e-tron quattro image gallery](/models/audi/q4_e-tron/q4_55_e-tron_quattro/gallery)
+- [Audi Q4 55 e-tron quattro reviews](/models/audi/q4_e-tron/q4_55_e-tron_quattro/reviews)
+
 ## Audi Q4 Sportback 35 e-tron
 
 <a href="/models/audi/q4_e-tron/q4_sportback_35_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_35_e-tron/main_1_st.jpg" class="img-fluid" alt="Q4 Sportback 35 e-tron" ></a>
