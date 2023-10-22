@@ -69,7 +69,7 @@ The location of the charge port is on the [left rear corner](../../../../technol
 
 Tesla Model Y Standard Range has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The standard suspension has a fixed height and damping. The ground clearance with this suspension is 167 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The standard suspension has a fixed height and damping. The ground clearance with this suspension is 167 mm. 
 
 ### Steering
 
