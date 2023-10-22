@@ -18,7 +18,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 45 e-tron. C
 </thead>
 <tbody>
 <tr><td>Peak electrical output in kW</td><td>210 Kw</td></tr>
-<tr><td>Electrical torque output in Nm</td><td>550 Nm</td></tr>
+<tr><td>Electrical torque output in Nm</td><td>545 Nm</td></tr>
 <tr><td>Top speed</td><td>180 km/h</td></tr>
 <tr><td>0-100km/h (0-62 mph)</td><td>6,7 s</td></tr>
 </tbody>
@@ -54,7 +54,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tbody>
 <tr><td>Battery gross</td><td>82 kWh</td></tr>
 <tr><td>Battery net</td><td>76,6 kWh</td></tr>
-<tr><td>Max DC charging</td><td>125 kW</td></tr>
+<tr><td>Max DC charging</td><td>170 kW</td></tr>
 <tr><td>Number of modules</td><td>12</td></tr>
 <tr><td>Pack Configuration</td><td>96s3p</td></tr>
 <tr><td>Nominal voltage</td><td>350</td></tr>
