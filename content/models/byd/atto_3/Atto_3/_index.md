@@ -1,7 +1,7 @@
 ---
 title: BYD Atto 3
 linktitle: "Atto 3"
-description: "BYD Atto 3 is an all-electric SUV with a WLTP range of up to 420 km (261 miles). EVKX.net have all the details. "
+description: "BYD Atto 3 is an all-electric crossover with a WLTP range of up to 420 km (261 miles). EVKX.net have all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
