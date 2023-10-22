@@ -155,8 +155,8 @@ This model is available with a seat configuration with five seats.
 <tr><td>Backrest side bolster adjustment</td><td>Not Available</td></tr>
 <tr><td>Seat cushion side bolster adjustement</td><td>Not Available</td></tr>
 <tr><td>Electric adjustable thigh support</td><td>Not Available</td></tr>
-<tr><td>Footrest passengers</td><td>Unknown</td></tr>
-<tr><td>Leg support passenger</td><td>Unknown</td></tr>
+<tr><td>Footrest passengers</td><td>Not Available</td></tr>
+<tr><td>Leg support passenger</td><td>Not Available</td></tr>
 <tr><td>Electric lumbar adjustment</td><td>Not Available</td></tr>
 <tr><td>Seat ventilation</td><td>Not Available</td></tr>
 <tr><td>Massage function</td><td>Not Available</td></tr>
