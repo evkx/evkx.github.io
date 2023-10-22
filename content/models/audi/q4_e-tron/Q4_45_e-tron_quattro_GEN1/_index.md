@@ -221,6 +221,8 @@ The Audi Q4 45 e-tron quattro (GEN1) has an [**automatic emergency braking**](..
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a optional  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
+
 ### Driving Automation
 
 The Audi Q4 45 e-tron quattro (GEN1) offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
@@ -248,3 +250,6 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/trunk_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2249"  >}}
 
+### Availability & Pricing
+
+This model had world premiere 14.04.2021 and deliveries started January 2022. This models has now been discontined. 

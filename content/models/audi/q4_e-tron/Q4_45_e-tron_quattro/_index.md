@@ -29,11 +29,11 @@ We have separated our Audi Q4 45 e-tron quattro article into sections. If you wa
 
 ## Performance
 
-The Audi Q4 45 e-tron quattro has a maximum power of 195KW (265hp). The total torque is 425nm. The 0-100km/h sprint (0-62mph) takes 6,9 seconds. The top speed is 180 km/h. 
+The Audi Q4 45 e-tron quattro has a maximum power of 210KW (286hp). The total torque is 679nm. The 0-100km/h sprint (0-62mph) takes 6,9 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6,6%). 
+The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6,6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
 The [WLTP range](../../../../guides/understandingrange/wltp) varies from 512 to 434 km (318-270 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,0kWh/100km for the basic version and 17,6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
@@ -174,7 +174,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Audi Q4 45 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10,2 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
+Audi Q4 45 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10,2 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 11,6 inches large and has a 1540 x 720 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="1686"  >}}
@@ -221,6 +221,8 @@ The Audi Q4 45 e-tron quattro has an [**automatic emergency braking**](../../../
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a optional  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
+
 ### Driving Automation
 
 The Audi Q4 45 e-tron quattro offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
@@ -249,3 +251,6 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="2249"  >}}
 
+### Availability & Pricing
+
+This model had world premiere 21.09.2023 and deliveries started December 2023.

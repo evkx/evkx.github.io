@@ -217,6 +217,8 @@ The Audi Q4 Sportback 45 e-tron quattro has an [**automatic emergency braking**]
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a optional  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
+
 ### Driving Automation
 
 The Audi Q4 Sportback 45 e-tron quattro offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
@@ -246,4 +248,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had world premiere 21.09.2023 and deliveries started December 2023.
+This model had world premiere 14.04.2021 and deliveries started January 2022. This models has now been discontined. 
