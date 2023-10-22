@@ -242,7 +242,7 @@ This model is available with a seat configuration with five seats.
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Lane keeping</td><td></td></tr>
+<tr><td>Lane keeping</td><td>Yes (Audi Active Lane Assist), standard equipment</td></tr>
 <tr><td>Lane departure warning</td><td>Yes (Audi Active Lane Assist), standard equipment</td></tr>
 <tr><td>Drowsiness Alert</td><td>Yes, standard equipment</td></tr>
 <tr><td>Reversing camera</td><td>Yes, optional equipment</td></tr>
