@@ -353,3 +353,4 @@ Porsche Taycan Turbo have battery heating, making charging at an optimum battery
 </tr>
 </tbody>
 </table>
+

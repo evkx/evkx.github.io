@@ -357,6 +357,7 @@ Nio ET5 have battery heating, making charging at an optimum battery temperature 
 </tr>
 </tbody>
 </table>
+
 ### 75 kWh
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
@@ -705,3 +706,4 @@ Nio ET5 have battery heating, making charging at an optimum battery temperature 
 </tr>
 </tbody>
 </table>
+

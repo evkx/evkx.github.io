@@ -353,3 +353,4 @@ MG MG4 Electric XPOWER have battery heating, making charging at an optimum batte
 </tr>
 </tbody>
 </table>
+

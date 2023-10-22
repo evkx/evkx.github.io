@@ -353,3 +353,4 @@ Tesla Model X Standard Range have battery heating, making charging at an optimum
 </tr>
 </tbody>
 </table>
+

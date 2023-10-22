@@ -353,3 +353,4 @@ Porsche Taycan 4 Cross Turismo have battery heating, making charging at an optim
 </tr>
 </tbody>
 </table>
+

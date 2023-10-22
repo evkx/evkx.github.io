@@ -353,3 +353,4 @@ Tesla Model Y Performance have battery heating, making charging at an optimum ba
 </tr>
 </tbody>
 </table>
+

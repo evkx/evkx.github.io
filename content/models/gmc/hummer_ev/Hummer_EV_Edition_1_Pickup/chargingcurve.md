@@ -353,3 +353,4 @@ GMC Hummer EV Edition 1 Pickup have battery heating, making charging at an optim
 </tr>
 </tbody>
 </table>
+

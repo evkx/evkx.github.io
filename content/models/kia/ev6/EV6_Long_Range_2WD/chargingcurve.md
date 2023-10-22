@@ -353,3 +353,4 @@ Kia EV6 Long Range 2WD have battery heating, making charging at an optimum batte
 </tr>
 </tbody>
 </table>
+

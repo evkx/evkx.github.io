@@ -353,3 +353,4 @@ MG MG5 Electric Long Range have battery heating, making charging at an optimum b
 </tr>
 </tbody>
 </table>
+

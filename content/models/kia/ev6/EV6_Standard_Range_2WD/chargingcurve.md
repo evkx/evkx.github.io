@@ -353,3 +353,4 @@ Kia EV6 Standard Range 2WD have battery heating, making charging at an optimum b
 </tr>
 </tbody>
 </table>
+

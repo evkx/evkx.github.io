@@ -353,3 +353,4 @@ Nissan Ariya 87kWh have battery heating, making charging at an optimum battery t
 </tr>
 </tbody>
 </table>
+

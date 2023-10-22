@@ -353,3 +353,4 @@ Hyundai Ioniq 6 Long Range RWD have battery heating, making charging at an optim
 </tr>
 </tbody>
 </table>
+

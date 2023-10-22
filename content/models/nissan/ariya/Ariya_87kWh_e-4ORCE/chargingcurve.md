@@ -353,3 +353,4 @@ Nissan Ariya 87kWh e-4ORCE have battery heating, making charging at an optimum b
 </tr>
 </tbody>
 </table>
+

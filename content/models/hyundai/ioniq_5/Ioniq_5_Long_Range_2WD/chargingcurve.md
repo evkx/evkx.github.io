@@ -353,3 +353,4 @@ Hyundai Ioniq 5 Long Range 2WD have battery heating, making charging at an optim
 </tr>
 </tbody>
 </table>
+

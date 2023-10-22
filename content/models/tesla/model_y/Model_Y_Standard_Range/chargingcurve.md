@@ -357,6 +357,7 @@ Tesla Model Y Standard Range have battery heating, making charging at an optimum
 </tr>
 </tbody>
 </table>
+
 ### 70 kWh
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
@@ -705,3 +706,4 @@ Tesla Model Y Standard Range have battery heating, making charging at an optimum
 </tr>
 </tbody>
 </table>
+

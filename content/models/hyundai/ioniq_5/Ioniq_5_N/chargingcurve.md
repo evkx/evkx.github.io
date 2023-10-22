@@ -353,3 +353,4 @@ Hyundai Ioniq 5 N have battery heating, making charging at an optimum battery te
 </tr>
 </tbody>
 </table>
+

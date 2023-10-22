@@ -353,3 +353,4 @@ Kia Niro EV have battery heating, making charging at an optimum battery temperat
 </tr>
 </tbody>
 </table>
+

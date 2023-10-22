@@ -353,3 +353,4 @@ Kia EV6 GT have battery heating, making charging at an optimum battery temperatu
 </tr>
 </tbody>
 </table>
+

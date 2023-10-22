@@ -353,3 +353,4 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 </tr>
 </tbody>
 </table>
+

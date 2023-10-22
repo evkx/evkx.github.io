@@ -353,3 +353,4 @@ HiPhi X 6 Seater have battery heating, making charging at an optimum battery tem
 </tr>
 </tbody>
 </table>
+

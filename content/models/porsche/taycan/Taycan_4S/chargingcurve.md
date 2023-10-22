@@ -357,6 +357,7 @@ Porsche Taycan 4S have battery heating, making charging at an optimum battery te
 </tr>
 </tbody>
 </table>
+
 ### 93,4 kWh
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
@@ -705,3 +706,4 @@ Porsche Taycan 4S have battery heating, making charging at an optimum battery te
 </tr>
 </tbody>
 </table>
+

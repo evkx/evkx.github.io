@@ -353,3 +353,4 @@ BMW i5 eDrive40 have battery heating, making charging at an optimum battery temp
 </tr>
 </tbody>
 </table>
+

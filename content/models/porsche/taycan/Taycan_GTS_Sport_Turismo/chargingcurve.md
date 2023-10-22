@@ -353,3 +353,4 @@ Porsche Taycan GTS Sport Turismo have battery heating, making charging at an opt
 </tr>
 </tbody>
 </table>
+

@@ -353,3 +353,4 @@ Tesla Model X Plaid have battery heating, making charging at an optimum battery 
 </tr>
 </tbody>
 </table>
+

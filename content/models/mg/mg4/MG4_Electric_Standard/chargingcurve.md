@@ -353,3 +353,4 @@ MG MG4 Electric Standard have battery heating, making charging at an optimum bat
 </tr>
 </tbody>
 </table>
+

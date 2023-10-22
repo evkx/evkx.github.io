@@ -353,3 +353,4 @@ Tesla Model 3 have battery heating, making charging at an optimum battery temper
 </tr>
 </tbody>
 </table>
+

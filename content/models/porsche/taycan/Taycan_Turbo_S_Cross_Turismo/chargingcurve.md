@@ -353,3 +353,4 @@ Porsche Taycan Turbo S Cross Turismo have battery heating, making charging at an
 </tr>
 </tbody>
 </table>
+

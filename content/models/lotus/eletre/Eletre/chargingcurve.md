@@ -353,3 +353,4 @@ Lotus Eletre have battery heating, making charging at an optimum battery tempera
 </tr>
 </tbody>
 </table>
+

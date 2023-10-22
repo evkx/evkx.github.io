@@ -353,3 +353,4 @@ Porsche Taycan GTS have battery heating, making charging at an optimum battery t
 </tr>
 </tbody>
 </table>
+

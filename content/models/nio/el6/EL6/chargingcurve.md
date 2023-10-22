@@ -354,6 +354,7 @@ The above charging curve is at optimum conditions. However, cold or hot temperat
 </tr>
 </tbody>
 </table>
+
 ### 75 kWh
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
@@ -699,3 +700,4 @@ The above charging curve is at optimum conditions. However, cold or hot temperat
 </tr>
 </tbody>
 </table>
+

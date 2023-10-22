@@ -353,3 +353,4 @@ Tesla Model 3 Long Range (GEN1) have battery heating, making charging at an opti
 </tr>
 </tbody>
 </table>
+

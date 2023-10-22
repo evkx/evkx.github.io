@@ -350,3 +350,4 @@ The above charging curve is at optimum conditions. However, cold or hot temperat
 </tr>
 </tbody>
 </table>
+
