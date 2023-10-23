@@ -8,13 +8,17 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Bjørn Nyland: Honda eNy1 banana box test 20.12.2023
+### Bjørn Nyland: Honda e:Ny1 interior review 23.10.2023
 
-{{< youtube comrZ7HUJmM >}}
+{{< youtube lf9u47K08YQ >}}
 
 ### Bjørn Nyland: Honda e:Ny1 1000 km challenget 20.10.2023
 
 {{< youtube mgpnmVEIiFo >}}
+
+### Bjørn Nyland: Honda eNy1 banana box test 20.10.2023
+
+{{< youtube comrZ7HUJmM >}}
 
 ### Bjørn Nyland: Honda eNy1 charging test 17.10.2023
 
