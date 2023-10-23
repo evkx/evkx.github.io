@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Norsk elbilforening: Test av Tesla Model 3 Facelift - Se forskjellene 23.10.2023
+
+{{< youtube hGoDnOnY_C8 >}}
+
 ### AutoTrader: NEW 2024 Tesla Model 3 HIGHLAND Review: The Best Just Got Better? 17.10.2023
 
 {{< youtube z_3F98XIIKA >}}

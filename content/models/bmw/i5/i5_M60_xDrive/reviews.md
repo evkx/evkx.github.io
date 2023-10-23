@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### AutoTrader: NEW BMW i5 M60 Review: An Electric M5 With Too Much Tech? 23.10.2023
+
+{{< youtube EfUbciJ-SdM >}}
+
 ### Out of Spec Reviews: I Drive The BMW i5 For The First Time! The Sweet Spot In The Electric Sedan Market 02.10.2023
 
 {{< youtube bmob6uvpEaI >}}

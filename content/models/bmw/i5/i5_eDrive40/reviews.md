@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Electrifying: FIRST UK DRIVE: BMW i5: The Ultimate Electric Driving Machine? 23.10.2023
+
+{{< youtube ltozoZrMEaU >}}
+
 ### Autogefühl: all-new 2024 BMW 5 Series premieres as BMW i5 M60! 24.05.2023
 
 {{< youtube vtDC98HlWSg >}}
