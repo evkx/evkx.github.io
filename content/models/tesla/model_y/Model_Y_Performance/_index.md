@@ -225,3 +225,6 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 2158 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, 750kg. 
+### Availability & Pricing
+
+This model had world premiere 19.03.2019 and deliveries started March 2020.
