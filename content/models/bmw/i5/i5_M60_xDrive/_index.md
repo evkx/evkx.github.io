@@ -179,6 +179,10 @@ BMW i5 M60 xDrive has twin screens on a shared frame mounted with brackets on to
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
+This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
+
+A gesture control system that lets you control specific features using your hands. 
+
 ## Infotainment
 
 You can choose between three sound systems on the BMW i5 M60 xDrive. With the Hifi Sound system, you get six speakers with a max system output of 100 watts. With the Harman Kardon Surround Sound system, you get 12 speakers with a max system output of 205 watts. With the Bower & Wilkins Surround System, you get 18 speakers with a max system output of 655 watts. 
