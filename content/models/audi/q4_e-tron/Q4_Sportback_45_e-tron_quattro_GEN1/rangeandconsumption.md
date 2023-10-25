@@ -1,7 +1,7 @@
 ---
-title: Audi Q4 Sportback 45 e-tron quattro range & consumption
+title: Audi Q4 Sportback 45 e-tron quattro (GEN1) range & consumption
 linktitle: "Range"
-description: "Here you find all details about range and consumption for Audi Q4 Sportback 45 e-tron quattro."
+description: "Here you find all details about range and consumption for Audi Q4 Sportback 45 e-tron quattro (GEN1)."
 weight: 9
 hidden: true
 navicon: bi-file-earmark-bar-graph
@@ -21,8 +21,8 @@ Below are the officially rated ranges. The tests are performed with the heating/
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 539 km / 335mi </td><td>14,21kWh/100km / 4,4 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 466 km / 290mi </td><td> 16,44 kWh/100km / 3,8 mi/kWh </td></tr>  
+<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 524 km / 326mi </td><td>14,62kWh/100km / 4,3 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 446 km / 277mi </td><td> 17,17 kWh/100km / 3,6 mi/kWh </td></tr>  
 </tbody></table>
 
 ### Official test cycle results with added heating
@@ -33,8 +33,8 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 <thead>
 <tr><th></th><th>  Range </th><th>Change </th></tr>
 <tbody>
-<tr><td> WLTP-combined basic trim with 2KW AC </td><td> 414km /257 mi </td><td> -23,2%</td></tr>
-<tr><td>  WLTP-combined top trim with 2KW AC </td><td> 369km /229 mi </td><td>-20,8%</td></tr>
+<tr><td> WLTP-combined basic trim with 2KW AC </td><td> 405km /252 mi </td><td> -22,7%</td></tr>
+<tr><td>  WLTP-combined top trim with 2KW AC </td><td> 357km /222 mi </td><td>-20,0%</td></tr>
 </tbody></table>
 
 ### Real world range estimates

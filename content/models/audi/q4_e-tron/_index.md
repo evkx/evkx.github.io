@@ -121,11 +121,24 @@ Audi Q4 Sportback 40 e-tron is an all-electric premium coupe SUV with a WLTP ran
 - [Audi Q4 Sportback 40 e-tron image gallery](/models/audi/q4_e-tron/q4_sportback_40_e-tron/gallery)
 - [Audi Q4 Sportback 40 e-tron reviews](/models/audi/q4_e-tron/q4_sportback_40_e-tron/reviews)
 
+## Audi Q4 Sportback 45 e-tron quattro (GEN1)
+
+<a href="/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/main_1_st.jpg" class="img-fluid" alt="Q4 Sportback 45 e-tron quattro" ></a>
+
+Audi Q4 Sportback 45 e-tron quattro (GEN1) is an all-electric premium coupe SUV with a WLTP range of up to 524 km (326 miles). EVKX.net have all the details. 
+
+- [Audi Q4 Sportback 45 e-tron quattro (GEN1) article](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/)
+- [Audi Q4 Sportback 45 e-tron quattro (GEN1) Range & consumption info](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/rangeandconsumption)
+- [Audi Q4 Sportback 45 e-tron quattro (GEN1) Charging curve and performance](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/chargingcurve)
+- [Audi Q4 Sportback 45 e-tron quattro (GEN1) full specifications](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/specifications)
+- [Audi Q4 Sportback 45 e-tron quattro (GEN1) image gallery](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/gallery)
+- [Audi Q4 Sportback 45 e-tron quattro (GEN1) reviews](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/reviews)
+
 ## Audi Q4 Sportback 45 e-tron quattro
 
 <a href="/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/main_1_st.jpg" class="img-fluid" alt="Q4 Sportback 45 e-tron quattro" ></a>
 
-Audi Q4 Sportback 45 e-tron quattro is an all-electric premium coupe SUV with a WLTP range of up to 524 km (326 miles). EVKX.net have all the details. 
+Audi Q4 Sportback 45 e-tron quattro is an all-electric premium coupe SUV with a WLTP range of up to 539 km (335 miles). EVKX.net have all the details. 
 
 - [Audi Q4 Sportback 45 e-tron quattro article](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/)
 - [Audi Q4 Sportback 45 e-tron quattro Range & consumption info](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/rangeandconsumption)

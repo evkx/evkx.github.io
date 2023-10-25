@@ -164,7 +164,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 9,8 inches large. The touch screen in the middle of the center console is 12,8 inches large. 
+The  screen behind the steering wheel mounted into the dashboard is 10,2 inches large. The touch screen in the middle of the center console is 12,8 inches large. 
 
 
 {{< sitefiguresized thumb="models/nio/el6/el6/screens_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}

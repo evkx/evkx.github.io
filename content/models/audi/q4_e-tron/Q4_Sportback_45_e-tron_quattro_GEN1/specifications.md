@@ -1,13 +1,13 @@
 ---
-title: Audi Q4 Sportback 45 e-tron quattro specifications
+title: Audi Q4 Sportback 45 e-tron quattro (GEN1) specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Audi Q4 Sportback 45 e-tron quattro."
+description: "EVKX.net gives you the full specifications for Audi Q4 Sportback 45 e-tron quattro (GEN1)."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/main_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro" >}}
-EVKX.net seeks to have the most complete specifications for Audi Q4 Sportback 45 e-tron quattro. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q4 Sportback 45 e-tron quattro, visit the [chargeinfo](../chargecurve/) for Audi Q4 Sportback 45 e-tron quattro with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefigure thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/main_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" >}}
+EVKX.net seeks to have the most complete specifications for Audi Q4 Sportback 45 e-tron quattro (GEN1). Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q4 Sportback 45 e-tron quattro (GEN1), visit the [chargeinfo](../chargecurve/) for Audi Q4 Sportback 45 e-tron quattro (GEN1) with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -17,10 +17,10 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 Sportback 45
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Peak electrical output in kW</td><td>210 Kw</td></tr>
-<tr><td>Electrical torque output in Nm</td><td>679 Nm</td></tr>
+<tr><td>Peak electrical output in kW</td><td>195 Kw</td></tr>
+<tr><td>Electrical torque output in Nm</td><td>425 Nm</td></tr>
 <tr><td>Top speed</td><td>180 km/h</td></tr>
-<tr><td>0-100km/h (0-62 mph)</td><td>6,6 s</td></tr>
+<tr><td>0-100km/h (0-62 mph)</td><td>6,9 s</td></tr>
 </tbody>
 </table>
 
@@ -34,12 +34,12 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Basic trim WLTP range</td><td>539 km</td></tr>
-<tr><td>Basic trim WLTP consumption</td><td>14,2 kWh/100km</td></tr>
-<tr><td>Basic trim WLTP consumption with charging loss</td><td>16,2 kWh/100km</td></tr>
-<tr><td>Top trim WLTP range</td><td>466 km</td></tr>
-<tr><td>Top trim WLTP consumption</td><td>16,4 kWh/100km</td></tr>
-<tr><td>Top trim WLTP consumption with charging loss</td><td>18,9 kwh/100km</td></tr>
+<tr><td>Basic trim WLTP range</td><td>524 km</td></tr>
+<tr><td>Basic trim WLTP consumption</td><td>14,6 kWh/100km</td></tr>
+<tr><td>Basic trim WLTP consumption with charging loss</td><td>16,6 kWh/100km</td></tr>
+<tr><td>Top trim WLTP range</td><td>446 km</td></tr>
+<tr><td>Top trim WLTP consumption</td><td>17,2 kWh/100km</td></tr>
+<tr><td>Top trim WLTP consumption with charging loss</td><td>19,7 kwh/100km</td></tr>
 </tbody>
 </table>
 
