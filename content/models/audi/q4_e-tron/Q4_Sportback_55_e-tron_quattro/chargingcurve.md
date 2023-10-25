@@ -1,7 +1,7 @@
 ---
-title: Audi Q4 55 e-tron quattro charging curve & performance
+title: Audi Q4 Sportback 55 e-tron quattro charging curve & performance
 linktitle: "Chargingcurve"
-description: "Here you find the charging curve for Audi Q4 55 e-tron quattro. "
+description: "Here you find the charging curve for Audi Q4 Sportback 55 e-tron quattro. "
 weight: 10
 hidden: true
 navicon: bi-battery-charging
@@ -39,7 +39,7 @@ navicon: bi-battery-charging
 The above charging curve is at optimum conditions. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/) 
 
 
-Audi Q4 55 e-tron quattro have battery heating, making charging at an optimum battery temperature easier. 
+Audi Q4 Sportback 55 e-tron quattro have battery heating, making charging at an optimum battery temperature easier. 
 
 
 {{<evkxdisplayaddarticle />}}

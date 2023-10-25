@@ -183,7 +183,7 @@ This model is available with a seat configuration with five seats.
 <tr><td>Footrest passengers</td><td>Unknown</td></tr>
 <tr><td>Leg support passenger</td><td>Unknown</td></tr>
 <tr><td>Electric lumbar adjustment</td><td>Not Available</td></tr>
-<tr><td>Seat ventilation</td><td>Standard feature</td></tr>
+<tr><td>Seat ventilation</td><td>Optional feature</td></tr>
 <tr><td>Massage function</td><td>Not Available</td></tr>
 </tbody>
 </table>
