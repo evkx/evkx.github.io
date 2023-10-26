@@ -302,7 +302,7 @@ Rolls-Royce has 1 models with total 1 variants. [Read all about them](rolls-royc
 
 The Czech car manufacturer aims to be one of the five best-selling brands in Europe by 2030, and the company plans to become the leading European brand in the growth regions of India, Russia and North Africa. 
 
-Skoda has 1 models with total 5 variants. [Read all about them](skoda/)
+Skoda has 1 models with total 6 variants. [Read all about them](skoda/)
 
 ## Smart
 

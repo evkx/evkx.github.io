@@ -4,6 +4,19 @@ linktitle: "Enyaq iV"
 description: "See below for details of the different variants of SKODA Enyaq iV"
 weight: 30
 ---
+## SKODA ENYAQ COUPÉ 85x
+
+<a href="/models/skoda/enyaq_iv/enyaq_coupé_85x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_85x/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ 85x" ></a>
+
+SKODA ENYAQ COUPÉ 85x is an all-electric coupe SUV with a WLTP range of up to 545 km (339 miles). EVKX.net have all the details. 
+
+- [SKODA ENYAQ COUPÉ 85x article](/models/skoda/enyaq_iv/enyaq_coupé_85x/)
+- [SKODA ENYAQ COUPÉ 85x Range & consumption info](/models/skoda/enyaq_iv/enyaq_coupé_85x/rangeandconsumption)
+- [SKODA ENYAQ COUPÉ 85x Charging curve and performance](/models/skoda/enyaq_iv/enyaq_coupé_85x/chargingcurve)
+- [SKODA ENYAQ COUPÉ 85x full specifications](/models/skoda/enyaq_iv/enyaq_coupé_85x/specifications)
+- [SKODA ENYAQ COUPÉ 85x image gallery](/models/skoda/enyaq_iv/enyaq_coupé_85x/gallery)
+- [SKODA ENYAQ COUPÉ 85x reviews](/models/skoda/enyaq_iv/enyaq_coupé_85x/reviews)
+
 ## SKODA ENYAQ COUPÉ RS iV (GEN1)
 
 <a href="/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ RS iV" ></a>
