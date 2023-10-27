@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Norsk elbilforening: Test av Nio ET5 Touring - Power på billigsalg 27.10.2023
+
+{{< youtube cjPQANVhdps >}}
+
 ### It's Only Electric: Say no to the SUV! - Nio ET5 Touring | Full Review 28.09.2023
 
 {{< youtube HncdCcBlTlU >}}

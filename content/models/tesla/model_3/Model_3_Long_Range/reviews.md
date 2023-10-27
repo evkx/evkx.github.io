@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Autogefühl: 2024 Tesla Model 3 Highland driving REVIEW 27.10.2023
+
+{{< youtube AKJwinM__nU >}}
+
 ### Norsk elbilforening: Test av Tesla Model 3 Facelift - Se forskjellene 23.10.2023
 
 {{< youtube hGoDnOnY_C8 >}}
