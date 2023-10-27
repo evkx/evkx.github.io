@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Pure
 linktitle: "Air Pure"
-description: "Lucid Air Pure is an all-electric sedan with a EPA range of up to 660 km (410 miles). EVKX.net have all the details. "
+description: "Lucid Air Pure is an all-electric sedan with a EPA range of up to 660 km (410 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

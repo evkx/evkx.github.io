@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_st.jpg" class="img-fluid" alt="Ioniq 5 Long Range 2WD" ></a>
 
-Hyundai Ioniq 5 Long Range 2WD is an all-electric SUV with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. 
+Hyundai Ioniq 5 Long Range 2WD is an all-electric SUV with a WLTP range of up to 507 km (315 miles). EVKX.net has all the details. 
 
 - [Hyundai Ioniq 5 Long Range 2WD article](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/)
 - [Hyundai Ioniq 5 Long Range 2WD Range & consumption info](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/rangeandconsumption)
@@ -21,7 +21,7 @@ Hyundai Ioniq 5 Long Range 2WD is an all-electric SUV with a WLTP range of up to
 
 <a href="/models/hyundai/ioniq_5/ioniq_5_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Ioniq 5 Long Range AWD" ></a>
 
-Hyundai Ioniq 5 Long Range AWD is an all-electric SUV with a WLTP range of up to 481 km (299 miles). EVKX.net have all the details. 
+Hyundai Ioniq 5 Long Range AWD is an all-electric SUV with a WLTP range of up to 481 km (299 miles). EVKX.net has all the details. 
 
 - [Hyundai Ioniq 5 Long Range AWD article](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
 - [Hyundai Ioniq 5 Long Range AWD Range & consumption info](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/rangeandconsumption)
@@ -34,7 +34,7 @@ Hyundai Ioniq 5 Long Range AWD is an all-electric SUV with a WLTP range of up to
 
 <a href="/models/hyundai/ioniq_5/ioniq_5_n/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" class="img-fluid" alt="Ioniq 5 N" ></a>
 
-Hyundai Ioniq 5 N is an all-electric SUV with a WLTP range of up to 450 km (280 miles). EVKX.net have all the details. 
+Hyundai Ioniq 5 N is an all-electric SUV with a WLTP range of up to 450 km (280 miles). EVKX.net has all the details. 
 
 - [Hyundai Ioniq 5 N article](/models/hyundai/ioniq_5/ioniq_5_n/)
 - [Hyundai Ioniq 5 N Range & consumption info](/models/hyundai/ioniq_5/ioniq_5_n/rangeandconsumption)

@@ -1,7 +1,7 @@
 ---
 title: Fisker Ocean Extreme
 linktitle: "Ocean Extreme"
-description: "Fisker Ocean Extreme is an all-electric SUV with a WLTP range of up to 707 km (439 miles). EVKX.net have all the details. "
+description: "Fisker Ocean Extreme is an all-electric SUV with a WLTP range of up to 707 km (439 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

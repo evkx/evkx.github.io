@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001 Long Range RWD
 linktitle: "001 Long Range RWD"
-description: "Zeekr 001 Long Range RWD is an all-electric station wagon with a WLTP range of up to 590 km (367 miles). EVKX.net have all the details. "
+description: "Zeekr 001 Long Range RWD is an all-electric station wagon with a WLTP range of up to 590 km (367 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

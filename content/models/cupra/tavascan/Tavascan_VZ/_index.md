@@ -1,7 +1,7 @@
 ---
 title: CUPRA Tavascan VZ
 linktitle: "Tavascan VZ"
-description: "CUPRA Tavascan VZ is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net have all the details. "
+description: "CUPRA Tavascan VZ is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

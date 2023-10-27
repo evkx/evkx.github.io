@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ RS iV
 linktitle: "ENYAQ COUPÉ RS iV"
-description: "SKODA ENYAQ COUPÉ RS iV is an all-electric coupe SUV with a WLTP range of up to 547 km (340 miles). EVKX.net have all the details. "
+description: "SKODA ENYAQ COUPÉ RS iV is an all-electric coupe SUV with a WLTP range of up to 547 km (340 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

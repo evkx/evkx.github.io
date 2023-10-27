@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.3 Pro S
 linktitle: "ID.3 Pro S"
-description: "Volkswagen ID.3 Pro S is an all-electric hatchback with a WLTP range of up to 553 km (344 miles). EVKX.net have all the details. "
+description: "Volkswagen ID.3 Pro S is an all-electric hatchback with a WLTP range of up to 553 km (344 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

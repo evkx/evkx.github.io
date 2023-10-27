@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/mercedes/eqs/eqs_450plus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" class="img-fluid" alt="EQS 450+" ></a>
 
-Mercedes-EQ EQS 450+ is an all-electric luxury sedan with a WLTP range of up to 783 km (487 miles). EVKX.net have all the details. 
+Mercedes-EQ EQS 450+ is an all-electric luxury sedan with a WLTP range of up to 783 km (487 miles). EVKX.net has all the details. 
 
 - [Mercedes-EQ EQS 450+ article](/models/mercedes/eqs/eqs_450plus/)
 - [Mercedes-EQ EQS 450+ Range & consumption info](/models/mercedes/eqs/eqs_450plus/rangeandconsumption)
@@ -21,7 +21,7 @@ Mercedes-EQ EQS 450+ is an all-electric luxury sedan with a WLTP range of up to 
 
 <a href="/models/mercedes/eqs/eqs_450_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450_4matic/main_1_st.jpg" class="img-fluid" alt="EQS 450 4MATIC" ></a>
 
-Mercedes-EQ EQS 450 4MATIC is an all-electric luxury sedan with a WLTP range of up to 696 km (433 miles). EVKX.net have all the details. 
+Mercedes-EQ EQS 450 4MATIC is an all-electric luxury sedan with a WLTP range of up to 696 km (433 miles). EVKX.net has all the details. 
 
 - [Mercedes-EQ EQS 450 4MATIC article](/models/mercedes/eqs/eqs_450_4matic/)
 - [Mercedes-EQ EQS 450 4MATIC Range & consumption info](/models/mercedes/eqs/eqs_450_4matic/rangeandconsumption)
@@ -34,7 +34,7 @@ Mercedes-EQ EQS 450 4MATIC is an all-electric luxury sedan with a WLTP range of 
 
 <a href="/models/mercedes/eqs/eqs_500_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_500_4matic/main_1_st.jpg" class="img-fluid" alt="EQS 500 4MATIC" ></a>
 
-Mercedes-EQ EQS 500 4MATIC is an all-electric luxury sedan with a WLTP range of up to 696 km (433 miles). EVKX.net have all the details. 
+Mercedes-EQ EQS 500 4MATIC is an all-electric luxury sedan with a WLTP range of up to 696 km (433 miles). EVKX.net has all the details. 
 
 - [Mercedes-EQ EQS 500 4MATIC article](/models/mercedes/eqs/eqs_500_4matic/)
 - [Mercedes-EQ EQS 500 4MATIC Range & consumption info](/models/mercedes/eqs/eqs_500_4matic/rangeandconsumption)
@@ -47,7 +47,7 @@ Mercedes-EQ EQS 500 4MATIC is an all-electric luxury sedan with a WLTP range of 
 
 <a href="/models/mercedes/eqs/eqs_53_4maticplus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/main_1_st.jpg" class="img-fluid" alt="EQS 53 4MATIC+" ></a>
 
-Mercedes-AMG EQS 53 4MATIC+ is an all-electric luxury sedan with a WLTP range of up to 570 km (354 miles). EVKX.net have all the details. 
+Mercedes-AMG EQS 53 4MATIC+ is an all-electric luxury sedan with a WLTP range of up to 570 km (354 miles). EVKX.net has all the details. 
 
 - [Mercedes-AMG EQS 53 4MATIC+ article](/models/mercedes/eqs/eqs_53_4maticplus/)
 - [Mercedes-AMG EQS 53 4MATIC+ Range & consumption info](/models/mercedes/eqs/eqs_53_4maticplus/rangeandconsumption)
@@ -60,7 +60,7 @@ Mercedes-AMG EQS 53 4MATIC+ is an all-electric luxury sedan with a WLTP range of
 
 <a href="/models/mercedes/eqs/eqs_580_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/main_1_st.jpg" class="img-fluid" alt="EQS 580 4MATIC" ></a>
 
-Mercedes-EQ EQS 580 4MATIC is an all-electric luxury sedan with a WLTP range of up to 692 km (430 miles). EVKX.net have all the details. 
+Mercedes-EQ EQS 580 4MATIC is an all-electric luxury sedan with a WLTP range of up to 692 km (430 miles). EVKX.net has all the details. 
 
 - [Mercedes-EQ EQS 580 4MATIC article](/models/mercedes/eqs/eqs_580_4matic/)
 - [Mercedes-EQ EQS 580 4MATIC Range & consumption info](/models/mercedes/eqs/eqs_580_4matic/rangeandconsumption)

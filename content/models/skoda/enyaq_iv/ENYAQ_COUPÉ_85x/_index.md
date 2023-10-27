@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ 85x
 linktitle: "ENYAQ COUPÉ 85x"
-description: "SKODA ENYAQ COUPÉ 85x is an all-electric coupe SUV with a WLTP range of up to 545 km (339 miles). EVKX.net have all the details. "
+description: "SKODA ENYAQ COUPÉ 85x is an all-electric coupe SUV with a WLTP range of up to 545 km (339 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

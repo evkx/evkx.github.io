@@ -1,7 +1,7 @@
 ---
 title: Volvo EX30 Twin Motor Performance
 linktitle: "EX30 Twin Motor Performance"
-description: "Volvo EX30 Twin Motor Performance is an all-electric crossover with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. "
+description: "Volvo EX30 Twin Motor Performance is an all-electric crossover with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

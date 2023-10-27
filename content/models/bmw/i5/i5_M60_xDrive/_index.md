@@ -1,7 +1,7 @@
 ---
 title: BMW i5 M60 xDrive
 linktitle: "i5 M60 xDrive"
-description: "BMW i5 M60 xDrive is an all-electric premium sedan with a WLTP range of up to 515 km (320 miles). EVKX.net have all the details. "
+description: "BMW i5 M60 xDrive is an all-electric premium sedan with a WLTP range of up to 515 km (320 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

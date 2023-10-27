@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/volkswagen/id.5/id.5_gtx_4motion_gen1/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion_gen1/main_1_st.jpg" class="img-fluid" alt="ID.5 GTX 4MOTION" ></a>
 
-Volkswagen ID.5 GTX 4MOTION (GEN1) is an all-electric coupe SUV with a WLTP range of up to 496 km (308 miles). EVKX.net have all the details. 
+Volkswagen ID.5 GTX 4MOTION (GEN1) is an all-electric coupe SUV with a WLTP range of up to 496 km (308 miles). EVKX.net has all the details. 
 
 - [Volkswagen ID.5 GTX 4MOTION (GEN1) article](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/)
 - [Volkswagen ID.5 GTX 4MOTION (GEN1) Range & consumption info](/models/volkswagen/id.5/id.5_gtx_4motion_gen1/rangeandconsumption)
@@ -21,7 +21,7 @@ Volkswagen ID.5 GTX 4MOTION (GEN1) is an all-electric coupe SUV with a WLTP rang
 
 <a href="/models/volkswagen/id.5/id.5_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.5 GTX 4MOTION" ></a>
 
-Volkswagen ID.5 GTX 4MOTION is an all-electric coupe SUV with a WLTP range of up to 533 km (331 miles). EVKX.net have all the details. 
+Volkswagen ID.5 GTX 4MOTION is an all-electric coupe SUV with a WLTP range of up to 533 km (331 miles). EVKX.net has all the details. 
 
 - [Volkswagen ID.5 GTX 4MOTION article](/models/volkswagen/id.5/id.5_gtx_4motion/)
 - [Volkswagen ID.5 GTX 4MOTION Range & consumption info](/models/volkswagen/id.5/id.5_gtx_4motion/rangeandconsumption)
@@ -34,7 +34,7 @@ Volkswagen ID.5 GTX 4MOTION is an all-electric coupe SUV with a WLTP range of up
 
 <a href="/models/volkswagen/id.5/id.5_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro_performance/main_1_st.jpg" class="img-fluid" alt="ID.5 Pro Performance" ></a>
 
-Volkswagen ID.5 Pro Performance is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net have all the details. 
+Volkswagen ID.5 Pro Performance is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net has all the details. 
 
 - [Volkswagen ID.5 Pro Performance article](/models/volkswagen/id.5/id.5_pro_performance/)
 - [Volkswagen ID.5 Pro Performance Range & consumption info](/models/volkswagen/id.5/id.5_pro_performance/rangeandconsumption)
@@ -47,7 +47,7 @@ Volkswagen ID.5 Pro Performance is an all-electric SUV with a WLTP range of up t
 
 <a href="/models/volkswagen/id.5/id.5_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro/main_1_st.jpg" class="img-fluid" alt="ID.5 Pro" ></a>
 
-Volkswagen ID.5 Pro is an all-electric SUV with a WLTP range of up to 556 km (346 miles). EVKX.net have all the details. 
+Volkswagen ID.5 Pro is an all-electric SUV with a WLTP range of up to 556 km (346 miles). EVKX.net has all the details. 
 
 - [Volkswagen ID.5 Pro article](/models/volkswagen/id.5/id.5_pro/)
 - [Volkswagen ID.5 Pro Range & consumption info](/models/volkswagen/id.5/id.5_pro/rangeandconsumption)

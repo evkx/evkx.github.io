@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 300
 linktitle: "EQE 300"
-description: "Mercedes-EQ EQE 300 is an all-electric luxury sedan with a WLTP range of up to 639 km (397 miles). EVKX.net have all the details. "
+description: "Mercedes-EQ EQE 300 is an all-electric luxury sedan with a WLTP range of up to 639 km (397 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

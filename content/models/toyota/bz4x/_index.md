@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/toyota/bz4x/bz4x_awd/"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" class="img-fluid" alt="bZ4X AWD" ></a>
 
-Toyota bZ4X AWD is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net have all the details. 
+Toyota bZ4X AWD is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. 
 
 - [Toyota bZ4X AWD article](/models/toyota/bz4x/bz4x_awd/)
 - [Toyota bZ4X AWD Range & consumption info](/models/toyota/bz4x/bz4x_awd/rangeandconsumption)
@@ -21,7 +21,7 @@ Toyota bZ4X AWD is an all-electric SUV with a WLTP range of up to 470 km (292 mi
 
 <a href="/models/toyota/bz4x/bz4x_fwd/"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/main_1_st.jpg" class="img-fluid" alt="bZ4X FWD" ></a>
 
-Toyota bZ4X FWD is an all-electric SUV with a WLTP range of up to 516 km (321 miles). EVKX.net have all the details. 
+Toyota bZ4X FWD is an all-electric SUV with a WLTP range of up to 516 km (321 miles). EVKX.net has all the details. 
 
 - [Toyota bZ4X FWD article](/models/toyota/bz4x/bz4x_fwd/)
 - [Toyota bZ4X FWD Range & consumption info](/models/toyota/bz4x/bz4x_fwd/rangeandconsumption)

@@ -1,7 +1,7 @@
 ---
 title: Lotus Eletre R
 linktitle: "Eletre R"
-description: "Lotus Eletre R is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. "
+description: "Lotus Eletre R is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

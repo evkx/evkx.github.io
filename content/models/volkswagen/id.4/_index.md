@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/volkswagen/id.4/id.4_gtx_4motion_gen1/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion_gen1/main_1_st.jpg" class="img-fluid" alt="ID.4 GTX 4MOTION" ></a>
 
-Volkswagen ID.4 GTX 4MOTION (GEN1) is an all-electric SUV with a WLTP range of up to 496 km (308 miles). EVKX.net have all the details. 
+Volkswagen ID.4 GTX 4MOTION (GEN1) is an all-electric SUV with a WLTP range of up to 496 km (308 miles). EVKX.net has all the details. 
 
 - [Volkswagen ID.4 GTX 4MOTION (GEN1) article](/models/volkswagen/id.4/id.4_gtx_4motion_gen1/)
 - [Volkswagen ID.4 GTX 4MOTION (GEN1) Range & consumption info](/models/volkswagen/id.4/id.4_gtx_4motion_gen1/rangeandconsumption)
@@ -21,7 +21,7 @@ Volkswagen ID.4 GTX 4MOTION (GEN1) is an all-electric SUV with a WLTP range of u
 
 <a href="/models/volkswagen/id.4/id.4_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.4 GTX 4MOTION" ></a>
 
-Volkswagen ID.4 GTX 4MOTION is an all-electric SUV with a WLTP range of up to 515 km (320 miles). EVKX.net have all the details. 
+Volkswagen ID.4 GTX 4MOTION is an all-electric SUV with a WLTP range of up to 515 km (320 miles). EVKX.net has all the details. 
 
 - [Volkswagen ID.4 GTX 4MOTION article](/models/volkswagen/id.4/id.4_gtx_4motion/)
 - [Volkswagen ID.4 GTX 4MOTION Range & consumption info](/models/volkswagen/id.4/id.4_gtx_4motion/rangeandconsumption)
@@ -34,7 +34,7 @@ Volkswagen ID.4 GTX 4MOTION is an all-electric SUV with a WLTP range of up to 51
 
 <a href="/models/volkswagen/id.4/id.4_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/main_1_st.jpg" class="img-fluid" alt="ID.4 Pro" ></a>
 
-Volkswagen ID.4 Pro is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net have all the details. 
+Volkswagen ID.4 Pro is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net has all the details. 
 
 - [Volkswagen ID.4 Pro article](/models/volkswagen/id.4/id.4_pro/)
 - [Volkswagen ID.4 Pro Range & consumption info](/models/volkswagen/id.4/id.4_pro/rangeandconsumption)
@@ -47,7 +47,7 @@ Volkswagen ID.4 Pro is an all-electric SUV with a WLTP range of up to 529 km (32
 
 <a href="/models/volkswagen/id.4/id.4_pro_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" class="img-fluid" alt="ID.4 Pro 4MOTION" ></a>
 
-Volkswagen ID.4 Pro 4MOTION is an all-electric SUV with a WLTP range of up to 510 km (317 miles). EVKX.net have all the details. 
+Volkswagen ID.4 Pro 4MOTION is an all-electric SUV with a WLTP range of up to 510 km (317 miles). EVKX.net has all the details. 
 
 - [Volkswagen ID.4 Pro 4MOTION article](/models/volkswagen/id.4/id.4_pro_4motion/)
 - [Volkswagen ID.4 Pro 4MOTION Range & consumption info](/models/volkswagen/id.4/id.4_pro_4motion/rangeandconsumption)
@@ -60,7 +60,7 @@ Volkswagen ID.4 Pro 4MOTION is an all-electric SUV with a WLTP range of up to 51
 
 <a href="/models/volkswagen/id.4/id.4_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/main_1_st.jpg" class="img-fluid" alt="ID.4 Pro Performance" ></a>
 
-Volkswagen ID.4 Pro Performance is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net have all the details. 
+Volkswagen ID.4 Pro Performance is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net has all the details. 
 
 - [Volkswagen ID.4 Pro Performance article](/models/volkswagen/id.4/id.4_pro_performance/)
 - [Volkswagen ID.4 Pro Performance Range & consumption info](/models/volkswagen/id.4/id.4_pro_performance/rangeandconsumption)

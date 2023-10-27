@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/audi/e-tron/e-tron_50/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50/main_1_st.jpg" class="img-fluid" alt="e-tron 50" ></a>
 
-Audi e-tron 50 is an all-electric luxury SUV with a WLTP range of up to 341 km (212 miles). EVKX.net have all the details. 
+Audi e-tron 50 is an all-electric luxury SUV with a WLTP range of up to 341 km (212 miles). EVKX.net has all the details. 
 
 - [Audi e-tron 50 article](/models/audi/e-tron/e-tron_50/)
 - [Audi e-tron 50 Range & consumption info](/models/audi/e-tron/e-tron_50/rangeandconsumption)
@@ -21,7 +21,7 @@ Audi e-tron 50 is an all-electric luxury SUV with a WLTP range of up to 341 km (
 
 <a href="/models/audi/e-tron/e-tron_50_sportback/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/main_1_st.jpg" class="img-fluid" alt="e-tron 50 Sportback" ></a>
 
-Audi e-tron 50 Sportback is an all-electric luxury coupe SUV with a WLTP range of up to 351 km (218 miles). EVKX.net have all the details. 
+Audi e-tron 50 Sportback is an all-electric luxury coupe SUV with a WLTP range of up to 351 km (218 miles). EVKX.net has all the details. 
 
 - [Audi e-tron 50 Sportback article](/models/audi/e-tron/e-tron_50_sportback/)
 - [Audi e-tron 50 Sportback Range & consumption info](/models/audi/e-tron/e-tron_50_sportback/rangeandconsumption)
@@ -34,7 +34,7 @@ Audi e-tron 50 Sportback is an all-electric luxury coupe SUV with a WLTP range o
 
 <a href="/models/audi/e-tron/e-tron_55/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/main_1_st.jpg" class="img-fluid" alt="e-tron 55" ></a>
 
-Audi e-tron 55 is an all-electric luxury SUV with a WLTP range of up to 441 km (274 miles). EVKX.net have all the details. 
+Audi e-tron 55 is an all-electric luxury SUV with a WLTP range of up to 441 km (274 miles). EVKX.net has all the details. 
 
 - [Audi e-tron 55 article](/models/audi/e-tron/e-tron_55/)
 - [Audi e-tron 55 Range & consumption info](/models/audi/e-tron/e-tron_55/rangeandconsumption)
@@ -47,7 +47,7 @@ Audi e-tron 55 is an all-electric luxury SUV with a WLTP range of up to 441 km (
 
 <a href="/models/audi/e-tron/e-tron_55_sportback/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/main_1_st.jpg" class="img-fluid" alt="e-tron 55 Sportback" ></a>
 
-Audi e-tron 55 Sportback is an all-electric luxury coupe SUV with a WLTP range of up to 452 km (281 miles). EVKX.net have all the details. 
+Audi e-tron 55 Sportback is an all-electric luxury coupe SUV with a WLTP range of up to 452 km (281 miles). EVKX.net has all the details. 
 
 - [Audi e-tron 55 Sportback article](/models/audi/e-tron/e-tron_55_sportback/)
 - [Audi e-tron 55 Sportback Range & consumption info](/models/audi/e-tron/e-tron_55_sportback/rangeandconsumption)
@@ -60,7 +60,7 @@ Audi e-tron 55 Sportback is an all-electric luxury coupe SUV with a WLTP range o
 
 <a href="/models/audi/e-tron/e-tron_s/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/main_1_st.jpg" class="img-fluid" alt="e-tron S" ></a>
 
-Audi e-tron S is an all-electric luxury SUV with a WLTP range of up to 374 km (232 miles). EVKX.net have all the details. 
+Audi e-tron S is an all-electric luxury SUV with a WLTP range of up to 374 km (232 miles). EVKX.net has all the details. 
 
 - [Audi e-tron S article](/models/audi/e-tron/e-tron_s/)
 - [Audi e-tron S Range & consumption info](/models/audi/e-tron/e-tron_s/rangeandconsumption)
@@ -73,7 +73,7 @@ Audi e-tron S is an all-electric luxury SUV with a WLTP range of up to 374 km (2
 
 <a href="/models/audi/e-tron/e-tron_s_sportback/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/main_1_st.jpg" class="img-fluid" alt="e-tron S Sportback" ></a>
 
-Audi e-tron S Sportback is an all-electric luxury coupe SUV with a WLTP range of up to 379 km (236 miles). EVKX.net have all the details. 
+Audi e-tron S Sportback is an all-electric luxury coupe SUV with a WLTP range of up to 379 km (236 miles). EVKX.net has all the details. 
 
 - [Audi e-tron S Sportback article](/models/audi/e-tron/e-tron_s_sportback/)
 - [Audi e-tron S Sportback Range & consumption info](/models/audi/e-tron/e-tron_s_sportback/rangeandconsumption)

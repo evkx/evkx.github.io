@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/rolls-royce/spectre/spectre/"><img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" class="img-fluid" alt="Spectre" ></a>
 
-Rolls-Royce Spectre is an all-electric luxury sedan with a WLTP range of up to 530 km (329 miles). EVKX.net have all the details. 
+Rolls-Royce Spectre is an all-electric luxury sedan with a WLTP range of up to 530 km (329 miles). EVKX.net has all the details. 
 
 - [Rolls-Royce Spectre article](/models/rolls-royce/spectre/spectre/)
 - [Rolls-Royce Spectre Range & consumption info](/models/rolls-royce/spectre/spectre/rangeandconsumption)

@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/renault/megane/megane_e-tech_techno/"><img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" class="img-fluid" alt="Megane E-Tech Techno" ></a>
 
-Renault Megane E-Tech Techno is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net have all the details. 
+Renault Megane E-Tech Techno is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net has all the details. 
 
 - [Renault Megane E-Tech Techno article](/models/renault/megane/megane_e-tech_techno/)
 - [Renault Megane E-Tech Techno Range & consumption info](/models/renault/megane/megane_e-tech_techno/rangeandconsumption)

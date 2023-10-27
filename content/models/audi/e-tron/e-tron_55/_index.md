@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 55
 linktitle: "e-tron 55"
-description: "Audi e-tron 55 is an all-electric luxury SUV with a WLTP range of up to 441 km (274 miles). EVKX.net have all the details. "
+description: "Audi e-tron 55 is an all-electric luxury SUV with a WLTP range of up to 441 km (274 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

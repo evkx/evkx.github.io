@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S Standard Range
 linktitle: "Model S Standard Range"
-description: "Tesla Model S Standard Range is an all-electric sedan with a WLTP range of up to 512 km (318 miles). EVKX.net have all the details. "
+description: "Tesla Model S Standard Range is an all-electric sedan with a WLTP range of up to 512 km (318 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

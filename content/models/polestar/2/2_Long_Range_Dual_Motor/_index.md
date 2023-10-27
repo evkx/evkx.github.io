@@ -1,7 +1,7 @@
 ---
 title: Polestar 2 Long Range Dual Motor
 linktitle: "2 Long Range Dual Motor"
-description: "Polestar 2 Long Range Dual Motor is an all-electric sedan with a WLTP range of up to 592 km (368 miles). EVKX.net have all the details. "
+description: "Polestar 2 Long Range Dual Motor is an all-electric sedan with a WLTP range of up to 592 km (368 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

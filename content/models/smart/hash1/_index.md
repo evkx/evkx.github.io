@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/smart/hash1/hash1/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/main_1_st.jpg" class="img-fluid" alt="#1" ></a>
 
-Smart #1 is an all-electric crossover with a WLTP range of up to 440 km (273 miles). EVKX.net have all the details. 
+Smart #1 is an all-electric crossover with a WLTP range of up to 440 km (273 miles). EVKX.net has all the details. 
 
 - [Smart #1 article](/models/smart/hash1/hash1/)
 - [Smart #1 Range & consumption info](/models/smart/hash1/hash1/rangeandconsumption)
@@ -21,7 +21,7 @@ Smart #1 is an all-electric crossover with a WLTP range of up to 440 km (273 mil
 
 <a href="/models/smart/hash1/hash1_brabus/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/main_1_st.jpg" class="img-fluid" alt="#1 Brabus" ></a>
 
-Smart #1 Brabus is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
+Smart #1 Brabus is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net has all the details. 
 
 - [Smart #1 Brabus article](/models/smart/hash1/hash1_brabus/)
 - [Smart #1 Brabus Range & consumption info](/models/smart/hash1/hash1_brabus/rangeandconsumption)
@@ -34,7 +34,7 @@ Smart #1 Brabus is an all-electric crossover with a WLTP range of up to 400 km (
 
 <a href="/models/smart/hash1/hash1_pulse/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1_st.jpg" class="img-fluid" alt="#1 Pulse" ></a>
 
-Smart #1 Pulse is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. 
+Smart #1 Pulse is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net has all the details. 
 
 - [Smart #1 Pulse article](/models/smart/hash1/hash1_pulse/)
 - [Smart #1 Pulse Range & consumption info](/models/smart/hash1/hash1_pulse/rangeandconsumption)

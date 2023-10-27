@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 500 4MATIC SUV
 linktitle: "EQE 500 4MATIC SUV"
-description: "Mercedes-EQ EQE 500 4MATIC SUV is an all-electric luxury SUV with a WLTP range of up to 547 km (340 miles). EVKX.net have all the details. "
+description: "Mercedes-EQ EQE 500 4MATIC SUV is an all-electric luxury SUV with a WLTP range of up to 547 km (340 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

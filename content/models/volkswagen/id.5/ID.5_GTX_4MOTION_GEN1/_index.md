@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.5 GTX 4MOTION (GEN1)
 linktitle: "ID.5 GTX 4MOTION GEN1"
-description: "Volkswagen ID.5 GTX 4MOTION (GEN1) is an all-electric coupe SUV with a WLTP range of up to 496 km (308 miles). EVKX.net have all the details. "
+description: "Volkswagen ID.5 GTX 4MOTION (GEN1) is an all-electric coupe SUV with a WLTP range of up to 496 km (308 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

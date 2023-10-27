@@ -1,7 +1,7 @@
 ---
 title: Rivian R1S Performance Dual-Motor AWD MP
 linktitle: "R1S Performance Dual-Motor AWD MP"
-description: "Rivian R1S Performance Dual-Motor AWD MP is an all-electric SUV with a EPA range of up to 660 km (410 miles). EVKX.net have all the details. "
+description: "Rivian R1S Performance Dual-Motor AWD MP is an all-electric SUV with a EPA range of up to 660 km (410 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

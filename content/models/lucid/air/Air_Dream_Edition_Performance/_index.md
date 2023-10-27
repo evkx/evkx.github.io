@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Dream Edition Performance
 linktitle: "Air Dream Edition Performance"
-description: "Lucid Air Dream Edition Performance is an all-electric sedan with a WLTP range of up to 861 km (535 miles). EVKX.net have all the details. "
+description: "Lucid Air Dream Edition Performance is an all-electric sedan with a WLTP range of up to 861 km (535 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

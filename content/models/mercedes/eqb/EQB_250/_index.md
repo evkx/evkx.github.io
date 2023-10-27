@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQB 250
 linktitle: "EQB 250"
-description: "Mercedes-EQ EQB 250 is an all-electric premium SUV with a WLTP range of up to 474 km (295 miles). EVKX.net have all the details. "
+description: "Mercedes-EQ EQB 250 is an all-electric premium SUV with a WLTP range of up to 474 km (295 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

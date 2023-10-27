@@ -1,7 +1,7 @@
 ---
 title: Volvo EX90 Twin Motor
 linktitle: "EX90 Twin Motor"
-description: "Volvo EX90 Twin Motor is an all-electric SUV with a WLTP range of up to 580 km (360 miles). EVKX.net have all the details. "
+description: "Volvo EX90 Twin Motor is an all-electric SUV with a WLTP range of up to 580 km (360 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

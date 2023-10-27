@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/hyundai/kona/kona_long_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg" class="img-fluid" alt="Kona Long Range" ></a>
 
-Hyundai Kona Long Range is an all-electric crossover with a WLTP range of up to 514 km (319 miles). EVKX.net have all the details. 
+Hyundai Kona Long Range is an all-electric crossover with a WLTP range of up to 514 km (319 miles). EVKX.net has all the details. 
 
 - [Hyundai Kona Long Range article](/models/hyundai/kona/kona_long_range/)
 - [Hyundai Kona Long Range Range & consumption info](/models/hyundai/kona/kona_long_range/rangeandconsumption)
@@ -21,7 +21,7 @@ Hyundai Kona Long Range is an all-electric crossover with a WLTP range of up to 
 
 <a href="/models/hyundai/kona/kona_standard_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1_st.jpg" class="img-fluid" alt="Kona Standard Range" ></a>
 
-Hyundai Kona Standard Range is an all-electric crossover with a WLTP range of up to 377 km (234 miles). EVKX.net have all the details. 
+Hyundai Kona Standard Range is an all-electric crossover with a WLTP range of up to 377 km (234 miles). EVKX.net has all the details. 
 
 - [Hyundai Kona Standard Range article](/models/hyundai/kona/kona_standard_range/)
 - [Hyundai Kona Standard Range Range & consumption info](/models/hyundai/kona/kona_standard_range/rangeandconsumption)

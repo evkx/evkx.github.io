@@ -1,7 +1,7 @@
 ---
 title: Smart #1 Pulse
 linktitle: "#1 Pulse"
-description: "Smart #1 Pulse is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net have all the details. "
+description: "Smart #1 Pulse is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

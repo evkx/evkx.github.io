@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/nio/es8/es8/"><img src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg" class="img-fluid" alt="ES8" ></a>
 
-Nio ES8 is an all-electric SUV with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. 
+Nio ES8 is an all-electric SUV with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. 
 
 - [Nio ES8 article](/models/nio/es8/es8/)
 - [Nio ES8 Range & consumption info](/models/nio/es8/es8/rangeandconsumption)

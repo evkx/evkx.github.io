@@ -1,7 +1,7 @@
 ---
 title: Renault Scenic E-Tech electric High Range
 linktitle: "Scenic E-Tech electric High Range"
-description: "Renault Scenic E-Tech electric High Range is an all-electric crossover with a WLTP range of up to 610 km (379 miles). EVKX.net have all the details. "
+description: "Renault Scenic E-Tech electric High Range is an all-electric crossover with a WLTP range of up to 610 km (379 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

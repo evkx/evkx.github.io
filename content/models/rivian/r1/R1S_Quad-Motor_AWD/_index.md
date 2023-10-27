@@ -1,7 +1,7 @@
 ---
 title: Rivian R1S Quad-Motor AWD
 linktitle: "R1S Quad-Motor AWD"
-description: "Rivian R1S Quad-Motor AWD is an all-electric SUV with a EPA range of up to 516 km (321 miles). EVKX.net have all the details. "
+description: "Rivian R1S Quad-Motor AWD is an all-electric SUV with a EPA range of up to 516 km (321 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

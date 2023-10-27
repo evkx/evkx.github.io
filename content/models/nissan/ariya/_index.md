@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/nissan/ariya/ariya_63kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" class="img-fluid" alt="Ariya 63kWh" ></a>
 
-Nissan Ariya 63kWh is an all-electric coupe SUV with a WLTP range of up to 403 km (250 miles). EVKX.net have all the details. 
+Nissan Ariya 63kWh is an all-electric coupe SUV with a WLTP range of up to 403 km (250 miles). EVKX.net has all the details. 
 
 - [Nissan Ariya 63kWh article](/models/nissan/ariya/ariya_63kwh/)
 - [Nissan Ariya 63kWh Range & consumption info](/models/nissan/ariya/ariya_63kwh/rangeandconsumption)
@@ -21,7 +21,7 @@ Nissan Ariya 63kWh is an all-electric coupe SUV with a WLTP range of up to 403 k
 
 <a href="/models/nissan/ariya/ariya_87kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/main_1_st.jpg" class="img-fluid" alt="Ariya 87kWh" ></a>
 
-Nissan Ariya 87kWh is an all-electric coupe SUV with a WLTP range of up to 533 km (331 miles). EVKX.net have all the details. 
+Nissan Ariya 87kWh is an all-electric coupe SUV with a WLTP range of up to 533 km (331 miles). EVKX.net has all the details. 
 
 - [Nissan Ariya 87kWh article](/models/nissan/ariya/ariya_87kwh/)
 - [Nissan Ariya 87kWh Range & consumption info](/models/nissan/ariya/ariya_87kwh/rangeandconsumption)
@@ -34,7 +34,7 @@ Nissan Ariya 87kWh is an all-electric coupe SUV with a WLTP range of up to 533 k
 
 <a href="/models/nissan/ariya/ariya_87kwh_e-4orce/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" class="img-fluid" alt="Ariya 87kWh e-4ORCE" ></a>
 
-Nissan Ariya 87kWh e-4ORCE is an all-electric coupe SUV with a WLTP range of up to 500 km (311 miles). EVKX.net have all the details. 
+Nissan Ariya 87kWh e-4ORCE is an all-electric coupe SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details. 
 
 - [Nissan Ariya 87kWh e-4ORCE article](/models/nissan/ariya/ariya_87kwh_e-4orce/)
 - [Nissan Ariya 87kWh e-4ORCE Range & consumption info](/models/nissan/ariya/ariya_87kwh_e-4orce/rangeandconsumption)

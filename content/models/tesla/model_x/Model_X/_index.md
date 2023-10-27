@@ -1,7 +1,7 @@
 ---
 title: Tesla Model X
 linktitle: "Model X"
-description: "Tesla Model X is an all-electric SUV with a WLTP range of up to 543 km (337 miles). EVKX.net have all the details. "
+description: "Tesla Model X is an all-electric SUV with a WLTP range of up to 543 km (337 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

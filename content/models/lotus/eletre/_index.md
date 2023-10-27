@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/lotus/eletre/eletre/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/main_1_st.jpg" class="img-fluid" alt="Eletre" ></a>
 
-Lotus Eletre is an all-electric luxury SUV with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. 
+Lotus Eletre is an all-electric luxury SUV with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details. 
 
 - [Lotus Eletre article](/models/lotus/eletre/eletre/)
 - [Lotus Eletre Range & consumption info](/models/lotus/eletre/eletre/rangeandconsumption)
@@ -21,7 +21,7 @@ Lotus Eletre is an all-electric luxury SUV with a WLTP range of up to 600 km (37
 
 <a href="/models/lotus/eletre/eletre_r/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" class="img-fluid" alt="Eletre R" ></a>
 
-Lotus Eletre R is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net have all the details. 
+Lotus Eletre R is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. 
 
 - [Lotus Eletre R article](/models/lotus/eletre/eletre_r/)
 - [Lotus Eletre R Range & consumption info](/models/lotus/eletre/eletre_r/rangeandconsumption)
@@ -34,7 +34,7 @@ Lotus Eletre R is an all-electric luxury SUV with a WLTP range of up to 460 km (
 
 <a href="/models/lotus/eletre/eletre_s/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/main_1_st.jpg" class="img-fluid" alt="Eletre S" ></a>
 
-Lotus Eletre S is an all-electric luxury SUV with a WLTP range of up to 535 km (333 miles). EVKX.net have all the details. 
+Lotus Eletre S is an all-electric luxury SUV with a WLTP range of up to 535 km (333 miles). EVKX.net has all the details. 
 
 - [Lotus Eletre S article](/models/lotus/eletre/eletre_s/)
 - [Lotus Eletre S Range & consumption info](/models/lotus/eletre/eletre_s/rangeandconsumption)

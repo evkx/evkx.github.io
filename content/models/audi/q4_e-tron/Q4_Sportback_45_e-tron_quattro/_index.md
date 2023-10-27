@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 45 e-tron quattro
 linktitle: "Q4 Sportback 45 e-tron quattro"
-description: "Audi Q4 Sportback 45 e-tron quattro is an all-electric premium coupe SUV with a WLTP range of up to 539 km (335 miles). EVKX.net have all the details. "
+description: "Audi Q4 Sportback 45 e-tron quattro is an all-electric premium coupe SUV with a WLTP range of up to 539 km (335 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

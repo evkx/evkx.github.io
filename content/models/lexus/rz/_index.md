@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/lexus/rz/rz_450e/"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" class="img-fluid" alt="RZ 450e" ></a>
 
-Lexus RZ 450e is an all-electric SUV with a WLTP range of up to 440 km (273 miles). EVKX.net have all the details. 
+Lexus RZ 450e is an all-electric SUV with a WLTP range of up to 440 km (273 miles). EVKX.net has all the details. 
 
 - [Lexus RZ 450e article](/models/lexus/rz/rz_450e/)
 - [Lexus RZ 450e Range & consumption info](/models/lexus/rz/rz_450e/rangeandconsumption)

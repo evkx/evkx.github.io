@@ -1,7 +1,7 @@
 ---
 title: Volvo XC40 Recharge Single Motor ER
 linktitle: "XC40 Recharge Single Motor ER"
-description: "Volvo XC40 Recharge Single Motor ER is an all-electric crossover with a WLTP range of up to 572 km (356 miles). EVKX.net have all the details. "
+description: "Volvo XC40 Recharge Single Motor ER is an all-electric crossover with a WLTP range of up to 572 km (356 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: VOYAH FREE
 linktitle: "FREE"
-description: "VOYAH FREE is an all-electric SUV with a WLTP range of up to 500 km (311 miles). EVKX.net have all the details. "
+description: "VOYAH FREE is an all-electric SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

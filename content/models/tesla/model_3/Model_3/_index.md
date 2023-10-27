@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3
 linktitle: "Model 3"
-description: "Tesla Model 3 is an all-electric sedan with a WLTP range of up to 513 km (319 miles). EVKX.net have all the details. "
+description: "Tesla Model 3 is an all-electric sedan with a WLTP range of up to 513 km (319 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

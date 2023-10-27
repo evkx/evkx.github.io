@@ -1,7 +1,7 @@
 ---
 title: Rivian R1T Performance Dual-Motor AWD LP
 linktitle: "R1T Performance Dual-Motor AWD LP"
-description: "Rivian R1T Performance Dual-Motor AWD LP is an all-electric Pickup Truck with a EPA range of up to 566 km (352 miles). EVKX.net have all the details. "
+description: "Rivian R1T Performance Dual-Motor AWD LP is an all-electric Pickup Truck with a EPA range of up to 566 km (352 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

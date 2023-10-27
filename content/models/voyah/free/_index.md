@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/voyah/free/free/"><img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_st.jpg" class="img-fluid" alt="FREE" ></a>
 
-VOYAH FREE is an all-electric SUV with a WLTP range of up to 500 km (311 miles). EVKX.net have all the details. 
+VOYAH FREE is an all-electric SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details. 
 
 - [VOYAH FREE article](/models/voyah/free/free/)
 - [VOYAH FREE Range & consumption info](/models/voyah/free/free/rangeandconsumption)

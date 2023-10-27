@@ -1,7 +1,7 @@
 ---
 title: BMW i7 eDrive50
 linktitle: "i7 eDrive50"
-description: "BMW i7 eDrive50 is an all-electric luxury sedan with a WLTP range of up to 611 km (380 miles). EVKX.net have all the details. "
+description: "BMW i7 eDrive50 is an all-electric luxury sedan with a WLTP range of up to 611 km (380 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

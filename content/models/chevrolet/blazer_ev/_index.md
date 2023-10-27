@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/chevrolet/blazer_ev/blazer_ev_ss/"><img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" class="img-fluid" alt="Blazer EV SS" ></a>
 
-Chevrolet Blazer EV SS is an all-electric SUV with a EPA range of up to 467 km (290 miles). EVKX.net have all the details. 
+Chevrolet Blazer EV SS is an all-electric SUV with a EPA range of up to 467 km (290 miles). EVKX.net has all the details. 
 
 - [Chevrolet Blazer EV SS article](/models/chevrolet/blazer_ev/blazer_ev_ss/)
 - [Chevrolet Blazer EV SS Range & consumption info](/models/chevrolet/blazer_ev/blazer_ev_ss/rangeandconsumption)

@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" class="img-fluid" alt="Hummer EV Edition 1 Pickup" ></a>
 
-GMC Hummer EV Edition 1 Pickup is an all-electric Pickup Truck with a EPA range of up to 529 km (329 miles). EVKX.net have all the details. 
+GMC Hummer EV Edition 1 Pickup is an all-electric Pickup Truck with a EPA range of up to 529 km (329 miles). EVKX.net has all the details. 
 
 - [GMC Hummer EV Edition 1 Pickup article](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
 - [GMC Hummer EV Edition 1 Pickup Range & consumption info](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/rangeandconsumption)

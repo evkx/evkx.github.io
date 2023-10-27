@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Long Range (GEN1)
 linktitle: "Model 3 Long Range GEN1"
-description: "Tesla Model 3 Long Range (GEN1) is an all-electric sedan with a WLTP range of up to 602 km (374 miles). EVKX.net have all the details. "
+description: "Tesla Model 3 Long Range (GEN1) is an all-electric sedan with a WLTP range of up to 602 km (374 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/peugot/2008/e-2008/"><img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_1_st.jpg" class="img-fluid" alt="E-2008" ></a>
 
-Peugot E-2008 is an all-electric crossover with a WLTP range of up to 406 km (252 miles). EVKX.net have all the details. 
+Peugot E-2008 is an all-electric crossover with a WLTP range of up to 406 km (252 miles). EVKX.net has all the details. 
 
 - [Peugot E-2008 article](/models/peugot/2008/e-2008/)
 - [Peugot E-2008 Range & consumption info](/models/peugot/2008/e-2008/rangeandconsumption)

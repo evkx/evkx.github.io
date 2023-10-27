@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/peugot/3008/e-3008_long_range/"><img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_st.jpg" class="img-fluid" alt="E-3008 Long Range" ></a>
 
-Peugot E-3008 Long Range is an all-electric coupe SUV with a WLTP range of up to 700 km (435 miles). EVKX.net have all the details. 
+Peugot E-3008 Long Range is an all-electric coupe SUV with a WLTP range of up to 700 km (435 miles). EVKX.net has all the details. 
 
 - [Peugot E-3008 Long Range article](/models/peugot/3008/e-3008_long_range/)
 - [Peugot E-3008 Long Range Range & consumption info](/models/peugot/3008/e-3008_long_range/rangeandconsumption)

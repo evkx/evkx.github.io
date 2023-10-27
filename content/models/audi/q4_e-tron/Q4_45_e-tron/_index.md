@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 45 e-tron
 linktitle: "Q4 45 e-tron"
-description: "Audi Q4 45 e-tron is an all-electric premium SUV with a WLTP range of up to 544 km (338 miles). EVKX.net have all the details. "
+description: "Audi Q4 45 e-tron is an all-electric premium SUV with a WLTP range of up to 544 km (338 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

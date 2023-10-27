@@ -1,7 +1,7 @@
 ---
 title: Nio ET7
 linktitle: "ET7"
-description: "Nio ET7 is an all-electric sedan with a WLTP range of up to 580 km (360 miles). EVKX.net have all the details. "
+description: "Nio ET7 is an all-electric sedan with a WLTP range of up to 580 km (360 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

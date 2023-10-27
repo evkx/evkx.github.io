@@ -1,7 +1,7 @@
 ---
 title: Ford F150 Lightning Extended Range
 linktitle: "F150 Lightning Extended Range"
-description: "Ford F150 Lightning Extended Range is an all-electric Pickup Truck with a EPA range of up to 515 km (320 miles). EVKX.net have all the details. "
+description: "Ford F150 Lightning Extended Range is an all-electric Pickup Truck with a EPA range of up to 515 km (320 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

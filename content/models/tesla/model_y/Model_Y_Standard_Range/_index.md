@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Standard Range
 linktitle: "Model Y Standard Range"
-description: "Tesla Model Y Standard Range is an all-electric coupe SUV with a WLTP range of up to 430 km (267 miles). EVKX.net have all the details. "
+description: "Tesla Model Y Standard Range is an all-electric coupe SUV with a WLTP range of up to 430 km (267 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

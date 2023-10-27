@@ -1,7 +1,7 @@
 ---
 title: BMW i4 M50
 linktitle: "i4 M50"
-description: "BMW i4 M50 is an all-electric premium sedan with a WLTP range of up to 521 km (324 miles). EVKX.net have all the details. "
+description: "BMW i4 M50 is an all-electric premium sedan with a WLTP range of up to 521 km (324 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

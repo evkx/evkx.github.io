@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 (GEN1)
 linktitle: "Model 3 GEN1"
-description: "Tesla Model 3 (GEN1) is an all-electric sedan with a WLTP range of up to 495 km (308 miles). EVKX.net have all the details. "
+description: "Tesla Model 3 (GEN1) is an all-electric sedan with a WLTP range of up to 495 km (308 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

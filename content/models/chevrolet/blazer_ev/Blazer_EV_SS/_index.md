@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Blazer EV SS
 linktitle: "Blazer EV SS"
-description: "Chevrolet Blazer EV SS is an all-electric SUV with a EPA range of up to 467 km (290 miles). EVKX.net have all the details. "
+description: "Chevrolet Blazer EV SS is an all-electric SUV with a EPA range of up to 467 km (290 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

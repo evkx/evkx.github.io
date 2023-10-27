@@ -1,7 +1,7 @@
 ---
 title: Mercedes-AMG EQE 43 4MATIC
 linktitle: "EQE 43 4MATIC"
-description: "Mercedes-AMG EQE 43 4MATIC is an all-electric luxury sedan with a WLTP range of up to 533 km (331 miles). EVKX.net have all the details. "
+description: "Mercedes-AMG EQE 43 4MATIC is an all-electric luxury sedan with a WLTP range of up to 533 km (331 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

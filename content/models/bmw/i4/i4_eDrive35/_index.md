@@ -1,7 +1,7 @@
 ---
 title: BMW i4 eDrive35
 linktitle: "i4 eDrive35"
-description: "BMW i4 eDrive35 is an all-electric premium sedan with a WLTP range of up to 490 km (305 miles). EVKX.net have all the details. "
+description: "BMW i4 eDrive35 is an all-electric premium sedan with a WLTP range of up to 490 km (305 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

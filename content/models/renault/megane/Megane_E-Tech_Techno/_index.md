@@ -1,7 +1,7 @@
 ---
 title: Renault Megane E-Tech Techno
 linktitle: "Megane E-Tech Techno"
-description: "Renault Megane E-Tech Techno is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net have all the details. "
+description: "Renault Megane E-Tech Techno is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

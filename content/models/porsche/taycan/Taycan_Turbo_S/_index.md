@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo S
 linktitle: "Taycan Turbo S"
-description: "Porsche Taycan Turbo S is an all-electric luxury sedan with a WLTP range of up to 507 km (315 miles). EVKX.net have all the details. "
+description: "Porsche Taycan Turbo S is an all-electric luxury sedan with a WLTP range of up to 507 km (315 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

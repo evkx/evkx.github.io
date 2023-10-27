@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/mercedes/eqb/eqb_250/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_st.jpg" class="img-fluid" alt="EQB 250" ></a>
 
-Mercedes-EQ EQB 250 is an all-electric premium SUV with a WLTP range of up to 474 km (295 miles). EVKX.net have all the details. 
+Mercedes-EQ EQB 250 is an all-electric premium SUV with a WLTP range of up to 474 km (295 miles). EVKX.net has all the details. 
 
 - [Mercedes-EQ EQB 250 article](/models/mercedes/eqb/eqb_250/)
 - [Mercedes-EQ EQB 250 Range & consumption info](/models/mercedes/eqb/eqb_250/rangeandconsumption)
@@ -21,7 +21,7 @@ Mercedes-EQ EQB 250 is an all-electric premium SUV with a WLTP range of up to 47
 
 <a href="/models/mercedes/eqb/eqb_300_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/main_1_st.jpg" class="img-fluid" alt="EQB 300 4MATIC" ></a>
 
-Mercedes-EQ EQB 300 4MATIC is an all-electric premium SUV with a WLTP range of up to 423 km (263 miles). EVKX.net have all the details. 
+Mercedes-EQ EQB 300 4MATIC is an all-electric premium SUV with a WLTP range of up to 423 km (263 miles). EVKX.net has all the details. 
 
 - [Mercedes-EQ EQB 300 4MATIC article](/models/mercedes/eqb/eqb_300_4matic/)
 - [Mercedes-EQ EQB 300 4MATIC Range & consumption info](/models/mercedes/eqb/eqb_300_4matic/rangeandconsumption)
@@ -34,7 +34,7 @@ Mercedes-EQ EQB 300 4MATIC is an all-electric premium SUV with a WLTP range of u
 
 <a href="/models/mercedes/eqb/eqb_350_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/main_1_st.jpg" class="img-fluid" alt="EQB 350 4MATIC" ></a>
 
-Mercedes-EQ EQB 350 4MATIC is an all-electric premium SUV with a WLTP range of up to 423 km (263 miles). EVKX.net have all the details. 
+Mercedes-EQ EQB 350 4MATIC is an all-electric premium SUV with a WLTP range of up to 423 km (263 miles). EVKX.net has all the details. 
 
 - [Mercedes-EQ EQB 350 4MATIC article](/models/mercedes/eqb/eqb_350_4matic/)
 - [Mercedes-EQ EQB 350 4MATIC Range & consumption info](/models/mercedes/eqb/eqb_350_4matic/rangeandconsumption)

@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 Pro 4MOTION
 linktitle: "ID.4 Pro 4MOTION"
-description: "Volkswagen ID.4 Pro 4MOTION is an all-electric SUV with a WLTP range of up to 510 km (317 miles). EVKX.net have all the details. "
+description: "Volkswagen ID.4 Pro 4MOTION is an all-electric SUV with a WLTP range of up to 510 km (317 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

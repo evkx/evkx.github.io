@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/smart/hash3/hash3_brabus/"><img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" class="img-fluid" alt="#3 Brabus" ></a>
 
-Smart #3 Brabus is an all-electric crossover with a WLTP range of up to 415 km (258 miles). EVKX.net have all the details. 
+Smart #3 Brabus is an all-electric crossover with a WLTP range of up to 415 km (258 miles). EVKX.net has all the details. 
 
 - [Smart #3 Brabus article](/models/smart/hash3/hash3_brabus/)
 - [Smart #3 Brabus Range & consumption info](/models/smart/hash3/hash3_brabus/rangeandconsumption)

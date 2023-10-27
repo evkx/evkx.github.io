@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E Long Range RWD
 linktitle: "Mustang Mach-E Long Range RWD"
-description: "Ford Mustang Mach-E Long Range RWD is an all-electric coupe SUV with a WLTP range of up to 600 km (373 miles). EVKX.net have all the details. "
+description: "Ford Mustang Mach-E Long Range RWD is an all-electric coupe SUV with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

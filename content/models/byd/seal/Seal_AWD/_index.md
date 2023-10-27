@@ -1,7 +1,7 @@
 ---
 title: BYD Seal AWD
 linktitle: "Seal AWD"
-description: "BYD Seal AWD is an all-electric sedan with a WLTP range of up to 520 km (323 miles). EVKX.net have all the details. "
+description: "BYD Seal AWD is an all-electric sedan with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
