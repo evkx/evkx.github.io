@@ -132,7 +132,7 @@ There is only one type of steering wheel available. The stock steering wheel is 
 
 ## Climate system
 
-You can choose from two different climate systems. The standard climate system supports different temperatures in two zones for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+You can choose from two different climate systems. The standard climate system supports different temperatures in two zones for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 

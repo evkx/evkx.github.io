@@ -150,7 +150,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The 1-zone climate system supports only controlling one shared zone for the whole car. The 3-zone climate system supports different temperatures in three zones for the driver, passenger, and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather. 
+You can choose from two different climate systems. The 1-zone climate system supports only controlling one shared zone for the whole car. The 3-zone climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 

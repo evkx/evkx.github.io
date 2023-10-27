@@ -143,7 +143,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 3-zone climate system supports different temperatures in three zones for the driver, passenger, and backseat. 
+There is one climate system available. The 3-zone climate system supports different temperatures in three zones for the driver, passenger and backseat. 
 
 ## Comfort
 

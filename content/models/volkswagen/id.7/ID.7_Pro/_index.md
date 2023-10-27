@@ -149,7 +149,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The 2-zone Climatronic climate system supports different temperatures in two zones for the driver and passenger. The 3-zone climatronic climate system supports different temperatures in three zones for the driver, passenger, and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+You can choose from two different climate systems. The 2-zone Climatronic climate system supports different temperatures in two zones for the driver and passenger. The 3-zone climatronic climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
