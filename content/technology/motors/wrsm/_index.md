@@ -14,7 +14,7 @@ A wound-rotor synchronous motor has a stator similar to a synchronous motor, whi
 
 The rotor winding of a wound-rotor synchronous motor is typically made up of multiple coils of wire, which are connected to the rotor via slip rings and brushes. The slip rings allow electrical connection to the rotor winding, while the brushes provide a means of transferring electrical power to and from the rotor.
 
-{{< sitefigure thumb="technology/motors/wrsm/bmw5genedrive_2_st.jpg" width="3000" height="2000" title="BMW 5th generation eDRive with WRSM. Brush /slip-ring at the end" >}}
+{{< sitefiguresized thumb="technology/motors/wrsm/bmw5genedrive_2_st.jpg" width="3000" height="2000" title="BMW 5th generation eDRive with WRSM. Brush /slip-ring at the end" >}}
 
 The wound-rotor synchronous motor operates based on the principles of electromagnetism and synchronous motor operation. The stator windings are connected to an AC power supply, which creates a rotating magnetic field. The rotor winding is also connected to the power supply through the slip rings and brushes. The slip rings allow for variable resistance or impedance to be connected to the rotor winding, which can be used to control motor performance.
 

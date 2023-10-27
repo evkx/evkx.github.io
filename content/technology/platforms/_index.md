@@ -27,9 +27,9 @@ Some examples of EVs that use retrofitting are:
 
 The two examples below show how the manufacturer located the battery and other EV components on retrofitted platforms.
 
-{{< sitefigure thumb="technology/platforms/e-golf_1_st.jpg" title="Volkswagen e-golf on a retrofitted platform" >}}
+{{< sitefiguresized thumb="technology/platforms/e-golf_1_st.jpg" width="3000" height="2120" title="Volkswagen e-golf on a retrofitted platform" >}}
 
-{{< sitefigure thumb="technology/platforms/fordfocus_1_st.jpg" title="Ford Focus Electric with a retrofitted platform" >}}
+{{< sitefiguresized thumb="technology/platforms/fordfocus_1_st.jpg" width="1600" height="900" title="Ford Focus Electric with a retrofitted platform" >}}
 
 ## Hybrid
 
@@ -47,11 +47,11 @@ Some examples of EVs that use hybrid platforms are:
 
 Below, you see how the CLAR platform underpins the different variants of the BMW 7 series.
 
-{{< sitefigure thumb="technology/platforms/bmw7_4_st.jpg" title="BMW i7 with hybrid platform. This in petrol configuration" >}}
+{{< sitefiguresized thumb="technology/platforms/bmw7_4_st.jpg" width="3000" height="1671" title="BMW i7 with hybrid platform. This in petrol configuration" >}}
 
-{{< sitefigure thumb="technology/platforms/bmw7_1_st.jpg" title="BMW i7 with hybrid platform. This in PHEV configuration" >}}
+{{< sitefiguresized thumb="technology/platforms/bmw7_1_st.jpg" width="3000" height="1671" title="BMW i7 with hybrid platform. This in PHEV configuration" >}}
 
-{{< sitefigure thumb="technology/platforms/bmw7_2_st.jpg" title="BMW i7 with hybrid platform. This in EV configuration" >}}
+{{< sitefiguresized thumb="technology/platforms/bmw7_2_st.jpg" width="3000" height="1671" title="BMW i7 with hybrid platform. This in EV configuration" >}}
 
 ## Dedicated with shared components
 
@@ -70,9 +70,9 @@ Some examples of EV platforms that follow this approach are:
 
 These EV platforms are examples of how carmakers can balance between innovation and pragmatism when developing electric vehicles. They offer some advantages over retrofitting or hybrid platforms, such as more design flexibility, better efficiency, and higher performance. However, they may not be as optimal as dedicated EV platforms that are designed from scratch for e-mobility.
 
-{{< sitefigure thumb="technology/platforms/audiq8_1_st.jpg" title="Audi Q8 e-tron drivetrain with dedicated EV skateboard and reuse of MLB-EVO parts" >}}
+{{< sitefiguresized thumb="technology/platforms/audiq8_1_st.jpg" width="3000" height="1999" title="Audi Q8 e-tron drivetrain with dedicated EV skateboard and reuse of MLB-EVO parts" >}}
 
-{{< sitefigure thumb="technology/platforms/bmwix_1_st.jpg" title="BMW iX drivetrain with dedicated EV skateboard and some reuse of BMW CLAR parts" >}}
+{{< sitefiguresized thumb="technology/platforms/bmwix_1_st.jpg" width="3000" height="1688" title="BMW iX drivetrain with dedicated EV skateboard and some reuse of BMW CLAR parts" >}}
 
 ## Dedicated
 
@@ -96,9 +96,9 @@ Because of the high cost of creating a new EV platform, there are serveral examp
 
 Below you see examples of use of the scalable MEB platform made by the Volkswagen group. When an EV platform is scalable, it means that it can be easily adapted and modified to fit different types of electric vehicles, such as sedans, SUVs, or trucks. A scalable EV platform allows carmakers to use the same basic structure and components for various models and sizes of EVs, without having to redesign the chassis or the battery pack. This can save costs, reduce development time, and increase efficiency. A scalable EV platform can also be adjusted to meet different customer preferences and market demands, such as performance, range, or features.
 
-{{< sitefigure thumb="technology/platforms/idbuzz_1_st.jpg" title="Volkswagen ID.Buzz with MEB dedicated EV platform" >}}
+{{< sitefiguresized thumb="technology/platforms/idbuzz_1_st.jpg" width="3000" height="1687" title="Volkswagen ID.Buzz with MEB dedicated EV platform" >}}
 
-{{< sitefigure thumb="technology/platforms/q4_1_st.jpg" title="Audi Q4 e-tron with MEB dedicated EV platform" >}}
+{{< sitefiguresized thumb="technology/platforms/q4_1_st.jpg" width="3000" height="1903" title="Audi Q4 e-tron with MEB dedicated EV platform" >}}
 
 Volkswagen is working on a new platform called SSP (Scalable Systems Platform). This platform will underpin all
 Volkswagen group models in the future. [Read more at electrichasgoneaudi.net](https://electrichasgoneaudi.net/technology/bev-platforms/ssp/)
