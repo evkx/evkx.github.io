@@ -18,7 +18,7 @@ Let's take Pikes Peak as an example. This mountain is 14.110 ft (4300 meters) hi
 
 1993 meters for an Audi e-tron 55 at 2900kg is 15.74kWh in potential energy.
 
-{{< sitefigure thumb="technology/regen/calculations/pikespeak_st.jpg" title="Driving down Pikes Peak in Audi e-tron" >}}
+{{< sitefiguresized thumb="technology/regen/calculations/pikespeak_st.jpg" width="3000" height="2000" title="Driving down Pikes Peak in Audi e-tron" >}}
 
 18.6 miles is 30 km. The speed down is low and based on rolling resistance and speed at 40km/h have an energy consumption of 10.52kWh/100km.
 
@@ -34,7 +34,7 @@ In the video below you see a real-world test of just exactly this trip and how m
 
 In this scenario, the car is moving at 75mph (120.7km/h) and needs to make a full stop for a red light.
 
-{{< sitefigure thumb="technology/regen/calculations/stop_st.jpg" title="Making a full stop from 75mph" >}}
+{{< sitefiguresized thumb="technology/regen/calculations/stop_st.jpg" width="2000" height="300" title="Making a full stop from 75mph" >}}
 
 As shown in the graph below 75mph for a 2900kg Audi e-tron gives the total kinetic energy of 0,473 kWh.
 
@@ -46,7 +46,7 @@ This means a consumption reduction of 3.8kWh/100km.
 
 ### Scenario 3: Reduce speed from 30 mph to fully stop
 
-{{< sitefigure thumb="technology/regen/calculations/fullstop_st.jpg" title="Making a full stop from 30mph" >}}
+{{< sitefiguresized thumb="technology/regen/calculations/fullstop_st.jpg" width="1400" height="995" title="Making a full stop from 30mph" >}}
 
 This scenario is a typical city-driving scenario. When driving at 30 mph (48.28km/h), the Audi e-tron has a total kinetic energy of 0,0756kWh.
 
@@ -58,7 +58,7 @@ This regeneration reduces energy consumption by 6.05kWh/100km compared to a car 
 
 ### Scenario 4: Driving down from Saltfjellet mountain
 
-{{< sitefigure thumb="technology/regen/calculations/saltfjellet_st.jpg" title="Saltfjellet in winter" >}}
+{{< sitefiguresized thumb="technology/regen/calculations/saltfjellet_st.jpg" width="768" height="558" title="Saltfjellet in winter" >}}
 
 This mountain is located in Northern Norway and the main road from South to North passes over it (E6).
 
