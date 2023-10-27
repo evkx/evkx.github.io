@@ -145,7 +145,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The standard climate system supports only controlling one shared zone for the whole car. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. 
+You can choose from two different climate systems. The standard climate system supports only controlling one shared zone for the whole car. The THERMOTRONIC climate system supports different temperatures in two zones for the driver and passenger. 
 
 ## Comfort
 

@@ -128,7 +128,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 

@@ -57,7 +57,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Cadillac ESCALADE IQ has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the max is 200 mm. In addition,  rear-wheel steering is a standard feature. Rear wheel steering reduces the turning circle when going slow.  
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 200 mm. In addition,  rear-wheel steering is a standard feature. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 

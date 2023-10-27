@@ -57,7 +57,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 BMW i7 eDrive50 has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/). 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 193 mm, and the max is 223 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 193 mm, and the maximum is 223 mm. 
 
 ### Steering
 
@@ -154,7 +154,7 @@ There is only one type of steering wheel available. The stock steering wheel is 
 
 ## Climate system
 
-You can choose from two different climate systems. The standard climate system supports different temperatures in two zone for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
+You can choose from two different climate systems. The standard climate system supports different temperatures in two zones for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 
 ## Comfort
 

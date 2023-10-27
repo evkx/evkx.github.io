@@ -61,7 +61,7 @@ The location of the charge port is on the [left front corner](../../../../techno
 
 Rivian R1T Performance Dual-Motor AWD MP has an all-wheel drive system supported by two motors, one on each axle. 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 205 mm, and the max is 378 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 205 mm, and the maximum is 378 mm. 
 
 ### Brakes
 

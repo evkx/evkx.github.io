@@ -57,7 +57,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Polestar 3 Long Range Dual Motor Performance has an all-wheel drive system supported by two motors, one on each axle. 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 181 mm, and the max is 241 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 181 mm, and the maximum is 241 mm. 
 
 ### Brakes
 
@@ -121,7 +121,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in two zone for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The  climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 

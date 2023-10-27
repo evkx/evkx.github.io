@@ -59,9 +59,9 @@ Porsche Taycan 4S Cross Turismo has an all-wheel drive system supported by two m
 
 
 
-You can order Porsche Taycan 4S Cross Turismo with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 126 mm, and the max is 176 mm. 
+You can order Porsche Taycan 4S Cross Turismo with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 126 mm, and the maximum is 176 mm. 
 
-You can order Porsche Taycan 4S Cross Turismo with an alternative Adaptive Air Suspension Offroad Design Package suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 136 mm, and the max is 186 mm. 
+You can order Porsche Taycan 4S Cross Turismo with an alternative Adaptive Air Suspension Offroad Design Package suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 136 mm, and the maximum is 186 mm. 
 
 ### Steering
 

@@ -59,7 +59,7 @@ BMW iX xDrive40 has an all-wheel drive system supported by two motors, one on ea
 
 The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 202 mm. 
 
-You can order BMW iX xDrive40 with an alternative Adaptive Air Suspension suspension. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 193 mm, and the max is 223 mm. 
+You can order BMW iX xDrive40 with an alternative Adaptive Air Suspension suspension. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 193 mm, and the maximum is 223 mm. 
 
 ### Steering
 
@@ -133,7 +133,7 @@ There is only one type of steering wheel available. The stock steering wheel is 
 
 ## Climate system
 
-You can choose from two different climate systems. The standard climate system supports different temperatures in two zone for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
+You can choose from two different climate systems. The standard climate system supports different temperatures in two zones for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 
 ## Comfort
 

@@ -57,9 +57,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Audi Q8 Sportback 50 e-tron has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 152 mm, and the max is 248 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 152 mm, and the maximum is 248 mm. 
 
-You can order Audi Q8 Sportback 50 e-tron with an alternative Adaptive Air Suspension Sport suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 152 mm, and the max is 248 mm. 
+You can order Audi Q8 Sportback 50 e-tron with an alternative Adaptive Air Suspension Sport suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 152 mm, and the maximum is 248 mm. 
 
 ### Steering
 
@@ -188,7 +188,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 

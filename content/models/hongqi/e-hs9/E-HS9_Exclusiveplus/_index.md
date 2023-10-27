@@ -57,7 +57,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Hongqi E-HS9 Exclusive+ has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 170 mm, and the max is 260 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 170 mm, and the maximum is 260 mm. 
 
 ### Steering
 

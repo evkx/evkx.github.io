@@ -61,7 +61,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Mercedes-EQ EQS 580 4MATIC has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 82 mm, and the max is 127 mm. 
+The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 82 mm, and the maximum is 127 mm. 
 
 ### Steering
 
@@ -160,7 +160,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The THERMOTRONIC climate system supports different temperatures in two zone for the driver and passenger. The THERMATIC climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
+You can choose from two different climate systems. The THERMOTRONIC climate system supports different temperatures in two zones for the driver and passenger. The THERMATIC climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 
 ## Comfort
 
