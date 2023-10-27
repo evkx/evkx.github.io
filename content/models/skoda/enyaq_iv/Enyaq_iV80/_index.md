@@ -169,7 +169,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-SKODA Enyaq iV80 has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5,3 inches large. The touch screen on the dashboard's center  is 13 inches large. 
+SKODA Enyaq iV80 has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5,3 inches large. The touch screen on the dashboard's center  is 13 inches large. 
 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80/screens_1_st.jpg" title="SKODA Enyaq iV80" width="3000" height="1999"  >}}

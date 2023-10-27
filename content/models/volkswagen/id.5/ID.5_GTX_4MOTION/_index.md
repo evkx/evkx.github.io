@@ -160,7 +160,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Volkswagen ID.5 GTX 4MOTION has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12,9 inches large. 
+Volkswagen ID.5 GTX 4MOTION has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12,9 inches large. 
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/screens_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2206"  >}}
