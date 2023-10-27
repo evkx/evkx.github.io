@@ -70,7 +70,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 ## Drivetrain
 
-Nio EL7 has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at rear axle. 
+Nio EL7 has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle. 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 143 mm, and the max is 198 mm. 
 
