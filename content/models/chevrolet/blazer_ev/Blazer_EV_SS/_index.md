@@ -37,7 +37,7 @@ The battery has a gross capacity of 110kWh and a net capacity of 102kWh, meaning
 
  The [EPA range](../../../../guides/understandingrange/epa) is 290 miles (467 km).   The consumption is 2,8mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 190kW. A full charge from 0 - 100% would take 176 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 65% resulting in an actual charge speed including time loss on 120kW. Each charge session would take 29 minutes and 59 seconds. 
+The maximum DC charging speed is 190kW. A full charge from 0 - 100% would take 176 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 65%, resulting in an actual charge speed, including time loss on 120kW. Each charge session would take 29 minutes and 59 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 9 hours and 35 minutes to drive. This trip will require three charge session(s) charging from 8% to 57%. The total time lost for charging will be 75 minutes.   
 
@@ -193,7 +193,7 @@ With the   level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 863 liters. With the rear seat down, it is 1676 liters. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1588, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1588, and on unbraked, it is 750kg. 
 
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}

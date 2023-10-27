@@ -37,7 +37,7 @@ The battery has a gross capacity of 99kWh and a net capacity of 95,3kWh, meaning
 
  The [WLTP range](../../../../guides/understandingrange/wltp) is 465 km (289 mi).   The consumption is 20,5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 78 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 68% resulting in an actual charge speed including time loss on 96kW. Each charge session would take 36 minutes and 50 seconds. 
+The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 78 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 68%, resulting in an actual charge speed, including time loss on 96kW. Each charge session would take 36 minutes and 50 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32kWh/100km, 1000km will take 10 hours and 40 minutes to drive. This trip will require four charge session(s) charging from 8% to 67%. The total time lost for charging will be 141 minutes.   
 
@@ -215,6 +215,6 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 225 liters. With the third-row seat down, it is 622 liters. On the roof, you can load up to 100kg. Max weight is 3180kg, and with the base weight of 2630 kg, you can max load 550 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 225 liters. With the third-row seat down, it is 622 liters. On the roof, you can load up to 100kg. Max weight is 3180kg, and with the base weight of 2630 kg, you can max load 550 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750kg. 

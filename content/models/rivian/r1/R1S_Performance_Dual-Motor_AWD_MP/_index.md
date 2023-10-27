@@ -37,7 +37,7 @@ The battery has a gross capacity of 149kWh and a net capacity of 142,3kWh, meani
 
  The [EPA range](../../../../guides/understandingrange/epa) is 410 miles (660 km).   The consumption is 2,9mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 119 minutes, while a more common scenario of 10-80% would take 48 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45% resulting in an actual charge speed including time loss on 141kW. Each charge session would take 27 minutes and 12 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 119 minutes, while a more common scenario of 10-80% would take 48 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45%, resulting in an actual charge speed, including time loss on 141kW. Each charge session would take 27 minutes and 12 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 9 hours and 28 minutes to drive. This trip will require three charge session(s) charging from 0% to 37%. The total time lost for charging will be 68 minutes.   
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5KW 
 
 ### Charge port
 
-The location of the charge port is on the [left front corner](../../../../technology/charging/connectors/#front-corner). This makes it easy for charge stations where you need to park with the front in. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [left front corner](../../../../technology/charging/connectors/#front-corner). This location makes it easy to use charge stations where you need to park with the front in. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -208,7 +208,7 @@ With the Driver+  level 2 system, you get the following driving automation featu
 
 The cargo capacity in the trunk is 498 liters. With the rear seat down, it is 2965 liters. On the roof, you can load up to 113kg. Under the hood, there is frunk with more storage room. This frunk is 314 liters. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 3500, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 3500, and on unbraked, it is 750kg. 
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD MP" width="1920" height="1080"  >}}

@@ -37,7 +37,7 @@ The battery has a gross capacity of 69kWh and a net capacity of 66kWh, meaning y
 
 The [WLTP range](../../../../guides/understandingrange/wltp) varies from 478 to 466 km (297-290 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,8kWh/100km for the basic version and 14,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 205kW. A full charge from 0 - 100% would take 85 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 54% resulting in an actual charge speed including time loss on 90kW. Each charge session would take 21 minutes and 28 seconds. 
+The maximum DC charging speed is 205kW. A full charge from 0 - 100% would take 85 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 54%, resulting in an actual charge speed, including time loss on 90kW. Each charge session would take 21 minutes and 28 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 10 hours and 44 minutes to drive. This trip will require seven charge session(s) charging from 5% to 52%. The total time lost for charging will be 144 minutes.   
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ### Charge port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -190,9 +190,9 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1205 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 31 liters. Max weight is 2460kg, and with the base weight of 1990 kg, you can max load 470 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1205 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 31 liters. Max weight is 2460kg, and with the base weight of 1990 kg, you can max load 470 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750kg. 
 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/trunk_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}

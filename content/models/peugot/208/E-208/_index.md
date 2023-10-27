@@ -37,7 +37,7 @@ The battery has a gross capacity of 51kWh and a net capacity of 48,1kWh, meaning
 
  The [WLTP range](../../../../guides/understandingrange/wltp) is 400 km (249 mi).   The consumption is 12,0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 54 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 57% resulting in an actual charge speed including time loss on 65kW. Each charge session would take 23 minutes and 23 seconds. 
+The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 54 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 57%, resulting in an actual charge speed, including time loss on 65kW. Each charge session would take 23 minutes and 23 seconds. 
 
 ### Onboard charger
 
@@ -45,7 +45,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ### Charge port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -184,7 +184,7 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 265 liters. With the rear seat down, it is 1106 liters. Max weight is 2025kg, and with the base weight of 1520 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 265 liters. With the rear seat down, it is 1106 liters. Max weight is 2025kg, and with the base weight of 1520 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 ### Availability & Pricing

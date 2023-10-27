@@ -37,7 +37,7 @@ The battery has a gross capacity of 64kWh and a net capacity of 61,7kWh, meaning
 
  The [WLTP range](../../../../guides/understandingrange/wltp) is 435 km (270 mi).   The consumption is 14,2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 84 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 58% resulting in an actual charge speed including time loss on 96kW. Each charge session would take 21 minutes and 12 seconds. 
+The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 84 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 58%, resulting in an actual charge speed, including time loss on 96kW. Each charge session would take 21 minutes and 12 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 9 hours and 55 minutes to drive. This trip will require four charge session(s) charging from 2% to 63%. The total time lost for charging will be 95 minutes.   
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ### Charge port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -182,9 +182,9 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-Max weight is 2133kg, and with the base weight of 1715 kg, you can max load 418 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+Max weight is 2133kg, and with the base weight of 1715 kg, you can max load 418 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, 500kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, it is 500kg. 
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/trunk_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}

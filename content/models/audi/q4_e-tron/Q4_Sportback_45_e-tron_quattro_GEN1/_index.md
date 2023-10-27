@@ -43,7 +43,7 @@ The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning
 
 The [WLTP range](../../../../guides/understandingrange/wltp) varies from 524 to 446 km (326-277 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,6kWh/100km for the basic version and 17,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53% resulting in an actual charge speed including time loss on 89kW. Each charge session would take 24 minutes and 11 seconds. 
+The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53%, resulting in an actual charge speed, including time loss on 89kW. Each charge session would take 24 minutes and 11 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 56 minutes to drive. This trip will require four charge session(s) charging from 6% to 53%. The total time lost for charging will be 97 minutes.   
 
@@ -53,7 +53,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ### Charge port
 
-The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -245,9 +245,9 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 535 liters. With the rear seat down, it is 1460 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 535 liters. With the rear seat down, it is 1460 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750kg. 
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/trunk_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}

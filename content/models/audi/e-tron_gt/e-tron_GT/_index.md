@@ -37,7 +37,7 @@ The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meani
 
 The [WLTP range](../../../../guides/understandingrange/wltp) varies from 488 to 448 km (303-278 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,2kWh/100km for the basic version and 18,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65% resulting in an actual charge speed including time loss on 165kW. Each charge session would take 19 minutes and 53 seconds. 
+The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65%, resulting in an actual charge speed, including time loss on 165kW. Each charge session would take 19 minutes and 53 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 10 minutes to drive. This trip will require three charge session(s) charging from 3% to 58%. The total time lost for charging will be 51 minutes.   
 
@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the standard onboard charger supports up to
 
 ### Charge port
 
-The location of the charge port is on the [right front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. A second port is on the [left front side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). See full specifications for all markets. 
+The location of the charge port is on the [right front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to use charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. A second port is on the [left front side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -240,7 +240,7 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 405 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 85 liters. Max weight is 2860kg, and with the base weight of 2340 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 405 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 85 liters. Max weight is 2860kg, and with the base weight of 2340 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 

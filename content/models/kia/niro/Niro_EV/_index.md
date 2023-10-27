@@ -37,7 +37,7 @@ The battery has a gross capacity of 68kWh and a net capacity of 64,8kWh, meaning
 
  The [WLTP range](../../../../guides/understandingrange/wltp) is 463 km (288 mi).   The consumption is 14,0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 93 minutes, while a more common scenario of 10-80% would take 44 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 56% resulting in an actual charge speed including time loss on 60kW. Each charge session would take 33 minutes and 30 seconds. 
+The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 93 minutes, while a more common scenario of 10-80% would take 44 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 56%, resulting in an actual charge speed, including time loss on 60kW. Each charge session would take 33 minutes and 30 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 20kWh/100km, 1000km will take 10 hours and 35 minutes to drive. This trip will require five charge session(s) charging from 4% to 46%. The total time lost for charging will be 136 minutes.   
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ### Charge port
 
-The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This makes it easy for charge stations where you need to park with the front in. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,9 +195,9 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 475 liters. With the rear seat down, it is 1392 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 20 liters. Max weight is 220kg, and with the base weight of 1557 kg, you can max load -1337 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 475 liters. With the rear seat down, it is 1392 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 20 liters. Max weight is 220kg, and with the base weight of 1557 kg, you can max load -1337 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 300kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 300kg. 
 
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/trunk_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}

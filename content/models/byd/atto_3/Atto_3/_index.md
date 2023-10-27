@@ -37,7 +37,7 @@ The battery has a gross capacity of 60,5kWh and a net capacity of 58kWh, meaning
 
  The [WLTP range](../../../../guides/understandingrange/wltp) is 420 km (261 mi).   The consumption is 13,8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 88kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 63% resulting in an actual charge speed including time loss on 67kW. Each charge session would take 32 minutes and 40 seconds. 
+The maximum DC charging speed is 88kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 63%, resulting in an actual charge speed, including time loss on 67kW. Each charge session would take 32 minutes and 40 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 55 minutes to drive. This trip will require five charge session(s) charging from 3% to 63%. The total time lost for charging will be 156 minutes.   
 
@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW cha
 
 ### Charge port
 
-The location of the charge port is on the [right front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [right front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to use charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -214,7 +214,7 @@ With the   level 1 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 1338 liters. On the roof, you can load up to 50kg. Max weight is 2160kg, and with the base weight of 1750 kg, you can max load 410 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 1338 liters. On the roof, you can load up to 50kg. Max weight is 2160kg, and with the base weight of 1750 kg, you can max load 410 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}

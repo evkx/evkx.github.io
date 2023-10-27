@@ -37,7 +37,7 @@ The battery has a gross capacity of 98,8kWh and a net capacity of 92kWh, meaning
 
  The [WLTP range](../../../../guides/understandingrange/wltp) is 600 km (373 mi).   The consumption is 15,3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 154 minutes, while a more common scenario of 10-80% would take 45 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 45% resulting in an actual charge speed including time loss on 85kW. Each charge session would take 26 minutes and 4 seconds. 
+The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 154 minutes, while a more common scenario of 10-80% would take 45 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 45%, resulting in an actual charge speed, including time loss on 85kW. Each charge session would take 26 minutes and 4 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 9 hours and 59 minutes to drive. This trip will require four charge session(s) charging from 6% to 44%. The total time lost for charging will be 99 minutes.   
 
@@ -208,9 +208,9 @@ With the Ford BlueCruise  level 2 system, you get the following driving automati
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 402 liters. With the rear seat down, it is 1420 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 100 liters. Max weight is 2605kg, and with the base weight of 2085 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 402 liters. With the rear seat down, it is 1420 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 100 liters. Max weight is 2605kg, and with the base weight of 2085 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750kg. 
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/trunk_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1721"  >}}

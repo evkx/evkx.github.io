@@ -37,7 +37,7 @@ The battery has a gross capacity of 71,4kWh and a net capacity of 58kWh, meaning
 
 The [WLTP range](../../../../guides/understandingrange/wltp) varies from 470 to 415 km (292-258 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 12,3kWh/100km for the basic version and 14,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 147kW. A full charge from 0 - 100% would take 74 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 50% resulting in an actual charge speed including time loss on 78kW. Each charge session would take 21 minutes and 27 seconds. 
+The maximum DC charging speed is 147kW. A full charge from 0 - 100% would take 74 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 50%, resulting in an actual charge speed, including time loss on 78kW. Each charge session would take 21 minutes and 27 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 34 minutes to drive. This trip will require six charge session(s) charging from 1% to 51%. The total time lost for charging will be 134 minutes.   
 
@@ -186,9 +186,9 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 452 liters. On the roof, you can load up to 80kg. Max weight is 2530kg, and with the base weight of 2015 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 452 liters. On the roof, you can load up to 80kg. Max weight is 2530kg, and with the base weight of 2015 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750kg. 
 
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}

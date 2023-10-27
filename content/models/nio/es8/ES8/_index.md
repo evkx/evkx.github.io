@@ -40,7 +40,7 @@ The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning 
 
  The [WLTP range](../../../../guides/understandingrange/wltp) is 460 km (286 mi).   The consumption is 19,6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 83 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 72% resulting in an actual charge speed including time loss on 79kW. Each charge session would take 44 minutes and 24 seconds. 
+The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 83 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 72%, resulting in an actual charge speed, including time loss on 79kW. Each charge session would take 44 minutes and 24 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 11 hours and 1 minutes to drive. This trip will require four charge session(s) charging from 8% to 67%. The total time lost for charging will be 162 minutes.   
 ### 75kWh
@@ -49,7 +49,7 @@ The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning
 
  The [WLTP range](../../../../guides/understandingrange/wltp) is 350 km (218 mi).   The consumption is 19,6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 140kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74% resulting in an actual charge speed including time loss on 77kW. Each charge session would take 37 minutes and 57 seconds. 
+The maximum DC charging speed is 140kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74%, resulting in an actual charge speed, including time loss on 77kW. Each charge session would take 37 minutes and 57 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 11 hours and 22 minutes to drive. This trip will require five charge session(s) charging from 7% to 73%. The total time lost for charging will be 182 minutes.   
 
@@ -59,7 +59,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ### Charge port
 
-The location of the charge port is on the [right front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [right front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to use charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 ### Battery swap
 
 This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 90% SOC. The battery swap takes 7 minutes. 
@@ -244,6 +244,6 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 310 liters. With the rear seat down, it is 1901 liters. On the roof, you can load up to 100kg. Max weight is 3099kg, and with the base weight of 2440 kg, you can max load 659 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 310 liters. With the rear seat down, it is 1901 liters. On the roof, you can load up to 100kg. Max weight is 3099kg, and with the base weight of 2440 kg, you can max load 659 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750kg. 

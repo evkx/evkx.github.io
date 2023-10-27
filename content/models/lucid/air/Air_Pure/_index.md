@@ -37,7 +37,7 @@ The battery has a gross capacity of 94kWh and a net capacity of 92kWh, meaning y
 
  The [EPA range](../../../../guides/understandingrange/epa) is 410 miles (660 km).   The consumption is 4,5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 49% resulting in an actual charge speed including time loss on 163kW. Each charge session would take 16 minutes and 18 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 49%, resulting in an actual charge speed, including time loss on 163kW. Each charge session would take 16 minutes and 18 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19kWh/100km, 1000km will take 8 hours and 56 minutes to drive. This trip will require two charge session(s) charging from 0% to 54%. The total time lost for charging will be 37 minutes.   
 
@@ -199,7 +199,7 @@ With the ADAS  level 2 system, you get the following driving automation features
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 456 liters. With the rear seat down, it is 627 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 283 liters. Max weight is 2850kg, and with the base weight of 2360 kg, you can max load 490 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 456 liters. With the rear seat down, it is 627 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 283 liters. Max weight is 2850kg, and with the base weight of 2360 kg, you can max load 490 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 

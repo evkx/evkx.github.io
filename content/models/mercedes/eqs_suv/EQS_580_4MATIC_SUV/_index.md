@@ -37,7 +37,7 @@ The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meani
 
 The [WLTP range](../../../../guides/understandingrange/wltp) varies from 610 to 511 km (379-318 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,8kWh/100km for the basic version and 21,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57% resulting in an actual charge speed including time loss on 142kW. Each charge session would take 26 minutes and 41 seconds. 
+The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57%, resulting in an actual charge speed, including time loss on 142kW. Each charge session would take 26 minutes and 41 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28,5kWh/100km, 1000km will take 9 hours and 35 minutes to drive. This trip will require three charge session(s) charging from 1% to 56%. The total time lost for charging will be 76 minutes.   
 
@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ### Charge port
 
-The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This makes it easy for charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -255,9 +255,9 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 645 liters. With the rear seat down, it is 2100 liters. On the roof, you can load up to 100kg. Max weight is 3375kg, and with the base weight of 2735 kg, you can max load 640 kg, including driver and passengers. Some options can increase the base weight and reduce the max loading weight. 
+The cargo capacity in the trunk is 645 liters. With the rear seat down, it is 2100 liters. On the roof, you can load up to 100kg. Max weight is 3375kg, and with the base weight of 2735 kg, you can max load 640 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750kg. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}

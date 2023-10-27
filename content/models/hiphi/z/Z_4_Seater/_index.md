@@ -37,7 +37,7 @@ The battery has a gross capacity of 125kWh and a net capacity of 120kWh, meaning
 
  The [WLTP range](../../../../guides/understandingrange/wltp) is 555 km (345 mi).   The consumption is 21,6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 98 minutes, while a more common scenario of 10-80% would take 50 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 47% resulting in an actual charge speed including time loss on 104kW. Each charge session would take 30 minutes and 46 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 98 minutes, while a more common scenario of 10-80% would take 50 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 47%, resulting in an actual charge speed, including time loss on 104kW. Each charge session would take 30 minutes and 46 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 53 minutes to drive. This trip will require three charge session(s) charging from 4% to 49%. The total time lost for charging will be 94 minutes.   
 
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ### Charge port
 
-The location of the charge port is on the [right rear corner](../../../../technology/charging/connectors/#rear-corner). This makes it easy for charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [right rear corner](../../../../technology/charging/connectors/#rear-corner). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
