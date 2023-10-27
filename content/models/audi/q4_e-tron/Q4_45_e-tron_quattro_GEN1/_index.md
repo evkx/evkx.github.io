@@ -206,7 +206,7 @@ You can choose between two types of headlights for the Audi Q4 45 e-tron quattro
 
 The Audi Q4 45 e-tron quattro (GEN1) has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
-[**Efficiency assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps the driver to drive preemptively and save energy. 
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy. 
 ### Safety systems
 
 

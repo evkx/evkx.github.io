@@ -162,7 +162,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 ## Lights
 
-You can choose between two types of headlights for the Nissan Ariya 87kWh. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
+You can choose between two types of headlights for the Nissan Ariya 87kWh. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. 
 ## Advanced driver assistance systems
 
 The Nissan Ariya 87kWh has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

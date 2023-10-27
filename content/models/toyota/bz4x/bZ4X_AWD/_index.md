@@ -154,7 +154,7 @@ In addition, with the optional in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. 
 ## Lights
 
-You can choose between two types of headlights for the Toyota bZ4X AWD. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the Toyota bZ4X AWD. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 ## Advanced driver assistance systems
 
 The Toyota bZ4X AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

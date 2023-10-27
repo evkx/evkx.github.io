@@ -152,7 +152,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
 
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/headlights_1_st.jpg" title="Peugot E-208" width="3000" height="2000"  >}}

@@ -151,7 +151,7 @@ You can choose between two sound systems on the Volvo C40 Recharge Twin Motor. W
 The model has 1 USB-C connections as standard. 
 ## Lights
 
-You can choose between two types of headlights for the Volvo C40 Recharge Twin Motor. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front. 
+You can choose between two types of headlights for the Volvo C40 Recharge Twin Motor. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. 
 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/headlights_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
@@ -160,7 +160,7 @@ You can choose between two types of headlights for the Volvo C40 Recharge Twin M
 
 The Volvo C40 Recharge Twin Motor has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
-[**Efficiency assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps the driver to drive preemptively and save energy. 
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy. 
 ### Safety systems
 
 

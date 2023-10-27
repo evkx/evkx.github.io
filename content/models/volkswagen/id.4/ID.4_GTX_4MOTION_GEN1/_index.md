@@ -187,7 +187,7 @@ In addition, with the optional in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.  
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/headlights_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="1687"  >}}
@@ -196,7 +196,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 The Volkswagen ID.4 GTX 4MOTION (GEN1) has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
-[**Efficiency assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps the driver to drive preemptively and save energy. 
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy. 
 ### Safety systems
 
 

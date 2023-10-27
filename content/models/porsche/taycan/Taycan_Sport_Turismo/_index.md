@@ -219,7 +219,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 ## Lights
 
-You can choose between two types of headlights for the Porsche Taycan Sport Turismo. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that can be turned on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the Porsche Taycan Sport Turismo. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000"  >}}
@@ -228,7 +228,7 @@ You can choose between two types of headlights for the Porsche Taycan Sport Turi
 
 The Porsche Taycan Sport Turismo has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
-[**Efficiency assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps the driver to drive preemptively and save energy. 
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy. 
 ### Safety systems
 
 
