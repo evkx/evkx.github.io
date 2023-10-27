@@ -29,7 +29,7 @@ We have separated our Volkswagen ID.4 GTX 4MOTION article into sections. If you 
 
 ## Performance
 
-With overboost, the Volkswagen ID.4 GTX 4MOTION has a maximum power of 250KW (340hp). Without overboost, it is 210KW (286hp). The torque is 679nm with overboost and 545 without overboost. The 0-100km/h sprint (0-62mph) is performed in 5,5 seconds with overboost and 6,7 seconds without overboost. The top speed is 180 km/h. 
+With overboost, the Volkswagen ID.4 GTX 4MOTION has a maximum power of 250KW (340hp). Without overboost, it is 210KW (286hp). The torque is 679nm with overboost and 545 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,5 seconds with overboost and 6,7 seconds without overboost. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -160,7 +160,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Volkswagen ID.4 GTX 4MOTION has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12,9 inches large. 
+The Volkswagen ID.4 GTX 4MOTION has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12,9 inches large. 
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/screens_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="2000"  >}}
@@ -172,7 +172,7 @@ A head-up display is an optional system that presents speed and other important 
 
 You can choose between two sound systems on the Volkswagen ID.4 GTX 4MOTION. With the Sound system, you get six speakers with a max system output of 140 watts. With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts. 
 
-In addition, with the an optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID.4 GTX 4MOTION supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID.4 GTX 4MOTION supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights
@@ -191,17 +191,17 @@ The Volkswagen ID.4 GTX 4MOTION has several standard and optional [advanced driv
 
 
 
-The Volkswagen ID.4 GTX 4MOTION has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Volkswagen ID.4 GTX 4MOTION has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Volkswagen ID.4 GTX 4MOTION has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Volkswagen ID.4 GTX 4MOTION has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Volkswagen ID.4 GTX 4MOTION has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Volkswagen ID.4 GTX 4MOTION has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Volkswagen ID.4 GTX 4MOTION has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Volkswagen ID.4 GTX 4MOTION has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
@@ -235,4 +235,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had world premiere 10.10.2023 and deliveries started November 2023.
+This model had a world premiere on 10.10.2023, and deliveries started in November 2023.

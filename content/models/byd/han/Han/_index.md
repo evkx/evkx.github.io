@@ -29,7 +29,7 @@ We have separated our BYD Han article into sections. If you want to wait to read
 
 ## Performance
 
-The BYD Han has a maximum power of 380KW (517hp). The total torque is 700nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 180 km/h. 
+The BYD Han has a maximum power of 380KW (517hp). The total torque is 700nm. It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -156,7 +156,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-BYD Han has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large. The touch screen on the dashboard's center  is 15,6 inches large. 
+The BYD Han has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large. The touch screen on the dashboard's center  is 15,6 inches large. 
 
 
 {{< sitefiguresized thumb="models/byd/han/han/screens_1_st.jpg" title="BYD Han" width="1920" height="1059"  >}}
@@ -166,7 +166,7 @@ BYD Han has twin screens on a shared frame mounted with brackets on top of the d
 
 You can choose between two sound systems on the BYD Han. With the Surroundsystem, you get seven speakers with a max system output of  watts. With the Premium sound system, you get 12 speakers with a max system output of  watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 1 USB-C connections as standard. The model has 5 USB-A connections as standard. 
 ## Lights
@@ -183,11 +183,11 @@ The BYD Han has several standard and optional [advanced driver assistance system
 
 
 
-The BYD Han has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The BYD Han has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The BYD Han has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The BYD Han has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The BYD Han has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The BYD Han has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
@@ -195,7 +195,7 @@ The BYD Han has a [**lane-keeping assist**](../../../../technology/driverassista
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The BYD Han has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The BYD Han has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is an optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

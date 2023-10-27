@@ -29,7 +29,7 @@ We have separated our Audi Q8 50 e-tron article into sections. If you want to wa
 
 ## Performance
 
-The Audi Q8 50 e-tron has a maximum power of 230KW (313hp). The total torque is 540nm. The 0-100km/h sprint (0-62mph) takes 6,8 seconds. The top speed is 200 km/h. 
+The Audi Q8 50 e-tron has a maximum power of 230KW (313hp). The total torque is 540nm. It performs the 0-100km/h sprint (0-62mph) in 6,8 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -78,7 +78,7 @@ You can choose between 61 different paint colors when ordering this model.
 You can also choose several styling options to make your car more unique. 
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
 
-The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and, if equipped with rails, black rails.
+The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
 Additionally, you can choose between 10 wheels with sizes from 19 to 22 inches. 
 
@@ -218,7 +218,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Audi Q8 50 e-tron has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. The touch screen at the bottom of the center console is 8,6 inches large and has a 1280 x 660 pixels resolution. 
+The Audi Q8 50 e-tron has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. The touch screen at the bottom of the center console is 8,6 inches large and has a 1280 x 660 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_50_e-tron/screens_1_st.jpg" title="Audi Q8 50 e-tron" width="3000" height="2249"  >}}
@@ -230,7 +230,7 @@ A head-up display is an optional system that presents speed and other important 
 
 You can choose between two sound systems on the Audi Q8 50 e-tron. With the Audi Sound system, you get ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 speakers with a max system output of 700 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q8 50 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q8 50 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections. 
 ## Lights
@@ -249,11 +249,11 @@ The Audi Q8 50 e-tron has several standard and optional [advanced driver assista
 
 
 
-The Audi Q8 50 e-tron has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Audi Q8 50 e-tron has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Audi Q8 50 e-tron has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Audi Q8 50 e-tron has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Audi Q8 50 e-tron has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Audi Q8 50 e-tron has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
@@ -261,7 +261,7 @@ The Audi Q8 50 e-tron has a [**lane-keeping assist**](../../../../technology/dri
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Audi Q8 50 e-tron has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Audi Q8 50 e-tron has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is an optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
@@ -296,4 +296,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had world premiere 09.11.2022 and deliveries started March 2023.
+This model had a world premiere on 09.11.2022, and deliveries started in March 2023.

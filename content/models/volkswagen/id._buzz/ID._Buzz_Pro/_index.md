@@ -29,7 +29,7 @@ We have separated our Volkswagen ID. Buzz Pro article into sections. If you want
 
 ## Performance
 
-The Volkswagen ID. Buzz Pro has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 10,2 seconds. The top speed is 145 km/h. 
+The Volkswagen ID. Buzz Pro has a maximum power of 150KW (204hp). The total torque is 310nm. It performs the 0-100km/h sprint (0-62mph) in 10,2 seconds. The top speed is 145 km/h. 
 
 ## Battery, range, and charging
 
@@ -162,7 +162,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Volkswagen ID. Buzz Pro has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12 inches large and has a 1920 x 869 pixels resolution. 
+The Volkswagen ID. Buzz Pro has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5 inches large. The touch screen on the dashboard's center  is 12 inches large and has a 1920 x 869 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/screens_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
@@ -174,7 +174,7 @@ A head-up display is an optional system that presents speed and other important 
 
 One type of sound system is available for the Volkswagen ID. Buzz Pro. With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID. Buzz Pro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID. Buzz Pro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 5 USB-C connections as standard. 
 ## Lights
@@ -189,17 +189,17 @@ The Volkswagen ID. Buzz Pro has several standard and optional [advanced driver a
 
 
 
-The Volkswagen ID. Buzz Pro has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Volkswagen ID. Buzz Pro has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Volkswagen ID. Buzz Pro has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Volkswagen ID. Buzz Pro has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Volkswagen ID. Buzz Pro has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Volkswagen ID. Buzz Pro has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Volkswagen ID. Buzz Pro has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Volkswagen ID. Buzz Pro has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

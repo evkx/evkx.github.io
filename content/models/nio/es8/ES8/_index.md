@@ -29,7 +29,7 @@ We have separated our Nio ES8 article into sections. If you want to wait to read
 
 ## Performance
 
-The Nio ES8 has a maximum power of 400KW (544hp). The total torque is 725nm. The 0-100km/h sprint (0-62mph) takes 4,9 seconds. The top speed is 200 km/h. 
+The Nio ES8 has a maximum power of 400KW (544hp). The total torque is 725nm. It performs the 0-100km/h sprint (0-62mph) in 4,9 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -189,7 +189,7 @@ This model also has an optional gesture control system that lets you control spe
 
 You can choose between two sound systems on the Nio ES8. With the Surroundsystem, you get seven speakers with a max system output of  watts. With the Premium sound system, you get 12 speakers with a max system output of  watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 3 USB-A connections as standard. 
 ## Lights
@@ -206,11 +206,11 @@ The Nio ES8 has several standard and optional [advanced driver assistance system
 
 
 
-The Nio ES8 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Nio ES8 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Nio ES8 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Nio ES8 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Nio ES8 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Nio ES8 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
@@ -218,7 +218,7 @@ The Nio ES8 has a [**lane-keeping assist**](../../../../technology/driverassista
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Nio ES8 has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Nio ES8 has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is an optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

@@ -29,7 +29,7 @@ We have separated our Audi Q4 Sportback 45 e-tron article into sections. If you 
 
 ## Performance
 
-The Audi Q4 Sportback 45 e-tron has a maximum power of 210KW (286hp). The total torque is 545nm. The 0-100km/h sprint (0-62mph) takes 6,7 seconds. The top speed is 180 km/h. 
+The Audi Q4 Sportback 45 e-tron has a maximum power of 210KW (286hp). The total torque is 545nm. It performs the 0-100km/h sprint (0-62mph) in 6,7 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -78,7 +78,7 @@ You can choose between 8 different paint colors when ordering this model.
 You can also choose several styling options to make your car more unique. 
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
 
-The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and, if equipped with rails, black rails.
+The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
 Additionally, you can choose between 11 wheels with sizes from 19 to 21 inches. 
 
@@ -150,7 +150,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The 1-zone climate system supports only controlling one common zone for the whole car. The 3-zone climate system supports different temperatures in three zones for the driver, passenger, and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option . This heat pump can save significant energy used for heating in cold weather. 
+You can choose from two different climate systems. The 1-zone climate system supports only controlling one shared zone for the whole car. The 3-zone climate system supports different temperatures in three zones for the driver, passenger, and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -170,7 +170,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Audi Q4 Sportback 45 e-tron has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10,2 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 11,6 inches large and has a 1540 x 720 pixels resolution. 
+The Audi Q4 Sportback 45 e-tron has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10,2 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 11,6 inches large and has a 1540 x 720 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron/screens_1_st.jpg" title="Audi Q4 Sportback 45 e-tron" width="3000" height="2001"  >}}
@@ -182,7 +182,7 @@ A head-up display is an optional system that presents speed and other important 
 
 You can choose between two sound systems on the Audi Q4 Sportback 45 e-tron. With the Audi Sound system, you get eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten speakers with a max system output of 580 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 Sportback 45 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 Sportback 45 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections. 
 ## Lights
@@ -201,23 +201,23 @@ The Audi Q4 Sportback 45 e-tron has several standard and optional [advanced driv
 
 
 
-The Audi Q4 Sportback 45 e-tron has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Audi Q4 Sportback 45 e-tron has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Audi Q4 Sportback 45 e-tron has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Audi Q4 Sportback 45 e-tron has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Audi Q4 Sportback 45 e-tron has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Audi Q4 Sportback 45 e-tron has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Audi Q4 Sportback 45 e-tron has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Audi Q4 Sportback 45 e-tron has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is an optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is an optional driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is an optional  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is an optional driver-assist system designed to warn occupants against opening doors if there is a risk of hitting something. 
 
 ### Driving Automation
 
@@ -248,4 +248,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had world premiere 21.09.2023 and deliveries started December 2023.
+This model had a world premiere on 21.09.2023, and deliveries started in December 2023.

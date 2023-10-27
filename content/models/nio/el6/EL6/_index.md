@@ -29,7 +29,7 @@ We have separated our Nio EL6 article into sections. If you want to wait to read
 
 ## Performance
 
-The Nio EL6 has a maximum power of 480KW (653hp). The total torque is 850nm. The 0-100km/h sprint (0-62mph) takes 4,5 seconds. The top speed is 200 km/h. 
+The Nio EL6 has a maximum power of 480KW (653hp). The total torque is 850nm. It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -180,7 +180,7 @@ A gesture control system that lets you control specific features using your hand
 
 One type of sound system is available for the Nio EL6. With the Premium sound system, you get 23 speakers with a max system output of  watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
@@ -193,11 +193,11 @@ The Nio EL6 has several standard and optional [advanced driver assistance system
 
 
 
-The Nio EL6 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Nio EL6 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Nio EL6 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Nio EL6 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Nio EL6 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Nio EL6 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
@@ -205,7 +205,7 @@ The Nio EL6 has a [**lane-keeping assist**](../../../../technology/driverassista
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Nio EL6 has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Nio EL6 has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is an optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

@@ -29,7 +29,7 @@ We have separated our Lucid Air Sapphire article into sections. If you want to w
 
 ## Performance
 
-The Lucid Air Sapphire has a maximum power of 920KW (1251hp). The total torque is 1390nm. The 0-100km/h sprint (0-62mph) takes 1,95 seconds. The top speed is 330 km/h. 
+The Lucid Air Sapphire has a maximum power of 920KW (1251hp). The total torque is 1390nm. It performs the 0-100km/h sprint (0-62mph) in 1,95 seconds. The top speed is 330 km/h. 
 
 ## Battery, range, and charging
 
@@ -160,7 +160,7 @@ On top of the dashboard is a shared frame with three screens, and in the center 
 
 One type of sound system is available for the Lucid Air Sapphire. With the Surreal Sound System, you get 21 speakers with a max system output of  watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
@@ -177,11 +177,11 @@ The Lucid Air Sapphire has several standard and optional [advanced driver assist
 
 
 
-The Lucid Air Sapphire has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Lucid Air Sapphire has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Lucid Air Sapphire has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Lucid Air Sapphire has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Lucid Air Sapphire has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Lucid Air Sapphire has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 

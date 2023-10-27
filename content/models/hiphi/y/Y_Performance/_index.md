@@ -29,7 +29,7 @@ We have separated our HiPhi Y Performance article into sections. If you want to 
 
 ## Performance
 
-The HiPhi Y Performance has a maximum power of 371KW (504hp). The total torque is 620nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. 
+The HiPhi Y Performance has a maximum power of 371KW (504hp). The total torque is 620nm. It performs the 0-100km/h sprint (0-62mph) in 4,7 seconds. 
 
 ## Battery, range, and charging
 
@@ -151,7 +151,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-HiPhi Y Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large. The touch screen at the top of the center console is 17 inches large. The touch screen in front of the passenger in the dashboard is 15 inches large. 
+The HiPhi Y Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large. The touch screen at the top of the center console is 17 inches large. The touch screen in front of the passenger in the dashboard is 15 inches large. 
 
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/screens_1_st.jpg" title="HiPhi Y Performance" width="1000" height="536"  >}}
@@ -167,7 +167,7 @@ A gesture control system that lets you control specific features using your hand
 
 You can choose between two sound systems on the HiPhi Y Performance. With the SONIC LINE SYSTEM, you get 14 speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get 25 speakers with a max system output of 2820 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights
@@ -184,21 +184,21 @@ The HiPhi Y Performance has several standard and optional [advanced driver assis
 
 
 
-The HiPhi Y Performance has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The HiPhi Y Performance has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The HiPhi Y Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The HiPhi Y Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The HiPhi Y Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The HiPhi Y Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The HiPhi Y Performance has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The HiPhi Y Performance has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard driver-assist system designed to warn occupants against opening doors if there is a risk of hitting something. 
 
 ### Driving Automation
 
@@ -221,4 +221,4 @@ The cargo capacity in the trunk is 692 liters. With the rear seat down, it is 18
 This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
 ### Availability & Pricing
 
-This model had world premiere 18.04.2023 and deliveries is expected to start March 2024.
+This model had a world premiere on 18.04.2023, and deliveries is expected to start in March 2024.

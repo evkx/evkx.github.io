@@ -29,7 +29,7 @@ We have separated our Lexus RZ 450e article into sections. If you want to wait t
 
 ## Performance
 
-The Lexus RZ 450e has a maximum power of 230KW (313hp). The total torque is 435nm. The 0-100km/h sprint (0-62mph) takes 5,3 seconds. The top speed is 160 km/h. 
+The Lexus RZ 450e has a maximum power of 230KW (313hp). The total torque is 435nm. It performs the 0-100km/h sprint (0-62mph) in 5,3 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -128,7 +128,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option . This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zone for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -158,7 +158,7 @@ A head-up display is an optional system that presents speed and other important 
 
 You can choose between two sound systems on the Lexus RZ 450e. With the Standard, you get 14 speakers with a max system output of  watts. With the Mark Levinson Premium Surround Sound, you get 14 speakers with a max system output of  watts. 
 
-In addition, with the an optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Lexus RZ 450e supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Lexus RZ 450e supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 5 USB-C connections as standard. 
 ## Lights
@@ -175,11 +175,11 @@ The Lexus RZ 450e has several standard and optional [advanced driver assistance 
 
 
 
-The Lexus RZ 450e has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Lexus RZ 450e has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Lexus RZ 450e has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Lexus RZ 450e has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

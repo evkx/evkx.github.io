@@ -29,7 +29,7 @@ We have separated our Polestar 3 Long Range Dual Motor Performance article into 
 
 ## Performance
 
-The Polestar 3 Long Range Dual Motor Performance has a maximum power of 380KW (517hp). The total torque is 910nm. The 0-100km/h sprint (0-62mph) takes 4,7 seconds. The top speed is 210 km/h. 
+The Polestar 3 Long Range Dual Motor Performance has a maximum power of 380KW (517hp). The total torque is 910nm. It performs the 0-100km/h sprint (0-62mph) in 4,7 seconds. The top speed is 210 km/h. 
 
 ## Battery, range, and charging
 
@@ -141,7 +141,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Polestar 3 Long Range Dual Motor Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9 inches large. The touch screen at the top of the center console is 14,5 inches large. 
+The Polestar 3 Long Range Dual Motor Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9 inches large. The touch screen at the top of the center console is 14,5 inches large. 
 
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2251"  >}}
@@ -170,15 +170,15 @@ The Polestar 3 Long Range Dual Motor Performance has several standard and option
 
 
 
-The Polestar 3 Long Range Dual Motor Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Polestar 3 Long Range Dual Motor Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Polestar 3 Long Range Dual Motor Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Polestar 3 Long Range Dual Motor Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Polestar 3 Long Range Dual Motor Performance has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Polestar 3 Long Range Dual Motor Performance has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 

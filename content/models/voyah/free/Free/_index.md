@@ -29,7 +29,7 @@ We have separated our VOYAH FREE article into sections. If you want to wait to r
 
 ## Performance
 
-The VOYAH FREE has a maximum power of 360KW (489hp). The total torque is 720nm. The 0-100km/h sprint (0-62mph) takes 4,4 seconds. The top speed is 200 km/h. 
+The VOYAH FREE has a maximum power of 360KW (489hp). The total torque is 720nm. It performs the 0-100km/h sprint (0-62mph) in 4,4 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -131,7 +131,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large. The  screen in the dashboard's center  is 12,3 inches large. The  screen in front of the passenger in the dashboard is 12,3 inches large. 
+The VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large. The  screen in the dashboard's center  is 12,3 inches large. The  screen in front of the passenger in the dashboard is 12,3 inches large. 
 
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}
@@ -141,7 +141,7 @@ VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digi
 
 One type of sound system is available for the VOYAH FREE. With the DYNAUDIO HIFI Sound system, you get NULL speakers with a max system output of  watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 1 USB-C connections as standard. The model has 3 USB-A connections as standard. 
 ## Lights
@@ -154,11 +154,11 @@ The VOYAH FREE has several standard and optional [advanced driver assistance sys
 
 
 
-The VOYAH FREE has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The VOYAH FREE has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The VOYAH FREE has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The VOYAH FREE has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The VOYAH FREE has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The VOYAH FREE has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 ### Driving Automation
 

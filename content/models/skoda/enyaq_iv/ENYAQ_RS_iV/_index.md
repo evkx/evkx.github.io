@@ -29,7 +29,7 @@ We have separated our SKODA ENYAQ RS iV article into sections. If you want to wa
 
 ## Performance
 
-With overboost, the SKODA ENYAQ RS iV has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. The 0-100km/h sprint (0-62mph) is performed in 6,5 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h. 
+With overboost, the SKODA ENYAQ RS iV has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. It performs the 0-100km/h sprint (0-62mph) in 6,5 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -139,7 +139,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-SKODA ENYAQ RS iV has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5,3 inches large. The touch screen on the dashboard's center  is 13 inches large. 
+The SKODA ENYAQ RS iV has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5,3 inches large. The touch screen on the dashboard's center  is 13 inches large. 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
@@ -147,7 +147,7 @@ A head-up display is an optional system that presents speed and other important 
 
 One type of sound system is available for the SKODA ENYAQ RS iV. With the Canton Soundsystem, you get ten speakers with a max system output of 550 watts. 
 
-In addition, with the an optional in-car navigation system, you get the help you need to find your destination. Furthermore, the SKODA ENYAQ RS iV supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the SKODA ENYAQ RS iV supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights
@@ -162,17 +162,17 @@ The SKODA ENYAQ RS iV has several standard and optional [advanced driver assista
 
 
 
-The SKODA ENYAQ RS iV has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The SKODA ENYAQ RS iV has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The SKODA ENYAQ RS iV has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The SKODA ENYAQ RS iV has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The SKODA ENYAQ RS iV has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The SKODA ENYAQ RS iV has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The SKODA ENYAQ RS iV has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The SKODA ENYAQ RS iV has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

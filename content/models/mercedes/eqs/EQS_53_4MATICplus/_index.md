@@ -29,9 +29,9 @@ We have separated our Mercedes-AMG EQS 53 4MATIC+ article into sections. If you 
 
 ## Performance
 
-The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 484KW (658hp). The total torque is 858nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. The top speed is 220 km/h. 
+The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 484KW (658hp). The total torque is 858nm. It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 220 km/h. 
 
-If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 560KW (761hp). The total torque is 1020nm. The 0-100km/h sprint (0-62mph) takes 3,4 seconds. The top speed is 250 km/h. 
+If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 560KW (761hp). The total torque is 1020nm. It performs the 0-100km/h sprint (0-62mph) in 3,4 seconds. The top speed is 250 km/h. 
 
 ## Battery, range, and charging
 
@@ -178,7 +178,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Mercedes-AMG EQS 53 4MATIC+ has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
+The Mercedes-AMG EQS 53 4MATIC+ has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17,7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/screens_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="1695"  >}}
@@ -194,7 +194,7 @@ This model also has an optional gesture control system that lets you control spe
 
 You can choose between two sound systems on the Mercedes-AMG EQS 53 4MATIC+. With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-AMG EQS 53 4MATIC+ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-AMG EQS 53 4MATIC+ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections. 
 ## Lights
@@ -207,17 +207,17 @@ The Mercedes-AMG EQS 53 4MATIC+ has several standard and optional [advanced driv
 
 
 
-The Mercedes-AMG EQS 53 4MATIC+ has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Mercedes-AMG EQS 53 4MATIC+ has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Mercedes-AMG EQS 53 4MATIC+ has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Mercedes-AMG EQS 53 4MATIC+ has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Mercedes-AMG EQS 53 4MATIC+ has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Mercedes-AMG EQS 53 4MATIC+ has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Mercedes-AMG EQS 53 4MATIC+ has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Mercedes-AMG EQS 53 4MATIC+ has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is an optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

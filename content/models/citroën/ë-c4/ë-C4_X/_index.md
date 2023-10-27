@@ -29,7 +29,7 @@ We have separated our Citroën ë-C4 X article into sections. If you want to wai
 
 ## Performance
 
-The Citroën ë-C4 X has a maximum power of 115KW (156hp). The total torque is 260nm. The 0-100km/h sprint (0-62mph) takes 9 seconds. The top speed is 150 km/h. 
+The Citroën ë-C4 X has a maximum power of 115KW (156hp). The total torque is 260nm. It performs the 0-100km/h sprint (0-62mph) in 9 seconds. The top speed is 150 km/h. 
 
 ## Battery, range, and charging
 
@@ -140,7 +140,7 @@ A head-up display is a standard system that presents speed and other important d
 
 One type of sound system is available for the Citroën ë-C4 X. With the , you get NULL speakers with a max system output of  watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Citroën ë-C4 X supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Citroën ë-C4 X supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 
 ## Lights
@@ -157,7 +157,7 @@ The Citroën ë-C4 X has several standard and optional [advanced driver assistan
 
 
 
-The Citroën ë-C4 X has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Citroën ë-C4 X has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 ### Driving Automation
 

@@ -29,7 +29,7 @@ We have separated our GMC Hummer EV Edition 1 Pickup article into sections. If y
 
 ## Performance
 
-The GMC Hummer EV Edition 1 Pickup has a maximum power of 746KW (1014hp). The total torque is 1485nm. The 0-100km/h sprint (0-62mph) takes 3,5 seconds. The top speed is 170 km/h. 
+The GMC Hummer EV Edition 1 Pickup has a maximum power of 746KW (1014hp). The total torque is 1485nm. It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 170 km/h. 
 
 ## Battery, range, and charging
 
@@ -136,7 +136,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center  is 13,4 inches large and has a 1888x1728 pixels resolution. 
+The GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12,3 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center  is 13,4 inches large and has a 1888x1728 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
@@ -146,7 +146,7 @@ GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with b
 
 One type of sound system is available for the GMC Hummer EV Edition 1 Pickup. With the Bose Premium Sound System, you get 14 speakers with a max system output of 625 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the GMC Hummer EV Edition 1 Pickup supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the GMC Hummer EV Edition 1 Pickup supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard. 
 ## Lights
@@ -159,9 +159,9 @@ The GMC Hummer EV Edition 1 Pickup has several standard and optional [advanced d
 
 
 
-The GMC Hummer EV Edition 1 Pickup has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The GMC Hummer EV Edition 1 Pickup has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The GMC Hummer EV Edition 1 Pickup has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The GMC Hummer EV Edition 1 Pickup has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 

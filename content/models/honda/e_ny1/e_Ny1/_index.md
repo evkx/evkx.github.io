@@ -29,7 +29,7 @@ We have separated our Honda e:Ny1 article into sections. If you want to wait to 
 
 ## Performance
 
-The Honda e:Ny1 has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 7,7 seconds. The top speed is 160 km/h. 
+The Honda e:Ny1 has a maximum power of 150KW (204hp). The total torque is 310nm. It performs the 0-100km/h sprint (0-62mph) in 7,7 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -115,7 +115,7 @@ Honda e:Ny1 has several features to make your life as a driver or passenger more
 
 ## User interface and control
 
-Honda e:Ny1 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9 inches large. The touch screen at the top of the center console is 15,2 inches large. 
+The Honda e:Ny1 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9 inches large. The touch screen at the top of the center console is 15,2 inches large. 
 
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/screens_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}

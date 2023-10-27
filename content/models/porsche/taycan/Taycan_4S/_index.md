@@ -29,9 +29,9 @@ We have separated our Porsche Taycan 4S article into sections. If you want to wa
 
 ## Performance
 
-With overboost, the Porsche Taycan 4S has a maximum power of 390KW (530hp). Without overboost, it is 320KW (435hp). The torque is 640nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 230 km/h. 
+With overboost, the Porsche Taycan 4S has a maximum power of 390KW (530hp). Without overboost, it is 320KW (435hp). The torque is 640nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 4 seconds. The top speed is 230 km/h. 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan 4S has a maximum power of 420KW (571hp). Without overboost, it is 320KW (435hp). The torque is 650nm with overboost and  without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 250 km/h. 
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan 4S has a maximum power of 420KW (571hp). Without overboost, it is 320KW (435hp). The torque is 650nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 4 seconds. The top speed is 250 km/h. 
 
 ## Battery, range, and charging
 
@@ -182,7 +182,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger, and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option . This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger, and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -198,7 +198,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-Porsche Taycan 4S has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen). The touch screen behind the steering wheel integrated into the dashboard is 16,8 inches large. The touch screen at the top of the center console is 10,9 inches large. The touch screen at the bottom of the center console is 8,4 inches large. The touch screen in front of the passenger in the dashboard is 10,9 inches large. 
+The Porsche Taycan 4S has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen). The touch screen behind the steering wheel integrated into the dashboard is 16,8 inches large. The touch screen at the top of the center console is 10,9 inches large. The touch screen at the bottom of the center console is 8,4 inches large. The touch screen in front of the passenger in the dashboard is 10,9 inches large. 
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/screens_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="1870"  >}}
@@ -210,7 +210,7 @@ A head-up display is an optional system that presents speed and other important 
 
 You can choose between three sound systems on the Porsche Taycan 4S. With the Porsche Sound system, you get ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1455 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Taycan 4S supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Taycan 4S supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 
 ## Lights
@@ -225,11 +225,11 @@ The Porsche Taycan 4S has several standard and optional [advanced driver assista
 
 
 
-The Porsche Taycan 4S has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Porsche Taycan 4S has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Porsche Taycan 4S has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Porsche Taycan 4S has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Porsche Taycan 4S has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Porsche Taycan 4S has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
@@ -237,7 +237,7 @@ The Porsche Taycan 4S has a [**lane-keeping assist**](../../../../technology/dri
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Porsche Taycan 4S has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Porsche Taycan 4S has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

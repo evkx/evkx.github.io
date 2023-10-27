@@ -29,7 +29,7 @@ We have separated our Hongqi E-HS9 Exclusive+ article into sections. If you want
 
 ## Performance
 
-The Hongqi E-HS9 Exclusive+ has a maximum power of 405KW (551hp). The total torque is 670nm. The 0-100km/h sprint (0-62mph) takes 4,9 seconds. The top speed is 200 km/h. 
+The Hongqi E-HS9 Exclusive+ has a maximum power of 405KW (551hp). The total torque is 670nm. It performs the 0-100km/h sprint (0-62mph) in 4,9 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -150,7 +150,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Hongqi E-HS9 Exclusive+ has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16,2 inches large. The touch screen in the dashboard's center  is 16,2 inches large. The touch screen in front of the passenger in the dashboard is 16,2 inches large. The touch screen in the middle of the center console is 10,2 inches large. 
+The Hongqi E-HS9 Exclusive+ has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16,2 inches large. The touch screen in the dashboard's center  is 16,2 inches large. The touch screen in front of the passenger in the dashboard is 16,2 inches large. The touch screen in the middle of the center console is 10,2 inches large. 
 
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="1800"  >}}
@@ -164,7 +164,7 @@ This model also has an optional gesture control system that lets you control spe
 
 One type of sound system is available for the Hongqi E-HS9 Exclusive+. With the Hongqi sound system, you get 16 speakers with a max system output of  watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 1 USB-C connections as standard. The model has 3 USB-A connections as standard. 
 ## Lights
@@ -181,11 +181,11 @@ The Hongqi E-HS9 Exclusive+ has several standard and optional [advanced driver a
 
 
 
-The Hongqi E-HS9 Exclusive+ has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Hongqi E-HS9 Exclusive+ has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Hongqi E-HS9 Exclusive+ has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Hongqi E-HS9 Exclusive+ has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Hongqi E-HS9 Exclusive+ has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Hongqi E-HS9 Exclusive+ has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
@@ -193,7 +193,7 @@ The Hongqi E-HS9 Exclusive+ has a [**lane-keeping assist**](../../../../technolo
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Hongqi E-HS9 Exclusive+ has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Hongqi E-HS9 Exclusive+ has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is an optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

@@ -29,7 +29,7 @@ We have separated our Citroën ë-C3 article into sections. If you want to wait 
 
 ## Performance
 
-The Citroën ë-C3 has a maximum power of 83KW (113hp). The total torque is nm. The 0-100km/h sprint (0-62mph) takes 11 seconds. The top speed is 135 km/h. 
+The Citroën ë-C3 has a maximum power of 83KW (113hp). The total torque is nm. It performs the 0-100km/h sprint (0-62mph) in 11 seconds. The top speed is 135 km/h. 
 
 ## Battery, range, and charging
 
@@ -126,7 +126,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The standard climate system supports only controlling one common zone for the whole car. 
+There is one climate system available. The standard climate system supports only controlling one shared zone for the whole car. 
 
 ## Comfort
 
@@ -140,7 +140,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Citroën ë-C3 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 5 inches large. The touch screen at the top of the center console is 10,25 inches large. 
+The Citroën ë-C3 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 5 inches large. The touch screen at the top of the center console is 10,25 inches large. 
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}
@@ -150,7 +150,7 @@ Citroën ë-C3 has multiple integrated screens. Behind the steering wheel is a [
 
 One type of sound system is available for the Citroën ë-C3. With the , you get NULL speakers with a max system output of  watts. 
 
-In addition, with the an optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Citroën ë-C3 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Citroën ë-C3 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights
@@ -167,7 +167,7 @@ The Citroën ë-C3 has several standard and optional [advanced driver assistance
 
 
 
-The Citroën ë-C3 has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Citroën ë-C3 has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 
@@ -191,4 +191,4 @@ This model is not available with a towbar. So if you need to pull a trailer, you
 
 ### Availability & Pricing
 
-This model had world premiere 17.10.2023 and deliveries is expected to start May 2024.
+This model had a world premiere on 17.10.2023, and deliveries is expected to start in May 2024.

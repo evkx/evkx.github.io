@@ -29,7 +29,7 @@ We have separated our Nissan Ariya 63kWh article into sections. If you want to w
 
 ## Performance
 
-The Nissan Ariya 63kWh has a maximum power of 160KW (218hp). The total torque is 300nm. The 0-100km/h sprint (0-62mph) takes 7,5 seconds. The top speed is 160 km/h. 
+The Nissan Ariya 63kWh has a maximum power of 160KW (218hp). The total torque is 300nm. It performs the 0-100km/h sprint (0-62mph) in 7,5 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -141,7 +141,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Nissan Ariya 63kWh has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large. The touch screen at the right part of the shared frame is 12,3 inches large. 
+The Nissan Ariya 63kWh has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large. The touch screen at the right part of the shared frame is 12,3 inches large. 
 
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/screens_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="1999"  >}}
@@ -157,7 +157,7 @@ A gesture control system that lets you control specific features using your hand
 
 You can choose between two sound systems on the Nissan Ariya 63kWh. With the DAB Audiosystem, you get six speakers with a max system output of  watts. With the BOSE Premium Sound System, you get ten speakers with a max system output of  watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Nissan Ariya 63kWh supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Nissan Ariya 63kWh supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 
 ## Lights
@@ -170,17 +170,17 @@ The Nissan Ariya 63kWh has several standard and optional [advanced driver assist
 
 
 
-The Nissan Ariya 63kWh has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Nissan Ariya 63kWh has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Nissan Ariya 63kWh has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Nissan Ariya 63kWh has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Nissan Ariya 63kWh has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Nissan Ariya 63kWh has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Nissan Ariya 63kWh has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Nissan Ariya 63kWh has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 

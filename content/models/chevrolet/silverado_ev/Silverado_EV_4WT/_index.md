@@ -29,7 +29,7 @@ We have separated our Chevrolet Silverado EV 4WT article into sections. If you w
 
 ## Performance
 
-The Chevrolet Silverado EV 4WT has a maximum power of 380KW (517hp). The total torque is 834nm. The 0-100km/h sprint (0-62mph) takes 4,5 seconds. The top speed is 170 km/h. 
+The Chevrolet Silverado EV 4WT has a maximum power of 380KW (517hp). The total torque is 834nm. It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 170 km/h. 
 
 ## Battery, range, and charging
 
@@ -146,7 +146,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Chevrolet Silverado EV 4WT has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center  is 11 inches large and has a 1888x1728 pixels resolution. 
+The Chevrolet Silverado EV 4WT has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center  is 11 inches large and has a 1888x1728 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
@@ -156,7 +156,7 @@ Chevrolet Silverado EV 4WT has twin screens on a shared frame mounted with brack
 
 One type of sound system is available for the Chevrolet Silverado EV 4WT. With the Chevrolet Sound System, you get six speakers with a max system output of 200 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Chevrolet Silverado EV 4WT supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Chevrolet Silverado EV 4WT supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights
@@ -169,9 +169,9 @@ The Chevrolet Silverado EV 4WT has several standard and optional [advanced drive
 
 
 
-The Chevrolet Silverado EV 4WT has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Chevrolet Silverado EV 4WT has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Chevrolet Silverado EV 4WT has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Chevrolet Silverado EV 4WT has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 

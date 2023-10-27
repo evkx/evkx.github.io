@@ -29,7 +29,7 @@ We have separated our Fisker Ocean Extreme article into sections. If you want to
 
 ## Performance
 
-With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). Without overboost, it is 344KW (468hp). The torque is 737nm with overboost and 696 without overboost. The 0-100km/h sprint (0-62mph) takes 4 seconds. The top speed is 205 km/h. 
+With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). Without overboost, it is 344KW (468hp). The torque is 737nm with overboost and 696 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4 seconds. The top speed is 205 km/h. 
 
 ## Battery, range, and charging
 
@@ -136,7 +136,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Fisker Ocean Extreme has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10,2 inches large. The touch screen in the middle of the center console is 17,1 inches large. 
+The Fisker Ocean Extreme has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10,2 inches large. The touch screen in the middle of the center console is 17,1 inches large. 
 
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/screens_1_st.jpg" title="Fisker Ocean Extreme" width="1920" height="1080"  >}}
@@ -146,7 +146,7 @@ Fisker Ocean Extreme has multiple integrated screens. Behind the steering wheel 
 
 One type of sound system is available for the Fisker Ocean Extreme. With the Fisker Hypersound 3D, you get 16 speakers with a max system output of 500 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
@@ -161,21 +161,21 @@ The Fisker Ocean Extreme has several standard and optional [advanced driver assi
 
 
 
-The Fisker Ocean Extreme has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Fisker Ocean Extreme has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Fisker Ocean Extreme has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Fisker Ocean Extreme has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Fisker Ocean Extreme has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Fisker Ocean Extreme has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Fisker Ocean Extreme has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Fisker Ocean Extreme has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard driver-assist system designed to warn occupants against opening doors if there is a risk of hitting something. 
 
 ### Driving Automation
 

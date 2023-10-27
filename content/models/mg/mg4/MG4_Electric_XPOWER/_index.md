@@ -29,7 +29,7 @@ We have separated our MG MG4 Electric XPOWER article into sections. If you want 
 
 ## Performance
 
-The MG MG4 Electric XPOWER has a maximum power of 320KW (435hp). The total torque is 600nm. The 0-100km/h sprint (0-62mph) takes 3,8 seconds. The top speed is 160 km/h. 
+The MG MG4 Electric XPOWER has a maximum power of 320KW (435hp). The total torque is 600nm. It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -122,7 +122,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports only controlling one common zone for the whole car. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The  climate system supports only controlling one shared zone for the whole car. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -152,7 +152,7 @@ A gesture control system that lets you control specific features using your hand
 
 One type of sound system is available for the MG MG4 Electric XPOWER. With the , you get NULL speakers with a max system output of  watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the MG MG4 Electric XPOWER supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the MG MG4 Electric XPOWER supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
@@ -165,7 +165,7 @@ The MG MG4 Electric XPOWER has several standard and optional [advanced driver as
 
 
 
-The MG MG4 Electric XPOWER has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The MG MG4 Electric XPOWER has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 ### Driving Automation
 

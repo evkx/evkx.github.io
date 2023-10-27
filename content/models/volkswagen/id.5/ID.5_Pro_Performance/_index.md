@@ -35,7 +35,7 @@ This model has been replaced by [Volkswagen ID.5 Pro](/models/volkswagen/id.5/id
 
 ## Performance
 
-The Volkswagen ID.5 Pro Performance has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 8,4 seconds. The top speed is 160 km/h. 
+The Volkswagen ID.5 Pro Performance has a maximum power of 150KW (204hp). The total torque is 310nm. It performs the 0-100km/h sprint (0-62mph) in 8,4 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -189,7 +189,7 @@ A head-up display is an optional system that presents speed and other important 
 
 You can choose between two sound systems on the Volkswagen ID.5 Pro Performance. With the Sound system, you get six speakers with a max system output of 140 watts. With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts. 
 
-In addition, with the an optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID.5 Pro Performance supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID.5 Pro Performance supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights
@@ -208,17 +208,17 @@ The Volkswagen ID.5 Pro Performance has several standard and optional [advanced 
 
 
 
-The Volkswagen ID.5 Pro Performance has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Volkswagen ID.5 Pro Performance has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Volkswagen ID.5 Pro Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Volkswagen ID.5 Pro Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Volkswagen ID.5 Pro Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Volkswagen ID.5 Pro Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Volkswagen ID.5 Pro Performance has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Volkswagen ID.5 Pro Performance has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

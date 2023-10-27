@@ -29,7 +29,7 @@ We have separated our HiPhi X 6 Seater article into sections. If you want to wai
 
 ## Performance
 
-The HiPhi X 6 Seater has a maximum power of 433KW (589hp). The total torque is 820nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. 
+The HiPhi X 6 Seater has a maximum power of 433KW (589hp). The total torque is 820nm. It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. 
 
 ## Battery, range, and charging
 
@@ -159,7 +159,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-HiPhi X 6 Seater has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 14 inches large. The touch screen at the top of the center console is 16,9 inches large. The touch screen in front of the passenger in the dashboard is 19,9 inches large. 
+The HiPhi X 6 Seater has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 14 inches large. The touch screen at the top of the center console is 16,9 inches large. The touch screen in front of the passenger in the dashboard is 19,9 inches large. 
 
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/screens_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
@@ -175,7 +175,7 @@ A gesture control system that lets you control specific features using your hand
 
 You can choose between two sound systems on the HiPhi X 6 Seater. With the SONIC LINE SYSTEM, you get nine speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get 17 speakers with a max system output of 600 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 3 USB-C connections as standard. The model has 3 USB-A connections as standard. 
 ## Lights
@@ -192,21 +192,21 @@ The HiPhi X 6 Seater has several standard and optional [advanced driver assistan
 
 
 
-The HiPhi X 6 Seater has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The HiPhi X 6 Seater has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The HiPhi X 6 Seater has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The HiPhi X 6 Seater has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The HiPhi X 6 Seater has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The HiPhi X 6 Seater has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The HiPhi X 6 Seater has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The HiPhi X 6 Seater has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard driver-assist system designed to warn occupants against opening doors if there is a risk of hitting something. 
 
 ### Driving Automation
 

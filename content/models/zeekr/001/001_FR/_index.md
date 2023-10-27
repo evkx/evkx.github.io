@@ -29,7 +29,7 @@ We have separated our Zeekr 001 FR article into sections. If you want to wait to
 
 ## Performance
 
-The Zeekr 001 FR has a maximum power of 930KW (1264hp). The total torque is 1200nm. The 0-100km/h sprint (0-62mph) takes 2,07 seconds. The top speed is 280 km/h. 
+The Zeekr 001 FR has a maximum power of 930KW (1264hp). The total torque is 1200nm. It performs the 0-100km/h sprint (0-62mph) in 2,07 seconds. The top speed is 280 km/h. 
 
 ## Battery, range, and charging
 
@@ -136,7 +136,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Zeekr 001 FR has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 8,8 inches large. The touch screen at the top of the center console is 15,4 inches large. 
+The Zeekr 001 FR has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 8,8 inches large. The touch screen at the top of the center console is 15,4 inches large. 
 
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield. 
 
@@ -148,7 +148,7 @@ A gesture control system that lets you control specific features using your hand
 
 One type of sound system is available for the Zeekr 001 FR. With the Yamaha Sound System, you get 12 speakers with a max system output of 300 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Zeekr 001 FR supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Zeekr 001 FR supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
@@ -163,15 +163,15 @@ The Zeekr 001 FR has several standard and optional [advanced driver assistance s
 
 
 
-The Zeekr 001 FR has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Zeekr 001 FR has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Zeekr 001 FR has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Zeekr 001 FR has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Zeekr 001 FR has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Zeekr 001 FR has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 
@@ -193,4 +193,4 @@ The cargo capacity in the trunk is 539 liters. With the rear seat down, it is 14
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750kg. 
 ### Availability & Pricing
 
-This model had world premiere 14.04.2021 and deliveries started October 2021.
+This model had a world premiere on 14.04.2021, and deliveries started in October 2021.

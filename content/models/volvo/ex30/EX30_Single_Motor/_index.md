@@ -29,7 +29,7 @@ We have separated our Volvo EX30 Single Motor article into sections. If you want
 
 ## Performance
 
-The Volvo EX30 Single Motor has a maximum power of 200KW (272hp). The total torque is 343nm. The 0-100km/h sprint (0-62mph) takes 5,3 seconds. The top speed is 180 km/h. 
+The Volvo EX30 Single Motor has a maximum power of 200KW (272hp). The total torque is 343nm. It performs the 0-100km/h sprint (0-62mph) in 5,3 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -120,7 +120,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The  climate system supports only controlling one common zone for the whole car. The  climate system supports different temperatures in two zone for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+You can choose from two different climate systems. The  climate system supports only controlling one shared zone for the whole car. The  climate system supports different temperatures in two zone for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -138,7 +138,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Volvo EX30 Single Motor has multiple integrated screens. The touch screen at the top of the center console is 12,3 inches large. 
+The Volvo EX30 Single Motor has multiple integrated screens. The touch screen at the top of the center console is 12,3 inches large. 
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/screens_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2776"  >}}
@@ -148,7 +148,7 @@ Volvo EX30 Single Motor has multiple integrated screens. The touch screen at the
 
 You can choose between two sound systems on the Volvo EX30 Single Motor. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 1040 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights
@@ -167,19 +167,19 @@ The Volvo EX30 Single Motor has several standard and optional [advanced driver a
 
 
 
-The Volvo EX30 Single Motor has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Volvo EX30 Single Motor has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Volvo EX30 Single Motor has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Volvo EX30 Single Motor has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Volvo EX30 Single Motor has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Volvo EX30 Single Motor has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Volvo EX30 Single Motor has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Volvo EX30 Single Motor has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard driver-assist system designed to warn occupants against opening doors if there is a risk of hitting something. 
 
 ### Driving Automation
 

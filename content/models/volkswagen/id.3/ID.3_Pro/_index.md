@@ -29,7 +29,7 @@ We have separated our Volkswagen ID.3 Pro article into sections. If you want to 
 
 ## Performance
 
-The Volkswagen ID.3 Pro has a maximum power of 150KW (204hp). The total torque is 310nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. The top speed is 160 km/h. 
+The Volkswagen ID.3 Pro has a maximum power of 150KW (204hp). The total torque is 310nm. It performs the 0-100km/h sprint (0-62mph) in 7,3 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -125,7 +125,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The 1-zone Climatronic climate system supports only controlling one common zone for the whole car. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option . This heat pump can save significant energy used for heating in cold weather. 
+You can choose from two different climate systems. The 1-zone Climatronic climate system supports only controlling one shared zone for the whole car. The 2-zone Climatronic climate system supports different temperatures in two zone for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -159,7 +159,7 @@ A head-up display is an optional system that presents speed and other important 
 
 You can choose between two sound systems on the Volkswagen ID.3 Pro. With the Sound system, you get five speakers with a max system output of 140 watts. With the Volkswagen Soundsystem, you get seven speakers with a max system output of 450 watts. 
 
-In addition, with the an optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID.3 Pro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Volkswagen ID.3 Pro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights
@@ -178,17 +178,17 @@ The Volkswagen ID.3 Pro has several standard and optional [advanced driver assis
 
 
 
-The Volkswagen ID.3 Pro has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Volkswagen ID.3 Pro has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Volkswagen ID.3 Pro has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Volkswagen ID.3 Pro has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Volkswagen ID.3 Pro has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Volkswagen ID.3 Pro has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Volkswagen ID.3 Pro has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Volkswagen ID.3 Pro has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

@@ -29,7 +29,7 @@ We have separated our Volvo C40 Recharge Single Motor ER article into sections. 
 
 ## Performance
 
-The Volvo C40 Recharge Single Motor ER has a maximum power of 185KW (252hp). The total torque is 420nm. The 0-100km/h sprint (0-62mph) takes 7,3 seconds. The top speed is 160 km/h. 
+The Volvo C40 Recharge Single Motor ER has a maximum power of 185KW (252hp). The total torque is 420nm. It performs the 0-100km/h sprint (0-62mph) in 7,3 seconds. The top speed is 160 km/h. 
 
 ## Battery, range, and charging
 
@@ -138,7 +138,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Volvo C40 Recharge Single Motor ER has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The touch screen at the top of the center console is 9 inches large. 
+The Volvo C40 Recharge Single Motor ER has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The touch screen at the top of the center console is 9 inches large. 
 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/screens_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
@@ -165,15 +165,15 @@ The Volvo C40 Recharge Single Motor ER has several standard and optional [advanc
 
 
 
-The Volvo C40 Recharge Single Motor ER has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Volvo C40 Recharge Single Motor ER has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Volvo C40 Recharge Single Motor ER has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Volvo C40 Recharge Single Motor ER has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Volvo C40 Recharge Single Motor ER has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Volvo C40 Recharge Single Motor ER has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 

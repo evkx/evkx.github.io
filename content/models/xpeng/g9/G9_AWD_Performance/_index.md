@@ -29,7 +29,7 @@ We have separated our XPENG G9 AWD Performance article into sections. If you wan
 
 ## Performance
 
-The XPENG G9 AWD Performance has a maximum power of 405KW (551hp). The total torque is 717nm. The 0-100km/h sprint (0-62mph) takes 3,9 seconds. The top speed is 205 km/h. 
+The XPENG G9 AWD Performance has a maximum power of 405KW (551hp). The total torque is 717nm. It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. The top speed is 205 km/h. 
 
 ## Battery, range, and charging
 
@@ -155,7 +155,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-XPENG G9 AWD Performance has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel mounted into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 14,96 inches large. The touch screen in front of the passenger on the dashboard is 14,96 inches large. 
+The XPENG G9 AWD Performance has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel mounted into the dashboard is 10,25 inches large. The touch screen on the dashboard's center  is 14,96 inches large. The touch screen in front of the passenger on the dashboard is 14,96 inches large. 
 
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/screens_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
@@ -169,7 +169,7 @@ A gesture control system that lets you control specific features using your hand
 
 One type of sound system is available for the XPENG G9 AWD Performance. With the , you get 24 speakers with a max system output of 1940 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
 
 ## Lights
@@ -182,11 +182,11 @@ The XPENG G9 AWD Performance has several standard and optional [advanced driver 
 
 
 
-The XPENG G9 AWD Performance has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The XPENG G9 AWD Performance has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The XPENG G9 AWD Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The XPENG G9 AWD Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The XPENG G9 AWD Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The XPENG G9 AWD Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
@@ -194,7 +194,7 @@ The XPENG G9 AWD Performance has a [**lane-keeping assist**](../../../../technol
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The XPENG G9 AWD Performance has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The XPENG G9 AWD Performance has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 

@@ -29,7 +29,7 @@ We have separated our Ford F150 Lightning Extended Range article into sections. 
 
 ## Performance
 
-The Ford F150 Lightning Extended Range has a maximum power of 433KW (589hp). The total torque is 1050nm. The 0-100km/h sprint (0-62mph) takes 4,2 seconds. The top speed is 180 km/h. 
+The Ford F150 Lightning Extended Range has a maximum power of 433KW (589hp). The total torque is 1050nm. It performs the 0-100km/h sprint (0-62mph) in 4,2 seconds. The top speed is 180 km/h. 
 
 ## Battery, range, and charging
 
@@ -150,7 +150,7 @@ The optional  layout has the following configuration. The  screen behind the ste
 
 You can choose between three sound systems on the Ford F150 Lightning Extended Range. With the Ford, you get four speakers with a max system output of 80 watts. With the B&O Sound System, you get eight speakers with a max system output of 640 watts. With the B&O Unleashed Sound System, you get 18 speakers with a max system output of 1080 watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Ford F150 Lightning Extended Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Ford F150 Lightning Extended Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 
 ## Lights
@@ -167,13 +167,13 @@ The Ford F150 Lightning Extended Range has several standard and optional [advanc
 
 
 
-The Ford F150 Lightning Extended Range has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Ford F150 Lightning Extended Range has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Ford F150 Lightning Extended Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Ford F150 Lightning Extended Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Ford F150 Lightning Extended Range has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Ford F150 Lightning Extended Range has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is an optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

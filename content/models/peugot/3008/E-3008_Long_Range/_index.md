@@ -29,7 +29,7 @@ We have separated our Peugot E-3008 Long Range article into sections. If you wan
 
 ## Performance
 
-The Peugot E-3008 Long Range has a maximum power of 170KW (231hp). The total torque is 343nm. The 0-100km/h sprint (0-62mph) takes 9,1 seconds. The top speed is 150 km/h. 
+The Peugot E-3008 Long Range has a maximum power of 170KW (231hp). The total torque is 343nm. It performs the 0-100km/h sprint (0-62mph) in 9,1 seconds. The top speed is 150 km/h. 
 
 ## Battery, range, and charging
 
@@ -147,7 +147,7 @@ A head-up display is a standard system that presents speed and other important d
 
 One type of sound system is available for the Peugot E-3008 Long Range. With the , you get NULL speakers with a max system output of  watts. 
 
-In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Peugot E-3008 Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Peugot E-3008 Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 
 ## Lights
@@ -164,11 +164,11 @@ The Peugot E-3008 Long Range has several standard and optional [advanced driver 
 
 
 
-The Peugot E-3008 Long Range has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Peugot E-3008 Long Range has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Peugot E-3008 Long Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Peugot E-3008 Long Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-The Peugot E-3008 Long Range has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Peugot E-3008 Long Range has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 
