@@ -69,7 +69,7 @@ You can order BMW i5 eDrive40 with an alternative Adaptives suspension professio
 
 ### Steering
 
-Dynamic steering is standard on the BMW i5 eDrive40. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is a standard feature on the BMW i5 eDrive40. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is an optional feature. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -187,7 +187,7 @@ A head-up display is an optional system that presents speed and other important 
 
 You can choose between three sound systems on the BMW i5 eDrive40. With the Hifi Sound system, you get six speakers with a max system output of 100 watts. With the Harman Kardon Surround Sound system, you get 12 speakers with a max system output of 205 watts. With the Bower & Wilkins Surround System, you get 18 speakers with a max system output of 655 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW i5 eDrive40 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW i5 eDrive40 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 6 USB-C connections as standard. 
 ## Lights
@@ -204,19 +204,19 @@ The BMW i5 eDrive40 has several standard and optional [advanced driver assistanc
 
 
 
-The BMW i5 eDrive40 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The BMW i5 eDrive40 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The BMW i5 eDrive40 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The BMW i5 eDrive40 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The BMW i5 eDrive40 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The BMW i5 eDrive40 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a optional driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is an optional driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The BMW i5 eDrive40 has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The BMW i5 eDrive40 has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is an optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
 ### Driving Automation
 

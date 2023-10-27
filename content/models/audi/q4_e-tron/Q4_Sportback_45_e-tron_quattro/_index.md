@@ -63,7 +63,7 @@ You can order Audi Q4 Sportback 45 e-tron quattro with an alternative sport susp
 
 ### Steering
 
-Dynamic steering is optional on the Audi Q4 Sportback 45 e-tron quattro. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is an optional feature on the Audi Q4 Sportback 45 e-tron quattro. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -182,9 +182,9 @@ A head-up display is an optional system that presents speed and other important 
 
 You can choose between two sound systems on the Audi Q4 Sportback 45 e-tron quattro. With the Audi Sound system, you get eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten speakers with a max system output of 580 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 Sportback 45 e-tron quattro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q4 Sportback 45 e-tron quattro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 2 USB-C connections as standard. As an option you can get additional 2 USB-C connections. 
+The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections. 
 ## Lights
 
 You can choose between two types of headlights for the Audi Q4 Sportback 45 e-tron quattro. The standard headlights use LED technology.  Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights. 
@@ -201,23 +201,23 @@ The Audi Q4 Sportback 45 e-tron quattro has several standard and optional [advan
 
 
 
-The Audi Q4 Sportback 45 e-tron quattro has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Audi Q4 Sportback 45 e-tron quattro has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Audi Q4 Sportback 45 e-tron quattro has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Audi Q4 Sportback 45 e-tron quattro has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Audi Q4 Sportback 45 e-tron quattro has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Audi Q4 Sportback 45 e-tron quattro has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Audi Q4 Sportback 45 e-tron quattro has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Audi Q4 Sportback 45 e-tron quattro has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is an optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver-assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is an optional driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a optional  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is an optional  driver assist system designed to warn occupants agains opening doors if there is a risk of hitting something. 
 
 ### Driving Automation
 

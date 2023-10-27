@@ -134,13 +134,13 @@ Keyless go makes it possible to start the car without using the key.
 
 The  screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen on the dashboard's center  is 10,3 inches large. 
 
-A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
 One type of sound system is available for the Citroën ë-C4 X. With the , you get NULL speakers with a max system output of  watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Citroën ë-C4 X supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Citroën ë-C4 X supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 
 ## Lights
@@ -157,7 +157,7 @@ The Citroën ë-C4 X has several standard and optional [advanced driver assistan
 
 
 
-The Citroën ë-C4 X has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Citroën ë-C4 X has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 ### Driving Automation
 

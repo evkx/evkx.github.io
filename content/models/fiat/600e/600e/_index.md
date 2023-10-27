@@ -143,13 +143,13 @@ The  screen behind the steering wheel integrated into the dashboard is 10,25 inc
 {{< sitefiguresized thumb="models/fiat/600e/600e/screens_1_st.jpg" title="Fiat 600e" width="3000" height="2001"  >}}
 
 
-A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
 One type of sound system is available for the Fiat 600e. With the , you get NULL speakers with a max system output of  watts. 
 
-In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Fiat 600e supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the an optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Fiat 600e supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 3 USB-A connections as standard. 
 ## Lights
@@ -166,11 +166,11 @@ The Fiat 600e has several standard and optional [advanced driver assistance syst
 
 
 
-The Fiat 600e has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Fiat 600e has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Fiat 600e has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Fiat 600e has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-The Fiat 600e has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Fiat 600e has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 

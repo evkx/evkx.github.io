@@ -61,7 +61,7 @@ The  suspension has steel springs with a fixed height, but you can adjust dampin
 
 ### Steering
 
-Dynamic steering is standard on the Lucid Air Dream Edition Range. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is a standard feature on the Lucid Air Dream Edition Range. Dynamic steering varies the steering ratio as a function of driving speed. 
 
 ### Brakes
 
@@ -161,7 +161,7 @@ On top of the dashboard is a shared frame with three screens, and in the center 
 
 One type of sound system is available for the Lucid Air Dream Edition Range. With the Surreal Sound System, you get 21 speakers with a max system output of  watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
@@ -178,11 +178,11 @@ The Lucid Air Dream Edition Range has several standard and optional [advanced dr
 
 
 
-The Lucid Air Dream Edition Range has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Lucid Air Dream Edition Range has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Lucid Air Dream Edition Range has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Lucid Air Dream Edition Range has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Lucid Air Dream Edition Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Lucid Air Dream Edition Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 

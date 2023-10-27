@@ -65,7 +65,7 @@ You can order Porsche Taycan 4 Cross Turismo with an alternative Adaptive Air Su
 
 ### Steering
 
-Dynamic steering is standard on the Porsche Taycan 4 Cross Turismo. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is optional. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is a standard feature on the Porsche Taycan 4 Cross Turismo. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is an optional feature. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -202,7 +202,7 @@ A head-up display is an optional system that presents speed and other important 
 
 You can choose between three sound systems on the Porsche Taycan 4 Cross Turismo. With the Porsche Sound system, you get ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1455 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Taycan 4 Cross Turismo supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Taycan 4 Cross Turismo supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 
 ## Lights
@@ -221,23 +221,23 @@ The Porsche Taycan 4 Cross Turismo has several standard and optional [advanced d
 
 
 
-The Porsche Taycan 4 Cross Turismo has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Porsche Taycan 4 Cross Turismo has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Porsche Taycan 4 Cross Turismo has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Porsche Taycan 4 Cross Turismo has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Porsche Taycan 4 Cross Turismo has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Porsche Taycan 4 Cross Turismo has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a optional driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is an optional driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a optional driver assist system to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The Porsche Taycan 4 Cross Turismo has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Porsche Taycan 4 Cross Turismo has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a optional driver-assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is an optional driver-assist system. This side assist system helps to detect traffic in blind spots. 
 
 ### Driving Automation
 

@@ -61,7 +61,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Steering
 
-Dynamic steering is standard on the HiPhi Y Performance. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is a standard feature on the HiPhi Y Performance. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is a standard feature. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -73,7 +73,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 5 different paint colors when ordering this model. 
 
-The car has two [regular doors](../../../../technology/doors/) in front, a unique combination of regular doors with a gullwing roof on the second row, and a  [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate) in the rear. Powered doors are an standard function for the side doors. 
+The car has two [regular doors](../../../../technology/doors/) in front, a unique combination of regular doors with a gullwing roof on the second row, and a  [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate) in the rear. Powered doors are a standard function for the side doors. 
 
 There is only one roof for this model. The standard roof has a panoramic glass over first row in addition to the roof part of the gullving doors have glass. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant.
 
@@ -157,7 +157,7 @@ HiPhi Y Performance has multiple integrated screens. Behind the steering wheel i
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/screens_1_st.jpg" title="HiPhi Y Performance" width="1000" height="536"  >}}
 
 
-A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield. 
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
 
@@ -167,7 +167,7 @@ A gesture control system that lets you control specific features using your hand
 
 You can choose between two sound systems on the HiPhi Y Performance. With the SONIC LINE SYSTEM, you get 14 speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get 25 speakers with a max system output of 2820 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights
@@ -184,17 +184,17 @@ The HiPhi Y Performance has several standard and optional [advanced driver assis
 
 
 
-The HiPhi Y Performance has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The HiPhi Y Performance has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The HiPhi Y Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The HiPhi Y Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The HiPhi Y Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The HiPhi Y Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 
-The HiPhi Y Performance has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The HiPhi Y Performance has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 

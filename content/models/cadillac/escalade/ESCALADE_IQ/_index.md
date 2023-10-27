@@ -57,7 +57,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Cadillac ESCALADE IQ has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the max is 200 mm. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the max is 200 mm. In addition,  rear-wheel steering is a standard feature. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -69,7 +69,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 You can choose between 1 different paint colors when ordering this model. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Powered doors are an standard function for the side doors. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Powered doors are a standard function for the side doors. 
 
 There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
@@ -164,7 +164,7 @@ The  screen behind the steering wheel mounted into the dashboard is 35 inches la
 
 You can choose between two sound systems on the Cadillac ESCALADE IQ. With the AKG Studio audi System, you get 19 speakers with a max system output of 1000 watts. With the AKG Studio Reference System, you get 40 speakers with a max system output of 1000 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the a standard in-car navigation system, you get the help you need to find your destination. 
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard. 
 ## Lights
@@ -177,11 +177,11 @@ The Cadillac ESCALADE IQ has several standard and optional [advanced driver assi
 
 
 
-The Cadillac ESCALADE IQ has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Cadillac ESCALADE IQ has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Cadillac ESCALADE IQ has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Cadillac ESCALADE IQ has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Cadillac ESCALADE IQ has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Cadillac ESCALADE IQ has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
 

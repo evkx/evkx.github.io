@@ -57,7 +57,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 GMC Hummer EV Edition 1 Pickup has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 257 mm, and the max is 406 mm. In addition,  rear-wheel steering is standard. Rear wheel steering reduces the turning circle when going slow.  
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 257 mm, and the max is 406 mm. In addition,  rear-wheel steering is a standard feature. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -146,7 +146,7 @@ GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with b
 
 One type of sound system is available for the GMC Hummer EV Edition 1 Pickup. With the Bose Premium Sound System, you get 14 speakers with a max system output of 625 watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the GMC Hummer EV Edition 1 Pickup supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the GMC Hummer EV Edition 1 Pickup supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard. 
 ## Lights
@@ -159,9 +159,9 @@ The GMC Hummer EV Edition 1 Pickup has several standard and optional [advanced d
 
 
 
-The GMC Hummer EV Edition 1 Pickup has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The GMC Hummer EV Edition 1 Pickup has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The GMC Hummer EV Edition 1 Pickup has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The GMC Hummer EV Edition 1 Pickup has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
 

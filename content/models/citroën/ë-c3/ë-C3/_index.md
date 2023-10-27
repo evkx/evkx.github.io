@@ -150,7 +150,7 @@ Citroën ë-C3 has multiple integrated screens. Behind the steering wheel is a [
 
 One type of sound system is available for the Citroën ë-C3. With the , you get NULL speakers with a max system output of  watts. 
 
-In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Citroën ë-C3 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the an optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Citroën ë-C3 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 4 USB-C connections as standard. 
 ## Lights
@@ -167,7 +167,7 @@ The Citroën ë-C3 has several standard and optional [advanced driver assistance
 
 
 
-The Citroën ë-C3 has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Citroën ë-C3 has an [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/)  as a a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 

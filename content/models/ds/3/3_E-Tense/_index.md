@@ -140,13 +140,13 @@ The  screen behind the steering wheel integrated into the dashboard is 7 inches 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/screens_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
 
-A head-up display is an standard system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield. 
 
 ## Infotainment
 
 One type of sound system is available for the DS 3 E-Tense. With the , you get NULL speakers with a max system output of  watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the DS 3 E-Tense supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the a standard in-car navigation system, you get the help you need to find your destination. Furthermore, the DS 3 E-Tense supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 
 ## Lights
@@ -163,7 +163,7 @@ The DS 3 E-Tense has several standard and optional [advanced driver assistance s
 
 
 
-The DS 3 E-Tense has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The DS 3 E-Tense has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 ### Driving Automation
 
