@@ -42,7 +42,7 @@ The battery has a gross capacity of 60kWh and a net capacity of 57,5kWh, meaning
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 24 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 50%, resulting in an actual charge speed, including time loss on 101kW. Each charge session would take 16 minutes and 28 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 42 minutes to drive. This trip will require five charge session(s) charging from 2% to 50%. The total time lost for charging will be 82 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 42 minutes to drive. This trip will require five charge session(s) charging from 2% to 50%. The total time lost for charging up the battery will be 82 minutes.
 ### NMC 4850 US Market
 
 The battery has a gross capacity of 70kWh and a net capacity of 68,5kWh, meaning you have a 1,5kWh buffer for protection. (2,1%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
@@ -51,7 +51,7 @@ The battery has a gross capacity of 70kWh and a net capacity of 68,5kWh, meaning
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 84 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 36%, resulting in an actual charge speed, including time loss on 82kW. Each charge session would take 18 minutes and 60 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 52 minutes to drive. This trip will require five charge session(s) charging from 0% to 37%. The total time lost for charging will be 93 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 52 minutes to drive. This trip will require five charge session(s) charging from 0% to 37%. The total time lost for charging up the battery will be 93 minutes.
 
 ### Onboard charger
 

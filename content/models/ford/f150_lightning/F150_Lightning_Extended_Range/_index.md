@@ -39,7 +39,7 @@ The [EPA range](../../../../guides/understandingrange/epa) varies from 320 to 30
 
 The maximum DC charging speed is 155kW. A full charge from 0 - 100% would take 130 minutes, while a more common scenario of 10-80% would take 49 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 62%, resulting in an actual charge speed, including time loss on 106kW. Each charge session would take 46 minutes and 54 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 33kWh/100km, 1000km will take 10 hours and 13 minutes to drive. This trip will require two charge session(s) charging from 0% to 76%. The total time lost for charging will be 113 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 33kWh/100km, 1000km will take 10 hours and 13 minutes to drive. This trip will require two charge session(s) charging from 0% to 76%. The total time lost for charging up the battery will be 113 minutes.
 
 ### Onboard charger
 

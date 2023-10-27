@@ -39,7 +39,7 @@ The [WLTP range](../../../../guides/understandingrange/wltp) varies from 514 to 
 
 The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 72 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 60%, resulting in an actual charge speed, including time loss on 68kW. Each charge session would take 32 minutes and 16 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 10 hours and 55 minutes to drive. This trip will require five charge session(s) charging from 4% to 58%. The total time lost for charging will be 156 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 10 hours and 55 minutes to drive. This trip will require five charge session(s) charging from 4% to 58%. The total time lost for charging up the battery will be 156 minutes.
 
 ### Onboard charger
 

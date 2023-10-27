@@ -42,7 +42,7 @@ The [WLTP range](../../../../guides/understandingrange/wltp) varies from 580 to 
 
 The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 75 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 44%, resulting in an actual charge speed, including time loss on 86kW. Each charge session would take 27 minutes and 2 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 52 minutes to drive. This trip will require three charge session(s) charging from 1% to 50%. The total time lost for charging will be 93 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 52 minutes to drive. This trip will require three charge session(s) charging from 1% to 50%. The total time lost for charging up the battery will be 93 minutes.
 ### 75kWh
 
 The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%). 
@@ -51,7 +51,7 @@ The [WLTP range](../../../../guides/understandingrange/wltp) varies from 445 to 
 
 The maximum DC charging speed is 140kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74%, resulting in an actual charge speed, including time loss on 77kW. Each charge session would take 37 minutes and 57 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 41 minutes to drive. This trip will require four charge session(s) charging from 7% to 71%. The total time lost for charging will be 141 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 41 minutes to drive. This trip will require four charge session(s) charging from 7% to 71%. The total time lost for charging up the battery will be 141 minutes.
 
 ### Onboard charger
 

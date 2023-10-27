@@ -39,7 +39,7 @@ The battery has a gross capacity of 220kWh and a net capacity of 213kWh, meaning
 
 The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 139 minutes, while a more common scenario of 10-80% would take 48 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 52%, resulting in an actual charge speed, including time loss on 245kW. Each charge session would take 27 minutes and 39 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 43kWh/100km, 1000km will take 9 hours and 13 minutes to drive. This trip will require two charge session(s) charging from 1% to 52%. The total time lost for charging will be 53 minutes.   
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 43kWh/100km, 1000km will take 9 hours and 13 minutes to drive. This trip will require two charge session(s) charging from 1% to 52%. The total time lost for charging up the battery will be 53 minutes.
 
 ### Onboard charger
 
