@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/hiphi/z/z_4_seater/main_1_st.jpg" title="HiPhi Z 4 Seater" >}}
+{{< sitefiguresized thumb="models/hiphi/z/z_4_seater/main_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1486" >}}
 EVKX.net seeks to have the most complete specifications for HiPhi Z 4 Seater. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi Z 4 Seater, visit the [chargeinfo](../chargecurve/) for HiPhi Z 4 Seater with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

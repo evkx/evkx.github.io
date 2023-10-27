@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/nissan/ariya/ariya_63kwh/main_1_st.jpg" title="Nissan Ariya 63kWh" >}}
+{{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/main_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="1889" >}}
 EVKX.net seeks to have the most complete specifications for Nissan Ariya 63kWh. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nissan Ariya 63kWh, visit the [chargeinfo](../chargecurve/) for Nissan Ariya 63kWh with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

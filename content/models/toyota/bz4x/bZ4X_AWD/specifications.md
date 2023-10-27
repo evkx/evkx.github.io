@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/toyota/bz4x/bz4x_awd/main_1_st.jpg" title="Toyota bZ4X AWD" >}}
+{{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/main_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="2002" >}}
 EVKX.net seeks to have the most complete specifications for Toyota bZ4X AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Toyota bZ4X AWD, visit the [chargeinfo](../chargecurve/) for Toyota bZ4X AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

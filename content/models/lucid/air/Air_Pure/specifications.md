@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/lucid/air/air_pure/main_1_st.jpg" title="Lucid Air Pure" >}}
+{{< sitefiguresized thumb="models/lucid/air/air_pure/main_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334" >}}
 EVKX.net seeks to have the most complete specifications for Lucid Air Pure. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lucid Air Pure, visit the [chargeinfo](../chargecurve/) for Lucid Air Pure with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

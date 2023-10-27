@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/polestar/2/2_long_range_single_motor/main_1_st.jpg" title="Polestar 2 Long Range Single Motor" >}}
+{{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/main_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for Polestar 2 Long Range Single Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Polestar 2 Long Range Single Motor, visit the [chargeinfo](../chargecurve/) for Polestar 2 Long Range Single Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

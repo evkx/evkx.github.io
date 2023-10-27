@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" >}}
+{{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="1920" height="1080" >}}
 EVKX.net seeks to have the most complete specifications for Volvo XC40 Recharge Single Motor ER. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo XC40 Recharge Single Motor ER, visit the [chargeinfo](../chargecurve/) for Volvo XC40 Recharge Single Motor ER with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

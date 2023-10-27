@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" >}}
+{{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2001" >}}
 EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 6 Long Range RWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Ioniq 6 Long Range RWD, visit the [chargeinfo](../chargecurve/) for Hyundai Ioniq 6 Long Range RWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

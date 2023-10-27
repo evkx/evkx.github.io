@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/mercedes/eqe/eqe_350plus/main_1_st.jpg" title="Mercedes-EQ EQE 350+" >}}
+{{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/main_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="1687" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 350+. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQE 350+, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQE 350+ with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

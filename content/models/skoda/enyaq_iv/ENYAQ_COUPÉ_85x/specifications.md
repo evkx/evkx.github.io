@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/main_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" >}}
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/main_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ 85x. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of SKODA ENYAQ COUPÉ 85x, visit the [chargeinfo](../chargecurve/) for SKODA ENYAQ COUPÉ 85x with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

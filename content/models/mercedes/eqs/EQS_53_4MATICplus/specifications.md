@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/mercedes/eqs/eqs_53_4maticplus/main_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" >}}
+{{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/main_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQS 53 4MATIC+. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-AMG EQS 53 4MATIC+, visit the [chargeinfo](../chargecurve/) for Mercedes-AMG EQS 53 4MATIC+ with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

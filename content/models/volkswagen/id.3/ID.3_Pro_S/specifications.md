@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1998" >}}
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.3 Pro S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.3 Pro S, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.3 Pro S with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/zeekr/001/001_performance_awd/main_1_st.jpg" title="Zeekr 001 Performance AWD" >}}
+{{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/main_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Zeekr 001 Performance AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 001 Performance AWD, visit the [chargeinfo](../chargecurve/) for Zeekr 001 Performance AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

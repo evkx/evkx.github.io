@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/lexus/rz/rz_450e/main_1_st.jpg" title="Lexus RZ 450e" >}}
+{{< sitefiguresized thumb="models/lexus/rz/rz_450e/main_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for Lexus RZ 450e. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lexus RZ 450e, visit the [chargeinfo](../chargecurve/) for Lexus RZ 450e with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

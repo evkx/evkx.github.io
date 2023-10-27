@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/porsche/taycan/taycan_turbo_s/main_1_st.jpg" title="Porsche Taycan Turbo S" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/main_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan Turbo S, visit the [chargeinfo](../chargecurve/) for Porsche Taycan Turbo S with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

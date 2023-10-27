@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/mercedes/eqa/eqa_250/main_1_st.jpg" title="Mercedes-EQ EQA 250" >}}
+{{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/main_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQA 250. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQA 250, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQA 250 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

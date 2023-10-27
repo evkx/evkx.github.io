@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/bmw/ix1/ix1_xdrive30/main_1_st.jpg" title="BMW iX1 xDrive30" >}}
+{{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/main_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2095" >}}
 EVKX.net seeks to have the most complete specifications for BMW iX1 xDrive30. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW iX1 xDrive30, visit the [chargeinfo](../chargecurve/) for BMW iX1 xDrive30 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

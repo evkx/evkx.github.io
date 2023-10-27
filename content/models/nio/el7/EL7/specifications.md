@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/nio/el7/el7/main_1_st.jpg" title="Nio EL7" >}}
+{{< sitefiguresized thumb="models/nio/el7/el7/main_1_st.jpg" title="Nio EL7" width="2880" height="1792" >}}
 EVKX.net seeks to have the most complete specifications for Nio EL7. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio EL7, visit the [chargeinfo](../chargecurve/) for Nio EL7 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

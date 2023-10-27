@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/tesla/model_y/model_y_standard_range/main_1_st.jpg" title="Tesla Model Y Standard Range" >}}
+{{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/main_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for Tesla Model Y Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model Y Standard Range, visit the [chargeinfo](../chargecurve/) for Tesla Model Y Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

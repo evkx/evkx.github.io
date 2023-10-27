@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/cupra/tavascan/tavascan_endurance/main_1_st.JPG" title="CUPRA Tavascan Endurance" >}}
+{{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/main_1_st.JPG" title="CUPRA Tavascan Endurance" width="3000" height="1676" >}}
 EVKX.net seeks to have the most complete specifications for CUPRA Tavascan Endurance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of CUPRA Tavascan Endurance, visit the [chargeinfo](../chargecurve/) for CUPRA Tavascan Endurance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

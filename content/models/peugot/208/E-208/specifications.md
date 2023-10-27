@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/peugot/208/e-208/main_1_st.jpg" title="Peugot E-208" >}}
+{{< sitefiguresized thumb="models/peugot/208/e-208/main_1_st.jpg" title="Peugot E-208" width="3000" height="1666" >}}
 EVKX.net seeks to have the most complete specifications for Peugot E-208. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Peugot E-208, visit the [chargeinfo](../chargecurve/) for Peugot E-208 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV (GEN1)" >}}
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV (GEN1)" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ RS iV (GEN1). Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of SKODA ENYAQ COUPÉ RS iV (GEN1), visit the [chargeinfo](../chargecurve/) for SKODA ENYAQ COUPÉ RS iV (GEN1) with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" title="Renault Megane E-Tech Techno" >}}
+{{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001" >}}
 EVKX.net seeks to have the most complete specifications for Renault Megane E-Tech Techno. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Renault Megane E-Tech Techno, visit the [chargeinfo](../chargecurve/) for Renault Megane E-Tech Techno with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

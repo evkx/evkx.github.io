@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 4MOTION. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.4 GTX 4MOTION, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.4 GTX 4MOTION with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

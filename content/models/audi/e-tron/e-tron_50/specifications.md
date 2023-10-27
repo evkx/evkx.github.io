@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/audi/e-tron/e-tron_50/main_1_st.jpg" title="Audi e-tron 50" >}}
+{{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/main_1_st.jpg" title="Audi e-tron 50" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for Audi e-tron 50. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron 50, visit the [chargeinfo](../chargecurve/) for Audi e-tron 50 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

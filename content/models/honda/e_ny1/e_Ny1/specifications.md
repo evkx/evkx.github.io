@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/honda/e_ny1/e_ny1/main_1_st.jpg" title="Honda e:Ny1" >}}
+{{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/main_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Honda e:Ny1. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Honda e:Ny1, visit the [chargeinfo](../chargecurve/) for Honda e:Ny1 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

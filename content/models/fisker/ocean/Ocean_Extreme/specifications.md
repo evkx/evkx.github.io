@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/fisker/ocean/ocean_extreme/main_1_st.jpg" title="Fisker Ocean Extreme" >}}
+{{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/main_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Fisker Ocean Extreme. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Fisker Ocean Extreme, visit the [chargeinfo](../chargecurve/) for Fisker Ocean Extreme with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

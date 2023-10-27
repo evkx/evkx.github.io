@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080" >}}
 EVKX.net seeks to have the most complete specifications for Kia EV6 GT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia EV6 GT, visit the [chargeinfo](../chargecurve/) for Kia EV6 GT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

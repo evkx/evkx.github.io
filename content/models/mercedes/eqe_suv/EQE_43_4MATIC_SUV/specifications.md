@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" >}}
+{{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="2001" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 43 4MATIC SUV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-AMG EQE 43 4MATIC SUV, visit the [chargeinfo](../chargecurve/) for Mercedes-AMG EQE 43 4MATIC SUV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

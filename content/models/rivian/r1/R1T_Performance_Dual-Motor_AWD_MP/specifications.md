@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/main_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" >}}
+{{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/main_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2100" height="1400" >}}
 EVKX.net seeks to have the most complete specifications for Rivian R1T Performance Dual-Motor AWD MP. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Rivian R1T Performance Dual-Motor AWD MP, visit the [chargeinfo](../chargecurve/) for Rivian R1T Performance Dual-Motor AWD MP with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

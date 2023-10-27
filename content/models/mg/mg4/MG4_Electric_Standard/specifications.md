@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/mg/mg4/mg4_electric_standard/main_1_st.jpg" title="MG MG4 Electric Standard" >}}
+{{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/main_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2249" >}}
 EVKX.net seeks to have the most complete specifications for MG MG4 Electric Standard. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG4 Electric Standard, visit the [chargeinfo](../chargecurve/) for MG MG4 Electric Standard with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

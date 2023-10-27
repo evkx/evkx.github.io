@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/lucid/air/air_grand_touring/main_1_st.jpg" title="Lucid Air Grand Touring" >}}
+{{< sitefiguresized thumb="models/lucid/air/air_grand_touring/main_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Lucid Air Grand Touring. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lucid Air Grand Touring, visit the [chargeinfo](../chargecurve/) for Lucid Air Grand Touring with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

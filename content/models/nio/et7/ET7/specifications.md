@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/nio/et7/et7/main_1_st.jpg" title="Nio ET7" >}}
+{{< sitefiguresized thumb="models/nio/et7/et7/main_1_st.jpg" title="Nio ET7" width="2880" height="1792" >}}
 EVKX.net seeks to have the most complete specifications for Nio ET7. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio ET7, visit the [chargeinfo](../chargecurve/) for Nio ET7 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

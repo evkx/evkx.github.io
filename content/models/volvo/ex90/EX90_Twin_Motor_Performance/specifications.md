@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" title="Volvo EX90 Twin Motor Performance" >}}
+{{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Volvo EX90 Twin Motor Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo EX90 Twin Motor Performance, visit the [chargeinfo](../chargecurve/) for Volvo EX90 Twin Motor Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

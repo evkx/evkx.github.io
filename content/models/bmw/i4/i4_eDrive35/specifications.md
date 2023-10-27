@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/bmw/i4/i4_edrive35/main_1_st.jpg" title="BMW i4 eDrive35" >}}
+{{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/main_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for BMW i4 eDrive35. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i4 eDrive35, visit the [chargeinfo](../chargecurve/) for BMW i4 eDrive35 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

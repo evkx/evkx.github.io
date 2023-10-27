@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/kia/ev9/ev9_long_range_awd/main_1_st.jpg" title="Kia EV9 Long Range AWD" >}}
+{{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/main_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Kia EV9 Long Range AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia EV9 Long Range AWD, visit the [chargeinfo](../chargecurve/) for Kia EV9 Long Range AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

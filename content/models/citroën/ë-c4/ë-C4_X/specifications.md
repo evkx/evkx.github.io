@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" title="Citroën ë-C4 X" >}}
+{{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for Citroën ë-C4 X. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Citroën ë-C4 X, visit the [chargeinfo](../chargecurve/) for Citroën ë-C4 X with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

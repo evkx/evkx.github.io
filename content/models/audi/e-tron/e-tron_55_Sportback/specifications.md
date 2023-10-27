@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/audi/e-tron/e-tron_55_sportback/main_1_st.jpg" title="Audi e-tron 55 Sportback" >}}
+{{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/main_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="1991" >}}
 EVKX.net seeks to have the most complete specifications for Audi e-tron 55 Sportback. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron 55 Sportback, visit the [chargeinfo](../chargecurve/) for Audi e-tron 55 Sportback with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

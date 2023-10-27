@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/byd/tang/tang_ev600/main_1_st.jpg" title="BYD Tang EV600" >}}
+{{< sitefiguresized thumb="models/byd/tang/tang_ev600/main_1_st.jpg" title="BYD Tang EV600" width="1680" height="960" >}}
 EVKX.net seeks to have the most complete specifications for BYD Tang EV600. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BYD Tang EV600, visit the [chargeinfo](../chargecurve/) for BYD Tang EV600 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

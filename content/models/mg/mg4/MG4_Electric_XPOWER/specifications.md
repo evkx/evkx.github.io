@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/mg/mg4/mg4_electric_xpower/main_1_st.jpg" title="MG MG4 Electric XPOWER" >}}
+{{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/main_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2172" >}}
 EVKX.net seeks to have the most complete specifications for MG MG4 Electric XPOWER. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG4 Electric XPOWER, visit the [chargeinfo](../chargecurve/) for MG MG4 Electric XPOWER with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

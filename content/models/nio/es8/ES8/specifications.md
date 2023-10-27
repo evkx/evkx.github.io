@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/nio/es8/es8/main_1_st.jpg" title="Nio ES8" >}}
+{{< sitefiguresized thumb="models/nio/es8/es8/main_1_st.jpg" title="Nio ES8" width="2880" height="1792" >}}
 EVKX.net seeks to have the most complete specifications for Nio ES8. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio ES8, visit the [chargeinfo](../chargecurve/) for Nio ES8 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

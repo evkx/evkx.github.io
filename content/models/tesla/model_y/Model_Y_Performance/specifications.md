@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/tesla/model_y/model_y_performance/main_1_st.jpg" title="Tesla Model Y Performance" >}}
+{{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/main_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for Tesla Model Y Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model Y Performance, visit the [chargeinfo](../chargecurve/) for Tesla Model Y Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

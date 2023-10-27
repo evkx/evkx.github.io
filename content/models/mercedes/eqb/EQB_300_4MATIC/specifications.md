@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/mercedes/eqb/eqb_300_4matic/main_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" >}}
+{{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/main_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQB 300 4MATIC. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQB 300 4MATIC, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQB 300 4MATIC with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/main_1_st.jpg" title="Audi Q4 50 e-tron quattro" >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/main_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="1998" >}}
 EVKX.net seeks to have the most complete specifications for Audi Q4 50 e-tron quattro. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q4 50 e-tron quattro, visit the [chargeinfo](../chargecurve/) for Audi Q4 50 e-tron quattro with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

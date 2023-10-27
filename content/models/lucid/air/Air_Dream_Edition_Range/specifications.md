@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/lucid/air/air_dream_edition_range/main_1_st.jpg" title="Lucid Air Dream Edition Range" >}}
+{{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/main_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Lucid Air Dream Edition Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lucid Air Dream Edition Range, visit the [chargeinfo](../chargecurve/) for Lucid Air Dream Edition Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

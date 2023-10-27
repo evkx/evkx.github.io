@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" title="Chevrolet Silverado EV 4WT" >}}
+{{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Chevrolet Silverado EV 4WT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Chevrolet Silverado EV 4WT, visit the [chargeinfo](../chargecurve/) for Chevrolet Silverado EV 4WT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

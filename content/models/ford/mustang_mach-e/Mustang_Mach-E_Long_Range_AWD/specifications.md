@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/main_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" >}}
+{{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/main_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1674" >}}
 EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E Long Range AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford Mustang Mach-E Long Range AWD, visit the [chargeinfo](../chargecurve/) for Ford Mustang Mach-E Long Range AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

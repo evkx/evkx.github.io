@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/tesla/model_x/model_x_plaid/main_1_st.jpg" title="Tesla Model X Plaid" >}}
+{{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/main_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for Tesla Model X Plaid. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model X Plaid, visit the [chargeinfo](../chargecurve/) for Tesla Model X Plaid with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 

@@ -6,7 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-{{< sitefigure thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" >}}
+{{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1571" >}}
 EVKX.net seeks to have the most complete specifications for Ford F150 Lightning Extended Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford F150 Lightning Extended Range, visit the [chargeinfo](../chargecurve/) for Ford F150 Lightning Extended Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
