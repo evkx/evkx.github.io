@@ -9,7 +9,7 @@ shownavtabs: true
 
 Car seats have come a long way from their basic design, with various types, adjustments, and features available to cater to different needs and preferences.
 
-{{< sitefigure thumb="technology/seats/mercedeseqsfrontseats_1_st.jpg" title="Mercedes EQS front-seats" >}}
+{{< sitefiguresized thumb="technology/seats/mercedeseqsfrontseats_1_st.jpg" width="3000" height="2250" title="Mercedes EQS front-seats" >}}
 
 This comprehensive article will delve into car seats, exploring the different types, their adjustments and features, and the available seat upholstery. Whether you’re a car enthusiast or a concerned parent, this article will equip you with the knowledge to make informed decisions about car seats and enhance your driving experience. So, let’s buckle up and dive into the world of car seats!
 

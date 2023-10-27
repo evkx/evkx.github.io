@@ -11,7 +11,7 @@ This extensive article will explore the different functionalities of EV car seat
 
 The adjustment options vary between the different seating options on the various EV models.
 
-{{< sitefigure thumb="technology/seats/adjustment/audietron18wayseats_st.jpg" title="Audi e-tron GT front seats with 18-way adjustment" >}}
+{{< sitefiguresized thumb="technology/seats/adjustment/audietron18wayseats_st.jpg" width="3000" height="1625" title="Audi e-tron GT front seats with 18-way adjustment" >}}
 
 ### Fore and aft adjustment
 
@@ -23,9 +23,9 @@ Fore and aft adjustment is important, particularly for drivers of different heig
 
 The fore and aft adjustment is available on most front seats and some second-row benches or Captain chairs. This to allow better room in trunk or the third row.
 
-{{< sitefigure thumb="technology/seats/adjustment/hyundaiioniqaftforward_1_st.jpg" title="Hyundai Ionic 5 second-row bench with fore and aft adjustment" >}}
+{{< sitefiguresized thumb="technology/seats/adjustment/hyundaiioniqaftforward_1_st.jpg" width="3000" height="1978" title="Hyundai Ionic 5 second-row bench with fore and aft adjustment" >}}
 
-{{< sitefigure thumb="technology/seats/adjustment/mercedeseqssuvaftforward_1_st.jpg" title="Mercedes EQS SUV can move forward the second row to give access to third row" >}}
+{{< sitefiguresized thumb="technology/seats/adjustment/mercedeseqssuvaftforward_1_st.jpg" width="3000" height="2118" title="Mercedes EQS SUV can move forward the second row to give access to third row" >}}
 
 ### Height Adjustment
 
@@ -55,7 +55,7 @@ It's important to note that the optimal seatback angle may vary depending on you
 
 Some front seats allow that it is recline back to a sleeping position.
 
-{{< sitefigure thumb="technology/seats/adjustment/hyundaiionic5recline_1_st.jpg" title="Hyundai Ionic 5 seat reclined in sleep mode" >}}
+{{< sitefiguresized thumb="technology/seats/adjustment/hyundaiionic5recline_1_st.jpg" width="3000" height="2242" title="Hyundai Ionic 5 seat reclined in sleep mode" >}}
 
 ### Thigh support adjustment
 
@@ -115,11 +115,10 @@ Easy entry functionality is a feature that allows the seat to move automatically
 
 Some seats offer leg support for relaxing positions.
 
-{{< sitefigure thumb="technology/seats/adjustment/nioes8legsupport_1_st.jpg" title="Nio ES8 with leg support for front passenger" >}}
+{{< sitefiguresized thumb="technology/seats/adjustment/nioes8legsupport_1_st.jpg" width="1440" height="886" title="Nio ES8 with leg support for front passenger" >}}
 
 ### Swivel
 
-{{< sitefigure thumb="technology/seats/adjustment/kiaev9captainseats_1_st.jpg" title="Kia EV9 captain chairs in second row with swivel function" >}}
-
+{{< sitefiguresized thumb="technology/seats/types/kiaev9captainseats_1_st.jpg" width="3000" height="2000" title="Kia EV9 captain chairs in second row with swivel function" >}}
 
 ### Footrest

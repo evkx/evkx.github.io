@@ -19,7 +19,7 @@ The materials covered are
 
 ## Fabric
 
-{{< sitefigure thumb="technology/seats/materials/etrongtfabric_1_st.jpg" title="Audi e-tron GT fabric seats" >}}
+{{< sitefiguresized thumb="technology/seats/materials/etrongtfabric_1_st.jpg" width="3000" height="2249" title="Audi e-tron GT fabric seats" >}}
 
 Fabric is a popular material used for seat upholstery. It is a versatile material in various colors, textures, and patterns, making it easy to find the perfect look for your car. "Cloth" and "fabric" are often used interchangeably to describe the material used for upholstery. Cloth or fabric car seats are typically made from woven or knit textiles, such as polyester, nylon, or a blend of synthetic and natural fibers
 
@@ -33,7 +33,7 @@ However, there are pros and cons to using fabric for seat upholstery, and there 
 
 **Aesthetics:** Fabric comes in various colors and patterns, allowing you to choose the perfect look for your car’s interior. It is a versatile material that can match any style or design.
 
-{{< sitefigure thumb="technology/seats/materials/polestarweavetech_1_st.jpg" title="Polestar WeaveTech fabric" >}}
+{{< sitefiguresized thumb="technology/seats/materials/polestarweavetech_1_st.jpg" width="3000" height="2250" title="Polestar WeaveTech fabric" >}}
 
 ### Cons of Fabric Seat Upholstery
 
@@ -49,7 +49,7 @@ However, there are pros and cons to using fabric for seat upholstery, and there 
 
 **Polyester:** Polyester is a synthetic fabric that is resistant to stains and fading. It is a popular choice for those who prioritize low maintenance.
 
-{{< sitefigure thumb="technology/seats/materials/hyundai-ioniq-6-fabricleatherette_st.jpg" title="Hyunday Ioniq 6 fabric/leatherette seats" >}}
+{{< sitefiguresized thumb="technology/seats/materials/hyundai-ioniq-6-fabricleatherette_st.jpg" width="3000" height="2120" title="Hyunday Ioniq 6 fabric/leatherette seats" >}}
 
 ### Sustainability of Fabric Seat Upholstery
 
@@ -65,7 +65,7 @@ In the video below you see how Audi creates their sustainable seats from reusabl
 
 ## Leather
 
-{{< sitefigure thumb="technology/seats/materials/eqssuvnapaleather_1_st.jpg" title="Mercedes EQS Suv with ventilated Nappa Leather" >}}
+{{< sitefiguresized thumb="technology/seats/materials/eqssuvnapaleather_1_st.jpg" width="3000" height="1687" title="Mercedes EQS Suv with ventilated Nappa Leather" >}}
 
 Leather has been a popular material used for seat upholstery for many years. It is a luxurious and durable material that can add a touch of elegance to any car’s interior. However, there are pros and cons to using leather, and there are different types of leather to consider.
 
@@ -87,7 +87,7 @@ Cost: Leather is a more expensive material than other options, such as fabric or
 
 **Temperature Sensitivity:** Leather can be hot in the summer and cold in the winter, making it uncomfortable for some people.
 
-{{< sitefigure thumb="technology/seats/materials/bmwperforatedleather_st.jpg" title="Perforated Leather BWM iX" >}}
+{{< sitefiguresized thumb="technology/seats/materials/bmwperforatedleather_st.jpg" width="3000" height="2000" title="Perforated Leather BWM iX" >}}
 
 ### Types of Leather
 
@@ -99,7 +99,7 @@ Cost: Leather is a more expensive material than other options, such as fabric or
 
 **Bonded Leather:** Bonded leather is a synthetic material made from scraps of leather that are bonded together. It is less expensive than genuine leather but is not as durable or luxurious.
 
-{{< sitefigure thumb="technology/seats/materials/polestarnappa_1_st.jpg" title="Polestar 2 Nappa Leather seat" >}}
+{{< sitefiguresized thumb="technology/seats/materials/polestarnappa_1_st.jpg" width="3000" height="2250" title="Polestar 2 Nappa Leather seat" >}}
 
 ### Sustainability of Leather Seat Upholstery
 
@@ -109,13 +109,13 @@ One way to ensure the sustainability of leather is to choose leather that is pro
 
 Another way to ensure sustainability is to choose leather from companies that follow ethical practices. This includes ensuring that the leather is sourced from animals that were raised in humane conditions and that workers are treated fairly. The [Leather Working Group](https://www.leatherworkinggroup.com/) is a global multi-stakeholder community committed to building a sustainable future with responsible leather and serveral car manufacturers are part of it. 
 
-{{< sitefigure thumb="technology/seats/materials/vwsustainableleather_st.jpg" title="Sustainable sourced leather used by VW" >}}
+{{< sitefiguresized thumb="technology/seats/materials/vwsustainableleather_st.jpg" width="3000" height="2000" title="Sustainable sourced leather used by VW" >}}
 
 In conclusion, leather seat upholstery can add a touch of luxury to any car’s interior. However, it is important to consider the pros and cons of using leather, as well as the different types of leather available. Additionally, it is crucial to choose leather that is produced using sustainable and ethical practices to minimize the impact on the environment.
 
 ## Leatherette
 
-{{< sitefigure thumb="technology/seats/materials/teslaleatherette_st.jpg" title="Tesla Model Y leatherette seats" >}}
+{{< sitefiguresized thumb="technology/seats/materials/teslaleatherette_st.jpg" width="3000" height="2000" title="Tesla Model Y leatherette seats" >}}
 
 Leatherette is a synthetic material made to resemble real leather. It is often used for seat upholstery in cars and other vehicles. There are several pros and cons to using leatherette for seat upholstery, and it is important to consider the sustainability of this material.
 
@@ -137,7 +137,7 @@ Leatherette is a synthetic material made to resemble real leather. It is often u
 
 **Environmental Concerns:** Leatherette is made from synthetic materials, which are not biodegradable and can contribute to pollution. The production of leatherette may also involve the use of chemicals that can be harmful to the environment.
 
-{{< sitefigure thumb="technology/seats/materials/hyundaiioniq6leatherette_st.jpg" title="Hyundai Ioniq 6 leatherette upholstering" >}}
+{{< sitefiguresized thumb="technology/seats/materials/hyundaiioniq6leatherette_st.jpg" width="3000" height="2000" title="Hyundai Ioniq 6 leatherette upholstering" >}}
 
 ### Types of Leatherette
 
@@ -159,7 +159,7 @@ In recent years, there has been a growing trend towards eco-friendly leatherette
 
 ## Microfiber
 
-{{< sitefigure thumb="technology/seats/materials/porschetaycanracetext_1_st.jpg" title="Porsche Taycan seats with Race-Tex microfiber" >}}
+{{< sitefiguresized thumb="technology/seats/materials/porschetaycanracetext_1_st.jpg" width="3000" height="2000" title="Porsche Taycan seats with Race-Tex microfiber" >}}
 
 Microfiber is a synthetic material that is commonly used for car seat upholstery due to its durability, stain resistance, and ease of maintenance. In this article, we will explore the pros and cons of using microfiber for car seat upholstery, the different types of microfiber used, and its sustainability.
 
@@ -231,7 +231,7 @@ Alcantara is produced in a manufacturing facility in Nera Montoro, Umbria, Italy
 
 ## Dinamica
 
-{{< sitefigure thumb="technology/seats/materials/vwdinamicaseats_st.jpg" title="VW ID4 Seats made by Dinamica and leatherette" >}}
+{{< sitefiguresized thumb="technology/seats/materials/vwdinamicaseats_st.jpg" width="3000" height="2000" title="VW ID4 Seats made by Dinamica and leatherette" >}}
 
 Dinamica is a synthetic suede-like material that is often used for seat upholstery. It is made from polyester and polyurethane and is designed to be an eco-friendly alternative to traditional suede. There are pros and cons to using dinamica for seat upholstery, and it is important to consider the sustainability of this material.
 
@@ -245,7 +245,7 @@ Dinamica is a synthetic suede-like material that is often used for seat upholste
 
 **Aesthetics:** Dinamica comes in a variety of colors and textures, making it easy to find a look that matches your car's interior.
 
-{{< sitefigure thumb="technology/seats/materials/audiq4dinamicaleatherette_st.jpg" title="Audi Q4 e-tron Dinamica and leatherette seat" >}}
+{{< sitefiguresized thumb="technology/seats/materials/audiq4dinamicaleatherette_st.jpg" width="3000" height="2001" title="Audi Q4 e-tron Dinamica and leatherette seat" >}}
 
 ### Cons of Dinamica Seat Upholstery
 
@@ -273,7 +273,7 @@ Alcantara sued Miko for various claims about sustainbility and [won in 2021](htt
 
 ## Wool
 
-{{< sitefigure thumb="technology/seats/materials/bmwi7leatherwool_1_st.jpg" title="BMW i7 seats with combined Wool and Nappa Leather seat upholstering" >}}
+{{< sitefiguresized thumb="technology/seats/materials/bmwi7leatherwool_1_st.jpg" width="3000" height="2249" title="BMW i7 seats with combined Wool and Nappa Leather seat upholstering" >}}
 
 Wool is a natural fiber that has been used for centuries in clothing and textile manufacturing. It is also used in car seat upholstery due to its durability, comfort, and natural properties. In this article, we will explore the pros and cons of using wool for car seat upholstery, the different types of wool used, and its sustainability.
 
@@ -305,7 +305,7 @@ Wool is a natural fiber that has been used for centuries in clothing and textile
 
 Wool is a renewable resource that is sheared from sheep once a year, making it a sustainable material for car seat upholstery. It is also biodegradable and can be recycled at the end of its life. However, the environmental impact of wool production depends on factors such as the use of pesticides and the treatment of wastewater during processing. Some wool producers prioritize sustainability by using eco-friendly practices such as organic farming and water conservation.
 
-{{< sitefigure thumb="technology/seats/materials/bmwi7leatherwool_3_st.jpg" title="BMW i7 seats with combined Wool and Nappa Leather seat upholstering" >}}
+{{< sitefiguresized thumb="technology/seats/materials/bmwi7leatherwool_3_st.jpg" width="3000" height="1999" title="BMW i7 seats with combined Wool and Nappa Leather seat upholstering" >}}
 
 ## Colors
 

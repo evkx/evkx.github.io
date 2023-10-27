@@ -11,13 +11,13 @@ In this comprehensive article section, we will look at the different seat types 
 
 The standard front seats are the most common type of car seat in the front row. These seats are typically designed for the driver and front passenger and provide basic seating comfort and support. They usually come with manual or power adjustments for height, recline, and forward/backward positioning, allowing drivers and passengers to customize their seating position for optimal comfort during long drives. In addition, standard front seats often feature adjustable headrests, lumbar support, and seat heaters or coolers for added convenience and luxury.
 
-{{< sitefigure thumb="technology/seats/types/eqsfrontseats_1_st.jpg" title="Mercedes-AMG EQS Front seats" >}}
+{{< sitefiguresized thumb="technology/seats/types/eqsfrontseats_1_st.jpg" width="3000" height="2000" title="Mercedes-AMG EQS Front seats" >}}
 
 ## Front row Captain Seats
 
 Captain Seats in front row is typical used on MPV or Vans where driver can sit higher.
 
-{{< sitefigure thumb="technology/seats/types/idbuzzcaptainchairsfront_1_st.jpg" title="Volkswagen ID.Buzz Captain Seats in front" >}}
+{{< sitefiguresized thumb="technology/seats/types/idbuzzcaptainchairsfront_1_st.jpg" width="3000" height="2000" title="Volkswagen ID.Buzz Captain Seats in front" >}}
 
 ## 1+2 bench in front seats
 
@@ -27,7 +27,7 @@ This type of seating can be helpful in some commercial vehicles, such as deliver
 
 However, this type of seating can also have some drawbacks. For example, the passenger seats in a 1+2 bench may be narrower or less comfortable than other types of seats, and the configuration may limit legroom or overall space in the front of the car. Additionally, the proximity of the passengers to the driver may only be ideal for some driving situations.
 
-{{< sitefigure thumb="technology/seats/types/mercedesesptringer1plus2benchfrontseats_1_st.jpg" title="Mercedes eSprinter 1+2 front seat bench" >}}
+{{< sitefiguresized thumb="technology/seats/types/mercedesesptringer1plus2benchfrontseats_1_st.jpg" width="3000" height="1999" title="Mercedes eSprinter 1+2 front seat bench" >}}
 
 ## Three-Seat Bench in Second Row
 
@@ -39,15 +39,15 @@ Some second-row bench seats have a split-fold design, allowing one or both sides
 
 The middle seat of a second-row bench can be less desirable, as it may need more comfort and legroom than the outer seats.
 
-{{< sitefigure thumb="technology/seats/types/hyundaiev5secondrowbench_1_st.jpg" title="Three-seat bench Hyundai EV5" >}}
+{{< sitefiguresized thumb="technology/seats/types/hyundaiev5secondrowbench_1_st.jpg" width="3000" height="2251" title="Three-seat bench Hyundai EV5" >}}
 
-{{< sitefigure thumb="technology/seats/types/mercedeseqssecondrowbench_1_st.jpg" title="Three-seat bench Mercedes EQS" >}}
+{{< sitefiguresized thumb="technology/seats/types/mercedeseqssecondrowbench_1_st.jpg" width="3000" height="2250" title="Three-seat bench Mercedes EQS" >}}
 
 ## Two-Seat Bench in Second Row
 
 An uncommon seat configuration in the second row is a two-seat bench. This type of bench seat typically offers seating for two passengers side-by-side, with a shared backrest and seat cushion. Standard two-seat benches in the second row are often found in smaller vehicles or as an optional seating arrangement in larger vehicles. They may come with manual or power adjustments for reclining and can be folded down to create additional cargo space when not in use.
 
-{{< sitefigure thumb="technology/seats/types/taycanturbostwoseatbench_1_st.jpg" title="Taycan Turbo S Sport Turismo two seat second-row bench" >}}
+{{< sitefiguresized thumb="technology/seats/types/taycanturbostwoseatbench_1_st.jpg" width="3000" height="1912" title="Taycan Turbo S Sport Turismo two seat second-row bench" >}}
 
 ## Executive seat + two-seat bench
 
@@ -57,7 +57,7 @@ The executive seat is typically a high-quality individual seat with premium mate
 
 On the other hand, the bench seat is a wider and typically more basic seat that spans the vehicle's width and can accommodate two passengers. In addition, it may have a fixed backrest or a fold-down design, allowing it to be used as a seating option or folded to create additional cargo space.
 
-{{< sitefigure thumb="technology/seats/types/bmii7executiveseats_1_st.jpg" title="Executive seat and bench in BMW i7" >}}
+{{< sitefiguresized thumb="technology/seats/types/bmii7executiveseats_1_st.jpg" width="3000" height="2001" title="Executive seat and bench in BMW i7" >}}
 
 ## Twin Executive seats
 
@@ -73,9 +73,9 @@ Some twin executive seats may offer privacy screens, window shades, and other fe
 
 Twin executive seats are often found in luxury sedans, limousines, and high-end SUVs, commonly used for executive transportation, chauffeur-driven cars, or high-end limousine services. They are often associated with premium or luxury vehicle brands.
 
-{{< sitefigure thumb="technology/seats/types/eqssuv680twinexecutiveseats_1_st.jpg" title="Twin Executive Seats in Mercedes-Maybach EQS 680 SUV" >}}
+{{< sitefiguresized thumb="technology/seats/types/eqssuv680twinexecutiveseats_1_st.jpg" width="3000" height="1999" title="Twin Executive Seats in Mercedes-Maybach EQS 680 SUV" >}}
 
-{{< sitefigure thumb="technology/seats/types/volvoex90twinexecutive_1_st.jpg" title="Twin Executive Seats in Volvo EX90" >}}
+{{< sitefiguresized thumb="technology/seats/types/volvoex90twinexecutive_1_st.jpg" width="3000" height="2250" title="Twin Executive Seats in Volvo EX90" >}}
 
 ## Captain's Seat in Second Row
 
@@ -83,7 +83,7 @@ Captain's chairs, also known as Captain's seats or Captain's chairs with a conso
 
 Manufacturers often equip captain's chairs with power adjustments and heating/cooling features.
 
-{{< sitefigure thumb="technology/seats/types/mercedeseqvcaptainchairssecondrow_1_st.jpg" title="Mercedes EQV Captain Chairs second row" >}}
+{{< sitefiguresized thumb="technology/seats/types/mercedeseqvcaptainchairssecondrow_1_st.jpg" width="3000" height="2000" title="Mercedes EQV Captain Chairs second row" >}}
 
 ## Third-Row Folding Seats
 
@@ -95,9 +95,9 @@ Third-row seats are often designed for children or smaller adults, as the space 
 
 When considering a vehicle with third-row seating, it's important to consider how often the passengers will use the third row and who will be sitting there. It's also important to consider the ease of access to the third row, as some vehicles may have cramped or difficult-to-reach third-row seats.
 
-{{< sitefigure thumb="technology/seats/types/kiaev9thirdrowseats_1_st.jpg" title="Kia EV9 third-row seats" >}}
+{{< sitefiguresized thumb="technology/seats/types/kiaev9thirdrowseats_1_st.jpg" width="3000" height="2000" title="Kia EV9 third-row seats" >}}
 
-{{< sitefigure thumb="technology/seats/types/kiaev9thirdrowseats_2_st.jpg" title="Kia EV9 third-row seats folded down" >}}
+{{< sitefiguresized thumb="technology/seats/types/kiaev9thirdrowseats_2_st.jpg" width="3000" height="2000" title="Kia EV9 third-row seats folded down" >}}
 
 ## Third-row captain chairs
 
@@ -109,7 +109,7 @@ The Captain's chairs provide more comfortable seating for passengers, particular
 
 However, there are also some potential drawbacks to third-row Captain's chairs. One is that they reduce the overall seating capacity of the vehicle, as there are only two seats instead of three. Additionally, the extra space required for the Captain's chairs can limit the cargo space in the vehicle's rear.
 
-{{< sitefigure thumb="technology/seats/types/mercedeseqvcaptainchairsthirdrow_1_st.jpg" title="Mercedes EQV Captain Chairs second and third row" >}}
+{{< sitefiguresized thumb="technology/seats/types/mercedeseqvcaptainchairsthirdrow_1_st.jpg" width="3000" height="2000" title="Mercedes EQV Captain Chairs second and third row" >}}
 
 In the EVKX EV database you can search for models with a specific seat type.
 
