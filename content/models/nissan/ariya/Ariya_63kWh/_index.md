@@ -35,11 +35,11 @@ The Nissan Ariya 63kWh has a maximum power of 160KW (218hp). The total torque is
 
 The battery has a gross capacity of 66kWh and a net capacity of 63kWh, meaning you have a 3kWh buffer for protection. (4,5%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 403 to 359 km (250-223 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,6kWh/100km for the basic version and 17,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 403 to 359 km (250-223 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15.6kWh/100km for the basic version and 17.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 52 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 57%, resulting in an actual charge speed, including time loss on 80kW. Each charge session would take 26 minutes and 52 seconds. 
+The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 52 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 57%, resulting in an actual charge speed, including time loss, of 80kW. Each charge session would take 26 minutes and 52 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 10 hours and 33 minutes to drive. This trip will require six charge session(s) charging from 2% to 49%. The total time lost for charging up the battery will be 134 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 10 hours and 33 minutes. This trip will require six charge session(s) charging from 2% to 49%. The total time lost for charging up the battery will be 134 minutes.
 
 ### Onboard charger
 
@@ -141,7 +141,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Nissan Ariya 63kWh has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large. The touch screen at the right part of the shared frame is 12,3 inches large. 
+The Nissan Ariya 63kWh has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large. The touch screen at the right part of the shared frame is 12.3 inches large. 
 
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/screens_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="1999"  >}}

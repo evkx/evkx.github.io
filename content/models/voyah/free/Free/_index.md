@@ -35,9 +35,9 @@ The VOYAH FREE has a maximum power of 360KW (489hp). The total torque is 720nm. 
 
 The battery has a gross capacity of 106kWh and a net capacity of 100kWh, meaning you have a 6kWh buffer for protection. (5,7%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 500 km (311 mi).   The consumption is 20,0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 500 km (311 mi).   The consumption is 20.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 97 minutes, while a more common scenario of 10-80% would take 60 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 15% to 83%, resulting in an actual charge speed, including time loss on 65kW. Each charge session would take 63 minutes and 34 seconds. 
+The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 97 minutes, while a more common scenario of 10-80% would take 60 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 15% to 83%, resulting in an actual charge speed, including time loss, of 65kW. Each charge session would take 63 minutes and 34 seconds. 
 
 ### Onboard charger
 
@@ -131,7 +131,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large. The  screen in the dashboard's center  is 12,3 inches large. The  screen in front of the passenger in the dashboard is 12,3 inches large. 
+The VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The  screen in the dashboard's center  is 12.3 inches large. The  screen in front of the passenger in the dashboard is 12.3 inches large. 
 
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}

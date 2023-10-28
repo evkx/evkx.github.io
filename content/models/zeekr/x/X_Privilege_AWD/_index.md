@@ -35,11 +35,11 @@ The Zeekr X Privilege AWD has a maximum power of 315KW (428hp). The total torque
 
 The battery has a gross capacity of 69kWh and a net capacity of 64kWh, meaning you have a 5kWh buffer for protection. (7,2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 400 km (249 mi).   The consumption is 16,0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 400 km (249 mi).   The consumption is 16.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 54%, resulting in an actual charge speed, including time loss on 90kW. Each charge session would take 21 minutes and 58 seconds. 
+The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 54%, resulting in an actual charge speed, including time loss, of 90kW. Each charge session would take 21 minutes and 58 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 10 hours and 32 minutes to drive. This trip will require seven charge session(s) charging from 5% to 49%. The total time lost for charging up the battery will be 132 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 10 hours and 32 minutes. This trip will require seven charge session(s) charging from 5% to 49%. The total time lost for charging up the battery will be 132 minutes.
 
 ### Onboard charger
 
@@ -138,7 +138,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen on the steering column  is 8 inches large. The touch screen at the top of the center console is 14,6 inches large. 
+The  screen on the steering column  is 8.0 inches large. The touch screen at the top of the center console is 14.6 inches large. 
 
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/screens_1_st.jpg" title="Zeekr X Privilege AWD" width="2280" height="1282"  >}}

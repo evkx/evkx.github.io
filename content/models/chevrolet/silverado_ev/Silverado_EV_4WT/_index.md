@@ -35,11 +35,11 @@ The Chevrolet Silverado EV 4WT has a maximum power of 380KW (517hp). The total t
 
 The battery has a gross capacity of 220kWh and a net capacity of 213kWh, meaning you have a 7kWh buffer for protection. (3,2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 450 miles (724 km).   The consumption is 2,1mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa) is 450 miles (724 km).   The consumption is 2.1mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 139 minutes, while a more common scenario of 10-80% would take 48 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 52%, resulting in an actual charge speed, including time loss on 245kW. Each charge session would take 27 minutes and 39 seconds. 
+The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 139 minutes, while a more common scenario of 10-80% would take 48 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 52%, resulting in an actual charge speed, including time loss, of 245kW. Each charge session would take 27 minutes and 39 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 43kWh/100km, 1000km will take 9 hours and 13 minutes to drive. This trip will require two charge session(s) charging from 1% to 52%. The total time lost for charging up the battery will be 53 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 43kWh/100km, 1000km will take 9 hours and 13 minutes. This trip will require two charge session(s) charging from 1% to 52%. The total time lost for charging up the battery will be 53 minutes.
 
 ### Onboard charger
 
@@ -146,7 +146,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Chevrolet Silverado EV 4WT has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center  is 11 inches large and has a 1888x1728 pixels resolution. 
+The Chevrolet Silverado EV 4WT has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center  is 11.0 inches large and has a 1888x1728 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}

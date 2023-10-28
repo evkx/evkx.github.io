@@ -35,11 +35,11 @@ The BMW iX2 xDrive30 has a maximum power of 230KW (313hp). The total torque is 4
 
 The battery has a gross capacity of 68kWh and a net capacity of 64,7kWh, meaning you have a 3,3kWh buffer for protection. (4,9%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 449 to 417 km (279-259 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,4kWh/100km for the basic version and 15,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 449 to 417 km (279-259 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14.4kWh/100km for the basic version and 15.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 51%, resulting in an actual charge speed, including time loss on 85kW. Each charge session would take 23 minutes and 55 seconds. 
+The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 51%, resulting in an actual charge speed, including time loss, of 85kW. Each charge session would take 23 minutes and 55 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 10 hours and 12 minutes to drive. This trip will require five charge session(s) charging from 1% to 50%. The total time lost for charging up the battery will be 112 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 10 hours and 12 minutes. This trip will require five charge session(s) charging from 1% to 50%. The total time lost for charging up the battery will be 112 minutes.
 
 ### Onboard charger
 
@@ -67,7 +67,7 @@ Dynamic steering is a standard feature on the BMW iX2 xDrive30. Dynamic steering
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). You can choose between two stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes and  roll mode causes the vehicle to roll until it stops by itself. 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). You can choose between two stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes, and roll mode causes the vehicle to roll until it stops by itself. 
 
 ## Exterior
 
@@ -103,7 +103,7 @@ The following functionalities are available on the **Standard** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
@@ -118,7 +118,7 @@ The following functionalities are available on the **Sport** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
@@ -167,7 +167,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The BMW iX2 xDrive30 has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 10,25 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 10,7 inches large and has a 2880 x 1080 pixels resolution. 
+The BMW iX2 xDrive30 has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 10.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 10.7 inches large and has a 2880 x 1080 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/screens_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}

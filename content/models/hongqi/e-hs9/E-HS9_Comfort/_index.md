@@ -35,11 +35,11 @@ The Hongqi E-HS9 Comfort has a maximum power of 320KW (435hp). The total torque 
 
 The battery has a gross capacity of 84kWh and a net capacity of 81,7kWh, meaning you have a 2,3kWh buffer for protection. (2,7%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 396 km (246 mi).   The consumption is 20,6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 396 km (246 mi).   The consumption is 20.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 67 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 72%, resulting in an actual charge speed, including time loss on 94kW. Each charge session would take 34 minutes and 1 seconds. 
+The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 67 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 72%, resulting in an actual charge speed, including time loss, of 94kW. Each charge session would take 34 minutes and 1 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32kWh/100km, 1000km will take 10 hours and 53 minutes to drive. This trip will require four charge session(s) charging from 6% to 79%. The total time lost for charging up the battery will be 153 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32kWh/100km, 1000km will take 10 hours and 53 minutes. This trip will require four charge session(s) charging from 6% to 79%. The total time lost for charging up the battery will be 153 minutes.
 
 ### Onboard charger
 
@@ -147,7 +147,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Hongqi E-HS9 Comfort has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16,2 inches large. The touch screen in the dashboard's center  is 16,2 inches large. The touch screen in front of the passenger in the dashboard is 16,2 inches large. The touch screen in the middle of the center console is 10,2 inches large. 
+The Hongqi E-HS9 Comfort has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16.2 inches large. The touch screen in the dashboard's center  is 16.2 inches large. The touch screen in front of the passenger in the dashboard is 16.2 inches large. The touch screen in the middle of the center console is 10.2 inches large. 
 
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/screens_1_st.jpg" title="Hongqi E-HS9 Comfort" width="3000" height="1800"  >}}

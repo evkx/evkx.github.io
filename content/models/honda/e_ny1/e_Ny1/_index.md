@@ -35,11 +35,11 @@ The Honda e:Ny1 has a maximum power of 150KW (204hp). The total torque is 310nm.
 
 The battery has a gross capacity of 68,8kWh and a net capacity of 61,9kWh, meaning you have a 6,9kWh buffer for protection. (10,0%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 412 km (256 mi).   The consumption is 15,0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 412 km (256 mi).   The consumption is 15.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 38 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 92%, resulting in an actual charge speed, including time loss on 62kW. Each charge session would take 51 minutes and 28 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 38 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 92%, resulting in an actual charge speed, including time loss, of 62kW. Each charge session would take 51 minutes and 28 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24,5kWh/100km, 1000km will take 11 hours and 18 minutes to drive. This trip will require four charge session(s) charging from 16% to 90%. The total time lost for charging up the battery will be 179 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24,5kWh/100km, 1000km will take 11 hours and 18 minutes. This trip will require four charge session(s) charging from 16% to 90%. The total time lost for charging up the battery will be 179 minutes.
 
 ### Onboard charger
 
@@ -115,7 +115,7 @@ Honda e:Ny1 has several features to make your life as a driver or passenger more
 
 ## User interface and control
 
-The Honda e:Ny1 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9 inches large. The touch screen at the top of the center console is 15,2 inches large. 
+The Honda e:Ny1 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9.0 inches large. The touch screen at the top of the center console is 15.2 inches large. 
 
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/screens_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}

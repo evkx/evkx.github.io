@@ -35,11 +35,11 @@ The Zeekr 001 FR has a maximum power of 930KW (1264hp). The total torque is 1200
 
 The battery has a gross capacity of 100kWh and a net capacity of 95kWh, meaning you have a 5kWh buffer for protection. (5,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 580 km (360 mi).   The consumption is 16,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 580 km (360 mi).   The consumption is 16.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 58%, resulting in an actual charge speed, including time loss on 134kW. Each charge session would take 23 minutes and 54 seconds. 
+The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 58%, resulting in an actual charge speed, including time loss, of 134kW. Each charge session would take 23 minutes and 54 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 43 minutes to drive. This trip will require four charge session(s) charging from 5% to 54%. The total time lost for charging up the battery will be 83 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 43 minutes. This trip will require four charge session(s) charging from 5% to 54%. The total time lost for charging up the battery will be 83 minutes.
 
 ### Onboard charger
 
@@ -95,7 +95,7 @@ The following functionalities are available on the **standard** seat.
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
@@ -136,7 +136,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Zeekr 001 FR has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 8,8 inches large. The touch screen at the top of the center console is 15,4 inches large. 
+The Zeekr 001 FR has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 8.8 inches large. The touch screen at the top of the center console is 15.4 inches large. 
 
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield. 
 

@@ -35,11 +35,11 @@ The Ford Mustang Mach-E Standard Range RWD has a maximum power of 258KW (351hp).
 
 The battery has a gross capacity of 75,7kWh and a net capacity of 70kWh, meaning you have a 5,7kWh buffer for protection. (7,5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 440 km (273 mi).   The consumption is 15,9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 440 km (273 mi).   The consumption is 15.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 117 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 46%, resulting in an actual charge speed, including time loss on 80kW. Each charge session would take 22 minutes and 3 seconds. 
+The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 117 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 46%, resulting in an actual charge speed, including time loss, of 80kW. Each charge session would take 22 minutes and 3 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 10 hours and 12 minutes to drive. This trip will require five charge session(s) charging from 4% to 47%. The total time lost for charging up the battery will be 113 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 10 hours and 12 minutes. This trip will require five charge session(s) charging from 4% to 47%. The total time lost for charging up the battery will be 113 minutes.
 
 ### Onboard charger
 
@@ -67,7 +67,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 457mm, and the rear discs are 432mm. 
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. You can choose between two stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes and  roll mode causes the vehicle to roll until it stops by itself. 
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. You can choose between two stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes, and roll mode causes the vehicle to roll until it stops by itself. 
 
 ## Exterior
 
@@ -147,7 +147,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 10,2 inches large. The touch screen at the top of the center console is 15,5 inches large. 
+The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large. The touch screen at the top of the center console is 15.5 inches large. 
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/screens_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="2000"  >}}

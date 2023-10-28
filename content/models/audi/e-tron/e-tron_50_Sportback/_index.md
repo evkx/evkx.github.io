@@ -41,11 +41,11 @@ The Audi e-tron 50 Sportback has a maximum power of 230KW (313hp). The total tor
 
 The battery has a gross capacity of 71kWh and a net capacity of 64kWh, meaning you have a 7kWh buffer for protection. (9,9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 351 to 286 km (218-178 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,2kWh/100km for the basic version and 22,4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 351 to 286 km (218-178 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18.2kWh/100km for the basic version and 22.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 72%, resulting in an actual charge speed, including time loss on 92kW. Each charge session would take 28 minutes and 30 seconds. 
+The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 72%, resulting in an actual charge speed, including time loss, of 92kW. Each charge session would take 28 minutes and 30 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 22 minutes to drive. This trip will require four charge session(s) charging from 3% to 76%. The total time lost for charging up the battery will be 123 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 22 minutes. This trip will require four charge session(s) charging from 3% to 76%. The total time lost for charging up the battery will be 123 minutes.
 
 ### Onboard charger
 
@@ -88,7 +88,7 @@ The black optics design package is an option. This package includes a black sing
 
 Additionally, you can choose between 10 wheels with sizes from 19 to 22 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close are an optional function for the regular doors. 
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close is an optional function for the side doors. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
@@ -172,9 +172,9 @@ The following functionalities are available on the **multicontour** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
-- [Seat cushion side bolster adjustement](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
-- [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
+- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
+- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
@@ -202,7 +202,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -224,7 +224,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Audi e-tron 50 Sportback has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. The touch screen at the bottom of the center console is 8,6 inches large and has a 1280 x 660 pixels resolution. 
+The Audi e-tron 50 Sportback has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10.1 inches large and has a 1540 x 720 pixels resolution. The touch screen at the bottom of the center console is 8.6 inches large and has a 1280 x 660 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50_sportback/screens_1_st.jpg" title="Audi e-tron 50 Sportback" width="3000" height="2001"  >}}

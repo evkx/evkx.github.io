@@ -35,11 +35,11 @@ The Hongqi E-HS9 Exclusive has a maximum power of 405KW (551hp). The total torqu
 
 The battery has a gross capacity of 99kWh and a net capacity of 95,3kWh, meaning you have a 3,7kWh buffer for protection. (3,7%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 465 km (289 mi).   The consumption is 20,5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 465 km (289 mi).   The consumption is 20.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 78 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 68%, resulting in an actual charge speed, including time loss on 96kW. Each charge session would take 36 minutes and 50 seconds. 
+The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 78 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 68%, resulting in an actual charge speed, including time loss, of 96kW. Each charge session would take 36 minutes and 50 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32kWh/100km, 1000km will take 10 hours and 40 minutes to drive. This trip will require four charge session(s) charging from 8% to 67%. The total time lost for charging up the battery will be 141 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32kWh/100km, 1000km will take 10 hours and 40 minutes. This trip will require four charge session(s) charging from 8% to 67%. The total time lost for charging up the battery will be 141 minutes.
 
 ### Onboard charger
 
@@ -74,7 +74,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 You can choose between 6 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 21 to 22 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close are a standard function for the regular doors. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors. 
 
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
@@ -150,7 +150,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Hongqi E-HS9 Exclusive has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16,2 inches large. The touch screen in the dashboard's center  is 16,2 inches large. The touch screen in front of the passenger in the dashboard is 16,2 inches large. The touch screen in the middle of the center console is 10,2 inches large. 
+The Hongqi E-HS9 Exclusive has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16.2 inches large. The touch screen in the dashboard's center  is 16.2 inches large. The touch screen in front of the passenger in the dashboard is 16.2 inches large. The touch screen in the middle of the center console is 10.2 inches large. 
 
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusive/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive" width="3000" height="1800"  >}}

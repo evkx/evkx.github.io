@@ -35,11 +35,11 @@ The Mercedes-EQ EQC 400 4MATIC has a maximum power of 300KW (408hp). The total t
 
 The battery has a gross capacity of 86kWh and a net capacity of 80kWh, meaning you have a 6kWh buffer for protection. (7,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 432 to 400 km (268-249 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,5kWh/100km for the basic version and 20,0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 432 to 400 km (268-249 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18.5kWh/100km for the basic version and 20.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 112kW. A full charge from 0 - 100% would take 67 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 67%, resulting in an actual charge speed, including time loss on 82kW. Each charge session would take 35 minutes and 30 seconds. 
+The maximum DC charging speed is 112kW. A full charge from 0 - 100% would take 67 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 67%, resulting in an actual charge speed, including time loss, of 82kW. Each charge session would take 35 minutes and 30 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 26 minutes to drive. This trip will require four charge session(s) charging from 8% to 62%. The total time lost for charging up the battery will be 127 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 26 minutes. This trip will require four charge session(s) charging from 8% to 62%. The total time lost for charging up the battery will be 127 minutes.
 
 ### Onboard charger
 
@@ -123,7 +123,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The Mercedes-EQ EQC 400 4MATIC has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 10,1 inches large and has a 1540 x 720 pixels resolution. 
+The Mercedes-EQ EQC 400 4MATIC has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 10.1 inches large and has a 1540 x 720 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/screens_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1721"  >}}

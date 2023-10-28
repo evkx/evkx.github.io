@@ -35,11 +35,11 @@ The Lucid Air Pure has a maximum power of 320KW (435hp). The total torque is 400
 
 The battery has a gross capacity of 94kWh and a net capacity of 92kWh, meaning you have a 2kWh buffer for protection. (2,1%). 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 410 miles (660 km).   The consumption is 4,5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa) is 410 miles (660 km).   The consumption is 4.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 49%, resulting in an actual charge speed, including time loss on 163kW. Each charge session would take 16 minutes and 18 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 49%, resulting in an actual charge speed, including time loss, of 163kW. Each charge session would take 16 minutes and 18 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19kWh/100km, 1000km will take 8 hours and 56 minutes to drive. This trip will require two charge session(s) charging from 0% to 54%. The total time lost for charging up the battery will be 37 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19kWh/100km, 1000km will take 8 hours and 56 minutes. This trip will require two charge session(s) charging from 0% to 54%. The total time lost for charging up the battery will be 37 minutes.
 
 ### Onboard charger
 
@@ -101,8 +101,8 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
-- [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
+- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
 
 You can choose from 1 different materials/colors for this seat type. <br />
@@ -125,7 +125,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
+There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
 
 ## Comfort
 
@@ -145,7 +145,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).The touch screen in the left side of the shared frame  is 8 inches large. The  screen behind the steering wheel in the middle of the shared frame  is 14 inches large. The touch screen at the right part of the shared frame is 12 inches large. The touch screen in the middle of the center console is 12 inches large. 
+On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).The touch screen in the left side of the shared frame  is 8.0 inches large. The  screen behind the steering wheel in the middle of the shared frame  is 14.0 inches large. The touch screen at the right part of the shared frame is 12.0 inches large. The touch screen in the middle of the center console is 12.0 inches large. 
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/screens_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}

@@ -35,11 +35,11 @@ The Lotus Eletre R has a maximum power of 675KW (918hp). The total torque is 985
 
 The battery has a gross capacity of 112kWh and a net capacity of 109kWh, meaning you have a 3kWh buffer for protection. (2,7%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 460 to 410 km (286-255 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 23,7kWh/100km for the basic version and 26,6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 460 to 410 km (286-255 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 23.7kWh/100km for the basic version and 26.6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 20 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 68%, resulting in an actual charge speed, including time loss on 193kW. Each charge session would take 23 minutes and 45 seconds. 
+The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 20 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 68%, resulting in an actual charge speed, including time loss, of 193kW. Each charge session would take 23 minutes and 45 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 14 minutes to drive. This trip will require two charge session(s) charging from 0% to 79%. The total time lost for charging up the battery will be 55 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 14 minutes. This trip will require two charge session(s) charging from 0% to 79%. The total time lost for charging up the battery will be 55 minutes.
 
 ### Onboard charger
 
@@ -61,7 +61,7 @@ The front suspension and rear suspension is [Multilink](../../../../technology/s
 
 ### Steering
 
-Dynamic steering is a standard feature on the Lotus Eletre R. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is a standard feature. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is a standard feature on the Lotus Eletre R. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -134,7 +134,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -152,7 +152,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large. The touch screen on the dashboard's center  is 15,1 inches large. 
+The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen on the dashboard's center  is 15.1 inches large. 
 
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/screens_1_st.jpg" title="Lotus Eletre R" width="3000" height="1919"  >}}

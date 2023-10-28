@@ -35,11 +35,11 @@ The Cadillac ESCALADE IQ has a maximum power of 560KW (761hp). The total torque 
 
 The battery has a gross capacity of 215kWh and a net capacity of 200kWh, meaning you have a 15kWh buffer for protection. (7,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 450 miles (724 km).   The consumption is 2,3mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa) is 450 miles (724 km).   The consumption is 2.3mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 130 minutes, while a more common scenario of 10-80% would take 45 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 53%, resulting in an actual charge speed, including time loss on 242kW. Each charge session would take 26 minutes and 49 seconds. 
+The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 130 minutes, while a more common scenario of 10-80% would take 45 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 53%, resulting in an actual charge speed, including time loss, of 242kW. Each charge session would take 26 minutes and 49 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 35kWh/100km, 1000km will take 8 hours and 58 minutes to drive. This trip will require two charge session(s) charging from 1% to 39%. The total time lost for charging up the battery will be 39 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 35kWh/100km, 1000km will take 8 hours and 58 minutes. This trip will require two charge session(s) charging from 1% to 39%. The total time lost for charging up the battery will be 39 minutes.
 
 ### Onboard charger
 
@@ -57,7 +57,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Cadillac ESCALADE IQ has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 200 mm. In addition,  rear-wheel steering is a standard feature. Rear wheel steering reduces the turning circle when going slow.  
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 200 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -134,7 +134,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
 
 ## Comfort
 
@@ -154,7 +154,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 35 inches large. The touch screen at the bottom of the center console is 11 inches large. The touch screen in front of the passenger on the dashboard is 20 inches large. 
+The  screen behind the steering wheel mounted into the dashboard is 35.0 inches large. The touch screen at the bottom of the center console is 11.0 inches large. The touch screen in front of the passenger on the dashboard is 20.0 inches large. 
 
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/screens_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2250"  >}}

@@ -35,9 +35,9 @@ The Citroën ë-C3 has a maximum power of 83KW (113hp). The total torque is nm. 
 
 The battery has a gross capacity of 44kWh and a net capacity of 43kWh, meaning you have a 1kWh buffer for protection. (2,3%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 320 km (199 mi).   The consumption is 13,4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 320 km (199 mi).   The consumption is 13.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 64 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 13% to 69%, resulting in an actual charge speed, including time loss on 64kW. Each charge session would take 23 minutes and 34 seconds. 
+The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 64 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 13% to 69%, resulting in an actual charge speed, including time loss, of 64kW. Each charge session would take 23 minutes and 34 seconds. 
 
 ### Onboard charger
 
@@ -140,7 +140,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Citroën ë-C3 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 5 inches large. The touch screen at the top of the center console is 10,25 inches large. 
+The Citroën ë-C3 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 5.0 inches large. The touch screen at the top of the center console is 10.3 inches large. 
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}

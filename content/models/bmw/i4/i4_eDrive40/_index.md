@@ -35,11 +35,11 @@ The BMW i4 eDrive40 has a maximum power of 250KW (340hp). The total torque is 43
 
 The battery has a gross capacity of 83,9kWh and a net capacity of 80,7kWh, meaning you have a 3,2kWh buffer for protection. (3,8%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 590 to 493 km (367-306 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,7kWh/100km for the basic version and 16,4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 590 to 493 km (367-306 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13.7kWh/100km for the basic version and 16.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 56 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 50%, resulting in an actual charge speed, including time loss on 118kW. Each charge session would take 19 minutes and 20 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 56 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 50%, resulting in an actual charge speed, including time loss, of 118kW. Each charge session would take 19 minutes and 20 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 18kWh/100km, 1000km will take 9 hours and 11 minutes to drive. This trip will require three charge session(s) charging from 3% to 45%. The total time lost for charging up the battery will be 52 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 18kWh/100km, 1000km will take 9 hours and 11 minutes. This trip will require three charge session(s) charging from 3% to 45%. The total time lost for charging up the battery will be 52 minutes.
 
 ### Onboard charger
 
@@ -65,20 +65,20 @@ The Standard suspension has air suspension on the rear axle that automaticly kee
 
 ### Steering
 
-Dynamic steering is a standard feature on the BMW i4 eDrive40. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is a standard feature. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is a standard feature on the BMW i4 eDrive40. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). You can choose between two stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes and  roll mode causes the vehicle to roll until it stops by itself. 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). You can choose between two stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes, and roll mode causes the vehicle to roll until it stops by itself. 
 
 ## Exterior
 
 You can choose between 12 different paint colors when ordering this model. 
 Additionally, you can choose between 7 wheels with sizes from 18 to 20 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close are an optional function for the regular doors. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is an optional function for the side doors. 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a sunroof. The glass extends over only the front row, and occupants can open it. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
@@ -108,7 +108,7 @@ The following functionalities are available on the **standard** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
@@ -124,7 +124,7 @@ The following functionalities are available on the **M Sport** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - integrated headrest 
 
 You can choose from 21 different materials/colors for this seat type. <br />
@@ -148,7 +148,7 @@ There is only one type of steering wheel available. The stock steering wheel is 
 
 ## Climate system
 
-You can choose from two different climate systems. The standard climate system supports different temperatures in two zones for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. 
+You can choose from two different climate systems. The standard climate system supports different temperatures in two zones for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 
 ## Comfort
 
@@ -168,7 +168,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The BMW i4 eDrive40 has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 14,9 inches large and has a 2880 x 1080 pixels resolution. 
+The BMW i4 eDrive40 has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 14.9 inches large and has a 2880 x 1080 pixels resolution. 
 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
 
@@ -181,7 +181,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 4 USB-C connections as standard. 
 ## Lights
 
-You can choose between two types of headlights for the BMW i4 eDrive40. The standard headlights use LED technology.  lights.technology.option.ledmatrixlaser In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the BMW i4 eDrive40. The standard headlights use LED technology.  Headlights based on LED Matrix with Laser technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
 ## Advanced driver assistance systems
 
 The BMW i4 eDrive40 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

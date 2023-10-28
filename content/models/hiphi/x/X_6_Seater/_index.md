@@ -35,11 +35,11 @@ The HiPhi X 6 Seater has a maximum power of 433KW (589hp). The total torque is 8
 
 The battery has a gross capacity of 101kWh and a net capacity of 97kWh, meaning you have a 4kWh buffer for protection. (4,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 460 km (286 mi).   The consumption is 21,1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 460 km (286 mi).   The consumption is 21.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 79 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 51%, resulting in an actual charge speed, including time loss on 100kW. Each charge session would take 27 minutes and 19 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 79 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 51%, resulting in an actual charge speed, including time loss, of 100kW. Each charge session would take 27 minutes and 19 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 10 hours and 11 minutes to drive. This trip will require five charge session(s) charging from 5% to 43%. The total time lost for charging up the battery will be 111 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 10 hours and 11 minutes. This trip will require five charge session(s) charging from 5% to 43%. The total time lost for charging up the battery will be 111 minutes.
 
 ### Onboard charger
 
@@ -65,7 +65,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Steering
 
-Dynamic steering is a standard feature on the HiPhi X 6 Seater. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is a standard feature. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is a standard feature on the HiPhi X 6 Seater. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -159,7 +159,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The HiPhi X 6 Seater has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 14 inches large. The touch screen at the top of the center console is 16,9 inches large. The touch screen in front of the passenger in the dashboard is 19,9 inches large. 
+The HiPhi X 6 Seater has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 14.0 inches large. The touch screen at the top of the center console is 16.9 inches large. The touch screen in front of the passenger in the dashboard is 19.9 inches large. 
 
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/screens_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}

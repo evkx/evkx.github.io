@@ -38,20 +38,20 @@ Nio EL7 has two battery options with different specifications. Below you see how
 
 The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 513 to 486 km (319-302 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,5kWh/100km for the basic version and 18,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 513 to 486 km (319-302 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17.5kWh/100km for the basic version and 18.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 75 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 44%, resulting in an actual charge speed, including time loss on 86kW. Each charge session would take 27 minutes and 2 seconds. 
+The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 75 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 44%, resulting in an actual charge speed, including time loss, of 86kW. Each charge session would take 27 minutes and 2 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25,5kWh/100km, 1000km will take 10 hours and 15 minutes to drive. This trip will require four charge session(s) charging from 1% to 47%. The total time lost for charging up the battery will be 116 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25,5kWh/100km, 1000km will take 10 hours and 15 minutes. This trip will require four charge session(s) charging from 1% to 47%. The total time lost for charging up the battery will be 116 minutes.
 ### 75kWh
 
 The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 394 to 372 km (245-231 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17,5kWh/100km for the basic version and 18,5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 394 to 372 km (245-231 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 17.5kWh/100km for the basic version and 18.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 140kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74%, resulting in an actual charge speed, including time loss on 77kW. Each charge session would take 37 minutes and 57 seconds. 
+The maximum DC charging speed is 140kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74%, resulting in an actual charge speed, including time loss, of 77kW. Each charge session would take 37 minutes and 57 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25,5kWh/100km, 1000km will take 10 hours and 45 minutes to drive. This trip will require four charge session(s) charging from 7% to 73%. The total time lost for charging up the battery will be 146 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25,5kWh/100km, 1000km will take 10 hours and 45 minutes. This trip will require four charge session(s) charging from 7% to 73%. The total time lost for charging up the battery will be 146 minutes.
 
 ### Onboard charger
 
@@ -89,7 +89,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 You can choose between 7 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 20 to 21 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close are a standard function for the regular doors. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors. 
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
@@ -165,7 +165,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 9,8 inches large. The touch screen in the middle of the center console is 12,8 inches large. 
+The  screen behind the steering wheel mounted into the dashboard is 9.8 inches large. The touch screen in the middle of the center console is 12.8 inches large. 
 
 
 {{< sitefiguresized thumb="models/nio/el7/el7/screens_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}

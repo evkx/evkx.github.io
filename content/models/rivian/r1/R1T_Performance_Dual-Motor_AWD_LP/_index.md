@@ -35,11 +35,11 @@ The Rivian R1T Performance Dual-Motor AWD LP has a maximum power of 495KW (673hp
 
 The battery has a gross capacity of 135kWh and a net capacity of 125kWh, meaning you have a 10kWh buffer for protection. (7,4%). 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 352 miles (566 km).   The consumption is 2,8mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa) is 352 miles (566 km).   The consumption is 2.8mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 104 minutes, while a more common scenario of 10-80% would take 42 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45%, resulting in an actual charge speed, including time loss on 138kW. Each charge session would take 25 minutes and 30 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 104 minutes, while a more common scenario of 10-80% would take 42 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45%, resulting in an actual charge speed, including time loss, of 138kW. Each charge session would take 25 minutes and 30 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 9 hours and 36 minutes to drive. This trip will require three charge session(s) charging from 0% to 47%. The total time lost for charging up the battery will be 77 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 9 hours and 36 minutes. This trip will require three charge session(s) charging from 0% to 47%. The total time lost for charging up the battery will be 77 minutes.
 
 ### Onboard charger
 
@@ -124,7 +124,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
+There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
 
 ## Comfort
 
@@ -144,7 +144,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Rivian R1T Performance Dual-Motor AWD LP has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12,3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 15,3 inches large and has a 1540 x 720 pixels resolution. 
+The Rivian R1T Performance Dual-Motor AWD LP has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 15.3 inches large and has a 1540 x 720 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/screens_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="1600" height="1067"  >}}

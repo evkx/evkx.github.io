@@ -35,11 +35,11 @@ The Lucid Air Grand Touring has a maximum power of 597KW (812hp). The total torq
 
 The battery has a gross capacity of 112kWh and a net capacity of 112kWh, meaning you have a 0kWh buffer for protection. (0,0%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 839 to 783 km (521-487 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,3kWh/100km for the basic version and 14,3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 839 to 783 km (521-487 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13.3kWh/100km for the basic version and 14.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 74 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 46%, resulting in an actual charge speed, including time loss on 172kW. Each charge session would take 18 minutes and 34 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 74 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 46%, resulting in an actual charge speed, including time loss, of 172kW. Each charge session would take 18 minutes and 34 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19kWh/100km, 1000km will take 8 hours and 48 minutes to drive. This trip will require two charge session(s) charging from 1% to 36%. The total time lost for charging up the battery will be 28 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19kWh/100km, 1000km will take 8 hours and 48 minutes. This trip will require two charge session(s) charging from 1% to 36%. The total time lost for charging up the battery will be 28 minutes.
 
 ### Onboard charger
 
@@ -101,8 +101,8 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- [backrest side bolster adjustemnt](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
-- [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
+- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrated headrest 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
@@ -131,7 +131,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
+There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
 
 ## Comfort
 
@@ -151,7 +151,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).The touch screen in the left side of the shared frame  is 8 inches large. The  screen behind the steering wheel in the middle of the shared frame  is 14 inches large. The touch screen at the right part of the shared frame is 12 inches large. The touch screen in the middle of the center console is 12 inches large. 
+On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).The touch screen in the left side of the shared frame  is 8.0 inches large. The  screen behind the steering wheel in the middle of the shared frame  is 14.0 inches large. The touch screen at the right part of the shared frame is 12.0 inches large. The touch screen in the middle of the center console is 12.0 inches large. 
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/screens_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="1999"  >}}

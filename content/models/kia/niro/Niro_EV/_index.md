@@ -35,11 +35,11 @@ The Kia Niro EV has a maximum power of 150KW (204hp). The total torque is 255nm.
 
 The battery has a gross capacity of 68kWh and a net capacity of 64,8kWh, meaning you have a 3,2kWh buffer for protection. (4,7%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 463 km (288 mi).   The consumption is 14,0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 463 km (288 mi).   The consumption is 14.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 93 minutes, while a more common scenario of 10-80% would take 44 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 56%, resulting in an actual charge speed, including time loss on 60kW. Each charge session would take 33 minutes and 30 seconds. 
+The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 93 minutes, while a more common scenario of 10-80% would take 44 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 56%, resulting in an actual charge speed, including time loss, of 60kW. Each charge session would take 33 minutes and 30 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 20kWh/100km, 1000km will take 10 hours and 35 minutes to drive. This trip will require five charge session(s) charging from 4% to 46%. The total time lost for charging up the battery will be 136 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 20kWh/100km, 1000km will take 10 hours and 35 minutes. This trip will require five charge session(s) charging from 4% to 46%. The total time lost for charging up the battery will be 136 minutes.
 
 ### Onboard charger
 
@@ -139,7 +139,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Kia Niro EV has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 10,25 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 10,25 inches large and has a 2880 x 1080 pixels resolution. 
+The Kia Niro EV has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 10.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 10.3 inches large and has a 2880 x 1080 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/screens_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}

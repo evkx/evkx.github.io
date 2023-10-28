@@ -35,11 +35,11 @@ The HiPhi Z 4 Seater has a maximum power of 494KW (672hp). The total torque is 8
 
 The battery has a gross capacity of 125kWh and a net capacity of 120kWh, meaning you have a 5kWh buffer for protection. (4,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 555 km (345 mi).   The consumption is 21,6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 555 km (345 mi).   The consumption is 21.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 98 minutes, while a more common scenario of 10-80% would take 50 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 47%, resulting in an actual charge speed, including time loss on 104kW. Each charge session would take 30 minutes and 46 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 98 minutes, while a more common scenario of 10-80% would take 50 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 47%, resulting in an actual charge speed, including time loss, of 104kW. Each charge session would take 30 minutes and 46 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 53 minutes to drive. This trip will require three charge session(s) charging from 4% to 49%. The total time lost for charging up the battery will be 94 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 53 minutes. This trip will require three charge session(s) charging from 4% to 49%. The total time lost for charging up the battery will be 94 minutes.
 
 ### Onboard charger
 
@@ -65,7 +65,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Steering
 
-Dynamic steering is a standard feature on the HiPhi Z 4 Seater. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is a standard feature. Rear wheel steering reduces the turning circle when going slow.  
+Dynamic steering is a standard feature on the HiPhi Z 4 Seater. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.  
 
 ### Brakes
 
@@ -128,7 +128,7 @@ You can choose from 2 different materials/colors for this seat type.
 For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
-- [electric adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 
@@ -161,7 +161,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The HiPhi Z 4 Seater has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 15 inches large. 
+The HiPhi Z 4 Seater has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 15.0 inches large. 
 
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/screens_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2052"  >}}

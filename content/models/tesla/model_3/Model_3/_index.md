@@ -35,11 +35,11 @@ The Tesla Model 3 has a maximum power of 208KW (283hp). The total torque is 420n
 
 The battery has a gross capacity of 60kWh and a net capacity of 59kWh, meaning you have a 1kWh buffer for protection. (1,7%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 513 km (319 mi).   The consumption is 11,5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 513 km (319 mi).   The consumption is 11.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 70 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 49%, resulting in an actual charge speed, including time loss on 83kW. Each charge session would take 20 minutes and 31 seconds. 
+The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 70 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 49%, resulting in an actual charge speed, including time loss, of 83kW. Each charge session would take 20 minutes and 31 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 17kWh/100km, 1000km will take 9 hours and 41 minutes to drive. This trip will require four charge session(s) charging from 3% to 51%. The total time lost for charging up the battery will be 82 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 17kWh/100km, 1000km will take 9 hours and 41 minutes. This trip will require four charge session(s) charging from 3% to 51%. The total time lost for charging up the battery will be 82 minutes.
 
 ### Onboard charger
 
@@ -74,7 +74,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 You can choose between 5 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 18 to 19 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. 
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
@@ -144,7 +144,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Tesla Model 3 has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The  screen on the dashboard's center  is 15 inches large and has a 2200 x 1300 pixels resolution. 
+The Tesla Model 3 has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The  screen on the dashboard's center  is 15.0 inches large and has a 2200 x 1300 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/screens_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}

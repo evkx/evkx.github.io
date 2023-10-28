@@ -35,11 +35,11 @@ The MG MG5 Electric Long Range has a maximum power of 115KW (156hp). The total t
 
 The battery has a gross capacity of 61,1kWh and a net capacity of 57,4kWh, meaning you have a 3,7kWh buffer for protection. (6,1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 400 to 380 km (249-236 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14,4kWh/100km for the basic version and 15,1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 400 to 380 km (249-236 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14.4kWh/100km for the basic version and 15.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 87kW. A full charge from 0 - 100% would take 75 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 58%, resulting in an actual charge speed, including time loss on 67kW. Each charge session would take 26 minutes and 50 seconds. 
+The maximum DC charging speed is 87kW. A full charge from 0 - 100% would take 75 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 58%, resulting in an actual charge speed, including time loss, of 67kW. Each charge session would take 26 minutes and 50 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 57 minutes to drive. This trip will require seven charge session(s) charging from 9% to 52%. The total time lost for charging up the battery will be 157 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 57 minutes. This trip will require seven charge session(s) charging from 9% to 52%. The total time lost for charging up the battery will be 157 minutes.
 
 ### Onboard charger
 
@@ -139,7 +139,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The MG MG5 Electric Long Range has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 7 inches large. The touch screen at the top of the center console is 10,25 inches large. 
+The MG MG5 Electric Long Range has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 7.0 inches large. The touch screen at the top of the center console is 10.3 inches large. 
 
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/screens_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2002"  >}}

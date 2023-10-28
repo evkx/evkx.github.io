@@ -35,9 +35,9 @@ The Cadillac LYRIQ RWD has a maximum power of 255KW (347hp). The total torque is
 
 The battery has a gross capacity of 110kWh and a net capacity of 102kWh, meaning you have a 8kWh buffer for protection. (7,3%). 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 312 miles (502 km).   The consumption is 3,1mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa) is 312 miles (502 km).   The consumption is 3.1mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 176 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 65%, resulting in an actual charge speed, including time loss on 120kW. Each charge session would take 29 minutes and 59 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 176 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 65%, resulting in an actual charge speed, including time loss, of 120kW. Each charge session would take 29 minutes and 59 seconds. 
 
 ### Onboard charger
 
@@ -138,7 +138,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The Cadillac LYRIQ RWD has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen behind the steering wheel accross the the center of the dash  is 33 inches large. 
+The Cadillac LYRIQ RWD has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen behind the steering wheel accross the the center of the dash  is 33.0 inches large. 
 
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/screens_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}

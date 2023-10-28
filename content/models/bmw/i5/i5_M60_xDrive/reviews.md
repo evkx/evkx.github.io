@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Throttle House: 2024 BMW 5 Series Review // Not What We Expected 24.10.2023
+
+{{< youtube m2LuECb5DRM >}}
+
 ### AutoTrader: NEW BMW i5 M60 Review: An Electric M5 With Too Much Tech? 23.10.2023
 
 {{< youtube EfUbciJ-SdM >}}

@@ -35,11 +35,11 @@ With overboost, the Audi Q4 50 e-tron quattro has a maximum power of 220KW (299h
 
 The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6,6%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 491 to 409 km (305-254 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15,6kWh/100km for the basic version and 18,7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 491 to 409 km (305-254 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15.6kWh/100km for the basic version and 18.7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53%, resulting in an actual charge speed, including time loss on 89kW. Each charge session would take 24 minutes and 11 seconds. 
+The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53%, resulting in an actual charge speed, including time loss, of 89kW. Each charge session would take 24 minutes and 11 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 5 minutes to drive. This trip will require four charge session(s) charging from 6% to 57%. The total time lost for charging up the battery will be 105 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 5 minutes. This trip will require four charge session(s) charging from 6% to 57%. The total time lost for charging up the battery will be 105 minutes.
 
 ### Onboard charger
 
@@ -174,7 +174,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Audi Q4 50 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10,2 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10,1 inches large and has a 1540 x 720 pixels resolution. 
+The Audi Q4 50 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10.2 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 10.1 inches large and has a 1540 x 720 pixels resolution. 
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="1686"  >}}

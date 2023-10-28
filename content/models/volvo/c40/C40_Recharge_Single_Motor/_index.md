@@ -35,11 +35,11 @@ The Volvo C40 Recharge Single Motor has a maximum power of 175KW (238hp). The to
 
 The battery has a gross capacity of 69kWh and a net capacity of 66kWh, meaning you have a 3kWh buffer for protection. (4,3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 478 to 466 km (297-290 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13,8kWh/100km for the basic version and 14,2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 478 to 466 km (297-290 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13.8kWh/100km for the basic version and 14.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 205kW. A full charge from 0 - 100% would take 85 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 54%, resulting in an actual charge speed, including time loss on 90kW. Each charge session would take 21 minutes and 28 seconds. 
+The maximum DC charging speed is 205kW. A full charge from 0 - 100% would take 85 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 54%, resulting in an actual charge speed, including time loss, of 90kW. Each charge session would take 21 minutes and 28 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 10 hours and 44 minutes to drive. This trip will require seven charge session(s) charging from 5% to 52%. The total time lost for charging up the battery will be 144 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 10 hours and 44 minutes. This trip will require seven charge session(s) charging from 5% to 52%. The total time lost for charging up the battery will be 144 minutes.
 
 ### Onboard charger
 
@@ -138,7 +138,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Volvo C40 Recharge Single Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12 inches large. The touch screen at the top of the center console is 9 inches large. 
+The Volvo C40 Recharge Single Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The touch screen at the top of the center console is 9.0 inches large. 
 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/screens_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}

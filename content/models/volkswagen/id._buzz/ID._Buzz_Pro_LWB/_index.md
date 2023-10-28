@@ -35,11 +35,11 @@ The Volkswagen ID. Buzz Pro LWB has a maximum power of 210KW (286hp). The total 
 
 The battery has a gross capacity of 91kWh and a net capacity of 85kWh, meaning you have a 6kWh buffer for protection. (6,6%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 461 to 452 km (287-281 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18,4kWh/100km for the basic version and 18,8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp) varies from 461 to 452 km (287-281 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 18.4kWh/100km for the basic version and 18.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 55 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 42%, resulting in an actual charge speed, including time loss on 113kW. Each charge session would take 19 minutes and 56 seconds. 
+The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 55 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 42%, resulting in an actual charge speed, including time loss, of 113kW. Each charge session would take 19 minutes and 56 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 10 hours and 3 minutes to drive. This trip will require five charge session(s) charging from 0% to 46%. The total time lost for charging up the battery will be 104 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 10 hours and 3 minutes. This trip will require five charge session(s) charging from 0% to 46%. The total time lost for charging up the battery will be 104 minutes.
 
 ### Onboard charger
 
@@ -176,7 +176,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Volkswagen ID. Buzz Pro LWB has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5,3 inches large. The touch screen on the dashboard's center  is 12,9 inches large. 
+The Volkswagen ID. Buzz Pro LWB has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5.3 inches large. The touch screen on the dashboard's center  is 12.9 inches large. 
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/screens_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="1999"  >}}

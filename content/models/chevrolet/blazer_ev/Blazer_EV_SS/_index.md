@@ -35,11 +35,11 @@ The Chevrolet Blazer EV SS has a maximum power of 410KW (557hp). The total torqu
 
 The battery has a gross capacity of 110kWh and a net capacity of 102kWh, meaning you have a 8kWh buffer for protection. (7,3%). 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 290 miles (467 km).   The consumption is 2,8mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa) is 290 miles (467 km).   The consumption is 2.8mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 190kW. A full charge from 0 - 100% would take 176 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 65%, resulting in an actual charge speed, including time loss on 120kW. Each charge session would take 29 minutes and 59 seconds. 
+The maximum DC charging speed is 190kW. A full charge from 0 - 100% would take 176 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 65%, resulting in an actual charge speed, including time loss, of 120kW. Each charge session would take 29 minutes and 59 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 9 hours and 35 minutes to drive. This trip will require three charge session(s) charging from 8% to 57%. The total time lost for charging up the battery will be 75 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 9 hours and 35 minutes. This trip will require three charge session(s) charging from 8% to 57%. The total time lost for charging up the battery will be 75 minutes.
 
 ### Onboard charger
 
@@ -135,7 +135,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The Chevrolet Blazer EV SS has twin screens on a shared frame mounted with brackets on top of the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 11 inches large. The touch screen at the right part of the shared frame is 17,7 inches large. 
+The Chevrolet Blazer EV SS has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 11.0 inches large. The touch screen at the right part of the shared frame is 17.7 inches large. 
 
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/screens_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}

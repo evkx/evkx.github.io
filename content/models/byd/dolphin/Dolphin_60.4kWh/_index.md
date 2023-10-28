@@ -35,11 +35,11 @@ The BYD Dolphin 60.4kWh has a maximum power of 150KW (204hp). The total torque i
 
 The battery has a gross capacity of 60,4kWh and a net capacity of 62kWh, meaning you have a -1,6kWh buffer for protection. (-2,6%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 427 km (265 mi).   The consumption is 14,5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 427 km (265 mi).   The consumption is 14.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 88kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 60%, resulting in an actual charge speed, including time loss on 88kW. Each charge session would take 24 minutes and 12 seconds. 
+The maximum DC charging speed is 88kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 60%, resulting in an actual charge speed, including time loss, of 88kW. Each charge session would take 24 minutes and 12 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 31 minutes to drive. This trip will require five charge session(s) charging from 1% to 62%. The total time lost for charging up the battery will be 131 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 31 minutes. This trip will require five charge session(s) charging from 1% to 62%. The total time lost for charging up the battery will be 131 minutes.
 
 ### Onboard charger
 
@@ -153,9 +153,9 @@ You have wireless charging for your phone.
 
 Two different screen setups are available on the BYD Dolphin 60.4kWh. 
 
-The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5 inches large. The touch screen on the dashboard's center  is 12,8 inches large. 
+The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large. The touch screen on the dashboard's center  is 12.8 inches large. 
 
-The optional Design layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is a [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5 inches large. The touch screen on the dashboard's center  is 15,6 inches large. 
+The optional Design layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large. The touch screen on the dashboard's center  is 15.6 inches large. 
 
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1550"  >}}
