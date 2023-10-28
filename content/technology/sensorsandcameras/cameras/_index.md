@@ -12,7 +12,7 @@ There are several types of cameras used in ADAS. The most common
 
 These are typically mounted on the windshield or dashboard of the vehicle and are designed to capture images and video of the road ahead. 
 
-{{< sitefigure thumb="technology/sensorsandcameras/cameras/eqsfrontcameras_st.jpg" title="Mercedes EQS Stereo Vision cameras" >}}
+{{< sitefiguresized thumb="technology/sensorsandcameras/cameras/eqsfrontcameras_st.jpg" width="3000" height="1727" title="Mercedes EQS Stereo Vision cameras" >}}
 
 They are used in features such as 
 
@@ -25,13 +25,13 @@ They are used in features such as
 
 These are mounted on the back of the vehicle and provide drivers with a view of what is behind the vehicle. They are used in features such as backup cameras and rear cross-traffic alert.
 
-{{< sitefigure thumb="technology/sensorsandcameras/cameras/rearcamera_st.jpg" title="Backup camera" >}}
+{{< sitefiguresized thumb="technology/sensorsandcameras/cameras/rearcamera_st.jpg" width="3000" height="1996" title="Backup camera" >}}
 
 ## Side-view cameras
 
 These are mounted on the sides of the vehicle and provide drivers with a view of blind spots. They are used in features such as blind spot monitoring.
 
-{{< sitefigure thumb="technology/sensorsandcameras/cameras/mirrorcamera_st.jpg" title="Side camera" >}}
+{{< sitefiguresized thumb="technology/sensorsandcameras/cameras/mirrorcamera_st.jpg" width="3000" height="2000" title="Side camera" >}}
 
 ## Interior cameras
 

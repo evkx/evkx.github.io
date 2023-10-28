@@ -7,7 +7,7 @@ weight: 3
 <!-- markdownlint-disable MD033 -->
 These cameras work by detecting the heat signature of objects, rather than relying on visible light like traditional cameras.
 
-{{< sitefigure thumb="technology/sensorsandcameras/infrared/illustrationetrongt_st.jpg" title="Audi e-tron GT with infrared night vision camera" >}}
+{{< sitefiguresized thumb="technology/sensorsandcameras/infrared/illustrationetrongt_st.jpg" width="3000" height="2000" title="Audi e-tron GT with infrared night vision camera" >}}
 
 Infrared cameras typically use long-wave infrared (LWIR) or mid-wave infrared (MWIR) radiation to detect heat signatures. LWIR cameras are more commonly used in cars as they are better suited for detecting heat emitted by people and animals, while MWIR cameras are better suited for detecting heat emitted by vehicles.
 

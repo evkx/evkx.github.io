@@ -22,7 +22,7 @@ The purpose of suspension on cars is to provide a smooth and comfortable ride fo
 
 Overall, the suspension system plays a crucial role in ensuring the vehicle's comfort, safety, and performance.
 
-{{< sitefigure thumb="technology/suspension/mercedeseqssuvterrain_st.jpg" title="Mercedes EQS Suv Offroad" >}}
+{{< sitefiguresized thumb="technology/suspension/mercedeseqssuvterrain_st.jpg" width="3000" height="2023" title="Mercedes EQS Suv Offroad" >}}
 
 ## What are the parts of a suspension system?
 
@@ -42,11 +42,11 @@ The main parts of a suspension system in a car typically include the following:
 
 Overall, the suspension system is a complex assembly of components that work together to provide a smooth and comfortable ride while maintaining stability, control, and safety.
 
-{{< sitefigure thumb="technology/suspension/bilstein_st.jpg" title="Bilstein dampers and springs" >}}
+{{< sitefiguresized thumb="technology/suspension/bilstein_st.jpg" width="1451" height="1200" title="Bilstein dampers and springs" >}}
 
 ## Constructions
 
-The manufacturers construct the EVs with different types of suspension,  but there is some typical design. 
+The manufacturers construct the EVs with different types of suspension,  but there is some typical design.
 
 ### MacPherson strut
 
@@ -54,7 +54,7 @@ The MacPherson strut is an automotive suspension system that uses the top of a t
 
 A MacPherson strut uses a wishbone or a substantial compression link stabilized by a secondary link, which provides a mounting point for the hub carrier or axle of the wheel.
 
-{{< sitefigure thumb="technology/suspension/mcphersonfront_1_st.jpg" title="McPherson front suspension Audi Q4" >}}
+{{< sitefiguresized thumb="technology/suspension/mcphersonfront_1_st.jpg" width="2695" height="2109" title="McPherson front suspension Audi Q4" >}}
 
 #### Pros MacPherson strut
 
@@ -78,7 +78,7 @@ Double wishbone suspension is a type of independent suspension system commonly u
 
 The upper and lower wishbones work together to control the vertical movement of the wheel, while allowing for some degree of lateral and longitudinal movement.
 
-{{< sitefigure thumb="technology/suspension/mercedeseqesteel_st.jpg" title="Mercedes-Benz EQE Suspension with double wishbone" >}}
+{{< sitefiguresized thumb="technology/suspension/mercedeseqesteel_st.jpg" width="3000" height="2250" title="Mercedes-Benz EQE Suspension with double wishbone" >}}
 
 #### Pros of Double Wishbone
 
@@ -125,7 +125,7 @@ Versatile design: Multilink suspension can be designed to suit a wide range of v
 
 Multilink suspension can be used on both the front and rear axles of a vehicle, depending on the specific application and design of the vehicle. In some cases, multilink suspension may be used on all four wheels, while in others it may be used only on the front or rear wheels. For example, many high-performance sports cars and luxury sedans use multilink suspension on both the front and rear axles to provide superior handling and ride comfort. Meanwhile, some compact cars may use a simpler suspension design on the front wheels, but a multilink suspension on the rear wheels to improve stability and handling. Ultimately, the decision to use multilink suspension on a particular vehicle will depend on factors such as the vehicle's size, weight, intended use, and performance requirements.
 
-{{< sitefigure thumb="technology/suspension/fivelinkrearsuspension_1_st.jpg" title="Multilink rear suspension" >}}
+{{< sitefiguresized thumb="technology/suspension/fivelinkrearsuspension_1_st.jpg" width="2903" height="2020" title="Multilink rear suspension" >}}
 
 ### Leaf Suspension
 
@@ -167,11 +167,11 @@ Additionally, some drivers may prefer the feel of a traditional suspension syste
 
 Some models only use the air suspension to adjust for different loads, trying to keep the ride height at the same level. These models typically only have air suspension at the rear axle. Examples are the Mercedes EQC and BMW I4. 
 
-{{< sitefigure thumb="technology/suspension/wishboneairsuspensionfront_st.jpg" title="Front Air Suspension" >}}
+{{< sitefiguresized thumb="technology/suspension/wishboneairsuspensionfront_st.jpg" width="3000" height="2077" title="Front Air Suspension" >}}
 
 On other models, the driver can set the drive height based on drive mode. For example, below is a diagram for the Audi Q8 e-tron showing the ride height for the different modes.
 
-{{< sitefigure thumb="technology/suspension/suspensionmode.png" title="Suspension modes Audi Q8 e-tron" >}}
+{{< sitefiguresized thumb="technology/suspension/suspensionmode.png" width="1184" height="744" title="Suspension modes Audi Q8 e-tron" >}}
 
 ## Adaptive damping
 
@@ -183,4 +183,4 @@ There are several different types of adaptive damping suspension systems, but th
 
 Overall, adaptive damping suspension can improve the driving experience by providing a more comfortable ride and better handling, especially on uneven or bumpy roads.
 
-{{< sitefigure thumb="technology/suspension/rsetrongtsuspension_st.jpg" title="Audi RS e-tron GT adaptive air suspension" >}}
+{{< sitefiguresized thumb="technology/suspension/rsetrongtsuspension_st.jpg" width="3000" height="1723" title="Audi RS e-tron GT adaptive air suspension" >}}

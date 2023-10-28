@@ -10,22 +10,22 @@ Lidar, short for "Light Detection and Ranging," is a remote sensing technology t
 
 Lidar works by emitting laser pulses and measuring the time it takes for the light to bounce back to the sensor. By calculating the round-trip time of the laser, lidar sensors can determine the distance between the sensor and the target object. Multiple laser pulses can be emitted and collected to create a detailed 3D map of the environment.
 
-{{< sitefigure thumb="technology/sensorsandcameras/lidar/HD_Maps_Luminar_st.png" title="Audi e-tron GT with infrared night vision camera" >}}
+{{< sitefiguresized thumb="technology/sensorsandcameras/lidar/HD_Maps_Luminar_st.png" width="3000" height="1371" title="Audi e-tron GT with infrared night vision camera" >}}
 
 Lidar sensors can be categorized into two types: scanning lidar and solid-state lidar. Scanning lidar uses a rotating mirror to scan the laser beam across a field of view, while solid-state lidar uses a stationary array of lasers and detectors to measure distance.
 
-{{< sitefigure thumb="technology/sensorsandcameras/lidar/volvoex90_2_st.png" title="Luminar Iris LiDAR sensor" >}}
+{{< sitefiguresized thumb="technology/sensorsandcameras/lidar/volvoex90_2_st.png" width="3000" height="1064" title="Luminar Iris LiDAR sensor" >}}
 
 One of the main advantages of lidar sensors is their high accuracy and precision. Lidar can accurately measure distances with sub-centimeter precision, making it useful for applications that require high accuracy, such as self-driving cars. Additionally, lidar sensors can operate in a wide range of environmental conditions, including darkness, rain, and fog, making it more reliable than other sensor technologies.
 
-{{< sitefigure thumb="technology/sensorsandcameras/lidar/lidarvolvoex90_3_st.jpg" title="Luminar Iris LiDAR sensor on Volvo EX90" >}}
+{{< sitefiguresized thumb="technology/sensorsandcameras/lidar/lidarvolvoex90_3_st.jpg" width="3000" height="1686" title="Luminar Iris LiDAR sensor on Volvo EX90" >}}
 
 However, lidar sensors can be expensive and require high power consumption. Additionally, lidar sensors can be susceptible to interference from other light sources, such as sunlight or headlights, which can affect their accuracy.
 
-{{< sitefigure thumb="technology/sensorsandcameras/lidar/lidarvolvoex90_st.jpg" title="Luminar Iris LiDAR sensor on Volvo EX90" >}}
+{{< sitefiguresized thumb="technology/sensorsandcameras/lidar/lidarvolvoex90_st.jpg" width="3000" height="1686" title="Luminar Iris LiDAR sensor on Volvo EX90" >}}
 
 There are serveral producers of LiDAR sensors. [Luminar](https://www.luminartech.com/technology#iris) is one of the largest companies.
 
 Because of the high cost there is still few EVs that comes equipped with it. Even test shows that LiDAR is superior other sensors in some driving scenarios.
 
-{{< sitefigure thumb="technology/sensorsandcameras/lidar/crashtest_1_st.jpg" title="Luminar’s lidar-equipped demo car outperforms a camera-only system in stopping for a test dummy at CES 2023" >}}
+{{< sitefiguresized thumb="technology/sensorsandcameras/lidar/crashtest_1_st.jpg" width="3000" height="2000" title="Luminar’s lidar-equipped demo car outperforms a camera-only system in stopping for a test dummy at CES 2023" >}}

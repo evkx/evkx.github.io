@@ -8,7 +8,7 @@ shownavtabs: true
 <!-- markdownlint-disable MD033 -->
 There are various types of technologies used for sensors in modern cars, depending on the specific application and the sensor's requirements.
 
-{{< sitefigure thumb="technology/sensorsandcameras/illustrationsensors2_st.jpg" title="Audi e-tron GT sensors" >}}
+{{< sitefiguresized thumb="technology/sensorsandcameras/illustrationsensors2_st.jpg" width="3000" height="1890" title="Audi e-tron GT sensors" >}}
 
 Some of the most common sensor technologies used in cars include:
 
