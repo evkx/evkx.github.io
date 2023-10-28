@@ -22,19 +22,29 @@ Hatchbacks are small, compact cars with a sloping back design for more headroom 
 
 ## Crossover
 
-Crossovers blend SUVs and hatchbacks, combining an SUV's spaciousness with a hatchback's maneuverability. They are smaller than SUVs, making them lighter and more fuel-efficient than SUVs. Crossovers typically have a higher ride height than hatchbacks and come with all- or four-wheel drive options. They are ideal for families needing a spacious and versatile vehicle but don't need an SUV-size EV. Manufacturers and others often use the terms SUV and crossover interchangeably, and there is no clear rule when an EV becomes an SUV and not a crossover. In the EVKX database, we typically consider EVs shorter than 470cm a crossover. [See all Crossovers in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=Crossover)
+Crossovers blend SUVs and hatchbacks, combining an SUV's spaciousness with a hatchback's maneuverability. They are smaller than SUVs, making them lighter and more fuel-efficient than SUVs. Crossovers typically have a higher ride height than hatchbacks and come with all- or four-wheel drive options. They are ideal for families needing a spacious and versatile vehicle but don't need an SUV-size EV. Manufacturers and others often use the terms SUV and crossover interchangeably, and there is no clear rule when an EV becomes an SUV and not a crossover. In the EVKX database, we typically consider EVs shorter than 450cm a crossover. [See all Crossovers in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=Crossover)
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/exterior_2_st.jpeg" width="1920" height="1280" title="Jeep Avenger crossover" >}}
 
 ## Sport-Utility Veichle (SUV)
 
-SUVs or Sport Utility Vehicles are a type of vehicle that combines the features of a truck and a car. They are typically larger and heavier than other cars and have a higher ground clearance, making them ideal for off-road driving. SUVs come in various sizes, from compact to full-size, and are known for their spacious interiors and powerful engines. They are also available in four-wheel or all-wheel drive, making them suitable for driving in different terrains and weather conditions. In the last ten years, SUVs have taken more and more of the market. [See all SUVs in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=SUV)
+SUVs or Sport Utility Vehicles are a type of vehicle that combines the features of a truck and a car. They are typically larger and heavier than other cars and have a higher ground clearance, making them ideal for off-road driving. SUVs come in various sizes, from compact to full-size, and are known for their spacious interiors and powerful engines. They are also available in four-wheel or all-wheel drive, making them suitable for driving in different terrains and weather conditions. In the last ten years, SUVs have taken more and more of the market. SUVs come in different sizes. EVKX.net consider all SUVs shorter than 480 cm a small SUV, 480 and up to 520 cm a mid-size SUV and SUVS larger than that a Full-Size SUV.
 
-{{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/exterior_1_st.jpg" width="2880" height="1920" title="Rivian R1S full size SUV" >}}
+[See all SUVs in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=SUV)
+
+{{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/exterior_1_st.jpg" width="2880" height="1920" title="Rivian R1S mid-size SUV" >}}
+
+{{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_2_st.jpg" width="3000" height="2046" title="Cadillac Escelade Full-Size SUV" >}}
 
 ## Coupe SUV
 
-Coupe SUVs are a relatively new type of vehicle that combines a coupe's sporty, sleek design of a coupe with elevated ride height and spaciousness. They typically have a sloping roofline that gives them a more aerodynamic look, similar to a coupe. Coupe SUVs are known for their sporty handling and acceleration, as well as their spacious interior and cargo capacity. They are designed for those who want the practicality and versatility of an SUV but with a more stylish and dynamic appearance. Coupe SUVs come in different sizes. However, they can be more expensive than traditional SUVs and may need more headroom and cargo space due to their sleeker design. [See all Coupe SUV in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=CoupeSUV)
+Coupe SUVs are a relatively new type of vehicle that combines a coupe's sporty, sleek design of a coupe with elevated ride height and spaciousness. They typically have a sloping roofline that gives them a more aerodynamic look, similar to a coupe. Coupe SUVs are known for their sporty handling and acceleration, as well as their spacious interior and cargo capacity. They are designed for those who want the practicality and versatility of an SUV but with a more stylish and dynamic appearance.
+
+For EVs, the sleek design gives them a lower drag and, thereby, a longer range. The most popular model, The Tesla Model Y, is a Coupe SUV.
+
+Coupe SUVs come in different sizes. However, they can be more expensive than traditional SUVs and may need more headroom and cargo space due to their sleeker design. [See all Coupe SUVs in the EVKX EV database.](https://evkx.net/evsearch/?sortOrder=Name&evType=CoupeSUV)
+
+{{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/exterior_4_st.jpg" width="1796" height="1054" title="Tesla Model Y Coupe SUV" >}}
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_sportback_55_e-tron/exterior_1_st.jpeg" width="3000" height="2002" title="Audi Q8 Sportback e-tron Coupe SUV" >}}
 
