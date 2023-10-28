@@ -232,7 +232,7 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 
 The cargo capacity in the trunk is 495 liters. With the rear seat down, it is 1410 liters. On the roof, you can load up to 75kg. Max weight is 2520kg, and with the base weight of 2035 kg, you can max load 485 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/trunk_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}

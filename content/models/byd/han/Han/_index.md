@@ -222,7 +222,7 @@ With the Smart Pilot  level 2 system, you get additional driving automation feat
 
 The cargo capacity in the trunk is 410 liters. Max weight is 2660kg, and with the base weight of 2250 kg, you can max load 410 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 
 {{< sitefiguresized thumb="models/byd/han/han/trunk_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}

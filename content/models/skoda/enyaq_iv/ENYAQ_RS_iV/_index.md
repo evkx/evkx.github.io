@@ -55,7 +55,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-SKODA ENYAQ RS iV has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/). 
+SKODA ENYAQ RS iV has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle. 
 
 The Sport suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 173 mm. 
 

@@ -242,7 +242,7 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 The cargo capacity in the trunk is 405 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 85 liters. Max weight is 2860kg, and with the base weight of 2340 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/trunk_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}

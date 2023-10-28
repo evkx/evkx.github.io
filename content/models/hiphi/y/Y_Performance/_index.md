@@ -218,7 +218,7 @@ With the   level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 692 liters. With the rear seat down, it is 1848 liters. Under the hood, there is frunk with more storage room. This frunk is 85 liters. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
 This model had a world premiere on 18.04.2023, and deliveries is expected to start in March 2024.

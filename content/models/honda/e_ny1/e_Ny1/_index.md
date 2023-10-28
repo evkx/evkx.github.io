@@ -155,7 +155,7 @@ With the standard system the model offers no driving automation.
 
 The cargo capacity in the trunk is 346 liters. Max weight is 2080kg, and with the base weight of 1677 kg, you can max load 403 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/trunk_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}

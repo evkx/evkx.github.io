@@ -264,7 +264,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 The cargo capacity in the trunk is 407 liters. On the roof, you can load up to 75kg. Max weight is 2795kg, and with the base weight of 2075 kg, you can max load 720 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/trunk_1_st.jpg" title="Porsche Taycan" width="3000" height="2250"  >}}

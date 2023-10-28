@@ -186,7 +186,7 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 The cargo capacity in the trunk is 265 liters. With the rear seat down, it is 1106 liters. Max weight is 2025kg, and with the base weight of 1520 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
 This model had a world premiere on 06.07.2023, and deliveries is expected to start in November 2023.

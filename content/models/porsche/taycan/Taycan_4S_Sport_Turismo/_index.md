@@ -272,7 +272,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 The cargo capacity in the trunk is 446 liters. With the rear seat down, it is 1171 liters. On the roof, you can load up to 75kg. Max weight is 2875kg, and with the base weight of 2170 kg, you can max load 705 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/trunk_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1747"  >}}

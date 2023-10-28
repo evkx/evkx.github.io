@@ -188,7 +188,7 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 The cargo capacity in the trunk is 360 liters. With the rear seat down, it is 1231 liters. Max weight is 2025kg, and with the base weight of 1520 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/trunk_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}

@@ -226,7 +226,7 @@ With the   level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 204 liters. With the third-row seat down, it is 587 liters. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/trunk_1_st.jpg" title="HiPhi X 6 Seater" width="1200" height="700"  >}}

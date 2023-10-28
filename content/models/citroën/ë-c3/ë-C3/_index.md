@@ -184,7 +184,7 @@ With the standard system the model offers no driving automation.
 
 The cargo capacity in the trunk is 310 liters. 
 
-This model is not available with a towbar. So if you need to pull a trailer, you must look at other models. 
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}
