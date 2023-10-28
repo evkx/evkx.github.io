@@ -12,7 +12,7 @@ EPA defines the [test cycles](https://www.fueleconomy.gov/feg/fe_test_schedules.
 
 The manufacturers perform the EPA tests on a dynamometer, a device that simulates driving conditions by placing the vehicle on rollers and measuring its performance.
 
-{{< sitefigure thumb="guides/understandingrange/epa/bmwi7dynamometer_1_st.jpg" title="BMW i7 on a dynamometer" >}}
+{{< sitefiguresized thumb="guides/understandingrange/epa/bmwi7dynamometer_1_st.jpg" width="3000" height="2000" title="BMW i7 on a dynamometer" >}}
 
 The manufacturer can choose between a two- or five-cycle test.
 
@@ -83,7 +83,7 @@ The UDDS cycle involves frequent stops and starts, while the HWFET cycle involve
     </tbody>
 </table>
 
-{{< sitefigure thumb="guides/understandingrange/epa/epacycles_st.png" title="EPA Cycles" >}}
+{{< sitefiguresized thumb="guides/understandingrange/epa/epacycles_st.png" width="2732" height="1505" title="EPA Cycles" >}}
 
 The manufacturers test EVs by fully charging them, leaving them parked overnight, and running them through multiple UDDS and HWFET cycles until the test has completely depleted the battery. The manufacturers perform the tests with a 55% HWFET and 45% UDDS mix. 
 

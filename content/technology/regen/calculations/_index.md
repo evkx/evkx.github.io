@@ -151,7 +151,7 @@ See [potential energy calculator](https://www.omnicalculator.com/physics/potenti
 
 The below graph shows the total kinetic energy and the two types of kinetic energy.
 
-{{< sitefigure thumb="technology/regen/calculations/kinetic_st.png" title="Graph over kinetic energy" >}}
+{{< sitefiguresized thumb="technology/regen/calculations/kinetic_st.png" width="2965" height="1645" title="Graph over kinetic energy" >}}
 
 ## Understanding energy consumption
 
@@ -161,7 +161,7 @@ Before we give you an example of how much energy can be regenerated, we need to 
 
 A moving car will have forces based on air resistance that will push against the movement.
 
-{{< sitefigure thumb="technology/regen/calculations/windtunnel_st.jpg" title="Audi e-tron in wind tunnel" >}}
+{{< sitefiguresized thumb="technology/regen/calculations/windtunnel_st.jpg" width="3000" height="1539" title="Audi e-tron in wind tunnel" >}}
 
 The formula for drag is:
 
@@ -198,7 +198,7 @@ This number is an estimate. On wet roads or roads with snow, the rolling resista
 
 The below diagram shows the calculated consumption needed to overcome drag and rolling resistance and consumption from the battery based on 80% efficiency of the drivetrain. The real efficiency is not known but it is expected to be around 80%.
 
-{{< sitefigure thumb="technology/regen/calculations/consumption_st.png" title="Calculated consumption" >}}
+{{< sitefiguresized thumb="technology/regen/calculations/consumption_st.png" width="2751" height="1567" title="Calculated consumption" >}}
 
 See also [full table](https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumptiontable.png) with kinetic energy and consumption for all speeds from 1-100 mph (1-161 km/h)
 
@@ -238,7 +238,7 @@ This type of increase you could even see in scenarios where there is no regenera
 
 The only way to know how much you have regenerated is to look at how much the state of charge of the battery changes from top to bottom of the mountain.
 
-{{< sitefigure thumb="technology/regen/calculations/soc_st.jpg" title="State of charge, the only way to see how much you have regenerated on many cars" >}}
+{{< sitefiguresized thumb="technology/regen/calculations/soc_st.jpg" width="1212" height="682" title="State of charge, the only way to see how much you have regenerated on many cars" >}}
 
 ## One pedal driving vs. manual/automatic regen
 

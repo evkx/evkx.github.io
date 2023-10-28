@@ -12,58 +12,58 @@ Electric Vehicles comes in different form and shapes. In this guide, we explain 
 
 Sedans are four-door cars with separate trunk compartments. They are designed to provide comfort and convenience to passengers and are popular among families and commuters. Sedans, from compact to full-size, come in various sizes and are known for their smooth and quiet ride. They are also more aerodynamic than other car types, which helps improve efficiency compared to SUVs and crossovers. [See all sedans in the EVKX EV database.](https://evkx.net/evsearch/?sortOrder=Name&evType=Sedan)
 
-{{< sitefigure thumb="models/mercedes/eqe/eqe_53_4maticplus/main_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" >}}
+{{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/main_1_st.jpg" width="3000" height="2077" title="Mercedes-AMG EQE 53 4MATIC+" >}}
 
 ## Hatchback
 
 Hatchbacks are small, compact cars with a sloping back design for more headroom and cargo space. They typically have two or four doors, and the rear door opens upward to provide access to the cargo area. Hatchbacks are popular for city driving because of their size and efficiency. They are also relatively affordable and easy to park. [See all hatchbacks in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=Hatchback)
 
-{{< sitefigure thumb="models/cupra/born/born_58/main_1_st.jpg" title="CUPRA BORN 58 Hatchback" >}}
-
-## Sport-Utility Veichle (SUV)
-
-SUVs or Sport Utility Vehicles are a type of vehicle that combines the features of a truck and a car. They are typically larger and heavier than other cars and have a higher ground clearance, making them ideal for off-road driving. SUVs come in various sizes, from compact to full-size, and are known for their spacious interiors and powerful engines. They are also available in four-wheel or all-wheel drive, making them suitable for driving in different terrains and weather conditions. In the last ten years, SUVs have taken more and more of the market. [See all SUVs in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=SUV)
-
-{{< sitefigure thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/exterior_1_st.jpg" title="Rivian R1S full size SUV" >}}
+{{< sitefiguresized thumb="models/cupra/born/born_58/main_1_st.jpg" width="3000" height="2000" title="CUPRA BORN 58 Hatchback" >}}
 
 ## Crossover
 
 Crossovers blend SUVs and hatchbacks, combining an SUV's spaciousness with a hatchback's maneuverability. They are smaller than SUVs, making them lighter and more fuel-efficient than SUVs. Crossovers typically have a higher ride height than hatchbacks and come with all- or four-wheel drive options. They are ideal for families needing a spacious and versatile vehicle but don't need an SUV-size EV. Manufacturers and others often use the terms SUV and crossover interchangeably, and there is no clear rule when an EV becomes an SUV and not a crossover. In the EVKX database, we typically consider EVs shorter than 470cm a crossover. [See all Crossovers in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=Crossover)
 
-{{< sitefigure thumb="models/toyota/bz4x/bz4x_awd/main_1_st.jpg" title="Toyota bZ4X AWD crossover" >}}
+{{< sitefiguresized thumb="models/jeep/avenger/avenger/exterior_2_st.jpeg" width="1920" height="1280" title="Jeep Avenger crossover" >}}
+
+## Sport-Utility Veichle (SUV)
+
+SUVs or Sport Utility Vehicles are a type of vehicle that combines the features of a truck and a car. They are typically larger and heavier than other cars and have a higher ground clearance, making them ideal for off-road driving. SUVs come in various sizes, from compact to full-size, and are known for their spacious interiors and powerful engines. They are also available in four-wheel or all-wheel drive, making them suitable for driving in different terrains and weather conditions. In the last ten years, SUVs have taken more and more of the market. [See all SUVs in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=SUV)
+
+{{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/exterior_1_st.jpg" width="2880" height="1920" title="Rivian R1S full size SUV" >}}
 
 ## Coupe SUV
 
 Coupe SUVs are a relatively new type of vehicle that combines a coupe's sporty, sleek design of a coupe with elevated ride height and spaciousness. They typically have a sloping roofline that gives them a more aerodynamic look, similar to a coupe. Coupe SUVs are known for their sporty handling and acceleration, as well as their spacious interior and cargo capacity. They are designed for those who want the practicality and versatility of an SUV but with a more stylish and dynamic appearance. Coupe SUVs come in different sizes. However, they can be more expensive than traditional SUVs and may need more headroom and cargo space due to their sleeker design. [See all Coupe SUV in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=CoupeSUV)
 
-{{< sitefigure thumb="models/audi/q8_e-tron/q8_sportback_55_e-tron/exterior_1_st.jpeg" title="Audi Q8 Sportback e-tron Coupe SUV" >}}
+{{< sitefiguresized thumb="models/audi/q8_e-tron/q8_sportback_55_e-tron/exterior_1_st.jpeg" width="3000" height="2002" title="Audi Q8 Sportback e-tron Coupe SUV" >}}
 
 ## Pickup Truck
 
 Pickup trucks are designed for heavy-duty work and off-road driving. They have an open cargo bed at the back, which makes them ideal for hauling goods and equipment. Pickup trucks come in various sizes, from compact to full-size, and are available in two- and four-wheel drive. They also offer powerful engines and towing capabilities, making them popular among contractors, farmers, and outdoor enthusiasts. [See all Pickup trucks in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=PickupTruck)
 
-{{< sitefigure thumb="models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" title="Rivian R1T Quad-Motor AWD Pickup Truck" >}}
+{{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" width="2100" height="1400" title="Rivian R1T Quad-Motor AWD Pickup Truck" >}}
 
 ## Station Wagon
 
 Station wagons, also known as estate cars, are similar to sedans but have an elongated roofline extending to the back of the vehicle. They offer a spacious cargo area, making them ideal for families and those transporting large items. Station wagons are also known for their comfortable ride, excellent handling, and good fuel economy. They are available in front-wheel, rear-wheel, and all-wheel drive and come in different sizes. [See all station wagons in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=StationWagon)
 
-{{< sitefigure thumb="models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg" title="Porsche Taycan GTS Sport Turismo Station Wagon" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg" width="3000" height="2000" title="Porsche Taycan GTS Sport Turismo Station Wagon" >}}
 
 ## Convertible
 
 Convertibles are cars with retractable roofs that allow for an open-air driving experience. They come in various sizes and styles, from compact two-seaters to full-size luxury cars. Convertibles are ideal for driving in warm weather and offer a unique and exhilarating driving experience.
 
-{{< sitefigure thumb="guides/veichletypes/convertible_1_st.jpg" title="MG Cyberster convertible" >}}
+{{< sitefiguresized thumb="guides/veichletypes/convertible_1_st.jpg" width="2600" height="1733" title="MG Cyberster convertible" >}}
 
 ## Multi-Purpose Vehicle (MPV)
 
 MPVs or Multi-Purpose Vehicles are designed to provide ample space for passengers and cargo. They typically have three rows of seats and are often used as family vehicles or for commercial purposes. MPVs offer a smooth and comfortable ride and have various seating configurations, making them versatile for different needs. They are also available in both front-wheel, rear-wheel, and all-wheel drive. [See all MPVs in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=MPV)
 
-{{< sitefigure thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB MPV" >}}
+{{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" width="3000" height="2000" title="Volkswagen ID. Buzz Pro LWB MPV" >}}
 
 ## Coupe
 
 Coupes are two-door cars designed for speed and style. They are typically sleek and sporty and often built for high-performance driving. There is currently a minimal number of electric coupes available.
 
-{{< sitefigure thumb="guides/veichletypes/coupe_1_st.jpg" title="Neta GT coupe" >}}
+{{< sitefiguresized thumb="guides/veichletypes/coupe_1_st.jpg" width="1200" height="800" title="Neta GT coupe" >}}

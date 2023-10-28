@@ -8,7 +8,7 @@ weight: 3
 
 ## Bjørn Nyland
 
-{{< sitefigure thumb="guides/evreviewers/bjornyland_st.jpg" title="Bjørn Nyland" >}}
+{{< sitefiguresized thumb="guides/evreviewers/bjornyland_st.jpg" width="679" height="383" title="Bjørn Nyland" >}}
 
 Bjørn Nyland is a Norwegian electric vehicle enthusiast and YouTuber who has gained a following for his long-distance tests of electric vehicles. He is known for his thorough and objective reviews of EVs, often testing them in extreme conditions and documenting his experiences in videos that are informative and entertaining.
 
@@ -37,7 +37,7 @@ Visit his Youtube Channel and subscribe [here](https://www.youtube.com/@bjornnyl
 
 ## Out of spec Reviews
 
-{{< sitefigure thumb="guides/evreviewers/outofspecreviews_st.jpg" title="Out of spec Reviews" >}}
+{{< sitefiguresized thumb="guides/evreviewers/outofspecreviews_st.jpg" width="680" height="382" title="Out of spec Reviews" >}}
 
 Out of Spec Reviews is a YouTube channel that focuses on reviewing electric vehicles and highlighting their capabilities beyond what is typically advertised by manufacturers. The channel is run by Kyle Conner and his team, who are passionate about EVs and adventure travel.
 
@@ -65,7 +65,7 @@ They have several other EV-related channels. Kyle also joins the [Batteries Incl
 
 ## Autogefühl
 
-{{< sitefigure thumb="guides/evreviewers/autogefuhl_st.jpg" title="Autogefühl" >}}
+{{< sitefiguresized thumb="guides/evreviewers/autogefuhl_st.jpg" width="679" height="386" title="Autogefühl" >}}
 
 Autogefühl is a popular YouTube channel that focuses on providing in-depth, detailed reviews of cars and providing automotive news and updates. The channel is known for its comprehensive and objective reviews, covering various aspects of a car's performance, design, technology, and practicality. Autogefühl's reviews are typically conducted by its host, Thomas Majchrzak, who has a background in automotive engineering and a passion for cars.
 
@@ -77,7 +77,7 @@ Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos)
 
 ## Kris Rifa
 
-{{< sitefigure thumb="guides/evreviewers/krisrifa_st.jpg" title="Kris Rifa" >}}
+{{< sitefiguresized thumb="guides/evreviewers/krisrifa_st.jpg" width="680" height="385" title="Kris Rifa" >}}
 
 As Bjørn Nyland, he is a Norwegian testing various models through some standard tests.
 

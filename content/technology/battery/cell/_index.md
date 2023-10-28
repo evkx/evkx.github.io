@@ -81,7 +81,7 @@ Swelling Pouch Cell Battery as a Result of Gas Generation During Charge and Disc
 
 The electrode and separator layers of a pouch cell are stacked rather than jelly-rolled. With pouch cells, the designer should allocate enough space for the cell swelling. A swelling of as much as 8% to 10% can occur after 500 cycles.
 
-{{< sitefigure thumb="technology/battery/cell/lgchenx21_st.jpg" title="LG Chem pouch cell" >}}
+{{< sitefiguresized thumb="technology/battery/cell/lgchenx21_st.jpg" width="800" height="648" title="LG Chem pouch cell" >}}
 
 ## Blade
 
@@ -91,7 +91,7 @@ The blade design of the battery cell allows for a more compact and efficient bat
 
 Blade batteries are primarily produced by the Chinese battery manufacturer BYD.
 
-{{< sitefigure thumb="technology/battery/cell/bladebattery_st.jpg" title="BYD Blade Battery" >}}
+{{< sitefiguresized thumb="technology/battery/cell/bladebattery_st.jpg" width="3000" height="1351" title="BYD Blade Battery" >}}
 
 One of the key safety features of blade batteries is the use of a ceramic separator between the anode and cathode layers of the cell. This ceramic separator is more resistant to thermal runaway and provides better protection against internal short circuits, reducing the risk of battery fires and explosions.
 

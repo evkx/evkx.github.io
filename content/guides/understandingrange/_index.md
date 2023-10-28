@@ -11,7 +11,7 @@ Europe, [EPA](epa) in the US, and CLTC in China.
 
 The models available today (summer 2023) have a rated range between approx 200km and 900km.
 
-{{< sitefigure thumb="models/lucid/air/air_dream_edition_range/main_1_st.jpg" title="Lucid Air Dream Edition Range with 883km WLTP range" >}}
+{{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/main_1_st.jpg" width="3000" height="2000" title="Lucid Air Dream Edition Range with 883km WLTP range" >}}
 
 The most critical aspect of range is how large the battery is. A larger battery means more energy to use.
 
@@ -204,7 +204,7 @@ The efficiency or consumption is affected by many attributes of the car.
 The aerodynamic drag affects how much energy is needed to move. The shape of the body affects it, but also the design of the wheels.
 The Mercedes Vision EQXX is currently the EV with the lowest [drag coefficient](https://en.wikipedia.org/wiki/Drag_coefficient) with a Cw value of only 0.17
 
-{{< sitefigure thumb="guides/understandingrange/mercedeseqxx_1_st.jpg" title="Mercedes Vision EQXX with a record low drag coefficient of 0.17" >}}
+{{< sitefiguresized thumb="guides/understandingrange/mercedeseqxx_1_st.jpg" width="3000" height="2000" title="Mercedes Vision EQXX with a record low drag coefficient of 0.17" >}}
 
 Calculating how much energy is needed to overcome aerodynamic drag is possible if you know a model's drag coefficient and the frontal area size.
 
@@ -279,7 +279,7 @@ Below, you see some examples from various models.
 
 The graph below shows how much aerodynamic drag consumption causes for the different models.
 
-{{< sitefigure thumb="guides/understandingrange/aerodynamicdrag_st.png" title="Consumption from aerodynamic drag" >}}
+{{< sitefiguresized thumb="guides/understandingrange/aerodynamicdrag_st.png" width="3000" height="1742" title="Consumption from aerodynamic drag" >}}
 
 The table below shows aerodynamic drag consumption on three different Audi models and Mercedes EQS.
 
@@ -348,7 +348,7 @@ You see how the Mercedes EQS saves a lot of energy at high speed compared to the
 
 Mercedes has focused on low aerodynamical drag. But it has drawbacks since many complaints about EQS design.
 
-{{< sitefigure thumb="models/mercedes/eqs/eqs_450plus/main_1_st.jpg" title="Mercedes-EQ EQS 450+" >}}
+{{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/main_1_st.jpg" width="3000" height="1687" title="Mercedes-EQ EQS 450+" >}}
 
 ### Rolling resistance
 
@@ -358,7 +358,7 @@ The rolling resistance is affected by the tires' width, the car's weight, the ti
 
 Many manufacturers offer narrow tires as a base to advertise the best possible range possible for the model. The disadvantage is less grip. Other manufacturers offer staggered setups with less wide front tires than rear tires. This setup increases range compared to the same width on all four tires.
 
-{{< sitefigure thumb="guides/understandingrange/mercedeseqxx_2_st.jpg" title="Mercedes Vision EQXX has narrow tires" >}}
+{{< sitefiguresized thumb="guides/understandingrange/mercedeseqxx_2_st.jpg" width="3000" height="2250" title="Mercedes Vision EQXX has narrow tires" >}}
 
 Some tire producers have started producing specific tires for EVs with low rolling resistance that affects range.
 
@@ -394,7 +394,7 @@ Adding a panoramic roof can increase consumption and reduce the driving range.
 
 The diagram below shows how adding the car's max options increases the rated WLTP consumption and reduces the range on some Audi models.
 
-{{< sitefigure thumb="guides/understandingrange/optionsconsumption_st.jpg" title="WLTP Consumption added with options" >}}
+{{< sitefiguresized thumb="guides/understandingrange/optionsconsumption_st.jpg" width="2226" height="1536" title="WLTP Consumption added with options" >}}
 
 The diagram shows that an Audi e-tron 55 consumes 19.61 kWh/100km in the basic trim but 23.44 kWh/100km in the top trim. It reduces the range from 441km (274 miles) to 369km (229 miles).
 
@@ -406,7 +406,7 @@ In the real world, getting the same range as given by WLTP or EPA is almost impo
 
 Road conditions are one of the factors that affect consumption. If it is dry tarmac, the rolling resistance is much lower than if the road is wet or packed with snow.
 
-{{< sitefigure thumb="guides/understandingrange/etronsinthewet_st.jpg" title="Audi e-tron S in the wet" >}}
+{{< sitefiguresized thumb="guides/understandingrange/etronsinthewet_st.jpg" width="2511" height="1578" title="Audi e-tron S in the wet" >}}
 
 ### The speed
 
@@ -458,7 +458,7 @@ The range indicator base its range on the following data
 - The state of charge (how much the battery is charged)
 - The planned route in the navigation system
 
-{{< sitefigure thumb="guides/understandingrange/virtualcockpit_st.png" title="Virtual cockpit with range indicator" >}}
+{{< sitefiguresized thumb="guides/understandingrange/virtualcockpit_st.png" width="2000" height="941" title="Virtual cockpit with range indicator" >}}
 
 So assume you have an e-tron 55 with 86.5kWh battery and charge it to 100%.
 
