@@ -23,11 +23,11 @@ The screen size and functionality vary.
 
 Below you see some examples from different models.
 
-{{< sitefigure thumb="technology/userinterface/screens/digitalinstrument_2_st.jpg" title="Mercedes EQS-Suv Digital Instrument" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/digitalinstrument_2_st.jpg" width="3000" height="1763" title="Mercedes EQS-Suv Digital Instrument" >}}
 
-{{< sitefigure thumb="technology/userinterface/screens/digitalinstrument_3_st.jpg" title="BMW i7 Digital Instrument" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/digitalinstrument_3_st.jpg" width="1885" height="1047" title="BMW i7 Digital Instrument" >}}
 
-{{< sitefigure thumb="technology/userinterface/screens/digitalinstrument_4_st.jpg" title="Skoda Enyaq Digital Instrument" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/digitalinstrument_4_st.jpg" width="1111" height="729" title="Skoda Enyaq Digital Instrument" >}}
 
 ### Infotainment screen
 
@@ -63,13 +63,13 @@ The infotainment screen size varies on the different models. Some models have tw
 
 Below are some real-world examples from models.
 
-{{< sitefigure thumb="technology/userinterface/screens/infotainmentscreen_1_st.jpg" title="Tesla Model Y infotainment screen" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/infotainmentscreen_1_st.jpg" width="3000" height="2000" title="Tesla Model Y infotainment screen" >}}
 
-{{< sitefigure thumb="technology/userinterface/screens/infotainmentscreen_2_st.jpg" title="Nissan Aryia infotainment screen" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/infotainmentscreen_2_st.jpg" width="3000" height="1999" title="Nissan Aryia infotainment screen" >}}
 
-{{< sitefigure thumb="technology/userinterface/screens/infotainmentscreen_3_st.jpg" title="Lucid Air Infotainment screens" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/infotainmentscreen_3_st.jpg" width="3000" height="1999" title="Lucid Air Infotainment screens" >}}
 
-{{< sitefigure thumb="technology/userinterface/screens/infotainmentscreen_4_st.jpg" title="Hyundai Ionic 6 Infotainment screen showing Apple CarPlay" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/infotainmentscreen_4_st.jpg" width="3000" height="2001" title="Hyundai Ionic 6 Infotainment screen showing Apple CarPlay" >}}
 
 ### Climate control screen
 
@@ -91,7 +91,7 @@ Auto Mode: Many climate screens have an “auto” mode that allows the HVAC sys
 
 **Seat Heating/Cooling:** Some climate screens may also provide seat heating or cooling controls, allowing users to adjust the temperature of the seats for added comfort.
 
-{{< sitefigure thumb="technology/userinterface/screens/climatescreen_1_st.jpg" title="Audi Q8 e-tron climate screen front" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/climatescreen_1_st.jpg" width="2442" height="1551" title="Audi Q8 e-tron climate screen front" >}}
 
 ### Front Passenger screen
 
@@ -111,15 +111,15 @@ It may also allow users to play movies and other media on this screen.
 
 In the EVKX EV database, you can search for models with front passenger screens.
 
-{{< sitefigure thumb="technology/userinterface/screens/frontpassengerscreen_1_st.jpg" title="Mercedes EQS Suv front passenger screen" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/frontpassengerscreen_1_st.jpg" width="3000" height="2023" title="Mercedes EQS Suv front passenger screen" >}}
 
 ### Rear Seat Infotainment
 
 Rear seat infotainment screens provide entertainment options for passengers in the car's back seats, particularly for long trips. These screens may be mounted on the back of the front seat headrests or integrated into the ceiling or center console of the car. They can provide access to video content, gaming, and other entertainment options, often with individual controls for each screen to allow passengers to customize their experience.
 
-{{< sitefigure thumb="technology/userinterface/screens/rearseatentertainmant_1_st.jpg" title="BMW i7 rear seat entertainment screen" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/rearseatentertainmant_1_st.jpg" width="3000" height="1999" title="BMW i7 rear seat entertainment screen" >}}
 
-{{< sitefigure thumb="technology/userinterface/screens/rearentertainmentscreen_1_st.jpg" title="Mercedes EQS-SUV rear seat entertainment screens" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/rearentertainmentscreen_1_st.jpg" width="3000" height="2250" title="Mercedes EQS-SUV rear seat entertainment screens" >}}
 
 Most people use tablets for rear-seat entertainment.
 
@@ -135,14 +135,14 @@ Others save money and mount the screens on brackets on the dashboard or center c
 
 See the examples below.
 
-{{< sitefigure thumb="technology/userinterface/screens/modelybracket_st.jpg" title="The Tesla Model Y budget design has a single infotainment screen mounted on a bracket in the dashboard's center." >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/modelybracket_st.jpg" width="3000" height="1800" title="The Tesla Model Y budget design has a single infotainment screen mounted on a bracket in the dashboard's center." >}}
 
-{{< sitefigure thumb="technology/userinterface/screens/bmwbracket_st.jpg" title="BMW iX with Digital Instrument Cluster and Infotainment screen mounted on a bracket on the dashboard." >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/bmwbracket_st.jpg" width="3000" height="2000" title="BMW iX with Digital Instrument Cluster and Infotainment screen mounted on a bracket on the dashboard." >}}
 
-{{< sitefigure thumb="technology/userinterface/screens/layoutporschetaycan_st.jpg" title="Porsche Taycan with fully integrated screens" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/layoutporschetaycan_st.jpg" width="3000" height="1687" title="Porsche Taycan with fully integrated screens" >}}
 
-{{< sitefigure thumb="technology/userinterface/screens/eqslayout_1_st.jpg" title="Mercedes EQS-SUV standard screen layout with only partial integrated screens" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_1_st.jpg" width="3000" height="1687" title="Mercedes EQS-SUV standard screen layout with only partial integrated screens" >}}
 
-{{< sitefigure thumb="technology/userinterface/screens/eqslayout_2_st.jpg" title="Mercedes EQS-SUV MBUX Hyperscreen layout with fully integrated" >}}
+{{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_2_st.jpg" width="3000" height="1687" title="Mercedes EQS-SUV MBUX Hyperscreen layout with fully integrated" >}}
 
 [Continue to head-up displays.](../hud/)

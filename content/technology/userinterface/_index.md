@@ -9,15 +9,15 @@ shownavtabs: true
  
 It includes the design, layout, and functionality of the controls, displays, and other components that allow users to operate and interact with a car's functions, such as the dashboard, steering wheel controls, touchscreens, buttons, knobs, switches, voice commands, and other input/output mechanisms.
 
-The user interface of cars plays a crucial role in how drivers and passengers interact with a vehicle, influencing their overall driving experience, ease of use, safety, and satisfaction. 
+The user interface of cars plays a crucial role in how drivers and passengers interact with a vehicle, influencing their overall driving experience, ease of use, safety, and satisfaction.
 
 A well-designed user interface can enhance the usability, accessibility, and convenience of a car's features, while a poorly designed one can lead to confusion, frustration, and potential safety hazards.
 
 Modern vehicles often feature advanced user interfaces incorporating infotainment systems, GPS navigation, climate control, connectivity features, and driver assistance systems.
 
-The manufacturer may design these interfaces for different types of users, including drivers, passengers, and sometimes even pedestrians, and may vary depending on the car's make, model, and year. 
+The manufacturer may design these interfaces for different types of users, including drivers, passengers, and sometimes even pedestrians, and may vary depending on the car's make, model, and year.
 
-{{< sitefigure thumb="models/tesla/model_s/model_s_plaid/screens_1_st.jpg" title="Tesla Model S" >}}
+{{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/screens_1_st.jpg" width="3000" height="2000" title="Tesla Model S" >}}
 
 The user interface of cars continues to evolve with advancements in technology, including integrating voice commands, touchless gestures, augmented reality, and other emerging technologies to improve the overall driving experience.
 
@@ -27,7 +27,7 @@ We have separated this article into sections where we dig deep into the differen
 
 ### Screens
 
-The screens are one of the most noticeable aspects of the user interface in modern EVs. These displays range from small screens displaying basic information to large touchscreens that take up most of the dashboard. 
+The screens are one of the most noticeable aspects of the user interface in modern EVs. These displays range from small screens displaying basic information to large touchscreens that take up most of the dashboard.
 
 [Read all about screens.](screens)
 
@@ -69,7 +69,7 @@ Voice control is another feature that is becoming increasingly popular in EVs. W
 
 ### Gesture Control
 
-Gesture control is another technology that is starting to appear in EVs. With gesture control, the driver can use hand movements to control various features, such as adjusting the volume or changing the radio station. 
+Gesture control is another technology that is starting to appear in EVs. With gesture control, the driver can use hand movements to control various features, such as adjusting the volume or changing the radio station.
 
 [Read all about gesture control.](gesturecontrol)
 

@@ -22,7 +22,7 @@ Some vehicles come equipped with a rearview camera mirror, which uses a rear-fac
 
 ## Side mirrors
 
-{{< sitefigure thumb="technology/userinterface/mirrors/eqxxsidemirror_st.jpg" title="Mercedes EQXX side mirror" >}}
+{{< sitefiguresized thumb="technology/userinterface/mirrors/eqxxsidemirror_st.jpg" width="3000" height="1909" title="Mercedes EQXX side mirror" >}}
 
 Side mirrors, also known as wing mirrors or door mirrors, are typically mounted on the exterior of the car's doors on both the driver and passenger sides. They provide a view of the traffic and conditions alongside the vehicle, allowing the driver to change lanes, merge, and navigate in traffic safely.
 
@@ -34,7 +34,7 @@ Side mirrors, also known as wing mirrors or door mirrors, are typically mounted 
 
 Some vehicles also have side-view camera mirrors, which use cameras mounted on the sides of the vehicle to capture the view along the sides and display it on screens embedded in the side mirrors or the interior of the vehicle. 
 
-{{< sitefigure thumb="technology/userinterface/mirrors/audivirtualmirrors_st.jpg" title="Audi camera mirrors" >}}
+{{< sitefiguresized thumb="technology/userinterface/mirrors/audivirtualmirrors_st.jpg" width="3000" height="2000" title="Audi camera mirrors" >}}
 
 These cameras can help the driver monitor blind spots or provide a wider field of view for parking or maneuvering.
 

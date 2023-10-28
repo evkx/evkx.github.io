@@ -14,21 +14,21 @@ Manufacturers design these buttons to provide the driver and passengers convenie
 
 EV manufacturers typically locate these buttons on the instrument panel, which is in front of the driver and contains gauges, displays, and controls. These buttons may control functions such as lights, wipers, climate control, and other vehicle settings.
 
-{{< sitefigure thumb="technology/userinterface/buttons/audietronbuttonsinstrument_st.jpg" title="Audi Q8 e-tron light control buttons" >}}
+{{< sitefiguresized thumb="technology/userinterface/buttons/audietronbuttonsinstrument_st.jpg" width="1600" height="1067" title="Audi Q8 e-tron light control buttons" >}}
 
 ### Center console buttons
 
 EV manufacturers locate these buttons on the center console, the central area between the driver and front passenger seats. These buttons may control functions such as audio and infotainment, air conditioning, seat heating/cooling, and more.
 
-{{< sitefigure thumb="technology/userinterface/buttons/kiaev6centerconsolbuttons_st.jpg" title="Kia EV6 center console buttons" >}}
+{{< sitefiguresized thumb="technology/userinterface/buttons/kiaev6centerconsolbuttons_st.jpg" width="1920" height="1200" title="Kia EV6 center console buttons" >}}
 
-{{< sitefigure thumb="technology/userinterface/buttons/etrongtcenterconsolbuttons_st.jpg" title="Audi e-tron GT center console buttons" >}}
+{{< sitefiguresized thumb="technology/userinterface/buttons/etrongtcenterconsolbuttons_st.jpg" width="1505" height="1067" title="Audi e-tron GT center console buttons" >}}
 
 ### Door panel buttons
 
 EV manufacturers locate these buttons on the door panels and control functions such as window switches, door lock/unlock, mirror adjustments, and sometimes even seat adjustments.
 
-{{< sitefigure thumb="technology/userinterface/buttons/eqssuvdoorbuttons_st.jpg" title="Mercedes EQS Suv door panels buttons" >}}
+{{< sitefiguresized thumb="technology/userinterface/buttons/eqssuvdoorbuttons_st.jpg" width="3000" height="1687" title="Mercedes EQS Suv door panels buttons" >}}
 
 ### Steering wheel buttons
 
@@ -54,7 +54,7 @@ Buttons may be made of durable materials such as plastic or metal, and they may 
 
 Twenty years ago, every function had a button in a car, but more and more are moved to touch screens. Tesla is one of the most extreme manufacturers, with only a few physical buttons.
 
-{{< sitefigure thumb="technology/userinterface/buttons/teslamodelybuttons_st.jpg" title="Tesla Model Y with only a few physical buttons" >}}
+{{< sitefiguresized thumb="technology/userinterface/buttons/teslamodelybuttons_st.jpg" width="3000" height="1800" title="Tesla Model Y with only a few physical buttons" >}}
 
 Buttons in cars provide a convenient way to control various functions without having to navigate through menus or settings on screens, allowing for quick and easy operation.
 
