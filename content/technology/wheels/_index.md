@@ -8,7 +8,7 @@ weight: 2
 
 Choosing the right tires and wheels for your car depends on several factors, such as the type of car, the driving conditions, the weather, and your personal preferences. In this article, we will explain the difference between types of tires & wheels, the sizes of tires & wheels, and the special tires & wheels for electric vehicles (EVs).
 
-{{< sitefigure thumb="models/lotus/eletre/eletre_s/exterior_2_st.jpg" title="Lotus Eletre with big wheels" >}}
+{{< sitefiguresized thumb="models/lotus/eletre/eletre_s/exterior_2_st.jpg" width="3000" height="1450" title="Lotus Eletre with big wheels" >}}
 
 
 ## Wheels
@@ -17,13 +17,13 @@ Wheels are the parts of a car that connect the tires to the vehicle and allow th
 
 ### Wheel design
 
-The wheel's design affects a car's appearance, performance, and aerodynamics. Wheel designs include spoke, mesh, star, multi-piece, split-spoke, turbine, and more. Each design has advantages and disadvantages, depending on the style and functionality of the car. Some designs are more suitable for certain types of vehicles or driving conditions than others. For example, spoke wheels are lightweight and allow better airflow and cooling for the brakes, but they are also more fragile and prone to bending or cracking. Mesh wheels are strong and durable, but they are also heavier and harder to clean. 
+The wheel's design affects a car's appearance, performance, and aerodynamics. Wheel designs include spoke, mesh, star, multi-piece, split-spoke, turbine, and more. Each design has advantages and disadvantages, depending on the style and functionality of the car. Some designs are more suitable for certain types of vehicles or driving conditions than others. For example, spoke wheels are lightweight and allow better airflow and cooling for the brakes, but they are also more fragile and prone to bending or cracking. Mesh wheels are strong and durable, but they are also heavier and harder to clean.
 
-{{< sitefigure thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan with split-spoke wheels" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" width="3000" height="2000" title="Porsche Taycan with split-spoke wheels" >}}
 
-{{< sitefigure thumb="models/porsche/taycan/taycan_gts/exterior_4_st.jpg" title="Tesla Model Y with turbin design wheels" >}}
+{{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/exterior_4_st.jpg" width="1796" height="1054" title="Tesla Model Y with turbin design wheels" >}}
 
-{{< sitefigure thumb="models/mercedes/eqs/eqs_450plus/main_1_st.jpg" title="Mercedes EQS with 11-spoke design wheels" >}}
+{{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/main_1_st.jpg" width="3000" height="1687" title="Mercedes EQS with 11-spoke design wheels" >}}
 
 ### Wheel size
 
@@ -33,7 +33,7 @@ Today, EVs are delivered with 16-23" depending on the model.
 Most EVs have wheels with the same diameter and width on all wheels. A few models have a staggered setup with wider wheels at the rear than in the front.
 Lucid Air Sapphire is currently the only model with wider wheels in the rear and a larger diameter of 21" in the rear and 20" in the front.
 
-{{< sitefigure thumb="models/lucid/air/air_sapphire/exterior_6_st.jpg" title="Lucid Air Sapphire with 21\" on the rear axle and 20\" on the front axle" >}}
+{{< sitefiguresized thumb="models/lucid/air/air_sapphire/exterior_6_st.jpg" width="3000" height="2001" title="Lucid Air Sapphire with 21\" on the rear axle and 20\" on the front axle" >}}
 
 ## Tires
 
@@ -86,7 +86,7 @@ Some tire manufacturers have developed EV-specific tires that meet these require
 
 These are tires that are designed specifically for EVs, using a special rubber compound process called EcoPoint3 that creates lower rolling resistance, improves tire life, and generates great grip. They also have a tread pattern that reduces noise and enhances wet performance. They are suitable for various EV models and sizes.
 
-{{< sitefigure thumb="technology/wheels/evrange_1_st.jpg" title="ERange EV Tires" >}}
+{{< sitefiguresized thumb="technology/wheels/evrange_1_st.jpg" width="3000" height="2083" title="ERange EV Tires" >}}
 
 #### Goodyear ElectricDrive GT
 
@@ -96,6 +96,6 @@ These are tires that are adapted from Goodyear's normal tires, but tweaked to pr
 
 These are tires that are derived from Michelin's performance tires, but optimized to provide lower rolling resistance, higher load capacity, and reduced noise for EVs. They also have a tread pattern that improves wet and dry performance and a rubber compound that enhances grip and longevity. They are suitable for premium EVs such as Porsche Taycan.
 
-{{< sitefigure thumb="technology/wheels/michelinpilotsportev_1_st.jpg" title="Michelin Pilot Sport EV" >}}
+{{< sitefiguresized thumb="technology/wheels/michelinpilotsportev_1_st.jpg" width="3000" height="1333" title="Michelin Pilot Sport EV" >}}
 
-{{< sitefigure thumb="technology/wheels/michelinpilotsportev_2_st.jpg" title="Michelin Pilot Sport EV" >}}
+{{< sitefiguresized thumb="technology/wheels/michelinpilotsportev_2_st.jpg" width="3000" height="3000" title="Michelin Pilot Sport EV" >}}
