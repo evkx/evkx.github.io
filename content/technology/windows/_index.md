@@ -12,7 +12,7 @@ Car windows is classified into different types according to location, function, 
 
 The windshield is the car's front window that covers the entire vehicle width. It is made of laminated glass, which consists of two layers of glass bonded together by a plastic interlayer. This type of glass is designed to withstand high impact and prevent shattering into sharp pieces in case of a collision. The windshield protects the occupants from wind, rain, dust, insects, and other debris that may fly into the car.
 
-{{< sitefigure thumb="technology/windows/windshield_1_st.jpeg" title="Jeep Avenger windshield" >}}
+{{< sitefiguresized thumb="technology/windows/windshield_1_st.jpeg" width="1920" height="1443" title="Jeep Avenger windshield" >}}
 
 ### Wipers
 
@@ -20,13 +20,13 @@ Windshield wipers remove rain, snow, ice, washer fluid, water, or debris from a 
 
 Most EVs have two wipers, but large evs like Hummer EVs have three.
 
-{{< sitefigure thumb="technology/windows/wipers_1_st.jpg" title="Hummer EV with three wiper blades" >}}
+{{< sitefiguresized thumb="technology/windows/wipers_1_st.jpg" width="2612" height="1410" title="Hummer EV with three wiper blades" >}}
 
 The speed of the wipers can be adjusted, and most vehicles also have a windscreen washer system that sprays water or antifreeze fluid to help clean the glass.
 
 Typical the wipers are controlled by a stalks, but some is only controlled by screen input.
 
-Many Evs have rain sensors that detect the amount of moisture on the windshield. 
+Many Evs have rain sensors that detect the amount of moisture on the windshield.
 
 ### Heating
 
@@ -34,19 +34,19 @@ Some models offers a heated windshield as standard or as an option.
 
 ### Cameras
 
-Todays moderns Evs have often on or more cameraes installed in the windhsield. 
+Todays moderns Evs have often on or more cameraes installed in the windhsield.
 
-{{< sitefigure thumb="technology/sensorsandcameras/cameras/eqsfrontcameras_st.jpg" title="Mercedes EQS Stereo Vision cameras" >}}
+{{< sitefiguresized thumb="technology/sensorsandcameras/cameras/eqsfrontcameras_st.jpg" width="3000" height="1727" title="Mercedes EQS Stereo Vision cameras" >}}
 
-This cameras requires carfully adjustments if windshield is replaced. 
+This cameras requires carfully adjustments if windshield is replaced.
 
 ## Side Windows
 
 Side windows are the windows on each side of the car, usually located on the doors. They are made of tempered glass, which is a type of glass that is heated and cooled rapidly to increase its strength and resistance to thermal shock. Tempered glass breaks into small, rounded pieces when shattered, which reduces the risk of injury to the occupants.
 
-Side windows can be either fixed or movable. Fixed side windows are permanently attached to the car frame and cannot be opened or closed. Movable side windows can be raised or lowered by using a button, a switch or a hand crank. 
+Side windows can be either fixed or movable. Fixed side windows are permanently attached to the car frame and cannot be opened or closed. Movable side windows can be raised or lowered by using a button, a switch or a hand crank.
 
-{{< sitefigure thumb="technology/windows/sidewindows_1_st.jpg" title="Volkswagen ID.Buzz with both fixed and movable side windows" >}}
+{{< sitefiguresized thumb="technology/windows/sidewindows_1_st.jpg" width="2400" height="1400" title="Volkswagen ID.Buzz with both fixed and movable side windows" >}}
 
 Some side windows may have some additional features, such as:
 
@@ -59,19 +59,15 @@ Some side windows may have some additional features, such as:
 
 The rear window is the window at the back of the car that covers most of the width of the vehicle. It is made of tempered glass, similar to side windows. The rear window provides visibility to the rear of the car.
 
-{{< sitefigure thumb="technology/windows/rearwindows_1_st.jpg" title="Polestar 2 rear windows" >}}
+{{< sitefiguresized thumb="technology/windows/rearwindows_1_st.jpg" width="3000" height="2250" title="Polestar 2 rear windows" >}}
 
 It is not required to have a rear window. Several models does not have a rear window, and some have replaced it with a camera. 
 
-{{< sitefigure thumb="technology/windows/rearwindows_2_st.jpg" title="Polestar 4 without rear window" >}}
-
+{{< sitefiguresized thumb="technology/windows/rearwindows_2_st.jpg" width="3000" height="1687" title="Polestar 4 without rear window" >}}
 
 ### Wiper
 
 Some Evs have a wiper on the rear window. It typical include a washer. 
-
-
-
 
 ## Glass types
 
@@ -92,8 +88,8 @@ Privacy glass on cars is a type of glass that has been darkened at the factory b
 
 The main benefit of privacy glass is to provide more privacy for the passengers and the items inside the car. It can also help reduce glare, deter crime, and keep the car cooler by blocking the sun’s rays. However, unlike some window films, privacy glass does not have high heat rejection or UV protection properties. Privacy glass also cannot be removed unless the glass itself is replaced.
 
-In addition most EVS looks better with privacy glass. 
+In addition most EVS looks better with privacy glass.
 
-{{< sitefigure thumb="technology/windows/privacyglass_1_st.jpg" title="BMW i7 with privacy glass" >}}
+{{< sitefiguresized thumb="technology/windows/privacyglass_1_st.jpg" width="3000" height="2000" title="BMW i7 with privacy glass" >}}
 
-{{< sitefigure thumb="technology/windows/privacyglass_2_st.jpg" title="Porsche Taycan Sport Turismo with privacy glass" >}}
+{{< sitefiguresized thumb="technology/windows/privacyglass_2_st.jpg" width="3000" height="2000" title="Porsche Taycan Sport Turismo with privacy glass" >}}
