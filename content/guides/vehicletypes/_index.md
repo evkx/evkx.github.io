@@ -32,6 +32,8 @@ SUVs or Sport Utility Vehicles are a type of vehicle that combines the features 
 
 [See all SUVs in the EVKX EV database](https://evkx.net/evsearch/?sortOrder=Name&evType=SUV)
 
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/main_1.jpg" width="3000" height="2000" title="Volkswagen ID.4 Small-size SUV" >}}
+
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/exterior_1_st.jpg" width="2880" height="1920" title="Rivian R1S mid-size SUV" >}}
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_2_st.jpg" width="3000" height="2046" title="Cadillac Escelade Full-Size SUV" >}}
