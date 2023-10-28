@@ -17,8 +17,10 @@ EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ R
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Peak electrical output in kW</td><td>250 Kw</td></tr>
+<tr><td>Peak electrical output in kW</td><td>210 Kw</td></tr>
+<tr><td>Peak electrical output boost in kW</td><td>250 Kw</td></tr>
 <tr><td>Electrical torque output in Nm</td><td>679 Nm</td></tr>
+<tr><td>Electrical torque output boost in Nm</td><td>679 Nm</td></tr>
 <tr><td>Top speed</td><td>180 km/h</td></tr>
 <tr><td>0-100km/h (0-62 mph)</td><td>5,5 s</td></tr>
 </tbody>
@@ -54,7 +56,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tbody>
 <tr><td>Battery gross</td><td>82 kWh</td></tr>
 <tr><td>Battery net</td><td>77 kWh</td></tr>
-<tr><td>Max DC charging</td><td>135 kW</td></tr>
+<tr><td>Max DC charging</td><td>170 kW</td></tr>
 <tr><td>Number of modules</td><td>12</td></tr>
 <tr><td>Pack Configuration</td><td>96s3p</td></tr>
 <tr><td>Nominal voltage</td><td>350</td></tr>

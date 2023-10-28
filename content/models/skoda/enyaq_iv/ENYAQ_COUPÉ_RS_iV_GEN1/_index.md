@@ -26,6 +26,12 @@ We have separated our SKODA ENYAQ COUPÉ RS iV (GEN1) article into sections. If 
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Transportation capabilities](#transportation-capabilities)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/).
+
+</div>
+
 
 ## Performance
 
@@ -217,3 +223,6 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV (GEN1)" width="3000" height="2001"  >}}
 
+### Availability & Pricing
+
+This model had a world premiere on 01.01.2020, and deliveries started in March 2021. This models has now been discontined. This model has been replaced by [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv).

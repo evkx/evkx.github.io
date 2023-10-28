@@ -197,3 +197,6 @@ With the MAX  level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 1710 liters. On the roof, you can load up to 75kg. Max weight is 2750kg, and with the base weight of 2117 kg, you can max load 633 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750kg. 
+### Availability & Pricing
+
+This model had a world premiere on 01.01.2020, and deliveries started in March 2021. This models has now been discontined. 

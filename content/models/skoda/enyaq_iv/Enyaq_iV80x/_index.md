@@ -239,3 +239,6 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 
+### Availability & Pricing
+
+This model had a world premiere on 01.01.2020, and deliveries started in March 2021. This models has now been discontined. 
