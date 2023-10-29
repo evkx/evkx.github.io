@@ -28,6 +28,9 @@ This model is available with multiple batteries. Below you find the performance 
 <td>Average charging speed 10-80% </td><td>101,2 kW</td>
 </tr>
 <tr>
+<td>Average charging speed 10-90% </td><td>87,7 kW</td>
+</tr>
+<tr>
 <td>Optimum charging area</td><td>2% - 50%</td>
 </tr>
 <tr>
@@ -375,6 +378,9 @@ Tesla Model Y Standard Range have battery heating, making charging at an optimum
 </tr>
 <tr>
 <td>Average charging speed 10-80% </td><td>70,4 kW</td>
+</tr>
+<tr>
+<td>Average charging speed 10-90% </td><td>65,4 kW</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>0% - 36%</td>
