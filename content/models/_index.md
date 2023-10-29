@@ -40,6 +40,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 <a href="/models/seres"><img src="https://media.evkx.net/multimedia/models/seres/logo_xst.png" alt="Seres" title="Seres" width="130px" class="img-fluid" /></a>
 <a href="/models/skoda"><img src="https://media.evkx.net/multimedia/models/skoda/logo_xst.png" alt="Skoda" title="Skoda" width="130px" class="img-fluid" /></a>
 <a href="/models/smart"><img src="https://media.evkx.net/multimedia/models/smart/logo_xst.png" alt="Smart" title="Smart" width="130px" class="img-fluid" /></a>
+<a href="/models/subaru"><img src="https://media.evkx.net/multimedia/models/subaru/logo_xst.png" alt="Subaru" title="Subaru" width="130px" class="img-fluid" /></a>
 <a href="/models/tesla"><img src="https://media.evkx.net/multimedia/models/tesla/logo_xst.png" alt="Tesla" title="Tesla" width="130px" class="img-fluid" /></a>
 <a href="/models/toyota"><img src="https://media.evkx.net/multimedia/models/toyota/logo_xst.png" alt="Toyota" title="Toyota" width="130px" class="img-fluid" /></a>
 <a href="/models/volkswagen"><img src="https://media.evkx.net/multimedia/models/volkswagen/logo_xst.png" alt="Volkswagen" title="Volkswagen" width="130px" class="img-fluid" /></a>
@@ -318,6 +319,12 @@ Skoda has 1 models with total 6 variants. [Read all about them](skoda/)
 The Smart car manufacturer is a German automotive marque that produces small electric vehicles. It is a joint venture between Mercedes-Benz AG and Zhejiang Geely Holding Group, established in 2019. The venture is headquartered in Ningbo, China, and aims to produce Smart-badged cars in China to be marketed globally.
 
 Smart has 2 models with total 4 variants. [Read all about them](smart/)
+
+## Subaru
+
+Subaru is a Japanese automaker that produces vehicles with advanced technology, impressive performance, and intelligent features. Subaru is known for its permanent all-wheel drive system, boxer engine, and EyeSight driver assistance system. Subaru also has a strong reputation for safety, reliability, and durability.
+
+Subaru has 1 models with total 1 variants. [Read all about them](subaru/)
 
 ## Tesla
 
