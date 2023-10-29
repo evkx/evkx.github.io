@@ -25,10 +25,10 @@ This model is available with multiple batteries. Below you find the performance 
 <td>Average charging speed 10-100% </td><td>88,8 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>156,5 kW</td>
+<td>Average charging speed 10-90% </td><td>110,3 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>110,3 kW</td>
+<td>Average charging speed 10-80% </td><td>156,5 kW</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>0% - 67%</td>
@@ -377,10 +377,10 @@ Porsche Taycan 4S have battery heating, making charging at an optimum battery te
 <td>Average charging speed 10-100% </td><td>95,2 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>195,5 kW</td>
+<td>Average charging speed 10-90% </td><td>139,6 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>139,6 kW</td>
+<td>Average charging speed 10-80% </td><td>195,5 kW</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>3% - 65%</td>
