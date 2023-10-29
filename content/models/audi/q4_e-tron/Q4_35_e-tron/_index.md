@@ -37,9 +37,9 @@ The battery has a gross capacity of 55kWh and a net capacity of 51,5kWh, meaning
 
 The [WLTP range](../../../../guides/understandingrange/wltp) varies from 357 to 323 km (222-201 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14.4kWh/100km for the basic version and 15.9kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 53 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 48%, resulting in an actual charge speed, including time loss, of 69kW. Each charge session would take 20 minutes and 27 seconds. 
+The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 40%, resulting in an actual charge speed, including time loss, of 68kW. Each charge session would take 17 minutes and 9 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 10 hours and 37 minutes. This trip will require seven charge session(s) charging from 2% to 46%. The total time lost for charging up the battery will be 137 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 10 hours and 39 minutes. This trip will require seven charge session(s) charging from 2% to 46%. The total time lost for charging up the battery will be 140 minutes.
 
 ### Onboard charger
 
