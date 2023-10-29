@@ -13,7 +13,7 @@ The most common systems are:
 - [Adaptive Cruise Control](adaptivecruisecontrol) (ACC)
 - [Anti-lock Braking System](antilockbrakingsystem) (ABS)
 - [Automated lane change](automatedlanechange)
-- [Automatic Emergency Braking](automaticemergencybraking) (AEB)
+- [Autonomous Emergency Braking](automaticemergencybraking) (AEB)
 - [Automatic Emergency Steering](automaticemergencysteering) (AES)
 - [Automatic parking](automaticparking)
 - [Autosteer](autosteer)

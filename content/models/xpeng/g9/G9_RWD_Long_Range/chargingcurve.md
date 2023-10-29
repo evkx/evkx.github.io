@@ -15,16 +15,16 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>109,1 kW</td>
+<td>Average charging speed 0 - 100% </td><td>113,2 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>117,2 kW</td>
+<td>Average charging speed 10-100% </td><td>122,5 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>168,6 kW</td>
+<td>Average charging speed 10-90% </td><td>176,3 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>206,6 kW</td>
+<td>Average charging speed 10-80% </td><td>206,7 kW</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>7% - 60%</td>
@@ -289,70 +289,70 @@ XPENG G9 RWD Long Range have battery heating, making charging at an optimum batt
 <td>78%</td><td>159 kW</td><td> 26 m 38 s </td><td>73,0 kWh </td>
 </tr>
 <tr>
-<td>79%</td><td>159 kW</td><td> 27 m 0 s </td><td>73,9 kWh </td>
+<td>79%</td><td>160 kW</td><td> 27 m 0 s </td><td>73,9 kWh </td>
 </tr>
 <tr>
-<td>80%</td><td>159 kW</td><td> 27 m 22 s </td><td>74,9 kWh </td>
+<td>80%</td><td>160 kW</td><td> 27 m 22 s </td><td>74,9 kWh </td>
 </tr>
 <tr>
-<td>81%</td><td>93 kW</td><td> 27 m 50 s </td><td>75,8 kWh </td>
+<td>81%</td><td>160 kW</td><td> 27 m 44 s </td><td>75,8 kWh </td>
 </tr>
 <tr>
-<td>82%</td><td>89 kW</td><td> 28 m 29 s </td><td>76,8 kWh </td>
+<td>82%</td><td>97 kW</td><td> 28 m 12 s </td><td>76,8 kWh </td>
 </tr>
 <tr>
-<td>83%</td><td>85 kW</td><td> 29 m 10 s </td><td>77,7 kWh </td>
+<td>83%</td><td>97 kW</td><td> 28 m 48 s </td><td>77,7 kWh </td>
 </tr>
 <tr>
-<td>84%</td><td>81 kW</td><td> 29 m 53 s </td><td>78,6 kWh </td>
+<td>84%</td><td>97 kW</td><td> 29 m 25 s </td><td>78,6 kWh </td>
 </tr>
 <tr>
-<td>85%</td><td>78 kW</td><td> 30 m 37 s </td><td>79,6 kWh </td>
+<td>85%</td><td>98 kW</td><td> 30 m 1 s </td><td>79,6 kWh </td>
 </tr>
 <tr>
-<td>86%</td><td>74 kW</td><td> 31 m 24 s </td><td>80,5 kWh </td>
+<td>86%</td><td>98 kW</td><td> 30 m 38 s </td><td>80,5 kWh </td>
 </tr>
 <tr>
-<td>87%</td><td>70 kW</td><td> 32 m 13 s </td><td>81,4 kWh </td>
+<td>87%</td><td>71 kW</td><td> 31 m 20 s </td><td>81,4 kWh </td>
 </tr>
 <tr>
-<td>88%</td><td>66 kW</td><td> 33 m 5 s </td><td>82,4 kWh </td>
+<td>88%</td><td>71 kW</td><td> 32 m 9 s </td><td>82,4 kWh </td>
 </tr>
 <tr>
-<td>89%</td><td>62 kW</td><td> 34 m 1 s </td><td>83,3 kWh </td>
+<td>89%</td><td>71 kW</td><td> 32 m 59 s </td><td>83,3 kWh </td>
 </tr>
 <tr>
-<td>90%</td><td>58 kW</td><td> 35 m 0 s </td><td>84,2 kWh </td>
+<td>90%</td><td>71 kW</td><td> 33 m 49 s </td><td>84,2 kWh </td>
 </tr>
 <tr>
-<td>91%</td><td>55 kW</td><td> 36 m 2 s </td><td>85,2 kWh </td>
+<td>91%</td><td>71 kW</td><td> 34 m 39 s </td><td>85,2 kWh </td>
 </tr>
 <tr>
-<td>92%</td><td>51 kW</td><td> 37 m 10 s </td><td>86,1 kWh </td>
+<td>92%</td><td>48 kW</td><td> 35 m 39 s </td><td>86,1 kWh </td>
 </tr>
 <tr>
-<td>93%</td><td>47 kW</td><td> 38 m 22 s </td><td>87,0 kWh </td>
+<td>93%</td><td>48 kW</td><td> 36 m 53 s </td><td>87,0 kWh </td>
 </tr>
 <tr>
-<td>94%</td><td>43 kW</td><td> 39 m 41 s </td><td>88,0 kWh </td>
+<td>94%</td><td>48 kW</td><td> 38 m 7 s </td><td>88,0 kWh </td>
 </tr>
 <tr>
-<td>95%</td><td>39 kW</td><td> 41 m 7 s </td><td>88,9 kWh </td>
+<td>95%</td><td>48 kW</td><td> 39 m 21 s </td><td>88,9 kWh </td>
 </tr>
 <tr>
-<td>96%</td><td>35 kW</td><td> 42 m 43 s </td><td>89,9 kWh </td>
+<td>96%</td><td>48 kW</td><td> 40 m 35 s </td><td>89,9 kWh </td>
 </tr>
 <tr>
-<td>97%</td><td>32 kW</td><td> 44 m 29 s </td><td>90,8 kWh </td>
+<td>97%</td><td>24 kW</td><td> 42 m 13 s </td><td>90,8 kWh </td>
 </tr>
 <tr>
-<td>98%</td><td>28 kW</td><td> 46 m 28 s </td><td>91,7 kWh </td>
+<td>98%</td><td>24 kW</td><td> 44 m 41 s </td><td>91,7 kWh </td>
 </tr>
 <tr>
-<td>99%</td><td>24 kW</td><td> 48 m 46 s </td><td>92,7 kWh </td>
+<td>99%</td><td>24 kW</td><td> 47 m 9 s </td><td>92,7 kWh </td>
 </tr>
 <tr>
-<td>100%</td><td>20 kW</td><td> 51 m 28 s </td><td>93,6 kWh </td>
+<td>100%</td><td>24 kW</td><td> 49 m 36 s </td><td>93,6 kWh </td>
 </tr>
 </tbody>
 </table>
