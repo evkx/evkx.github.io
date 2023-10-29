@@ -6,17 +6,17 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-AEB systems use sensors such as cameras, radar, and lidar to detect potential collisions with other vehicles, pedestrians, or obstacles in the path of the vehicle. If the system determines that a collision is imminent and the driver has not taken action to avoid it, the system will automatically apply the brakes to either slow down or stop the vehicle before impact.
+AEB systems use sensors such as cameras, radar, and lidar to detect potential collisions with other vehicles, pedestrians, or obstacles in the vehicle's path. Suppose the system determines that a collision is imminent and the driver has not taken action to avoid it. In that case, the system will automatically apply the brakes to either slow down or stop the vehicle before impact.
 
 There are two main types of AEB systems:
 
-**Forward Collision Warning (FCW) with Autonomous Emergency Braking**: FCW uses sensors to detect the distance and speed of vehicles or obstacles ahead and provides a visual or audible warning to the driver if a potential collision is detected. If the driver fails to respond, the AEB system will engage and apply the brakes to prevent or reduce the severity of a collision. Read more about FCW [here](../forwardcollisionwarning/)
+**Forward Collision Warning (FCW) with Autonomous Emergency Braking**: FCW uses sensors to detect the distance and speed of vehicles or obstacles ahead and provides a visual or audible warning to the driver if a potential collision is detected. If the driver fails to respond, the AEB system will engage and apply the brakes to prevent or reduce the severity of a collision. Read more about FCW [here.](../forwardcollisionwarning/)
 
 {{< sitefiguresized thumb="technology/driverassistance/forwardcollisionwarning/illustration_st.jpg" width="2246" height="2076" title="Illustration Forward Collision Warning with AEB Audi (Pre Sense)" >}}
 
 **Pedestrian Detection with Autonomous Emergency Braking**: This type of AEB system uses sensors to detect pedestrians in the vehicle's path and will apply the brakes autonomously if the driver does not take action to avoid a collision.
 
-Autonomous Emergency Braking can help improve safety on the roads by reducing the likelihood and severity of collisions. However, it's important to note that AEB systems are not a substitute for attentive and safe driving practices, and drivers should always remain focused and alert while behind the wheel.
+Autonomous Emergency Braking can help improve road safety by reducing the likelihood and severity of collisions. However, it’s important to note that AEB systems are not a substitute for attentive and safe driving practices, and drivers should always remain focused and alert while behind the wheel.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -41,6 +41,6 @@ EURO NCAP performs test and rating of these systems
 - [AEB Motorcyclist](https://www.euroncap.com/en/vehicle-safety/the-ratings-explained/vulnerable-road-user-vru-protection/aeb-lane-support-motorcyclist/)  Several tests related to motorcycles
 - [AEB Car to car](https://www.euroncap.com/en/vehicle-safety/the-ratings-explained/safety-assist/aeb-car-to-car/) Several tests related to cars
 
-Below you see Euro NCAP test of Tesla Model Y. From 2:30 you see different AEB tests.
+Below, you see the Euro NCAP test of Tesla Model Y. From 2:30, you see different AEB tests.
 
 {{< youtube dKaN3f2zmCQ >}}
