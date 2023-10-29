@@ -37,6 +37,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 <a href="/models/renault"><img src="https://media.evkx.net/multimedia/models/renault/logo_xst.png" alt="Renault" title="Renault" width="130px" class="img-fluid" /></a>
 <a href="/models/rivian"><img src="https://media.evkx.net/multimedia/models/rivian/logo_xst.png" alt="Rivian" title="Rivian" width="130px" class="img-fluid" /></a>
 <a href="/models/rolls-royce"><img src="https://media.evkx.net/multimedia/models/rolls-royce/logo_xst.png" alt="Rolls-Royce" title="Rolls-Royce" width="130px" class="img-fluid" /></a>
+<a href="/models/seres"><img src="https://media.evkx.net/multimedia/models/seres/logo_xst.png" alt="Seres" title="Seres" width="130px" class="img-fluid" /></a>
 <a href="/models/skoda"><img src="https://media.evkx.net/multimedia/models/skoda/logo_xst.png" alt="Skoda" title="Skoda" width="130px" class="img-fluid" /></a>
 <a href="/models/smart"><img src="https://media.evkx.net/multimedia/models/smart/logo_xst.png" alt="Smart" title="Smart" width="130px" class="img-fluid" /></a>
 <a href="/models/tesla"><img src="https://media.evkx.net/multimedia/models/tesla/logo_xst.png" alt="Tesla" title="Tesla" width="130px" class="img-fluid" /></a>
@@ -295,6 +296,12 @@ Rivian has 1 models with total 6 variants. [Read all about them](rivian/)
 Rolls Royce is a British luxury car maker that is known for its high-end vehicles and bespoke craftsmanship. The company has recently announced that it will go all-electric by 2030, following the trend of other automakers that are committed to the decarbonisation of the transport sector. 
 
 Rolls-Royce has 1 models with total 1 variants. [Read all about them](rolls-royce/)
+
+## Seres
+
+Seres is a global electric vehicle manufacturer that was established by the Sokon Group in Silicon Valley, USA. Seres produces electric vehicles with advanced technology, impressive performance, and intelligent features. 
+
+Seres has 1 models with total 1 variants. [Read all about them](seres/)
 
 ## Skoda
 

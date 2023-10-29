@@ -1,0 +1,74 @@
+---
+title: Seres 5 4WD Premium gallery
+linktitle: "Gallery"
+description: "See below for our large Seres 5 4WD Premium image gallery. Click pictures for high-resolution versions."
+weight: 10
+hidden: true
+navicon: bi-images
+---
+<!-- markdownlint-disable MD033 -->
+<div class="row" id ="my-gallery">
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
+<a href="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_1.jpg"
+data-pswp-width="1920"
+data-pswp-height="1012" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_1_xst.jpg" alt="Seres 5 4WD Premium" width="200px" height="105px" />
+</a>
+</div>
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
+<a href="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_2.jpg"
+data-pswp-width="1920"
+data-pswp-height="1012" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_2_xst.jpg" alt="Seres 5 4WD Premium" width="200px" height="105px" />
+</a>
+</div>
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
+<a href="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/interior_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/interior_1.jpg"
+data-pswp-width="1580"
+data-pswp-height="778" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/interior_1_xst.jpg" alt="Seres 5 4WD Premium" width="200px" height="98px" />
+</a>
+</div>
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
+<a href="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/main_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/main_1.jpg"
+data-pswp-width="2560"
+data-pswp-height="1707" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/main_1_xst.jpg" alt="Seres 5 4WD Premium" width="200px" height="133px" />
+</a>
+</div>
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
+<a href="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/screens_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/screens_1.jpg"
+data-pswp-width="2560"
+data-pswp-height="1707" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/screens_1_xst.jpg" alt="Seres 5 4WD Premium" width="200px" height="133px" />
+</a>
+</div>
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
+<a href="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/screens_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/screens_2.jpg"
+data-pswp-width="2560"
+data-pswp-height="1707" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/screens_2_xst.jpg" alt="Seres 5 4WD Premium" width="200px" height="133px" />
+</a>
+</div>
+</div>
+<script type="module">
+  import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';
+    const lightbox = new PhotoSwipeLightbox({
+       gallery: '#my-gallery',
+        children: 'a',
+        pswpModule: () => import('/js/photoswipe.esm.js')
+    });
+lightbox.init();
+</script>
