@@ -219,10 +219,14 @@ Below you see a review video of the best charing stations for 2023 (created befo
 
 ### UK
 
-•  The home charger must be compliant with the Electric Vehicles (Smart Charge Points) [Regulations 2021](https://www.gov.uk/guidance/regulations-electric-vehicle-smart-charge-points), which come into force on 30 June 2022 . These regulations ensure that the charger has smart functionality, allowing it to send and receive information, respond to signals to increase or decrease the rate or time of charging, provide demand side response services and a user interface, and meet certain security and privacy standards.
+- The home charger must be compliant with the Electric Vehicles (Smart Charge Points) [Regulations 2021](https://www.gov.uk/guidance/regulations-electric-vehicle-smart-charge-points), which come into force on 30 June 2022 . These regulations ensure that the charger has smart functionality, allowing it to send and receive information, respond to signals to increase or decrease the rate or time of charging, provide demand side response services and a user interface, and meet certain security and privacy standards.
 
-•  The home charger must also be compliant with the [minimum technical specification](https://www.gov.uk/guidance/residential-chargepoints-minimum-technical-specification) for residential chargepoints, which defines the outlet configurations, power output, safety standards, accessibility and interoperability requirements for the charger. For example, the charger must have an outlet rated 230Vac ± 10% single-phase or 400Vac ± 10% three-phase, and an output between 3.5kW and 23kW.
+- The home charger must also be compliant with the [minimum technical specification](https://www.gov.uk/guidance/residential-chargepoints-minimum-technical-specification) for residential chargepoints, which defines the outlet configurations, power output, safety standards, accessibility and interoperability requirements for the charger. For example, the charger must have an outlet rated 230Vac ± 10% single-phase or 400Vac ± 10% three-phase, and an output between 3.5kW and 23kW.
 
-•  The home charger must be installed by an accredited installer who is registered with the Office for Zero Emission Vehicles (OZEV) and follows the IET Wiring Regulations (BS 7671:2018 + A1:2020) for electrical installation requirements. The installer must also ensure that the charger is compatible with the existing electrical supply and wiring of the property, and that it does not cause any interference or damage to other electrical equipment.
+- The home charger must be installed by an accredited installer who is registered with the Office for Zero Emission Vehicles (OZEV) and follows the IET Wiring Regulations (BS 7671:2018 + A1:2020) for electrical installation requirements. The installer must also ensure that the charger is compatible with the existing electrical supply and wiring of the property, and that it does not cause any interference or damage to other electrical equipment.
 
-•  The home charger must not exceed a certain size and height limit for its exterior casing and upstand. The casing must not exceed 0.2 cubic metres in size, and the upstand must be 1.6m or less and there must be only one for each parking space.
+- The home charger must not exceed a certain size and height limit for its exterior casing and upstand. The casing must not exceed 0.2 cubic metres in size, and the upstand must be 1.6m or less and there must be only one for each parking space.
+
+See the below video for UK focused video on installing a home charger.
+
+{{< youtube VCx_1Afh3iw >}}
