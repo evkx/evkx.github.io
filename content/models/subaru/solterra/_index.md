@@ -8,7 +8,7 @@ weight: 30
 
 <a href="/models/subaru/solterra/solterra_awd/"><img src="https://media.evkx.net/multimedia/models/subaru/solterra/solterra_awd/main_1_st.jpeg" class="img-fluid" alt="Solterra AWD" ></a>
 
-Subaru Solterra AWD is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. 
+Subaru Solterra AWD is an all-electric SUV with a WLTP range of up to 466 km (290 miles). EVKX.net has all the details. 
 
 - [Subaru Solterra AWD article](/models/subaru/solterra/solterra_awd/)
 - [Subaru Solterra AWD Range & consumption info](/models/subaru/solterra/solterra_awd/rangeandconsumption)

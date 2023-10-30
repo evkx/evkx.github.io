@@ -20,7 +20,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 FR. Click 
 <tr><td>Peak electrical output in kW</td><td>930 Kw</td></tr>
 <tr><td>Electrical torque output in Nm</td><td>1200 Nm</td></tr>
 <tr><td>Top speed</td><td>280 km/h</td></tr>
-<tr><td>0-100km/h (0-62 mph)</td><td>2,07 s</td></tr>
+<tr><td>0-100km/h (0-62 mph)</td><td>2,02 s</td></tr>
 </tbody>
 </table>
 

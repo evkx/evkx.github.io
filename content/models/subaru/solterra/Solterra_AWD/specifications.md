@@ -34,11 +34,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Basic trim WLTP range</td><td>470 km</td></tr>
-<tr><td>Basic trim WLTP consumption</td><td>12,3 kWh/100km</td></tr>
+<tr><td>Basic trim WLTP range</td><td>466 km</td></tr>
+<tr><td>Basic trim WLTP consumption</td><td>12,4 kWh/100km</td></tr>
 <tr><td>Basic trim WLTP consumption with charging loss</td><td>16,2 kWh/100km</td></tr>
-<tr><td>Top trim WLTP range</td><td>415 km</td></tr>
-<tr><td>Top trim WLTP consumption</td><td>14,0 kWh/100km</td></tr>
+<tr><td>Top trim WLTP range</td><td>416 km</td></tr>
+<tr><td>Top trim WLTP consumption</td><td>13,9 kWh/100km</td></tr>
 <tr><td>Top trim WLTP consumption with charging loss</td><td>18,0 kwh/100km</td></tr>
 </tbody>
 </table>
@@ -71,7 +71,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </thead>
 <tbody>
 <tr><td>Length</td><td>4690 mm</td></tr>
-<tr><td>Height</td><td>1550 mm</td></tr>
+<tr><td>Height</td><td>1650 mm</td></tr>
 <tr><td>Width excluding mirrors</td><td>1860 mm</td></tr>
 <tr><td>Wheelbase</td><td>2850 mm</td></tr>
 <tr><td>Track width front</td><td>1631 mm</td></tr>
