@@ -15,10 +15,10 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>112,2 kW</td>
+<td>Average charging speed 0 - 100% </td><td>113,2 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>121,1 kW</td>
+<td>Average charging speed 10-100% </td><td>122,5 kW</td>
 </tr>
 <tr>
 <td>Average charging speed 10-90% </td><td>176,3 kW</td>
@@ -349,10 +349,10 @@ XPENG G9 AWD Performance have battery heating, making charging at an optimum bat
 <td>98%</td><td>24 kW</td><td> 44 m 41 s </td><td>91,7 kWh </td>
 </tr>
 <tr>
-<td>99%</td><td>22 kW</td><td> 47 m 15 s </td><td>92,7 kWh </td>
+<td>99%</td><td>24 kW</td><td> 47 m 9 s </td><td>92,7 kWh </td>
 </tr>
 <tr>
-<td>100%</td><td>20 kW</td><td> 50 m 4 s </td><td>93,6 kWh </td>
+<td>100%</td><td>24 kW</td><td> 49 m 36 s </td><td>93,6 kWh </td>
 </tr>
 </tbody>
 </table>
