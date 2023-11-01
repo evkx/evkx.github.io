@@ -93,6 +93,7 @@ Only one front seat type is available in the Seres 5 4WD Premium.
 The following functionalities are available on the **** seat. 
 
 - electric adjustment 
+- height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
@@ -159,7 +160,7 @@ One type of sound system is available for the Seres 5 4WD Premium. With the , yo
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
-
+The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

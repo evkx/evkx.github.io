@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Xpeng G9 headlights test 30.10.2023
+
+{{< youtube 2X5zx8-uUbo >}}
+
 ### Autogefühl: Why VW invests $700 million in this! XPeng G9 electric SUV REVIEW 28.08.2023
 
 {{< youtube niKz4XePRfQ >}}

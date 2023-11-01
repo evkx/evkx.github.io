@@ -8,5 +8,7 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### :  01.01.0001
+### Norsk elbilforening: Sniktitt: Seres 5 - ekte ulv i fåreklær! 01.11.2023
+
+{{< youtube 1RzxXSKEyo4 >}}
 

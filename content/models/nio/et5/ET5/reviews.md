@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Inside China Auto: Can The Chinese Beat The Germans At Their Own Game? - NIO ET5 28.10.2023
+
+{{< youtube vVZz6ZlDUgI >}}
+
 ### Bjørn Nyland: Nio ET5 driving impressions and summary 16.05.2023
 
 {{< youtube _LIwKRvt6bM >}}

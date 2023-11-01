@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### It's Only Electric: Kia EV6 GT - Full Review: Need to know before you buy! 01.11.2023
+
+{{< youtube 0RLbR8l57aI >}}
+
 ### Autotrader: Kia EV6 GT Review: 585Hp Family Rocket... But Is It Fun? 21.07.2023
 
 {{< youtube bUpBksKY6uM >}}
