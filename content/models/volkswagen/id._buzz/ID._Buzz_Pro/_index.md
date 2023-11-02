@@ -152,7 +152,7 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without using the key. 
 
-comfort.easyentryseatcomfort.easyentryseat
+You have easy entry for the driver seat that move the seat to make it more easy to enter the car. 
 
 You have wireless charging for your phone.  
 

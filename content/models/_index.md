@@ -88,7 +88,7 @@ Cadillac has 2 models with total 3 variants. [Read all about them](cadillac/)
 
 Chevrolet is one of the leading automakers in the electric vehicle (EV) market, with a vision to create a world with zero crashes, zero emissions, and zero congestion. The company is committed to providing EVs for everyone, from compact cars to full-size trucks, with a range of models that suit different needs and preferences.
 
-Chevrolet has 2 models with total 2 variants. [Read all about them](chevrolet/)
+Chevrolet has 2 models with total 3 variants. [Read all about them](chevrolet/)
 
 ## Citroën
 
