@@ -15,16 +15,16 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>72,0 kW</td>
+<td>Average charging speed 0 - 100% </td><td>75,3 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>67,3 kW</td>
+<td>Average charging speed 10-100% </td><td>70,6 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>103,8 kW</td>
+<td>Average charging speed 10-90% </td><td>108,3 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>125,2 kW</td>
+<td>Average charging speed 10-80% </td><td>129,5 kW</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>0% - 45%</td>
@@ -229,127 +229,127 @@ The above charging curve is at optimum conditions. However, cold or hot temperat
 <td>59%</td><td>121 kW</td><td> 32 m 27 s </td><td>84,0 kWh </td>
 </tr>
 <tr>
-<td>60%</td><td>121 kW</td><td> 33 m 12 s </td><td>85,4 kWh </td>
+<td>60%</td><td>115 kW</td><td> 33 m 13 s </td><td>85,4 kWh </td>
 </tr>
 <tr>
-<td>61%</td><td>121 kW</td><td> 33 m 56 s </td><td>86,8 kWh </td>
+<td>61%</td><td>116 kW</td><td> 34 m 0 s </td><td>86,8 kWh </td>
 </tr>
 <tr>
-<td>62%</td><td>120 kW</td><td> 34 m 41 s </td><td>88,2 kWh </td>
+<td>62%</td><td>117 kW</td><td> 34 m 46 s </td><td>88,2 kWh </td>
 </tr>
 <tr>
-<td>63%</td><td>120 kW</td><td> 35 m 26 s </td><td>89,6 kWh </td>
+<td>63%</td><td>118 kW</td><td> 35 m 32 s </td><td>89,6 kWh </td>
 </tr>
 <tr>
-<td>64%</td><td>118 kW</td><td> 36 m 11 s </td><td>91,1 kWh </td>
+<td>64%</td><td>119 kW</td><td> 36 m 18 s </td><td>91,1 kWh </td>
 </tr>
 <tr>
-<td>65%</td><td>115 kW</td><td> 36 m 58 s </td><td>92,5 kWh </td>
+<td>65%</td><td>119 kW</td><td> 37 m 3 s </td><td>92,5 kWh </td>
 </tr>
 <tr>
-<td>66%</td><td>114 kW</td><td> 37 m 45 s </td><td>93,9 kWh </td>
+<td>66%</td><td>120 kW</td><td> 37 m 48 s </td><td>93,9 kWh </td>
 </tr>
 <tr>
-<td>67%</td><td>110 kW</td><td> 38 m 33 s </td><td>95,3 kWh </td>
+<td>67%</td><td>121 kW</td><td> 38 m 33 s </td><td>95,3 kWh </td>
 </tr>
 <tr>
-<td>68%</td><td>107 kW</td><td> 39 m 23 s </td><td>96,8 kWh </td>
+<td>68%</td><td>122 kW</td><td> 39 m 17 s </td><td>96,8 kWh </td>
 </tr>
 <tr>
-<td>69%</td><td>106 kW</td><td> 40 m 13 s </td><td>98,2 kWh </td>
+<td>69%</td><td>123 kW</td><td> 40 m 1 s </td><td>98,2 kWh </td>
 </tr>
 <tr>
-<td>70%</td><td>104 kW</td><td> 41 m 5 s </td><td>99,6 kWh </td>
+<td>70%</td><td>118 kW</td><td> 40 m 46 s </td><td>99,6 kWh </td>
 </tr>
 <tr>
-<td>71%</td><td>103 kW</td><td> 41 m 57 s </td><td>101,0 kWh </td>
+<td>71%</td><td>113 kW</td><td> 41 m 33 s </td><td>101,0 kWh </td>
 </tr>
 <tr>
-<td>72%</td><td>100 kW</td><td> 42 m 50 s </td><td>102,5 kWh </td>
+<td>72%</td><td>107 kW</td><td> 42 m 22 s </td><td>102,5 kWh </td>
 </tr>
 <tr>
-<td>73%</td><td>81 kW</td><td> 43 m 49 s </td><td>103,9 kWh </td>
+<td>73%</td><td>102 kW</td><td> 43 m 13 s </td><td>103,9 kWh </td>
 </tr>
 <tr>
-<td>74%</td><td>81 kW</td><td> 44 m 56 s </td><td>105,3 kWh </td>
+<td>74%</td><td>97 kW</td><td> 44 m 7 s </td><td>105,3 kWh </td>
 </tr>
 <tr>
-<td>75%</td><td>81 kW</td><td> 46 m 3 s </td><td>106,7 kWh </td>
+<td>75%</td><td>92 kW</td><td> 45 m 4 s </td><td>106,7 kWh </td>
 </tr>
 <tr>
-<td>76%</td><td>81 kW</td><td> 47 m 9 s </td><td>108,1 kWh </td>
+<td>76%</td><td>88 kW</td><td> 46 m 4 s </td><td>108,1 kWh </td>
 </tr>
 <tr>
-<td>77%</td><td>81 kW</td><td> 48 m 16 s </td><td>109,6 kWh </td>
+<td>77%</td><td>83 kW</td><td> 47 m 7 s </td><td>109,6 kWh </td>
 </tr>
 <tr>
-<td>78%</td><td>81 kW</td><td> 49 m 22 s </td><td>111,0 kWh </td>
+<td>78%</td><td>79 kW</td><td> 48 m 14 s </td><td>111,0 kWh </td>
 </tr>
 <tr>
-<td>79%</td><td>60 kW</td><td> 50 m 39 s </td><td>112,4 kWh </td>
+<td>79%</td><td>74 kW</td><td> 49 m 24 s </td><td>112,4 kWh </td>
 </tr>
 <tr>
-<td>80%</td><td>52 kW</td><td> 52 m 15 s </td><td>113,8 kWh </td>
+<td>80%</td><td>70 kW</td><td> 50 m 39 s </td><td>113,8 kWh </td>
 </tr>
 <tr>
-<td>81%</td><td>52 kW</td><td> 53 m 59 s </td><td>115,3 kWh </td>
+<td>81%</td><td>67 kW</td><td> 51 m 58 s </td><td>115,3 kWh </td>
 </tr>
 <tr>
-<td>82%</td><td>52 kW</td><td> 55 m 43 s </td><td>116,7 kWh </td>
+<td>82%</td><td>64 kW</td><td> 53 m 20 s </td><td>116,7 kWh </td>
 </tr>
 <tr>
-<td>83%</td><td>52 kW</td><td> 57 m 26 s </td><td>118,1 kWh </td>
+<td>83%</td><td>61 kW</td><td> 54 m 47 s </td><td>118,1 kWh </td>
 </tr>
 <tr>
-<td>84%</td><td>52 kW</td><td> 59 m 10 s </td><td>119,5 kWh </td>
+<td>84%</td><td>58 kW</td><td> 56 m 18 s </td><td>119,5 kWh </td>
 </tr>
 <tr>
-<td>85%</td><td>53 kW</td><td>1 h 0 m 53 s </td><td>121,0 kWh </td>
+<td>85%</td><td>55 kW</td><td> 57 m 54 s </td><td>121,0 kWh </td>
 </tr>
 <tr>
-<td>86%</td><td>52 kW</td><td>1 h 2 m 35 s </td><td>122,4 kWh </td>
+<td>86%</td><td>51 kW</td><td> 59 m 36 s </td><td>122,4 kWh </td>
 </tr>
 <tr>
-<td>87%</td><td>50 kW</td><td>1 h 4 m 21 s </td><td>123,8 kWh </td>
+<td>87%</td><td>48 kW</td><td>1 h 1 m 24 s </td><td>123,8 kWh </td>
 </tr>
 <tr>
-<td>88%</td><td>47 kW</td><td>1 h 6 m 12 s </td><td>125,2 kWh </td>
+<td>88%</td><td>45 kW</td><td>1 h 3 m 20 s </td><td>125,2 kWh </td>
 </tr>
 <tr>
-<td>89%</td><td>44 kW</td><td>1 h 8 m 11 s </td><td>126,6 kWh </td>
+<td>89%</td><td>42 kW</td><td>1 h 5 m 23 s </td><td>126,6 kWh </td>
 </tr>
 <tr>
-<td>90%</td><td>41 kW</td><td>1 h 10 m 18 s </td><td>128,1 kWh </td>
+<td>90%</td><td>39 kW</td><td>1 h 7 m 36 s </td><td>128,1 kWh </td>
 </tr>
 <tr>
-<td>91%</td><td>38 kW</td><td>1 h 12 m 34 s </td><td>129,5 kWh </td>
+<td>91%</td><td>36 kW</td><td>1 h 10 m 0 s </td><td>129,5 kWh </td>
 </tr>
 <tr>
-<td>92%</td><td>35 kW</td><td>1 h 15 m 2 s </td><td>130,9 kWh </td>
+<td>92%</td><td>33 kW</td><td>1 h 12 m 37 s </td><td>130,9 kWh </td>
 </tr>
 <tr>
-<td>93%</td><td>32 kW</td><td>1 h 17 m 43 s </td><td>132,3 kWh </td>
+<td>93%</td><td>30 kW</td><td>1 h 15 m 30 s </td><td>132,3 kWh </td>
 </tr>
 <tr>
-<td>94%</td><td>29 kW</td><td>1 h 20 m 40 s </td><td>133,8 kWh </td>
+<td>94%</td><td>27 kW</td><td>1 h 18 m 41 s </td><td>133,8 kWh </td>
 </tr>
 <tr>
-<td>95%</td><td>25 kW</td><td>1 h 23 m 59 s </td><td>135,2 kWh </td>
+<td>95%</td><td>24 kW</td><td>1 h 22 m 16 s </td><td>135,2 kWh </td>
 </tr>
 <tr>
-<td>96%</td><td>20 kW</td><td>1 h 27 m 59 s </td><td>136,6 kWh </td>
+<td>96%</td><td>20 kW</td><td>1 h 26 m 22 s </td><td>136,6 kWh </td>
 </tr>
 <tr>
-<td>97%</td><td>17 kW</td><td>1 h 32 m 51 s </td><td>138,0 kWh </td>
+<td>97%</td><td>17 kW</td><td>1 h 31 m 8 s </td><td>138,0 kWh </td>
 </tr>
 <tr>
-<td>98%</td><td>13 kW</td><td>1 h 38 m 50 s </td><td>139,5 kWh </td>
+<td>98%</td><td>14 kW</td><td>1 h 36 m 51 s </td><td>139,5 kWh </td>
 </tr>
 <tr>
-<td>99%</td><td>8 kW</td><td>1 h 47 m 24 s </td><td>140,9 kWh </td>
+<td>99%</td><td>11 kW</td><td>1 h 43 m 57 s </td><td>140,9 kWh </td>
 </tr>
 <tr>
-<td>100%</td><td>8 kW</td><td>1 h 58 m 38 s </td><td>142,3 kWh </td>
+<td>100%</td><td>8 kW</td><td>1 h 53 m 21 s </td><td>142,3 kWh </td>
 </tr>
 </tbody>
 </table>

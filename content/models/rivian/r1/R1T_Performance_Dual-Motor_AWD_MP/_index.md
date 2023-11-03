@@ -37,7 +37,7 @@ The battery has a gross capacity of 149kWh and a net capacity of 142,3kWh, meani
 
  The [EPA range](../../../../guides/understandingrange/epa) is 410 miles (660 km).   The consumption is 2.9mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 119 minutes, while a more common scenario of 10-80% would take 48 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45%, resulting in an actual charge speed, including time loss, of 141kW. Each charge session would take 27 minutes and 12 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 113 minutes, while a more common scenario of 10-80% would take 46 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45%, resulting in an actual charge speed, including time loss, of 141kW. Each charge session would take 27 minutes and 12 seconds. 
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 9 hours and 28 minutes. This trip will require three charge session(s) charging from 0% to 37%. The total time lost for charging up the battery will be 68 minutes.
 
