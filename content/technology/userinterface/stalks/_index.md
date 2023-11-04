@@ -22,10 +22,35 @@ Cars with adaptive cruise control often have an adjustment for distance to the v
 
 {{< sitefiguresized thumb="technology/userinterface/stalks/audicruisecontrol_st.jpg" width="1130" height="587" title="Audi Q8 e-tron cruise control stalk with distance adjustment" >}}
 
+**Gear Stalk** Several models have a gear stalks behind the steering wheel
+
+{{< sitefiguresized thumb="technology/userinterface/stalks/blazergearstalk_1_st.jpg" width="3000" height="2001" title="Chevrolet Blazer gear stalk" >}}
+
 **Multi-Function Stalks:** Some vehicles may have stalks that combine multiple functions, such as incorporating controls for the turn signals, headlights, and windshield wipers into a single stalk. These multi-function stalks can vary in design and functionality, depending on the vehicle manufacturer and model.
 
 In addition to these common stalks, there may be other stalks or controls on the steering column for functions such as controlling the audio system, adjusting the steering column position, or operating the vehicle's information display.
 
 The specific design and functionality of stalks in cars can vary widely depending on the manufacturer, model, and trim level of the vehicle, as well as regional regulations and market preferences.
+
+## Stalkless design
+
+The stalkless design in new Tesla models is a new feature that eliminates the traditional stalks on the steering column. Instead, Tesla uses a combination of artificial intelligence, force touch buttons, and Autopilot sensors to replace these functions. 
+
+{{< sitefiguresized thumb="technology/userinterface/stalks/stalkless_1_st.jpg" width="1823" height="1300" title="Tesla Model S without stalks" >}}
+
+For example, the car can automatically detect the direction of travel based on the context, such as the position of the car, the road layout, and the obstacles around it.
+
+The driver can also manually override the car's decision by using the buttons on the steering wheel or the touchscreen. The stalkless design is intended to create a more streamlined and futuristic look,
+as well as to improve the functionality of the car. However, some critics have raised concerns about the safety, legality, and usability of the stalkless design, especially in scenarios such as roundabouts,
+parking lots, and emergency situations. 
+
+In the below video Bjørn Nyland demonstrates the problem with stalksless design.
+
+{{< youtube 5BOmWsV2lto >}}
+
+
+
+The stalkless design is currently available in the new Model S, Model 3 and Model X, and is expected to be introduced in the Model Y soon
+
 
 [Continue to mirrors.](../mirrors/)

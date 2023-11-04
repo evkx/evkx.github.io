@@ -8,6 +8,18 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Xpeng G9 Geilo test part 2 04.11.2023
+
+{{< youtube 9XqP-4wg9QA >}}
+
+### Bjørn Nyland: Xpeng G9 Geilo test part 1 03.11.2023
+
+{{< youtube F-nmh9pFNVc >}}
+
+### Bjørn Nyland: Xpeng G9 banana box test 02.11.2023
+
+{{< youtube 8gKJOlSjYFg >}}
+
 ### Bjørn Nyland: Xpeng G9 headlights test 30.10.2023
 
 {{< youtube 2X5zx8-uUbo >}}
