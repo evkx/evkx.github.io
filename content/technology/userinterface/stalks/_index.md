@@ -8,6 +8,8 @@ weight: 5
 
 Stalks are also called “stalk controls” or “column stalks.” They are typically mounted on the side of the steering column and can vary in design and function depending on the make and model of the vehicle.
 
+{{< sitefiguresized thumb="technology/userinterface/stalks/audicruisecontrol_st.jpg" width="1130" height="587" title="Audi Q8 e-tron cruise control stalk with distance adjustment" >}}
+
 Here are some common types of stalks found in cars:
 
 **Turn Signal Stalk:** The driver uses this stalk to activate the turn signals, indicating the direction in which the vehicle turns. By pushing the stalk up or down, the driver can activate the left or right turn signal, respectively, and then release it to turn off the signal after completing the turn.
@@ -20,8 +22,6 @@ Here are some common types of stalks found in cars:
 
 Cars with adaptive cruise control often have an adjustment for distance to the vehicle in front.
 
-{{< sitefiguresized thumb="technology/userinterface/stalks/audicruisecontrol_st.jpg" width="1130" height="587" title="Audi Q8 e-tron cruise control stalk with distance adjustment" >}}
-
 **Gear Stalk** Several models have a gear stalks behind the steering wheel
 
 {{< sitefiguresized thumb="technology/userinterface/stalks/blazergearstalk_1_st.jpg" width="3000" height="2001" title="Chevrolet Blazer gear stalk" >}}
@@ -29,6 +29,8 @@ Cars with adaptive cruise control often have an adjustment for distance to the v
 **Multi-Function Stalks:** Some vehicles may have stalks that combine multiple functions, such as incorporating controls for the turn signals, headlights, and windshield wipers into a single stalk. These multi-function stalks can vary in design and functionality, depending on the vehicle manufacturer and model.
 
 In addition to these common stalks, there may be other stalks or controls on the steering column for functions such as controlling the audio system, adjusting the steering column position, or operating the vehicle's information display.
+
+{{< sitefiguresized thumb="technology/userinterface/stalks/stalks_1.jpg" width="1232" height="546" title="Combined turn signal and headlight stalk, adaptive cruise control stalk and windshield whiler stalk for windshield and rear window" >}}
 
 The specific design and functionality of stalks in cars can vary widely depending on the manufacturer, model, and trim level of the vehicle, as well as regional regulations and market preferences.
 
