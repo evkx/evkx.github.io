@@ -44,7 +44,7 @@ The driver can also manually override the car's decision by using the buttons on
 as well as to improve the functionality of the car. However, some critics have raised concerns about the safety, legality, and usability of the stalkless design, especially in scenarios such as roundabouts,
 parking lots, and emergency situations. 
 
-In the below video Bjørn Nyland demonstrates the problem with stalksless design.
+In the below video [Bjørn Nyland](../../../guides/evreviewers/#bjørn-nyland) demonstrates the problem with stalksless design.
 
 {{< youtube 5BOmWsV2lto >}}
 
