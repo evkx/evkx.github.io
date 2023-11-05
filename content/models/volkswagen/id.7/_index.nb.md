@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7
 linktitle: "ID.7"
-description: "See below for details of the different variants of Volkswagen ID.7"
+description: "Se nedenfor for alle varianter av Volkswagen ID.7"
 weight: 30
 ---
 ### Volkswagen ID.7 Pro
@@ -10,10 +10,10 @@ weight: 30
 
 Volkswagen ID.7 Pro er en helelektrisk sedan med en WLTP rekkevidde på opptil 615 km (382 miles). EVKX.net har alle detaljene. 
 
-- [Volkswagen ID.7 Pro article](id.7_pro/)
-- [Volkswagen ID.7 Pro Range & consumption info](id.7_pro/rangeandconsumption)
-- [Volkswagen ID.7 Pro Charging curve and performance](id.7_pro/chargingcurve)
-- [Volkswagen ID.7 Pro full specifications](id.7_pro/specifications)
-- [Volkswagen ID.7 Pro image gallery](id.7_pro/gallery)
-- [Volkswagen ID.7 Pro reviews](id.7_pro/reviews)
+- [Volkswagen ID.7 Pro full beskrivelse](id.7_pro/)
+- [Volkswagen ID.7 Pro rekkevidde & forbruk](id.7_pro/rangeandconsumption)
+- [Volkswagen ID.7 Pro ladekurve og ladeytelse](id.7_pro/chargingcurve)
+- [Volkswagen ID.7 Pro spesifikasjoners](id.7_pro/specifications)
+- [Volkswagen ID.7 Pro galleri](id.7_pro/gallery)
+- [Volkswagen ID.7 Pro tester](id.7_pro/reviews)
 

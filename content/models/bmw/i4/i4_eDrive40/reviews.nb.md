@@ -1,6 +1,6 @@
 ---
 title: BMW i4 eDrive40 tester
-linktitle: "Tester1"
+linktitle: "Tester"
 description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen. "
 weight: 80
 hidden: true

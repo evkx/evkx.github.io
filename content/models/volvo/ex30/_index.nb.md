@@ -1,7 +1,7 @@
 ---
 title: Volvo EX30
 linktitle: "EX30"
-description: "See below for details of the different variants of Volvo EX30"
+description: "Se nedenfor for alle varianter av Volvo EX30"
 weight: 30
 ---
 ### Volvo EX30 Twin Motor Performance
@@ -10,12 +10,12 @@ weight: 30
 
 Volvo EX30 Twin Motor Performance er en helelektrisk delefilter med en WLTP rekkevidde på opptil 460 km (286 miles). EVKX.net har alle detaljene. 
 
-- [Volvo EX30 Twin Motor Performance article](ex30_twin_motor_performance/)
-- [Volvo EX30 Twin Motor Performance Range & consumption info](ex30_twin_motor_performance/rangeandconsumption)
-- [Volvo EX30 Twin Motor Performance Charging curve and performance](ex30_twin_motor_performance/chargingcurve)
-- [Volvo EX30 Twin Motor Performance full specifications](ex30_twin_motor_performance/specifications)
-- [Volvo EX30 Twin Motor Performance image gallery](ex30_twin_motor_performance/gallery)
-- [Volvo EX30 Twin Motor Performance reviews](ex30_twin_motor_performance/reviews)
+- [Volvo EX30 Twin Motor Performance full beskrivelse](ex30_twin_motor_performance/)
+- [Volvo EX30 Twin Motor Performance rekkevidde & forbruk](ex30_twin_motor_performance/rangeandconsumption)
+- [Volvo EX30 Twin Motor Performance ladekurve og ladeytelse](ex30_twin_motor_performance/chargingcurve)
+- [Volvo EX30 Twin Motor Performance spesifikasjoners](ex30_twin_motor_performance/specifications)
+- [Volvo EX30 Twin Motor Performance galleri](ex30_twin_motor_performance/gallery)
+- [Volvo EX30 Twin Motor Performance tester](ex30_twin_motor_performance/reviews)
 
 ### Volvo EX30 Single Motor
 
@@ -23,12 +23,12 @@ Volvo EX30 Twin Motor Performance er en helelektrisk delefilter med en WLTP rekk
 
 Volvo EX30 Single Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 344 km (214 miles). EVKX.net har alle detaljene. 
 
-- [Volvo EX30 Single Motor article](ex30_single_motor/)
-- [Volvo EX30 Single Motor Range & consumption info](ex30_single_motor/rangeandconsumption)
-- [Volvo EX30 Single Motor Charging curve and performance](ex30_single_motor/chargingcurve)
-- [Volvo EX30 Single Motor full specifications](ex30_single_motor/specifications)
-- [Volvo EX30 Single Motor image gallery](ex30_single_motor/gallery)
-- [Volvo EX30 Single Motor reviews](ex30_single_motor/reviews)
+- [Volvo EX30 Single Motor full beskrivelse](ex30_single_motor/)
+- [Volvo EX30 Single Motor rekkevidde & forbruk](ex30_single_motor/rangeandconsumption)
+- [Volvo EX30 Single Motor ladekurve og ladeytelse](ex30_single_motor/chargingcurve)
+- [Volvo EX30 Single Motor spesifikasjoners](ex30_single_motor/specifications)
+- [Volvo EX30 Single Motor galleri](ex30_single_motor/gallery)
+- [Volvo EX30 Single Motor tester](ex30_single_motor/reviews)
 
 ### Volvo EX30 Single Motor Extended Range
 
@@ -36,10 +36,10 @@ Volvo EX30 Single Motor er en helelektrisk delefilter med en WLTP rekkevidde på
 
 Volvo EX30 Single Motor Extended Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 460 km (286 miles). EVKX.net har alle detaljene. 
 
-- [Volvo EX30 Single Motor Extended Range article](ex30_single_motor_extended_range/)
-- [Volvo EX30 Single Motor Extended Range Range & consumption info](ex30_single_motor_extended_range/rangeandconsumption)
-- [Volvo EX30 Single Motor Extended Range Charging curve and performance](ex30_single_motor_extended_range/chargingcurve)
-- [Volvo EX30 Single Motor Extended Range full specifications](ex30_single_motor_extended_range/specifications)
-- [Volvo EX30 Single Motor Extended Range image gallery](ex30_single_motor_extended_range/gallery)
-- [Volvo EX30 Single Motor Extended Range reviews](ex30_single_motor_extended_range/reviews)
+- [Volvo EX30 Single Motor Extended Range full beskrivelse](ex30_single_motor_extended_range/)
+- [Volvo EX30 Single Motor Extended Range rekkevidde & forbruk](ex30_single_motor_extended_range/rangeandconsumption)
+- [Volvo EX30 Single Motor Extended Range ladekurve og ladeytelse](ex30_single_motor_extended_range/chargingcurve)
+- [Volvo EX30 Single Motor Extended Range spesifikasjoners](ex30_single_motor_extended_range/specifications)
+- [Volvo EX30 Single Motor Extended Range galleri](ex30_single_motor_extended_range/gallery)
+- [Volvo EX30 Single Motor Extended Range tester](ex30_single_motor_extended_range/reviews)
 

@@ -10,11 +10,11 @@ weight: 30
 
 Cadillac LYRIQ AWD is an all-electric SUV with a EPA range of up to 494 km (307 miles). EVKX.net has all the details. 
 
-- [Cadillac LYRIQ AWD article](lyriq_awd/)
-- [Cadillac LYRIQ AWD Range & consumption info](lyriq_awd/rangeandconsumption)
-- [Cadillac LYRIQ AWD Charging curve and performance](lyriq_awd/chargingcurve)
-- [Cadillac LYRIQ AWD full specifications](lyriq_awd/specifications)
-- [Cadillac LYRIQ AWD image gallery](lyriq_awd/gallery)
+- [Cadillac LYRIQ AWD full article](lyriq_awd/)
+- [Cadillac LYRIQ AWD range & consumption](lyriq_awd/rangeandconsumption)
+- [Cadillac LYRIQ AWD charging curve & performance](lyriq_awd/chargingcurve)
+- [Cadillac LYRIQ AWD full specificationss](lyriq_awd/specifications)
+- [Cadillac LYRIQ AWD gallery](lyriq_awd/gallery)
 - [Cadillac LYRIQ AWD reviews](lyriq_awd/reviews)
 
 ### Cadillac LYRIQ RWD
@@ -23,10 +23,10 @@ Cadillac LYRIQ AWD is an all-electric SUV with a EPA range of up to 494 km (307 
 
 Cadillac LYRIQ RWD is an all-electric SUV with a EPA range of up to 502 km (312 miles). EVKX.net has all the details. 
 
-- [Cadillac LYRIQ RWD article](lyriq_rwd/)
-- [Cadillac LYRIQ RWD Range & consumption info](lyriq_rwd/rangeandconsumption)
-- [Cadillac LYRIQ RWD Charging curve and performance](lyriq_rwd/chargingcurve)
-- [Cadillac LYRIQ RWD full specifications](lyriq_rwd/specifications)
-- [Cadillac LYRIQ RWD image gallery](lyriq_rwd/gallery)
+- [Cadillac LYRIQ RWD full article](lyriq_rwd/)
+- [Cadillac LYRIQ RWD range & consumption](lyriq_rwd/rangeandconsumption)
+- [Cadillac LYRIQ RWD charging curve & performance](lyriq_rwd/chargingcurve)
+- [Cadillac LYRIQ RWD full specificationss](lyriq_rwd/specifications)
+- [Cadillac LYRIQ RWD gallery](lyriq_rwd/gallery)
 - [Cadillac LYRIQ RWD reviews](lyriq_rwd/reviews)
 

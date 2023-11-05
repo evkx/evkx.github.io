@@ -1,7 +1,7 @@
 ---
 title: XPENG P7
 linktitle: "P7"
-description: "See below for details of the different variants of XPENG P7"
+description: "Se nedenfor for alle varianter av XPENG P7"
 weight: 30
 ---
 ### XPENG P7 AWD Performance
@@ -10,10 +10,10 @@ weight: 30
 
 XPENG P7 AWD Performance er en helelektrisk sedan med en WLTP rekkevidde på opptil 505 km (314 miles). EVKX.net har alle detaljene. 
 
-- [XPENG P7 AWD Performance article](p7_awd_performance/)
-- [XPENG P7 AWD Performance Range & consumption info](p7_awd_performance/rangeandconsumption)
-- [XPENG P7 AWD Performance Charging curve and performance](p7_awd_performance/chargingcurve)
-- [XPENG P7 AWD Performance full specifications](p7_awd_performance/specifications)
-- [XPENG P7 AWD Performance image gallery](p7_awd_performance/gallery)
-- [XPENG P7 AWD Performance reviews](p7_awd_performance/reviews)
+- [XPENG P7 AWD Performance full beskrivelse](p7_awd_performance/)
+- [XPENG P7 AWD Performance rekkevidde & forbruk](p7_awd_performance/rangeandconsumption)
+- [XPENG P7 AWD Performance ladekurve og ladeytelse](p7_awd_performance/chargingcurve)
+- [XPENG P7 AWD Performance spesifikasjoners](p7_awd_performance/specifications)
+- [XPENG P7 AWD Performance galleri](p7_awd_performance/gallery)
+- [XPENG P7 AWD Performance tester](p7_awd_performance/reviews)
 

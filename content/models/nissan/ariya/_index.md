@@ -10,11 +10,11 @@ weight: 30
 
 Nissan Ariya 63kWh is an all-electric coupe SUV with a WLTP range of up to 403 km (250 miles). EVKX.net has all the details. 
 
-- [Nissan Ariya 63kWh article](ariya_63kwh/)
-- [Nissan Ariya 63kWh Range & consumption info](ariya_63kwh/rangeandconsumption)
-- [Nissan Ariya 63kWh Charging curve and performance](ariya_63kwh/chargingcurve)
-- [Nissan Ariya 63kWh full specifications](ariya_63kwh/specifications)
-- [Nissan Ariya 63kWh image gallery](ariya_63kwh/gallery)
+- [Nissan Ariya 63kWh full article](ariya_63kwh/)
+- [Nissan Ariya 63kWh range & consumption](ariya_63kwh/rangeandconsumption)
+- [Nissan Ariya 63kWh charging curve & performance](ariya_63kwh/chargingcurve)
+- [Nissan Ariya 63kWh full specificationss](ariya_63kwh/specifications)
+- [Nissan Ariya 63kWh gallery](ariya_63kwh/gallery)
 - [Nissan Ariya 63kWh reviews](ariya_63kwh/reviews)
 
 ### Nissan Ariya 87kWh
@@ -23,11 +23,11 @@ Nissan Ariya 63kWh is an all-electric coupe SUV with a WLTP range of up to 403 k
 
 Nissan Ariya 87kWh is an all-electric coupe SUV with a WLTP range of up to 533 km (331 miles). EVKX.net has all the details. 
 
-- [Nissan Ariya 87kWh article](ariya_87kwh/)
-- [Nissan Ariya 87kWh Range & consumption info](ariya_87kwh/rangeandconsumption)
-- [Nissan Ariya 87kWh Charging curve and performance](ariya_87kwh/chargingcurve)
-- [Nissan Ariya 87kWh full specifications](ariya_87kwh/specifications)
-- [Nissan Ariya 87kWh image gallery](ariya_87kwh/gallery)
+- [Nissan Ariya 87kWh full article](ariya_87kwh/)
+- [Nissan Ariya 87kWh range & consumption](ariya_87kwh/rangeandconsumption)
+- [Nissan Ariya 87kWh charging curve & performance](ariya_87kwh/chargingcurve)
+- [Nissan Ariya 87kWh full specificationss](ariya_87kwh/specifications)
+- [Nissan Ariya 87kWh gallery](ariya_87kwh/gallery)
 - [Nissan Ariya 87kWh reviews](ariya_87kwh/reviews)
 
 ### Nissan Ariya 87kWh e-4ORCE
@@ -36,10 +36,10 @@ Nissan Ariya 87kWh is an all-electric coupe SUV with a WLTP range of up to 533 k
 
 Nissan Ariya 87kWh e-4ORCE is an all-electric coupe SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details. 
 
-- [Nissan Ariya 87kWh e-4ORCE article](ariya_87kwh_e-4orce/)
-- [Nissan Ariya 87kWh e-4ORCE Range & consumption info](ariya_87kwh_e-4orce/rangeandconsumption)
-- [Nissan Ariya 87kWh e-4ORCE Charging curve and performance](ariya_87kwh_e-4orce/chargingcurve)
-- [Nissan Ariya 87kWh e-4ORCE full specifications](ariya_87kwh_e-4orce/specifications)
-- [Nissan Ariya 87kWh e-4ORCE image gallery](ariya_87kwh_e-4orce/gallery)
+- [Nissan Ariya 87kWh e-4ORCE full article](ariya_87kwh_e-4orce/)
+- [Nissan Ariya 87kWh e-4ORCE range & consumption](ariya_87kwh_e-4orce/rangeandconsumption)
+- [Nissan Ariya 87kWh e-4ORCE charging curve & performance](ariya_87kwh_e-4orce/chargingcurve)
+- [Nissan Ariya 87kWh e-4ORCE full specificationss](ariya_87kwh_e-4orce/specifications)
+- [Nissan Ariya 87kWh e-4ORCE gallery](ariya_87kwh_e-4orce/gallery)
 - [Nissan Ariya 87kWh e-4ORCE reviews](ariya_87kwh_e-4orce/reviews)
 

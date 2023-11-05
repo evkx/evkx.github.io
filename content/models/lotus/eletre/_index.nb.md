@@ -1,7 +1,7 @@
 ---
 title: Lotus Eletre
 linktitle: "Eletre"
-description: "See below for details of the different variants of Lotus Eletre"
+description: "Se nedenfor for alle varianter av Lotus Eletre"
 weight: 30
 ---
 ### Lotus Eletre
@@ -10,12 +10,12 @@ weight: 30
 
 Lotus Eletre er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 600 km (373 miles). EVKX.net har alle detaljene. 
 
-- [Lotus Eletre article](eletre/)
-- [Lotus Eletre Range & consumption info](eletre/rangeandconsumption)
-- [Lotus Eletre Charging curve and performance](eletre/chargingcurve)
-- [Lotus Eletre full specifications](eletre/specifications)
-- [Lotus Eletre image gallery](eletre/gallery)
-- [Lotus Eletre reviews](eletre/reviews)
+- [Lotus Eletre full beskrivelse](eletre/)
+- [Lotus Eletre rekkevidde & forbruk](eletre/rangeandconsumption)
+- [Lotus Eletre ladekurve og ladeytelse](eletre/chargingcurve)
+- [Lotus Eletre spesifikasjoners](eletre/specifications)
+- [Lotus Eletre galleri](eletre/gallery)
+- [Lotus Eletre tester](eletre/reviews)
 
 ### Lotus Eletre R
 
@@ -23,12 +23,12 @@ Lotus Eletre er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 600
 
 Lotus Eletre R er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 460 km (286 miles). EVKX.net har alle detaljene. 
 
-- [Lotus Eletre R article](eletre_r/)
-- [Lotus Eletre R Range & consumption info](eletre_r/rangeandconsumption)
-- [Lotus Eletre R Charging curve and performance](eletre_r/chargingcurve)
-- [Lotus Eletre R full specifications](eletre_r/specifications)
-- [Lotus Eletre R image gallery](eletre_r/gallery)
-- [Lotus Eletre R reviews](eletre_r/reviews)
+- [Lotus Eletre R full beskrivelse](eletre_r/)
+- [Lotus Eletre R rekkevidde & forbruk](eletre_r/rangeandconsumption)
+- [Lotus Eletre R ladekurve og ladeytelse](eletre_r/chargingcurve)
+- [Lotus Eletre R spesifikasjoners](eletre_r/specifications)
+- [Lotus Eletre R galleri](eletre_r/gallery)
+- [Lotus Eletre R tester](eletre_r/reviews)
 
 ### Lotus Eletre S
 
@@ -36,10 +36,10 @@ Lotus Eletre R er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 4
 
 Lotus Eletre S er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 535 km (333 miles). EVKX.net har alle detaljene. 
 
-- [Lotus Eletre S article](eletre_s/)
-- [Lotus Eletre S Range & consumption info](eletre_s/rangeandconsumption)
-- [Lotus Eletre S Charging curve and performance](eletre_s/chargingcurve)
-- [Lotus Eletre S full specifications](eletre_s/specifications)
-- [Lotus Eletre S image gallery](eletre_s/gallery)
-- [Lotus Eletre S reviews](eletre_s/reviews)
+- [Lotus Eletre S full beskrivelse](eletre_s/)
+- [Lotus Eletre S rekkevidde & forbruk](eletre_s/rangeandconsumption)
+- [Lotus Eletre S ladekurve og ladeytelse](eletre_s/chargingcurve)
+- [Lotus Eletre S spesifikasjoners](eletre_s/specifications)
+- [Lotus Eletre S galleri](eletre_s/gallery)
+- [Lotus Eletre S tester](eletre_s/reviews)
 

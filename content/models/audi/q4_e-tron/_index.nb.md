@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron
 linktitle: "Q4 e-tron"
-description: "See below for details of the different variants of Audi Q4 e-tron"
+description: "Se nedenfor for alle varianter av Audi Q4 e-tron"
 weight: 30
 ---
 ### Audi Q4 45 e-tron quattro
@@ -10,12 +10,12 @@ weight: 30
 
 Audi Q4 45 e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 512 km (318 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 45 e-tron quattro article](q4_45_e-tron_quattro/)
-- [Audi Q4 45 e-tron quattro Range & consumption info](q4_45_e-tron_quattro/rangeandconsumption)
-- [Audi Q4 45 e-tron quattro Charging curve and performance](q4_45_e-tron_quattro/chargingcurve)
-- [Audi Q4 45 e-tron quattro full specifications](q4_45_e-tron_quattro/specifications)
-- [Audi Q4 45 e-tron quattro image gallery](q4_45_e-tron_quattro/gallery)
-- [Audi Q4 45 e-tron quattro reviews](q4_45_e-tron_quattro/reviews)
+- [Audi Q4 45 e-tron quattro full beskrivelse](q4_45_e-tron_quattro/)
+- [Audi Q4 45 e-tron quattro rekkevidde & forbruk](q4_45_e-tron_quattro/rangeandconsumption)
+- [Audi Q4 45 e-tron quattro ladekurve og ladeytelse](q4_45_e-tron_quattro/chargingcurve)
+- [Audi Q4 45 e-tron quattro spesifikasjoners](q4_45_e-tron_quattro/specifications)
+- [Audi Q4 45 e-tron quattro galleri](q4_45_e-tron_quattro/gallery)
+- [Audi Q4 45 e-tron quattro tester](q4_45_e-tron_quattro/reviews)
 
 ### Audi Q4 45 e-tron
 
@@ -23,12 +23,12 @@ Audi Q4 45 e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde 
 
 Audi Q4 45 e-tron er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 544 km (338 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 45 e-tron article](q4_45_e-tron/)
-- [Audi Q4 45 e-tron Range & consumption info](q4_45_e-tron/rangeandconsumption)
-- [Audi Q4 45 e-tron Charging curve and performance](q4_45_e-tron/chargingcurve)
-- [Audi Q4 45 e-tron full specifications](q4_45_e-tron/specifications)
-- [Audi Q4 45 e-tron image gallery](q4_45_e-tron/gallery)
-- [Audi Q4 45 e-tron reviews](q4_45_e-tron/reviews)
+- [Audi Q4 45 e-tron full beskrivelse](q4_45_e-tron/)
+- [Audi Q4 45 e-tron rekkevidde & forbruk](q4_45_e-tron/rangeandconsumption)
+- [Audi Q4 45 e-tron ladekurve og ladeytelse](q4_45_e-tron/chargingcurve)
+- [Audi Q4 45 e-tron spesifikasjoners](q4_45_e-tron/specifications)
+- [Audi Q4 45 e-tron galleri](q4_45_e-tron/gallery)
+- [Audi Q4 45 e-tron tester](q4_45_e-tron/reviews)
 
 ### Audi Q4 55 e-tron quattro
 
@@ -36,12 +36,12 @@ Audi Q4 45 e-tron er en helelektrisk premium-SUV med en WLTP rekkevidde på oppt
 
 Audi Q4 55 e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 523 km (325 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 55 e-tron quattro article](q4_55_e-tron_quattro/)
-- [Audi Q4 55 e-tron quattro Range & consumption info](q4_55_e-tron_quattro/rangeandconsumption)
-- [Audi Q4 55 e-tron quattro Charging curve and performance](q4_55_e-tron_quattro/chargingcurve)
-- [Audi Q4 55 e-tron quattro full specifications](q4_55_e-tron_quattro/specifications)
-- [Audi Q4 55 e-tron quattro image gallery](q4_55_e-tron_quattro/gallery)
-- [Audi Q4 55 e-tron quattro reviews](q4_55_e-tron_quattro/reviews)
+- [Audi Q4 55 e-tron quattro full beskrivelse](q4_55_e-tron_quattro/)
+- [Audi Q4 55 e-tron quattro rekkevidde & forbruk](q4_55_e-tron_quattro/rangeandconsumption)
+- [Audi Q4 55 e-tron quattro ladekurve og ladeytelse](q4_55_e-tron_quattro/chargingcurve)
+- [Audi Q4 55 e-tron quattro spesifikasjoners](q4_55_e-tron_quattro/specifications)
+- [Audi Q4 55 e-tron quattro galleri](q4_55_e-tron_quattro/gallery)
+- [Audi Q4 55 e-tron quattro tester](q4_55_e-tron_quattro/reviews)
 
 ### Audi Q4 Sportback 45 e-tron quattro
 
@@ -49,12 +49,12 @@ Audi Q4 55 e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde 
 
 Audi Q4 Sportback 45 e-tron quattro er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 539 km (335 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 Sportback 45 e-tron quattro article](q4_sportback_45_e-tron_quattro/)
-- [Audi Q4 Sportback 45 e-tron quattro Range & consumption info](q4_sportback_45_e-tron_quattro/rangeandconsumption)
-- [Audi Q4 Sportback 45 e-tron quattro Charging curve and performance](q4_sportback_45_e-tron_quattro/chargingcurve)
-- [Audi Q4 Sportback 45 e-tron quattro full specifications](q4_sportback_45_e-tron_quattro/specifications)
-- [Audi Q4 Sportback 45 e-tron quattro image gallery](q4_sportback_45_e-tron_quattro/gallery)
-- [Audi Q4 Sportback 45 e-tron quattro reviews](q4_sportback_45_e-tron_quattro/reviews)
+- [Audi Q4 Sportback 45 e-tron quattro full beskrivelse](q4_sportback_45_e-tron_quattro/)
+- [Audi Q4 Sportback 45 e-tron quattro rekkevidde & forbruk](q4_sportback_45_e-tron_quattro/rangeandconsumption)
+- [Audi Q4 Sportback 45 e-tron quattro ladekurve og ladeytelse](q4_sportback_45_e-tron_quattro/chargingcurve)
+- [Audi Q4 Sportback 45 e-tron quattro spesifikasjoners](q4_sportback_45_e-tron_quattro/specifications)
+- [Audi Q4 Sportback 45 e-tron quattro galleri](q4_sportback_45_e-tron_quattro/gallery)
+- [Audi Q4 Sportback 45 e-tron quattro tester](q4_sportback_45_e-tron_quattro/reviews)
 
 ### Audi Q4 Sportback 45 e-tron
 
@@ -62,12 +62,12 @@ Audi Q4 Sportback 45 e-tron quattro er en helelektrisk premium coupe SUV med en 
 
 Audi Q4 Sportback 45 e-tron er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 562 km (349 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 Sportback 45 e-tron article](q4_sportback_45_e-tron/)
-- [Audi Q4 Sportback 45 e-tron Range & consumption info](q4_sportback_45_e-tron/rangeandconsumption)
-- [Audi Q4 Sportback 45 e-tron Charging curve and performance](q4_sportback_45_e-tron/chargingcurve)
-- [Audi Q4 Sportback 45 e-tron full specifications](q4_sportback_45_e-tron/specifications)
-- [Audi Q4 Sportback 45 e-tron image gallery](q4_sportback_45_e-tron/gallery)
-- [Audi Q4 Sportback 45 e-tron reviews](q4_sportback_45_e-tron/reviews)
+- [Audi Q4 Sportback 45 e-tron full beskrivelse](q4_sportback_45_e-tron/)
+- [Audi Q4 Sportback 45 e-tron rekkevidde & forbruk](q4_sportback_45_e-tron/rangeandconsumption)
+- [Audi Q4 Sportback 45 e-tron ladekurve og ladeytelse](q4_sportback_45_e-tron/chargingcurve)
+- [Audi Q4 Sportback 45 e-tron spesifikasjoners](q4_sportback_45_e-tron/specifications)
+- [Audi Q4 Sportback 45 e-tron galleri](q4_sportback_45_e-tron/gallery)
+- [Audi Q4 Sportback 45 e-tron tester](q4_sportback_45_e-tron/reviews)
 
 ### Audi Q4 Sportback 55 e-tron quattro
 
@@ -75,12 +75,12 @@ Audi Q4 Sportback 45 e-tron er en helelektrisk premium coupe SUV med en WLTP rek
 
 Audi Q4 Sportback 55 e-tron quattro er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 537 km (334 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 Sportback 55 e-tron quattro article](q4_sportback_55_e-tron_quattro/)
-- [Audi Q4 Sportback 55 e-tron quattro Range & consumption info](q4_sportback_55_e-tron_quattro/rangeandconsumption)
-- [Audi Q4 Sportback 55 e-tron quattro Charging curve and performance](q4_sportback_55_e-tron_quattro/chargingcurve)
-- [Audi Q4 Sportback 55 e-tron quattro full specifications](q4_sportback_55_e-tron_quattro/specifications)
-- [Audi Q4 Sportback 55 e-tron quattro image gallery](q4_sportback_55_e-tron_quattro/gallery)
-- [Audi Q4 Sportback 55 e-tron quattro reviews](q4_sportback_55_e-tron_quattro/reviews)
+- [Audi Q4 Sportback 55 e-tron quattro full beskrivelse](q4_sportback_55_e-tron_quattro/)
+- [Audi Q4 Sportback 55 e-tron quattro rekkevidde & forbruk](q4_sportback_55_e-tron_quattro/rangeandconsumption)
+- [Audi Q4 Sportback 55 e-tron quattro ladekurve og ladeytelse](q4_sportback_55_e-tron_quattro/chargingcurve)
+- [Audi Q4 Sportback 55 e-tron quattro spesifikasjoners](q4_sportback_55_e-tron_quattro/specifications)
+- [Audi Q4 Sportback 55 e-tron quattro galleri](q4_sportback_55_e-tron_quattro/gallery)
+- [Audi Q4 Sportback 55 e-tron quattro tester](q4_sportback_55_e-tron_quattro/reviews)
 
 ## Discontinued variants
 
@@ -90,12 +90,12 @@ Audi Q4 Sportback 55 e-tron quattro er en helelektrisk premium coupe SUV med en 
 
 Audi Q4 35 e-tron er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 357 km (222 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 35 e-tron article](q4_35_e-tron/)
-- [Audi Q4 35 e-tron Range & consumption info](q4_35_e-tron/rangeandconsumption)
-- [Audi Q4 35 e-tron Charging curve and performance](q4_35_e-tron/chargingcurve)
-- [Audi Q4 35 e-tron full specifications](q4_35_e-tron/specifications)
-- [Audi Q4 35 e-tron image gallery](q4_35_e-tron/gallery)
-- [Audi Q4 35 e-tron reviews](q4_35_e-tron/reviews)
+- [Audi Q4 35 e-tron full beskrivelse](q4_35_e-tron/)
+- [Audi Q4 35 e-tron rekkevidde & forbruk](q4_35_e-tron/rangeandconsumption)
+- [Audi Q4 35 e-tron ladekurve og ladeytelse](q4_35_e-tron/chargingcurve)
+- [Audi Q4 35 e-tron spesifikasjoners](q4_35_e-tron/specifications)
+- [Audi Q4 35 e-tron galleri](q4_35_e-tron/gallery)
+- [Audi Q4 35 e-tron tester](q4_35_e-tron/reviews)
 
 ### Audi Q4 40 e-tron
 
@@ -103,12 +103,12 @@ Audi Q4 35 e-tron er en helelektrisk premium-SUV med en WLTP rekkevidde på oppt
 
 Audi Q4 40 e-tron er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 521 km (324 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 40 e-tron article](q4_40_e-tron/)
-- [Audi Q4 40 e-tron Range & consumption info](q4_40_e-tron/rangeandconsumption)
-- [Audi Q4 40 e-tron Charging curve and performance](q4_40_e-tron/chargingcurve)
-- [Audi Q4 40 e-tron full specifications](q4_40_e-tron/specifications)
-- [Audi Q4 40 e-tron image gallery](q4_40_e-tron/gallery)
-- [Audi Q4 40 e-tron reviews](q4_40_e-tron/reviews)
+- [Audi Q4 40 e-tron full beskrivelse](q4_40_e-tron/)
+- [Audi Q4 40 e-tron rekkevidde & forbruk](q4_40_e-tron/rangeandconsumption)
+- [Audi Q4 40 e-tron ladekurve og ladeytelse](q4_40_e-tron/chargingcurve)
+- [Audi Q4 40 e-tron spesifikasjoners](q4_40_e-tron/specifications)
+- [Audi Q4 40 e-tron galleri](q4_40_e-tron/gallery)
+- [Audi Q4 40 e-tron tester](q4_40_e-tron/reviews)
 
 ### Audi Q4 45 e-tron quattro (GEN1)
 
@@ -116,12 +116,12 @@ Audi Q4 40 e-tron er en helelektrisk premium-SUV med en WLTP rekkevidde på oppt
 
 Audi Q4 45 e-tron quattro (GEN1) er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 512 km (318 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 45 e-tron quattro (GEN1) article](q4_45_e-tron_quattro_gen1/)
-- [Audi Q4 45 e-tron quattro (GEN1) Range & consumption info](q4_45_e-tron_quattro_gen1/rangeandconsumption)
-- [Audi Q4 45 e-tron quattro (GEN1) Charging curve and performance](q4_45_e-tron_quattro_gen1/chargingcurve)
-- [Audi Q4 45 e-tron quattro (GEN1) full specifications](q4_45_e-tron_quattro_gen1/specifications)
-- [Audi Q4 45 e-tron quattro (GEN1) image gallery](q4_45_e-tron_quattro_gen1/gallery)
-- [Audi Q4 45 e-tron quattro (GEN1) reviews](q4_45_e-tron_quattro_gen1/reviews)
+- [Audi Q4 45 e-tron quattro (GEN1) full beskrivelse](q4_45_e-tron_quattro_gen1/)
+- [Audi Q4 45 e-tron quattro (GEN1) rekkevidde & forbruk](q4_45_e-tron_quattro_gen1/rangeandconsumption)
+- [Audi Q4 45 e-tron quattro (GEN1) ladekurve og ladeytelse](q4_45_e-tron_quattro_gen1/chargingcurve)
+- [Audi Q4 45 e-tron quattro (GEN1) spesifikasjoners](q4_45_e-tron_quattro_gen1/specifications)
+- [Audi Q4 45 e-tron quattro (GEN1) galleri](q4_45_e-tron_quattro_gen1/gallery)
+- [Audi Q4 45 e-tron quattro (GEN1) tester](q4_45_e-tron_quattro_gen1/reviews)
 
 ### Audi Q4 50 e-tron quattro
 
@@ -129,12 +129,12 @@ Audi Q4 45 e-tron quattro (GEN1) er en helelektrisk premium-SUV med en WLTP rekk
 
 Audi Q4 50 e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 491 km (305 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 50 e-tron quattro article](q4_50_e-tron_quattro/)
-- [Audi Q4 50 e-tron quattro Range & consumption info](q4_50_e-tron_quattro/rangeandconsumption)
-- [Audi Q4 50 e-tron quattro Charging curve and performance](q4_50_e-tron_quattro/chargingcurve)
-- [Audi Q4 50 e-tron quattro full specifications](q4_50_e-tron_quattro/specifications)
-- [Audi Q4 50 e-tron quattro image gallery](q4_50_e-tron_quattro/gallery)
-- [Audi Q4 50 e-tron quattro reviews](q4_50_e-tron_quattro/reviews)
+- [Audi Q4 50 e-tron quattro full beskrivelse](q4_50_e-tron_quattro/)
+- [Audi Q4 50 e-tron quattro rekkevidde & forbruk](q4_50_e-tron_quattro/rangeandconsumption)
+- [Audi Q4 50 e-tron quattro ladekurve og ladeytelse](q4_50_e-tron_quattro/chargingcurve)
+- [Audi Q4 50 e-tron quattro spesifikasjoners](q4_50_e-tron_quattro/specifications)
+- [Audi Q4 50 e-tron quattro galleri](q4_50_e-tron_quattro/gallery)
+- [Audi Q4 50 e-tron quattro tester](q4_50_e-tron_quattro/reviews)
 
 ### Audi Q4 Sportback 35 e-tron
 
@@ -142,12 +142,12 @@ Audi Q4 50 e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde 
 
 Audi Q4 Sportback 35 e-tron er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 349 km (217 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 Sportback 35 e-tron article](q4_sportback_35_e-tron/)
-- [Audi Q4 Sportback 35 e-tron Range & consumption info](q4_sportback_35_e-tron/rangeandconsumption)
-- [Audi Q4 Sportback 35 e-tron Charging curve and performance](q4_sportback_35_e-tron/chargingcurve)
-- [Audi Q4 Sportback 35 e-tron full specifications](q4_sportback_35_e-tron/specifications)
-- [Audi Q4 Sportback 35 e-tron image gallery](q4_sportback_35_e-tron/gallery)
-- [Audi Q4 Sportback 35 e-tron reviews](q4_sportback_35_e-tron/reviews)
+- [Audi Q4 Sportback 35 e-tron full beskrivelse](q4_sportback_35_e-tron/)
+- [Audi Q4 Sportback 35 e-tron rekkevidde & forbruk](q4_sportback_35_e-tron/rangeandconsumption)
+- [Audi Q4 Sportback 35 e-tron ladekurve og ladeytelse](q4_sportback_35_e-tron/chargingcurve)
+- [Audi Q4 Sportback 35 e-tron spesifikasjoners](q4_sportback_35_e-tron/specifications)
+- [Audi Q4 Sportback 35 e-tron galleri](q4_sportback_35_e-tron/gallery)
+- [Audi Q4 Sportback 35 e-tron tester](q4_sportback_35_e-tron/reviews)
 
 ### Audi Q4 Sportback 40 e-tron
 
@@ -155,12 +155,12 @@ Audi Q4 Sportback 35 e-tron er en helelektrisk premium coupe SUV med en WLTP rek
 
 Audi Q4 Sportback 40 e-tron er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 528 km (328 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 Sportback 40 e-tron article](q4_sportback_40_e-tron/)
-- [Audi Q4 Sportback 40 e-tron Range & consumption info](q4_sportback_40_e-tron/rangeandconsumption)
-- [Audi Q4 Sportback 40 e-tron Charging curve and performance](q4_sportback_40_e-tron/chargingcurve)
-- [Audi Q4 Sportback 40 e-tron full specifications](q4_sportback_40_e-tron/specifications)
-- [Audi Q4 Sportback 40 e-tron image gallery](q4_sportback_40_e-tron/gallery)
-- [Audi Q4 Sportback 40 e-tron reviews](q4_sportback_40_e-tron/reviews)
+- [Audi Q4 Sportback 40 e-tron full beskrivelse](q4_sportback_40_e-tron/)
+- [Audi Q4 Sportback 40 e-tron rekkevidde & forbruk](q4_sportback_40_e-tron/rangeandconsumption)
+- [Audi Q4 Sportback 40 e-tron ladekurve og ladeytelse](q4_sportback_40_e-tron/chargingcurve)
+- [Audi Q4 Sportback 40 e-tron spesifikasjoners](q4_sportback_40_e-tron/specifications)
+- [Audi Q4 Sportback 40 e-tron galleri](q4_sportback_40_e-tron/gallery)
+- [Audi Q4 Sportback 40 e-tron tester](q4_sportback_40_e-tron/reviews)
 
 ### Audi Q4 Sportback 45 e-tron quattro (GEN1)
 
@@ -168,12 +168,12 @@ Audi Q4 Sportback 40 e-tron er en helelektrisk premium coupe SUV med en WLTP rek
 
 Audi Q4 Sportback 45 e-tron quattro (GEN1) er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 524 km (326 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 Sportback 45 e-tron quattro (GEN1) article](q4_sportback_45_e-tron_quattro_gen1/)
-- [Audi Q4 Sportback 45 e-tron quattro (GEN1) Range & consumption info](q4_sportback_45_e-tron_quattro_gen1/rangeandconsumption)
-- [Audi Q4 Sportback 45 e-tron quattro (GEN1) Charging curve and performance](q4_sportback_45_e-tron_quattro_gen1/chargingcurve)
-- [Audi Q4 Sportback 45 e-tron quattro (GEN1) full specifications](q4_sportback_45_e-tron_quattro_gen1/specifications)
-- [Audi Q4 Sportback 45 e-tron quattro (GEN1) image gallery](q4_sportback_45_e-tron_quattro_gen1/gallery)
-- [Audi Q4 Sportback 45 e-tron quattro (GEN1) reviews](q4_sportback_45_e-tron_quattro_gen1/reviews)
+- [Audi Q4 Sportback 45 e-tron quattro (GEN1) full beskrivelse](q4_sportback_45_e-tron_quattro_gen1/)
+- [Audi Q4 Sportback 45 e-tron quattro (GEN1) rekkevidde & forbruk](q4_sportback_45_e-tron_quattro_gen1/rangeandconsumption)
+- [Audi Q4 Sportback 45 e-tron quattro (GEN1) ladekurve og ladeytelse](q4_sportback_45_e-tron_quattro_gen1/chargingcurve)
+- [Audi Q4 Sportback 45 e-tron quattro (GEN1) spesifikasjoners](q4_sportback_45_e-tron_quattro_gen1/specifications)
+- [Audi Q4 Sportback 45 e-tron quattro (GEN1) galleri](q4_sportback_45_e-tron_quattro_gen1/gallery)
+- [Audi Q4 Sportback 45 e-tron quattro (GEN1) tester](q4_sportback_45_e-tron_quattro_gen1/reviews)
 
 ### Audi Q4 Sportback 50 e-tron quattro
 
@@ -181,10 +181,10 @@ Audi Q4 Sportback 45 e-tron quattro (GEN1) er en helelektrisk premium coupe SUV 
 
 Audi Q4 Sportback 50 e-tron quattro er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 522 km (324 miles). EVKX.net har alle detaljene. 
 
-- [Audi Q4 Sportback 50 e-tron quattro article](q4_sportback_50_e-tron_quattro/)
-- [Audi Q4 Sportback 50 e-tron quattro Range & consumption info](q4_sportback_50_e-tron_quattro/rangeandconsumption)
-- [Audi Q4 Sportback 50 e-tron quattro Charging curve and performance](q4_sportback_50_e-tron_quattro/chargingcurve)
-- [Audi Q4 Sportback 50 e-tron quattro full specifications](q4_sportback_50_e-tron_quattro/specifications)
-- [Audi Q4 Sportback 50 e-tron quattro image gallery](q4_sportback_50_e-tron_quattro/gallery)
-- [Audi Q4 Sportback 50 e-tron quattro reviews](q4_sportback_50_e-tron_quattro/reviews)
+- [Audi Q4 Sportback 50 e-tron quattro full beskrivelse](q4_sportback_50_e-tron_quattro/)
+- [Audi Q4 Sportback 50 e-tron quattro rekkevidde & forbruk](q4_sportback_50_e-tron_quattro/rangeandconsumption)
+- [Audi Q4 Sportback 50 e-tron quattro ladekurve og ladeytelse](q4_sportback_50_e-tron_quattro/chargingcurve)
+- [Audi Q4 Sportback 50 e-tron quattro spesifikasjoners](q4_sportback_50_e-tron_quattro/specifications)
+- [Audi Q4 Sportback 50 e-tron quattro galleri](q4_sportback_50_e-tron_quattro/gallery)
+- [Audi Q4 Sportback 50 e-tron quattro tester](q4_sportback_50_e-tron_quattro/reviews)
 

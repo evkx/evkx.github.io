@@ -10,10 +10,10 @@ weight: 30
 
 BYD Atto 3 is an all-electric crossover with a WLTP range of up to 420 km (261 miles). EVKX.net has all the details. 
 
-- [BYD Atto 3 article](atto_3/)
-- [BYD Atto 3 Range & consumption info](atto_3/rangeandconsumption)
-- [BYD Atto 3 Charging curve and performance](atto_3/chargingcurve)
-- [BYD Atto 3 full specifications](atto_3/specifications)
-- [BYD Atto 3 image gallery](atto_3/gallery)
+- [BYD Atto 3 full article](atto_3/)
+- [BYD Atto 3 range & consumption](atto_3/rangeandconsumption)
+- [BYD Atto 3 charging curve & performance](atto_3/chargingcurve)
+- [BYD Atto 3 full specificationss](atto_3/specifications)
+- [BYD Atto 3 gallery](atto_3/gallery)
 - [BYD Atto 3 reviews](atto_3/reviews)
 

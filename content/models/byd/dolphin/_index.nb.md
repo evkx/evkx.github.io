@@ -1,7 +1,7 @@
 ---
 title: BYD Dolphin
 linktitle: "Dolphin"
-description: "See below for details of the different variants of BYD Dolphin"
+description: "Se nedenfor for alle varianter av BYD Dolphin"
 weight: 30
 ---
 ### BYD Dolphin 60.4kWh
@@ -10,10 +10,10 @@ weight: 30
 
 BYD Dolphin 60.4kWh er en helelektrisk delefilter med en WLTP rekkevidde på opptil 427 km (265 miles). EVKX.net har alle detaljene. 
 
-- [BYD Dolphin 60.4kWh article](dolphin_60.4kwh/)
-- [BYD Dolphin 60.4kWh Range & consumption info](dolphin_60.4kwh/rangeandconsumption)
-- [BYD Dolphin 60.4kWh Charging curve and performance](dolphin_60.4kwh/chargingcurve)
-- [BYD Dolphin 60.4kWh full specifications](dolphin_60.4kwh/specifications)
-- [BYD Dolphin 60.4kWh image gallery](dolphin_60.4kwh/gallery)
-- [BYD Dolphin 60.4kWh reviews](dolphin_60.4kwh/reviews)
+- [BYD Dolphin 60.4kWh full beskrivelse](dolphin_60.4kwh/)
+- [BYD Dolphin 60.4kWh rekkevidde & forbruk](dolphin_60.4kwh/rangeandconsumption)
+- [BYD Dolphin 60.4kWh ladekurve og ladeytelse](dolphin_60.4kwh/chargingcurve)
+- [BYD Dolphin 60.4kWh spesifikasjoners](dolphin_60.4kwh/specifications)
+- [BYD Dolphin 60.4kWh galleri](dolphin_60.4kwh/gallery)
+- [BYD Dolphin 60.4kWh tester](dolphin_60.4kwh/reviews)
 

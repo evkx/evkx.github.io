@@ -1,7 +1,7 @@
 ---
 title: HiPhi Z
 linktitle: "Z"
-description: "See below for details of the different variants of HiPhi Z"
+description: "Se nedenfor for alle varianter av HiPhi Z"
 weight: 30
 ---
 ### HiPhi Z 4 Seater
@@ -10,12 +10,12 @@ weight: 30
 
 HiPhi Z 4 Seater er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 555 km (345 miles). EVKX.net har alle detaljene. 
 
-- [HiPhi Z 4 Seater article](z_4_seater/)
-- [HiPhi Z 4 Seater Range & consumption info](z_4_seater/rangeandconsumption)
-- [HiPhi Z 4 Seater Charging curve and performance](z_4_seater/chargingcurve)
-- [HiPhi Z 4 Seater full specifications](z_4_seater/specifications)
-- [HiPhi Z 4 Seater image gallery](z_4_seater/gallery)
-- [HiPhi Z 4 Seater reviews](z_4_seater/reviews)
+- [HiPhi Z 4 Seater full beskrivelse](z_4_seater/)
+- [HiPhi Z 4 Seater rekkevidde & forbruk](z_4_seater/rangeandconsumption)
+- [HiPhi Z 4 Seater ladekurve og ladeytelse](z_4_seater/chargingcurve)
+- [HiPhi Z 4 Seater spesifikasjoners](z_4_seater/specifications)
+- [HiPhi Z 4 Seater galleri](z_4_seater/gallery)
+- [HiPhi Z 4 Seater tester](z_4_seater/reviews)
 
 ### HiPhi Z 5 Seater
 
@@ -23,10 +23,10 @@ HiPhi Z 4 Seater er en helelektrisk luksussedan med en WLTP rekkevidde på oppti
 
 HiPhi Z 5 Seater er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 555 km (345 miles). EVKX.net har alle detaljene. 
 
-- [HiPhi Z 5 Seater article](z_5_seater/)
-- [HiPhi Z 5 Seater Range & consumption info](z_5_seater/rangeandconsumption)
-- [HiPhi Z 5 Seater Charging curve and performance](z_5_seater/chargingcurve)
-- [HiPhi Z 5 Seater full specifications](z_5_seater/specifications)
-- [HiPhi Z 5 Seater image gallery](z_5_seater/gallery)
-- [HiPhi Z 5 Seater reviews](z_5_seater/reviews)
+- [HiPhi Z 5 Seater full beskrivelse](z_5_seater/)
+- [HiPhi Z 5 Seater rekkevidde & forbruk](z_5_seater/rangeandconsumption)
+- [HiPhi Z 5 Seater ladekurve og ladeytelse](z_5_seater/chargingcurve)
+- [HiPhi Z 5 Seater spesifikasjoners](z_5_seater/specifications)
+- [HiPhi Z 5 Seater galleri](z_5_seater/gallery)
+- [HiPhi Z 5 Seater tester](z_5_seater/reviews)
 

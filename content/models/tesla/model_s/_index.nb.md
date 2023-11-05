@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S
 linktitle: "Model S"
-description: "See below for details of the different variants of Tesla Model S"
+description: "Se nedenfor for alle varianter av Tesla Model S"
 weight: 30
 ---
 ### Tesla Model S
@@ -10,12 +10,12 @@ weight: 30
 
 Tesla Model S er en helelektrisk sedan med en WLTP rekkevidde på opptil 649 km (403 miles). EVKX.net har alle detaljene. 
 
-- [Tesla Model S article](model_s/)
-- [Tesla Model S Range & consumption info](model_s/rangeandconsumption)
-- [Tesla Model S Charging curve and performance](model_s/chargingcurve)
-- [Tesla Model S full specifications](model_s/specifications)
-- [Tesla Model S image gallery](model_s/gallery)
-- [Tesla Model S reviews](model_s/reviews)
+- [Tesla Model S full beskrivelse](model_s/)
+- [Tesla Model S rekkevidde & forbruk](model_s/rangeandconsumption)
+- [Tesla Model S ladekurve og ladeytelse](model_s/chargingcurve)
+- [Tesla Model S spesifikasjoners](model_s/specifications)
+- [Tesla Model S galleri](model_s/gallery)
+- [Tesla Model S tester](model_s/reviews)
 
 ### Tesla Model S Plaid
 
@@ -23,12 +23,12 @@ Tesla Model S er en helelektrisk sedan med en WLTP rekkevidde på opptil 649 km 
 
 Tesla Model S Plaid er en helelektrisk sedan med en WLTP rekkevidde på opptil 600 km (373 miles). EVKX.net har alle detaljene. 
 
-- [Tesla Model S Plaid article](model_s_plaid/)
-- [Tesla Model S Plaid Range & consumption info](model_s_plaid/rangeandconsumption)
-- [Tesla Model S Plaid Charging curve and performance](model_s_plaid/chargingcurve)
-- [Tesla Model S Plaid full specifications](model_s_plaid/specifications)
-- [Tesla Model S Plaid image gallery](model_s_plaid/gallery)
-- [Tesla Model S Plaid reviews](model_s_plaid/reviews)
+- [Tesla Model S Plaid full beskrivelse](model_s_plaid/)
+- [Tesla Model S Plaid rekkevidde & forbruk](model_s_plaid/rangeandconsumption)
+- [Tesla Model S Plaid ladekurve og ladeytelse](model_s_plaid/chargingcurve)
+- [Tesla Model S Plaid spesifikasjoners](model_s_plaid/specifications)
+- [Tesla Model S Plaid galleri](model_s_plaid/gallery)
+- [Tesla Model S Plaid tester](model_s_plaid/reviews)
 
 ### Tesla Model S Standard Range
 
@@ -36,10 +36,10 @@ Tesla Model S Plaid er en helelektrisk sedan med en WLTP rekkevidde på opptil 6
 
 Tesla Model S Standard Range er en helelektrisk sedan med en WLTP rekkevidde på opptil 512 km (318 miles). EVKX.net har alle detaljene. 
 
-- [Tesla Model S Standard Range article](model_s_standard_range/)
-- [Tesla Model S Standard Range Range & consumption info](model_s_standard_range/rangeandconsumption)
-- [Tesla Model S Standard Range Charging curve and performance](model_s_standard_range/chargingcurve)
-- [Tesla Model S Standard Range full specifications](model_s_standard_range/specifications)
-- [Tesla Model S Standard Range image gallery](model_s_standard_range/gallery)
-- [Tesla Model S Standard Range reviews](model_s_standard_range/reviews)
+- [Tesla Model S Standard Range full beskrivelse](model_s_standard_range/)
+- [Tesla Model S Standard Range rekkevidde & forbruk](model_s_standard_range/rangeandconsumption)
+- [Tesla Model S Standard Range ladekurve og ladeytelse](model_s_standard_range/chargingcurve)
+- [Tesla Model S Standard Range spesifikasjoners](model_s_standard_range/specifications)
+- [Tesla Model S Standard Range galleri](model_s_standard_range/gallery)
+- [Tesla Model S Standard Range tester](model_s_standard_range/reviews)
 

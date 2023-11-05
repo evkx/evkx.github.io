@@ -1,7 +1,7 @@
 ---
 title: BMW iX
 linktitle: "iX"
-description: "See below for details of the different variants of BMW iX"
+description: "Se nedenfor for alle varianter av BMW iX"
 weight: 30
 ---
 ### BMW iX xDrive40
@@ -10,12 +10,12 @@ weight: 30
 
 BMW iX xDrive40 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 425 km (264 miles). EVKX.net har alle detaljene. 
 
-- [BMW iX xDrive40 article](ix_xdrive40/)
-- [BMW iX xDrive40 Range & consumption info](ix_xdrive40/rangeandconsumption)
-- [BMW iX xDrive40 Charging curve and performance](ix_xdrive40/chargingcurve)
-- [BMW iX xDrive40 full specifications](ix_xdrive40/specifications)
-- [BMW iX xDrive40 image gallery](ix_xdrive40/gallery)
-- [BMW iX xDrive40 reviews](ix_xdrive40/reviews)
+- [BMW iX xDrive40 full beskrivelse](ix_xdrive40/)
+- [BMW iX xDrive40 rekkevidde & forbruk](ix_xdrive40/rangeandconsumption)
+- [BMW iX xDrive40 ladekurve og ladeytelse](ix_xdrive40/chargingcurve)
+- [BMW iX xDrive40 spesifikasjoners](ix_xdrive40/specifications)
+- [BMW iX xDrive40 galleri](ix_xdrive40/gallery)
+- [BMW iX xDrive40 tester](ix_xdrive40/reviews)
 
 ### BMW iX xDrive50
 
@@ -23,12 +23,12 @@ BMW iX xDrive40 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 
 
 BMW iX xDrive50 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 631 km (392 miles). EVKX.net har alle detaljene. 
 
-- [BMW iX xDrive50 article](ix_xdrive50/)
-- [BMW iX xDrive50 Range & consumption info](ix_xdrive50/rangeandconsumption)
-- [BMW iX xDrive50 Charging curve and performance](ix_xdrive50/chargingcurve)
-- [BMW iX xDrive50 full specifications](ix_xdrive50/specifications)
-- [BMW iX xDrive50 image gallery](ix_xdrive50/gallery)
-- [BMW iX xDrive50 reviews](ix_xdrive50/reviews)
+- [BMW iX xDrive50 full beskrivelse](ix_xdrive50/)
+- [BMW iX xDrive50 rekkevidde & forbruk](ix_xdrive50/rangeandconsumption)
+- [BMW iX xDrive50 ladekurve og ladeytelse](ix_xdrive50/chargingcurve)
+- [BMW iX xDrive50 spesifikasjoners](ix_xdrive50/specifications)
+- [BMW iX xDrive50 galleri](ix_xdrive50/gallery)
+- [BMW iX xDrive50 tester](ix_xdrive50/reviews)
 
 ### BMW iX M60
 
@@ -36,10 +36,10 @@ BMW iX xDrive50 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 
 
 BMW iX M60 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 561 km (349 miles). EVKX.net har alle detaljene. 
 
-- [BMW iX M60 article](ix_m60/)
-- [BMW iX M60 Range & consumption info](ix_m60/rangeandconsumption)
-- [BMW iX M60 Charging curve and performance](ix_m60/chargingcurve)
-- [BMW iX M60 full specifications](ix_m60/specifications)
-- [BMW iX M60 image gallery](ix_m60/gallery)
-- [BMW iX M60 reviews](ix_m60/reviews)
+- [BMW iX M60 full beskrivelse](ix_m60/)
+- [BMW iX M60 rekkevidde & forbruk](ix_m60/rangeandconsumption)
+- [BMW iX M60 ladekurve og ladeytelse](ix_m60/chargingcurve)
+- [BMW iX M60 spesifikasjoners](ix_m60/specifications)
+- [BMW iX M60 galleri](ix_m60/gallery)
+- [BMW iX M60 tester](ix_m60/reviews)
 

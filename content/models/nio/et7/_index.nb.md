@@ -1,7 +1,7 @@
 ---
 title: Nio ET7
 linktitle: "ET7"
-description: "See below for details of the different variants of Nio ET7"
+description: "Se nedenfor for alle varianter av Nio ET7"
 weight: 30
 ---
 ### Nio ET7
@@ -10,10 +10,10 @@ weight: 30
 
 Nio ET7 er en helelektrisk sedan med en WLTP rekkevidde på opptil 580 km (360 miles). EVKX.net har alle detaljene. 
 
-- [Nio ET7 article](et7/)
-- [Nio ET7 Range & consumption info](et7/rangeandconsumption)
-- [Nio ET7 Charging curve and performance](et7/chargingcurve)
-- [Nio ET7 full specifications](et7/specifications)
-- [Nio ET7 image gallery](et7/gallery)
-- [Nio ET7 reviews](et7/reviews)
+- [Nio ET7 full beskrivelse](et7/)
+- [Nio ET7 rekkevidde & forbruk](et7/rangeandconsumption)
+- [Nio ET7 ladekurve og ladeytelse](et7/chargingcurve)
+- [Nio ET7 spesifikasjoners](et7/specifications)
+- [Nio ET7 galleri](et7/gallery)
+- [Nio ET7 tester](et7/reviews)
 

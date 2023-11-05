@@ -1,7 +1,7 @@
 ---
 title: Jeep Avenger
 linktitle: "Avenger"
-description: "See below for details of the different variants of Jeep Avenger"
+description: "Se nedenfor for alle varianter av Jeep Avenger"
 weight: 30
 ---
 ### Jeep Avenger
@@ -10,10 +10,10 @@ weight: 30
 
 Jeep Avenger er en helelektrisk delefilter med en WLTP rekkevidde på opptil 404 km (251 miles). EVKX.net har alle detaljene. 
 
-- [Jeep Avenger article](avenger/)
-- [Jeep Avenger Range & consumption info](avenger/rangeandconsumption)
-- [Jeep Avenger Charging curve and performance](avenger/chargingcurve)
-- [Jeep Avenger full specifications](avenger/specifications)
-- [Jeep Avenger image gallery](avenger/gallery)
-- [Jeep Avenger reviews](avenger/reviews)
+- [Jeep Avenger full beskrivelse](avenger/)
+- [Jeep Avenger rekkevidde & forbruk](avenger/rangeandconsumption)
+- [Jeep Avenger ladekurve og ladeytelse](avenger/chargingcurve)
+- [Jeep Avenger spesifikasjoners](avenger/specifications)
+- [Jeep Avenger galleri](avenger/gallery)
+- [Jeep Avenger tester](avenger/reviews)
 

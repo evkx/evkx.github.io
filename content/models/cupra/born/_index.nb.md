@@ -1,7 +1,7 @@
 ---
 title: CUPRA BORN
 linktitle: "BORN"
-description: "See below for details of the different variants of CUPRA BORN"
+description: "Se nedenfor for alle varianter av CUPRA BORN"
 weight: 30
 ---
 ### CUPRA BORN 58
@@ -10,12 +10,12 @@ weight: 30
 
 CUPRA BORN 58 er en helelektrisk kombi med en WLTP rekkevidde på opptil 424 km (264 miles). EVKX.net har alle detaljene. 
 
-- [CUPRA BORN 58 article](born_58/)
-- [CUPRA BORN 58 Range & consumption info](born_58/rangeandconsumption)
-- [CUPRA BORN 58 Charging curve and performance](born_58/chargingcurve)
-- [CUPRA BORN 58 full specifications](born_58/specifications)
-- [CUPRA BORN 58 image gallery](born_58/gallery)
-- [CUPRA BORN 58 reviews](born_58/reviews)
+- [CUPRA BORN 58 full beskrivelse](born_58/)
+- [CUPRA BORN 58 rekkevidde & forbruk](born_58/rangeandconsumption)
+- [CUPRA BORN 58 ladekurve og ladeytelse](born_58/chargingcurve)
+- [CUPRA BORN 58 spesifikasjoners](born_58/specifications)
+- [CUPRA BORN 58 galleri](born_58/gallery)
+- [CUPRA BORN 58 tester](born_58/reviews)
 
 ### CUPRA BORN 58 e-BOOST
 
@@ -23,12 +23,12 @@ CUPRA BORN 58 er en helelektrisk kombi med en WLTP rekkevidde på opptil 424 km 
 
 CUPRA BORN 58 e-BOOST er en helelektrisk kombi med en WLTP rekkevidde på opptil 420 km (261 miles). EVKX.net har alle detaljene. 
 
-- [CUPRA BORN 58 e-BOOST article](born_58_e-boost/)
-- [CUPRA BORN 58 e-BOOST Range & consumption info](born_58_e-boost/rangeandconsumption)
-- [CUPRA BORN 58 e-BOOST Charging curve and performance](born_58_e-boost/chargingcurve)
-- [CUPRA BORN 58 e-BOOST full specifications](born_58_e-boost/specifications)
-- [CUPRA BORN 58 e-BOOST image gallery](born_58_e-boost/gallery)
-- [CUPRA BORN 58 e-BOOST reviews](born_58_e-boost/reviews)
+- [CUPRA BORN 58 e-BOOST full beskrivelse](born_58_e-boost/)
+- [CUPRA BORN 58 e-BOOST rekkevidde & forbruk](born_58_e-boost/rangeandconsumption)
+- [CUPRA BORN 58 e-BOOST ladekurve og ladeytelse](born_58_e-boost/chargingcurve)
+- [CUPRA BORN 58 e-BOOST spesifikasjoners](born_58_e-boost/specifications)
+- [CUPRA BORN 58 e-BOOST galleri](born_58_e-boost/gallery)
+- [CUPRA BORN 58 e-BOOST tester](born_58_e-boost/reviews)
 
 ### CUPRA BORN 77 e-BOOST
 
@@ -36,10 +36,10 @@ CUPRA BORN 58 e-BOOST er en helelektrisk kombi med en WLTP rekkevidde på opptil
 
 CUPRA BORN 77 e-BOOST er en helelektrisk kombi med en WLTP rekkevidde på opptil 548 km (341 miles). EVKX.net har alle detaljene. 
 
-- [CUPRA BORN 77 e-BOOST article](born_77_e-boost/)
-- [CUPRA BORN 77 e-BOOST Range & consumption info](born_77_e-boost/rangeandconsumption)
-- [CUPRA BORN 77 e-BOOST Charging curve and performance](born_77_e-boost/chargingcurve)
-- [CUPRA BORN 77 e-BOOST full specifications](born_77_e-boost/specifications)
-- [CUPRA BORN 77 e-BOOST image gallery](born_77_e-boost/gallery)
-- [CUPRA BORN 77 e-BOOST reviews](born_77_e-boost/reviews)
+- [CUPRA BORN 77 e-BOOST full beskrivelse](born_77_e-boost/)
+- [CUPRA BORN 77 e-BOOST rekkevidde & forbruk](born_77_e-boost/rangeandconsumption)
+- [CUPRA BORN 77 e-BOOST ladekurve og ladeytelse](born_77_e-boost/chargingcurve)
+- [CUPRA BORN 77 e-BOOST spesifikasjoners](born_77_e-boost/specifications)
+- [CUPRA BORN 77 e-BOOST galleri](born_77_e-boost/gallery)
+- [CUPRA BORN 77 e-BOOST tester](born_77_e-boost/reviews)
 

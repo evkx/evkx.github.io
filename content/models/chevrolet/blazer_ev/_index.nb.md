@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Blazer EV
 linktitle: "Blazer EV"
-description: "See below for details of the different variants of Chevrolet Blazer EV"
+description: "Se nedenfor for alle varianter av Chevrolet Blazer EV"
 weight: 30
 ---
 ### Chevrolet Blazer EV RS AWD
@@ -10,12 +10,12 @@ weight: 30
 
 Chevrolet Blazer EV RS AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 449 km (279 miles). EVKX.net har alle detaljene. 
 
-- [Chevrolet Blazer EV RS AWD article](blazer_ev_rs_awd/)
-- [Chevrolet Blazer EV RS AWD Range & consumption info](blazer_ev_rs_awd/rangeandconsumption)
-- [Chevrolet Blazer EV RS AWD Charging curve and performance](blazer_ev_rs_awd/chargingcurve)
-- [Chevrolet Blazer EV RS AWD full specifications](blazer_ev_rs_awd/specifications)
-- [Chevrolet Blazer EV RS AWD image gallery](blazer_ev_rs_awd/gallery)
-- [Chevrolet Blazer EV RS AWD reviews](blazer_ev_rs_awd/reviews)
+- [Chevrolet Blazer EV RS AWD full beskrivelse](blazer_ev_rs_awd/)
+- [Chevrolet Blazer EV RS AWD rekkevidde & forbruk](blazer_ev_rs_awd/rangeandconsumption)
+- [Chevrolet Blazer EV RS AWD ladekurve og ladeytelse](blazer_ev_rs_awd/chargingcurve)
+- [Chevrolet Blazer EV RS AWD spesifikasjoners](blazer_ev_rs_awd/specifications)
+- [Chevrolet Blazer EV RS AWD galleri](blazer_ev_rs_awd/gallery)
+- [Chevrolet Blazer EV RS AWD tester](blazer_ev_rs_awd/reviews)
 
 ### Chevrolet Blazer EV SS
 
@@ -23,10 +23,10 @@ Chevrolet Blazer EV RS AWD er en helelektrisk SUV med en EPA rekkevidde på oppt
 
 Chevrolet Blazer EV SS er en helelektrisk SUV med en EPA rekkevidde på opptil 467 km (290 miles). EVKX.net har alle detaljene. 
 
-- [Chevrolet Blazer EV SS article](blazer_ev_ss/)
-- [Chevrolet Blazer EV SS Range & consumption info](blazer_ev_ss/rangeandconsumption)
-- [Chevrolet Blazer EV SS Charging curve and performance](blazer_ev_ss/chargingcurve)
-- [Chevrolet Blazer EV SS full specifications](blazer_ev_ss/specifications)
-- [Chevrolet Blazer EV SS image gallery](blazer_ev_ss/gallery)
-- [Chevrolet Blazer EV SS reviews](blazer_ev_ss/reviews)
+- [Chevrolet Blazer EV SS full beskrivelse](blazer_ev_ss/)
+- [Chevrolet Blazer EV SS rekkevidde & forbruk](blazer_ev_ss/rangeandconsumption)
+- [Chevrolet Blazer EV SS ladekurve og ladeytelse](blazer_ev_ss/chargingcurve)
+- [Chevrolet Blazer EV SS spesifikasjoners](blazer_ev_ss/specifications)
+- [Chevrolet Blazer EV SS galleri](blazer_ev_ss/gallery)
+- [Chevrolet Blazer EV SS tester](blazer_ev_ss/reviews)
 

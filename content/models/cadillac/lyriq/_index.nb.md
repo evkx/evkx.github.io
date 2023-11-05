@@ -1,7 +1,7 @@
 ---
 title: Cadillac LYRIQ
 linktitle: "LYRIQ"
-description: "See below for details of the different variants of Cadillac LYRIQ"
+description: "Se nedenfor for alle varianter av Cadillac LYRIQ"
 weight: 30
 ---
 ### Cadillac LYRIQ AWD
@@ -10,12 +10,12 @@ weight: 30
 
 Cadillac LYRIQ AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 494 km (307 miles). EVKX.net har alle detaljene. 
 
-- [Cadillac LYRIQ AWD article](lyriq_awd/)
-- [Cadillac LYRIQ AWD Range & consumption info](lyriq_awd/rangeandconsumption)
-- [Cadillac LYRIQ AWD Charging curve and performance](lyriq_awd/chargingcurve)
-- [Cadillac LYRIQ AWD full specifications](lyriq_awd/specifications)
-- [Cadillac LYRIQ AWD image gallery](lyriq_awd/gallery)
-- [Cadillac LYRIQ AWD reviews](lyriq_awd/reviews)
+- [Cadillac LYRIQ AWD full beskrivelse](lyriq_awd/)
+- [Cadillac LYRIQ AWD rekkevidde & forbruk](lyriq_awd/rangeandconsumption)
+- [Cadillac LYRIQ AWD ladekurve og ladeytelse](lyriq_awd/chargingcurve)
+- [Cadillac LYRIQ AWD spesifikasjoners](lyriq_awd/specifications)
+- [Cadillac LYRIQ AWD galleri](lyriq_awd/gallery)
+- [Cadillac LYRIQ AWD tester](lyriq_awd/reviews)
 
 ### Cadillac LYRIQ RWD
 
@@ -23,10 +23,10 @@ Cadillac LYRIQ AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 494 k
 
 Cadillac LYRIQ RWD er en helelektrisk SUV med en EPA rekkevidde på opptil 502 km (312 miles). EVKX.net har alle detaljene. 
 
-- [Cadillac LYRIQ RWD article](lyriq_rwd/)
-- [Cadillac LYRIQ RWD Range & consumption info](lyriq_rwd/rangeandconsumption)
-- [Cadillac LYRIQ RWD Charging curve and performance](lyriq_rwd/chargingcurve)
-- [Cadillac LYRIQ RWD full specifications](lyriq_rwd/specifications)
-- [Cadillac LYRIQ RWD image gallery](lyriq_rwd/gallery)
-- [Cadillac LYRIQ RWD reviews](lyriq_rwd/reviews)
+- [Cadillac LYRIQ RWD full beskrivelse](lyriq_rwd/)
+- [Cadillac LYRIQ RWD rekkevidde & forbruk](lyriq_rwd/rangeandconsumption)
+- [Cadillac LYRIQ RWD ladekurve og ladeytelse](lyriq_rwd/chargingcurve)
+- [Cadillac LYRIQ RWD spesifikasjoners](lyriq_rwd/specifications)
+- [Cadillac LYRIQ RWD galleri](lyriq_rwd/gallery)
+- [Cadillac LYRIQ RWD tester](lyriq_rwd/reviews)
 

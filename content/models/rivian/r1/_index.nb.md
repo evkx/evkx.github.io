@@ -1,7 +1,7 @@
 ---
 title: Rivian R1
 linktitle: "R1"
-description: "See below for details of the different variants of Rivian R1"
+description: "Se nedenfor for alle varianter av Rivian R1"
 weight: 30
 ---
 ### Rivian R1S Performance Dual-Motor AWD LP
@@ -10,12 +10,12 @@ weight: 30
 
 Rivian R1S Performance Dual-Motor AWD LP er en helelektrisk SUV med en EPA rekkevidde på opptil 515 km (320 miles). EVKX.net har alle detaljene. 
 
-- [Rivian R1S Performance Dual-Motor AWD LP article](r1s_performance_dual-motor_awd_lp/)
-- [Rivian R1S Performance Dual-Motor AWD LP Range & consumption info](r1s_performance_dual-motor_awd_lp/rangeandconsumption)
-- [Rivian R1S Performance Dual-Motor AWD LP Charging curve and performance](r1s_performance_dual-motor_awd_lp/chargingcurve)
-- [Rivian R1S Performance Dual-Motor AWD LP full specifications](r1s_performance_dual-motor_awd_lp/specifications)
-- [Rivian R1S Performance Dual-Motor AWD LP image gallery](r1s_performance_dual-motor_awd_lp/gallery)
-- [Rivian R1S Performance Dual-Motor AWD LP reviews](r1s_performance_dual-motor_awd_lp/reviews)
+- [Rivian R1S Performance Dual-Motor AWD LP full beskrivelse](r1s_performance_dual-motor_awd_lp/)
+- [Rivian R1S Performance Dual-Motor AWD LP rekkevidde & forbruk](r1s_performance_dual-motor_awd_lp/rangeandconsumption)
+- [Rivian R1S Performance Dual-Motor AWD LP ladekurve og ladeytelse](r1s_performance_dual-motor_awd_lp/chargingcurve)
+- [Rivian R1S Performance Dual-Motor AWD LP spesifikasjoners](r1s_performance_dual-motor_awd_lp/specifications)
+- [Rivian R1S Performance Dual-Motor AWD LP galleri](r1s_performance_dual-motor_awd_lp/gallery)
+- [Rivian R1S Performance Dual-Motor AWD LP tester](r1s_performance_dual-motor_awd_lp/reviews)
 
 ### Rivian R1S Performance Dual-Motor AWD MP
 
@@ -23,12 +23,12 @@ Rivian R1S Performance Dual-Motor AWD LP er en helelektrisk SUV med en EPA rekke
 
 Rivian R1S Performance Dual-Motor AWD MP er en helelektrisk SUV med en EPA rekkevidde på opptil 660 km (410 miles). EVKX.net har alle detaljene. 
 
-- [Rivian R1S Performance Dual-Motor AWD MP article](r1s_performance_dual-motor_awd_mp/)
-- [Rivian R1S Performance Dual-Motor AWD MP Range & consumption info](r1s_performance_dual-motor_awd_mp/rangeandconsumption)
-- [Rivian R1S Performance Dual-Motor AWD MP Charging curve and performance](r1s_performance_dual-motor_awd_mp/chargingcurve)
-- [Rivian R1S Performance Dual-Motor AWD MP full specifications](r1s_performance_dual-motor_awd_mp/specifications)
-- [Rivian R1S Performance Dual-Motor AWD MP image gallery](r1s_performance_dual-motor_awd_mp/gallery)
-- [Rivian R1S Performance Dual-Motor AWD MP reviews](r1s_performance_dual-motor_awd_mp/reviews)
+- [Rivian R1S Performance Dual-Motor AWD MP full beskrivelse](r1s_performance_dual-motor_awd_mp/)
+- [Rivian R1S Performance Dual-Motor AWD MP rekkevidde & forbruk](r1s_performance_dual-motor_awd_mp/rangeandconsumption)
+- [Rivian R1S Performance Dual-Motor AWD MP ladekurve og ladeytelse](r1s_performance_dual-motor_awd_mp/chargingcurve)
+- [Rivian R1S Performance Dual-Motor AWD MP spesifikasjoners](r1s_performance_dual-motor_awd_mp/specifications)
+- [Rivian R1S Performance Dual-Motor AWD MP galleri](r1s_performance_dual-motor_awd_mp/gallery)
+- [Rivian R1S Performance Dual-Motor AWD MP tester](r1s_performance_dual-motor_awd_mp/reviews)
 
 ### Rivian R1S Quad-Motor AWD
 
@@ -36,12 +36,12 @@ Rivian R1S Performance Dual-Motor AWD MP er en helelektrisk SUV med en EPA rekke
 
 Rivian R1S Quad-Motor AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 516 km (321 miles). EVKX.net har alle detaljene. 
 
-- [Rivian R1S Quad-Motor AWD article](r1s_quad-motor_awd/)
-- [Rivian R1S Quad-Motor AWD Range & consumption info](r1s_quad-motor_awd/rangeandconsumption)
-- [Rivian R1S Quad-Motor AWD Charging curve and performance](r1s_quad-motor_awd/chargingcurve)
-- [Rivian R1S Quad-Motor AWD full specifications](r1s_quad-motor_awd/specifications)
-- [Rivian R1S Quad-Motor AWD image gallery](r1s_quad-motor_awd/gallery)
-- [Rivian R1S Quad-Motor AWD reviews](r1s_quad-motor_awd/reviews)
+- [Rivian R1S Quad-Motor AWD full beskrivelse](r1s_quad-motor_awd/)
+- [Rivian R1S Quad-Motor AWD rekkevidde & forbruk](r1s_quad-motor_awd/rangeandconsumption)
+- [Rivian R1S Quad-Motor AWD ladekurve og ladeytelse](r1s_quad-motor_awd/chargingcurve)
+- [Rivian R1S Quad-Motor AWD spesifikasjoners](r1s_quad-motor_awd/specifications)
+- [Rivian R1S Quad-Motor AWD galleri](r1s_quad-motor_awd/gallery)
+- [Rivian R1S Quad-Motor AWD tester](r1s_quad-motor_awd/reviews)
 
 ### Rivian R1T Performance Dual-Motor AWD LP
 
@@ -49,12 +49,12 @@ Rivian R1S Quad-Motor AWD er en helelektrisk SUV med en EPA rekkevidde på oppti
 
 Rivian R1T Performance Dual-Motor AWD LP er en helelektrisk pickup med en EPA rekkevidde på opptil 566 km (352 miles). EVKX.net har alle detaljene. 
 
-- [Rivian R1T Performance Dual-Motor AWD LP article](r1t_performance_dual-motor_awd_lp/)
-- [Rivian R1T Performance Dual-Motor AWD LP Range & consumption info](r1t_performance_dual-motor_awd_lp/rangeandconsumption)
-- [Rivian R1T Performance Dual-Motor AWD LP Charging curve and performance](r1t_performance_dual-motor_awd_lp/chargingcurve)
-- [Rivian R1T Performance Dual-Motor AWD LP full specifications](r1t_performance_dual-motor_awd_lp/specifications)
-- [Rivian R1T Performance Dual-Motor AWD LP image gallery](r1t_performance_dual-motor_awd_lp/gallery)
-- [Rivian R1T Performance Dual-Motor AWD LP reviews](r1t_performance_dual-motor_awd_lp/reviews)
+- [Rivian R1T Performance Dual-Motor AWD LP full beskrivelse](r1t_performance_dual-motor_awd_lp/)
+- [Rivian R1T Performance Dual-Motor AWD LP rekkevidde & forbruk](r1t_performance_dual-motor_awd_lp/rangeandconsumption)
+- [Rivian R1T Performance Dual-Motor AWD LP ladekurve og ladeytelse](r1t_performance_dual-motor_awd_lp/chargingcurve)
+- [Rivian R1T Performance Dual-Motor AWD LP spesifikasjoners](r1t_performance_dual-motor_awd_lp/specifications)
+- [Rivian R1T Performance Dual-Motor AWD LP galleri](r1t_performance_dual-motor_awd_lp/gallery)
+- [Rivian R1T Performance Dual-Motor AWD LP tester](r1t_performance_dual-motor_awd_lp/reviews)
 
 ### Rivian R1T Performance Dual-Motor AWD MP
 
@@ -62,12 +62,12 @@ Rivian R1T Performance Dual-Motor AWD LP er en helelektrisk pickup med en EPA re
 
 Rivian R1T Performance Dual-Motor AWD MP er en helelektrisk pickup med en EPA rekkevidde på opptil 660 km (410 miles). EVKX.net har alle detaljene. 
 
-- [Rivian R1T Performance Dual-Motor AWD MP article](r1t_performance_dual-motor_awd_mp/)
-- [Rivian R1T Performance Dual-Motor AWD MP Range & consumption info](r1t_performance_dual-motor_awd_mp/rangeandconsumption)
-- [Rivian R1T Performance Dual-Motor AWD MP Charging curve and performance](r1t_performance_dual-motor_awd_mp/chargingcurve)
-- [Rivian R1T Performance Dual-Motor AWD MP full specifications](r1t_performance_dual-motor_awd_mp/specifications)
-- [Rivian R1T Performance Dual-Motor AWD MP image gallery](r1t_performance_dual-motor_awd_mp/gallery)
-- [Rivian R1T Performance Dual-Motor AWD MP reviews](r1t_performance_dual-motor_awd_mp/reviews)
+- [Rivian R1T Performance Dual-Motor AWD MP full beskrivelse](r1t_performance_dual-motor_awd_mp/)
+- [Rivian R1T Performance Dual-Motor AWD MP rekkevidde & forbruk](r1t_performance_dual-motor_awd_mp/rangeandconsumption)
+- [Rivian R1T Performance Dual-Motor AWD MP ladekurve og ladeytelse](r1t_performance_dual-motor_awd_mp/chargingcurve)
+- [Rivian R1T Performance Dual-Motor AWD MP spesifikasjoners](r1t_performance_dual-motor_awd_mp/specifications)
+- [Rivian R1T Performance Dual-Motor AWD MP galleri](r1t_performance_dual-motor_awd_mp/gallery)
+- [Rivian R1T Performance Dual-Motor AWD MP tester](r1t_performance_dual-motor_awd_mp/reviews)
 
 ### Rivian R1T Quad-Motor AWD
 
@@ -75,10 +75,10 @@ Rivian R1T Performance Dual-Motor AWD MP er en helelektrisk pickup med en EPA re
 
 Rivian R1T Quad-Motor AWD er en helelektrisk pickup med en EPA rekkevidde på opptil 516 km (321 miles). EVKX.net har alle detaljene. 
 
-- [Rivian R1T Quad-Motor AWD article](r1t_quad-motor_awd/)
-- [Rivian R1T Quad-Motor AWD Range & consumption info](r1t_quad-motor_awd/rangeandconsumption)
-- [Rivian R1T Quad-Motor AWD Charging curve and performance](r1t_quad-motor_awd/chargingcurve)
-- [Rivian R1T Quad-Motor AWD full specifications](r1t_quad-motor_awd/specifications)
-- [Rivian R1T Quad-Motor AWD image gallery](r1t_quad-motor_awd/gallery)
-- [Rivian R1T Quad-Motor AWD reviews](r1t_quad-motor_awd/reviews)
+- [Rivian R1T Quad-Motor AWD full beskrivelse](r1t_quad-motor_awd/)
+- [Rivian R1T Quad-Motor AWD rekkevidde & forbruk](r1t_quad-motor_awd/rangeandconsumption)
+- [Rivian R1T Quad-Motor AWD ladekurve og ladeytelse](r1t_quad-motor_awd/chargingcurve)
+- [Rivian R1T Quad-Motor AWD spesifikasjoners](r1t_quad-motor_awd/specifications)
+- [Rivian R1T Quad-Motor AWD galleri](r1t_quad-motor_awd/gallery)
+- [Rivian R1T Quad-Motor AWD tester](r1t_quad-motor_awd/reviews)
 

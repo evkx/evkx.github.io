@@ -1,7 +1,7 @@
 ---
 title: Fiat 600e
 linktitle: "600e"
-description: "See below for details of the different variants of Fiat 600e"
+description: "Se nedenfor for alle varianter av Fiat 600e"
 weight: 30
 ---
 ### Fiat 600e
@@ -10,10 +10,10 @@ weight: 30
 
 Fiat 600e er en helelektrisk delefilter med en WLTP rekkevidde på opptil 409 km (254 miles). EVKX.net har alle detaljene. 
 
-- [Fiat 600e article](600e/)
-- [Fiat 600e Range & consumption info](600e/rangeandconsumption)
-- [Fiat 600e Charging curve and performance](600e/chargingcurve)
-- [Fiat 600e full specifications](600e/specifications)
-- [Fiat 600e image gallery](600e/gallery)
-- [Fiat 600e reviews](600e/reviews)
+- [Fiat 600e full beskrivelse](600e/)
+- [Fiat 600e rekkevidde & forbruk](600e/rangeandconsumption)
+- [Fiat 600e ladekurve og ladeytelse](600e/chargingcurve)
+- [Fiat 600e spesifikasjoners](600e/specifications)
+- [Fiat 600e galleri](600e/gallery)
+- [Fiat 600e tester](600e/reviews)
 

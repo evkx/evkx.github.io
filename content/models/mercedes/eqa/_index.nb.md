@@ -1,7 +1,7 @@
 ---
 title: Mercedes EQA
 linktitle: "EQA"
-description: "See below for details of the different variants of Mercedes EQA"
+description: "Se nedenfor for alle varianter av Mercedes EQA"
 weight: 30
 ---
 ### Mercedes-EQ EQA 250
@@ -10,12 +10,12 @@ weight: 30
 
 Mercedes-EQ EQA 250 er en helelektrisk premium crossover med en WLTP rekkevidde på opptil 438 km (272 miles). EVKX.net har alle detaljene. 
 
-- [Mercedes-EQ EQA 250 article](eqa_250/)
-- [Mercedes-EQ EQA 250 Range & consumption info](eqa_250/rangeandconsumption)
-- [Mercedes-EQ EQA 250 Charging curve and performance](eqa_250/chargingcurve)
-- [Mercedes-EQ EQA 250 full specifications](eqa_250/specifications)
-- [Mercedes-EQ EQA 250 image gallery](eqa_250/gallery)
-- [Mercedes-EQ EQA 250 reviews](eqa_250/reviews)
+- [Mercedes-EQ EQA 250 full beskrivelse](eqa_250/)
+- [Mercedes-EQ EQA 250 rekkevidde & forbruk](eqa_250/rangeandconsumption)
+- [Mercedes-EQ EQA 250 ladekurve og ladeytelse](eqa_250/chargingcurve)
+- [Mercedes-EQ EQA 250 spesifikasjoners](eqa_250/specifications)
+- [Mercedes-EQ EQA 250 galleri](eqa_250/gallery)
+- [Mercedes-EQ EQA 250 tester](eqa_250/reviews)
 
 ### Mercedes-EQ EQA 300 4MATIC
 
@@ -23,12 +23,12 @@ Mercedes-EQ EQA 250 er en helelektrisk premium crossover med en WLTP rekkevidde 
 
 Mercedes-EQ EQA 300 4MATIC er en helelektrisk premium crossover med en WLTP rekkevidde på opptil 438 km (272 miles). EVKX.net har alle detaljene. 
 
-- [Mercedes-EQ EQA 300 4MATIC article](eqa_300_4matic/)
-- [Mercedes-EQ EQA 300 4MATIC Range & consumption info](eqa_300_4matic/rangeandconsumption)
-- [Mercedes-EQ EQA 300 4MATIC Charging curve and performance](eqa_300_4matic/chargingcurve)
-- [Mercedes-EQ EQA 300 4MATIC full specifications](eqa_300_4matic/specifications)
-- [Mercedes-EQ EQA 300 4MATIC image gallery](eqa_300_4matic/gallery)
-- [Mercedes-EQ EQA 300 4MATIC reviews](eqa_300_4matic/reviews)
+- [Mercedes-EQ EQA 300 4MATIC full beskrivelse](eqa_300_4matic/)
+- [Mercedes-EQ EQA 300 4MATIC rekkevidde & forbruk](eqa_300_4matic/rangeandconsumption)
+- [Mercedes-EQ EQA 300 4MATIC ladekurve og ladeytelse](eqa_300_4matic/chargingcurve)
+- [Mercedes-EQ EQA 300 4MATIC spesifikasjoners](eqa_300_4matic/specifications)
+- [Mercedes-EQ EQA 300 4MATIC galleri](eqa_300_4matic/gallery)
+- [Mercedes-EQ EQA 300 4MATIC tester](eqa_300_4matic/reviews)
 
 ### Mercedes-EQ EQA 350 4MATIC
 
@@ -36,10 +36,10 @@ Mercedes-EQ EQA 300 4MATIC er en helelektrisk premium crossover med en WLTP rekk
 
 Mercedes-EQ EQA 350 4MATIC er en helelektrisk premium crossover med en WLTP rekkevidde på opptil 438 km (272 miles). EVKX.net har alle detaljene. 
 
-- [Mercedes-EQ EQA 350 4MATIC article](eqa_350_4matic/)
-- [Mercedes-EQ EQA 350 4MATIC Range & consumption info](eqa_350_4matic/rangeandconsumption)
-- [Mercedes-EQ EQA 350 4MATIC Charging curve and performance](eqa_350_4matic/chargingcurve)
-- [Mercedes-EQ EQA 350 4MATIC full specifications](eqa_350_4matic/specifications)
-- [Mercedes-EQ EQA 350 4MATIC image gallery](eqa_350_4matic/gallery)
-- [Mercedes-EQ EQA 350 4MATIC reviews](eqa_350_4matic/reviews)
+- [Mercedes-EQ EQA 350 4MATIC full beskrivelse](eqa_350_4matic/)
+- [Mercedes-EQ EQA 350 4MATIC rekkevidde & forbruk](eqa_350_4matic/rangeandconsumption)
+- [Mercedes-EQ EQA 350 4MATIC ladekurve og ladeytelse](eqa_350_4matic/chargingcurve)
+- [Mercedes-EQ EQA 350 4MATIC spesifikasjoners](eqa_350_4matic/specifications)
+- [Mercedes-EQ EQA 350 4MATIC galleri](eqa_350_4matic/gallery)
+- [Mercedes-EQ EQA 350 4MATIC tester](eqa_350_4matic/reviews)
 

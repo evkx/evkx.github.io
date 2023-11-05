@@ -1,7 +1,7 @@
 ---
 title: Peugot 208
 linktitle: "208"
-description: "See below for details of the different variants of Peugot 208"
+description: "Se nedenfor for alle varianter av Peugot 208"
 weight: 30
 ---
 ### Peugot E-208
@@ -10,10 +10,10 @@ weight: 30
 
 Peugot E-208 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 400 km (249 miles). EVKX.net har alle detaljene. 
 
-- [Peugot E-208 article](e-208/)
-- [Peugot E-208 Range & consumption info](e-208/rangeandconsumption)
-- [Peugot E-208 Charging curve and performance](e-208/chargingcurve)
-- [Peugot E-208 full specifications](e-208/specifications)
-- [Peugot E-208 image gallery](e-208/gallery)
-- [Peugot E-208 reviews](e-208/reviews)
+- [Peugot E-208 full beskrivelse](e-208/)
+- [Peugot E-208 rekkevidde & forbruk](e-208/rangeandconsumption)
+- [Peugot E-208 ladekurve og ladeytelse](e-208/chargingcurve)
+- [Peugot E-208 spesifikasjoners](e-208/specifications)
+- [Peugot E-208 galleri](e-208/gallery)
+- [Peugot E-208 tester](e-208/reviews)
 

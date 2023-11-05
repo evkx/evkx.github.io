@@ -1,7 +1,7 @@
 ---
 title: Nio EL6
 linktitle: "EL6"
-description: "See below for details of the different variants of Nio EL6"
+description: "Se nedenfor for alle varianter av Nio EL6"
 weight: 30
 ---
 ### Nio EL6
@@ -10,10 +10,10 @@ weight: 30
 
 Nio EL6 er en helelektrisk SUV med en WLTP rekkevidde på opptil 513 km (319 miles). EVKX.net har alle detaljene. 
 
-- [Nio EL6 article](el6/)
-- [Nio EL6 Range & consumption info](el6/rangeandconsumption)
-- [Nio EL6 Charging curve and performance](el6/chargingcurve)
-- [Nio EL6 full specifications](el6/specifications)
-- [Nio EL6 image gallery](el6/gallery)
-- [Nio EL6 reviews](el6/reviews)
+- [Nio EL6 full beskrivelse](el6/)
+- [Nio EL6 rekkevidde & forbruk](el6/rangeandconsumption)
+- [Nio EL6 ladekurve og ladeytelse](el6/chargingcurve)
+- [Nio EL6 spesifikasjoners](el6/specifications)
+- [Nio EL6 galleri](el6/gallery)
+- [Nio EL6 tester](el6/reviews)
 

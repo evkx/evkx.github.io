@@ -1,7 +1,7 @@
 ---
 title: Smart #3
 linktitle: "#3"
-description: "See below for details of the different variants of Smart #3"
+description: "Se nedenfor for alle varianter av Smart #3"
 weight: 30
 ---
 ### Smart #3 Brabus
@@ -10,10 +10,10 @@ weight: 30
 
 Smart #3 Brabus er en helelektrisk delefilter med en WLTP rekkevidde på opptil 415 km (258 miles). EVKX.net har alle detaljene. 
 
-- [Smart #3 Brabus article](hash3_brabus/)
-- [Smart #3 Brabus Range & consumption info](hash3_brabus/rangeandconsumption)
-- [Smart #3 Brabus Charging curve and performance](hash3_brabus/chargingcurve)
-- [Smart #3 Brabus full specifications](hash3_brabus/specifications)
-- [Smart #3 Brabus image gallery](hash3_brabus/gallery)
-- [Smart #3 Brabus reviews](hash3_brabus/reviews)
+- [Smart #3 Brabus full beskrivelse](hash3_brabus/)
+- [Smart #3 Brabus rekkevidde & forbruk](hash3_brabus/rangeandconsumption)
+- [Smart #3 Brabus ladekurve og ladeytelse](hash3_brabus/chargingcurve)
+- [Smart #3 Brabus spesifikasjoners](hash3_brabus/specifications)
+- [Smart #3 Brabus galleri](hash3_brabus/gallery)
+- [Smart #3 Brabus tester](hash3_brabus/reviews)
 

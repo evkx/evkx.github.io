@@ -10,10 +10,10 @@ weight: 30
 
 BYD Dolphin 60.4kWh is an all-electric crossover with a WLTP range of up to 427 km (265 miles). EVKX.net has all the details. 
 
-- [BYD Dolphin 60.4kWh article](dolphin_60.4kwh/)
-- [BYD Dolphin 60.4kWh Range & consumption info](dolphin_60.4kwh/rangeandconsumption)
-- [BYD Dolphin 60.4kWh Charging curve and performance](dolphin_60.4kwh/chargingcurve)
-- [BYD Dolphin 60.4kWh full specifications](dolphin_60.4kwh/specifications)
-- [BYD Dolphin 60.4kWh image gallery](dolphin_60.4kwh/gallery)
+- [BYD Dolphin 60.4kWh full article](dolphin_60.4kwh/)
+- [BYD Dolphin 60.4kWh range & consumption](dolphin_60.4kwh/rangeandconsumption)
+- [BYD Dolphin 60.4kWh charging curve & performance](dolphin_60.4kwh/chargingcurve)
+- [BYD Dolphin 60.4kWh full specificationss](dolphin_60.4kwh/specifications)
+- [BYD Dolphin 60.4kWh gallery](dolphin_60.4kwh/gallery)
 - [BYD Dolphin 60.4kWh reviews](dolphin_60.4kwh/reviews)
 

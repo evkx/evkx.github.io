@@ -1,7 +1,7 @@
 ---
 title: Ford F150 Lightning
 linktitle: "F150 Lightning"
-description: "See below for details of the different variants of Ford F150 Lightning"
+description: "Se nedenfor for alle varianter av Ford F150 Lightning"
 weight: 30
 ---
 ### Ford F150 Lightning Extended Range
@@ -10,10 +10,10 @@ weight: 30
 
 Ford F150 Lightning Extended Range er en helelektrisk pickup med en EPA rekkevidde på opptil 515 km (320 miles). EVKX.net har alle detaljene. 
 
-- [Ford F150 Lightning Extended Range article](f150_lightning_extended_range/)
-- [Ford F150 Lightning Extended Range Range & consumption info](f150_lightning_extended_range/rangeandconsumption)
-- [Ford F150 Lightning Extended Range Charging curve and performance](f150_lightning_extended_range/chargingcurve)
-- [Ford F150 Lightning Extended Range full specifications](f150_lightning_extended_range/specifications)
-- [Ford F150 Lightning Extended Range image gallery](f150_lightning_extended_range/gallery)
-- [Ford F150 Lightning Extended Range reviews](f150_lightning_extended_range/reviews)
+- [Ford F150 Lightning Extended Range full beskrivelse](f150_lightning_extended_range/)
+- [Ford F150 Lightning Extended Range rekkevidde & forbruk](f150_lightning_extended_range/rangeandconsumption)
+- [Ford F150 Lightning Extended Range ladekurve og ladeytelse](f150_lightning_extended_range/chargingcurve)
+- [Ford F150 Lightning Extended Range spesifikasjoners](f150_lightning_extended_range/specifications)
+- [Ford F150 Lightning Extended Range galleri](f150_lightning_extended_range/gallery)
+- [Ford F150 Lightning Extended Range tester](f150_lightning_extended_range/reviews)
 

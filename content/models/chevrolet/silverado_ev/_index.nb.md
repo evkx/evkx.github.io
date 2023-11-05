@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Silverado EV
 linktitle: "Silverado EV"
-description: "See below for details of the different variants of Chevrolet Silverado EV"
+description: "Se nedenfor for alle varianter av Chevrolet Silverado EV"
 weight: 30
 ---
 ### Chevrolet Silverado EV 4WT
@@ -10,10 +10,10 @@ weight: 30
 
 Chevrolet Silverado EV 4WT er en helelektrisk pickup med en EPA rekkevidde på opptil 724 km (450 miles). EVKX.net har alle detaljene. 
 
-- [Chevrolet Silverado EV 4WT article](silverado_ev_4wt/)
-- [Chevrolet Silverado EV 4WT Range & consumption info](silverado_ev_4wt/rangeandconsumption)
-- [Chevrolet Silverado EV 4WT Charging curve and performance](silverado_ev_4wt/chargingcurve)
-- [Chevrolet Silverado EV 4WT full specifications](silverado_ev_4wt/specifications)
-- [Chevrolet Silverado EV 4WT image gallery](silverado_ev_4wt/gallery)
-- [Chevrolet Silverado EV 4WT reviews](silverado_ev_4wt/reviews)
+- [Chevrolet Silverado EV 4WT full beskrivelse](silverado_ev_4wt/)
+- [Chevrolet Silverado EV 4WT rekkevidde & forbruk](silverado_ev_4wt/rangeandconsumption)
+- [Chevrolet Silverado EV 4WT ladekurve og ladeytelse](silverado_ev_4wt/chargingcurve)
+- [Chevrolet Silverado EV 4WT spesifikasjoners](silverado_ev_4wt/specifications)
+- [Chevrolet Silverado EV 4WT galleri](silverado_ev_4wt/gallery)
+- [Chevrolet Silverado EV 4WT tester](silverado_ev_4wt/reviews)
 

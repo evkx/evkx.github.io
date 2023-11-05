@@ -1,7 +1,7 @@
 ---
 title: XPENG G9
 linktitle: "G9"
-description: "See below for details of the different variants of XPENG G9"
+description: "Se nedenfor for alle varianter av XPENG G9"
 weight: 30
 ---
 ### XPENG G9 AWD Performance
@@ -10,12 +10,12 @@ weight: 30
 
 XPENG G9 AWD Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 520 km (323 miles). EVKX.net har alle detaljene. 
 
-- [XPENG G9 AWD Performance article](g9_awd_performance/)
-- [XPENG G9 AWD Performance Range & consumption info](g9_awd_performance/rangeandconsumption)
-- [XPENG G9 AWD Performance Charging curve and performance](g9_awd_performance/chargingcurve)
-- [XPENG G9 AWD Performance full specifications](g9_awd_performance/specifications)
-- [XPENG G9 AWD Performance image gallery](g9_awd_performance/gallery)
-- [XPENG G9 AWD Performance reviews](g9_awd_performance/reviews)
+- [XPENG G9 AWD Performance full beskrivelse](g9_awd_performance/)
+- [XPENG G9 AWD Performance rekkevidde & forbruk](g9_awd_performance/rangeandconsumption)
+- [XPENG G9 AWD Performance ladekurve og ladeytelse](g9_awd_performance/chargingcurve)
+- [XPENG G9 AWD Performance spesifikasjoners](g9_awd_performance/specifications)
+- [XPENG G9 AWD Performance galleri](g9_awd_performance/gallery)
+- [XPENG G9 AWD Performance tester](g9_awd_performance/reviews)
 
 ### XPENG G9 RWD Long Range
 
@@ -23,12 +23,12 @@ XPENG G9 AWD Performance er en helelektrisk SUV med en WLTP rekkevidde på oppti
 
 XPENG G9 RWD Long Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 570 km (354 miles). EVKX.net har alle detaljene. 
 
-- [XPENG G9 RWD Long Range article](g9_rwd_long_range/)
-- [XPENG G9 RWD Long Range Range & consumption info](g9_rwd_long_range/rangeandconsumption)
-- [XPENG G9 RWD Long Range Charging curve and performance](g9_rwd_long_range/chargingcurve)
-- [XPENG G9 RWD Long Range full specifications](g9_rwd_long_range/specifications)
-- [XPENG G9 RWD Long Range image gallery](g9_rwd_long_range/gallery)
-- [XPENG G9 RWD Long Range reviews](g9_rwd_long_range/reviews)
+- [XPENG G9 RWD Long Range full beskrivelse](g9_rwd_long_range/)
+- [XPENG G9 RWD Long Range rekkevidde & forbruk](g9_rwd_long_range/rangeandconsumption)
+- [XPENG G9 RWD Long Range ladekurve og ladeytelse](g9_rwd_long_range/chargingcurve)
+- [XPENG G9 RWD Long Range spesifikasjoners](g9_rwd_long_range/specifications)
+- [XPENG G9 RWD Long Range galleri](g9_rwd_long_range/gallery)
+- [XPENG G9 RWD Long Range tester](g9_rwd_long_range/reviews)
 
 ### XPENG G9 RWD Standard Range
 
@@ -36,10 +36,10 @@ XPENG G9 RWD Long Range er en helelektrisk SUV med en WLTP rekkevidde på opptil
 
 XPENG G9 RWD Standard Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 460 km (286 miles). EVKX.net har alle detaljene. 
 
-- [XPENG G9 RWD Standard Range article](g9_rwd_standard_range/)
-- [XPENG G9 RWD Standard Range Range & consumption info](g9_rwd_standard_range/rangeandconsumption)
-- [XPENG G9 RWD Standard Range Charging curve and performance](g9_rwd_standard_range/chargingcurve)
-- [XPENG G9 RWD Standard Range full specifications](g9_rwd_standard_range/specifications)
-- [XPENG G9 RWD Standard Range image gallery](g9_rwd_standard_range/gallery)
-- [XPENG G9 RWD Standard Range reviews](g9_rwd_standard_range/reviews)
+- [XPENG G9 RWD Standard Range full beskrivelse](g9_rwd_standard_range/)
+- [XPENG G9 RWD Standard Range rekkevidde & forbruk](g9_rwd_standard_range/rangeandconsumption)
+- [XPENG G9 RWD Standard Range ladekurve og ladeytelse](g9_rwd_standard_range/chargingcurve)
+- [XPENG G9 RWD Standard Range spesifikasjoners](g9_rwd_standard_range/specifications)
+- [XPENG G9 RWD Standard Range galleri](g9_rwd_standard_range/gallery)
+- [XPENG G9 RWD Standard Range tester](g9_rwd_standard_range/reviews)
 

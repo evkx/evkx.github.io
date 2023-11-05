@@ -1,7 +1,7 @@
 ---
 title: Fisker Ocean
 linktitle: "Ocean"
-description: "See below for details of the different variants of Fisker Ocean"
+description: "Se nedenfor for alle varianter av Fisker Ocean"
 weight: 30
 ---
 ### Fisker Ocean Extreme
@@ -10,10 +10,10 @@ weight: 30
 
 Fisker Ocean Extreme er en helelektrisk SUV med en WLTP rekkevidde på opptil 707 km (439 miles). EVKX.net har alle detaljene. 
 
-- [Fisker Ocean Extreme article](ocean_extreme/)
-- [Fisker Ocean Extreme Range & consumption info](ocean_extreme/rangeandconsumption)
-- [Fisker Ocean Extreme Charging curve and performance](ocean_extreme/chargingcurve)
-- [Fisker Ocean Extreme full specifications](ocean_extreme/specifications)
-- [Fisker Ocean Extreme image gallery](ocean_extreme/gallery)
-- [Fisker Ocean Extreme reviews](ocean_extreme/reviews)
+- [Fisker Ocean Extreme full beskrivelse](ocean_extreme/)
+- [Fisker Ocean Extreme rekkevidde & forbruk](ocean_extreme/rangeandconsumption)
+- [Fisker Ocean Extreme ladekurve og ladeytelse](ocean_extreme/chargingcurve)
+- [Fisker Ocean Extreme spesifikasjoners](ocean_extreme/specifications)
+- [Fisker Ocean Extreme galleri](ocean_extreme/gallery)
+- [Fisker Ocean Extreme tester](ocean_extreme/reviews)
 

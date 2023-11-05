@@ -1,7 +1,7 @@
 ---
 title: Rolls-Royce Spectre
 linktitle: "Spectre"
-description: "See below for details of the different variants of Rolls-Royce Spectre"
+description: "Se nedenfor for alle varianter av Rolls-Royce Spectre"
 weight: 30
 ---
 ### Rolls-Royce Spectre
@@ -10,10 +10,10 @@ weight: 30
 
 Rolls-Royce Spectre er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 530 km (329 miles). EVKX.net har alle detaljene. 
 
-- [Rolls-Royce Spectre article](spectre/)
-- [Rolls-Royce Spectre Range & consumption info](spectre/rangeandconsumption)
-- [Rolls-Royce Spectre Charging curve and performance](spectre/chargingcurve)
-- [Rolls-Royce Spectre full specifications](spectre/specifications)
-- [Rolls-Royce Spectre image gallery](spectre/gallery)
-- [Rolls-Royce Spectre reviews](spectre/reviews)
+- [Rolls-Royce Spectre full beskrivelse](spectre/)
+- [Rolls-Royce Spectre rekkevidde & forbruk](spectre/rangeandconsumption)
+- [Rolls-Royce Spectre ladekurve og ladeytelse](spectre/chargingcurve)
+- [Rolls-Royce Spectre spesifikasjoners](spectre/specifications)
+- [Rolls-Royce Spectre galleri](spectre/gallery)
+- [Rolls-Royce Spectre tester](spectre/reviews)
 

@@ -10,11 +10,11 @@ weight: 30
 
 Rivian R1S Performance Dual-Motor AWD LP is an all-electric SUV with a EPA range of up to 515 km (320 miles). EVKX.net has all the details. 
 
-- [Rivian R1S Performance Dual-Motor AWD LP article](r1s_performance_dual-motor_awd_lp/)
-- [Rivian R1S Performance Dual-Motor AWD LP Range & consumption info](r1s_performance_dual-motor_awd_lp/rangeandconsumption)
-- [Rivian R1S Performance Dual-Motor AWD LP Charging curve and performance](r1s_performance_dual-motor_awd_lp/chargingcurve)
-- [Rivian R1S Performance Dual-Motor AWD LP full specifications](r1s_performance_dual-motor_awd_lp/specifications)
-- [Rivian R1S Performance Dual-Motor AWD LP image gallery](r1s_performance_dual-motor_awd_lp/gallery)
+- [Rivian R1S Performance Dual-Motor AWD LP full article](r1s_performance_dual-motor_awd_lp/)
+- [Rivian R1S Performance Dual-Motor AWD LP range & consumption](r1s_performance_dual-motor_awd_lp/rangeandconsumption)
+- [Rivian R1S Performance Dual-Motor AWD LP charging curve & performance](r1s_performance_dual-motor_awd_lp/chargingcurve)
+- [Rivian R1S Performance Dual-Motor AWD LP full specificationss](r1s_performance_dual-motor_awd_lp/specifications)
+- [Rivian R1S Performance Dual-Motor AWD LP gallery](r1s_performance_dual-motor_awd_lp/gallery)
 - [Rivian R1S Performance Dual-Motor AWD LP reviews](r1s_performance_dual-motor_awd_lp/reviews)
 
 ### Rivian R1S Performance Dual-Motor AWD MP
@@ -23,11 +23,11 @@ Rivian R1S Performance Dual-Motor AWD LP is an all-electric SUV with a EPA range
 
 Rivian R1S Performance Dual-Motor AWD MP is an all-electric SUV with a EPA range of up to 660 km (410 miles). EVKX.net has all the details. 
 
-- [Rivian R1S Performance Dual-Motor AWD MP article](r1s_performance_dual-motor_awd_mp/)
-- [Rivian R1S Performance Dual-Motor AWD MP Range & consumption info](r1s_performance_dual-motor_awd_mp/rangeandconsumption)
-- [Rivian R1S Performance Dual-Motor AWD MP Charging curve and performance](r1s_performance_dual-motor_awd_mp/chargingcurve)
-- [Rivian R1S Performance Dual-Motor AWD MP full specifications](r1s_performance_dual-motor_awd_mp/specifications)
-- [Rivian R1S Performance Dual-Motor AWD MP image gallery](r1s_performance_dual-motor_awd_mp/gallery)
+- [Rivian R1S Performance Dual-Motor AWD MP full article](r1s_performance_dual-motor_awd_mp/)
+- [Rivian R1S Performance Dual-Motor AWD MP range & consumption](r1s_performance_dual-motor_awd_mp/rangeandconsumption)
+- [Rivian R1S Performance Dual-Motor AWD MP charging curve & performance](r1s_performance_dual-motor_awd_mp/chargingcurve)
+- [Rivian R1S Performance Dual-Motor AWD MP full specificationss](r1s_performance_dual-motor_awd_mp/specifications)
+- [Rivian R1S Performance Dual-Motor AWD MP gallery](r1s_performance_dual-motor_awd_mp/gallery)
 - [Rivian R1S Performance Dual-Motor AWD MP reviews](r1s_performance_dual-motor_awd_mp/reviews)
 
 ### Rivian R1S Quad-Motor AWD
@@ -36,11 +36,11 @@ Rivian R1S Performance Dual-Motor AWD MP is an all-electric SUV with a EPA range
 
 Rivian R1S Quad-Motor AWD is an all-electric SUV with a EPA range of up to 516 km (321 miles). EVKX.net has all the details. 
 
-- [Rivian R1S Quad-Motor AWD article](r1s_quad-motor_awd/)
-- [Rivian R1S Quad-Motor AWD Range & consumption info](r1s_quad-motor_awd/rangeandconsumption)
-- [Rivian R1S Quad-Motor AWD Charging curve and performance](r1s_quad-motor_awd/chargingcurve)
-- [Rivian R1S Quad-Motor AWD full specifications](r1s_quad-motor_awd/specifications)
-- [Rivian R1S Quad-Motor AWD image gallery](r1s_quad-motor_awd/gallery)
+- [Rivian R1S Quad-Motor AWD full article](r1s_quad-motor_awd/)
+- [Rivian R1S Quad-Motor AWD range & consumption](r1s_quad-motor_awd/rangeandconsumption)
+- [Rivian R1S Quad-Motor AWD charging curve & performance](r1s_quad-motor_awd/chargingcurve)
+- [Rivian R1S Quad-Motor AWD full specificationss](r1s_quad-motor_awd/specifications)
+- [Rivian R1S Quad-Motor AWD gallery](r1s_quad-motor_awd/gallery)
 - [Rivian R1S Quad-Motor AWD reviews](r1s_quad-motor_awd/reviews)
 
 ### Rivian R1T Performance Dual-Motor AWD LP
@@ -49,11 +49,11 @@ Rivian R1S Quad-Motor AWD is an all-electric SUV with a EPA range of up to 516 k
 
 Rivian R1T Performance Dual-Motor AWD LP is an all-electric Pickup Truck with a EPA range of up to 566 km (352 miles). EVKX.net has all the details. 
 
-- [Rivian R1T Performance Dual-Motor AWD LP article](r1t_performance_dual-motor_awd_lp/)
-- [Rivian R1T Performance Dual-Motor AWD LP Range & consumption info](r1t_performance_dual-motor_awd_lp/rangeandconsumption)
-- [Rivian R1T Performance Dual-Motor AWD LP Charging curve and performance](r1t_performance_dual-motor_awd_lp/chargingcurve)
-- [Rivian R1T Performance Dual-Motor AWD LP full specifications](r1t_performance_dual-motor_awd_lp/specifications)
-- [Rivian R1T Performance Dual-Motor AWD LP image gallery](r1t_performance_dual-motor_awd_lp/gallery)
+- [Rivian R1T Performance Dual-Motor AWD LP full article](r1t_performance_dual-motor_awd_lp/)
+- [Rivian R1T Performance Dual-Motor AWD LP range & consumption](r1t_performance_dual-motor_awd_lp/rangeandconsumption)
+- [Rivian R1T Performance Dual-Motor AWD LP charging curve & performance](r1t_performance_dual-motor_awd_lp/chargingcurve)
+- [Rivian R1T Performance Dual-Motor AWD LP full specificationss](r1t_performance_dual-motor_awd_lp/specifications)
+- [Rivian R1T Performance Dual-Motor AWD LP gallery](r1t_performance_dual-motor_awd_lp/gallery)
 - [Rivian R1T Performance Dual-Motor AWD LP reviews](r1t_performance_dual-motor_awd_lp/reviews)
 
 ### Rivian R1T Performance Dual-Motor AWD MP
@@ -62,11 +62,11 @@ Rivian R1T Performance Dual-Motor AWD LP is an all-electric Pickup Truck with a 
 
 Rivian R1T Performance Dual-Motor AWD MP is an all-electric Pickup Truck with a EPA range of up to 660 km (410 miles). EVKX.net has all the details. 
 
-- [Rivian R1T Performance Dual-Motor AWD MP article](r1t_performance_dual-motor_awd_mp/)
-- [Rivian R1T Performance Dual-Motor AWD MP Range & consumption info](r1t_performance_dual-motor_awd_mp/rangeandconsumption)
-- [Rivian R1T Performance Dual-Motor AWD MP Charging curve and performance](r1t_performance_dual-motor_awd_mp/chargingcurve)
-- [Rivian R1T Performance Dual-Motor AWD MP full specifications](r1t_performance_dual-motor_awd_mp/specifications)
-- [Rivian R1T Performance Dual-Motor AWD MP image gallery](r1t_performance_dual-motor_awd_mp/gallery)
+- [Rivian R1T Performance Dual-Motor AWD MP full article](r1t_performance_dual-motor_awd_mp/)
+- [Rivian R1T Performance Dual-Motor AWD MP range & consumption](r1t_performance_dual-motor_awd_mp/rangeandconsumption)
+- [Rivian R1T Performance Dual-Motor AWD MP charging curve & performance](r1t_performance_dual-motor_awd_mp/chargingcurve)
+- [Rivian R1T Performance Dual-Motor AWD MP full specificationss](r1t_performance_dual-motor_awd_mp/specifications)
+- [Rivian R1T Performance Dual-Motor AWD MP gallery](r1t_performance_dual-motor_awd_mp/gallery)
 - [Rivian R1T Performance Dual-Motor AWD MP reviews](r1t_performance_dual-motor_awd_mp/reviews)
 
 ### Rivian R1T Quad-Motor AWD
@@ -75,10 +75,10 @@ Rivian R1T Performance Dual-Motor AWD MP is an all-electric Pickup Truck with a 
 
 Rivian R1T Quad-Motor AWD is an all-electric Pickup Truck with a EPA range of up to 516 km (321 miles). EVKX.net has all the details. 
 
-- [Rivian R1T Quad-Motor AWD article](r1t_quad-motor_awd/)
-- [Rivian R1T Quad-Motor AWD Range & consumption info](r1t_quad-motor_awd/rangeandconsumption)
-- [Rivian R1T Quad-Motor AWD Charging curve and performance](r1t_quad-motor_awd/chargingcurve)
-- [Rivian R1T Quad-Motor AWD full specifications](r1t_quad-motor_awd/specifications)
-- [Rivian R1T Quad-Motor AWD image gallery](r1t_quad-motor_awd/gallery)
+- [Rivian R1T Quad-Motor AWD full article](r1t_quad-motor_awd/)
+- [Rivian R1T Quad-Motor AWD range & consumption](r1t_quad-motor_awd/rangeandconsumption)
+- [Rivian R1T Quad-Motor AWD charging curve & performance](r1t_quad-motor_awd/chargingcurve)
+- [Rivian R1T Quad-Motor AWD full specificationss](r1t_quad-motor_awd/specifications)
+- [Rivian R1T Quad-Motor AWD gallery](r1t_quad-motor_awd/gallery)
 - [Rivian R1T Quad-Motor AWD reviews](r1t_quad-motor_awd/reviews)
 

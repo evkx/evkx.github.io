@@ -1,7 +1,7 @@
 ---
 title: Cadillac ESCALADE
 linktitle: "ESCALADE"
-description: "See below for details of the different variants of Cadillac ESCALADE"
+description: "Se nedenfor for alle varianter av Cadillac ESCALADE"
 weight: 30
 ---
 ### Cadillac ESCALADE IQ
@@ -10,10 +10,10 @@ weight: 30
 
 Cadillac ESCALADE IQ er en helelektrisk SUV med en EPA rekkevidde på opptil 724 km (450 miles). EVKX.net har alle detaljene. 
 
-- [Cadillac ESCALADE IQ article](escalade_iq/)
-- [Cadillac ESCALADE IQ Range & consumption info](escalade_iq/rangeandconsumption)
-- [Cadillac ESCALADE IQ Charging curve and performance](escalade_iq/chargingcurve)
-- [Cadillac ESCALADE IQ full specifications](escalade_iq/specifications)
-- [Cadillac ESCALADE IQ image gallery](escalade_iq/gallery)
-- [Cadillac ESCALADE IQ reviews](escalade_iq/reviews)
+- [Cadillac ESCALADE IQ full beskrivelse](escalade_iq/)
+- [Cadillac ESCALADE IQ rekkevidde & forbruk](escalade_iq/rangeandconsumption)
+- [Cadillac ESCALADE IQ ladekurve og ladeytelse](escalade_iq/chargingcurve)
+- [Cadillac ESCALADE IQ spesifikasjoners](escalade_iq/specifications)
+- [Cadillac ESCALADE IQ galleri](escalade_iq/gallery)
+- [Cadillac ESCALADE IQ tester](escalade_iq/reviews)
 

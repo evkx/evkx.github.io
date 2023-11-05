@@ -1,6 +1,6 @@
 ---
 title: Fisker Ocean Extreme tester
-linktitle: "Tester1"
+linktitle: "Tester"
 description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen. "
 weight: 80
 hidden: true

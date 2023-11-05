@@ -1,7 +1,7 @@
 ---
 title: Honda e:Ny1
 linktitle: "e:Ny1"
-description: "See below for details of the different variants of Honda e:Ny1"
+description: "Se nedenfor for alle varianter av Honda e:Ny1"
 weight: 30
 ---
 ### Honda e:Ny1
@@ -10,10 +10,10 @@ weight: 30
 
 Honda e:Ny1 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 412 km (256 miles). EVKX.net har alle detaljene. 
 
-- [Honda e:Ny1 article](e_ny1/)
-- [Honda e:Ny1 Range & consumption info](e_ny1/rangeandconsumption)
-- [Honda e:Ny1 Charging curve and performance](e_ny1/chargingcurve)
-- [Honda e:Ny1 full specifications](e_ny1/specifications)
-- [Honda e:Ny1 image gallery](e_ny1/gallery)
-- [Honda e:Ny1 reviews](e_ny1/reviews)
+- [Honda e:Ny1 full beskrivelse](e_ny1/)
+- [Honda e:Ny1 rekkevidde & forbruk](e_ny1/rangeandconsumption)
+- [Honda e:Ny1 ladekurve og ladeytelse](e_ny1/chargingcurve)
+- [Honda e:Ny1 spesifikasjoners](e_ny1/specifications)
+- [Honda e:Ny1 galleri](e_ny1/gallery)
+- [Honda e:Ny1 tester](e_ny1/reviews)
 

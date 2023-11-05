@@ -10,10 +10,10 @@ weight: 30
 
 BMW iX2 xDrive30 is an all-electric premium coupe SUV with a WLTP range of up to 449 km (279 miles). EVKX.net has all the details. 
 
-- [BMW iX2 xDrive30 article](ix2_xdrive30/)
-- [BMW iX2 xDrive30 Range & consumption info](ix2_xdrive30/rangeandconsumption)
-- [BMW iX2 xDrive30 Charging curve and performance](ix2_xdrive30/chargingcurve)
-- [BMW iX2 xDrive30 full specifications](ix2_xdrive30/specifications)
-- [BMW iX2 xDrive30 image gallery](ix2_xdrive30/gallery)
+- [BMW iX2 xDrive30 full article](ix2_xdrive30/)
+- [BMW iX2 xDrive30 range & consumption](ix2_xdrive30/rangeandconsumption)
+- [BMW iX2 xDrive30 charging curve & performance](ix2_xdrive30/chargingcurve)
+- [BMW iX2 xDrive30 full specificationss](ix2_xdrive30/specifications)
+- [BMW iX2 xDrive30 gallery](ix2_xdrive30/gallery)
 - [BMW iX2 xDrive30 reviews](ix2_xdrive30/reviews)
 

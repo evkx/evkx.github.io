@@ -10,11 +10,11 @@ weight: 30
 
 Volkswagen ID.5 GTX 4MOTION is an all-electric coupe SUV with a WLTP range of up to 533 km (331 miles). EVKX.net has all the details. 
 
-- [Volkswagen ID.5 GTX 4MOTION article](id.5_gtx_4motion/)
-- [Volkswagen ID.5 GTX 4MOTION Range & consumption info](id.5_gtx_4motion/rangeandconsumption)
-- [Volkswagen ID.5 GTX 4MOTION Charging curve and performance](id.5_gtx_4motion/chargingcurve)
-- [Volkswagen ID.5 GTX 4MOTION full specifications](id.5_gtx_4motion/specifications)
-- [Volkswagen ID.5 GTX 4MOTION image gallery](id.5_gtx_4motion/gallery)
+- [Volkswagen ID.5 GTX 4MOTION full article](id.5_gtx_4motion/)
+- [Volkswagen ID.5 GTX 4MOTION range & consumption](id.5_gtx_4motion/rangeandconsumption)
+- [Volkswagen ID.5 GTX 4MOTION charging curve & performance](id.5_gtx_4motion/chargingcurve)
+- [Volkswagen ID.5 GTX 4MOTION full specificationss](id.5_gtx_4motion/specifications)
+- [Volkswagen ID.5 GTX 4MOTION gallery](id.5_gtx_4motion/gallery)
 - [Volkswagen ID.5 GTX 4MOTION reviews](id.5_gtx_4motion/reviews)
 
 ### Volkswagen ID.5 Pro Performance
@@ -23,11 +23,11 @@ Volkswagen ID.5 GTX 4MOTION is an all-electric coupe SUV with a WLTP range of up
 
 Volkswagen ID.5 Pro Performance is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net has all the details. 
 
-- [Volkswagen ID.5 Pro Performance article](id.5_pro_performance/)
-- [Volkswagen ID.5 Pro Performance Range & consumption info](id.5_pro_performance/rangeandconsumption)
-- [Volkswagen ID.5 Pro Performance Charging curve and performance](id.5_pro_performance/chargingcurve)
-- [Volkswagen ID.5 Pro Performance full specifications](id.5_pro_performance/specifications)
-- [Volkswagen ID.5 Pro Performance image gallery](id.5_pro_performance/gallery)
+- [Volkswagen ID.5 Pro Performance full article](id.5_pro_performance/)
+- [Volkswagen ID.5 Pro Performance range & consumption](id.5_pro_performance/rangeandconsumption)
+- [Volkswagen ID.5 Pro Performance charging curve & performance](id.5_pro_performance/chargingcurve)
+- [Volkswagen ID.5 Pro Performance full specificationss](id.5_pro_performance/specifications)
+- [Volkswagen ID.5 Pro Performance gallery](id.5_pro_performance/gallery)
 - [Volkswagen ID.5 Pro Performance reviews](id.5_pro_performance/reviews)
 
 ### Volkswagen ID.5 Pro
@@ -36,11 +36,11 @@ Volkswagen ID.5 Pro Performance is an all-electric SUV with a WLTP range of up t
 
 Volkswagen ID.5 Pro is an all-electric SUV with a WLTP range of up to 556 km (346 miles). EVKX.net has all the details. 
 
-- [Volkswagen ID.5 Pro article](id.5_pro/)
-- [Volkswagen ID.5 Pro Range & consumption info](id.5_pro/rangeandconsumption)
-- [Volkswagen ID.5 Pro Charging curve and performance](id.5_pro/chargingcurve)
-- [Volkswagen ID.5 Pro full specifications](id.5_pro/specifications)
-- [Volkswagen ID.5 Pro image gallery](id.5_pro/gallery)
+- [Volkswagen ID.5 Pro full article](id.5_pro/)
+- [Volkswagen ID.5 Pro range & consumption](id.5_pro/rangeandconsumption)
+- [Volkswagen ID.5 Pro charging curve & performance](id.5_pro/chargingcurve)
+- [Volkswagen ID.5 Pro full specificationss](id.5_pro/specifications)
+- [Volkswagen ID.5 Pro gallery](id.5_pro/gallery)
 - [Volkswagen ID.5 Pro reviews](id.5_pro/reviews)
 
 ## Discontinued variants
@@ -51,10 +51,10 @@ Volkswagen ID.5 Pro is an all-electric SUV with a WLTP range of up to 556 km (34
 
 Volkswagen ID.5 GTX 4MOTION (GEN1) is an all-electric coupe SUV with a WLTP range of up to 496 km (308 miles). EVKX.net has all the details. 
 
-- [Volkswagen ID.5 GTX 4MOTION (GEN1) article](id.5_gtx_4motion_gen1/)
-- [Volkswagen ID.5 GTX 4MOTION (GEN1) Range & consumption info](id.5_gtx_4motion_gen1/rangeandconsumption)
-- [Volkswagen ID.5 GTX 4MOTION (GEN1) Charging curve and performance](id.5_gtx_4motion_gen1/chargingcurve)
-- [Volkswagen ID.5 GTX 4MOTION (GEN1) full specifications](id.5_gtx_4motion_gen1/specifications)
-- [Volkswagen ID.5 GTX 4MOTION (GEN1) image gallery](id.5_gtx_4motion_gen1/gallery)
+- [Volkswagen ID.5 GTX 4MOTION (GEN1) full article](id.5_gtx_4motion_gen1/)
+- [Volkswagen ID.5 GTX 4MOTION (GEN1) range & consumption](id.5_gtx_4motion_gen1/rangeandconsumption)
+- [Volkswagen ID.5 GTX 4MOTION (GEN1) charging curve & performance](id.5_gtx_4motion_gen1/chargingcurve)
+- [Volkswagen ID.5 GTX 4MOTION (GEN1) full specificationss](id.5_gtx_4motion_gen1/specifications)
+- [Volkswagen ID.5 GTX 4MOTION (GEN1) gallery](id.5_gtx_4motion_gen1/gallery)
 - [Volkswagen ID.5 GTX 4MOTION (GEN1) reviews](id.5_gtx_4motion_gen1/reviews)
 

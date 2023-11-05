@@ -1,7 +1,7 @@
 ---
 title: Lexus RZ
 linktitle: "RZ"
-description: "See below for details of the different variants of Lexus RZ"
+description: "Se nedenfor for alle varianter av Lexus RZ"
 weight: 30
 ---
 ### Lexus RZ 450e
@@ -10,10 +10,10 @@ weight: 30
 
 Lexus RZ 450e er en helelektrisk SUV med en WLTP rekkevidde på opptil 440 km (273 miles). EVKX.net har alle detaljene. 
 
-- [Lexus RZ 450e article](rz_450e/)
-- [Lexus RZ 450e Range & consumption info](rz_450e/rangeandconsumption)
-- [Lexus RZ 450e Charging curve and performance](rz_450e/chargingcurve)
-- [Lexus RZ 450e full specifications](rz_450e/specifications)
-- [Lexus RZ 450e image gallery](rz_450e/gallery)
-- [Lexus RZ 450e reviews](rz_450e/reviews)
+- [Lexus RZ 450e full beskrivelse](rz_450e/)
+- [Lexus RZ 450e rekkevidde & forbruk](rz_450e/rangeandconsumption)
+- [Lexus RZ 450e ladekurve og ladeytelse](rz_450e/chargingcurve)
+- [Lexus RZ 450e spesifikasjoners](rz_450e/specifications)
+- [Lexus RZ 450e galleri](rz_450e/gallery)
+- [Lexus RZ 450e tester](rz_450e/reviews)
 

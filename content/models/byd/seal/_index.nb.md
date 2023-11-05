@@ -1,7 +1,7 @@
 ---
 title: BYD Seal
 linktitle: "Seal"
-description: "See below for details of the different variants of BYD Seal"
+description: "Se nedenfor for alle varianter av BYD Seal"
 weight: 30
 ---
 ### BYD Seal AWD
@@ -10,10 +10,10 @@ weight: 30
 
 BYD Seal AWD er en helelektrisk sedan med en WLTP rekkevidde på opptil 520 km (323 miles). EVKX.net har alle detaljene. 
 
-- [BYD Seal AWD article](seal_awd/)
-- [BYD Seal AWD Range & consumption info](seal_awd/rangeandconsumption)
-- [BYD Seal AWD Charging curve and performance](seal_awd/chargingcurve)
-- [BYD Seal AWD full specifications](seal_awd/specifications)
-- [BYD Seal AWD image gallery](seal_awd/gallery)
-- [BYD Seal AWD reviews](seal_awd/reviews)
+- [BYD Seal AWD full beskrivelse](seal_awd/)
+- [BYD Seal AWD rekkevidde & forbruk](seal_awd/rangeandconsumption)
+- [BYD Seal AWD ladekurve og ladeytelse](seal_awd/chargingcurve)
+- [BYD Seal AWD spesifikasjoners](seal_awd/specifications)
+- [BYD Seal AWD galleri](seal_awd/gallery)
+- [BYD Seal AWD tester](seal_awd/reviews)
 

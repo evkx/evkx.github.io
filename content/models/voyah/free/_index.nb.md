@@ -1,7 +1,7 @@
 ---
 title: VOYAH FREE
 linktitle: "FREE"
-description: "See below for details of the different variants of VOYAH FREE"
+description: "Se nedenfor for alle varianter av VOYAH FREE"
 weight: 30
 ---
 ### VOYAH FREE
@@ -10,10 +10,10 @@ weight: 30
 
 VOYAH FREE er en helelektrisk SUV med en WLTP rekkevidde på opptil 500 km (311 miles). EVKX.net har alle detaljene. 
 
-- [VOYAH FREE article](free/)
-- [VOYAH FREE Range & consumption info](free/rangeandconsumption)
-- [VOYAH FREE Charging curve and performance](free/chargingcurve)
-- [VOYAH FREE full specifications](free/specifications)
-- [VOYAH FREE image gallery](free/gallery)
-- [VOYAH FREE reviews](free/reviews)
+- [VOYAH FREE full beskrivelse](free/)
+- [VOYAH FREE rekkevidde & forbruk](free/rangeandconsumption)
+- [VOYAH FREE ladekurve og ladeytelse](free/chargingcurve)
+- [VOYAH FREE spesifikasjoners](free/specifications)
+- [VOYAH FREE galleri](free/gallery)
+- [VOYAH FREE tester](free/reviews)
 

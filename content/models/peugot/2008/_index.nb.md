@@ -1,7 +1,7 @@
 ---
 title: Peugot 2008
 linktitle: "2008"
-description: "See below for details of the different variants of Peugot 2008"
+description: "Se nedenfor for alle varianter av Peugot 2008"
 weight: 30
 ---
 ### Peugot E-2008
@@ -10,10 +10,10 @@ weight: 30
 
 Peugot E-2008 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 406 km (252 miles). EVKX.net har alle detaljene. 
 
-- [Peugot E-2008 article](e-2008/)
-- [Peugot E-2008 Range & consumption info](e-2008/rangeandconsumption)
-- [Peugot E-2008 Charging curve and performance](e-2008/chargingcurve)
-- [Peugot E-2008 full specifications](e-2008/specifications)
-- [Peugot E-2008 image gallery](e-2008/gallery)
-- [Peugot E-2008 reviews](e-2008/reviews)
+- [Peugot E-2008 full beskrivelse](e-2008/)
+- [Peugot E-2008 rekkevidde & forbruk](e-2008/rangeandconsumption)
+- [Peugot E-2008 ladekurve og ladeytelse](e-2008/chargingcurve)
+- [Peugot E-2008 spesifikasjoners](e-2008/specifications)
+- [Peugot E-2008 galleri](e-2008/gallery)
+- [Peugot E-2008 tester](e-2008/reviews)
 

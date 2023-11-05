@@ -1,7 +1,7 @@
 ---
 title: BMW iX2
 linktitle: "iX2"
-description: "See below for details of the different variants of BMW iX2"
+description: "Se nedenfor for alle varianter av BMW iX2"
 weight: 30
 ---
 ### BMW iX2 xDrive30
@@ -10,10 +10,10 @@ weight: 30
 
 BMW iX2 xDrive30 er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 449 km (279 miles). EVKX.net har alle detaljene. 
 
-- [BMW iX2 xDrive30 article](ix2_xdrive30/)
-- [BMW iX2 xDrive30 Range & consumption info](ix2_xdrive30/rangeandconsumption)
-- [BMW iX2 xDrive30 Charging curve and performance](ix2_xdrive30/chargingcurve)
-- [BMW iX2 xDrive30 full specifications](ix2_xdrive30/specifications)
-- [BMW iX2 xDrive30 image gallery](ix2_xdrive30/gallery)
-- [BMW iX2 xDrive30 reviews](ix2_xdrive30/reviews)
+- [BMW iX2 xDrive30 full beskrivelse](ix2_xdrive30/)
+- [BMW iX2 xDrive30 rekkevidde & forbruk](ix2_xdrive30/rangeandconsumption)
+- [BMW iX2 xDrive30 ladekurve og ladeytelse](ix2_xdrive30/chargingcurve)
+- [BMW iX2 xDrive30 spesifikasjoners](ix2_xdrive30/specifications)
+- [BMW iX2 xDrive30 galleri](ix2_xdrive30/gallery)
+- [BMW iX2 xDrive30 tester](ix2_xdrive30/reviews)
 

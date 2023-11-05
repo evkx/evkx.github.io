@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan
 linktitle: "Taycan"
-description: "See below for details of the different variants of Porsche Taycan"
+description: "Se nedenfor for alle varianter av Porsche Taycan"
 weight: 30
 ---
 ### Porsche Taycan
@@ -10,12 +10,12 @@ weight: 30
 
 Porsche Taycan er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 431 km (268 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan article](taycan/)
-- [Porsche Taycan Range & consumption info](taycan/rangeandconsumption)
-- [Porsche Taycan Charging curve and performance](taycan/chargingcurve)
-- [Porsche Taycan full specifications](taycan/specifications)
-- [Porsche Taycan image gallery](taycan/gallery)
-- [Porsche Taycan reviews](taycan/reviews)
+- [Porsche Taycan full beskrivelse](taycan/)
+- [Porsche Taycan rekkevidde & forbruk](taycan/rangeandconsumption)
+- [Porsche Taycan ladekurve og ladeytelse](taycan/chargingcurve)
+- [Porsche Taycan spesifikasjoners](taycan/specifications)
+- [Porsche Taycan galleri](taycan/gallery)
+- [Porsche Taycan tester](taycan/reviews)
 
 ### Porsche Taycan 4S
 
@@ -23,12 +23,12 @@ Porsche Taycan er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 
 
 Porsche Taycan 4S er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 431 km (268 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan 4S article](taycan_4s/)
-- [Porsche Taycan 4S Range & consumption info](taycan_4s/rangeandconsumption)
-- [Porsche Taycan 4S Charging curve and performance](taycan_4s/chargingcurve)
-- [Porsche Taycan 4S full specifications](taycan_4s/specifications)
-- [Porsche Taycan 4S image gallery](taycan_4s/gallery)
-- [Porsche Taycan 4S reviews](taycan_4s/reviews)
+- [Porsche Taycan 4S full beskrivelse](taycan_4s/)
+- [Porsche Taycan 4S rekkevidde & forbruk](taycan_4s/rangeandconsumption)
+- [Porsche Taycan 4S ladekurve og ladeytelse](taycan_4s/chargingcurve)
+- [Porsche Taycan 4S spesifikasjoners](taycan_4s/specifications)
+- [Porsche Taycan 4S galleri](taycan_4s/gallery)
+- [Porsche Taycan 4S tester](taycan_4s/reviews)
 
 ### Porsche Taycan 4S Cross Turismo
 
@@ -36,12 +36,12 @@ Porsche Taycan 4S er en helelektrisk luksussedan med en WLTP rekkevidde på oppt
 
 Porsche Taycan 4S Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 490 km (305 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan 4S Cross Turismo article](taycan_4s_cross_turismo/)
-- [Porsche Taycan 4S Cross Turismo Range & consumption info](taycan_4s_cross_turismo/rangeandconsumption)
-- [Porsche Taycan 4S Cross Turismo Charging curve and performance](taycan_4s_cross_turismo/chargingcurve)
-- [Porsche Taycan 4S Cross Turismo full specifications](taycan_4s_cross_turismo/specifications)
-- [Porsche Taycan 4S Cross Turismo image gallery](taycan_4s_cross_turismo/gallery)
-- [Porsche Taycan 4S Cross Turismo reviews](taycan_4s_cross_turismo/reviews)
+- [Porsche Taycan 4S Cross Turismo full beskrivelse](taycan_4s_cross_turismo/)
+- [Porsche Taycan 4S Cross Turismo rekkevidde & forbruk](taycan_4s_cross_turismo/rangeandconsumption)
+- [Porsche Taycan 4S Cross Turismo ladekurve og ladeytelse](taycan_4s_cross_turismo/chargingcurve)
+- [Porsche Taycan 4S Cross Turismo spesifikasjoners](taycan_4s_cross_turismo/specifications)
+- [Porsche Taycan 4S Cross Turismo galleri](taycan_4s_cross_turismo/gallery)
+- [Porsche Taycan 4S Cross Turismo tester](taycan_4s_cross_turismo/reviews)
 
 ### Porsche Taycan 4S Sport Turismo
 
@@ -49,12 +49,12 @@ Porsche Taycan 4S Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLT
 
 Porsche Taycan 4S Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 441 km (274 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan 4S Sport Turismo article](taycan_4s_sport_turismo/)
-- [Porsche Taycan 4S Sport Turismo Range & consumption info](taycan_4s_sport_turismo/rangeandconsumption)
-- [Porsche Taycan 4S Sport Turismo Charging curve and performance](taycan_4s_sport_turismo/chargingcurve)
-- [Porsche Taycan 4S Sport Turismo full specifications](taycan_4s_sport_turismo/specifications)
-- [Porsche Taycan 4S Sport Turismo image gallery](taycan_4s_sport_turismo/gallery)
-- [Porsche Taycan 4S Sport Turismo reviews](taycan_4s_sport_turismo/reviews)
+- [Porsche Taycan 4S Sport Turismo full beskrivelse](taycan_4s_sport_turismo/)
+- [Porsche Taycan 4S Sport Turismo rekkevidde & forbruk](taycan_4s_sport_turismo/rangeandconsumption)
+- [Porsche Taycan 4S Sport Turismo ladekurve og ladeytelse](taycan_4s_sport_turismo/chargingcurve)
+- [Porsche Taycan 4S Sport Turismo spesifikasjoners](taycan_4s_sport_turismo/specifications)
+- [Porsche Taycan 4S Sport Turismo galleri](taycan_4s_sport_turismo/gallery)
+- [Porsche Taycan 4S Sport Turismo tester](taycan_4s_sport_turismo/reviews)
 
 ### Porsche Taycan 4 Cross Turismo
 
@@ -62,12 +62,12 @@ Porsche Taycan 4S Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLT
 
 Porsche Taycan 4 Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 490 km (305 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan 4 Cross Turismo article](taycan_4_cross_turismo/)
-- [Porsche Taycan 4 Cross Turismo Range & consumption info](taycan_4_cross_turismo/rangeandconsumption)
-- [Porsche Taycan 4 Cross Turismo Charging curve and performance](taycan_4_cross_turismo/chargingcurve)
-- [Porsche Taycan 4 Cross Turismo full specifications](taycan_4_cross_turismo/specifications)
-- [Porsche Taycan 4 Cross Turismo image gallery](taycan_4_cross_turismo/gallery)
-- [Porsche Taycan 4 Cross Turismo reviews](taycan_4_cross_turismo/reviews)
+- [Porsche Taycan 4 Cross Turismo full beskrivelse](taycan_4_cross_turismo/)
+- [Porsche Taycan 4 Cross Turismo rekkevidde & forbruk](taycan_4_cross_turismo/rangeandconsumption)
+- [Porsche Taycan 4 Cross Turismo ladekurve og ladeytelse](taycan_4_cross_turismo/chargingcurve)
+- [Porsche Taycan 4 Cross Turismo spesifikasjoners](taycan_4_cross_turismo/specifications)
+- [Porsche Taycan 4 Cross Turismo galleri](taycan_4_cross_turismo/gallery)
+- [Porsche Taycan 4 Cross Turismo tester](taycan_4_cross_turismo/reviews)
 
 ### Porsche Taycan GTS
 
@@ -75,12 +75,12 @@ Porsche Taycan 4 Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP
 
 Porsche Taycan GTS er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 504 km (313 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan GTS article](taycan_gts/)
-- [Porsche Taycan GTS Range & consumption info](taycan_gts/rangeandconsumption)
-- [Porsche Taycan GTS Charging curve and performance](taycan_gts/chargingcurve)
-- [Porsche Taycan GTS full specifications](taycan_gts/specifications)
-- [Porsche Taycan GTS image gallery](taycan_gts/gallery)
-- [Porsche Taycan GTS reviews](taycan_gts/reviews)
+- [Porsche Taycan GTS full beskrivelse](taycan_gts/)
+- [Porsche Taycan GTS rekkevidde & forbruk](taycan_gts/rangeandconsumption)
+- [Porsche Taycan GTS ladekurve og ladeytelse](taycan_gts/chargingcurve)
+- [Porsche Taycan GTS spesifikasjoners](taycan_gts/specifications)
+- [Porsche Taycan GTS galleri](taycan_gts/gallery)
+- [Porsche Taycan GTS tester](taycan_gts/reviews)
 
 ### Porsche Taycan GTS Sport Turismo
 
@@ -88,12 +88,12 @@ Porsche Taycan GTS er en helelektrisk luksussedan med en WLTP rekkevidde på opp
 
 Porsche Taycan GTS Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 504 km (313 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan GTS Sport Turismo article](taycan_gts_sport_turismo/)
-- [Porsche Taycan GTS Sport Turismo Range & consumption info](taycan_gts_sport_turismo/rangeandconsumption)
-- [Porsche Taycan GTS Sport Turismo Charging curve and performance](taycan_gts_sport_turismo/chargingcurve)
-- [Porsche Taycan GTS Sport Turismo full specifications](taycan_gts_sport_turismo/specifications)
-- [Porsche Taycan GTS Sport Turismo image gallery](taycan_gts_sport_turismo/gallery)
-- [Porsche Taycan GTS Sport Turismo reviews](taycan_gts_sport_turismo/reviews)
+- [Porsche Taycan GTS Sport Turismo full beskrivelse](taycan_gts_sport_turismo/)
+- [Porsche Taycan GTS Sport Turismo rekkevidde & forbruk](taycan_gts_sport_turismo/rangeandconsumption)
+- [Porsche Taycan GTS Sport Turismo ladekurve og ladeytelse](taycan_gts_sport_turismo/chargingcurve)
+- [Porsche Taycan GTS Sport Turismo spesifikasjoners](taycan_gts_sport_turismo/specifications)
+- [Porsche Taycan GTS Sport Turismo galleri](taycan_gts_sport_turismo/gallery)
+- [Porsche Taycan GTS Sport Turismo tester](taycan_gts_sport_turismo/reviews)
 
 ### Porsche Taycan Sport Turismo
 
@@ -101,12 +101,12 @@ Porsche Taycan GTS Sport Turismo er en helelektrisk luksusstasjonsvogn med en WL
 
 Porsche Taycan Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 431 km (268 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan Sport Turismo article](taycan_sport_turismo/)
-- [Porsche Taycan Sport Turismo Range & consumption info](taycan_sport_turismo/rangeandconsumption)
-- [Porsche Taycan Sport Turismo Charging curve and performance](taycan_sport_turismo/chargingcurve)
-- [Porsche Taycan Sport Turismo full specifications](taycan_sport_turismo/specifications)
-- [Porsche Taycan Sport Turismo image gallery](taycan_sport_turismo/gallery)
-- [Porsche Taycan Sport Turismo reviews](taycan_sport_turismo/reviews)
+- [Porsche Taycan Sport Turismo full beskrivelse](taycan_sport_turismo/)
+- [Porsche Taycan Sport Turismo rekkevidde & forbruk](taycan_sport_turismo/rangeandconsumption)
+- [Porsche Taycan Sport Turismo ladekurve og ladeytelse](taycan_sport_turismo/chargingcurve)
+- [Porsche Taycan Sport Turismo spesifikasjoners](taycan_sport_turismo/specifications)
+- [Porsche Taycan Sport Turismo galleri](taycan_sport_turismo/gallery)
+- [Porsche Taycan Sport Turismo tester](taycan_sport_turismo/reviews)
 
 ### Porsche Taycan Turbo
 
@@ -114,12 +114,12 @@ Porsche Taycan Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP r
 
 Porsche Taycan Turbo er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 507 km (315 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan Turbo article](taycan_turbo/)
-- [Porsche Taycan Turbo Range & consumption info](taycan_turbo/rangeandconsumption)
-- [Porsche Taycan Turbo Charging curve and performance](taycan_turbo/chargingcurve)
-- [Porsche Taycan Turbo full specifications](taycan_turbo/specifications)
-- [Porsche Taycan Turbo image gallery](taycan_turbo/gallery)
-- [Porsche Taycan Turbo reviews](taycan_turbo/reviews)
+- [Porsche Taycan Turbo full beskrivelse](taycan_turbo/)
+- [Porsche Taycan Turbo rekkevidde & forbruk](taycan_turbo/rangeandconsumption)
+- [Porsche Taycan Turbo ladekurve og ladeytelse](taycan_turbo/chargingcurve)
+- [Porsche Taycan Turbo spesifikasjoners](taycan_turbo/specifications)
+- [Porsche Taycan Turbo galleri](taycan_turbo/gallery)
+- [Porsche Taycan Turbo tester](taycan_turbo/reviews)
 
 ### Porsche Taycan Turbo Cross Turismo
 
@@ -127,12 +127,12 @@ Porsche Taycan Turbo er en helelektrisk luksussedan med en WLTP rekkevidde på o
 
 Porsche Taycan Turbo Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 452 km (281 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan Turbo Cross Turismo article](taycan_turbo_cross_turismo/)
-- [Porsche Taycan Turbo Cross Turismo Range & consumption info](taycan_turbo_cross_turismo/rangeandconsumption)
-- [Porsche Taycan Turbo Cross Turismo Charging curve and performance](taycan_turbo_cross_turismo/chargingcurve)
-- [Porsche Taycan Turbo Cross Turismo full specifications](taycan_turbo_cross_turismo/specifications)
-- [Porsche Taycan Turbo Cross Turismo image gallery](taycan_turbo_cross_turismo/gallery)
-- [Porsche Taycan Turbo Cross Turismo reviews](taycan_turbo_cross_turismo/reviews)
+- [Porsche Taycan Turbo Cross Turismo full beskrivelse](taycan_turbo_cross_turismo/)
+- [Porsche Taycan Turbo Cross Turismo rekkevidde & forbruk](taycan_turbo_cross_turismo/rangeandconsumption)
+- [Porsche Taycan Turbo Cross Turismo ladekurve og ladeytelse](taycan_turbo_cross_turismo/chargingcurve)
+- [Porsche Taycan Turbo Cross Turismo spesifikasjoners](taycan_turbo_cross_turismo/specifications)
+- [Porsche Taycan Turbo Cross Turismo galleri](taycan_turbo_cross_turismo/gallery)
+- [Porsche Taycan Turbo Cross Turismo tester](taycan_turbo_cross_turismo/reviews)
 
 ### Porsche Taycan Turbo S
 
@@ -140,12 +140,12 @@ Porsche Taycan Turbo Cross Turismo er en helelektrisk luksusstasjonsvogn med en 
 
 Porsche Taycan Turbo S er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 507 km (315 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan Turbo S article](taycan_turbo_s/)
-- [Porsche Taycan Turbo S Range & consumption info](taycan_turbo_s/rangeandconsumption)
-- [Porsche Taycan Turbo S Charging curve and performance](taycan_turbo_s/chargingcurve)
-- [Porsche Taycan Turbo S full specifications](taycan_turbo_s/specifications)
-- [Porsche Taycan Turbo S image gallery](taycan_turbo_s/gallery)
-- [Porsche Taycan Turbo S reviews](taycan_turbo_s/reviews)
+- [Porsche Taycan Turbo S full beskrivelse](taycan_turbo_s/)
+- [Porsche Taycan Turbo S rekkevidde & forbruk](taycan_turbo_s/rangeandconsumption)
+- [Porsche Taycan Turbo S ladekurve og ladeytelse](taycan_turbo_s/chargingcurve)
+- [Porsche Taycan Turbo S spesifikasjoners](taycan_turbo_s/specifications)
+- [Porsche Taycan Turbo S galleri](taycan_turbo_s/gallery)
+- [Porsche Taycan Turbo S tester](taycan_turbo_s/reviews)
 
 ### Porsche Taycan Turbo Sport Turismo
 
@@ -153,12 +153,12 @@ Porsche Taycan Turbo S er en helelektrisk luksussedan med en WLTP rekkevidde på
 
 Porsche Taycan Turbo Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 507 km (315 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan Turbo Sport Turismo article](taycan_turbo_sport_turismo/)
-- [Porsche Taycan Turbo Sport Turismo Range & consumption info](taycan_turbo_sport_turismo/rangeandconsumption)
-- [Porsche Taycan Turbo Sport Turismo Charging curve and performance](taycan_turbo_sport_turismo/chargingcurve)
-- [Porsche Taycan Turbo Sport Turismo full specifications](taycan_turbo_sport_turismo/specifications)
-- [Porsche Taycan Turbo Sport Turismo image gallery](taycan_turbo_sport_turismo/gallery)
-- [Porsche Taycan Turbo Sport Turismo reviews](taycan_turbo_sport_turismo/reviews)
+- [Porsche Taycan Turbo Sport Turismo full beskrivelse](taycan_turbo_sport_turismo/)
+- [Porsche Taycan Turbo Sport Turismo rekkevidde & forbruk](taycan_turbo_sport_turismo/rangeandconsumption)
+- [Porsche Taycan Turbo Sport Turismo ladekurve og ladeytelse](taycan_turbo_sport_turismo/chargingcurve)
+- [Porsche Taycan Turbo Sport Turismo spesifikasjoners](taycan_turbo_sport_turismo/specifications)
+- [Porsche Taycan Turbo Sport Turismo galleri](taycan_turbo_sport_turismo/gallery)
+- [Porsche Taycan Turbo Sport Turismo tester](taycan_turbo_sport_turismo/reviews)
 
 ### Porsche Taycan Turbo S Cross Turismo
 
@@ -166,12 +166,12 @@ Porsche Taycan Turbo Sport Turismo er en helelektrisk luksusstasjonsvogn med en 
 
 Porsche Taycan Turbo S Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 419 km (260 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan Turbo S Cross Turismo article](taycan_turbo_s_cross_turismo/)
-- [Porsche Taycan Turbo S Cross Turismo Range & consumption info](taycan_turbo_s_cross_turismo/rangeandconsumption)
-- [Porsche Taycan Turbo S Cross Turismo Charging curve and performance](taycan_turbo_s_cross_turismo/chargingcurve)
-- [Porsche Taycan Turbo S Cross Turismo full specifications](taycan_turbo_s_cross_turismo/specifications)
-- [Porsche Taycan Turbo S Cross Turismo image gallery](taycan_turbo_s_cross_turismo/gallery)
-- [Porsche Taycan Turbo S Cross Turismo reviews](taycan_turbo_s_cross_turismo/reviews)
+- [Porsche Taycan Turbo S Cross Turismo full beskrivelse](taycan_turbo_s_cross_turismo/)
+- [Porsche Taycan Turbo S Cross Turismo rekkevidde & forbruk](taycan_turbo_s_cross_turismo/rangeandconsumption)
+- [Porsche Taycan Turbo S Cross Turismo ladekurve og ladeytelse](taycan_turbo_s_cross_turismo/chargingcurve)
+- [Porsche Taycan Turbo S Cross Turismo spesifikasjoners](taycan_turbo_s_cross_turismo/specifications)
+- [Porsche Taycan Turbo S Cross Turismo galleri](taycan_turbo_s_cross_turismo/gallery)
+- [Porsche Taycan Turbo S Cross Turismo tester](taycan_turbo_s_cross_turismo/reviews)
 
 ### Porsche Taycan Turbo S Sport Turismo
 
@@ -179,10 +179,10 @@ Porsche Taycan Turbo S Cross Turismo er en helelektrisk luksusstasjonsvogn med e
 
 Porsche Taycan Turbo S Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 457 km (284 miles). EVKX.net har alle detaljene. 
 
-- [Porsche Taycan Turbo S Sport Turismo article](taycan_turbo_s_sport_turismo/)
-- [Porsche Taycan Turbo S Sport Turismo Range & consumption info](taycan_turbo_s_sport_turismo/rangeandconsumption)
-- [Porsche Taycan Turbo S Sport Turismo Charging curve and performance](taycan_turbo_s_sport_turismo/chargingcurve)
-- [Porsche Taycan Turbo S Sport Turismo full specifications](taycan_turbo_s_sport_turismo/specifications)
-- [Porsche Taycan Turbo S Sport Turismo image gallery](taycan_turbo_s_sport_turismo/gallery)
-- [Porsche Taycan Turbo S Sport Turismo reviews](taycan_turbo_s_sport_turismo/reviews)
+- [Porsche Taycan Turbo S Sport Turismo full beskrivelse](taycan_turbo_s_sport_turismo/)
+- [Porsche Taycan Turbo S Sport Turismo rekkevidde & forbruk](taycan_turbo_s_sport_turismo/rangeandconsumption)
+- [Porsche Taycan Turbo S Sport Turismo ladekurve og ladeytelse](taycan_turbo_s_sport_turismo/chargingcurve)
+- [Porsche Taycan Turbo S Sport Turismo spesifikasjoners](taycan_turbo_s_sport_turismo/specifications)
+- [Porsche Taycan Turbo S Sport Turismo galleri](taycan_turbo_s_sport_turismo/gallery)
+- [Porsche Taycan Turbo S Sport Turismo tester](taycan_turbo_s_sport_turismo/reviews)
 

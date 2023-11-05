@@ -1,7 +1,7 @@
 ---
 title: Nio EL7
 linktitle: "EL7"
-description: "See below for details of the different variants of Nio EL7"
+description: "Se nedenfor for alle varianter av Nio EL7"
 weight: 30
 ---
 ### Nio EL7
@@ -10,10 +10,10 @@ weight: 30
 
 Nio EL7 er en helelektrisk SUV med en WLTP rekkevidde på opptil 513 km (319 miles). EVKX.net har alle detaljene. 
 
-- [Nio EL7 article](el7/)
-- [Nio EL7 Range & consumption info](el7/rangeandconsumption)
-- [Nio EL7 Charging curve and performance](el7/chargingcurve)
-- [Nio EL7 full specifications](el7/specifications)
-- [Nio EL7 image gallery](el7/gallery)
-- [Nio EL7 reviews](el7/reviews)
+- [Nio EL7 full beskrivelse](el7/)
+- [Nio EL7 rekkevidde & forbruk](el7/rangeandconsumption)
+- [Nio EL7 ladekurve og ladeytelse](el7/chargingcurve)
+- [Nio EL7 spesifikasjoners](el7/specifications)
+- [Nio EL7 galleri](el7/gallery)
+- [Nio EL7 tester](el7/reviews)
 

@@ -1,7 +1,7 @@
 ---
 title: CUPRA Tavascan
 linktitle: "Tavascan"
-description: "See below for details of the different variants of CUPRA Tavascan"
+description: "Se nedenfor for alle varianter av CUPRA Tavascan"
 weight: 30
 ---
 ### CUPRA Tavascan Endurance
@@ -10,12 +10,12 @@ weight: 30
 
 CUPRA Tavascan Endurance er en helelektrisk SUV med en WLTP rekkevidde på opptil 547 km (340 miles). EVKX.net har alle detaljene. 
 
-- [CUPRA Tavascan Endurance article](tavascan_endurance/)
-- [CUPRA Tavascan Endurance Range & consumption info](tavascan_endurance/rangeandconsumption)
-- [CUPRA Tavascan Endurance Charging curve and performance](tavascan_endurance/chargingcurve)
-- [CUPRA Tavascan Endurance full specifications](tavascan_endurance/specifications)
-- [CUPRA Tavascan Endurance image gallery](tavascan_endurance/gallery)
-- [CUPRA Tavascan Endurance reviews](tavascan_endurance/reviews)
+- [CUPRA Tavascan Endurance full beskrivelse](tavascan_endurance/)
+- [CUPRA Tavascan Endurance rekkevidde & forbruk](tavascan_endurance/rangeandconsumption)
+- [CUPRA Tavascan Endurance ladekurve og ladeytelse](tavascan_endurance/chargingcurve)
+- [CUPRA Tavascan Endurance spesifikasjoners](tavascan_endurance/specifications)
+- [CUPRA Tavascan Endurance galleri](tavascan_endurance/gallery)
+- [CUPRA Tavascan Endurance tester](tavascan_endurance/reviews)
 
 ### CUPRA Tavascan VZ
 
@@ -23,10 +23,10 @@ CUPRA Tavascan Endurance er en helelektrisk SUV med en WLTP rekkevidde på oppti
 
 CUPRA Tavascan VZ er en helelektrisk SUV med en WLTP rekkevidde på opptil 517 km (321 miles). EVKX.net har alle detaljene. 
 
-- [CUPRA Tavascan VZ article](tavascan_vz/)
-- [CUPRA Tavascan VZ Range & consumption info](tavascan_vz/rangeandconsumption)
-- [CUPRA Tavascan VZ Charging curve and performance](tavascan_vz/chargingcurve)
-- [CUPRA Tavascan VZ full specifications](tavascan_vz/specifications)
-- [CUPRA Tavascan VZ image gallery](tavascan_vz/gallery)
-- [CUPRA Tavascan VZ reviews](tavascan_vz/reviews)
+- [CUPRA Tavascan VZ full beskrivelse](tavascan_vz/)
+- [CUPRA Tavascan VZ rekkevidde & forbruk](tavascan_vz/rangeandconsumption)
+- [CUPRA Tavascan VZ ladekurve og ladeytelse](tavascan_vz/chargingcurve)
+- [CUPRA Tavascan VZ spesifikasjoners](tavascan_vz/specifications)
+- [CUPRA Tavascan VZ galleri](tavascan_vz/gallery)
+- [CUPRA Tavascan VZ tester](tavascan_vz/reviews)
 

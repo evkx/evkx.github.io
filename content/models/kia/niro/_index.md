@@ -10,10 +10,10 @@ weight: 30
 
 Kia Niro EV is an all-electric crossover with a WLTP range of up to 463 km (288 miles). EVKX.net has all the details. 
 
-- [Kia Niro EV article](niro_ev/)
-- [Kia Niro EV Range & consumption info](niro_ev/rangeandconsumption)
-- [Kia Niro EV Charging curve and performance](niro_ev/chargingcurve)
-- [Kia Niro EV full specifications](niro_ev/specifications)
-- [Kia Niro EV image gallery](niro_ev/gallery)
+- [Kia Niro EV full article](niro_ev/)
+- [Kia Niro EV range & consumption](niro_ev/rangeandconsumption)
+- [Kia Niro EV charging curve & performance](niro_ev/chargingcurve)
+- [Kia Niro EV full specificationss](niro_ev/specifications)
+- [Kia Niro EV gallery](niro_ev/gallery)
 - [Kia Niro EV reviews](niro_ev/reviews)
 
