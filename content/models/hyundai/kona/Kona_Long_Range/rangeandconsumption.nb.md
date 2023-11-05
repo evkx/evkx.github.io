@@ -1,6 +1,6 @@
 ---
-title: Hyundai Kona Long Range range & consumption
-linktitle: "Range"
+title: Hyundai Kona Long Range rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Hyundai Kona Long Range."
 weight: 9
 hidden: true

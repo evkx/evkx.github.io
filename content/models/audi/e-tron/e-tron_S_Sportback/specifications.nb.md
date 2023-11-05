@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron S Sportback specifications
-linktitle: "Specifications"
+title: Audi e-tron S Sportback spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Audi e-tron S Sportback."
 weight: 30
 hidden: true

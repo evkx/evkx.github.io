@@ -1,6 +1,6 @@
 ---
-title: Jeep Avenger range & consumption
-linktitle: "Range"
+title: Jeep Avenger rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Jeep Avenger."
 weight: 9
 hidden: true

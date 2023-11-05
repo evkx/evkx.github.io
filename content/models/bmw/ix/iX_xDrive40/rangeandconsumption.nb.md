@@ -1,6 +1,6 @@
 ---
-title: BMW iX xDrive40 range & consumption
-linktitle: "Range"
+title: BMW iX xDrive40 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for BMW iX xDrive40."
 weight: 9
 hidden: true

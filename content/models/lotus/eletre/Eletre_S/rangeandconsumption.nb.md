@@ -1,6 +1,6 @@
 ---
-title: Lotus Eletre S range & consumption
-linktitle: "Range"
+title: Lotus Eletre S rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Lotus Eletre S."
 weight: 9
 hidden: true

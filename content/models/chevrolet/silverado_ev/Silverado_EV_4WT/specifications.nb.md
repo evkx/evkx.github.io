@@ -1,6 +1,6 @@
 ---
-title: Chevrolet Silverado EV 4WT specifications
-linktitle: "Specifications"
+title: Chevrolet Silverado EV 4WT spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Chevrolet Silverado EV 4WT."
 weight: 30
 hidden: true

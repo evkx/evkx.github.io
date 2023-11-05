@@ -1,6 +1,6 @@
 ---
-title: Rivian R1T Performance Dual-Motor AWD LP specifications
-linktitle: "Specifications"
+title: Rivian R1T Performance Dual-Motor AWD LP spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Rivian R1T Performance Dual-Motor AWD LP."
 weight: 30
 hidden: true

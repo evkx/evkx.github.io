@@ -1,6 +1,6 @@
 ---
-title: CUPRA BORN 58 range & consumption
-linktitle: "Range"
+title: CUPRA BORN 58 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for CUPRA BORN 58."
 weight: 9
 hidden: true

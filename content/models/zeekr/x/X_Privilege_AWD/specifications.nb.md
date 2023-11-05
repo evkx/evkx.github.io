@@ -1,6 +1,6 @@
 ---
-title: Zeekr X Privilege AWD specifications
-linktitle: "Specifications"
+title: Zeekr X Privilege AWD spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Zeekr X Privilege AWD."
 weight: 30
 hidden: true

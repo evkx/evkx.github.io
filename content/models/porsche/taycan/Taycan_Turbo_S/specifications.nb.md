@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan Turbo S specifications
-linktitle: "Specifications"
+title: Porsche Taycan Turbo S spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Porsche Taycan Turbo S."
 weight: 30
 hidden: true

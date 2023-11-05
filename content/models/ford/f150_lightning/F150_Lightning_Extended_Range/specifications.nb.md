@@ -1,6 +1,6 @@
 ---
-title: Ford F150 Lightning Extended Range specifications
-linktitle: "Specifications"
+title: Ford F150 Lightning Extended Range spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Ford F150 Lightning Extended Range."
 weight: 30
 hidden: true

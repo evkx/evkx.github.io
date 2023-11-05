@@ -1,6 +1,6 @@
 ---
-title: Renault Megane E-Tech Techno specifications
-linktitle: "Specifications"
+title: Renault Megane E-Tech Techno spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Renault Megane E-Tech Techno."
 weight: 30
 hidden: true

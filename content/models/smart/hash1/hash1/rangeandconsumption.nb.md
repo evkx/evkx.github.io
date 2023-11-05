@@ -1,6 +1,6 @@
 ---
-title: Smart #1 range & consumption
-linktitle: "Range"
+title: Smart #1 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Smart #1."
 weight: 9
 hidden: true

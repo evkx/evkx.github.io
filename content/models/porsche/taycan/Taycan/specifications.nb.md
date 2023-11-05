@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan specifications
-linktitle: "Specifications"
+title: Porsche Taycan spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Porsche Taycan."
 weight: 30
 hidden: true

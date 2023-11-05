@@ -1,6 +1,6 @@
 ---
-title: DS 3 E-Tense specifications
-linktitle: "Specifications"
+title: DS 3 E-Tense spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for DS 3 E-Tense."
 weight: 30
 hidden: true

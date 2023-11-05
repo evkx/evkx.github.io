@@ -1,6 +1,6 @@
 ---
-title: Tesla Model S Plaid range & consumption
-linktitle: "Range"
+title: Tesla Model S Plaid rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Tesla Model S Plaid."
 weight: 9
 hidden: true

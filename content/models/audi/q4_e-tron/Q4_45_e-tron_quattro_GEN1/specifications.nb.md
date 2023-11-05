@@ -1,6 +1,6 @@
 ---
-title: Audi Q4 45 e-tron quattro (GEN1) specifications
-linktitle: "Specifications"
+title: Audi Q4 45 e-tron quattro (GEN1) spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Audi Q4 45 e-tron quattro (GEN1)."
 weight: 30
 hidden: true

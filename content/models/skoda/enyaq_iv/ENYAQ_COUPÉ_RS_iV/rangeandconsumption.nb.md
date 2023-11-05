@@ -1,6 +1,6 @@
 ---
-title: SKODA ENYAQ COUPÉ RS iV range & consumption
-linktitle: "Range"
+title: SKODA ENYAQ COUPÉ RS iV rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for SKODA ENYAQ COUPÉ RS iV."
 weight: 9
 hidden: true

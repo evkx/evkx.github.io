@@ -1,6 +1,6 @@
 ---
-title: Kia EV9 Long Range AWD specifications
-linktitle: "Specifications"
+title: Kia EV9 Long Range AWD spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Kia EV9 Long Range AWD."
 weight: 30
 hidden: true

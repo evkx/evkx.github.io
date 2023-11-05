@@ -1,6 +1,6 @@
 ---
-title: Cadillac LYRIQ AWD specifications
-linktitle: "Specifications"
+title: Cadillac LYRIQ AWD spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Cadillac LYRIQ AWD."
 weight: 30
 hidden: true

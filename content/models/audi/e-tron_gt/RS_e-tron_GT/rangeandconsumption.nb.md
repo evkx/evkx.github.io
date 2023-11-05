@@ -1,6 +1,6 @@
 ---
-title: Audi RS e-tron GT range & consumption
-linktitle: "Range"
+title: Audi RS e-tron GT rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Audi RS e-tron GT."
 weight: 9
 hidden: true

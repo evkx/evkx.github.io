@@ -1,6 +1,6 @@
 ---
-title: Audi Q4 40 e-tron range & consumption
-linktitle: "Range"
+title: Audi Q4 40 e-tron rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Audi Q4 40 e-tron."
 weight: 9
 hidden: true

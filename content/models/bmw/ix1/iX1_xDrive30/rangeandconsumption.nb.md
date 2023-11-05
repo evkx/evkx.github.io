@@ -1,6 +1,6 @@
 ---
-title: BMW iX1 xDrive30 range & consumption
-linktitle: "Range"
+title: BMW iX1 xDrive30 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for BMW iX1 xDrive30."
 weight: 9
 hidden: true

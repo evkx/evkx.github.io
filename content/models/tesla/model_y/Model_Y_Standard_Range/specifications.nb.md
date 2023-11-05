@@ -1,6 +1,6 @@
 ---
-title: Tesla Model Y Standard Range specifications
-linktitle: "Specifications"
+title: Tesla Model Y Standard Range spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Tesla Model Y Standard Range."
 weight: 30
 hidden: true

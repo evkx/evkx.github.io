@@ -1,6 +1,6 @@
 ---
-title: Nio ES8 range & consumption
-linktitle: "Range"
+title: Nio ES8 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Nio ES8."
 weight: 9
 hidden: true

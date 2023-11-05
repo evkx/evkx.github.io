@@ -1,6 +1,6 @@
 ---
-title: Hyundai Ioniq 5 N specifications
-linktitle: "Specifications"
+title: Hyundai Ioniq 5 N spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Hyundai Ioniq 5 N."
 weight: 30
 hidden: true

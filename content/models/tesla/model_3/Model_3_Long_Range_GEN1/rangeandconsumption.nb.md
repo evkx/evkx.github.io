@@ -1,6 +1,6 @@
 ---
-title: Tesla Model 3 Long Range (GEN1) range & consumption
-linktitle: "Range"
+title: Tesla Model 3 Long Range (GEN1) rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Tesla Model 3 Long Range (GEN1)."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Hyundai Ioniq 5 N range & consumption
-linktitle: "Range"
+title: Hyundai Ioniq 5 N rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Hyundai Ioniq 5 N."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Volvo C40 Recharge Twin Motor range & consumption
-linktitle: "Range"
+title: Volvo C40 Recharge Twin Motor rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Volvo C40 Recharge Twin Motor."
 weight: 9
 hidden: true

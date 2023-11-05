@@ -1,6 +1,6 @@
 ---
-title: BYD Tang EV600 range & consumption
-linktitle: "Range"
+title: BYD Tang EV600 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for BYD Tang EV600."
 weight: 9
 hidden: true

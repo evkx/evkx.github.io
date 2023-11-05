@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan Turbo S Sport Turismo specifications
-linktitle: "Specifications"
+title: Porsche Taycan Turbo S Sport Turismo spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Porsche Taycan Turbo S Sport Turismo."
 weight: 30
 hidden: true

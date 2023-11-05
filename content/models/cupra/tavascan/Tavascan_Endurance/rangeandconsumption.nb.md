@@ -1,6 +1,6 @@
 ---
-title: CUPRA Tavascan Endurance range & consumption
-linktitle: "Range"
+title: CUPRA Tavascan Endurance rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for CUPRA Tavascan Endurance."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: MG MG4 Electric Extended Range range & consumption
-linktitle: "Range"
+title: MG MG4 Electric Extended Range rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for MG MG4 Electric Extended Range."
 weight: 9
 hidden: true

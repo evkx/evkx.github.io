@@ -1,6 +1,6 @@
 ---
-title: Rivian R1S Performance Dual-Motor AWD MP range & consumption
-linktitle: "Range"
+title: Rivian R1S Performance Dual-Motor AWD MP rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Rivian R1S Performance Dual-Motor AWD MP."
 weight: 9
 hidden: true

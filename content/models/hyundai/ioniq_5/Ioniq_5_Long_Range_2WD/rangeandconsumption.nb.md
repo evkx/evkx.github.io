@@ -1,6 +1,6 @@
 ---
-title: Hyundai Ioniq 5 Long Range 2WD range & consumption
-linktitle: "Range"
+title: Hyundai Ioniq 5 Long Range 2WD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Hyundai Ioniq 5 Long Range 2WD."
 weight: 9
 hidden: true

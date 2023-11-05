@@ -1,6 +1,6 @@
 ---
-title: Audi Q8 Sportback 55 e-tron range & consumption
-linktitle: "Range"
+title: Audi Q8 Sportback 55 e-tron rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Audi Q8 Sportback 55 e-tron."
 weight: 9
 hidden: true

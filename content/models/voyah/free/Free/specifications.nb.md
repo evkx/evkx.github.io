@@ -1,6 +1,6 @@
 ---
-title: VOYAH FREE specifications
-linktitle: "Specifications"
+title: VOYAH FREE spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for VOYAH FREE."
 weight: 30
 hidden: true

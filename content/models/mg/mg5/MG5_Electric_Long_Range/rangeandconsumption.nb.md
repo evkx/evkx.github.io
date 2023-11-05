@@ -1,6 +1,6 @@
 ---
-title: MG MG5 Electric Long Range range & consumption
-linktitle: "Range"
+title: MG MG5 Electric Long Range rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for MG MG5 Electric Long Range."
 weight: 9
 hidden: true

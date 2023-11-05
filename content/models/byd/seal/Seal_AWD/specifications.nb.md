@@ -1,6 +1,6 @@
 ---
-title: BYD Seal AWD specifications
-linktitle: "Specifications"
+title: BYD Seal AWD spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BYD Seal AWD."
 weight: 30
 hidden: true

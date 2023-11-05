@@ -1,6 +1,6 @@
 ---
-title: Smart #1 specifications
-linktitle: "Specifications"
+title: Smart #1 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Smart #1."
 weight: 30
 hidden: true

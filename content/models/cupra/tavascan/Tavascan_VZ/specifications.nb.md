@@ -1,6 +1,6 @@
 ---
-title: CUPRA Tavascan VZ specifications
-linktitle: "Specifications"
+title: CUPRA Tavascan VZ spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for CUPRA Tavascan VZ."
 weight: 30
 hidden: true

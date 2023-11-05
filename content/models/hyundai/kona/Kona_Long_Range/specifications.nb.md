@@ -1,6 +1,6 @@
 ---
-title: Hyundai Kona Long Range specifications
-linktitle: "Specifications"
+title: Hyundai Kona Long Range spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Hyundai Kona Long Range."
 weight: 30
 hidden: true

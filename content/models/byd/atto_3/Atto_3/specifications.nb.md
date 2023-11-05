@@ -1,6 +1,6 @@
 ---
-title: BYD Atto 3 specifications
-linktitle: "Specifications"
+title: BYD Atto 3 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BYD Atto 3."
 weight: 30
 hidden: true

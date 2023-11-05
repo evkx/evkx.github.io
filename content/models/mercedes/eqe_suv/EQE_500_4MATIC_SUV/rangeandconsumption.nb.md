@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQE 500 4MATIC SUV range & consumption
-linktitle: "Range"
+title: Mercedes-EQ EQE 500 4MATIC SUV rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Mercedes-EQ EQE 500 4MATIC SUV."
 weight: 9
 hidden: true

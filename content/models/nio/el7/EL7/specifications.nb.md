@@ -1,6 +1,6 @@
 ---
-title: Nio EL7 specifications
-linktitle: "Specifications"
+title: Nio EL7 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Nio EL7."
 weight: 30
 hidden: true

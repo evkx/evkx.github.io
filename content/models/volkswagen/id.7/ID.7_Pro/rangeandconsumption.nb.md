@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.7 Pro range & consumption
-linktitle: "Range"
+title: Volkswagen ID.7 Pro rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Volkswagen ID.7 Pro."
 weight: 9
 hidden: true

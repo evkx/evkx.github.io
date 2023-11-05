@@ -1,6 +1,6 @@
 ---
-title: BYD Dolphin 60.4kWh range & consumption
-linktitle: "Range"
+title: BYD Dolphin 60.4kWh rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for BYD Dolphin 60.4kWh."
 weight: 9
 hidden: true

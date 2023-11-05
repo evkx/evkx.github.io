@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Sapphire range & consumption
-linktitle: "Range"
+title: Lucid Air Sapphire rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Lucid Air Sapphire."
 weight: 9
 hidden: true

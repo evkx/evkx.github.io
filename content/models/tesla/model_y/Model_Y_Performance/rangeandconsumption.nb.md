@@ -1,6 +1,6 @@
 ---
-title: Tesla Model Y Performance range & consumption
-linktitle: "Range"
+title: Tesla Model Y Performance rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Tesla Model Y Performance."
 weight: 9
 hidden: true

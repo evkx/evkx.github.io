@@ -1,6 +1,6 @@
 ---
-title: Hyundai Kona Standard Range range & consumption
-linktitle: "Range"
+title: Hyundai Kona Standard Range rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Hyundai Kona Standard Range."
 weight: 9
 hidden: true

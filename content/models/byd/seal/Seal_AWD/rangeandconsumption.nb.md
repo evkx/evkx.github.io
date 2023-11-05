@@ -1,6 +1,6 @@
 ---
-title: BYD Seal AWD range & consumption
-linktitle: "Range"
+title: BYD Seal AWD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for BYD Seal AWD."
 weight: 9
 hidden: true

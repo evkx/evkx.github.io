@@ -1,6 +1,6 @@
 ---
-title: XPENG G9 RWD Long Range specifications
-linktitle: "Specifications"
+title: XPENG G9 RWD Long Range spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for XPENG G9 RWD Long Range."
 weight: 30
 hidden: true

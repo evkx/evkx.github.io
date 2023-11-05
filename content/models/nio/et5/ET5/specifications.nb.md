@@ -1,6 +1,6 @@
 ---
-title: Nio ET5 specifications
-linktitle: "Specifications"
+title: Nio ET5 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Nio ET5."
 weight: 30
 hidden: true

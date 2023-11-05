@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.3 Pro S specifications
-linktitle: "Specifications"
+title: Volkswagen ID.3 Pro S spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volkswagen ID.3 Pro S."
 weight: 30
 hidden: true

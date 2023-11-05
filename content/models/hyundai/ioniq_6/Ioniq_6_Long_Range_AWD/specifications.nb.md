@@ -1,6 +1,6 @@
 ---
-title: Hyundai Ioniq 6 Long Range AWD specifications
-linktitle: "Specifications"
+title: Hyundai Ioniq 6 Long Range AWD spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Hyundai Ioniq 6 Long Range AWD."
 weight: 30
 hidden: true

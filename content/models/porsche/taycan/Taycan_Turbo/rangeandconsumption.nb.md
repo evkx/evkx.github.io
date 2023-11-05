@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan Turbo range & consumption
-linktitle: "Range"
+title: Porsche Taycan Turbo rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Porsche Taycan Turbo."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: BMW i4 eDrive35 specifications
-linktitle: "Specifications"
+title: BMW i4 eDrive35 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BMW i4 eDrive35."
 weight: 30
 hidden: true

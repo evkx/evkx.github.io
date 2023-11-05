@@ -1,6 +1,6 @@
 ---
-title: BMW iX M60 specifications
-linktitle: "Specifications"
+title: BMW iX M60 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BMW iX M60."
 weight: 30
 hidden: true

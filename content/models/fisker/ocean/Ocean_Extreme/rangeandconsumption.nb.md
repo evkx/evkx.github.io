@@ -1,6 +1,6 @@
 ---
-title: Fisker Ocean Extreme range & consumption
-linktitle: "Range"
+title: Fisker Ocean Extreme rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Fisker Ocean Extreme."
 weight: 9
 hidden: true

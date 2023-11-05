@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQS 450+ range & consumption
-linktitle: "Range"
+title: Mercedes-EQ EQS 450+ rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Mercedes-EQ EQS 450+."
 weight: 9
 hidden: true

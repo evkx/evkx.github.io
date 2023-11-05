@@ -1,6 +1,6 @@
 ---
-title: Zeekr X Privilege AWD range & consumption
-linktitle: "Range"
+title: Zeekr X Privilege AWD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Zeekr X Privilege AWD."
 weight: 9
 hidden: true

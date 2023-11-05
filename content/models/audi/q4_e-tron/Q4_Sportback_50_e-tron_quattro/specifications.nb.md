@@ -1,6 +1,6 @@
 ---
-title: Audi Q4 Sportback 50 e-tron quattro specifications
-linktitle: "Specifications"
+title: Audi Q4 Sportback 50 e-tron quattro spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Audi Q4 Sportback 50 e-tron quattro."
 weight: 30
 hidden: true

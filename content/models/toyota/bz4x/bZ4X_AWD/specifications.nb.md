@@ -1,6 +1,6 @@
 ---
-title: Toyota bZ4X AWD specifications
-linktitle: "Specifications"
+title: Toyota bZ4X AWD spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Toyota bZ4X AWD."
 weight: 30
 hidden: true

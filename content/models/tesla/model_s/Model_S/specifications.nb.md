@@ -1,6 +1,6 @@
 ---
-title: Tesla Model S specifications
-linktitle: "Specifications"
+title: Tesla Model S spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Tesla Model S."
 weight: 30
 hidden: true

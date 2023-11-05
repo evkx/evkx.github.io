@@ -1,6 +1,6 @@
 ---
-title: BMW iX2 xDrive30 specifications
-linktitle: "Specifications"
+title: BMW iX2 xDrive30 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BMW iX2 xDrive30."
 weight: 30
 hidden: true

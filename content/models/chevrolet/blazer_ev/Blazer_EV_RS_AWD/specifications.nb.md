@@ -1,6 +1,6 @@
 ---
-title: Chevrolet Blazer EV RS AWD specifications
-linktitle: "Specifications"
+title: Chevrolet Blazer EV RS AWD spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Chevrolet Blazer EV RS AWD."
 weight: 30
 hidden: true

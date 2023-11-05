@@ -1,6 +1,6 @@
 ---
-title: Cadillac LYRIQ AWD range & consumption
-linktitle: "Range"
+title: Cadillac LYRIQ AWD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Cadillac LYRIQ AWD."
 weight: 9
 hidden: true

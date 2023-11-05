@@ -1,6 +1,6 @@
 ---
-title: HiPhi Z 5 Seater specifications
-linktitle: "Specifications"
+title: HiPhi Z 5 Seater spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for HiPhi Z 5 Seater."
 weight: 30
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Peugot E-208 range & consumption
-linktitle: "Range"
+title: Peugot E-208 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Peugot E-208."
 weight: 9
 hidden: true

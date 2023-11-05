@@ -1,6 +1,6 @@
 ---
-title: Tesla Model Y Performance specifications
-linktitle: "Specifications"
+title: Tesla Model Y Performance spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Tesla Model Y Performance."
 weight: 30
 hidden: true

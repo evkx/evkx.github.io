@@ -1,6 +1,6 @@
 ---
-title: Nio ET5 Touring range & consumption
-linktitle: "Range"
+title: Nio ET5 Touring rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Nio ET5 Touring."
 weight: 9
 hidden: true

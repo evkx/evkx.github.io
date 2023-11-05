@@ -1,6 +1,6 @@
 ---
-title: Volvo EX90 Twin Motor range & consumption
-linktitle: "Range"
+title: Volvo EX90 Twin Motor rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Volvo EX90 Twin Motor."
 weight: 9
 hidden: true

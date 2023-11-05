@@ -1,6 +1,6 @@
 ---
-title: Honda e:Ny1 range & consumption
-linktitle: "Range"
+title: Honda e:Ny1 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Honda e:Ny1."
 weight: 9
 hidden: true

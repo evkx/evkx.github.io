@@ -1,6 +1,6 @@
 ---
-title: Kia Niro EV range & consumption
-linktitle: "Range"
+title: Kia Niro EV rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Kia Niro EV."
 weight: 9
 hidden: true

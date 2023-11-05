@@ -1,6 +1,6 @@
 ---
-title: BMW i5 eDrive40 range & consumption
-linktitle: "Range"
+title: BMW i5 eDrive40 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for BMW i5 eDrive40."
 weight: 9
 hidden: true

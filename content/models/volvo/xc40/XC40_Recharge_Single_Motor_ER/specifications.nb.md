@@ -1,6 +1,6 @@
 ---
-title: Volvo XC40 Recharge Single Motor ER specifications
-linktitle: "Specifications"
+title: Volvo XC40 Recharge Single Motor ER spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volvo XC40 Recharge Single Motor ER."
 weight: 30
 hidden: true

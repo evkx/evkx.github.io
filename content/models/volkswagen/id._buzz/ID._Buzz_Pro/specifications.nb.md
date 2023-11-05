@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID. Buzz Pro specifications
-linktitle: "Specifications"
+title: Volkswagen ID. Buzz Pro spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volkswagen ID. Buzz Pro."
 weight: 30
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Nio EL6 range & consumption
-linktitle: "Range"
+title: Nio EL6 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Nio EL6."
 weight: 9
 hidden: true

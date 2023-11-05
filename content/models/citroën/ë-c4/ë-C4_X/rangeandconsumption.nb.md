@@ -1,6 +1,6 @@
 ---
-title: Citroën ë-C4 X range & consumption
-linktitle: "Range"
+title: Citroën ë-C4 X rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Citroën ë-C4 X."
 weight: 9
 hidden: true

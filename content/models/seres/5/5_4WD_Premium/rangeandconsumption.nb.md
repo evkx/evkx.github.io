@@ -1,6 +1,6 @@
 ---
-title: Seres 5 4WD Premium range & consumption
-linktitle: "Range"
+title: Seres 5 4WD Premium rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Seres 5 4WD Premium."
 weight: 9
 hidden: true

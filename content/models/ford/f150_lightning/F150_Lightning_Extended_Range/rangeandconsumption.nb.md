@@ -1,6 +1,6 @@
 ---
-title: Ford F150 Lightning Extended Range range & consumption
-linktitle: "Range"
+title: Ford F150 Lightning Extended Range rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Ford F150 Lightning Extended Range."
 weight: 9
 hidden: true

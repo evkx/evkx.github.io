@@ -1,6 +1,6 @@
 ---
-title: XPENG G9 AWD Performance range & consumption
-linktitle: "Range"
+title: XPENG G9 AWD Performance rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for XPENG G9 AWD Performance."
 weight: 9
 hidden: true

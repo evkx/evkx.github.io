@@ -1,6 +1,6 @@
 ---
-title: HiPhi X 6 Seater specifications
-linktitle: "Specifications"
+title: HiPhi X 6 Seater spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for HiPhi X 6 Seater."
 weight: 30
 hidden: true

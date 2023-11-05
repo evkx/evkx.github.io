@@ -1,6 +1,6 @@
 ---
-title: Citroën ë-C3 range & consumption
-linktitle: "Range"
+title: Citroën ë-C3 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Citroën ë-C3."
 weight: 9
 hidden: true

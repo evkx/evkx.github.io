@@ -1,6 +1,6 @@
 ---
-title: Chevrolet Blazer EV SS specifications
-linktitle: "Specifications"
+title: Chevrolet Blazer EV SS spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Chevrolet Blazer EV SS."
 weight: 30
 hidden: true

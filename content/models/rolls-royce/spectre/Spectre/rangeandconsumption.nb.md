@@ -1,6 +1,6 @@
 ---
-title: Rolls-Royce Spectre range & consumption
-linktitle: "Range"
+title: Rolls-Royce Spectre rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Rolls-Royce Spectre."
 weight: 9
 hidden: true

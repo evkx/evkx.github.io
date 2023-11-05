@@ -1,6 +1,6 @@
 ---
-title: Volvo EX30 Single Motor specifications
-linktitle: "Specifications"
+title: Volvo EX30 Single Motor spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volvo EX30 Single Motor."
 weight: 30
 hidden: true

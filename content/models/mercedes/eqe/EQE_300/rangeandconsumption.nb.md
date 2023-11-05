@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQE 300 range & consumption
-linktitle: "Range"
+title: Mercedes-EQ EQE 300 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Mercedes-EQ EQE 300."
 weight: 9
 hidden: true

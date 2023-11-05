@@ -1,6 +1,6 @@
 ---
-title: Hongqi E-HS9 Premium range & consumption
-linktitle: "Range"
+title: Hongqi E-HS9 Premium rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Hongqi E-HS9 Premium."
 weight: 9
 hidden: true

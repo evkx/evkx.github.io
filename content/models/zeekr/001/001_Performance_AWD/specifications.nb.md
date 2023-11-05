@@ -1,6 +1,6 @@
 ---
-title: Zeekr 001 Performance AWD specifications
-linktitle: "Specifications"
+title: Zeekr 001 Performance AWD spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Zeekr 001 Performance AWD."
 weight: 30
 hidden: true

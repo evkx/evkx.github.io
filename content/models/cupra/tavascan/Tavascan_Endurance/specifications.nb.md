@@ -1,6 +1,6 @@
 ---
-title: CUPRA Tavascan Endurance specifications
-linktitle: "Specifications"
+title: CUPRA Tavascan Endurance spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for CUPRA Tavascan Endurance."
 weight: 30
 hidden: true

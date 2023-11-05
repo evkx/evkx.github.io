@@ -1,6 +1,6 @@
 ---
-title: Volvo C40 Recharge Single Motor ER range & consumption
-linktitle: "Range"
+title: Volvo C40 Recharge Single Motor ER rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Volvo C40 Recharge Single Motor ER."
 weight: 9
 hidden: true

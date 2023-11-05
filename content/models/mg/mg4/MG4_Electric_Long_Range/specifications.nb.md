@@ -1,6 +1,6 @@
 ---
-title: MG MG4 Electric Long Range specifications
-linktitle: "Specifications"
+title: MG MG4 Electric Long Range spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for MG MG4 Electric Long Range."
 weight: 30
 hidden: true

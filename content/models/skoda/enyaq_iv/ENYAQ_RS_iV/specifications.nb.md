@@ -1,6 +1,6 @@
 ---
-title: SKODA ENYAQ RS iV specifications
-linktitle: "Specifications"
+title: SKODA ENYAQ RS iV spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for SKODA ENYAQ RS iV."
 weight: 30
 hidden: true

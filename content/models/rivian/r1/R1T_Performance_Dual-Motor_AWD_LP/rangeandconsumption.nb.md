@@ -1,6 +1,6 @@
 ---
-title: Rivian R1T Performance Dual-Motor AWD LP range & consumption
-linktitle: "Range"
+title: Rivian R1T Performance Dual-Motor AWD LP rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Rivian R1T Performance Dual-Motor AWD LP."
 weight: 9
 hidden: true

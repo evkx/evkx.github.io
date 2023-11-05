@@ -1,6 +1,6 @@
 ---
-title: Hyundai Kona Standard Range specifications
-linktitle: "Specifications"
+title: Hyundai Kona Standard Range spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Hyundai Kona Standard Range."
 weight: 30
 hidden: true

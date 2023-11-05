@@ -1,6 +1,6 @@
 ---
-title: Peugot E-3008 Long Range specifications
-linktitle: "Specifications"
+title: Peugot E-3008 Long Range spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Peugot E-3008 Long Range."
 weight: 30
 hidden: true

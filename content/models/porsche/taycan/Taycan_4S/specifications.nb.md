@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan 4S specifications
-linktitle: "Specifications"
+title: Porsche Taycan 4S spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Porsche Taycan 4S."
 weight: 30
 hidden: true

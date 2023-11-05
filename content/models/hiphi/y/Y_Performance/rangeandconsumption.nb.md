@@ -1,6 +1,6 @@
 ---
-title: HiPhi Y Performance range & consumption
-linktitle: "Range"
+title: HiPhi Y Performance rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for HiPhi Y Performance."
 weight: 9
 hidden: true

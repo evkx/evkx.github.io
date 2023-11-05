@@ -1,6 +1,6 @@
 ---
-title: Ford Mustang Mach-E GT range & consumption
-linktitle: "Range"
+title: Ford Mustang Mach-E GT rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Ford Mustang Mach-E GT."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Tesla Model S range & consumption
-linktitle: "Range"
+title: Tesla Model S rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Tesla Model S."
 weight: 9
 hidden: true

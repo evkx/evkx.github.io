@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Grand Touring specifications
-linktitle: "Specifications"
+title: Lucid Air Grand Touring spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Lucid Air Grand Touring."
 weight: 30
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Fiat 600e specifications
-linktitle: "Specifications"
+title: Fiat 600e spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Fiat 600e."
 weight: 30
 hidden: true

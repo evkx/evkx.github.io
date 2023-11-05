@@ -1,6 +1,6 @@
 ---
-title: Volvo C40 Recharge Single Motor ER specifications
-linktitle: "Specifications"
+title: Volvo C40 Recharge Single Motor ER spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volvo C40 Recharge Single Motor ER."
 weight: 30
 hidden: true

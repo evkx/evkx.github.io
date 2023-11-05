@@ -1,6 +1,6 @@
 ---
-title: Volvo EX30 Single Motor Extended Range specifications
-linktitle: "Specifications"
+title: Volvo EX30 Single Motor Extended Range spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volvo EX30 Single Motor Extended Range."
 weight: 30
 hidden: true

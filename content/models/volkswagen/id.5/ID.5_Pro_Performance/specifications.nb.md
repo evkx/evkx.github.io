@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.5 Pro Performance specifications
-linktitle: "Specifications"
+title: Volkswagen ID.5 Pro Performance spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volkswagen ID.5 Pro Performance."
 weight: 30
 hidden: true

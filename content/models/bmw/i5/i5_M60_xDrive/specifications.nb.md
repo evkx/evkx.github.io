@@ -1,6 +1,6 @@
 ---
-title: BMW i5 M60 xDrive specifications
-linktitle: "Specifications"
+title: BMW i5 M60 xDrive spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BMW i5 M60 xDrive."
 weight: 30
 hidden: true

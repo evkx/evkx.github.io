@@ -1,6 +1,6 @@
 ---
-title: SKODA ENYAQ RS iV range & consumption
-linktitle: "Range"
+title: SKODA ENYAQ RS iV rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for SKODA ENYAQ RS iV."
 weight: 9
 hidden: true

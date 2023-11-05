@@ -1,6 +1,6 @@
 ---
-title: BMW iX3 range & consumption
-linktitle: "Range"
+title: BMW iX3 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for BMW iX3."
 weight: 9
 hidden: true

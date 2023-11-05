@@ -1,6 +1,6 @@
 ---
-title: Toyota bZ4X AWD range & consumption
-linktitle: "Range"
+title: Toyota bZ4X AWD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Toyota bZ4X AWD."
 weight: 9
 hidden: true

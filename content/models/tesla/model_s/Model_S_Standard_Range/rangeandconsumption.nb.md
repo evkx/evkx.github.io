@@ -1,6 +1,6 @@
 ---
-title: Tesla Model S Standard Range range & consumption
-linktitle: "Range"
+title: Tesla Model S Standard Range rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Tesla Model S Standard Range."
 weight: 9
 hidden: true

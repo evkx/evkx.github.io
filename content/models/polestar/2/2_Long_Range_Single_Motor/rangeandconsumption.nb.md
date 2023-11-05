@@ -1,6 +1,6 @@
 ---
-title: Polestar 2 Long Range Single Motor range & consumption
-linktitle: "Range"
+title: Polestar 2 Long Range Single Motor rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Polestar 2 Long Range Single Motor."
 weight: 9
 hidden: true

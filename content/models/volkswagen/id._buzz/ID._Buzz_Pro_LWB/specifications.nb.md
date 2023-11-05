@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID. Buzz Pro LWB specifications
-linktitle: "Specifications"
+title: Volkswagen ID. Buzz Pro LWB spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volkswagen ID. Buzz Pro LWB."
 weight: 30
 hidden: true

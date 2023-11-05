@@ -1,6 +1,6 @@
 ---
-title: Smart #1 Brabus range & consumption
-linktitle: "Range"
+title: Smart #1 Brabus rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Smart #1 Brabus."
 weight: 9
 hidden: true

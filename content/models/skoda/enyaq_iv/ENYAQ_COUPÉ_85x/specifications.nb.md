@@ -1,6 +1,6 @@
 ---
-title: SKODA ENYAQ COUPÉ 85x specifications
-linktitle: "Specifications"
+title: SKODA ENYAQ COUPÉ 85x spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for SKODA ENYAQ COUPÉ 85x."
 weight: 30
 hidden: true

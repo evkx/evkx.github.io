@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan 4S Sport Turismo range & consumption
-linktitle: "Range"
+title: Porsche Taycan 4S Sport Turismo rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Porsche Taycan 4S Sport Turismo."
 weight: 9
 hidden: true

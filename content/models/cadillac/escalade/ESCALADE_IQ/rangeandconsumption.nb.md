@@ -1,6 +1,6 @@
 ---
-title: Cadillac ESCALADE IQ range & consumption
-linktitle: "Range"
+title: Cadillac ESCALADE IQ rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Cadillac ESCALADE IQ."
 weight: 9
 hidden: true

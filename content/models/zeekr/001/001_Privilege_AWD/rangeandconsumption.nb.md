@@ -1,6 +1,6 @@
 ---
-title: Zeekr 001 Privilege AWD range & consumption
-linktitle: "Range"
+title: Zeekr 001 Privilege AWD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Zeekr 001 Privilege AWD."
 weight: 9
 hidden: true

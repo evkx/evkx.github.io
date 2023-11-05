@@ -1,6 +1,6 @@
 ---
-title: Kia EV6 Long Range 2WD range & consumption
-linktitle: "Range"
+title: Kia EV6 Long Range 2WD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Kia EV6 Long Range 2WD."
 weight: 9
 hidden: true

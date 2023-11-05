@@ -1,6 +1,6 @@
 ---
-title: Renault Megane E-Tech Techno range & consumption
-linktitle: "Range"
+title: Renault Megane E-Tech Techno rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Renault Megane E-Tech Techno."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Subaru Solterra AWD range & consumption
-linktitle: "Range"
+title: Subaru Solterra AWD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Subaru Solterra AWD."
 weight: 9
 hidden: true

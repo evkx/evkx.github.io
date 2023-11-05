@@ -1,6 +1,6 @@
 ---
-title: Honda e:Ny1 specifications
-linktitle: "Specifications"
+title: Honda e:Ny1 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Honda e:Ny1."
 weight: 30
 hidden: true

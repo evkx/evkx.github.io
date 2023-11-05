@@ -1,6 +1,6 @@
 ---
-title: Renault Scenic E-Tech electric High Range range & consumption
-linktitle: "Range"
+title: Renault Scenic E-Tech electric High Range rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Renault Scenic E-Tech electric High Range."
 weight: 9
 hidden: true

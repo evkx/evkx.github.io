@@ -1,6 +1,6 @@
 ---
-title: SKODA Enyaq iV80 range & consumption
-linktitle: "Range"
+title: SKODA Enyaq iV80 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for SKODA Enyaq iV80."
 weight: 9
 hidden: true

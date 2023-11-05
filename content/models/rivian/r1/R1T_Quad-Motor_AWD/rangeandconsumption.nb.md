@@ -1,6 +1,6 @@
 ---
-title: Rivian R1T Quad-Motor AWD range & consumption
-linktitle: "Range"
+title: Rivian R1T Quad-Motor AWD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Rivian R1T Quad-Motor AWD."
 weight: 9
 hidden: true

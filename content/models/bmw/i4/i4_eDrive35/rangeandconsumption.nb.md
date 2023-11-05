@@ -1,6 +1,6 @@
 ---
-title: BMW i4 eDrive35 range & consumption
-linktitle: "Range"
+title: BMW i4 eDrive35 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for BMW i4 eDrive35."
 weight: 9
 hidden: true

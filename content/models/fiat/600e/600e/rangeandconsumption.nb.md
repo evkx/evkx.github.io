@@ -1,6 +1,6 @@
 ---
-title: Fiat 600e range & consumption
-linktitle: "Range"
+title: Fiat 600e rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Fiat 600e."
 weight: 9
 hidden: true

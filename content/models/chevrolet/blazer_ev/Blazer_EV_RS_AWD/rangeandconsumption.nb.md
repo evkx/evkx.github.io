@@ -1,6 +1,6 @@
 ---
-title: Chevrolet Blazer EV RS AWD range & consumption
-linktitle: "Range"
+title: Chevrolet Blazer EV RS AWD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Chevrolet Blazer EV RS AWD."
 weight: 9
 hidden: true

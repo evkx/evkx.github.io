@@ -1,6 +1,6 @@
 ---
-title: Mercedes-AMG EQE 53 4MATIC+ SUV specifications
-linktitle: "Specifications"
+title: Mercedes-AMG EQE 53 4MATIC+ SUV spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Mercedes-AMG EQE 53 4MATIC+ SUV."
 weight: 30
 hidden: true

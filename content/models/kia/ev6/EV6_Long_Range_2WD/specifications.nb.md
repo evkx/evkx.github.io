@@ -1,6 +1,6 @@
 ---
-title: Kia EV6 Long Range 2WD specifications
-linktitle: "Specifications"
+title: Kia EV6 Long Range 2WD spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Kia EV6 Long Range 2WD."
 weight: 30
 hidden: true

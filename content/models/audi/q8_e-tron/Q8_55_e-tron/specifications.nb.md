@@ -1,6 +1,6 @@
 ---
-title: Audi Q8 55 e-tron specifications
-linktitle: "Specifications"
+title: Audi Q8 55 e-tron spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Audi Q8 55 e-tron."
 weight: 30
 hidden: true

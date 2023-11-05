@@ -1,6 +1,6 @@
 ---
-title: BMW iX1 eDrive20 specifications
-linktitle: "Specifications"
+title: BMW iX1 eDrive20 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BMW iX1 eDrive20."
 weight: 30
 hidden: true

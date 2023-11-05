@@ -1,6 +1,6 @@
 ---
-title: BMW i4 M50 range & consumption
-linktitle: "Range"
+title: BMW i4 M50 rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for BMW i4 M50."
 weight: 9
 hidden: true

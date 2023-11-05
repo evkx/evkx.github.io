@@ -1,6 +1,6 @@
 ---
-title: BYD Han specifications
-linktitle: "Specifications"
+title: BYD Han spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BYD Han."
 weight: 30
 hidden: true

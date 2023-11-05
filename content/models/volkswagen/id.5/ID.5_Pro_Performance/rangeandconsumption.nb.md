@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.5 Pro Performance range & consumption
-linktitle: "Range"
+title: Volkswagen ID.5 Pro Performance rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Volkswagen ID.5 Pro Performance."
 weight: 9
 hidden: true

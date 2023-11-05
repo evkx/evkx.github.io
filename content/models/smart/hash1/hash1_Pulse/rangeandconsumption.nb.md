@@ -1,6 +1,6 @@
 ---
-title: Smart #1 Pulse range & consumption
-linktitle: "Range"
+title: Smart #1 Pulse rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Smart #1 Pulse."
 weight: 9
 hidden: true

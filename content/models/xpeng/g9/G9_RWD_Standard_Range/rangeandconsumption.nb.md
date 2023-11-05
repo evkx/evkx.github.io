@@ -1,6 +1,6 @@
 ---
-title: XPENG G9 RWD Standard Range range & consumption
-linktitle: "Range"
+title: XPENG G9 RWD Standard Range rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for XPENG G9 RWD Standard Range."
 weight: 9
 hidden: true

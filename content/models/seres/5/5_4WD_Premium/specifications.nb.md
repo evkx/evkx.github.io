@@ -1,6 +1,6 @@
 ---
-title: Seres 5 4WD Premium specifications
-linktitle: "Specifications"
+title: Seres 5 4WD Premium spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Seres 5 4WD Premium."
 weight: 30
 hidden: true

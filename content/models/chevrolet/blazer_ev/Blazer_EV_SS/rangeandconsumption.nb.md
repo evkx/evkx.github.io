@@ -1,6 +1,6 @@
 ---
-title: Chevrolet Blazer EV SS range & consumption
-linktitle: "Range"
+title: Chevrolet Blazer EV SS rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Chevrolet Blazer EV SS."
 weight: 9
 hidden: true

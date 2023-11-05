@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Sapphire specifications
-linktitle: "Specifications"
+title: Lucid Air Sapphire spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Lucid Air Sapphire."
 weight: 30
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: BMW i7 M70 xDrive specifications
-linktitle: "Specifications"
+title: BMW i7 M70 xDrive spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BMW i7 M70 xDrive."
 weight: 30
 hidden: true

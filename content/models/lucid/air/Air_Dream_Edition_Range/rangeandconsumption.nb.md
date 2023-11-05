@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Dream Edition Range range & consumption
-linktitle: "Range"
+title: Lucid Air Dream Edition Range rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Lucid Air Dream Edition Range."
 weight: 9
 hidden: true

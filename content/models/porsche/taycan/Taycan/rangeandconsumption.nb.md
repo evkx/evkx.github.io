@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan range & consumption
-linktitle: "Range"
+title: Porsche Taycan rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Porsche Taycan."
 weight: 9
 hidden: true

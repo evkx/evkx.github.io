@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan 4S Cross Turismo range & consumption
-linktitle: "Range"
+title: Porsche Taycan 4S Cross Turismo rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Porsche Taycan 4S Cross Turismo."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: DS 3 E-Tense range & consumption
-linktitle: "Range"
+title: DS 3 E-Tense rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for DS 3 E-Tense."
 weight: 9
 hidden: true

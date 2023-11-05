@@ -1,6 +1,6 @@
 ---
-title: XPENG G9 AWD Performance specifications
-linktitle: "Specifications"
+title: XPENG G9 AWD Performance spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for XPENG G9 AWD Performance."
 weight: 30
 hidden: true

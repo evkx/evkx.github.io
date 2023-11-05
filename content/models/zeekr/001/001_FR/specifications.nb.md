@@ -1,6 +1,6 @@
 ---
-title: Zeekr 001 FR specifications
-linktitle: "Specifications"
+title: Zeekr 001 FR spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Zeekr 001 FR."
 weight: 30
 hidden: true

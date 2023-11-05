@@ -1,6 +1,6 @@
 ---
-title: CUPRA Tavascan VZ range & consumption
-linktitle: "Range"
+title: CUPRA Tavascan VZ rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for CUPRA Tavascan VZ."
 weight: 9
 hidden: true

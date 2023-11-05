@@ -1,6 +1,6 @@
 ---
-title: Kia EV9 Long Range AWD range & consumption
-linktitle: "Range"
+title: Kia EV9 Long Range AWD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Kia EV9 Long Range AWD."
 weight: 9
 hidden: true

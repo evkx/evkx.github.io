@@ -1,6 +1,6 @@
 ---
-title: SKODA ENYAQ COUPÉ 85x range & consumption
-linktitle: "Range"
+title: SKODA ENYAQ COUPÉ 85x rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for SKODA ENYAQ COUPÉ 85x."
 weight: 9
 hidden: true

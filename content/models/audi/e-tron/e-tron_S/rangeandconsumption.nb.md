@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron S range & consumption
-linktitle: "Range"
+title: Audi e-tron S rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Audi e-tron S."
 weight: 9
 hidden: true

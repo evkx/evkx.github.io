@@ -1,6 +1,6 @@
 ---
-title: Lexus RZ 450e range & consumption
-linktitle: "Range"
+title: Lexus RZ 450e rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Lexus RZ 450e."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: HiPhi Y Performance specifications
-linktitle: "Specifications"
+title: HiPhi Y Performance spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for HiPhi Y Performance."
 weight: 30
 hidden: true

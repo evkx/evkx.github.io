@@ -1,6 +1,6 @@
 ---
-title: Polestar 3 Long Range Dual Motor Performance range & consumption
-linktitle: "Range"
+title: Polestar 3 Long Range Dual Motor Performance rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Polestar 3 Long Range Dual Motor Performance."
 weight: 9
 hidden: true

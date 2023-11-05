@@ -1,6 +1,6 @@
 ---
-title: Ford Mustang Mach-E Standard Range AWD range & consumption
-linktitle: "Range"
+title: Ford Mustang Mach-E Standard Range AWD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Ford Mustang Mach-E Standard Range AWD."
 weight: 9
 hidden: true

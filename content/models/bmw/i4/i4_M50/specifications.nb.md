@@ -1,6 +1,6 @@
 ---
-title: BMW i4 M50 specifications
-linktitle: "Specifications"
+title: BMW i4 M50 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BMW i4 M50."
 weight: 30
 hidden: true

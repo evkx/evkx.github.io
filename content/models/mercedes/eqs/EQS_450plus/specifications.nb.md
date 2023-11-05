@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQS 450+ specifications
-linktitle: "Specifications"
+title: Mercedes-EQ EQS 450+ spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Mercedes-EQ EQS 450+."
 weight: 30
 hidden: true

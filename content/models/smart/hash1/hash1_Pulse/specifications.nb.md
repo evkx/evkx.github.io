@@ -1,6 +1,6 @@
 ---
-title: Smart #1 Pulse specifications
-linktitle: "Specifications"
+title: Smart #1 Pulse spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Smart #1 Pulse."
 weight: 30
 hidden: true

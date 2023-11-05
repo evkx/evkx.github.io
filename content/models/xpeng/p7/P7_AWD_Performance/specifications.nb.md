@@ -1,6 +1,6 @@
 ---
-title: XPENG P7 AWD Performance specifications
-linktitle: "Specifications"
+title: XPENG P7 AWD Performance spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for XPENG P7 AWD Performance."
 weight: 30
 hidden: true

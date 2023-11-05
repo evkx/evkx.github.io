@@ -1,6 +1,6 @@
 ---
-title: Chevrolet Silverado EV 4WT range & consumption
-linktitle: "Range"
+title: Chevrolet Silverado EV 4WT rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Chevrolet Silverado EV 4WT."
 weight: 9
 hidden: true

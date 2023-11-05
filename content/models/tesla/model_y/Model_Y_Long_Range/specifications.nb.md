@@ -1,6 +1,6 @@
 ---
-title: Tesla Model Y Long Range specifications
-linktitle: "Specifications"
+title: Tesla Model Y Long Range spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Tesla Model Y Long Range."
 weight: 30
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Mercedes-AMG EQE 43 4MATIC range & consumption
-linktitle: "Range"
+title: Mercedes-AMG EQE 43 4MATIC rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Mercedes-AMG EQE 43 4MATIC."
 weight: 9
 hidden: true

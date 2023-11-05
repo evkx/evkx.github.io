@@ -1,6 +1,6 @@
 ---
-title: Polestar 2 Long Range Dual Motor specifications
-linktitle: "Specifications"
+title: Polestar 2 Long Range Dual Motor spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Polestar 2 Long Range Dual Motor."
 weight: 30
 hidden: true

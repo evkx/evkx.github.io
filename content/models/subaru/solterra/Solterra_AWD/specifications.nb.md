@@ -1,6 +1,6 @@
 ---
-title: Subaru Solterra AWD specifications
-linktitle: "Specifications"
+title: Subaru Solterra AWD spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Subaru Solterra AWD."
 weight: 30
 hidden: true

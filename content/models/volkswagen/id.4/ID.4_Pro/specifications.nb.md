@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.4 Pro specifications
-linktitle: "Specifications"
+title: Volkswagen ID.4 Pro spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volkswagen ID.4 Pro."
 weight: 30
 hidden: true

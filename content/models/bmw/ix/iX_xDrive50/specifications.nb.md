@@ -1,6 +1,6 @@
 ---
-title: BMW iX xDrive50 specifications
-linktitle: "Specifications"
+title: BMW iX xDrive50 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BMW iX xDrive50."
 weight: 30
 hidden: true

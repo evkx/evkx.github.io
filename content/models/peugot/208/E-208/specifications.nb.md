@@ -1,6 +1,6 @@
 ---
-title: Peugot E-208 specifications
-linktitle: "Specifications"
+title: Peugot E-208 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Peugot E-208."
 weight: 30
 hidden: true

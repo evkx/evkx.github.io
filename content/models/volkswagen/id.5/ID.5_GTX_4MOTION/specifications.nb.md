@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.5 GTX 4MOTION specifications
-linktitle: "Specifications"
+title: Volkswagen ID.5 GTX 4MOTION spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volkswagen ID.5 GTX 4MOTION."
 weight: 30
 hidden: true

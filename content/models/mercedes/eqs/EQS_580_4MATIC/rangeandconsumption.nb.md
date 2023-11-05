@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQS 580 4MATIC range & consumption
-linktitle: "Range"
+title: Mercedes-EQ EQS 580 4MATIC rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Mercedes-EQ EQS 580 4MATIC."
 weight: 9
 hidden: true

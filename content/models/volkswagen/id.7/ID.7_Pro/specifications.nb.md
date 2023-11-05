@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.7 Pro specifications
-linktitle: "Specifications"
+title: Volkswagen ID.7 Pro spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volkswagen ID.7 Pro."
 weight: 30
 hidden: true

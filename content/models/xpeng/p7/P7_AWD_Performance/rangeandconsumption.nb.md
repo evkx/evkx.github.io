@@ -1,6 +1,6 @@
 ---
-title: XPENG P7 AWD Performance range & consumption
-linktitle: "Range"
+title: XPENG P7 AWD Performance rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for XPENG P7 AWD Performance."
 weight: 9
 hidden: true

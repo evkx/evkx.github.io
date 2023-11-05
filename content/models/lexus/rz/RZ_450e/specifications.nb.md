@@ -1,6 +1,6 @@
 ---
-title: Lexus RZ 450e specifications
-linktitle: "Specifications"
+title: Lexus RZ 450e spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Lexus RZ 450e."
 weight: 30
 hidden: true

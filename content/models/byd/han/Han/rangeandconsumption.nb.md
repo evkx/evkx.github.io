@@ -1,6 +1,6 @@
 ---
-title: BYD Han range & consumption
-linktitle: "Range"
+title: BYD Han rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for BYD Han."
 weight: 9
 hidden: true

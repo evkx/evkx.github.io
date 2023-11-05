@@ -1,6 +1,6 @@
 ---
-title: Mercedes-AMG EQE 43 4MATIC specifications
-linktitle: "Specifications"
+title: Mercedes-AMG EQE 43 4MATIC spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Mercedes-AMG EQE 43 4MATIC."
 weight: 30
 hidden: true

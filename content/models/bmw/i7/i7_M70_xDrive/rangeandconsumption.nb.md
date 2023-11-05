@@ -1,6 +1,6 @@
 ---
-title: BMW i7 M70 xDrive range & consumption
-linktitle: "Range"
+title: BMW i7 M70 xDrive rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for BMW i7 M70 xDrive."
 weight: 9
 hidden: true

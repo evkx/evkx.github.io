@@ -1,6 +1,6 @@
 ---
-title: Nio ES8 specifications
-linktitle: "Specifications"
+title: Nio ES8 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Nio ES8."
 weight: 30
 hidden: true

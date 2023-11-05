@@ -1,6 +1,6 @@
 ---
-title: CUPRA BORN 58 specifications
-linktitle: "Specifications"
+title: CUPRA BORN 58 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for CUPRA BORN 58."
 weight: 30
 hidden: true

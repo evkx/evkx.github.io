@@ -1,6 +1,6 @@
 ---
-title: Volvo C40 Recharge Twin Motor specifications
-linktitle: "Specifications"
+title: Volvo C40 Recharge Twin Motor spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volvo C40 Recharge Twin Motor."
 weight: 30
 hidden: true

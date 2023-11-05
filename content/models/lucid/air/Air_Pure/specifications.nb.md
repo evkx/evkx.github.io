@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Pure specifications
-linktitle: "Specifications"
+title: Lucid Air Pure spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Lucid Air Pure."
 weight: 30
 hidden: true

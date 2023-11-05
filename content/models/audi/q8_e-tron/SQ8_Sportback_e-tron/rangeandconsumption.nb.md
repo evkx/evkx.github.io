@@ -1,6 +1,6 @@
 ---
-title: Audi SQ8 Sportback e-tron range & consumption
-linktitle: "Range"
+title: Audi SQ8 Sportback e-tron rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Audi SQ8 Sportback e-tron."
 weight: 9
 hidden: true

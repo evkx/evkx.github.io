@@ -1,6 +1,6 @@
 ---
-title: Citroën ë-C3 specifications
-linktitle: "Specifications"
+title: Citroën ë-C3 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Citroën ë-C3."
 weight: 30
 hidden: true

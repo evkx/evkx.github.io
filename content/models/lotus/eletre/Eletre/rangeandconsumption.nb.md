@@ -1,6 +1,6 @@
 ---
-title: Lotus Eletre range & consumption
-linktitle: "Range"
+title: Lotus Eletre rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Lotus Eletre."
 weight: 9
 hidden: true

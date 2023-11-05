@@ -1,6 +1,6 @@
 ---
-title: BMW i7 eDrive50 specifications
-linktitle: "Specifications"
+title: BMW i7 eDrive50 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BMW i7 eDrive50."
 weight: 30
 hidden: true

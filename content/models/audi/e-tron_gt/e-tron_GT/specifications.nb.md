@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron GT specifications
-linktitle: "Specifications"
+title: Audi e-tron GT spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Audi e-tron GT."
 weight: 30
 hidden: true

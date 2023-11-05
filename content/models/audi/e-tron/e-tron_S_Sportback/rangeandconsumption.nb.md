@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron S Sportback range & consumption
-linktitle: "Range"
+title: Audi e-tron S Sportback rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Audi e-tron S Sportback."
 weight: 9
 hidden: true

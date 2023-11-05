@@ -1,6 +1,6 @@
 ---
-title: Audi Q4 Sportback 45 e-tron quattro range & consumption
-linktitle: "Range"
+title: Audi Q4 Sportback 45 e-tron quattro rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Audi Q4 Sportback 45 e-tron quattro."
 weight: 9
 hidden: true

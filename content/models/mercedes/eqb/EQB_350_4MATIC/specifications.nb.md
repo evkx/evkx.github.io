@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQB 350 4MATIC specifications
-linktitle: "Specifications"
+title: Mercedes-EQ EQB 350 4MATIC spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Mercedes-EQ EQB 350 4MATIC."
 weight: 30
 hidden: true

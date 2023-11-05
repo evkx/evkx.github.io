@@ -1,6 +1,6 @@
 ---
-title: Zeekr 001 Long Range RWD specifications
-linktitle: "Specifications"
+title: Zeekr 001 Long Range RWD spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Zeekr 001 Long Range RWD."
 weight: 30
 hidden: true

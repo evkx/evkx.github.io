@@ -1,6 +1,6 @@
 ---
-title: VOYAH FREE range & consumption
-linktitle: "Range"
+title: VOYAH FREE rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for VOYAH FREE."
 weight: 9
 hidden: true

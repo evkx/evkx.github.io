@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.5 GTX 4MOTION (GEN1) range & consumption
-linktitle: "Range"
+title: Volkswagen ID.5 GTX 4MOTION (GEN1) rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Volkswagen ID.5 GTX 4MOTION (GEN1)."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Kia EV6 GT specifications
-linktitle: "Specifications"
+title: Kia EV6 GT spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Kia EV6 GT."
 weight: 30
 hidden: true

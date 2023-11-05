@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan 4S Sport Turismo specifications
-linktitle: "Specifications"
+title: Porsche Taycan 4S Sport Turismo spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Porsche Taycan 4S Sport Turismo."
 weight: 30
 hidden: true

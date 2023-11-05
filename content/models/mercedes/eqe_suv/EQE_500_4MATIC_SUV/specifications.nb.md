@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQE 500 4MATIC SUV specifications
-linktitle: "Specifications"
+title: Mercedes-EQ EQE 500 4MATIC SUV spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Mercedes-EQ EQE 500 4MATIC SUV."
 weight: 30
 hidden: true

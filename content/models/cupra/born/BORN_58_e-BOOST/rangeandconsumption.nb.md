@@ -1,6 +1,6 @@
 ---
-title: CUPRA BORN 58 e-BOOST range & consumption
-linktitle: "Range"
+title: CUPRA BORN 58 e-BOOST rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for CUPRA BORN 58 e-BOOST."
 weight: 9
 hidden: true

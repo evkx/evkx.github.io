@@ -1,6 +1,6 @@
 ---
-title: BMW i7 xDrive60 specifications
-linktitle: "Specifications"
+title: BMW i7 xDrive60 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for BMW i7 xDrive60."
 weight: 30
 hidden: true

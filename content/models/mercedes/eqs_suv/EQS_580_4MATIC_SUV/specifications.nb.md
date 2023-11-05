@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQS 580 4MATIC SUV specifications
-linktitle: "Specifications"
+title: Mercedes-EQ EQS 580 4MATIC SUV spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Mercedes-EQ EQS 580 4MATIC SUV."
 weight: 30
 hidden: true

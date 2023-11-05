@@ -1,6 +1,6 @@
 ---
-title: Tesla Model Y Long Range range & consumption
-linktitle: "Range"
+title: Tesla Model Y Long Range rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Tesla Model Y Long Range."
 weight: 9
 hidden: true

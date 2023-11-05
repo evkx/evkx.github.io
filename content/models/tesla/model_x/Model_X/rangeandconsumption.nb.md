@@ -1,6 +1,6 @@
 ---
-title: Tesla Model X range & consumption
-linktitle: "Range"
+title: Tesla Model X rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Tesla Model X."
 weight: 9
 hidden: true

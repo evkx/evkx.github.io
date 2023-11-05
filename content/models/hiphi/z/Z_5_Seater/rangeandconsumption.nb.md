@@ -1,6 +1,6 @@
 ---
-title: HiPhi Z 5 Seater range & consumption
-linktitle: "Range"
+title: HiPhi Z 5 Seater rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for HiPhi Z 5 Seater."
 weight: 9
 hidden: true

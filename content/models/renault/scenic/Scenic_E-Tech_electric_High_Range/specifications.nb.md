@@ -1,6 +1,6 @@
 ---
-title: Renault Scenic E-Tech electric High Range specifications
-linktitle: "Specifications"
+title: Renault Scenic E-Tech electric High Range spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Renault Scenic E-Tech electric High Range."
 weight: 30
 hidden: true

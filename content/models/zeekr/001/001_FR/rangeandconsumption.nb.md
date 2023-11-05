@@ -1,6 +1,6 @@
 ---
-title: Zeekr 001 FR range & consumption
-linktitle: "Range"
+title: Zeekr 001 FR rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Zeekr 001 FR."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: BMW i5 M60 xDrive range & consumption
-linktitle: "Range"
+title: BMW i5 M60 xDrive rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for BMW i5 M60 xDrive."
 weight: 9
 hidden: true

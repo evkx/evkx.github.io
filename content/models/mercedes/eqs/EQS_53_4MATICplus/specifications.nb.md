@@ -1,6 +1,6 @@
 ---
-title: Mercedes-AMG EQS 53 4MATIC+ specifications
-linktitle: "Specifications"
+title: Mercedes-AMG EQS 53 4MATIC+ spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Mercedes-AMG EQS 53 4MATIC+."
 weight: 30
 hidden: true

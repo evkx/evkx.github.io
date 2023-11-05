@@ -1,6 +1,6 @@
 ---
-title: Mercedes-Maybach EQS 680 SUV specifications
-linktitle: "Specifications"
+title: Mercedes-Maybach EQS 680 SUV spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Mercedes-Maybach EQS 680 SUV."
 weight: 30
 hidden: true

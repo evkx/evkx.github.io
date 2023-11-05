@@ -1,6 +1,6 @@
 ---
-title: Rivian R1S Performance Dual-Motor AWD MP specifications
-linktitle: "Specifications"
+title: Rivian R1S Performance Dual-Motor AWD MP spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Rivian R1S Performance Dual-Motor AWD MP."
 weight: 30
 hidden: true

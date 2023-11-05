@@ -1,6 +1,6 @@
 ---
-title: Nissan Ariya 87kWh e-4ORCE range & consumption
-linktitle: "Range"
+title: Nissan Ariya 87kWh e-4ORCE rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Nissan Ariya 87kWh e-4ORCE."
 weight: 9
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Pure range & consumption
-linktitle: "Range"
+title: Lucid Air Pure rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Lucid Air Pure."
 weight: 9
 hidden: true

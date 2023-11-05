@@ -1,6 +1,6 @@
 ---
-title: Kia EV6 Standard Range AWD range & consumption
-linktitle: "Range"
+title: Kia EV6 Standard Range AWD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Kia EV6 Standard Range AWD."
 weight: 9
 hidden: true

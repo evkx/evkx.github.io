@@ -1,6 +1,6 @@
 ---
-title: Lotus Eletre R specifications
-linktitle: "Specifications"
+title: Lotus Eletre R spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Lotus Eletre R."
 weight: 30
 hidden: true

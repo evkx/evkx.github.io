@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan GTS range & consumption
-linktitle: "Range"
+title: Porsche Taycan GTS rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Porsche Taycan GTS."
 weight: 9
 hidden: true

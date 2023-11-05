@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.4 GTX 4MOTION (GEN1) specifications
-linktitle: "Specifications"
+title: Volkswagen ID.4 GTX 4MOTION (GEN1) spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Volkswagen ID.4 GTX 4MOTION (GEN1)."
 weight: 30
 hidden: true

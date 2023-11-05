@@ -1,6 +1,6 @@
 ---
-title: Tesla Model 3 specifications
-linktitle: "Specifications"
+title: Tesla Model 3 spesifikasjoner
+linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for Tesla Model 3."
 weight: 30
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID. Buzz Pro range & consumption
-linktitle: "Range"
+title: Volkswagen ID. Buzz Pro rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Volkswagen ID. Buzz Pro."
 weight: 9
 hidden: true

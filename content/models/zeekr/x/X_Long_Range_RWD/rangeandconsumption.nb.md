@@ -1,6 +1,6 @@
 ---
-title: Zeekr X Long Range RWD range & consumption
-linktitle: "Range"
+title: Zeekr X Long Range RWD rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Zeekr X Long Range RWD."
 weight: 9
 hidden: true

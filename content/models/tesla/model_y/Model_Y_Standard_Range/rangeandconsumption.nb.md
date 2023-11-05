@@ -1,6 +1,6 @@
 ---
-title: Tesla Model Y Standard Range range & consumption
-linktitle: "Range"
+title: Tesla Model Y Standard Range rekkevidde & forbruk
+linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Tesla Model Y Standard Range."
 weight: 9
 hidden: true
