@@ -6,14 +6,14 @@ weight: 30
 ---
 ### Nio EL6
 
-<a href="/models/nio/el6/el6/"><img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_2_st.jpg" class="img-fluid" alt="EL6" ></a>
+<a href="el6/"><img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_2_st.jpg" class="img-fluid" alt="EL6" ></a>
 
 Nio EL6 is an all-electric SUV with a WLTP range of up to 513 km (319 miles). EVKX.net has all the details. 
 
-- [Nio EL6 article](/models/nio/el6/el6/)
-- [Nio EL6 Range & consumption info](/models/nio/el6/el6/rangeandconsumption)
-- [Nio EL6 Charging curve and performance](/models/nio/el6/el6/chargingcurve)
-- [Nio EL6 full specifications](/models/nio/el6/el6/specifications)
-- [Nio EL6 image gallery](/models/nio/el6/el6/gallery)
-- [Nio EL6 reviews](/models/nio/el6/el6/reviews)
+- [Nio EL6 article](el6/)
+- [Nio EL6 Range & consumption info](el6/rangeandconsumption)
+- [Nio EL6 Charging curve and performance](el6/chargingcurve)
+- [Nio EL6 full specifications](el6/specifications)
+- [Nio EL6 image gallery](el6/gallery)
+- [Nio EL6 reviews](el6/reviews)
 

@@ -6,14 +6,14 @@ weight: 30
 ---
 ### Citroën ë-C4 X
 
-<a href="/models/citroën/ë-c4/ë-c4_x/"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" class="img-fluid" alt="ë-C4 X" ></a>
+<a href="ë-c4_x/"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" class="img-fluid" alt="ë-C4 X" ></a>
 
 Citroën ë-C4 X is an all-electric crossover with a WLTP range of up to 402 km (250 miles). EVKX.net has all the details. 
 
-- [Citroën ë-C4 X article](/models/citroën/ë-c4/ë-c4_x/)
-- [Citroën ë-C4 X Range & consumption info](/models/citroën/ë-c4/ë-c4_x/rangeandconsumption)
-- [Citroën ë-C4 X Charging curve and performance](/models/citroën/ë-c4/ë-c4_x/chargingcurve)
-- [Citroën ë-C4 X full specifications](/models/citroën/ë-c4/ë-c4_x/specifications)
-- [Citroën ë-C4 X image gallery](/models/citroën/ë-c4/ë-c4_x/gallery)
-- [Citroën ë-C4 X reviews](/models/citroën/ë-c4/ë-c4_x/reviews)
+- [Citroën ë-C4 X article](ë-c4_x/)
+- [Citroën ë-C4 X Range & consumption info](ë-c4_x/rangeandconsumption)
+- [Citroën ë-C4 X Charging curve and performance](ë-c4_x/chargingcurve)
+- [Citroën ë-C4 X full specifications](ë-c4_x/specifications)
+- [Citroën ë-C4 X image gallery](ë-c4_x/gallery)
+- [Citroën ë-C4 X reviews](ë-c4_x/reviews)
 

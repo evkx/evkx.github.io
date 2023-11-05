@@ -6,40 +6,40 @@ weight: 30
 ---
 ### BMW i4 eDrive35
 
-<a href="/models/bmw/i4/i4_edrive35/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/main_1_st.jpg" class="img-fluid" alt="i4 eDrive35" ></a>
+<a href="i4_edrive35/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/main_1_st.jpg" class="img-fluid" alt="i4 eDrive35" ></a>
 
 BMW i4 eDrive35 is an all-electric premium sedan with a WLTP range of up to 490 km (305 miles). EVKX.net has all the details. 
 
-- [BMW i4 eDrive35 article](/models/bmw/i4/i4_edrive35/)
-- [BMW i4 eDrive35 Range & consumption info](/models/bmw/i4/i4_edrive35/rangeandconsumption)
-- [BMW i4 eDrive35 Charging curve and performance](/models/bmw/i4/i4_edrive35/chargingcurve)
-- [BMW i4 eDrive35 full specifications](/models/bmw/i4/i4_edrive35/specifications)
-- [BMW i4 eDrive35 image gallery](/models/bmw/i4/i4_edrive35/gallery)
-- [BMW i4 eDrive35 reviews](/models/bmw/i4/i4_edrive35/reviews)
+- [BMW i4 eDrive35 article](i4_edrive35/)
+- [BMW i4 eDrive35 Range & consumption info](i4_edrive35/rangeandconsumption)
+- [BMW i4 eDrive35 Charging curve and performance](i4_edrive35/chargingcurve)
+- [BMW i4 eDrive35 full specifications](i4_edrive35/specifications)
+- [BMW i4 eDrive35 image gallery](i4_edrive35/gallery)
+- [BMW i4 eDrive35 reviews](i4_edrive35/reviews)
 
 ### BMW i4 eDrive40
 
-<a href="/models/bmw/i4/i4_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg" class="img-fluid" alt="i4 eDrive40" ></a>
+<a href="i4_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg" class="img-fluid" alt="i4 eDrive40" ></a>
 
 BMW i4 eDrive40 is an all-electric premium sedan with a WLTP range of up to 590 km (367 miles). EVKX.net has all the details. 
 
-- [BMW i4 eDrive40 article](/models/bmw/i4/i4_edrive40/)
-- [BMW i4 eDrive40 Range & consumption info](/models/bmw/i4/i4_edrive40/rangeandconsumption)
-- [BMW i4 eDrive40 Charging curve and performance](/models/bmw/i4/i4_edrive40/chargingcurve)
-- [BMW i4 eDrive40 full specifications](/models/bmw/i4/i4_edrive40/specifications)
-- [BMW i4 eDrive40 image gallery](/models/bmw/i4/i4_edrive40/gallery)
-- [BMW i4 eDrive40 reviews](/models/bmw/i4/i4_edrive40/reviews)
+- [BMW i4 eDrive40 article](i4_edrive40/)
+- [BMW i4 eDrive40 Range & consumption info](i4_edrive40/rangeandconsumption)
+- [BMW i4 eDrive40 Charging curve and performance](i4_edrive40/chargingcurve)
+- [BMW i4 eDrive40 full specifications](i4_edrive40/specifications)
+- [BMW i4 eDrive40 image gallery](i4_edrive40/gallery)
+- [BMW i4 eDrive40 reviews](i4_edrive40/reviews)
 
 ### BMW i4 M50
 
-<a href="/models/bmw/i4/i4_m50/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg" class="img-fluid" alt="i4 M50" ></a>
+<a href="i4_m50/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg" class="img-fluid" alt="i4 M50" ></a>
 
 BMW i4 M50 is an all-electric premium sedan with a WLTP range of up to 521 km (324 miles). EVKX.net has all the details. 
 
-- [BMW i4 M50 article](/models/bmw/i4/i4_m50/)
-- [BMW i4 M50 Range & consumption info](/models/bmw/i4/i4_m50/rangeandconsumption)
-- [BMW i4 M50 Charging curve and performance](/models/bmw/i4/i4_m50/chargingcurve)
-- [BMW i4 M50 full specifications](/models/bmw/i4/i4_m50/specifications)
-- [BMW i4 M50 image gallery](/models/bmw/i4/i4_m50/gallery)
-- [BMW i4 M50 reviews](/models/bmw/i4/i4_m50/reviews)
+- [BMW i4 M50 article](i4_m50/)
+- [BMW i4 M50 Range & consumption info](i4_m50/rangeandconsumption)
+- [BMW i4 M50 Charging curve and performance](i4_m50/chargingcurve)
+- [BMW i4 M50 full specifications](i4_m50/specifications)
+- [BMW i4 M50 image gallery](i4_m50/gallery)
+- [BMW i4 M50 reviews](i4_m50/reviews)
 

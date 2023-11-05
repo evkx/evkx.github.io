@@ -6,40 +6,40 @@ weight: 30
 ---
 ### Volvo C40 Recharge Single Motor
 
-<a href="/models/volvo/c40/c40_recharge_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor/main_1_st.jpg" class="img-fluid" alt="C40 Recharge Single Motor" ></a>
+<a href="c40_recharge_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor/main_1_st.jpg" class="img-fluid" alt="C40 Recharge Single Motor" ></a>
 
 Volvo C40 Recharge Single Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 478 km (297 miles). EVKX.net har alle detaljene. 
 
-- [Volvo C40 Recharge Single Motor article](/models/volvo/c40/c40_recharge_single_motor/)
-- [Volvo C40 Recharge Single Motor Range & consumption info](/models/volvo/c40/c40_recharge_single_motor/rangeandconsumption)
-- [Volvo C40 Recharge Single Motor Charging curve and performance](/models/volvo/c40/c40_recharge_single_motor/chargingcurve)
-- [Volvo C40 Recharge Single Motor full specifications](/models/volvo/c40/c40_recharge_single_motor/specifications)
-- [Volvo C40 Recharge Single Motor image gallery](/models/volvo/c40/c40_recharge_single_motor/gallery)
-- [Volvo C40 Recharge Single Motor reviews](/models/volvo/c40/c40_recharge_single_motor/reviews)
+- [Volvo C40 Recharge Single Motor article](c40_recharge_single_motor/)
+- [Volvo C40 Recharge Single Motor Range & consumption info](c40_recharge_single_motor/rangeandconsumption)
+- [Volvo C40 Recharge Single Motor Charging curve and performance](c40_recharge_single_motor/chargingcurve)
+- [Volvo C40 Recharge Single Motor full specifications](c40_recharge_single_motor/specifications)
+- [Volvo C40 Recharge Single Motor image gallery](c40_recharge_single_motor/gallery)
+- [Volvo C40 Recharge Single Motor reviews](c40_recharge_single_motor/reviews)
 
 ### Volvo C40 Recharge Single Motor ER
 
-<a href="/models/volvo/c40/c40_recharge_single_motor_er/"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/main_1_st.jpg" class="img-fluid" alt="C40 Recharge Single Motor ER" ></a>
+<a href="c40_recharge_single_motor_er/"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_single_motor_er/main_1_st.jpg" class="img-fluid" alt="C40 Recharge Single Motor ER" ></a>
 
 Volvo C40 Recharge Single Motor ER er en helelektrisk delefilter med en WLTP rekkevidde på opptil 581 km (361 miles). EVKX.net har alle detaljene. 
 
-- [Volvo C40 Recharge Single Motor ER article](/models/volvo/c40/c40_recharge_single_motor_er/)
-- [Volvo C40 Recharge Single Motor ER Range & consumption info](/models/volvo/c40/c40_recharge_single_motor_er/rangeandconsumption)
-- [Volvo C40 Recharge Single Motor ER Charging curve and performance](/models/volvo/c40/c40_recharge_single_motor_er/chargingcurve)
-- [Volvo C40 Recharge Single Motor ER full specifications](/models/volvo/c40/c40_recharge_single_motor_er/specifications)
-- [Volvo C40 Recharge Single Motor ER image gallery](/models/volvo/c40/c40_recharge_single_motor_er/gallery)
-- [Volvo C40 Recharge Single Motor ER reviews](/models/volvo/c40/c40_recharge_single_motor_er/reviews)
+- [Volvo C40 Recharge Single Motor ER article](c40_recharge_single_motor_er/)
+- [Volvo C40 Recharge Single Motor ER Range & consumption info](c40_recharge_single_motor_er/rangeandconsumption)
+- [Volvo C40 Recharge Single Motor ER Charging curve and performance](c40_recharge_single_motor_er/chargingcurve)
+- [Volvo C40 Recharge Single Motor ER full specifications](c40_recharge_single_motor_er/specifications)
+- [Volvo C40 Recharge Single Motor ER image gallery](c40_recharge_single_motor_er/gallery)
+- [Volvo C40 Recharge Single Motor ER reviews](c40_recharge_single_motor_er/reviews)
 
 ### Volvo C40 Recharge Twin Motor
 
-<a href="/models/volvo/c40/c40_recharge_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/main_1_st.jpg" class="img-fluid" alt="C40 Recharge Twin Motor" ></a>
+<a href="c40_recharge_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/main_1_st.jpg" class="img-fluid" alt="C40 Recharge Twin Motor" ></a>
 
 Volvo C40 Recharge Twin Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 548 km (341 miles). EVKX.net har alle detaljene. 
 
-- [Volvo C40 Recharge Twin Motor article](/models/volvo/c40/c40_recharge_twin_motor/)
-- [Volvo C40 Recharge Twin Motor Range & consumption info](/models/volvo/c40/c40_recharge_twin_motor/rangeandconsumption)
-- [Volvo C40 Recharge Twin Motor Charging curve and performance](/models/volvo/c40/c40_recharge_twin_motor/chargingcurve)
-- [Volvo C40 Recharge Twin Motor full specifications](/models/volvo/c40/c40_recharge_twin_motor/specifications)
-- [Volvo C40 Recharge Twin Motor image gallery](/models/volvo/c40/c40_recharge_twin_motor/gallery)
-- [Volvo C40 Recharge Twin Motor reviews](/models/volvo/c40/c40_recharge_twin_motor/reviews)
+- [Volvo C40 Recharge Twin Motor article](c40_recharge_twin_motor/)
+- [Volvo C40 Recharge Twin Motor Range & consumption info](c40_recharge_twin_motor/rangeandconsumption)
+- [Volvo C40 Recharge Twin Motor Charging curve and performance](c40_recharge_twin_motor/chargingcurve)
+- [Volvo C40 Recharge Twin Motor full specifications](c40_recharge_twin_motor/specifications)
+- [Volvo C40 Recharge Twin Motor image gallery](c40_recharge_twin_motor/gallery)
+- [Volvo C40 Recharge Twin Motor reviews](c40_recharge_twin_motor/reviews)
 
