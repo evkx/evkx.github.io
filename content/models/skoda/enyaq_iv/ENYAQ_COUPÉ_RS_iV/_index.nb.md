@@ -71,14 +71,14 @@ Dynamisk styring er a standard-funksjonen på SKODA ENYAQ COUPÉ RS iV. Dynamisk
 
 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../. ./../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](.. /../../../technology/regen/#one-pedal-driving). Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. 
 
 ## Eksteriør
 
 Du kan velge mellom 9 forskjellige malingsfarger når du bestiller denne modellen. 
 I tillegg kan du velge mellom 2 hjul med størrelser fra 20 til 21 tommer. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../ ../technology/doors/#liftgate). 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 

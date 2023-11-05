@@ -67,13 +67,13 @@ Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double
 
 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../ ../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual -regen-bruker-bremsepedal) for å regenere. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual -regen-bruker-bremsepedal) for å regenere. 
 
 ## Eksteriør
 
 Du kan velge mellom 1 forskjellige malingsfarger når du bestiller denne modellen. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../ ../technology/doors/#split-bakluke) der porten faller ned. 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned. 
 
 Det er bare ett tak for denne modellen. 
 

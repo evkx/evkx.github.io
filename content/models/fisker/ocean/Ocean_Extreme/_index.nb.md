@@ -61,14 +61,14 @@ Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macphe
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../ ../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual -regen-bruker-bremsepedal) for å regenere. Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual -regen-bruker-bremsepedal) for å regenere. Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. 
 
 ## Eksteriør
 
 Du kan velge mellom 7 forskjellige malingsfarger når du bestiller denne modellen. 
 I tillegg kan du velge mellom 2 hjul med størrelser fra 20 til 22 tommer. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../ ../../technology/doors/#hatcback-style-liftgate). 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate). 
 
 Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som beboerne kan bruke for å beskytte mot solen.
 

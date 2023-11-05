@@ -67,13 +67,13 @@ Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 343mm, og de bakre skivene er 328mm. 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../ ../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller coasting er ikke tilgjengelig i denne modell.Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller coasting er ikke tilgjengelig i denne modell.Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
 
 ## Eksteriør
 
 Du kan velge mellom 9 forskjellige malingsfarger når du bestiller denne modellen. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [delt bakluke](../../.. /../technology/doors/#split-bakluke) der den nederste delen faller og den øvre delen løftes. 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [delt bakluke](../../../../technology/doors/#split-bakluke) der den nederste delen faller og den øvre delen løftes. 
 
 Det er bare ett tak for denne modellen. exterior.roof.optional.panoramic.TwoSeperatePartPartialFixed.TonedGlass
 

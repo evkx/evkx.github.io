@@ -73,7 +73,7 @@ Dynamisk styring er a standard-funksjonen på Mercedes-AMG EQS 53 4MATIC+. Dynam
 
 Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker vanlige [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 415mm, og de bakre skivene er 378mm. Bremsene for second-alternativet bruker [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 440mm, og de bakre skivene er 378mm. 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../. ./../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](.. /../../../technology/regen/#one-pedal-driving). Du kan velge mellom to stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser, og rullemodus får kjøretøyet til å rulle til det stopper av seg selv. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). Du kan velge mellom to stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser, og rullemodus får kjøretøyet til å rulle til det stopper av seg selv. 
 
 ## Eksteriør
 
@@ -82,7 +82,7 @@ exterior.styling.amgnight
 
 I tillegg kan du velge mellom 4 hjul med størrelser fra 21 til 22 tommer. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../ ../technology/doors/#liftgate). 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. exterior.roof.optional.panoramic.TwoSeperatePartPartialFrontOpen.ElectricCurtain
 
@@ -178,7 +178,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Mercedes-AMG EQS 53 4MATIC+ har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../. ./technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen øverst på midtkonsollen er 17.7 tommer stor og har en oppløsning på 3088x1728 piksler. -skjermen foran passasjeren i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. 
+Mercedes-AMG EQS 53 4MATIC+ har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen øverst på midtkonsollen er 17.7 tommer stor og har en oppløsning på 3088x1728 piksler. -skjermen foran passasjeren i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/screens_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="1695"  >}}

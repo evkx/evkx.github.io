@@ -73,7 +73,7 @@ Dynamisk styring er a standard-funksjonen på Audi RS e-tron GT. Dynamisk styrin
 
 Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker vanlige [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 360mm, og de bakre skivene er 358mm. Opsjonsbremsene second bruker en [støpejernskive belagt med wolframkarbid](../../../../technology/brakes/#carbid -bremser). Den ruster ikke og produserer nesten ikke bremsestøv. De fremre skivene er 410mm, og de bakre skivene er 365mm. Bremsene for third-alternativet bruker [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 420mm, og de bakre skivene er 410mm. 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../. ./../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](.. /../../../technology/regen/#one-pedal-driving). Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. Du kan justere hvor sterk regen du får når du løfter foten. Det er tre nivåer.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. Du kan justere hvor sterk regen du får når du løfter foten. Det er tre nivåer.
 
 ## Eksteriør
 
@@ -86,7 +86,7 @@ exterior.styling.blackoptics
 
 I tillegg kan du velge mellom 7 hjul med størrelser fra 19 til 21 tommer. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../ ../technology/doors/#liftgate). 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 
 
 Du kan velge mellom to typer tak på denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 

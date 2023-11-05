@@ -67,14 +67,14 @@ Dynamisk styring er a standard-funksjonen på Lucid Air Pure. Dynamisk styring v
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 386mm, og de bakre skivene er 381mm. 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../ ../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller coasting er ikke tilgjengelig i denne modell.Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller coasting er ikke tilgjengelig i denne modell.Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. 
 
 ## Eksteriør
 
 Du kan velge mellom 4 forskjellige malingsfarger når du bestiller denne modellen. 
 I tillegg kan du velge mellom 6 hjul med størrelser fra 19 til 21 tommer. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../.. /../technology/doors/#boot-lid) for bagasjerommet. 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak. 
 

@@ -156,7 +156,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-HiPhi X 4 Seater har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../. ./technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 14.0 tommer stor. touch-skjermen øverst på midtkonsollen er 16.9 tommer stor. touch-skjermen foran passasjeren i dashbordet er 19.9 tommer stor. 
+HiPhi X 4 Seater har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 14.0 tommer stor. touch-skjermen øverst på midtkonsollen er 16.9 tommer stor. touch-skjermen foran passasjeren i dashbordet er 19.9 tommer stor. 
 
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/screens_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}

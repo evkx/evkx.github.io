@@ -71,7 +71,7 @@ Dynamisk styring er an optional-funksjonen på Volkswagen ID. Buzz Pro. Dynamisk
 
 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../. ./../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](.. /../../../technology/regen/#one-pedal-driving). 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). 
 
 ## Eksteriør
 

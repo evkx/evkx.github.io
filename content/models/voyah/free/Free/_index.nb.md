@@ -61,13 +61,13 @@ Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../ ../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller coasting er ikke tilgjengelig i denne modell.Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller coasting er ikke tilgjengelig i denne modell.Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. 
 
 ## Eksteriør
 
 Du kan velge mellom 6 forskjellige malingsfarger når du bestiller denne modellen. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../ ../technology/doors/#liftgate). 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 
 
 Det er bare ett tak for denne modellen. exterior.roof.standard.panoramic.FullFixed.ElectrochromicMultipleLevels
 
@@ -131,7 +131,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-VOYAH FREE har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../. ./technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. -skjermen i dashbordets sentrum er 12.3 tommer stor. -skjermen foran passasjeren i dashbordet er 12.3 tommer stor. 
+VOYAH FREE har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. -skjermen i dashbordets sentrum er 12.3 tommer stor. -skjermen foran passasjeren i dashbordet er 12.3 tommer stor. 
 
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}

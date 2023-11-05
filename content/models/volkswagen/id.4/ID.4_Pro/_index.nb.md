@@ -73,14 +73,14 @@ Dynamisk styring er an optional-funksjonen på Volkswagen ID.4 Pro. Dynamisk sty
 
 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../. ./../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](.. /../../../technology/regen/#one-pedal-driving). 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). 
 
 ## Eksteriør
 
 Du kan velge mellom 10 forskjellige malingsfarger når du bestiller denne modellen. 
 I tillegg kan du velge mellom 3 hjul med størrelser fra 19 til 21 tommer. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../ ../technology/doors/#liftgate). 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som beboerne kan bruke for å beskytte mot solen.
 

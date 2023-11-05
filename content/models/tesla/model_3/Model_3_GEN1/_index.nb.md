@@ -71,14 +71,14 @@ Dynamisk styring er a standard-funksjonen på Tesla Model 3 (GEN1). Dynamisk sty
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm. 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../ ../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller coasting er ikke tilgjengelig i denne modell.Du kan velge mellom tre stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser, rullemodus får kjøretøyet til å rulle til det stopper av seg selv, og krypemodus vil krype bilen fremover i lav hastighet. Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller coasting er ikke tilgjengelig i denne modell.Du kan velge mellom tre stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser, rullemodus får kjøretøyet til å rulle til det stopper av seg selv, og krypemodus vil krype bilen fremover i lav hastighet. Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
 
 ## Eksteriør
 
 Du kan velge mellom 5 forskjellige malingsfarger når du bestiller denne modellen. 
 I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 19 tommer. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../.. /../technology/doors/#boot-lid) for bagasjerommet. 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 

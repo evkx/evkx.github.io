@@ -67,7 +67,7 @@ Dynamisk styring er a standard-funksjonen på Mercedes-EQ EQS 450+ SUV. Dynamisk
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 415mm, og de bakre skivene er 378mm. 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../. ./../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](.. /../../../technology/regen/#one-pedal-driving). Du kan velge mellom to stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser, og rullemodus får kjøretøyet til å rulle til det stopper av seg selv. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). Du kan velge mellom to stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser, og rullemodus får kjøretøyet til å rulle til det stopper av seg selv. 
 
 ## Eksteriør
 
@@ -80,7 +80,7 @@ exterior.styling.amgline
 
 I tillegg kan du velge mellom 4 hjul med størrelser fra 21 til 22 tommer. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../ ../technology/doors/#liftgate). 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. exterior.roof.optional.panoramic.TwoSeperatePartPartialFrontOpen.ElectricCurtain
 
@@ -187,7 +187,7 @@ To forskjellige skjermoppsett er tilgjengelige på Mercedes-EQ EQS 450+ SUV.
 
 Standardoppsettet har følgende konfigurasjon. -skjermen bak rattet montert i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen i midten av midtkonsollen er 12.8 tommer stor og har en oppløsning på 1888x1728 piksler. 
 
-Det valgfrie MBUX Hyperscreen-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../. ./technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen øverst på midtkonsollen er 17.7 tommer stor og har en oppløsning på 3088x1728 piksler. -skjermen foran passasjeren i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. 
+Det valgfrie MBUX Hyperscreen-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen øverst på midtkonsollen er 17.7 tommer stor og har en oppløsning på 3088x1728 piksler. -skjermen foran passasjeren i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/screens_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1687"  >}}

@@ -63,14 +63,14 @@ Hyundai Ioniq 6 Long Range AWD har et firehjulsdriftssystem som støttes av to m
 
 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../. ./../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](.. /../../../technology/regen/#one-pedal-driving). 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). 
 
 ## Eksteriør
 
 Du kan velge mellom 9 forskjellige malingsfarger når du bestiller denne modellen. 
 I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 20 tommer. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../.. /../technology/doors/#boot-lid) for bagasjerommet. 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med soltak. Glasset strekker seg kun over første rad, og passasjerer kan åpne det. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som beboerne kan bruke for å beskytte mot solen.
 

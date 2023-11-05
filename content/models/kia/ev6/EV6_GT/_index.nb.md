@@ -67,13 +67,13 @@ Kia EV6 GT har et firehjulsdriftssystem som støttes av to motorer, en på hver 
 
 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../. ./../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](.. /../../../technology/regen/#one-pedal-driving). 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). 
 
 ## Eksteriør
 
 Du kan velge mellom 8 forskjellige malingsfarger når du bestiller denne modellen. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../ ../../technology/doors/#hatcback-style-liftgate). 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate). 
 
 Det er bare ett tak for denne modellen. Standardtaket har soltak. Glasset strekker seg kun over første rad, og passasjerer kan åpne det. Dette glasset gjør at bilens interiør føles mer romslig og lysere, som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som beboerne kan bruke for å beskytte mot solen.
 

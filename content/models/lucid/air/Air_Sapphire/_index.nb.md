@@ -67,13 +67,13 @@ Dynamisk styring er a standard-funksjonen på Lucid Air Sapphire. Dynamisk styri
 
 Bremsene bak og foran er [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 420mm, og de bakre skivene er 390mm. 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../ ../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller coasting er ikke tilgjengelig i denne modell.Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller coasting er ikke tilgjengelig i denne modell.Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. 
 
 ## Eksteriør
 
 Du kan velge mellom 1 forskjellige malingsfarger når du bestiller denne modellen. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../.. /../technology/doors/#boot-lid) for bagasjerommet. Myk lukking er a standard-funksjon for sidedørene. 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. Myk lukking er a standard-funksjon for sidedørene. 
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak. 
 

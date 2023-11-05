@@ -67,13 +67,13 @@ Dynamisk styring er a standard-funksjonen på Rolls-Royce Spectre. Dynamisk styr
 
 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../. ./../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](.. /../../../technology/regen/#one-pedal-driving). 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). 
 
 ## Eksteriør
 
 Du kan velge mellom 8 forskjellige malingsfarger når du bestiller denne modellen. 
 
-Bilen har to [selvmordsdører](../../../../technology/doors/) på og et [bagasjelokk](../../.. /../technology/doors/#bootlid) bak. Myk lukking er a standard-funksjon for sidedørene. Elektriske dører er a standard funksjon for sidedørene. 
+Bilen har to [selvmordsdører](../../../../technology/doors/) på og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. Myk lukking er a standard-funksjon for sidedørene. Elektriske dører er a standard funksjon for sidedørene. 
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak. 
 

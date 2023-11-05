@@ -63,13 +63,13 @@ Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double
 
 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedal kjøring](../../../ ../technology/regen/#one-pedal-driving) kombinert med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedal kjøring](../../../../technology/regen/#one-pedal-driving) kombinert med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. 
 
 ## Eksteriør
 
 Du kan velge mellom 1 forskjellige malingsfarger når du bestiller denne modellen. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../ ../technology/doors/#split-bakluke) der porten faller ned. 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned. 
 
 Det er bare ett tak for denne modellen. Standardtaket har 4 separate glasspaneler som kan fjernes, noe som gjør dette til en cabriolet.
 

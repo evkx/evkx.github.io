@@ -77,7 +77,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 Du kan velge mellom 6 forskjellige malingsfarger når du bestiller denne modellen. 
 
-Bilen har to [vanlige dører](../../../../technology/doors/) foran, [selvmordsdører](../../. ./../technology/doors/) på andre rad, og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. Elektriske dører er a standard funksjon for sidedørene. 
+Bilen har to [vanlige dører](../../../../technology/doors/) foran, [selvmordsdører](../../../../technology/doors/) på andre rad, og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. Elektriske dører er a standard funksjon for sidedørene. 
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 

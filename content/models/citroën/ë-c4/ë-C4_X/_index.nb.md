@@ -63,14 +63,14 @@ Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macphe
 
 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../ ../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual -regen-bruker-bremsepedal) for å regenere. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual -regen-bruker-bremsepedal) for å regenere. 
 
 ## Eksteriør
 
 Du kan velge mellom 5 forskjellige malingsfarger når du bestiller denne modellen. 
 I tillegg kan du velge mellom 5 hjul med størrelser fra 17 til 18 tommer. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../.. /../technology/doors/#boot-lid) for bagasjerommet. 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 
 
 Det er bare ett tak for denne modellen. 
 
