@@ -136,7 +136,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
 
 ## Comfort
 
@@ -220,7 +220,7 @@ With the Smart Pilot  level 2 system, you get additional driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 410 liters. Max weight is 2660kg, and with the base weight of 2250 kg, you can max load 410 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 410 liters. The maxium weight of the car is 2660kg, and with the base weight of 2250 kg, you can max load 410 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

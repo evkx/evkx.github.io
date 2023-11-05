@@ -147,7 +147,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The THERMOTRONIC climate system supports different temperatures in two zones for the driver and passenger. The THERMATIC climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+You can choose from two different climate systems. The THERMOTRONIC climate system supports different temperatures in two zones for the driver and passenger. The THERMATIC climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
 
 ## Comfort
 
@@ -239,6 +239,6 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 440 liters. On the roof, you can load up to 100kg. Max weight is 3375kg, and with the base weight of 2735 kg, you can max load 640 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 440 liters. On the roof, you can load up to 100kg. The maxium weight of the car is 3375kg, and with the base weight of 2735 kg, you can max load 640 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750kg. 

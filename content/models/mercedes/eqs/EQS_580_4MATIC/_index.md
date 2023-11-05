@@ -248,7 +248,7 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100kg. Max weight is 3060kg, and with the base weight of 2555 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100kg. The maxium weight of the car is 3060kg, and with the base weight of 2555 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750kg. 
 

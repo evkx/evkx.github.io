@@ -186,7 +186,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 452 liters. On the roof, you can load up to 80kg. Max weight is 2530kg, and with the base weight of 2015 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 452 liters. On the roof, you can load up to 80kg. The maxium weight of the car is 2530kg, and with the base weight of 2015 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750kg. 
 

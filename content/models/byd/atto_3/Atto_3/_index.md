@@ -131,7 +131,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
 
 ## Comfort
 
@@ -214,7 +214,7 @@ With the   level 1 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 1338 liters. On the roof, you can load up to 50kg. Max weight is 2160kg, and with the base weight of 1750 kg, you can max load 410 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 1338 liters. On the roof, you can load up to 50kg. The maxium weight of the car is 2160kg, and with the base weight of 1750 kg, you can max load 410 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}

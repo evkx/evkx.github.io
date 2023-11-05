@@ -117,7 +117,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
 
 ## Comfort
 
@@ -175,6 +175,6 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 560 liters. With the rear seat down, it is 1320 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 72 liters. Max weight is 2945kg, and with the base weight of 2340 kg, you can max load 605 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 560 liters. With the rear seat down, it is 1320 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 72 liters. The maxium weight of the car is 2945kg, and with the base weight of 2340 kg, you can max load 605 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750kg. 

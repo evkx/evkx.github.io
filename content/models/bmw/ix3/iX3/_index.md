@@ -132,7 +132,7 @@ There is only one type of steering wheel available. The stock steering wheel is 
 
 ## Climate system
 
-You can choose from two different climate systems. The standard climate system supports different temperatures in two zones for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+You can choose from two different climate systems. The standard climate system supports different temperatures in two zones for the driver and passenger. The comfort climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
 
 ## Comfort
 
@@ -205,7 +205,7 @@ With the Driving Assistant Professional  level 2 system, you get the following d
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 510 liters. With the rear seat down, it is 1560 liters. On the roof, you can load up to 100kg. Max weight is 2725kg, and with the base weight of 2185 kg, you can max load 540 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 510 liters. With the rear seat down, it is 1560 liters. On the roof, you can load up to 100kg. The maxium weight of the car is 2725kg, and with the base weight of 2185 kg, you can max load 540 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750kg. 
 

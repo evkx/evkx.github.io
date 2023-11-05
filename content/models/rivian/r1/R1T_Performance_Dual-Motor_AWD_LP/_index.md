@@ -204,7 +204,7 @@ With the Driver+  level 2 system, you get the following driving automation featu
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm, and length is 1371 mm. The max load weight in bed is 800 kg.  On the roof, you can load up to 113kg. Under the hood, there is frunk with more storage room. This frunk is 314 liters. Max weight is 3870kg, and with the base weight of 2858 kg, you can max load 1012 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm, and length is 1371 mm. The max load weight in bed is 800 kg.  On the roof, you can load up to 113kg. Under the hood, there is frunk with more storage room. This frunk is 314 liters. The maxium weight of the car is 3870kg, and with the base weight of 2858 kg, you can max load 1012 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 5000, and on unbraked, it is 750kg. 
 

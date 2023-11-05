@@ -31,7 +31,7 @@ Bjørn has a large suite of standard tests. Click on <i class="bi-collection-pla
 
 Overall, Bjørn Nyland is a valuable contributor to the EV community, and his passion for electric vehicles and his dedication to sharing his experiences with others has helped to increase awareness and adoption of EVs around the world.
 
-Bjørn Nyland live stream many of his tests.
+Bjørn Nyland live stream many of his tests in his [Teslabjorn Live channel](https://www.youtube.com/@TeslabjornLive24).
 
 Visit his Youtube Channel and subscribe [here](https://www.youtube.com/@bjornnyland).
 

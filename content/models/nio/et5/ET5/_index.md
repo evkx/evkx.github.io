@@ -219,7 +219,7 @@ With the NIO Pilot Selected Pack  level 1 system, you get the following driving 
 
 With the NIO Pilot Complete Pack  level 2 system, you get additional driving automation features to the ones listed above. 
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- Advance cruise control that follows navigation and turns off and on major roads to reach the target by itself. 
+- Advance cruise control that follows navigation and turns off and on major roads to reach the target. 
 
 
 {{<evkxdisplayaddarticle />}}
@@ -228,6 +228,6 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 363 liters. On the roof, you can load up to 100kg. Max weight is 2900kg, and with the base weight of 2379 kg, you can max load 521 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 363 liters. On the roof, you can load up to 100kg. The maxium weight of the car is 2900kg, and with the base weight of 2379 kg, you can max load 521 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750kg. 

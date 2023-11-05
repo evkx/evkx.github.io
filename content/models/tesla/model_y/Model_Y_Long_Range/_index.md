@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW ch
 
 ### Charge port
 
-The location of the charge port is on the [left rear corner](../../../../technology/charging/connectors/#rear-corner). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [left rear corner](../../../../technology/charging/connectors/#rear-corner). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +137,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The standard climate system supports only controlling one shared zone for the whole car. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The standard climate system supports only controlling one shared zone for the whole car. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
 
 ## Comfort
 
@@ -206,7 +206,7 @@ With the Basic Autopilot  level 2 system, you get the following driving automati
 
 
 With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above. 
-- Advance cruise control that follows navigation and turns off and on major roads to reach the target by itself. 
+- Advance cruise control that follows navigation and turns off and on major roads to reach the target. 
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
 - [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
@@ -222,7 +222,7 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 2158 liters. On the roof, you can load up to 75kg. Max weight is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 2158 liters. On the roof, you can load up to 75kg. The maxium weight of the car is 2720kg, and with the base weight of 2135 kg, you can max load 585 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750kg. 
 ### Availability & Pricing
