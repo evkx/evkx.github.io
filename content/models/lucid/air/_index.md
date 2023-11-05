@@ -4,7 +4,7 @@ linktitle: "Air"
 description: "See below for details of the different variants of Lucid Air"
 weight: 30
 ---
-## Lucid Air Dream Edition Performance
+### Lucid Air Dream Edition Performance
 
 <a href="/models/lucid/air/air_dream_edition_performance/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg" class="img-fluid" alt="Air Dream Edition Performance" ></a>
 
@@ -17,7 +17,7 @@ Lucid Air Dream Edition Performance is an all-electric sedan with a WLTP range o
 - [Lucid Air Dream Edition Performance image gallery](/models/lucid/air/air_dream_edition_performance/gallery)
 - [Lucid Air Dream Edition Performance reviews](/models/lucid/air/air_dream_edition_performance/reviews)
 
-## Lucid Air Dream Edition Range
+### Lucid Air Dream Edition Range
 
 <a href="/models/lucid/air/air_dream_edition_range/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_st.jpg" class="img-fluid" alt="Air Dream Edition Range" ></a>
 
@@ -30,7 +30,7 @@ Lucid Air Dream Edition Range is an all-electric sedan with a WLTP range of up t
 - [Lucid Air Dream Edition Range image gallery](/models/lucid/air/air_dream_edition_range/gallery)
 - [Lucid Air Dream Edition Range reviews](/models/lucid/air/air_dream_edition_range/reviews)
 
-## Lucid Air Grand Touring
+### Lucid Air Grand Touring
 
 <a href="/models/lucid/air/air_grand_touring/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/main_1_st.jpg" class="img-fluid" alt="Air Grand Touring" ></a>
 
@@ -43,7 +43,7 @@ Lucid Air Grand Touring is an all-electric sedan with a WLTP range of up to 839 
 - [Lucid Air Grand Touring image gallery](/models/lucid/air/air_grand_touring/gallery)
 - [Lucid Air Grand Touring reviews](/models/lucid/air/air_grand_touring/reviews)
 
-## Lucid Air Pure
+### Lucid Air Pure
 
 <a href="/models/lucid/air/air_pure/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/main_1_st.jpg" class="img-fluid" alt="Air Pure" ></a>
 
@@ -56,7 +56,7 @@ Lucid Air Pure is an all-electric sedan with a EPA range of up to 660 km (410 mi
 - [Lucid Air Pure image gallery](/models/lucid/air/air_pure/gallery)
 - [Lucid Air Pure reviews](/models/lucid/air/air_pure/reviews)
 
-## Lucid Air Sapphire
+### Lucid Air Sapphire
 
 <a href="/models/lucid/air/air_sapphire/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/main_1_st.jpg" class="img-fluid" alt="Air Sapphire" ></a>
 

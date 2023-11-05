@@ -4,7 +4,7 @@ linktitle: "EQB"
 description: "See below for details of the different variants of Mercedes EQB"
 weight: 30
 ---
-## Mercedes-EQ EQB 250
+### Mercedes-EQ EQB 250
 
 <a href="/models/mercedes/eqb/eqb_250/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_st.jpg" class="img-fluid" alt="EQB 250" ></a>
 
@@ -17,7 +17,7 @@ Mercedes-EQ EQB 250 is an all-electric premium SUV with a WLTP range of up to 47
 - [Mercedes-EQ EQB 250 image gallery](/models/mercedes/eqb/eqb_250/gallery)
 - [Mercedes-EQ EQB 250 reviews](/models/mercedes/eqb/eqb_250/reviews)
 
-## Mercedes-EQ EQB 300 4MATIC
+### Mercedes-EQ EQB 300 4MATIC
 
 <a href="/models/mercedes/eqb/eqb_300_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/main_1_st.jpg" class="img-fluid" alt="EQB 300 4MATIC" ></a>
 
@@ -30,7 +30,7 @@ Mercedes-EQ EQB 300 4MATIC is an all-electric premium SUV with a WLTP range of u
 - [Mercedes-EQ EQB 300 4MATIC image gallery](/models/mercedes/eqb/eqb_300_4matic/gallery)
 - [Mercedes-EQ EQB 300 4MATIC reviews](/models/mercedes/eqb/eqb_300_4matic/reviews)
 
-## Mercedes-EQ EQB 350 4MATIC
+### Mercedes-EQ EQB 350 4MATIC
 
 <a href="/models/mercedes/eqb/eqb_350_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/main_1_st.jpg" class="img-fluid" alt="EQB 350 4MATIC" ></a>
 

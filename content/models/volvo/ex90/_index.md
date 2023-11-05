@@ -4,7 +4,7 @@ linktitle: "EX90"
 description: "See below for details of the different variants of Volvo EX90"
 weight: 30
 ---
-## Volvo EX90 Twin Motor
+### Volvo EX90 Twin Motor
 
 <a href="/models/volvo/ex90/ex90_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/main_1_st.jpg" class="img-fluid" alt="EX90 Twin Motor" ></a>
 
@@ -17,7 +17,7 @@ Volvo EX90 Twin Motor is an all-electric SUV with a WLTP range of up to 580 km (
 - [Volvo EX90 Twin Motor image gallery](/models/volvo/ex90/ex90_twin_motor/gallery)
 - [Volvo EX90 Twin Motor reviews](/models/volvo/ex90/ex90_twin_motor/reviews)
 
-## Volvo EX90 Twin Motor Performance
+### Volvo EX90 Twin Motor Performance
 
 <a href="/models/volvo/ex90/ex90_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" class="img-fluid" alt="EX90 Twin Motor Performance" ></a>
 

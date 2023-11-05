@@ -4,7 +4,7 @@ linktitle: "Enyaq iV"
 description: "See below for details of the different variants of SKODA Enyaq iV"
 weight: 30
 ---
-## SKODA ENYAQ COUPÉ 85x
+### SKODA ENYAQ COUPÉ 85x
 
 <a href="/models/skoda/enyaq_iv/enyaq_coupé_85x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_85x/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ 85x" ></a>
 
@@ -17,20 +17,7 @@ SKODA ENYAQ COUPÉ 85x is an all-electric coupe SUV with a WLTP range of up to 5
 - [SKODA ENYAQ COUPÉ 85x image gallery](/models/skoda/enyaq_iv/enyaq_coupé_85x/gallery)
 - [SKODA ENYAQ COUPÉ 85x reviews](/models/skoda/enyaq_iv/enyaq_coupé_85x/reviews)
 
-## SKODA ENYAQ COUPÉ RS iV (GEN1)
-
-<a href="/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ RS iV" ></a>
-
-SKODA ENYAQ COUPÉ RS iV (GEN1) is an all-electric coupe SUV with a WLTP range of up to 514 km (319 miles). EVKX.net has all the details. 
-
-- [SKODA ENYAQ COUPÉ RS iV (GEN1) article](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/)
-- [SKODA ENYAQ COUPÉ RS iV (GEN1) Range & consumption info](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/rangeandconsumption)
-- [SKODA ENYAQ COUPÉ RS iV (GEN1) Charging curve and performance](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/chargingcurve)
-- [SKODA ENYAQ COUPÉ RS iV (GEN1) full specifications](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/specifications)
-- [SKODA ENYAQ COUPÉ RS iV (GEN1) image gallery](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/gallery)
-- [SKODA ENYAQ COUPÉ RS iV (GEN1) reviews](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/reviews)
-
-## SKODA ENYAQ COUPÉ RS iV
+### SKODA ENYAQ COUPÉ RS iV
 
 <a href="/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ RS iV" ></a>
 
@@ -43,7 +30,22 @@ SKODA ENYAQ COUPÉ RS iV is an all-electric coupe SUV with a WLTP range of up to
 - [SKODA ENYAQ COUPÉ RS iV image gallery](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/gallery)
 - [SKODA ENYAQ COUPÉ RS iV reviews](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/reviews)
 
-## SKODA Enyaq iV80
+## Discontinued variants
+
+### SKODA ENYAQ COUPÉ RS iV (GEN1)
+
+<a href="/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ RS iV" ></a>
+
+SKODA ENYAQ COUPÉ RS iV (GEN1) is an all-electric coupe SUV with a WLTP range of up to 514 km (319 miles). EVKX.net has all the details. 
+
+- [SKODA ENYAQ COUPÉ RS iV (GEN1) article](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/)
+- [SKODA ENYAQ COUPÉ RS iV (GEN1) Range & consumption info](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/rangeandconsumption)
+- [SKODA ENYAQ COUPÉ RS iV (GEN1) Charging curve and performance](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/chargingcurve)
+- [SKODA ENYAQ COUPÉ RS iV (GEN1) full specifications](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/specifications)
+- [SKODA ENYAQ COUPÉ RS iV (GEN1) image gallery](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/gallery)
+- [SKODA ENYAQ COUPÉ RS iV (GEN1) reviews](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/reviews)
+
+### SKODA Enyaq iV80
 
 <a href="/models/skoda/enyaq_iv/enyaq_iv80/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80/main_1_st.jpg" class="img-fluid" alt="Enyaq iV80" ></a>
 
@@ -56,7 +58,7 @@ SKODA Enyaq iV80 is an all-electric SUV with a WLTP range of up to 534 km (332 m
 - [SKODA Enyaq iV80 image gallery](/models/skoda/enyaq_iv/enyaq_iv80/gallery)
 - [SKODA Enyaq iV80 reviews](/models/skoda/enyaq_iv/enyaq_iv80/reviews)
 
-## SKODA Enyaq iV80x
+### SKODA Enyaq iV80x
 
 <a href="/models/skoda/enyaq_iv/enyaq_iv80x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_st.jpg" class="img-fluid" alt="Enyaq iV80x" ></a>
 
@@ -69,7 +71,7 @@ SKODA Enyaq iV80x is an all-electric SUV with a WLTP range of up to 504 km (313 
 - [SKODA Enyaq iV80x image gallery](/models/skoda/enyaq_iv/enyaq_iv80x/gallery)
 - [SKODA Enyaq iV80x reviews](/models/skoda/enyaq_iv/enyaq_iv80x/reviews)
 
-## SKODA ENYAQ RS iV
+### SKODA ENYAQ RS iV
 
 <a href="/models/skoda/enyaq_iv/enyaq_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_st.jpg" class="img-fluid" alt="ENYAQ RS iV" ></a>
 

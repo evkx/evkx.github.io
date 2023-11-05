@@ -4,7 +4,7 @@ linktitle: "i4"
 description: "See below for details of the different variants of BMW i4"
 weight: 30
 ---
-## BMW i4 eDrive35
+### BMW i4 eDrive35
 
 <a href="/models/bmw/i4/i4_edrive35/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/main_1_st.jpg" class="img-fluid" alt="i4 eDrive35" ></a>
 
@@ -17,7 +17,7 @@ BMW i4 eDrive35 is an all-electric premium sedan with a WLTP range of up to 490 
 - [BMW i4 eDrive35 image gallery](/models/bmw/i4/i4_edrive35/gallery)
 - [BMW i4 eDrive35 reviews](/models/bmw/i4/i4_edrive35/reviews)
 
-## BMW i4 eDrive40
+### BMW i4 eDrive40
 
 <a href="/models/bmw/i4/i4_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg" class="img-fluid" alt="i4 eDrive40" ></a>
 
@@ -30,7 +30,7 @@ BMW i4 eDrive40 is an all-electric premium sedan with a WLTP range of up to 590 
 - [BMW i4 eDrive40 image gallery](/models/bmw/i4/i4_edrive40/gallery)
 - [BMW i4 eDrive40 reviews](/models/bmw/i4/i4_edrive40/reviews)
 
-## BMW i4 M50
+### BMW i4 M50
 
 <a href="/models/bmw/i4/i4_m50/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg" class="img-fluid" alt="i4 M50" ></a>
 

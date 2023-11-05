@@ -4,7 +4,7 @@ linktitle: "FREE"
 description: "See below for details of the different variants of VOYAH FREE"
 weight: 30
 ---
-## VOYAH FREE
+### VOYAH FREE
 
 <a href="/models/voyah/free/free/"><img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_st.jpg" class="img-fluid" alt="FREE" ></a>
 

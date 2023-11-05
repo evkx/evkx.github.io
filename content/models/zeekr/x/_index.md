@@ -4,7 +4,7 @@ linktitle: "X"
 description: "See below for details of the different variants of Zeekr X"
 weight: 30
 ---
-## Zeekr X Long Range RWD
+### Zeekr X Long Range RWD
 
 <a href="/models/zeekr/x/x_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/main_1_st.jpg" class="img-fluid" alt="X Long Range RWD" ></a>
 
@@ -17,7 +17,7 @@ Zeekr X Long Range RWD is an all-electric crossover with a WLTP range of up to 4
 - [Zeekr X Long Range RWD image gallery](/models/zeekr/x/x_long_range_rwd/gallery)
 - [Zeekr X Long Range RWD reviews](/models/zeekr/x/x_long_range_rwd/reviews)
 
-## Zeekr X Privilege AWD
+### Zeekr X Privilege AWD
 
 <a href="/models/zeekr/x/x_privilege_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/main_1_st.jpg" class="img-fluid" alt="X Privilege AWD" ></a>
 

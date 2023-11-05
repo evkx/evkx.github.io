@@ -4,7 +4,7 @@ linktitle: "Eletre"
 description: "See below for details of the different variants of Lotus Eletre"
 weight: 30
 ---
-## Lotus Eletre
+### Lotus Eletre
 
 <a href="/models/lotus/eletre/eletre/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/main_1_st.jpg" class="img-fluid" alt="Eletre" ></a>
 
@@ -17,7 +17,7 @@ Lotus Eletre is an all-electric luxury SUV with a WLTP range of up to 600 km (37
 - [Lotus Eletre image gallery](/models/lotus/eletre/eletre/gallery)
 - [Lotus Eletre reviews](/models/lotus/eletre/eletre/reviews)
 
-## Lotus Eletre R
+### Lotus Eletre R
 
 <a href="/models/lotus/eletre/eletre_r/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" class="img-fluid" alt="Eletre R" ></a>
 
@@ -30,7 +30,7 @@ Lotus Eletre R is an all-electric luxury SUV with a WLTP range of up to 460 km (
 - [Lotus Eletre R image gallery](/models/lotus/eletre/eletre_r/gallery)
 - [Lotus Eletre R reviews](/models/lotus/eletre/eletre_r/reviews)
 
-## Lotus Eletre S
+### Lotus Eletre S
 
 <a href="/models/lotus/eletre/eletre_s/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/main_1_st.jpg" class="img-fluid" alt="Eletre S" ></a>
 

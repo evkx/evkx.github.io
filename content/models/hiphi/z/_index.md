@@ -4,7 +4,7 @@ linktitle: "Z"
 description: "See below for details of the different variants of HiPhi Z"
 weight: 30
 ---
-## HiPhi Z 4 Seater
+### HiPhi Z 4 Seater
 
 <a href="/models/hiphi/z/z_4_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg" class="img-fluid" alt="Z 4 Seater" ></a>
 
@@ -17,7 +17,7 @@ HiPhi Z 4 Seater is an all-electric luxury sedan with a WLTP range of up to 555 
 - [HiPhi Z 4 Seater image gallery](/models/hiphi/z/z_4_seater/gallery)
 - [HiPhi Z 4 Seater reviews](/models/hiphi/z/z_4_seater/reviews)
 
-## HiPhi Z 5 Seater
+### HiPhi Z 5 Seater
 
 <a href="/models/hiphi/z/z_5_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_st.jpg" class="img-fluid" alt="Z 5 Seater" ></a>
 

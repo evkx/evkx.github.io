@@ -4,7 +4,7 @@ linktitle: "Hummer EV"
 description: "See below for details of the different variants of GMC Hummer EV"
 weight: 30
 ---
-## GMC Hummer EV Edition 1 Pickup
+### GMC Hummer EV Edition 1 Pickup
 
 <a href="/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" class="img-fluid" alt="Hummer EV Edition 1 Pickup" ></a>
 

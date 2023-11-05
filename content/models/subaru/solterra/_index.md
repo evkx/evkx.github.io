@@ -4,7 +4,7 @@ linktitle: "Solterra"
 description: "See below for details of the different variants of Subaru Solterra"
 weight: 30
 ---
-## Subaru Solterra AWD
+### Subaru Solterra AWD
 
 <a href="/models/subaru/solterra/solterra_awd/"><img src="https://media.evkx.net/multimedia/models/subaru/solterra/solterra_awd/main_1_st.jpeg" class="img-fluid" alt="Solterra AWD" ></a>
 

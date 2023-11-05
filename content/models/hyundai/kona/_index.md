@@ -4,7 +4,7 @@ linktitle: "Kona"
 description: "See below for details of the different variants of Hyundai Kona"
 weight: 30
 ---
-## Hyundai Kona Long Range
+### Hyundai Kona Long Range
 
 <a href="/models/hyundai/kona/kona_long_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg" class="img-fluid" alt="Kona Long Range" ></a>
 
@@ -17,7 +17,7 @@ Hyundai Kona Long Range is an all-electric crossover with a WLTP range of up to 
 - [Hyundai Kona Long Range image gallery](/models/hyundai/kona/kona_long_range/gallery)
 - [Hyundai Kona Long Range reviews](/models/hyundai/kona/kona_long_range/reviews)
 
-## Hyundai Kona Standard Range
+### Hyundai Kona Standard Range
 
 <a href="/models/hyundai/kona/kona_standard_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1_st.jpg" class="img-fluid" alt="Kona Standard Range" ></a>
 

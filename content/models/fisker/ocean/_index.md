@@ -4,7 +4,7 @@ linktitle: "Ocean"
 description: "See below for details of the different variants of Fisker Ocean"
 weight: 30
 ---
-## Fisker Ocean Extreme
+### Fisker Ocean Extreme
 
 <a href="/models/fisker/ocean/ocean_extreme/"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" class="img-fluid" alt="Ocean Extreme" ></a>
 

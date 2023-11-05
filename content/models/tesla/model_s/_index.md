@@ -4,7 +4,7 @@ linktitle: "Model S"
 description: "See below for details of the different variants of Tesla Model S"
 weight: 30
 ---
-## Tesla Model S
+### Tesla Model S
 
 <a href="/models/tesla/model_s/model_s/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" class="img-fluid" alt="Model S" ></a>
 
@@ -17,7 +17,7 @@ Tesla Model S is an all-electric sedan with a WLTP range of up to 649 km (403 mi
 - [Tesla Model S image gallery](/models/tesla/model_s/model_s/gallery)
 - [Tesla Model S reviews](/models/tesla/model_s/model_s/reviews)
 
-## Tesla Model S Plaid
+### Tesla Model S Plaid
 
 <a href="/models/tesla/model_s/model_s_plaid/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/main_1_st.jpg" class="img-fluid" alt="Model S Plaid" ></a>
 
@@ -30,7 +30,7 @@ Tesla Model S Plaid is an all-electric sedan with a WLTP range of up to 600 km (
 - [Tesla Model S Plaid image gallery](/models/tesla/model_s/model_s_plaid/gallery)
 - [Tesla Model S Plaid reviews](/models/tesla/model_s/model_s_plaid/reviews)
 
-## Tesla Model S Standard Range
+### Tesla Model S Standard Range
 
 <a href="/models/tesla/model_s/model_s_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/main_1_st.jpg" class="img-fluid" alt="Model S Standard Range" ></a>
 

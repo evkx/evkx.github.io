@@ -4,7 +4,7 @@ linktitle: "Ioniq 6"
 description: "See below for details of the different variants of Hyundai Ioniq 6"
 weight: 30
 ---
-## Hyundai Ioniq 6 Long Range AWD
+### Hyundai Ioniq 6 Long Range AWD
 
 <a href="/models/hyundai/ioniq_6/ioniq_6_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Ioniq 6 Long Range AWD" ></a>
 
@@ -17,7 +17,7 @@ Hyundai Ioniq 6 Long Range AWD is an all-electric sedan with a WLTP range of up 
 - [Hyundai Ioniq 6 Long Range AWD image gallery](/models/hyundai/ioniq_6/ioniq_6_long_range_awd/gallery)
 - [Hyundai Ioniq 6 Long Range AWD reviews](/models/hyundai/ioniq_6/ioniq_6_long_range_awd/reviews)
 
-## Hyundai Ioniq 6 Long Range RWD
+### Hyundai Ioniq 6 Long Range RWD
 
 <a href="/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" class="img-fluid" alt="Ioniq 6 Long Range RWD" ></a>
 

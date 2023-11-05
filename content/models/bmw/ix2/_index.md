@@ -4,7 +4,7 @@ linktitle: "iX2"
 description: "See below for details of the different variants of BMW iX2"
 weight: 30
 ---
-## BMW iX2 xDrive30
+### BMW iX2 xDrive30
 
 <a href="/models/bmw/ix2/ix2_xdrive30/"><img src="https://media.evkx.net/multimedia/models/bmw/ix2/ix2_xdrive30/main_1_st.jpg" class="img-fluid" alt="iX2 xDrive30" ></a>
 

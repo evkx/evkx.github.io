@@ -4,7 +4,7 @@ linktitle: "ESCALADE"
 description: "See below for details of the different variants of Cadillac ESCALADE"
 weight: 30
 ---
-## Cadillac ESCALADE IQ
+### Cadillac ESCALADE IQ
 
 <a href="/models/cadillac/escalade/escalade_iq/"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" class="img-fluid" alt="ESCALADE IQ" ></a>
 

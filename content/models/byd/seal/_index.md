@@ -4,7 +4,7 @@ linktitle: "Seal"
 description: "See below for details of the different variants of BYD Seal"
 weight: 30
 ---
-## BYD Seal AWD
+### BYD Seal AWD
 
 <a href="/models/byd/seal/seal_awd/"><img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_st.jpg" class="img-fluid" alt="Seal AWD" ></a>
 

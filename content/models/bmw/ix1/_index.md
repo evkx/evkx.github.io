@@ -4,7 +4,7 @@ linktitle: "iX1"
 description: "See below for details of the different variants of BMW iX1"
 weight: 30
 ---
-## BMW iX1 eDrive20
+### BMW iX1 eDrive20
 
 <a href="/models/bmw/ix1/ix1_edrive20/"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/main_1_st.jpg" class="img-fluid" alt="iX1 eDrive20" ></a>
 
@@ -17,7 +17,7 @@ BMW iX1 eDrive20 is an all-electric premium SUV with a WLTP range of up to 475 k
 - [BMW iX1 eDrive20 image gallery](/models/bmw/ix1/ix1_edrive20/gallery)
 - [BMW iX1 eDrive20 reviews](/models/bmw/ix1/ix1_edrive20/reviews)
 
-## BMW iX1 xDrive30
+### BMW iX1 xDrive30
 
 <a href="/models/bmw/ix1/ix1_xdrive30/"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg" class="img-fluid" alt="iX1 xDrive30" ></a>
 

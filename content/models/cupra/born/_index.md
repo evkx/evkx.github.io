@@ -4,7 +4,7 @@ linktitle: "BORN"
 description: "See below for details of the different variants of CUPRA BORN"
 weight: 30
 ---
-## CUPRA BORN 58
+### CUPRA BORN 58
 
 <a href="/models/cupra/born/born_58/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" class="img-fluid" alt="BORN 58" ></a>
 
@@ -17,7 +17,7 @@ CUPRA BORN 58 is an all-electric hatchback with a WLTP range of up to 424 km (26
 - [CUPRA BORN 58 image gallery](/models/cupra/born/born_58/gallery)
 - [CUPRA BORN 58 reviews](/models/cupra/born/born_58/reviews)
 
-## CUPRA BORN 58 e-BOOST
+### CUPRA BORN 58 e-BOOST
 
 <a href="/models/cupra/born/born_58_e-boost/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/main_1_st.jpg" class="img-fluid" alt="BORN 58 e-BOOST" ></a>
 
@@ -30,7 +30,7 @@ CUPRA BORN 58 e-BOOST is an all-electric hatchback with a WLTP range of up to 42
 - [CUPRA BORN 58 e-BOOST image gallery](/models/cupra/born/born_58_e-boost/gallery)
 - [CUPRA BORN 58 e-BOOST reviews](/models/cupra/born/born_58_e-boost/reviews)
 
-## CUPRA BORN 77 e-BOOST
+### CUPRA BORN 77 e-BOOST
 
 <a href="/models/cupra/born/born_77_e-boost/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_77_e-boost/main_1_st.jpg" class="img-fluid" alt="BORN 77 e-BOOST" ></a>
 

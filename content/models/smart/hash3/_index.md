@@ -4,7 +4,7 @@ linktitle: "#3"
 description: "See below for details of the different variants of Smart #3"
 weight: 30
 ---
-## Smart #3 Brabus
+### Smart #3 Brabus
 
 <a href="/models/smart/hash3/hash3_brabus/"><img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" class="img-fluid" alt="#3 Brabus" ></a>
 

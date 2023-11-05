@@ -4,7 +4,7 @@ linktitle: "bZ4X"
 description: "See below for details of the different variants of Toyota bZ4X"
 weight: 30
 ---
-## Toyota bZ4X AWD
+### Toyota bZ4X AWD
 
 <a href="/models/toyota/bz4x/bz4x_awd/"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" class="img-fluid" alt="bZ4X AWD" ></a>
 
@@ -17,7 +17,7 @@ Toyota bZ4X AWD is an all-electric SUV with a WLTP range of up to 470 km (292 mi
 - [Toyota bZ4X AWD image gallery](/models/toyota/bz4x/bz4x_awd/gallery)
 - [Toyota bZ4X AWD reviews](/models/toyota/bz4x/bz4x_awd/reviews)
 
-## Toyota bZ4X FWD
+### Toyota bZ4X FWD
 
 <a href="/models/toyota/bz4x/bz4x_fwd/"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/main_1_st.jpg" class="img-fluid" alt="bZ4X FWD" ></a>
 

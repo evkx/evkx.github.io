@@ -4,7 +4,7 @@ linktitle: "3008"
 description: "See below for details of the different variants of Peugot 3008"
 weight: 30
 ---
-## Peugot E-3008 Long Range
+### Peugot E-3008 Long Range
 
 <a href="/models/peugot/3008/e-3008_long_range/"><img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_st.jpg" class="img-fluid" alt="E-3008 Long Range" ></a>
 

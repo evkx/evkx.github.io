@@ -4,7 +4,7 @@ linktitle: "iX3"
 description: "See below for details of the different variants of BMW iX3"
 weight: 30
 ---
-## BMW iX3
+### BMW iX3
 
 <a href="/models/bmw/ix3/ix3/"><img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg" class="img-fluid" alt="iX3" ></a>
 

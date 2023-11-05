@@ -4,7 +4,7 @@ linktitle: "F150 Lightning"
 description: "See below for details of the different variants of Ford F150 Lightning"
 weight: 30
 ---
-## Ford F150 Lightning Extended Range
+### Ford F150 Lightning Extended Range
 
 <a href="/models/ford/f150_lightning/f150_lightning_extended_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning Extended Range" ></a>
 

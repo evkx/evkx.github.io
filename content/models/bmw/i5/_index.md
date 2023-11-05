@@ -4,7 +4,7 @@ linktitle: "i5"
 description: "See below for details of the different variants of BMW i5"
 weight: 30
 ---
-## BMW i5 eDrive40
+### BMW i5 eDrive40
 
 <a href="/models/bmw/i5/i5_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1_st.jpg" class="img-fluid" alt="i5 eDrive40" ></a>
 
@@ -17,7 +17,7 @@ BMW i5 eDrive40 is an all-electric premium sedan with a WLTP range of up to 581 
 - [BMW i5 eDrive40 image gallery](/models/bmw/i5/i5_edrive40/gallery)
 - [BMW i5 eDrive40 reviews](/models/bmw/i5/i5_edrive40/reviews)
 
-## BMW i5 M60 xDrive
+### BMW i5 M60 xDrive
 
 <a href="/models/bmw/i5/i5_m60_xdrive/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_st.jpg" class="img-fluid" alt="i5 M60 xDrive" ></a>
 

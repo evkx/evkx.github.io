@@ -4,7 +4,7 @@ linktitle: "Dolphin"
 description: "See below for details of the different variants of BYD Dolphin"
 weight: 30
 ---
-## BYD Dolphin 60.4kWh
+### BYD Dolphin 60.4kWh
 
 <a href="/models/byd/dolphin/dolphin_60.4kwh/"><img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" class="img-fluid" alt="Dolphin 60.4kWh" ></a>
 

@@ -4,7 +4,7 @@ linktitle: "Niro"
 description: "See below for details of the different variants of Kia Niro"
 weight: 30
 ---
-## Kia Niro EV
+### Kia Niro EV
 
 <a href="/models/kia/niro/niro_ev/"><img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg" class="img-fluid" alt="Niro EV" ></a>
 

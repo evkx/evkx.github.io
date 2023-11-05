@@ -4,7 +4,7 @@ linktitle: "XC40"
 description: "See below for details of the different variants of Volvo XC40"
 weight: 30
 ---
-## Volvo XC40 Recharge Single Motor
+### Volvo XC40 Recharge Single Motor
 
 <a href="/models/volvo/xc40/xc40_recharge_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/main_1_st.jpg" class="img-fluid" alt="XC40 Recharge Single Motor" ></a>
 
@@ -17,7 +17,7 @@ Volvo XC40 Recharge Single Motor is an all-electric crossover with a WLTP range 
 - [Volvo XC40 Recharge Single Motor image gallery](/models/volvo/xc40/xc40_recharge_single_motor/gallery)
 - [Volvo XC40 Recharge Single Motor reviews](/models/volvo/xc40/xc40_recharge_single_motor/reviews)
 
-## Volvo XC40 Recharge Single Motor ER
+### Volvo XC40 Recharge Single Motor ER
 
 <a href="/models/volvo/xc40/xc40_recharge_single_motor_er/"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" class="img-fluid" alt="XC40 Recharge Single Motor ER" ></a>
 
@@ -30,7 +30,7 @@ Volvo XC40 Recharge Single Motor ER is an all-electric crossover with a WLTP ran
 - [Volvo XC40 Recharge Single Motor ER image gallery](/models/volvo/xc40/xc40_recharge_single_motor_er/gallery)
 - [Volvo XC40 Recharge Single Motor ER reviews](/models/volvo/xc40/xc40_recharge_single_motor_er/reviews)
 
-## Volvo XC40 Recharge Twin Motor
+### Volvo XC40 Recharge Twin Motor
 
 <a href="/models/volvo/xc40/xc40_recharge_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_twin_motor/main_1_st.jpg" class="img-fluid" alt="XC40 Recharge Twin Motor" ></a>
 

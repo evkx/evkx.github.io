@@ -4,7 +4,7 @@ linktitle: "EL7"
 description: "See below for details of the different variants of Nio EL7"
 weight: 30
 ---
-## Nio EL7
+### Nio EL7
 
 <a href="/models/nio/el7/el7/"><img src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_st.jpg" class="img-fluid" alt="EL7" ></a>
 

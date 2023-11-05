@@ -4,7 +4,7 @@ linktitle: "Spectre"
 description: "See below for details of the different variants of Rolls-Royce Spectre"
 weight: 30
 ---
-## Rolls-Royce Spectre
+### Rolls-Royce Spectre
 
 <a href="/models/rolls-royce/spectre/spectre/"><img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" class="img-fluid" alt="Spectre" ></a>
 

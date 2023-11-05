@@ -4,7 +4,7 @@ linktitle: "LYRIQ"
 description: "See below for details of the different variants of Cadillac LYRIQ"
 weight: 30
 ---
-## Cadillac LYRIQ AWD
+### Cadillac LYRIQ AWD
 
 <a href="/models/cadillac/lyriq/lyriq_awd/"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" class="img-fluid" alt="LYRIQ AWD" ></a>
 
@@ -17,7 +17,7 @@ Cadillac LYRIQ AWD is an all-electric SUV with a EPA range of up to 494 km (307 
 - [Cadillac LYRIQ AWD image gallery](/models/cadillac/lyriq/lyriq_awd/gallery)
 - [Cadillac LYRIQ AWD reviews](/models/cadillac/lyriq/lyriq_awd/reviews)
 
-## Cadillac LYRIQ RWD
+### Cadillac LYRIQ RWD
 
 <a href="/models/cadillac/lyriq/lyriq_rwd/"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/main_1_st.jpg" class="img-fluid" alt="LYRIQ RWD" ></a>
 

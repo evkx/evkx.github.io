@@ -4,7 +4,7 @@ linktitle: "MG5"
 description: "See below for details of the different variants of MG MG5"
 weight: 30
 ---
-## MG MG5 Electric Long Range
+### MG MG5 Electric Long Range
 
 <a href="/models/mg/mg5/mg5_electric_long_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" class="img-fluid" alt="MG5 Electric Long Range" ></a>
 

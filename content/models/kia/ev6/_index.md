@@ -4,7 +4,7 @@ linktitle: "EV6"
 description: "See below for details of the different variants of Kia EV6"
 weight: 30
 ---
-## Kia EV6 Standard Range 2WD
+### Kia EV6 Standard Range 2WD
 
 <a href="/models/kia/ev6/ev6_standard_range_2wd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg" class="img-fluid" alt="EV6 Standard Range 2WD" ></a>
 
@@ -17,7 +17,7 @@ Kia EV6 Standard Range 2WD is an all-electric coupe SUV with a WLTP range of up 
 - [Kia EV6 Standard Range 2WD image gallery](/models/kia/ev6/ev6_standard_range_2wd/gallery)
 - [Kia EV6 Standard Range 2WD reviews](/models/kia/ev6/ev6_standard_range_2wd/reviews)
 
-## Kia EV6 Standard Range AWD
+### Kia EV6 Standard Range AWD
 
 <a href="/models/kia/ev6/ev6_standard_range_awd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_awd/main_1_st.jpg" class="img-fluid" alt="EV6 Standard Range AWD" ></a>
 
@@ -30,7 +30,7 @@ Kia EV6 Standard Range AWD is an all-electric coupe SUV with a WLTP range of up 
 - [Kia EV6 Standard Range AWD image gallery](/models/kia/ev6/ev6_standard_range_awd/gallery)
 - [Kia EV6 Standard Range AWD reviews](/models/kia/ev6/ev6_standard_range_awd/reviews)
 
-## Kia EV6 Long Range 2WD
+### Kia EV6 Long Range 2WD
 
 <a href="/models/kia/ev6/ev6_long_range_2wd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_2wd/main_1_st.jpg" class="img-fluid" alt="EV6 Long Range 2WD" ></a>
 
@@ -43,7 +43,7 @@ Kia EV6 Long Range 2WD is an all-electric coupe SUV with a WLTP range of up to 5
 - [Kia EV6 Long Range 2WD image gallery](/models/kia/ev6/ev6_long_range_2wd/gallery)
 - [Kia EV6 Long Range 2WD reviews](/models/kia/ev6/ev6_long_range_2wd/reviews)
 
-## Kia EV6 Long Range AWD
+### Kia EV6 Long Range AWD
 
 <a href="/models/kia/ev6/ev6_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/main_1_st.jpg" class="img-fluid" alt="EV6 Long Range AWD" ></a>
 
@@ -56,7 +56,7 @@ Kia EV6 Long Range AWD is an all-electric coupe SUV with a WLTP range of up to 5
 - [Kia EV6 Long Range AWD image gallery](/models/kia/ev6/ev6_long_range_awd/gallery)
 - [Kia EV6 Long Range AWD reviews](/models/kia/ev6/ev6_long_range_awd/reviews)
 
-## Kia EV6 GT
+### Kia EV6 GT
 
 <a href="/models/kia/ev6/ev6_gt/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_st.jpg" class="img-fluid" alt="EV6 GT" ></a>
 

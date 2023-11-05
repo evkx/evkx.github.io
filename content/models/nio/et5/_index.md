@@ -4,7 +4,7 @@ linktitle: "ET5"
 description: "See below for details of the different variants of Nio ET5"
 weight: 30
 ---
-## Nio ET5
+### Nio ET5
 
 <a href="/models/nio/et5/et5/"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_st.jpg" class="img-fluid" alt="ET5" ></a>
 
@@ -17,7 +17,7 @@ Nio ET5 is an all-electric sedan with a WLTP range of up to 590 km (367 miles). 
 - [Nio ET5 image gallery](/models/nio/et5/et5/gallery)
 - [Nio ET5 reviews](/models/nio/et5/et5/reviews)
 
-## Nio ET5 Touring
+### Nio ET5 Touring
 
 <a href="/models/nio/et5/et5_touring/"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_st.jpg" class="img-fluid" alt="ET5 Touring" ></a>
 

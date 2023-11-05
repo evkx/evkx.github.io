@@ -4,7 +4,7 @@ linktitle: "G9"
 description: "See below for details of the different variants of XPENG G9"
 weight: 30
 ---
-## XPENG G9 AWD Performance
+### XPENG G9 AWD Performance
 
 <a href="/models/xpeng/g9/g9_awd_performance/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg" class="img-fluid" alt="G9 AWD Performance" ></a>
 
@@ -17,7 +17,7 @@ XPENG G9 AWD Performance is an all-electric SUV with a WLTP range of up to 520 k
 - [XPENG G9 AWD Performance image gallery](/models/xpeng/g9/g9_awd_performance/gallery)
 - [XPENG G9 AWD Performance reviews](/models/xpeng/g9/g9_awd_performance/reviews)
 
-## XPENG G9 RWD Long Range
+### XPENG G9 RWD Long Range
 
 <a href="/models/xpeng/g9/g9_rwd_long_range/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/main_1_st.jpg" class="img-fluid" alt="G9 RWD Long Range" ></a>
 
@@ -30,7 +30,7 @@ XPENG G9 RWD Long Range is an all-electric SUV with a WLTP range of up to 570 km
 - [XPENG G9 RWD Long Range image gallery](/models/xpeng/g9/g9_rwd_long_range/gallery)
 - [XPENG G9 RWD Long Range reviews](/models/xpeng/g9/g9_rwd_long_range/reviews)
 
-## XPENG G9 RWD Standard Range
+### XPENG G9 RWD Standard Range
 
 <a href="/models/xpeng/g9/g9_rwd_standard_range/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_standard_range/main_1_st.jpg" class="img-fluid" alt="G9 RWD Standard Range" ></a>
 

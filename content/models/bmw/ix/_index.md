@@ -4,7 +4,7 @@ linktitle: "iX"
 description: "See below for details of the different variants of BMW iX"
 weight: 30
 ---
-## BMW iX xDrive40
+### BMW iX xDrive40
 
 <a href="/models/bmw/ix/ix_xdrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg" class="img-fluid" alt="iX xDrive40" ></a>
 
@@ -17,7 +17,7 @@ BMW iX xDrive40 is an all-electric luxury SUV with a WLTP range of up to 425 km 
 - [BMW iX xDrive40 image gallery](/models/bmw/ix/ix_xdrive40/gallery)
 - [BMW iX xDrive40 reviews](/models/bmw/ix/ix_xdrive40/reviews)
 
-## BMW iX xDrive50
+### BMW iX xDrive50
 
 <a href="/models/bmw/ix/ix_xdrive50/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/main_1_st.jpg" class="img-fluid" alt="iX xDrive50" ></a>
 
@@ -30,7 +30,7 @@ BMW iX xDrive50 is an all-electric luxury SUV with a WLTP range of up to 631 km 
 - [BMW iX xDrive50 image gallery](/models/bmw/ix/ix_xdrive50/gallery)
 - [BMW iX xDrive50 reviews](/models/bmw/ix/ix_xdrive50/reviews)
 
-## BMW iX M60
+### BMW iX M60
 
 <a href="/models/bmw/ix/ix_m60/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/main_1_st.jpg" class="img-fluid" alt="iX M60" ></a>
 

@@ -4,7 +4,7 @@ linktitle: "i7"
 description: "See below for details of the different variants of BMW i7"
 weight: 30
 ---
-## BMW i7 eDrive50
+### BMW i7 eDrive50
 
 <a href="/models/bmw/i7/i7_edrive50/"><img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/main_1_st.jpg" class="img-fluid" alt="i7 eDrive50" ></a>
 
@@ -17,7 +17,7 @@ BMW i7 eDrive50 is an all-electric luxury sedan with a WLTP range of up to 611 k
 - [BMW i7 eDrive50 image gallery](/models/bmw/i7/i7_edrive50/gallery)
 - [BMW i7 eDrive50 reviews](/models/bmw/i7/i7_edrive50/reviews)
 
-## BMW i7 M70 xDrive
+### BMW i7 M70 xDrive
 
 <a href="/models/bmw/i7/i7_m70_xdrive/"><img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1_st.jpg" class="img-fluid" alt="i7 M70 xDrive" ></a>
 
@@ -30,7 +30,7 @@ BMW i7 M70 xDrive is an all-electric luxury sedan with a WLTP range of up to 560
 - [BMW i7 M70 xDrive image gallery](/models/bmw/i7/i7_m70_xdrive/gallery)
 - [BMW i7 M70 xDrive reviews](/models/bmw/i7/i7_m70_xdrive/reviews)
 
-## BMW i7 xDrive60
+### BMW i7 xDrive60
 
 <a href="/models/bmw/i7/i7_xdrive60/"><img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/main_1_st.jpg" class="img-fluid" alt="i7 xDrive60" ></a>
 

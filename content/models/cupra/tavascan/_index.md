@@ -4,7 +4,7 @@ linktitle: "Tavascan"
 description: "See below for details of the different variants of CUPRA Tavascan"
 weight: 30
 ---
-## CUPRA Tavascan Endurance
+### CUPRA Tavascan Endurance
 
 <a href="/models/cupra/tavascan/tavascan_endurance/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_endurance/main_1_st.JPG" class="img-fluid" alt="Tavascan Endurance" ></a>
 
@@ -17,7 +17,7 @@ CUPRA Tavascan Endurance is an all-electric SUV with a WLTP range of up to 547 k
 - [CUPRA Tavascan Endurance image gallery](/models/cupra/tavascan/tavascan_endurance/gallery)
 - [CUPRA Tavascan Endurance reviews](/models/cupra/tavascan/tavascan_endurance/reviews)
 
-## CUPRA Tavascan VZ
+### CUPRA Tavascan VZ
 
 <a href="/models/cupra/tavascan/tavascan_vz/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" class="img-fluid" alt="Tavascan VZ" ></a>
 

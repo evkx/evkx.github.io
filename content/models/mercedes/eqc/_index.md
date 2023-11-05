@@ -4,7 +4,7 @@ linktitle: "EQC"
 description: "See below for details of the different variants of Mercedes EQC"
 weight: 30
 ---
-## Mercedes-EQ EQC 400 4MATIC
+### Mercedes-EQ EQC 400 4MATIC
 
 <a href="/models/mercedes/eqc/eqc_400_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" class="img-fluid" alt="EQC 400 4MATIC" ></a>
 

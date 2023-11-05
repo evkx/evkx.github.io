@@ -4,7 +4,7 @@ linktitle: "Model Y"
 description: "See below for details of the different variants of Tesla Model Y"
 weight: 30
 ---
-## Tesla Model Y Long Range
+### Tesla Model Y Long Range
 
 <a href="/models/tesla/model_y/model_y_long_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" class="img-fluid" alt="Model Y Long Range" ></a>
 
@@ -17,7 +17,7 @@ Tesla Model Y Long Range is an all-electric coupe SUV with a WLTP range of up to
 - [Tesla Model Y Long Range image gallery](/models/tesla/model_y/model_y_long_range/gallery)
 - [Tesla Model Y Long Range reviews](/models/tesla/model_y/model_y_long_range/reviews)
 
-## Tesla Model Y Performance
+### Tesla Model Y Performance
 
 <a href="/models/tesla/model_y/model_y_performance/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_st.jpg" class="img-fluid" alt="Model Y Performance" ></a>
 
@@ -30,7 +30,7 @@ Tesla Model Y Performance is an all-electric coupe SUV with a WLTP range of up t
 - [Tesla Model Y Performance image gallery](/models/tesla/model_y/model_y_performance/gallery)
 - [Tesla Model Y Performance reviews](/models/tesla/model_y/model_y_performance/reviews)
 
-## Tesla Model Y Standard Range
+### Tesla Model Y Standard Range
 
 <a href="/models/tesla/model_y/model_y_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_standard_range/main_1_st.jpg" class="img-fluid" alt="Model Y Standard Range" ></a>
 

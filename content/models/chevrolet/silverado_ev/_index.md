@@ -4,7 +4,7 @@ linktitle: "Silverado EV"
 description: "See below for details of the different variants of Chevrolet Silverado EV"
 weight: 30
 ---
-## Chevrolet Silverado EV 4WT
+### Chevrolet Silverado EV 4WT
 
 <a href="/models/chevrolet/silverado_ev/silverado_ev_4wt/"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" class="img-fluid" alt="Silverado EV 4WT" ></a>
 

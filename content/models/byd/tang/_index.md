@@ -4,7 +4,7 @@ linktitle: "Tang"
 description: "See below for details of the different variants of BYD Tang"
 weight: 30
 ---
-## BYD Tang EV600
+### BYD Tang EV600
 
 <a href="/models/byd/tang/tang_ev600/"><img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1_st.jpg" class="img-fluid" alt="Tang EV600" ></a>
 
