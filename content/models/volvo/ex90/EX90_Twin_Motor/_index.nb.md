@@ -35,7 +35,7 @@ Volvo EX90 Twin Motor har en maksimal effekt på 300KW (408hk).Totalt dreiemomen
 
 Batteriet har en bruttokapasitet på 111kWh og en nettokapasitet på 107kWh, noe som betyr at du har en 4kWh-buffer for beskyttelse. (3,6%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt- oksider-nmc)
 
- [WLTP-området](../../../../guides/understandingrange/wltp) er 580 km (360 mi). Forbruket er 18.4kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 580 km (360 mi). Forbruket er 18.4kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 68 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 136kW. Hver ladeøkt vil ta 24 minutter og 31 sekunder. 
 

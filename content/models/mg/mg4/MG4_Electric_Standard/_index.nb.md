@@ -35,7 +35,7 @@ MG MG4 Electric Standard har en maksimal effekt på 150KW (204hk).Totalt dreiemo
 
 Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 50,8kWh, noe som betyr at du har en 0,2kWh-buffer for beskyttelse. (0,4%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
 
- [WLTP-området](../../../../guides/understandingrange/wltp) er 350 km (218 mi). Forbruket er 14.5kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 350 km (218 mi). Forbruket er 14.5kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 45 minutter, mens et mer vanlig scenario på 10-80 % vil ta 20 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 61%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 94kW. Hver ladeøkt vil ta 19 minutter og 54 sekunder. 
 

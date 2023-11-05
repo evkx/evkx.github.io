@@ -35,7 +35,7 @@ Mercedes-AMG EQE 43 4MATIC SUV har en maksimal effekt på 350KW (476hk).Totalt d
 
 Batteriet har en bruttokapasitet på 96,12kWh og en nettokapasitet på 90,6kWh, noe som betyr at du har en 5,52kWh-buffer for beskyttelse. (5,7%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt- oksider-nmc)
 
-[WLTP-området](../../../../guides/understandingrange/wltp) varierer fra 488 til 431 km (303-268 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.6kWh/100 km for basisversjonen og 21.0kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp) varierer fra 488 til 431 km (303-268 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.6kWh/100 km for basisversjonen og 21.0kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 170kW. En full lading fra 0 - 100 % vil ta 55 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 64%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 121kW. Hver ladeøkt vil ta 28 minutter og 48 sekunder. 
 

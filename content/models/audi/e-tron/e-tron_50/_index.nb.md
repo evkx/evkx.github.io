@@ -41,7 +41,7 @@ Audi e-tron 50 har en maksimal effekt på 230KW (313hk).Totalt dreiemoment er 54
 
 Batteriet har en bruttokapasitet på 71kWh og en nettokapasitet på 64kWh, noe som betyr at du har en 7kWh-buffer for beskyttelse. (9,9%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt- oksider-nmc)
 
-[WLTP-området](../../../../guides/understandingrange/wltp) varierer fra 341 til 282 km (212-175 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.8kWh/100 km for basisversjonen og 22.7kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp) varierer fra 341 til 282 km (212-175 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.8kWh/100 km for basisversjonen og 22.7kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 120kW. En full lading fra 0 - 100 % vil ta 48 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 72%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 92kW. Hver ladeøkt vil ta 28 minutter og 30 sekunder. 
 
