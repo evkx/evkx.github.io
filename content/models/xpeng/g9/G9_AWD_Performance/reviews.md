@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Xpeng G9 Performance range test 05.11.2023
+
+{{< youtube oBZ8KJVVxn8 >}}
+
 ### Bjørn Nyland: Xpeng G9 Geilo test part 2 04.11.2023
 
 {{< youtube 9XqP-4wg9QA >}}
