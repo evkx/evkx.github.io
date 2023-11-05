@@ -1,7 +1,7 @@
 ---
-title: Hyundai Ioniq 5 N reviews
-linktitle: "Reviews"
-description: "EVKX.net helps you find the best review for this model. "
+title: Hyundai Ioniq 5 N tester
+linktitle: "Tester1"
+description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen. "
 weight: 80
 hidden: true
 navicon: bi-person-video2

@@ -1,7 +1,7 @@
 ---
-title: Volvo EX30 Twin Motor Performance reviews
-linktitle: "Reviews"
-description: "EVKX.net helps you find the best review for this model. "
+title: Volvo EX30 Twin Motor Performance tester
+linktitle: "Tester1"
+description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen. "
 weight: 80
 hidden: true
 navicon: bi-person-video2

@@ -1,7 +1,7 @@
 ---
-title: Polestar 2 Long Range Single Motor reviews
-linktitle: "Reviews"
-description: "EVKX.net helps you find the best review for this model. "
+title: Polestar 2 Long Range Single Motor tester
+linktitle: "Tester1"
+description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen. "
 weight: 80
 hidden: true
 navicon: bi-person-video2

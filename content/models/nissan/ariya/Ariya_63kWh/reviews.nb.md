@@ -1,7 +1,7 @@
 ---
-title: Nissan Ariya 63kWh reviews
-linktitle: "Reviews"
-description: "EVKX.net helps you find the best review for this model. "
+title: Nissan Ariya 63kWh tester
+linktitle: "Tester1"
+description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen. "
 weight: 80
 hidden: true
 navicon: bi-person-video2

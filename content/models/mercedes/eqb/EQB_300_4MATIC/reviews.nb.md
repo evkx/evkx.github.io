@@ -1,7 +1,7 @@
 ---
-title: Mercedes-EQ EQB 300 4MATIC reviews
-linktitle: "Reviews"
-description: "EVKX.net helps you find the best review for this model. "
+title: Mercedes-EQ EQB 300 4MATIC tester
+linktitle: "Tester1"
+description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen. "
 weight: 80
 hidden: true
 navicon: bi-person-video2
