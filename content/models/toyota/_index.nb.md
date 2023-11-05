@@ -6,3 +6,10 @@ weight: 30
 ---
 
 
+
+## Toyota bZ4X
+
+<a href="bz4x"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" class="img-fluid" alt="bZ4X" ></a>
+
+Denne modellen er tilgjengelig i 2 variant(er).
+[Read full details](bz4x/)

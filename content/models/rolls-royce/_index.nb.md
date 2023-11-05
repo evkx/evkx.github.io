@@ -6,3 +6,10 @@ weight: 30
 ---
 
 
+
+## Rolls-Royce Spectre
+
+<a href="spectre"><img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" class="img-fluid" alt="Spectre" ></a>
+
+Denne modellen er tilgjengelig i 1 variant(er).
+[Read full details](spectre/)

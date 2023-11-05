@@ -6,3 +6,10 @@ weight: 30
 ---
 
 
+
+## Lucid Air
+
+<a href="air"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg" class="img-fluid" alt="Air" ></a>
+
+Denne modellen er tilgjengelig i 5 variant(er).
+[Read full details](air/)

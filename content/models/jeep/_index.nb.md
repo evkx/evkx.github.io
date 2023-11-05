@@ -6,3 +6,10 @@ weight: 30
 ---
 
 
+
+## Jeep Avenger
+
+<a href="avenger"><img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1_st.jpg" class="img-fluid" alt="Avenger" ></a>
+
+Denne modellen er tilgjengelig i 1 variant(er).
+[Read full details](avenger/)

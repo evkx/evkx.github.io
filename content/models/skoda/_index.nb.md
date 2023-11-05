@@ -6,3 +6,10 @@ weight: 30
 ---
 
 
+
+## SKODA Enyaq iV
+
+<a href="enyaq_iv"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" class="img-fluid" alt="Enyaq iV" ></a>
+
+Denne modellen er tilgjengelig i 6 variant(er).
+[Read full details](enyaq_iv/)

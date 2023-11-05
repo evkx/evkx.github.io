@@ -6,3 +6,10 @@ weight: 30
 ---
 
 
+
+## VOYAH FREE
+
+<a href="free"><img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_st.jpg" class="img-fluid" alt="FREE" ></a>
+
+Denne modellen er tilgjengelig i 1 variant(er).
+[Read full details](free/)

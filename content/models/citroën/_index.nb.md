@@ -6,3 +6,17 @@ weight: 30
 ---
 
 
+
+## Citroën ë-C3
+
+<a href="ë-c3"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c3/ë-c3/main_1_st.jpg" class="img-fluid" alt="ë-C3" ></a>
+
+Denne modellen er tilgjengelig i 1 variant(er).
+[Read full details](ë-c3/)
+
+## Citroën ë-C4
+
+<a href="ë-c4"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" class="img-fluid" alt="ë-C4" ></a>
+
+Denne modellen er tilgjengelig i 1 variant(er).
+[Read full details](ë-c4/)

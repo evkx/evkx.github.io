@@ -6,3 +6,10 @@ weight: 30
 ---
 
 
+
+## Rivian R1
+
+<a href="r1"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg" class="img-fluid" alt="R1" ></a>
+
+Denne modellen er tilgjengelig i 6 variant(er).
+[Read full details](r1/)

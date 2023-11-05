@@ -6,3 +6,17 @@ weight: 30
 ---
 
 
+
+## Smart #1
+
+<a href="hash1"><img src="https://media.evkx.net/multimedia/models/smart/#1/#1_brabus/main_1_st.jpg" class="img-fluid" alt="#1" ></a>
+
+Denne modellen er tilgjengelig i 3 variant(er).
+[Read full details](hash1/)
+
+## Smart #3
+
+<a href="hash3"><img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" class="img-fluid" alt="#3" ></a>
+
+Denne modellen er tilgjengelig i 1 variant(er).
+[Read full details](hash3/)

@@ -6,3 +6,10 @@ weight: 30
 ---
 
 
+
+## Lotus Eletre
+
+<a href="eletre"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" class="img-fluid" alt="Eletre" ></a>
+
+Denne modellen er tilgjengelig i 3 variant(er).
+[Read full details](eletre/)

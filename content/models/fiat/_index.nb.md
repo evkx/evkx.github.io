@@ -6,3 +6,10 @@ weight: 30
 ---
 
 
+
+## Fiat 600e
+
+<a href="600e"><img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" class="img-fluid" alt="600e" ></a>
+
+Denne modellen er tilgjengelig i 1 variant(er).
+[Read full details](600e/)

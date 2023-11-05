@@ -6,3 +6,10 @@ weight: 30
 ---
 
 
+
+## Fisker Ocean
+
+<a href="ocean"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" class="img-fluid" alt="Ocean" ></a>
+
+Denne modellen er tilgjengelig i 1 variant(er).
+[Read full details](ocean/)

@@ -6,3 +6,10 @@ weight: 30
 ---
 
 
+
+## Nissan Ariya
+
+<a href="ariya"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" class="img-fluid" alt="Ariya" ></a>
+
+Denne modellen er tilgjengelig i 3 variant(er).
+[Read full details](ariya/)

@@ -6,3 +6,17 @@ weight: 30
 ---
 
 
+
+## Polestar 2
+
+<a href="2"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg" class="img-fluid" alt="2" ></a>
+
+Denne modellen er tilgjengelig i 3 variant(er).
+[Read full details](2/)
+
+## Polestar 3
+
+<a href="3"><img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" class="img-fluid" alt="3" ></a>
+
+Denne modellen er tilgjengelig i 1 variant(er).
+[Read full details](3/)

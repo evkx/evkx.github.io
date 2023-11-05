@@ -6,3 +6,17 @@ weight: 30
 ---
 
 
+
+## Cadillac ESCALADE
+
+<a href="escalade"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" class="img-fluid" alt="ESCALADE" ></a>
+
+Denne modellen er tilgjengelig i 1 variant(er).
+[Read full details](escalade/)
+
+## Cadillac LYRIQ
+
+<a href="lyriq"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" class="img-fluid" alt="LYRIQ" ></a>
+
+Denne modellen er tilgjengelig i 2 variant(er).
+[Read full details](lyriq/)
