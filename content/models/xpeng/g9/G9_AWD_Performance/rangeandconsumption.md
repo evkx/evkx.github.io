@@ -45,8 +45,8 @@ The table below shows some estimated real-world examples in perfect condition an
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td> 90kmh/56mph perfect condition </td><td> 390km /242mi</td><td> 24 kWh/100km / 2,6 mi/kWh </td></tr>
-<tr><td> 90kmh/56mph with 2KW heating </td><td> 365km /227mi</td><td> 25,7 kWh/100km / 2,4 mi/kWh </td></tr
-<tr><td> 120kmh/75mph perfect condition </td><td> 334km /208mi</td><td> 28 kWh/100km / 2,2 mi/kWh </td></tr>
-<tr><td> 120kmh/75mph with 2KW heating </td><td> 508km /316mi</td><td> 29,7 kWh/100km / 2,1 mi/kWh </td></tr
+<tr><td> 90kmh/56mph perfect condition </td><td> 468km /291mi</td><td> 20 kWh/100km / 3,1 mi/kWh </td></tr>
+<tr><td> 90kmh/56mph with 2KW heating </td><td> 432km /268mi</td><td> 21,7 kWh/100km / 2,9 mi/kWh </td></tr
+<tr><td> 120kmh/75mph perfect condition </td><td> 360km /224mi</td><td> 26 kWh/100km / 2,4 mi/kWh </td></tr>
+<tr><td> 120kmh/75mph with 2KW heating </td><td> 544km /338mi</td><td> 27,7 kWh/100km / 2,2 mi/kWh </td></tr
 </tbody></table>

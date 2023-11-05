@@ -1,0 +1,58 @@
+---
+title: Tesla Model S Plaid reviews
+linktitle: "Reviews"
+description: "EVKX.net helps you find the best review for this model. "
+weight: 80
+hidden: true
+navicon: bi-person-video2
+---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
+### AutoTrader: NEW Tesla Model S Plaid TRACK PACKAGE Review: A 1020hp Game Changer 14.10.2023
+
+{{< youtube KuVHq39boj0 >}}
+
+### Bjørn Nyland: Tesla Model S Plaid range test in summer 04.08.2023
+
+{{< youtube 08kvW42kJr8 >}}
+
+### Bjørn Nyland: Tesla Model S Plaid range test 22.02.2023
+
+{{< youtube bPFBz4BfbNg >}}
+
+### Bjørn Nyland: Tesla Model S Plaid acceleration, braking and active noise cancelling 21.02.2023
+
+{{< youtube r6BhufJxD1Q >}}
+
+### Bjørn Nyland: Tesla Model S Plaid headlights test 19.02.2023
+
+{{< youtube RdGGd8B5Itw >}}
+
+### Bjørn Nyland: Tesla Model S Plaid 1000 km challenge 19.02.2023
+
+{{< youtube HjNSZYFAlNE >}}
+
+### Bjørn Nyland: Tesla Model S Plaid yoke wheel review 17.02.2023
+
+{{< youtube qIrcx-3O1XE >}}
+
+### Out of Spec Reviews: The Tesla Model S Plaid Goes Way Farther Than We Thought In Our 70-MPH Highway Range Test 11.11.2022
+
+{{< youtube upKm1irRqGM >}}
+
+### Out of Spec Reviews: Cargo & Interior Space - Lucid Air vs Tesla Model S 06.10.2022
+
+{{< youtube 1CgDvrM8lm8 >}}
+
+### Fully Charged Show: Tesla Model S Plaid: The Good, The Bad And The Gimmicks 04.08.2022
+
+{{< youtube Mx8IfmOOEZs >}}
+
+### Carwow: Tesla Model S Plaid review - what will it do 0-60mph? 14.01.2022
+
+{{< youtube dP0deOQkZtQ >}}
+
+### Autogefühl: Tesla Model S plaid REVIEW with Autobahn (2023) - the hypercar from stock! 17.07.2021
+
+{{< youtube EffB45ISO9M >}}
+
