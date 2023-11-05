@@ -1,6 +1,6 @@
 ---
-title: EV models
-linktitle: "EV models"
+title: Elektriske merker & modeller
+linktitle: "Modeller"
 description: "Fremtiden er elektrisk, og EVKX.net gir deg en fullstendig oversikt over elbilmarkedets merker, modeller og varianter."
 weight: 2
 ---
