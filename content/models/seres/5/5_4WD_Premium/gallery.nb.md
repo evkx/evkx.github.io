@@ -1,6 +1,6 @@
 ---
-title: Seres 5 4WD Premium gallery
-linktitle: "Gallery"
+title: Seres 5 4WD Premium galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Seres 5 4WD Premium bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

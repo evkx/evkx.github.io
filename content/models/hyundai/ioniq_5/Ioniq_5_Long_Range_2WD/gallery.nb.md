@@ -1,6 +1,6 @@
 ---
-title: Hyundai Ioniq 5 Long Range 2WD gallery
-linktitle: "Gallery"
+title: Hyundai Ioniq 5 Long Range 2WD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Hyundai Ioniq 5 Long Range 2WD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Mercedes-AMG EQE 53 4MATIC+ SUV gallery
-linktitle: "Gallery"
+title: Mercedes-AMG EQE 53 4MATIC+ SUV galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Mercedes-AMG EQE 53 4MATIC+ SUV bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

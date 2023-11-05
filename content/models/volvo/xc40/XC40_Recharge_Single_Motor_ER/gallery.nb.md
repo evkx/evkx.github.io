@@ -1,6 +1,6 @@
 ---
-title: Volvo XC40 Recharge Single Motor ER gallery
-linktitle: "Gallery"
+title: Volvo XC40 Recharge Single Motor ER galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Volvo XC40 Recharge Single Motor ER bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

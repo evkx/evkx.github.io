@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.3 Pro S gallery
-linktitle: "Gallery"
+title: Volkswagen ID.3 Pro S galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Volkswagen ID.3 Pro S bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

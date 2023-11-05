@@ -1,6 +1,6 @@
 ---
-title: Tesla Model 3 (GEN1) gallery
-linktitle: "Gallery"
+title: Tesla Model 3 (GEN1) galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Tesla Model 3 (GEN1) bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

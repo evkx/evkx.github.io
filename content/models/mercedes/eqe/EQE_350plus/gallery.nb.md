@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQE 350+ gallery
-linktitle: "Gallery"
+title: Mercedes-EQ EQE 350+ galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Mercedes-EQ EQE 350+ bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

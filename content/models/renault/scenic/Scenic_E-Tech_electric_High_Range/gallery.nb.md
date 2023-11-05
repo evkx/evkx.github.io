@@ -1,6 +1,6 @@
 ---
-title: Renault Scenic E-Tech electric High Range gallery
-linktitle: "Gallery"
+title: Renault Scenic E-Tech electric High Range galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Renault Scenic E-Tech electric High Range bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Cadillac LYRIQ AWD gallery
-linktitle: "Gallery"
+title: Cadillac LYRIQ AWD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Cadillac LYRIQ AWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

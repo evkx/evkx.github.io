@@ -1,6 +1,6 @@
 ---
-title: Rolls-Royce Spectre gallery
-linktitle: "Gallery"
+title: Rolls-Royce Spectre galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Rolls-Royce Spectre bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

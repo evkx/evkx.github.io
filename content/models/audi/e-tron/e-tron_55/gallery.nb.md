@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron 55 gallery
-linktitle: "Gallery"
+title: Audi e-tron 55 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Audi e-tron 55 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

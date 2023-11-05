@@ -1,6 +1,6 @@
 ---
-title: MG MG4 Electric XPOWER gallery
-linktitle: "Gallery"
+title: MG MG4 Electric XPOWER galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store MG MG4 Electric XPOWER bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan Turbo gallery
-linktitle: "Gallery"
+title: Porsche Taycan Turbo galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Porsche Taycan Turbo bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan Turbo Cross Turismo gallery
-linktitle: "Gallery"
+title: Porsche Taycan Turbo Cross Turismo galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Porsche Taycan Turbo Cross Turismo bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

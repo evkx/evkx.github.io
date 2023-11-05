@@ -1,6 +1,6 @@
 ---
-title: Rivian R1S Performance Dual-Motor AWD MP gallery
-linktitle: "Gallery"
+title: Rivian R1S Performance Dual-Motor AWD MP galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Rivian R1S Performance Dual-Motor AWD MP bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

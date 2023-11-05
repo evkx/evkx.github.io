@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan gallery
-linktitle: "Gallery"
+title: Porsche Taycan galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Porsche Taycan bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

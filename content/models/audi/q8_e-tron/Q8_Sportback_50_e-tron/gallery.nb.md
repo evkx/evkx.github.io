@@ -1,6 +1,6 @@
 ---
-title: Audi Q8 Sportback 50 e-tron gallery
-linktitle: "Gallery"
+title: Audi Q8 Sportback 50 e-tron galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Audi Q8 Sportback 50 e-tron bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

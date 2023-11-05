@@ -1,6 +1,6 @@
 ---
-title: MG MG4 Electric Extended Range gallery
-linktitle: "Gallery"
+title: MG MG4 Electric Extended Range galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store MG MG4 Electric Extended Range bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

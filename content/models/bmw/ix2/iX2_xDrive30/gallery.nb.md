@@ -1,6 +1,6 @@
 ---
-title: BMW iX2 xDrive30 gallery
-linktitle: "Gallery"
+title: BMW iX2 xDrive30 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store BMW iX2 xDrive30 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

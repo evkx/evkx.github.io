@@ -1,6 +1,6 @@
 ---
-title: Nio EL6 gallery
-linktitle: "Gallery"
+title: Nio EL6 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Nio EL6 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

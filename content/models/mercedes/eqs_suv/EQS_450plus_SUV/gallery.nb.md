@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQS 450+ SUV gallery
-linktitle: "Gallery"
+title: Mercedes-EQ EQS 450+ SUV galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Mercedes-EQ EQS 450+ SUV bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

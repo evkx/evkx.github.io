@@ -1,6 +1,6 @@
 ---
-title: SKODA ENYAQ COUPÉ 85x gallery
-linktitle: "Gallery"
+title: SKODA ENYAQ COUPÉ 85x galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store SKODA ENYAQ COUPÉ 85x bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

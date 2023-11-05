@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQB 250 gallery
-linktitle: "Gallery"
+title: Mercedes-EQ EQB 250 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Mercedes-EQ EQB 250 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

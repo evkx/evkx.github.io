@@ -1,6 +1,6 @@
 ---
-title: CUPRA Tavascan VZ gallery
-linktitle: "Gallery"
+title: CUPRA Tavascan VZ galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store CUPRA Tavascan VZ bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

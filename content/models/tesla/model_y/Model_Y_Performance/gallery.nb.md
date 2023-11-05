@@ -1,6 +1,6 @@
 ---
-title: Tesla Model Y Performance gallery
-linktitle: "Gallery"
+title: Tesla Model Y Performance galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Tesla Model Y Performance bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

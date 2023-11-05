@@ -1,6 +1,6 @@
 ---
-title: Nissan Ariya 87kWh e-4ORCE gallery
-linktitle: "Gallery"
+title: Nissan Ariya 87kWh e-4ORCE galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Nissan Ariya 87kWh e-4ORCE bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

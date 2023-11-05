@@ -1,6 +1,6 @@
 ---
-title: Zeekr 001 Performance AWD gallery
-linktitle: "Gallery"
+title: Zeekr 001 Performance AWD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Zeekr 001 Performance AWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

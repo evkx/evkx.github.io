@@ -1,6 +1,6 @@
 ---
-title: GMC Hummer EV Edition 1 Pickup gallery
-linktitle: "Gallery"
+title: GMC Hummer EV Edition 1 Pickup galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store GMC Hummer EV Edition 1 Pickup bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

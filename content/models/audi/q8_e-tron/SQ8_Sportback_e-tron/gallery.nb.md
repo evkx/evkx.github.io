@@ -1,6 +1,6 @@
 ---
-title: Audi SQ8 Sportback e-tron gallery
-linktitle: "Gallery"
+title: Audi SQ8 Sportback e-tron galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Audi SQ8 Sportback e-tron bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

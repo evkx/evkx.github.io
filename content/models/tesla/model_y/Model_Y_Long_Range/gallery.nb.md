@@ -1,6 +1,6 @@
 ---
-title: Tesla Model Y Long Range gallery
-linktitle: "Gallery"
+title: Tesla Model Y Long Range galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Tesla Model Y Long Range bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

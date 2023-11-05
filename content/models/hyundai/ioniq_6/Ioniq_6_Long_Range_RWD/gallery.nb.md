@@ -1,6 +1,6 @@
 ---
-title: Hyundai Ioniq 6 Long Range RWD gallery
-linktitle: "Gallery"
+title: Hyundai Ioniq 6 Long Range RWD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Hyundai Ioniq 6 Long Range RWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

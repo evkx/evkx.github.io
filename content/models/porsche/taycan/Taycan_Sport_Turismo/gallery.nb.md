@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan Sport Turismo gallery
-linktitle: "Gallery"
+title: Porsche Taycan Sport Turismo galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Porsche Taycan Sport Turismo bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

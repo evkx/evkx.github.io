@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Pure gallery
-linktitle: "Gallery"
+title: Lucid Air Pure galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Lucid Air Pure bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

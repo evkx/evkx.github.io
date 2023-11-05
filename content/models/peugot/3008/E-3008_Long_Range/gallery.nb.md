@@ -1,6 +1,6 @@
 ---
-title: Peugot E-3008 Long Range gallery
-linktitle: "Gallery"
+title: Peugot E-3008 Long Range galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Peugot E-3008 Long Range bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

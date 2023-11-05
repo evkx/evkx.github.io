@@ -1,6 +1,6 @@
 ---
-title: Lexus RZ 450e gallery
-linktitle: "Gallery"
+title: Lexus RZ 450e galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Lexus RZ 450e bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

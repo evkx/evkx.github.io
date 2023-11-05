@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron S Sportback gallery
-linktitle: "Gallery"
+title: Audi e-tron S Sportback galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Audi e-tron S Sportback bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

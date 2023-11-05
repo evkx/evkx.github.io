@@ -1,6 +1,6 @@
 ---
-title: BMW i4 eDrive35 gallery
-linktitle: "Gallery"
+title: BMW i4 eDrive35 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store BMW i4 eDrive35 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

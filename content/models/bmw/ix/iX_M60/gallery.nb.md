@@ -1,6 +1,6 @@
 ---
-title: BMW iX M60 gallery
-linktitle: "Gallery"
+title: BMW iX M60 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store BMW iX M60 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

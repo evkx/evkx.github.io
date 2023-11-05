@@ -1,6 +1,6 @@
 ---
-title: Volvo EX30 Single Motor gallery
-linktitle: "Gallery"
+title: Volvo EX30 Single Motor galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Volvo EX30 Single Motor bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

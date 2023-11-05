@@ -1,6 +1,6 @@
 ---
-title: Toyota bZ4X AWD gallery
-linktitle: "Gallery"
+title: Toyota bZ4X AWD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Toyota bZ4X AWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

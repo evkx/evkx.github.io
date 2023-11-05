@@ -1,6 +1,6 @@
 ---
-title: Fisker Ocean Extreme gallery
-linktitle: "Gallery"
+title: Fisker Ocean Extreme galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Fisker Ocean Extreme bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

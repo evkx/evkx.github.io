@@ -1,6 +1,6 @@
 ---
-title: Smart #1 Pulse gallery
-linktitle: "Gallery"
+title: Smart #1 Pulse galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Smart #1 Pulse bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

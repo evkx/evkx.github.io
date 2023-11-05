@@ -1,6 +1,6 @@
 ---
-title: Smart #1 Brabus gallery
-linktitle: "Gallery"
+title: Smart #1 Brabus galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Smart #1 Brabus bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

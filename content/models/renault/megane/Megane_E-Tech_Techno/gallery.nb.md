@@ -1,6 +1,6 @@
 ---
-title: Renault Megane E-Tech Techno gallery
-linktitle: "Gallery"
+title: Renault Megane E-Tech Techno galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Renault Megane E-Tech Techno bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

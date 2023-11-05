@@ -1,6 +1,6 @@
 ---
-title: Tesla Model Y Standard Range gallery
-linktitle: "Gallery"
+title: Tesla Model Y Standard Range galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Tesla Model Y Standard Range bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

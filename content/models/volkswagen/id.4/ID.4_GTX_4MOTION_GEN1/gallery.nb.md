@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.4 GTX 4MOTION (GEN1) gallery
-linktitle: "Gallery"
+title: Volkswagen ID.4 GTX 4MOTION (GEN1) galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Volkswagen ID.4 GTX 4MOTION (GEN1) bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

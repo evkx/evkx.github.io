@@ -1,6 +1,6 @@
 ---
-title: Tesla Model 3 Long Range gallery
-linktitle: "Gallery"
+title: Tesla Model 3 Long Range galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Tesla Model 3 Long Range bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

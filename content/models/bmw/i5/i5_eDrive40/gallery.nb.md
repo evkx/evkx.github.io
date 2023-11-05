@@ -1,6 +1,6 @@
 ---
-title: BMW i5 eDrive40 gallery
-linktitle: "Gallery"
+title: BMW i5 eDrive40 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store BMW i5 eDrive40 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

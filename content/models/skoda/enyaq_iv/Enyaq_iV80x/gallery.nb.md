@@ -1,6 +1,6 @@
 ---
-title: SKODA Enyaq iV80x gallery
-linktitle: "Gallery"
+title: SKODA Enyaq iV80x galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store SKODA Enyaq iV80x bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

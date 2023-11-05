@@ -1,6 +1,6 @@
 ---
-title: BMW i5 M60 xDrive gallery
-linktitle: "Gallery"
+title: BMW i5 M60 xDrive galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store BMW i5 M60 xDrive bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Tesla Model S Plaid gallery
-linktitle: "Gallery"
+title: Tesla Model S Plaid galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Tesla Model S Plaid bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Grand Touring gallery
-linktitle: "Gallery"
+title: Lucid Air Grand Touring galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Lucid Air Grand Touring bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Chevrolet Blazer EV RS AWD gallery
-linktitle: "Gallery"
+title: Chevrolet Blazer EV RS AWD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Chevrolet Blazer EV RS AWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

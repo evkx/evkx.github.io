@@ -1,6 +1,6 @@
 ---
-title: Rivian R1S Quad-Motor AWD gallery
-linktitle: "Gallery"
+title: Rivian R1S Quad-Motor AWD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Rivian R1S Quad-Motor AWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

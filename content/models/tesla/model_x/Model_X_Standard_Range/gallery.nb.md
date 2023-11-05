@@ -1,6 +1,6 @@
 ---
-title: Tesla Model X Standard Range gallery
-linktitle: "Gallery"
+title: Tesla Model X Standard Range galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Tesla Model X Standard Range bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

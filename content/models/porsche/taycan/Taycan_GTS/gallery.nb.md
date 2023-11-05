@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan GTS gallery
-linktitle: "Gallery"
+title: Porsche Taycan GTS galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Porsche Taycan GTS bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

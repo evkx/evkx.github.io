@@ -1,6 +1,6 @@
 ---
-title: Cadillac ESCALADE IQ gallery
-linktitle: "Gallery"
+title: Cadillac ESCALADE IQ galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Cadillac ESCALADE IQ bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

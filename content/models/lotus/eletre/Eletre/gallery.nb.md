@@ -1,6 +1,6 @@
 ---
-title: Lotus Eletre gallery
-linktitle: "Gallery"
+title: Lotus Eletre galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Lotus Eletre bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: MG MG4 Electric Standard gallery
-linktitle: "Gallery"
+title: MG MG4 Electric Standard galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store MG MG4 Electric Standard bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

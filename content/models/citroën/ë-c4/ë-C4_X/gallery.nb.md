@@ -1,6 +1,6 @@
 ---
-title: Citroën ë-C4 X gallery
-linktitle: "Gallery"
+title: Citroën ë-C4 X galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Citroën ë-C4 X bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

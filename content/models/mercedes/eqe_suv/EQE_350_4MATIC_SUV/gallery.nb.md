@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQE 350 4MATIC SUV gallery
-linktitle: "Gallery"
+title: Mercedes-EQ EQE 350 4MATIC SUV galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Mercedes-EQ EQE 350 4MATIC SUV bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

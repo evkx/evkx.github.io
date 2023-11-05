@@ -1,6 +1,6 @@
 ---
-title: Rivian R1T Performance Dual-Motor AWD LP gallery
-linktitle: "Gallery"
+title: Rivian R1T Performance Dual-Motor AWD LP galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Rivian R1T Performance Dual-Motor AWD LP bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

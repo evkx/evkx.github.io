@@ -1,6 +1,6 @@
 ---
-title: CUPRA Tavascan Endurance gallery
-linktitle: "Gallery"
+title: CUPRA Tavascan Endurance galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store CUPRA Tavascan Endurance bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

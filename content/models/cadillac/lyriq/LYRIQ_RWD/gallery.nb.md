@@ -1,6 +1,6 @@
 ---
-title: Cadillac LYRIQ RWD gallery
-linktitle: "Gallery"
+title: Cadillac LYRIQ RWD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Cadillac LYRIQ RWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

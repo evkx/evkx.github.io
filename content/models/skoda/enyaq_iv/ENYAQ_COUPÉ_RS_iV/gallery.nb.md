@@ -1,6 +1,6 @@
 ---
-title: SKODA ENYAQ COUPÉ RS iV gallery
-linktitle: "Gallery"
+title: SKODA ENYAQ COUPÉ RS iV galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store SKODA ENYAQ COUPÉ RS iV bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

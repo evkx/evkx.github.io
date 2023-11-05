@@ -1,6 +1,6 @@
 ---
-title: Kia Niro EV gallery
-linktitle: "Gallery"
+title: Kia Niro EV galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Kia Niro EV bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

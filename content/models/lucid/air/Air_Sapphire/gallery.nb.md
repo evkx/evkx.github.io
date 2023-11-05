@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Sapphire gallery
-linktitle: "Gallery"
+title: Lucid Air Sapphire galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Lucid Air Sapphire bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

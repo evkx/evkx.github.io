@@ -1,6 +1,6 @@
 ---
-title: XPENG P7 AWD Performance gallery
-linktitle: "Gallery"
+title: XPENG P7 AWD Performance galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store XPENG P7 AWD Performance bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

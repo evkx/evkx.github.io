@@ -1,6 +1,6 @@
 ---
-title: Citroën ë-C3 gallery
-linktitle: "Gallery"
+title: Citroën ë-C3 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Citroën ë-C3 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

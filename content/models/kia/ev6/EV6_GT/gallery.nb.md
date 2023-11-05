@@ -1,6 +1,6 @@
 ---
-title: Kia EV6 GT gallery
-linktitle: "Gallery"
+title: Kia EV6 GT galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Kia EV6 GT bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

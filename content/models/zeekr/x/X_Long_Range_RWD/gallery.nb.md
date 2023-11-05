@@ -1,6 +1,6 @@
 ---
-title: Zeekr X Long Range RWD gallery
-linktitle: "Gallery"
+title: Zeekr X Long Range RWD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Zeekr X Long Range RWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

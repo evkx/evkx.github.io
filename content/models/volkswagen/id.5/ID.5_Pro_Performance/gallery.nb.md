@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.5 Pro Performance gallery
-linktitle: "Gallery"
+title: Volkswagen ID.5 Pro Performance galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Volkswagen ID.5 Pro Performance bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

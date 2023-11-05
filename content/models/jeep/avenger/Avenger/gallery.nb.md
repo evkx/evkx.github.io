@@ -1,6 +1,6 @@
 ---
-title: Jeep Avenger gallery
-linktitle: "Gallery"
+title: Jeep Avenger galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Jeep Avenger bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

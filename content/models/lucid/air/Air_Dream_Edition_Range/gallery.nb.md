@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Dream Edition Range gallery
-linktitle: "Gallery"
+title: Lucid Air Dream Edition Range galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Lucid Air Dream Edition Range bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

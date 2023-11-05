@@ -1,6 +1,6 @@
 ---
-title: Subaru Solterra AWD gallery
-linktitle: "Gallery"
+title: Subaru Solterra AWD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Subaru Solterra AWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: BMW iX3 gallery
-linktitle: "Gallery"
+title: BMW iX3 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store BMW iX3 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

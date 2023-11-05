@@ -1,6 +1,6 @@
 ---
-title: Hongqi E-HS9 Premium gallery
-linktitle: "Gallery"
+title: Hongqi E-HS9 Premium galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Hongqi E-HS9 Premium bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

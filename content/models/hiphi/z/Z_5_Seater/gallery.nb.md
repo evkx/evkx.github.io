@@ -1,6 +1,6 @@
 ---
-title: HiPhi Z 5 Seater gallery
-linktitle: "Gallery"
+title: HiPhi Z 5 Seater galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store HiPhi Z 5 Seater bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

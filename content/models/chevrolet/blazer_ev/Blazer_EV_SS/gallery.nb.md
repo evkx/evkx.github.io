@@ -1,6 +1,6 @@
 ---
-title: Chevrolet Blazer EV SS gallery
-linktitle: "Gallery"
+title: Chevrolet Blazer EV SS galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Chevrolet Blazer EV SS bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

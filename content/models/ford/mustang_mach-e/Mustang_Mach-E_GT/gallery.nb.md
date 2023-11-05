@@ -1,6 +1,6 @@
 ---
-title: Ford Mustang Mach-E GT gallery
-linktitle: "Gallery"
+title: Ford Mustang Mach-E GT galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Ford Mustang Mach-E GT bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

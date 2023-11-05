@@ -1,6 +1,6 @@
 ---
-title: VOYAH FREE gallery
-linktitle: "Gallery"
+title: VOYAH FREE galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store VOYAH FREE bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

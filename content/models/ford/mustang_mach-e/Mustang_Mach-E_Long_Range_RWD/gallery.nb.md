@@ -1,6 +1,6 @@
 ---
-title: Ford Mustang Mach-E Long Range RWD gallery
-linktitle: "Gallery"
+title: Ford Mustang Mach-E Long Range RWD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Ford Mustang Mach-E Long Range RWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

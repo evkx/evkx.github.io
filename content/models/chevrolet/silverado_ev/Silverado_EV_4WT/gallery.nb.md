@@ -1,6 +1,6 @@
 ---
-title: Chevrolet Silverado EV 4WT gallery
-linktitle: "Gallery"
+title: Chevrolet Silverado EV 4WT galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Chevrolet Silverado EV 4WT bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

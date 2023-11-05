@@ -1,6 +1,6 @@
 ---
-title: BMW i7 M70 xDrive gallery
-linktitle: "Gallery"
+title: BMW i7 M70 xDrive galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store BMW i7 M70 xDrive bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

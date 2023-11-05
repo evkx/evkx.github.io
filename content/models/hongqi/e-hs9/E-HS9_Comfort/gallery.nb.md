@@ -1,6 +1,6 @@
 ---
-title: Hongqi E-HS9 Comfort gallery
-linktitle: "Gallery"
+title: Hongqi E-HS9 Comfort galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Hongqi E-HS9 Comfort bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

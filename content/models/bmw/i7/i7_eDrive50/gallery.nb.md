@@ -1,6 +1,6 @@
 ---
-title: BMW i7 eDrive50 gallery
-linktitle: "Gallery"
+title: BMW i7 eDrive50 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store BMW i7 eDrive50 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

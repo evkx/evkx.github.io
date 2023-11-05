@@ -1,6 +1,6 @@
 ---
-title: Ford Mustang Mach-E Standard Range RWD gallery
-linktitle: "Gallery"
+title: Ford Mustang Mach-E Standard Range RWD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Ford Mustang Mach-E Standard Range RWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Nio ET5 Touring gallery
-linktitle: "Gallery"
+title: Nio ET5 Touring galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Nio ET5 Touring bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

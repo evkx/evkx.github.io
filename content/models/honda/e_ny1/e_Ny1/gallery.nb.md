@@ -1,6 +1,6 @@
 ---
-title: Honda e:Ny1 gallery
-linktitle: "Gallery"
+title: Honda e:Ny1 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Honda e:Ny1 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

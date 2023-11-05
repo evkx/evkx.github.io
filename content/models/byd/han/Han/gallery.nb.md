@@ -1,6 +1,6 @@
 ---
-title: BYD Han gallery
-linktitle: "Gallery"
+title: BYD Han galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store BYD Han bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

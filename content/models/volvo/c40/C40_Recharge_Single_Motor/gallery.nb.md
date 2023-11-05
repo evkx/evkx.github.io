@@ -1,6 +1,6 @@
 ---
-title: Volvo C40 Recharge Single Motor gallery
-linktitle: "Gallery"
+title: Volvo C40 Recharge Single Motor galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Volvo C40 Recharge Single Motor bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

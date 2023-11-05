@@ -1,6 +1,6 @@
 ---
-title: BYD Atto 3 gallery
-linktitle: "Gallery"
+title: BYD Atto 3 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store BYD Atto 3 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Tesla Model 3 Performance gallery
-linktitle: "Gallery"
+title: Tesla Model 3 Performance galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Tesla Model 3 Performance bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

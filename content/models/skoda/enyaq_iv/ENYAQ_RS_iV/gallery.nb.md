@@ -1,6 +1,6 @@
 ---
-title: SKODA ENYAQ RS iV gallery
-linktitle: "Gallery"
+title: SKODA ENYAQ RS iV galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store SKODA ENYAQ RS iV bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: BYD Seal AWD gallery
-linktitle: "Gallery"
+title: BYD Seal AWD galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store BYD Seal AWD bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

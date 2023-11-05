@@ -1,6 +1,6 @@
 ---
-title: CUPRA BORN 58 e-BOOST gallery
-linktitle: "Gallery"
+title: CUPRA BORN 58 e-BOOST galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store CUPRA BORN 58 e-BOOST bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

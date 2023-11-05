@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID. Buzz Pro LWB gallery
-linktitle: "Gallery"
+title: Volkswagen ID. Buzz Pro LWB galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Volkswagen ID. Buzz Pro LWB bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

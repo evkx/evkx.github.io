@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQB 300 4MATIC gallery
-linktitle: "Gallery"
+title: Mercedes-EQ EQB 300 4MATIC galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Mercedes-EQ EQB 300 4MATIC bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

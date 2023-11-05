@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan 4S gallery
-linktitle: "Gallery"
+title: Porsche Taycan 4S galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Porsche Taycan 4S bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

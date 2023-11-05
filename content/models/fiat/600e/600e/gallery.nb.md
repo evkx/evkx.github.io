@@ -1,6 +1,6 @@
 ---
-title: Fiat 600e gallery
-linktitle: "Gallery"
+title: Fiat 600e galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Fiat 600e bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

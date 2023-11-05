@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron 55 Sportback gallery
-linktitle: "Gallery"
+title: Audi e-tron 55 Sportback galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Audi e-tron 55 Sportback bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

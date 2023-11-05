@@ -1,6 +1,6 @@
 ---
-title: MG MG5 Electric Long Range gallery
-linktitle: "Gallery"
+title: MG MG5 Electric Long Range galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store MG MG5 Electric Long Range bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

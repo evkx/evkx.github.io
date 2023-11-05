@@ -1,6 +1,6 @@
 ---
-title: BMW iX xDrive50 gallery
-linktitle: "Gallery"
+title: BMW iX xDrive50 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store BMW iX xDrive50 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

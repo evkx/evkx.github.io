@@ -1,6 +1,6 @@
 ---
-title: Volvo EX90 Twin Motor gallery
-linktitle: "Gallery"
+title: Volvo EX90 Twin Motor galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Volvo EX90 Twin Motor bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

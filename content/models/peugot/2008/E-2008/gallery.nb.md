@@ -1,6 +1,6 @@
 ---
-title: Peugot E-2008 gallery
-linktitle: "Gallery"
+title: Peugot E-2008 galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Peugot E-2008 bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true

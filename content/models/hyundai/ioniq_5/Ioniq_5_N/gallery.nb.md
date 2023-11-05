@@ -1,6 +1,6 @@
 ---
-title: Hyundai Ioniq 5 N gallery
-linktitle: "Gallery"
+title: Hyundai Ioniq 5 N galleri
+linktitle: "Galleri"
 description: "Se nedenfor for vårt store Hyundai Ioniq 5 N bildegalleri. Klikk på bildene for høyoppløselige versjoner."
 weight: 10
 hidden: true
