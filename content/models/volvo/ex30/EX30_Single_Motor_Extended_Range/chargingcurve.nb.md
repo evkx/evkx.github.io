@@ -1,6 +1,6 @@
 ---
-title: Volvo EX30 Single Motor Extended Range charging curve & performance
-linktitle: "Chargingcurve"
+title: Volvo EX30 Single Motor Extended Range ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Volvo EX30 Single Motor Extended Range. "
 weight: 10
 hidden: true

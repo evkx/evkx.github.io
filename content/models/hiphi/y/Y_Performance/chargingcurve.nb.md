@@ -1,6 +1,6 @@
 ---
-title: HiPhi Y Performance charging curve & performance
-linktitle: "Chargingcurve"
+title: HiPhi Y Performance ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for HiPhi Y Performance. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: SKODA ENYAQ RS iV charging curve & performance
-linktitle: "Chargingcurve"
+title: SKODA ENYAQ RS iV ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for SKODA ENYAQ RS iV. "
 weight: 10
 hidden: true

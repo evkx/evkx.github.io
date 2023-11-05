@@ -1,6 +1,6 @@
 ---
-title: SKODA ENYAQ COUPÉ 85x charging curve & performance
-linktitle: "Chargingcurve"
+title: SKODA ENYAQ COUPÉ 85x ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for SKODA ENYAQ COUPÉ 85x. "
 weight: 10
 hidden: true

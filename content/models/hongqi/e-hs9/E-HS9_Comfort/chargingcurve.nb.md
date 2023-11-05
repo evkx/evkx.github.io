@@ -1,6 +1,6 @@
 ---
-title: Hongqi E-HS9 Comfort charging curve & performance
-linktitle: "Chargingcurve"
+title: Hongqi E-HS9 Comfort ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Hongqi E-HS9 Comfort. "
 weight: 10
 hidden: true

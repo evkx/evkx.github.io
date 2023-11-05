@@ -1,6 +1,6 @@
 ---
-title: Hyundai Ioniq 6 Long Range RWD charging curve & performance
-linktitle: "Chargingcurve"
+title: Hyundai Ioniq 6 Long Range RWD ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Hyundai Ioniq 6 Long Range RWD. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Mercedes-AMG EQE 53 4MATIC+ SUV charging curve & performance
-linktitle: "Chargingcurve"
+title: Mercedes-AMG EQE 53 4MATIC+ SUV ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Mercedes-AMG EQE 53 4MATIC+ SUV. "
 weight: 10
 hidden: true

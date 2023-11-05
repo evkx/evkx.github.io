@@ -1,6 +1,6 @@
 ---
-title: Nio ET5 charging curve & performance
-linktitle: "Chargingcurve"
+title: Nio ET5 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Nio ET5. "
 weight: 10
 hidden: true

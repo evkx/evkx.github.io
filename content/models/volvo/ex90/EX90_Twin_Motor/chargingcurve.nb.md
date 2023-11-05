@@ -1,6 +1,6 @@
 ---
-title: Volvo EX90 Twin Motor charging curve & performance
-linktitle: "Chargingcurve"
+title: Volvo EX90 Twin Motor ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Volvo EX90 Twin Motor. "
 weight: 10
 hidden: true

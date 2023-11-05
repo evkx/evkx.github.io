@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQS 500 4MATIC charging curve & performance
-linktitle: "Chargingcurve"
+title: Mercedes-EQ EQS 500 4MATIC ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Mercedes-EQ EQS 500 4MATIC. "
 weight: 10
 hidden: true

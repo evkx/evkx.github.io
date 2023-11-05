@@ -1,6 +1,6 @@
 ---
-title: Mercedes-AMG EQE 43 4MATIC charging curve & performance
-linktitle: "Chargingcurve"
+title: Mercedes-AMG EQE 43 4MATIC ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Mercedes-AMG EQE 43 4MATIC. "
 weight: 10
 hidden: true

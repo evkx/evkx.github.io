@@ -1,6 +1,6 @@
 ---
-title: Kia EV6 Long Range AWD charging curve & performance
-linktitle: "Chargingcurve"
+title: Kia EV6 Long Range AWD ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Kia EV6 Long Range AWD. "
 weight: 10
 hidden: true

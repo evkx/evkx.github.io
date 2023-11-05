@@ -1,6 +1,6 @@
 ---
-title: Zeekr 001 FR charging curve & performance
-linktitle: "Chargingcurve"
+title: Zeekr 001 FR ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Zeekr 001 FR. "
 weight: 10
 hidden: true

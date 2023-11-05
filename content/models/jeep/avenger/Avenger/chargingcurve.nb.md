@@ -1,6 +1,6 @@
 ---
-title: Jeep Avenger charging curve & performance
-linktitle: "Chargingcurve"
+title: Jeep Avenger ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Jeep Avenger. "
 weight: 10
 hidden: true

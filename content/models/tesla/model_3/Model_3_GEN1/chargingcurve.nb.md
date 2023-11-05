@@ -1,6 +1,6 @@
 ---
-title: Tesla Model 3 (GEN1) charging curve & performance
-linktitle: "Chargingcurve"
+title: Tesla Model 3 (GEN1) ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Tesla Model 3 (GEN1). "
 weight: 10
 hidden: true

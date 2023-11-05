@@ -1,6 +1,6 @@
 ---
-title: Kia Niro EV charging curve & performance
-linktitle: "Chargingcurve"
+title: Kia Niro EV ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Kia Niro EV. "
 weight: 10
 hidden: true

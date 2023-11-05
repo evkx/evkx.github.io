@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron GT charging curve & performance
-linktitle: "Chargingcurve"
+title: Audi e-tron GT ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Audi e-tron GT. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Tesla Model 3 Long Range charging curve & performance
-linktitle: "Chargingcurve"
+title: Tesla Model 3 Long Range ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Tesla Model 3 Long Range. "
 weight: 10
 hidden: true

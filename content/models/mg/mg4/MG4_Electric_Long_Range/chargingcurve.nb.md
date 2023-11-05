@@ -1,6 +1,6 @@
 ---
-title: MG MG4 Electric Long Range charging curve & performance
-linktitle: "Chargingcurve"
+title: MG MG4 Electric Long Range ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for MG MG4 Electric Long Range. "
 weight: 10
 hidden: true

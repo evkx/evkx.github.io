@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQS 450+ SUV charging curve & performance
-linktitle: "Chargingcurve"
+title: Mercedes-EQ EQS 450+ SUV ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Mercedes-EQ EQS 450+ SUV. "
 weight: 10
 hidden: true

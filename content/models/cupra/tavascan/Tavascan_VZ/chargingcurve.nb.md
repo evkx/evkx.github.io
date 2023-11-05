@@ -1,6 +1,6 @@
 ---
-title: CUPRA Tavascan VZ charging curve & performance
-linktitle: "Chargingcurve"
+title: CUPRA Tavascan VZ ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for CUPRA Tavascan VZ. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: MG MG4 Electric Standard charging curve & performance
-linktitle: "Chargingcurve"
+title: MG MG4 Electric Standard ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for MG MG4 Electric Standard. "
 weight: 10
 hidden: true

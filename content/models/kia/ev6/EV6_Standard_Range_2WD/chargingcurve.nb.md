@@ -1,6 +1,6 @@
 ---
-title: Kia EV6 Standard Range 2WD charging curve & performance
-linktitle: "Chargingcurve"
+title: Kia EV6 Standard Range 2WD ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Kia EV6 Standard Range 2WD. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Nio ES8 charging curve & performance
-linktitle: "Chargingcurve"
+title: Nio ES8 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Nio ES8. "
 weight: 10
 hidden: true

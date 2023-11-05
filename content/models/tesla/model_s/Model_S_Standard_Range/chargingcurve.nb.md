@@ -1,6 +1,6 @@
 ---
-title: Tesla Model S Standard Range charging curve & performance
-linktitle: "Chargingcurve"
+title: Tesla Model S Standard Range ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Tesla Model S Standard Range. "
 weight: 10
 hidden: true

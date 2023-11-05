@@ -1,6 +1,6 @@
 ---
-title: BYD Tang EV600 charging curve & performance
-linktitle: "Chargingcurve"
+title: BYD Tang EV600 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for BYD Tang EV600. "
 weight: 10
 hidden: true

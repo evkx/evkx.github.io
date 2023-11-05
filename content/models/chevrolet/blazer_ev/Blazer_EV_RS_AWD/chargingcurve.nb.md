@@ -1,6 +1,6 @@
 ---
-title: Chevrolet Blazer EV RS AWD charging curve & performance
-linktitle: "Chargingcurve"
+title: Chevrolet Blazer EV RS AWD ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Chevrolet Blazer EV RS AWD. "
 weight: 10
 hidden: true

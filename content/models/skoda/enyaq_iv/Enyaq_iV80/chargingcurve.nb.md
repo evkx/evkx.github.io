@@ -1,6 +1,6 @@
 ---
-title: SKODA Enyaq iV80 charging curve & performance
-linktitle: "Chargingcurve"
+title: SKODA Enyaq iV80 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for SKODA Enyaq iV80. "
 weight: 10
 hidden: true

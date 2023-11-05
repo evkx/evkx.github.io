@@ -1,6 +1,6 @@
 ---
-title: Smart #3 Brabus charging curve & performance
-linktitle: "Chargingcurve"
+title: Smart #3 Brabus ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Smart #3 Brabus. "
 weight: 10
 hidden: true

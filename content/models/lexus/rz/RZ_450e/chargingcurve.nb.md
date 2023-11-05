@@ -1,6 +1,6 @@
 ---
-title: Lexus RZ 450e charging curve & performance
-linktitle: "Chargingcurve"
+title: Lexus RZ 450e ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Lexus RZ 450e. "
 weight: 10
 hidden: true

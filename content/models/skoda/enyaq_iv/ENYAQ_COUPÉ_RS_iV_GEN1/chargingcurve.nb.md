@@ -1,6 +1,6 @@
 ---
-title: SKODA ENYAQ COUPÉ RS iV (GEN1) charging curve & performance
-linktitle: "Chargingcurve"
+title: SKODA ENYAQ COUPÉ RS iV (GEN1) ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for SKODA ENYAQ COUPÉ RS iV (GEN1). "
 weight: 10
 hidden: true

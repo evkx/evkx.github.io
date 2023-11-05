@@ -1,6 +1,6 @@
 ---
-title: BMW iX M60 charging curve & performance
-linktitle: "Chargingcurve"
+title: BMW iX M60 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for BMW iX M60. "
 weight: 10
 hidden: true

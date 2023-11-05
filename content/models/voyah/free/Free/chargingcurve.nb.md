@@ -1,6 +1,6 @@
 ---
-title: VOYAH FREE charging curve & performance
-linktitle: "Chargingcurve"
+title: VOYAH FREE ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for VOYAH FREE. "
 weight: 10
 hidden: true

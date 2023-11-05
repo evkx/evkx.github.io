@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Sapphire charging curve & performance
-linktitle: "Chargingcurve"
+title: Lucid Air Sapphire ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Lucid Air Sapphire. "
 weight: 10
 hidden: true

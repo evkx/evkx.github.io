@@ -1,6 +1,6 @@
 ---
-title: BYD Seal AWD charging curve & performance
-linktitle: "Chargingcurve"
+title: BYD Seal AWD ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for BYD Seal AWD. "
 weight: 10
 hidden: true

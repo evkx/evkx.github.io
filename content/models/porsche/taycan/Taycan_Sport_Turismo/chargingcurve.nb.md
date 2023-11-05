@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan Sport Turismo charging curve & performance
-linktitle: "Chargingcurve"
+title: Porsche Taycan Sport Turismo ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Porsche Taycan Sport Turismo. "
 weight: 10
 hidden: true

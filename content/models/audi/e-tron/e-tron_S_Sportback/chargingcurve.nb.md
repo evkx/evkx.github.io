@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron S Sportback charging curve & performance
-linktitle: "Chargingcurve"
+title: Audi e-tron S Sportback ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Audi e-tron S Sportback. "
 weight: 10
 hidden: true

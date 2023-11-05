@@ -1,6 +1,6 @@
 ---
-title: Volvo C40 Recharge Single Motor ER charging curve & performance
-linktitle: "Chargingcurve"
+title: Volvo C40 Recharge Single Motor ER ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Volvo C40 Recharge Single Motor ER. "
 weight: 10
 hidden: true

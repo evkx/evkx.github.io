@@ -1,6 +1,6 @@
 ---
-title: HiPhi X 6 Seater charging curve & performance
-linktitle: "Chargingcurve"
+title: HiPhi X 6 Seater ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for HiPhi X 6 Seater. "
 weight: 10
 hidden: true

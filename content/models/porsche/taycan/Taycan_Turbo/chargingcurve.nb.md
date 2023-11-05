@@ -1,6 +1,6 @@
 ---
-title: Porsche Taycan Turbo charging curve & performance
-linktitle: "Chargingcurve"
+title: Porsche Taycan Turbo ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Porsche Taycan Turbo. "
 weight: 10
 hidden: true

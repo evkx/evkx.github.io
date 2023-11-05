@@ -1,6 +1,6 @@
 ---
-title: Tesla Model S charging curve & performance
-linktitle: "Chargingcurve"
+title: Tesla Model S ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Tesla Model S. "
 weight: 10
 hidden: true

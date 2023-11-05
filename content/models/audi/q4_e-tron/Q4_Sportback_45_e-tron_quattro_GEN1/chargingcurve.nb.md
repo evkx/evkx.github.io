@@ -1,6 +1,6 @@
 ---
-title: Audi Q4 Sportback 45 e-tron quattro (GEN1) charging curve & performance
-linktitle: "Chargingcurve"
+title: Audi Q4 Sportback 45 e-tron quattro (GEN1) ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Audi Q4 Sportback 45 e-tron quattro (GEN1). "
 weight: 10
 hidden: true

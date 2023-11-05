@@ -1,6 +1,6 @@
 ---
-title: CUPRA BORN 77 e-BOOST charging curve & performance
-linktitle: "Chargingcurve"
+title: CUPRA BORN 77 e-BOOST ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for CUPRA BORN 77 e-BOOST. "
 weight: 10
 hidden: true

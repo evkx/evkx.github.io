@@ -1,6 +1,6 @@
 ---
-title: Fiat 600e charging curve & performance
-linktitle: "Chargingcurve"
+title: Fiat 600e ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Fiat 600e. "
 weight: 10
 hidden: true

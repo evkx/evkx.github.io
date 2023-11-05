@@ -1,6 +1,6 @@
 ---
-title: Ford Mustang Mach-E Long Range RWD charging curve & performance
-linktitle: "Chargingcurve"
+title: Ford Mustang Mach-E Long Range RWD ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Ford Mustang Mach-E Long Range RWD. "
 weight: 10
 hidden: true

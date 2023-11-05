@@ -1,6 +1,6 @@
 ---
-title: Nissan Ariya 87kWh e-4ORCE charging curve & performance
-linktitle: "Chargingcurve"
+title: Nissan Ariya 87kWh e-4ORCE ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Nissan Ariya 87kWh e-4ORCE. "
 weight: 10
 hidden: true

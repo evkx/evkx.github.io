@@ -1,6 +1,6 @@
 ---
-title: BYD Han charging curve & performance
-linktitle: "Chargingcurve"
+title: BYD Han ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for BYD Han. "
 weight: 10
 hidden: true

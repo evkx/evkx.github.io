@@ -1,6 +1,6 @@
 ---
-title: Volvo XC40 Recharge Single Motor charging curve & performance
-linktitle: "Chargingcurve"
+title: Volvo XC40 Recharge Single Motor ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Volvo XC40 Recharge Single Motor. "
 weight: 10
 hidden: true

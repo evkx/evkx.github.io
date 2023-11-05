@@ -1,6 +1,6 @@
 ---
-title: Tesla Model 3 Performance charging curve & performance
-linktitle: "Chargingcurve"
+title: Tesla Model 3 Performance ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Tesla Model 3 Performance. "
 weight: 10
 hidden: true

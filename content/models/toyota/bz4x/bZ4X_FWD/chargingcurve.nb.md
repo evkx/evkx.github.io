@@ -1,6 +1,6 @@
 ---
-title: Toyota bZ4X FWD charging curve & performance
-linktitle: "Chargingcurve"
+title: Toyota bZ4X FWD ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Toyota bZ4X FWD. "
 weight: 10
 hidden: true

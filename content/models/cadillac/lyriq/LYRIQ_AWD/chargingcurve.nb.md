@@ -1,6 +1,6 @@
 ---
-title: Cadillac LYRIQ AWD charging curve & performance
-linktitle: "Chargingcurve"
+title: Cadillac LYRIQ AWD ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Cadillac LYRIQ AWD. "
 weight: 10
 hidden: true

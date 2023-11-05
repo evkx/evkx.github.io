@@ -1,6 +1,6 @@
 ---
-title: Tesla Model X charging curve & performance
-linktitle: "Chargingcurve"
+title: Tesla Model X ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Tesla Model X. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Audi Q4 Sportback 35 e-tron charging curve & performance
-linktitle: "Chargingcurve"
+title: Audi Q4 Sportback 35 e-tron ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Audi Q4 Sportback 35 e-tron. "
 weight: 10
 hidden: true

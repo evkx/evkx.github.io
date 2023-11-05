@@ -1,6 +1,6 @@
 ---
-title: BMW i7 eDrive50 charging curve & performance
-linktitle: "Chargingcurve"
+title: BMW i7 eDrive50 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for BMW i7 eDrive50. "
 weight: 10
 hidden: true

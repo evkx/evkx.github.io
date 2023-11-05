@@ -1,6 +1,6 @@
 ---
-title: Smart #1 Pulse charging curve & performance
-linktitle: "Chargingcurve"
+title: Smart #1 Pulse ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Smart #1 Pulse. "
 weight: 10
 hidden: true

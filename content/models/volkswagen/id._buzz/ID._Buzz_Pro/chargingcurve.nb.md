@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID. Buzz Pro charging curve & performance
-linktitle: "Chargingcurve"
+title: Volkswagen ID. Buzz Pro ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Volkswagen ID. Buzz Pro. "
 weight: 10
 hidden: true

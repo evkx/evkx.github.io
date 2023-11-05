@@ -1,6 +1,6 @@
 ---
-title: Citroën ë-C3 charging curve & performance
-linktitle: "Chargingcurve"
+title: Citroën ë-C3 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Citroën ë-C3. "
 weight: 10
 hidden: true

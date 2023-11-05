@@ -1,6 +1,6 @@
 ---
-title: Lotus Eletre S charging curve & performance
-linktitle: "Chargingcurve"
+title: Lotus Eletre S ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Lotus Eletre S. "
 weight: 10
 hidden: true

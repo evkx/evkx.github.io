@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.3 Pro S charging curve & performance
-linktitle: "Chargingcurve"
+title: Volkswagen ID.3 Pro S ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Volkswagen ID.3 Pro S. "
 weight: 10
 hidden: true

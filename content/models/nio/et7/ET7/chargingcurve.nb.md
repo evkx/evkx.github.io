@@ -1,6 +1,6 @@
 ---
-title: Nio ET7 charging curve & performance
-linktitle: "Chargingcurve"
+title: Nio ET7 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Nio ET7. "
 weight: 10
 hidden: true

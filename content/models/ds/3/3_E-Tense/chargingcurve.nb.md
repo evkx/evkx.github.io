@@ -1,6 +1,6 @@
 ---
-title: DS 3 E-Tense charging curve & performance
-linktitle: "Chargingcurve"
+title: DS 3 E-Tense ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for DS 3 E-Tense. "
 weight: 10
 hidden: true

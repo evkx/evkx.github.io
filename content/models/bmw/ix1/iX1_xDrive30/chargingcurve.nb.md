@@ -1,6 +1,6 @@
 ---
-title: BMW iX1 xDrive30 charging curve & performance
-linktitle: "Chargingcurve"
+title: BMW iX1 xDrive30 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for BMW iX1 xDrive30. "
 weight: 10
 hidden: true

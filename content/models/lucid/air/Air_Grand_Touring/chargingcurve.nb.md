@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Grand Touring charging curve & performance
-linktitle: "Chargingcurve"
+title: Lucid Air Grand Touring ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Lucid Air Grand Touring. "
 weight: 10
 hidden: true

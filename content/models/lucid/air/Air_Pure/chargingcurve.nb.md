@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Pure charging curve & performance
-linktitle: "Chargingcurve"
+title: Lucid Air Pure ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Lucid Air Pure. "
 weight: 10
 hidden: true

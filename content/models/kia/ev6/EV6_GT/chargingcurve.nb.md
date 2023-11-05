@@ -1,6 +1,6 @@
 ---
-title: Kia EV6 GT charging curve & performance
-linktitle: "Chargingcurve"
+title: Kia EV6 GT ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Kia EV6 GT. "
 weight: 10
 hidden: true

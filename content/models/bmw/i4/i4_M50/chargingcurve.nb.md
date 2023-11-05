@@ -1,6 +1,6 @@
 ---
-title: BMW i4 M50 charging curve & performance
-linktitle: "Chargingcurve"
+title: BMW i4 M50 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for BMW i4 M50. "
 weight: 10
 hidden: true

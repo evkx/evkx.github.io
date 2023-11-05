@@ -1,6 +1,6 @@
 ---
-title: BMW i4 eDrive35 charging curve & performance
-linktitle: "Chargingcurve"
+title: BMW i4 eDrive35 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for BMW i4 eDrive35. "
 weight: 10
 hidden: true

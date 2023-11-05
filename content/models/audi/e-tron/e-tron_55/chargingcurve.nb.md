@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron 55 charging curve & performance
-linktitle: "Chargingcurve"
+title: Audi e-tron 55 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Audi e-tron 55. "
 weight: 10
 hidden: true

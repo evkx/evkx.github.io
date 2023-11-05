@@ -1,6 +1,6 @@
 ---
-title: XPENG G9 AWD Performance charging curve & performance
-linktitle: "Chargingcurve"
+title: XPENG G9 AWD Performance ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for XPENG G9 AWD Performance. "
 weight: 10
 hidden: true

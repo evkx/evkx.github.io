@@ -1,6 +1,6 @@
 ---
-title: BMW i7 M70 xDrive charging curve & performance
-linktitle: "Chargingcurve"
+title: BMW i7 M70 xDrive ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for BMW i7 M70 xDrive. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: BMW i5 M60 xDrive charging curve & performance
-linktitle: "Chargingcurve"
+title: BMW i5 M60 xDrive ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for BMW i5 M60 xDrive. "
 weight: 10
 hidden: true

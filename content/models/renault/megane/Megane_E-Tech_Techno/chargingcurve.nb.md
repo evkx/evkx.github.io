@@ -1,6 +1,6 @@
 ---
-title: Renault Megane E-Tech Techno charging curve & performance
-linktitle: "Chargingcurve"
+title: Renault Megane E-Tech Techno ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Renault Megane E-Tech Techno. "
 weight: 10
 hidden: true

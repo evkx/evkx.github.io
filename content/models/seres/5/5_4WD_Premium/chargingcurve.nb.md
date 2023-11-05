@@ -1,6 +1,6 @@
 ---
-title: Seres 5 4WD Premium charging curve & performance
-linktitle: "Chargingcurve"
+title: Seres 5 4WD Premium ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Seres 5 4WD Premium. "
 weight: 10
 hidden: true

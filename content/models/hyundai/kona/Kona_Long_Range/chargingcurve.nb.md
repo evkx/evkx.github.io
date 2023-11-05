@@ -1,6 +1,6 @@
 ---
-title: Hyundai Kona Long Range charging curve & performance
-linktitle: "Chargingcurve"
+title: Hyundai Kona Long Range ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Hyundai Kona Long Range. "
 weight: 10
 hidden: true

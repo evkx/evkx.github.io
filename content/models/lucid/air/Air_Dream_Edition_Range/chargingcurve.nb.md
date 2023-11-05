@@ -1,6 +1,6 @@
 ---
-title: Lucid Air Dream Edition Range charging curve & performance
-linktitle: "Chargingcurve"
+title: Lucid Air Dream Edition Range ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Lucid Air Dream Edition Range. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Tesla Model Y Performance charging curve & performance
-linktitle: "Chargingcurve"
+title: Tesla Model Y Performance ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Tesla Model Y Performance. "
 weight: 10
 hidden: true

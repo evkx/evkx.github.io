@@ -1,6 +1,6 @@
 ---
-title: Hyundai Kona Standard Range charging curve & performance
-linktitle: "Chargingcurve"
+title: Hyundai Kona Standard Range ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Hyundai Kona Standard Range. "
 weight: 10
 hidden: true

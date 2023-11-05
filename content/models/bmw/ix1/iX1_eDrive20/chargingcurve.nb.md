@@ -1,6 +1,6 @@
 ---
-title: BMW iX1 eDrive20 charging curve & performance
-linktitle: "Chargingcurve"
+title: BMW iX1 eDrive20 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for BMW iX1 eDrive20. "
 weight: 10
 hidden: true

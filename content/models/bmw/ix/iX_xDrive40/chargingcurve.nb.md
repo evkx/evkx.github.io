@@ -1,6 +1,6 @@
 ---
-title: BMW iX xDrive40 charging curve & performance
-linktitle: "Chargingcurve"
+title: BMW iX xDrive40 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for BMW iX xDrive40. "
 weight: 10
 hidden: true

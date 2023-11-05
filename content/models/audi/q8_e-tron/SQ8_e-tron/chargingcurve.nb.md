@@ -1,6 +1,6 @@
 ---
-title: Audi SQ8 e-tron charging curve & performance
-linktitle: "Chargingcurve"
+title: Audi SQ8 e-tron ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Audi SQ8 e-tron. "
 weight: 10
 hidden: true

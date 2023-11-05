@@ -1,6 +1,6 @@
 ---
-title: Lotus Eletre R charging curve & performance
-linktitle: "Chargingcurve"
+title: Lotus Eletre R ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Lotus Eletre R. "
 weight: 10
 hidden: true

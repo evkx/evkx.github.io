@@ -1,6 +1,6 @@
 ---
-title: Zeekr X Long Range RWD charging curve & performance
-linktitle: "Chargingcurve"
+title: Zeekr X Long Range RWD ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Zeekr X Long Range RWD. "
 weight: 10
 hidden: true

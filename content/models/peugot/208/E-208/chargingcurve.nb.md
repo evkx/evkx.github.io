@@ -1,6 +1,6 @@
 ---
-title: Peugot E-208 charging curve & performance
-linktitle: "Chargingcurve"
+title: Peugot E-208 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Peugot E-208. "
 weight: 10
 hidden: true

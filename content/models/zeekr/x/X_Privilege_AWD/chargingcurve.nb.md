@@ -1,6 +1,6 @@
 ---
-title: Zeekr X Privilege AWD charging curve & performance
-linktitle: "Chargingcurve"
+title: Zeekr X Privilege AWD ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Zeekr X Privilege AWD. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: Cadillac ESCALADE IQ charging curve & performance
-linktitle: "Chargingcurve"
+title: Cadillac ESCALADE IQ ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Cadillac ESCALADE IQ. "
 weight: 10
 hidden: true

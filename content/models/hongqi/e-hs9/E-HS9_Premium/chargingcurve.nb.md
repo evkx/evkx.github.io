@@ -1,6 +1,6 @@
 ---
-title: Hongqi E-HS9 Premium charging curve & performance
-linktitle: "Chargingcurve"
+title: Hongqi E-HS9 Premium ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Hongqi E-HS9 Premium. "
 weight: 10
 hidden: true

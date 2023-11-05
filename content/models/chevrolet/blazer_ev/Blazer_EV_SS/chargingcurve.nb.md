@@ -1,6 +1,6 @@
 ---
-title: Chevrolet Blazer EV SS charging curve & performance
-linktitle: "Chargingcurve"
+title: Chevrolet Blazer EV SS ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Chevrolet Blazer EV SS. "
 weight: 10
 hidden: true

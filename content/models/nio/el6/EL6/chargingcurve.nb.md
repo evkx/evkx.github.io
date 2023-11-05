@@ -1,6 +1,6 @@
 ---
-title: Nio EL6 charging curve & performance
-linktitle: "Chargingcurve"
+title: Nio EL6 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Nio EL6. "
 weight: 10
 hidden: true

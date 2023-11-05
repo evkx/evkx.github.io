@@ -1,6 +1,6 @@
 ---
-title: Volkswagen ID.4 Pro 4MOTION charging curve & performance
-linktitle: "Chargingcurve"
+title: Volkswagen ID.4 Pro 4MOTION ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Volkswagen ID.4 Pro 4MOTION. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
-title: CUPRA Tavascan Endurance charging curve & performance
-linktitle: "Chargingcurve"
+title: CUPRA Tavascan Endurance ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for CUPRA Tavascan Endurance. "
 weight: 10
 hidden: true

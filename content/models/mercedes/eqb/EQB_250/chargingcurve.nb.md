@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQB 250 charging curve & performance
-linktitle: "Chargingcurve"
+title: Mercedes-EQ EQB 250 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Mercedes-EQ EQB 250. "
 weight: 10
 hidden: true

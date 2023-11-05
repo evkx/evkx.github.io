@@ -1,6 +1,6 @@
 ---
-title: Ford F150 Lightning Extended Range charging curve & performance
-linktitle: "Chargingcurve"
+title: Ford F150 Lightning Extended Range ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Ford F150 Lightning Extended Range. "
 weight: 10
 hidden: true

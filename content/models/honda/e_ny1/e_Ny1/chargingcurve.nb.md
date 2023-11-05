@@ -1,6 +1,6 @@
 ---
-title: Honda e:Ny1 charging curve & performance
-linktitle: "Chargingcurve"
+title: Honda e:Ny1 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Honda e:Ny1. "
 weight: 10
 hidden: true

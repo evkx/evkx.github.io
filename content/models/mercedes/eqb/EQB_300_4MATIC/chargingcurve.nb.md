@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQB 300 4MATIC charging curve & performance
-linktitle: "Chargingcurve"
+title: Mercedes-EQ EQB 300 4MATIC ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Mercedes-EQ EQB 300 4MATIC. "
 weight: 10
 hidden: true

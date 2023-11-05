@@ -1,6 +1,6 @@
 ---
-title: Audi Q4 55 e-tron quattro charging curve & performance
-linktitle: "Chargingcurve"
+title: Audi Q4 55 e-tron quattro ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Audi Q4 55 e-tron quattro. "
 weight: 10
 hidden: true

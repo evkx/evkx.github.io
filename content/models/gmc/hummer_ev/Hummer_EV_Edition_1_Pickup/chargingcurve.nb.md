@@ -1,6 +1,6 @@
 ---
-title: GMC Hummer EV Edition 1 Pickup charging curve & performance
-linktitle: "Chargingcurve"
+title: GMC Hummer EV Edition 1 Pickup ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for GMC Hummer EV Edition 1 Pickup. "
 weight: 10
 hidden: true

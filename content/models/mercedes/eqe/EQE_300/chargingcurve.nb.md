@@ -1,6 +1,6 @@
 ---
-title: Mercedes-EQ EQE 300 charging curve & performance
-linktitle: "Chargingcurve"
+title: Mercedes-EQ EQE 300 ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Mercedes-EQ EQE 300. "
 weight: 10
 hidden: true

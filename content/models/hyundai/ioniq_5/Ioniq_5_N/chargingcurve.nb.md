@@ -1,6 +1,6 @@
 ---
-title: Hyundai Ioniq 5 N charging curve & performance
-linktitle: "Chargingcurve"
+title: Hyundai Ioniq 5 N ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Hyundai Ioniq 5 N. "
 weight: 10
 hidden: true

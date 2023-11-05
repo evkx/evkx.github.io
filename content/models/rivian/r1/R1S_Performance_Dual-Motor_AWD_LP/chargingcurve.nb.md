@@ -1,6 +1,6 @@
 ---
-title: Rivian R1S Performance Dual-Motor AWD LP charging curve & performance
-linktitle: "Chargingcurve"
+title: Rivian R1S Performance Dual-Motor AWD LP ladekurve og ladeytelse
+linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Rivian R1S Performance Dual-Motor AWD LP. "
 weight: 10
 hidden: true
