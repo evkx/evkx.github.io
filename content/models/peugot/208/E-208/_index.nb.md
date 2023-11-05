@@ -39,11 +39,11 @@ Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 48,1kWh, noe
 
 Maksimal DC-ladehastighet er 100kW. En full lading fra 0 - 100 % vil ta 54 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 65kW. Hver ladeøkt vil ta 23 minutter og 23 sekunder. 
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 22 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -57,7 +57,7 @@ Peugot E-208 har et firehjulsdriftssystem som støttes av to motorer, en på hve
 
 Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Torsion Beam]( ../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 170 mm. 
 
-### Brakes
+### Bremser
 
 
 
@@ -86,7 +86,7 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Peugot E-208. 
 
@@ -108,7 +108,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/peugot/208/e-208/frontseats_1_st.jpg" title="Peugot E-208" width="3000" height="2250"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -187,6 +187,6 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 Lastkapasiteten i bagasjerommet er 265 liter. Med baksetet nede er det 1106 liter. Maksimumsvekten til bilen er 2025kg, og med basisvekten på 1520 kg kan du maksimalt laste 505 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-### Availability & Pricing
+### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 06.07.2023, og leveringene forventes å starte om November 2023.

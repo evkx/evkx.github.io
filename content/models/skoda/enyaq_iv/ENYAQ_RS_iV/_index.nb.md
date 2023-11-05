@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 62 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 9 timer og 40 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 2% til 46%. Totalt tapt tid for å lade opp batteriet vil være 80 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 0 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,11 +59,11 @@ SKODA ENYAQ RS iV har et firehjulsdriftssystem som støttes av to motorer, en p�
 
 Sport-fjæringen har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 173 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på SKODA ENYAQ RS iV. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 
 
@@ -92,7 +92,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i SKODA ENYAQ RS iV. 
 
@@ -110,7 +110,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen. <br />
 <br />
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -197,6 +197,6 @@ Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 585 liter. Med baksetet nede er det 1710 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2750kg, og med basisvekten på 2117 kg kan du maksimalt laste 633 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1200, og på ubremset er den 750kg. 
-### Availability & Pricing
+### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 01.01.2020, og leveringene startet i March 2021. Denne modellen har nå blitt avviklet. 

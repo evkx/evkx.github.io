@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 350kW. En full lading fra 0 - 100 % vil ta 139 minu
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 43kWh/100km, vil 1000km ta 9 timer og 13 minutter. Denne turen vil kreve two ladeøkt(er) lading fra 1% til 52%. Totalt tapt tid for å lade opp batteriet vil være 53 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 19 timer og 21 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,7 +59,7 @@ GMC Hummer EV Edition 1 Pickup har et firehjulsdriftssystem støttet av tre moto
 
 Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 257 mm, og maksimum er 406 mm. I tillegg er bakhjulsstyring tilgjengelig som a standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
 
-### Brakes
+### Bremser
 
 
 
@@ -85,7 +85,7 @@ Det er bare ett tak for denne modellen. Standardtaket har 4 separate glasspanele
 
 Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i GMC Hummer EV Edition 1 Pickup. 
 
@@ -103,7 +103,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

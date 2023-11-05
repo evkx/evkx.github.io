@@ -39,11 +39,11 @@ Batteriet har en bruttokapasitet på 110kWh og en nettokapasitet på 102kWh, noe
 
 Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 176 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 120kW. Hver ladeøkt vil ta 29 minutter og 59 sekunder. 
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11,5KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 52 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 19,2 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 18 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -57,7 +57,7 @@ Cadillac LYRIQ AWD har et firehjulsdriftssystem som støttes av to motorer, en p
 
 -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 178 mm. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 321mm, og de bakre skivene er 345mm. 
 
@@ -84,7 +84,7 @@ Du kan velge mellom to typer tak på denne modellen. Standardtaket har et stort 
 
 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Cadillac LYRIQ AWD. 
 
@@ -107,7 +107,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/frontseats_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2700"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

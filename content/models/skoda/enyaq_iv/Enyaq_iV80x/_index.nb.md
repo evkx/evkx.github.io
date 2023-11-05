@@ -41,7 +41,7 @@ Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 62 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 23kWh/100km, vil 1000km ta 9 timer og 51 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 2% til 42%. Totalt tapt tid for å lade opp batteriet vil være 91 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 0 minutter. 
 
@@ -49,7 +49,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/charging_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -65,11 +65,11 @@ standard-fjæringen har stålfjærer med fast høyde, men en valgfri dempingsjus
 
 Du kan bestille SKODA Enyaq iV80x med en alternativ sport suspensjon. sport-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 171 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er an optional-funksjonen på SKODA Enyaq iV80x. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 
 
@@ -100,7 +100,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 Du kan velge mellom to typer seter med forhåndskonfigurerte materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Det er two setetyper du kan velge mellom for første rad i SKODA Enyaq iV80x. 
 
@@ -136,7 +136,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -239,6 +239,6 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilheng
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 
-### Availability & Pricing
+### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 01.01.2020, og leveringene startet i March 2021. Denne modellen har nå blitt avviklet. 

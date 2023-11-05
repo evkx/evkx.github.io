@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 150kW. En full lading fra 0 - 100 % vil ta 80 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26kWh/100km, vil 1000km ta 10 timer og 34 minutter. Denne turen vil kreve seven ladeøkt(er) lading fra 5% til 51%. Totalt tapt tid for å lade opp batteriet vil være 135 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 2 timer og 49 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,7 +59,7 @@ Smart #1 Brabus har et firehjulsdriftssystem som støttes av to motorer, en på 
 
 Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 175 mm. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 350mm, og de bakre skivene er 333mm. 
 
@@ -85,7 +85,7 @@ Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanli
 
 Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Smart #1 Brabus. 
 
@@ -104,7 +104,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/frontseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -207,6 +207,6 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilheng
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/trunk_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
-### Availability & Pricing
+### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 07.04.2022, og leveringene forventes å starte om November 2023.

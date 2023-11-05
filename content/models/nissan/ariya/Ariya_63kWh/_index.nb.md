@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 130kW. En full lading fra 0 - 100 % vil ta 52 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 10 timer og 33 minutter. Denne turen vil kreve six ladeøkt(er) lading fra 2% til 49%. Totalt tapt tid for å lade opp batteriet vil være 134 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 7,2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 45 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,11 +59,11 @@ Nissan Ariya 63kWh har et forhjulsdriftssystem støttet av én motor på forakse
 
 standard-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 185 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er an optional-funksjonen på Nissan Ariya 63kWh. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
@@ -92,7 +92,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Nissan Ariya 63kWh. 
 
@@ -109,7 +109,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen. <br />
 <br />
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

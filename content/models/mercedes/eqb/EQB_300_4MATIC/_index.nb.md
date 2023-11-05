@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 112kW. En full lading fra 0 - 100 % vil ta 59 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 10 timer og 31 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 4% til 73%. Totalt tapt tid for å lade opp batteriet vil være 131 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 6 timer og 2 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,11 +59,11 @@ Mercedes-EQ EQB 300 4MATIC har et firehjulsdriftssystem som støttes av to motor
 
 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på Mercedes-EQ EQB 300 4MATIC. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
@@ -92,7 +92,7 @@ Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanli
 
 Du kan velge mellom ulike typer seter, setematerialer og interiørstil. I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout. 
 
-### First row seats
+### Forseter
 
 Det er two setetyper du kan velge mellom for første rad i Mercedes-EQ EQB 300 4MATIC. 
 
@@ -133,7 +133,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen. <br />
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1999"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -141,7 +141,7 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 - høydejusterbar hodestøtte 
 
-### Third-row seats
+### Seter på tredje rad
 
 
 

@@ -41,7 +41,7 @@ Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 104 minutte
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 30kWh/100km, vil 1000km ta 9 timer og 36 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 0% til 47%. Totalt tapt tid for å lade opp batteriet vil være 77 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11,5KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 10 timer og 52 minutter. 
 
@@ -49,7 +49,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11,5KW-ladin
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/charging_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="2880" height="1920"  >}}
 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er i [fremre venstre hjørne](../../../../technology/charging/connectors/#front-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må parkere med fronten inn.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -63,7 +63,7 @@ Rivian R1S Quad-Motor AWD har et firehjulsdriftssystem som støttes av fire moto
 
 Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 205 mm, og maksimum er 365 mm. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 343mm, og de bakre skivene er 328mm. 
 
@@ -91,7 +91,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Rivian R1S Quad-Motor AWD. 
 
@@ -111,7 +111,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -120,7 +120,7 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
-### Third-row seats
+### Seter på tredje rad
 
 
 

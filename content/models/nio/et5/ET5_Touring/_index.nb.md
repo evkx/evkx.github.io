@@ -53,11 +53,11 @@ Maksimal DC-ladehastighet er 140kW. En full lading fra 0 - 100 % vil ta 65 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 23kWh/100km, vil 1000km ta 10 timer og 26 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 8% til 65%. Totalt tapt tid for å lade opp batteriet vil være 127 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 10 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 ### Batteribytte
@@ -74,11 +74,11 @@ Nio ET5 Touring har et firehjulsdriftssystem som støttes av to motorer, en på 
 
 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på Nio ET5 Touring. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
@@ -107,7 +107,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 Du kan velge mellom ulike typer setematerialer og interiørstil. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Nio ET5 Touring. 
 
@@ -132,7 +132,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

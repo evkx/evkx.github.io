@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 170kW. En full lading fra 0 - 100 % vil ta 62 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 23kWh/100km, vil 1000km ta 9 timer og 53 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 2% til 43%. Totalt tapt tid for å lade opp batteriet vil være 93 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 6 timer og 57 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -65,11 +65,11 @@ Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macphe
 
 Du kan bestille Audi Q4 45 e-tron quattro med en alternativ sport suspensjon. Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. sport-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 165 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er an optional-funksjonen på Audi Q4 45 e-tron quattro. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 
 
@@ -104,7 +104,7 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Det er two setetyper du kan velge mellom for første rad i Audi Q4 45 e-tron quattro. 
 
@@ -251,6 +251,6 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilheng
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="2249"  >}}
 
-### Availability & Pricing
+### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 21.09.2023, og leveringene startet i December 2023.

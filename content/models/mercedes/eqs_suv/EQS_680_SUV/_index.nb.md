@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 200kW. En full lading fra 0 - 100 % vil ta 82 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28,5kWh/100km, vil 1000km ta 9 timer og 35 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 1% til 56%. Totalt tapt tid for å lade opp batteriet vil være 76 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 9 timer og 51 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,11 +59,11 @@ Mercedes-Maybach EQS 680 SUV har et firehjulsdriftssystem som støttes av to mot
 
 Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 181 mm, og maksimum er 206 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på Mercedes-Maybach EQS 680 SUV. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som a standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 415mm, og de bakre skivene er 378mm. 
 
@@ -96,7 +96,7 @@ Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanli
 
 Du kan velge mellom ulike typer seter, setematerialer og interiørstil. I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Mercedes-Maybach EQS 680 SUV. 
 
@@ -122,7 +122,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen. <br />
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

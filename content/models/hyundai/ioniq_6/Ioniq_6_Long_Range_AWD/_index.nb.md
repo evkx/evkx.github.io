@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 233kW. En full lading fra 0 - 100 % vil ta 38 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 9 timer og 15 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 1% til 63%. Totalt tapt tid for å lade opp batteriet vil være 56 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 6 timer og 43 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,7 +59,7 @@ Hyundai Ioniq 6 Long Range AWD har et firehjulsdriftssystem som støttes av to m
 
 -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 141 mm. 
 
-### Brakes
+### Bremser
 
 
 
@@ -88,7 +88,7 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 Du kan velge mellom ulike typer setematerialer og interiørstil. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Hyundai Ioniq 6 Long Range AWD. 
 
@@ -109,7 +109,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen. <br />
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/frontseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

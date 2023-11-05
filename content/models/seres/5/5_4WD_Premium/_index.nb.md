@@ -39,11 +39,11 @@ Batteriet har en bruttokapasitet på 80kWh og en nettokapasitet på 78kWh, noe s
 
 Maksimal DC-ladehastighet er 100kW. En full lading fra 0 - 100 % vil ta 94 minutter, mens et mer vanlig scenario på 10-80 % vil ta 44 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 12% til 64%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 70kW. Hver ladeøkt vil ta 35 minutter og 45 sekunder. 
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 5 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -57,7 +57,7 @@ Seres 5 4WD Premium har et firehjulsdriftssystem som støttes av to motorer, en 
 
 Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 185 mm. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
@@ -86,7 +86,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 Du kan velge mellom flere interiørdesign. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Seres 5 4WD Premium. 
 
@@ -107,7 +107,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

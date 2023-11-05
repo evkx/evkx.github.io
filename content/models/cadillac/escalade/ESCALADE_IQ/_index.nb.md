@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 350kW. En full lading fra 0 - 100 % vil ta 130 minu
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 35kWh/100km, vil 1000km ta 8 timer og 58 minutter. Denne turen vil kreve two ladeøkt(er) lading fra 1% til 39%. Totalt tapt tid for å lade opp batteriet vil være 39 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 19,2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 10 timer og 25 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,7 +59,7 @@ Cadillac ESCALADE IQ har et firehjulsdriftssystem som støttes av to motorer, en
 
 Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 125 mm, og maksimum er 200 mm. I tillegg er bakhjulsstyring tilgjengelig som a standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
 
-### Brakes
+### Bremser
 
 
 
@@ -85,7 +85,7 @@ Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne m
 
 Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Cadillac ESCALADE IQ. 
 
@@ -109,7 +109,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -126,7 +126,7 @@ For den andre raden har denne modellen doble [executive-seter](../../../../techn
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
 
 
-### Third-row seats
+### Seter på tredje rad
 
 
 

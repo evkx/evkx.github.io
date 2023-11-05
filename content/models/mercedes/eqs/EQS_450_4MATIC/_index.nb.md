@@ -41,7 +41,7 @@ Maksimal DC-ladehastighet er 210kW. En full lading fra 0 - 100 % vil ta 82 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 7 minutter. Denne turen vil kreve two ladeøkt(er) lading fra 1% til 53%. Totalt tapt tid for å lade opp batteriet vil være 48 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 55 minutter. 
 
@@ -49,7 +49,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading.
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/charging_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="1687"  >}}
 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -63,11 +63,11 @@ Mercedes-EQ EQS 450 4MATIC har et firehjulsdriftssystem som støttes av to motor
 
 Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 82 mm, og maksimum er 127 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på Mercedes-EQ EQS 450 4MATIC. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som a standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 415mm, og de bakre skivene er 378mm. 
 
@@ -96,7 +96,7 @@ Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanli
 
 Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Det er two setetyper du kan velge mellom for første rad i Mercedes-EQ EQS 450 4MATIC. 
 

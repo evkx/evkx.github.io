@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 147kW. En full lading fra 0 - 100 % vil ta 74 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 10 timer og 25 minutter. Denne turen vil kreve seven ladeøkt(er) lading fra 6% til 46%. Totalt tapt tid for å lade opp batteriet vil være 126 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 6,6KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 47 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 11 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 16 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,7 +59,7 @@ Toyota bZ4X FWD har et forhjulsdriftssystem støttet av én motor på forakselen
 
 -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 177 mm. 
 
-### Brakes
+### Bremser
 
 
 
@@ -87,7 +87,7 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Toyota bZ4X FWD. 
 
@@ -103,7 +103,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
 <br />
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

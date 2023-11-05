@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 233kW. En full lading fra 0 - 100 % vil ta 43 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 9 timer og 21 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 1% til 63%. Totalt tapt tid for å lade opp batteriet vil være 61 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 38 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,7 +59,7 @@ Hyundai Ioniq 5 N har et firehjulsdriftssystem som støttes av to motorer, en p�
 
 -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med denne fjæringen er 158 mm. 
 
-### Brakes
+### Bremser
 
 
 
@@ -87,7 +87,7 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 Du kan velge mellom ulike typer setematerialer og interiørstil. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Hyundai Ioniq 5 N. 
 
@@ -104,7 +104,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -198,6 +198,6 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilheng
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/trunk_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2250"  >}}
 
-### Availability & Pricing
+### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 13.07.2023, og leveringene forventes å starte om March 2024.

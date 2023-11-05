@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 61 minutter
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19kWh/100km, vil 1000km ta 8 timer og 56 minutter. Denne turen vil kreve two ladeøkt(er) lading fra 0% til 54%. Totalt tapt tid for å lade opp batteriet vil være 37 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 10 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,11 +59,11 @@ Lucid Air Pure har et bakhjulsdriftssystem støttet av en motor på bakakselen. 
 
 -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med denne fjæringen er 126 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på Lucid Air Pure. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 386mm, og de bakre skivene er 381mm. 
 
@@ -90,7 +90,7 @@ Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
 Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Lucid Air Pure. 
 
@@ -109,7 +109,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
 <br />
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

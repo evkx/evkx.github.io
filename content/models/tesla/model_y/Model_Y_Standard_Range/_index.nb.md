@@ -53,11 +53,11 @@ Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 84 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19,5kWh/100km, vil 1000km ta 9 timer og 52 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 0% til 37%. Totalt tapt tid for å lade opp batteriet vil være 93 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 13 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/charging/connectors/#rear-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/# nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -71,11 +71,11 @@ Tesla Model Y Standard Range har et bakhjulsdriftssystem støttet av en motor p�
 
 Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 167 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på Tesla Model Y Standard Range. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm. 
 
@@ -104,7 +104,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 Det er én setetype du kan velge i forskjellige materialer. I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Tesla Model Y Standard Range. 
 
@@ -124,7 +124,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen. <br />
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/frontseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -135,7 +135,7 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
 
-### Third-row seats
+### Seter på tredje rad
 
 
 
@@ -239,6 +239,6 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 Lastkapasiteten i bagasjerommet er 854 liter. Med baksetet nede er det 2158 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2720kg, og med basisvekten på 2135 kg kan du maksimalt laste 585 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
 
 Et hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en bremset tilhenger er 1600, og på ubremset er den 750kg. 
-### Availability & Pricing
+### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 2020.

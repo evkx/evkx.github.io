@@ -41,7 +41,7 @@ Maksimal DC-ladehastighet er 147kW. En full lading fra 0 - 100 % vil ta 141 minu
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 10 timer og 28 minutter. Denne turen vil kreve seven ladeøkt(er) lading fra 4% til 46%. Totalt tapt tid for å lade opp batteriet vil være 128 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 6,6KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 9 timer og 41 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 11 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 49 minutter. 
 
@@ -49,7 +49,7 @@ For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 6,6K
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/charging_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -63,7 +63,7 @@ Lexus RZ 450e har et firehjulsdriftssystem som støttes av to motorer, en på hv
 
 -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 177 mm. 
 
-### Brakes
+### Bremser
 
 
 
@@ -92,7 +92,7 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Lexus RZ 450e. 
 
@@ -112,7 +112,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/frontseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 78 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 32kWh/100km, vil 1000km ta 10 timer og 40 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 8% til 67%. Totalt tapt tid for å lade opp batteriet vil være 141 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 39 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,11 +59,11 @@ Hongqi E-HS9 Premium har et firehjulsdriftssystem som støttes av to motorer, en
 
 -fjæringen har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 200 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på Hongqi E-HS9 Premium. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
@@ -90,7 +90,7 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Hongqi E-HS9 Premium. 
 
@@ -108,7 +108,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen. <br />
 <br />
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -117,7 +117,7 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 - høydejusterbar hodestøtte 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
 
-### Third-row seats
+### Seter på tredje rad
 
 
 

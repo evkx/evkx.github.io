@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 110kW. En full lading fra 0 - 100 % vil ta 67 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 31,7kWh/100km, vil 1000km ta 10 timer og 50 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 5% til 59%. Totalt tapt tid for å lade opp batteriet vil være 150 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 7KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 12 timer og 20 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,11 +59,11 @@ BYD Tang EV600 har et firehjulsdriftssystem som støttes av to motorer, en på h
 
 -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 190 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på BYD Tang EV600. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
@@ -91,7 +91,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i BYD Tang EV600. 
 
@@ -111,7 +111,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen. <br />
 <br />
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -124,7 +124,7 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
 
 
-### Third-row seats
+### Seter på tredje rad
 
 
 

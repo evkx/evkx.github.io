@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 59 minutter
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24,5kWh/100km, vil 1000km ta 11 timer og 18 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 16% til 90%. Totalt tapt tid for å lade opp batteriet vil være 179 minutter.
 
-### Onboard charger
+### Ombordlader
 
 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [fronten](../../../../technology/charging/connectors/#front). Denne plasseringen gjør det brukervennlige ladestasjoner der du må parkere med fronten inn.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,7 +59,7 @@ drivetrain.drivesetup.NotSet
 
 Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 140 mm. 
 
-### Brakes
+### Bremser
 
 
 
@@ -85,14 +85,14 @@ Det er bare ett tak for denne modellen.
 
 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Honda e:Ny1. 
 
 Følgende funksjoner er tilgjengelige på **** setet. 
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

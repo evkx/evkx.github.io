@@ -41,7 +41,7 @@ Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 46 minutter
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 18kWh/100km, vil 1000km ta 9 timer og 22 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 2% til 60%. Totalt tapt tid for å lade opp batteriet vil være 63 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 6 timer og 0 minutter. 
 
@@ -49,7 +49,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/charging_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2001"  >}}
 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -63,11 +63,11 @@ BMW i4 eDrive35 har et bakhjulsdriftssystem støttet av en motor på bakakselen.
 
 Standard-fjæringen har luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastens vekt. Bakkeklaringen med denne fjæringen er 125 mm. -fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med denne fjæringen er 125 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på BMW i4 eDrive35. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som a standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
 
-### Brakes
+### Bremser
 
 
 
@@ -96,7 +96,7 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Det er two setetyper du kan velge mellom for første rad i BMW i4 eDrive35. 
 
@@ -135,7 +135,7 @@ Du kan velge mellom 21 forskjellige materialer/farger for denne setetypen. <br /
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/frontseats_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

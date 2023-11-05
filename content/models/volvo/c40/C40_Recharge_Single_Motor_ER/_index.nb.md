@@ -41,7 +41,7 @@ Maksimal DC-ladehastighet er 205kW. En full lading fra 0 - 100 % vil ta 65 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 1 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 1% til 52%. Totalt tapt tid for å lade opp batteriet vil være 101 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 10 minutter. 
 
@@ -49,7 +49,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/charging_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -63,7 +63,7 @@ Volvo C40 Recharge Single Motor ER har et bakhjulsdriftssystem støttet av en mo
 
 -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 175 mm. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
@@ -90,7 +90,7 @@ Du kan velge mellom to typer tak på denne modellen. Som ekstrautstyr kan du bes
 
 Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Volvo C40 Recharge Single Motor ER. 
 
@@ -104,7 +104,7 @@ Alternativet zero er en tre-seters benk med en -del hvor du kan folde hver seksj
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/frontseats_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

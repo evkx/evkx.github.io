@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 200kW. En full lading fra 0 - 100 % vil ta 82 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 9 timer og 21 minutter. Denne turen vil kreve two ladeøkt(er) lading fra 1% til 67%. Totalt tapt tid for å lade opp batteriet vil være 61 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 9 timer og 51 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,11 +59,11 @@ Mercedes-EQ EQS 450 4MATIC SUV har et firehjulsdriftssystem som støttes av to m
 
 Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 181 mm, og maksimum er 206 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på Mercedes-EQ EQS 450 4MATIC SUV. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som a standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 415mm, og de bakre skivene er 378mm. 
 
@@ -96,7 +96,7 @@ Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanli
 
 Du kan velge mellom ulike typer seter, setematerialer og interiørstil. I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout. 
 
-### First row seats
+### Forseter
 
 Det er two setetyper du kan velge mellom for første rad i Mercedes-EQ EQS 450 4MATIC SUV. 
 
@@ -136,7 +136,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen. <br />
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC SUV" width="3000" height="1687"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -149,7 +149,7 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450_4matic_suv/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC SUV" width="3000" height="2250"  >}}
 
 
-### Third-row seats
+### Seter på tredje rad
 
 
 

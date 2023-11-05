@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 120kW. En full lading fra 0 - 100 % vil ta 66 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 57 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 6% til 53%. Totalt tapt tid for å lade opp batteriet vil være 97 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 0 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,11 +59,11 @@ CUPRA BORN 77 e-BOOST har et bakhjulsdriftssystem støttet av en motor på bakak
 
 standard-fjæringen har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 131 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er an optional-funksjonen på CUPRA BORN 77 e-BOOST. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 
 
@@ -92,7 +92,7 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 Du kan velge mellom to typer seter med forhåndskonfigurerte materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i CUPRA BORN 77 e-BOOST. 
 
@@ -114,7 +114,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen. <br />
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/frontseats_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2110"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

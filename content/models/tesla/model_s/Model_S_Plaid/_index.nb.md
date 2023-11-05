@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 80 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21,0kWh/100km, vil 1000km ta 9 timer og 8 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 7% til 47%. Totalt tapt tid for å lade opp batteriet vil være 48 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 43 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/charging/connectors/#rear-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/# nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,11 +59,11 @@ Tesla Model S Plaid har et firehjulsdriftssystem støttet av tre motorer. En på
 
 Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 117 mm, og maksimum er 158 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på Tesla Model S Plaid. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm. 
 
@@ -92,7 +92,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Tesla Model S Plaid. 
 
@@ -109,7 +109,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen. <br />
 <br />
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

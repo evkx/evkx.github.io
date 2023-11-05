@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 114 minu
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 32kWh/100km, vil 1000km ta 10 timer og 46 minutter. Denne turen vil kreve six ladeøkt(er) lading fra 1% til 33%. Totalt tapt tid for å lade opp batteriet vil være 147 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 10 timer og 0 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,11 +59,11 @@ Hongqi E-HS9 Exclusive+ har et firehjulsdriftssystem som støttes av to motorer,
 
 Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 170 mm, og maksimum er 260 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på Hongqi E-HS9 Exclusive+. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
@@ -90,7 +90,7 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er seks seter med to foran, to kapteinstoler på andre rad, og en to-seters benk på tredje rad. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Hongqi E-HS9 Exclusive+. 
 
@@ -109,7 +109,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen. <br />
 <br />
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -120,7 +120,7 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
-### Third-row seats
+### Seter på tredje rad
 
 
 

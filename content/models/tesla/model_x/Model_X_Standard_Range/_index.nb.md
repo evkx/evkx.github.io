@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 62 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24,0kWh/100km, vil 1000km ta 9 timer og 34 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 5% til 49%. Totalt tapt tid for å lade opp batteriet vil være 75 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 6 timer og 49 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/charging/connectors/#rear-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/# nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,11 +59,11 @@ Tesla Model X Standard Range har et firehjulsdriftssystem støttet av tre motore
 
 Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 117 mm, og maksimum er 158 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på Tesla Model X Standard Range. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm. 
 
@@ -92,7 +92,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Tesla Model X Standard Range. 
 
@@ -109,7 +109,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen. <br />
 <br />
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 
@@ -120,7 +120,7 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/secondrowseats_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
 
 
-### Third-row seats
+### Seter på tredje rad
 
 
 

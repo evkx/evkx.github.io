@@ -41,11 +41,11 @@ Maksimal DC-ladehastighet er 205kW. En full lading fra 0 - 100 % vil ta 65 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21,5kWh/100km, vil 1000km ta 9 timer og 29 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 1% til 59%. Totalt tapt tid for å lade opp batteriet vil være 70 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 10 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -59,7 +59,7 @@ Polestar 2 Long Range Single Motor har et bakhjulsdriftssystem støttet av en mo
 
 -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 151 mm. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
@@ -86,7 +86,7 @@ Du kan velge mellom to typer tak på denne modellen. Som ekstrautstyr kan du bes
 
 Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Polestar 2 Long Range Single Motor. 
 
@@ -104,7 +104,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen. <br />
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/frontseats_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="1687"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

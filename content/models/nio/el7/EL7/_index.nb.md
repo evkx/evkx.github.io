@@ -53,11 +53,11 @@ Maksimal DC-ladehastighet er 140kW. En full lading fra 0 - 100 % vil ta 65 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25,5kWh/100km, vil 1000km ta 10 timer og 45 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 7% til 73%. Totalt tapt tid for å lade opp batteriet vil være 146 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 10 minutter. 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 ### Batteribytte
@@ -74,11 +74,11 @@ Nio EL7 har et firehjulsdriftssystem som støttes av to motorer, en på hver aks
 
 Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 143 mm, og maksimum er 198 mm. 
 
-### Steering
+### Styring
 
 Dynamisk styring er a standard-funksjonen på Nio EL7. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
@@ -105,7 +105,7 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 Du kan velge mellom ulike typer setematerialer og interiørstil. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
-### First row seats
+### Forseter
 
 Bare én type forsete er tilgjengelig i Nio EL7. 
 
@@ -130,7 +130,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen. <br />
 {{< sitefiguresized thumb="models/nio/el7/el7/frontseats_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 
 
-### Second-row seat
+### Seter på andre rad
 
 
 

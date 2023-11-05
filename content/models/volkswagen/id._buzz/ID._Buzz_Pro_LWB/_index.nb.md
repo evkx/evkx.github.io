@@ -41,7 +41,7 @@ Maksimal DC-ladehastighet er 200kW. En full lading fra 0 - 100 % vil ta 55 minut
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 3 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 0% til 46%. Totalt tapt tid for å lade opp batteriet vil være 104 minutter.
 
-### Onboard charger
+### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 43 minutter. 
 
@@ -49,7 +49,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 
-### Charge port
+### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
@@ -63,11 +63,11 @@ Volkswagen ID. Buzz Pro LWB har et bakhjulsdriftssystem støttet av en motor på
 
 
 
-### Steering
+### Styring
 
 Dynamisk styring er an optional-funksjonen på Volkswagen ID. Buzz Pro LWB. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
-### Brakes
+### Bremser
 
 
 
@@ -96,7 +96,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 Du kan velge mellom to typer seter med forhåndskonfigurerte materialer. 
 
-### First row seats
+### Forseter
 
 Det er two setetyper du kan velge mellom for første rad i Volkswagen ID. Buzz Pro LWB. 
 
@@ -142,7 +142,7 @@ Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgj
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 
-### Third-row seats
+### Seter på tredje rad
 
 
 
