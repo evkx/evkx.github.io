@@ -8,6 +8,30 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Fully Charged Show: Volvo EX30: The Budget Baby Polestar! 06.11.2023
+
+{{< youtube 3MDZmQy_6U8 >}}
+
+### Fully Charged Show: Volvo EX30: The Budget Baby Polestar! 06.11.2023
+
+{{< youtube 3MDZmQy_6U8 >}}
+
+### carwow: Volvo EX30 review - cheapest, quickest & BEST! 06.11.2023
+
+{{< youtube 5umdHj0o1B8 >}}
+
+### AutoTrader: New Volvo EX30 Review: Fab or Flawed? 06.11.2023
+
+{{< youtube w5IffpLajrE >}}
+
+### Autogefühl: The Volvo EX30 driving REVIEW is a surprise in many aspects! 06.11.2023
+
+{{< youtube OeGInZFuFvs >}}
+
+### Electrifying: FIRST DRIVE: Volvo EX30: the best small electric car IN THE WORLD? 06.11.2023
+
+{{< youtube ayjTqQ6fY_E >}}
+
 ### Out of Spec Reviews: Full Tour Of The Volvo EX30! Incredible Price, Technology, & Performance In This Small Electric SUV 07.06.2023
 
 {{< youtube 1DhfvedR0CQ >}}

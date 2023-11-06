@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Xpeng G9 Performance 1000 km challenge 06.11.2023
+
+{{< youtube 5EyQytIyED4 >}}
+
 ### Bjørn Nyland: Xpeng G9 Performance range test 05.11.2023
 
 {{< youtube oBZ8KJVVxn8 >}}
