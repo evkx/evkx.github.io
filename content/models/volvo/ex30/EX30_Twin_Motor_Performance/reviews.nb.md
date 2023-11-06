@@ -12,10 +12,6 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube 3MDZmQy_6U8 >}}
 
-### Fully Charged Show: Volvo EX30: The Budget Baby Polestar! 06.11.2023
-
-{{< youtube 3MDZmQy_6U8 >}}
-
 ### carwow: Volvo EX30 review - cheapest, quickest & BEST! 06.11.2023
 
 {{< youtube 5umdHj0o1B8 >}}
