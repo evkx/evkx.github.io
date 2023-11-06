@@ -72,7 +72,7 @@ I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 20 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate). 
 
-Du kan velge mellom to typer tak på denne modellen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som beboerne kan bruke for å beskytte mot solen.
+Du kan velge mellom to typer tak på denne modellen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/exterior_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250"  >}}
@@ -198,9 +198,9 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 318 liter. Med baksetet nede er det 904 liter. På taket kan du laste opptil 75kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 7 liter. Maksimumsvekten til bilen er 2520kg, og med basisvekten på 1830 kg kan du maksimalt laste 690 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 318 liter. Med baksetet nede er det 904 liter. På taket kan du laste opptil 75kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 7 liter. Maksimumsvekten til bilen er 480kg, og med basisvekten på 1755 kg kan du maksimalt laste -1275 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1600, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1400, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/trunk_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2251"  >}}

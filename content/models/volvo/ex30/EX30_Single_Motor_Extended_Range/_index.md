@@ -72,7 +72,7 @@ Additionally, you can choose between 2 wheels with sizes from 18 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). 
 
-You can choose between two types of roofs on this model. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
+You can choose between two types of roofs on this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/exterior_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250"  >}}
@@ -198,9 +198,9 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 318 liters. With the rear seat down, it is 904 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 7 liters. The maxium weight of the car is 2520kg, and with the base weight of 1830 kg, you can max load 690 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 318 liters. With the rear seat down, it is 904 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 7 liters. The maxium weight of the car is 480kg, and with the base weight of 1755 kg, you can max load -1275 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1400, and on unbraked, it is 750kg. 
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/trunk_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2251"  >}}
