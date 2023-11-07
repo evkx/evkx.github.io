@@ -59,7 +59,7 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 
 ## Drivverk
 
-Tesla Model 3 Long Range (GEN1) har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bakakselen. 
+Tesla Model 3 Long Range (GEN1) har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen. 
 
 standard-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 167 mm. 
 

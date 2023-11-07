@@ -63,9 +63,9 @@ BMW i5 eDrive40 har et bakhjulsdriftssystem støttet av en motor på bakakselen.
 
 Adaptive M Suspension-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 144 mm. 
 
-Du kan bestille BMW i5 eDrive40 med en alternativ M Sport Suspension suspensjon. Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. 
+Du kan bestille BMW i5 eDrive40 med en alternativ M Sport Suspension suspensjon. Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. 
 
-Du kan bestille BMW i5 eDrive40 med en alternativ Adaptives suspension professional suspensjon. Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med denne fjæringen er 140 mm. 
+Du kan bestille BMW i5 eDrive40 med en alternativ Adaptives suspension professional suspensjon. Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med denne fjæringen er 140 mm. 
 
 ### Styring
 
