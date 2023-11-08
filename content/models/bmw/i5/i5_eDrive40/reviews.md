@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Norsk elbilforening: Test av BMW i5 - perfeksjonisme 08.11.2023
+
+{{< youtube jD6tbUAGXpM >}}
+
 ### Electrifying: FIRST UK DRIVE: BMW i5: The Ultimate Electric Driving Machine? 23.10.2023
 
 {{< youtube ltozoZrMEaU >}}
