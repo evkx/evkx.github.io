@@ -57,7 +57,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Kia EV9 Long Range AWD has an all-wheel drive system supported by two motors, one on each axle. 
 
-
+The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm. 
 
 ### Brakes
 
@@ -221,7 +221,7 @@ With the   level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1260 liters. On the roof, you can load up to 80kg. Under the hood, there is frunk with more storage room. This frunk is 20 liters. The maxium weight of the car is 2530kg, and with the base weight of 2015 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2500, and on unbraked, it is 750kg. 
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/trunk_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}

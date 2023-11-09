@@ -15,25 +15,25 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>72,4 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>72,4 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>70,5 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>70,5 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>109,0 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>109,0 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>131,8 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>131,8 kW</td>
 </tr>
 <tr>
-<td>Optimum charging area</td><td>5% - 50%</td>
+<td>Optimalt ladeområde</td><td>5% - 50%</td>
 </tr>
 <tr>
-<td>Optimum charging speed included 5 minutes loss</td><td>132,1kW</td>
+<td>Optimal ladehastighet inkludert 5 minutters tap</td><td>132,1kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>15m20s</td>
+<td>Optimal ladestopptid</td><td>15m20s</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +48,7 @@ Tesla Model X Standard Range har batterioppvarming, noe som gjør lading ved en 
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
 <tbody>
 <tr>

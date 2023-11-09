@@ -15,25 +15,25 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>113,2 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>113,2 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>122,5 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>122,5 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>176,3 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>176,3 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>206,7 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>206,7 kW</td>
 </tr>
 <tr>
-<td>Optimum charging area</td><td>7% - 60%</td>
+<td>Optimalt ladeområde</td><td>7% - 60%</td>
 </tr>
 <tr>
-<td>Optimum charging speed included 5 minutes loss</td><td>169,0kW</td>
+<td>Optimal ladehastighet inkludert 5 minutters tap</td><td>169,0kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>18m36s</td>
+<td>Optimal ladestopptid</td><td>18m36s</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +48,7 @@ XPENG G9 AWD Performance har batterioppvarming, noe som gjør lading ved en opti
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
 <tbody>
 <tr>

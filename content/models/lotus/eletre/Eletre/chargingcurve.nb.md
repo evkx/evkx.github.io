@@ -15,25 +15,25 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>130,5 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>130,5 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>124,3 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>124,3 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>179,0 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>179,0 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>229,6 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>229,6 kW</td>
 </tr>
 <tr>
-<td>Optimum charging area</td><td>1% - 68%</td>
+<td>Optimalt ladeområde</td><td>1% - 68%</td>
 </tr>
 <tr>
-<td>Optimum charging speed included 5 minutes loss</td><td>192,7kW</td>
+<td>Optimal ladehastighet inkludert 5 minutters tap</td><td>192,7kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>23m45s</td>
+<td>Optimal ladestopptid</td><td>23m45s</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +48,7 @@ Lotus Eletre har batterioppvarming, noe som gjør lading ved en optimal batterit
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
 <tbody>
 <tr>

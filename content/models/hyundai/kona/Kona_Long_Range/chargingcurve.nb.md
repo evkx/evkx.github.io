@@ -15,25 +15,25 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>54,3 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>54,3 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>53,1 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>53,1 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>68,5 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>68,5 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>74,4 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>74,4 kW</td>
 </tr>
 <tr>
-<td>Optimum charging area</td><td>4% - 60%</td>
+<td>Optimalt ladeområde</td><td>4% - 60%</td>
 </tr>
 <tr>
-<td>Optimum charging speed included 5 minutes loss</td><td>68,1kW</td>
+<td>Optimal ladehastighet inkludert 5 minutters tap</td><td>68,1kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>32m16s</td>
+<td>Optimal ladestopptid</td><td>32m16s</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +48,7 @@ Hyundai Kona Long Range har batterioppvarming, noe som gjør lading ved en optim
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
 <tbody>
 <tr>

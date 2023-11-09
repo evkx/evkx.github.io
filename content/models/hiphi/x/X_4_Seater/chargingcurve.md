@@ -18,13 +18,13 @@ navicon: bi-battery-charging
 <td>Average charging speed 0 - 100% </td><td>73,5 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>71,5 kW</td>
+<td>Average charging speed 10-100%</td><td>71,5 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>88,7 kW</td>
+<td>Average charging speed 10-90%</td><td>88,7 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>100,5 kW</td>
+<td>Average charging speed 10-80%</td><td>100,5 kW</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>4% - 51%</td>
@@ -33,7 +33,7 @@ navicon: bi-battery-charging
 <td>Optimum charging speed included 5 minutes loss</td><td>100,2kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>27m19s</td>
+<td>Optimum charge stop time</td><td>27m19s</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +48,7 @@ HiPhi X 4 Seater have battery heating, making charging at an optimum battery tem
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Speed</th><th>Time</th><th>Energy charged</th></tr>
 </thead>
 <tbody>
 <tr>

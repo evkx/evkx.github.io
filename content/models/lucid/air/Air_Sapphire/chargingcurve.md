@@ -18,13 +18,13 @@ navicon: bi-battery-charging
 <td>Average charging speed 0 - 100% </td><td>90,7 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>84,6 kW</td>
+<td>Average charging speed 10-100%</td><td>84,6 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>130,1 kW</td>
+<td>Average charging speed 10-90%</td><td>130,1 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>150,1 kW</td>
+<td>Average charging speed 10-80%</td><td>150,1 kW</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>1% - 46%</td>
@@ -33,7 +33,7 @@ navicon: bi-battery-charging
 <td>Optimum charging speed included 5 minutes loss</td><td>174,3kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>18m7s</td>
+<td>Optimum charge stop time</td><td>18m7s</td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +45,7 @@ The above charging curve is at optimum conditions. However, cold or hot temperat
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Speed</th><th>Time</th><th>Energy charged</th></tr>
 </thead>
 <tbody>
 <tr>

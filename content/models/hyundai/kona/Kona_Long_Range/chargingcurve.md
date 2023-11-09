@@ -18,13 +18,13 @@ navicon: bi-battery-charging
 <td>Average charging speed 0 - 100% </td><td>54,3 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>53,1 kW</td>
+<td>Average charging speed 10-100%</td><td>53,1 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>68,5 kW</td>
+<td>Average charging speed 10-90%</td><td>68,5 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>74,4 kW</td>
+<td>Average charging speed 10-80%</td><td>74,4 kW</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>4% - 60%</td>
@@ -33,7 +33,7 @@ navicon: bi-battery-charging
 <td>Optimum charging speed included 5 minutes loss</td><td>68,1kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>32m16s</td>
+<td>Optimum charge stop time</td><td>32m16s</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +48,7 @@ Hyundai Kona Long Range have battery heating, making charging at an optimum batt
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Speed</th><th>Time</th><th>Energy charged</th></tr>
 </thead>
 <tbody>
 <tr>

@@ -86,7 +86,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </thead>
 <tbody>
 <tr><td>Adaptiv fjæring</td><td>Not available</td></tr>
-<tr><td>Justerbar demping foran</td><td>Yes, standard equipment</td></tr>
+<tr><td>Justerbar demping foran</td><td>Not available</td></tr>
 <tr><td>Justerbar demping bak</td><td>Not available</td></tr>
 <tr><td>Justerbar høyde foran</td><td>Not available</td></tr>
 <tr><td>Justerbar høyde bak</td><td>Not available</td></tr>

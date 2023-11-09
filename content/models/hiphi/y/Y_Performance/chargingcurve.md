@@ -18,13 +18,13 @@ navicon: bi-battery-charging
 <td>Average charging speed 0 - 100% </td><td>72,3 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>70,2 kW</td>
+<td>Average charging speed 10-100%</td><td>70,2 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>86,6 kW</td>
+<td>Average charging speed 10-90%</td><td>86,6 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>97,3 kW</td>
+<td>Average charging speed 10-80%</td><td>97,3 kW</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>4% - 49%</td>
@@ -33,7 +33,7 @@ navicon: bi-battery-charging
 <td>Optimum charging speed included 5 minutes loss</td><td>98,3kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>30m56s</td>
+<td>Optimum charge stop time</td><td>30m56s</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +48,7 @@ HiPhi Y Performance have battery heating, making charging at an optimum battery 
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Speed</th><th>Time</th><th>Energy charged</th></tr>
 </thead>
 <tbody>
 <tr>

@@ -15,25 +15,25 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>68,4 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>68,4 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>66,8 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>66,8 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>86,9 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>86,9 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>105,0 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>105,0 kW</td>
 </tr>
 <tr>
-<td>Optimum charging area</td><td>3% - 61%</td>
+<td>Optimalt ladeområde</td><td>3% - 61%</td>
 </tr>
 <tr>
-<td>Optimum charging speed included 5 minutes loss</td><td>93,5kW</td>
+<td>Optimal ladehastighet inkludert 5 minutters tap</td><td>93,5kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>19m54s</td>
+<td>Optimal ladestopptid</td><td>19m54s</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +48,7 @@ MG MG4 Electric Standard har batterioppvarming, noe som gjør lading ved en opti
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
 <tbody>
 <tr>

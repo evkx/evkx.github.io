@@ -19,25 +19,25 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>72,5 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>72,5 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>68,9 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>68,9 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>87,7 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>87,7 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>101,2 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>101,2 kW</td>
 </tr>
 <tr>
-<td>Optimum charging area</td><td>2% - 50%</td>
+<td>Optimalt ladeområde</td><td>2% - 50%</td>
 </tr>
 <tr>
-<td>Optimum charging speed included 5 minutes loss</td><td>100,5kW</td>
+<td>Optimal ladehastighet inkludert 5 minutters tap</td><td>100,5kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>16m28s</td>
+<td>Optimal ladestopptid</td><td>16m28s</td>
 </tr>
 </tbody>
 </table>
@@ -52,7 +52,7 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
 <tbody>
 <tr>
@@ -371,25 +371,25 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>48,9 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>48,9 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>45,2 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>45,2 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>65,4 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>65,4 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>70,4 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>70,4 kW</td>
 </tr>
 <tr>
-<td>Optimum charging area</td><td>0% - 36%</td>
+<td>Optimalt ladeområde</td><td>0% - 36%</td>
 </tr>
 <tr>
-<td>Optimum charging speed included 5 minutes loss</td><td>82,2kW</td>
+<td>Optimal ladehastighet inkludert 5 minutters tap</td><td>82,2kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>18m60s</td>
+<td>Optimal ladestopptid</td><td>18m60s</td>
 </tr>
 </tbody>
 </table>
@@ -404,7 +404,7 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
 <tbody>
 <tr>

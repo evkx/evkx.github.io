@@ -18,13 +18,13 @@ navicon: bi-battery-charging
 <td>Average charging speed 0 - 100% </td><td>44,3 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>42,1 kW</td>
+<td>Average charging speed 10-100%</td><td>42,1 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>78,7 kW</td>
+<td>Average charging speed 10-90%</td><td>78,7 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>96,4 kW</td>
+<td>Average charging speed 10-80%</td><td>96,4 kW</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>3% - 58%</td>
@@ -33,7 +33,7 @@ navicon: bi-battery-charging
 <td>Optimum charging speed included 5 minutes loss</td><td>100,0kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>25m33s</td>
+<td>Optimum charge stop time</td><td>25m33s</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +48,7 @@ MG MG4 Electric Extended Range have battery heating, making charging at an optim
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Speed</th><th>Time</th><th>Energy charged</th></tr>
 </thead>
 <tbody>
 <tr>

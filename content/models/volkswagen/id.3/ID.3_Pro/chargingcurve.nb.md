@@ -15,25 +15,25 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>55,4 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>55,4 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>52,4 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>52,4 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>63,9 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>63,9 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>71,3 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>71,3 kW</td>
 </tr>
 <tr>
-<td>Optimum charging area</td><td>0% - 43%</td>
+<td>Optimalt ladeområde</td><td>0% - 43%</td>
 </tr>
 <tr>
-<td>Optimum charging speed included 5 minutes loss</td><td>76,9kW</td>
+<td>Optimal ladehastighet inkludert 5 minutters tap</td><td>76,9kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>19m28s</td>
+<td>Optimal ladestopptid</td><td>19m28s</td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +45,7 @@ Ladekurven ovenfor er under optimale forhold. Imidlertid kan kalde eller varme t
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
 <tbody>
 <tr>

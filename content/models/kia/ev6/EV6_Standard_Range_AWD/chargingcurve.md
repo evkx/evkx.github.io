@@ -18,13 +18,13 @@ navicon: bi-battery-charging
 <td>Average charging speed 0 - 100% </td><td>76,8 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>75,6 kW</td>
+<td>Average charging speed 10-100%</td><td>75,6 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>111,5 kW</td>
+<td>Average charging speed 10-90%</td><td>111,5 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>132,2 kW</td>
+<td>Average charging speed 10-80%</td><td>132,2 kW</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>4% - 67%</td>
@@ -33,7 +33,7 @@ navicon: bi-battery-charging
 <td>Optimum charging speed included 5 minutes loss</td><td>108,9kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>19m45s</td>
+<td>Optimum charge stop time</td><td>19m45s</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +48,7 @@ Kia EV6 Standard Range AWD have battery heating, making charging at an optimum b
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Speed</th><th>Time</th><th>Energy charged</th></tr>
 </thead>
 <tbody>
 <tr>

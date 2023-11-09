@@ -86,7 +86,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </thead>
 <tbody>
 <tr><td>Adaptive suspension</td><td>Not available</td></tr>
-<tr><td>Adjustable damping front</td><td>Yes, standard equipment</td></tr>
+<tr><td>Adjustable damping front</td><td>Not available</td></tr>
 <tr><td>Adjustable damping rear</td><td>Not available</td></tr>
 <tr><td>Adjustable height front</td><td>Not available</td></tr>
 <tr><td>Adjustable height rear</td><td>Not available</td></tr>

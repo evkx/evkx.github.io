@@ -18,13 +18,13 @@ navicon: bi-battery-charging
 <td>Average charging speed 0 - 100% </td><td>46,9 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100% </td><td>44,9 kW</td>
+<td>Average charging speed 10-100%</td><td>44,9 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90% </td><td>61,0 kW</td>
+<td>Average charging speed 10-90%</td><td>61,0 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80% </td><td>71,4 kW</td>
+<td>Average charging speed 10-80%</td><td>71,4 kW</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>2% - 50%</td>
@@ -33,7 +33,7 @@ navicon: bi-battery-charging
 <td>Optimum charging speed included 5 minutes loss</td><td>77,8kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time </td><td>21m27s</td>
+<td>Optimum charge stop time</td><td>21m27s</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +48,7 @@ Toyota bZ4X AWD have battery heating, making charging at an optimum battery temp
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>SPEED</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Speed</th><th>Time</th><th>Energy charged</th></tr>
 </thead>
 <tbody>
 <tr>
