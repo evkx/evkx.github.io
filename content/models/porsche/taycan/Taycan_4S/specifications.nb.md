@@ -12,28 +12,28 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan 4S. 
 
 ## Ytelse
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Topp elektrisk effekt i kW</td><td>320 Kw</td></tr>
-<tr><td>Topp forøkning av elektrisk effekt i kW</td><td>390 Kw</td></tr>
-<tr><td>Elektrisk dreiemomentøkning i Nm</td><td>640 Nm</td></tr>
+<tr><td>Maks effekt i kW</td><td>320 Kw</td></tr>
+<tr><td>Maks effekt med over boost i kW</td><td>390 Kw</td></tr>
+<tr><td>Dreiemoment med boost i Nm</td><td>640 Nm</td></tr>
 <tr><td>Topphastighet</td><td>230 km/h</td></tr>
 <tr><td>0-100 km/t (0-62 mph)</td><td>4 s</td></tr>
 </tbody>
 </table>
 
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Topp elektrisk effekt i kW</td><td>320 Kw</td></tr>
-<tr><td>Topp forøkning av elektrisk effekt i kW</td><td>420 Kw</td></tr>
-<tr><td>Elektrisk dreiemomentøkning i Nm</td><td>650 Nm</td></tr>
+<tr><td>Maks effekt i kW</td><td>320 Kw</td></tr>
+<tr><td>Maks effekt med over boost i kW</td><td>420 Kw</td></tr>
+<tr><td>Dreiemoment med boost i Nm</td><td>650 Nm</td></tr>
 <tr><td>Topphastighet</td><td>250 km/h</td></tr>
 <tr><td>0-100 km/t (0-62 mph)</td><td>4 s</td></tr>
 </tbody>
@@ -44,7 +44,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan 4S. 
 ## Rekkevidde og forbruk
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -59,7 +59,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </table>
 
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -77,7 +77,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Batteri og lading
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -93,7 +93,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </table>
 
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -112,7 +112,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Dimensjoner
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -138,7 +138,7 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ### Standard
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -159,7 +159,7 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ### Adaptive Air Suspension
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -187,7 +187,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### Comfort
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -212,7 +212,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### Comfortseats with memory
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -237,7 +237,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### Sportsseats Plus
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -265,7 +265,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### Standard
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -287,7 +287,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### 2+1
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -309,7 +309,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Sjåførassistanse
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -344,7 +344,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Infotainment
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -358,7 +358,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Porsche Sound system
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -371,7 +371,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ###  BOSE® Surround Sound System
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -384,7 +384,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ###  Burmester® 3D High-End Surround Sound System
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>

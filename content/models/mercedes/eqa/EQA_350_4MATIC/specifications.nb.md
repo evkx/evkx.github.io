@@ -12,13 +12,13 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQA 350
 
 ## Ytelse
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Topp elektrisk effekt i kW</td><td>215 Kw</td></tr>
-<tr><td>Elektrisk dreiemomentutgang i Nm</td><td>520 Nm</td></tr>
+<tr><td>Maks effekt i kW</td><td>215 Kw</td></tr>
+<tr><td>Dreiemoment i Nm</td><td>520 Nm</td></tr>
 <tr><td>Topphastighet</td><td>160 km/h</td></tr>
 <tr><td>0-100 km/t (0-62 mph)</td><td>6 s</td></tr>
 </tbody>
@@ -29,7 +29,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQA 350
 ## Rekkevidde og forbruk
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -47,7 +47,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Batteri og lading
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -64,7 +64,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Dimensjoner
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -82,7 +82,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Suspensjon
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -108,7 +108,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### standard
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -133,7 +133,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### multicontour
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -161,7 +161,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### standard
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -183,7 +183,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Sjåførassistanse
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -218,7 +218,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Infotainment
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -232,7 +232,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Standard
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -245,7 +245,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Advanced Soundsystem
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>

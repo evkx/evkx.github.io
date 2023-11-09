@@ -12,7 +12,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 6 Long
 
 ## Performance
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -29,7 +29,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 6 Long
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -47,7 +47,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Battery & Charging
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -64,7 +64,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Dimensions
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -105,7 +105,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ### Front seats
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -130,7 +130,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ### Front seats
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -152,7 +152,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Driver Assistance
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -187,7 +187,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Infotainment
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>

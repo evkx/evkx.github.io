@@ -12,7 +12,7 @@ EVKX.net seeks to have the most complete specifications for SKODA Enyaq iV80x. C
 
 ## Performance
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -29,7 +29,7 @@ EVKX.net seeks to have the most complete specifications for SKODA Enyaq iV80x. C
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -44,7 +44,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Battery & Charging
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -62,7 +62,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Dimensions
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -87,7 +87,7 @@ The model offers 2 suspension variants
 
 ### standard
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -106,7 +106,7 @@ The model offers 2 suspension variants
 
 ### sport
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -132,7 +132,7 @@ This model is available with a seat configuration with five seats.
 
 #### standard
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -157,7 +157,7 @@ This model is available with a seat configuration with five seats.
 
 #### Sport
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -185,7 +185,7 @@ This model is available with a seat configuration with five seats.
 
 #### standard
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -207,7 +207,7 @@ This model is available with a seat configuration with five seats.
 
 ## Driver Assistance
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -242,7 +242,7 @@ This model is available with a seat configuration with five seats.
 
 ## Infotainment
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -256,7 +256,7 @@ This model is available with a seat configuration with five seats.
 
 ### Sound system
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -269,7 +269,7 @@ This model is available with a seat configuration with five seats.
 
 ### Canton Soundsystem
 
-<table class="table-striped">
+<table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
