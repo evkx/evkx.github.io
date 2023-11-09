@@ -10,7 +10,10 @@ weight: 3
 
 {{< sitefiguresized thumb="guides/evreviewers/bjornyland_st.jpg" width="679" height="383" title="Bjørn Nyland" >}}
 
-Bjørn Nyland is a Norwegian electric vehicle enthusiast and YouTuber who has gained a following for his long-distance tests of electric vehicles. He is known for his thorough and objective reviews of EVs, often testing them in extreme conditions and documenting his experiences in videos that are informative and entertaining.
+Bjørn Nyland is a Norwegian electric vehicle enthusiast and YouTuber who has gained a following for his long-distance tests of electric vehicles. He runs his channel from [Jessheim, Norway](https://www.google.com/maps/@60.1299626,11.1744069,783m/data=!3m1!1e3?entry=ttu) 
+where he lives with his familiy close to the highway always ready for EV testing.
+
+He is known for his thorough and objective reviews of EVs, often testing them in extreme conditions and documenting his experiences in videos that are informative and entertaining.
 
 Bjørn has been interested in electric vehicles since 2011, when he started driving a converted electric Citroën Berlingo. In 2019 he set the [world record](https://www.youtube.com/watch?v=R-2Yj-uVeB0)  for the longest distance driven in an electric vehicle in 24 hours. He has owned and tested numerous other electric vehicles, including the Tesla Model S, Model X, Model 3, and Model Y, as well as the Audi e-tron, Hyundai Kona Electric, and many others.
 
