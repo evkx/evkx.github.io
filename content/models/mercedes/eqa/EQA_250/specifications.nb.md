@@ -52,8 +52,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Bruto batteri</td><td>69,7 kWh</td></tr>
-<tr><td>Batterinett</td><td>66,5 kWh</td></tr>
+<tr><td>Brutto batteristørrelse</td><td>69,7 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>66,5 kWh</td></tr>
 <tr><td>Maks DC-lading</td><td>112 kW</td></tr>
 <tr><td>Pakkekonfigurasjon</td><td>100s3p</td></tr>
 <tr><td>Nominell spenning</td><td>367</td></tr>

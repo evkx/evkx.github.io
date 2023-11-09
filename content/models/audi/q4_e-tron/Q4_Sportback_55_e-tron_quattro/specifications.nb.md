@@ -55,8 +55,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Bruto batteri</td><td>82 kWh</td></tr>
-<tr><td>Batterinett</td><td>76,6 kWh</td></tr>
+<tr><td>Brutto batteristørrelse</td><td>82 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>76,6 kWh</td></tr>
 <tr><td>Maks DC-lading</td><td>170 kW</td></tr>
 <tr><td>Antall moduler</td><td>12</td></tr>
 <tr><td>Pakkekonfigurasjon</td><td>96s3p</td></tr>

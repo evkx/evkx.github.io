@@ -49,8 +49,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Bruto batteri</td><td>85,4 kWh</td></tr>
-<tr><td>Batterinett</td><td>82,5 kWh</td></tr>
+<tr><td>Brutto batteristørrelse</td><td>85,4 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>82,5 kWh</td></tr>
 <tr><td>Maks DC-lading</td><td>150 kW</td></tr>
 <tr><td>Pakkekonfigurasjon</td><td>178s1p</td></tr>
 <tr><td>Nominell spenning</td><td>569</td></tr>

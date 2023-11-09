@@ -52,8 +52,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Bruto batteri</td><td>80 kWh</td></tr>
-<tr><td>Batterinett</td><td>74 kWh</td></tr>
+<tr><td>Brutto batteristørrelse</td><td>80 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>74 kWh</td></tr>
 <tr><td>Nominell spenning</td><td>400</td></tr>
 </tbody>
 </table>

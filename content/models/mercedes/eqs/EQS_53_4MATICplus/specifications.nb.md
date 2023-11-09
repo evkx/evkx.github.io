@@ -65,8 +65,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Bruto batteri</td><td>120 kWh</td></tr>
-<tr><td>Batterinett</td><td>107,8 kWh</td></tr>
+<tr><td>Brutto batteristørrelse</td><td>120 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>107,8 kWh</td></tr>
 <tr><td>Maks DC-lading</td><td>210 kW</td></tr>
 <tr><td>Pakkekonfigurasjon</td><td>108s4p</td></tr>
 <tr><td>Nominell spenning</td><td>396</td></tr>

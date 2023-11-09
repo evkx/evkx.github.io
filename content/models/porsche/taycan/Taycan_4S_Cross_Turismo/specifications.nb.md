@@ -53,8 +53,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Bruto batteri</td><td>93,4 kWh</td></tr>
-<tr><td>Batterinett</td><td>83,7 kWh</td></tr>
+<tr><td>Brutto batteristørrelse</td><td>93,4 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>83,7 kWh</td></tr>
 <tr><td>Maks DC-lading</td><td>270 kW</td></tr>
 <tr><td>Antall moduler</td><td>33</td></tr>
 <tr><td>Pakkekonfigurasjon</td><td>198s2p</td></tr>

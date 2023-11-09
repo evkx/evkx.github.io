@@ -49,8 +49,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Bruto batteri</td><td>111 kWh</td></tr>
-<tr><td>Batterinett</td><td>107 kWh</td></tr>
+<tr><td>Brutto batteristørrelse</td><td>111 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>107 kWh</td></tr>
 <tr><td>Maks DC-lading</td><td>250 kW</td></tr>
 <tr><td>Antall moduler</td><td>17</td></tr>
 <tr><td>Pakkekonfigurasjon</td><td>102s2p</td></tr>

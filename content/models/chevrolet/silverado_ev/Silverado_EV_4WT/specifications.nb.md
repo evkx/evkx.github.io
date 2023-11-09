@@ -46,8 +46,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Bruto batteri</td><td>220 kWh</td></tr>
-<tr><td>Batterinett</td><td>213 kWh</td></tr>
+<tr><td>Brutto batteristørrelse</td><td>220 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>213 kWh</td></tr>
 <tr><td>Maks DC-lading</td><td>350 kW</td></tr>
 <tr><td>Antall moduler</td><td>24</td></tr>
 <tr><td>Nominell spenning</td><td>650</td></tr>

@@ -46,8 +46,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Bruto batteri</td><td>150 kWh</td></tr>
-<tr><td>Batterinett</td><td>131 kWh</td></tr>
+<tr><td>Brutto batteristørrelse</td><td>150 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>131 kWh</td></tr>
 <tr><td>Maks DC-lading</td><td>155 kW</td></tr>
 <tr><td>Pakkekonfigurasjon</td><td>96s2p</td></tr>
 <tr><td>Katodematerialer</td><td>NMC</td></tr>

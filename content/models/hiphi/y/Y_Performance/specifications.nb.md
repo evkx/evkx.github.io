@@ -47,8 +47,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Bruto batteri</td><td>115 kWh</td></tr>
-<tr><td>Batterinett</td><td>109 kWh</td></tr>
+<tr><td>Brutto batteristørrelse</td><td>115 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>109 kWh</td></tr>
 <tr><td>Katodematerialer</td><td>nmc811</td></tr>
 </tbody>
 </table>

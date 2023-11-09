@@ -52,8 +52,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Bruto batteri</td><td>112 kWh</td></tr>
-<tr><td>Batterinett</td><td>109 kWh</td></tr>
+<tr><td>Brutto batteristørrelse</td><td>112 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>109 kWh</td></tr>
 <tr><td>Maks DC-lading</td><td>350 kW</td></tr>
 </tbody>
 </table>
