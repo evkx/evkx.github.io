@@ -12,7 +12,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID. Buzz
 
 ## Ytelse
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -28,8 +28,8 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID. Buzz
 
 ## Rekkevidde og forbruk
 
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../.. /../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<table class="table">
+Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -37,9 +37,9 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>WLTP-område for grunnleggende trim</td><td>461 km</td></tr>
 <tr><td>Basic trim WLTP-forbruk</td><td>18,4 kWh/100km</td></tr>
 <tr><td>Basic trim WLTP-forbruk med ladetap</td><td>20,8 kWh/100km</td></tr>
-<tr><td>Topptrim WLTP-område</td><td>452 km</td></tr>
-<tr><td>Topptrim WLTP-forbruk</td><td>18,8 kWh/100km</td></tr>
-<tr><td>Topptrim WLTP-forbruk med ladetap</td><td>21,7 kwh/100km</td></tr>
+<tr><td>Topputstyrt WLTP-rekkevidde</td><td>452 km</td></tr>
+<tr><td>Topputstyrt WLTP-forbruk</td><td>18,8 kWh/100km</td></tr>
+<tr><td>Topputstyrt WLTP-forbruk med ladetap</td><td>21,7 kwh/100km</td></tr>
 </tbody>
 </table>
 
@@ -47,7 +47,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Batteri og lading
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -65,7 +65,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Dimensjoner
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -84,7 +84,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Suspensjon
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -109,7 +109,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 #### standard
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -134,7 +134,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 #### comfort
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -162,7 +162,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 #### optional
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -181,7 +181,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
 </tbody>
 </table>
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -203,7 +203,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Sjåførassistanse
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -238,7 +238,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Infotainment
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>

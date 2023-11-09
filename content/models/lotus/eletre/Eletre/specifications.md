@@ -12,7 +12,7 @@ EVKX.net seeks to have the most complete specifications for Lotus Eletre. Click 
 
 ## Performance
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -29,7 +29,7 @@ EVKX.net seeks to have the most complete specifications for Lotus Eletre. Click 
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -47,7 +47,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Battery & Charging
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -62,7 +62,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Dimensions
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -79,7 +79,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -107,7 +107,7 @@ This model is available with a seat configuration with five seats.
 
 #### standard
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -135,7 +135,7 @@ This model is available with a seat configuration with five seats.
 
 #### standard
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -157,7 +157,7 @@ This model is available with a seat configuration with five seats.
 
 ## Driver Assistance
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -192,7 +192,7 @@ This model is available with a seat configuration with five seats.
 
 ## Infotainment
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -206,7 +206,7 @@ This model is available with a seat configuration with five seats.
 
 ### KEF Premium Audio system
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -218,7 +218,7 @@ This model is available with a seat configuration with five seats.
 
 ### KEF Reference Audio system
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>

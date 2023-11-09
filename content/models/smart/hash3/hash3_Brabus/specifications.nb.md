@@ -12,7 +12,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Smart #3 Brabus. Kl
 
 ## Ytelse
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -28,13 +28,13 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Smart #3 Brabus. Kl
 
 ## Rekkevidde og forbruk
 
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../.. /../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<table class="table">
+Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>WLTP-område</td><td>415 km</td></tr>
+<tr><td>WLTP-rekkevidde</td><td>415 km</td></tr>
 <tr><td>WLTP-forbruk</td><td>14,9 kWh/100km</td></tr>
 <tr><td>WLTP-forbruk med ladetap</td><td>18,3 kWh/100km</td></tr>
 </tbody>
@@ -44,7 +44,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Batteri og lading
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -60,7 +60,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Dimensjoner
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -78,7 +78,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Suspensjon
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -103,7 +103,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Forseter
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -128,7 +128,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Forseter
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -150,7 +150,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Sjåførassistanse
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -185,7 +185,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Infotainment
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>

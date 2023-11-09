@@ -12,7 +12,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.7 Pro
 
 ## Ytelse
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -28,8 +28,8 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.7 Pro
 
 ## Rekkevidde og forbruk
 
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../.. /../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<table class="table">
+Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -37,9 +37,9 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>WLTP-område for grunnleggende trim</td><td>615 km</td></tr>
 <tr><td>Basic trim WLTP-forbruk</td><td>12,5 kWh/100km</td></tr>
 <tr><td>Basic trim WLTP-forbruk med ladetap</td><td>17,9 kWh/100km</td></tr>
-<tr><td>Topptrim WLTP-område</td><td>550 km</td></tr>
-<tr><td>Topptrim WLTP-forbruk</td><td>14,0 kWh/100km</td></tr>
-<tr><td>Topptrim WLTP-forbruk med ladetap</td><td>21,4 kwh/100km</td></tr>
+<tr><td>Topputstyrt WLTP-rekkevidde</td><td>550 km</td></tr>
+<tr><td>Topputstyrt WLTP-forbruk</td><td>14,0 kWh/100km</td></tr>
+<tr><td>Topputstyrt WLTP-forbruk med ladetap</td><td>21,4 kwh/100km</td></tr>
 </tbody>
 </table>
 
@@ -47,7 +47,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Batteri og lading
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -65,7 +65,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Dimensjoner
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -85,7 +85,7 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ### standard
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -104,7 +104,7 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ### sport
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -130,7 +130,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### standard
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -155,7 +155,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### ergoActive Top-Sport
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -183,7 +183,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### optional
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -205,7 +205,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Sjåførassistanse
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -240,7 +240,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Infotainment
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -254,7 +254,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Sound system
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
@@ -267,7 +267,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Volkswagen Soundsystem
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>

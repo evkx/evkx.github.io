@@ -12,7 +12,7 @@ EVKX.net seeks to have the most complete specifications for Nio ES8. Click on im
 
 ## Performance
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -29,7 +29,7 @@ EVKX.net seeks to have the most complete specifications for Nio ES8. Click on im
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -41,7 +41,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </table>
 
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -56,7 +56,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Battery & Charging
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -70,7 +70,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </table>
 
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -87,7 +87,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Dimensions
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -104,7 +104,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -131,7 +131,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 #### standard
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -159,7 +159,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 #### standard
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -181,7 +181,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 #### standard
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -203,7 +203,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Driver Assistance
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -238,7 +238,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Infotainment
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -252,7 +252,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ### Surroundsystem
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
@@ -264,7 +264,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ### Premium sound system
 
-<table class="table">
+<table class="table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
