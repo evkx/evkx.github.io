@@ -163,7 +163,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Rolls-Royce Spectre has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 14.9 inches large and has a 2880 x 1080 pixels resolution. 
+The Rolls-Royce Spectre has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen at the top of the center console is 10.1 inches large. 
 
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/screens_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1862"  >}}
@@ -208,16 +208,12 @@ The Rolls-Royce Spectre has [**automatic emergency braking**](../../../../techno
 
 ### Driving Automation
 
-The Rolls-Royce Spectre offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
-
-With the Driving Assistant  level 1 system, you get the following driving automation features. 
-- Cruise control. 
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
-With the Driving Assistant Professional  level 2 system, you get additional driving automation features to the ones listed above. 
+With the Driving Assistant Professional  level 2 system, you get the following driving automation features. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional) 
 
 
 {{<evkxdisplayaddarticle />}}
