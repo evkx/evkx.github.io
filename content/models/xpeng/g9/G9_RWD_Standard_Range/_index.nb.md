@@ -214,7 +214,7 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 660 liter. Med baksetet nede er det 1576 liter. På taket kan du laste opptil 75kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 71 liter. Maksimumsvekten til bilen er 2800kg, og med basisvekten på 2265 kg kan du maksimalt laste 535 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 660 liter. Med baksetet nede er det 1576 liter. På taket kan du laste opptil 75kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 71 liter. Maksimumsvekten til bilen er 2680kg, og med basisvekten på 2255 kg kan du maksimalt laste 425 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.425kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer. 
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1500, og på ubremset er den 750kg. 
 
