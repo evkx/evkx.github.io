@@ -17,7 +17,7 @@ Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, te
 
 Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC slått av. Klikk på lenkene i tabellen for mer detaljer om testprosedyrer. 
 
-<table class="table">
+<table class="table table-striped">
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
@@ -29,7 +29,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 
 Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/varm dag påvirker den offisielle rekkevidden. 
 
-<table class="table">
+<table class="table table-striped">
 <thead>
 <tr><th></th><th>  Range </th><th>Change </th></tr>
 <tbody>
@@ -41,14 +41,14 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 
 Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden i perfekt stand og under forhold som krever luftkondisjonering for å varme eller kjøle ned kjøretøy. 
 
-<table class="table">
+<table class="table table-striped">
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
 <tr><td> 90kmh/56mph perfect condition </td><td> 484km /301mi</td><td> 19 kWh/100km / 3,3 mi/kWh </td></tr>
-<tr><td> 90kmh/56mph with 2KW heating </td><td> 445km /277mi</td><td> 20,7 kWh/100km / 3,0 mi/kWh </td></tr
+<tr><td> 90kmh/56mph with 2KW heating </td><td> 445km /269mi</td><td> 21,2 kWh/100km / 2,9 mi/kWh </td></tr
 <tr><td> 70mph/112kmh perfect condition </td><td> 438km /272mi</td><td> 21 kWh/100km / 3,0 mi/kWh</td></tr>
-<tr><td> 70mph/112kmh with 2KW heating </td><td> 653km /406mi</td><td> 22,7 kWh/100km / 2,7 mi/kWh  </td></tr
+<tr><td> 70mph/112kmh with 2KW heating </td><td> 650km /404mi</td><td> 22,8 kWh/100km / 2,7 mi/kWh  </td></tr
 <tr><td> 120kmh/75mph perfect condition </td><td> 354km /220mi</td><td> 26 kWh/100km / 2,4 mi/kWh </td></tr>
-<tr><td> 120kmh/75mph with 2KW heating </td><td> 536km /333mi</td><td> 27,7 kWh/100km / 2,2 mi/kWh </td></tr
+<tr><td> 120kmh/75mph with 2KW heating </td><td> 333km /207mi</td><td> 27,7 kWh/100km / 2,2 mi/kWh </td></tr
 </tbody></table>

@@ -17,7 +17,7 @@ The range will vary depending on several factors. Like how fast you drive, the t
 
 Below are the officially rated ranges. The tests are performed with the heating/AC turned off. Click on the links in the table for more details about test procedures. 
 
-<table class="table">
+<table class="table table-striped">
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
@@ -29,7 +29,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 
 The table below shows how turning on heating/cooling on a cold/hot day affects the official range. 
 
-<table class="table">
+<table class="table table-striped">
 <thead>
 <tr><th></th><th>  Range </th><th>Change </th></tr>
 <tbody>
@@ -41,12 +41,12 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 
 The table below shows some estimated real-world examples in perfect condition and in conditions needing A/C to heat or cool vehicles. 
 
-<table class="table">
+<table class="table table-striped">
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
 <tr><td> 90kmh/56mph perfect condition </td><td> 644km /400mi</td><td> 14,9 kWh/100km / 4,2 mi/kWh </td></tr>
-<tr><td> 90kmh/56mph with 2KW heating </td><td> 579km /360mi</td><td> 16,6 kWh/100km / 3,7 mi/kWh </td></tr
+<tr><td> 90kmh/56mph with 2KW heating </td><td> 579km /348mi</td><td> 17,1 kWh/100km / 3,6 mi/kWh </td></tr
 <tr><td> 120kmh/75mph perfect condition </td><td> 487km /303mi</td><td> 19,7 kWh/100km / 3,2 mi/kWh </td></tr>
-<tr><td> 120kmh/75mph with 2KW heating </td><td> 723km /449mi</td><td> 21,4 kWh/100km / 2,9 mi/kWh </td></tr
+<tr><td> 120kmh/75mph with 2KW heating </td><td> 449km /279mi</td><td> 21,4 kWh/100km / 2,9 mi/kWh </td></tr
 </tbody></table>

@@ -163,7 +163,7 @@ Du har trådløs lading for telefonen din.
 Volkswagen ID.4 GTX 4MOTION har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor. touch-skjermen i dashbordets sentrum  er 12.9 tommer stor. 
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/screens_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/screens_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="2206"  >}}
 
 
 Et head-up display er an optional-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 

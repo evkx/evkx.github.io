@@ -17,7 +17,7 @@ The range will vary depending on several factors. Like how fast you drive, the t
 
 Below are the officially rated ranges. The tests are performed with the heating/AC turned off. Click on the links in the table for more details about test procedures. 
 
-<table class="table">
+<table class="table table-striped">
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
@@ -31,7 +31,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 
 The table below shows how turning on heating/cooling on a cold/hot day affects the official range. 
 
-<table class="table">
+<table class="table table-striped">
 <thead>
 <tr><th></th><th>  Range </th><th>Change </th></tr>
 <tbody>
@@ -45,14 +45,14 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 
 The table below shows some estimated real-world examples in perfect condition and in conditions needing A/C to heat or cool vehicles. 
 
-<table class="table">
+<table class="table table-striped">
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
 <tr><td> 90kmh/56mph perfect condition </td><td> 807km /501mi</td><td> 14,5 kWh/100km / 4,3 mi/kWh </td></tr>
-<tr><td> 90kmh/56mph with 2KW heating </td><td> 724km /450mi</td><td> 16,2 kWh/100km / 3,8 mi/kWh </td></tr
+<tr><td> 90kmh/56mph with 2KW heating </td><td> 724km /435mi</td><td> 16,7 kWh/100km / 3,7 mi/kWh </td></tr
 <tr><td> 70mph/112kmh perfect condition </td><td> 804km /500mi</td><td> 14,55 kWh/100km / 4,3 mi/kWh</td></tr>
-<tr><td> 70mph/112kmh with 2KW heating </td><td> 1161km /721mi</td><td> 16,2 kWh/100km / 3,8 mi/kWh  </td></tr
+<tr><td> 70mph/112kmh with 2KW heating </td><td> 1153km /716mi</td><td> 16,3 kWh/100km / 3,8 mi/kWh  </td></tr
 <tr><td> 120kmh/75mph perfect condition </td><td> 600km /373mi</td><td> 19,5 kWh/100km / 3,2 mi/kWh </td></tr>
-<tr><td> 120kmh/75mph with 2KW heating </td><td> 890km /553mi</td><td> 21,2 kWh/100km / 2,9 mi/kWh </td></tr
+<tr><td> 120kmh/75mph with 2KW heating </td><td> 553km /344mi</td><td> 21,2 kWh/100km / 2,9 mi/kWh </td></tr
 </tbody></table>
