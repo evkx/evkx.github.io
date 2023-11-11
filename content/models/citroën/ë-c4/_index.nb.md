@@ -11,9 +11,9 @@ weight: 30
 Citroën ë-C4 X er en helelektrisk delefilter med en WLTP rekkevidde på opptil 402 km (250 miles). EVKX.net har alle detaljene. 
 
 - [Citroën ë-C4 X full beskrivelse](ë-c4_x/)
-- [Citroën ë-C4 X rekkevidde & forbruk](ë-c4_x/rangeandconsumption)
-- [Citroën ë-C4 X ladekurve og ladeytelse](ë-c4_x/chargingcurve)
-- [Citroën ë-C4 X spesifikasjoners](ë-c4_x/specifications)
-- [Citroën ë-C4 X galleri](ë-c4_x/gallery)
-- [Citroën ë-C4 X tester](ë-c4_x/reviews)
+- [Citroën ë-C4 X rekkevidde & forbruk](ë-c4_x/rangeandconsumption/)
+- [Citroën ë-C4 X ladekurve og ladeytelse](ë-c4_x/chargingcurve/)
+- [Citroën ë-C4 X spesifikasjoners](ë-c4_x/specifications/)
+- [Citroën ë-C4 X galleri](ë-c4_x/gallery/)
+- [Citroën ë-C4 X tester](ë-c4_x/reviews/)
 

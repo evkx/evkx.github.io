@@ -11,9 +11,9 @@ weight: 30
 Renault Scenic E-Tech electric High Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 610 km (379 miles). EVKX.net har alle detaljene. 
 
 - [Renault Scenic E-Tech electric High Range full beskrivelse](scenic_e-tech_electric_high_range/)
-- [Renault Scenic E-Tech electric High Range rekkevidde & forbruk](scenic_e-tech_electric_high_range/rangeandconsumption)
-- [Renault Scenic E-Tech electric High Range ladekurve og ladeytelse](scenic_e-tech_electric_high_range/chargingcurve)
-- [Renault Scenic E-Tech electric High Range spesifikasjoners](scenic_e-tech_electric_high_range/specifications)
-- [Renault Scenic E-Tech electric High Range galleri](scenic_e-tech_electric_high_range/gallery)
-- [Renault Scenic E-Tech electric High Range tester](scenic_e-tech_electric_high_range/reviews)
+- [Renault Scenic E-Tech electric High Range rekkevidde & forbruk](scenic_e-tech_electric_high_range/rangeandconsumption/)
+- [Renault Scenic E-Tech electric High Range ladekurve og ladeytelse](scenic_e-tech_electric_high_range/chargingcurve/)
+- [Renault Scenic E-Tech electric High Range spesifikasjoners](scenic_e-tech_electric_high_range/specifications/)
+- [Renault Scenic E-Tech electric High Range galleri](scenic_e-tech_electric_high_range/gallery/)
+- [Renault Scenic E-Tech electric High Range tester](scenic_e-tech_electric_high_range/reviews/)
 

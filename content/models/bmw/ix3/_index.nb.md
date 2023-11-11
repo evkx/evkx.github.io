@@ -11,9 +11,9 @@ weight: 30
 BMW iX3 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 461 km (287 miles). EVKX.net har alle detaljene. 
 
 - [BMW iX3 full beskrivelse](ix3/)
-- [BMW iX3 rekkevidde & forbruk](ix3/rangeandconsumption)
-- [BMW iX3 ladekurve og ladeytelse](ix3/chargingcurve)
-- [BMW iX3 spesifikasjoners](ix3/specifications)
-- [BMW iX3 galleri](ix3/gallery)
-- [BMW iX3 tester](ix3/reviews)
+- [BMW iX3 rekkevidde & forbruk](ix3/rangeandconsumption/)
+- [BMW iX3 ladekurve og ladeytelse](ix3/chargingcurve/)
+- [BMW iX3 spesifikasjoners](ix3/specifications/)
+- [BMW iX3 galleri](ix3/gallery/)
+- [BMW iX3 tester](ix3/reviews/)
 

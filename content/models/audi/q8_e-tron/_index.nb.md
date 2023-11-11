@@ -11,11 +11,11 @@ weight: 30
 Audi Q8 50 e-tron er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 491 km (305 miles). EVKX.net har alle detaljene. 
 
 - [Audi Q8 50 e-tron full beskrivelse](q8_50_e-tron/)
-- [Audi Q8 50 e-tron rekkevidde & forbruk](q8_50_e-tron/rangeandconsumption)
-- [Audi Q8 50 e-tron ladekurve og ladeytelse](q8_50_e-tron/chargingcurve)
-- [Audi Q8 50 e-tron spesifikasjoners](q8_50_e-tron/specifications)
-- [Audi Q8 50 e-tron galleri](q8_50_e-tron/gallery)
-- [Audi Q8 50 e-tron tester](q8_50_e-tron/reviews)
+- [Audi Q8 50 e-tron rekkevidde & forbruk](q8_50_e-tron/rangeandconsumption/)
+- [Audi Q8 50 e-tron ladekurve og ladeytelse](q8_50_e-tron/chargingcurve/)
+- [Audi Q8 50 e-tron spesifikasjoners](q8_50_e-tron/specifications/)
+- [Audi Q8 50 e-tron galleri](q8_50_e-tron/gallery/)
+- [Audi Q8 50 e-tron tester](q8_50_e-tron/reviews/)
 
 ### Audi Q8 Sportback 50 e-tron
 
@@ -24,11 +24,11 @@ Audi Q8 50 e-tron er en helelektrisk luksus-SUV med en WLTP rekkevidde på oppti
 Audi Q8 Sportback 50 e-tron er en helelektrisk luksuskupé-SUV med en WLTP rekkevidde på opptil 505 km (314 miles). EVKX.net har alle detaljene. 
 
 - [Audi Q8 Sportback 50 e-tron full beskrivelse](q8_sportback_50_e-tron/)
-- [Audi Q8 Sportback 50 e-tron rekkevidde & forbruk](q8_sportback_50_e-tron/rangeandconsumption)
-- [Audi Q8 Sportback 50 e-tron ladekurve og ladeytelse](q8_sportback_50_e-tron/chargingcurve)
-- [Audi Q8 Sportback 50 e-tron spesifikasjoners](q8_sportback_50_e-tron/specifications)
-- [Audi Q8 Sportback 50 e-tron galleri](q8_sportback_50_e-tron/gallery)
-- [Audi Q8 Sportback 50 e-tron tester](q8_sportback_50_e-tron/reviews)
+- [Audi Q8 Sportback 50 e-tron rekkevidde & forbruk](q8_sportback_50_e-tron/rangeandconsumption/)
+- [Audi Q8 Sportback 50 e-tron ladekurve og ladeytelse](q8_sportback_50_e-tron/chargingcurve/)
+- [Audi Q8 Sportback 50 e-tron spesifikasjoners](q8_sportback_50_e-tron/specifications/)
+- [Audi Q8 Sportback 50 e-tron galleri](q8_sportback_50_e-tron/gallery/)
+- [Audi Q8 Sportback 50 e-tron tester](q8_sportback_50_e-tron/reviews/)
 
 ### Audi Q8 55 e-tron
 
@@ -37,11 +37,11 @@ Audi Q8 Sportback 50 e-tron er en helelektrisk luksuskupé-SUV med en WLTP rekke
 Audi Q8 55 e-tron er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 582 km (362 miles). EVKX.net har alle detaljene. 
 
 - [Audi Q8 55 e-tron full beskrivelse](q8_55_e-tron/)
-- [Audi Q8 55 e-tron rekkevidde & forbruk](q8_55_e-tron/rangeandconsumption)
-- [Audi Q8 55 e-tron ladekurve og ladeytelse](q8_55_e-tron/chargingcurve)
-- [Audi Q8 55 e-tron spesifikasjoners](q8_55_e-tron/specifications)
-- [Audi Q8 55 e-tron galleri](q8_55_e-tron/gallery)
-- [Audi Q8 55 e-tron tester](q8_55_e-tron/reviews)
+- [Audi Q8 55 e-tron rekkevidde & forbruk](q8_55_e-tron/rangeandconsumption/)
+- [Audi Q8 55 e-tron ladekurve og ladeytelse](q8_55_e-tron/chargingcurve/)
+- [Audi Q8 55 e-tron spesifikasjoners](q8_55_e-tron/specifications/)
+- [Audi Q8 55 e-tron galleri](q8_55_e-tron/gallery/)
+- [Audi Q8 55 e-tron tester](q8_55_e-tron/reviews/)
 
 ### Audi Q8 Sportback 55 e-tron
 
@@ -50,11 +50,11 @@ Audi Q8 55 e-tron er en helelektrisk luksus-SUV med en WLTP rekkevidde på oppti
 Audi Q8 Sportback 55 e-tron er en helelektrisk luksuskupé-SUV med en WLTP rekkevidde på opptil 600 km (373 miles). EVKX.net har alle detaljene. 
 
 - [Audi Q8 Sportback 55 e-tron full beskrivelse](q8_sportback_55_e-tron/)
-- [Audi Q8 Sportback 55 e-tron rekkevidde & forbruk](q8_sportback_55_e-tron/rangeandconsumption)
-- [Audi Q8 Sportback 55 e-tron ladekurve og ladeytelse](q8_sportback_55_e-tron/chargingcurve)
-- [Audi Q8 Sportback 55 e-tron spesifikasjoners](q8_sportback_55_e-tron/specifications)
-- [Audi Q8 Sportback 55 e-tron galleri](q8_sportback_55_e-tron/gallery)
-- [Audi Q8 Sportback 55 e-tron tester](q8_sportback_55_e-tron/reviews)
+- [Audi Q8 Sportback 55 e-tron rekkevidde & forbruk](q8_sportback_55_e-tron/rangeandconsumption/)
+- [Audi Q8 Sportback 55 e-tron ladekurve og ladeytelse](q8_sportback_55_e-tron/chargingcurve/)
+- [Audi Q8 Sportback 55 e-tron spesifikasjoners](q8_sportback_55_e-tron/specifications/)
+- [Audi Q8 Sportback 55 e-tron galleri](q8_sportback_55_e-tron/gallery/)
+- [Audi Q8 Sportback 55 e-tron tester](q8_sportback_55_e-tron/reviews/)
 
 ### Audi SQ8 e-tron
 
@@ -63,11 +63,11 @@ Audi Q8 Sportback 55 e-tron er en helelektrisk luksuskupé-SUV med en WLTP rekke
 Audi SQ8 e-tron er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 494 km (307 miles). EVKX.net har alle detaljene. 
 
 - [Audi SQ8 e-tron full beskrivelse](sq8_e-tron/)
-- [Audi SQ8 e-tron rekkevidde & forbruk](sq8_e-tron/rangeandconsumption)
-- [Audi SQ8 e-tron ladekurve og ladeytelse](sq8_e-tron/chargingcurve)
-- [Audi SQ8 e-tron spesifikasjoners](sq8_e-tron/specifications)
-- [Audi SQ8 e-tron galleri](sq8_e-tron/gallery)
-- [Audi SQ8 e-tron tester](sq8_e-tron/reviews)
+- [Audi SQ8 e-tron rekkevidde & forbruk](sq8_e-tron/rangeandconsumption/)
+- [Audi SQ8 e-tron ladekurve og ladeytelse](sq8_e-tron/chargingcurve/)
+- [Audi SQ8 e-tron spesifikasjoners](sq8_e-tron/specifications/)
+- [Audi SQ8 e-tron galleri](sq8_e-tron/gallery/)
+- [Audi SQ8 e-tron tester](sq8_e-tron/reviews/)
 
 ### Audi SQ8 Sportback e-tron
 
@@ -76,9 +76,9 @@ Audi SQ8 e-tron er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 
 Audi SQ8 Sportback e-tron er en helelektrisk luksuskupé-SUV med en WLTP rekkevidde på opptil 513 km (319 miles). EVKX.net har alle detaljene. 
 
 - [Audi SQ8 Sportback e-tron full beskrivelse](sq8_sportback_e-tron/)
-- [Audi SQ8 Sportback e-tron rekkevidde & forbruk](sq8_sportback_e-tron/rangeandconsumption)
-- [Audi SQ8 Sportback e-tron ladekurve og ladeytelse](sq8_sportback_e-tron/chargingcurve)
-- [Audi SQ8 Sportback e-tron spesifikasjoners](sq8_sportback_e-tron/specifications)
-- [Audi SQ8 Sportback e-tron galleri](sq8_sportback_e-tron/gallery)
-- [Audi SQ8 Sportback e-tron tester](sq8_sportback_e-tron/reviews)
+- [Audi SQ8 Sportback e-tron rekkevidde & forbruk](sq8_sportback_e-tron/rangeandconsumption/)
+- [Audi SQ8 Sportback e-tron ladekurve og ladeytelse](sq8_sportback_e-tron/chargingcurve/)
+- [Audi SQ8 Sportback e-tron spesifikasjoners](sq8_sportback_e-tron/specifications/)
+- [Audi SQ8 Sportback e-tron galleri](sq8_sportback_e-tron/gallery/)
+- [Audi SQ8 Sportback e-tron tester](sq8_sportback_e-tron/reviews/)
 

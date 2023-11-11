@@ -11,9 +11,9 @@ weight: 30
 Nio ET7 is an all-electric sedan with a WLTP range of up to 580 km (360 miles). EVKX.net has all the details. 
 
 - [Nio ET7 full article](et7/)
-- [Nio ET7 range & consumption](et7/rangeandconsumption)
-- [Nio ET7 charging curve & performance](et7/chargingcurve)
-- [Nio ET7 full specificationss](et7/specifications)
-- [Nio ET7 gallery](et7/gallery)
-- [Nio ET7 reviews](et7/reviews)
+- [Nio ET7 range & consumption](et7/rangeandconsumption/)
+- [Nio ET7 charging curve & performance](et7/chargingcurve/)
+- [Nio ET7 full specificationss](et7/specifications/)
+- [Nio ET7 gallery](et7/gallery/)
+- [Nio ET7 reviews](et7/reviews/)
 

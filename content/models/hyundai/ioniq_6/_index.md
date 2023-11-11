@@ -11,11 +11,11 @@ weight: 30
 Hyundai Ioniq 6 Long Range AWD is an all-electric sedan with a WLTP range of up to 583 km (362 miles). EVKX.net has all the details. 
 
 - [Hyundai Ioniq 6 Long Range AWD full article](ioniq_6_long_range_awd/)
-- [Hyundai Ioniq 6 Long Range AWD range & consumption](ioniq_6_long_range_awd/rangeandconsumption)
-- [Hyundai Ioniq 6 Long Range AWD charging curve & performance](ioniq_6_long_range_awd/chargingcurve)
-- [Hyundai Ioniq 6 Long Range AWD full specificationss](ioniq_6_long_range_awd/specifications)
-- [Hyundai Ioniq 6 Long Range AWD gallery](ioniq_6_long_range_awd/gallery)
-- [Hyundai Ioniq 6 Long Range AWD reviews](ioniq_6_long_range_awd/reviews)
+- [Hyundai Ioniq 6 Long Range AWD range & consumption](ioniq_6_long_range_awd/rangeandconsumption/)
+- [Hyundai Ioniq 6 Long Range AWD charging curve & performance](ioniq_6_long_range_awd/chargingcurve/)
+- [Hyundai Ioniq 6 Long Range AWD full specificationss](ioniq_6_long_range_awd/specifications/)
+- [Hyundai Ioniq 6 Long Range AWD gallery](ioniq_6_long_range_awd/gallery/)
+- [Hyundai Ioniq 6 Long Range AWD reviews](ioniq_6_long_range_awd/reviews/)
 
 ### Hyundai Ioniq 6 Long Range RWD
 
@@ -24,9 +24,9 @@ Hyundai Ioniq 6 Long Range AWD is an all-electric sedan with a WLTP range of up 
 Hyundai Ioniq 6 Long Range RWD is an all-electric sedan with a WLTP range of up to 614 km (382 miles). EVKX.net has all the details. 
 
 - [Hyundai Ioniq 6 Long Range RWD full article](ioniq_6_long_range_rwd/)
-- [Hyundai Ioniq 6 Long Range RWD range & consumption](ioniq_6_long_range_rwd/rangeandconsumption)
-- [Hyundai Ioniq 6 Long Range RWD charging curve & performance](ioniq_6_long_range_rwd/chargingcurve)
-- [Hyundai Ioniq 6 Long Range RWD full specificationss](ioniq_6_long_range_rwd/specifications)
-- [Hyundai Ioniq 6 Long Range RWD gallery](ioniq_6_long_range_rwd/gallery)
-- [Hyundai Ioniq 6 Long Range RWD reviews](ioniq_6_long_range_rwd/reviews)
+- [Hyundai Ioniq 6 Long Range RWD range & consumption](ioniq_6_long_range_rwd/rangeandconsumption/)
+- [Hyundai Ioniq 6 Long Range RWD charging curve & performance](ioniq_6_long_range_rwd/chargingcurve/)
+- [Hyundai Ioniq 6 Long Range RWD full specificationss](ioniq_6_long_range_rwd/specifications/)
+- [Hyundai Ioniq 6 Long Range RWD gallery](ioniq_6_long_range_rwd/gallery/)
+- [Hyundai Ioniq 6 Long Range RWD reviews](ioniq_6_long_range_rwd/reviews/)
 

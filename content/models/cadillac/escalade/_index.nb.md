@@ -11,9 +11,9 @@ weight: 30
 Cadillac ESCALADE IQ er en helelektrisk SUV med en EPA rekkevidde på opptil 724 km (450 miles). EVKX.net har alle detaljene. 
 
 - [Cadillac ESCALADE IQ full beskrivelse](escalade_iq/)
-- [Cadillac ESCALADE IQ rekkevidde & forbruk](escalade_iq/rangeandconsumption)
-- [Cadillac ESCALADE IQ ladekurve og ladeytelse](escalade_iq/chargingcurve)
-- [Cadillac ESCALADE IQ spesifikasjoners](escalade_iq/specifications)
-- [Cadillac ESCALADE IQ galleri](escalade_iq/gallery)
-- [Cadillac ESCALADE IQ tester](escalade_iq/reviews)
+- [Cadillac ESCALADE IQ rekkevidde & forbruk](escalade_iq/rangeandconsumption/)
+- [Cadillac ESCALADE IQ ladekurve og ladeytelse](escalade_iq/chargingcurve/)
+- [Cadillac ESCALADE IQ spesifikasjoners](escalade_iq/specifications/)
+- [Cadillac ESCALADE IQ galleri](escalade_iq/gallery/)
+- [Cadillac ESCALADE IQ tester](escalade_iq/reviews/)
 

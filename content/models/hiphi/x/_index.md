@@ -11,11 +11,11 @@ weight: 30
 HiPhi X 4 Seater is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. 
 
 - [HiPhi X 4 Seater full article](x_4_seater/)
-- [HiPhi X 4 Seater range & consumption](x_4_seater/rangeandconsumption)
-- [HiPhi X 4 Seater charging curve & performance](x_4_seater/chargingcurve)
-- [HiPhi X 4 Seater full specificationss](x_4_seater/specifications)
-- [HiPhi X 4 Seater gallery](x_4_seater/gallery)
-- [HiPhi X 4 Seater reviews](x_4_seater/reviews)
+- [HiPhi X 4 Seater range & consumption](x_4_seater/rangeandconsumption/)
+- [HiPhi X 4 Seater charging curve & performance](x_4_seater/chargingcurve/)
+- [HiPhi X 4 Seater full specificationss](x_4_seater/specifications/)
+- [HiPhi X 4 Seater gallery](x_4_seater/gallery/)
+- [HiPhi X 4 Seater reviews](x_4_seater/reviews/)
 
 ### HiPhi X 6 Seater
 
@@ -24,9 +24,9 @@ HiPhi X 4 Seater is an all-electric luxury SUV with a WLTP range of up to 460 km
 HiPhi X 6 Seater is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. 
 
 - [HiPhi X 6 Seater full article](x_6_seater/)
-- [HiPhi X 6 Seater range & consumption](x_6_seater/rangeandconsumption)
-- [HiPhi X 6 Seater charging curve & performance](x_6_seater/chargingcurve)
-- [HiPhi X 6 Seater full specificationss](x_6_seater/specifications)
-- [HiPhi X 6 Seater gallery](x_6_seater/gallery)
-- [HiPhi X 6 Seater reviews](x_6_seater/reviews)
+- [HiPhi X 6 Seater range & consumption](x_6_seater/rangeandconsumption/)
+- [HiPhi X 6 Seater charging curve & performance](x_6_seater/chargingcurve/)
+- [HiPhi X 6 Seater full specificationss](x_6_seater/specifications/)
+- [HiPhi X 6 Seater gallery](x_6_seater/gallery/)
+- [HiPhi X 6 Seater reviews](x_6_seater/reviews/)
 

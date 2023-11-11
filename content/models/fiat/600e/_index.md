@@ -11,9 +11,9 @@ weight: 30
 Fiat 600e is an all-electric crossover with a WLTP range of up to 409 km (254 miles). EVKX.net has all the details. 
 
 - [Fiat 600e full article](600e/)
-- [Fiat 600e range & consumption](600e/rangeandconsumption)
-- [Fiat 600e charging curve & performance](600e/chargingcurve)
-- [Fiat 600e full specificationss](600e/specifications)
-- [Fiat 600e gallery](600e/gallery)
-- [Fiat 600e reviews](600e/reviews)
+- [Fiat 600e range & consumption](600e/rangeandconsumption/)
+- [Fiat 600e charging curve & performance](600e/chargingcurve/)
+- [Fiat 600e full specificationss](600e/specifications/)
+- [Fiat 600e gallery](600e/gallery/)
+- [Fiat 600e reviews](600e/reviews/)
 

@@ -11,9 +11,9 @@ weight: 30
 BYD Han er en helelektrisk sedan med en WLTP rekkevidde på opptil 521 km (324 miles). EVKX.net har alle detaljene. 
 
 - [BYD Han full beskrivelse](han/)
-- [BYD Han rekkevidde & forbruk](han/rangeandconsumption)
-- [BYD Han ladekurve og ladeytelse](han/chargingcurve)
-- [BYD Han spesifikasjoners](han/specifications)
-- [BYD Han galleri](han/gallery)
-- [BYD Han tester](han/reviews)
+- [BYD Han rekkevidde & forbruk](han/rangeandconsumption/)
+- [BYD Han ladekurve og ladeytelse](han/chargingcurve/)
+- [BYD Han spesifikasjoners](han/specifications/)
+- [BYD Han galleri](han/gallery/)
+- [BYD Han tester](han/reviews/)
 

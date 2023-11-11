@@ -11,9 +11,9 @@ weight: 30
 BYD Seal AWD is an all-electric sedan with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details. 
 
 - [BYD Seal AWD full article](seal_awd/)
-- [BYD Seal AWD range & consumption](seal_awd/rangeandconsumption)
-- [BYD Seal AWD charging curve & performance](seal_awd/chargingcurve)
-- [BYD Seal AWD full specificationss](seal_awd/specifications)
-- [BYD Seal AWD gallery](seal_awd/gallery)
-- [BYD Seal AWD reviews](seal_awd/reviews)
+- [BYD Seal AWD range & consumption](seal_awd/rangeandconsumption/)
+- [BYD Seal AWD charging curve & performance](seal_awd/chargingcurve/)
+- [BYD Seal AWD full specificationss](seal_awd/specifications/)
+- [BYD Seal AWD gallery](seal_awd/gallery/)
+- [BYD Seal AWD reviews](seal_awd/reviews/)
 

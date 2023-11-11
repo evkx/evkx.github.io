@@ -11,9 +11,9 @@ weight: 30
 DS 3 E-Tense er en helelektrisk delefilter med en WLTP rekkevidde på opptil 402 km (250 miles). EVKX.net har alle detaljene. 
 
 - [DS 3 E-Tense full beskrivelse](3_e-tense/)
-- [DS 3 E-Tense rekkevidde & forbruk](3_e-tense/rangeandconsumption)
-- [DS 3 E-Tense ladekurve og ladeytelse](3_e-tense/chargingcurve)
-- [DS 3 E-Tense spesifikasjoners](3_e-tense/specifications)
-- [DS 3 E-Tense galleri](3_e-tense/gallery)
-- [DS 3 E-Tense tester](3_e-tense/reviews)
+- [DS 3 E-Tense rekkevidde & forbruk](3_e-tense/rangeandconsumption/)
+- [DS 3 E-Tense ladekurve og ladeytelse](3_e-tense/chargingcurve/)
+- [DS 3 E-Tense spesifikasjoners](3_e-tense/specifications/)
+- [DS 3 E-Tense galleri](3_e-tense/gallery/)
+- [DS 3 E-Tense tester](3_e-tense/reviews/)
 

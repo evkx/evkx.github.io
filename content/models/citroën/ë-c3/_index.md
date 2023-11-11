@@ -11,9 +11,9 @@ weight: 30
 Citroën ë-C3 is an all-electric crossover with a WLTP range of up to 320 km (199 miles). EVKX.net has all the details. 
 
 - [Citroën ë-C3 full article](ë-c3/)
-- [Citroën ë-C3 range & consumption](ë-c3/rangeandconsumption)
-- [Citroën ë-C3 charging curve & performance](ë-c3/chargingcurve)
-- [Citroën ë-C3 full specificationss](ë-c3/specifications)
-- [Citroën ë-C3 gallery](ë-c3/gallery)
-- [Citroën ë-C3 reviews](ë-c3/reviews)
+- [Citroën ë-C3 range & consumption](ë-c3/rangeandconsumption/)
+- [Citroën ë-C3 charging curve & performance](ë-c3/chargingcurve/)
+- [Citroën ë-C3 full specificationss](ë-c3/specifications/)
+- [Citroën ë-C3 gallery](ë-c3/gallery/)
+- [Citroën ë-C3 reviews](ë-c3/reviews/)
 

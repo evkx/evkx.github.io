@@ -11,9 +11,9 @@ weight: 30
 Rolls-Royce Spectre er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 530 km (329 miles). EVKX.net har alle detaljene. 
 
 - [Rolls-Royce Spectre full beskrivelse](spectre/)
-- [Rolls-Royce Spectre rekkevidde & forbruk](spectre/rangeandconsumption)
-- [Rolls-Royce Spectre ladekurve og ladeytelse](spectre/chargingcurve)
-- [Rolls-Royce Spectre spesifikasjoners](spectre/specifications)
-- [Rolls-Royce Spectre galleri](spectre/gallery)
-- [Rolls-Royce Spectre tester](spectre/reviews)
+- [Rolls-Royce Spectre rekkevidde & forbruk](spectre/rangeandconsumption/)
+- [Rolls-Royce Spectre ladekurve og ladeytelse](spectre/chargingcurve/)
+- [Rolls-Royce Spectre spesifikasjoners](spectre/specifications/)
+- [Rolls-Royce Spectre galleri](spectre/gallery/)
+- [Rolls-Royce Spectre tester](spectre/reviews/)
 

@@ -11,9 +11,9 @@ weight: 30
 Jeep Avenger er en helelektrisk delefilter med en WLTP rekkevidde på opptil 404 km (251 miles). EVKX.net har alle detaljene. 
 
 - [Jeep Avenger full beskrivelse](avenger/)
-- [Jeep Avenger rekkevidde & forbruk](avenger/rangeandconsumption)
-- [Jeep Avenger ladekurve og ladeytelse](avenger/chargingcurve)
-- [Jeep Avenger spesifikasjoners](avenger/specifications)
-- [Jeep Avenger galleri](avenger/gallery)
-- [Jeep Avenger tester](avenger/reviews)
+- [Jeep Avenger rekkevidde & forbruk](avenger/rangeandconsumption/)
+- [Jeep Avenger ladekurve og ladeytelse](avenger/chargingcurve/)
+- [Jeep Avenger spesifikasjoners](avenger/specifications/)
+- [Jeep Avenger galleri](avenger/gallery/)
+- [Jeep Avenger tester](avenger/reviews/)
 
