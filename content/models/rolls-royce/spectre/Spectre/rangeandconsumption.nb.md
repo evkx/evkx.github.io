@@ -51,8 +51,8 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden i perf
 <tbody>
 <tr><td> 90kmh/56mph perfect condition </td><td> 537km /334mi</td><td> 19 kWh/100km / 3,3 mi/kWh </td></tr>
 <tr><td> 90kmh/56mph with 2KW heating </td><td> 494km /307mi</td><td> 20,7 kWh/100km / 3,0 mi/kWh </td></tr
-<tr><td> 70mph/112kmh perfect condition </td><td> 443km /275mi</td><td> 23 kWh/100km / 2,7 mi/kWh</td></tr>
-<tr><td> 70mph/112kmh with 2KW heating </td><td> 665km /413mi</td><td> 24,7 kWh/100km / 2,5 mi/kWh  </td></tr
+<tr><td> 70mph/112kmh perfect condition </td><td> 445km /277mi</td><td> 22,9 kWh/100km / 2,7 mi/kWh</td></tr>
+<tr><td> 70mph/112kmh with 2KW heating </td><td> 667km /414mi</td><td> 24,6 kWh/100km / 2,5 mi/kWh  </td></tr
 <tr><td> 120kmh/75mph perfect condition </td><td> 392km /244mi</td><td> 26 kWh/100km / 2,4 mi/kWh </td></tr>
 <tr><td> 120kmh/75mph with 2KW heating </td><td> 593km /368mi</td><td> 27,7 kWh/100km / 2,2 mi/kWh </td></tr
 </tbody></table>

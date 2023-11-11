@@ -36,6 +36,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 <a href="porsche"><img src="https://media.evkx.net/multimedia/models/porsche/logo_xst.png" alt="Porsche" title="Porsche" width="130px" class="img-fluid" /></a>
 <a href="renault"><img src="https://media.evkx.net/multimedia/models/renault/logo_xst.png" alt="Renault" title="Renault" width="130px" class="img-fluid" /></a>
 <a href="rivian"><img src="https://media.evkx.net/multimedia/models/rivian/logo_xst.png" alt="Rivian" title="Rivian" width="130px" class="img-fluid" /></a>
+<a href="rolls-royce"><img src="https://media.evkx.net/multimedia/models/rolls-royce/logo_xst.png" alt="Rolls-Royce" title="Rolls-Royce" width="130px" class="img-fluid" /></a>
 <a href="seres"><img src="https://media.evkx.net/multimedia/models/seres/logo_xst.png" alt="Seres" title="Seres" width="130px" class="img-fluid" /></a>
 <a href="skoda"><img src="https://media.evkx.net/multimedia/models/skoda/logo_xst.png" alt="Skoda" title="Skoda" width="130px" class="img-fluid" /></a>
 <a href="smart"><img src="https://media.evkx.net/multimedia/models/smart/logo_xst.png" alt="Smart" title="Smart" width="130px" class="img-fluid" /></a>
@@ -288,6 +289,14 @@ Renault has 2 models with total 2 variants. [Read all about them](renault/)
 Rivian is an electric vehicle maker that was founded in 2009 by RJ Scaringe. Rivian's EV strategy is to focus on producing premium electric trucks and SUVs that can handle off-road adventures and everyday driving. Rivian's first products are the R1T pickup truck and the R1S SUV, which have a range of up to 400 miles and can accelerate from 0 to 60 mph in about 3 seconds. 
 
 Rivian has 1 models with total 6 variants. [Read all about them](rivian/)
+
+## Rolls-Royce
+
+<a href="rolls-royce/"><img src="https://media.evkx.net/multimedia/models/rolls-royce/brandevs_st.jpg" class="img-fluid" alt="Rolls-Royce" ></a>
+
+Rolls Royce is a British luxury car maker that is known for its high-end vehicles and bespoke craftsmanship. The company has recently announced that it will go all-electric by 2030, following the trend of other automakers that are committed to the decarbonisation of the transport sector. 
+
+Rolls-Royce has 1 models with total 1 variants. [Read all about them](rolls-royce/)
 
 ## Seres
 
