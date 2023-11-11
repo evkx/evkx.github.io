@@ -78,6 +78,19 @@ He has a separate channel also for <a href="https://www.youtube.com/@only_ev" ta
 
 Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos) 
 
+## State of Charge
+
+State of Charge is a youtube channel that specialized in home charging equipment but do also cover testing of EVs. The channels is run by Tom Moloughney from [North New Jerysey, US](https://www.google.com/maps/place/Charging+Ahead+EV+Consulting/@40.7611725,-74.6597525,369a,35y,226.84h,44.97t/data=!3m1!1e3!4m15!1m8!3m7!1s0x89c39997d947c5e1:0xb2471e2c8ef76477!2s34+E+Fox+Chase+Rd,+Chester+Township,+NJ+07930,+USA!3b1!8m2!3d40.7590041!4d-74.6637613!16s%2Fg%2F11g0272ps0!3m5!1s0x89c39997decaf7bd:0x4cd31596bd1311c6!8m2!3d40.7590285!4d-74.6637302!16s%2Fg%2F11c1p17kv3?entry=ttu)
+
+Tom as a unique way to present content and his test of home chargers are does not have any competition.
+
+He has a seperate [site](https://evchargingstations.com/) for EV Charging stations.
+
+Highly recomended.
+
+[Visit channel](https://www.youtube.com/@StateOfChargeWithTomMoloughney)
+
+
 ## Kris Rifa
 
 {{< sitefiguresized thumb="guides/evreviewers/krisrifa_st.jpg" width="680" height="385" title="Kris Rifa" >}}
