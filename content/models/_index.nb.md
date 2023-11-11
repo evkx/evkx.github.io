@@ -36,7 +36,6 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 <a href="porsche"><img src="https://media.evkx.net/multimedia/models/porsche/logo_xst.png" alt="Porsche" title="Porsche" width="130px" class="img-fluid" /></a>
 <a href="renault"><img src="https://media.evkx.net/multimedia/models/renault/logo_xst.png" alt="Renault" title="Renault" width="130px" class="img-fluid" /></a>
 <a href="rivian"><img src="https://media.evkx.net/multimedia/models/rivian/logo_xst.png" alt="Rivian" title="Rivian" width="130px" class="img-fluid" /></a>
-<a href="rolls-royce"><img src="https://media.evkx.net/multimedia/models/rolls-royce/logo_xst.png" alt="Rolls-Royce" title="Rolls-Royce" width="130px" class="img-fluid" /></a>
 <a href="seres"><img src="https://media.evkx.net/multimedia/models/seres/logo_xst.png" alt="Seres" title="Seres" width="130px" class="img-fluid" /></a>
 <a href="skoda"><img src="https://media.evkx.net/multimedia/models/skoda/logo_xst.png" alt="Skoda" title="Skoda" width="130px" class="img-fluid" /></a>
 <a href="smart"><img src="https://media.evkx.net/multimedia/models/smart/logo_xst.png" alt="Smart" title="Smart" width="130px" class="img-fluid" /></a>
@@ -259,13 +258,6 @@ Renault has 2 models with total 2 variants. [Read all about them](renault/)
 
 
 Rivian has 1 models with total 6 variants. [Read all about them](rivian/)
-
-## Rolls-Royce
-
-<a href="rolls-royce/"><img src="https://media.evkx.net/multimedia/models/rolls-royce/brandevs_st.jpg" class="img-fluid" alt="Rolls-Royce" ></a>
-
-
-Rolls-Royce has 1 models with total 1 variants. [Read all about them](rolls-royce/)
 
 ## Seres
 
