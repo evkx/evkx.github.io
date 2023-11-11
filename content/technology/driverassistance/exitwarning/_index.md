@@ -12,8 +12,6 @@ The exit warning system uses sensors, cameras, or radar to detect the presence o
 
 {{< sitefiguresized thumb="technology/driverassistance/exitwarning/illustration_st.jpg" width="3000" height="1838" title="Exit warning Audi" >}}
 
-
-
 The warning may come in the form of a chime, a vibration, or a message on the car's display screen, indicating that it is not safe to open the door. The system may also activate the hazard lights to warn other drivers of the potential danger.
 
 {{<evkxdisplayaddarticle />}}
