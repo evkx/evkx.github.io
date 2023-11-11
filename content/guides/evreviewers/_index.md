@@ -34,6 +34,10 @@ Bjørn has a large suite of standard tests. Click on <i class="bi-collection-pla
 
 Overall, Bjørn Nyland is a valuable contributor to the EV community, and his passion for electric vehicles and his dedication to sharing his experiences with others has helped to increase awareness and adoption of EVs around the world.
 
+You can learn more about Bjørn Nyland in this podcast
+
+{{< youtube wafwTXdg5-A >}}
+
 Bjørn Nyland live stream many of his tests in his [Teslabjorn Live channel](https://www.youtube.com/@TeslabjornLive24).
 
 Visit his Youtube Channel and subscribe [here](https://www.youtube.com/@bjornnyland).
@@ -80,7 +84,17 @@ Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos)
 
 ## State of Charge
 
+<img src="https://img.youtube.com/vi/56e8-nLqM0c/maxresdefault.jpg" class="img-fluid">
+
 State of Charge is a youtube channel that specialized in home charging equipment but do also cover testing of EVs. The channels is run by Tom Moloughney from [North New Jerysey, US](https://www.google.com/maps/place/Charging+Ahead+EV+Consulting/@40.7611725,-74.6597525,369a,35y,226.84h,44.97t/data=!3m1!1e3!4m15!1m8!3m7!1s0x89c39997d947c5e1:0xb2471e2c8ef76477!2s34+E+Fox+Chase+Rd,+Chester+Township,+NJ+07930,+USA!3b1!8m2!3d40.7590041!4d-74.6637613!16s%2Fg%2F11g0272ps0!3m5!1s0x89c39997decaf7bd:0x4cd31596bd1311c6!8m2!3d40.7590285!4d-74.6637302!16s%2Fg%2F11c1p17kv3?entry=ttu)
+
+Tom Moloughney is a senior editor for the electric vehicle news site, InsideEVs, and has been covering the plug-in vehicle industry since 2012. 
+
+Tom has a passion for electric vehicles and has owned several models, including the original Mini-E, the BMW Active-E, the BMW i3, and the Tesla Model 3. He has also worked with over 300 dealerships in the US to improve staff electric vehicle knowledge and train them on how to sell more EVs.
+
+Tom is an expert on EV charging and has developed his own testing criteria and methods for evaluating home charging equipment and electric car range. He also conducts interviews with EV industry leaders and influencers, such as Rivian's VP of Software and Lucid's Chief Engineer. Tom's goal is to educate and inform the public about the benefits and challenges of electric mobility and to promote the adoption of EVs. You can learn all about Tom in the below podcast.
+
+{{< youtube 8l7E_RpxLyc >}}
 
 Tom as a unique way to present content and his test of home chargers are does not have any competition.
 
