@@ -227,6 +227,10 @@ Alcantara is a patented synthetic material that is manufactured by the Italian c
 
 Alcantara is produced in a manufacturing facility in Nera Montoro, Umbria, Italy. The facility has been designed to be environmentally sustainable and has achieved ISO 14001 certification for its environmental management system. The company uses a closed-loop production process to minimize waste and has implemented energy-saving measures to reduce its carbon footprint.
 
+In the below video you can see one our favorite reviewers visit the [Alcantara factory](https://www.google.com/maps/place/Alcantara+S.P.A./@42.4836149,12.4648604,694m/data=!3m1!1e3!4m6!3m5!1s0x132ee02d51b2cc21:0xeb3ff07603fd4f70!8m2!3d42.4852421!4d12.4659532!16s%2Fg%2F11g_f727r?entry=ttu).
+
+{{< youtube P_6AYHkiBTw >}}
+
 [Alcantara S.p.A.](https://www.alcantara.com/) is the only company that is licensed to produce and market products made from Alcantara. The company works with a global network of partners and suppliers to distribute its products to customers around the world.
 
 ## Dinamica
