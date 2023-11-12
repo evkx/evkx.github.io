@@ -19,19 +19,19 @@ We have split the article into three parts.
 
 In this part, we cover the different seat types used in EVs. That means everything from the front seats and second-row bench to executive seats.
 
-[Read about seat types.](types)
+[Read about seat types.](types/)
 
 ## Seat adjustment and features
 
 In this part, we cover all standard and optional features that the different seat types can have. These features include functionality like massage, ventilation, reclining, and many more. In addition, we also cover how drivers and passengers can adjust the various seats.
 
-[Read about adjustments and features.](adjustment)
+[Read about adjustments and features.](adjustment/)
 
 ## Seat upholstery and materials
 
 Car seat upholstery is an essential aspect of car seat design and can impact the comfort and aesthetic appeal of a car’s interior. Manufacturers commonly use several materials for car seat upholstery, each with pros and cons.
 
-[Read about upholstery and materials.](materials)
+[Read about upholstery and materials.](materials/)
 
 ## Search for models with your preferred seats
 

@@ -11,8 +11,9 @@ weight: 2
 
 Airbags are a critical safety feature in electric vehicles (EVs), designed to protect the driver and passengers in the event of a collision or sudden impact.
 
-[Read all about airbags.](airbags)
+[Read all about airbags.](airbags/)
 
 
 ## Seat belts
 
+[Read all about seatbelts.](seatbelts/)
