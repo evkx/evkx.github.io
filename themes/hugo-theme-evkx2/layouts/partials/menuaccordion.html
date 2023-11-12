@@ -34,7 +34,7 @@
               {{ T "common-section-models-description"}}
               {{ $currentNode := . }}
               {{range .Site.Home.Sections.ByWeight }}
-                {{ if eq .Title "EV models" }}
+                {{ if strings.HasSuffix .RelPermalink "/models/" }}
                 {{ template "section-tree-nav2" dict "sect" . "currentnode" $currentNode }}
                 {{end}}
              {{end}}
@@ -53,7 +53,7 @@
               {{ T "common-section-technology-description"}}
               {{ $currentNode := . }}
               {{range .Site.Home.Sections.ByWeight }}
-              {{ if eq .Title "EV Technology" }}
+              {{ if strings.HasSuffix .RelPermalink "/technology/" }}
                  {{ template "section-tree-nav2" dict "sect" . "currentnode" $currentNode }}
               {{end}}
               {{end}}
@@ -72,7 +72,7 @@
               {{ T "common-section-guides-description"}}
               {{ $currentNode := . }}
               {{range .Site.Home.Sections.ByWeight }}
-              {{ if eq .Title "Guides" }}
+              {{ if strings.HasSuffix .RelPermalink "/guides/" }}
               {{ template "section-tree-nav2" dict "sect" . "currentnode" $currentNode }}
               {{end}}
               {{end}}

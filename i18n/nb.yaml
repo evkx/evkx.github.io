@@ -14,44 +14,44 @@
 
 # Common Sections
 - id: common-section-mostsold-world-title
-  translation: Most sold EVs globaly
+  translation: Mest solgte elbiler globalt
 
 - id: common-section-mostsold-world-description
-  translation: Below, you find the top 10 most-sold EV models in the world. Click on the name for full info.
+  translation: Nedenfor finner du de 10 mest solgte EV-modellene i verden. Klikk på navnet for full info.
 
 - id: common-section-technology-title
   translation: Lær elbilteknologi
 
 - id: common-section-technology-description
-  translation: EVKX offers the most extensive collection of in-depth articles about EV-technology. 
+  translation: EVKX tilbyr den mest omfattende samlingen av dybdeartikler om elbil-teknologi.
 
 - id: common-section-technology-section-battery
-  translation: Battery
+  translation: Batteri
 
 - id: common-section-technology-section-adas
   translation: Advanced Driver Assistance Systems
 
 - id: common-section-technology-section-motors
-  translation: Electric motors
+  translation: Elektriske motorer
 
 - id: common-section-technology-section-suspension
-  translation: Suspension
+  translation: Støtdemping
 
 - id: common-section-technology-section-brakes
-  translation: Brakes
+  translation: Bremser
 
 - id: common-section-technology-section-lights
-  translation: Lights
+  translation: Lys
 
 - id: common-section-technology-section-regen
-  translation: Regenerative braking
+  translation: Regenerativ bremsing
 
 - id: common-section-technology-section-seats
-  translation: Seats
+  translation: Seter
 
 - id: common-section-technology-section-sensors
-  translation: Sensors & Cameras
+  translation: Sensorer og kameraer
 
 - id: common-section-technology-section-ui
-  translation: User interface
+  translation: Brukergrensesnitt
 
