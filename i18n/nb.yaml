@@ -13,6 +13,15 @@
   translation: Merker & Modeller
 
 # Common Sections
+- id: common-section-search-title
+  translation: Elbil søk
+
+- id: common-section-search-description
+  translation: EVKX.net har den mest komplette elbil-databasen. Søk og filtrer på mange funksjoner og spesifikasjoner.
+
+- id: common-section-search-link
+  translation: Gå til elbilsøk
+
 - id: common-section-mostsold-world-title
   translation: Mest solgte elbiler globalt
 
@@ -54,4 +63,28 @@
 
 - id: common-section-technology-section-ui
   translation: Brukergrensesnitt
+
+- id: common-section-guides-title
+  translation: Guider
+
+- id: common-section-guides-description
+  translation: Nedenfor finner du forskjellige guider for å eie en elbil og for bruk av denne siden.
+
+- id: common-section-guides-section-search
+  translation: Hvordan bruke elbilsøket
+
+- id: common-section-guides-section-preservebattery
+  translation: Bevaring av batteri
+
+- id: common-section-guides-section-understandingrange
+  translation: Forstå rekkevidde
+
+- id: common-section-guides-section-vehicletypes
+  translation: Kjøretøystyper
+
+- id: common-section-models-title
+  translation: Merker & Modeller
+
+- id: common-section-models-description
+  translation: Les om de forskjellige merkene, deres EV-strategier og den mest komplette informasjonen om alle modellene nedenfor.
 
