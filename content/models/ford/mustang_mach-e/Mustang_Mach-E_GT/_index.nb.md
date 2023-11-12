@@ -33,7 +33,7 @@ Ford Mustang Mach-E GT har en maksimal effekt på 358KW (487hk).Totalt dreiemome
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 98,8kWh og en nettokapasitet på 92kWh, noe som betyr at du har en 6,8kWh-buffer for beskyttelse. (6,9%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt- oksider-nmc)
+Batteriet har en bruttokapasitet på 98,8kWh og en nettokapasitet på 92kWh, noe som betyr at du har en 6,8kWh-buffer for beskyttelse. (6,9%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
  [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 490 km (305 mi). Forbruket er 18.8kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
@@ -51,7 +51,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
+Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
 {{<evkxdisplayaddarticle />}}
 

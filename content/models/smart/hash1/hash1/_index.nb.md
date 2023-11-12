@@ -33,7 +33,7 @@ Smart #1 har en maksimal effekt på 315KW (428hk).Totalt dreiemoment er 584nm. D
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 62kWh, noe som betyr at du har en 4kWh-buffer for beskyttelse. (6,1%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt- oksider-nmc)
+Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 62kWh, noe som betyr at du har en 4kWh-buffer for beskyttelse. (6,1%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 440 til 420 km (273-261 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.1kWh/100 km for basisversjonen og 14.8kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
@@ -51,7 +51,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading.
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
+Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
 {{<evkxdisplayaddarticle />}}
 

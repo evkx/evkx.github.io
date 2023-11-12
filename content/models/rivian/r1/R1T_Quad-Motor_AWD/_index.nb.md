@@ -51,7 +51,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11,5KW-ladin
 
 ### Ladeport
 
-Plasseringen av ladeporten er i [fremre venstre hjørne](../../../../technology/charging/connectors/#front-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må parkere med fronten inn.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
+Plasseringen av ladeporten er i [fremre venstre hjørne](../../../../technology/charging/connectors/#front-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må parkere med fronten inn.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
 {{<evkxdisplayaddarticle />}}
 

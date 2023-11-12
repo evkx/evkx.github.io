@@ -33,7 +33,7 @@ Mercedes-EQ EQC 400 4MATIC har en maksimal effekt på 300KW (408hk).Totalt dreie
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 86kWh og en nettokapasitet på 80kWh, noe som betyr at du har en 6kWh-buffer for beskyttelse. (7,0%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt- oksider-nmc)
+Batteriet har en bruttokapasitet på 86kWh og en nettokapasitet på 80kWh, noe som betyr at du har en 6kWh-buffer for beskyttelse. (7,0%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 432 til 400 km (268-249 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.5kWh/100 km for basisversjonen og 20.0kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
@@ -47,7 +47,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
+Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
 {{<evkxdisplayaddarticle />}}
 

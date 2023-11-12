@@ -33,7 +33,7 @@ BYD Seal AWD har en maksimal effekt på 390KW (530hk).Totalt dreiemoment er 670n
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 85,4kWh og en nettokapasitet på 82,5kWh, noe som betyr at du har en 2,9kWh-buffer for beskyttelse. (3,4%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
+Batteriet har en bruttokapasitet på 85,4kWh og en nettokapasitet på 82,5kWh, noe som betyr at du har en 2,9kWh-buffer for beskyttelse. (3,4%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
 
  [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 520 km (323 mi). Forbruket er 15.9kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
@@ -47,7 +47,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
+Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
 {{<evkxdisplayaddarticle />}}
 

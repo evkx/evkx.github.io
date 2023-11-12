@@ -33,7 +33,7 @@ BYD Atto 3 har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 310nm.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 60,5kWh og en nettokapasitet på 58kWh, noe som betyr at du har en 2,5kWh-buffer for beskyttelse. (4,1%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
+Batteriet har en bruttokapasitet på 60,5kWh og en nettokapasitet på 58kWh, noe som betyr at du har en 2,5kWh-buffer for beskyttelse. (4,1%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
 
  [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 420 km (261 mi). Forbruket er 13.8kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
@@ -47,7 +47,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 7KW-lading. 
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors /#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
+Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
 
 {{<evkxdisplayaddarticle />}}
 

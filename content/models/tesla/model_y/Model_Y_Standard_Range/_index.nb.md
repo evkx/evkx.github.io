@@ -36,7 +36,7 @@ Tesla Model Y Standard Range har en maksimal effekt på 255KW (347hk).Totalt dre
 Tesla Model Y Standard Range har two batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading. 
 ### LFP Europa/China market
 
-Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 57,5kWh, noe som betyr at du har en 2,5kWh-buffer for beskyttelse. (4,2%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
+Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 57,5kWh, noe som betyr at du har en 2,5kWh-buffer for beskyttelse. (4,2%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
 
  [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 430 km (267 mi). Forbruket er 13.4kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
@@ -45,7 +45,7 @@ Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 48 minut
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19,5kWh/100km, vil 1000km ta 9 timer og 42 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 2% til 50%. Totalt tapt tid for å lade opp batteriet vil være 82 minutter.
 ### NMC 4850 US Market
 
-Batteriet har en bruttokapasitet på 70kWh og en nettokapasitet på 68,5kWh, noe som betyr at du har en 1,5kWh-buffer for beskyttelse. (2,1%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
+Batteriet har en bruttokapasitet på 70kWh og en nettokapasitet på 68,5kWh, noe som betyr at du har en 1,5kWh-buffer for beskyttelse. (2,1%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
 
  [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 430 km (267 mi). Forbruket er 13.4kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
@@ -59,7 +59,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 
 ### Ladeport
 
-Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/charging/connectors/#rear-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/# nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder. 
+Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/charging/connectors/#rear-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/#nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder. 
 
 {{<evkxdisplayaddarticle />}}
 
