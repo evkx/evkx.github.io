@@ -35,7 +35,7 @@ BMW i5 eDrive40 har en maksimal effekt på 250KW (340hk).Totalt dreiemoment er 7
 
 Batteriet har en bruttokapasitet på 84,4kWh og en nettokapasitet på 81,2kWh, noe som betyr at du har en 3,2kWh-buffer for beskyttelse. (3,8%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt- oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp) varierer fra 581 til 498 km (361-310 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.0kWh/100 km for basisversjonen og 16.3kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 581 til 498 km (361-310 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.0kWh/100 km for basisversjonen og 16.3kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 205kW. En full lading fra 0 - 100 % vil ta 56 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 50%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 118kW. Hver ladeøkt vil ta 19 minutter og 26 sekunder. 
 
@@ -220,7 +220,7 @@ BMW i5 eDrive40 har [**automatisk nødbremsing**](../../../../technology/drivera
 
 ### Kjøreautomatisering
 
-BMW i5 eDrive40 tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), avhengig av utstyrsnivå.
+BMW i5 eDrive40 tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
 Med Driving Assistant  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - Cruisekontroll. 

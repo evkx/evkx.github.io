@@ -35,7 +35,7 @@ The BMW iX xDrive50 has a maximum power of 385KW (523hp). The total torque is 76
 
 The battery has a gross capacity of 111kWh and a net capacity of 105,2kWh, meaning you have a 5,8kWh buffer for protection. (5,2%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 631 to 550 km (392-342 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16.7kWh/100km for the basic version and 19.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 631 to 550 km (392-342 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16.7kWh/100km for the basic version and 19.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 58 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 53%, resulting in an actual charge speed, including time loss, of 135kW. Each charge session would take 23 minutes and 25 seconds. 
 

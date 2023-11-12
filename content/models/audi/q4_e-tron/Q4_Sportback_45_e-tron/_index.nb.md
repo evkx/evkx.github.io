@@ -35,7 +35,7 @@ Audi Q4 Sportback 45 e-tron har en maksimal effekt på 210KW (286hk).Totalt drei
 
 Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 76,6kWh, noe som betyr at du har en 5,4kWh-buffer for beskyttelse. (6,6%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp) varierer fra 562 til 475 km (349-295 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.6kWh/100 km for basisversjonen og 16.1kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 562 til 475 km (349-295 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.6kWh/100 km for basisversjonen og 16.1kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 125kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 44%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 6 sekunder. 
 
@@ -221,7 +221,7 @@ Audi Q4 Sportback 45 e-tron har [**automatisk nødbremsing**](../../../../techno
 
 ### Kjøreautomatisering
 
-Audi Q4 Sportback 45 e-tron tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), avhengig av utstyrsnivå.
+Audi Q4 Sportback 45 e-tron tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - Cruisekontroll. 

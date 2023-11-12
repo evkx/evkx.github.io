@@ -35,7 +35,7 @@ Volvo C40 Recharge Single Motor har en maksimal effekt på 175KW (238hk).Totalt 
 
 Batteriet har en bruttokapasitet på 69kWh og en nettokapasitet på 66kWh, noe som betyr at du har en 3kWh-buffer for beskyttelse. (4,3%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt- oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp) varierer fra 478 til 466 km (297-290 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.8kWh/100 km for basisversjonen og 14.2kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 478 til 466 km (297-290 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.8kWh/100 km for basisversjonen og 14.2kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 205kW. En full lading fra 0 - 100 % vil ta 85 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 90kW. Hver ladeøkt vil ta 21 minutter og 28 sekunder. 
 

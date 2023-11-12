@@ -203,7 +203,7 @@ BYD Han har [**automatisk nødbremsing**](../../../../technology/driverassistanc
 
 ### Kjøreautomatisering
 
-BYD Han tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), avhengig av utstyrsnivå.
+BYD Han tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 

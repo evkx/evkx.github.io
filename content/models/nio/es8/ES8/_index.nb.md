@@ -226,7 +226,7 @@ Nio ES8 har [**automatisk nødbremsing**](../../../../technology/driverassistanc
 
 ### Kjøreautomatisering
 
-Nio ES8 tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), avhengig av utstyrsnivå.
+Nio ES8 tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
 Med NIO Pilot Selected Pack  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 

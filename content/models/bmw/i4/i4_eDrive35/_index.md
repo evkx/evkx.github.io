@@ -35,7 +35,7 @@ The BMW i4 eDrive35 has a maximum power of 250KW (340hp). The total torque is 40
 
 The battery has a gross capacity of 70,2kWh and a net capacity of 66kWh, meaning you have a 4,2kWh buffer for protection. (6,0%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 490 to 406 km (305-252 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13.5kWh/100km for the basic version and 16.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 490 to 406 km (305-252 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13.5kWh/100km for the basic version and 16.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 46 minutes, while a more common scenario of 10-80% would take 24 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 51%, resulting in an actual charge speed, including time loss, of 111kW. Each charge session would take 17 minutes and 4 seconds. 
 

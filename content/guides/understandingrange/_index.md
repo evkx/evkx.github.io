@@ -6,8 +6,8 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-The range of electric cars is typically given as a [WLTP range](wltp) (Worldwide Harmonised Light Vehicles Test Procedure) in
-Europe, [EPA](epa) in the US, and CLTC in China.
+The range of electric cars is typically given as a [WLTP range](wltp/) (Worldwide Harmonised Light Vehicles Test Procedure) in
+Europe, [EPA](epa/) in the US, and CLTC in China.
 
 The models available today (summer 2023) have a rated range between approx 200km and 900km.
 

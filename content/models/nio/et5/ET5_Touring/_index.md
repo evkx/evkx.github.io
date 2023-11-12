@@ -38,7 +38,7 @@ Nio ET5 Touring has two battery options with different specifications. Below you
 
 The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 560 to 540 km (348-336 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16.1kWh/100km for the basic version and 16.7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 560 to 540 km (348-336 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16.1kWh/100km for the basic version and 16.7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 180kW. A full charge from 0 - 100% would take 75 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 44%, resulting in an actual charge speed, including time loss, of 86kW. Each charge session would take 27 minutes and 2 seconds. 
 
@@ -47,7 +47,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 456 to 419 km (283-260 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16.1kWh/100km for the basic version and 16.7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 456 to 419 km (283-260 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 16.1kWh/100km for the basic version and 16.7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 140kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 74%, resulting in an actual charge speed, including time loss, of 77kW. Each charge session would take 37 minutes and 57 seconds. 
 

@@ -209,7 +209,7 @@ Volkswagen ID.4 GTX 4MOTION har [**automatisk nødbremsing**](../../../../techno
 
 ### Kjøreautomatisering
 
-Volkswagen ID.4 GTX 4MOTION tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), avhengig av utstyrsnivå.
+Volkswagen ID.4 GTX 4MOTION tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 

@@ -35,7 +35,7 @@ Cadillac ESCALADE IQ har en maksimal effekt på 560KW (761hk).Totalt dreiemoment
 
 Batteriet har en bruttokapasitet på 215kWh og en nettokapasitet på 200kWh, noe som betyr at du har en 15kWh-buffer for beskyttelse. (7,0%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt- oksider-nmc)
 
- [EPA-rekkevidden](../../../../guides/understandingrange/epa) er 450 miles (724 km). Forbruket er 2.3mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruket er 2.3mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 350kW. En full lading fra 0 - 100 % vil ta 130 minutter, mens et mer vanlig scenario på 10-80 % vil ta 45 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 242kW. Hver ladeøkt vil ta 26 minutter og 49 sekunder. 
 

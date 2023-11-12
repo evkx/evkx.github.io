@@ -35,7 +35,7 @@ Tesla Model X Plaid har en maksimal effekt på 760KW (1033hk).Totalt dreiemoment
 
 Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 96kWh, noe som betyr at du har en 4kWh-buffer for beskyttelse. (4,0%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp) varierer fra 543 til 528 km (337-328 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17.7kWh/100 km for basisversjonen og 18.2kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 543 til 528 km (337-328 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17.7kWh/100 km for basisversjonen og 18.2kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 80 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 47%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 143kW. Hver ladeøkt vil ta 16 minutter og 9 sekunder. 
 
@@ -191,7 +191,7 @@ Tesla Model X Plaid har [**automatisk nødbremsing**](../../../../technology/dri
 
 ### Kjøreautomatisering
 
-Tesla Model X Plaid tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving ), avhengig av utstyrsnivået. 
+Tesla Model X Plaid tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået. 
 
 Med Basic Autopilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 

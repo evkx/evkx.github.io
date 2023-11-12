@@ -212,7 +212,7 @@ Tesla Model Y Standard Range har [**automatisk nødbremsing**](../../../../techn
 
 ### Kjøreautomatisering
 
-Tesla Model Y Standard Range tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving ), avhengig av utstyrsnivået. 
+Tesla Model Y Standard Range tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået. 
 
 Med Basic Autopilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 

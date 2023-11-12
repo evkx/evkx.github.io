@@ -35,7 +35,7 @@ The Rivian R1S Performance Dual-Motor AWD LP has a maximum power of 489KW (665hp
 
 The battery has a gross capacity of 135kWh and a net capacity of 125kWh, meaning you have a 10kWh buffer for protection. (7,4%). 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 320 miles (515 km).   The consumption is 2.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa/) is 320 miles (515 km).   The consumption is 2.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 104 minutes, while a more common scenario of 10-80% would take 42 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45%, resulting in an actual charge speed, including time loss, of 138kW. Each charge session would take 25 minutes and 30 seconds. 
 

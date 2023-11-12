@@ -216,7 +216,7 @@ Volkswagen ID.5 Pro har [**automatisk nødbremsing**](../../../../technology/dri
 
 ### Kjøreautomatisering
 
-Volkswagen ID.5 Pro tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), avhengig av utstyrsnivå.
+Volkswagen ID.5 Pro tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 

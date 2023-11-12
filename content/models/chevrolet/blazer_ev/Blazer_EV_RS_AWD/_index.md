@@ -35,7 +35,7 @@ The Chevrolet Blazer EV RS AWD has a maximum power of 214KW (291hp). The total t
 
 The battery has a gross capacity of 85kWh and a net capacity of 80kWh, meaning you have a 5kWh buffer for protection. (5,9%). 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 279 miles (449 km).   The consumption is 3.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa/) is 279 miles (449 km).   The consumption is 3.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 190kW. A full charge from 0 - 100% would take 138 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 68%, resulting in an actual charge speed, including time loss, of 115kW. Each charge session would take 25 minutes and 26 seconds. 
 

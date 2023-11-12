@@ -192,7 +192,7 @@ Tesla Model 3 Long Range (GEN1) har [**automatisk nødbremsing**](../../../../te
 
 ### Kjøreautomatisering
 
-Tesla Model 3 Long Range (GEN1) tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving ), avhengig av utstyrsnivået. 
+Tesla Model 3 Long Range (GEN1) tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået. 
 
 Med Basic Autopilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 

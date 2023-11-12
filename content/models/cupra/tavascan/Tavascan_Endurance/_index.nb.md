@@ -194,7 +194,7 @@ CUPRA Tavascan Endurance har [**automatisk nødbremsing**](../../../../technolog
 
 ### Kjøreautomatisering
 
-CUPRA Tavascan Endurance tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), avhengig av utstyrsnivå.
+CUPRA Tavascan Endurance tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
 Med standardsystemet tilbyr modellen ingen kjøreautomatisering. 
 - Cruisekontroll. 

@@ -35,7 +35,7 @@ The Lucid Air Pure has a maximum power of 320KW (435hp). The total torque is 400
 
 The battery has a gross capacity of 94kWh and a net capacity of 92kWh, meaning you have a 2kWh buffer for protection. (2,1%). 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 410 miles (660 km).   The consumption is 4.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa/) is 410 miles (660 km).   The consumption is 4.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 49%, resulting in an actual charge speed, including time loss, of 163kW. Each charge session would take 16 minutes and 18 seconds. 
 

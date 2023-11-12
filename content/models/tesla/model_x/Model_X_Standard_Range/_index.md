@@ -35,7 +35,7 @@ The Tesla Model X Standard Range has a maximum power of 381KW (518hp). The total
 
 The battery has a gross capacity of 100kWh and a net capacity of 75kWh, meaning you have a 25kWh buffer for protection. (25,0%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp) varies from 543 to 528 km (337-328 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13.8kWh/100km for the basic version and 14.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 543 to 528 km (337-328 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 13.8kWh/100km for the basic version and 14.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 24 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 50%, resulting in an actual charge speed, including time loss, of 132kW. Each charge session would take 15 minutes and 20 seconds. 
 

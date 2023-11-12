@@ -35,7 +35,7 @@ The Cadillac LYRIQ AWD has a maximum power of 373KW (507hp). The total torque is
 
 The battery has a gross capacity of 110kWh and a net capacity of 102kWh, meaning you have a 8kWh buffer for protection. (7,3%). 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 307 miles (494 km).   The consumption is 3.0mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa/) is 307 miles (494 km).   The consumption is 3.0mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 176 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 65%, resulting in an actual charge speed, including time loss, of 120kW. Each charge session would take 29 minutes and 59 seconds. 
 

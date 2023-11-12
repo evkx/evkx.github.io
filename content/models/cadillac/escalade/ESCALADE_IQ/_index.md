@@ -35,7 +35,7 @@ The Cadillac ESCALADE IQ has a maximum power of 560KW (761hp). The total torque 
 
 The battery has a gross capacity of 215kWh and a net capacity of 200kWh, meaning you have a 15kWh buffer for protection. (7,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
- The [EPA range](../../../../guides/understandingrange/epa) is 450 miles (724 km).   The consumption is 2.3mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa/) is 450 miles (724 km).   The consumption is 2.3mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 130 minutes, while a more common scenario of 10-80% would take 45 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 53%, resulting in an actual charge speed, including time loss, of 242kW. Each charge session would take 26 minutes and 49 seconds. 
 

@@ -185,7 +185,7 @@ Tesla Model S Plaid har [**automatisk nødbremsing**](../../../../technology/dri
 
 ### Kjøreautomatisering
 
-Tesla Model S Plaid tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving ), avhengig av utstyrsnivået. 
+Tesla Model S Plaid tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået. 
 
 Med Basic Autopilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
