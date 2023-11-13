@@ -2,7 +2,7 @@
   <div class="container">
     <nav class="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/">
+        <a class="navbar-brand" href="{{ with .Site.GetPage `/`}}{{.RelPermalink}}{{end}}">
           <img class="img-fluid" src="/images/evkxblacktrans.png" alt="EVKX logo">
         </a>
          <div class="collapse navbar-collapse" id="navbarSupportedContent">
