@@ -1,3 +1,4 @@
+# Menu
 - id: menu-technology
   translation: Technology
 
@@ -10,6 +11,7 @@
 - id: menu-brands
   translation: Brands & Models
 
+# Common Sections
 - id: common-section-search-title
   translation: EV Search
 
@@ -29,7 +31,7 @@
   translation: Learn EV technology
 
 - id: common-section-technology-description
-  translation: EVKX.net offers the most extensive collection of in-depth articles about EV technology.
+  translation: EVKX.net offers the most extensive collection of in-depth articles about EV technology. 
 
 - id: common-section-technology-section-battery
   translation: Battery
@@ -85,18 +87,6 @@
 - id: common-section-models-description
   translation: Please read about the different Brands, their EV strategies, and the most complete info on all models below.
 
-- id: frontpage-description-2d822625
-  translation: Chevrolet Blazer EV RS AWD is an all-electric SUV with a EPA range of up to 449 km (279 miles). EVKX.net has all the details. 
 
-- id: frontpage-description-4fa87843
-  translation: Subaru Solterra AWD is an all-electric SUV with a WLTP range of up to 466 km (290 miles). EVKX.net has all the details. 
 
-- id: frontpage-description-95baf292
-  translation: Seres 5 4WD Premium is an all-electric coupe SUV with a WLTP range of up to 483 km (300 miles). EVKX.net has all the details. 
-
-- id: frontpage-description-c217b2cf
-  translation: SKODA ENYAQ COUPÉ 85x is an all-electric coupe SUV with a WLTP range of up to 545 km (339 miles). EVKX.net has all the details. 
-
-- id: frontpage-description-47fcea70
-  translation: Audi Q4 Sportback 55 e-tron quattro is an all-electric premium coupe SUV with a WLTP range of up to 537 km (334 miles). EVKX.net has all the details. 
-
+   

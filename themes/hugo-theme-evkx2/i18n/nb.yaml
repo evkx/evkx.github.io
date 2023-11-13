@@ -1,3 +1,5 @@
+# Header
+# Menu
 - id: menu-technology
   translation: Teknologi
 
@@ -10,6 +12,7 @@
 - id: menu-brands
   translation: Merker & Modeller
 
+# Common Sections
 - id: common-section-search-title
   translation: Elbil søk
 
@@ -84,19 +87,4 @@
 
 - id: common-section-models-description
   translation: Les om de forskjellige merkene, deres EV-strategier og den mest komplette informasjonen om alle modellene nedenfor.
-
-- id: frontpage-description-2d822625
-  translation: Chevrolet Blazer EV RS AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 449 km (279 miles). EVKX.net har alle detaljene. 
-
-- id: frontpage-description-4fa87843
-  translation: Subaru Solterra AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 466 km (290 miles). EVKX.net har alle detaljene. 
-
-- id: frontpage-description-95baf292
-  translation: Seres 5 4WD Premium er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 483 km (300 miles). EVKX.net har alle detaljene. 
-
-- id: frontpage-description-c217b2cf
-  translation: SKODA ENYAQ COUPÉ 85x er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 545 km (339 miles). EVKX.net har alle detaljene. 
-
-- id: frontpage-description-47fcea70
-  translation: Audi Q4 Sportback 55 e-tron quattro er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 537 km (334 miles). EVKX.net har alle detaljene. 
 
