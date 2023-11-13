@@ -15,17 +15,17 @@ By the end of this article, you will better understand the current state and pro
 
 We have split the article into separate sections.
 
-- [Battery Basics](basic) - The basic concept of a battery
-- [Cell Chemistry & Parts](cellchemistry) - Details about the different chemistry and cell parts
-- [Cell Housing](cell) - Details about cell housing like pouch, prismatic, blade, and cylindrical.
-- [Battery Pack & configuration](batterypack) - 400 volts vs. 800. Cell to module vs. Cell to pack, and more.
-- [Battery management system](batterymanagment) - The brain of the battery system
-- [Thermal management](thermalmanagement) - Why is thermal management essential for performance, and how does it work
-- [Charging](charging) - How charging works
-- [Cell Balancing](cellbalancing) - What is cell balancing
-- [Degradation](degredation) -  What happens when the battery degrades? How to reduce it?
-- [Buffer](buffer) - Understand buffer
-- [Manufacturers](manufactors) - What are the largest battery producers?
-- [Warranty](warranty) - What kind of battery warranty is typical?
+- [Battery Basics](basic/) - The basic concept of a battery
+- [Cell Chemistry & Parts](cellchemistry/) - Details about the different chemistry and cell parts
+- [Cell Housing](cell/) - Details about cell housing like pouch, prismatic, blade, and cylindrical.
+- [Battery Pack & configuration](batterypack/) - 400 volts vs. 800. Cell to module vs. Cell to pack, and more.
+- [Battery management system](batterymanagment/) - The brain of the battery system
+- [Thermal management](thermalmanagement/) - Why is thermal management essential for performance, and how does it work
+- [Charging](charging/) - How charging works
+- [Cell Balancing](cellbalancing/) - What is cell balancing
+- [Degradation](degredation/) -  What happens when the battery degrades? How to reduce it?
+- [Buffer](buffer/) - Understand buffer
+- [Manufacturers](manufactors/) - What are the largest battery producers?
+- [Warranty](warranty/) - What kind of battery warranty is typical?
 
 {{<evkxdisplayaddarticle />}}
