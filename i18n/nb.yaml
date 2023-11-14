@@ -10,6 +10,9 @@
 - id: menu-brands
   translation: Merker & Modeller
 
+- id: language
+  translation: Språk
+
 - id: common-section-search-title
   translation: Elbil søk
 

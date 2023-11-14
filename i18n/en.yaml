@@ -10,6 +10,9 @@
 - id: menu-brands
   translation: Brands & Models
 
+- id: language
+  translation: Language
+
 - id: common-section-search-title
   translation: EV Search
 
