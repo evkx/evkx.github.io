@@ -1,0 +1,10 @@
+<div class="list-group">
+  {{- $currentPage := . -}}
+  {{- if .Site.IsMultiLingual -}}
+    {{- range .AllTranslations -}}
+  <a href="{{ .RelPermalink }}" class="list-group-item list-group-item-action">
+    <img src="/images/{{ .Language }}.svg" width="20px" class="img-fluid" alt="Language flag" /> {{ .Language.LanguageName }}{{- if eq .Language.Lang $currentPage.Language.Lang }} ✓{{- end -}}
+  </a>
+  {{- end -}}
+  {{- end -}}
+</div>
