@@ -49,7 +49,7 @@ For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11KW
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. En andre port er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**J1772**](../../../../technology/charging/connectors/# j1772) for Nord-Amerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullstendige spesifikasjoner for alle markeder. 
+Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. En andre port er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**J1772**](../../../../technology/charging/connectors/#j1772) for Nord-Amerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullstendige spesifikasjoner for alle markeder. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -65,7 +65,7 @@ Du kan bestille Porsche Taycan GTS med en alternativ Adaptive Air Suspension sus
 
 ### Styring
 
-Dynamisk styring er a standard-funksjonen på Porsche Taycan GTS. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som an optional-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
+Dynamisk styring er standard-funksjonen på Porsche Taycan GTS. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som tilvalg-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
 
 ### Bremser
 
@@ -109,8 +109,8 @@ Det er three setetyper du kan velge mellom for første rad i Porsche Taycan GTS.
 Følgende funksjoner er tilgjengelige på **Comfort** setet. 
 
 - elektrisk justering 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
 - integrert hodestøtte 
 
@@ -122,7 +122,7 @@ Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 
 - elektrisk justering 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 
@@ -142,7 +142,7 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrert hodestøtte 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
-- [massasje](../../../../technology/seats/adjustment/#massage) (optional)
+- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen. <br />
 <br />
@@ -158,12 +158,12 @@ Du kan velge two setetyper for den andre raden i Porsche Taycan GTS.
 
 Alternativet standard er to integrerte seter i andre rad. I tillegg er følgende funksjoner tilgjengelige. 
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - integrert hodestøtte 
 
 Alternativet second er to integrerte seter i andre rad med et tredje mindre sete i mellom. I tillegg er følgende funksjoner tilgjengelige. 
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - integrert hodestøtte 
 
 Det er bare én type ratt tilgjengelig. 
@@ -192,7 +192,7 @@ Porsche Taycan GTS har flere integrerte skjermer. Bak rattet er en [digital inst
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/screens_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
 
 
-Et head-up display er an optional-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
 
 ## Infotainment
 
@@ -208,28 +208,28 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 
 Porsche Taycan GTS har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er a standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi. 
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi. 
 ### Sikkerhetssystemer
 
 
 
-Porsche Taycan GTS har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som a standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Porsche Taycan GTS har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-Porsche Taycan GTS har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som a standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
+Porsche Taycan GTS har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
 
-Porsche Taycan GTS har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som a standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+Porsche Taycan GTS har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er an optional førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon. 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er tilvalg førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon. 
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er an optional førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er tilvalg førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er an optional førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er tilvalg førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-Porsche Taycan GTS har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som a standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+Porsche Taycan GTS har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
-[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er a standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
 
-[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er an optional førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner. 
+[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er tilvalg førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner. 
 
 ### Kjøreautomatisering
 
@@ -237,7 +237,7 @@ Porsche Taycan GTS tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../..
 
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (optional) 
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg) 
 
 
 Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor. 

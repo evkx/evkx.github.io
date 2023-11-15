@@ -61,7 +61,7 @@ standard-fjæringen har stålfjærer med fast høyde, men en valgfri dempingsjus
 
 ### Styring
 
-Dynamisk styring er an optional-funksjonen på CUPRA BORN 77 e-BOOST. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
+Dynamisk styring er tilvalg-funksjonen på CUPRA BORN 77 e-BOOST. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
 ### Bremser
 
@@ -98,13 +98,13 @@ Bare én type forsete er tilgjengelig i CUPRA BORN 77 e-BOOST.
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
-- elektrisk justering (optional)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
+- elektrisk justering (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (tilvalg)
 - integrert hodestøtte 
-- [massasje](../../../../technology/seats/adjustment/#massage) (optional)
+- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen. <br />
 <br />
@@ -149,13 +149,13 @@ CUPRA BORN 77 e-BOOST har to skjermer med informasjon for sjåføren og passasje
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/screens_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="1714"  >}}
 
 
-Et head-up display er an optional-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
 
 ## Infotainment
 
 Du kan velge mellom two lydsystemer på CUPRA BORN 77 e-BOOST. Med Sound system får du five høyttalere med en maksimal systemeffekt på 140 watt. Med Beats Audio får du nine høyttalere med en maksimal systemeffekt på 395 watt. 
 
-I tillegg får du med optional navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter CUPRA BORN 77 e-BOOST Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
+I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter CUPRA BORN 77 e-BOOST Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 4 USB-C-tilkoblinger som standard. 
 ## Lys
@@ -169,26 +169,26 @@ Standardlyktene bruker LED-teknologi.
 
 CUPRA BORN 77 e-BOOST har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er a standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi. 
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi. 
 ### Sikkerhetssystemer
 
 
 
-CUPRA BORN 77 e-BOOST har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som a standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+CUPRA BORN 77 e-BOOST har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-CUPRA BORN 77 e-BOOST har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som a standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
+CUPRA BORN 77 e-BOOST har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
 
-CUPRA BORN 77 e-BOOST har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som a standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+CUPRA BORN 77 e-BOOST har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er a standard førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon. 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er standard førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er a standard førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er standard førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-CUPRA BORN 77 e-BOOST har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som a standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+CUPRA BORN 77 e-BOOST har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
-[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er a standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
 
-[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er an optional førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner. 
+[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er tilvalg førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner. 
 
 ### Kjøreautomatisering
 
@@ -204,7 +204,7 @@ Med   nivå 1-systemet får du flere kjøreautomatiseringsfunksjoner enn de som 
 
 Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor. 
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (optional) 
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg) 
 
 
 {{<evkxdisplayaddarticle />}}

@@ -150,7 +150,7 @@ Citroën ë-C3 har flere integrerte skjermer. Bak rattet er en [digital instrume
 
 Én type lydsystem er tilgjengelig for Citroën ë-C3. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt. 
 
-I tillegg får du med optional navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Citroën ë-C3 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
+I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Citroën ë-C3 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 4 USB-C-tilkoblinger som standard. 
 ## Lys
@@ -167,7 +167,7 @@ Citroën ë-C3 har flere standard og valgfrie [avanserte førerassistentsystemer
 
 
 
-Citroën ë-C3 har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som a standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+Citroën ë-C3 har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
 ### Kjøreautomatisering
 

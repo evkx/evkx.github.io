@@ -61,7 +61,7 @@ Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping ka
 
 ### Styring
 
-Dynamisk styring er a standard-funksjonen på Mercedes-EQ EQS 450+. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som a standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
+Dynamisk styring er standard-funksjonen på Mercedes-EQ EQS 450+. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
 
 ### Bremser
 
@@ -107,8 +107,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) 
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) 
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen. <br />
 <br />
@@ -125,7 +125,7 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 - [massasje](../../../../technology/seats/adjustment/#massage) 
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen. <br />
@@ -143,12 +143,12 @@ Du kan velge two setetyper for den andre raden i Mercedes-EQ EQS 450+.
 Alternativet standard er en tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
 - høydejusterbar hodestøtte 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 
 Alternativet second er en tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
 - høydejusterbar hodestøtte 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
@@ -186,7 +186,7 @@ Standardoppsettet har følgende konfigurasjon. -skjermen bak rattet montert i da
 
 Det valgfrie MBUX Hyperscreen-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen øverst på midtkonsollen er 17.7 tommer stor og har en oppløsning på 3088x1728 piksler. -skjermen foran passasjeren i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. 
 
-Et head-up display er an optional-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
 
 Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
 
@@ -209,21 +209,21 @@ Mercedes-EQ EQS 450+ har flere standard og valgfrie [avanserte førerassistentsy
 
 
 
-Mercedes-EQ EQS 450+ har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som a standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Mercedes-EQ EQS 450+ har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-Mercedes-EQ EQS 450+ har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som a standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
+Mercedes-EQ EQS 450+ har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
 
-Mercedes-EQ EQS 450+ har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som a standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+Mercedes-EQ EQS 450+ har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er an optional førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon. 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er tilvalg førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er an optional førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er tilvalg førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-Mercedes-EQ EQS 450+ har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som a standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+Mercedes-EQ EQS 450+ har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
-[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er an optional førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er tilvalg førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
 
-[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er an optional førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner. 
+[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er tilvalg førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner. 
 
 ### Kjøreautomatisering
 
@@ -231,7 +231,7 @@ Mercedes-EQ EQS 450+ tilbyr [kjøreautomatisering på nivå 1,2 eller 3](../../.
 
 Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (optional) 
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg) 
 
 
 Med Driver Assistance Package Plus  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor. 

@@ -53,7 +53,7 @@ For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11KW
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. En andre port er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**J1772**](../../../../technology/charging/connectors/# j1772) for Nord-Amerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullstendige spesifikasjoner for alle markeder. 
+Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. En andre port er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading.Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**J1772**](../../../../technology/charging/connectors/#j1772) for Nord-Amerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullstendige spesifikasjoner for alle markeder. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -69,7 +69,7 @@ Du kan bestille Audi e-tron 55 med en alternativ Adaptive Air Suspension Sport s
 
 ### Styring
 
-Dynamisk styring er a standard-funksjonen på Audi e-tron 55. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
+Dynamisk styring er standard-funksjonen på Audi e-tron 55. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
 ### Bremser
 
@@ -88,7 +88,7 @@ exterior.styling.blackoptics
 
 I tillegg kan du velge mellom 10 hjul med størrelser fra 19 til 22 tommer. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate). Myk lukking er an optional-funksjon for sidedørene. 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate). Myk lukking er tilvalg-funksjon for sidedørene. 
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som beboerne kan bruke for å beskytte mot solen.
 
@@ -112,11 +112,11 @@ Det er five setetyper du kan velge mellom for første rad i Audi e-tron 55.
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
-- elektrisk justering (optional)
+- elektrisk justering (tilvalg)
 - høydejusterbar hodestøtte 
-- lengdejusterbar hodestøtte (optional)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- lengdejusterbar hodestøtte (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen. <br />
 <br />
@@ -124,11 +124,11 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen. <br />
 
 Følgende funksjoner er tilgjengelige på **sport** setet. 
 
-- elektrisk justering (optional)
+- elektrisk justering (tilvalg)
 - høydejusterbar hodestøtte 
-- lengdejusterbar hodestøtte (optional)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- lengdejusterbar hodestøtte (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 
@@ -138,11 +138,11 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen. <br />
 
 Følgende funksjoner er tilgjengelige på **s-line sport** setet. 
 
-- elektrisk justering (optional)
+- elektrisk justering (tilvalg)
 - høydejusterbar hodestøtte 
-- lengdejusterbar hodestøtte (optional)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- lengdejusterbar hodestøtte (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 
@@ -152,9 +152,9 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen. <br />
 
 Følgende funksjoner er tilgjengelige på **s sport** setet. 
 
-- elektrisk justering (optional)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- elektrisk justering (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrert hodestøtte 
@@ -175,8 +175,8 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
 - [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
-- [massasje](../../../../technology/seats/adjustment/#massage) (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen. <br />
 <br />
@@ -226,7 +226,7 @@ Audi e-tron 55 har flere integrerte skjermer. Bak rattet er en [digital instrume
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55/screens_1_st.jpg" title="Audi e-tron 55" width="3000" height="2000"  >}}
 
 
-Et head-up display er an optional-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
 
 ## Infotainment
 
@@ -246,28 +246,28 @@ Du kan velge mellom three typer frontlykter for Audi e-tron 55. Standardlyktene 
 
 Audi e-tron 55 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er a standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi. 
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi. 
 ### Sikkerhetssystemer
 
 
 
-Audi e-tron 55 har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som a standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Audi e-tron 55 har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-Audi e-tron 55 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som a standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
+Audi e-tron 55 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
 
-Audi e-tron 55 har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som a standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+Audi e-tron 55 har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er an optional førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon. 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er tilvalg førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon. 
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er an optional førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er tilvalg førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er an optional førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er tilvalg førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-Audi e-tron 55 har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som a standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+Audi e-tron 55 har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
-[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er an optional førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er tilvalg førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
 
-[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er an optional førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner. 
+[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er tilvalg førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner. 
 
 ### Kjøreautomatisering
 
@@ -275,7 +275,7 @@ Audi e-tron 55 tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../tec
 
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - Cruisekontroll. 
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (optional) 
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg) 
 
 
 Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor. 

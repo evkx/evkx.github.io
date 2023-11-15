@@ -67,7 +67,7 @@ Du kan bestille Volkswagen ID.7 Pro med en alternativ sport suspensjon. sport-op
 
 ### Styring
 
-Dynamisk styring er an optional-funksjonen på Volkswagen ID.7 Pro. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
+Dynamisk styring er tilvalg-funksjonen på Volkswagen ID.7 Pro. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
 
 ### Bremser
 
@@ -104,13 +104,13 @@ Det er two setetyper du kan velge mellom for første rad i Volkswagen ID.7 Pro.
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
-- elektrisk justering (optional)
+- elektrisk justering (tilvalg)
 - høydejusterbar hodestøtte 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
-- [massasje](../../../../technology/seats/adjustment/#massage) (optional)
+- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen. <br />
 <br />
@@ -118,9 +118,9 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen. <br />
 
 Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet. 
 
-- elektrisk justering (optional)
+- elektrisk justering (tilvalg)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrert hodestøtte 
@@ -173,13 +173,13 @@ Volkswagen ID.7 Pro har to skjermer med informasjon for sjåføren og passasjere
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/screens_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
 
-Et head-up display er an optional-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
 
 ## Infotainment
 
 Du kan velge mellom two lydsystemer på Volkswagen ID.7 Pro. Med Sound system får du six høyttalere med en maksimal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du six høyttalere med en maksimal systemeffekt på 450 watt. 
 
-I tillegg får du med optional navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Volkswagen ID.7 Pro Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
+I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Volkswagen ID.7 Pro Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 4 USB-C-tilkoblinger som standard. 
 ## Lys
@@ -193,26 +193,26 @@ Du kan velge mellom two typer frontlykter for Volkswagen ID.7 Pro. Standardlykte
 
 Volkswagen ID.7 Pro har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er a standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi. 
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi. 
 ### Sikkerhetssystemer
 
 
 
-Volkswagen ID.7 Pro har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som a standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Volkswagen ID.7 Pro har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-Volkswagen ID.7 Pro har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som a standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
+Volkswagen ID.7 Pro har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
 
-Volkswagen ID.7 Pro har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som a standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+Volkswagen ID.7 Pro har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er a standard førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon. 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er standard førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon. 
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er a standard førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er standard førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-Volkswagen ID.7 Pro har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som a standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+Volkswagen ID.7 Pro har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
-[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er a standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
 
-[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er an optional førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner. 
+[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er tilvalg førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner. 
 
 ### Kjøreautomatisering
 
@@ -224,7 +224,7 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor. 
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (optional) 
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg) 
 
 
 {{<evkxdisplayaddarticle />}}

@@ -69,7 +69,7 @@ Du kan bestille BMW i5 eDrive40 med en alternativ Adaptives suspension professio
 
 ### Styring
 
-Dynamisk styring er a standard-funksjonen på BMW i5 eDrive40. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som an optional-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
+Dynamisk styring er standard-funksjonen på BMW i5 eDrive40. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som tilvalg-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
 
 ### Bremser
 
@@ -82,7 +82,7 @@ Dynamisk styring er a standard-funksjonen på BMW i5 eDrive40. Dynamisk styring 
 Du kan velge mellom 12 forskjellige malingsfarger når du bestiller denne modellen. 
 I tillegg kan du velge mellom 8 hjul med størrelser fra 19 til 21 tommer. 
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. Myk lukking er an optional-funksjon for sidedørene. 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. Myk lukking er tilvalg-funksjon for sidedørene. 
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som beboerne kan bruke for å beskytte mot solen.
 
@@ -106,15 +106,15 @@ Det er two setetyper du kan velge mellom for første rad i BMW i5 eDrive40.
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
-- elektrisk justering (optional)
+- elektrisk justering (tilvalg)
 - høydejusterbar hodestøtte 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
+- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (tilvalg)
 - integrert hodestøtte 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen. 
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
@@ -128,9 +128,9 @@ Følgende funksjoner er tilgjengelige på **M Sport** setet.
 - elektrisk justering 
 - høydejusterbar hodestøtte 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - integrert hodestøtte 
 
@@ -144,7 +144,7 @@ Følgende funksjoner er tilgjengelige på **M Sport** setet.
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - integrert hodestøtte 
 
 
@@ -181,7 +181,7 @@ BMW i5 eDrive40 har doble skjermer på en delt ramme montert med braketter på d
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/screens_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="1999"  >}}
 
 
-Et head-up display er an optional-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
 
 ## Infotainment
 
@@ -204,19 +204,19 @@ BMW i5 eDrive40 har flere standard og valgfrie [avanserte førerassistentsysteme
 
 
 
-BMW i5 eDrive40 har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som a standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+BMW i5 eDrive40 har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-BMW i5 eDrive40 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som a standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
+BMW i5 eDrive40 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
 
-BMW i5 eDrive40 har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som a standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+BMW i5 eDrive40 har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er an optional førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er tilvalg førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er an optional førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er tilvalg førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-BMW i5 eDrive40 har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som a standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+BMW i5 eDrive40 har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
-[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er an optional førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er tilvalg førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
 
 ### Kjøreautomatisering
 
@@ -224,7 +224,7 @@ BMW i5 eDrive40 tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../te
 
 Med Driving Assistant  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - Cruisekontroll. 
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (optional) 
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg) 
 
 
 Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor. 

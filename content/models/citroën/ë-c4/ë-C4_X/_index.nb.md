@@ -94,8 +94,8 @@ Bare én type forsete er tilgjengelig i Citroën ë-C4 X.
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
-- elektrisk justering (optional)
-- [massasje](../../../../technology/seats/adjustment/#massage) (optional)
+- elektrisk justering (tilvalg)
+- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen. 
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
@@ -134,7 +134,7 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 -skjermen bak rattet integrert i dashbordet er 7.0 tommer stor. touch-skjermen i dashbordets sentrum  er 10.3 tommer stor. 
 
-Et head-up display er a standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
 
 ## Infotainment
 
@@ -157,7 +157,7 @@ Citroën ë-C4 X har flere standard og valgfrie [avanserte førerassistentsystem
 
 
 
-Citroën ë-C4 X har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som a standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+Citroën ë-C4 X har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
 ### Kjøreautomatisering
 

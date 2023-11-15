@@ -61,7 +61,7 @@ Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping ka
 
 ### Styring
 
-Dynamisk styring er a standard-funksjonen på Rolls-Royce Spectre. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som a standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
+Dynamisk styring er standard-funksjonen på Rolls-Royce Spectre. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
 
 ### Bremser
 
@@ -73,7 +73,7 @@ Dynamisk styring er a standard-funksjonen på Rolls-Royce Spectre. Dynamisk styr
 
 Du kan velge mellom 8 forskjellige malingsfarger når du bestiller denne modellen. 
 
-Bilen har to [selvmordsdører](../../../../technology/doors/) på og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. Myk lukking er a standard-funksjon for sidedørene. Elektriske dører er a standard funksjon for sidedørene. 
+Bilen har to [selvmordsdører](../../../../technology/doors/) på og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. Myk lukking er standard-funksjon for sidedørene. Elektriske dører er standard funksjon for sidedørene. 
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak. 
 
@@ -102,10 +102,10 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) 
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) 
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
-- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
+- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (tilvalg)
 - integrert hodestøtte 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
-- [massasje](../../../../technology/seats/adjustment/#massage) (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen. 
 -  [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
@@ -129,7 +129,7 @@ Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen.
 For den andre raden har denne modellen doble [executive-seter](../../../../technology/seats/types/#twin-executive- seter).I tillegg er følgende funksjoner tilgjengelige. 
 
 - elektrisk justering 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (optional)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - integrert hodestøtte 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
@@ -169,7 +169,7 @@ Rolls-Royce Spectre har flere integrerte skjermer. Bak rattet er en [digital ins
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/screens_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1862"  >}}
 
 
-Et head-up display er an optional-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
 
 ## Infotainment
 
@@ -192,19 +192,19 @@ Rolls-Royce Spectre har flere standard og valgfrie [avanserte førerassistentsys
 
 
 
-Rolls-Royce Spectre har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som a standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Rolls-Royce Spectre har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-Rolls-Royce Spectre har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som a standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
+Rolls-Royce Spectre har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
 
-Rolls-Royce Spectre har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som a standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+Rolls-Royce Spectre har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er an optional førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er tilvalg førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er an optional førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er tilvalg førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-Rolls-Royce Spectre har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som a standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+Rolls-Royce Spectre har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
-[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er an optional førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er tilvalg førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
 
 ### Kjøreautomatisering
 
@@ -213,7 +213,7 @@ Rolls-Royce Spectre har [**automatisk nødbremsing**](../../../../technology/dri
 Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner. 
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (optional) 
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg) 
 
 
 {{<evkxdisplayaddarticle />}}
