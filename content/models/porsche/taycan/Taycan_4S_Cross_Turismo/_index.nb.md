@@ -59,9 +59,9 @@ Porsche Taycan 4S Cross Turismo har et firehjulsdriftssystem som støttes av to 
 
 
 
-Du kan bestille Porsche Taycan 4S Cross Turismo med en alternativ Adaptive Air Suspension suspensjon. Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 126 mm, og maksimum er 176 mm. 
+Du kan bestille Porsche Taycan 4S Cross Turismo med en alternativ Adaptive Air Suspension suspensjon. Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 126 mm, og maksimum er 176 mm. 
 
-Du kan bestille Porsche Taycan 4S Cross Turismo med en alternativ Adaptive Air Suspension Offroad Design Package suspensjon. Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 136 mm, og maksimum er 186 mm. 
+Du kan bestille Porsche Taycan 4S Cross Turismo med en alternativ Adaptive Air Suspension Offroad Design Package suspensjon. Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 136 mm, og maksimum er 186 mm. 
 
 ### Styring
 

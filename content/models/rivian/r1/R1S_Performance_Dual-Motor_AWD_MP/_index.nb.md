@@ -61,7 +61,7 @@ Plasseringen av ladeporten er i [fremre venstre hjørne](../../../../technology/
 
 Rivian R1S Performance Dual-Motor AWD MP har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
 
-Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 205 mm, og maksimum er 365 mm. 
+Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 205 mm, og maksimum er 365 mm. 
 
 ### Bremser
 

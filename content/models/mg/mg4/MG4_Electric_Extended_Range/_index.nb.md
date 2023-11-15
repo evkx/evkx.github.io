@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 MG MG4 Electric Extended Range har et bakhjulsdriftssystem støttet av en motor på bakakselen. 
 
-Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 150 mm. 
+Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 150 mm. 
 
 ### Bremser
 

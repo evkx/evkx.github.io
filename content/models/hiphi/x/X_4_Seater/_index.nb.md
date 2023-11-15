@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 HiPhi X 4 Seater har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 150 mm, og maksimum er 200 mm. 
+Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 150 mm, og maksimum er 200 mm. 
 
 ### Styring
 

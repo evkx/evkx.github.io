@@ -61,7 +61,7 @@ Plasseringen av ladeporten er i [fremre venstre hjørne](../../../../technology/
 
 Rivian R1T Quad-Motor AWD har et firehjulsdriftssystem som støttes av fire motorer. En for hvert hjul. 
 
-Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 205 mm, og maksimum er 378 mm. 
+Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 205 mm, og maksimum er 378 mm. 
 
 ### Bremser
 

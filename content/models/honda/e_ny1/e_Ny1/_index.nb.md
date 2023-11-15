@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 drivetrain.drivesetup.NotSet
 
-Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 140 mm. 
+Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 140 mm. 
 
 ### Bremser
 

@@ -59,7 +59,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 DS 3 E-Tense har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
 
-Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Torsion Beam]( ../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 170 mm. 
+Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 170 mm. 
 
 ### Bremser
 

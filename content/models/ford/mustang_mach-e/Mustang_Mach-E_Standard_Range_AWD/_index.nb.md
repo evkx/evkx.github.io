@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Ford Mustang Mach-E Standard Range AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
 
-Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 147 mm. 
+Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 147 mm. 
 
 ### Bremser
 

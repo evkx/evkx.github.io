@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 CUPRA Tavascan Endurance har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-fjæringen har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 131 mm. 
+Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-fjæringen har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 131 mm. 
 
 ### Styring
 

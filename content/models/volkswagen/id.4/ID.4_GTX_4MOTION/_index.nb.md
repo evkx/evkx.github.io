@@ -57,9 +57,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Volkswagen ID.4 GTX 4MOTION har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/). 
 
-Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-fjæringen har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 180 mm. 
+Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-fjæringen har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 180 mm. 
 
-Du kan bestille Volkswagen ID.4 GTX 4MOTION med en alternativ sport suspensjon. Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. sport-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 163 mm. 
+Du kan bestille Volkswagen ID.4 GTX 4MOTION med en alternativ sport suspensjon. Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. sport-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 163 mm. 
 
 ### Styring
 

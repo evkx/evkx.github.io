@@ -63,7 +63,7 @@ Porsche Taycan Turbo S har et firehjulsdriftssystem som støttes av to motorer, 
 
 
 
-Du kan bestille Porsche Taycan Turbo S med en alternativ Adaptive Air Suspension suspensjon. Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](. ./../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 103 mm, og maksimum er 126 mm. 
+Du kan bestille Porsche Taycan Turbo S med en alternativ Adaptive Air Suspension suspensjon. Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 103 mm, og maksimum er 126 mm. 
 
 ### Styring
 

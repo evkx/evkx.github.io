@@ -55,7 +55,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Peugot E-3008 Long Range har et forhjulsdriftssystem støttet av én motor på forakselen. 
 
-Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Torsion Beam]( ../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 200 mm. 
+Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre fjæringen er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 200 mm. 
 
 ### Bremser
 
