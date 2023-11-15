@@ -67,7 +67,7 @@ Fjæringen foran er [MacPherson Strut](../../../../technology/suspension/#macphe
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 457mm, og de bakre skivene er 432mm. 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual -regen-bruker-bremsepedal) for å regenere. Du kan velge mellom to stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser, og rullemodus får kjøretøyet til å rulle til det stopper av seg selv. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Du kan velge mellom to stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser, og rullemodus får kjøretøyet til å rulle til det stopper av seg selv. 
 
 ## Eksteriør
 

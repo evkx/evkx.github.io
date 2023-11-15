@@ -67,7 +67,7 @@ Volvo C40 Recharge Single Motor ER har et bakhjulsdriftssystem støttet av en mo
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual -regen-bruker-bremsepedal) for å regenere. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. 
 
 ## Eksteriør
 

@@ -67,7 +67,7 @@ Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual -regen-bruker-bremsepedal) for å regenere. Ved lave hastigheter vil en-pedal kjøremodus holde bilen krypende fremover. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Ved lave hastigheter vil en-pedal kjøremodus holde bilen krypende fremover. 
 
 ## Eksteriør
 

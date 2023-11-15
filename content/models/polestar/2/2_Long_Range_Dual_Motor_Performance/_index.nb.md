@@ -63,7 +63,7 @@ Polestar 2 Long Range Dual Motor Performance har et firehjulsdriftssystem som st
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual -regen-bruker-bremsepedal) for å regenere. Du kan velge mellom to stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser og krypemodus vil krype bilen fremover i lav hastighet. Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Du kan velge mellom to stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser og krypemodus vil krype bilen fremover i lav hastighet. Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
 
 ## Eksteriør
 
