@@ -2,15 +2,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {{ partial "meta.html" . }}
-    {{if .IsHome}}
-    <title>Electric Vehicle Knowledge eXchange- Everything about all-electric cars</title>
-    {{else}}
+    {{if .IsHome}}<title>Electric Vehicle Knowledge eXchange- Everything about all-electric cars</title>{{else}}
     <title>{{ .Title }} :: evkx.net</title>
     {{end}}
     <link rel="shortcut icon" href="{{"images/favicon.png" | relURL}}" type="image/x-icon" />
     <link href="{{"css/bootstrap.min.css" | relURL}}" rel="stylesheet">
     <link href="{{"css/photoswipe.css" | relURL}}" rel="stylesheet">
     <link href="{{"css/bootstrap-icons.css" | relURL}}" rel="stylesheet">
+    {{- $currentPage := . -}}
+    {{- if .Site.IsMultiLingual -}}
+    {{- range .AllTranslations -}}
+    {{- if ne .Language.Lang $currentPage.Language.Lang }}
+    <link rel="alternate" hreflang="{{ .Language }}" href="{{ .RelPermalink }}" />
+    {{- end -}}
+    {{- end -}}
+    {{- end -}}
 		{{ partial "googleanalytics.html" . }}
     {{ partial "addsenseauto.html" . }}
   </head>
