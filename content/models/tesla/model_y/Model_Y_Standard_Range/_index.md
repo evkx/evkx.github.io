@@ -34,27 +34,27 @@ The Tesla Model Y Standard Range has a maximum power of 255KW (347hp). The total
 ## Battery, range, and charging
 
 Tesla Model Y Standard Range has three battery options with different specifications. Below you see how this affects range and charging. 
+### CATL LFP Europa/China market
+
+The battery has a gross capacity of 60kWh and a net capacity of 55kWh, meaning you have a 5kWh buffer for protection. (8,3%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
+
+ The [WLTP range](../../../../guides/understandingrange/wltp) is 430 km (267 mi).   The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+
+The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 52 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 47%, resulting in an actual charge speed, including time loss, of 89kW. Each charge session would take 17 minutes and 30 seconds. 
+
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 55 minutes. This trip will require five charge session(s) charging from 0% to 51%. The total time lost for charging up the battery will be 95 minutes.
 ### BYD LFP Europa/China market
 
 The battery has a gross capacity of 60kWh and a net capacity of 55kWh, meaning you have a 5kWh buffer for protection. (8,3%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
 
  The [WLTP range](../../../../guides/understandingrange/wltp) is 430 km (267 mi).   The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 20 minutes, while a more common scenario of 10-80% would take 14 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 100%, resulting in an actual charge speed, including time loss, of 131kW. Each charge session would take 25 minutes and 58 seconds. 
+The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 37 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 63%, resulting in an actual charge speed, including time loss, of 113kW. Each charge session would take 18 minutes and 28 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 26 minutes. This trip will require three charge session(s) charging from 4% to 89%. The total time lost for charging up the battery will be 66 minutes.
-### CATL LFP Europa/China market
-
-The battery has a gross capacity of 60kWh and a net capacity of 57,5kWh, meaning you have a 2,5kWh buffer for protection. (4,2%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
-
- The [WLTP range](../../../../guides/understandingrange/wltp) is 430 km (267 mi).   The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
-
-The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 16 minutes, while a more common scenario of 10-80% would take 10 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 100%, resulting in an actual charge speed, including time loss, of 171kW. Each charge session would take 19 minutes and 57 seconds. 
-
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 10 minutes. This trip will require three charge session(s) charging from 9% to 89%. The total time lost for charging up the battery will be 51 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 35 minutes. This trip will require four charge session(s) charging from 0% to 64%. The total time lost for charging up the battery will be 75 minutes.
 ### NMC 4850 US Market
 
-The battery has a gross capacity of 70kWh and a net capacity of 68,5kWh, meaning you have a 1,5kWh buffer for protection. (2,1%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
+The battery has a gross capacity of 70kWh and a net capacity of 68,5kWh, meaning you have a 1,5kWh buffer for protection. (2,1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
  The [WLTP range](../../../../guides/understandingrange/wltp) is 430 km (267 mi).   The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 

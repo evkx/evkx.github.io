@@ -65,7 +65,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </thead>
 <tbody>
 <tr><td>Battery gross</td><td>60 kWh</td></tr>
-<tr><td>Battery net</td><td>57,5 kWh</td></tr>
+<tr><td>Battery net</td><td>55 kWh</td></tr>
 <tr><td>Max DC charging</td><td>250 kW</td></tr>
 <tr><td>Pack Configuration</td><td>106s1p</td></tr>
 <tr><td>Nominal voltage</td><td>340</td></tr>
@@ -84,7 +84,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><td>Max DC charging</td><td>250 kW</td></tr>
 <tr><td>Pack Configuration</td><td>106s1p</td></tr>
 <tr><td>Nominal voltage</td><td>340</td></tr>
-<tr><td>Cathode Materials</td><td>LFP</td></tr>
+<tr><td>Cathode Materials</td><td>NMC</td></tr>
 </tbody>
 </table>
 
