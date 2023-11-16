@@ -55,7 +55,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Lucid Gravity Dream Edition har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 155 mm, og maksimum er 220 mm. 
+Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med denne fjæringen er 126 mm. 
+
+Du kan bestille Lucid Gravity Dream Edition med en alternativ  suspensjon. Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 155 mm, og maksimum er 220 mm. 
 
 ### Styring
 
@@ -163,7 +165,7 @@ touch-skjermen bak rattet på tvers av midten av dashbordet er 34.0 tommer stor.
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Lucid Gravity Dream Edition. Med Surreal Sound System får du 21 høyttalere med en maksimal systemeffekt på  watt. 
+Én type lydsystem er tilgjengelig for Lucid Gravity Dream Edition. Med Surreal Sound Pro System får du 22 høyttalere med en maksimal systemeffekt på  watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
 
@@ -209,7 +211,7 @@ Med ADAS  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 456 liter. Med baksetet nede er det 627 liter. På taket kan du laste opptil 75kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 283 liter. Maksimumsvekten til bilen er 2850kg, og med basisvekten på 2360 kg kan du maksimalt laste 490 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.490kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer. 
+Lastkapasiteten i bagasjerommet er 456 liter. Med baksetet nede er det 627 liter. På taket kan du laste opptil 75kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 226 liter. Maksimumsvekten til bilen er 3280kg, og med basisvekten på 2500 kg kan du maksimalt laste 780 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 2700, og på ubremset er den 750kg. 
 

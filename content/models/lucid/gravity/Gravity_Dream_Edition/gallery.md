@@ -117,12 +117,30 @@ target="_blank">
 </a>
 </div>
 <div class="pswp-grid-item col-12 col-md-6 col-lg-4">
+<a href="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/frontseats_2.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/frontseats_2.jpeg"
+data-pswp-width="3000"
+data-pswp-height="2250" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/frontseats_2_xst.jpeg" alt="Lucid Gravity Dream Edition" width="200px" height="150px" />
+</a>
+</div>
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
 <a href="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/frunk_1.jpeg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/frunk_1.jpeg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/frunk_1_xst.jpeg" alt="Lucid Gravity Dream Edition" width="200px" height="133px" />
+</a>
+</div>
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
+<a href="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/frunk_2.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/frunk_2.jpeg"
+data-pswp-width="2573"
+data-pswp-height="1762" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/frunk_2_xst.jpeg" alt="Lucid Gravity Dream Edition" width="200px" height="136px" />
 </a>
 </div>
 <div class="pswp-grid-item col-12 col-md-6 col-lg-4">
@@ -150,6 +168,24 @@ data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
 <img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/interior_2_xst.jpeg" alt="Lucid Gravity Dream Edition" width="200px" height="150px" />
+</a>
+</div>
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
+<a href="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/interior_3.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/interior_3.jpeg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/interior_3_xst.jpeg" alt="Lucid Gravity Dream Edition" width="200px" height="133px" />
+</a>
+</div>
+<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
+<a href="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/interior_4.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/interior_4.jpeg"
+data-pswp-width="3000"
+data-pswp-height="1999" 
+target="_blank">
+<img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/interior_4_xst.jpeg" alt="Lucid Gravity Dream Edition" width="200px" height="133px" />
 </a>
 </div>
 <div class="pswp-grid-item col-12 col-md-6 col-lg-4">

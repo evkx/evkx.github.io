@@ -73,6 +73,25 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Suspensjon
 
+Modellen tilbyr 2 fjæringsvarianter
+<table class="table table-striped">
+<thead>
+<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
+</thead>
+<tbody>
+<tr><td>Adaptiv fjæring</td><td>Yes, standard equipment</td></tr>
+<tr><td>Justerbar demping foran</td><td>Yes, standard equipment</td></tr>
+<tr><td>Justerbar demping bak</td><td>Yes, standard equipment</td></tr>
+<tr><td>Justerbar høyde foran</td><td>Not available</td></tr>
+<tr><td>Justerbar høyde bak</td><td>Not available</td></tr>
+<tr><td>Maks bakkeklaring</td><td>126</td></tr>
+<tr><td>Minimum bakkeklaring</td><td>126</td></tr>
+<tr><td>Fjæringstype foran</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Fjæringskonstruksjon foran</td><td>DoubleWishbone</td></tr>
+<tr><td>Fjæringstype bak</td><td>SteelSpringsWithOilDampers</td></tr>
+<tr><td>Fjæringskonstruksjon bak</td><td>Multilink</td></tr>
+</tbody>
+</table>
 <table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>

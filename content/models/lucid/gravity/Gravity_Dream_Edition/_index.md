@@ -55,7 +55,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Lucid Gravity Dream Edition has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 155 mm, and the maximum is 220 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 126 mm. 
+
+You can order Lucid Gravity Dream Edition with an alternative  suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 155 mm, and the maximum is 220 mm. 
 
 ### Steering
 
@@ -163,7 +165,7 @@ The touch screen behind the steering wheel accross the the center of the dash  i
 
 ## Infotainment
 
-One type of sound system is available for the Lucid Gravity Dream Edition. With the Surreal Sound System, you get 21 speakers with a max system output of  watts. 
+One type of sound system is available for the Lucid Gravity Dream Edition. With the Surreal Sound Pro System, you get 22 speakers with a max system output of  watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
@@ -209,7 +211,7 @@ With the ADAS  level 2 system, you get the following driving automation features
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 456 liters. With the rear seat down, it is 627 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 283 liters. The maxium weight of the car is 2850kg, and with the base weight of 2360 kg, you can max load 490 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 490kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers. 
+The cargo capacity in the trunk is 456 liters. With the rear seat down, it is 627 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 226 liters. The maxium weight of the car is 3280kg, and with the base weight of 2500 kg, you can max load 780 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2700, and on unbraked, it is 750kg. 
 
