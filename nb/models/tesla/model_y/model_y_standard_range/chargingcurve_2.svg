@@ -3,7 +3,7 @@
     <g>
         <path d="M 1080 1091 L 40 1091 Q 30 1091 30 1081 L 30 36" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 30 791 L 1080 791" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
-       <path d="M 30  641 40  428 50  449 60  458 70  491 80  512 90  530 100  539 110  563 120  611 130  641 140  662 150  689 160  710 170  725 180  740 190  749 200  755 210  758 220  764 230  770 240  773 250  776 260  782 270  785 280  785 290  788 300  791 310  794 320  797 330  800 340  806 350  815 360  818 370  824 380  827 390  833 400  839 410  839 420  845 430  848 440  851 450  851 460  854 470  857 480  857 490  857 500  860 510  860 520  860 530  860 540  863 550  866 560  872 570  878 580  881 590  884 600  887 610  893 620  899 630  899 640  902 650  908 660  911 670  914 680  920 690  923 700  926 710  929 720  932 730  935 740  938 750  941 760  944 770  944 780  944 790  947 800  947 810  947 820  947 830  944 840  944 850  941 860  944 870  947 880  950 890  956 900  959 910  962 920  968 930  977 940  992 950  1004 960  1013 970  1028 980  1040 990  1049 1000  1058 1010  1064 1020  1070 1030  1076 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+       <path d="M 30  791 40  782 50  767 60  767 70  767 80  767 90  401 100  386 110  371 120  356 130  356 140  356 150  356 160  356 170  356 180  356 190  356 200  356 210  356 220  356 230  356 240  356 250  356 260  356 270  356 280  356 290  356 300  356 310  356 320  356 330  356 340  356 350  356 360  356 370  356 380  356 390  356 400  356 410  356 420  356 430  356 440  356 450  356 460  356 470  356 480  356 490  356 500  356 510  356 520  356 530  356 540  356 550  356 560  356 570  356 580  356 590  356 600  356 610  356 620  356 630  356 640  356 650  356 660  356 670  356 680  356 690  356 700  356 710  356 720  356 730  356 740  356 750  356 760  356 770  356 780  356 790  356 800  356 810  356 820  356 830  356 840  356 850  356 860  356 870  356 880  356 890  356 900  356 910  356 920  356 930  356 940  356 950  356 960  356 970  356 980  356 990  356 1000  356 1010  356 1020  356 1030  356 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -349,13 +349,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1136px; margin-left: 51px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                EVKX.net - Charging curve for Tesla Model Y Standard Range 70 kWh
+                                EVKX.net - Charging curve for Tesla Model Y Standard Range 60 kWh
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="610" y="1145" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    EVKX.net - Charging curve for Tesla Model Y Standard Range 70 kWh
+                    EVKX.net - Charging curve for Tesla Model Y Standard Range 60 kWh
                 </text>
             </switch>
         </g>
