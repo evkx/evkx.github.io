@@ -195,7 +195,7 @@ Lotus has 1 models with total 3 variants. [Read all about them](lotus/)
 <a href="lucid/"><img src="https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg" class="img-fluid" alt="Lucid" ></a>
 
 
-Lucid has 1 models with total 5 variants. [Read all about them](lucid/)
+Lucid has 2 models with total 6 variants. [Read all about them](lucid/)
 
 ## Mercedes
 

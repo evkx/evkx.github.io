@@ -13,3 +13,10 @@ weight: 30
 
 Denne modellen er tilgjengelig i 5 variant(er).
 [Read full details](air/)
+
+## Lucid Gravity
+
+<a href="gravity"><img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" class="img-fluid" alt="Gravity" ></a>
+
+Denne modellen er tilgjengelig i 1 variant(er).
+[Read full details](gravity/)
