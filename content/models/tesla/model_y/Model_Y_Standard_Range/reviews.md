@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Tesla Model Y RWD with BYD Blade battery charging testr 16.11.2023
+
+{{< youtube hVYmdByInec >}}
+
 ### Branden Flasch: Barely Acceptable - 70MPH Highway Range Test In 2023 Model Y AWD 4680 Batter 07.10.2023
 
 {{< youtube YBA7_eG2lNk >}}

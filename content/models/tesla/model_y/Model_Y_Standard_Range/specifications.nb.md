@@ -35,7 +35,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </thead>
 <tbody>
 <tr><td>WLTP-rekkevidde</td><td>430 km</td></tr>
-<tr><td>WLTP-forbruk</td><td>13,4 kWh/100km</td></tr>
+<tr><td>WLTP-forbruk</td><td>12,8 kWh/100km</td></tr>
 <tr><td>WLTP-forbruk med ladetap</td><td>16,9 kWh/100km</td></tr>
 </tbody>
 </table>
@@ -43,6 +43,21 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 
 ## Batteri og lading
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
+</thead>
+<tbody>
+<tr><td>Brutto batteristørrelse</td><td>60 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>55 kWh</td></tr>
+<tr><td>Maks DC-lading</td><td>250 kW</td></tr>
+<tr><td>Pakkekonfigurasjon</td><td>106s1p</td></tr>
+<tr><td>Nominell spenning</td><td>340</td></tr>
+<tr><td>Katodematerialer</td><td>LFP</td></tr>
+</tbody>
+</table>
+
 
 <table class="table table-striped">
 <thead>

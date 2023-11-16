@@ -33,21 +33,30 @@ Tesla Model Y Standard Range har en maksimal effekt på 255KW (347hk).Totalt dre
 
 ## Batteri, rekkevidde og lading
 
-Tesla Model Y Standard Range har two batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading. 
-### LFP Europa/China market
+Tesla Model Y Standard Range har three batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading. 
+### BYD LFP Europa/China market
+
+Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 55kWh, noe som betyr at du har en 5kWh-buffer for beskyttelse. (8,3%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
+
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 430 km (267 mi). Forbruket er 12.8kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+
+Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 20 minutter, mens et mer vanlig scenario på 10-80 % vil ta 14 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 100%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 131kW. Hver ladeøkt vil ta 25 minutter og 58 sekunder. 
+
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19,5kWh/100km, vil 1000km ta 9 timer og 26 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 4% til 89%. Totalt tapt tid for å lade opp batteriet vil være 66 minutter.
+### CATL LFP Europa/China market
 
 Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 57,5kWh, noe som betyr at du har en 2,5kWh-buffer for beskyttelse. (4,2%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 430 km (267 mi). Forbruket er 13.4kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 430 km (267 mi). Forbruket er 12.8kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
-Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 48 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 50%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 16 minutter og 28 sekunder. 
+Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 16 minutter, mens et mer vanlig scenario på 10-80 % vil ta 10 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 100%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 171kW. Hver ladeøkt vil ta 19 minutter og 57 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19,5kWh/100km, vil 1000km ta 9 timer og 42 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 2% til 50%. Totalt tapt tid for å lade opp batteriet vil være 82 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19,5kWh/100km, vil 1000km ta 9 timer og 10 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 9% til 89%. Totalt tapt tid for å lade opp batteriet vil være 51 minutter.
 ### NMC 4850 US Market
 
 Batteriet har en bruttokapasitet på 70kWh og en nettokapasitet på 68,5kWh, noe som betyr at du har en 1,5kWh-buffer for beskyttelse. (2,1%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 430 km (267 mi). Forbruket er 13.4kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 430 km (267 mi). Forbruket er 12.8kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 84 minutter, mens et mer vanlig scenario på 10-80 % vil ta 41 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 36%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 82kW. Hver ladeøkt vil ta 18 minutter og 60 sekunder. 
 
@@ -55,7 +64,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 13 minutter. 
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 0 minutter. 
 
 ### Ladeport
 

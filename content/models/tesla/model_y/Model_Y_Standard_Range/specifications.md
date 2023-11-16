@@ -35,7 +35,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </thead>
 <tbody>
 <tr><td>WLTP range</td><td>430 km</td></tr>
-<tr><td>WLTP consumption</td><td>13,4 kWh/100km</td></tr>
+<tr><td>WLTP consumption</td><td>12,8 kWh/100km</td></tr>
 <tr><td>WLTP consumption with charging loss</td><td>16,9 kWh/100km</td></tr>
 </tbody>
 </table>
@@ -43,6 +43,21 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 
 ## Battery & Charging
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Battery gross</td><td>60 kWh</td></tr>
+<tr><td>Battery net</td><td>55 kWh</td></tr>
+<tr><td>Max DC charging</td><td>250 kW</td></tr>
+<tr><td>Pack Configuration</td><td>106s1p</td></tr>
+<tr><td>Nominal voltage</td><td>340</td></tr>
+<tr><td>Cathode Materials</td><td>LFP</td></tr>
+</tbody>
+</table>
+
 
 <table class="table table-striped">
 <thead>
