@@ -33,15 +33,15 @@ Lucid Gravity Dream Edition har en maksimal effekt på 600KW (816hk).Totalt drei
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 118kWh og en nettokapasitet på 117kWh, noe som betyr at du har en 1kWh-buffer for beskyttelse. (0,8%).
+Batteriet har en bruttokapasitet på 124kWh og en nettokapasitet på 122kWh, noe som betyr at du har en 2kWh-buffer for beskyttelse. (1,6%).
 
- [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 440 miles (708 km). Forbruket er 3.8mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 440 miles (708 km). Forbruket er 3.6mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
-Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 77 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 174kW. Hver ladeøkt vil ta 18 minutter og 7 sekunder. 
+Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 81 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 176kW. Hver ladeøkt vil ta 18 minutter og 16 sekunder. 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 19 minutter. 
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 32 minutter. 
 
 ### Ladeport
 
@@ -55,7 +55,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Lucid Gravity Dream Edition har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med denne fjæringen er 126 mm. 
+Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med denne fjæringen er 155 mm. 
 
 Du kan bestille Lucid Gravity Dream Edition med en alternativ  suspensjon. Fjæringen foran er [dobbelt bærearm](../../../../technology/suspension/#double-wishbone), og den bakre fjæringen er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 155 mm, og maksimum er 220 mm. 
 
@@ -218,3 +218,6 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilheng
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/trunk_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2000"  >}}
 
+### Tilgjengelighet & pris
+
+Denne modellen hadde verdenspremiere 16.11.2023, og leveringene forventes å starte om December 2024.

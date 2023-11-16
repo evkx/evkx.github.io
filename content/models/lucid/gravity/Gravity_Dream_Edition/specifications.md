@@ -46,8 +46,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Battery gross</td><td>118 kWh</td></tr>
-<tr><td>Battery net</td><td>117 kWh</td></tr>
+<tr><td>Battery gross</td><td>124 kWh</td></tr>
+<tr><td>Battery net</td><td>122 kWh</td></tr>
 <tr><td>Pack Configuration</td><td>220s30p</td></tr>
 <tr><td>Nominal voltage</td><td>800</td></tr>
 </tbody>
@@ -84,8 +84,8 @@ The model offers 2 suspension variants
 <tr><td>Adjustable damping rear</td><td>Yes, standard equipment</td></tr>
 <tr><td>Adjustable height front</td><td>Not available</td></tr>
 <tr><td>Adjustable height rear</td><td>Not available</td></tr>
-<tr><td>Max ground clearance</td><td>126</td></tr>
-<tr><td>Minimum ground clearance</td><td>126</td></tr>
+<tr><td>Max ground clearance</td><td>155</td></tr>
+<tr><td>Minimum ground clearance</td><td>155</td></tr>
 <tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
 <tr><td>Suspension construction front</td><td>DoubleWishbone</td></tr>
 <tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>

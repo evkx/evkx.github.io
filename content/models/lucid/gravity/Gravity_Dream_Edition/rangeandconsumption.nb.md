@@ -21,8 +21,8 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>708km / 440 mi</td><td> 16,5 kWh/100km / 3,8 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>708km /440mi</td><td> 16,5 kWh/100km / 3,8 mi/kWh  </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>708km / 440 mi</td><td> 17,2 kWh/100km / 3,6 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>708km /440mi</td><td> 17,2 kWh/100km / 3,6 mi/kWh  </td></tr> 
 </tbody></table>
 
 ### Offisielle testsyklusresultater med ekstra oppvarming
@@ -33,8 +33,8 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 <thead>
 <tr><th></th><th>  Range </th><th>Change </th></tr>
 <tbody>
-<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 349km /217 mi </td><td> -20,7%</td></tr>
-<tr><td>  EPA-combined top trim with 2KW AC </td><td> 349km /217 mi </td><td> -20,7%</td></tr>
+<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 352km /219 mi </td><td> -20,0%</td></tr>
+<tr><td>  EPA-combined top trim with 2KW AC </td><td> 352km /219 mi </td><td> -20,0%</td></tr>
 </tbody></table>
 
 ### Rekkeviddeanslag fra den virkelige verden

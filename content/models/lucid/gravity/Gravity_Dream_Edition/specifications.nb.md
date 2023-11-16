@@ -46,8 +46,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Brutto batteristørrelse</td><td>118 kWh</td></tr>
-<tr><td>Netto batteristørrelse</td><td>117 kWh</td></tr>
+<tr><td>Brutto batteristørrelse</td><td>124 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>122 kWh</td></tr>
 <tr><td>Pakkekonfigurasjon</td><td>220s30p</td></tr>
 <tr><td>Nominell spenning</td><td>800</td></tr>
 </tbody>
@@ -84,8 +84,8 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><td>Justerbar demping bak</td><td>Yes, standard equipment</td></tr>
 <tr><td>Justerbar høyde foran</td><td>Not available</td></tr>
 <tr><td>Justerbar høyde bak</td><td>Not available</td></tr>
-<tr><td>Maks bakkeklaring</td><td>126</td></tr>
-<tr><td>Minimum bakkeklaring</td><td>126</td></tr>
+<tr><td>Maks bakkeklaring</td><td>155</td></tr>
+<tr><td>Minimum bakkeklaring</td><td>155</td></tr>
 <tr><td>Fjæringstype foran</td><td>SteelSpringsWithOilDampers</td></tr>
 <tr><td>Fjæringskonstruksjon foran</td><td>DoubleWishbone</td></tr>
 <tr><td>Fjæringstype bak</td><td>SteelSpringsWithOilDampers</td></tr>

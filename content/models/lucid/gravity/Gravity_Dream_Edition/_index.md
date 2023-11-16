@@ -33,15 +33,15 @@ The Lucid Gravity Dream Edition has a maximum power of 600KW (816hp). The total 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 118kWh and a net capacity of 117kWh, meaning you have a 1kWh buffer for protection. (0,8%). 
+The battery has a gross capacity of 124kWh and a net capacity of 122kWh, meaning you have a 2kWh buffer for protection. (1,6%). 
 
- The [EPA range](../../../../guides/understandingrange/epa/) is 440 miles (708 km).   The consumption is 3.8mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [EPA range](../../../../guides/understandingrange/epa/) is 440 miles (708 km).   The consumption is 3.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 77 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 46%, resulting in an actual charge speed, including time loss, of 174kW. Each charge session would take 18 minutes and 7 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 81 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 45%, resulting in an actual charge speed, including time loss, of 176kW. Each charge session would take 18 minutes and 16 seconds. 
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 19 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 32 minutes. 
 
 ### Charge port
 
@@ -55,7 +55,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Lucid Gravity Dream Edition has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 126 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 155 mm. 
 
 You can order Lucid Gravity Dream Edition with an alternative  suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 155 mm, and the maximum is 220 mm. 
 
@@ -218,3 +218,6 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/trunk_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2000"  >}}
 
+### Availability & Pricing
+
+This model had a world premiere on 16.11.2023, and deliveries is expected to start in December 2024.
