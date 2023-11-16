@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 80kWh og en nettokapasitet på 74kWh, noe s
 
 Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 61 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 61%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 102kW. Hver ladeøkt vil ta 26 minutter og 4 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 23kWh/100km, vil 1000km ta 9 timer og 52 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 1% til 54%. Totalt tapt tid for å lade opp batteriet vil være 92 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 23kWh/100km, vil 1000km ta 9 timer og 52 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 1% til 54%. Totalt tapt tid for å lade opp batteriet vil være 92 minutter.
 
 ### Ombordlader
 
@@ -167,7 +167,7 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for BMW iX3. Standardlyktene bruker LED-teknologi. Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
+Du kan velge mellom to typer frontlykter for BMW iX3. Standardlyktene bruker LED-teknologi. Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
 ## Avanserte førerassistentsystemer
 
 BMW iX3 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 111kWh og en nettokapasitet på 107kWh, noe
 
 Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 68 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 136kW. Hver ladeøkt vil ta 24 minutter og 31 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 9 timer og 36 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 3% til 57%. Totalt tapt tid for å lade opp batteriet vil være 76 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 9 timer og 36 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 3% til 57%. Totalt tapt tid for å lade opp batteriet vil være 76 minutter.
 
 ### Ombordlader
 
@@ -151,12 +151,12 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Polestar 3 Long Range Dual Motor Performance. Med High Performance får du eight høyttalere med en maksimal systemeffekt på 200 watt. Med Bowers & Wilkins får du 25 høyttalere med en maksimal systemeffekt på 1610 watt. 
+Du kan velge mellom to lydsystemer på Polestar 3 Long Range Dual Motor Performance. Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt. Med Bowers & Wilkins får du 25 høyttalere med en maksimal systemeffekt på 1610 watt. 
 
 Modellen har 4 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for Polestar 3 Long Range Dual Motor Performance. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+Du kan velge mellom to typer frontlykter for Polestar 3 Long Range Dual Motor Performance. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/headlights_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250"  >}}

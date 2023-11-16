@@ -33,7 +33,7 @@ Nio EL6 har en maksimal effekt på 480KW (653hk).Totalt dreiemoment er 850nm. De
 
 ## Batteri, rekkevidde og lading
 
-Nio EL6 har two batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading. 
+Nio EL6 har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading. 
 ### 100kWh
 
 Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 90kWh, noe som betyr at du har en 10kWh-buffer for beskyttelse. (10,0%).
@@ -42,7 +42,7 @@ Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 90kWh, noe 
 
 Maksimal DC-ladehastighet er 126kW. En full lading fra 0 - 100 % vil ta 75 minutter, mens et mer vanlig scenario på 10-80 % vil ta 41 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 44%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 86kW. Hver ladeøkt vil ta 27 minutter og 2 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 34 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 1% til 54%. Totalt tapt tid for å lade opp batteriet vil være 134 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 34 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 1% til 54%. Totalt tapt tid for å lade opp batteriet vil være 134 minutter.
 ### 75kWh
 
 Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70,5kWh, noe som betyr at du har en 4,5kWh-buffer for beskyttelse. (6,0%).
@@ -51,7 +51,7 @@ Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70,5kWh, noe
 
 Maksimal DC-ladehastighet er 140kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 74%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 77kW. Hver ladeøkt vil ta 37 minutter og 57 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 11 timer og 6 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 8% til 68%. Totalt tapt tid for å lade opp batteriet vil være 166 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 11 timer og 6 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 8% til 68%. Totalt tapt tid for å lade opp batteriet vil være 166 minutter.
 
 ### Ombordlader
 

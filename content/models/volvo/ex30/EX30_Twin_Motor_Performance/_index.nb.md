@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 69kWh og en nettokapasitet på 64kWh, noe s
 
 Maksimal DC-ladehastighet er 153kW. En full lading fra 0 - 100 % vil ta 82 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 90kW. Hver ladeøkt vil ta 21 minutter og 58 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 46 minutter. Denne turen vil kreve seven ladeøkt(er) lading fra 5% til 54%. Totalt tapt tid for å lade opp batteriet vil være 147 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 46 minutter. Denne turen vil kreve syv ladeøkt(er) lading fra 5% til 54%. Totalt tapt tid for å lade opp batteriet vil være 147 minutter.
 
 ### Ombordlader
 
@@ -146,14 +146,14 @@ Volvo EX30 Twin Motor Performance har flere integrerte skjermer. touch-skjermen 
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Volvo EX30 Twin Motor Performance. Med High Performance får du eight høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 1040 watt. 
+Du kan velge mellom to lydsystemer på Volvo EX30 Twin Motor Performance. Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 1040 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
 
 Modellen har 4 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for Volvo EX30 Twin Motor Performance. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+Du kan velge mellom to typer frontlykter for Volvo EX30 Twin Motor Performance. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/headlights_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}

@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 76,6kWh, noe
 
 Maksimal DC-ladehastighet er 125kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 36 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 89kW. Hver ladeøkt vil ta 24 minutter og 11 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 23kWh/100km, vil 1000km ta 10 timer og 5 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 6% til 57%. Totalt tapt tid for å lade opp batteriet vil være 105 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 23kWh/100km, vil 1000km ta 10 timer og 5 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 6% til 57%. Totalt tapt tid for å lade opp batteriet vil være 105 minutter.
 
 ### Ombordlader
 
@@ -102,7 +102,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteopps
 
 ### Forseter
 
-Det er two setetyper du kan velge mellom for første rad i Audi Q4 Sportback 50 e-tron quattro. 
+Det er to setetyper du kan velge mellom for første rad i Audi Q4 Sportback 50 e-tron quattro. 
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
@@ -134,7 +134,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen. <br />
 
 ### Seter på andre rad
 
-Du kan velge two setetyper for den andre raden i Audi Q4 Sportback 50 e-tron quattro. 
+Du kan velge to setetyper for den andre raden i Audi Q4 Sportback 50 e-tron quattro. 
 
 Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
@@ -180,14 +180,14 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Audi Q4 Sportback 50 e-tron quattro. Med Audi Sound system får du eight høyttalere med en maksimal systemeffekt på 180 watt. Med Sonos Sound System får du ten høyttalere med en maksimal systemeffekt på 580 watt. 
+Du kan velge mellom to lydsystemer på Audi Q4 Sportback 50 e-tron quattro. Med Audi Sound system får du åtte høyttalere med en maksimal systemeffekt på 180 watt. Med Sonos Sound System får du ti høyttalere med en maksimal systemeffekt på 580 watt. 
 
 I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Audi Q4 Sportback 50 e-tron quattro Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for Audi Q4 Sportback 50 e-tron quattro. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.I tillegg kan du velge mellom two typer baklys. taillight.standardtaillight.etronledbar
+Du kan velge mellom to typer frontlykter for Audi Q4 Sportback 50 e-tron quattro. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.I tillegg kan du velge mellom to typer baklys. taillight.standardtaillight.etronledbar
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}

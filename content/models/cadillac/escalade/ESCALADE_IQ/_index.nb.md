@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 215kWh og en nettokapasitet på 200kWh, noe
 
 Maksimal DC-ladehastighet er 350kW. En full lading fra 0 - 100 % vil ta 130 minutter, mens et mer vanlig scenario på 10-80 % vil ta 45 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 242kW. Hver ladeøkt vil ta 26 minutter og 49 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 35kWh/100km, vil 1000km ta 8 timer og 58 minutter. Denne turen vil kreve two ladeøkt(er) lading fra 1% til 39%. Totalt tapt tid for å lade opp batteriet vil være 39 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 35kWh/100km, vil 1000km ta 8 timer og 58 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 39%. Totalt tapt tid for å lade opp batteriet vil være 39 minutter.
 
 ### Ombordlader
 
@@ -162,7 +162,7 @@ Du har trådløs lading for telefonen din.
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Cadillac ESCALADE IQ. Med AKG Studio audi System får du 19 høyttalere med en maksimal systemeffekt på 1000 watt. Med AKG Studio Reference System får du 40 høyttalere med en maksimal systemeffekt på 1000 watt. 
+Du kan velge mellom to lydsystemer på Cadillac ESCALADE IQ. Med AKG Studio audi System får du 19 høyttalere med en maksimal systemeffekt på 1000 watt. Med AKG Studio Reference System får du 40 høyttalere med en maksimal systemeffekt på 1000 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
 

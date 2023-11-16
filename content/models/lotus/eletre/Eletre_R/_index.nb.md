@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 112kWh og en nettokapasitet på 109kWh, noe
 
 Maksimal DC-ladehastighet er 350kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 20 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 68%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 193kW. Hver ladeøkt vil ta 23 minutter og 45 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 9 timer og 14 minutter. Denne turen vil kreve two ladeøkt(er) lading fra 0% til 79%. Totalt tapt tid for å lade opp batteriet vil være 55 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 9 timer og 14 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 0% til 79%. Totalt tapt tid for å lade opp batteriet vil være 55 minutter.
 
 ### Ombordlader
 
@@ -166,7 +166,7 @@ Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med he
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Lotus Eletre R. Med KEF Premium Audio system får du 15 høyttalere med en maksimal systemeffekt på 1380 watt. Med KEF Reference Audio system får du 23 høyttalere med en maksimal systemeffekt på 2160 watt. 
+Du kan velge mellom to lydsystemer på Lotus Eletre R. Med KEF Premium Audio system får du 15 høyttalere med en maksimal systemeffekt på 1380 watt. Med KEF Reference Audio system får du 23 høyttalere med en maksimal systemeffekt på 2160 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Lotus Eletre R Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

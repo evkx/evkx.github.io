@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 62kWh og en nettokapasitet på 58kWh, noe s
 
 Maksimal DC-ladehastighet er 120kW. En full lading fra 0 - 100 % vil ta 63 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 77kW. Hver ladeøkt vil ta 19 minutter og 28 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 10 timer og 19 minutter. Denne turen vil kreve six ladeøkt(er) lading fra 0% til 44%. Totalt tapt tid for å lade opp batteriet vil være 120 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 10 timer og 19 minutter. Denne turen vil kreve seks ladeøkt(er) lading fra 0% til 44%. Totalt tapt tid for å lade opp batteriet vil være 120 minutter.
 
 ### Ombordlader
 
@@ -157,14 +157,14 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Volkswagen ID.3 Pro. Med Sound system får du five høyttalere med en maksimal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du seven høyttalere med en maksimal systemeffekt på 450 watt. 
+Du kan velge mellom to lydsystemer på Volkswagen ID.3 Pro. Med Sound system får du fem høyttalere med en maksimal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du syv høyttalere med en maksimal systemeffekt på 450 watt. 
 
 I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Volkswagen ID.3 Pro Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 4 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for Volkswagen ID.3 Pro. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+Du kan velge mellom to typer frontlykter for Volkswagen ID.3 Pro. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/headlights_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="1894"  >}}

@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 99,8kWh og en nettokapasitet på 94kWh, noe
 
 Maksimal DC-ladehastighet er 233kW. En full lading fra 0 - 100 % vil ta 48 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 75%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 159kW. Hver ladeøkt vil ta 26 minutter og 12 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 9 timer og 4 minutter. Denne turen vil kreve two ladeøkt(er) lading fra 1% til 63%. Totalt tapt tid for å lade opp batteriet vil være 45 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 9 timer og 4 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 63%. Totalt tapt tid for å lade opp batteriet vil være 45 minutter.
 
 ### Ombordlader
 
@@ -111,7 +111,7 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen. <br />
 
 ### Seter på andre rad
 
-Du kan velge two setetyper for den andre raden i Kia EV9 Long Range AWD. 
+Du kan velge to setetyper for den andre raden i Kia EV9 Long Range AWD. 
 
 Alternativet first er en tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
@@ -169,7 +169,7 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Kia EV9 Long Range AWD. Med Standard får du six høyttalere med en maksimal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på  watt. 
+Du kan velge mellom to lydsystemer på Kia EV9 Long Range AWD. Med Standard får du seks høyttalere med en maksimal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på  watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Kia EV9 Long Range AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

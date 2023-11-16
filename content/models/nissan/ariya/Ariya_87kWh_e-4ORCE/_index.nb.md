@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 91kWh og en nettokapasitet på 87kWh, noe s
 
 Maksimal DC-ladehastighet er 130kW. En full lading fra 0 - 100 % vil ta 63 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 98kW. Hver ladeøkt vil ta 28 minutter og 18 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26kWh/100km, vil 1000km ta 10 timer og 6 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 7% til 57%. Totalt tapt tid for å lade opp batteriet vil være 107 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26kWh/100km, vil 1000km ta 10 timer og 6 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 7% til 57%. Totalt tapt tid for å lade opp batteriet vil være 107 minutter.
 
 ### Ombordlader
 
@@ -155,14 +155,14 @@ Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med he
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Nissan Ariya 87kWh e-4ORCE. Med DAB Audiosystem får du six høyttalere med en maksimal systemeffekt på  watt. Med BOSE Premium Sound System får du ten høyttalere med en maksimal systemeffekt på  watt. 
+Du kan velge mellom to lydsystemer på Nissan Ariya 87kWh e-4ORCE. Med DAB Audiosystem får du seks høyttalere med en maksimal systemeffekt på  watt. Med BOSE Premium Sound System får du ti høyttalere med en maksimal systemeffekt på  watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Nissan Ariya 87kWh e-4ORCE Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for Nissan Ariya 87kWh e-4ORCE. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+Du kan velge mellom to typer frontlykter for Nissan Ariya 87kWh e-4ORCE. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 ## Avanserte førerassistentsystemer
 
 Nissan Ariya 87kWh e-4ORCE har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

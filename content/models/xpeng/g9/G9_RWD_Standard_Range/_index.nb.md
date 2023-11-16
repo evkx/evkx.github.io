@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 78,2kWh og en nettokapasitet på 75kWh, noe
 
 Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 45 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 144kW. Hver ladeøkt vil ta 17 minutter og 30 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 9 timer og 33 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 1% til 48%. Totalt tapt tid for å lade opp batteriet vil være 74 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 9 timer og 33 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 1% til 48%. Totalt tapt tid for å lade opp batteriet vil være 74 minutter.
 
 ### Ombordlader
 
@@ -167,7 +167,7 @@ Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med he
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for XPENG G9 RWD Standard Range. Med  får du eight høyttalere med en maksimal systemeffekt på 500 watt. 
+Én type lydsystem er tilgjengelig for XPENG G9 RWD Standard Range. Med  får du åtte høyttalere med en maksimal systemeffekt på 500 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
 

@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 68kWh og en nettokapasitet på 64,7kWh, noe
 
 Maksimal DC-ladehastighet er 130kW. En full lading fra 0 - 100 % vil ta 61 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 51%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 85kW. Hver ladeøkt vil ta 23 minutter og 55 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 10 timer og 12 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 1% til 50%. Totalt tapt tid for å lade opp batteriet vil være 112 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 10 timer og 12 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 1% til 50%. Totalt tapt tid for å lade opp batteriet vil være 112 minutter.
 
 ### Ombordlader
 
@@ -94,7 +94,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteopps
 
 ### Forseter
 
-Det er two setetyper du kan velge mellom for første rad i BMW iX1 xDrive30. 
+Det er to setetyper du kan velge mellom for første rad i BMW iX1 xDrive30. 
 
 Følgende funksjoner er tilgjengelige på **Standard** setet. 
 
@@ -177,14 +177,14 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på BMW iX1 xDrive30. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt. 
+Du kan velge mellom to lydsystemer på BMW iX1 xDrive30. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW iX1 xDrive30 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for BMW iX1 xDrive30. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
+Du kan velge mellom to typer frontlykter for BMW iX1 xDrive30. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
 
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/headlights_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="1999"  >}}

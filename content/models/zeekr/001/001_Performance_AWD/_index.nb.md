@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 95kWh, noe 
 
 Maksimal DC-ladehastighet er 200kW. En full lading fra 0 - 100 % vil ta 61 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 55%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 133kW. Hver ladeøkt vil ta 22 minutter og 52 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 9 timer og 44 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 5% til 54%. Totalt tapt tid for å lade opp batteriet vil være 84 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 9 timer og 44 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 5% til 54%. Totalt tapt tid for å lade opp batteriet vil være 84 minutter.
 
 ### Ombordlader
 
@@ -152,7 +152,7 @@ Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med he
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Zeekr 001 Performance AWD. Med Yamaha Sound System får du eight høyttalere med en maksimal systemeffekt på 200 watt. 
+Én type lydsystem er tilgjengelig for Zeekr 001 Performance AWD. Med Yamaha Sound System får du åtte høyttalere med en maksimal systemeffekt på 200 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Zeekr 001 Performance AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

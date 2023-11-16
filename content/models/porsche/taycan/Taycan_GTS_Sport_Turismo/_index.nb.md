@@ -41,7 +41,7 @@ Batteriet har en bruttokapasitet på 93,4kWh og en nettokapasitet på 83,7kWh, n
 
 Maksimal DC-ladehastighet er 270kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 165kW. Hver ladeøkt vil ta 19 minutter og 53 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 10 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 3% til 58%. Totalt tapt tid for å lade opp batteriet vil være 51 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 10 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 3% til 58%. Totalt tapt tid for å lade opp batteriet vil være 51 minutter.
 
 ### Ombordlader
 
@@ -104,7 +104,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Denne mo
 
 ### Forseter
 
-Det er three setetyper du kan velge mellom for første rad i Porsche Taycan GTS Sport Turismo. 
+Det er tre setetyper du kan velge mellom for første rad i Porsche Taycan GTS Sport Turismo. 
 
 Følgende funksjoner er tilgjengelige på **Comfort** setet. 
 
@@ -154,7 +154,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen. <br />
 
 ### Seter på andre rad
 
-Du kan velge two setetyper for den andre raden i Porsche Taycan GTS Sport Turismo. 
+Du kan velge to setetyper for den andre raden i Porsche Taycan GTS Sport Turismo. 
 
 Alternativet standard er to integrerte seter i andre rad. I tillegg er følgende funksjoner tilgjengelige. 
 
@@ -200,7 +200,7 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom three lydsystemer på Porsche Taycan GTS Sport Turismo. Med Porsche Sound system får du ten høyttalere med en maksimal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt. 
+Du kan velge mellom tre lydsystemer på Porsche Taycan GTS Sport Turismo. Med Porsche Sound system får du ti høyttalere med en maksimal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Porsche Taycan GTS Sport Turismo Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

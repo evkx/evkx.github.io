@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 91kWh og en nettokapasitet på 85kWh, noe s
 
 Maksimal DC-ladehastighet er 200kW. En full lading fra 0 - 100 % vil ta 55 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 42%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 113kW. Hver ladeøkt vil ta 19 minutter og 56 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 3 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 0% til 46%. Totalt tapt tid for å lade opp batteriet vil være 104 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 3 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 0% til 46%. Totalt tapt tid for å lade opp batteriet vil være 104 minutter.
 
 ### Ombordlader
 
@@ -98,7 +98,7 @@ Du kan velge mellom to typer seter med forhåndskonfigurerte materialer.
 
 ### Forseter
 
-Det er two setetyper du kan velge mellom for første rad i Volkswagen ID. Buzz Pro LWB. 
+Det er to setetyper du kan velge mellom for første rad i Volkswagen ID. Buzz Pro LWB. 
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
@@ -129,7 +129,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen. <br />
 
 ### Seter på andre rad
 
-Du kan velge two setetyper for den andre raden i Volkswagen ID. Buzz Pro LWB. 
+Du kan velge to setetyper for den andre raden i Volkswagen ID. Buzz Pro LWB. 
 
 Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
@@ -186,14 +186,14 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Volkswagen ID. Buzz Pro LWB. Med Volkswagen Soundsystem får du six høyttalere med en maksimal systemeffekt på 450 watt. 
+Én type lydsystem er tilgjengelig for Volkswagen ID. Buzz Pro LWB. Med Volkswagen Soundsystem får du seks høyttalere med en maksimal systemeffekt på 450 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Volkswagen ID. Buzz Pro LWB Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 5 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for Volkswagen ID. Buzz Pro LWB. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+Du kan velge mellom to typer frontlykter for Volkswagen ID. Buzz Pro LWB. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/headlights_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}

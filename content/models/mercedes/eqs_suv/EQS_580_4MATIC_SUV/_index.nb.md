@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 108,4kWh, n
 
 Maksimal DC-ladehastighet er 200kW. En full lading fra 0 - 100 % vil ta 82 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 142kW. Hver ladeøkt vil ta 26 minutter og 41 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28,5kWh/100km, vil 1000km ta 9 timer og 35 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 1% til 56%. Totalt tapt tid for å lade opp batteriet vil være 76 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28,5kWh/100km, vil 1000km ta 9 timer og 35 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 1% til 56%. Totalt tapt tid for å lade opp batteriet vil være 76 minutter.
 
 ### Ombordlader
 
@@ -98,7 +98,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. I tilleg
 
 ### Forseter
 
-Det er two setetyper du kan velge mellom for første rad i Mercedes-EQ EQS 580 4MATIC SUV. 
+Det er to setetyper du kan velge mellom for første rad i Mercedes-EQ EQS 580 4MATIC SUV. 
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
@@ -201,7 +201,7 @@ Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontr
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Mercedes-EQ EQS 580 4MATIC SUV. Med Advanced Soundsystem får du nine høyttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 høyttalere med en maksimal systemeffekt på 590 watt. 
+Du kan velge mellom to lydsystemer på Mercedes-EQ EQS 580 4MATIC SUV. Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 høyttalere med en maksimal systemeffekt på 590 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Mercedes-EQ EQS 580 4MATIC SUV Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

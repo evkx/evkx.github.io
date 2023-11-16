@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 58kWh og en nettokapasitet på 54kWh, noe s
 
 Maksimal DC-ladehastighet er 233kW. En full lading fra 0 - 100 % vil ta 42 minutter, mens et mer vanlig scenario på 10-80 % vil ta 17 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 67%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 109kW. Hver ladeøkt vil ta 19 minutter og 45 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 20kWh/100km, vil 1000km ta 9 timer og 41 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 4% til 72%. Totalt tapt tid for å lade opp batteriet vil være 81 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 20kWh/100km, vil 1000km ta 9 timer og 41 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 4% til 72%. Totalt tapt tid for å lade opp batteriet vil være 81 minutter.
 
 ### Ombordlader
 
@@ -153,7 +153,7 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Kia EV6 Standard Range 2WD. Med Standard får du six høyttalere med en maksimal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på  watt. 
+Du kan velge mellom to lydsystemer på Kia EV6 Standard Range 2WD. Med Standard får du seks høyttalere med en maksimal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på  watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Kia EV6 Standard Range 2WD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

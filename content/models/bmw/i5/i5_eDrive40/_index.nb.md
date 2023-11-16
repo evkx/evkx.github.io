@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 84,4kWh og en nettokapasitet på 81,2kWh, n
 
 Maksimal DC-ladehastighet er 205kW. En full lading fra 0 - 100 % vil ta 56 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 50%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 118kW. Hver ladeøkt vil ta 19 minutter og 26 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 31 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 3% til 46%. Totalt tapt tid for å lade opp batteriet vil være 71 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 31 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 3% til 46%. Totalt tapt tid for å lade opp batteriet vil være 71 minutter.
 
 ### Ombordlader
 
@@ -102,7 +102,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteopps
 
 ### Forseter
 
-Det er two setetyper du kan velge mellom for første rad i BMW i5 eDrive40. 
+Det er to setetyper du kan velge mellom for første rad i BMW i5 eDrive40. 
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
@@ -185,14 +185,14 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom three lydsystemer på BMW i5 eDrive40. Med Hifi Sound system får du six høyttalere med en maksimal systemeffekt på 100 watt. Med Harman Kardon Surround Sound system får du 12 høyttalere med en maksimal systemeffekt på 205 watt. Med Bower & Wilkins Surround System får du 18 høyttalere med en maksimal systemeffekt på 655 watt. 
+Du kan velge mellom tre lydsystemer på BMW i5 eDrive40. Med Hifi Sound system får du seks høyttalere med en maksimal systemeffekt på 100 watt. Med Harman Kardon Surround Sound system får du 12 høyttalere med en maksimal systemeffekt på 205 watt. Med Bower & Wilkins Surround System får du 18 høyttalere med en maksimal systemeffekt på 655 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW i5 eDrive40 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 6 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for BMW i5 eDrive40. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
+Du kan velge mellom to typer frontlykter for BMW i5 eDrive40. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/headlights_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2000"  >}}

@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 110kWh og en nettokapasitet på 102kWh, noe
 
 Maksimal DC-ladehastighet er 190kW. En full lading fra 0 - 100 % vil ta 176 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 120kW. Hver ladeøkt vil ta 29 minutter og 59 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 9 timer og 35 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 8% til 57%. Totalt tapt tid for å lade opp batteriet vil være 75 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 9 timer og 35 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 8% til 57%. Totalt tapt tid for å lade opp batteriet vil være 75 minutter.
 
 ### Ombordlader
 
@@ -147,7 +147,7 @@ Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med he
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Chevrolet Blazer EV SS. Med Lyric sound system får du seven høyttalere med en maksimal systemeffekt på  watt. 
+Én type lydsystem er tilgjengelig for Chevrolet Blazer EV SS. Med Lyric sound system får du syv høyttalere med en maksimal systemeffekt på  watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Chevrolet Blazer EV SS Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

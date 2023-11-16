@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe s
 
 Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 46 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 2% til 49%. Totalt tapt tid for å lade opp batteriet vil være 86 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 46 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 2% til 49%. Totalt tapt tid for å lade opp batteriet vil være 86 minutter.
 
 ### Ombordlader
 
@@ -153,7 +153,7 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på CUPRA Tavascan Endurance. Med Sound system får du five høyttalere med en maksimal systemeffekt på 140 watt. Med Sennheiser Soundsystem får du 12 høyttalere med en maksimal systemeffekt på 395 watt. 
+Du kan velge mellom to lydsystemer på CUPRA Tavascan Endurance. Med Sound system får du fem høyttalere med en maksimal systemeffekt på 140 watt. Med Sennheiser Soundsystem får du 12 høyttalere med en maksimal systemeffekt på 395 watt. 
 
 I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter CUPRA Tavascan Endurance Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

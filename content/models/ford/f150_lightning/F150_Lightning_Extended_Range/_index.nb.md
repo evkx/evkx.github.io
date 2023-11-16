@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 150kWh og en nettokapasitet på 131kWh, noe
 
 Maksimal DC-ladehastighet er 155kW. En full lading fra 0 - 100 % vil ta 130 minutter, mens et mer vanlig scenario på 10-80 % vil ta 49 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 62%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 106kW. Hver ladeøkt vil ta 46 minutter og 54 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 33kWh/100km, vil 1000km ta 10 timer og 13 minutter. Denne turen vil kreve two ladeøkt(er) lading fra 0% til 76%. Totalt tapt tid for å lade opp batteriet vil være 113 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 33kWh/100km, vil 1000km ta 10 timer og 13 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 0% til 76%. Totalt tapt tid for å lade opp batteriet vil være 113 minutter.
 
 ### Ombordlader
 
@@ -148,7 +148,7 @@ Det valgfrie -oppsettet har følgende konfigurasjon. -skjermen bak rattet integr
 
 ## Infotainment
 
-Du kan velge mellom three lydsystemer på Ford F150 Lightning Extended Range. Med Ford får du four høyttalere med en maksimal systemeffekt på 80 watt. Med B&O Sound System får du eight høyttalere med en maksimal systemeffekt på 640 watt. Med B&O Unleashed Sound System får du 18 høyttalere med en maksimal systemeffekt på 1080 watt. 
+Du kan velge mellom tre lydsystemer på Ford F150 Lightning Extended Range. Med Ford får du fire høyttalere med en maksimal systemeffekt på 80 watt. Med B&O Sound System får du åtte høyttalere med en maksimal systemeffekt på 640 watt. Med B&O Unleashed Sound System får du 18 høyttalere med en maksimal systemeffekt på 1080 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Ford F150 Lightning Extended Range Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

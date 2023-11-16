@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 76,6kWh og en nettokapasitet på 71kWh, noe
 
 Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 61 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 42%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 93kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 10 timer og 9 minutter. Denne turen vil kreve six ladeøkt(er) lading fra 1% til 41%. Totalt tapt tid for å lade opp batteriet vil være 110 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 10 timer og 9 minutter. Denne turen vil kreve seks ladeøkt(er) lading fra 1% til 41%. Totalt tapt tid for å lade opp batteriet vil være 110 minutter.
 
 ### Ombordlader
 
@@ -163,14 +163,14 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på BMW iX xDrive40. Med Harman Kardon Surround Sound system får du 18 høyttalere med en maksimal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 høyttalere med en maksimal systemeffekt på 1615 watt. 
+Du kan velge mellom to lydsystemer på BMW iX xDrive40. Med Harman Kardon Surround Sound system får du 18 høyttalere med en maksimal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 høyttalere med en maksimal systemeffekt på 1615 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW iX xDrive40 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 6 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for BMW iX xDrive40. Standardlyktene bruker LED-teknologi. Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
+Du kan velge mellom to typer frontlykter for BMW iX xDrive40. Standardlyktene bruker LED-teknologi. Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
 ## Avanserte førerassistentsystemer
 
 BMW iX xDrive40 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

@@ -45,7 +45,7 @@ Batteriet har en bruttokapasitet på 71kWh og en nettokapasitet på 64kWh, noe s
 
 Maksimal DC-ladehastighet er 120kW. En full lading fra 0 - 100 % vil ta 48 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 72%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 92kW. Hver ladeøkt vil ta 28 minutter og 30 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26,5kWh/100km, vil 1000km ta 10 timer og 32 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 5% til 68%. Totalt tapt tid for å lade opp batteriet vil være 133 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26,5kWh/100km, vil 1000km ta 10 timer og 32 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 5% til 68%. Totalt tapt tid for å lade opp batteriet vil være 133 minutter.
 
 ### Ombordlader
 
@@ -108,7 +108,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteopps
 
 ### Forseter
 
-Det er five setetyper du kan velge mellom for første rad i Audi e-tron 50. 
+Det er fem setetyper du kan velge mellom for første rad i Audi e-tron 50. 
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
@@ -230,14 +230,14 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Audi e-tron 50. Med Audi Sound system får du ten høyttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 høyttalere med en maksimal systemeffekt på 700 watt. 
+Du kan velge mellom to lydsystemer på Audi e-tron 50. Med Audi Sound system får du ti høyttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 høyttalere med en maksimal systemeffekt på 700 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Audi e-tron 50 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger. 
 ## Lys
 
-Du kan velge mellom three typer frontlykter for Audi e-tron 50. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.lights.technology.option.leddigitalmatrix I tillegg bruker standard baklykter LED-teknologi. 
+Du kan velge mellom tre typer frontlykter for Audi e-tron 50. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.lights.technology.option.leddigitalmatrix I tillegg bruker standard baklykter LED-teknologi. 
 
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/headlights_1_st.jpg" title="Audi e-tron 50" width="3000" height="2249"  >}}

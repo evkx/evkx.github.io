@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 79kWh, noe s
 
 Maksimal DC-ladehastighet er 205kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 28 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 50%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 120kW. Hver ladeøkt vil ta 19 minutter og 24 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21,5kWh/100km, vil 1000km ta 9 timer og 29 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 1% til 59%. Totalt tapt tid for å lade opp batteriet vil være 70 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21,5kWh/100km, vil 1000km ta 9 timer og 29 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 1% til 59%. Totalt tapt tid for å lade opp batteriet vil være 70 minutter.
 
 ### Ombordlader
 
@@ -146,12 +146,12 @@ Polestar 2 Long Range Single Motor har flere integrerte skjermer. Bak rattet er 
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Polestar 2 Long Range Single Motor. Med High Performance får du eight høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 600 watt. 
+Du kan velge mellom to lydsystemer på Polestar 2 Long Range Single Motor. Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 600 watt. 
 
 Modellen har 4 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for Polestar 2 Long Range Single Motor. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+Du kan velge mellom to typer frontlykter for Polestar 2 Long Range Single Motor. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/headlights_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="1766"  >}}

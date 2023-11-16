@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 60,4kWh og en nettokapasitet på 62kWh, noe
 
 Maksimal DC-ladehastighet er 88kW. En full lading fra 0 - 100 % vil ta 48 minutter, mens et mer vanlig scenario på 10-80 % vil ta 26 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 60%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 88kW. Hver ladeøkt vil ta 24 minutter og 12 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 10 timer og 31 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 1% til 62%. Totalt tapt tid for å lade opp batteriet vil være 131 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 10 timer og 31 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 1% til 62%. Totalt tapt tid for å lade opp batteriet vil være 131 minutter.
 
 ### Ombordlader
 
@@ -163,7 +163,7 @@ Det valgfrie Design-oppsettet har følgende konfigurasjon. Bak rattet er en [dig
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for BYD Dolphin 60.4kWh. Med Dirac får du eight høyttalere med en maksimal systemeffekt på  watt. 
+Én type lydsystem er tilgjengelig for BYD Dolphin 60.4kWh. Med Dirac får du åtte høyttalere med en maksimal systemeffekt på  watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
 

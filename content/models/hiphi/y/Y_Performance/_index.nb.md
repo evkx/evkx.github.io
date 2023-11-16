@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 115kWh og en nettokapasitet på 109kWh, noe
 
 Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 91 minutter, mens et mer vanlig scenario på 10-80 % vil ta 47 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 98kW. Hver ladeøkt vil ta 30 minutter og 56 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 6 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 3% til 56%. Totalt tapt tid for å lade opp batteriet vil være 106 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 6 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 3% til 56%. Totalt tapt tid for å lade opp batteriet vil være 106 minutter.
 
 ### Ombordlader
 
@@ -165,7 +165,7 @@ Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med he
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på HiPhi Y Performance. Med SONIC LINE SYSTEM får du 14 høyttalere med en maksimal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 25 høyttalere med en maksimal systemeffekt på 2820 watt. 
+Du kan velge mellom to lydsystemer på HiPhi Y Performance. Med SONIC LINE SYSTEM får du 14 høyttalere med en maksimal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 25 høyttalere med en maksimal systemeffekt på 2820 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
 

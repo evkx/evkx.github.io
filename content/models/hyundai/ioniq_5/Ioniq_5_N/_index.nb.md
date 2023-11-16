@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 89kWh og en nettokapasitet på 84kWh, noe s
 
 Maksimal DC-ladehastighet er 233kW. En full lading fra 0 - 100 % vil ta 43 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 75%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 156kW. Hver ladeøkt vil ta 24 minutter og 57 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 9 timer og 21 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 1% til 63%. Totalt tapt tid for å lade opp batteriet vil være 61 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 9 timer og 21 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 1% til 63%. Totalt tapt tid for å lade opp batteriet vil være 61 minutter.
 
 ### Ombordlader
 
@@ -140,7 +140,7 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Hyundai Ioniq 5 N. Med Bose Premium Sound System får du eight høyttalere med en maksimal systemeffekt på  watt. 
+Én type lydsystem er tilgjengelig for Hyundai Ioniq 5 N. Med Bose Premium Sound System får du åtte høyttalere med en maksimal systemeffekt på  watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Hyundai Ioniq 5 N Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 83,9kWh og en nettokapasitet på 80,7kWh, n
 
 Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 56 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 50%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 118kW. Hver ladeøkt vil ta 19 minutter og 20 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 32 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 3% til 47%. Totalt tapt tid for å lade opp batteriet vil være 73 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 32 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 3% til 47%. Totalt tapt tid for å lade opp batteriet vil være 73 minutter.
 
 ### Ombordlader
 
@@ -98,7 +98,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteopps
 
 ### Forseter
 
-Det er two setetyper du kan velge mellom for første rad i BMW i4 M50. 
+Det er to setetyper du kan velge mellom for første rad i BMW i4 M50. 
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
@@ -178,14 +178,14 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på BMW i4 M50. Med Hifi Sound system får du ten høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Surround Sound system får du 17 høyttalere med en maksimal systemeffekt på 445 watt. 
+Du kan velge mellom to lydsystemer på BMW i4 M50. Med Hifi Sound system får du ti høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Surround Sound system får du 17 høyttalere med en maksimal systemeffekt på 445 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW i4 M50 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 4 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for BMW i4 M50. Standardlyktene bruker LED-teknologi. Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
+Du kan velge mellom to typer frontlykter for BMW i4 M50. Standardlyktene bruker LED-teknologi. Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
 ## Avanserte førerassistentsystemer
 
 BMW i4 M50 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

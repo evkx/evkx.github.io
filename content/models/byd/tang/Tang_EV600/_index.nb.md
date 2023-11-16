@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 90kWh og en nettokapasitet på 86,4kWh, noe
 
 Maksimal DC-ladehastighet er 110kW. En full lading fra 0 - 100 % vil ta 67 minutter, mens et mer vanlig scenario på 10-80 % vil ta 36 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 93kW. Hver ladeøkt vil ta 31 minutter og 37 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 31,7kWh/100km, vil 1000km ta 10 timer og 50 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 5% til 59%. Totalt tapt tid for å lade opp batteriet vil være 150 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 31,7kWh/100km, vil 1000km ta 10 timer og 50 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 5% til 59%. Totalt tapt tid for å lade opp batteriet vil være 150 minutter.
 
 ### Ombordlader
 
@@ -162,7 +162,7 @@ BYD Tang EV600 har doble skjermer på en delt ramme montert med braketter på da
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på BYD Tang EV600. Med Surroundsystem får du seven høyttalere med en maksimal systemeffekt på  watt. Med Premium sound system får du 12 høyttalere med en maksimal systemeffekt på  watt. 
+Du kan velge mellom to lydsystemer på BYD Tang EV600. Med Surroundsystem får du syv høyttalere med en maksimal systemeffekt på  watt. Med Premium sound system får du 12 høyttalere med en maksimal systemeffekt på  watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
 

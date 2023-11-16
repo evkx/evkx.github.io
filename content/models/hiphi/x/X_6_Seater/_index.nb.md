@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 101kWh og en nettokapasitet på 97kWh, noe 
 
 Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 79 minutter, mens et mer vanlig scenario på 10-80 % vil ta 41 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 51%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 100kW. Hver ladeøkt vil ta 27 minutter og 19 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 11 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 5% til 43%. Totalt tapt tid for å lade opp batteriet vil være 111 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 11 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 5% til 43%. Totalt tapt tid for å lade opp batteriet vil være 111 minutter.
 
 ### Ombordlader
 
@@ -173,7 +173,7 @@ Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med he
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på HiPhi X 6 Seater. Med SONIC LINE SYSTEM får du nine høyttalere med en maksimal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 17 høyttalere med en maksimal systemeffekt på 600 watt. 
+Du kan velge mellom to lydsystemer på HiPhi X 6 Seater. Med SONIC LINE SYSTEM får du ni høyttalere med en maksimal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 17 høyttalere med en maksimal systemeffekt på 600 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
 

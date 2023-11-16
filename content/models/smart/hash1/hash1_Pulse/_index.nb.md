@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 62kWh, noe s
 
 Maksimal DC-ladehastighet er 150kW. En full lading fra 0 - 100 % vil ta 80 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 89kW. Hver ladeøkt vil ta 20 minutter og 29 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26kWh/100km, vil 1000km ta 10 timer og 34 minutter. Denne turen vil kreve seven ladeøkt(er) lading fra 5% til 51%. Totalt tapt tid for å lade opp batteriet vil være 135 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26kWh/100km, vil 1000km ta 10 timer og 34 minutter. Denne turen vil kreve syv ladeøkt(er) lading fra 5% til 51%. Totalt tapt tid for å lade opp batteriet vil være 135 minutter.
 
 ### Ombordlader
 
@@ -151,7 +151,7 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 Modellen har 4 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for Smart #1 Pulse. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+Du kan velge mellom to typer frontlykter for Smart #1 Pulse. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 ## Avanserte førerassistentsystemer
 
 Smart #1 Pulse har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 86kWh og en nettokapasitet på 80kWh, noe s
 
 Maksimal DC-ladehastighet er 112kW. En full lading fra 0 - 100 % vil ta 67 minutter, mens et mer vanlig scenario på 10-80 % vil ta 37 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 67%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 82kW. Hver ladeøkt vil ta 35 minutter og 30 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 10 timer og 26 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 8% til 62%. Totalt tapt tid for å lade opp batteriet vil være 127 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 10 timer og 26 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 8% til 62%. Totalt tapt tid for å lade opp batteriet vil være 127 minutter.
 
 ### Ombordlader
 
@@ -133,7 +133,7 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom three lydsystemer på Mercedes-EQ EQC 400 4MATIC. Med Standard får du seven høyttalere med en maksimal systemeffekt på 100 watt. Med Advanced Soundsystem får du nine høyttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 høyttalere med en maksimal systemeffekt på 590 watt. 
+Du kan velge mellom tre lydsystemer på Mercedes-EQ EQC 400 4MATIC. Med Standard får du syv høyttalere med en maksimal systemeffekt på 100 watt. Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 høyttalere med en maksimal systemeffekt på 590 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Mercedes-EQ EQC 400 4MATIC Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

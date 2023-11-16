@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 59kWh, noe s
 
 Maksimal DC-ladehastighet er 170kW. En full lading fra 0 - 100 % vil ta 70 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 83kW. Hver ladeøkt vil ta 20 minutter og 31 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 17kWh/100km, vil 1000km ta 9 timer og 41 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 3% til 51%. Totalt tapt tid for å lade opp batteriet vil være 82 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 17kWh/100km, vil 1000km ta 9 timer og 41 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 3% til 51%. Totalt tapt tid for å lade opp batteriet vil være 82 minutter.
 
 ### Ombordlader
 
@@ -159,7 +159,7 @@ Tesla Model 3 (GEN1) har en enkelt skjerm. Dashboardsenteret har en enkelt [info
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Tesla Model 3 (GEN1). Med Tesla Immersive Sound får du seven høyttalere med en maksimal systemeffekt på 560 watt. 
+Én type lydsystem er tilgjengelig for Tesla Model 3 (GEN1). Med Tesla Immersive Sound får du syv høyttalere med en maksimal systemeffekt på 560 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
 

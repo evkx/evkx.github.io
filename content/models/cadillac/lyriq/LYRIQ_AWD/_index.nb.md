@@ -150,7 +150,7 @@ Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med he
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Cadillac LYRIQ AWD. Med Lyric sound system får du seven høyttalere med en maksimal systemeffekt på  watt. 
+Én type lydsystem er tilgjengelig for Cadillac LYRIQ AWD. Med Lyric sound system får du syv høyttalere med en maksimal systemeffekt på  watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Cadillac LYRIQ AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

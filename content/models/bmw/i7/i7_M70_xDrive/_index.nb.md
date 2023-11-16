@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 105,7kWh og en nettokapasitet på 101,7kWh,
 
 Maksimal DC-ladehastighet er 195kW. En full lading fra 0 - 100 % vil ta 56 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 135kW. Hver ladeøkt vil ta 23 minutter og 4 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26kWh/100km, vil 1000km ta 9 timer og 30 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 2% til 54%. Totalt tapt tid for å lade opp batteriet vil være 71 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26kWh/100km, vil 1000km ta 9 timer og 30 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 2% til 54%. Totalt tapt tid for å lade opp batteriet vil være 71 minutter.
 
 ### Ombordlader
 
@@ -117,7 +117,7 @@ Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen. <br />
 
 ### Seter på andre rad
 
-Du kan velge two setetyper for den andre raden i BMW i7 M70 xDrive. 
+Du kan velge to setetyper for den andre raden i BMW i7 M70 xDrive. 
 
 Alternativet standard er en tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
@@ -169,14 +169,14 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på BMW i7 M70 xDrive. Med Harman Kardon Surround Sound system får du 18 høyttalere med en maksimal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 høyttalere med en maksimal systemeffekt på 1615 watt. 
+Du kan velge mellom to lydsystemer på BMW i7 M70 xDrive. Med Harman Kardon Surround Sound system får du 18 høyttalere med en maksimal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 høyttalere med en maksimal systemeffekt på 1615 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW i7 M70 xDrive Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 6 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for BMW i7 M70 xDrive. Standardlyktene bruker LED-teknologi. Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
+Du kan velge mellom to typer frontlykter for BMW i7 M70 xDrive. Standardlyktene bruker LED-teknologi. Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
 
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/headlights_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}

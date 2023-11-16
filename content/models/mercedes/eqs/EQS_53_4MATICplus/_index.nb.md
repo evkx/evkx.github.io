@@ -41,7 +41,7 @@ Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 107,8kWh, n
 
 Maksimal DC-ladehastighet er 210kW. En full lading fra 0 - 100 % vil ta 82 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 142kW. Hver ladeøkt vil ta 26 minutter og 34 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25,2kWh/100km, vil 1000km ta 9 timer og 21 minutter. Denne turen vil kreve two ladeøkt(er) lading fra 1% til 68%. Totalt tapt tid for å lade opp batteriet vil være 62 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25,2kWh/100km, vil 1000km ta 9 timer og 21 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 68%. Totalt tapt tid for å lade opp batteriet vil være 62 minutter.
 
 ### Ombordlader
 
@@ -100,7 +100,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteopps
 
 ### Forseter
 
-Det er two setetyper du kan velge mellom for første rad i Mercedes-AMG EQS 53 4MATIC+. 
+Det er to setetyper du kan velge mellom for første rad i Mercedes-AMG EQS 53 4MATIC+. 
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
@@ -140,7 +140,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen. <br />
 
 ### Seter på andre rad
 
-Du kan velge two setetyper for den andre raden i Mercedes-AMG EQS 53 4MATIC+. 
+Du kan velge to setetyper for den andre raden i Mercedes-AMG EQS 53 4MATIC+. 
 
 Alternativet standard er en tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
@@ -192,7 +192,7 @@ Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontr
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Mercedes-AMG EQS 53 4MATIC+. Med Advanced Soundsystem får du nine høyttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 høyttalere med en maksimal systemeffekt på 590 watt. 
+Du kan velge mellom to lydsystemer på Mercedes-AMG EQS 53 4MATIC+. Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 høyttalere med en maksimal systemeffekt på 590 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Mercedes-AMG EQS 53 4MATIC+ Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

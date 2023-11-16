@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 75,7kWh og en nettokapasitet på 70kWh, noe
 
 Maksimal DC-ladehastighet er 150kW. En full lading fra 0 - 100 % vil ta 117 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 80kW. Hver ladeøkt vil ta 22 minutter og 3 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 10 timer og 29 minutter. Denne turen vil kreve six ladeøkt(er) lading fra 5% til 46%. Totalt tapt tid for å lade opp batteriet vil være 129 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 10 timer og 29 minutter. Denne turen vil kreve seks ladeøkt(er) lading fra 5% til 46%. Totalt tapt tid for å lade opp batteriet vil være 129 minutter.
 
 ### Ombordlader
 
@@ -155,7 +155,7 @@ Du har trådløs lading for telefonen din.
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Ford Mustang Mach-E Standard Range AWD. Med B&O Sound System får du ten høyttalere med en maksimal systemeffekt på 560 watt. 
+Én type lydsystem er tilgjengelig for Ford Mustang Mach-E Standard Range AWD. Med B&O Sound System får du ti høyttalere med en maksimal systemeffekt på 560 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Ford Mustang Mach-E Standard Range AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

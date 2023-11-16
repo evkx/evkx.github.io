@@ -33,7 +33,7 @@ Nio ES8 har en maksimal effekt på 400KW (544hk).Totalt dreiemoment er 725nm. De
 
 ## Batteri, rekkevidde og lading
 
-Nio ES8 har two batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading. 
+Nio ES8 har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading. 
 ### 100kWh
 
 Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 90kWh, noe som betyr at du har en 10kWh-buffer for beskyttelse. (10,0%).
@@ -42,7 +42,7 @@ Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 90kWh, noe 
 
 Maksimal DC-ladehastighet er 126kW. En full lading fra 0 - 100 % vil ta 83 minutter, mens et mer vanlig scenario på 10-80 % vil ta 43 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 72%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 79kW. Hver ladeøkt vil ta 44 minutter og 24 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 30kWh/100km, vil 1000km ta 11 timer og 1 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 8% til 67%. Totalt tapt tid for å lade opp batteriet vil være 162 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 30kWh/100km, vil 1000km ta 11 timer og 1 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 8% til 67%. Totalt tapt tid for å lade opp batteriet vil være 162 minutter.
 ### 75kWh
 
 Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70,5kWh, noe som betyr at du har en 4,5kWh-buffer for beskyttelse. (6,0%).
@@ -51,7 +51,7 @@ Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70,5kWh, noe
 
 Maksimal DC-ladehastighet er 140kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 74%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 77kW. Hver ladeøkt vil ta 37 minutter og 57 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 30kWh/100km, vil 1000km ta 11 timer og 22 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 7% til 73%. Totalt tapt tid for å lade opp batteriet vil være 182 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 30kWh/100km, vil 1000km ta 11 timer og 22 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 7% til 73%. Totalt tapt tid for å lade opp batteriet vil være 182 minutter.
 
 ### Ombordlader
 
@@ -131,7 +131,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen. <br />
 
 ### Seter på andre rad
 
-Du kan velge two setetyper for den andre raden i Nio ES8. 
+Du kan velge to setetyper for den andre raden i Nio ES8. 
 
 Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
@@ -187,7 +187,7 @@ Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontr
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Nio ES8. Med Surroundsystem får du seven høyttalere med en maksimal systemeffekt på  watt. Med Premium sound system får du 12 høyttalere med en maksimal systemeffekt på  watt. 
+Du kan velge mellom to lydsystemer på Nio ES8. Med Surroundsystem får du syv høyttalere med en maksimal systemeffekt på  watt. Med Premium sound system får du 12 høyttalere med en maksimal systemeffekt på  watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
 

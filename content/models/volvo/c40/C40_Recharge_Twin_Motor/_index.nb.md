@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 79kWh, noe s
 
 Maksimal DC-ladehastighet er 205kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 28 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 50%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 119kW. Hver ladeøkt vil ta 19 minutter og 27 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 1 minutter. Denne turen vil kreve five ladeøkt(er) lading fra 1% til 52%. Totalt tapt tid for å lade opp batteriet vil være 101 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 10 timer og 1 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 1% til 52%. Totalt tapt tid for å lade opp batteriet vil være 101 minutter.
 
 ### Ombordlader
 
@@ -146,12 +146,12 @@ Volvo C40 Recharge Twin Motor har flere integrerte skjermer. Bak rattet er en [d
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Volvo C40 Recharge Twin Motor. Med High Performance får du eight høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 600 watt. 
+Du kan velge mellom to lydsystemer på Volvo C40 Recharge Twin Motor. Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 600 watt. 
 
 Modellen har 1 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for Volvo C40 Recharge Twin Motor. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+Du kan velge mellom to typer frontlykter for Volvo C40 Recharge Twin Motor. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/headlights_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}

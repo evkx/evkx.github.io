@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 71,4kWh og en nettokapasitet på 64kWh, noe
 
 Maksimal DC-ladehastighet er 147kW. En full lading fra 0 - 100 % vil ta 141 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 47%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 88kW. Hver ladeøkt vil ta 19 minutter og 9 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 10 timer og 28 minutter. Denne turen vil kreve seven ladeøkt(er) lading fra 4% til 46%. Totalt tapt tid for å lade opp batteriet vil være 128 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 10 timer og 28 minutter. Denne turen vil kreve syv ladeøkt(er) lading fra 4% til 46%. Totalt tapt tid for å lade opp batteriet vil være 128 minutter.
 
 ### Ombordlader
 
@@ -156,14 +156,14 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Lexus RZ 450e. Med Standard får du 14 høyttalere med en maksimal systemeffekt på  watt. Med Mark Levinson Premium Surround Sound får du 14 høyttalere med en maksimal systemeffekt på  watt. 
+Du kan velge mellom to lydsystemer på Lexus RZ 450e. Med Standard får du 14 høyttalere med en maksimal systemeffekt på  watt. Med Mark Levinson Premium Surround Sound får du 14 høyttalere med en maksimal systemeffekt på  watt. 
 
 I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Lexus RZ 450e Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 5 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for Lexus RZ 450e. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
+Du kan velge mellom to typer frontlykter for Lexus RZ 450e. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
 
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/headlights_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}

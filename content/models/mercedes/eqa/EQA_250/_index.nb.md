@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 69,7kWh og en nettokapasitet på 66,5kWh, n
 
 Maksimal DC-ladehastighet er 112kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 70%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 84kW. Hver ladeøkt vil ta 31 minutter og 19 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 10 timer og 10 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 4% til 62%. Totalt tapt tid for å lade opp batteriet vil være 111 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 10 timer og 10 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 4% til 62%. Totalt tapt tid for å lade opp batteriet vil være 111 minutter.
 
 ### Ombordlader
 
@@ -94,7 +94,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteopps
 
 ### Forseter
 
-Det er two setetyper du kan velge mellom for første rad i Mercedes-EQ EQA 250. 
+Det er to setetyper du kan velge mellom for første rad i Mercedes-EQ EQA 250. 
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
@@ -177,7 +177,7 @@ Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontr
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Mercedes-EQ EQA 250. Med Standard får du seven høyttalere med en maksimal systemeffekt på 100 watt. Med Advanced Soundsystem får du nine høyttalere med en maksimal systemeffekt på 225 watt. 
+Du kan velge mellom to lydsystemer på Mercedes-EQ EQA 250. Med Standard får du syv høyttalere med en maksimal systemeffekt på 100 watt. Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Mercedes-EQ EQA 250 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 

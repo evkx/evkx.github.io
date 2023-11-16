@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 96,12kWh og en nettokapasitet på 90,6kWh, 
 
 Maksimal DC-ladehastighet er 170kW. En full lading fra 0 - 100 % vil ta 55 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 64%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 121kW. Hver ladeøkt vil ta 28 minutter og 48 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 27kWh/100km, vil 1000km ta 9 timer og 50 minutter. Denne turen vil kreve three ladeøkt(er) lading fra 2% til 69%. Totalt tapt tid for å lade opp batteriet vil være 90 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 27kWh/100km, vil 1000km ta 9 timer og 50 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 2% til 69%. Totalt tapt tid for å lade opp batteriet vil være 90 minutter.
 
 ### Ombordlader
 
@@ -102,7 +102,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteopps
 
 ### Forseter
 
-Det er two setetyper du kan velge mellom for første rad i Mercedes-EQ EQE 350 4MATIC SUV. 
+Det er to setetyper du kan velge mellom for første rad i Mercedes-EQ EQE 350 4MATIC SUV. 
 
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
@@ -191,14 +191,14 @@ Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontr
 
 ## Infotainment
 
-Du kan velge mellom two lydsystemer på Mercedes-EQ EQE 350 4MATIC SUV. Med Advanced Soundsystem får du nine høyttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 høyttalere med en maksimal systemeffekt på 590 watt. 
+Du kan velge mellom to lydsystemer på Mercedes-EQ EQE 350 4MATIC SUV. Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 høyttalere med en maksimal systemeffekt på 590 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Mercedes-EQ EQE 350 4MATIC SUV Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 4 USB-C-tilkoblinger som standard. 
 ## Lys
 
-Du kan velge mellom two typer frontlykter for Mercedes-EQ EQE 350 4MATIC SUV. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
+Du kan velge mellom to typer frontlykter for Mercedes-EQ EQE 350 4MATIC SUV. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/headlights_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2250"  >}}

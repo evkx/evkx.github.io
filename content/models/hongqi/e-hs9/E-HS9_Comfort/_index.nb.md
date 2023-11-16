@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 84kWh og en nettokapasitet på 81,7kWh, noe
 
 Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 67 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 72%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 94kW. Hver ladeøkt vil ta 34 minutter og 1 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 32kWh/100km, vil 1000km ta 10 timer og 53 minutter. Denne turen vil kreve four ladeøkt(er) lading fra 6% til 79%. Totalt tapt tid for å lade opp batteriet vil være 153 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 32kWh/100km, vil 1000km ta 10 timer og 53 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 6% til 79%. Totalt tapt tid for å lade opp batteriet vil være 153 minutter.
 
 ### Ombordlader
 
@@ -159,7 +159,7 @@ Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontr
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Hongqi E-HS9 Comfort. Med Hongqi sound system får du eight høyttalere med en maksimal systemeffekt på  watt. 
+Én type lydsystem er tilgjengelig for Hongqi E-HS9 Comfort. Med Hongqi sound system får du åtte høyttalere med en maksimal systemeffekt på  watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
 
