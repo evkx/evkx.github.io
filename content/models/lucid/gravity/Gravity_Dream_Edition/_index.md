@@ -45,7 +45,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW ch
 
 ### Charge port
 
-The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. See full specifications for all markets. 
 
 {{<evkxdisplayaddarticle />}}
 
