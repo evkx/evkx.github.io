@@ -57,7 +57,7 @@ The EV search functionality on EVKX.net allows you to find and filter EVs based 
 
 In this article, we will show you how to use the EV search functionality on EVKX.net. We will explain how to access the search page, how to use the filter and sort options, and how to view the details of each EV. We will also give you some tips and tricks on how to optimize your search and find the best EV for you. Let's get started!
 
-[Read guide](evsearch)
+[Read guide](evsearch/)
 
 ## Understanding range
 
@@ -71,7 +71,7 @@ However, there are some ways to estimate and compare the range of different EVs,
 
 In this article, we will cover everything you need to know about the range of EVs. We will explain what affects the rated range and the real-world range of EVs, how to use the WLTP and EPA standards to measure and compare the range of EVs, and how to improve and optimize your EV range. By reading this article, you will gain a better understanding of the range of EVs, and how to choose and use an EV that meets your needs.
 
-[Read guide](understandingrange)
+[Read guide](understandingrange/)
 
 ## Vehicle Types
 
@@ -83,4 +83,4 @@ Electric vehicles (EVs) are not only good for the environment, but also for the 
 
 In this article, we will cover the different vehicle types available as EVs. We will explain what are the main features and benefits of each vehicle type, and give you some examples of the most popular or upcoming models in each category. 
 
-[Read guide](vehicletypes)
+[Read guide](vehicletypes/)

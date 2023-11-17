@@ -1,96 +1,79 @@
 ---
-title: Hvordan sjekke batterihelsen
-linktitle: Sjekke batteriet.
-description: Det er mulig med enkel matte å kontrollere batteriets generelle helse. Denne guiden forklarer hvordan. 
+title: Slik bekrefter du batterihelsen
+linktitle: Bekreft batteritilstanden
+description: Med enkel matematikk er det mulig å verifisere batteriets generelle status. Denne veiledningen forklarer hvordan.
 weight: 1
 ---
+<!-- markdownlint-disable MD033 -->
+<div class="alert alert-warning" role="alert">
+   Denne prosedyren er <b>bare</b> mulig å bruke på elbiler som
+   <ul>
+   <li>Vis et fullstendig reiseforbruk og ikke bare forbruket for siste distanse. Eksempel: mange kinesiske elbiler viser kun forbruk siste 50 km</li>
+   <li>Har ikke skjult brukbar buffer, som Toyota bZ4X der den skjuler mye kapasitet mellom 0-1 %</li>
+   <li>Justerer ikke bufferen når den degraderes (de fleste gjør det ikke)</li>
+   </ul>
+</div>
 
-Når batteriet degraderes, reduseres den tilgjengelige batterikapasiteten. Dette fører til en kortere rekkevidde.
+Når batteriet degraderes, reduseres den tilgjengelige batterikapasiteten. Denne reduksjonen reduserer kjørerekkevidden til elbilen.
 
-Hvis du vet hvor mye nettokapasitet bilen din skal ha, kan du enkelt sjekke den.
+Hvis du vet hvor stor nettokapasitet bilen din skal ha når den er ny, kan du beregne dagens helse.
 
-Slik sjekker du batteriet
+Denne prosedyren er hvordan du sjekker batteriet
 
-1. Lad til ca 90%
-2. Koble bilen fra lader og la den stå 2-3 timer. Dette for å sikre at batteriet er skikkelig balansert. Hvis batteriet er i ubalanse vil prosenten synke i denne perioden.
-3. Koble til lader igjen og lad opp til 100%
-4. Ta en kjøretur og bruk minst 70% av batteriet. Prøv å holde forbruket lavt.
-5. Noter deg forbruk og kjøreavstand
-6. Noter deg SOC på turens slutt (ladetilstand) (prosent igjen på batteriet)
-7. Beregn faktisk kapasitet
+1. Lad opp til 100 %
+2. Ta en kjøretur og bruk minst 90 % av batteriet. Prøv å holde forbruket lavt.
+3. Legg merke til forbruket og kjøreavstanden
+4. Legg merke til slutt-SOC (ladetilstand) (prosent igjen på batteriet)
+5. Beregn faktisk kapasitet
 
-For de følgende eksemplene antar vi at du har en e-tron 55 med 86,5 kWh nettokapasitet fra fabrikken.
+For de følgende eksemplene antar vi at du har en e-tron 55 med 86,5 kWh netto kapasitet fra fabrikk.
+
+## Beregning i miles
+
+### Miles eksempel 1
+
+Du kjører 169 mil med et forbruk på 2,6 mil/kWh. Du startet turen med 100 % batteri og endte opp med 21 %.
+
+Først beregner du den totale energien som brukes: 169/2,6 = <b>65kWh</b>.<br>
+Hvis du hadde 21 % igjen, har du brukt <b>79 %</b> (100 %-21 %)<br>
+Den nåværende kapasiteten er 79 % = 65 kWh.<br>
+Du kan beregne full kapasitet (100%):<br>
+(65/79)*100 = <b>82,27 kWh</b><br>
+82,27 er den faktiske brukbare kapasiteten til batteriet ditt.
+82,27/86,5 = <b>95,1 %</b>
+Dette betyr en reduksjon på nesten 5 % fra den opprinnelige brukbare kapasiteten.
 
 ## Beregning i kilometer
 
 ### Km eksempel 1
 
-Hvis du kjører 280 kilometer med et forbruk på 25kWh/100
-Du begynte med 100% og endte opp med 16%.
+Hvis du kjører 240 kilometer med et forbruk på 25kWh/100km<br>
+Du startet med 100 % og endte opp med 16 %<br>
 
-Først beregner du den totale energien som brukes
+Først beregner du den totale energien som brukes<br>
+(280 * 25)/100 = <b>70kWh</b> totalt på turen.<br>
+Hvis du har 16 % igjen, har du brukt <b>84 %</b> på reisen (100-16)<br>
 
-(280 * 25)/100 = 70kWh totalt på turen.
+84 % = 70 kWh batteri.<br>
 
-Hvis du har 16% igjen har du brukt 84% på turen (100-16)
-/
-84% = 70kWh batteri.
+Full kapasitet (100%) kan da beregnes:<br>
 
-Full kapasitet (100%) kan deretter beregnes:
-
-(70/84)*100 = 83,333 kWh
-
- 83.333 er batteriets faktiske kapasitet.
-
-83,33/86,5 = 96,34%. Det betyr en reduksjon på nesten 4% fra den opprinnelige kapasiteten.
+(70/84)*100 = <b>83,333 kWh</b>
+83.333 er den faktiske kapasiteten til batteriet.<br>
+83,33/86,5 = <b>96,34 %</b>. Dette betyr en reduksjon på nesten <b>4 %</b> fra den opprinnelige kapasiteten.
 
 ## Hva påvirker kapasiteten
 
-Bare ett avvik fra kapasiteten betyr ikke nødvendigvis at batteriet ditt er degradert.
+Bare ett avvik fra kapasiteten betyr ikke nødvendigvis at batteriet ditt har degradert.
 
-Hvis du har et høyt forbruk, vil det være noe tap på grunn av intern motstand.
+Hvis du har høyt forbruk vil det være noe tap på grunn av indre motstand.
 
-Hvis batteriet var i ubalanse, vil det også påvirke batterikapasiteten.
+Hvis batteriet var ubalansert, vil det også påvirke batterikapasiteten.
 
-For folk som liker å holde styr på dette, anbefaler vi å spore dette fra begynnelsen av eierskapet. På denne måten vil du kjenne bilen din mer.
+For folk som elsker å holde styr på dette, anbefaler vi å spore dette fra begynnelsen av eierskapet. På denne måten vil du kjenne bilen din mer.
 
 Følgende eksempel viser statistikken fra en e-tron 55 2020v1 med 83,6 kWh kapasitet fra den var ny.
 
-![Graph](https://media.electrichasgoneaudi.net/multimedia/guides/checkingbatteryhealth/graph1.jpg "Loggføring av tilgjengelig batteri sammenlignet med brukt energi Oslo-Trysil over tid.")
+{{< sitefiguresized thumb="guides/checkingbatteryhealth/graph1_st.jpg" width="2463" height="1366" title="Sporing av faktisk batterikapasitet sammenlignet med totalt forbruk" >}}
 
-![Graph](https://media.electrichasgoneaudi.net/multimedia/guides/checkingbatteryhealth/graph2.jpg "Loggføring av tilgjengelig batteri sammenlignet med forbruk  kWh/100 km")
-
-## Hva hvis avviket er veldig stort?
-
-Hvis avviket er veldig stort kan det tyde på at det har oppstått en feil på batteriet og bilen må på verksted.
-
-Da er det en stor fordel at du har beregnet dette og i større grad vet det er et avvik enn at det bare er en følelse om kortere rekkevidde.
-
-Nedenfor er et eksempel fra bil med feil på battericelle.
-
-![VC](https://media.electrichasgoneaudi.net/multimedia/guides/checkingbatteryhealth/vc1.jpg "Data fra bil med feil")
-
-Her er bilen kjørt 118.1km med et forbruk på 21kWh/100km. Prosenten har gått ned fra 100% - 25%.
-
-Beregnet som over gir dette en totalakapasitet på batteriet på 33kWh. Langt under sitt originale 86.5kWh.
-
-Ny batterimodul ble byttet på garanti.
-
-## Kan man heller måle hvor mye man lader?
-
-I beregningen over bruker man mengden energi man tar ut av batteriet. Kan man ikke heller bare måle hvor mye man fyller på etter en slik kjøretur og beregne utifra det?
-
-Grunnen til at dette blir mindre nøyaktig er at under lading forsvinner det en del energi i laderen under konverteringen fra vekselstrøm til likestrøm eller i varmetap i kabler og annet elektronikk under hurtiglading. Det er ikke mulig å vite hvor
-stor dette tapet er nøyaktig.  Audi oppgir indirekte dette tapet for WLTP forbruket. WLTP forbruk er oppgitt inkludert ladetap. Når man vet hvor stort batteriet er og hvor langt man kjørte kan man regne dette ut.
-
-På Audi e-tron oppgis minimum WLTP forbruk til 22.2kWh/100km. Samtidig oppgis rekkevidden til 441km. Når man vet at batteriet er på 86.5kWh vet man for å få 441km ut av det batteriet må man ha et forbruk på 19.6kWh/100. (86.5/4,41)
-22.2/19.6 gir et tap på 13.2%. Dette er et relativt høyt tall og over det man vanligvis ser.
-
-La oss anta at at man har ladet fra 15% - 99% og ladeboksen oppgir at man har ladet 79.15kWh. Dette betyr at å lade hele batteriet krever 94.22kWh Dette tilsvarer 8.8% over batteriet kapasitet. Sannsynligvis er batteriet kapasitet bra i henhold til spesifikasjon,
-men er vanskelig å vite helt sikkert da man ikke vet varmetapet i lader/kabler.
-
-## Hvordan beskytte batteriet?
-
-Hvis du ønsker å leser mer hvordan man beskytter batteriet mot degradering så kan du lese [denne guiden](/nb/guides/protectingbattery/).
-
-Hvis du ønsker å lære enda mer om batteri kan du lese vår [artikkel om batteri](../../technology/battery/).
+{{< sitefiguresized thumb="guides/checkingbatteryhealth/graph2_st.jpg" width="2019" height="1364" title="Sporing av faktisk batterikapasitet sammenlignet med forbruk kWh/100 km" >}}

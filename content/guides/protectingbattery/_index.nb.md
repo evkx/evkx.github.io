@@ -1,56 +1,49 @@
 ---
-title: Hvordan beskytte batteriet på min helelektriske Audi?
-linktitle: Beskytte batteriet
-description: elbil-batterier degraderes over tid, men det er mange ting du kan gjøre for at de skal beholde kapasiteten lenger.
+title: Hvordan beskytter jeg batteriet på elbilen min?
+linktitle: Beskytter batteriet
+description: EV-batterier brytes ned over tid, men det er mange ting du kan gjøre for å få dem til å beholde kapasiteten lenger.
 weight: 1
 ---
+<!-- markdownlint-disable MD033 -->
+Mange faktorer øker nedbrytningen, men følgende er de viktigste faktorene.
 
-Mange faktorer øker degraderingen, men følgende er de viktigste faktorene.
+### Høyhastighetslading
 
-### Lyn og hurtiglading
-
-Lyn og hurtiglading er den faktoren som øker nedbrytningen mest.
+Høyhastighetslading er den enkeltfaktoren som øker degraderingen mest.
 
 Du bør prøve å lade hjemme så mye som mulig.
 
 ### Høy eller lav ladetilstand over lang tid
 
-De fleste elbiler har en buffer for å beskytte batteriet, og det samme har de helelektriske Audi-modellene. I tabellen nedenfor ser du totalbufferen for alle e-elektriske modeller fra Audi.
+De fleste elbiler har en buffer for å beskytte batteriet.
+Men mange tror at denne bufferen beskytter den mot lading til 100 %. Men i de fleste tilfeller er hele eller nesten all buffer på bunnen for å beskytte batteriet fra å gå tomt.
 
-| Modell | Batteri | Buffer | Tilgjengelig |
-|------|-------|-------|-------|
-| [e-tron 55/S](/models/e-tron/drivetrain/battery/) | 95 kWh | 8.5kWh (9%)  | 86.5 kWh |
-| [e-tron 50](/models/e-tron/drivetrain/battery/) | 71 kWh | 6.3kWh (8.9%)  | 64.7 kWh |
-| [(RS) e-tron GT](/models/e-tron-gt/drivetrain/battery/) | 93.4 kWh | 9.7kWh (10.4%%)  | 83.7 kWh |
-| [Q4 e-tron 40/45/50](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron)  | 82 kWh | 5.4kWh (6.6%)  | 76.6 kWh |
-| [Q4 e-tron 35](/models/q4-e-tron/drivetrain/battery/#battery-q4-35) | 55 kWh | 3kWh (5.45%)  | 52 kWh |
+{{< sitefiguresized thumb="guides/protectingbattery/buffersize_st.png" width="1232" height="844" title="Bufferstørrelse" >}}
 
-Men mange tror at denne bufferen beskytter den mot lading til 100%. Men i de fleste tilfeller er hele eller nesten hele bufferen på bunnen for å beskytte batteriet mot å gå tomt.
+De fleste EV-merker anbefaler å ikke lade mer enn 80 % på daglig basis. Dette er vist i MMI og brukerhåndboken.
 
-![bilde](buffersize.png "Buffer størrelse" )
+{{< sitefiguresized thumb="guides/protectingbattery/chargingtarget_st.png" width="959" height="478" title="Bufferstørrelse" >}}
 
-Så selv e-tron 55 har en relativt stor buffer, lading til 100% er ikke bra for batteriet. Audi anbefaler ikke å belaste mer enn 80% daglig. Dette er vist i MMI og brukerhåndboken.
+Grafen nedenfor viser et generalisert stressnivå avhengig av ladenivået.
 
-![bilde](chargingtarget.png "Lademål")
+{{< sitefiguresized thumb="guides/protectingbattery/evstoragestress_st.png" width="623" height="473" title="Storage stress" >}}
 
-Grafen nedenfor viser et generalisert stressnivå avhengig av ladningsnivået.
+Basert på dette er nok det optimale å holde den mellom 30 og 70 %, men hvor mye bedre det er sammenlignet med å bare lade til 100 % er umulig å vite.
 
-![bilde](evstoragestress.png)
-
-Basert på dette er det optimale sannsynligvis å holde det mellom 30 og 70%, men hvor mye bedre det er i forhold til bare å lade til 100% er umulig å vite.
-
-Bufferne er i virkeligheten grenser for maks og minimum spenning hver celle kan ha. Å ha en 4% buffer på toppen betyr at spenningen på hver celle er begrenset til maks 96% av maks spenningen.
+Bufferene er i realiteten grenser for maks og minimum spenning hver celle kan ha. Å ha en 4 % buffer på toppen betyr at spenningen på hver celle er begrenset til maks 96 % av maks spenning.
 
 ### Antall ladesykluser
 
-Antall ladningssykluser påvirker nedbrytningen.
+Antall ladesykluser påvirker degraderingen.
 
-Diagrammet nedenfor viser hvordan batteriet degraderes basert på ladevaner.
+Diagrammet nedenfor viser hvordan batteriet forringes basert på ladevaner.
 
-![bilde](dstcycles.png "Battery degradation")
+{{< sitefiguresized thumb="guides/protectingbattery/dstcycles_st.png" width="570" height="456" title="DST Cycles" >}}
 
-Basert på dette er det beste å holde ladenivåene rundt 50%.
+Basert på dette er det beste å holde ladenivåene rundt 50 %.
 
-Du finner mer om degradering i vår [batteriguide](../../../technology/battery/).
+### Høy temperatur
 
-{{<children />}}
+Høye temperaturer skader batteriet. Bor du i et område med høye temperaturer bør du prøve å unngå å ha bilen parkert i den varme solen hele dagen.
+
+Du kan finne mer om degradering i vår [batteriguide](../../../technology/battery/).
