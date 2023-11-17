@@ -109,9 +109,9 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 4 different materials/colors for this seat type. 
 -  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
--  [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
--  [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
--  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 
 

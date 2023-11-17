@@ -109,9 +109,9 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen. 
 -  [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
--  [lærpolstring](../../../../technology/seats/materials/#leatherette)
--  [lærpolstring](../../../../technology/seats/materials/#leatherette)
--  [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Brown [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- White [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Brown [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 
 
