@@ -29,47 +29,47 @@ We have separated this article into sections where we dig deep into the differen
 
 The screens are one of the most noticeable aspects of the user interface in modern EVs. These displays range from small screens displaying basic information to large touchscreens that take up most of the dashboard.
 
-[Read all about screens.](screens)
+[Read all about screens.](screens/)
 
 ### Head-Up Display
 
 Another technology used in EVs is the head-up display (HUD). The HUD projects essential information, such as speed and navigation, onto the windshield, allowing the driver to keep their eyes on the road while still accessing critical data.
 
-[Read all about head-up displays.](hud)
+[Read all about head-up displays.](hud/)
 
 ### Physical Buttons
 
 While screens and voice control are becoming more popular, physical buttons still have an essential role in EVs' user interface.
 
-[Read all about physical buttons.](buttons)
+[Read all about physical buttons.](buttons/)
 
 ### Steering wheel
 
 The steering wheel is an essential part of the user interface in a car. The primary control mechanism allows the driver to steer the vehicle and control its direction of movement.
 
-[Read all about the steering wheel.](steeringwheel)
+[Read all about the steering wheel.](steeringwheel/)
 
 ### Stalks
 
 Stalks, in the context of cars, typically refer to the control switches or levers on the steering column, which operate various vehicle functions without the driver taking their hands off the steering wheel.
 
-[Read all about stalks.](stalks)
+[Read all about stalks.](stalks/)
 
 ### Mirrors
 
 Mirrors are an essential part of the user interface in cars. Mirrors serve as a critical visual aid that allows the driver to observe the vehicle's surroundings, providing basic situational awareness and contributing to safe driving.
 
-[Read all about mirrors.](mirrors)
+[Read all about mirrors.](mirrors/)
 
 ### Voice Control
 
 Voice control is another feature that is becoming increasingly popular in EVs. With voice control, drivers can access various features, such as navigation, media, and climate control, without taking their hands off the wheel.
 
-[Read all about voice control.](voicecontrol)
+[Read all about voice control.](voicecontrol/)
 
 ### Gesture Control
 
 Gesture control is another technology that is starting to appear in EVs. With gesture control, the driver can use hand movements to control various features, such as adjusting the volume or changing the radio station.
 
-[Read all about gesture control.](gesturecontrol)
+[Read all about gesture control.](gesturecontrol/)
 
