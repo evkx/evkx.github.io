@@ -48,6 +48,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tbody>
 <tr><td>Brutto batteristørrelse</td><td>124 kWh</td></tr>
 <tr><td>Netto batteristørrelse</td><td>122 kWh</td></tr>
+<tr><td>Antall moduler</td><td>22</td></tr>
 <tr><td>Pakkekonfigurasjon</td><td>220s30p</td></tr>
 <tr><td>Nominell spenning</td><td>800</td></tr>
 </tbody>

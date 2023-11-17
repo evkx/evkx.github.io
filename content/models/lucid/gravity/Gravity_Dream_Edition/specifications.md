@@ -48,6 +48,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tbody>
 <tr><td>Battery gross</td><td>124 kWh</td></tr>
 <tr><td>Battery net</td><td>122 kWh</td></tr>
+<tr><td>Number of modules</td><td>22</td></tr>
 <tr><td>Pack Configuration</td><td>220s30p</td></tr>
 <tr><td>Nominal voltage</td><td>800</td></tr>
 </tbody>

@@ -71,7 +71,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 4 different paint colors when ordering this model. 
+You can choose between 7 different paint colors when ordering this model. 
 Additionally, you can choose between 6 wheels with sizes from 20 to 23 inches. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
@@ -88,7 +88,7 @@ There is only one roof for this model. The windshield is panoramic going back ov
 
 ## Interior
 
-The seat layout is seven seats with two in front, three seats in the second row and two seats on third row. 
+You can choose between several interior designs. The seat layout is seven seats with two in front, three seats in the second row and two seats on third row. 
 
 ### First row seats
 
@@ -107,8 +107,12 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massage](../../../../technology/seats/adjustment/#massage) 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
+You can choose from 4 different materials/colors for this seat type. 
+-  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+-  [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+-  [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+-  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+
 
 
 

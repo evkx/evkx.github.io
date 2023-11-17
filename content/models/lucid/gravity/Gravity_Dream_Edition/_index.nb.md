@@ -71,7 +71,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Du kan velge mellom 4 forskjellige malingsfarger når du bestiller denne modellen. 
+Du kan velge mellom 7 forskjellige malingsfarger når du bestiller denne modellen. 
 I tillegg kan du velge mellom 6 hjul med størrelser fra 20 til 23 tommer. 
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 
@@ -88,7 +88,7 @@ Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over 
 
 ## Interiør
 
-Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
+Du kan velge mellom flere interiørdesign. Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
 
 ### Forseter
 
@@ -107,8 +107,12 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 - [massasje](../../../../technology/seats/adjustment/#massage) 
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
-<br />
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen. 
+-  [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+-  [lærpolstring](../../../../technology/seats/materials/#leatherette)
+-  [lærpolstring](../../../../technology/seats/materials/#leatherette)
+-  [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+
 
 
 
