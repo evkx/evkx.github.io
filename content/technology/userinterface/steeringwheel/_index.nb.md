@@ -1,51 +1,51 @@
 ---
-title: Steering wheel
-linktitle: Steering wheel
-description: The steering wheel is an essential part of the user interface in a car. The primary control mechanism allows the driver to steer the vehicle and control its direction of movement.
+title: Ratt
+linktitle: Ratt
+description: Rattet er en vesentlig del av brukergrensesnittet i en bil. Den primære kontrollmekanismen lar føreren styre kjøretøyet og kontrollere bevegelsesretningen.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
-Steering wheels come in various shapes, sizes, and materials. Common steering wheel shapes include classic circular designs and sportier designs such as D-shaped, flat-bottomed, or contoured ones.
+Ratt kommer i forskjellige former, størrelser og materialer. Vanlige rattformer inkluderer klassiske sirkulære design og sportsligere design som D-formet, flatbunnet eller konturert.
 
-{{< sitefiguresized thumb="technology/userinterface/steeringwheel/porschewheel_1_st.jpg" width="3000" height="2140" title="Porsche Taycan steering wheel" >}}
+{{< sitefiguresized thumb="technology/userinterface/steeringwheel/porschewheel_1_st.jpg" width="3000" height="2140" title="Porsche Taycan-ratt" >}}
 
-Both Tesla and Lexus have launched EVs with Yoke wheels. However, this design has gotten mixed reviews.
+Både Tesla og Lexus har lansert elbiler med Yoke-hjul. Imidlertid har dette designet fått blandede anmeldelser.
 
-{{< sitefiguresized thumb="technology/userinterface/steeringwheel/teslayoke_st.jpg" width="3000" height="2000" title="Porsche Taycan steering wheel" >}}
+{{< sitefiguresized thumb="technology/userinterface/steeringwheel/teslayoke_st.jpg" width="3000" height="2000" title="Porsche Taycan-ratt" >}}
 
-The size of a steering wheel can vary depending on the make and model of the vehicle, with smaller steering wheels often used in sportier cars for more precise control.
+Størrelsen på et ratt kan variere avhengig av kjøretøyets merke og modell, med mindre ratt som ofte brukes i sportsligere biler for mer presis kontroll.
 
-The manufacturers typically construct the steering wheels with a metal or plastic core covered with a soft, grippy material such as leather, synthetic leather, or rubber for better grip and comfort.
+Produsentene konstruerer vanligvis rattene med en metall- eller plastkjerne dekket med et mykt, gripende materiale som lær, syntetisk lær eller gummi for bedre grep og komfort.
 
-## Steering wheel buttons and controls
+## Rattknapper og kontroller
 
-Many modern steering wheels also incorporate additional features such as buttons or switches for controlling various vehicle functions, such as audio controls, cruise control, phone calls, and more. The manufacturer typically locates these buttons or switches on the steering wheel rim or spokes for easy driving access.
+Mange moderne ratt har også tilleggsfunksjoner som knapper eller brytere for å kontrollere ulike kjøretøyfunksjoner, for eksempel lydkontroller, cruisekontroll, telefonsamtaler og mer. Produsenten finner vanligvis disse knappene eller bryterne på rattkransen eller eikene for enkel kjøring.
 
-Buttons on steering wheels can vary in functionality depending on the make and model of the vehicle.
+Knapper på ratt kan variere i funksjonalitet avhengig av kjøretøyets merke og modell.
 
-**Audio controls:** These buttons allow the driver to adjust the volume, change radio stations, switch audio sources, and control other audio-related functions without reaching for the audio unit or head unit.
+**Lydkontroller:** Disse knappene lar sjåføren justere volumet, bytte radiostasjon, bytte lydkilder og kontrollere andre lydrelaterte funksjoner uten å strekke seg etter lydenheten eller hovedenheten.
 
-**Phone controls:** These buttons enable the driver to make and receive phone calls, control call volume, access the phonebook, and perform other phone-related functions while keeping their hands on the steering wheel.
+**Telefonkontroller:** Disse knappene lar sjåføren ringe og motta telefonsamtaler, kontrollere samtalevolumet, få tilgang til telefonboken og utføre andre telefonrelaterte funksjoner mens han holder hendene på rattet.
 
-**Cruise control:** These buttons allow the driver to set, adjust, and deactivate the cruise control function, which enables the vehicle to maintain a set speed without the need for continuous throttle input.
+**Cruisekontroll:** Disse knappene lar føreren stille inn, justere og deaktivere cruise control-funksjonen, som lar kjøretøyet opprettholde en innstilt hastighet uten behov for kontinuerlig gassinput.
 
-**Voice commands:** Many vehicles have voice recognition systems that allow the driver to control various functions using voice commands. The driver may use a  steering wheel button to activate or deactivate voice commands.
+**Talekommandoer:** Mange kjøretøy har talegjenkjenningssystemer som lar føreren kontrollere ulike funksjoner ved hjelp av talekommandoer. Føreren kan bruke en knapp på rattet for å aktivere eller deaktivere talekommandoer.
 
-**Vehicle information displays:** Some vehicles have displays or screens that provide information about the vehicle’s status, such as fuel level, tire pressure, trip information, and more. The driver can use the steering wheel buttons to navigate and control these displays.
+**Kjøretøysinformasjonsskjermer:** Noen kjøretøy har skjermer eller skjermer som gir informasjon om kjøretøyets status, for eksempel drivstoffnivå, dekktrykk, turinformasjon og mer. Føreren kan bruke knappene på rattet til å navigere og kontrollere disse displayene.
 
-**Regen settings:** Many EVs have paddles to adjust the regen level or mode.
+**Regeninnstillinger:** Mange elbiler har padler for å justere regennivået eller modusen.
 
-## Adjustment
+## Justering
 
-Modern vehicles offer various steering wheel adjustments to allow drivers to find the most comfortable driving position, which can help reduce fatigue and improve the overall driving experience. Most EVs have manual adjustment, but some have electric.
+Moderne kjøretøy tilbyr ulike rattjusteringer for å tillate sjåfører å finne den mest komfortable kjørestillingen, noe som kan bidra til å redusere tretthet og forbedre den generelle kjøreopplevelsen. De fleste elbiler har manuell justering, men noen har elektrisk.
 
-**Tilt Adjustment:** Many vehicles have a steering wheel that the driver can tilt up or down to adjust the angle of the steering wheel. This adjustment allows drivers to set the steering wheel at a comfortable height based on preference and body size.
+**Tiltejustering:** Mange kjøretøy har et ratt som føreren kan vippe opp eller ned for å justere vinkelen på rattet. Denne justeringen lar sjåførene stille inn rattet i en komfortabel høyde basert på preferanser og kroppsstørrelse.
 
-**Telescopic Adjustment:** Telescopic steering wheel adjustments allow drivers to adjust the steering wheel towards or away from themselves, which can help achieve an optimal driving position. This adjustment is especially beneficial for drivers with longer or shorter arms, as it allows them to adjust the steering wheel's position to avoid reaching too far or sitting too close to the steering wheel.
+**Teleskopisk justering:** Teleskopiske rattjusteringer lar førere justere rattet mot eller bort fra seg selv, noe som kan bidra til å oppnå en optimal kjørestilling. Denne justeringen er spesielt gunstig for sjåfører med lengre eller kortere armer, siden den lar dem justere rattets posisjon for å unngå å nå for langt eller sitte for nærme rattet.
 
-**Memory Settings:** Some luxury vehicles may also have memory settings for steering wheel adjustments, allowing drivers to save their preferred steering wheel position and other seat and mirror settings. This memory is helpful for multiple drivers who share a vehicle or drivers who prefer different driving positions for different situations.
+**Minneinnstillinger:** Noen luksusbiler kan også ha minneinnstillinger for rattjusteringer, slik at sjåførene kan lagre sin foretrukne rattposisjon og andre sete- og speilinnstillinger. Dette minnet er nyttig for flere sjåfører som deler et kjøretøy eller sjåfører som foretrekker forskjellige kjørestillinger for forskjellige situasjoner.
 
-It's important to note that proper steering wheel adjustment is crucial for safe driving. Drivers should adjust their steering wheel to allow a relaxed and comfortable grip, with their arms slightly bent and shoulders relaxed. In addition, the steering wheel should not obstruct the driver’s view of the instrument panel or the road, and the airbag should be positioned correctly in an emergency.
+Det er viktig å merke seg at riktig justering av rattet er avgjørende for sikker kjøring. Førere bør justere rattet for å gi et avslappet og komfortabelt grep, med armene lett bøyd og skuldrene avslappet. I tillegg skal ikke rattet hindre førerens sikt til instrumentpanelet eller veien, og kollisjonsputen bør plasseres riktig i en nødsituasjon.
 
-[Continue to stalks.](../stalks/)
+[Fortsett til stalks.](../stalks/)
