@@ -10,7 +10,11 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### Out of Spec Reviews: My First Look At The Lucid Gravity! The Electric SUV w/ Impressive Range, Space, & Luxury 17.11.2023
 
-{{< youtube 2hr-WnSGJE >}}
+{{< youtube 12hr-WnSGJE >}}
+
+### Raiti's Rides: Is the 2025 Lucid Gravity the KING of luxury SUVs? 17.11.2023
+
+{{< youtube 6Ca1vzaRfa0 >}}
 
 ### Throttle House: 2024 Lucid Gravity Review // EXCLUSIVE First Drive + Walkaround 16.11.2023
 
