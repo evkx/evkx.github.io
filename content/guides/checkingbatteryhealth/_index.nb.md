@@ -1,6 +1,6 @@
 ---
-title: Slik bekrefter du batterihelsen
-linktitle: Bekreft batteritilstanden
+title: Slik sjekker du batterihelsen
+linktitle: Sjekk batteritilstanden
 description: Med enkel matematikk er det mulig å verifisere batteriets generelle status. Denne veiledningen forklarer hvordan.
 weight: 1
 ---
@@ -8,8 +8,8 @@ weight: 1
 <div class="alert alert-warning" role="alert">
    Denne prosedyren er <b>bare</b> mulig å bruke på elbiler som
    <ul>
-   <li>Vis et fullstendig reiseforbruk og ikke bare forbruket for siste distanse. Eksempel: mange kinesiske elbiler viser kun forbruk siste 50 km</li>
-   <li>Har ikke skjult brukbar buffer, som Toyota bZ4X der den skjuler mye kapasitet mellom 0-1 %</li>
+   <li>Viser et fullstendig reiseforbruk og ikke bare forbruket for siste distanse. Eksempel: mange kinesiske elbiler viser kun forbruk siste 50 km</li>
+   <li>Har ikke skjult tilgjengelig buffer, som Toyota bZ4X der den skjuler mye kapasitet mellom 0-1 %</li>
    <li>Justerer ikke bufferen når den degraderes (de fleste gjør det ikke)</li>
    </ul>
 </div>
@@ -64,7 +64,7 @@ Full kapasitet (100%) kan da beregnes:<br>
 
 ## Hva påvirker kapasiteten
 
-Bare ett avvik fra kapasiteten betyr ikke nødvendigvis at batteriet ditt har degradert.
+Bare ett måling med avvik fra kapasiteten betyr ikke nødvendigvis at batteriet ditt har degradert.
 
 Hvis du har høyt forbruk vil det være noe tap på grunn av indre motstand.
 

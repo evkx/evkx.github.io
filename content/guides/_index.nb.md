@@ -17,7 +17,7 @@ I denne veiledningen vil vi gi deg noen tips og beste fremgangsmåter for hvorda
 
 [Les guide](protectingbattery/)
 
-## Hvordan verifisere batteritilstanden
+## Hvordan sjekke batterihelsen
 
 <a href="checkingbatteryhealth">
      <img src="https://media.evkx.net/multimedia/guides/checkingbatteryhealth/graph1_st.jpg" alt="Batteri" title="Battery" class="img-fluid">
