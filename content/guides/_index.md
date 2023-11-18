@@ -17,7 +17,7 @@ One of the main concerns that many EV owners and potential buyers have is the ba
 
 In this guide, we will provide you with some tips and best practices on how to extend the lifespan and efficiency of your EV battery. We will cover topics such as charging habits, driving styles, temperature effects, storage conditions, and more. By following these tips, you can save money, and enjoy your EV for a longer time.
 
-[Read guide](protectingbattery)
+[Read guide](protectingbattery/)
 
 ## How to verify battery health
 
@@ -31,7 +31,7 @@ However, calculating the battery health is not as simple as looking at the perce
 
 In this guide, we will show you how to calculate the battery health of your EV using math. We will explain what are the main indicators of battery health, such as state of charge (SOC), state of health (SOH), depth of discharge (DOD), and cycle life. We will also provide you with some formulas and examples on how to use these indicators to estimate the battery health of your EV.
 
-[Read guide](checkingbatteryhealth)
+[Read guide](checkingbatteryhealth/)
 
 ## EV Reviewers
 
@@ -43,7 +43,7 @@ If you are interested in electric vehicles (EVs), you might want to follow some 
 
 In this article, we will cover our favorite EV YouTubers who we think are worth watching and subscribing to. We will introduce each YouTuber, tell you what kind of videos they make, and give you some examples of their most popular or recent videos. We hope you enjoy this article and find some new EV YouTubers to follow.
 
-[Read guide](evreviewers)
+[Read guide](evreviewers/)
 
 ## EV Search
 
