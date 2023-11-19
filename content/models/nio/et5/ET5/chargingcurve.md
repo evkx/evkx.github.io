@@ -31,10 +31,10 @@ This model is available with multiple batteries. Below you find the performance 
 <td>Average charging speed 10-80%</td><td>91,2 kW</td>
 </tr>
 <tr>
-<td>Max C-Rating</td><td>1,27</td>
+<td>Max C-Rate</td><td>1,27</td>
 </tr>
 <tr>
-<td>Average C-Rating</td><td>0,90</td>
+<td>Average C-Rate</td><td>0,90</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>1% - 44%</td>
@@ -389,10 +389,10 @@ Nio ET5 have battery heating, making charging at an optimum battery temperature 
 <td>Average charging speed 10-80%</td><td>87,1 kW</td>
 </tr>
 <tr>
-<td>Max C-Rating</td><td>1,45</td>
+<td>Max C-Rate</td><td>1,45</td>
 </tr>
 <tr>
-<td>Average C-Rating</td><td>1,08</td>
+<td>Average C-Rate</td><td>1,08</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>7% - 74%</td>

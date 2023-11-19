@@ -31,10 +31,10 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 <td>Gjennomsnittlig ladehastighet 10-80 %</td><td>156,5 kW</td>
 </tr>
 <tr>
-<td>Maksimum C-Rating</td><td>2,80</td>
+<td>Maksimum C-Rate</td><td>2,80</td>
 </tr>
 <tr>
-<td>Gjennomsnitt C-Rating</td><td>1,90</td>
+<td>Gjennomsnitt C-Rate</td><td>1,90</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>0% - 67%</td>
@@ -389,10 +389,10 @@ Porsche Taycan Sport Turismo har batterioppvarming, noe som gjør lading ved en 
 <td>Gjennomsnittlig ladehastighet 10-80 %</td><td>195,5 kW</td>
 </tr>
 <tr>
-<td>Maksimum C-Rating</td><td>2,84</td>
+<td>Maksimum C-Rate</td><td>2,84</td>
 </tr>
 <tr>
-<td>Gjennomsnitt C-Rating</td><td>1,94</td>
+<td>Gjennomsnitt C-Rate</td><td>1,94</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>3% - 65%</td>
