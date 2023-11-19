@@ -27,6 +27,12 @@ navicon: bi-battery-charging
 <td>Gjennomsnittlig ladehastighet 10-80 %</td><td>96,4 kW</td>
 </tr>
 <tr>
+<td>Maksimum C-Rating</td><td>1,81</td>
+</tr>
+<tr>
+<td>Gjennomsnitt C-Rating</td><td>1,22</td>
+</tr>
+<tr>
 <td>Optimalt ladeområde</td><td>3% - 58%</td>
 </tr>
 <tr>

@@ -31,6 +31,12 @@ This model is available with multiple batteries. Below you find the performance 
 <td>Average charging speed 10-80%</td><td>156,5 kW</td>
 </tr>
 <tr>
+<td>Max C-Rating</td><td>2,80</td>
+</tr>
+<tr>
+<td>Average C-Rating</td><td>1,90</td>
+</tr>
+<tr>
 <td>Optimum charging area</td><td>0% - 67%</td>
 </tr>
 <tr>
@@ -381,6 +387,12 @@ Porsche Taycan 4S Sport Turismo have battery heating, making charging at an opti
 </tr>
 <tr>
 <td>Average charging speed 10-80%</td><td>195,5 kW</td>
+</tr>
+<tr>
+<td>Max C-Rating</td><td>2,84</td>
+</tr>
+<tr>
+<td>Average C-Rating</td><td>1,94</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>3% - 65%</td>

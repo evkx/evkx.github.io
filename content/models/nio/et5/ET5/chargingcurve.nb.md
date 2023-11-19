@@ -31,6 +31,12 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 <td>Gjennomsnittlig ladehastighet 10-80 %</td><td>91,2 kW</td>
 </tr>
 <tr>
+<td>Maksimum C-Rating</td><td>1,27</td>
+</tr>
+<tr>
+<td>Gjennomsnitt C-Rating</td><td>0,90</td>
+</tr>
+<tr>
 <td>Optimalt ladeområde</td><td>1% - 44%</td>
 </tr>
 <tr>
@@ -381,6 +387,12 @@ Nio ET5 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 </tr>
 <tr>
 <td>Gjennomsnittlig ladehastighet 10-80 %</td><td>87,1 kW</td>
+</tr>
+<tr>
+<td>Maksimum C-Rating</td><td>1,45</td>
+</tr>
+<tr>
+<td>Gjennomsnitt C-Rating</td><td>1,08</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>7% - 74%</td>

@@ -27,6 +27,12 @@ navicon: bi-battery-charging
 <td>Average charging speed 10-80%</td><td>87,0 kW</td>
 </tr>
 <tr>
+<td>Max C-Rating</td><td>2,27</td>
+</tr>
+<tr>
+<td>Average C-Rating</td><td>1,31</td>
+</tr>
+<tr>
 <td>Optimum charging area</td><td>5% - 54%</td>
 </tr>
 <tr>

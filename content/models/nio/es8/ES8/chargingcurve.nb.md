@@ -31,6 +31,12 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 <td>Gjennomsnittlig ladehastighet 10-80 %</td><td>87,1 kW</td>
 </tr>
 <tr>
+<td>Maksimum C-Rating</td><td>1,09</td>
+</tr>
+<tr>
+<td>Gjennomsnitt C-Rating</td><td>0,81</td>
+</tr>
+<tr>
 <td>Optimalt ladeområde</td><td>7% - 72%</td>
 </tr>
 <tr>
@@ -378,6 +384,12 @@ Ladekurven ovenfor er under optimale forhold. Imidlertid kan kalde eller varme t
 </tr>
 <tr>
 <td>Gjennomsnittlig ladehastighet 10-80 %</td><td>87,1 kW</td>
+</tr>
+<tr>
+<td>Maksimum C-Rating</td><td>1,45</td>
+</tr>
+<tr>
+<td>Gjennomsnitt C-Rating</td><td>1,08</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>7% - 74%</td>

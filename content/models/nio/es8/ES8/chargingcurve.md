@@ -31,6 +31,12 @@ This model is available with multiple batteries. Below you find the performance 
 <td>Average charging speed 10-80%</td><td>87,1 kW</td>
 </tr>
 <tr>
+<td>Max C-Rating</td><td>1,09</td>
+</tr>
+<tr>
+<td>Average C-Rating</td><td>0,81</td>
+</tr>
+<tr>
 <td>Optimum charging area</td><td>7% - 72%</td>
 </tr>
 <tr>
@@ -378,6 +384,12 @@ The above charging curve is at optimum conditions. However, cold or hot temperat
 </tr>
 <tr>
 <td>Average charging speed 10-80%</td><td>87,1 kW</td>
+</tr>
+<tr>
+<td>Max C-Rating</td><td>1,45</td>
+</tr>
+<tr>
+<td>Average C-Rating</td><td>1,08</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>7% - 74%</td>
