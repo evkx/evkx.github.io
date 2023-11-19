@@ -10,3 +10,5 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 ### RSymons RSEV: Lotus Eletre deep dive! The tax-saving sports electric SUV review and first drive efficiency test! 17.11.2023
 
+{{< youtube oCK3pNZNfvg >}}
+
