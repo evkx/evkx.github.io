@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/main_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}
 
-We have separated our Polestar 2 Long Range Single Motor article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Polestar 2 Long Range Single Motor article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -139,11 +139,11 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Polestar 2 Long Range Single Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen at the top of the center console is 11.2 inches large. 
+The model is not available with head-up display.
 
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/screens_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}
 
-The model is not available with head-up display.
 
 ## Infotainment
 

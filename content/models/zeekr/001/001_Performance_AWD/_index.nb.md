@@ -13,14 +13,14 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/main_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2000"  >}}
 
-Vi har delt vår Zeekr 001 Performance AWD-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner]( spesifikasjoner), et [bildegalleri](galleri), detaljert informasjon om [ladeytelse](ladekurve), og noen [online anmeldelser](anmeldelser). Våre seksjoner:
+Vi har delt vår Zeekr 001 Performance AWD-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
-- [Ytelse](#performance)
-- [Batteri, rekkevidde og lading](#battery-range-and-charging)
+- [Ytelse](#ytelse)
+- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
 - [Drivetrain (fjæring, bremser, styring)](#drivetrain)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interior)
-- [Brukergrensesnitt og kontroll](#user-interface-and-control)
+- [Interiør (seter++)](#interiør)
+- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
@@ -116,7 +116,7 @@ Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan fol
 
 Det er bare én type ratt tilgjengelig. 
 
-## Climate system
+## Klimasystem
 
 Det er ett tilgjengelig klimasystem. Klimasystemet  støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
 
@@ -139,11 +139,11 @@ Du har trådløs lading for telefonen din.
 ## Brukergrensesnitt og kontroll
 
 Zeekr 001 Performance AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 8.8 tommer stor. touch-skjermen øverst på midtkonsollen er 15.4 tommer stor. 
+Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/screens_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2000"  >}}
 
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
 

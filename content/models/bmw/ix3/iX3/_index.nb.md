@@ -13,14 +13,14 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/main_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 
-Vi har delt vår BMW iX3-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner]( spesifikasjoner), et [bildegalleri](galleri), detaljert informasjon om [ladeytelse](ladekurve), og noen [online anmeldelser](anmeldelser). Våre seksjoner:
+Vi har delt vår BMW iX3-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
-- [Ytelse](#performance)
-- [Batteri, rekkevidde og lading](#battery-range-and-charging)
+- [Ytelse](#ytelse)
+- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
 - [Drivetrain (fjæring, bremser, styring)](#drivetrain)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interior)
-- [Brukergrensesnitt og kontroll](#user-interface-and-control)
+- [Interiør (seter++)](#interiør)
+- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
@@ -130,7 +130,7 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 Det er bare én type ratt tilgjengelig. stock-rattet er oppvarmet, og du kan kontrollere lydsystemet med knapper på rattet. 
 
-## Climate system
+## Klimasystem
 
 Du kan velge mellom to forskjellige klimasystemer. Klimasystemet standard støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Klimasystemet comfort støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
 
@@ -151,11 +151,11 @@ Du har trådløs lading for telefonen din.
 ## Brukergrensesnitt og kontroll
 
 -skjermen bak rattet integrert i dashbordet er 12.0 tommer stor. touch-skjermen i dashbordets sentrum  er 12.3 tommer stor. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/screens_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

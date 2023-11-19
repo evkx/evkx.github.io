@@ -13,14 +13,14 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/main_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1674"  >}}
 
-Vi har delt vår Ford Mustang Mach-E Standard Range RWD-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner]( spesifikasjoner), et [bildegalleri](galleri), detaljert informasjon om [ladeytelse](ladekurve), og noen [online anmeldelser](anmeldelser). Våre seksjoner:
+Vi har delt vår Ford Mustang Mach-E Standard Range RWD-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
-- [Ytelse](#performance)
-- [Batteri, rekkevidde og lading](#battery-range-and-charging)
+- [Ytelse](#ytelse)
+- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
 - [Drivetrain (fjæring, bremser, styring)](#drivetrain)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interior)
-- [Brukergrensesnitt og kontroll](#user-interface-and-control)
+- [Interiør (seter++)](#interiør)
+- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
@@ -125,7 +125,7 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 Det er bare én type ratt tilgjengelig. 
 
-## Climate system
+## Klimasystem
 
 Det er ett tilgjengelig klimasystem. Klimasystemet  støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete. Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
@@ -148,11 +148,11 @@ Du har trådløs lading for telefonen din.
 ## Brukergrensesnitt og kontroll
 
 -skjermen bak rattet montert i dashbordet er 10.2 tommer stor. touch-skjermen øverst på midtkonsollen er 15.5 tommer stor. 
+Modellen er ikke tilgjengelig med head-up display.
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/screens_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="2000"  >}}
 
-Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

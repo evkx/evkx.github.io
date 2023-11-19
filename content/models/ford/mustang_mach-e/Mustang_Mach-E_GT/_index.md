@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/main_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
-We have separated our Ford Mustang Mach-E GT article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Ford Mustang Mach-E GT article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -148,11 +148,11 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large. The touch screen at the top of the center console is 15.5 inches large. 
+The model is not available with head-up display.
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/screens_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
-The model is not available with head-up display.
 
 ## Infotainment
 

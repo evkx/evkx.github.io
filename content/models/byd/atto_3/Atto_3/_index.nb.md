@@ -13,14 +13,14 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/main_1_st.jpg" title="BYD Atto 3" width="1600" height="1155"  >}}
 
-Vi har delt vår BYD Atto 3-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner]( spesifikasjoner), et [bildegalleri](galleri), detaljert informasjon om [ladeytelse](ladekurve), og noen [online anmeldelser](anmeldelser). Våre seksjoner:
+Vi har delt vår BYD Atto 3-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
-- [Ytelse](#performance)
-- [Batteri, rekkevidde og lading](#battery-range-and-charging)
+- [Ytelse](#ytelse)
+- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
 - [Drivetrain (fjæring, bremser, styring)](#drivetrain)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interior)
-- [Brukergrensesnitt og kontroll](#user-interface-and-control)
+- [Interiør (seter++)](#interiør)
+- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
@@ -129,7 +129,7 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 
 Det er bare én type ratt tilgjengelig. 
 
-## Climate system
+## Klimasystem
 
 Det er ett tilgjengelig klimasystem. Klimasystemet 2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
 
@@ -156,11 +156,11 @@ To forskjellige skjermoppsett er tilgjengelige på BYD Atto 3.
 Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor. touch-skjermen i dashbordets sentrum  er 12.8 tommer stor. 
 
 Det valgfrie Design-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor. touch-skjermen i dashbordets sentrum  er 15.6 tommer stor. 
+Modellen er ikke tilgjengelig med head-up display.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/screens_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
-Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

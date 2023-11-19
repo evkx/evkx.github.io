@@ -13,14 +13,14 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/main_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
-Vi har delt vår Honda e:Ny1-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner]( spesifikasjoner), et [bildegalleri](galleri), detaljert informasjon om [ladeytelse](ladekurve), og noen [online anmeldelser](anmeldelser). Våre seksjoner:
+Vi har delt vår Honda e:Ny1-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
-- [Ytelse](#performance)
-- [Batteri, rekkevidde og lading](#battery-range-and-charging)
+- [Ytelse](#ytelse)
+- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
 - [Drivetrain (fjæring, bremser, styring)](#drivetrain)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interior)
-- [Brukergrensesnitt og kontroll](#user-interface-and-control)
+- [Interiør (seter++)](#interiør)
+- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
@@ -101,7 +101,7 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 Det er bare én type ratt tilgjengelig. 
 
-## Climate system
+## Klimasystem
 
 Det er ett tilgjengelig klimasystem. 
 
@@ -116,11 +116,11 @@ Honda e:Ny1 har flere funksjoner for å gjøre livet ditt som sjåfør eller pas
 ## Brukergrensesnitt og kontroll
 
 Honda e:Ny1 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 9.0 tommer stor. touch-skjermen øverst på midtkonsollen er 15.2 tommer stor. 
+Modellen er ikke tilgjengelig med head-up display.
 
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/screens_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
-Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

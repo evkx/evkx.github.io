@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/main_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334"  >}}
 
-We have separated our Lucid Air Pure article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Lucid Air Pure article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -146,11 +146,11 @@ You have wireless charging for your phone.
 ## User interface and control
 
 On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).The touch screen in the left side of the shared frame  is 8.0 inches large. The  screen behind the steering wheel in the middle of the shared frame  is 14.0 inches large. The touch screen at the right part of the shared frame is 12.0 inches large. The touch screen in the middle of the center console is 12.0 inches large. 
+The model is not available with head-up display.
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/screens_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}
 
-The model is not available with head-up display.
 
 ## Infotainment
 

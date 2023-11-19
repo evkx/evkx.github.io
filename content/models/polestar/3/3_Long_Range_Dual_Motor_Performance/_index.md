@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
-We have separated our Polestar 3 Long Range Dual Motor Performance article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Polestar 3 Long Range Dual Motor Performance article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -142,11 +142,11 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Polestar 3 Long Range Dual Motor Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9.0 inches large. The touch screen at the top of the center console is 14.5 inches large. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2251"  >}}
 
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

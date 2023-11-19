@@ -13,14 +13,14 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1571"  >}}
 
-Vi har delt vår Ford F150 Lightning Extended Range-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner]( spesifikasjoner), et [bildegalleri](galleri), detaljert informasjon om [ladeytelse](ladekurve), og noen [online anmeldelser](anmeldelser). Våre seksjoner:
+Vi har delt vår Ford F150 Lightning Extended Range-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
-- [Ytelse](#performance)
-- [Batteri, rekkevidde og lading](#battery-range-and-charging)
+- [Ytelse](#ytelse)
+- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
 - [Drivetrain (fjæring, bremser, styring)](#drivetrain)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interior)
-- [Brukergrensesnitt og kontroll](#user-interface-and-control)
+- [Interiør (seter++)](#interiør)
+- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
@@ -122,7 +122,7 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 Det er bare én type ratt tilgjengelig. 
 
-## Climate system
+## Klimasystem
 
 Det er ett tilgjengelig klimasystem. 
 
@@ -141,11 +141,11 @@ To forskjellige skjermoppsett er tilgjengelige på Ford F150 Lightning Extended 
 Standardoppsettet har følgende konfigurasjon. -skjermen bak rattet integrert i dashbordet er 12.0 tommer stor. -skjermen i dashbordets sentrum  er 12.0 tommer stor. 
 
 Det valgfrie -oppsettet har følgende konfigurasjon. -skjermen bak rattet integrert i dashbordet er 12.0 tommer stor. -skjermen i dashbordets sentrum  er 15.5 tommer stor. 
+Modellen er ikke tilgjengelig med head-up display.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/screens_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
-Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

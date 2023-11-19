@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2249"  >}}
 
-We have separated our Cadillac LYRIQ AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Cadillac LYRIQ AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -139,11 +139,11 @@ Keyless go makes it possible to start the car without using the key.
 ## User interface and control
 
 The Cadillac LYRIQ AWD has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen behind the steering wheel accross the the center of the dash  is 33.0 inches large. 
+The model is not available with head-up display.
 
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/screens_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2000"  >}}
 
-The model is not available with head-up display.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
 

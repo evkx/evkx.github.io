@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/main_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 
-We have separated our Seres 5 4WD Premium article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Seres 5 4WD Premium article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -147,11 +147,11 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The  screen on the dashboard's center  is 15.6 inches large. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/screens_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

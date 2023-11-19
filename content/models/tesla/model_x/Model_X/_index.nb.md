@@ -13,14 +13,14 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/main_1_st.jpg" title="Tesla Model X" width="3000" height="2250"  >}}
 
-Vi har delt vår Tesla Model X-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner]( spesifikasjoner), et [bildegalleri](galleri), detaljert informasjon om [ladeytelse](ladekurve), og noen [online anmeldelser](anmeldelser). Våre seksjoner:
+Vi har delt vår Tesla Model X-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
-- [Ytelse](#performance)
-- [Batteri, rekkevidde og lading](#battery-range-and-charging)
+- [Ytelse](#ytelse)
+- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
 - [Drivetrain (fjæring, bremser, styring)](#drivetrain)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interior)
-- [Brukergrensesnitt og kontroll](#user-interface-and-control)
+- [Interiør (seter++)](#interiør)
+- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
@@ -128,7 +128,7 @@ Den tredje raden har en to-seters benk med en 50:50 delt. Igjen kan du legge ned
 
 Det er bare én type ratt tilgjengelig. 
 
-## Climate system
+## Klimasystem
 
 Det er ett tilgjengelig klimasystem. Klimasystemet standard støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
 
@@ -151,11 +151,11 @@ Du har trådløs lading for telefonen din.
 ## Brukergrensesnitt og kontroll
 
 Tesla Model X har doble skjermer med informasjon for fører og passasjerer og en tredje skjerm bak for multimedia. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 1280 x 480 piksler. touch-skjermen i dashbordets sentrum  er 17.0 tommer stor og har en oppløsning på 2200 x 1300 piksler. touch-skjermen i den bakre midtkonsollen er 8.0 tommer stor. 
+Modellen er ikke tilgjengelig med head-up display.
 
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/screens_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 
-Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

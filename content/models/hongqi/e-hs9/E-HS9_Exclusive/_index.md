@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusive/main_1_st.jpg" title="Hongqi E-HS9 Exclusive" width="3000" height="2050"  >}}
 
-We have separated our Hongqi E-HS9 Exclusive article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Hongqi E-HS9 Exclusive article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -151,11 +151,11 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Hongqi E-HS9 Exclusive has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16.2 inches large. The touch screen in the dashboard's center  is 16.2 inches large. The touch screen in front of the passenger in the dashboard is 16.2 inches large. The touch screen in the middle of the center console is 10.2 inches large. 
+The model is not available with head-up display.
 
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusive/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive" width="3000" height="1800"  >}}
 
-The model is not available with head-up display.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
 

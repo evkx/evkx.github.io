@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" title="BYD Dolphin 60.4kWh" width="3000" height="2116"  >}}
 
-We have separated our BYD Dolphin 60.4kWh article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our BYD Dolphin 60.4kWh article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -156,11 +156,11 @@ Two different screen setups are available on the BYD Dolphin 60.4kWh.
 The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large. The touch screen on the dashboard's center  is 12.8 inches large. 
 
 The optional Design layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large. The touch screen on the dashboard's center  is 15.6 inches large. 
+The model is not available with head-up display.
 
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1550"  >}}
 
-The model is not available with head-up display.
 
 ## Infotainment
 

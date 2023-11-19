@@ -13,14 +13,14 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="2050"  >}}
 
-Vi har delt vår Hongqi E-HS9 Premium-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner]( spesifikasjoner), et [bildegalleri](galleri), detaljert informasjon om [ladeytelse](ladekurve), og noen [online anmeldelser](anmeldelser). Våre seksjoner:
+Vi har delt vår Hongqi E-HS9 Premium-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
-- [Ytelse](#performance)
-- [Batteri, rekkevidde og lading](#battery-range-and-charging)
+- [Ytelse](#ytelse)
+- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
 - [Drivetrain (fjæring, bremser, styring)](#drivetrain)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
-- [Interiør (seter++)](#interior)
-- [Brukergrensesnitt og kontroll](#user-interface-and-control)
+- [Interiør (seter++)](#interiør)
+- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
@@ -125,7 +125,7 @@ Den tredje raden har en to-seters benk med en 50:50 delt. Igjen kan du legge ned
 
 Det er bare én type ratt tilgjengelig. 
 
-## Climate system
+## Klimasystem
 
 Det er ett tilgjengelig klimasystem. Klimasystemet 6-zone støtter forskjellige temperaturer i seks soner: fører, passasjer og to soner, både i 2. og 3. rad.
 
@@ -148,11 +148,11 @@ Du har trådløs lading for telefonen din.
 ## Brukergrensesnitt og kontroll
 
 Hongqi E-HS9 Premium har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I midten av dashbordet er en infotainmentskjerm, og i midtkonsollen er det en skjerm for klimasystemet. For passasjeren er det infotainmentskjerm.-skjermen bak rattet integrert i dashbordet er 16.2 tommer stor. touch-skjermen i dashbordets sentrum er 16.2 tommer stor. touch-skjermen foran passasjeren i dashbordet er 16.2 tommer stor. touch-skjermen i midten av midtkonsollen er 10.2 tommer stor. 
+Modellen er ikke tilgjengelig med head-up display.
 
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/screens_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="1800"  >}}
 
-Modellen er ikke tilgjengelig med head-up display.
 
 Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
 

@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/main_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="1998"  >}}
 
-We have separated our Volkswagen ID.3 Pro article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Volkswagen ID.3 Pro article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -148,11 +148,11 @@ Two different screen setups are available on the Volkswagen ID.3 Pro.
 The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5.0 inches large. The touch screen on the dashboard's center  is 10.0 inches large. 
 
 The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5.0 inches large. The touch screen on the dashboard's center  is 12.0 inches large and has a 1920 x 869 pixels resolution. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/screens_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

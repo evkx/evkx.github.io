@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/nio/el6/el6/main_1_st.jpg" title="Nio EL6" width="2880" height="1600"  >}}
 
-We have separated our Nio EL6 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Nio EL6 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -165,11 +165,11 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large. The touch screen in the middle of the center console is 12.8 inches large. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
 {{< sitefiguresized thumb="models/nio/el6/el6/screens_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
 
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
 

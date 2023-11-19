@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/main_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2000"  >}}
 
-We have separated our Tesla Model 3 Long Range article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Tesla Model 3 Long Range article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -145,11 +145,11 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Tesla Model 3 Long Range has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The  screen on the dashboard's center  is 15.0 inches large and has a 2200 x 1300 pixels resolution. 
+The model is not available with head-up display.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
-The model is not available with head-up display.
 
 ## Infotainment
 

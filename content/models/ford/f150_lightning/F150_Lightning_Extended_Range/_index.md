@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1571"  >}}
 
-We have separated our Ford F150 Lightning Extended Range article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Ford F150 Lightning Extended Range article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -141,11 +141,11 @@ Two different screen setups are available on the Ford F150 Lightning Extended Ra
 The standard layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The  screen on the dashboard's center  is 12.0 inches large. 
 
 The optional  layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The  screen on the dashboard's center  is 15.5 inches large. 
+The model is not available with head-up display.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/screens_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
-The model is not available with head-up display.
 
 ## Infotainment
 

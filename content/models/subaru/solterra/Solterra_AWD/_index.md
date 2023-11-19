@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/main_1_st.jpeg" title="Subaru Solterra AWD" width="3000" height="1745"  >}}
 
-We have separated our Subaru Solterra AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Subaru Solterra AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -142,11 +142,11 @@ Two different screen setups are available on the Subaru Solterra AWD.
 The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7.0 inches large. The touch screen at the top of the center console is 8.9 inches large. 
 
 The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7.0 inches large. The touch screen at the top of the center console is 12.3 inches large. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/screens_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="1687"  >}}
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

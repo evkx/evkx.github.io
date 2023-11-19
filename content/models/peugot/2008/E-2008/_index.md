@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/main_1_st.jpg" title="Peugot E-2008" width="3000" height="1666"  >}}
 
-We have separated our Peugot E-2008 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications), an [image gallery](gallery), detailed information about [charging performance](chargingcurve), and some [online reviews](reviews). Our sections:
+We have separated our Peugot E-2008 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -132,11 +132,11 @@ Keyless go makes it possible to start the car without using the key.
 ## User interface and control
 
 The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large. The touch screen on the dashboard's center  is 10.3 inches large. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/screens_1_st.jpg" title="Peugot E-2008" width="3000" height="2000"  >}}
 
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 
