@@ -17,14 +17,14 @@ Vi har delt vår Volkswagen ID.5 Pro-artikkel i seksjoner. Hvis du vil vente med
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,9 +33,9 @@ Volkswagen ID.5 Pro har en maksimal effekt på 210KW (286hk).Totalt dreiemoment 
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har en 5kWh-buffer for beskyttelse. (6,1%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 556 km (346 mi). Forbruket er 13.8kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 556 km (346 mi). Forbruket er 13.8kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder. 
 

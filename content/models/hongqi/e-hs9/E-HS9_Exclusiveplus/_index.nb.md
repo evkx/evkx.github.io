@@ -17,14 +17,14 @@ Vi har delt vår Hongqi E-HS9 Exclusive+-artikkel i seksjoner. Hvis du vil vente
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,9 +33,9 @@ Hongqi E-HS9 Exclusive+ har en maksimal effekt på 405KW (551hk).Totalt dreiemom
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 110kWh, noe som betyr at du har en 10kWh-buffer for beskyttelse. (8,3%).
+Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 110kWh, noe som betyr at du har et 10kWh-buffer for beskyttelse. (8,3%).
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 515 km (320 mi). Forbruket er 21.4kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 515 km (320 mi). Forbruket er 21.4kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 114 minutter, mens et mer vanlig scenario på 10-80 % vil ta 62 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 39%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 87kW. Hver ladeøkt vil ta 30 minutter og 35 sekunder. 
 

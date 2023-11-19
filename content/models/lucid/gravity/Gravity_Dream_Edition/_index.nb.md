@@ -17,14 +17,14 @@ Vi har delt vår Lucid Gravity Dream Edition-artikkel i seksjoner. Hvis du vil v
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,7 +33,7 @@ Lucid Gravity Dream Edition har en maksimal effekt på 600KW (816hk).Totalt drei
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 124kWh og en nettokapasitet på 122kWh, noe som betyr at du har en 2kWh-buffer for beskyttelse. (1,6%).
+Batteriet har en bruttokapasitet på 124kWh og en nettokapasitet på 122kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (1,6%).
 
  [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 440 miles (708 km). Forbruket er 3.6mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 

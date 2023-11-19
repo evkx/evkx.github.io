@@ -17,14 +17,14 @@ Vi har delt vår Rivian R1S Performance Dual-Motor AWD LP-artikkel i seksjoner. 
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,7 +33,7 @@ Rivian R1S Performance Dual-Motor AWD LP har en maksimal effekt på 489KW (665hk
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 135kWh og en nettokapasitet på 125kWh, noe som betyr at du har en 10kWh-buffer for beskyttelse. (7,4%).
+Batteriet har en bruttokapasitet på 135kWh og en nettokapasitet på 125kWh, noe som betyr at du har et 10kWh-buffer for beskyttelse. (7,4%).
 
  [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 320 miles (515 km). Forbruket er 2.6mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 

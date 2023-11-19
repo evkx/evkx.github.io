@@ -17,14 +17,14 @@ Vi har delt vår BMW i4 eDrive35-artikkel i seksjoner. Hvis du vil vente med å 
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,9 +33,9 @@ BMW i4 eDrive35 har en maksimal effekt på 250KW (340hk).Totalt dreiemoment er 4
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 70,2kWh og en nettokapasitet på 66kWh, noe som betyr at du har en 4,2kWh-buffer for beskyttelse. (6,0%).
+Batteriet har en bruttokapasitet på 70,2kWh og en nettokapasitet på 66kWh, noe som betyr at du har et 4,2kWh-buffer for beskyttelse. (6,0%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 490 til 406 km (305-252 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.5kWh/100 km for basisversjonen og 16.3kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 490 til 406 km (305-252 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.5kWh/100 km for basisversjonen og 16.3kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 46 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 51%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 111kW. Hver ladeøkt vil ta 17 minutter og 4 sekunder. 
 

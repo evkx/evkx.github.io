@@ -24,7 +24,7 @@ We have separated our Volkswagen ID.5 GTX 4MOTION (GEN1) article into sections. 
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 <div class="alert alert-secondary" role="alert">
 

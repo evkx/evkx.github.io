@@ -24,7 +24,7 @@ We have separated our Porsche Taycan 4S Sport Turismo article into sections. If 
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance

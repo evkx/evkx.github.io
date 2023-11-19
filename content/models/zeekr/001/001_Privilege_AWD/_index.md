@@ -24,7 +24,7 @@ We have separated our Zeekr 001 Privilege AWD article into sections. If you want
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance
@@ -35,7 +35,7 @@ The Zeekr 001 Privilege AWD has a maximum power of 400KW (544hp). The total torq
 
 The battery has a gross capacity of 100kWh and a net capacity of 95kWh, meaning you have a 5kWh buffer for protection. (5,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 580 km (360 mi).   The consumption is 16.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 580 km (360 mi).   The consumption is 16.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 58%, resulting in an actual charge speed, including time loss, of 134kW. Each charge session would take 23 minutes and 54 seconds. 
 

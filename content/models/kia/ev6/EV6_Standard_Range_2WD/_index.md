@@ -24,7 +24,7 @@ We have separated our Kia EV6 Standard Range 2WD article into sections. If you w
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance
@@ -35,7 +35,7 @@ The Kia EV6 Standard Range 2WD has a maximum power of 125KW (170hp). The total t
 
 The battery has a gross capacity of 58kWh and a net capacity of 54kWh, meaning you have a 4kWh buffer for protection. (6,9%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 394 km (245 mi).   The consumption is 13.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 394 km (245 mi).   The consumption is 13.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 42 minutes, while a more common scenario of 10-80% would take 17 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 67%, resulting in an actual charge speed, including time loss, of 109kW. Each charge session would take 19 minutes and 45 seconds. 
 

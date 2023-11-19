@@ -17,14 +17,14 @@ Vi har delt vår Hyundai Ioniq 6 Long Range RWD-artikkel i seksjoner. Hvis du vi
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,9 +33,9 @@ Hyundai Ioniq 6 Long Range RWD har en maksimal effekt på 168KW (228hk).Totalt d
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 77,4kWh og en nettokapasitet på 74kWh, noe som betyr at du har en 3,4kWh-buffer for beskyttelse. (4,4%).
+Batteriet har en bruttokapasitet på 77,4kWh og en nettokapasitet på 74kWh, noe som betyr at du har et 3,4kWh-buffer for beskyttelse. (4,4%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 614 til 545 km (382-339 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.1kWh/100 km for basisversjonen og 13.6kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 614 til 545 km (382-339 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.1kWh/100 km for basisversjonen og 13.6kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 233kW. En full lading fra 0 - 100 % vil ta 38 minutter, mens et mer vanlig scenario på 10-80 % vil ta 16 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 152kW. Hver ladeøkt vil ta 22 minutter og 59 sekunder. 
 

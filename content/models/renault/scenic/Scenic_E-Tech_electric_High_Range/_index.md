@@ -24,7 +24,7 @@ We have separated our Renault Scenic E-Tech electric High Range article into sec
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance
@@ -35,7 +35,7 @@ The Renault Scenic E-Tech electric High Range has a maximum power of 160KW (218h
 
 The battery has a gross capacity of 91kWh and a net capacity of 87kWh, meaning you have a 4kWh buffer for protection. (4,4%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 610 km (379 mi).   The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 610 km (379 mi).   The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 63 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 59%, resulting in an actual charge speed, including time loss, of 98kW. Each charge session would take 28 minutes and 18 seconds. 
 

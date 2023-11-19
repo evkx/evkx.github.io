@@ -17,14 +17,14 @@ Vi har delt vår Mercedes-EQ EQS 450 4MATIC SUV-artikkel i seksjoner. Hvis du vi
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,9 +33,9 @@ Mercedes-EQ EQS 450 4MATIC SUV har en maksimal effekt på 265KW (360hk).Totalt d
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 108,4kWh, noe som betyr at du har en 11,6kWh-buffer for beskyttelse. (9,7%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 108,4kWh, noe som betyr at du har et 11,6kWh-buffer for beskyttelse. (9,7%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 611 til 511 km (380-318 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17.7kWh/100 km for basisversjonen og 21.2kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 611 til 511 km (380-318 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17.7kWh/100 km for basisversjonen og 21.2kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 200kW. En full lading fra 0 - 100 % vil ta 82 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 142kW. Hver ladeøkt vil ta 26 minutter og 41 sekunder. 
 

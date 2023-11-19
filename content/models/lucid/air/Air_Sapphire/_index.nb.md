@@ -17,14 +17,14 @@ Vi har delt vår Lucid Air Sapphire-artikkel i seksjoner. Hvis du vil vente med 
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,7 +33,7 @@ Lucid Air Sapphire har en maksimal effekt på 920KW (1251hk).Totalt dreiemoment 
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 118kWh og en nettokapasitet på 117kWh, noe som betyr at du har en 1kWh-buffer for beskyttelse. (0,8%).
+Batteriet har en bruttokapasitet på 118kWh og en nettokapasitet på 117kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (0,8%).
 
  [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 427 miles (687 km). Forbruket er 3.6mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 

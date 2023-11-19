@@ -24,7 +24,7 @@ We have separated our Volvo EX90 Twin Motor article into sections. If you want t
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance
@@ -35,7 +35,7 @@ The Volvo EX90 Twin Motor has a maximum power of 300KW (408hp). The total torque
 
 The battery has a gross capacity of 111kWh and a net capacity of 107kWh, meaning you have a 4kWh buffer for protection. (3,6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 580 km (360 mi).   The consumption is 18.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 580 km (360 mi).   The consumption is 18.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 68 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 54%, resulting in an actual charge speed, including time loss, of 136kW. Each charge session would take 24 minutes and 31 seconds. 
 

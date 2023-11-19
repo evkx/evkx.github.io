@@ -17,14 +17,14 @@ Vi har delt vår Kia EV6 Long Range AWD-artikkel i seksjoner. Hvis du vil vente 
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,9 +33,9 @@ Kia EV6 Long Range AWD har en maksimal effekt på 239KW (325hk).Totalt dreiemome
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 77,4kWh og en nettokapasitet på 74kWh, noe som betyr at du har en 3,4kWh-buffer for beskyttelse. (4,4%).
+Batteriet har en bruttokapasitet på 77,4kWh og en nettokapasitet på 74kWh, noe som betyr at du har et 3,4kWh-buffer for beskyttelse. (4,4%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 506 til 484 km (314-301 mi ), avhengig av bilalternativer. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.6kWh/100 km for basisversjonen og 15.3kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 506 til 484 km (314-301 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.6kWh/100 km for basisversjonen og 15.3kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 233kW. En full lading fra 0 - 100 % vil ta 38 minutter, mens et mer vanlig scenario på 10-80 % vil ta 16 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 152kW. Hver ladeøkt vil ta 22 minutter og 59 sekunder. 
 

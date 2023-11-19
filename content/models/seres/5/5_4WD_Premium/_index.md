@@ -24,7 +24,7 @@ We have separated our Seres 5 4WD Premium article into sections. If you want to 
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance
@@ -35,7 +35,7 @@ The Seres 5 4WD Premium has a maximum power of 430KW (585hp). The total torque i
 
 The battery has a gross capacity of 80kWh and a net capacity of 78kWh, meaning you have a 2kWh buffer for protection. (2,5%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 483 km (300 mi).   The consumption is 16.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 483 km (300 mi).   The consumption is 16.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 94 minutes, while a more common scenario of 10-80% would take 44 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 12% to 64%, resulting in an actual charge speed, including time loss, of 70kW. Each charge session would take 35 minutes and 45 seconds. 
 

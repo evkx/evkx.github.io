@@ -24,7 +24,7 @@ We have separated our Kia Niro EV article into sections. If you want to wait to 
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance
@@ -35,7 +35,7 @@ The Kia Niro EV has a maximum power of 150KW (204hp). The total torque is 255nm.
 
 The battery has a gross capacity of 68kWh and a net capacity of 64,8kWh, meaning you have a 3,2kWh buffer for protection. (4,7%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 463 km (288 mi).   The consumption is 14.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 463 km (288 mi).   The consumption is 14.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 93 minutes, while a more common scenario of 10-80% would take 44 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 56%, resulting in an actual charge speed, including time loss, of 60kW. Each charge session would take 33 minutes and 30 seconds. 
 

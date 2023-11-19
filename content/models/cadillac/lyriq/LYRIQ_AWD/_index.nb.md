@@ -17,14 +17,14 @@ Vi har delt vår Cadillac LYRIQ AWD-artikkel i seksjoner. Hvis du vil vente med 
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,7 +33,7 @@ Cadillac LYRIQ AWD har en maksimal effekt på 373KW (507hk).Totalt dreiemoment e
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 110kWh og en nettokapasitet på 102kWh, noe som betyr at du har en 8kWh-buffer for beskyttelse. (7,3%).
+Batteriet har en bruttokapasitet på 110kWh og en nettokapasitet på 102kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7,3%).
 
  [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 307 miles (494 km). Forbruket er 3.0mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 

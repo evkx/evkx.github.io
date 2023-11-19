@@ -24,7 +24,7 @@ We have separated our Kia EV6 GT article into sections. If you want to wait to r
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance
@@ -35,7 +35,7 @@ The Kia EV6 GT has a maximum power of 430KW (585hp). The total torque is 740nm. 
 
 The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4,4%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 424 km (264 mi).   The consumption is 17.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 424 km (264 mi).   The consumption is 17.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 38 minutes, while a more common scenario of 10-80% would take 16 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 76%, resulting in an actual charge speed, including time loss, of 152kW. Each charge session would take 22 minutes and 59 seconds. 
 

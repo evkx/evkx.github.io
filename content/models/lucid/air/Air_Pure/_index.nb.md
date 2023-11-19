@@ -17,14 +17,14 @@ Vi har delt vår Lucid Air Pure-artikkel i seksjoner. Hvis du vil vente med å l
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,7 +33,7 @@ Lucid Air Pure har en maksimal effekt på 320KW (435hk).Totalt dreiemoment er 40
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 94kWh og en nettokapasitet på 92kWh, noe som betyr at du har en 2kWh-buffer for beskyttelse. (2,1%).
+Batteriet har en bruttokapasitet på 94kWh og en nettokapasitet på 92kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (2,1%).
 
  [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 410 miles (660 km). Forbruket er 4.5mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 

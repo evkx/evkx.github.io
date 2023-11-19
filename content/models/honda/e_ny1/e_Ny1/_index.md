@@ -24,7 +24,7 @@ We have separated our Honda e:Ny1 article into sections. If you want to wait to 
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance
@@ -35,7 +35,7 @@ The Honda e:Ny1 has a maximum power of 150KW (204hp). The total torque is 310nm.
 
 The battery has a gross capacity of 68,8kWh and a net capacity of 61,9kWh, meaning you have a 6,9kWh buffer for protection. (10,0%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 412 km (256 mi).   The consumption is 15.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 412 km (256 mi).   The consumption is 15.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 38 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 92%, resulting in an actual charge speed, including time loss, of 62kW. Each charge session would take 51 minutes and 28 seconds. 
 

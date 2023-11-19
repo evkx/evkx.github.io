@@ -17,14 +17,14 @@ Vi har delt vår Ford Mustang Mach-E Long Range AWD-artikkel i seksjoner. Hvis d
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,9 +33,9 @@ Ford Mustang Mach-E Long Range AWD har en maksimal effekt på 258KW (351hk).Tota
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 98,8kWh og en nettokapasitet på 92kWh, noe som betyr at du har en 6,8kWh-buffer for beskyttelse. (6,9%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 98,8kWh og en nettokapasitet på 92kWh, noe som betyr at du har et 6,8kWh-buffer for beskyttelse. (6,9%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 550 km (342 mi). Forbruket er 16.7kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 550 km (342 mi). Forbruket er 16.7kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 150kW. En full lading fra 0 - 100 % vil ta 154 minutter, mens et mer vanlig scenario på 10-80 % vil ta 45 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 85kW. Hver ladeøkt vil ta 26 minutter og 4 sekunder. 
 

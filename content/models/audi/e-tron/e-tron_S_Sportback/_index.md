@@ -24,7 +24,7 @@ We have separated our Audi e-tron S Sportback article into sections. If you want
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 <div class="alert alert-secondary" role="alert">
 

@@ -17,14 +17,14 @@ Vi har delt vår Chevrolet Silverado EV 4WT-artikkel i seksjoner. Hvis du vil ve
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,7 +33,7 @@ Chevrolet Silverado EV 4WT har en maksimal effekt på 380KW (517hk).Totalt dreie
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 220kWh og en nettokapasitet på 213kWh, noe som betyr at du har en 7kWh-buffer for beskyttelse. (3,2%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 220kWh og en nettokapasitet på 213kWh, noe som betyr at du har et 7kWh-buffer for beskyttelse. (3,2%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
  [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruket er 2.1mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 

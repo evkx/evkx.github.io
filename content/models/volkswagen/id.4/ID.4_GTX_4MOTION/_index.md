@@ -24,7 +24,7 @@ We have separated our Volkswagen ID.4 GTX 4MOTION article into sections. If you 
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance
@@ -35,7 +35,7 @@ With overboost, the Volkswagen ID.4 GTX 4MOTION has a maximum power of 250KW (34
 
 The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 515 km (320 mi).   The consumption is 15.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 515 km (320 mi).   The consumption is 15.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43%, resulting in an actual charge speed, including time loss, of 101kW. Each charge session would take 19 minutes and 43 seconds. 
 

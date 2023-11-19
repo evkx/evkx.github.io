@@ -17,14 +17,14 @@ Vi har delt vår Tesla Model 3-artikkel i seksjoner. Hvis du vil vente med å le
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,9 +33,9 @@ Tesla Model 3 har en maksimal effekt på 208KW (283hk).Totalt dreiemoment er 420
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 59kWh, noe som betyr at du har en 1kWh-buffer for beskyttelse. (1,7%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
+Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 59kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (1,7%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 513 km (319 mi). Forbruket er 11.5kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 513 km (319 mi). Forbruket er 11.5kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 170kW. En full lading fra 0 - 100 % vil ta 70 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 83kW. Hver ladeøkt vil ta 20 minutter og 31 sekunder. 
 

@@ -17,14 +17,14 @@ Vi har delt vår BYD Atto 3-artikkel i seksjoner. Hvis du vil vente med å lese 
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivetrain)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
-- [Avanserte førerassistentsystemer](#advanced-driver-assistance-systems)
-- [Transportegenskaper](#transportation-capabilities)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 
 ## Ytelse
@@ -33,9 +33,9 @@ BYD Atto 3 har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 310nm.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 60,5kWh og en nettokapasitet på 58kWh, noe som betyr at du har en 2,5kWh-buffer for beskyttelse. (4,1%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
+Batteriet har en bruttokapasitet på 60,5kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 2,5kWh-buffer for beskyttelse. (4,1%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp) er 420 km (261 mi). Forbruket er 13.8kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 420 km (261 mi). Forbruket er 13.8kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 88kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 67kW. Hver ladeøkt vil ta 32 minutter og 40 sekunder. 
 

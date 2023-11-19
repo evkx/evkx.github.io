@@ -24,7 +24,7 @@ We have separated our Zeekr X Long Range RWD article into sections. If you want 
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance
@@ -35,7 +35,7 @@ The Zeekr X Long Range RWD has a maximum power of 200KW (272hp). The total torqu
 
 The battery has a gross capacity of 69kWh and a net capacity of 64kWh, meaning you have a 5kWh buffer for protection. (7,2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 440 km (273 mi).   The consumption is 14.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 440 km (273 mi).   The consumption is 14.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 54%, resulting in an actual charge speed, including time loss, of 90kW. Each charge session would take 21 minutes and 58 seconds. 
 

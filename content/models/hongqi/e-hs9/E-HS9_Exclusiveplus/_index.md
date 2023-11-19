@@ -24,7 +24,7 @@ We have separated our Hongqi E-HS9 Exclusive+ article into sections. If you want
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance
@@ -35,7 +35,7 @@ The Hongqi E-HS9 Exclusive+ has a maximum power of 405KW (551hp). The total torq
 
 The battery has a gross capacity of 120kWh and a net capacity of 110kWh, meaning you have a 10kWh buffer for protection. (8,3%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 515 km (320 mi).   The consumption is 21.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 515 km (320 mi).   The consumption is 21.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 114 minutes, while a more common scenario of 10-80% would take 62 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 39%, resulting in an actual charge speed, including time loss, of 87kW. Each charge session would take 30 minutes and 35 seconds. 
 

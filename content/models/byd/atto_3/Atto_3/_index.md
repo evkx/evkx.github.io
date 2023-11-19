@@ -24,7 +24,7 @@ We have separated our BYD Atto 3 article into sections. If you want to wait to r
 - [Infotainment](#infotainment)
 - [Lights](#lights)
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
-- [Transportation capabilities](#transportation-capabilities)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
 
 ## Performance
@@ -35,7 +35,7 @@ The BYD Atto 3 has a maximum power of 150KW (204hp). The total torque is 310nm. 
 
 The battery has a gross capacity of 60,5kWh and a net capacity of 58kWh, meaning you have a 2,5kWh buffer for protection. (4,1%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries. 
 
- The [WLTP range](../../../../guides/understandingrange/wltp) is 420 km (261 mi).   The consumption is 13.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 420 km (261 mi).   The consumption is 13.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 88kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 63%, resulting in an actual charge speed, including time loss, of 67kW. Each charge session would take 32 minutes and 40 seconds. 
 
