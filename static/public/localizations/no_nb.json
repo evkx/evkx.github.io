@@ -72,6 +72,8 @@
     "DrivingDistanceWltpCharged10Percent20Min": "WLTP-kjøringsavstand belastet etter 20 minutter fra 10 %",
     "DrivingDistanceWltpCharged10Percent25Min": "WLTP-kjøreavstand belastet etter 25 minutter fra 10 %",
     "DrivingDistanceWltpCharged10Percent30Min": "WLTP-kjøreavstand belastet etter 30 minutter fra 10 %",
+    "MaxCRating": "Max C-Rating",
+    "AverageCRating": "Gjennomsnitt C-Rating",
     "regen": "Regen",
     "compare": "Sammenlign",
     "removecompare": "Fjern",
