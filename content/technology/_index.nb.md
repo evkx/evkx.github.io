@@ -30,7 +30,7 @@ Klikk på direktelenken nedenfor eller bla ned for en introduksjon til hver seks
 - [Sikkerhet](safety/)
 - [Seter](seats/)
 - [Sensorer & kamera](sensorsandcameras/)
-- [Støttempere](suspension/)
+- [Hjuloppheng](suspension/)
 - [Felg og dekk](wheels/)
 - [Brukergrensesnitt](userinterface/)
 - [Vinduer](windows/)
@@ -215,17 +215,17 @@ Produsenter bruker ulike typer teknologi for sensorer i moderne biler, avhengig 
 
 [Les vår teknologiartikkel om sensorer og kameraer.](sensorsandcameras/)
 
-## Støtdempere
+## Hjuloppheng
 
 <a href="suspension/">
-    <img src="https://media.evkx.net/multimedia/technology/suspension/mcphersonfront_1_st.jpg" alt="Suspension" title="Suspension" class="img-fluid">
+    <img src="https://media.evkx.net/multimedia/technology/suspension/mcphersonfront_1_st.jpg" alt="Hjuloppheng" title="Hjuloppheng" class="img-fluid">
 </a>
 
-En av de kritiske aspektene ved elbiler er fjæringssystemet deres, som spiller en avgjørende rolle for å gi en jevn og komfortabel tur og sikre sikkerhet og stabilitet. I denne artikkelen vil vi fordype oss i verden av EV-fjæringssystemer og utforske de forskjellige typene fjæring som brukes i EV-er. Vi vil diskutere hvordan disse systemene fungerer, deres fordeler og deres utfordringer.
+En av de kritiske aspektene ved elbiler er hjulopphenget deres, som spiller en avgjørende rolle for å gi en jevn og komfortabel tur og sikre sikkerhet og stabilitet. I denne artikkelen vil vi fordype oss i verden av hjuloppheng og utforske de forskjellige typene hjuloppheng som brukes i elbiler. Vi vil diskutere hvordan disse systemene fungerer, deres fordeler og deres utfordringer.
 
-Vi vil også se på noen av de siste utviklingene og innovasjonene innen EV-fjæringsteknologi, som aktiv fjæring og luftfjæring, og hvordan de forbedrer elbilers kjørekvalitet og ytelse. I tillegg vil vi undersøke rollen til suspensjon i å forbedre effektiviteten og rekkevidden til elbiler og potensialet for fremtidige forbedringer på dette området.
+Vi vil også se på noen av de siste utviklingene og innovasjonene innen hjuloppheng, som aktiv fjæring og luftfjæring, og hvordan de forbedrer elbilers kjørekvalitet og ytelse. I tillegg vil vi undersøke rollen til hjuloppheng i å forbedre effektiviteten og rekkevidden til elbiler og potensialet for fremtidige forbedringer på dette området.
 
-Mot slutten av denne artikkelen vil du bedre forstå viktigheten av fjæring i elbiler og hvordan fremskritt innen denne teknologien former fremtidens transport.
+Mot slutten av denne artikkelen vil du bedre forstå viktigheten av hjuloppheng i elbiler og hvordan fremskritt innen denne teknologien former fremtidens transport.
 
 [Les vår artikkel om fjæringsteknologi.](suspension/)
 
