@@ -167,7 +167,7 @@ Interior.Seatlayout.OnlySix
 <tr><td>Lane keeping</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Døsighetsvarsel</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Bryggekamera</td><td>common.optionalfeature</td></tr>
+<tr><td>Bryggekamera</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>360-kamera</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Parkeringssensorer bak</td><td>Ja, standardutstyr</td></tr>

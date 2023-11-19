@@ -198,6 +198,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tbody>
 <tr><td>Android Auto-støtte</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Apple Carplay-støtte</td><td>Ja, standardutstyr</td></tr>
-<tr><td>I bilnavigasjon</td><td>common.optionalfeature</td></tr>
+<tr><td>I bilnavigasjon</td><td>Ja, tileggsutstyr</td></tr>
 </tbody>
 </table>

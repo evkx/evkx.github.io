@@ -222,8 +222,8 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Lane keeping</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Døsighetsvarsel</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Bryggekamera</td><td>common.optionalfeature</td></tr>
-<tr><td>360-kamera</td><td>common.optionalfeature</td></tr>
+<tr><td>Bryggekamera</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>360-kamera</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td>Ja (Cross traffic assist rear), tileggsutstyr</td></tr>
 <tr><td>Parkeringssensorer bak</td><td>Ja (Park Assist), standardutstyr</td></tr>
 <tr><td>Parkeringssensorer foran</td><td>Ja (Park Assist), standardutstyr</td></tr>
@@ -234,15 +234,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Automatisk nødbremsing</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Bremseassistent</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Traksjonskontroll</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Unngå krasj i venstresving</td><td>common.optionalfeature</td></tr>
-<tr><td>Forward Collision Warning</td><td>common.optionalfeature</td></tr>
+<tr><td>Unngå krasj i venstresving</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>Forward Collision Warning</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Elektronisk stabilitetskontroll</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Temperaturadvarsel</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Cross traffic assist</td><td>common.optionalfeature</td></tr>
+<tr><td>Cross traffic assist</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Fartsbegrenser</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Effektivitetsassistent</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Automatisk nødstyring</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Trafikkskiltgjenkjenning</td><td>common.optionalfeature</td></tr>
+<tr><td>Trafikkskiltgjenkjenning</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Nattsyn</td><td>Ja (Night Vision Assist), tileggsutstyr</td></tr>
 </tbody>
 </table>
@@ -254,8 +254,8 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Android Auto-støtte</td><td>common.optionalfeature</td></tr>
-<tr><td>Apple Carplay-støtte</td><td>common.optionalfeature</td></tr>
+<tr><td>Android Auto-støtte</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>Apple Carplay-støtte</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>I bilnavigasjon</td><td>Ja, standardutstyr</td></tr>
 </tbody>
 </table>

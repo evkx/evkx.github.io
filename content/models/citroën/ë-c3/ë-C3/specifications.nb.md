@@ -182,8 +182,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Android Auto-støtte</td><td>common.optionalfeature</td></tr>
-<tr><td>Apple Carplay-støtte</td><td>common.optionalfeature</td></tr>
-<tr><td>I bilnavigasjon</td><td>common.optionalfeature</td></tr>
+<tr><td>Android Auto-støtte</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>Apple Carplay-støtte</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>I bilnavigasjon</td><td>Ja, tileggsutstyr</td></tr>
 </tbody>
 </table>

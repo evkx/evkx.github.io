@@ -163,10 +163,10 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Lane departure warning</td><td></td></tr>
 <tr><td>Døsighetsvarsel</td><td></td></tr>
 <tr><td>Bryggekamera</td><td>Ja, standardutstyr</td></tr>
-<tr><td>360-kamera</td><td>common.optionalfeature</td></tr>
+<tr><td>360-kamera</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td></td></tr>
-<tr><td>Parkeringssensorer bak</td><td>common.optionalfeature</td></tr>
-<tr><td>Parkeringssensorer foran</td><td>common.optionalfeature</td></tr>
+<tr><td>Parkeringssensorer bak</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>Parkeringssensorer foran</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Parkeringssensorer på siden</td><td></td></tr>
 <tr><td>Hill nedstigningshjelp</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Hill start assist</td><td></td></tr>
@@ -182,7 +182,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Fartsbegrenser</td><td></td></tr>
 <tr><td>Effektivitetsassistent</td><td></td></tr>
 <tr><td>Automatisk nødstyring</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Trafikkskiltgjenkjenning</td><td>common.optionalfeature</td></tr>
+<tr><td>Trafikkskiltgjenkjenning</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Nattsyn</td><td></td></tr>
 </tbody>
 </table>
@@ -196,7 +196,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tbody>
 <tr><td>Android Auto-støtte</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Apple Carplay-støtte</td><td>Ja, standardutstyr</td></tr>
-<tr><td>I bilnavigasjon</td><td>common.optionalfeature</td></tr>
+<tr><td>I bilnavigasjon</td><td>Ja, tileggsutstyr</td></tr>
 </tbody>
 </table>
 <tr><td>Antall tilgjengelige lydsystemer</td><td>2</td></tr>

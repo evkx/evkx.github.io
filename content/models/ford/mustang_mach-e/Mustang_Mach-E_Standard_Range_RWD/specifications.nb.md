@@ -186,7 +186,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Fartsbegrenser</td><td></td></tr>
 <tr><td>Effektivitetsassistent</td><td></td></tr>
 <tr><td>Automatisk nødstyring</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Trafikkskiltgjenkjenning</td><td>common.optionalfeature</td></tr>
+<tr><td>Trafikkskiltgjenkjenning</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Nattsyn</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
 </table>

@@ -159,11 +159,11 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Døsighetsvarsel</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Bryggekamera</td><td>Ja, standardutstyr</td></tr>
-<tr><td>360-kamera</td><td>common.optionalfeature</td></tr>
+<tr><td>360-kamera</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td>Ja (BLIS Cross Traffic Alert), standardutstyr</td></tr>
 <tr><td>Parkeringssensorer bak</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Parkeringssensorer foran</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Parkeringssensorer på siden</td><td>common.optionalfeature</td></tr>
+<tr><td>Parkeringssensorer på siden</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Hill nedstigningshjelp</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Hill start assist</td><td>Ja, standardutstyr</td></tr>
 <tr><td>AntiLock Braking System</td><td>Ja, standardutstyr</td></tr>

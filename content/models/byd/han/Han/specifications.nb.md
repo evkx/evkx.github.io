@@ -165,7 +165,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Lane keeping</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Døsighetsvarsel</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Bryggekamera</td><td>common.optionalfeature</td></tr>
+<tr><td>Bryggekamera</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>360-kamera</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Parkeringssensorer bak</td><td>Ja, standardutstyr</td></tr>
@@ -177,15 +177,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Automatisk nødbremsing</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Bremseassistent</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Traksjonskontroll</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Unngå krasj i venstresving</td><td>common.optionalfeature</td></tr>
-<tr><td>Forward Collision Warning</td><td>common.optionalfeature</td></tr>
+<tr><td>Unngå krasj i venstresving</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>Forward Collision Warning</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Elektronisk stabilitetskontroll</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Temperaturadvarsel</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Cross traffic assist</td><td>common.optionalfeature</td></tr>
+<tr><td>Cross traffic assist</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Fartsbegrenser</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Effektivitetsassistent</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Automatisk nødstyring</td><td>common.optionalfeature</td></tr>
-<tr><td>Trafikkskiltgjenkjenning</td><td>common.optionalfeature</td></tr>
+<tr><td>Automatisk nødstyring</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>Trafikkskiltgjenkjenning</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Nattsyn</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
 </table>

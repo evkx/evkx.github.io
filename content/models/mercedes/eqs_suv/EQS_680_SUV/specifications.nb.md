@@ -90,8 +90,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </thead>
 <tbody>
 <tr><td>Adaptiv fjæring</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Justerbar demping foran</td><td>common.optionalfeature</td></tr>
-<tr><td>Justerbar demping bak</td><td>common.optionalfeature</td></tr>
+<tr><td>Justerbar demping foran</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>Justerbar demping bak</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Justerbar høyde foran</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Justerbar høyde bak</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Maks bakkeklaring</td><td>206</td></tr>
@@ -168,7 +168,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 <tr><td>Lane keeping</td><td>Ja (Active Lane keeping Assist), standardutstyr</td></tr>
 <tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Døsighetsvarsel</td><td>Ja (Attention Assist), standardutstyr</td></tr>
-<tr><td>Bryggekamera</td><td>common.optionalfeature</td></tr>
+<tr><td>Bryggekamera</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>360-kamera</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Parkeringssensorer bak</td><td>Ja, standardutstyr</td></tr>
@@ -180,11 +180,11 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 <tr><td>Automatisk nødbremsing</td><td>Ja (Active Brake Assist), standardutstyr</td></tr>
 <tr><td>Bremseassistent</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Traksjonskontroll</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Unngå krasj i venstresving</td><td>common.optionalfeature</td></tr>
+<tr><td>Unngå krasj i venstresving</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Forward Collision Warning</td><td>Ja (Active Emergency Stop Assist), tileggsutstyr</td></tr>
 <tr><td>Elektronisk stabilitetskontroll</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Temperaturadvarsel</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Cross traffic assist</td><td>common.optionalfeature</td></tr>
+<tr><td>Cross traffic assist</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Fartsbegrenser</td><td>Ja (Speed limit assist), standardutstyr</td></tr>
 <tr><td>Effektivitetsassistent</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Automatisk nødstyring</td><td>Ja (Evasive Steering Assist), tileggsutstyr</td></tr>
@@ -200,8 +200,8 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Android Auto-støtte</td><td>common.optionalfeature</td></tr>
-<tr><td>Apple Carplay-støtte</td><td>common.optionalfeature</td></tr>
+<tr><td>Android Auto-støtte</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>Apple Carplay-støtte</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>I bilnavigasjon</td><td>Ja, standardutstyr</td></tr>
 </tbody>
 </table>

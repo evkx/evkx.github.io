@@ -164,7 +164,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Døsighetsvarsel</td><td></td></tr>
 <tr><td>Bryggekamera</td><td>Ja, standardutstyr</td></tr>
-<tr><td>360-kamera</td><td>common.optionalfeature</td></tr>
+<tr><td>360-kamera</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td></td></tr>
 <tr><td>Parkeringssensorer bak</td><td></td></tr>
 <tr><td>Parkeringssensorer foran</td><td></td></tr>

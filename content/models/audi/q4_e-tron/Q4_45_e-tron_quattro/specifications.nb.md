@@ -97,9 +97,9 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Adaptiv fjæring</td><td>common.optionalfeature</td></tr>
-<tr><td>Justerbar demping foran</td><td>common.optionalfeature</td></tr>
-<tr><td>Justerbar demping bak</td><td>common.optionalfeature</td></tr>
+<tr><td>Adaptiv fjæring</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>Justerbar demping foran</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>Justerbar demping bak</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Justerbar høyde foran</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Justerbar høyde bak</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Maks bakkeklaring</td><td>180</td></tr>
@@ -246,8 +246,8 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Lane keeping</td><td>Ja (Audi Active Lane Assist), standardutstyr</td></tr>
 <tr><td>Lane departure warning</td><td>Ja (Audi Active Lane Assist), standardutstyr</td></tr>
 <tr><td>Døsighetsvarsel</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Bryggekamera</td><td>common.optionalfeature</td></tr>
-<tr><td>360-kamera</td><td>common.optionalfeature</td></tr>
+<tr><td>Bryggekamera</td><td>Ja, tileggsutstyr</td></tr>
+<tr><td>360-kamera</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Parkeringssensorer bak</td><td>Ja (Parking system plus), standardutstyr</td></tr>
 <tr><td>Parkeringssensorer foran</td><td>Ja (Parking system plus), tileggsutstyr</td></tr>

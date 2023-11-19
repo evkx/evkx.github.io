@@ -150,7 +150,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Døsighetsvarsel</td><td></td></tr>
 <tr><td>Bryggekamera</td><td>Ja, standardutstyr</td></tr>
-<tr><td>360-kamera</td><td>common.optionalfeature</td></tr>
+<tr><td>360-kamera</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Parkeringssensorer bak</td><td></td></tr>
 <tr><td>Parkeringssensorer foran</td><td></td></tr>
@@ -165,7 +165,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Forward Collision Warning</td><td></td></tr>
 <tr><td>Elektronisk stabilitetskontroll</td><td></td></tr>
 <tr><td>Temperaturadvarsel</td><td></td></tr>
-<tr><td>Cross traffic assist</td><td>common.optionalfeature</td></tr>
+<tr><td>Cross traffic assist</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Fartsbegrenser</td><td></td></tr>
 <tr><td>Effektivitetsassistent</td><td></td></tr>
 <tr><td>Automatisk nødstyring</td><td></td></tr>
