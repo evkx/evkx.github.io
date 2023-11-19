@@ -35,7 +35,7 @@ Volkswagen ID. Buzz Pro LWB har en maksimal effekt på 210KW (286hk).Totalt drei
 
 Batteriet har en bruttokapasitet på 91kWh og en nettokapasitet på 85kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (6,6%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 461 til 452 km (287-281 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.4kWh/100 km for basisversjonen og 18.8kWh/100 km for topptrimversjonen for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 461 til 452 km (287-281 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.4kWh/100 km for basisversjonen og 18.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 200kW. En full lading fra 0 - 100 % vil ta 55 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 42%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 113kW. Hver ladeøkt vil ta 19 minutter og 56 sekunder. 
 
@@ -71,11 +71,11 @@ Dynamisk styring er tilvalg-funksjonen på Volkswagen ID. Buzz Pro LWB. Dynamisk
 
 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne modusen løper bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen). I denne modusen ruller bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). 
 
 ## Eksteriør
 
-Du kan velge mellom 12 forskjellige malingsfarger når du bestiller denne modellen. 
+Du kan velge mellom 12 forskjellige lakkfarger når du bestiller denne modellen. 
 I tillegg kan du velge mellom 5 hjul med størrelser fra 19 til 21 tommer. 
 
 Elektriske dører er standard funksjon for sidedørene. 

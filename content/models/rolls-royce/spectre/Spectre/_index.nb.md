@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Rolls-Royce Spectre har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
-Fjæringen er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 193 mm, og maksimum er 223 mm. 
+Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 193 mm, og maksimum er 223 mm. 
 
 ### Styring
 
@@ -71,7 +71,7 @@ Dynamisk styring er standard-funksjonen på Rolls-Royce Spectre. Dynamisk styrin
 
 ## Eksteriør
 
-Du kan velge mellom 8 forskjellige malingsfarger når du bestiller denne modellen. 
+Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen. 
 
 Bilen har to [selvmordsdører](../../../../technology/doors/) på og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. Myk lukking er standard-funksjon for sidedørene. Elektriske dører er standard funksjon for sidedørene. 
 
