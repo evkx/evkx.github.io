@@ -58,7 +58,7 @@ Adaptive regen fungerer ved å bruke sensorer, kameraer og navigasjonsdata for �
 
 Fordelen med adaptiv regen er at den kan gi en jevnere og mer naturlig kjøreopplevelse og mer effektiv energigjenvinning. I tillegg, ved å justere regennivået i henhold til situasjonen, kan adaptiv regen unngå overdreven eller utilstrekkelig bremsing som kan forårsake ubehag eller sløse med energi, siden den vil løpe når det er mulig. Den adaptive regen kan også fungere sammen med førerassistentsystemene for å øke sikkerheten og brukervennligheten, for eksempel å holde en trygg avstand fra kjøretøyet foran eller senke farten for en skarp sving.
 
-Noen eksempler på elbiler som tilbyr adaptiv regen er Porsche Taycan, BMW i4 og Hyundai Ioniq 5. Disse elbilene bruker forskjellige teknologier og algoritmer for å implementere adaptiv regen, men alle har som mål å gi sjåførene en bedre kjøreopplevelse med én pedal. .
+Noen eksempler på elbiler som tilbyr adaptiv regen er Porsche Taycan og BMW i4. Disse elbilene bruker forskjellige teknologier og algoritmer for å implementere adaptiv regen, men alle har som mål å gi sjåførene en bedre kjøreopplevelse med én pedal. .
 
 {{<evkxdisplayaddarticle />}}
 

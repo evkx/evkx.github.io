@@ -59,7 +59,7 @@ Adaptive regen works by using sensors, cameras, and navigation data to detect tr
 
 The benefit of adaptive regen is that it can provide a smoother and more natural driving experience and more effective energy recovery. In addition, by adjusting the regen level according to the situation, adaptive regen can avoid excessive or insufficient braking that might cause discomfort or waste energy since it will coast when possible. The adaptive regen can also work with the driver assistance systems to enhance safety and convenience, such as maintaining a safe distance from the vehicle ahead or slowing down for a sharp turn.
 
-Some examples of EVs that offer adaptive regen are the Porsche Taycan, the BMW i4, and the Hyundai Ioniq 5. These EVs use different technologies and algorithms to implement adaptive regen, but all aim to provide their drivers with a better one-pedal driving experience.
+Some examples of EVs that offer adaptive regen are the Porsche Taycan and the the BMW i4. These EVs use different technologies and algorithms to implement adaptive regen, but all aim to provide their drivers with a better one-pedal driving experience.
 
 {{<evkxdisplayaddarticle />}}
 
