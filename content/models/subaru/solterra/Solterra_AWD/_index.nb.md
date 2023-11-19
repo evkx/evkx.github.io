@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Subaru Solterra AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
 
--opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 177 mm. 
+-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 177 mm. 
 
 ### Bremser
 
@@ -193,9 +193,9 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 441 liter. Med baksetet nede er det 784 liter. På taket kan du laste opptil 80kg. Maksimumsvekten til bilen er 2550kg, og med basisvekten på 2010 kg kan du maksimalt laste 540 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 441 liter. Med baksetet nede er det 784 liter. På taket kan du laste opptil 80kg. Maksimumsvekten til bilen er 2550kg, og med basisvekten på 2010 kg kan du maksimalt laste 540 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 750, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/trunk_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}

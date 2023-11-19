@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 BMW iX1 eDrive20 har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Adaptive M Suspension-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med denne fjæringen er 170 mm. 
+Adaptive M Suspension-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 170 mm. 
 
 ### Styring
 
@@ -217,6 +217,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreaut
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 490 liter. Med baksetet nede er det 1495 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2580kg, og med basisvekten på 2010 kg kan du maksimalt laste 570 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 490 liter. Med baksetet nede er det 1495 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2580kg, og med basisvekten på 2010 kg kan du maksimalt laste 570 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1200, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750kg. 

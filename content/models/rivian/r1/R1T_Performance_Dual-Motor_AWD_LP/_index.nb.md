@@ -203,9 +203,9 @@ Med Driver+  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i lastebilen er 1925 liter. Sengebredden er 1275 mm, og lengden er 1371 mm. Maksimal lastevekt i lasteplanet er 800 kg. På taket kan du laste opptil 113kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 314 liter. Maksimumsvekten til bilen er 3870kg, og med basisvekten på 2858 kg kan du maksimalt laste 1012 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i lastebilen er 1925 liter. Sengebredden er 1275 mm, og lengden er 1371 mm. Maksimal lastevekt i lasteplanet er 800 kg. På taket kan du laste opptil 113kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 314 liter. Maksimumsvekten til bilen er 3870kg, og med basisvekten på 2858 kg kan du maksimalt laste 1012 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 5000, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 5000, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/trunk_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}

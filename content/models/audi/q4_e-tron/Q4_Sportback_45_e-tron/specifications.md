@@ -246,7 +246,7 @@ This model is available with a seat configuration with five seats.
 <tr><td>Lane departure warning</td><td>Yes (Audi Active Lane Assist), standard equipment</td></tr>
 <tr><td>Drowsiness Alert</td><td>Yes, standard equipment</td></tr>
 <tr><td>Reversing camera</td><td>Yes, optional equipment</td></tr>
-<tr><td>360 camera</td><td>Yes, optional equipment (option PCZ )</td></tr>
+<tr><td>360 camera</td><td>Yes, optional equipment</td></tr>
 <tr><td>Rear cross traffic alert</td><td>Not available</td></tr>
 <tr><td>Rear parking sensors</td><td>Yes (Parking system plus), standard equipment</td></tr>
 <tr><td>Front parking sensors</td><td>Yes (Parking system plus), optional equipment</td></tr>
@@ -257,15 +257,15 @@ This model is available with a seat configuration with five seats.
 <tr><td>Automatic emergency braking</td><td>Yes (Audi Pre sense front), standard equipment</td></tr>
 <tr><td>Brake assist</td><td>Yes, standard equipment</td></tr>
 <tr><td>Traction control</td><td>Yes, standard equipment</td></tr>
-<tr><td>Left turn crash avoidance</td><td>Yes (Audi Turn Assist), optional equipment (option PCC )</td></tr>
-<tr><td>Forward Collision Warning</td><td>Yes (Audi Collision Avoidance Assist), optional equipment (option PCC )</td></tr>
+<tr><td>Left turn crash avoidance</td><td>Yes (Audi Turn Assist), optional equipment</td></tr>
+<tr><td>Forward Collision Warning</td><td>Yes (Audi Collision Avoidance Assist), optional equipment</td></tr>
 <tr><td>Electronic stability control</td><td>Yes, standard equipment</td></tr>
 <tr><td>Temperature warning</td><td>Yes, standard equipment</td></tr>
-<tr><td>Cross traffic assist</td><td>Yes (Audi Collision Avoidance Assist), optional equipment (option PCC )</td></tr>
+<tr><td>Cross traffic assist</td><td>Yes (Audi Collision Avoidance Assist), optional equipment</td></tr>
 <tr><td>Speed limiter</td><td>Yes, standard equipment</td></tr>
 <tr><td>Efficiency assist</td><td>Yes (Audi Efficency Assist), standard equipment</td></tr>
-<tr><td>Automatic Emergency Steering</td><td>Yes (Audi Collision Avoidance Assist), optional equipment (option PCC )</td></tr>
-<tr><td>Traffic Sign Recognition</td><td>Yes (Audi Traffic Sign Recongition), optional equipment (option PCC )</td></tr>
+<tr><td>Automatic Emergency Steering</td><td>Yes (Audi Collision Avoidance Assist), optional equipment</td></tr>
+<tr><td>Traffic Sign Recognition</td><td>Yes (Audi Traffic Sign Recongition), optional equipment</td></tr>
 <tr><td>Night Vision</td><td>Not available</td></tr>
 </tbody>
 </table>
@@ -277,8 +277,8 @@ This model is available with a seat configuration with five seats.
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Android Auto support</td><td>Yes (Smartphone Interface), optional equipment (option IU1 )</td></tr>
-<tr><td>Apple Carplay support</td><td>Yes (Smartphone Interface), optional equipment (option IU1 )</td></tr>
+<tr><td>Android Auto support</td><td>Yes (Smartphone Interface), optional equipment</td></tr>
+<tr><td>Apple Carplay support</td><td>Yes (Smartphone Interface), optional equipment</td></tr>
 <tr><td>In Car navigation</td><td>Yes (MMI Navigation plus), standard equipment</td></tr>
 </tbody>
 </table>

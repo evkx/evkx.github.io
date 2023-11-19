@@ -61,9 +61,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 SKODA Enyaq iV80 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 187 mm. 
+standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 187 mm. 
 
-Du kan bestille SKODA Enyaq iV80 med en alternativ sport suspensjon. sport-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 171 mm. 
+Du kan bestille SKODA Enyaq iV80 med en alternativ sport suspensjon. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 171 mm. 
 
 ### Styring
 
@@ -231,9 +231,9 @@ Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 585 liter. Med baksetet nede er det 1710 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2540kg, og med basisvekten på 2032 kg kan du maksimalt laste 508 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 585 liter. Med baksetet nede er det 1710 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2540kg, og med basisvekten på 2032 kg kan du maksimalt laste 508 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1000, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80/trunk_1_st.jpg" title="SKODA Enyaq iV80" width="3000" height="2000"  >}}

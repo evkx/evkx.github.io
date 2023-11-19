@@ -57,9 +57,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Audi Q4 Sportback 40 e-tron har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 180 mm. 
+Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 180 mm. 
 
-Du kan bestille Audi Q4 Sportback 40 e-tron med en alternativ sport suspensjon. Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. sport-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 165 mm. 
+Du kan bestille Audi Q4 Sportback 40 e-tron med en alternativ sport suspensjon. Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 165 mm. 
 
 ### Styring
 
@@ -238,9 +238,9 @@ Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsf
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 535 liter. Med baksetet nede er det 1460 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2625kg, og med basisvekten på 2045 kg kan du maksimalt laste 580 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 535 liter. Med baksetet nede er det 1460 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2625kg, og med basisvekten på 2045 kg kan du maksimalt laste 580 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1000, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_40_e-tron/trunk_1_st.jpg" title="Audi Q4 Sportback 40 e-tron" width="3000" height="2000"  >}}

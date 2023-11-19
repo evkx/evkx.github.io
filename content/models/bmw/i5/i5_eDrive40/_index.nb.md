@@ -61,11 +61,11 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 BMW i5 eDrive40 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
-Adaptive M Suspension-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 144 mm. 
+Adaptive M Suspension-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 144 mm. 
 
 Du kan bestille BMW i5 eDrive40 med en alternativ M Sport Suspension suspensjon. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. 
 
-Du kan bestille BMW i5 eDrive40 med en alternativ Adaptives suspension professional suspensjon. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med denne fjæringen er 140 mm. 
+Du kan bestille BMW i5 eDrive40 med en alternativ Adaptives suspension professional suspensjon. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med dette hjulopphenget er 140 mm. 
 
 ### Styring
 
@@ -237,9 +237,9 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 490 liter. Med baksetet nede er det 1290 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2740kg, og med basisvekten på 2256 kg kan du maksimalt laste 484 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 490 liter. Med baksetet nede er det 1290 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2740kg, og med basisvekten på 2256 kg kan du maksimalt laste 484 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 2000, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/trunk_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2000"  >}}

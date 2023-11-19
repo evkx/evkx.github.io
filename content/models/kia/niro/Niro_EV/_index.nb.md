@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 Kia Niro EV har et bakhjulsdriftssystem støttet av en motor på bakakselen. 
 
--opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 160 mm. 
+-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 160 mm. 
 
 ### Bremser
 
@@ -194,9 +194,9 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 475 liter. Med baksetet nede er det 1392 liter. På taket kan du laste opptil 75kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 20 liter. Maksimumsvekten til bilen er 220kg, og med basisvekten på 1557 kg kan du maksimalt laste -1337 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 475 liter. Med baksetet nede er det 1392 liter. På taket kan du laste opptil 75kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 20 liter. Maksimumsvekten til bilen er 220kg, og med basisvekten på 1557 kg kan du maksimalt laste -1337 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 750, og på ubremset er den 300kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 300kg. 
 
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/trunk_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}

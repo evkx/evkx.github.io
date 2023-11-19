@@ -247,9 +247,9 @@ Med DRIVE PILOT  nivå 3-systemet får du flere kjøreautomatiseringsfunksjoner 
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 610 liter. Med baksetet nede er det 1770 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 3060kg, og med basisvekten på 2540 kg kan du maksimalt laste 520 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 610 liter. Med baksetet nede er det 1770 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 3060kg, og med basisvekten på 2540 kg kan du maksimalt laste 520 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 750, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/trunk_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}

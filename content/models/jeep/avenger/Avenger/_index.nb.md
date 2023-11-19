@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Jeep Avenger har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 200 mm. 
+Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 200 mm. 
 
 ### Bremser
 
@@ -181,7 +181,7 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 355 liter. Med baksetet nede er det 1050 liter. Maksimumsvekten til bilen er 2025kg, og med basisvekten på 1520 kg kan du maksimalt laste 505 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 355 liter. Med baksetet nede er det 1050 liter. Maksimumsvekten til bilen er 2025kg, og med basisvekten på 1520 kg kan du maksimalt laste 505 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 

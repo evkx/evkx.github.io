@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 BYD Tang EV600 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen. 
 
--opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 190 mm. 
+-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 190 mm. 
 
 ### Styring
 
@@ -215,6 +215,6 @@ Med Smart Pilot  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner 
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 192 liter. Med baksetet nede er det 763 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 3099kg, og med basisvekten på 2440 kg kan du maksimalt laste 659 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 192 liter. Med baksetet nede er det 763 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 3099kg, og med basisvekten på 2440 kg kan du maksimalt laste 659 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1500, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750kg. 

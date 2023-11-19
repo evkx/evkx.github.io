@@ -221,7 +221,7 @@ Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreaut
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 500 liter. Maksimumsvekten til bilen er 3400kg, og med basisvekten på 2890 kg kan du maksimalt laste 510 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 500 liter. Maksimumsvekten til bilen er 3400kg, og med basisvekten på 2890 kg kan du maksimalt laste 510 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris

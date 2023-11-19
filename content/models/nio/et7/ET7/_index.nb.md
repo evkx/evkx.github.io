@@ -72,7 +72,7 @@ Denne modellen støtter batteribytte. Batteribytte betyr at du kan kjøre til en
 
 Nio ET7 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen. 
 
-Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. -Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 88 mm. 
+Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. -Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 88 mm. 
 
 ### Styring
 
@@ -228,6 +228,6 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du flere kjøreautomatisering
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 363 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 2900kg, og med basisvekten på 2379 kg kan du maksimalt laste 521 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 363 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 2900kg, og med basisvekten på 2379 kg kan du maksimalt laste 521 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 2000, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750kg. 

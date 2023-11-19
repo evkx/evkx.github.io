@@ -57,7 +57,7 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 
 Tesla Model Y Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen. 
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 167 mm. 
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 167 mm. 
 
 ### Styring
 
@@ -225,9 +225,9 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 854 liter. Med baksetet nede er det 2158 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2720kg, og med basisvekten på 2135 kg kan du maksimalt laste 585 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 854 liter. Med baksetet nede er det 2158 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2720kg, og med basisvekten på 2135 kg kan du maksimalt laste 585 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Et hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en bremset tilhenger er 1600, og på ubremset er den 750kg. 
+Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750kg. 
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 2020.

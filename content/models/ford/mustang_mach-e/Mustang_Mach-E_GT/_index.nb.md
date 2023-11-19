@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Ford Mustang Mach-E GT har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med denne fjæringen er 147 mm. 
+Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 147 mm. 
 
 ### Bremser
 
@@ -209,9 +209,9 @@ Med Ford BlueCruise  nivå 2-systemet får du følgende kjøreautomatiseringsfun
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 402 liter. Med baksetet nede er det 1420 liter. På taket kan du laste opptil 75kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 100 liter. Maksimumsvekten til bilen er 2690kg, og med basisvekten på 2218 kg kan du maksimalt laste 472 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.472kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer. 
+Lastkapasiteten i bagasjerommet er 402 liter. Med baksetet nede er det 1420 liter. På taket kan du laste opptil 75kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 100 liter. Maksimumsvekten til bilen er 2690kg, og med basisvekten på 2218 kg kan du maksimalt laste 472 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.472kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer. 
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 750, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/trunk_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}

@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 drivetrain.drivesetup.NotSet
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 140 mm. 
+Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 140 mm. 
 
 ### Bremser
 
@@ -154,7 +154,7 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 346 liter. Maksimumsvekten til bilen er 2080kg, og med basisvekten på 1677 kg kan du maksimalt laste 403 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 346 liter. Maksimumsvekten til bilen er 2080kg, og med basisvekten på 1677 kg kan du maksimalt laste 403 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 

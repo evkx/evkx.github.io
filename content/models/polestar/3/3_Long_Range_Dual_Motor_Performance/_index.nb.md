@@ -194,6 +194,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 484 liter. Med baksetet nede er det 1411 liter. På taket kan du laste opptil 100kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 3080kg, og med basisvekten på 2600 kg kan du maksimalt laste 480 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.480kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer. 
+Lastkapasiteten i bagasjerommet er 484 liter. Med baksetet nede er det 1411 liter. På taket kan du laste opptil 100kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 3080kg, og med basisvekten på 2600 kg kan du maksimalt laste 480 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.480kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer. 
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 2200, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2200, og på ubremset er den 750kg. 

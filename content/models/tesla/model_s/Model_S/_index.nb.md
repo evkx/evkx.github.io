@@ -210,9 +210,9 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 709 liter. Med baksetet nede er det 1828 liter. På taket kan du laste opptil 70kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 89 liter. Maksimumsvekten til bilen er 2629kg, og med basisvekten på 2265 kg kan du maksimalt laste 364 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 709 liter. Med baksetet nede er det 1828 liter. På taket kan du laste opptil 70kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 89 liter. Maksimumsvekten til bilen er 2629kg, og med basisvekten på 2265 kg kan du maksimalt laste 364 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Et hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en bremset tilhenger er 1600, og på ubremset er den 750kg. 
+Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/trunk_1_st.jpg" title="Tesla Model S" width="3000" height="2000"  >}}

@@ -270,9 +270,9 @@ Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsf
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 660 liter. Med baksetet nede er det 1725 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 3170kg, og med basisvekten på 2520 kg kan du maksimalt laste 650 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 660 liter. Med baksetet nede er det 1725 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 3170kg, og med basisvekten på 2520 kg kan du maksimalt laste 650 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1800, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750kg. 
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 09.11.2022, og leveringene startet i March 2023.

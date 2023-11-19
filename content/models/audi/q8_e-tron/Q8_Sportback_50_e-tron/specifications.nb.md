@@ -96,11 +96,11 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Adaptiv fjæring</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar demping foran</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar demping bak</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar høyde foran</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar høyde bak</td><td>Yes, standard equipment</td></tr>
+<tr><td>Adaptiv fjæring</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar demping foran</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar demping bak</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar høyde foran</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar høyde bak</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Maks bakkeklaring</td><td>248</td></tr>
 <tr><td>Minimum bakkeklaring</td><td>152</td></tr>
 <tr><td>Fjæringstype foran</td><td>AirSuspension</td></tr>
@@ -117,11 +117,11 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Adaptiv fjæring</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar demping foran</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar demping bak</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar høyde foran</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar høyde bak</td><td>Yes, standard equipment</td></tr>
+<tr><td>Adaptiv fjæring</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar demping foran</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar demping bak</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar høyde foran</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar høyde bak</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Maks bakkeklaring</td><td>248</td></tr>
 <tr><td>Minimum bakkeklaring</td><td>152</td></tr>
 <tr><td>Fjæringstype foran</td><td>AirSuspension</td></tr>
@@ -295,31 +295,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Lane keeping</td><td>Yes (Audi Active Lane Assist), standard equipment</td></tr>
-<tr><td>Lane departure warning</td><td>Yes (Audi Active Lane Assist), standard equipment</td></tr>
-<tr><td>Døsighetsvarsel</td><td>Yes, standard equipment</td></tr>
-<tr><td>Bryggekamera</td><td>Yes, optional equipment</td></tr>
-<tr><td>360-kamera</td><td>Yes, optional equipment (option PCZ )</td></tr>
-<tr><td>Alarm for kryssende trafikk bak</td><td>Yes (Cross traffic assist rear), optional equipment (option PCM )</td></tr>
-<tr><td>Parkeringssensorer bak</td><td>Yes (Parking system plus), standard equipment</td></tr>
-<tr><td>Parkeringssensorer foran</td><td>Yes (Parking system plus), standard equipment</td></tr>
-<tr><td>Parkeringssensorer på siden</td><td>Yes (Parking system plus), standard equipment</td></tr>
-<tr><td>Hill nedstigningshjelp</td><td>Yes, standard equipment</td></tr>
-<tr><td>Hill start assist</td><td>Yes, standard equipment</td></tr>
-<tr><td>AntiLock Braking System</td><td>Yes, standard equipment</td></tr>
-<tr><td>Automatisk nødbremsing</td><td>Yes (Audi Pre sense front), standard equipment</td></tr>
-<tr><td>Bremseassistent</td><td>Yes, standard equipment</td></tr>
-<tr><td>Traksjonskontroll</td><td>Yes, standard equipment</td></tr>
-<tr><td>Unngå krasj i venstresving</td><td>Yes (Audi Turn Assist), optional equipment (option PCC )</td></tr>
-<tr><td>Forward Collision Warning</td><td>Yes (Audi Collision Avoidance Assist), optional equipment (option PCC )</td></tr>
-<tr><td>Elektronisk stabilitetskontroll</td><td>Yes, standard equipment</td></tr>
-<tr><td>Temperaturadvarsel</td><td>Yes, standard equipment</td></tr>
-<tr><td>Cross traffic assist</td><td>Yes (Audi Collision Avoidance Assist), optional equipment (option PCC )</td></tr>
-<tr><td>Fartsbegrenser</td><td>Yes, standard equipment</td></tr>
-<tr><td>Effektivitetsassistent</td><td>Yes (Audi Efficency Assist), standard equipment</td></tr>
-<tr><td>Automatisk nødstyring</td><td>Yes (Audi Collision Avoidance Assist), optional equipment (option PCC )</td></tr>
-<tr><td>Trafikkskiltgjenkjenning</td><td>Yes (Audi Traffic Sign Recongition), optional equipment (option PCC )</td></tr>
-<tr><td>Nattsyn</td><td>Not available</td></tr>
+<tr><td>Lane keeping</td><td>Ja (Audi Active Lane Assist), standardutstyr</td></tr>
+<tr><td>Lane departure warning</td><td>Ja (Audi Active Lane Assist), standardutstyr</td></tr>
+<tr><td>Døsighetsvarsel</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Bryggekamera</td><td>common.optionalfeature</td></tr>
+<tr><td>360-kamera</td><td>common.optionalfeature</td></tr>
+<tr><td>Alarm for kryssende trafikk bak</td><td>Ja (Cross traffic assist rear), tileggsutstyr</td></tr>
+<tr><td>Parkeringssensorer bak</td><td>Ja (Parking system plus), standardutstyr</td></tr>
+<tr><td>Parkeringssensorer foran</td><td>Ja (Parking system plus), standardutstyr</td></tr>
+<tr><td>Parkeringssensorer på siden</td><td>Ja (Parking system plus), standardutstyr</td></tr>
+<tr><td>Hill nedstigningshjelp</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Hill start assist</td><td>Ja, standardutstyr</td></tr>
+<tr><td>AntiLock Braking System</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Automatisk nødbremsing</td><td>Ja (Audi Pre sense front), standardutstyr</td></tr>
+<tr><td>Bremseassistent</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Traksjonskontroll</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Unngå krasj i venstresving</td><td>Ja (Audi Turn Assist), tileggsutstyr</td></tr>
+<tr><td>Forward Collision Warning</td><td>Ja (Audi Collision Avoidance Assist), tileggsutstyr</td></tr>
+<tr><td>Elektronisk stabilitetskontroll</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Temperaturadvarsel</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Cross traffic assist</td><td>Ja (Audi Collision Avoidance Assist), tileggsutstyr</td></tr>
+<tr><td>Fartsbegrenser</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Effektivitetsassistent</td><td>Ja (Audi Efficency Assist), standardutstyr</td></tr>
+<tr><td>Automatisk nødstyring</td><td>Ja (Audi Collision Avoidance Assist), tileggsutstyr</td></tr>
+<tr><td>Trafikkskiltgjenkjenning</td><td>Ja (Audi Traffic Sign Recongition), tileggsutstyr</td></tr>
+<tr><td>Nattsyn</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
 </table>
 
@@ -330,9 +330,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Android Auto-støtte</td><td>Yes (Smartphone Interface), optional equipment (option IU1 )</td></tr>
-<tr><td>Apple Carplay-støtte</td><td>Yes (Smartphone Interface), optional equipment (option IU1 )</td></tr>
-<tr><td>I bilnavigasjon</td><td>Yes (MMI Navigation plus), standard equipment</td></tr>
+<tr><td>Android Auto-støtte</td><td>Ja (Smartphone Interface), tileggsutstyr</td></tr>
+<tr><td>Apple Carplay-støtte</td><td>Ja (Smartphone Interface), tileggsutstyr</td></tr>
+<tr><td>I bilnavigasjon</td><td>Ja (MMI Navigation plus), standardutstyr</td></tr>
 </tbody>
 </table>
 <tr><td>Antall tilgjengelige lydsystemer</td><td>2</td></tr>

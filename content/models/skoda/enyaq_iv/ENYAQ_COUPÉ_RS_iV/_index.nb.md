@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 SKODA ENYAQ COUPÉ RS iV har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen. 
 
-Sport-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 173 mm. 
+Sport-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 173 mm. 
 
 ### Styring
 
@@ -209,9 +209,9 @@ Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 570 liter. Med baksetet nede er det 1610 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2740kg, og med basisvekten på 2180 kg kan du maksimalt laste 560 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 570 liter. Med baksetet nede er det 1610 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2740kg, og med basisvekten på 2180 kg kan du maksimalt laste 560 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1200, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="2001"  >}}

@@ -248,8 +248,8 @@ This model is available with a seat configuration with five seats.
 <tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
 <tr><td>Drowsiness Alert</td><td>Yes, standard equipment</td></tr>
 <tr><td>Reversing camera</td><td>Yes, optional equipment</td></tr>
-<tr><td>360 camera</td><td>Yes, optional equipment (option PCZ )</td></tr>
-<tr><td>Rear cross traffic alert</td><td>Yes (Cross traffic assist rear), optional equipment (option PCM )</td></tr>
+<tr><td>360 camera</td><td>Yes, optional equipment</td></tr>
+<tr><td>Rear cross traffic alert</td><td>Yes (Cross traffic assist rear), optional equipment</td></tr>
 <tr><td>Rear parking sensors</td><td>Yes (Park Assist), standard equipment</td></tr>
 <tr><td>Front parking sensors</td><td>Yes (Park Assist), standard equipment</td></tr>
 <tr><td>Side parking sensors</td><td>Yes (Park Assist), standard equipment</td></tr>
@@ -268,7 +268,7 @@ This model is available with a seat configuration with five seats.
 <tr><td>Efficiency assist</td><td>Yes, standard equipment</td></tr>
 <tr><td>Automatic Emergency Steering</td><td>Yes, standard equipment</td></tr>
 <tr><td>Traffic Sign Recognition</td><td>Yes, optional equipment</td></tr>
-<tr><td>Night Vision</td><td>Yes (Night Vision Assist), optional equipment (option 9R1 )</td></tr>
+<tr><td>Night Vision</td><td>Yes (Night Vision Assist), optional equipment</td></tr>
 </tbody>
 </table>
 

@@ -55,7 +55,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Peugot E-3008 Long Range har et forhjulsdriftssystem støttet av én motor på forakselen. 
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 200 mm. 
+Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 200 mm. 
 
 ### Bremser
 
@@ -183,6 +183,6 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 434 liter. Med baksetet nede er det 1467 liter. Maksimumsvekten til bilen er 2030kg, og med basisvekten på 1573 kg kan du maksimalt laste 457 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.457kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer. 
+Lastkapasiteten i bagasjerommet er 434 liter. Med baksetet nede er det 1467 liter. Maksimumsvekten til bilen er 2030kg, og med basisvekten på 1573 kg kan du maksimalt laste 457 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.457kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer. 
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.

@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Chevrolet Blazer EV SS har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
--opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 178 mm. 
+-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm. 
 
 ### Bremser
 
@@ -192,7 +192,7 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 Lastkapasiteten i bagasjerommet er 863 liter. Med baksetet nede er det 1676 liter. 
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1588, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1588, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}

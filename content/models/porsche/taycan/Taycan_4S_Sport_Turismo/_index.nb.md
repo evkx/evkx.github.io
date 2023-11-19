@@ -71,7 +71,7 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 Porsche Taycan 4S Sport Turismo har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med denne fjæringen er 127 mm. 
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 127 mm. 
 
 Du kan bestille Porsche Taycan 4S Sport Turismo med en alternativ Adaptive Air Suspension suspensjon. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 103 mm, og maksimum er 127 mm. 
 
@@ -269,7 +269,7 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 446 liter. Med baksetet nede er det 1171 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2875kg, og med basisvekten på 2170 kg kan du maksimalt laste 705 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 446 liter. Med baksetet nede er det 1171 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2875kg, og med basisvekten på 2170 kg kan du maksimalt laste 705 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 

@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Mercedes-EQ EQE 500 4MATIC har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 107 mm. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 82 mm, og maksimum er 127 mm. 
+standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 107 mm. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 82 mm, og maksimum er 127 mm. 
 
 ### Styring
 
@@ -244,9 +244,9 @@ Med Driver Assistance Package Plus  nivå 2-systemet får du flere kjøreautomat
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 430 liter. Med baksetet nede er det 895 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 3095kg, og med basisvekten på 2450 kg kan du maksimalt laste 645 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 430 liter. Med baksetet nede er det 895 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 3095kg, og med basisvekten på 2450 kg kan du maksimalt laste 645 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 750, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_500_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC" width="3000" height="2000"  >}}

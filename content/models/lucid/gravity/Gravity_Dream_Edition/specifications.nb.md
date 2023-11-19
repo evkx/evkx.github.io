@@ -80,11 +80,11 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Adaptiv fjæring</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar demping foran</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar demping bak</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar høyde foran</td><td>Not available</td></tr>
-<tr><td>Justerbar høyde bak</td><td>Not available</td></tr>
+<tr><td>Adaptiv fjæring</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar demping foran</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar demping bak</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar høyde foran</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar høyde bak</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Maks bakkeklaring</td><td>155</td></tr>
 <tr><td>Minimum bakkeklaring</td><td>155</td></tr>
 <tr><td>Fjæringstype foran</td><td>SteelSpringsWithOilDampers</td></tr>
@@ -98,11 +98,11 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Adaptiv fjæring</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar demping foran</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar demping bak</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar høyde foran</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar høyde bak</td><td>Yes, standard equipment</td></tr>
+<tr><td>Adaptiv fjæring</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar demping foran</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar demping bak</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar høyde foran</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar høyde bak</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Maks bakkeklaring</td><td>220</td></tr>
 <tr><td>Minimum bakkeklaring</td><td>155</td></tr>
 <tr><td>Fjæringstype foran</td><td>AirSuspension</td></tr>
@@ -173,31 +173,31 @@ Interior.Seatlayout.OnlySix
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Lane keeping</td><td>Yes, standard equipment</td></tr>
-<tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
-<tr><td>Døsighetsvarsel</td><td>Yes, standard equipment</td></tr>
-<tr><td>Bryggekamera</td><td>Yes, standard equipment</td></tr>
-<tr><td>360-kamera</td><td>Yes, standard equipment</td></tr>
+<tr><td>Lane keeping</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Døsighetsvarsel</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Bryggekamera</td><td>Ja, standardutstyr</td></tr>
+<tr><td>360-kamera</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td></td></tr>
-<tr><td>Parkeringssensorer bak</td><td>Yes, standard equipment</td></tr>
+<tr><td>Parkeringssensorer bak</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Parkeringssensorer foran</td><td></td></tr>
 <tr><td>Parkeringssensorer på siden</td><td></td></tr>
 <tr><td>Hill nedstigningshjelp</td><td></td></tr>
-<tr><td>Hill start assist</td><td>Yes, standard equipment</td></tr>
-<tr><td>AntiLock Braking System</td><td>Yes, standard equipment</td></tr>
+<tr><td>Hill start assist</td><td>Ja, standardutstyr</td></tr>
+<tr><td>AntiLock Braking System</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Automatisk nødbremsing</td><td></td></tr>
-<tr><td>Bremseassistent</td><td>Yes, standard equipment</td></tr>
-<tr><td>Traksjonskontroll</td><td>Yes, standard equipment</td></tr>
+<tr><td>Bremseassistent</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Traksjonskontroll</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Unngå krasj i venstresving</td><td></td></tr>
 <tr><td>Forward Collision Warning</td><td></td></tr>
-<tr><td>Elektronisk stabilitetskontroll</td><td>Yes, standard equipment</td></tr>
+<tr><td>Elektronisk stabilitetskontroll</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Temperaturadvarsel</td><td></td></tr>
-<tr><td>Cross traffic assist</td><td>Yes, standard equipment</td></tr>
+<tr><td>Cross traffic assist</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Fartsbegrenser</td><td></td></tr>
 <tr><td>Effektivitetsassistent</td><td></td></tr>
-<tr><td>Automatisk nødstyring</td><td>Yes, standard equipment</td></tr>
-<tr><td>Trafikkskiltgjenkjenning</td><td>Yes, standard equipment</td></tr>
-<tr><td>Nattsyn</td><td>Not available</td></tr>
+<tr><td>Automatisk nødstyring</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Trafikkskiltgjenkjenning</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Nattsyn</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
 </table>
 
@@ -208,8 +208,8 @@ Interior.Seatlayout.OnlySix
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Android Auto-støtte</td><td>Not available</td></tr>
-<tr><td>Apple Carplay-støtte</td><td>Not available</td></tr>
-<tr><td>I bilnavigasjon</td><td>Yes, standard equipment</td></tr>
+<tr><td>Android Auto-støtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Apple Carplay-støtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>I bilnavigasjon</td><td>Ja, standardutstyr</td></tr>
 </tbody>
 </table>

@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 Ford F150 Lightning Extended Range har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 226 mm. 
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 226 mm. 
 
 ### Bremser
 
@@ -204,7 +204,7 @@ Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du flere kjøreautomat
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i lastebilen er 1495 liter. Sengebredden er 1285 mm, og lengden er 1704 mm. Maksimal lastevekt i lasteplanet er 907 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 399 liter. Maksimumsvekten til bilen er 3878kg, og med basisvekten på 2988 kg kan du maksimalt laste 890 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i lastebilen er 1495 liter. Sengebredden er 1285 mm, og lengden er 1704 mm. Maksimal lastevekt i lasteplanet er 907 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 399 liter. Maksimumsvekten til bilen er 3878kg, og med basisvekten på 2988 kg kan du maksimalt laste 890 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1264"  >}}

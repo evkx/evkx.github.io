@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 Renault Scenic E-Tech electric High Range har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
-standard-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 180 mm. 
+standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 180 mm. 
 
 ### Styring
 
@@ -209,9 +209,9 @@ Med ProPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 545 liter. Med baksetet nede er det 1490 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2400kg, og med basisvekten på 1842 kg kan du maksimalt laste 558 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 545 liter. Med baksetet nede er det 1490 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2400kg, og med basisvekten på 1842 kg kan du maksimalt laste 558 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 750, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/trunk_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="2001"  >}}

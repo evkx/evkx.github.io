@@ -61,9 +61,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Volkswagen ID.7 Pro har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 180 mm. 
+standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 180 mm. 
 
-Du kan bestille Volkswagen ID.7 Pro med en alternativ sport suspensjon. sport-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 163 mm. 
+Du kan bestille Volkswagen ID.7 Pro med en alternativ sport suspensjon. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm. 
 
 ### Styring
 
@@ -232,9 +232,9 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 542 liter. Med baksetet nede er det 1575 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2750kg, og med basisvekten på 2164 kg kan du maksimalt laste 586 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 542 liter. Med baksetet nede er det 1575 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2750kg, og med basisvekten på 2164 kg kan du maksimalt laste 586 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1000, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/trunk_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}

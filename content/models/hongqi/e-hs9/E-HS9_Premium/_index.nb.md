@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Hongqi E-HS9 Premium har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
--Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med denne fjæringen er 200 mm. 
+-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 200 mm. 
 
 ### Styring
 
@@ -211,6 +211,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 225 liter. Med setet på tredje rad nede er det 622 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 3205kg, og med basisvekten på 2660 kg kan du maksimalt laste 545 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 225 liter. Med setet på tredje rad nede er det 622 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 3205kg, og med basisvekten på 2660 kg kan du maksimalt laste 545 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1500, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750kg. 

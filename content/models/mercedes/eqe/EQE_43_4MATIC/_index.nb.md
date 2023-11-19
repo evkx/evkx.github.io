@@ -244,9 +244,9 @@ Med Driver Assistance Package Plus  nivå 2-systemet får du flere kjøreautomat
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 430 liter. Med baksetet nede er det 895 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 3095kg, og med basisvekten på 2450 kg kan du maksimalt laste 645 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 430 liter. Med baksetet nede er det 895 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 3095kg, og med basisvekten på 2450 kg kan du maksimalt laste 645 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 750, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/trunk_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="1999"  >}}

@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 BMW i5 M60 xDrive har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
--fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med denne fjæringen er 136 mm. 
+-fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med dette hjulopphenget er 136 mm. 
 
 ### Styring
 
@@ -237,9 +237,9 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 490 liter. Med baksetet nede er det 1290 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2895kg, og med basisvekten på 2305 kg kan du maksimalt laste 590 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 490 liter. Med baksetet nede er det 1290 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2895kg, og med basisvekten på 2305 kg kan du maksimalt laste 590 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 2000, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/trunk_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}

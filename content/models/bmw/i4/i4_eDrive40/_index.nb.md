@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 BMW i4 eDrive40 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
-Standard-opphenget har luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastens vekt. Bakkeklaringen med denne fjæringen er 125 mm. -fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med denne fjæringen er 125 mm. 
+Standard-opphenget har luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastens vekt. Bakkeklaringen med dette hjulopphenget er 125 mm. -fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med dette hjulopphenget er 125 mm. 
 
 ### Styring
 
@@ -222,9 +222,9 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 470 liter. Med baksetet nede er det 1290 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2605kg, og med basisvekten på 2050 kg kan du maksimalt laste 555 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 470 liter. Med baksetet nede er det 1290 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2605kg, og med basisvekten på 2050 kg kan du maksimalt laste 555 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1600, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/trunk_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}

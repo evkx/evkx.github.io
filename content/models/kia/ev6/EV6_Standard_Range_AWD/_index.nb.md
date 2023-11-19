@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Kia EV6 Standard Range AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
 
--opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 178 mm. 
+-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm. 
 
 ### Bremser
 
@@ -202,9 +202,9 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 480 liter. Med baksetet nede er det 1260 liter. På taket kan du laste opptil 80kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 20 liter. Maksimumsvekten til bilen er 2530kg, og med basisvekten på 2015 kg kan du maksimalt laste 515 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 480 liter. Med baksetet nede er det 1260 liter. På taket kan du laste opptil 80kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 20 liter. Maksimumsvekten til bilen er 2530kg, og med basisvekten på 2015 kg kan du maksimalt laste 515 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1600, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/trunk_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="1999"  >}}

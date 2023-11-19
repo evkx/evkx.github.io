@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 BYD Atto 3 har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/). 
 
--opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 175 mm. 
+-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 175 mm. 
 
 ### Styring
 
@@ -215,7 +215,7 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 440 liter. Med baksetet nede er det 1338 liter. På taket kan du laste opptil 50kg. Maksimumsvekten til bilen er 2160kg, og med basisvekten på 1750 kg kan du maksimalt laste 410 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 440 liter. Med baksetet nede er det 1338 liter. På taket kan du laste opptil 50kg. Maksimumsvekten til bilen er 2160kg, og med basisvekten på 1750 kg kan du maksimalt laste 410 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}

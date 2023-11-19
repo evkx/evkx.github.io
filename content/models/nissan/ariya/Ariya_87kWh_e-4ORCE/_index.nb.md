@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 Nissan Ariya 87kWh e-4ORCE har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
-standard-opphenget har en fast høyde og demping. Bakkeklaringen med denne fjæringen er 170 mm. 
+standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 170 mm. 
 
 ### Styring
 
@@ -197,9 +197,9 @@ Med ProPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 415 liter. Med baksetet nede er det 1490 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2400kg, og med basisvekten på 1875 kg kan du maksimalt laste 525 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 415 liter. Med baksetet nede er det 1490 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2400kg, og med basisvekten på 1875 kg kan du maksimalt laste 525 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1500, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" width="3000" height="1999"  >}}

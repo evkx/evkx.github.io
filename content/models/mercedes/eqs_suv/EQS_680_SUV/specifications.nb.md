@@ -89,11 +89,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Adaptiv fjæring</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar demping foran</td><td>Yes, optional equipment</td></tr>
-<tr><td>Justerbar demping bak</td><td>Yes, optional equipment</td></tr>
-<tr><td>Justerbar høyde foran</td><td>Yes, standard equipment</td></tr>
-<tr><td>Justerbar høyde bak</td><td>Yes, standard equipment</td></tr>
+<tr><td>Adaptiv fjæring</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar demping foran</td><td>common.optionalfeature</td></tr>
+<tr><td>Justerbar demping bak</td><td>common.optionalfeature</td></tr>
+<tr><td>Justerbar høyde foran</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar høyde bak</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Maks bakkeklaring</td><td>206</td></tr>
 <tr><td>Minimum bakkeklaring</td><td>181</td></tr>
 <tr><td>Fjæringstype foran</td><td>AirSuspension</td></tr>
@@ -165,31 +165,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Lane keeping</td><td>Yes (Active Lane keeping Assist), standard equipment</td></tr>
-<tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
-<tr><td>Døsighetsvarsel</td><td>Yes (Attention Assist), standard equipment</td></tr>
-<tr><td>Bryggekamera</td><td>Yes, optional equipment</td></tr>
-<tr><td>360-kamera</td><td>Yes, standard equipment</td></tr>
-<tr><td>Alarm for kryssende trafikk bak</td><td>Not available</td></tr>
-<tr><td>Parkeringssensorer bak</td><td>Yes, standard equipment</td></tr>
-<tr><td>Parkeringssensorer foran</td><td>Yes, standard equipment</td></tr>
-<tr><td>Parkeringssensorer på siden</td><td>Yes, standard equipment</td></tr>
-<tr><td>Hill nedstigningshjelp</td><td>Not available</td></tr>
-<tr><td>Hill start assist</td><td>Yes, standard equipment</td></tr>
-<tr><td>AntiLock Braking System</td><td>Yes, standard equipment</td></tr>
-<tr><td>Automatisk nødbremsing</td><td>Yes (Active Brake Assist), standard equipment</td></tr>
-<tr><td>Bremseassistent</td><td>Yes, standard equipment</td></tr>
-<tr><td>Traksjonskontroll</td><td>Yes, standard equipment</td></tr>
-<tr><td>Unngå krasj i venstresving</td><td>Yes, optional equipment</td></tr>
-<tr><td>Forward Collision Warning</td><td>Yes (Active Emergency Stop Assist), optional equipment</td></tr>
-<tr><td>Elektronisk stabilitetskontroll</td><td>Yes, standard equipment</td></tr>
-<tr><td>Temperaturadvarsel</td><td>Yes, standard equipment</td></tr>
-<tr><td>Cross traffic assist</td><td>Yes, optional equipment</td></tr>
-<tr><td>Fartsbegrenser</td><td>Yes (Speed limit assist), standard equipment</td></tr>
-<tr><td>Effektivitetsassistent</td><td>Not available</td></tr>
-<tr><td>Automatisk nødstyring</td><td>Yes (Evasive Steering Assist), optional equipment</td></tr>
-<tr><td>Trafikkskiltgjenkjenning</td><td>Yes (Traffic sign assist), optional equipment</td></tr>
-<tr><td>Nattsyn</td><td>Not available</td></tr>
+<tr><td>Lane keeping</td><td>Ja (Active Lane keeping Assist), standardutstyr</td></tr>
+<tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Døsighetsvarsel</td><td>Ja (Attention Assist), standardutstyr</td></tr>
+<tr><td>Bryggekamera</td><td>common.optionalfeature</td></tr>
+<tr><td>360-kamera</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Alarm for kryssende trafikk bak</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Parkeringssensorer bak</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Parkeringssensorer foran</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Parkeringssensorer på siden</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Hill nedstigningshjelp</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Hill start assist</td><td>Ja, standardutstyr</td></tr>
+<tr><td>AntiLock Braking System</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Automatisk nødbremsing</td><td>Ja (Active Brake Assist), standardutstyr</td></tr>
+<tr><td>Bremseassistent</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Traksjonskontroll</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Unngå krasj i venstresving</td><td>common.optionalfeature</td></tr>
+<tr><td>Forward Collision Warning</td><td>Ja (Active Emergency Stop Assist), tileggsutstyr</td></tr>
+<tr><td>Elektronisk stabilitetskontroll</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Temperaturadvarsel</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Cross traffic assist</td><td>common.optionalfeature</td></tr>
+<tr><td>Fartsbegrenser</td><td>Ja (Speed limit assist), standardutstyr</td></tr>
+<tr><td>Effektivitetsassistent</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Automatisk nødstyring</td><td>Ja (Evasive Steering Assist), tileggsutstyr</td></tr>
+<tr><td>Trafikkskiltgjenkjenning</td><td>Ja (Traffic sign assist), tileggsutstyr</td></tr>
+<tr><td>Nattsyn</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
 </table>
 
@@ -200,9 +200,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Android Auto-støtte</td><td>Yes, optional equipment</td></tr>
-<tr><td>Apple Carplay-støtte</td><td>Yes, optional equipment</td></tr>
-<tr><td>I bilnavigasjon</td><td>Yes, standard equipment</td></tr>
+<tr><td>Android Auto-støtte</td><td>common.optionalfeature</td></tr>
+<tr><td>Apple Carplay-støtte</td><td>common.optionalfeature</td></tr>
+<tr><td>I bilnavigasjon</td><td>Ja, standardutstyr</td></tr>
 </tbody>
 </table>
 <tr><td>Antall tilgjengelige lydsystemer</td><td>2</td></tr>

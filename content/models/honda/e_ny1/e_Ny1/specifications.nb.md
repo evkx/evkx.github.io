@@ -74,11 +74,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Adaptiv fjæring</td><td>Not available</td></tr>
-<tr><td>Justerbar demping foran</td><td>Not available</td></tr>
-<tr><td>Justerbar demping bak</td><td>Not available</td></tr>
-<tr><td>Justerbar høyde foran</td><td>Not available</td></tr>
-<tr><td>Justerbar høyde bak</td><td>Not available</td></tr>
+<tr><td>Adaptiv fjæring</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar demping foran</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar demping bak</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar høyde foran</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar høyde bak</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Maks bakkeklaring</td><td>140</td></tr>
 <tr><td>Minimum bakkeklaring</td><td>140</td></tr>
 <tr><td>Fjæringstype foran</td><td>SteelSpringsWithOilDampers</td></tr>

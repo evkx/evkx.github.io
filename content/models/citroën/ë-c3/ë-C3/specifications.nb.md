@@ -76,11 +76,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Adaptiv fjæring</td><td>Not available</td></tr>
-<tr><td>Justerbar demping foran</td><td>Not available</td></tr>
-<tr><td>Justerbar demping bak</td><td>Not available</td></tr>
-<tr><td>Justerbar høyde foran</td><td>Not available</td></tr>
-<tr><td>Justerbar høyde bak</td><td>Not available</td></tr>
+<tr><td>Adaptiv fjæring</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar demping foran</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar demping bak</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar høyde foran</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar høyde bak</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Maks bakkeklaring</td><td>163</td></tr>
 <tr><td>Minimum bakkeklaring</td><td>163</td></tr>
 <tr><td>Fjæringstype foran</td><td>SteelSpringsWithOilDampers</td></tr>
@@ -148,8 +148,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </thead>
 <tbody>
 <tr><td>Lane keeping</td><td></td></tr>
-<tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
-<tr><td>Døsighetsvarsel</td><td>Yes, standard equipment</td></tr>
+<tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Døsighetsvarsel</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Bryggekamera</td><td></td></tr>
 <tr><td>360-kamera</td><td></td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td></td></tr>
@@ -159,7 +159,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Hill nedstigningshjelp</td><td></td></tr>
 <tr><td>Hill start assist</td><td></td></tr>
 <tr><td>AntiLock Braking System</td><td></td></tr>
-<tr><td>Automatisk nødbremsing</td><td>Yes, standard equipment</td></tr>
+<tr><td>Automatisk nødbremsing</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Bremseassistent</td><td></td></tr>
 <tr><td>Traksjonskontroll</td><td></td></tr>
 <tr><td>Unngå krasj i venstresving</td><td></td></tr>
@@ -182,8 +182,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Android Auto-støtte</td><td>Yes, optional equipment</td></tr>
-<tr><td>Apple Carplay-støtte</td><td>Yes, optional equipment</td></tr>
-<tr><td>I bilnavigasjon</td><td>Yes, optional equipment</td></tr>
+<tr><td>Android Auto-støtte</td><td>common.optionalfeature</td></tr>
+<tr><td>Apple Carplay-støtte</td><td>common.optionalfeature</td></tr>
+<tr><td>I bilnavigasjon</td><td>common.optionalfeature</td></tr>
 </tbody>
 </table>

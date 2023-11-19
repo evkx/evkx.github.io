@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 BMW iX xDrive40 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
-Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med denne fjæringen er 202 mm. 
+Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 202 mm. 
 
 Du kan bestille BMW iX xDrive40 med en alternativ Adaptive Air Suspension suspensjon. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 193 mm, og maksimum er 223 mm. 
 
@@ -211,9 +211,9 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 500 liter. Med baksetet nede er det 1750 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 3010kg, og med basisvekten på 2365 kg kan du maksimalt laste 645 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 500 liter. Med baksetet nede er det 1750 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 3010kg, og med basisvekten på 2365 kg kan du maksimalt laste 645 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 2500, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2500, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/trunk_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1998"  >}}

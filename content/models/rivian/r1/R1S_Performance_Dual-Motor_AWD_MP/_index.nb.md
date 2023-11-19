@@ -207,7 +207,7 @@ Med Driver+  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 Lastkapasiteten i bagasjerommet er 498 liter. Med baksetet nede er det 2965 liter. På taket kan du laste opptil 113kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 314 liter. 
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 3500, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3500, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD MP" width="1920" height="1080"  >}}

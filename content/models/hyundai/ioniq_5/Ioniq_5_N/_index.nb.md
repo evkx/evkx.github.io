@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Hyundai Ioniq 5 N har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
 
--fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med denne fjæringen er 158 mm. 
+-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 158 mm. 
 
 ### Bremser
 
@@ -190,9 +190,9 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 527 liter. Med baksetet nede er det 1578 liter. På taket kan du laste opptil 80kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 24 liter. Maksimumsvekten til bilen er 2560kg, og med basisvekten på 2045 kg kan du maksimalt laste 515 kg, inkludert sjåfør og passasjerer. Noen alternativer kan øke basen vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 527 liter. Med baksetet nede er det 1578 liter. På taket kan du laste opptil 80kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 24 liter. Maksimumsvekten til bilen er 2560kg, og med basisvekten på 2045 kg kan du maksimalt laste 515 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en bremset tilhenger er 1600, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750kg. 
 
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/trunk_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2250"  >}}
