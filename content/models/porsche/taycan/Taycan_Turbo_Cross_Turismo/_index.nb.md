@@ -197,8 +197,7 @@ Porsche Taycan Turbo Cross Turismo har flere integrerte skjermer. Bak rattet er 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1854"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

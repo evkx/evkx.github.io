@@ -144,8 +144,7 @@ The Hyundai Ioniq 6 Long Range AWD has twin screens on a shared frame mounted wi
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/screens_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

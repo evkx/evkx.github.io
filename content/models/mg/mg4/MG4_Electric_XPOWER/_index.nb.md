@@ -143,10 +143,9 @@ Du har trådløs lading for telefonen din.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/screens_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
-
-Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med hendene. 
 
 ## Infotainment
 

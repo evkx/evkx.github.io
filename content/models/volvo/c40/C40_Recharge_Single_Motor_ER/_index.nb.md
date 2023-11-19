@@ -143,6 +143,7 @@ Volvo C40 Recharge Single Motor ER har flere integrerte skjermer. Bak rattet er 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/screens_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

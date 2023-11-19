@@ -155,6 +155,7 @@ På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen e
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/screens_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2000"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

@@ -120,6 +120,7 @@ Honda e:Ny1 har flere integrerte skjermer. Bak rattet er en [digital instrumentk
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/screens_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

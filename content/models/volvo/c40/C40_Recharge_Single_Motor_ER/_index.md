@@ -143,6 +143,7 @@ The Volvo C40 Recharge Single Motor ER has multiple integrated screens. Behind t
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/screens_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

@@ -156,6 +156,7 @@ Tesla Model 3 (GEN1) har en enkelt skjerm. Dashboardsenteret har en enkelt [info
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/screens_2_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

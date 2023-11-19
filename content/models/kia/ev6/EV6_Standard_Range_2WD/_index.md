@@ -148,8 +148,7 @@ The Kia EV6 Standard Range 2WD has twin screens on a shared frame mounted with b
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_2wd/screens_1_st.jpg" title="Kia EV6 Standard Range 2WD" width="3000" height="2003"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

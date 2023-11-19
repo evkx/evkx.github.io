@@ -159,12 +159,9 @@ Renault Megane E-Tech Techno har doble skjermer på en delt ramme montert med br
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/screens_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
-
-Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med hendene. 
 
 ## Infotainment
 

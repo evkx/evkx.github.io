@@ -161,6 +161,7 @@ BYD Han har doble skjermer på en delt ramme montert med braketter på dashborde
 
 {{< sitefiguresized thumb="models/byd/han/han/screens_1_st.jpg" title="BYD Han" width="1920" height="1059"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

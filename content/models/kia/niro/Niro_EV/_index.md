@@ -144,8 +144,7 @@ The Kia Niro EV has twin screens on a shared frame mounted with brackets on the 
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/screens_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

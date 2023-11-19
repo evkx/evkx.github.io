@@ -178,8 +178,7 @@ The optional MBUX Hyperscreen layout has the following configuration. Behind the
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/screens_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="2001"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
 

@@ -148,8 +148,7 @@ The CUPRA Tavascan VZ has twin screens with information for the driver and passe
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/screens_1_st.jpg" title="CUPRA Tavascan VZ" width="3000" height="1714"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

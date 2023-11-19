@@ -172,8 +172,7 @@ The Volkswagen ID.7 Pro has twin screens with information for the driver and pas
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/screens_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

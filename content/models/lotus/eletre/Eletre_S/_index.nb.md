@@ -162,12 +162,9 @@ Du har trådløs lading for telefonen din.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/screens_1_st.jpg" title="Lotus Eletre S" width="3000" height="1919"  >}}
 
-
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
-
-Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med hendene. 
 
 ## Infotainment
 

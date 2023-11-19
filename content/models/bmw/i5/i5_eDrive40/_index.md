@@ -180,8 +180,7 @@ The BMW i5 eDrive40 has twin screens on a shared frame mounted with brackets on 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/screens_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="1999"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

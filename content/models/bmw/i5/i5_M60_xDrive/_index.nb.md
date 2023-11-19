@@ -176,8 +176,7 @@ BMW i5 M60 xDrive har doble skjermer på en delt ramme montert med braketter på
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/screens_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="1999"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
 

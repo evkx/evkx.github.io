@@ -143,6 +143,7 @@ Polestar 2 Long Range Single Motor har flere integrerte skjermer. Bak rattet er 
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/screens_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

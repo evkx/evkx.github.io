@@ -160,10 +160,9 @@ The XPENG G9 RWD Long Range has twin screens on a shared frame mounted with brac
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/screens_1_st.jpg" title="XPENG G9 RWD Long Range" width="3000" height="2002"  >}}
 
+The model is not available with head-up display.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
-
-A gesture control system that lets you control specific features using your hands. 
 
 ## Infotainment
 

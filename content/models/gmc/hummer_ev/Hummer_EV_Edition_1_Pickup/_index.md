@@ -141,6 +141,7 @@ The GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted wi
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

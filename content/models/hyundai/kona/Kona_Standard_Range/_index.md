@@ -154,8 +154,7 @@ The Hyundai Kona Standard Range has twin screens on a shared frame mounted with 
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/screens_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="1687"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

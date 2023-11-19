@@ -154,8 +154,7 @@ The BYD Seal AWD has twin screens on a shared frame mounted with brackets on the
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/screens_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
-
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

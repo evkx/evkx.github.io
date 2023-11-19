@@ -149,6 +149,7 @@ Tesla Model S har doble skjermer med informasjon for fører og passasjerer og en
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/screens_1_st.jpg" title="Tesla Model S" width="3000" height="2000"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

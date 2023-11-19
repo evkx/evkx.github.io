@@ -195,8 +195,7 @@ The Porsche Taycan Turbo Sport Turismo has multiple integrated screens. Behind t
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2001"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

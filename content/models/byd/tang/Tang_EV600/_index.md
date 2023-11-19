@@ -159,6 +159,7 @@ The BYD Tang EV600 has twin screens on a shared frame mounted with brackets on t
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/screens_1_st.jpg" title="BYD Tang EV600" width="1920" height="1079"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

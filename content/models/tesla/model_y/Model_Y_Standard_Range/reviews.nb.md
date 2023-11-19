@@ -8,7 +8,11 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Bjørn Nyland: Tesla Model Y RWD with BYD Blade battery charging testr 16.11.2023
+### Bjørn Nyland: Tesla Model Y RWD with BYD Blade battery Geilo test 19.11.2023
+
+{{< youtube 1SmV-4iI6PQ >}}
+
+### Bjørn Nyland: Tesla Model Y RWD with BYD Blade battery charging test 16.11.2023
 
 {{< youtube hVYmdByInec >}}
 

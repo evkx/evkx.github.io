@@ -195,8 +195,7 @@ Porsche Taycan 4S Cross Turismo har flere integrerte skjermer. Bak rattet er en 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_cross_turismo/screens_1_st.jpg" title="Porsche Taycan 4S Cross Turismo" width="3000" height="1854"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

@@ -149,6 +149,7 @@ Tesla Model S Plaid har doble skjermer med informasjon for fører og passasjerer
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/screens_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

@@ -182,8 +182,7 @@ Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital i
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/screens_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2000"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

@@ -164,12 +164,9 @@ HiPhi X 6 Seater har flere integrerte skjermer. Bak rattet er en [digital instru
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/screens_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
 
-
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
-
-Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med hendene. 
 
 ## Infotainment
 

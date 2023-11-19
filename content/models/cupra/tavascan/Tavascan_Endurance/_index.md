@@ -148,8 +148,7 @@ The CUPRA Tavascan Endurance has twin screens with information for the driver an
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/screens_1_st.jpg" title="CUPRA Tavascan Endurance" width="3000" height="1714"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

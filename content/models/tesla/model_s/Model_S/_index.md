@@ -149,6 +149,7 @@ The Tesla Model S has twin screens with information for the driver and passenger
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/screens_1_st.jpg" title="Tesla Model S" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

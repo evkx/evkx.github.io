@@ -144,10 +144,9 @@ MG MG5 Electric Long Range har flere integrerte skjermer. Bak rattet er en [digi
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/screens_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2002"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
-
-Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med hendene. 
 
 ## Infotainment
 

@@ -154,8 +154,7 @@ BYD Seal AWD har doble skjermer på en delt ramme montert med braketter på dash
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/screens_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
-
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

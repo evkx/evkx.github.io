@@ -160,6 +160,7 @@ Det valgfrie Design-oppsettet har følgende konfigurasjon. Bak rattet er en [dig
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/screens_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

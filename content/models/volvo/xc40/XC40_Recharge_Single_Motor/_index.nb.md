@@ -135,6 +135,7 @@ Volvo XC40 Recharge Single Motor har flere integrerte skjermer. Bak rattet er en
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/screens_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="3000" height="2249"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

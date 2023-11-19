@@ -154,8 +154,7 @@ Hyundai Kona Long Range har doble skjermer på en delt ramme montert med brakett
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/screens_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="1687"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

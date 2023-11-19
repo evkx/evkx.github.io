@@ -155,10 +155,9 @@ The Hongqi E-HS9 Exclusive+ has multiple integrated screens. Behind the steering
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="1800"  >}}
 
+The model is not available with head-up display.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
-
-This model also has an optional gesture control system that lets you control specific features.  
 
 ## Infotainment
 

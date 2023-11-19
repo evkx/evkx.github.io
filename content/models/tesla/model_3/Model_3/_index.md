@@ -149,6 +149,7 @@ The Tesla Model 3 has a single screen. The dashboard’s center has a single [in
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/screens_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

@@ -156,6 +156,7 @@ On top of the dashboard is a shared frame with three screens, and in the center 
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/screens_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="1999"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

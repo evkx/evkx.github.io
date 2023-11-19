@@ -154,12 +154,9 @@ The Renault Scenic E-Tech electric High Range has twin screens on a shared frame
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/screens_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="2001"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
-
-A gesture control system that lets you control specific features using your hands. 
 
 ## Infotainment
 

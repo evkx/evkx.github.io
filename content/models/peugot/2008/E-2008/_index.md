@@ -136,8 +136,7 @@ The  screen behind the steering wheel integrated into the dashboard is 10.3 inch
 
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/screens_1_st.jpg" title="Peugot E-2008" width="3000" height="2000"  >}}
 
-
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

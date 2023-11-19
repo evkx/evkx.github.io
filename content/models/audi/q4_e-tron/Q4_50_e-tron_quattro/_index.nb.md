@@ -179,8 +179,7 @@ Audi Q4 50 e-tron quattro har flere integrerte skjermer. Bak rattet er en [digit
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="1686"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

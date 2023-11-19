@@ -143,6 +143,7 @@ The Polestar 2 Long Range Single Motor has multiple integrated screens. Behind t
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/screens_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

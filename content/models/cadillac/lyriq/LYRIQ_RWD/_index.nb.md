@@ -143,10 +143,9 @@ Cadillac LYRIQ RWD har en enkelt skjerm. Dashboardsenteret har en enkelt [infota
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/screens_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
-
-Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med hendene. 
 
 ## Infotainment
 

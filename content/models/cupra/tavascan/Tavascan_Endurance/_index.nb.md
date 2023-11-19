@@ -148,8 +148,7 @@ CUPRA Tavascan Endurance har to skjermer med informasjon for sjåføren og passa
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/screens_1_st.jpg" title="CUPRA Tavascan Endurance" width="3000" height="1714"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

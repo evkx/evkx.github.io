@@ -172,8 +172,7 @@ The Mercedes-EQ EQA 350 4MATIC has twin screens on a shared frame mounted with b
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2249"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
 

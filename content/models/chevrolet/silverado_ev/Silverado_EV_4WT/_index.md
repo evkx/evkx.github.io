@@ -151,6 +151,7 @@ The Chevrolet Silverado EV 4WT has twin screens on a shared frame mounted with b
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

@@ -143,8 +143,7 @@ Du har trådløs lading for telefonen din.
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/screens_1_st.jpg" title="Zeekr X Privilege AWD" width="2280" height="1282"  >}}
 
-
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

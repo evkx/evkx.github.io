@@ -172,8 +172,7 @@ The Mercedes-Maybach EQS 680 SUV has multiple integrated screens. Behind the ste
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
 

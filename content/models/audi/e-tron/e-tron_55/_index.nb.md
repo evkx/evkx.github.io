@@ -225,8 +225,7 @@ Audi e-tron 55 har flere integrerte skjermer. Bak rattet er en [digital instrume
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55/screens_1_st.jpg" title="Audi e-tron 55" width="3000" height="2000"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

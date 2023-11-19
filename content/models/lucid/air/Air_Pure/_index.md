@@ -150,6 +150,7 @@ On top of the dashboard is a shared frame with three screens, and in the center 
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/screens_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

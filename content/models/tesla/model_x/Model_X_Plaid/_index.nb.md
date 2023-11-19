@@ -155,6 +155,7 @@ Tesla Model X Plaid har doble skjermer med informasjon for fører og passasjerer
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/screens_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

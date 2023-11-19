@@ -165,8 +165,7 @@ Volkswagen ID.5 GTX 4MOTION har to skjermer med informasjon for sjåføren og pa
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/screens_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2206"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

@@ -155,6 +155,7 @@ The Tesla Model X has twin screens with information for the driver and passenger
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/screens_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

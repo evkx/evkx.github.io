@@ -185,6 +185,7 @@ Tesla Model Y Standard Range har en enkelt skjerm. Dashboardsenteret har en enke
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/screens_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="1800"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

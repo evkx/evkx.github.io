@@ -174,8 +174,7 @@ The SKODA Enyaq iV80x has twin screens with information for the driver and passe
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/screens_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

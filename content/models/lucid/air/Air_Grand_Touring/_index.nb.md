@@ -156,6 +156,7 @@ På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen e
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/screens_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="1999"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

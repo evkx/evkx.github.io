@@ -143,6 +143,7 @@ The Volvo C40 Recharge Twin Motor has multiple integrated screens. Behind the st
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/screens_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

@@ -160,6 +160,7 @@ The optional Design layout has the following configuration. Behind the steering 
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1550"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

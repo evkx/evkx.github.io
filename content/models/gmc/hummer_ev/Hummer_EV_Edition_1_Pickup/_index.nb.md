@@ -141,6 +141,7 @@ GMC Hummer EV Edition 1 Pickup har doble skjermer på en delt ramme montert med 
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

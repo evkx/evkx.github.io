@@ -148,8 +148,7 @@ CUPRA BORN 58 e-BOOST har to skjermer med informasjon for sjåføren og passasje
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/screens_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="1714"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

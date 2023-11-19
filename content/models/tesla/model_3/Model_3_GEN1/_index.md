@@ -156,6 +156,7 @@ The Tesla Model 3 (GEN1) has a single screen. The dashboard’s center has a sin
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/screens_2_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

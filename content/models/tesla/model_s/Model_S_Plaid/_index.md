@@ -149,6 +149,7 @@ The Tesla Model S Plaid has twin screens with information for the driver and pas
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/screens_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

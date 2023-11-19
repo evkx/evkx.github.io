@@ -185,8 +185,7 @@ The Mercedes-EQ EQS 580 4MATIC has multiple integrated screens. Behind the steer
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/screens_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1687"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
 

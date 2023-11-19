@@ -229,8 +229,7 @@ Audi e-tron 50 Sportback har flere integrerte skjermer. Bak rattet er en [digita
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50_sportback/screens_1_st.jpg" title="Audi e-tron 50 Sportback" width="3000" height="2001"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

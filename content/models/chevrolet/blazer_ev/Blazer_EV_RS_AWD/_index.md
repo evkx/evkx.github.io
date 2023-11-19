@@ -140,10 +140,9 @@ The Chevrolet Blazer EV RS AWD has twin screens on a shared frame mounted with b
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/screens_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
+The model is not available with head-up display.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
-
-A gesture control system that lets you control specific features using your hands. 
 
 ## Infotainment
 

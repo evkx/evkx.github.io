@@ -160,8 +160,7 @@ Volvo EX90 Twin Motor har flere integrerte skjermer. Bak rattet er en [digital i
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/screens_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
-
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

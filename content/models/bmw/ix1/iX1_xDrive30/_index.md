@@ -172,8 +172,7 @@ The BMW iX1 xDrive30 has twin screens on a shared frame mounted with brackets on
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/screens_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

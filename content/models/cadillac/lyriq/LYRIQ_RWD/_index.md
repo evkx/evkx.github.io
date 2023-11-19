@@ -143,10 +143,9 @@ The Cadillac LYRIQ RWD has a single screen. The dashboard’s center has a singl
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/screens_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
-
-A gesture control system that lets you control specific features using your hands. 
 
 ## Infotainment
 

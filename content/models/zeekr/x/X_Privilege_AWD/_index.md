@@ -143,8 +143,7 @@ The  screen on the steering column  is 8.0 inches large. The touch screen at the
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/screens_1_st.jpg" title="Zeekr X Privilege AWD" width="2280" height="1282"  >}}
 
-
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

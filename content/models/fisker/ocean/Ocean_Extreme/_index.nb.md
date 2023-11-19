@@ -141,6 +141,7 @@ Fisker Ocean Extreme har flere integrerte skjermer. Bak rattet er en [digital in
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/screens_1_st.jpg" title="Fisker Ocean Extreme" width="1920" height="1080"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

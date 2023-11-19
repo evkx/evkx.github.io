@@ -156,6 +156,7 @@ The Tesla Model 3 Performance has a single screen. The dashboard’s center has 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_2_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

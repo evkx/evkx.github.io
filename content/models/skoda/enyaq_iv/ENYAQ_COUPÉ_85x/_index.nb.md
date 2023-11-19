@@ -156,8 +156,7 @@ SKODA ENYAQ COUPÉ 85x har to skjermer med informasjon for sjåføren og passasj
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/screens_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="1999"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

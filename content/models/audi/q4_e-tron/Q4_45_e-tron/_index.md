@@ -179,8 +179,7 @@ The Audi Q4 45 e-tron has multiple integrated screens. Behind the steering wheel
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron/screens_1_st.jpg" title="Audi Q4 45 e-tron" width="3000" height="1686"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

@@ -120,6 +120,7 @@ The Honda e:Ny1 has multiple integrated screens. Behind the steering wheel is a 
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/screens_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

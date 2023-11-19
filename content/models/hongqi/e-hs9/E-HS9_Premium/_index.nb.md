@@ -152,10 +152,9 @@ Hongqi E-HS9 Premium har flere integrerte skjermer. Bak rattet er en [digital in
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/screens_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="1800"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
-
-Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner. 
 
 ## Infotainment
 

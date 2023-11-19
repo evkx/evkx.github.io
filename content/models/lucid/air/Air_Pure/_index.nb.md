@@ -150,6 +150,7 @@ På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen e
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/screens_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

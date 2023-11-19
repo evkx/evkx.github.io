@@ -164,6 +164,7 @@ The Tesla Model Y Performance has a single screen. The dashboard’s center has 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/screens_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="1800"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

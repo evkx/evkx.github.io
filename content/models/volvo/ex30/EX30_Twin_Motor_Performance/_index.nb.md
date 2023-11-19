@@ -138,11 +138,12 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Volvo EX30 Twin Motor Performance har flere integrerte skjermer. touch-skjermen øverst på midtkonsollen er 12.3 tommer stor. 
+Volvo EX30 Twin Motor Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum  er 12.3 tommer stor. 
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/screens_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2776"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

@@ -174,8 +174,7 @@ Mercedes-EQ EQB 300 4MATIC har doble skjermer på en delt ramme montert med brak
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/screens_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1686"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
 

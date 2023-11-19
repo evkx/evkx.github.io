@@ -143,10 +143,9 @@ The  screen behind the steering wheel mounted into the dashboard is 7.0 inches l
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/screens_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
+The model is not available with head-up display.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
-
-A gesture control system that lets you control specific features using your hands. 
 
 ## Infotainment
 

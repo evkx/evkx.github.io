@@ -135,6 +135,7 @@ The Volvo XC40 Recharge Single Motor ER has multiple integrated screens. Behind 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/screens_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="3000" height="2249"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

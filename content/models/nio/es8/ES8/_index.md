@@ -178,12 +178,9 @@ The  screen behind the steering wheel mounted into the dashboard is 9.8 inches l
 
 {{< sitefiguresized thumb="models/nio/es8/es8/screens_1_st.jpg" title="Nio ES8" width="3000" height="1659"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
-
-This model also has an optional gesture control system that lets you control specific features.  
 
 ## Infotainment
 

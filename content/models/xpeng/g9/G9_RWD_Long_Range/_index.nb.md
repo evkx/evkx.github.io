@@ -160,10 +160,9 @@ XPENG G9 RWD Long Range har doble skjermer på en delt ramme montert med brakett
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/screens_1_st.jpg" title="XPENG G9 RWD Long Range" width="3000" height="2002"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
-
-Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med hendene. 
 
 ## Infotainment
 

@@ -164,6 +164,7 @@ Tesla Model Y Performance har en enkelt skjerm. Dashboardsenteret har en enkelt 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/screens_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="1800"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

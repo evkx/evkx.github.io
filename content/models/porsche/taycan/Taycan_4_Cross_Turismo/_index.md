@@ -195,8 +195,7 @@ The Porsche Taycan 4 Cross Turismo has multiple integrated screens. Behind the s
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/screens_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="1854"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

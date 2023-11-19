@@ -189,8 +189,7 @@ Det valgfrie MBUX Hyperscreen-oppsettet har følgende konfigurasjon. Bak rattet 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/screens_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="1875"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
 

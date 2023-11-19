@@ -154,8 +154,7 @@ Hyundai Kona Standard Range har doble skjermer på en delt ramme montert med bra
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/screens_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="1687"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

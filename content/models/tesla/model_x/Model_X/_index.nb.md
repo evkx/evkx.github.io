@@ -155,6 +155,7 @@ Tesla Model X har doble skjermer med informasjon for fører og passasjerer og en
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/screens_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

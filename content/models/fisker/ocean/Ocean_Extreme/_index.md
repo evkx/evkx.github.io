@@ -141,6 +141,7 @@ The Fisker Ocean Extreme has multiple integrated screens. Behind the steering wh
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/screens_1_st.jpg" title="Fisker Ocean Extreme" width="1920" height="1080"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

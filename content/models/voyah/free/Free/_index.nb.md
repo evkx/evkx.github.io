@@ -136,6 +136,7 @@ VOYAH FREE har flere integrerte skjermer. Bak rattet er en [digital instrumentkl
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

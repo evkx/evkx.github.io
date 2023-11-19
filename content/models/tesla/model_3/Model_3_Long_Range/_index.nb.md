@@ -149,6 +149,7 @@ Tesla Model 3 Long Range har en enkelt skjerm. Dashboardsenteret har en enkelt [
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

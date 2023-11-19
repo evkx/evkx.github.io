@@ -225,8 +225,7 @@ The Audi e-tron 55 has multiple integrated screens. Behind the steering wheel is
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55/screens_1_st.jpg" title="Audi e-tron 55" width="3000" height="2000"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

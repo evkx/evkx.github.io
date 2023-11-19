@@ -152,6 +152,7 @@ The  screen behind the steering wheel mounted into the dashboard is 10.2 inches 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/screens_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

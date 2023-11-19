@@ -145,6 +145,7 @@ The Citroën ë-C3 has multiple integrated screens. Behind the steering wheel is
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

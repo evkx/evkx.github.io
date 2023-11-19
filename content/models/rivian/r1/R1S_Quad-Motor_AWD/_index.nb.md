@@ -155,10 +155,9 @@ Rivian R1S Quad-Motor AWD har flere integrerte skjermer. Bak rattet er en [digit
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="1600" height="1067"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
-
-Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med hendene. 
 
 ## Infotainment
 

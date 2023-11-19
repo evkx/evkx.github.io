@@ -185,8 +185,7 @@ Audi Q4 40 e-tron har flere integrerte skjermer. Bak rattet er en [digital instr
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/screens_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="1686"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

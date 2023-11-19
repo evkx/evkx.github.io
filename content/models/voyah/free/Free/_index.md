@@ -136,6 +136,7 @@ The VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

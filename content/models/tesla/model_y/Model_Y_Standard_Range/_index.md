@@ -185,6 +185,7 @@ The Tesla Model Y Standard Range has a single screen. The dashboard’s center h
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/screens_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="1800"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

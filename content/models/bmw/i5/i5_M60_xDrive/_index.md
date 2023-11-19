@@ -176,8 +176,7 @@ The BMW i5 M60 xDrive has twin screens on a shared frame mounted with brackets o
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/screens_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="1999"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
 

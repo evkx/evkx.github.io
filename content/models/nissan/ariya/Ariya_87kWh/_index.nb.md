@@ -146,12 +146,9 @@ Nissan Ariya 87kWh har doble skjermer på en delt ramme montert med braketter p�
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh/screens_1_st.jpg" title="Nissan Ariya 87kWh" width="3000" height="1999"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
-
-Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med hendene. 
 
 ## Infotainment
 

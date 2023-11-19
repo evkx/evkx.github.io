@@ -168,6 +168,7 @@ touch-skjermen bak rattet på tvers av midten av dashbordet er 34.0 tommer stor.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/screens_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

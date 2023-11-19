@@ -149,6 +149,7 @@ The Tesla Model S Standard Range has twin screens with information for the drive
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/screens_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

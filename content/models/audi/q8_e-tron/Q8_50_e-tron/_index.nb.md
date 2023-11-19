@@ -223,8 +223,7 @@ Audi Q8 50 e-tron har flere integrerte skjermer. Bak rattet er en [digital instr
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_50_e-tron/screens_1_st.jpg" title="Audi Q8 50 e-tron" width="3000" height="2249"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

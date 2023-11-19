@@ -145,12 +145,9 @@ The Zeekr 001 Privilege AWD has multiple integrated screens. Behind the steering
 
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/screens_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2000"  >}}
 
-
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
-
-A gesture control system that lets you control specific features using your hands. 
 
 ## Infotainment
 

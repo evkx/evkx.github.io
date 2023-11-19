@@ -155,10 +155,9 @@ The Rivian R1S Performance Dual-Motor AWD LP has multiple integrated screens. Be
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/screens_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="1600" height="1067"  >}}
 
+The model is not available with head-up display.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
-
-A gesture control system that lets you control specific features using your hands. 
 
 ## Infotainment
 

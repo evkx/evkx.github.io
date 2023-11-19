@@ -138,11 +138,12 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Volvo EX30 Single Motor has multiple integrated screens. The touch screen at the top of the center console is 12.3 inches large. 
+The Volvo EX30 Single Motor has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 12.3 inches large. 
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/screens_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2776"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

@@ -148,8 +148,7 @@ The CUPRA BORN 77 e-BOOST has twin screens with information for the driver and p
 
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/screens_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="1714"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

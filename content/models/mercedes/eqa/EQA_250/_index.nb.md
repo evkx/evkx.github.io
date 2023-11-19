@@ -168,8 +168,7 @@ Mercedes-EQ EQA 250 har doble skjermer på en delt ramme montert med braketter p
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/screens_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
 

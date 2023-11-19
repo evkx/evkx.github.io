@@ -160,6 +160,7 @@ Det valgfrie Design-oppsettet har følgende konfigurasjon. Bak rattet er en [dig
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1550"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

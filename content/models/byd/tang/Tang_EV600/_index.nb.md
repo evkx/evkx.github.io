@@ -159,6 +159,7 @@ BYD Tang EV600 har doble skjermer på en delt ramme montert med braketter på da
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/screens_1_st.jpg" title="BYD Tang EV600" width="1920" height="1079"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

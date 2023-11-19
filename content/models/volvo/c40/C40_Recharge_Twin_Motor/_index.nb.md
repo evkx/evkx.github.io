@@ -143,6 +143,7 @@ Volvo C40 Recharge Twin Motor har flere integrerte skjermer. Bak rattet er en [d
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/screens_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

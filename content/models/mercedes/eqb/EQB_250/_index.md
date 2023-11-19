@@ -174,8 +174,7 @@ The Mercedes-EQ EQB 250 has twin screens on a shared frame mounted with brackets
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/screens_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1686"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
 

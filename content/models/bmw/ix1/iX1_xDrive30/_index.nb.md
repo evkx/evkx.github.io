@@ -172,8 +172,7 @@ BMW iX1 xDrive30 har doble skjermer på en delt ramme montert med braketter på 
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/screens_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

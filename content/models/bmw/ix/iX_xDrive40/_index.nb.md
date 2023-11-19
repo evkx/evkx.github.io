@@ -158,8 +158,7 @@ BMW iX xDrive40 har doble skjermer på en delt ramme montert med braketter på d
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/screens_1_st.jpg" title="BMW iX xDrive40" width="3000" height="2250"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

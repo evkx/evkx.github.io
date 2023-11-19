@@ -160,6 +160,7 @@ The optional Design layout has the following configuration. Behind the steering 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/screens_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

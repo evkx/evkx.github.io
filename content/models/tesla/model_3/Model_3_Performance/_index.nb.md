@@ -156,6 +156,7 @@ Tesla Model 3 Performance har en enkelt skjerm. Dashboardsenteret har en enkelt 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_2_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

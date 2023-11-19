@@ -149,6 +149,7 @@ The Tesla Model 3 Long Range has a single screen. The dashboard’s center has a
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

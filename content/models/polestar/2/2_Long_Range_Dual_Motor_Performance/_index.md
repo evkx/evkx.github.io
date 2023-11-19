@@ -147,6 +147,7 @@ The Polestar 2 Long Range Dual Motor Performance has multiple integrated screens
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

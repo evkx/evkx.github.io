@@ -161,6 +161,7 @@ The BYD Han has twin screens on a shared frame mounted with brackets on the dash
 
 {{< sitefiguresized thumb="models/byd/han/han/screens_1_st.jpg" title="BYD Han" width="1920" height="1059"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

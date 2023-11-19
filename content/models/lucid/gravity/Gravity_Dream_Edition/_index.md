@@ -168,6 +168,7 @@ The touch screen behind the steering wheel accross the the center of the dash  i
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/screens_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

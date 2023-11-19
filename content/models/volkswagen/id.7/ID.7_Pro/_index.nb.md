@@ -172,8 +172,7 @@ Volkswagen ID.7 Pro har to skjermer med informasjon for sjåføren og passasjere
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/screens_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

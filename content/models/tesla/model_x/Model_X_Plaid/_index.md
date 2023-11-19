@@ -155,6 +155,7 @@ The Tesla Model X Plaid has twin screens with information for the driver and pas
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/screens_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 

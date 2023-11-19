@@ -157,12 +157,9 @@ The  screen behind the steering wheel integrated into the dashboard is 12.3 inch
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/screens_1_st.jpg" title="Lotus Eletre" width="3000" height="1919"  >}}
 
-
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
-
-A gesture control system that lets you control specific features using your hands. 
 
 ## Infotainment
 

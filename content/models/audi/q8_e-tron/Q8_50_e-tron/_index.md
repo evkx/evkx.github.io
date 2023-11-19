@@ -223,8 +223,7 @@ The Audi Q8 50 e-tron has multiple integrated screens. Behind the steering wheel
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_50_e-tron/screens_1_st.jpg" title="Audi Q8 50 e-tron" width="3000" height="2249"  >}}
 
-
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield. 
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 ## Infotainment
 

@@ -195,8 +195,7 @@ Porsche Taycan Turbo Sport Turismo har flere integrerte skjermer. Bak rattet er 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2001"  >}}
 
-
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten. 
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
 

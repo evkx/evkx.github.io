@@ -152,6 +152,7 @@ Du har trådløs lading for telefonen din.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/screens_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="2000"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

@@ -145,6 +145,7 @@ Det valgfrie -oppsettet har følgende konfigurasjon. -skjermen bak rattet integr
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/screens_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
+Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 

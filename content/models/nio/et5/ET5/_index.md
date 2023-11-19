@@ -168,10 +168,9 @@ The  screen behind the steering wheel mounted into the dashboard is 10.2 inches 
 
 {{< sitefiguresized thumb="models/nio/et5/et5/screens_1_st.jpg" title="Nio ET5" width="3000" height="1690"  >}}
 
+The model is not available with head-up display.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands. 
-
-This model also has an optional gesture control system that lets you control specific features.  
 
 ## Infotainment
 

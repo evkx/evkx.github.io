@@ -145,6 +145,7 @@ The optional  layout has the following configuration. The  screen behind the ste
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/screens_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
+The model is not available with head-up display.
 
 ## Infotainment
 
