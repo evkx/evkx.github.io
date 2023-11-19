@@ -15,7 +15,7 @@ Modellene som er tilgjengelige i dag (sommeren 2023) har en rangert rekkevidde m
 Det mest kritiske aspektet ved rekkevidde er hvor stort batteriet er. Et større batteri betyr mer energi å bruke.
 
 Dagens modell har en batteristørrelse på mellom ca. 40kWh og 230kWh, hvor de fleste er 60-100kWh.
-Tabellen nedenfor viser den brukbare batteristørrelsen til noen av de mest populære modellene.
+Tabellen nedenfor viser den tilgjengelige batteristørrelsen til noen av de mest populære modellene.
 
 <table class="table table-striped">
 <thead>
@@ -24,7 +24,7 @@ Tabellen nedenfor viser den brukbare batteristørrelsen til noen av de mest popu
             Model
         </th>
         <th>
-           Brukbar batteristørrelse (nettostørrelse)
+           Tilgjengelige batteristørrelse (nettostørrelse)
         </th>
     </tr>
 </thead>
@@ -101,10 +101,11 @@ Tabellen nedenfor viser den brukbare batteristørrelsen til noen av de mest popu
 </tbody>
 
 </table>
+
 Du kan se alle modellene [sortert på nettbatteristørrelse](/evsearch/?sortOrder=NetBattery) i vår EV-database.
 
 Men batteriet er ikke den eneste faktoren i den oppgitte rekkevidden. En annen kritisk faktor er hvor effektiv bilen er.
-Og med effektivitet betyr det hvor mye energi elbilen bruker fra batteriet for en gitt avstand. Det er typisk oppgitt i Europa som kWh/100km, som indikerer hvor mange kWh som trengs for å kjøre 100km. I USA og Storbritannia er den vurdert som miles per kWh, som betyr en beregning av hvor langt du kan gå med 1 kWh.
+Og med effektivitet betyr det hvor mye energi elbilen bruker fra batteriet for en gitt avstand. Det er typisk oppgitt i Europa som kWh/100km, som indikerer hvor mange kWh som trengs for å kjøre 100km. I USA og Storbritannia er den vurdert som miles per kWh, som betyr en beregning av hvor langt du kan kjøre med 1 kWh.
 
 Tabellen nedenfor viser beregnet kWh/100 km-forbruk og miles/kWh for forskjellige elbiler i henhold til WLTP-kombinasjonen.
 
@@ -115,7 +116,7 @@ Tabellen nedenfor viser beregnet kWh/100 km-forbruk og miles/kWh for forskjellig
             Model
         </th>
         <th>
-           WLTP Consumption
+           WLTP forbruk
         </th>
     </tr>
 </thead>

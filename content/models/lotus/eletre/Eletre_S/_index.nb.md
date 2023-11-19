@@ -78,6 +78,8 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. exterior.roof.optional.panoramic.FullFixed.ElectrochromicMultipleLevels
 
+Du kan bestille bilen med tonede vinduer fra B-stolpen og bak. 
+
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/exterior_1_st.jpg" title="Lotus Eletre S" width="3000" height="1790"  >}}
 

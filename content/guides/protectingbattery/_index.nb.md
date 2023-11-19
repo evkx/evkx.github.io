@@ -1,15 +1,15 @@
 ---
 title: Hvordan beskytter jeg batteriet på elbilen min?
-linktitle: Beskytter batteriet
-description: EV-batterier brytes ned over tid, men det er mange ting du kan gjøre for å få dem til å beholde kapasiteten lenger.
+linktitle: Beskytte batteriet
+description: Elbilbatterier degraderes over tid, men det er mange ting du kan gjøre for å få dem til å beholde kapasiteten lenger.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
-Mange faktorer øker nedbrytningen, men følgende er de viktigste faktorene.
+Mange faktorer øker degraderingen, men følgende er de viktigste faktorene.
 
-### Høyhastighetslading
+### Lynlading
 
-Høyhastighetslading er den enkeltfaktoren som øker degraderingen mest.
+Lynlading er den enkeltfaktoren som øker degraderingen mest.
 
 Du bør prøve å lade hjemme så mye som mulig.
 
@@ -20,7 +20,7 @@ Men mange tror at denne bufferen beskytter den mot lading til 100 %. Men i de fl
 
 {{< sitefiguresized thumb="guides/protectingbattery/buffersize_st.png" width="1232" height="844" title="Bufferstørrelse" >}}
 
-De fleste EV-merker anbefaler å ikke lade mer enn 80 % på daglig basis. Dette er vist i MMI og brukerhåndboken.
+De fleste elbilprodusenter anbefaler å ikke lade mer enn 80 % på daglig basis. Dette er vist i MMI og brukerhåndboken.
 
 {{< sitefiguresized thumb="guides/protectingbattery/chargingtarget_st.png" width="959" height="478" title="Bufferstørrelse" >}}
 
