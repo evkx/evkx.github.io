@@ -12,6 +12,7 @@
         {{end}}
         <link rel="shortcut icon" href="{{"images/favicon.png" | relURL}}" type="image/x-icon" />
         <link href="{{"css/bootstrap.min.css" | relURL}}" rel="stylesheet">
+        <link href="{{"css/bootstrap-icons.css" | relURL}}" rel="stylesheet">
         <link rel="preconnect" href='https://rsms.me/'>
         <link rel="stylesheet" href='https://rsms.me/inter/inter.css'>
         
@@ -34,21 +35,8 @@
     <div class="container" id="root"></div>
     <script type="module" src="/public/assets/entrypoint.js"></script>
   </main>
-    <footer class="container bg-dark">          
-      <ul class="nav justify-content-center">
-        <li class="nav-item">
-          <a class="nav-link" href="https://www.facebook.com/evkx.net">Facebook</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://www.youtube.com/channel/UCQ1Q_faRR0AF0gAZABvcKFw">Youtube</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://www.instagram.com/evkxnet/">Instagram</a>
-        </li>
-      </ul>
-      <a class="navbar-brand" href="/">
-        <img class="img-fluid mx-auto d-block" src="/images/evkxblacktrans_m.png" alt="EVKX logo">
-      </a>
+  <footer class="container bg-dark">          
+    {{ partial "footercontent.html" . }}
   </footer>
 <script src="/js/bootstrap.bundle.min.js"></script>
 </body>
