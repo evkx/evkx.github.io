@@ -31,5 +31,8 @@ If you need to transport extra gear or luggage with your vehicle, but you don't 
 
 [Read all about it.](hitchcargo/)
 
-
 ### Towing
+
+Electric vehicles (EVs) are becoming more popular and practical for various purposes, including towing. However, many people may have questions or concerns about the performance, range, and cargo space of EVs when towing a trailer. 
+
+[Read all about it.](towing/)
