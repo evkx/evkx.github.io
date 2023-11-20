@@ -1,7 +1,7 @@
 ---
-title: WLTP Range testing
+title: WLTP rekkevidde testing
 linktitle: WLTP
-description: Den verdensomspennende harmoniserte testprosedyren for lette kjøretøy (WLTP) er en global standard for å bestemme rekkevidden til elektriske kjøretøy.
+description: Worldwide Harmonized Light Vehicles (WLTP) er en global standard for å bestemme rekkevidden til elektriske kjøretøy.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,152 +16,154 @@ Kort sagt, den nye WLTP-prosedyren er avhengig av de nye kjøresyklusene (WLTC �
 
 WLTP-syklusen har fire underdeler, hver med forskjellig maksimal hastighet. Den totale testsyklustiden er 30 minutter (1800 sekunder).
 
-<table class="table">
-    <thead>
-        <tr>
-         <th>#
-         </th>
-         <th>City
-         </th>
-         <th>Suburban
-         </th>
-         <th>Rural
-         </th>
-         <th>Highway
-         </th>
-         <th>Total
-         </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Duration, Seconds 
-            </td>
-            <td>589
-            </td>
-            <td>483
-            </td>
-            <td>455
-            </td>
-            <td>323
-            </td>
-            <td>1800
-            </td>
-        </tr>
-        <tr>
-            <td>Stop, seconds
-            </td>
-            <td>150
-            </td>
-            <td>49
-            </td>
-            <td>31
-            </td>
-            <td>8
-            </td>
-            <td>235
-            </td>
-        </tr>
-        <tr>
-            <td>Distance in meter
-            </td>
-            <td>3095
-            </td>
-            <td>4756
-            </td>
-            <td>7162
-            </td>
-            <td>8254
-            </td>
-            <td>23266
-            </td>
-        </tr>
-             <tr>
-            <td>Percent stop
-            </td>
-            <td>26.5% 
-            </td>
-            <td>11.1%
-            </td>
-            <td>6.8%
-            </td>
-            <td>2.2%
-            </td>
-            <td>13.5% 
-            </td>
-        </tr>
-             <tr>
-            <td>Max speed
-            </td>
-            <td>56.5
-            </td>
-            <td>76.6
-            </td>
-            <td> 97.4
-            </td>
-            <td>131.3
-            </td>
-            <td>
-            </td>
-        </tr>
-             <tr>
-            <td>Average speed w/o stop
-            </td>
-            <td>25.3
-            </td>
-            <td>44.5
-            </td>
-            <td>60.7
-            </td>
-            <td>94
-            </td>
-            <td>53.5
-            </td>
-        </tr>
-             <tr>
-            <td>Avg speed w stop
-            </td>
-            <td>18.9
-            </td>
-            <td>39.4
-            </td>
-            <td>56.5
-            </td>
-            <td>91.7
-            </td>
-            <td>46.5
-            </td>
-        </tr>
-        <tr>
-            <td>Min acceleration  m/s^2
-            </td>
-            <td>-1.5 
-            </td>
-            <td>-1.5
-            </td>
-            <td>-1.5
-            </td>
-            <td>- 1.44
-            </td>
-            <td>
-            </td>
-        </tr>
-        <tr>
-            <td>Max acceleration  m/s^2
-            </td>
-            <td>1.611
-            </td>
-            <td>1.611
-            </td>
-            <td>1.666
-            </td>
-            <td>1.055
-            </td>
-            <td>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<div class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+            <th>#
+            </th>
+            <th>City
+            </th>
+            <th>Suburban
+            </th>
+            <th>Rural
+            </th>
+            <th>Highway
+            </th>
+            <th>Total
+            </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Duration, Seconds 
+                </td>
+                <td>589
+                </td>
+                <td>483
+                </td>
+                <td>455
+                </td>
+                <td>323
+                </td>
+                <td>1800
+                </td>
+            </tr>
+            <tr>
+                <td>Stop, seconds
+                </td>
+                <td>150
+                </td>
+                <td>49
+                </td>
+                <td>31
+                </td>
+                <td>8
+                </td>
+                <td>235
+                </td>
+            </tr>
+            <tr>
+                <td>Distance in meter
+                </td>
+                <td>3095
+                </td>
+                <td>4756
+                </td>
+                <td>7162
+                </td>
+                <td>8254
+                </td>
+                <td>23266
+                </td>
+            </tr>
+                <tr>
+                <td>Percent stop
+                </td>
+                <td>26.5% 
+                </td>
+                <td>11.1%
+                </td>
+                <td>6.8%
+                </td>
+                <td>2.2%
+                </td>
+                <td>13.5% 
+                </td>
+            </tr>
+                <tr>
+                <td>Max speed
+                </td>
+                <td>56.5
+                </td>
+                <td>76.6
+                </td>
+                <td> 97.4
+                </td>
+                <td>131.3
+                </td>
+                <td>
+                </td>
+            </tr>
+                <tr>
+                <td>Average speed w/o stop
+                </td>
+                <td>25.3
+                </td>
+                <td>44.5
+                </td>
+                <td>60.7
+                </td>
+                <td>94
+                </td>
+                <td>53.5
+                </td>
+            </tr>
+                <tr>
+                <td>Avg speed w stop
+                </td>
+                <td>18.9
+                </td>
+                <td>39.4
+                </td>
+                <td>56.5
+                </td>
+                <td>91.7
+                </td>
+                <td>46.5
+                </td>
+            </tr>
+            <tr>
+                <td>Min acceleration  m/s^2
+                </td>
+                <td>-1.5 
+                </td>
+                <td>-1.5
+                </td>
+                <td>-1.5
+                </td>
+                <td>- 1.44
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
+                <td>Max acceleration  m/s^2
+                </td>
+                <td>1.611
+                </td>
+                <td>1.611
+                </td>
+                <td>1.666
+                </td>
+                <td>1.055
+                </td>
+                <td>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 Grafen nedenfor viser hastigheten for de forskjellige syklusene.
 

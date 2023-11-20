@@ -16,7 +16,8 @@ In short, the new WLTP procedure relies on the new driving cycles (WLTC – Worl
 
 The WLTP cycle has four sub-parts, each with a different maximum speed. The total test cycle time is 30 minutes (1800 seconds).
 
-<table class="table">
+<div class="table-responsive">
+<table class="table table-striped">
     <thead>
         <tr>
          <th>#
@@ -162,6 +163,7 @@ The WLTP cycle has four sub-parts, each with a different maximum speed. The tota
         </tr>
     </tbody>
 </table>
+</div>
 
 The below graph shows the speed for the different cycles.
 

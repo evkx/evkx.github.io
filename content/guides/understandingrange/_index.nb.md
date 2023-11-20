@@ -5,7 +5,7 @@ description: For mange er rekkevidden det mest kritiske aspektet ved en elbil. I
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
-Rekkevidden av elektriske biler er vanligvis gitt som en [WLTP range](wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) i
+Rekkevidden av elektriske biler er vanligvis gitt som en [WLTP rekkevidde](wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) i
 Europa, [EPA](epa/) i USA og CLTC i Kina.
 
 Modellene som er tilgjengelige i dag (sommeren 2023) har en rangert rekkevidde mellom ca. 200 km og 900 km.
@@ -282,6 +282,7 @@ Grafen nedenfor viser hvor mye aerodynamisk luftmotstandsforbruk forårsaker for
 
 Tabellen nedenfor viser aerodynamisk luftmotstandsforbruk på tre forskjellige Audi-modeller og Mercedes EQS.
 
+<div class="table-responsive">
 <table class="table table-striped">
 <thead>
     <tr>
@@ -342,6 +343,8 @@ Tabellen nedenfor viser aerodynamisk luftmotstandsforbruk på tre forskjellige A
 </tr>
 </tbody>
 </table>
+</div>
+
 Du ser hvordan Mercedes EQS sparer mye energi ved høy hastighet sammenlignet med SUV-en på grunn av mindre aerodynamisk luftmotstand.
 
 Mercedes har fokusert på lavt aerodynamisk luftmotstand. Men det har ulemper siden mange klager på EQS-design.

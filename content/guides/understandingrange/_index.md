@@ -283,6 +283,7 @@ The graph below shows how much aerodynamic drag consumption causes for the diffe
 
 The table below shows aerodynamic drag consumption on three different Audi models and Mercedes EQS.
 
+<div class="table-responsive">
 <table class="table table-striped">
 <thead>
     <tr>
@@ -343,6 +344,7 @@ The table below shows aerodynamic drag consumption on three different Audi model
 </tr>
 </tbody>
 </table>
+</div>
 
 You see how the Mercedes EQS saves a lot of energy at high speed compared to the SUV because of less aerodynamic drag.
 
