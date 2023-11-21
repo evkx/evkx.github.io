@@ -157,7 +157,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tbody>
 <tr><td>Lane keeping</td><td>Yes, standard equipment</td></tr>
 <tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
-<tr><td>Drowsiness Alert</td><td></td></tr>
+<tr><td>Drowsiness Alert</td><td>Yes, standard equipment</td></tr>
 <tr><td>Reversing camera</td><td>Yes, standard equipment</td></tr>
 <tr><td>360 camera</td><td>Yes (Surround View Monitor), optional equipment</td></tr>
 <tr><td>Rear cross traffic alert</td><td>Yes, standard equipment</td></tr>

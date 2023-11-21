@@ -157,7 +157,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tbody>
 <tr><td>Lane keeping</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Døsighetsvarsel</td><td></td></tr>
+<tr><td>Døsighetsvarsel</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Bryggekamera</td><td>Ja, standardutstyr</td></tr>
 <tr><td>360-kamera</td><td>Ja (Surround View Monitor), tileggsutstyr</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td>Ja, standardutstyr</td></tr>
