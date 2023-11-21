@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### It's Only Electric: Tesla Model 3 Highland - Biggest update yet, should you switch? 21.11.2023
+
+{{< youtube K-WF9xw5buY >}}
+
 ### Autogefühl: 2024 Tesla Model 3 Highland driving REVIEW 27.10.2023
 
 {{< youtube AKJwinM__nU >}}
