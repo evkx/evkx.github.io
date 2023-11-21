@@ -162,7 +162,7 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Hyundai Kona Standard Range Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
-Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard. 
+Modellen har 4 USB-C-tilkoblinger som standard. 
 ## Lys
 
 Standardlyktene bruker LED-teknologi.  I tillegg bruker standard baklykter LED-teknologi. 

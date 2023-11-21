@@ -22,7 +22,7 @@ Interior cargo is more secure and safe than exterior cargo, as it is less visibl
 
 Interior cargo is more accessible and convenient than exterior cargo, as it does not require climbing onto the roof or reaching behind the car to load or unload the items. Interior cargo can also be accessed from inside the car through the rear seats or the rear doors, which can be useful in tight parking spaces or bad weather conditions.
 
-### Fuel economy. 
+### Fuel economy
 
 Interior cargo has less impact on the car's fuel economy than exterior cargo, as it does not affect the car's aerodynamics or wind resistance. Exterior cargo carriers, especially roof cargo carriers, can increase the car's drag and reduce its fuel efficiency by up to 25%https://cars.usnews.com/cars-trucks/toyota/camry/2021/interior. Interior cargo can also lower the car's center of gravity and improve its stability and handling.
 
@@ -30,13 +30,19 @@ Interior cargo has less impact on the car's fuel economy than exterior cargo, as
 
 Interior cargo is not without its drawbacks, however. Some of the limitations and challenges of using the interior cargo space of the car are:
 
-•  Capacity. Interior cargo has a limited capacity that cannot be exceeded without compromising the car's performance, safety, or legality. Interior cargo cannot exceed the car's maximum payload, which is the total weight of the passengers and the cargo that the car can carry. Interior cargo also cannot exceed the car's maximum volume, which is the total space available inside the car for the cargo. Interior cargo also cannot obstruct the driver's view or interfere with the car's lights or signals.
+### Capacity
 
-•  Compatibility. Interior cargo may not be compatible with all types of items that the owner may want to store or transport. Interior cargo may not be able to accommodate large, bulky, or irregular items that do not fit inside the car or that may damage the car's interior. Interior cargo may also not be suitable for items that are dirty, wet, or smelly, as they may stain, damage, or contaminate the car's interior.
+Interior cargo has a limited capacity that cannot be exceeded without compromising the car's performance, safety, or legality. Interior cargo cannot exceed the car's maximum payload, which is the total weight of the passengers and the cargo that the car can carry. Interior cargo also cannot exceed the car's maximum volume, which is the total space available inside the car for the cargo. Interior cargo also cannot obstruct the driver's view or interfere with the car's lights or signals.
 
-•  Comfort. Interior cargo may reduce the comfort and convenience of the passengers and the driver, as it may take up some of the space that would otherwise be used for seating, legroom, or storage. Interior cargo may also create noise, vibration, or odor that may disturb the passengers and the driver. Interior cargo may also affect the car's climate control system, as it may block the air vents or the windows.
+### Compatibility
 
-Tips for Using Interior Cargo
+Interior cargo may not be compatible with all types of items that the owner may want to store or transport. Interior cargo may not be able to accommodate large, bulky, or irregular items that do not fit inside the car or that may damage the car's interior. Interior cargo may also not be suitable for items that are dirty, wet, or smelly, as they may stain, damage, or contaminate the car's interior.
+
+### Comfort
+
+Interior cargo may reduce the comfort and convenience of the passengers and the driver, as it may take up some of the space that would otherwise be used for seating, legroom, or storage. Interior cargo may also create noise, vibration, or odor that may disturb the passengers and the driver. Interior cargo may also affect the car's climate control system, as it may block the air vents or the windows.
+
+## Tips for Using Interior Cargo
 
 To use the interior cargo space of the car effectively, here are some tips that may help:
 

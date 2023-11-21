@@ -12,6 +12,10 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube qBBBgeqwkSA >}}
 
+### Bjørn Nyland: Hyundai Kona MY2024 interior review 21.11.2023
+
+{{< youtube E6liBvdJXrM >}}
+
 ### Bjørn Nyland: Hyundai Kona MY2024 1000 km challenge 20.11.2023
 
 {{< youtube VxeRwYcO5wM >}}

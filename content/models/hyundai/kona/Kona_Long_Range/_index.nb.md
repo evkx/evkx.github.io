@@ -162,7 +162,7 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Hyundai Kona Long Range Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
-Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard. 
+Modellen har 4 USB-C-tilkoblinger som standard. 
 ## Lys
 
 Standardlyktene bruker LED-teknologi.  I tillegg bruker standard baklykter LED-teknologi. 
@@ -212,7 +212,7 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 466 liter. Med baksetet nede er det 1578 liter. På taket kan du laste opptil 100kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 27 liter. Maksimumsvekten til bilen er 2220kg, og med basisvekten på 1723 kg kan du maksimalt laste 497 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 466 liter. Med baksetet nede er det 1578 liter. På taket kan du laste opptil 100kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 27 liter. Maksimumsvekten til bilen er 2220kg, og med basisvekten på 1760 kg kan du maksimalt laste 460 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750kg. 
 
