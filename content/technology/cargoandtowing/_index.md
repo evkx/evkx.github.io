@@ -23,11 +23,12 @@ Cars are not only meant for transporting people, but also for carrying various k
 
 Electric vehicles (EVs) are becoming more popular and practical for various purposes, including transporting and storing cargo. One of the features that distinguishes EVs from conventional vehicles is the frunk, or the front trunk.
 
-
+[Read all about it.](frunkcargo/)
 
 
 ### Roof Cargo
 
+One possible solution is to use roof cargo, such as racks or boxes, to increase the storage capacity of EVs. Roof cargo can be useful for transporting items that are bulky, heavy, or irregularly shaped, such as skis, bikes, kayaks, or tents. However, roof cargo also has some drawbacks and limitations that EV owners should be aware of before installing them on their vehicles.
 
 [Read all about it.](roofcargo/)
 

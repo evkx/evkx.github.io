@@ -1,53 +1,49 @@
 ---
-title:  Interior Cargo
-linktitle: Interior Cargo
-description: Cars are not only meant for transporting people, but also for carrying various kinds of cargo, such as groceries, luggage, pets, or sports equipment.
+title:  Roof Cargo
+linktitle: Roof Cargo
+description:  One possible solution is to use roof cargo, such as racks or boxes, to increase the storage capacity of EVs. Roof cargo can be useful for transporting items that are bulky, heavy, or irregularly shaped, such as skis, bikes, kayaks, or tents. However, roof cargo also has some drawbacks and limitations that EV owners should be aware of before installing them on their vehicles.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-However, not all cars have enough space inside to accommodate all the items that the owner may want to store or transport. That is why some car owners resort to other options, such as roof cargo carriers or hitch cargo carriers, to increase their cargo capacity. But are these options better than using the interior cargo space of the car? What are the benefits and drawbacks of having the cargo inside the car? How can the interior cargo space be maximized and secured? This article will try to answer these questions and provide some tips for using the interior cargo space of the car effectively.
+In this article, we will explore some of the factors that affect the performance and feasibility of roof cargo on EVs, and provide some tips and recommendations for choosing and using them.
 
-## Benefits of Interior Cargo
+{{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_1.jpeg" title="Lucid Gravity with surfboard on roof rack" width="3000" height="2250">}}
 
-Interior cargo refers to the cargo space that is enclosed and protected by the car's body and windows. Interior cargo can vary depending on the model and the configuration of the car, but some cars have impressive interior cargo capacities that can rival or surpass those of exterior cargo carriers. For example, the Tesla Model 3 has a rear trunk with 15 cubic feet of storage and a front trunk with 2.7 cubic feet of space. When the rear seats are folded, the interior cargo capacity expands to 43 cubic feethttps://www.cars.com/articles/which-suvs-minivans-and-sedans-have-the-most-cargo-capacity-439514/. The Honda Civic Hatchback has a rear trunk with 25.7 cubic feet of storage and a 60/40 split-folding rear seat. When the rear seats are folded, the interior cargo capacity expands to 46.2 cubic feethttps://www.consumerreports.org/cars/buying-a-car/cargo-room-for-cars-by-vehicle-category-a8904187384/.
+## How Roof Cargo Affects EV Range
 
-Interior cargo has some advantages that make it preferable to other options, such as:
+The main concern that EV owners have when using roof cargo is how it will affect their range, or how far they can drive on a single charge. Roof cargo can reduce the range of EVs by increasing the weight and aerodynamic drag of the vehicle, which in turn increases the energy consumption and reduces the range. 
 
-### Security
+The amount of range reduction depends on several factors, such as the type, size, shape, and weight of the roof cargo, the speed and driving conditions of the vehicle, and the design and specifications of the EV.
 
-Interior cargo is more secure and safe than exterior cargo, as it is less visible and more difficult to access by thieves or vandals. Interior cargo is also less likely to fly off or get damaged by weather, road debris, or collisions. Interior cargo can also be locked with the car's central locking system or alarm system for extra protection.
+According to some studies and experiments, roof cargo can reduce the range of EVs by anywhere from 2% to 40%, depending on the variables mentioned above.
 
-### Accessibility
+The type of roof cargo can make a significant difference in the range reduction. Generally, roof boxes are more aerodynamic than roof racks, as they have a smoother and more streamlined shape that reduces the air resistance. 
 
-Interior cargo is more accessible and convenient than exterior cargo, as it does not require climbing onto the roof or reaching behind the car to load or unload the items. Interior cargo can also be accessed from inside the car through the rear seats or the rear doors, which can be useful in tight parking spaces or bad weather conditions.
+However, roof boxes also add more weight and height to the vehicle, which can increase the energy consumption and reduce the stability.
 
-### Fuel economy
+Roof racks, on the other hand, are lighter and lower than roof boxes, but they expose the items to the airflow, creating more drag and noise. The shape and size of the items on the roof rack also affect the aerodynamics and range of the vehicle.
 
-Interior cargo has less impact on the car's fuel economy than exterior cargo, as it does not affect the car's aerodynamics or wind resistance. Exterior cargo carriers, especially roof cargo carriers, can increase the car's drag and reduce its fuel efficiency by up to 25. Interior cargo can also lower the car's center of gravity and improve its stability and handling.
+For example, carrying a bike on a roof rack can reduce the range of an EV by 10% to 15%, while carrying a kayak can reduce it by 20% to 40%.
 
-## Drawbacks of Interior Cargo
 
-Interior cargo is not without its drawbacks, however. Some of the limitations and challenges of using the interior cargo space of the car are:
+{{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_2.jpg" title="Porsche Taycan with roof box" width="2048" height="1280">}}
 
-•  Capacity. Interior cargo has a limited capacity that cannot be exceeded without compromising the car's performance, safety, or legality. Interior cargo cannot exceed the car's maximum payload, which is the total weight of the passengers and the cargo that the car can carry. Interior cargo also cannot exceed the car's maximum volume, which is the total space available inside the car for the cargo. Interior cargo also cannot obstruct the driver's view or interfere with the car's lights or signals.
+The speed and driving conditions of the vehicle also influence the range reduction. Generally, the faster the vehicle goes, the more drag and energy consumption it experiences, and the more range it loses. Driving on highways or in windy weather can exacerbate the effect of roof cargo on the range of EVs. Conversely, driving at lower speeds or in urban areas can mitigate the impact of roof cargo, as the air resistance and energy consumption are lower. However, driving in stop-and-go traffic or on hilly roads can also increase the energy consumption and range reduction, as the vehicle needs to accelerate and decelerate more frequently or overcome the gravity.
 
-•  Compatibility. Interior cargo may not be compatible with all types of items that the owner may want to store or transport. Interior cargo may not be able to accommodate large, bulky, or irregular items that do not fit inside the car or that may damage the car's interior. Interior cargo may also not be suitable for items that are dirty, wet, or smelly, as they may stain, damage, or contaminate the car's interior.
+The design and specifications of the EV also play a role in the range reduction. Different EVs have different battery capacities, efficiencies, and aerodynamics, which affect how they cope with the extra weight and drag of roof cargo. For example, EVs with larger batteries or higher efficiencies can have more range to spare than EVs with smaller batteries or lower efficiencies. EVs with better aerodynamics or lower weights can also have less range reduction than EVs with worse aerodynamics or higher weights. Additionally, some EVs have features or modes that can help optimize the energy consumption and range of the vehicle, such as regenerative braking, eco mode, or adaptive cruise control.
 
-•  Comfort. Interior cargo may reduce the comfort and convenience of the passengers and the driver, as it may take up some of the space that would otherwise be used for seating, legroom, or storage. Interior cargo may also create noise, vibration, or odor that may disturb the passengers and the driver. Interior cargo may also affect the car's climate control system, as it may block the air vents or the windows.
+## How to Choose and Use Roof Cargo for EVs
 
-Tips for Using Interior Cargo
+Given the potential impact of roof cargo on the range of EVs, EV owners should carefully consider their needs and options before installing roof cargo on their vehicles. Here are some tips and recommendations for choosing and using roof cargo for EVs:
 
-To use the interior cargo space of the car effectively, here are some tips that may help:
+•  Choose the right type, size, and shape of roof cargo for your EV and your items. Roof boxes are generally more suitable for EVs than roof racks, as they are more aerodynamic and protect the items from the weather and theft. However, roof boxes also add more weight and height to the vehicle, which can affect the energy consumption and stability. Therefore, you should choose a roof box that fits your EV and your items well, without being too large or too small. You should also look for a roof box that has a sleek and curved design that matches the roof of your EV, as this can reduce the air resistance and noise. Alternatively, you can use a roof rack if you need to carry items that are too large or too heavy for a roof box, such as bikes or kayaks. However, you should use a roof rack that is compatible with your EV and your items, and secure the items properly to minimize the drag and noise.
 
-•  Choose the right car. If you need a lot of interior cargo space, choose a car that has a large trunk, a hatchback, or a foldable rear seat. You can also look for cars that have additional storage spaces, such as a front trunk, a hidden compartment, or a roof box.
+•  Install and position the roof cargo correctly on your EV. Roof cargo should be installed and positioned according to the instructions and specifications of the manufacturer and the vehicle. You should use the appropriate mounting system and hardware to attach the roof cargo to your EV, and ensure that it is stable and secure. You should also position the roof cargo as close to the center and the front of the roof as possible, as this can reduce the drag and the impact on the stability and handling of the vehicle. You should also avoid placing the roof cargo too far back or too high on the roof, as this can increase the air resistance and the risk of detachment or damage.
 
-•  Plan ahead. Before loading the car, plan what items you need to carry and how you will arrange them inside the car. Try to pack the items in boxes, bags, or containers that are easy to stack and secure. Avoid overloading the car or leaving unnecessary gaps between the items. Load the heavier items first and place them on the bottom or near the center of the car. Load the lighter items last and place them on the top or near the sides of the car. Consider the order of loading and unloading the items, and place the items that you need to access frequently or first near the doors or the seats.
+•  Load and unload the roof cargo carefully and efficiently. Roof cargo should be loaded and unloaded with care and efficiency, to avoid damaging the roof cargo, the vehicle, or the items. You should distribute the weight of the items evenly inside the roof cargo, and avoid overloading or underloading it. You should also secure the items with straps, nets, or locks, to prevent them from shifting or falling out during the drive. You should also unload the roof cargo as soon as possible after reaching your destination, and store it in a safe and dry place when not in use. You should also remove the roof cargo from your EV when you don't need it, as leaving it on can reduce the range and efficiency of your EV even when it is empty.
 
-•  Secure the cargo. Make sure that the cargo is properly secured and does not move or shift during the trip. You can use straps, nets, bungees, or dividers to hold the items in place. You can also use anti-slip mats, edge protectors, or blankets to prevent the items from sliding or scratching. Do not stack the items too high or too close to the driver's seat. Do not block the driver's view or the car's lights or signals. Do not exceed the car's maximum payload or volume.
-
-•  Drive safely. Adjust your driving style according to the weight and the distribution of the cargo. Drive smoothly and avoid sudden changes of speed or direction. Check the tire pressure and the suspension of the car and adjust them if needed. Check the cargo at regular intervals and make sure it is still secure. If you notice any signs of instability or damage, stop at the nearest safe place and fix the problem.
+•  Plan and adjust your trip and driving accordingly. Roof cargo can affect the range and performance of your EV, so you should plan and adjust your trip and driving accordingly. You should check the battery level and range of your EV before and during your trip, and factor in the extra energy consumption and range reduction caused by the roof cargo. You should also plan your route and charging stops ahead of time, and choose the roads and stations that are suitable for your EV and your roof cargo. You should also drive more cautiously and efficiently, and avoid speeding, braking, or accelerating harshly, as this can increase the energy consumption and reduce the range of your EV. You should also use the features or modes that can help optimize the energy consumption and range of your EV, such as regenerative braking, eco mode, or adaptive cruise control.
 
 Conclusion
-
-Interior cargo in cars can be a great option for carrying various kinds of items, as it offers security, accessibility, and fuel economy. However, interior cargo in cars also has some drawbacks, such as capacity, compatibility, and comfort. By following the tips above, you can use the interior cargo space of the car effectively and safely.
+Roof cargo can be a useful and convenient way to increase the storage capacity of EVs, especially for those who need to carry more luggage, equipment, or passengers for their trips or activities. However, roof cargo also has some drawbacks and limitations that EV owners should be aware of, such as reducing the range and efficiency of their vehicles. Therefore, EV owners should carefully consider their needs and options before installing roof cargo on their vehicles, and follow some tips and recommendations for choosing and using roof cargo for EVs. By doing so, EV owners can enjoy the benefits of roof cargo without compromising the performance and feasibility of their vehicles.
