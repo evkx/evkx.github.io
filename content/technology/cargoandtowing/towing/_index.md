@@ -8,11 +8,18 @@ weight: 2
 
 In this article, I will try to address some of these issues and provide some examples of EVs that are suitable for towing.
 
+{{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_1.jpeg" title="Lucid Gravity Towing" width="3000" height="2000">}}
+
 ## What are the advantages of EVs for towing?
 
 One of the advantages of EVs is that they have instant torque and power delivery, which means they can accelerate quickly and smoothly from any speed. This can be useful for towing, as it allows the EV to overcome the extra weight and drag of the trailer without straining the engine or transmission. EVs also have regenerative braking, which means they can recover some of the energy lost when slowing down and use it to recharge the battery. This can help extend the range and reduce the wear and tear on the brakes.
 
 Some EVs also have features that can enhance the stability and safety of towing, such as trailer sway control, adaptive cruise control, and blind spot monitoring.
+
+{{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_2.jpg" title="Lucid Gravity Towing" width="3000" height="2000">}}
+
+{{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_3.jpg" title="Lucid Gravity Towing" width="3000" height="2000">}}
+
 
 For example, the Tesla Model X has a smart trailer feature that can automatically adjust the suspension, braking, and steering to optimize the performance and handling of the vehicle and trailer.
 

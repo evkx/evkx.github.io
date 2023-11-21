@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Hyundai Kona 65 kWh MY2024 range test 21.11.2023
+
+{{< youtube qBBBgeqwkSA >}}
+
 ### Bjørn Nyland: Hyundai Kona MY2024 1000 km challenge 20.11.2023
 
 {{< youtube VxeRwYcO5wM >}}

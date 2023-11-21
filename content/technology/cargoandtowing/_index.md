@@ -15,15 +15,21 @@ and the best practices for using EVs for cargo and towing. I hope this article w
 
 ### Interior cargo
 
+Cars are not only meant for transporting people, but also for carrying various kinds of cargo, such as groceries, luggage, pets, or sports equipment.
+
+[Read all about it.](interiorcargo/)
 
 ### Frunk cargo
 
 Electric vehicles (EVs) are becoming more popular and practical for various purposes, including transporting and storing cargo. One of the features that distinguishes EVs from conventional vehicles is the frunk, or the front trunk.
 
-[Read all about it.](frunkcargo/)
+
 
 
 ### Roof Cargo
+
+
+[Read all about it.](roofcargo/)
 
 ### Hitch Cargo
 
