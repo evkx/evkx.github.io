@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Hyundai Kona MY2024 Geilo test gone wrong 22.11.2023
+
+{{< youtube LR_JvAHd8bA >}}
+
 ### Bjørn Nyland: Hyundai Kona 65 kWh MY2024 range test 21.11.2023
 
 {{< youtube qBBBgeqwkSA >}}
