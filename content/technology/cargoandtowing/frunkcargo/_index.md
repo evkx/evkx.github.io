@@ -48,7 +48,6 @@ Frunks can provide improved safety for the cargo and the vehicle, as they are en
 
 There are many EVs on the market or in development that have frunks, but some of them stand out for their size, design, and features.
 
-
 {{< sitefiguresized thumb="technology/cargoandtowing/frunkcargo/frunk_4.jpg" title="Zeekr X Frunk" width="2573" height="1762">}}
 
  Here are some examples of EVs with frunks, along with their frunk capacities:
