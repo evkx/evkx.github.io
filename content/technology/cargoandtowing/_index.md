@@ -1,7 +1,7 @@
 ---
 title:  Cargo & towing capabilities
 linktitle: Cargo & towing capabilities
-description: Electric vehicles (EVs) are becoming more popular and practical for various purposes, including transportation and trailer pulling. 
+description: Cars are not only meant for transporting people, but also for carrying various kinds of cargo, such as groceries, luggage, pets, or sports equipment.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
