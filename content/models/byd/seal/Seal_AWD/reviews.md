@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Fully Charged Show: This Car Proves Just How Far Chinese Cars Have Come 23.11.2023
+
+{{< youtube eNYndWedZsE >}}
+
 ### Autogeühl: Is the BYD Seal the true competitor of the Tesla Model 3? 13.10.2023
 
 {{< youtube Y8yTY_7w3KA >}}

@@ -29,7 +29,7 @@ Vi har delt vår Kia EV9 Long Range AWD-artikkel i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Kia EV9 Long Range AWD har en maksimal effekt på 239KW (325hk).Totalt dreiemoment er 605nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,2 sekunder. Topphastigheten er 185 km/t. 
+Kia EV9 Long Range AWD har en maksimal effekt på 283KW (385hk).Totalt dreiemoment er 700nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,3 sekunder. Topphastigheten er 200 km/t. 
 
 ## Batteri, rekkevidde og lading
 
@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Kia EV9 Long Range AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
 
--opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 177 mm. 
+
 
 ### Bremser
 
@@ -67,7 +67,7 @@ Kia EV9 Long Range AWD har et firehjulsdriftssystem som støttes av to motorer, 
 
 ## Eksteriør
 
-Du kan velge mellom 11 forskjellige lakkfarger når du bestiller denne modellen. 
+Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen. 
 I tillegg kan du velge mellom 3 hjul med størrelser fra 19 til 21 tommer. 
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate). 
@@ -111,15 +111,24 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen. <br />
 
 ### Seter på andre rad
 
-Du kan velge to setetyper for den andre raden i Kia EV9 Long Range AWD. 
+Du kan velge tre setetyper for den andre raden i Kia EV9 Long Range AWD. 
 
-Alternativet first er en tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
+Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
+- høydejusterbar hodestøtte 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige. 
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
+
+Alternativet third er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige. 
+
+- elektrisk justering 
+- [oppvarming](../../../../technology/seats/adjustment/#heating) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) 
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
@@ -172,7 +181,7 @@ Du kan velge mellom to lydsystemer på Kia EV9 Long Range AWD. Med Standard får
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Kia EV9 Long Range AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
-Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard. 
+Modellen har 6 USB-C-tilkoblinger som standard. 
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi. 
@@ -218,7 +227,7 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 480 liter. Med baksetet nede er det 1260 liter. På taket kan du laste opptil 80kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 20 liter. Maksimumsvekten til bilen er 3190kg, og med basisvekten på 2637 kg kan du maksimalt laste 553 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 333 liter. Med baksetet nede er det 2393 liter. På taket kan du laste opptil 100kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 55 liter. Maksimumsvekten til bilen er 3190kg, og med basisvekten på 2637 kg kan du maksimalt laste 553 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2500, og på ubremset er den 750kg. 
 

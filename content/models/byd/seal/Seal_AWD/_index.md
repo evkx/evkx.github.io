@@ -162,7 +162,7 @@ One type of sound system is available for the BYD Seal AWD. With the Dynaudio Pe
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BYD Seal AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 4 USB-C connections as standard. 
+The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

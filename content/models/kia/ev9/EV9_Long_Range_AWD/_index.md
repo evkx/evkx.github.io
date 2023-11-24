@@ -29,7 +29,7 @@ We have separated our Kia EV9 Long Range AWD article into sections. If you want 
 
 ## Performance
 
-The Kia EV9 Long Range AWD has a maximum power of 239KW (325hp). The total torque is 605nm. It performs the 0-100km/h sprint (0-62mph) in 5,2 seconds. The top speed is 185 km/h. 
+The Kia EV9 Long Range AWD has a maximum power of 283KW (385hp). The total torque is 700nm. It performs the 0-100km/h sprint (0-62mph) in 5,3 seconds. The top speed is 200 km/h. 
 
 ## Battery, range, and charging
 
@@ -57,7 +57,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Kia EV9 Long Range AWD has an all-wheel drive system supported by two motors, one on each axle. 
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm. 
+
 
 ### Brakes
 
@@ -67,7 +67,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ## Exterior
 
-You can choose between 11 different paint colors when ordering this model. 
+You can choose between 7 different paint colors when ordering this model. 
 Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). 
@@ -111,15 +111,24 @@ You can choose from 6 different materials/colors for this seat type. <br />
 
 ### Second-row seats
 
-You can choose two seat types for the second row in the Kia EV9 Long Range AWD. 
+You can choose three seat types for the second row in the Kia EV9 Long Range AWD. 
 
-The first option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
+The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
+- height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 The second option is two captain chairs. In addition, the following functionalities are available. 
 
 - [heating](../../../../technology/seats/adjustment/#heating) 
+
+The third option is two captain chairs. In addition, the following functionalities are available. 
+
+- electric adjustment 
+- [heating](../../../../technology/seats/adjustment/#heating) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
@@ -172,7 +181,7 @@ You can choose between two sound systems on the Kia EV9 Long Range AWD. With the
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Kia EV9 Long Range AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard. 
+The model has 6 USB-C connections as standard. 
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
@@ -218,7 +227,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1260 liters. On the roof, you can load up to 80kg. Under the hood, there is frunk with more storage room. This frunk is 20 liters. The maxium weight of the car is 3190kg, and with the base weight of 2637 kg, you can max load 553 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 333 liters. With the rear seat down, it is 2393 liters. On the roof, you can load up to 100kg. Under the hood, there is frunk with more storage room. This frunk is 55 liters. The maxium weight of the car is 3190kg, and with the base weight of 2637 kg, you can max load 553 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2500, and on unbraked, it is 750kg. 
 

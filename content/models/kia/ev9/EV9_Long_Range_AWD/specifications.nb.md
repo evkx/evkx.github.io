@@ -17,10 +17,10 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV9 Long Range 
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Maks effekt i kW</td><td>239 Kw</td></tr>
-<tr><td>Dreiemoment i Nm</td><td>605 Nm</td></tr>
-<tr><td>Topphastighet</td><td>185 km/h</td></tr>
-<tr><td>0-100 km/t (0-62 mph)</td><td>5,2 s</td></tr>
+<tr><td>Maks effekt i kW</td><td>283 Kw</td></tr>
+<tr><td>Dreiemoment i Nm</td><td>700 Nm</td></tr>
+<tr><td>Topphastighet</td><td>200 km/h</td></tr>
+<tr><td>0-100 km/t (0-62 mph)</td><td>5,3 s</td></tr>
 </tbody>
 </table>
 
@@ -86,8 +86,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </thead>
 <tbody>
 <tr><td>Adaptiv fjæring</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Justerbar demping foran</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Justerbar demping bak</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar demping foran</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Justerbar demping bak</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Justerbar høyde foran</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Justerbar høyde bak</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Maks bakkeklaring</td><td>177</td></tr>
@@ -133,6 +133,28 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </thead>
 <tbody>
 <tr><td>Setetype</td><td>ThreeSeatBench</td></tr>
+<tr><td>Høydejusterbar nakkestøtte</td><td>Standardfunksjon</td></tr>
+<tr><td>Lengdejusterbar hodestøtte</td><td>Ukjent</td></tr>
+<tr><td>Justerbar lårstøtte</td><td>Ukjent</td></tr>
+<tr><td>Justering av ryggstøtten</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justering av setepute, sidestøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
+<tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
+</tbody>
+</table>
+
+#### Executive seats
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
+</thead>
+<tbody>
+<tr><td>Setetype</td><td>TwoCaptainChairs</td></tr>
 <tr><td>Høydejusterbar nakkestøtte</td><td>Ukjent</td></tr>
 <tr><td>Lengdejusterbar hodestøtte</td><td>Ukjent</td></tr>
 <tr><td>Justerbar lårstøtte</td><td>Ukjent</td></tr>
@@ -159,9 +181,9 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Justering av setepute, sidestøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Benstøttepassasjer</td><td>Standardfunksjon</td></tr>
 <tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Seteventilasjon</td><td>Ukjent</td></tr>
+<tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
 </tbody>
 </table>
@@ -182,7 +204,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Parkeringssensorer bak</td><td></td></tr>
 <tr><td>Parkeringssensorer foran</td><td></td></tr>
 <tr><td>Parkeringssensorer på siden</td><td></td></tr>
-<tr><td>Hill nedstigningshjelp</td><td></td></tr>
+<tr><td>Hill nedstigningshjelp</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Hill start assist</td><td>Ja, standardutstyr</td></tr>
 <tr><td>AntiLock Braking System</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Automatisk nødbremsing</td><td>Ja, standardutstyr</td></tr>
