@@ -148,7 +148,7 @@ Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontroll
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet 2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
+Det er ett tilgjengelig klimasystem. Klimasystemet 3-zone støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
 ## Komfort
 
