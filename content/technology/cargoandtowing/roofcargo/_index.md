@@ -23,7 +23,7 @@ The type of roof cargo can make a significant difference in the range reduction.
 
 However, roof boxes also add more weight and height to the vehicle, increasing energy consumption and reducing stability.
 
-However, roof boxes also add more weight and height to the vehicle, which can increase the energy consumption and reduce the stability.
+However, roof boxes also add more weight and height to the vehicle, increasing energy consumption and reducing stability.
 
 Roof racks, on the other hand, are lighter and lower than roof boxes, but they expose the items to the airflow, creating more drag and noise. The shape and size of the items on the roof rack also affect the aerodynamics and range of the vehicle.
 
@@ -31,9 +31,9 @@ For example, carrying a bike on a roof rack can reduce the range of an EV by 10%
 
 {{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_2_st.jpg" title="Porsche Taycan with roof box" width="2048" height="1280">}}
 
-The speed and driving conditions of the vehicle also influence the range reduction. Generally, the faster the car goes, the more drag and energy consumption it experiences and the more range it loses. 
+The speed and driving conditions of the vehicle also influence the range reduction. Generally, the faster the car goes, the more drag and energy consumption it experiences and the more range it loses.
 
-Driving on highways or in windy weather can exacerbate the effect of roof cargo on the range of EVs. 
+Driving on highways or in windy weather can exacerbate the effect of roof cargo on the range of EVs.
 
 Conversely, driving at lower speeds or in urban areas can mitigate the impact of roof cargo, as the air resistance and energy consumption are lower. However, driving in stop-and-go traffic or on hilly roads can also increase energy consumption and range reduction, as the vehicle needs to accelerate and decelerate more frequently or overcome gravity.
 
@@ -42,4 +42,3 @@ The design and specifications of the EV also play a role in the range reduction.
 EVs with better aerodynamics or lower weights can also have higher range reduction than EVs with worse aerodynamics or higher weights.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_3_st.jpg" title="Porsche Taycan with roof box" width="2048" height="1280">}}
-
