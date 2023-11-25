@@ -1,9 +1,14 @@
 <figure>
     {{ $url := .Get "thumb" | replaceRE "_st" "" }}
     {{ $random := delimit (shuffle (split (md5 $url) "" )) "" }}
+    {{ $originalWidth := .Get "width" | float }}
+    {{ $originalHeight := .Get "height" | float }}
+    {{ $desiredWidth := 750 }}
+    {{ $scaleFactor := div $desiredWidth $originalWidth | float }}
+    {{ $scaledHeight := mul $scaleFactor $originalHeight | int }}
     <div class="pswp-gallery" id="gallery--{{$random}}">
         <a href="https://media.evkx.net/multimedia/{{ $url }}" data-pswp-width="{{ .Get "width" }}" data-pswp-height="{{ .Get "height" }}" target="_blank">
-            <img src="https://media.evkx.net/multimedia/{{ .Get "thumb" }}" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" class="img-fluid" target="_blank">
+            <img src="https://media.evkx.net/multimedia/{{ .Get "thumb" }}" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" width="{{ $desiredWidth }}" height="{{ $scaledHeight }}"  class="img-fluid" target="_blank">
         </a>
     </div>
    <figcaption>
