@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nio ET5 Touring banana box test 25.11.2023
+
+{{< youtube 0lowOn39t6o >}}
+
 ### Norsk elbilforening: Test av Nio ET5 Touring - Power på billigsalg 27.10.2023
 
 {{< youtube cjPQANVhdps >}}
