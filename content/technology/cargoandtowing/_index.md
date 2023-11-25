@@ -43,7 +43,7 @@ If you need to transport extra gear or luggage with your vehicle but don't have 
 
 Pickup trucks give the ability to carry lots of different types of cargo.
 
-[You can read all about it in our flatbed cargo section.](flatbed/)
+[You can read all about it in our flatbed cargo section.](bedcargo/)
 
 ### Towing
 
