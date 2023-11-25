@@ -10,7 +10,7 @@ A hitch cargo carrier is a device that attaches to the rear of your vehicle usin
 
 ## Types of Hitch Cargo
 
-Depending on the carrier’s shape, size, material, and design, there are different types of hitch cargo carriers. Some of the most common types are:
+Depending on the carrier’s shape, size, material, and design, there are different hitch cargo carriers. Some of the most common types are:
 
 ### Basket
 
@@ -42,31 +42,34 @@ Not all hitch cargo carriers are compatible with all vehicles or all trailer hit
 
 ### Weight Capacity
 
-Hitch cargo carriers have a maximum weight capacity that they can support, and you need to respect that limit to avoid damaging the carrier, the hitch, or the vehicle. It would help if you also considered the carrier's weight and the load's weight distribution. You need to balance the load evenly and avoid overloading the vehicle's rear axle. You must also check the tire pressure and the vehicle's suspension and adjust them if needed. Typically max weight supported by the hitch is 75 or 100kg.
+Hitch cargo carriers have a maximum weight capacity that they can support, and you need to respect that limit to avoid damaging the carrier, the hitch, or the vehicle. It would help if you also considered the carrier’s weight and the load’s weight distribution. You must balance the load evenly and avoid overloading the vehicle’s rear axle. You must also check the tire pressure and the vehicle’s suspension and adjust them if needed. Typically, the maximum weight supported by the hitch is 75 or 100kg.
 
 ### Access to Vehicle
 
-Hitch cargo carriers can block or limit the access to the rear of the vehicle, such as the trunk, the tailgate, or the spare tire. This can be inconvenient or problematic if you need to open or close the rear door, or if you have a flat tire. Some hitch cargo carriers have a folding or a swinging feature that can allow you to move the carrier out of the way without unloading it, but this can also affect the stability and the safety of the carrier. You need to check the carrier's design and the vehicle's dimensions, and make sure they are compatible.
+Hitch cargo carriers can block or limit access to the vehicle's rear, such as the trunk, the tailgate, or the spare tire. This placement can be inconvenient or problematic if you need to open or close the rear door or have a flat tire. Some hitch cargo carriers have a folding or swinging feature that can allow you to move the carrier out of the way without unloading it, but this can also affect the stability and safety of the carrier. You need to check the carrier’s design and the vehicle’s dimensions and ensure they are compatible.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/hitchcargo/hitchcargo_5.jpg" title="Thule Cargo Box on Audi e-tron" width="1500" height="1125">}}
-
+{{< sitefiguresized thumb="technology/cargoandtowing/hitchcargo/hitchcargo_5.jpg" title="Thule Cargo Box folded away on Audi e-tron" width="1500" height="1125">}}
 
 ## Possibilities of Hitch Cargo
 
-Despite the limitations, hitch cargo carriers can also offer many possibilities and advantages that can make your transportation and towing experience easier and more enjoyable. Some of the possibilities are:
+Despite the limitations, hitch cargo carriers can offer many possibilities and advantages to make your transportation and towing experience easier and more enjoyable. Some of the possibilities are:
 
 ### Versatility
 
-Hitch cargo carriers can be used for various purposes and occasions, such as road trips, camping, moving, or any other situation where you need more cargo capacity. You can also use different types of hitch cargo carriers, depending on the items you want to carry and the features you want to have. You can also switch between different hitch cargo carriers, as long as they are compatible with your vehicle and your hitch.
+Hitch cargo carriers can be used for various purposes and occasions, such as road trips, camping, moving, or any other situation where you need more cargo capacity. You can also use different hitch cargo carriers, depending on the items you want to carry and the features you want to have. You can also switch between different hitch cargo carriers as long as they are compatible with your vehicle and your hitch.
 
 ### Stability
 
-Hitch cargo carriers can provide more stability and safety than other types of cargo carriers, such as roof racks or rooftop carriers. This is because hitch cargo carriers are closer to the ground and the center of gravity of the vehicle, and they do not affect the aerodynamics or the wind resistance of the vehicle. Hitch cargo carriers can also reduce the noise and the vibration of the load, and prevent the items from falling off or flying away.
+Hitch cargo carriers can provide more stability and safety than other carriers, such as roof racks or rooftop carriers. This is because hitch cargo carriers are closer to the ground and the vehicle's center of gravity. Hitch cargo carriers can also reduce the load's noise and vibration and prevent the items from falling off or flying away.
 
 ### Visibility
 
-Hitch cargo carriers can also improve the visibility and the awareness of the driver and the other road users, compared to other types of cargo carriers. This is because hitch cargo carriers do not obstruct the view of the driver or the rearview mirror, and they do not interfere with the vehicle's lights or signals. Hitch cargo carriers can also have reflectors or lights attached to them, to increase the visibility and the safety of the vehicle and the load.
+Hitch cargo carriers can also improve the visibility and awareness of the driver and the other road users, compared to other types of cargo carriers. 
+Hitch cargo carriers can also have reflectors or lights attached to them to increase the visibility and the safety of the vehicle and the load.
 
-## Conclusion
+### Efficiency
 
-Hitch cargo carriers can be a great option for transporting and towing extra gear or luggage with your vehicle, but you need to be aware of the pros and cons of using them. You need to choose the right type of hitch cargo carrier for your needs, and make sure it is compatible with your vehicle and your hitch. You also need to respect the weight capacity and the clearance of the carrier, and secure and protect your load properly. By following these tips and guidelines, you can enjoy the benefits and the possibilities of hitch cargo carriers, and have a smooth and satisfying transportation and towing experience.
+Compared to having a box on the roof, a hitch box can increase efficiency because  they do not affect the aerodynamics or the vehicle's wind resistance
+ In the below video, the EV Guru, Bjørn Nyland, compares energy consumption on roof box vs hitch box.
+
+{{< youtube N6oZ2id7YhY >}}
