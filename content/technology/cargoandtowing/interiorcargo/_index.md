@@ -6,7 +6,7 @@ weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_3.jpg" title="Citroën ë-C3 trunk" width="3000" height="1999">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_3_st.jpg" title="Citroën ë-C3 trunk" width="3000" height="1999">}}
 
 What are the benefits and drawbacks of having the cargo inside the car? How can the interior cargo space be maximized and secured? This article will answer these questions and provide some tips for using the interior cargo space of the car effectively.
 
@@ -14,15 +14,15 @@ What are the benefits and drawbacks of having the cargo inside the car? How can 
 
 The cargo capacity varies greatly depending on the car type and the manufacturer's chosen solutions.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_1.jpg" title="Porsche Taycan Turbo S trunk" width="3000" height="1999">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_1_st.jpg" title="Porsche Taycan Turbo S trunk" width="3000" height="1999">}}
 
 Most cars can fold the rear seats flat. When doing this, it can increase the cargo capacity. Typical cars have a 40:60 split or a 40:20:40 split on the rear seats to put down 3, 2, or 1 of the back seat.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_2.jpg" title="Audi e-tron GT with rear seats down." width="3000" height="1999">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_2_st.jpg" title="Audi e-tron GT with rear seats down." width="3000" height="1999">}}
 
 For 3-row cars, the driver can typically fold both third and second-row seats flat.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_7.jpg" title="Mercedes EQS SUV with second and third-row seats folded flat" width="3000" height="1999">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_7_st.jpg" title="Mercedes EQS SUV with second and third-row seats folded flat" width="3000" height="1999">}}
 
 The following table lists the trunk and max space with rear seats folded flat for many popular models.
 
@@ -70,7 +70,7 @@ Many EVs are great for camping since they can heat when parked. Many have a camp
 
 Some manufacturers even offer mattresses to use in the rear.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_6.jpg" title="Xpeng G9 with mattress" width="3000" height="1999">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_6_st.jpg" title="Xpeng G9 with mattress" width="3000" height="1999">}}
 
 ## Advantages of interior cargo
 
@@ -104,4 +104,4 @@ Interior cargo may only be compatible with some types of items that the owner ma
 
 Interior cargo may reduce the comfort and convenience of the passengers and the driver, as it may take up some space that would otherwise be used for seating, legroom, or storage. Interior cargo may also create noise, vibration, or odor that may disturb passengers and drivers. Internal cargo may also affect the car’s climate control system, blocking the air vents or the windows.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_4.jpg" title="Jeep Avenger with a lovely dog in the trunk" width="3000" height="2000">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_4_st.jpg" title="Jeep Avenger with a lovely dog in the trunk" width="3000" height="2000">}}

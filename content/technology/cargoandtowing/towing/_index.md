@@ -8,7 +8,7 @@ weight: 2
 
 This article will address some of these issues and provide examples of EVs suitable for towing.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_1.jpeg" title="Lucid Gravity Towing" width="3000" height="2000">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_1_st.jpeg" title="Lucid Gravity Towing" width="3000" height="2000">}}
 
 ## What are the advantages of EVs for towing?
 
@@ -91,4 +91,4 @@ Many EVs on the market or in development can tow a trailer, but some stand out f
 
 See the complete list in the EVKX EV Database [here](../../../evsearch/?sortOrder=MaxTrailerSizeDesc)
 
-{{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_4.jpg" title="Nio ES8 with roof cargo and trailer" width="2560" height="1280">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_4_st.jpg" title="Nio ES8 with roof cargo and trailer" width="2560" height="1280">}}

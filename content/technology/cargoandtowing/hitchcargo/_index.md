@@ -16,21 +16,21 @@ Depending on the carrier’s shape, size, material, and design, there are differ
 
 A basket-type hitch cargo carrier is a simple and versatile option that consists of a metal frame with a mesh or solid floor. It can hold various items, such as boxes, bags, coolers, or bikes, as long as they are secured with straps, nets, or bungees. A basket-type hitch cargo carrier can also be used with a cargo bag or box to protect the items from weather and theft.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/hitchcargo/hitchcargo_3.jpg" title="Curt Cargo Carrier" width="1500" height="1125">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/hitchcargo/hitchcargo_3_st.jpg" title="Curt Cargo Carrier" width="1500" height="1125">}}
 
 ### Box
 
 A box-type hitch cargo carrier is a more secure and weather-resistant option with an attached hard-shell or soft-shell container. It can hold various items, such as luggage, camping gear, or sports equipment, and keep them dry and safe from dust, dirt, and theft. A box-type hitch cargo carrier can also be locked with a key or a combination lock for extra security.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/hitchcargo/hitchcargo_4.jpg" title="Thule Cargo Box on Audi e-tron" width="1500" height="1125">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/hitchcargo/hitchcargo_4_st.jpg" title="Thule Cargo Box on Audi e-tron" width="1500" height="1125">}}
 
 ### Rack
 
 A rack-type hitch cargo carrier is a specialized option that consists of a metal frame with bars, hooks, or slots that can hold specific items, such as bikes, skis, snowboards, or kayaks. It can have multiple items of the same type and allow easy access and loading. A rack-type hitch cargo carrier can also be used with a hitch adapter or an extension to increase the clearance or capacity.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/hitchcargo/hitchcargo_1.jpg" title="Porsche Taycan Cross Turismo with bike rack" width="3000" height="2226">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/hitchcargo/hitchcargo_1_st.jpg" title="Porsche Taycan Cross Turismo with bike rack" width="3000" height="2226">}}
 
-{{< sitefiguresized thumb="technology/cargoandtowing/hitchcargo/hitchcargo_2.jpg" title="Mercedes EQC with bike rack" width="3000" height="2226">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/hitchcargo/hitchcargo_2_st.jpg" title="Mercedes EQC with bike rack" width="3000" height="2226">}}
 
 ## Limitations of Hitch Cargo
 

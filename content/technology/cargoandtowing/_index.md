@@ -11,7 +11,7 @@ However, many people may have questions or concerns about EVs’ performance, ra
 
 This article will address some of these issues and provide examples of EVs suitable for towing.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/cargoandtowing_1.jpeg" title="Lucid Gravity with hitch and roof cargo" width="3000" height="1684">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/cargoandtowing_1_st.jpeg" title="Lucid Gravity with hitch and roof cargo" width="3000" height="1684">}}
 
 We have split the article into six chapters to cover the different aspects of cargo and towing for EVS.
 

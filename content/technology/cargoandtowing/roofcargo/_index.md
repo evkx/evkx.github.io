@@ -8,7 +8,7 @@ weight: 2
 
 In this article, we will explore some of the factors that affect the performance and feasibility of roof cargo on EVs, and provide some tips and recommendations for choosing and using them.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_1.jpeg" title="Lucid Gravity with surfboard on roof rack" width="3000" height="2250">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_1_st.jpeg" title="Lucid Gravity with surfboard on roof rack" width="3000" height="2250">}}
 
 ## How Roof Cargo Affects EV Range
 
@@ -26,8 +26,7 @@ Roof racks, on the other hand, are lighter and lower than roof boxes, but they e
 
 For example, carrying a bike on a roof rack can reduce the range of an EV by 10% to 15%, while carrying a kayak can reduce it by 20% to 40%.
 
-
-{{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_2.jpg" title="Porsche Taycan with roof box" width="2048" height="1280">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_2_st.jpg" title="Porsche Taycan with roof box" width="2048" height="1280">}}
 
 The speed and driving conditions of the vehicle also influence the range reduction. Generally, the faster the vehicle goes, the more drag and energy consumption it experiences, and the more range it loses. Driving on highways or in windy weather can exacerbate the effect of roof cargo on the range of EVs. Conversely, driving at lower speeds or in urban areas can mitigate the impact of roof cargo, as the air resistance and energy consumption are lower. However, driving in stop-and-go traffic or on hilly roads can also increase the energy consumption and range reduction, as the vehicle needs to accelerate and decelerate more frequently or overcome the gravity.
 
@@ -44,6 +43,3 @@ Given the potential impact of roof cargo on the range of EVs, EV owners should c
 •  Load and unload the roof cargo carefully and efficiently. Roof cargo should be loaded and unloaded with care and efficiency, to avoid damaging the roof cargo, the vehicle, or the items. You should distribute the weight of the items evenly inside the roof cargo, and avoid overloading or underloading it. You should also secure the items with straps, nets, or locks, to prevent them from shifting or falling out during the drive. You should also unload the roof cargo as soon as possible after reaching your destination, and store it in a safe and dry place when not in use. You should also remove the roof cargo from your EV when you don't need it, as leaving it on can reduce the range and efficiency of your EV even when it is empty.
 
 •  Plan and adjust your trip and driving accordingly. Roof cargo can affect the range and performance of your EV, so you should plan and adjust your trip and driving accordingly. You should check the battery level and range of your EV before and during your trip, and factor in the extra energy consumption and range reduction caused by the roof cargo. You should also plan your route and charging stops ahead of time, and choose the roads and stations that are suitable for your EV and your roof cargo. You should also drive more cautiously and efficiently, and avoid speeding, braking, or accelerating harshly, as this can increase the energy consumption and reduce the range of your EV. You should also use the features or modes that can help optimize the energy consumption and range of your EV, such as regenerative braking, eco mode, or adaptive cruise control.
-
-Conclusion
-Roof cargo can be a useful and convenient way to increase the storage capacity of EVs, especially for those who need to carry more luggage, equipment, or passengers for their trips or activities. However, roof cargo also has some drawbacks and limitations that EV owners should be aware of, such as reducing the range and efficiency of their vehicles. Therefore, EV owners should carefully consider their needs and options before installing roof cargo on their vehicles, and follow some tips and recommendations for choosing and using roof cargo for EVs. By doing so, EV owners can enjoy the benefits of roof cargo without compromising the performance and feasibility of their vehicles.
