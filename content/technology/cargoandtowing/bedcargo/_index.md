@@ -6,7 +6,7 @@ weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="technology/cargoandtowing/beccargo/bed_1_st.jpg" title="Nio ES8 with roof cargo and trailer" width="2560" height="1280">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/beccargo/bed_1_st.jpg" title="Chevrolet Silverado with cargo in the bed" width="2560" height="1280">}}
 
 However, EV pickup trucks also have some drawbacks and limitations that EV owners should be aware of before using them. In this article, we will explore some of the factors that affect the performance and feasibility of cargo in EV pickup trucks bed, and provide some tips and recommendations for choosing and using them.
 
@@ -18,7 +18,9 @@ The items that can be stored in EV pickup trucks bed depend on the dimensions an
 
 The items that can be stored in EV pickup trucks bed also depend on the payload and towing capacity of the vehicle, as well as the range and efficiency of the battery. The payload capacity is the maximum weight that the vehicle can carry, including the passengers and the cargo. The towing capacity is the maximum weight that the vehicle can pull, including the trailer and the cargo. The range is the maximum distance that the vehicle can drive on a single charge. The efficiency is the amount of energy that the vehicle consumes per unit of distance.
 
-The payload and towing capacity of EV pickup trucks vary depending on the model and design of the vehicle, but generally, they are lower than conventional pickup trucks, as EVs have heavier batteries and motors that take up some of the weight and space. For example, the Tesla Cybertruck has a payload capacity of 3,500 lbs and a towing capacity of 14,000 lbs, while the Ford F-150 Lightning has a payload capacity of 2,000 lbs and a towing capacity of 10,000 lbshttps://insideevs.com/features/454690/best-electric-trucks-2022-2023/. The range and efficiency of EV pickup trucks also vary depending on the model and design of the vehicle, but generally, they are affected by the weight and drag of the cargo, as adding more weight or drag can increase the energy consumption and reduce the battery efficiency. For example, the Tesla Cybertruck has a range of 250 to 500 miles, while the Ford F-150 Lightning has a range of 230 to 300 mileshttps://insideevs.com/features/454690/best-electric-trucks-2022-2023/.
+The payload and towing capacity of EV pickup trucks vary depending on the model and design of the vehicle, but generally, they are lower than conventional pickup trucks, as EVs have heavier batteries and motors that take up some of the weight and space. For example, the Tesla Cybertruck has a payload capacity of 2,500 lbs and a towing capacity of 11,000 lbs, while the Ford F-150 Lightning has a payload capacity of 2,000 lbs and a towing capacity of 10,000 lbs. 
+
+The range and efficiency of EV pickup trucks also vary depending on the model and design of the vehicle, but generally, they are affected by the weight and drag of the cargo, as adding more weight or drag can increase the energy consumption and reduce the battery efficiency. For example, the Tesla Cybertruck has a range of 250 to 500 miles, while the Ford F-150 Lightning has a range of 230 to 300 miles.
 
 Therefore, EV owners should be aware of the limitations and trade-offs of storing and transporting items in EV pickup trucks bed, and choose the items that are suitable for the size, shape, weight, and capacity of the bed and the vehicle. They should also check the battery level and range of the vehicle before and during the trip, and factor in the extra energy consumption and range reduction caused by the cargo. They should also plan their route and charging stops ahead of time, and choose the roads and stations that are compatible with their vehicle and their cargo.
 
