@@ -64,7 +64,7 @@ Hitch cargo carriers can provide more stability and safety than other carriers, 
 
 ### Visibility
 
-Hitch cargo carriers can also improve the visibility and awareness of the driver and the other road users, compared to other types of cargo carriers. 
+Hitch cargo carriers can also improve the visibility and awareness of the driver and the other road users, compared to other cargo carriers.
 Hitch cargo carriers can also have reflectors or lights attached to them to increase the visibility and the safety of the vehicle and the load.
 
 ### Efficiency
