@@ -3,7 +3,7 @@
     {{ $random := delimit (shuffle (split (md5 $url) "" )) "" }}
     {{ $originalWidth := .Get "width" | float }}
     {{ $originalHeight := .Get "height" | float }}
-    {{ $desiredWidth := 750 }}
+    {{ $desiredWidth := 800 }}
     {{ $scaleFactor := div $desiredWidth $originalWidth | float }}
     {{ $scaledHeight := mul $scaleFactor $originalHeight | int }}
     <div class="pswp-gallery" id="gallery--{{$random}}">
