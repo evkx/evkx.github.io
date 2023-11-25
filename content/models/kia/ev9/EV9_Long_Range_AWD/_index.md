@@ -39,7 +39,7 @@ The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 497 to
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 48 minutes, while a more common scenario of 10-80% would take 21 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 75%, resulting in an actual charge speed, including time loss, of 159kW. Each charge session would take 26 minutes and 12 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 9 hours and 4 minutes. This trip will require two charge session(s) charging from 1% to 63%. The total time lost for charging up the battery will be 45 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 8 minutes. This trip will require two charge session(s) charging from 1% to 69%. The total time lost for charging up the battery will be 48 minutes.
 
 ### Onboard charger
 
@@ -55,7 +55,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Kia EV9 Long Range AWD has an all-wheel drive system supported by two motors, one on each axle. 
+Kia EV9 Long Range AWD has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 
 
@@ -63,7 +63,7 @@ Kia EV9 Long Range AWD has an all-wheel drive system supported by two motors, on
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes. 
 
 ## Exterior
 

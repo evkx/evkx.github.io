@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 99,8kWh og en nettokapasitet på 94kWh, noe
 
 Maksimal DC-ladehastighet er 233kW. En full lading fra 0 - 100 % vil ta 48 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 75%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 159kW. Hver ladeøkt vil ta 26 minutter og 12 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 9 timer og 4 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 63%. Totalt tapt tid for å lade opp batteriet vil være 45 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 8 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 69%. Totalt tapt tid for å lade opp batteriet vil være 48 minutter.
 
 ### Ombordlader
 
@@ -55,7 +55,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-Kia EV9 Long Range AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
+Kia EV9 Long Range AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 
 
@@ -63,7 +63,7 @@ Kia EV9 Long Range AWD har et firehjulsdriftssystem som støttes av to motorer, 
 
 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. 
 
 ## Eksteriør
 

@@ -20,6 +20,10 @@ We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
 {{< youtube SUWuVeSV9gE >}}
 
+### Kris Rifa: Kia EV9 Review | MIGHT JUST BE THE BEST FAMILY SUV 24.11.2023
+
+{{< youtube dp6gNy4PH_A >}}
+
 ### Fully Charged Show: Kia EV9: A Spaceship With Seven Seats! 08.11.2023
 
 {{< youtube 9ZTqQGM8Ss8 >}}

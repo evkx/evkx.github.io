@@ -199,11 +199,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
 <tr><td>Drowsiness Alert</td><td></td></tr>
 <tr><td>Reversing camera</td><td>Yes, standard equipment</td></tr>
-<tr><td>360 camera</td><td>Yes (Surround View Monitor), optional equipment</td></tr>
+<tr><td>360 camera</td><td>Yes, standard equipment</td></tr>
 <tr><td>Rear cross traffic alert</td><td>Yes, standard equipment</td></tr>
-<tr><td>Rear parking sensors</td><td></td></tr>
-<tr><td>Front parking sensors</td><td></td></tr>
-<tr><td>Side parking sensors</td><td></td></tr>
+<tr><td>Rear parking sensors</td><td>Yes, standard equipment</td></tr>
+<tr><td>Front parking sensors</td><td>Yes, standard equipment</td></tr>
+<tr><td>Side parking sensors</td><td>Yes, standard equipment</td></tr>
 <tr><td>Hill descent assist</td><td>Yes, standard equipment</td></tr>
 <tr><td>Hill start assist</td><td>Yes, standard equipment</td></tr>
 <tr><td>AntiLock Braking System</td><td>Yes, standard equipment</td></tr>
