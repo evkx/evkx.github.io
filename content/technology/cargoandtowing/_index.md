@@ -3,6 +3,7 @@ title:  Cargo & towing capabilities
 linktitle: Cargo & towing capabilities
 description: Cars are not only meant for transporting people, but also for carrying various kinds of cargo, such as groceries, luggage, pets, or sports equipment.
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
