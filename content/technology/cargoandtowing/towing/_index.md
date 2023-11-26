@@ -89,6 +89,28 @@ Many EVs on the market or in development can tow a trailer, but some stand out f
     </tbody>
 </table>
 
+## Different regulation
+
+
+•  The trailer weight is the total weight of the trailer and its cargo. The trailer weight should not exceed the maximum authorised weight of the trailer, which is indicated on the trailer's identification plate. The trailer weight should also not exceed the maximum authorised towing capacity of the car, which is indicated on the car's registration certificate or owner's manual. The trailer weight should also not exceed the maximum authorised weight of the car and trailer combination, which is the sum of the car's weight and the trailer's weight. The maximum authorised weight of the car and trailer combination should not exceed the limits set by the European Union or the national authorities, depending on the type and category of the car and trailer.
+
+## EU 
+
+The class of cars is the category of motor vehicles that are used for the carriage of passengers. The class of cars is determined by the number of seats, the number of wheels, and the engine type of the car. The European Union defines four main classes of cars: M1, M2, M3, and M4.
+
+**M1** cars are motor vehicles with at least four wheels and no more than eight seats in addition to the driver's seat. Examples of M1 cars are sedans, hatchbacks, coupes, convertibles, and SUVs. M1 cars can tow trailers with a maximum authorised weight of up to 3,500 kg, depending on the car's towing capacity and the country's regulations.
+
+M2 cars are motor vehicles with at least four wheels and more than eight seats in addition to the driver's seat, and a maximum weight of 5,000 kg. Examples of M2 cars are minibuses, vans, and small buses. M2 cars can tow trailers with a maximum authorised weight of up to 750 kg, or more if the car and trailer combination does not exceed 12,000 kg, depending on the car's towing capacity and the country's regulations.
+
+
+M3 cars are motor vehicles with at least four wheels and more than eight seats in addition to the driver's seat, and a maximum weight of more than 5,000 kg. Examples of M3 cars are buses and coaches. M3 cars can tow trailers with a maximum authorised weight of up to 750 kg, or more if the car and trailer combination does not exceed 18,000 kg, depending on the car's towing capacity and the country's regulations.
+
+M4 cars are motor vehicles with at least four wheels and no more than eight seats in addition to the driver's seat, and a maximum weight of more than 3,500 kg. Examples of M4 cars are heavy-duty SUVs and pickup trucks. M4 cars can tow trailers with a maximum authorised weight of up to 3,500 kg, or more if the car and trailer combination does not exceed 12,000 kg, depending on the car's towing capacity and the country's regulations.
+
+<a href="https://www.transportpolicy.net/">TransportPolicy.net</a> gives a full overview over the different categories in the world
+
+## Search for EV with trailer capability
+
 See the complete list in the EVKX EV Database [here](../../../evsearch/?sortOrder=MaxTrailerSizeDesc)
 
 {{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_4_st.jpg" title="Nio ES8 with roof cargo and trailer" width="2560" height="1280">}}

@@ -32,7 +32,7 @@ Therefore, EV owners should be aware of the limitations and trade-offs of storin
 
 Despite the drawbacks and limitations of EV pickup trucks bed, they also have some benefits over other storage options, such as trunks, frunks, roof racks, or trailers. Here are some of the benefits of EV pickup trucks bed over other storage:
 
-### More space and flexibility 
+### More space and flexibility
 
 EV pickup trucks bed can offer more space and flexibility than trunks, frunks, roof racks, or trailers, as they can accommodate items that are longer, wider, or taller than other storage options. EV pickup trucks bed can also be customized or modified to fit different items or purposes, such as adding covers, liners, dividers, or accessories to protect or organize the items. EV pickup trucks bed can also be used for other functions, such as camping, tailgating, or working, as they can provide a flat and open surface that can be equipped with power outlets, lights, speakers, or tools.
 
@@ -42,6 +42,6 @@ EV pickup trucks bed can offer easier access and loading than trunks, frunks, ro
 
 {{< sitefiguresized thumb="technology/cargoandtowing/bedcargo/bed_6_st.jpg" title="Ford F150 Lightning with motorcycle in bed" width="3000" height="1687">}}
 
-### Less impact and hassle 
+### Less impact and hassle
 
 EV pickup trucks bed can have less impact and hassle than roof racks or trailers, as they can reduce the weight and drag of the cargo, which in turn can reduce the energy consumption and range reduction of the vehicle. EV pickup trucks bed can also avoid some of the problems or risks associated with roof racks or trailers, such as damage, theft, noise, or instability of the items, or difficulty, danger, or legality of driving, parking, or maneuvering the vehicle or the trailer.

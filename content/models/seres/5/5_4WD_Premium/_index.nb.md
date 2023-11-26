@@ -37,7 +37,7 @@ Batteriet har en bruttokapasitet på 80kWh og en nettokapasitet på 78kWh, noe s
 
  [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 483 km (300 mi). Forbruket er 16.1kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
-Maksimal DC-ladehastighet er 100kW. En full lading fra 0 - 100 % vil ta 94 minutter, mens et mer vanlig scenario på 10-80 % vil ta 44 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 12% til 64%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 70kW. Hver ladeøkt vil ta 35 minutter og 45 sekunder. 
+Maksimal DC-ladehastighet er 100kW. En full lading fra 0 - 100 % vil ta 91 minutter, mens et mer vanlig scenario på 10-80 % vil ta 41 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 61%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 79kW. Hver ladeøkt vil ta 32 minutter og 51 sekunder. 
 
 ### Ombordlader
 
@@ -128,7 +128,7 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet 2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer. 
+Det er ett tilgjengelig klimasystem. Klimasystemet 3-zone støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete. 
 
 ## Komfort
 
