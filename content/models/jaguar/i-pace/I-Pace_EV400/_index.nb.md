@@ -1,0 +1,186 @@
+---
+title: Jaguar I-Pace EV400
+linktitle: "I-Pace EV400"
+description: "Jaguar I-Pace EV400 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 470 km (292 miles). EVKX.net har alle detaljene. "
+weight: 10
+hidden: true
+shownavtabs: true
+navicon: bi-car-front
+---
+<!-- markdownlint-disable MD033 -->
+
+
+
+{{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/main_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1687"  >}}
+
+Vi har delt vår Jaguar I-Pace EV400-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+
+- [Ytelse](#ytelse)
+- [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
+- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
+- [Interiør (seter++)](#interiør)
+- [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
+- [Infotainment](#infotainment)
+- [Lys](#lys)
+- [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
+- [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
+
+
+## Ytelse
+
+Jaguar I-Pace EV400 har en maksimal effekt på 294KW (400hk).Totalt dreiemoment er 696nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,8 sekunder. Topphastigheten er 200 km/t. 
+
+## Batteri, rekkevidde og lading
+
+Batteriet har en bruttokapasitet på 90kWh og en nettokapasitet på 84,7kWh, noe som betyr at du har et 5,3kWh-buffer for beskyttelse. (5,9%).
+
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 470 til 408 km (292-254 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.0kWh/100 km for basisversjonen og 20.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+
+Maksimal DC-ladehastighet er 104kW. En full lading fra 0 - 100 % vil ta 105 minutter, mens et mer vanlig scenario på 10-80 % vil ta 49 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 76kW. Hver ladeøkt vil ta 26 minutter og 2 sekunder. 
+
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26,9kWh/100km, vil 1000km ta 10 timer og 47 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 6% til 50%. Totalt tapt tid for å lade opp batteriet vil være 148 minutter.
+
+### Ombordlader
+
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 7KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 12 timer og 6 minutter. 
+
+
+{{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/charging_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
+
+
+### Ladeport
+
+Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Drivverk
+
+drivetrain.drivesetup.NotSetMotoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. -opphenget har en fast høyde og demping. 
+
+### Bremser
+
+
+
+
+
+## Eksteriør
+
+Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen. 
+
+Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 
+
+Det er bare ett tak for denne modellen. 
+
+
+{{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/exterior_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
+
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Interiør
+
+
+
+### Forseter
+
+Bare én type forsete er tilgjengelig i Jaguar I-Pace EV400. 
+
+Følgende funksjoner er tilgjengelige på **** setet. 
+
+
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
+<br />
+
+
+
+{{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/frontseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1946"  >}}
+
+
+### Seter på andre rad
+
+
+
+Følgende funksjoner er tilgjengelige på **** setet. 
+
+
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
+<br />
+
+
+
+{{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}
+
+
+Det er bare én type ratt tilgjengelig. 
+
+## Klimasystem
+
+Det er ett tilgjengelig klimasystem. 
+
+## Komfort
+
+Jaguar I-Pace EV400 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt. 
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Brukergrensesnitt og kontroll
+
+
+Modellen er ikke tilgjengelig med head-up display.
+
+
+{{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/screens_1_st.jpg" title="Jaguar I-Pace EV400" width="2560" height="1632"  >}}
+
+
+## Infotainment
+
+Én type lydsystem er tilgjengelig for Jaguar I-Pace EV400. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt. 
+
+
+## Lys
+
+
+
+
+{{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/headlights_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
+
+## Avanserte førerassistentsystemer
+
+Jaguar I-Pace EV400 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+### Sikkerhetssystemer
+
+
+
+### Kjøreautomatisering
+
+
+
+Med standardsystemet tilbyr modellen ingen kjøreautomatisering. 
+
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Lastekapasitet og slepeevne
+
+Lastkapasiteten i bagasjerommet er 505 liter. Med baksetet nede er det 1163 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 27 liter. 
+
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750kg. 
+
+
+{{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/trunk_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1556"  >}}
+
+### Tilgjengelighet & pris
+
+Denne modellen hadde verdenspremiere 01.03.2018, og leveringene startet i October 2018.
