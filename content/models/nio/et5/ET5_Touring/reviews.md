@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nio ET5 Touring trip to Alvdal in -25°C 26.11.2023
+
+{{< youtube mxMuGW35XAo >}}
+
 ### Bjørn Nyland: Nio ET5 Touring banana box test 25.11.2023
 
 {{< youtube 0lowOn39t6o >}}
