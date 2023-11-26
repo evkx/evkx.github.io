@@ -49,7 +49,7 @@ Many EVs on the market or in development can tow a trailer, but some stand out f
                 Model
             </th>
             <th>
-                Max trailer
+                Max trailer weight
             </th>
         </tr>
     </thead>
@@ -91,21 +91,40 @@ Many EVs on the market or in development can tow a trailer, but some stand out f
 
 ## Different regulation
 
+There are different regulations around the world for the maxium trailer weight for different categories of cars. Some models can be registrated as different categories and based on the registration be limited to different rules.
 
-•  The trailer weight is the total weight of the trailer and its cargo. The trailer weight should not exceed the maximum authorised weight of the trailer, which is indicated on the trailer's identification plate. The trailer weight should also not exceed the maximum authorised towing capacity of the car, which is indicated on the car's registration certificate or owner's manual. The trailer weight should also not exceed the maximum authorised weight of the car and trailer combination, which is the sum of the car's weight and the trailer's weight. The maximum authorised weight of the car and trailer combination should not exceed the limits set by the European Union or the national authorities, depending on the type and category of the car and trailer.
-
-## EU 
+## EU
 
 The class of cars is the category of motor vehicles that are used for the carriage of passengers. The class of cars is determined by the number of seats, the number of wheels, and the engine type of the car. The European Union defines four main classes of cars: M1, M2, M3, and M4.
 
 **M1** cars are motor vehicles with at least four wheels and no more than eight seats in addition to the driver's seat. Examples of M1 cars are sedans, hatchbacks, coupes, convertibles, and SUVs. M1 cars can tow trailers with a maximum authorised weight of up to 3,500 kg, depending on the car's towing capacity and the country's regulations.
 
-M2 cars are motor vehicles with at least four wheels and more than eight seats in addition to the driver's seat, and a maximum weight of 5,000 kg. Examples of M2 cars are minibuses, vans, and small buses. M2 cars can tow trailers with a maximum authorised weight of up to 750 kg, or more if the car and trailer combination does not exceed 12,000 kg, depending on the car's towing capacity and the country's regulations.
+**M2** cars are motor vehicles with at least four wheels and more than eight seats in addition to the driver's seat, and a maximum weight of 5,000 kg. Examples of M2 cars are minibuses, vans, and small buses. M2 cars can tow trailers with a maximum authorised weight of up to 750 kg, or more if the car and trailer combination does not exceed 12,000 kg, depending on the car's towing capacity and the country's regulations.
 
+**M3** cars are motor vehicles with at least four wheels and more than eight seats in addition to the driver's seat, and a maximum weight of more than 5,000 kg. Examples of M3 cars are buses and coaches. M3 cars can tow trailers with a maximum authorised weight of up to 750 kg, or more if the car and trailer combination does not exceed 18,000 kg, depending on the car's towing capacity and the country's regulations.
 
-M3 cars are motor vehicles with at least four wheels and more than eight seats in addition to the driver's seat, and a maximum weight of more than 5,000 kg. Examples of M3 cars are buses and coaches. M3 cars can tow trailers with a maximum authorised weight of up to 750 kg, or more if the car and trailer combination does not exceed 18,000 kg, depending on the car's towing capacity and the country's regulations.
+**M4** cars are motor vehicles with at least four wheels and no more than eight seats in addition to the driver's seat, and a maximum weight of more than 3,500 kg. Examples of M4 cars are heavy-duty SUVs and pickup trucks. M4 cars can tow trailers with a maximum authorised weight of up to 3,500 kg, or more if the car and trailer combination does not exceed 12,000 kg, depending on the car's towing capacity and the country's regulations.
 
-M4 cars are motor vehicles with at least four wheels and no more than eight seats in addition to the driver's seat, and a maximum weight of more than 3,500 kg. Examples of M4 cars are heavy-duty SUVs and pickup trucks. M4 cars can tow trailers with a maximum authorised weight of up to 3,500 kg, or more if the car and trailer combination does not exceed 12,000 kg, depending on the car's towing capacity and the country's regulations.
+**C1 vehicles** are motor vehicles used for the carriage of passengers and having a maximum mass exceeding 3.5 tonnes but not exceeding 7.5 tonnes. Examples of C1 vehicles are minibuses, ambulances, or motorhomes. C1 vehicles can tow trailers with a maximum authorised weight of up to 750 kg, or more if the vehicle and trailer combination does not exceed 12,000 kg, depending on the vehicle's towing capacity and the country's regulations.
+
+**C2 vehicles** are motor vehicles used for the carriage of passengers and having a maximum mass exceeding 7.5 tonnes but not exceeding 18 tonnes. Examples of C2 vehicles are buses, coaches, or articulated buses. C2 vehicles can tow trailers with a maximum authorised weight of up to 750 kg, or more if the vehicle and trailer combination does not exceed 18,000 kg, depending on the vehicle's towing capacity and the country's regulations.
+
+**C3 vehicles** are motor vehicles used for the carriage of passengers and having a maximum mass exceeding 18 tonnes. Examples of C3 vehicles are double-decker buses, articulated buses, or road trains. C3 vehicles can tow trailers with a maximum authorised weight of up to 750 kg, or more if the vehicle and trailer combination does not exceed 25,000 kg, depending on the vehicle's towing capacity and the country's regulations.
+
+**N1 vehicles** are motor vehicles used for the carriage of goods and having a maximum mass not exceeding 3.5 tonnes. Examples of N1 vehicles are vans, pickup trucks, or small trucks. N1 vehicles can tow trailers with a maximum authorised weight of up to 750 kg, or more if the vehicle and trailer combination does not exceed 12,000 kg, depending on the vehicle's towing capacity and the country's regulations.
+
+**N2 vehicles** are motor vehicles used for the carriage of goods and having a maximum mass exceeding 3.5 tonnes but not exceeding 12 tonnes. Examples of N2 vehicles are panel vans and small lorries. N2 vehicles can tow trailers with a maximum authorised weight of up to 750 kg, or more if the vehicle and trailer combination does not exceed 18,000 kg, depending on the vehicle's towing capacity and the country's regulations.
+
+**N3 vehicles** are motor vehicles used for the carriage of goods and having a maximum mass exceeding 12 tonnes. Examples of N3 vehicles are lorries and buses. N3 vehicles can tow trailers with a maximum authorised weight of up to 750 kg, or more if the vehicle and trailer combination does not exceed 25,000 kg, depending on the vehicle's towing capacity and the country's regulations.
+
+## USA
+
+The USA has similar types of vehicle categories as the European Union, but with some differences in the definitions and classifications. The USA uses four main agencies to define vehicle and engine types for the purposes of emissions, fuel economy, safety, and statistics: the U.S. Environmental Protection Agency (EPA), the National Highway Traffic Safety Administration (NHTSA), the Federal Highway Administration (FHWA), and the U.S. Census Bureau.
+
+The EPA and the NHTSA use the same vehicle categories for passenger vehicles and light-duty trucks, based on the interior volume and the gross vehicle weight rating (GVWR) of the vehicles. Passenger vehicles are divided into five classes: minicompact, subcompact, compact, mid-size, and large. Light-duty trucks are divided into four classes: light light-duty trucks (LDT1), light light-duty trucks (LDT2), heavy light-duty trucks (LDT3), and heavy light-duty trucks (LDT4). The EPA and the NHTSA also use the same vehicle categories for heavy-duty vehicles, based on the GVWR of the vehicles. Heavy-duty vehicles are divided into eight classes: 2b, 3, 4, 5, 6, 7, 8a, and 8b.
+
+The FHWA and the U.S. Census Bureau use different vehicle categories for trucks, based on the number of axles and the number of tires of the vehicles. Trucks are divided into 13 classes: single-unit 2-axle 4-tire, single-unit 2-axle 6-tire, single-unit 3-axle, single-unit 4 or more axles, combination 4 or fewer tires, combination 5-axle single-trailer, combination 6 or more axles single-trailer, combination 5 or fewer axles multi-trailer, combination 6-axle multi-trailer, combination 7 or more axles multi-trailer, truck tractor, chassis cab, and unknown truck type.
+
 
 <a href="https://www.transportpolicy.net/">TransportPolicy.net</a> gives a full overview over the different categories in the world
 
