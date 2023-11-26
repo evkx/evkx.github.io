@@ -119,7 +119,7 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Setetype</td><td>None</td></tr>
+<tr><td>Setetype</td><td>PassengerAndDriver</td></tr>
 <tr><td>Elektrisk justering av høyde, hvile og vinkel</td><td>Ukjent</td></tr>
 <tr><td>Minne førersete</td><td>Ukjent</td></tr>
 <tr><td>Minne passasjersete</td><td>Ukjent</td></tr>
@@ -144,7 +144,7 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Setetype</td><td>None</td></tr>
+<tr><td>Setetype</td><td>ThreeSeatBench</td></tr>
 <tr><td>Høydejusterbar nakkestøtte</td><td>Ukjent</td></tr>
 <tr><td>Lengdejusterbar hodestøtte</td><td>Ukjent</td></tr>
 <tr><td>Justerbar lårstøtte</td><td>Ukjent</td></tr>
@@ -170,7 +170,7 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><td>Lane departure warning</td><td></td></tr>
 <tr><td>Døsighetsvarsel</td><td></td></tr>
 <tr><td>Bryggekamera</td><td></td></tr>
-<tr><td>360-kamera</td><td></td></tr>
+<tr><td>360-kamera</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td></td></tr>
 <tr><td>Parkeringssensorer bak</td><td></td></tr>
 <tr><td>Parkeringssensorer foran</td><td></td></tr>

@@ -59,7 +59,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Zeekr 001 Long Range RWD has an all-wheel drive system supported by two motors, one on each axle. 
+Zeekr 001 Long Range RWD has a rear-wheel drive system supported by one motor on the rear axle. 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 174 mm. 
 

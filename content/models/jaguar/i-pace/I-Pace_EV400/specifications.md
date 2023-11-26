@@ -119,7 +119,7 @@ The model offers 2 suspension variants
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Seat type</td><td>None</td></tr>
+<tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
 <tr><td>Electric adjustment of height, recline and angle</td><td>Unknown</td></tr>
 <tr><td>Memory driver seat</td><td>Unknown</td></tr>
 <tr><td>Memory passenger seat</td><td>Unknown</td></tr>
@@ -144,7 +144,7 @@ The model offers 2 suspension variants
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Seat type</td><td>None</td></tr>
+<tr><td>Seat type</td><td>ThreeSeatBench</td></tr>
 <tr><td>Height adjustable headrest</td><td>Unknown</td></tr>
 <tr><td>Length adjustable headrest</td><td>Unknown</td></tr>
 <tr><td>Adjustable thigh support</td><td>Unknown</td></tr>
@@ -170,7 +170,7 @@ The model offers 2 suspension variants
 <tr><td>Lane departure warning</td><td></td></tr>
 <tr><td>Drowsiness Alert</td><td></td></tr>
 <tr><td>Reversing camera</td><td></td></tr>
-<tr><td>360 camera</td><td></td></tr>
+<tr><td>360 camera</td><td>Yes, optional equipment</td></tr>
 <tr><td>Rear cross traffic alert</td><td></td></tr>
 <tr><td>Rear parking sensors</td><td></td></tr>
 <tr><td>Front parking sensors</td><td></td></tr>
