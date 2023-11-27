@@ -22,6 +22,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 <a href="honda"><img src="https://media.evkx.net/multimedia/models/honda/logo_xst.png" alt="Honda" title="Honda" width="130px" class="img-fluid" /></a>
 <a href="hongqi"><img src="https://media.evkx.net/multimedia/models/hongqi/logo_xst.png" alt="Hongqi" title="Hongqi" width="130px" class="img-fluid" /></a>
 <a href="hyundai"><img src="https://media.evkx.net/multimedia/models/hyundai/logo_xst.png" alt="Hyundai" title="Hyundai" width="130px" class="img-fluid" /></a>
+<a href="jaguar"><img src="https://media.evkx.net/multimedia/models/jaguar/logo_xst.png" alt="Jaguar" title="Jaguar" width="130px" class="img-fluid" /></a>
 <a href="jeep"><img src="https://media.evkx.net/multimedia/models/jeep/logo_xst.png" alt="Jeep" title="Jeep" width="130px" class="img-fluid" /></a>
 <a href="kia"><img src="https://media.evkx.net/multimedia/models/kia/logo_xst.png" alt="Kia" title="Kia" width="130px" class="img-fluid" /></a>
 <a href="lexus"><img src="https://media.evkx.net/multimedia/models/lexus/logo_xst.png" alt="Lexus" title="Lexus" width="130px" class="img-fluid" /></a>
@@ -161,6 +162,11 @@ Hongqi has 1 models with total 4 variants. [Read all about them](hongqi/)
 
 
 Hyundai has 3 models with total 7 variants. [Read all about them](hyundai/)
+
+## Jaguar
+
+
+Jaguar has 1 models with total 1 variants. [Read all about them](jaguar/)
 
 ## Jeep
 

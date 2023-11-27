@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### RybrookTV: 2024 Jaguar I-Pace | Walk around & Drive 27.05.2023
+
+{{< youtube xFxHL3LMXZc >}}
+
 ### InsideEvs: 2022 Jaguar I-Pace: InsideEVs 70 MPH Range Test 20.03.2022
 
 {{< youtube GbmafjUitU8 >}}

@@ -201,8 +201,8 @@ The model offers 2 suspension variants
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Android Auto support</td><td></td></tr>
-<tr><td>Apple Carplay support</td><td></td></tr>
-<tr><td>In Car navigation</td><td></td></tr>
+<tr><td>Android Auto support</td><td>Yes, standard equipment</td></tr>
+<tr><td>Apple Carplay support</td><td>Yes, standard equipment</td></tr>
+<tr><td>In Car navigation</td><td>Yes, standard equipment</td></tr>
 </tbody>
 </table>

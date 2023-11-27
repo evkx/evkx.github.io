@@ -201,8 +201,8 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Android Auto-støtte</td><td></td></tr>
-<tr><td>Apple Carplay-støtte</td><td></td></tr>
-<tr><td>I bilnavigasjon</td><td></td></tr>
+<tr><td>Android Auto-støtte</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Apple Carplay-støtte</td><td>Ja, standardutstyr</td></tr>
+<tr><td>I bilnavigasjon</td><td>Ja, standardutstyr</td></tr>
 </tbody>
 </table>

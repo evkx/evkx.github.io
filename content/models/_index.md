@@ -22,6 +22,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 <a href="honda"><img src="https://media.evkx.net/multimedia/models/honda/logo_xst.png" alt="Honda" title="Honda" width="130px" class="img-fluid" /></a>
 <a href="hongqi"><img src="https://media.evkx.net/multimedia/models/hongqi/logo_xst.png" alt="Hongqi" title="Hongqi" width="130px" class="img-fluid" /></a>
 <a href="hyundai"><img src="https://media.evkx.net/multimedia/models/hyundai/logo_xst.png" alt="Hyundai" title="Hyundai" width="130px" class="img-fluid" /></a>
+<a href="jaguar"><img src="https://media.evkx.net/multimedia/models/jaguar/logo_xst.png" alt="Jaguar" title="Jaguar" width="130px" class="img-fluid" /></a>
 <a href="jeep"><img src="https://media.evkx.net/multimedia/models/jeep/logo_xst.png" alt="Jeep" title="Jeep" width="130px" class="img-fluid" /></a>
 <a href="kia"><img src="https://media.evkx.net/multimedia/models/kia/logo_xst.png" alt="Kia" title="Kia" width="130px" class="img-fluid" /></a>
 <a href="lexus"><img src="https://media.evkx.net/multimedia/models/lexus/logo_xst.png" alt="Lexus" title="Lexus" width="130px" class="img-fluid" /></a>
@@ -177,6 +178,12 @@ Hongqi has 1 models with total 4 variants. [Read all about them](hongqi/)
 Hyundai Motor Co. (HMC), established in 1967, is the auto sales leader in the Korean domestic market and exports vehicles to 190 countries worldwide. Hyundai Motor Co. operates the world's largest integrated automobile manufacturing facility in Ulsan, located on Korea's southeast coast. Their electric IONIQ series of EV has been popular.  
 
 Hyundai has 3 models with total 7 variants. [Read all about them](hyundai/)
+
+## Jaguar
+
+Jaguar is a luxury vehicle brand of Jaguar Land Rover, a British multinational car manufacturer with its headquarters in Coventry, England. Jaguar Cars was founded in 1922 as the Swallow Sidecar Company, originally making motorcycle sidecars before developing bodies for passenger cars. The company's name was changed from SS Cars to Jaguar Cars in 1945.
+
+Jaguar has 1 models with total 1 variants. [Read all about them](jaguar/)
 
 ## Jeep
 

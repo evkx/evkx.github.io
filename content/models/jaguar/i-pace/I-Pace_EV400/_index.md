@@ -142,6 +142,8 @@ The model is not available with head-up display.
 
 One type of sound system is available for the Jaguar I-Pace EV400. With the , you get NULL speakers with a max system output of  watts. 
 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Jaguar I-Pace EV400 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+
 
 ## Lights
 
