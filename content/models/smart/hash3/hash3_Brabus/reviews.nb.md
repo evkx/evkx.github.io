@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Autogefühl: Smart #3 Brabus driving REVIEW - the smarter Mercedes AMG? 28.11.2023
+
+{{< youtube Wx6QTtWLvIk >}}
+
 ### Out of Spec Reviews: Smart #1 Full Tour! The Funky Sibling To Volvo EX30 w/ Over 400hp, AWD, Mercedes Tech, & More 11.09.2023
 
 {{< youtube XiyvmdJnybk >}}
