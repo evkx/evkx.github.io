@@ -59,9 +59,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-drivetrain.drivesetup.NotSetThe motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+Jaguar I-Pace EV400 has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The  suspension has a fixed height and damping. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 174 mm. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 230 mm. 
 
 ### Brakes
 
@@ -72,10 +72,13 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 You can choose between 9 different paint colors when ordering this model. 
+Additionally, you can choose between 8 wheels with sizes from 18 to 22 inches. 
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
 
-There is only one roof for this model. 
+You can choose between two types of roofs on this model. The standard is just a regular roof. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
+
+You can order the car with tinted windows from B-pillar and back. 
 
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/exterior_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
@@ -115,7 +118,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}
 
 
-There is only one type of steering wheel available. 
+There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
 
 ## Climate system
 
@@ -172,7 +175,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 505 liters. With the rear seat down, it is 1163 liters. Under the hood, there is frunk with more storage room. This frunk is 27 liters. 
+The cargo capacity in the trunk is 505 liters. With the rear seat down, it is 1163 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 27 liters. 
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750kg. 
 

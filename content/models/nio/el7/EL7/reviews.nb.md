@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### It's Only Electric: NIO EL7 - The premium SUV to get? A Full Review (ES7) 28.11.2023
+
+{{< youtube Cgbr5k_J_8c >}}
+
 ### Kris Rifa: Nio EL7 120KPH Range Test 16.06.2023
 
 {{< youtube xZk-bpVxhLo >}}

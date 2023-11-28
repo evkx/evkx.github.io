@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Bjørn Nyland: Nio ET5 Touring 100 kWh range test 28.11.2023
+
+{{< youtube MCFTs487Y6g >}}
+
 ### Bjørn Nyland: Nio ET5 Touring trip to Alvdal in -25°C 26.11.2023
 
 {{< youtube mxMuGW35XAo >}}

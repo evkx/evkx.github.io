@@ -89,6 +89,8 @@ The model offers 2 suspension variants
 <tbody>
 <tr><td>Adjustable height front</td><td>Not available</td></tr>
 <tr><td>Adjustable height rear</td><td>Not available</td></tr>
+<tr><td>Max ground clearance</td><td>174</td></tr>
+<tr><td>Minimum ground clearance</td><td>174</td></tr>
 <tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
 <tr><td>Suspension construction front</td><td>DoubleWishbone</td></tr>
 <tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
@@ -102,6 +104,8 @@ The model offers 2 suspension variants
 <tbody>
 <tr><td>Adjustable height front</td><td>Not available</td></tr>
 <tr><td>Adjustable height rear</td><td>Not available</td></tr>
+<tr><td>Max ground clearance</td><td>174</td></tr>
+<tr><td>Minimum ground clearance</td><td>230</td></tr>
 <tr><td>Suspension type front</td><td>AirSuspension</td></tr>
 <tr><td>Suspension construction front</td><td>DoubleWishbone</td></tr>
 <tr><td>Suspension type rear</td><td>AirSuspension</td></tr>

@@ -89,6 +89,8 @@ Modellen tilbyr 2 fjæringsvarianter
 <tbody>
 <tr><td>Justerbar høyde foran</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Justerbar høyde bak</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Maks bakkeklaring</td><td>174</td></tr>
+<tr><td>Minimum bakkeklaring</td><td>174</td></tr>
 <tr><td>Fjæringstype foran</td><td>SteelSpringsWithOilDampers</td></tr>
 <tr><td>Fjæringskonstruksjon foran</td><td>DoubleWishbone</td></tr>
 <tr><td>Fjæringstype bak</td><td>SteelSpringsWithOilDampers</td></tr>
@@ -102,6 +104,8 @@ Modellen tilbyr 2 fjæringsvarianter
 <tbody>
 <tr><td>Justerbar høyde foran</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Justerbar høyde bak</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Maks bakkeklaring</td><td>174</td></tr>
+<tr><td>Minimum bakkeklaring</td><td>230</td></tr>
 <tr><td>Fjæringstype foran</td><td>AirSuspension</td></tr>
 <tr><td>Fjæringskonstruksjon foran</td><td>DoubleWishbone</td></tr>
 <tr><td>Fjæringstype bak</td><td>AirSuspension</td></tr>
