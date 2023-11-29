@@ -94,22 +94,9 @@ Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
-Det er tre setetyper du kan velge mellom for første rad i Jaguar I-Pace EV400. 
+Det er to setetyper du kan velge mellom for første rad i Jaguar I-Pace EV400. 
 
-Følgende funksjoner er tilgjengelige på **8-way** setet. 
-
-
-Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen. 
-- Black [skinntrekk](../../../../technology/seats/materials/#leather)
-- Beige [skinntrekk](../../../../technology/seats/materials/#leather)
-- Black [skinntrekk](../../../../technology/seats/materials/#leather)
-- Beige [skinntrekk](../../../../technology/seats/materials/#leather)
-- Red [skinntrekk](../../../../technology/seats/materials/#leather)
-- Grey [stoffpolstring](../../../../technology/seats/materials/#fabric)
-
-
-
-Følgende funksjoner er tilgjengelige på **14-way performance** setet. 
+Følgende funksjoner er tilgjengelige på **Performance** setet. 
 
 - elektrisk justering 
 - høydejusterbar hodestøtte 
@@ -132,7 +119,7 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 - elektrisk justering 
 - høydejusterbar hodestøtte 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) 
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (tilvalg)
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (tilvalg)

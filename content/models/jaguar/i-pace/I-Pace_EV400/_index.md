@@ -94,22 +94,9 @@ The seat layout is the traditional five seats with two in front and three in the
 
 ### First row seats
 
-There are three seat types you can choose from for the front row in the Jaguar I-Pace EV400. 
+There are two seat types you can choose from for the front row in the Jaguar I-Pace EV400. 
 
-The following functionalities are available on the **8-way** seat. 
-
-
-You can choose from 6 different materials/colors for this seat type. 
-- Black [leather upholstering](../../../../technology/seats/materials/#leather)
-- Beige [leather upholstering](../../../../technology/seats/materials/#leather)
-- Black [leather upholstering](../../../../technology/seats/materials/#leather)
-- Beige [leather upholstering](../../../../technology/seats/materials/#leather)
-- Red [leather upholstering](../../../../technology/seats/materials/#leather)
-- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
-
-
-
-The following functionalities are available on the **14-way performance** seat. 
+The following functionalities are available on the **Performance** seat. 
 
 - electric adjustment 
 - height adjustable headrest 
@@ -132,7 +119,7 @@ The following functionalities are available on the **Sport** seat.
 - electric adjustment 
 - height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (optional)
