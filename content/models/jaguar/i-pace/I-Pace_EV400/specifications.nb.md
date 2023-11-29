@@ -118,6 +118,9 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ### Forseter
 
+
+#### 8-way
+
 <table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
@@ -141,14 +144,17 @@ Modellen tilbyr 2 fjæringsvarianter
 </tbody>
 </table>
 
-### Forseter
+#### 12-way
 
 <table class="table table-striped">
 <thead>
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Setetype</td><td>ThreeSeatBench</td></tr>
+<tr><td>Setetype</td><td>PassengerAndDriver</td></tr>
+<tr><td>Elektrisk justering av høyde, hvile og vinkel</td><td>Ukjent</td></tr>
+<tr><td>Minne førersete</td><td>Ukjent</td></tr>
+<tr><td>Minne passasjersete</td><td>Ukjent</td></tr>
 <tr><td>Høydejusterbar nakkestøtte</td><td>Ukjent</td></tr>
 <tr><td>Lengdejusterbar hodestøtte</td><td>Ukjent</td></tr>
 <tr><td>Justerbar lårstøtte</td><td>Ukjent</td></tr>
@@ -163,6 +169,97 @@ Modellen tilbyr 2 fjæringsvarianter
 </tbody>
 </table>
 
+#### 14-way performance
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
+</thead>
+<tbody>
+<tr><td>Setetype</td><td>PassengerAndDriver</td></tr>
+<tr><td>Elektrisk justering av høyde, hvile og vinkel</td><td>Standardfunksjon</td></tr>
+<tr><td>Minne førersete</td><td>Standardfunksjon</td></tr>
+<tr><td>Minne passasjersete</td><td>Ukjent</td></tr>
+<tr><td>Høydejusterbar nakkestøtte</td><td>Standardfunksjon</td></tr>
+<tr><td>Lengdejusterbar hodestøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justering av ryggstøtten</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justering av setepute, sidestøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk lumbaljustering</td><td>Standardfunksjon</td></tr>
+<tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
+</tbody>
+</table>
+
+#### 16-way
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
+</thead>
+<tbody>
+<tr><td>Setetype</td><td>PassengerAndDriver</td></tr>
+<tr><td>Elektrisk justering av høyde, hvile og vinkel</td><td>Standardfunksjon</td></tr>
+<tr><td>Minne førersete</td><td>Standardfunksjon</td></tr>
+<tr><td>Minne passasjersete</td><td>Ukjent</td></tr>
+<tr><td>Høydejusterbar nakkestøtte</td><td>Standardfunksjon</td></tr>
+<tr><td>Lengdejusterbar hodestøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar lårstøtte</td><td>Standardfunksjon</td></tr>
+<tr><td>Justering av ryggstøtten</td><td>Standardfunksjon</td></tr>
+<tr><td>Justering av setepute, sidestøtte</td><td>Standardfunksjon</td></tr>
+<tr><td>Elektrisk justerbar lårstøtte</td><td>Standardfunksjon</td></tr>
+<tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk lumbaljustering</td><td>Standardfunksjon</td></tr>
+<tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
+<tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
+</tbody>
+</table>
+
+### Forseter
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
+</thead>
+<tbody>
+<tr><td>Setetype</td><td>ThreeSeatBench</td></tr>
+<tr><td>Høydejusterbar nakkestøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Lengdejusterbar hodestøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justering av ryggstøtten</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justering av setepute, sidestøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
+</tbody>
+</table>
+<table class="table table-striped">
+<thead>
+<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
+</thead>
+<tbody>
+<tr><td>Setetype</td><td>ThreeSeatBench</td></tr>
+<tr><td>Høydejusterbar nakkestøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Lengdejusterbar hodestøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justering av ryggstøtten</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Justering av setepute, sidestøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
+</tbody>
+</table>
+
 ## Sjåførassistanse
 
 <table class="table table-striped">
@@ -170,21 +267,21 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Lane keeping</td><td></td></tr>
-<tr><td>Lane departure warning</td><td></td></tr>
+<tr><td>Lane keeping</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Døsighetsvarsel</td><td></td></tr>
-<tr><td>Bryggekamera</td><td></td></tr>
+<tr><td>Bryggekamera</td><td>Ja, standardutstyr</td></tr>
 <tr><td>360-kamera</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Alarm for kryssende trafikk bak</td><td></td></tr>
-<tr><td>Parkeringssensorer bak</td><td></td></tr>
-<tr><td>Parkeringssensorer foran</td><td></td></tr>
+<tr><td>Parkeringssensorer bak</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Parkeringssensorer foran</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Parkeringssensorer på siden</td><td></td></tr>
 <tr><td>Hill nedstigningshjelp</td><td></td></tr>
-<tr><td>Hill start assist</td><td></td></tr>
-<tr><td>AntiLock Braking System</td><td></td></tr>
-<tr><td>Automatisk nødbremsing</td><td></td></tr>
-<tr><td>Bremseassistent</td><td></td></tr>
-<tr><td>Traksjonskontroll</td><td></td></tr>
+<tr><td>Hill start assist</td><td>Ja, standardutstyr</td></tr>
+<tr><td>AntiLock Braking System</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Automatisk nødbremsing</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Bremseassistent</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Traksjonskontroll</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Unngå krasj i venstresving</td><td></td></tr>
 <tr><td>Forward Collision Warning</td><td></td></tr>
 <tr><td>Elektronisk stabilitetskontroll</td><td></td></tr>
@@ -193,8 +290,8 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><td>Fartsbegrenser</td><td></td></tr>
 <tr><td>Effektivitetsassistent</td><td></td></tr>
 <tr><td>Automatisk nødstyring</td><td></td></tr>
-<tr><td>Trafikkskiltgjenkjenning</td><td></td></tr>
-<tr><td>Nattsyn</td><td></td></tr>
+<tr><td>Trafikkskiltgjenkjenning</td><td>Ja, standardutstyr</td></tr>
+<tr><td>Nattsyn</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
 </table>
 
@@ -208,5 +305,32 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><td>Android Auto-støtte</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Apple Carplay-støtte</td><td>Ja, standardutstyr</td></tr>
 <tr><td>I bilnavigasjon</td><td>Ja, standardutstyr</td></tr>
+</tbody>
+</table>
+<tr><td>Antall tilgjengelige lydsystemer</td><td>2</td></tr>
+
+### Meridian Sound System
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
+</thead>
+<tbody>
+<tr><td>Antall høyttalere</td><td>11</td></tr>
+<tr><td>Kanaler</td><td>13</td></tr>
+<tr><td>Total effekt</td><td>400</td></tr>
+</tbody>
+</table>
+
+### Meridian 3D Surround
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
+</thead>
+<tbody>
+<tr><td>Antall høyttalere</td><td>16</td></tr>
+<tr><td>Kanaler</td><td>17</td></tr>
+<tr><td>Total effekt</td><td>750</td></tr>
 </tbody>
 </table>

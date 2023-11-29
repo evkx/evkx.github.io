@@ -118,6 +118,9 @@ The model offers 2 suspension variants
 
 ### Front seats
 
+
+#### 8-way
+
 <table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
@@ -141,14 +144,17 @@ The model offers 2 suspension variants
 </tbody>
 </table>
 
-### Front seats
+#### 12-way
 
 <table class="table table-striped">
 <thead>
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Seat type</td><td>ThreeSeatBench</td></tr>
+<tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
+<tr><td>Electric adjustment of height, recline and angle</td><td>Unknown</td></tr>
+<tr><td>Memory driver seat</td><td>Unknown</td></tr>
+<tr><td>Memory passenger seat</td><td>Unknown</td></tr>
 <tr><td>Height adjustable headrest</td><td>Unknown</td></tr>
 <tr><td>Length adjustable headrest</td><td>Unknown</td></tr>
 <tr><td>Adjustable thigh support</td><td>Unknown</td></tr>
@@ -163,6 +169,97 @@ The model offers 2 suspension variants
 </tbody>
 </table>
 
+#### 14-way performance
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
+<tr><td>Electric adjustment of height, recline and angle</td><td>Standard feature</td></tr>
+<tr><td>Memory driver seat</td><td>Standard feature</td></tr>
+<tr><td>Memory passenger seat</td><td>Unknown</td></tr>
+<tr><td>Height adjustable headrest</td><td>Standard feature</td></tr>
+<tr><td>Length adjustable headrest</td><td>Not Available</td></tr>
+<tr><td>Adjustable thigh support</td><td>Not Available</td></tr>
+<tr><td>Backrest side bolster adjustment</td><td>Not Available</td></tr>
+<tr><td>Seat cushion side bolster adjustement</td><td>Not Available</td></tr>
+<tr><td>Electric adjustable thigh support</td><td>Not Available</td></tr>
+<tr><td>Footrest passengers</td><td>Not Available</td></tr>
+<tr><td>Leg support passenger</td><td>Not Available</td></tr>
+<tr><td>Electric lumbar adjustment</td><td>Standard feature</td></tr>
+<tr><td>Seat ventilation</td><td>Not Available</td></tr>
+<tr><td>Massage function</td><td>Not Available</td></tr>
+</tbody>
+</table>
+
+#### 16-way
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
+<tr><td>Electric adjustment of height, recline and angle</td><td>Standard feature</td></tr>
+<tr><td>Memory driver seat</td><td>Standard feature</td></tr>
+<tr><td>Memory passenger seat</td><td>Unknown</td></tr>
+<tr><td>Height adjustable headrest</td><td>Standard feature</td></tr>
+<tr><td>Length adjustable headrest</td><td>Not Available</td></tr>
+<tr><td>Adjustable thigh support</td><td>Standard feature</td></tr>
+<tr><td>Backrest side bolster adjustment</td><td>Standard feature</td></tr>
+<tr><td>Seat cushion side bolster adjustement</td><td>Standard feature</td></tr>
+<tr><td>Electric adjustable thigh support</td><td>Standard feature</td></tr>
+<tr><td>Footrest passengers</td><td>Not Available</td></tr>
+<tr><td>Leg support passenger</td><td>Not Available</td></tr>
+<tr><td>Electric lumbar adjustment</td><td>Standard feature</td></tr>
+<tr><td>Seat ventilation</td><td>Standard feature</td></tr>
+<tr><td>Massage function</td><td>Not Available</td></tr>
+</tbody>
+</table>
+
+### Front seats
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Seat type</td><td>ThreeSeatBench</td></tr>
+<tr><td>Height adjustable headrest</td><td>Not Available</td></tr>
+<tr><td>Length adjustable headrest</td><td>Not Available</td></tr>
+<tr><td>Adjustable thigh support</td><td>Not Available</td></tr>
+<tr><td>Backrest side bolster adjustment</td><td>Not Available</td></tr>
+<tr><td>Seat cushion side bolster adjustement</td><td>Not Available</td></tr>
+<tr><td>Electric adjustable thigh support</td><td>Not Available</td></tr>
+<tr><td>Footrest passengers</td><td>Not Available</td></tr>
+<tr><td>Leg support passenger</td><td>Not Available</td></tr>
+<tr><td>Electric lumbar adjustment</td><td>Not Available</td></tr>
+<tr><td>Seat ventilation</td><td>Not Available</td></tr>
+<tr><td>Massage function</td><td>Not Available</td></tr>
+</tbody>
+</table>
+<table class="table table-striped">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Seat type</td><td>ThreeSeatBench</td></tr>
+<tr><td>Height adjustable headrest</td><td>Not Available</td></tr>
+<tr><td>Length adjustable headrest</td><td>Not Available</td></tr>
+<tr><td>Adjustable thigh support</td><td>Not Available</td></tr>
+<tr><td>Backrest side bolster adjustment</td><td>Not Available</td></tr>
+<tr><td>Seat cushion side bolster adjustement</td><td>Not Available</td></tr>
+<tr><td>Electric adjustable thigh support</td><td>Not Available</td></tr>
+<tr><td>Footrest passengers</td><td>Not Available</td></tr>
+<tr><td>Leg support passenger</td><td>Not Available</td></tr>
+<tr><td>Electric lumbar adjustment</td><td>Not Available</td></tr>
+<tr><td>Seat ventilation</td><td>Not Available</td></tr>
+<tr><td>Massage function</td><td>Not Available</td></tr>
+</tbody>
+</table>
+
 ## Driver Assistance
 
 <table class="table table-striped">
@@ -170,21 +267,21 @@ The model offers 2 suspension variants
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Lane keeping</td><td></td></tr>
-<tr><td>Lane departure warning</td><td></td></tr>
+<tr><td>Lane keeping</td><td>Yes, standard equipment</td></tr>
+<tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
 <tr><td>Drowsiness Alert</td><td></td></tr>
-<tr><td>Reversing camera</td><td></td></tr>
+<tr><td>Reversing camera</td><td>Yes, standard equipment</td></tr>
 <tr><td>360 camera</td><td>Yes, optional equipment</td></tr>
 <tr><td>Rear cross traffic alert</td><td></td></tr>
-<tr><td>Rear parking sensors</td><td></td></tr>
-<tr><td>Front parking sensors</td><td></td></tr>
+<tr><td>Rear parking sensors</td><td>Yes, standard equipment</td></tr>
+<tr><td>Front parking sensors</td><td>Yes, standard equipment</td></tr>
 <tr><td>Side parking sensors</td><td></td></tr>
 <tr><td>Hill descent assist</td><td></td></tr>
-<tr><td>Hill start assist</td><td></td></tr>
-<tr><td>AntiLock Braking System</td><td></td></tr>
-<tr><td>Automatic emergency braking</td><td></td></tr>
-<tr><td>Brake assist</td><td></td></tr>
-<tr><td>Traction control</td><td></td></tr>
+<tr><td>Hill start assist</td><td>Yes, standard equipment</td></tr>
+<tr><td>AntiLock Braking System</td><td>Yes, standard equipment</td></tr>
+<tr><td>Automatic emergency braking</td><td>Yes, standard equipment</td></tr>
+<tr><td>Brake assist</td><td>Yes, standard equipment</td></tr>
+<tr><td>Traction control</td><td>Yes, standard equipment</td></tr>
 <tr><td>Left turn crash avoidance</td><td></td></tr>
 <tr><td>Forward Collision Warning</td><td></td></tr>
 <tr><td>Electronic stability control</td><td></td></tr>
@@ -193,8 +290,8 @@ The model offers 2 suspension variants
 <tr><td>Speed limiter</td><td></td></tr>
 <tr><td>Efficiency assist</td><td></td></tr>
 <tr><td>Automatic Emergency Steering</td><td></td></tr>
-<tr><td>Traffic Sign Recognition</td><td></td></tr>
-<tr><td>Night Vision</td><td></td></tr>
+<tr><td>Traffic Sign Recognition</td><td>Yes, standard equipment</td></tr>
+<tr><td>Night Vision</td><td>Not available</td></tr>
 </tbody>
 </table>
 
@@ -208,5 +305,32 @@ The model offers 2 suspension variants
 <tr><td>Android Auto support</td><td>Yes, standard equipment</td></tr>
 <tr><td>Apple Carplay support</td><td>Yes, standard equipment</td></tr>
 <tr><td>In Car navigation</td><td>Yes, standard equipment</td></tr>
+</tbody>
+</table>
+<tr><td>Number of avaiable sound systems</td><td>2</td></tr>
+
+### Meridian Sound System
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Number of speakers</td><td>11</td></tr>
+<tr><td>Channels</td><td>13</td></tr>
+<tr><td>Total effect</td><td>400</td></tr>
+</tbody>
+</table>
+
+### Meridian 3D Surround
+
+<table class="table table-striped">
+<thead>
+<tr><th>Spec</th><th>Value</th></tr>
+</thead>
+<tbody>
+<tr><td>Number of speakers</td><td>16</td></tr>
+<tr><td>Channels</td><td>17</td></tr>
+<tr><td>Total effect</td><td>750</td></tr>
 </tbody>
 </table>

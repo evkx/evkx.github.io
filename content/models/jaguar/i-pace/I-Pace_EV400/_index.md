@@ -94,10 +94,45 @@ You can order the car with tinted windows from B-pillar and back.
 
 ### First row seats
 
-Only one front seat type is available in the Jaguar I-Pace EV400. 
+There are four seat types you can choose from for the front row in the Jaguar I-Pace EV400. 
 
-The following functionalities are available on the **** seat. 
+The following functionalities are available on the **8-way** seat. 
 
+
+You can choose from 1 different materials/colors for this seat type. <br />
+<br />
+
+
+The following functionalities are available on the **12-way** seat. 
+
+
+You can choose from 1 different materials/colors for this seat type. <br />
+<br />
+
+
+The following functionalities are available on the **14-way performance** seat. 
+
+- electric adjustment 
+- height adjustable headrest 
+- [heating](../../../../technology/seats/adjustment/#heating) 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+
+You can choose from 1 different materials/colors for this seat type. <br />
+<br />
+
+
+The following functionalities are available on the **16-way** seat. 
+
+- electric adjustment 
+- height adjustable headrest 
+- [heating](../../../../technology/seats/adjustment/#heating) 
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
+- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
+- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />
@@ -107,12 +142,16 @@ You can choose from 1 different materials/colors for this seat type. <br />
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/frontseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1946"  >}}
 
 
-### Second-row seat
+### Second-row seats
+
+You can choose two seat types for the second row in the Jaguar I-Pace EV400. 
+
+The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
 
+The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available. 
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
-
+- [heating](../../../../technology/seats/adjustment/#heating) 
 
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}
@@ -122,11 +161,13 @@ There is only one type of steering wheel available. The  steering wheel is heate
 
 ## Climate system
 
-There is one climate system available. 
+You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. 
 
 ## Comfort
 
 Jaguar I-Pace EV400 has several features to make your life as a driver or passenger more comfortable. 
+
+You have wireless charging for your phone.  
 
 {{<evkxdisplayaddarticle />}}
 
@@ -135,7 +176,7 @@ Jaguar I-Pace EV400 has several features to make your life as a driver or passen
 ## User interface and control
 
 The Jaguar I-Pace EV400 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen at the top of the center console is 10.0 inches large. The touch screen at the bottom of the center console is 5.5 inches large. 
-The model is not available with head-up display.
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/screens_1_st.jpg" title="Jaguar I-Pace EV400" width="2560" height="1632"  >}}
@@ -143,7 +184,7 @@ The model is not available with head-up display.
 
 ## Infotainment
 
-One type of sound system is available for the Jaguar I-Pace EV400. With the , you get NULL speakers with a max system output of  watts. 
+You can choose between two sound systems on the Jaguar I-Pace EV400. With the Meridian Sound System, you get 11 speakers with a max system output of 400 watts. With the Meridian 3D Surround, you get 16 speakers with a max system output of 750 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Jaguar I-Pace EV400 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
@@ -161,6 +202,12 @@ The Jaguar I-Pace EV400 has several standard and optional [advanced driver assis
 ### Safety systems
 
 
+
+The Jaguar I-Pace EV400 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
+The Jaguar I-Pace EV400 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+The Jaguar I-Pace EV400 has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 

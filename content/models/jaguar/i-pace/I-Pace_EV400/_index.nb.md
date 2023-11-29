@@ -94,10 +94,45 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 ### Forseter
 
-Bare én type forsete er tilgjengelig i Jaguar I-Pace EV400. 
+Det er fire setetyper du kan velge mellom for første rad i Jaguar I-Pace EV400. 
 
-Følgende funksjoner er tilgjengelige på **** setet. 
+Følgende funksjoner er tilgjengelige på **8-way** setet. 
 
+
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
+<br />
+
+
+Følgende funksjoner er tilgjengelige på **12-way** setet. 
+
+
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
+<br />
+
+
+Følgende funksjoner er tilgjengelige på **14-way performance** setet. 
+
+- elektrisk justering 
+- høydejusterbar hodestøtte 
+- [oppvarming](../../../../technology/seats/adjustment/#heating) 
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) 
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
+
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
+<br />
+
+
+Følgende funksjoner er tilgjengelige på **16-way** setet. 
+
+- elektrisk justering 
+- høydejusterbar hodestøtte 
+- [oppvarming](../../../../technology/seats/adjustment/#heating) 
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) 
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
+- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
+- [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
+- [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
 <br />
@@ -109,10 +144,14 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
 
 ### Seter på andre rad
 
+Du kan velge to setetyper for den andre raden i Jaguar I-Pace EV400. 
+
+Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
 
-Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
+Alternativet second er en tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
+- [oppvarming](../../../../technology/seats/adjustment/#heating) 
 
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}
@@ -122,11 +161,13 @@ Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontroll
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. 
+Du kan velge mellom to forskjellige klimasystemer. Klimasystemet 2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Klimasystemet 4-zone støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet. 
 
 ## Komfort
 
 Jaguar I-Pace EV400 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt. 
+
+Du har trådløs lading for telefonen din. 
 
 {{<evkxdisplayaddarticle />}}
 
@@ -135,7 +176,7 @@ Jaguar I-Pace EV400 har flere funksjoner for å gjøre livet ditt som sjåfør e
 ## Brukergrensesnitt og kontroll
 
 Jaguar I-Pace EV400 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er to forskjellige [infotainment-skjermer](../../../../technology/userinterface/screens/#infotainment-screen). -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. touch-skjermen øverst på midtkonsollen er 10.0 tommer stor. touch-skjermen nederst på midtkonsollen er 5.5 tommer stor. 
-Modellen er ikke tilgjengelig med head-up display.
+Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/screens_1_st.jpg" title="Jaguar I-Pace EV400" width="2560" height="1632"  >}}
@@ -143,7 +184,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Jaguar I-Pace EV400. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt. 
+Du kan velge mellom to lydsystemer på Jaguar I-Pace EV400. Med Meridian Sound System får du 11 høyttalere med en maksimal systemeffekt på 400 watt. Med Meridian 3D Surround får du 16 høyttalere med en maksimal systemeffekt på 750 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Jaguar I-Pace EV400 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
@@ -161,6 +202,12 @@ Jaguar I-Pace EV400 har flere standard og valgfrie [avanserte førerassistentsys
 ### Sikkerhetssystemer
 
 
+
+Jaguar I-Pace EV400 har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+
+Jaguar I-Pace EV400 har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+
+Jaguar I-Pace EV400 har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
 ### Kjøreautomatisering
 
