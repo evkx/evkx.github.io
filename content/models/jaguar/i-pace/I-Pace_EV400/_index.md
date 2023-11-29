@@ -90,24 +90,23 @@ You can order the car with tinted windows from B-pillar and back.
 
 ## Interior
 
-
+The seat layout is the traditional five seats with two in front and three in the rear. 
 
 ### First row seats
 
-There are four seat types you can choose from for the front row in the Jaguar I-Pace EV400. 
+There are three seat types you can choose from for the front row in the Jaguar I-Pace EV400. 
 
 The following functionalities are available on the **8-way** seat. 
 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
+You can choose from 6 different materials/colors for this seat type. 
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige [leather upholstering](../../../../technology/seats/materials/#leather)
+- Red [leather upholstering](../../../../technology/seats/materials/#leather)
+- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
-
-The following functionalities are available on the **12-way** seat. 
-
-
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
 
 
 The following functionalities are available on the **14-way performance** seat. 
@@ -118,24 +117,36 @@ The following functionalities are available on the **14-way performance** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
+You can choose from 6 different materials/colors for this seat type. 
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige [leather upholstering](../../../../technology/seats/materials/#leather)
+- Red [leather upholstering](../../../../technology/seats/materials/#leather)
+- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 
-The following functionalities are available on the **16-way** seat. 
+
+The following functionalities are available on the **Sport** seat. 
 
 - electric adjustment 
 - height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
-- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
-- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
+- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (optional)
+- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 1 different materials/colors for this seat type. <br />
-<br />
+You can choose from 6 different materials/colors for this seat type. 
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige [leather upholstering](../../../../technology/seats/materials/#leather)
+- Red [leather upholstering](../../../../technology/seats/materials/#leather)
+- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
+
 
 
 

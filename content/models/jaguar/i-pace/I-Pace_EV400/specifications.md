@@ -115,36 +115,12 @@ The model offers 2 suspension variants
 
 ## Interior
 
+This model is available with a seat configuration with five seats.
 
 ### Front seats
 
 
 #### 8-way
-
-<table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
-<tr><td>Electric adjustment of height, recline and angle</td><td>Unknown</td></tr>
-<tr><td>Memory driver seat</td><td>Unknown</td></tr>
-<tr><td>Memory passenger seat</td><td>Unknown</td></tr>
-<tr><td>Height adjustable headrest</td><td>Unknown</td></tr>
-<tr><td>Length adjustable headrest</td><td>Unknown</td></tr>
-<tr><td>Adjustable thigh support</td><td>Unknown</td></tr>
-<tr><td>Backrest side bolster adjustment</td><td>Unknown</td></tr>
-<tr><td>Seat cushion side bolster adjustement</td><td>Unknown</td></tr>
-<tr><td>Electric adjustable thigh support</td><td>Unknown</td></tr>
-<tr><td>Footrest passengers</td><td>Unknown</td></tr>
-<tr><td>Leg support passenger</td><td>Unknown</td></tr>
-<tr><td>Electric lumbar adjustment</td><td>Unknown</td></tr>
-<tr><td>Seat ventilation</td><td>Unknown</td></tr>
-<tr><td>Massage function</td><td>Unknown</td></tr>
-</tbody>
-</table>
-
-#### 12-way
 
 <table class="table table-striped">
 <thead>
@@ -194,7 +170,7 @@ The model offers 2 suspension variants
 </tbody>
 </table>
 
-#### 16-way
+#### Sport
 
 <table class="table table-striped">
 <thead>
@@ -207,14 +183,14 @@ The model offers 2 suspension variants
 <tr><td>Memory passenger seat</td><td>Unknown</td></tr>
 <tr><td>Height adjustable headrest</td><td>Standard feature</td></tr>
 <tr><td>Length adjustable headrest</td><td>Not Available</td></tr>
-<tr><td>Adjustable thigh support</td><td>Standard feature</td></tr>
-<tr><td>Backrest side bolster adjustment</td><td>Standard feature</td></tr>
-<tr><td>Seat cushion side bolster adjustement</td><td>Standard feature</td></tr>
-<tr><td>Electric adjustable thigh support</td><td>Standard feature</td></tr>
+<tr><td>Adjustable thigh support</td><td>Optional feature</td></tr>
+<tr><td>Backrest side bolster adjustment</td><td>Optional feature</td></tr>
+<tr><td>Seat cushion side bolster adjustement</td><td>Optional feature</td></tr>
+<tr><td>Electric adjustable thigh support</td><td>Optional feature</td></tr>
 <tr><td>Footrest passengers</td><td>Not Available</td></tr>
 <tr><td>Leg support passenger</td><td>Not Available</td></tr>
 <tr><td>Electric lumbar adjustment</td><td>Standard feature</td></tr>
-<tr><td>Seat ventilation</td><td>Standard feature</td></tr>
+<tr><td>Seat ventilation</td><td>Optional feature</td></tr>
 <tr><td>Massage function</td><td>Not Available</td></tr>
 </tbody>
 </table>

@@ -115,36 +115,12 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ## Interiør
 
+Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Forseter
 
 
 #### 8-way
-
-<table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-<tr><td>Setetype</td><td>PassengerAndDriver</td></tr>
-<tr><td>Elektrisk justering av høyde, hvile og vinkel</td><td>Ukjent</td></tr>
-<tr><td>Minne førersete</td><td>Ukjent</td></tr>
-<tr><td>Minne passasjersete</td><td>Ukjent</td></tr>
-<tr><td>Høydejusterbar nakkestøtte</td><td>Ukjent</td></tr>
-<tr><td>Lengdejusterbar hodestøtte</td><td>Ukjent</td></tr>
-<tr><td>Justerbar lårstøtte</td><td>Ukjent</td></tr>
-<tr><td>Justering av ryggstøtten</td><td>Ukjent</td></tr>
-<tr><td>Justering av setepute, sidestøtte</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
-<tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
-<tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ukjent</td></tr>
-<tr><td>Seteventilasjon</td><td>Ukjent</td></tr>
-<tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
-</tbody>
-</table>
-
-#### 12-way
 
 <table class="table table-striped">
 <thead>
@@ -194,7 +170,7 @@ Modellen tilbyr 2 fjæringsvarianter
 </tbody>
 </table>
 
-#### 16-way
+#### Sport
 
 <table class="table table-striped">
 <thead>
@@ -207,14 +183,14 @@ Modellen tilbyr 2 fjæringsvarianter
 <tr><td>Minne passasjersete</td><td>Ukjent</td></tr>
 <tr><td>Høydejusterbar nakkestøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Lengdejusterbar hodestøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Justerbar lårstøtte</td><td>Standardfunksjon</td></tr>
-<tr><td>Justering av ryggstøtten</td><td>Standardfunksjon</td></tr>
-<tr><td>Justering av setepute, sidestøtte</td><td>Standardfunksjon</td></tr>
-<tr><td>Elektrisk justerbar lårstøtte</td><td>Standardfunksjon</td></tr>
+<tr><td>Justerbar lårstøtte</td><td>Valgfri funksjon</td></tr>
+<tr><td>Justering av ryggstøtten</td><td>Valgfri funksjon</td></tr>
+<tr><td>Justering av setepute, sidestøtte</td><td>Valgfri funksjon</td></tr>
+<tr><td>Elektrisk justerbar lårstøtte</td><td>Valgfri funksjon</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Elektrisk lumbaljustering</td><td>Standardfunksjon</td></tr>
-<tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
+<tr><td>Seteventilasjon</td><td>Valgfri funksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
 </table>

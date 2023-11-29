@@ -90,24 +90,23 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 ## Interiør
 
-
+Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
 
 ### Forseter
 
-Det er fire setetyper du kan velge mellom for første rad i Jaguar I-Pace EV400. 
+Det er tre setetyper du kan velge mellom for første rad i Jaguar I-Pace EV400. 
 
 Følgende funksjoner er tilgjengelige på **8-way** setet. 
 
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
-<br />
+Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen. 
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige [skinntrekk](../../../../technology/seats/materials/#leather)
+- Red [skinntrekk](../../../../technology/seats/materials/#leather)
+- Grey [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
-
-Følgende funksjoner er tilgjengelige på **12-way** setet. 
-
-
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
-<br />
 
 
 Følgende funksjoner er tilgjengelige på **14-way performance** setet. 
@@ -118,24 +117,36 @@ Følgende funksjoner er tilgjengelige på **14-way performance** setet.
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) 
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
-<br />
+Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen. 
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige [skinntrekk](../../../../technology/seats/materials/#leather)
+- Red [skinntrekk](../../../../technology/seats/materials/#leather)
+- Grey [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 
-Følgende funksjoner er tilgjengelige på **16-way** setet. 
+
+Følgende funksjoner er tilgjengelige på **Sport** setet. 
 
 - elektrisk justering 
 - høydejusterbar hodestøtte 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) 
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) 
-- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
-- [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
-- [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (tilvalg)
+- [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (tilvalg)
+- [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (tilvalg)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
-<br />
+Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen. 
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige [skinntrekk](../../../../technology/seats/materials/#leather)
+- Red [skinntrekk](../../../../technology/seats/materials/#leather)
+- Grey [stoffpolstring](../../../../technology/seats/materials/#fabric)
+
 
 
 
