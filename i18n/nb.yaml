@@ -91,6 +91,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-ab420833
+  translation: Tesla Cybertruck Cyberbeast er en helelektrisk pickup med en EPA rekkevidde på opptil 515 km (320 miles). EVKX.net har alle detaljene. 
+
 - id: frontpage-description-787a8d37
   translation: Lucid Gravity Dream Edition er en helelektrisk SUV med en EPA rekkevidde på opptil 708 km (440 miles). EVKX.net har alle detaljene. 
 
@@ -102,7 +105,4 @@
 
 - id: frontpage-description-95baf292
   translation: Seres 5 4WD Premium er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 483 km (300 miles). EVKX.net har alle detaljene. 
-
-- id: frontpage-description-c217b2cf
-  translation: SKODA ENYAQ COUPÉ 85x er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 545 km (339 miles). EVKX.net har alle detaljene. 
 

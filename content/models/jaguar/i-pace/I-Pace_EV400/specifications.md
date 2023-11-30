@@ -153,7 +153,7 @@ This model is available with a seat configuration with five seats.
 </thead>
 <tbody>
 <tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
-<tr><td>Electric adjustment of height, recline and angle</td><td>Standard feature</td></tr>
+<tr><td>Electric adjustment of height, recline and angle</td><td>Optional feature</td></tr>
 <tr><td>Memory driver seat</td><td>Optional feature</td></tr>
 <tr><td>Memory passenger seat</td><td>Not Available</td></tr>
 <tr><td>Height adjustable headrest</td><td>Standard feature</td></tr>

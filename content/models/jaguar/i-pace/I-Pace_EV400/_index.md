@@ -116,7 +116,7 @@ You can choose from 6 different materials/colors for this seat type.
 
 The following functionalities are available on the **Sport** seat. 
 
-- electric adjustment 
+- electric adjustment (optional)
 - height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)

@@ -153,7 +153,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 </thead>
 <tbody>
 <tr><td>Setetype</td><td>PassengerAndDriver</td></tr>
-<tr><td>Elektrisk justering av høyde, hvile og vinkel</td><td>Standardfunksjon</td></tr>
+<tr><td>Elektrisk justering av høyde, hvile og vinkel</td><td>Valgfri funksjon</td></tr>
 <tr><td>Minne førersete</td><td>Valgfri funksjon</td></tr>
 <tr><td>Minne passasjersete</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Høydejusterbar nakkestøtte</td><td>Standardfunksjon</td></tr>

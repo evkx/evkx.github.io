@@ -116,7 +116,7 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **Sport** setet. 
 
-- elektrisk justering 
+- elektrisk justering (tilvalg)
 - høydejusterbar hodestøtte 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)

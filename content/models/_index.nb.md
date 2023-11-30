@@ -302,7 +302,7 @@ Subaru has 1 models with total 1 variants. [Read all about them](subaru/)
 <a href="tesla/"><img src="https://media.evkx.net/multimedia/models/tesla/brandevs_st.jpg" class="img-fluid" alt="Tesla" ></a>
 
 
-Tesla has 4 models with total 14 variants. [Read all about them](tesla/)
+Tesla has 5 models with total 15 variants. [Read all about them](tesla/)
 
 ## Toyota
 

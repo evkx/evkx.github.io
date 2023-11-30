@@ -1,0 +1,14 @@
+---
+title: Tesla Cybertruck Cyberbeast reviews
+linktitle: "Reviews"
+description: "EVKX.net helps you find the best review for this model. "
+weight: 80
+hidden: true
+navicon: bi-person-video2
+---
+We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+
+### Bjørn Nyland: Tesla Model Y Performance range test with big trailer 14.06.2023
+
+{{< youtube hVKntAdw1tQ >}}
+
