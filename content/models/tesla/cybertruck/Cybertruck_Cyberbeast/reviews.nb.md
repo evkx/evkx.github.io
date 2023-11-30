@@ -8,7 +8,4 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Bjørn Nyland: Tesla Model Y Performance range test with big trailer 14.06.2023
-
-{{< youtube hVKntAdw1tQ >}}
-
+Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 

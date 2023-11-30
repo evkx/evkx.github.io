@@ -33,17 +33,17 @@ Tesla Cybertruck Cyberbeast har en maksimal effekt på 630KW (857hk).Totalt drei
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 140kWh og en nettokapasitet på 135kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (3,6%).
+Batteriet har en bruttokapasitet på 130kWh og en nettokapasitet på 125kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (3,8%).
 
- [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 320 miles (515 km). Forbruket er 2.4mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 320 miles (515 km). Forbruket er 2.6mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
-Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 112 minutter, mens et mer vanlig scenario på 10-80 % vil ta 43 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 44%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 158kW. Hver ladeøkt vil ta 19 minutter og 30 sekunder. 
+Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 104 minutter, mens et mer vanlig scenario på 10-80 % vil ta 40 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 44%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 154kW. Hver ladeøkt vil ta 18 minutter og 30 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 9 timer og 15 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 8% til 44%. Totalt tapt tid for å lade opp batteriet vil være 56 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 9 timer og 21 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 6% til 48%. Totalt tapt tid for å lade opp batteriet vil være 62 minutter.
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 12 timer og 16 minutter. 
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 11 timer og 21 minutter. 
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/charging_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}
