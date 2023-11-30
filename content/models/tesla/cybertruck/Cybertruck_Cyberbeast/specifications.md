@@ -34,7 +34,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>WLTP consumption with charging loss</td><td>17,1 kWh/100km</td></tr>
 </tbody>
 </table>
 

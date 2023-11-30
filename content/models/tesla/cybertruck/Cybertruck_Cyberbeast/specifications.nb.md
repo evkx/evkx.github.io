@@ -34,7 +34,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>WLTP-forbruk med ladetap</td><td>17,1 kWh/100km</td></tr>
 </tbody>
 </table>
 
