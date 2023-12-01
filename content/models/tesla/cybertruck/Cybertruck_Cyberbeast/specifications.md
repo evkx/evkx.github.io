@@ -162,8 +162,8 @@ This model is available with a seat configuration with five seats.
 <tr><td>Lane keeping</td><td>Yes, standard equipment</td></tr>
 <tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
 <tr><td>Drowsiness Alert</td><td>Yes, standard equipment</td></tr>
-<tr><td>Reversing camera</td><td>Yes, optional equipment</td></tr>
-<tr><td>360 camera</td><td>Not available</td></tr>
+<tr><td>Reversing camera</td><td>Yes, standard equipment</td></tr>
+<tr><td>360 camera</td><td>Yes, standard equipment</td></tr>
 <tr><td>Rear cross traffic alert</td><td>Not available</td></tr>
 <tr><td>Rear parking sensors</td><td>Yes, standard equipment</td></tr>
 <tr><td>Front parking sensors</td><td>Yes, standard equipment</td></tr>
