@@ -164,7 +164,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 
 ## Lights
 
-The standard headlights use LED technology.  
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.  
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/headlights_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
