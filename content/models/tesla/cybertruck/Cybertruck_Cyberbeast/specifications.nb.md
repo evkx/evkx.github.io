@@ -49,8 +49,9 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Brutto batteristørrelse</td><td>130 kWh</td></tr>
 <tr><td>Netto batteristørrelse</td><td>123 kWh</td></tr>
 <tr><td>Maks DC-lading</td><td>250 kW</td></tr>
-<tr><td>Pakkekonfigurasjon</td><td>195s7p</td></tr>
-<tr><td>Nominell spenning</td><td>357</td></tr>
+<tr><td>Pakkekonfigurasjon</td><td>194s7p</td></tr>
+<tr><td>Nominell spenning</td><td>698</td></tr>
+<tr><td>Katodematerialer</td><td>NCM811</td></tr>
 </tbody>
 </table>
 
