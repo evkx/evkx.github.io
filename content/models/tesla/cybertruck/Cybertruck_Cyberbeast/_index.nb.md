@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 130kWh og en nettokapasitet på 125kWh, noe
 
 Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 104 minutter, mens et mer vanlig scenario på 10-80 % vil ta 40 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 44%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 154kW. Hver ladeøkt vil ta 18 minutter og 30 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 9 timer og 21 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 6% til 48%. Totalt tapt tid for å lade opp batteriet vil være 62 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28,5kWh/100km, vil 1000km ta 9 timer og 22 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 8% til 40%. Totalt tapt tid for å lade opp batteriet vil være 63 minutter.
 
 ### Ombordlader
 
@@ -75,7 +75,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen. 
+Du kan velge mellom 3 forskjellige lakkfarger når du bestiller denne modellen. 
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned. Løfteporten er elektrisk drevet og har kick-sensor som standard. 
 
@@ -157,7 +157,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Tesla Cybertruck Cyberbeast. Med Tesla Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 560 watt. 
+Én type lydsystem er tilgjengelig for Tesla Cybertruck Cyberbeast. Med Tesla Premium Sound får du 17 høyttalere med en maksimal systemeffekt på 560 watt. 
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
 
@@ -218,7 +218,7 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 ## Lastekapasitet og slepeevne
 
-Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4260kg, og med basisvekten på 3099 kg kan du maksimalt laste 1161 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+På taket kan du laste opptil 100kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4260kg, og med basisvekten på 3099 kg kan du maksimalt laste 1161 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 5000, og på ubremset er den 750kg. 
 

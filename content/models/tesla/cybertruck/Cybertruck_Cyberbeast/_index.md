@@ -39,7 +39,7 @@ The battery has a gross capacity of 130kWh and a net capacity of 125kWh, meaning
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 104 minutes, while a more common scenario of 10-80% would take 40 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 44%, resulting in an actual charge speed, including time loss, of 154kW. Each charge session would take 18 minutes and 30 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 21 minutes. This trip will require three charge session(s) charging from 6% to 48%. The total time lost for charging up the battery will be 62 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28,5kWh/100km, 1000km will take 9 hours and 22 minutes. This trip will require four charge session(s) charging from 8% to 40%. The total time lost for charging up the battery will be 63 minutes.
 
 ### Onboard charger
 
@@ -75,7 +75,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model. 
+You can choose between 3 different paint colors when ordering this model. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The liftgate is electric-powered and has a kick-sensor as standard. 
 
@@ -157,7 +157,7 @@ The model is not available with head-up display.
 
 ## Infotainment
 
-One type of sound system is available for the Tesla Cybertruck Cyberbeast. With the Tesla Premium Sound, you get 13 speakers with a max system output of 560 watts. 
+One type of sound system is available for the Tesla Cybertruck Cyberbeast. With the Tesla Premium Sound, you get 17 speakers with a max system output of 560 watts. 
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
 
@@ -218,7 +218,7 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 ## Cargo Capacity and Towing Ability
 
-Under the hood, there is frunk with more storage room. This frunk is 201 liters. The maxium weight of the car is 4260kg, and with the base weight of 3099 kg, you can max load 1161 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+On the roof, you can load up to 100kg. Under the hood, there is frunk with more storage room. This frunk is 201 liters. The maxium weight of the car is 4260kg, and with the base weight of 3099 kg, you can max load 1161 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 5000, and on unbraked, it is 750kg. 
 
