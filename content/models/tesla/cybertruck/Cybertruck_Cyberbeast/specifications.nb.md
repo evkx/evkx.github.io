@@ -65,8 +65,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tbody>
 <tr><td>Length</td><td>5682 mm</td></tr>
 <tr><td>Høyde</td><td>1790 mm</td></tr>
-<tr><td>Bredde uten speil</td><td>2413 mm</td></tr>
-<tr><td>Bredde inkludert speil</td><td>2480 mm</td></tr>
+<tr><td>Bredde uten speil</td><td>2199 mm</td></tr>
+<tr><td>Bredde inkludert speil</td><td>2413 mm</td></tr>
 <tr><td>Wheelbase</td><td>4358 mm</td></tr>
 <tr><td>Drag-koeffisient</td><td>0,335</td></tr>
 <tr><td>Vendesirkel</td><td>12,1 meters</td></tr>
@@ -85,8 +85,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Justerbar demping bak</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Justerbar høyde foran</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Justerbar høyde bak</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Maks bakkeklaring</td><td>432</td></tr>
-<tr><td>Minimum bakkeklaring</td><td>127</td></tr>
+<tr><td>Maks bakkeklaring</td><td>442</td></tr>
+<tr><td>Minimum bakkeklaring</td><td>138</td></tr>
 <tr><td>Fjæringstype foran</td><td>AirSuspension</td></tr>
 <tr><td>Fjæringskonstruksjon foran</td><td>DoubleWishbone</td></tr>
 <tr><td>Fjæringstype bak</td><td>AirSuspension</td></tr>

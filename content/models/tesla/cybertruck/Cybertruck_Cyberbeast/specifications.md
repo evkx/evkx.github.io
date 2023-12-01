@@ -65,8 +65,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tbody>
 <tr><td>Length</td><td>5682 mm</td></tr>
 <tr><td>Height</td><td>1790 mm</td></tr>
-<tr><td>Width excluding mirrors</td><td>2413 mm</td></tr>
-<tr><td>Widht including mirrors</td><td>2480 mm</td></tr>
+<tr><td>Width excluding mirrors</td><td>2199 mm</td></tr>
+<tr><td>Widht including mirrors</td><td>2413 mm</td></tr>
 <tr><td>Wheelbase</td><td>4358 mm</td></tr>
 <tr><td>Drag coefficient</td><td>0,335</td></tr>
 <tr><td>Turning circle</td><td>12,1 meters</td></tr>
@@ -85,8 +85,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><td>Adjustable damping rear</td><td>Yes, standard equipment</td></tr>
 <tr><td>Adjustable height front</td><td>Yes, standard equipment</td></tr>
 <tr><td>Adjustable height rear</td><td>Yes, standard equipment</td></tr>
-<tr><td>Max ground clearance</td><td>432</td></tr>
-<tr><td>Minimum ground clearance</td><td>127</td></tr>
+<tr><td>Max ground clearance</td><td>442</td></tr>
+<tr><td>Minimum ground clearance</td><td>138</td></tr>
 <tr><td>Suspension type front</td><td>AirSuspension</td></tr>
 <tr><td>Suspension construction front</td><td>DoubleWishbone</td></tr>
 <tr><td>Suspension type rear</td><td>AirSuspension</td></tr>
