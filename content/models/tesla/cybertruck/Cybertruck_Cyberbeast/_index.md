@@ -29,7 +29,7 @@ We have separated our Tesla Cybertruck Cyberbeast article into sections. If you 
 
 ## Performance
 
-The Tesla Cybertruck Cyberbeast has a maximum power of 630KW (857hp). The total torque is 1200nm. It performs the 0-100km/h sprint (0-62mph) in 2,7 seconds. The top speed is 210 km/h. 
+The Tesla Cybertruck Cyberbeast has a maximum power of 630KW (857hp). The total torque is 13959nm. It performs the 0-100km/h sprint (0-62mph) in 2,7 seconds. The top speed is 210 km/h. 
 
 ## Battery, range, and charging
 
@@ -59,7 +59,7 @@ The location of the charge port is on the [left rear corner](../../../../technol
 
 ## Drivetrain
 
-Tesla Cybertruck Cyberbeast has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle. 
+Tesla Cybertruck Cyberbeast has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the front axle and [Induction Motors](../../../../technology/motors/asm/) at the rear axle. 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 225 mm, and the maximum is 432 mm. 
 

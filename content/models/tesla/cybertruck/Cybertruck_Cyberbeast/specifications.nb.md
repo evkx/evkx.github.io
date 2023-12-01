@@ -18,7 +18,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Cybertruck Cy
 </thead>
 <tbody>
 <tr><td>Maks effekt i kW</td><td>630 Kw</td></tr>
-<tr><td>Dreiemoment i Nm</td><td>1200 Nm</td></tr>
+<tr><td>Dreiemoment i Nm</td><td>13959 Nm</td></tr>
 <tr><td>Topphastighet</td><td>210 km/h</td></tr>
 <tr><td>0-100 km/t (0-62 mph)</td><td>2,7 s</td></tr>
 </tbody>

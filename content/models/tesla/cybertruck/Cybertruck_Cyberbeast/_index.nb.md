@@ -29,7 +29,7 @@ Vi har delt vår Tesla Cybertruck Cyberbeast-artikkel i seksjoner. Hvis du vil v
 
 ## Ytelse
 
-Tesla Cybertruck Cyberbeast har en maksimal effekt på 630KW (857hk).Totalt dreiemoment er 1200nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 2,7 sekunder. Topphastigheten er 210 km/t. 
+Tesla Cybertruck Cyberbeast har en maksimal effekt på 630KW (857hk).Totalt dreiemoment er 13959nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 2,7 sekunder. Topphastigheten er 210 km/t. 
 
 ## Batteri, rekkevidde og lading
 
@@ -59,7 +59,7 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 
 ## Drivverk
 
-Tesla Cybertruck Cyberbeast har et firehjulsdriftssystem støttet av tre motorer. En på forakselen og to på bakakselen. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen. 
+Tesla Cybertruck Cyberbeast har et firehjulsdriftssystem støttet av tre motorer. En på forakselen og to på bakakselen. Motorene som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakselen og [induksjonsmotorer](../../../../technology/motors/asm/) på bakakselen. 
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 225 mm, og maksimum er 432 mm. 
 
