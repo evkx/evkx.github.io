@@ -47,7 +47,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </thead>
 <tbody>
 <tr><td>Brutto batteristørrelse</td><td>130 kWh</td></tr>
-<tr><td>Netto batteristørrelse</td><td>125 kWh</td></tr>
+<tr><td>Netto batteristørrelse</td><td>123 kWh</td></tr>
 <tr><td>Maks DC-lading</td><td>250 kW</td></tr>
 <tr><td>Nominell spenning</td><td>357</td></tr>
 </tbody>
@@ -85,7 +85,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Justerbar høyde foran</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Justerbar høyde bak</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Maks bakkeklaring</td><td>432</td></tr>
-<tr><td>Minimum bakkeklaring</td><td>225</td></tr>
+<tr><td>Minimum bakkeklaring</td><td>127</td></tr>
 <tr><td>Fjæringstype foran</td><td>AirSuspension</td></tr>
 <tr><td>Fjæringskonstruksjon foran</td><td>DoubleWishbone</td></tr>
 <tr><td>Fjæringstype bak</td><td>AirSuspension</td></tr>

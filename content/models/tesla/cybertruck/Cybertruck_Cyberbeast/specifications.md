@@ -47,7 +47,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </thead>
 <tbody>
 <tr><td>Battery gross</td><td>130 kWh</td></tr>
-<tr><td>Battery net</td><td>125 kWh</td></tr>
+<tr><td>Battery net</td><td>123 kWh</td></tr>
 <tr><td>Max DC charging</td><td>250 kW</td></tr>
 <tr><td>Nominal voltage</td><td>357</td></tr>
 </tbody>
@@ -85,7 +85,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><td>Adjustable height front</td><td>Yes, standard equipment</td></tr>
 <tr><td>Adjustable height rear</td><td>Yes, standard equipment</td></tr>
 <tr><td>Max ground clearance</td><td>432</td></tr>
-<tr><td>Minimum ground clearance</td><td>225</td></tr>
+<tr><td>Minimum ground clearance</td><td>127</td></tr>
 <tr><td>Suspension type front</td><td>AirSuspension</td></tr>
 <tr><td>Suspension construction front</td><td>DoubleWishbone</td></tr>
 <tr><td>Suspension type rear</td><td>AirSuspension</td></tr>

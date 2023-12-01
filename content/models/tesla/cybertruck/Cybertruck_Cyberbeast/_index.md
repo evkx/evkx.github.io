@@ -33,17 +33,17 @@ The Tesla Cybertruck Cyberbeast has a maximum power of 630KW (857hp). The total 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 130kWh and a net capacity of 125kWh, meaning you have a 5kWh buffer for protection. (3,8%). 
+The battery has a gross capacity of 130kWh and a net capacity of 123kWh, meaning you have a 7kWh buffer for protection. (5,4%). 
 
  The [EPA range](../../../../guides/understandingrange/epa/) is 320 miles (515 km).   The consumption is 2.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 104 minutes, while a more common scenario of 10-80% would take 40 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 44%, resulting in an actual charge speed, including time loss, of 154kW. Each charge session would take 18 minutes and 30 seconds. 
+The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 102 minutes, while a more common scenario of 10-80% would take 39 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 45%, resulting in an actual charge speed, including time loss, of 154kW. Each charge session would take 18 minutes and 47 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28,5kWh/100km, 1000km will take 9 hours and 22 minutes. This trip will require four charge session(s) charging from 8% to 40%. The total time lost for charging up the battery will be 63 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28,5kWh/100km, 1000km will take 9 hours and 23 minutes. This trip will require four charge session(s) charging from 8% to 41%. The total time lost for charging up the battery will be 64 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 21 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 10 minutes. 
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/charging_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}
@@ -61,7 +61,7 @@ The location of the charge port is on the [left rear corner](../../../../technol
 
 Tesla Cybertruck Cyberbeast has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the front axle and [Induction Motors](../../../../technology/motors/asm/) at the rear axle. 
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 225 mm, and the maximum is 432 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 127 mm, and the maximum is 432 mm. 
 
 ### Steering
 
@@ -107,7 +107,7 @@ The following functionalities are available on the **standard** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
 
-You can choose from 2 different materials/colors for this seat type. <br />
+You can choose from 1 different materials/colors for this seat type. <br />
 <br />
 
 
