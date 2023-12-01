@@ -49,6 +49,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><td>Battery gross</td><td>130 kWh</td></tr>
 <tr><td>Battery net</td><td>123 kWh</td></tr>
 <tr><td>Max DC charging</td><td>250 kW</td></tr>
+<tr><td>Pack Configuration</td><td>195s7p</td></tr>
 <tr><td>Nominal voltage</td><td>357</td></tr>
 </tbody>
 </table>
