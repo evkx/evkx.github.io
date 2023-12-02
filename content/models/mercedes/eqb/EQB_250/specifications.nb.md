@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/main_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQB 250. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Mercedes-EQ EQB 250, gå til [chargeinfo](../chargecurve/) for Mercedes-EQ EQB 250 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/main_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Volvo EX90 Twin Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo EX90 Twin Motor, visit the [chargeinfo](../chargecurve/) for Volvo EX90 Twin Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -74,7 +75,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5037 mm (198,3 inch)
+			5037 mm (198,3")
 		</td>
 	</tr>
 	<tr>
@@ -82,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1744 mm (68,7 inch)
+			1744 mm (68,7")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1964 mm</td></tr>

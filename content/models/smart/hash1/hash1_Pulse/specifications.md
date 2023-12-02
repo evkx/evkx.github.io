@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/main_1_st.jpg" title="Smart #1 Pulse" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for Smart #1 Pulse. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Smart #1 Pulse, visit the [chargeinfo](../chargecurve/) for Smart #1 Pulse with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -71,7 +72,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4300 mm (169,3 inch)
+			4300 mm (169,3")
 		</td>
 	</tr>
 	<tr>
@@ -79,7 +80,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1636 mm (64,4 inch)
+			1636 mm (64,4")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1822 mm</td></tr>

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/main_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2100" height="1400" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1T Performance Dual-Motor AWD MP. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Rivian R1T Performance Dual-Motor AWD MP, gå til [chargeinfo](../chargecurve/) for Rivian R1T Performance Dual-Motor AWD MP med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

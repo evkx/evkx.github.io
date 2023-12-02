@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cupra/born/born_58/main_1_st.jpg" title="CUPRA BORN 58" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for CUPRA BORN 58. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av CUPRA BORN 58, gå til [chargeinfo](../chargecurve/) for CUPRA BORN 58 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

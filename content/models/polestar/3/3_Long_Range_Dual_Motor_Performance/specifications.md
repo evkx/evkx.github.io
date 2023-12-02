@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for Polestar 3 Long Range Dual Motor Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Polestar 3 Long Range Dual Motor Performance, visit the [chargeinfo](../chargecurve/) for Polestar 3 Long Range Dual Motor Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -74,7 +75,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4900 mm (192,9 inch)
+			4900 mm (192,9")
 		</td>
 	</tr>
 	<tr>
@@ -82,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1614 mm (63,5 inch)
+			1614 mm (63,5")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1968 mm</td></tr>

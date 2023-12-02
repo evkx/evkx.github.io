@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/main_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 4MOTION (GEN1). Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.4 GTX 4MOTION (GEN1), visit the [chargeinfo](../chargecurve/) for Volkswagen ID.4 GTX 4MOTION (GEN1) with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -79,7 +80,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4582 mm (180,4 inch)
+			4582 mm (180,4")
 		</td>
 	</tr>
 	<tr>
@@ -87,7 +88,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1637 mm (64,4 inch)
+			1637 mm (64,4")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1865 mm</td></tr>

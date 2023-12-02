@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="1999" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Citroën ë-C4 X. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Citroën ë-C4 X, gå til [chargeinfo](../chargecurve/) for Citroën ë-C4 X med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

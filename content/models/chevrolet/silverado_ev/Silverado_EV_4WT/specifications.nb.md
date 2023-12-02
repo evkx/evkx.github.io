@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Chevrolet Silverado EV 4WT. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Chevrolet Silverado EV 4WT, gå til [chargeinfo](../chargecurve/) for Chevrolet Silverado EV 4WT med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

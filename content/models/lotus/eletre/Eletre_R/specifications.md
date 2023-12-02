@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/main_1_st.jpg" title="Lotus Eletre R" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Lotus Eletre R. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lotus Eletre R, visit the [chargeinfo](../chargecurve/) for Lotus Eletre R with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -73,7 +74,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5105 mm (201,0 inch)
+			5105 mm (201,0")
 		</td>
 	</tr>
 	<tr>
@@ -81,7 +82,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1630 mm (64,2 inch)
+			1630 mm (64,2")
 		</td>
 	</tr>
 <tr><td>Widht including mirrors</td><td>2231 mm</td></tr>

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/main_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQB 250. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQB 250, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQB 250 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -75,7 +76,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4684 mm (184,4 inch)
+			4684 mm (184,4")
 		</td>
 	</tr>
 	<tr>
@@ -83,7 +84,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1688 mm (66,5 inch)
+			1688 mm (66,5")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1834 mm</td></tr>

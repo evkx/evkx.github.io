@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/main_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2032" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Chevrolet Blazer EV RS AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Chevrolet Blazer EV RS AWD, gå til [chargeinfo](../chargecurve/) for Chevrolet Blazer EV RS AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

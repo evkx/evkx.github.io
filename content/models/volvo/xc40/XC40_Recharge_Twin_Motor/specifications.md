@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_twin_motor/main_1_st.jpg" title="Volvo XC40 Recharge Twin Motor" width="1920" height="1080" >}}
 EVKX.net seeks to have the most complete specifications for Volvo XC40 Recharge Twin Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo XC40 Recharge Twin Motor, visit the [chargeinfo](../chargecurve/) for Volvo XC40 Recharge Twin Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -75,7 +76,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4425 mm (174,2 inch)
+			4425 mm (174,2")
 		</td>
 	</tr>
 	<tr>
@@ -83,7 +84,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1652 mm (65,0 inch)
+			1652 mm (65,0")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1873 mm</td></tr>

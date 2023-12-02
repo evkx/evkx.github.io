@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/main_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for BMW iX2 xDrive30. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW iX2 xDrive30, visit the [chargeinfo](../chargecurve/) for BMW iX2 xDrive30 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -74,7 +75,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4554 mm (179,3 inch)
+			4554 mm (179,3")
 		</td>
 	</tr>
 	<tr>
@@ -82,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1560 mm (61,4 inch)
+			1560 mm (61,4")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1845 mm</td></tr>

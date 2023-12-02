@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="1920" height="1080" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo XC40 Recharge Single Motor ER. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volvo XC40 Recharge Single Motor ER, gå til [chargeinfo](../chargecurve/) for Volvo XC40 Recharge Single Motor ER med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

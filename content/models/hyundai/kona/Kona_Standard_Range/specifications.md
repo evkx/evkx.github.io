@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/main_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for Hyundai Kona Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Kona Standard Range, visit the [chargeinfo](../chargecurve/) for Hyundai Kona Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -70,7 +71,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4355 mm (171,5 inch)
+			4355 mm (171,5")
 		</td>
 	</tr>
 	<tr>
@@ -78,7 +79,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1575 mm (62,0 inch)
+			1575 mm (62,0")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1825 mm</td></tr>

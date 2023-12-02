@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/main_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="1999" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for SKODA ENYAQ COUPÉ 85x. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av SKODA ENYAQ COUPÉ 85x, gå til [chargeinfo](../chargecurve/) for SKODA ENYAQ COUPÉ 85x med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/main_1_st.jpg" title="Smart #3 Brabus" width="3000" height="1687" >}}
 EVKX.net seeks to have the most complete specifications for Smart #3 Brabus. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Smart #3 Brabus, visit the [chargeinfo](../chargecurve/) for Smart #3 Brabus with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -71,7 +72,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4400 mm (173,2 inch)
+			4400 mm (173,2")
 		</td>
 	</tr>
 	<tr>
@@ -79,7 +80,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1556 mm (61,3 inch)
+			1556 mm (61,3")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1844 mm</td></tr>

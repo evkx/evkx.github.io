@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50_sportback/main_1_st.jpg" title="Audi e-tron 50 Sportback" width="3000" height="1991" >}}
 EVKX.net seeks to have the most complete specifications for Audi e-tron 50 Sportback. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron 50 Sportback, visit the [chargeinfo](../chargecurve/) for Audi e-tron 50 Sportback with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -77,7 +78,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4901 mm (193,0 inch)
+			4901 mm (193,0")
 		</td>
 	</tr>
 	<tr>
@@ -85,7 +86,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1616 mm (63,6 inch)
+			1616 mm (63,6")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1935 mm</td></tr>

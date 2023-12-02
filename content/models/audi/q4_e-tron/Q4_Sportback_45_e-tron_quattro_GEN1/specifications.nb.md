@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/main_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="1999" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 Sportback 45 e-tron quattro (GEN1). Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Audi Q4 Sportback 45 e-tron quattro (GEN1), gå til [chargeinfo](../chargecurve/) for Audi Q4 Sportback 45 e-tron quattro (GEN1) med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

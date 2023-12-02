@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nio/es8/es8/main_1_st.jpg" title="Nio ES8" width="2880" height="1792" >}}
 EVKX.net seeks to have the most complete specifications for Nio ES8. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio ES8, visit the [chargeinfo](../chargecurve/) for Nio ES8 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -98,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5022 mm (197,7 inch)
+			5022 mm (197,7")
 		</td>
 	</tr>
 	<tr>
@@ -106,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1756 mm (69,1 inch)
+			1756 mm (69,1")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1962 mm</td></tr>

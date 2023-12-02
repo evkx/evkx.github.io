@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Volkswagen ID. Buzz Pro LWB. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID. Buzz Pro LWB, visit the [chargeinfo](../chargecurve/) for Volkswagen ID. Buzz Pro LWB with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -76,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4962 mm (195,4 inch)
+			4962 mm (195,4")
 		</td>
 	</tr>
 	<tr>
@@ -84,7 +85,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1937 mm (76,3 inch)
+			1937 mm (76,3")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1985 mm</td></tr>

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/main_1_st.jpg" title="Lotus Eletre" width="3000" height="1687" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Lotus Eletre. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Lotus Eletre, gå til [chargeinfo](../chargecurve/) for Lotus Eletre med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

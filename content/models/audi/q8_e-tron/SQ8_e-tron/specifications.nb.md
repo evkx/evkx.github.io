@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/main_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Audi SQ8 e-tron. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Audi SQ8 e-tron, gå til [chargeinfo](../chargecurve/) for Audi SQ8 e-tron med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

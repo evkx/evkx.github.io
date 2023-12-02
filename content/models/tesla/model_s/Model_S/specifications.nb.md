@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/main_1_st.jpg" title="Tesla Model S" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model S. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Tesla Model S, gå til [chargeinfo](../chargecurve/) for Tesla Model S med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_sportback_55_e-tron/main_1_st.jpeg" title="Audi Q8 Sportback 55 e-tron" width="3000" height="2002" >}}
 EVKX.net seeks to have the most complete specifications for Audi Q8 Sportback 55 e-tron. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi Q8 Sportback 55 e-tron, visit the [chargeinfo](../chargecurve/) for Audi Q8 Sportback 55 e-tron with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -80,7 +81,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4901 mm (193,0 inch)
+			4901 mm (193,0")
 		</td>
 	</tr>
 	<tr>
@@ -88,7 +89,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1616 mm (63,6 inch)
+			1616 mm (63,6")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1935 mm</td></tr>

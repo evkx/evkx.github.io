@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_300/main_1_st.jpg" title="Mercedes-EQ EQE 300" width="3000" height="1687" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 300. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQE 300, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQE 300 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -76,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4946 mm (194,7 inch)
+			4946 mm (194,7")
 		</td>
 	</tr>
 	<tr>
@@ -84,7 +85,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1510 mm (59,4 inch)
+			1510 mm (59,4")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1961 mm</td></tr>

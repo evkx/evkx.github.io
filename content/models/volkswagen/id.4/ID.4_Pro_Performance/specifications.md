@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/main_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="1828" >}}
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.4 Pro Performance, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.4 Pro Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -76,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4582 mm (180,4 inch)
+			4582 mm (180,4")
 		</td>
 	</tr>
 	<tr>
@@ -84,7 +85,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1637 mm (64,4 inch)
+			1637 mm (64,4")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1865 mm</td></tr>

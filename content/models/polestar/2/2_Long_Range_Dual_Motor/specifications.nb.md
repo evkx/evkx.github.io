@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 2 Long Range Dual Motor. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Polestar 2 Long Range Dual Motor, gå til [chargeinfo](../chargecurve/) for Polestar 2 Long Range Dual Motor med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

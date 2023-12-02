@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 GT. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Kia EV6 GT, gå til [chargeinfo](../chargecurve/) for Kia EV6 GT med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

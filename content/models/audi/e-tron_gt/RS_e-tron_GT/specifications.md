@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2249" >}}
 EVKX.net seeks to have the most complete specifications for Audi RS e-tron GT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi RS e-tron GT, visit the [chargeinfo](../chargecurve/) for Audi RS e-tron GT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -80,7 +81,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4989 mm (196,4 inch)
+			4989 mm (196,4")
 		</td>
 	</tr>
 	<tr>
@@ -88,7 +89,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1396 mm (55,0 inch)
+			1396 mm (55,0")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1964 mm</td></tr>

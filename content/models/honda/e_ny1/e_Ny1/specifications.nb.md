@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/main_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Honda e:Ny1. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Honda e:Ny1, gå til [chargeinfo](../chargecurve/) for Honda e:Ny1 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

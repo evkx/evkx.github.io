@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2249" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac LYRIQ AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Cadillac LYRIQ AWD, gå til [chargeinfo](../chargecurve/) for Cadillac LYRIQ AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

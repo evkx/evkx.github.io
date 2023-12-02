@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="2050" >}}
 EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Premium. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hongqi E-HS9 Premium, visit the [chargeinfo](../chargecurve/) for Hongqi E-HS9 Premium with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -71,7 +72,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5209 mm (205,1 inch)
+			5209 mm (205,1")
 		</td>
 	</tr>
 	<tr>
@@ -79,7 +80,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1713 mm (67,4 inch)
+			1713 mm (67,4")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>2010 mm</td></tr>

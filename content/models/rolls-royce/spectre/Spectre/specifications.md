@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/main_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for Rolls-Royce Spectre. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Rolls-Royce Spectre, visit the [chargeinfo](../chargecurve/) for Rolls-Royce Spectre with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -71,7 +72,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5475 mm (215,6 inch)
+			5475 mm (215,6")
 		</td>
 	</tr>
 	<tr>
@@ -79,7 +80,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1573 mm (61,9 inch)
+			1573 mm (61,9")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>2017 mm</td></tr>

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nio/et7/et7/main_1_st.jpg" title="Nio ET7" width="2880" height="1792" >}}
 EVKX.net seeks to have the most complete specifications for Nio ET7. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio ET7, visit the [chargeinfo](../chargecurve/) for Nio ET7 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -104,7 +105,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5101 mm (200,8 inch)
+			5101 mm (200,8")
 		</td>
 	</tr>
 	<tr>
@@ -112,7 +113,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1509 mm (59,4 inch)
+			1509 mm (59,4")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1987 mm</td></tr>

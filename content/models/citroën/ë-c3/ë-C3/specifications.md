@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/main_1_st.jpg" title="Citroën ë-C3" width="3000" height="1500" >}}
 EVKX.net seeks to have the most complete specifications for Citroën ë-C3. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Citroën ë-C3, visit the [chargeinfo](../chargecurve/) for Citroën ë-C3 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -69,7 +70,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4010 mm (157,9 inch)
+			4010 mm (157,9")
 		</td>
 	</tr>
 	<tr>
@@ -77,7 +78,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1570 mm (61,8 inch)
+			1570 mm (61,8")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1760 mm</td></tr>

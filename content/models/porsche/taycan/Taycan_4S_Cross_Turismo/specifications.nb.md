@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_cross_turismo/main_1_st.jpg" title="Porsche Taycan 4S Cross Turismo" width="3000" height="2001" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan 4S Cross Turismo. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Porsche Taycan 4S Cross Turismo, gå til [chargeinfo](../chargecurve/) for Porsche Taycan 4S Cross Turismo med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

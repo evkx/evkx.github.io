@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2249" >}}
 EVKX.net seeks to have the most complete specifications for Cadillac LYRIQ AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Cadillac LYRIQ AWD, visit the [chargeinfo](../chargecurve/) for Cadillac LYRIQ AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -65,7 +66,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4996 mm (196,7 inch)
+			4996 mm (196,7")
 		</td>
 	</tr>
 	<tr>
@@ -73,7 +74,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1623 mm (63,9 inch)
+			1623 mm (63,9")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1977 mm</td></tr>

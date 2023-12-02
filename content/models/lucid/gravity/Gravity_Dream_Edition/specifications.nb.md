@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2007" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Gravity Dream Edition. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Lucid Gravity Dream Edition, gå til [chargeinfo](../chargecurve/) for Lucid Gravity Dream Edition med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

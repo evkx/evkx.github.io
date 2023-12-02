@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/main_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1486" >}}
 EVKX.net seeks to have the most complete specifications for HiPhi Z 5 Seater. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi Z 5 Seater, visit the [chargeinfo](../chargecurve/) for HiPhi Z 5 Seater with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -68,7 +69,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5036 mm (198,3 inch)
+			5036 mm (198,3")
 		</td>
 	</tr>
 	<tr>
@@ -76,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1439 mm (56,7 inch)
+			1439 mm (56,7")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>2018 mm</td></tr>

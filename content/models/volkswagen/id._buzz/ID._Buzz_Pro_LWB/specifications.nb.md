@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID. Buzz Pro LWB. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volkswagen ID. Buzz Pro LWB, gå til [chargeinfo](../chargecurve/) for Volkswagen ID. Buzz Pro LWB med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

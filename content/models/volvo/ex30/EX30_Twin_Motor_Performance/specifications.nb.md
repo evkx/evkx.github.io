@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EX30 Twin Motor Performance. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volvo EX30 Twin Motor Performance, gå til [chargeinfo](../chargecurve/) for Volvo EX30 Twin Motor Performance med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

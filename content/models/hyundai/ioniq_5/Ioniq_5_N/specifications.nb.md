@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Ioniq 5 N. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Hyundai Ioniq 5 N, gå til [chargeinfo](../chargecurve/) for Hyundai Ioniq 5 N med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 3 Long Range Dual Motor Performance. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Polestar 3 Long Range Dual Motor Performance, gå til [chargeinfo](../chargecurve/) for Polestar 3 Long Range Dual Motor Performance med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

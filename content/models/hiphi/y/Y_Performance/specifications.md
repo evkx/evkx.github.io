@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/main_1_st.jpg" title="HiPhi Y Performance" width="1572" height="1011" >}}
 EVKX.net seeks to have the most complete specifications for HiPhi Y Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi Y Performance, visit the [chargeinfo](../chargecurve/) for HiPhi Y Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -68,7 +69,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4938 mm (194,4 inch)
+			4938 mm (194,4")
 		</td>
 	</tr>
 	<tr>
@@ -76,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1658 mm (65,3 inch)
+			1658 mm (65,3")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1958 mm</td></tr>

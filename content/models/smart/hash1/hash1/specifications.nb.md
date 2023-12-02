@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/smart/hash1/hash1/main_1_st.jpg" title="Smart #1" width="1600" height="1200" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Smart #1. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Smart #1, gå til [chargeinfo](../chargecurve/) for Smart #1 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

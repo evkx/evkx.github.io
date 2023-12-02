@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/main_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for BMW i5 M60 xDrive. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i5 M60 xDrive, visit the [chargeinfo](../chargecurve/) for BMW i5 M60 xDrive with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -77,7 +78,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5060 mm (199,2 inch)
+			5060 mm (199,2")
 		</td>
 	</tr>
 	<tr>
@@ -85,7 +86,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1505 mm (59,3 inch)
+			1505 mm (59,3")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1900 mm</td></tr>

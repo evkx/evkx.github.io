@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80/main_1_st.jpg" title="SKODA Enyaq iV80" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for SKODA Enyaq iV80. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of SKODA Enyaq iV80, visit the [chargeinfo](../chargecurve/) for SKODA Enyaq iV80 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -76,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4649 mm (183,0 inch)
+			4649 mm (183,0")
 		</td>
 	</tr>
 	<tr>
@@ -84,7 +85,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1616 mm (63,6 inch)
+			1616 mm (63,6")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1879 mm</td></tr>

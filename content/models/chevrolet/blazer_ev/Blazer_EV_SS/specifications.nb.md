@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Chevrolet Blazer EV SS. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Chevrolet Blazer EV SS, gå til [chargeinfo](../chargecurve/) for Chevrolet Blazer EV SS med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

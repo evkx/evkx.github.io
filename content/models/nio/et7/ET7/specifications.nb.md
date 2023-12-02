@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nio/et7/et7/main_1_st.jpg" title="Nio ET7" width="2880" height="1792" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Nio ET7. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Nio ET7, gå til [chargeinfo](../chargecurve/) for Nio ET7 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

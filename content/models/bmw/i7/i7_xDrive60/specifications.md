@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/main_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for BMW i7 xDrive60. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i7 xDrive60, visit the [chargeinfo](../chargecurve/) for BMW i7 xDrive60 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -74,7 +75,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5391 mm (212,2 inch)
+			5391 mm (212,2")
 		</td>
 	</tr>
 	<tr>
@@ -82,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1544 mm (60,8 inch)
+			1544 mm (60,8")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1950 mm</td></tr>

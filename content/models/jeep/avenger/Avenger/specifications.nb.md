@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/main_1_st.jpg" title="Jeep Avenger" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Jeep Avenger. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Jeep Avenger, gå til [chargeinfo](../chargecurve/) for Jeep Avenger med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

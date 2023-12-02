@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_cross_turismo/main_1_st.jpg" title="Porsche Taycan 4S Cross Turismo" width="3000" height="2001" >}}
 EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Cross Turismo. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan 4S Cross Turismo, visit the [chargeinfo](../chargecurve/) for Porsche Taycan 4S Cross Turismo with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -78,7 +79,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4974 mm (195,8 inch)
+			4974 mm (195,8")
 		</td>
 	</tr>
 	<tr>
@@ -86,7 +87,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1409 mm (55,5 inch)
+			1409 mm (55,5")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1964 mm</td></tr>

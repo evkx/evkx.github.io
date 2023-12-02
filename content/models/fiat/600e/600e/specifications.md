@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/fiat/600e/600e/main_1_st.jpg" title="Fiat 600e" width="3000" height="2001" >}}
 EVKX.net seeks to have the most complete specifications for Fiat 600e. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Fiat 600e, visit the [chargeinfo](../chargecurve/) for Fiat 600e with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -73,7 +74,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4171 mm (164,2 inch)
+			4171 mm (164,2")
 		</td>
 	</tr>
 	<tr>
@@ -81,7 +82,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1523 mm (60,0 inch)
+			1523 mm (60,0")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1781 mm</td></tr>

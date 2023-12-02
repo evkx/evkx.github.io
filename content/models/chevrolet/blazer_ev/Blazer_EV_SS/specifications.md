@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001" >}}
 EVKX.net seeks to have the most complete specifications for Chevrolet Blazer EV SS. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Chevrolet Blazer EV SS, visit the [chargeinfo](../chargecurve/) for Chevrolet Blazer EV SS with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -66,7 +67,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5067 mm (199,5 inch)
+			5067 mm (199,5")
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +75,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1725 mm (67,9 inch)
+			1725 mm (67,9")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1963 mm</td></tr>

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/main_1_st.jpg" title="BYD Atto 3" width="1600" height="1155" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Atto 3. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av BYD Atto 3, gå til [chargeinfo](../chargecurve/) for BYD Atto 3 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

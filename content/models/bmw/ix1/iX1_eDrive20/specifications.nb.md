@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/main_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for BMW iX1 eDrive20. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av BMW iX1 eDrive20, gå til [chargeinfo](../chargecurve/) for BMW iX1 eDrive20 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

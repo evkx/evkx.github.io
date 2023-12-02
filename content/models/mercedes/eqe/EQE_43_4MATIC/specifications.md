@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/main_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 43 4MATIC. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-AMG EQE 43 4MATIC, visit the [chargeinfo](../chargecurve/) for Mercedes-AMG EQE 43 4MATIC with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -76,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4964 mm (195,4 inch)
+			4964 mm (195,4")
 		</td>
 	</tr>
 	<tr>
@@ -84,7 +85,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1492 mm (58,7 inch)
+			1492 mm (58,7")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1961 mm</td></tr>

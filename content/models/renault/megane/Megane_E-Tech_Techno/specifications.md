@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001" >}}
 EVKX.net seeks to have the most complete specifications for Renault Megane E-Tech Techno. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Renault Megane E-Tech Techno, visit the [chargeinfo](../chargecurve/) for Renault Megane E-Tech Techno with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -75,7 +76,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4200 mm (165,4 inch)
+			4200 mm (165,4")
 		</td>
 	</tr>
 	<tr>
@@ -83,7 +84,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1860 mm (73,2 inch)
+			1860 mm (73,2")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1860 mm</td></tr>

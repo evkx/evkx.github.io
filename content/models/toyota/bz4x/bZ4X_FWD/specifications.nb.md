@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/main_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="2002" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Toyota bZ4X FWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Toyota bZ4X FWD, gå til [chargeinfo](../chargecurve/) for Toyota bZ4X FWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

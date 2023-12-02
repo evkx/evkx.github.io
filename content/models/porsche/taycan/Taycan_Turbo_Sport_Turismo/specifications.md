@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/main_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo Sport Turismo. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan Turbo Sport Turismo, visit the [chargeinfo](../chargecurve/) for Porsche Taycan Turbo Sport Turismo with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -78,7 +79,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4963 mm (195,4 inch)
+			4963 mm (195,4")
 		</td>
 	</tr>
 	<tr>
@@ -86,7 +87,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1381 mm (54,4 inch)
+			1381 mm (54,4")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1966 mm</td></tr>

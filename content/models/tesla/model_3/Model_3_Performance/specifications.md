@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/main_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Tesla Model 3 Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model 3 Performance, visit the [chargeinfo](../chargecurve/) for Tesla Model 3 Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -72,7 +73,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4694 mm (184,8 inch)
+			4694 mm (184,8")
 		</td>
 	</tr>
 	<tr>
@@ -80,7 +81,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1443 mm (56,8 inch)
+			1443 mm (56,8")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1849 mm</td></tr>

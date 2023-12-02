@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/main_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 Standard Range AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Kia EV6 Standard Range AWD, gå til [chargeinfo](../chargecurve/) for Kia EV6 Standard Range AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

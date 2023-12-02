@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/main_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model 3 Long Range (GEN1). Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Tesla Model 3 Long Range (GEN1), gå til [chargeinfo](../chargecurve/) for Tesla Model 3 Long Range (GEN1) med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

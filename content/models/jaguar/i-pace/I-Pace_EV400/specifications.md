@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/main_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1687" >}}
 EVKX.net seeks to have the most complete specifications for Jaguar I-Pace EV400. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Jaguar I-Pace EV400, visit the [chargeinfo](../chargecurve/) for Jaguar I-Pace EV400 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -74,7 +75,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4682 mm (184,3 inch)
+			4682 mm (184,3")
 		</td>
 	</tr>
 	<tr>
@@ -82,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1566 mm (61,7 inch)
+			1566 mm (61,7")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>2011 mm</td></tr>

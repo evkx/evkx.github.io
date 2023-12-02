@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="2050" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Hongqi E-HS9 Premium. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Hongqi E-HS9 Premium, gå til [chargeinfo](../chargecurve/) for Hongqi E-HS9 Premium med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

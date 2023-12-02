@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/main_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for HiPhi X 6 Seater. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi X 6 Seater, visit the [chargeinfo](../chargecurve/) for HiPhi X 6 Seater with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -68,7 +69,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5200 mm (204,7 inch)
+			5200 mm (204,7")
 		</td>
 	</tr>
 	<tr>
@@ -76,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1618 mm (63,7 inch)
+			1618 mm (63,7")
 		</td>
 	</tr>
 <tr><td>Wheelbase</td><td>3150 mm</td></tr>

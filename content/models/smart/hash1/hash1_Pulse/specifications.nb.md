@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/main_1_st.jpg" title="Smart #1 Pulse" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Smart #1 Pulse. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Smart #1 Pulse, gå til [chargeinfo](../chargecurve/) for Smart #1 Pulse med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

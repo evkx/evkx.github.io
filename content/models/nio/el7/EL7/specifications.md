@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nio/el7/el7/main_1_st.jpg" title="Nio EL7" width="2880" height="1792" >}}
 EVKX.net seeks to have the most complete specifications for Nio EL7. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio EL7, visit the [chargeinfo](../chargecurve/) for Nio EL7 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -104,7 +105,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4912 mm (193,4 inch)
+			4912 mm (193,4")
 		</td>
 	</tr>
 	<tr>
@@ -112,7 +113,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1720 mm (67,7 inch)
+			1720 mm (67,7")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1987 mm</td></tr>

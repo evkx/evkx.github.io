@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/main_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="1687" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr X Privilege AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Zeekr X Privilege AWD, gå til [chargeinfo](../chargecurve/) for Zeekr X Privilege AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

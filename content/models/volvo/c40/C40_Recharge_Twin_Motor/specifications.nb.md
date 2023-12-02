@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/main_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo C40 Recharge Twin Motor. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volvo C40 Recharge Twin Motor, gå til [chargeinfo](../chargecurve/) for Volvo C40 Recharge Twin Motor med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

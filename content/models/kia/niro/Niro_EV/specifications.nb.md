@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/main_1_st.jpg" title="Kia Niro EV" width="3000" height="1999" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Kia Niro EV. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Kia Niro EV, gå til [chargeinfo](../chargecurve/) for Kia Niro EV med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

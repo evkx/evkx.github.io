@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/main_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for CUPRA BORN 77 e-BOOST. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of CUPRA BORN 77 e-BOOST, visit the [chargeinfo](../chargecurve/) for CUPRA BORN 77 e-BOOST with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -79,7 +80,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4322 mm (170,2 inch)
+			4322 mm (170,2")
 		</td>
 	</tr>
 	<tr>
@@ -87,7 +88,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1540 mm (60,6 inch)
+			1540 mm (60,6")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1809 mm</td></tr>

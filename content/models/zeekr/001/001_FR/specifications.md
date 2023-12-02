@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/main_1_st.jpeg" title="Zeekr 001 FR" width="1280" height="853" >}}
 EVKX.net seeks to have the most complete specifications for Zeekr 001 FR. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 001 FR, visit the [chargeinfo](../chargecurve/) for Zeekr 001 FR with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -74,7 +75,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4955 mm (195,1 inch)
+			4955 mm (195,1")
 		</td>
 	</tr>
 	<tr>
@@ -82,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1548 mm (60,9 inch)
+			1548 mm (60,9")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1999 mm</td></tr>

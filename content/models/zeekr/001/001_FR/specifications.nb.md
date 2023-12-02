@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/main_1_st.jpeg" title="Zeekr 001 FR" width="1280" height="853" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 001 FR. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Zeekr 001 FR, gå til [chargeinfo](../chargecurve/) for Zeekr 001 FR med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

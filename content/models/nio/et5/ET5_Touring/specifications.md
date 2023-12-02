@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/main_1_st.jpg" title="Nio ET5 Touring" width="3000" height="1851" >}}
 EVKX.net seeks to have the most complete specifications for Nio ET5 Touring. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio ET5 Touring, visit the [chargeinfo](../chargecurve/) for Nio ET5 Touring with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -104,7 +105,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4790 mm (188,6 inch)
+			4790 mm (188,6")
 		</td>
 	</tr>
 	<tr>
@@ -112,7 +113,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1499 mm (59,0 inch)
+			1499 mm (59,0")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1960 mm</td></tr>

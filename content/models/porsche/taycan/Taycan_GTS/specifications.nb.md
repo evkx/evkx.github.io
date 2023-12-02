@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan GTS. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Porsche Taycan GTS, gå til [chargeinfo](../chargecurve/) for Porsche Taycan GTS med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

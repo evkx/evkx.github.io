@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/main_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="1687" >}}
 EVKX.net seeks to have the most complete specifications for Zeekr X Privilege AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr X Privilege AWD, visit the [chargeinfo](../chargecurve/) for Zeekr X Privilege AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -71,7 +72,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4432 mm (174,5 inch)
+			4432 mm (174,5")
 		</td>
 	</tr>
 	<tr>
@@ -79,7 +80,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1566 mm (61,7 inch)
+			1566 mm (61,7")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1836 mm</td></tr>

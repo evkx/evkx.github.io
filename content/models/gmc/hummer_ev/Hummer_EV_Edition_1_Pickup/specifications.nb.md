@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for GMC Hummer EV Edition 1 Pickup. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av GMC Hummer EV Edition 1 Pickup, gå til [chargeinfo](../chargecurve/) for GMC Hummer EV Edition 1 Pickup med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

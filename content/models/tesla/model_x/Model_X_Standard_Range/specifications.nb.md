@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/main_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model X Standard Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Tesla Model X Standard Range, gå til [chargeinfo](../chargecurve/) for Tesla Model X Standard Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

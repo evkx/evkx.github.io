@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Cybertruck Cyberbeast. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Tesla Cybertruck Cyberbeast, gå til [chargeinfo](../chargecurve/) for Tesla Cybertruck Cyberbeast med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/main_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i7 eDrive50. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av BMW i7 eDrive50, gå til [chargeinfo](../chargecurve/) for BMW i7 eDrive50 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

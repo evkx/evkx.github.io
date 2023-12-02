@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/main_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for CUPRA BORN 77 e-BOOST. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av CUPRA BORN 77 e-BOOST, gå til [chargeinfo](../chargecurve/) for CUPRA BORN 77 e-BOOST med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

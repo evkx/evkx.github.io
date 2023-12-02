@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/main_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2249" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG4 Electric Standard. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av MG MG4 Electric Standard, gå til [chargeinfo](../chargecurve/) for MG MG4 Electric Standard med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

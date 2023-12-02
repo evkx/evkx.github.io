@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/main_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Lucid Air Dream Edition Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Lucid Air Dream Edition Performance, visit the [chargeinfo](../chargecurve/) for Lucid Air Dream Edition Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -74,7 +75,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4975 mm (195,9 inch)
+			4975 mm (195,9")
 		</td>
 	</tr>
 	<tr>
@@ -82,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1410 mm (55,5 inch)
+			1410 mm (55,5")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1939 mm</td></tr>

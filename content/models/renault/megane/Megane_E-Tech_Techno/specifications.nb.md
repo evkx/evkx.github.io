@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Renault Megane E-Tech Techno. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Renault Megane E-Tech Techno, gå til [chargeinfo](../chargecurve/) for Renault Megane E-Tech Techno med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

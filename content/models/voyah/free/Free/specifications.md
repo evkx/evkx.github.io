@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/voyah/free/free/main_1_st.jpg" title="VOYAH FREE" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for VOYAH FREE. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of VOYAH FREE, visit the [chargeinfo](../chargecurve/) for VOYAH FREE with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -70,7 +71,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4905 mm (193,1 inch)
+			4905 mm (193,1")
 		</td>
 	</tr>
 	<tr>
@@ -78,7 +79,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1645 mm (64,8 inch)
+			1645 mm (64,8")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1950 mm</td></tr>

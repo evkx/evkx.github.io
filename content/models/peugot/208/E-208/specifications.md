@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/peugot/208/e-208/main_1_st.jpg" title="Peugot E-208" width="3000" height="1666" >}}
 EVKX.net seeks to have the most complete specifications for Peugot E-208. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Peugot E-208, visit the [chargeinfo](../chargecurve/) for Peugot E-208 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -73,7 +74,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4055 mm (159,6 inch)
+			4055 mm (159,6")
 		</td>
 	</tr>
 	<tr>
@@ -81,7 +82,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1430 mm (56,3 inch)
+			1430 mm (56,3")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1768 mm</td></tr>

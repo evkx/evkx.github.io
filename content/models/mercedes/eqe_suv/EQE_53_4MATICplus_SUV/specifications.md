@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_53_4maticplus_suv/main_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+ SUV" width="3000" height="2001" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 53 4MATIC+ SUV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-AMG EQE 53 4MATIC+ SUV, visit the [chargeinfo](../chargecurve/) for Mercedes-AMG EQE 53 4MATIC+ SUV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -89,7 +90,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4879 mm (192,1 inch)
+			4879 mm (192,1")
 		</td>
 	</tr>
 	<tr>
@@ -97,7 +98,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1672 mm (65,8 inch)
+			1672 mm (65,8")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1931 mm</td></tr>

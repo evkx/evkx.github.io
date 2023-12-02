@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/main_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQS 53 4MATIC+. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-AMG EQS 53 4MATIC+, visit the [chargeinfo](../chargecurve/) for Mercedes-AMG EQS 53 4MATIC+ with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -89,7 +90,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5223 mm (205,6 inch)
+			5223 mm (205,6")
 		</td>
 	</tr>
 	<tr>
@@ -97,7 +98,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1520 mm (59,8 inch)
+			1520 mm (59,8")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1926 mm</td></tr>

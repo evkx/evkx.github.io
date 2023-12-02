@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/main_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Seal AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av BYD Seal AWD, gå til [chargeinfo](../chargecurve/) for BYD Seal AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/main_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1486" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi Z 4 Seater. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av HiPhi Z 4 Seater, gå til [chargeinfo](../chargecurve/) for HiPhi Z 4 Seater med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

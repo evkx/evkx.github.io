@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/main_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1687" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Jaguar I-Pace EV400. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Jaguar I-Pace EV400, gå til [chargeinfo](../chargecurve/) for Jaguar I-Pace EV400 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

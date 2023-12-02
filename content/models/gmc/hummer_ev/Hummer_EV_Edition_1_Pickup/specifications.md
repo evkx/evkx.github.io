@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for GMC Hummer EV Edition 1 Pickup. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of GMC Hummer EV Edition 1 Pickup, visit the [chargeinfo](../chargecurve/) for GMC Hummer EV Edition 1 Pickup with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -70,7 +71,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5507 mm (216,8 inch)
+			5507 mm (216,8")
 		</td>
 	</tr>
 	<tr>
@@ -78,7 +79,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			2009 mm (79,1 inch)
+			2009 mm (79,1")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>2201 mm</td></tr>

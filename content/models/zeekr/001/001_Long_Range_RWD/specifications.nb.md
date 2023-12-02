@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/main_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 001 Long Range RWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Zeekr 001 Long Range RWD, gå til [chargeinfo](../chargecurve/) for Zeekr 001 Long Range RWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

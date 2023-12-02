@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/fiat/600e/600e/main_1_st.jpg" title="Fiat 600e" width="3000" height="2001" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Fiat 600e. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Fiat 600e, gå til [chargeinfo](../chargecurve/) for Fiat 600e med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

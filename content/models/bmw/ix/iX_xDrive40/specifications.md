@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/main_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1998" >}}
 EVKX.net seeks to have the most complete specifications for BMW iX xDrive40. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW iX xDrive40, visit the [chargeinfo](../chargecurve/) for BMW iX xDrive40 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -73,7 +74,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4953 mm (195,0 inch)
+			4953 mm (195,0")
 		</td>
 	</tr>
 	<tr>
@@ -81,7 +82,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1696 mm (66,8 inch)
+			1696 mm (66,8")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1967 mm</td></tr>

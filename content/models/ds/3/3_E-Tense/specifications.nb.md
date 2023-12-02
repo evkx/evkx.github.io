@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/main_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for DS 3 E-Tense. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av DS 3 E-Tense, gå til [chargeinfo](../chargecurve/) for DS 3 E-Tense med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

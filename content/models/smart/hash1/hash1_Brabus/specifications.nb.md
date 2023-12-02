@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/main_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Smart #1 Brabus. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Smart #1 Brabus, gå til [chargeinfo](../chargecurve/) for Smart #1 Brabus med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

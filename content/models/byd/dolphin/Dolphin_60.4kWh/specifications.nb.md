@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" title="BYD Dolphin 60.4kWh" width="3000" height="2116" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Dolphin 60.4kWh. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av BYD Dolphin 60.4kWh, gå til [chargeinfo](../chargecurve/) for BYD Dolphin 60.4kWh med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

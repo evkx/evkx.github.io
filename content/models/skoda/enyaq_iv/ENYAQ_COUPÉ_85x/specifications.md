@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/main_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ 85x. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of SKODA ENYAQ COUPÉ 85x, visit the [chargeinfo](../chargecurve/) for SKODA ENYAQ COUPÉ 85x with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -76,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4653 mm (183,2 inch)
+			4653 mm (183,2")
 		</td>
 	</tr>
 	<tr>
@@ -84,7 +85,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1607 mm (63,3 inch)
+			1607 mm (63,3")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1879 mm</td></tr>

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/main_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Dream Edition Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Lucid Air Dream Edition Range, gå til [chargeinfo](../chargecurve/) for Lucid Air Dream Edition Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 

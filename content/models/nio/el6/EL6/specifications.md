@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/nio/el6/el6/main_1_st.jpg" title="Nio EL6" width="2880" height="1600" >}}
 EVKX.net seeks to have the most complete specifications for Nio EL6. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Nio EL6, visit the [chargeinfo](../chargecurve/) for Nio EL6 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -104,7 +105,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			4854 mm (191,1 inch)
+			4854 mm (191,1")
 		</td>
 	</tr>
 	<tr>
@@ -112,7 +113,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1703 mm (67,0 inch)
+			1703 mm (67,0")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1995 mm</td></tr>

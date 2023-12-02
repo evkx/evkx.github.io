@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/main_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQS 580 4MATIC. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQS 580 4MATIC, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQS 580 4MATIC with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -76,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5216 mm (205,4 inch)
+			5216 mm (205,4")
 		</td>
 	</tr>
 	<tr>
@@ -84,7 +85,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1512 mm (59,5 inch)
+			1512 mm (59,5")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>1926 mm</td></tr>

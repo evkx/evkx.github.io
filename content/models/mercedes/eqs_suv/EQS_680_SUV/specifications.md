@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2120" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-Maybach EQS 680 SUV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-Maybach EQS 680 SUV, visit the [chargeinfo](../chargecurve/) for Mercedes-Maybach EQS 680 SUV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -76,7 +77,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Length
 		</td>
 		<td>
-			5125 mm (201,8 inch)
+			5125 mm (201,8")
 		</td>
 	</tr>
 	<tr>
@@ -84,7 +85,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			Height
 		</td>
 		<td>
-			1721 mm (67,8 inch)
+			1721 mm (67,8")
 		</td>
 	</tr>
 <tr><td>Width excluding mirrors</td><td>2034 mm</td></tr>

@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/main_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1383" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac ESCALADE IQ. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Cadillac ESCALADE IQ, gå til [chargeinfo](../chargecurve/) for Cadillac ESCALADE IQ med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
