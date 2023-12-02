@@ -193,9 +193,9 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 441 liter. Med baksetet nede er det 784 liter. På taket kan du laste opptil 80kg. Maksimumsvekten til bilen er 2550kg, og med basisvekten på 2010 kg kan du maksimalt laste 540 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 441 liter. Med baksetet nede er det 784 liter. På taket kan du laste opptil 80 kg. Maksimumsvekten til bilen er 2550 kg, og med basisvekten på 2010 kg kan du maksimalt laste 540 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
 
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/trunk_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}

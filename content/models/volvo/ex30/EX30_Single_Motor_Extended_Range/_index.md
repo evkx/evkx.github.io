@@ -199,9 +199,9 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 318 liters. With the rear seat down, it is 904 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 7 liters. The maxium weight of the car is 2235kg, and with the base weight of 1755 kg, you can max load 480 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 318 liters. With the rear seat down, it is 904 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 7 liters (0,2 CU FT). The maxium weight of the car is 2235 kg (4927 lbs), and with the base weight of 1755 kg (3869 lbs), you can max load 480 kg (1058 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1400, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1400, and on unbraked, it is 750 kg (3086/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/trunk_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2251"  >}}

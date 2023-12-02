@@ -99,3 +99,13 @@ These are tires that are derived from Michelin's performance tires, but optimize
 {{< sitefiguresized thumb="technology/wheels/michelinpilotsportev_1_st.jpg" width="3000" height="1333" title="Michelin Pilot Sport EV" >}}
 
 {{< sitefiguresized thumb="technology/wheels/michelinpilotsportev_2_st.jpg" width="3000" height="3000" title="Michelin Pilot Sport EV" >}}
+
+See also this video for good information about EV specific tires.
+
+{{< youtube 8pM9o2Ifcro >}}
+
+## Wheels affect on range
+
+If you want to understand the physics how different wheels affect consumption and range see the below video. 
+
+{{< youtube NYvKxsYFqO8 >}}

@@ -198,9 +198,9 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 522 liter. Med setet på tredje rad nede er det 1451 liter. På taket kan du laste opptil 80kg. Maksimumsvekten til bilen er 2530kg, og med basisvekten på 1980 kg kan du maksimalt laste 550 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 522 liter. Med setet på tredje rad nede er det 1451 liter. På taket kan du laste opptil 80 kg. Maksimumsvekten til bilen er 2530 kg, og med basisvekten på 1980 kg kan du maksimalt laste 550 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
 
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/trunk_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}

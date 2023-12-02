@@ -197,9 +197,9 @@ Med ProPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 468 liter. Med baksetet nede er det 1490 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2400kg, og med basisvekten på 1875 kg kan du maksimalt laste 525 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 468 liter. Med baksetet nede er det 1490 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2400 kg, og med basisvekten på 1875 kg kan du maksimalt laste 525 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
 
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh/trunk_1_st.jpg" title="Nissan Ariya 87kWh" width="3000" height="1999"  >}}

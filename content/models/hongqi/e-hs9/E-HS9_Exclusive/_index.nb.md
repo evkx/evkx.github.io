@@ -214,6 +214,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 225 liter. Med setet på tredje rad nede er det 622 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 3180kg, og med basisvekten på 2630 kg kan du maksimalt laste 550 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 225 liter. Med setet på tredje rad nede er det 622 liter. På taket kan du laste opptil 100 kg. Maksimumsvekten til bilen er 3180 kg, og med basisvekten på 2630 kg kan du maksimalt laste 550 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.

@@ -213,9 +213,9 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 71 liters. The maxium weight of the car is 2680kg, and with the base weight of 2255 kg, you can max load 425 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 425kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers. 
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 71 liters (2,5 CU FT). The maxium weight of the car is 2680 kg (5908 lbs), and with the base weight of 2255 kg (4971 lbs), you can max load 425 kg (937 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.425kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/trunk_1_st.jpg" title="XPENG G9 RWD Standard Range" width="3000" height="2002"  >}}

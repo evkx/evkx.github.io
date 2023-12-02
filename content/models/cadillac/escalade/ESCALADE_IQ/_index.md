@@ -205,6 +205,6 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 670 liters. With the rear seat down, it is 3374 liters. Under the hood, there is frunk with more storage room. This frunk is 345 liters. The maxium weight of the car is 4717kg, and with the base weight of 4103 kg, you can max load 614 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 670 liters. With the rear seat down, it is 3374 liters. Under the hood, there is frunk with more storage room. This frunk is 345 liters (12,2 CU FT). The maxium weight of the car is 4717 kg (10399 lbs), and with the base weight of 4103 kg (9046 lbs), you can max load 614 kg (1354 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 3628, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 3628, and on unbraked, it is 750 kg (7998/1653 lbs).

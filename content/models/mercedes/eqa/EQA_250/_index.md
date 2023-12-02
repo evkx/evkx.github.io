@@ -223,6 +223,6 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 340 liters. With the rear seat down, it is 1320 liters. On the roof, you can load up to 75kg. The maxium weight of the car is 2535kg, and with the base weight of 2030 kg, you can max load 505 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 340 liters. With the rear seat down, it is 1320 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2535 kg (5589 lbs), and with the base weight of 2030 kg (4475 lbs), you can max load 505 kg (1113 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).

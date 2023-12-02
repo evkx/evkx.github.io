@@ -211,9 +211,9 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 500 liter. Med baksetet nede er det 1750 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 3010kg, og med basisvekten på 2365 kg kan du maksimalt laste 645 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 500 liter. Med baksetet nede er det 1750 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 3010 kg, og med basisvekten på 2365 kg kan du maksimalt laste 645 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2500, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2500, og på ubremset er den 750 kg.
 
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/trunk_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1998"  >}}

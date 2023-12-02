@@ -180,9 +180,9 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1460 liters. On the roof, you can load up to 75kg. The maxium weight of the car is 2940kg, and with the base weight of 2420 kg, you can max load 520 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1460 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2940 kg (6482 lbs), and with the base weight of 2420 kg (5335 lbs), you can max load 520 kg (1146 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2170"  >}}

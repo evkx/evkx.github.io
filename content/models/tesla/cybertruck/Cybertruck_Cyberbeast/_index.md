@@ -102,10 +102,11 @@ Only one front seat type is available in the Tesla Cybertruck Cyberbeast.
 The following functionalities are available on the **standard** seat. 
 
 - electric adjustment 
-- height adjustable headrest 
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) 
+- integrated headrest 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 You can choose from 1 different materials/colors for this seat type. <br />
 <br />
@@ -218,9 +219,9 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 ## Cargo Capacity and Towing Ability
 
-On the roof, you can load up to 100kg. Under the hood, there is frunk with more storage room. This frunk is 201 liters. The maxium weight of the car is 4260kg, and with the base weight of 3099 kg, you can max load 1161 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 201 liters (7,1 CU FT). The maxium weight of the car is 4238 kg (9343 lbs), and with the base weight of 3104 kg (6843 lbs), you can max load 1134 kg (2500 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 5000, and on unbraked, it is 750kg. 
+A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 4990, and on unbraked, it is 750 kg (11000/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/trunk_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}

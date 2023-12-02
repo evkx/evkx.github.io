@@ -202,9 +202,9 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1260 liters. On the roof, you can load up to 80kg. Under the hood, there is frunk with more storage room. This frunk is 20 liters. The maxium weight of the car is 2530kg, and with the base weight of 2015 kg, you can max load 515 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1260 liters. On the roof, you can load up to 80 kg (176,4 lbs). Under the hood, there is frunk with more storage room. This frunk is 20 liters (0,7 CU FT). The maxium weight of the car is 2530 kg (5578 lbs), and with the base weight of 2015 kg (4442 lbs), you can max load 515 kg (1135 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_2wd/trunk_1_st.jpg" title="Kia EV6 Standard Range 2WD" width="3000" height="1999"  >}}

@@ -197,9 +197,9 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 415 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75kg. The maxium weight of the car is 2400kg, and with the base weight of 1875 kg, you can max load 525 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 415 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2400 kg (5291 lbs), and with the base weight of 1875 kg (4134 lbs), you can max load 525 kg (1157 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" width="3000" height="1999"  >}}

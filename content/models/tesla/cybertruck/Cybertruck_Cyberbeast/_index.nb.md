@@ -102,10 +102,11 @@ Bare én type forsete er tilgjengelig i Tesla Cybertruck Cyberbeast.
 Følgende funksjoner er tilgjengelige på **standard** setet. 
 
 - elektrisk justering 
-- høydejusterbar hodestøtte 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) 
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) 
+- integrert hodestøtte 
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
 <br />
@@ -218,9 +219,9 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 ## Lastekapasitet og slepeevne
 
-På taket kan du laste opptil 100kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4260kg, og med basisvekten på 3099 kg kan du maksimalt laste 1161 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4238 kg, og med basisvekten på 3104 kg kan du maksimalt laste 1134 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 5000, og på ubremset er den 750kg. 
+Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 4990, og på ubremset er den 750 kg.
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/trunk_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}

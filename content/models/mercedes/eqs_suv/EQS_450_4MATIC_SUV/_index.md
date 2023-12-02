@@ -254,9 +254,9 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 645 liters. With the rear seat down, it is 2100 liters. On the roof, you can load up to 100kg. The maxium weight of the car is 3375kg, and with the base weight of 2730 kg, you can max load 645 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 645 liters. With the rear seat down, it is 2100 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 3375 kg (7441 lbs), and with the base weight of 2730 kg (6019 lbs), you can max load 645 kg (1422 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450_4matic_suv/trunk_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC SUV" width="3000" height="1999"  >}}

@@ -223,9 +223,9 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 1121 liter. Med baksetet nede er det 2205 liter. På taket kan du laste opptil 100kg. Maksimumsvekten til bilen er 3000kg, og med basisvekten på 2416 kg kan du maksimalt laste 584 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 1121 liter. Med baksetet nede er det 2205 liter. På taket kan du laste opptil 100 kg. Maksimumsvekten til bilen er 3000 kg, og med basisvekten på 2416 kg kan du maksimalt laste 584 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/trunk_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}

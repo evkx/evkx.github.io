@@ -183,9 +183,9 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1295 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 31 liters. The maxium weight of the car is 2520kg, and with the base weight of 2030 kg, you can max load 490 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1295 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 31 liters (1,1 CU FT). The maxium weight of the car is 2520 kg (5556 lbs), and with the base weight of 2030 kg (4475 lbs), you can max load 490 kg (1080 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/trunk_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="3000" height="2250"  >}}

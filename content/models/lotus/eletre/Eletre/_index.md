@@ -219,9 +219,9 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 688 liters. With the rear seat down, it is 1532 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 46 liters. The maxium weight of the car is 3100kg, and with the base weight of 2640 kg, you can max load 460 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 460kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers. 
+The cargo capacity in the trunk is 688 liters. With the rear seat down, it is 1532 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 46 liters (1,6 CU FT). The maxium weight of the car is 3100 kg (6834 lbs), and with the base weight of 2640 kg (5820 lbs), you can max load 460 kg (1014 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.460kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2250, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2250, and on unbraked, it is 750 kg (4960/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/trunk_1_st.jpg" title="Lotus Eletre" width="3000" height="1687"  >}}

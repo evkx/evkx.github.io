@@ -195,7 +195,7 @@ With the   level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 793 liters. With the rear seat down, it is 1723 liters. 
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1588, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1588, and on unbraked, it is 750 kg (3501/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/trunk_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}

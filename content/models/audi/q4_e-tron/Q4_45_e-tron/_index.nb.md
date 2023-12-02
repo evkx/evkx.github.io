@@ -242,9 +242,9 @@ Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsf
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 520 liter. Med baksetet nede er det 1490 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2660kg, og med basisvekten på 2070 kg kan du maksimalt laste 590 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 520 liter. Med baksetet nede er det 1490 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2660 kg, og med basisvekten på 2070 kg kan du maksimalt laste 590 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron/trunk_1_st.jpg" title="Audi Q4 45 e-tron" width="3000" height="2249"  >}}

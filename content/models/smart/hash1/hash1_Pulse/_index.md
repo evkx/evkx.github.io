@@ -191,9 +191,9 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 313 liters. With the rear seat down, it is 976 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 15 liters. The maxium weight of the car is 2325kg, and with the base weight of 1925 kg, you can max load 400 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 313 liters. With the rear seat down, it is 976 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 15 liters (0,5 CU FT). The maxium weight of the car is 2325 kg (5126 lbs), and with the base weight of 1925 kg (4244 lbs), you can max load 400 kg (882 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 ### Availability & Pricing
 
 This model had a world premiere on 07.04.2022, and deliveries is expected to start in November 2023.

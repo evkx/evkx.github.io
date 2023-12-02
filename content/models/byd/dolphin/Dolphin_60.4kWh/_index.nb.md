@@ -215,9 +215,9 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 345 liter. Med baksetet nede er det 1310 liter. På taket kan du laste opptil 50kg. Maksimumsvekten til bilen er 2068kg, og med basisvekten på 1683 kg kan du maksimalt laste 385 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 345 liter. Med baksetet nede er det 1310 liter. På taket kan du laste opptil 50 kg. Maksimumsvekten til bilen er 2068 kg, og med basisvekten på 1683 kg kan du maksimalt laste 385 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 0, og på ubremset er den 0kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 0, og på ubremset er den 0 kg.
 
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}

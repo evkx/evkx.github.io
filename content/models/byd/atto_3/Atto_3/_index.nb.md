@@ -215,7 +215,7 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 440 liter. Med baksetet nede er det 1338 liter. På taket kan du laste opptil 50kg. Maksimumsvekten til bilen er 2160kg, og med basisvekten på 1750 kg kan du maksimalt laste 410 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 440 liter. Med baksetet nede er det 1338 liter. På taket kan du laste opptil 50 kg. Maksimumsvekten til bilen er 2160 kg, og med basisvekten på 1750 kg kan du maksimalt laste 410 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}

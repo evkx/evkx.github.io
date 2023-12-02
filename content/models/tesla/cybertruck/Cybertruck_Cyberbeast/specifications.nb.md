@@ -113,7 +113,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justering av høyde, hvile og vinkel</td><td>Standardfunksjon</td></tr>
 <tr><td>Minne førersete</td><td>Standardfunksjon</td></tr>
 <tr><td>Minne passasjersete</td><td>Standardfunksjon</td></tr>
-<tr><td>Høydejusterbar nakkestøtte</td><td>Standardfunksjon</td></tr>
+<tr><td>Høydejusterbar nakkestøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Lengdejusterbar hodestøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Justering av ryggstøtten</td><td>Ikke tilgjengelig</td></tr>
@@ -122,7 +122,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
 <tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
 </table>

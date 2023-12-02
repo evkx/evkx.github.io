@@ -185,9 +185,9 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 363 liters. With the rear seat down, it is 1165 liters. The maxium weight of the car is 2209kg, and with the base weight of 1823 kg, you can max load 386 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 363 liters. With the rear seat down, it is 1165 liters. The maxium weight of the car is 2209 kg (4870 lbs), and with the base weight of 1823 kg (4019 lbs), you can max load 386 kg (851 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, it is 500kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, it is 500 kg (1102/1102 lbs).
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/trunk_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}

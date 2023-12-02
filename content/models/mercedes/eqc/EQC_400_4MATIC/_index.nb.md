@@ -180,9 +180,9 @@ Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomati
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 500 liter. Med baksetet nede er det 1460 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2940kg, og med basisvekten på 2420 kg kan du maksimalt laste 520 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 500 liter. Med baksetet nede er det 1460 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2940 kg, og med basisvekten på 2420 kg kan du maksimalt laste 520 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750kg. 
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2170"  >}}

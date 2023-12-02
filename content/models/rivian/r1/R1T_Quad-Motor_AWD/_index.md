@@ -203,9 +203,9 @@ With the Driver+  level 2 system, you get the following driving automation featu
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm, and length is 1371 mm. The max load weight in bed is 800 kg.  On the roof, you can load up to 113kg. Under the hood, there is frunk with more storage room. This frunk is 314 liters. The maxium weight of the car is 3870kg, and with the base weight of 2858 kg, you can max load 1012 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm, and length is 1371 mm. The max load weight in bed is 800 kg.  On the roof, you can load up to 113 kg (249,1 lbs). Under the hood, there is frunk with more storage room. This frunk is 314 liters (11,1 CU FT). The maxium weight of the car is 3870 kg (8532 lbs), and with the base weight of 2858 kg (6301 lbs), you can max load 1012 kg (2231 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 5000, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 5000, and on unbraked, it is 750 kg (11023/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2880" height="1920"  >}}

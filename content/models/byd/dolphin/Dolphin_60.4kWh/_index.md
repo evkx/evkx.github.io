@@ -215,9 +215,9 @@ With the   level 1 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 345 liters. With the rear seat down, it is 1310 liters. On the roof, you can load up to 50kg. The maxium weight of the car is 2068kg, and with the base weight of 1683 kg, you can max load 385 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 345 liters. With the rear seat down, it is 1310 liters. On the roof, you can load up to 50 kg (110,2 lbs). The maxium weight of the car is 2068 kg (4559 lbs), and with the base weight of 1683 kg (3710 lbs), you can max load 385 kg (849 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 0, and on unbraked, it is 0kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 0, and on unbraked, it is 0 kg (0/0 lbs).
 
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}

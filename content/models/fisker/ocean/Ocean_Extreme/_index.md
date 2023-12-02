@@ -194,6 +194,6 @@ With the Fisker Intelligent Pilot  level 2 system, you get the following driving
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 476 liters. With the rear seat down, it is 918 liters. On the roof, you can load up to 75kg. The maxium weight of the car is 2974kg, and with the base weight of 2433 kg, you can max load 541 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 476 liters. With the rear seat down, it is 918 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2974 kg (6557 lbs), and with the base weight of 2433 kg (5364 lbs), you can max load 541 kg (1193 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1820, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1820, and on unbraked, it is 750 kg (4012/1653 lbs).

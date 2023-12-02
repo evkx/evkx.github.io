@@ -185,9 +185,9 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The maxium weight of the car is 2133kg, and with the base weight of 1715 kg, you can max load 418 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The maxium weight of the car is 2133 kg (4702 lbs), and with the base weight of 1715 kg (3781 lbs), you can max load 418 kg (922 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, it is 500kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, it is 500 kg (1102/1102 lbs).
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/trunk_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}

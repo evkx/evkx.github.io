@@ -198,9 +198,9 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 522 liters. With the third-row seat down, it is 1451 liters. On the roof, you can load up to 80kg. The maxium weight of the car is 2530kg, and with the base weight of 1980 kg, you can max load 550 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 522 liters. With the third-row seat down, it is 1451 liters. On the roof, you can load up to 80 kg (176,4 lbs). The maxium weight of the car is 2530 kg (5578 lbs), and with the base weight of 1980 kg (4365 lbs), you can max load 550 kg (1213 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750kg. 
+You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/trunk_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}

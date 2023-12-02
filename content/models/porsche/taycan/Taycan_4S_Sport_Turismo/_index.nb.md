@@ -269,7 +269,7 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 446 liter. Med baksetet nede er det 1171 liter. På taket kan du laste opptil 75kg. Maksimumsvekten til bilen er 2875kg, og med basisvekten på 2170 kg kan du maksimalt laste 705 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 446 liter. Med baksetet nede er det 1171 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2875 kg, og med basisvekten på 2170 kg kan du maksimalt laste 705 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 

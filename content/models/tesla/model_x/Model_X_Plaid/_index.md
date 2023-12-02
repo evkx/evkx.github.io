@@ -216,9 +216,9 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 709 liters. With the rear seat down, it is 1828 liters. Under the hood, there is frunk with more storage room. This frunk is 183 liters. The maxium weight of the car is 2970kg, and with the base weight of 2464 kg, you can max load 506 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 709 liters. With the rear seat down, it is 1828 liters. Under the hood, there is frunk with more storage room. This frunk is 183 liters (6,5 CU FT). The maxium weight of the car is 2970 kg (6548 lbs), and with the base weight of 2464 kg (5432 lbs), you can max load 506 kg (1116 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2250, and on unbraked, it is 750kg. 
+A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2250, and on unbraked, it is 750 kg (4960/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/trunk_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}

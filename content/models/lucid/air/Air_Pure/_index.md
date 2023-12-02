@@ -200,7 +200,7 @@ With the ADAS  level 2 system, you get the following driving automation features
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 456 liters. With the rear seat down, it is 627 liters. On the roof, you can load up to 75kg. Under the hood, there is frunk with more storage room. This frunk is 283 liters. The maxium weight of the car is 2850kg, and with the base weight of 2360 kg, you can max load 490 kg, including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 
+The cargo capacity in the trunk is 456 liters. With the rear seat down, it is 627 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 283 liters (10,0 CU FT). The maxium weight of the car is 2850 kg (6283 lbs), and with the base weight of 2360 kg (5203 lbs), you can max load 490 kg (1080 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
