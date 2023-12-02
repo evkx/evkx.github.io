@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/main_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for Tesla Model Y Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model Y Performance, visit the [chargeinfo](../chargecurve/) for Tesla Model Y Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -66,8 +67,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4751 mm</td></tr>
-<tr><td>Height</td><td>1624 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4751 mm (187,0 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1624 mm (63,9 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1921 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2129 mm</td></tr>
 <tr><td>Wheelbase</td><td>2890 mm</td></tr>

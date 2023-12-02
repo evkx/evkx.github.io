@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/main_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="1999" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for SKODA ENYAQ COUPÉ 85x. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av SKODA ENYAQ COUPÉ 85x, gå til [chargeinfo](../chargecurve/) for SKODA ENYAQ COUPÉ 85x med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -70,11 +71,25 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4653 mm</td></tr>
-<tr><td>Høyde</td><td>1607 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			4653 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1607 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1879 mm</td></tr>
 <tr><td>Bredde inkludert speil</td><td>2148 mm</td></tr>
-<tr><td>Wheelbase</td><td>2768 mm</td></tr>
+<tr><td>Akselavstand</td><td>2768 mm</td></tr>
 <tr><td>Sporbredde foran</td><td>1600 mm</td></tr>
 <tr><td>Sporbredde bak</td><td>1573 mm</td></tr>
 <tr><td>Drag-koeffisient</td><td>0,248</td></tr>
@@ -129,7 +144,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Standardfunksjon</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Standardfunksjon</td></tr>
 </tbody>
@@ -154,7 +169,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ukjent</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ukjent</td></tr>
 <tr><td>Seteventilasjon</td><td>Ukjent</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
 </tbody>

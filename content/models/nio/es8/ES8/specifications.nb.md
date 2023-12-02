@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/nio/es8/es8/main_1_st.jpg" title="Nio ES8" width="2880" height="1792" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Nio ES8. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Nio ES8, gå til [chargeinfo](../chargecurve/) for Nio ES8 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -92,10 +93,24 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>5022 mm</td></tr>
-<tr><td>Høyde</td><td>1756 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			5022 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1756 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1962 mm</td></tr>
-<tr><td>Wheelbase</td><td>3010 mm</td></tr>
+<tr><td>Akselavstand</td><td>3010 mm</td></tr>
 <tr><td>Sporbredde foran</td><td>1668 mm</td></tr>
 <tr><td>Sporbredde bak</td><td>1672 mm</td></tr>
 <tr><td>Drag-koeffisient</td><td>0,29</td></tr>
@@ -148,7 +163,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Standardfunksjon</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Standardfunksjon</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Standardfunksjon</td></tr>
 </tbody>
@@ -173,7 +188,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
@@ -195,7 +210,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>

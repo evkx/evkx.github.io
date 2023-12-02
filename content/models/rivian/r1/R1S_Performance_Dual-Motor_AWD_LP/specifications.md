@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/main_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="2880" height="1920" >}}
 EVKX.net seeks to have the most complete specifications for Rivian R1S Performance Dual-Motor AWD LP. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Rivian R1S Performance Dual-Motor AWD LP, visit the [chargeinfo](../chargecurve/) for Rivian R1S Performance Dual-Motor AWD LP with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -60,8 +61,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>5100 mm</td></tr>
-<tr><td>Height</td><td>1966 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			5100 mm (200,8 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1966 mm (77,4 inch)
+		</td>
+	</tr>
 <tr><td>Widht including mirrors</td><td>2078 mm</td></tr>
 <tr><td>Wheelbase</td><td>3076 mm</td></tr>
 </tbody>

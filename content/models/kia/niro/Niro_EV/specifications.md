@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/main_1_st.jpg" title="Kia Niro EV" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for Kia Niro EV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Kia Niro EV, visit the [chargeinfo](../chargecurve/) for Kia Niro EV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -66,8 +67,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4420 mm</td></tr>
-<tr><td>Height</td><td>1545 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4420 mm (174,0 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1545 mm (60,8 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1825 mm</td></tr>
 <tr><td>Wheelbase</td><td>2720 mm</td></tr>
 <tr><td>Track width front</td><td>1573 mm</td></tr>

@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_350_4matic/main_1_st.jpg" title="Mercedes-EQ EQB 350 4MATIC" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQB 350 4MATIC. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQB 350 4MATIC, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQB 350 4MATIC with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -69,8 +70,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4684 mm</td></tr>
-<tr><td>Height</td><td>1701 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4684 mm (184,4 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1701 mm (67,0 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1834 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2020 mm</td></tr>
 <tr><td>Wheelbase</td><td>2829 mm</td></tr>

@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/main_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo C40 Recharge Single Motor. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volvo C40 Recharge Single Motor, gå til [chargeinfo](../chargecurve/) for Volvo C40 Recharge Single Motor med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -69,11 +70,25 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4440 mm</td></tr>
-<tr><td>Høyde</td><td>1596 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			4440 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1596 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1873 mm</td></tr>
 <tr><td>Bredde inkludert speil</td><td>2034 mm</td></tr>
-<tr><td>Wheelbase</td><td>2702 mm</td></tr>
+<tr><td>Akselavstand</td><td>2702 mm</td></tr>
 <tr><td>Sporbredde foran</td><td>1601 mm</td></tr>
 <tr><td>Sporbredde bak</td><td>1610 mm</td></tr>
 <tr><td>Drag-koeffisient</td><td>0,329</td></tr>
@@ -124,7 +139,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Standardfunksjon</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Seteventilasjon</td><td>Ukjent</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
 </tbody>
@@ -146,7 +161,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>

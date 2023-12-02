@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/main_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQS 53 4MATIC+. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Mercedes-AMG EQS 53 4MATIC+, gå til [chargeinfo](../chargecurve/) for Mercedes-AMG EQS 53 4MATIC+ med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -83,11 +84,25 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>5223 mm</td></tr>
-<tr><td>Høyde</td><td>1520 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			5223 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1520 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1926 mm</td></tr>
 <tr><td>Bredde inkludert speil</td><td>2136 mm</td></tr>
-<tr><td>Wheelbase</td><td>3210 mm</td></tr>
+<tr><td>Akselavstand</td><td>3210 mm</td></tr>
 <tr><td>Sporbredde foran</td><td>1660 mm</td></tr>
 <tr><td>Sporbredde bak</td><td>1653 mm</td></tr>
 <tr><td>Drag-koeffisient</td><td>0,241</td></tr>
@@ -140,7 +155,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Valgfri funksjon</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Valgfri funksjon</td></tr>
 <tr><td>Seteventilasjon</td><td>Valgfri funksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
@@ -165,7 +180,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Standardfunksjon</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Seteventilasjon</td><td>Valgfri funksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Standardfunksjon</td></tr>
 </tbody>
@@ -190,7 +205,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
@@ -212,7 +227,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>

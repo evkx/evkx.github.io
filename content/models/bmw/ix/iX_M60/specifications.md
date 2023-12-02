@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/main_1_st.jpg" title="BMW iX M60" width="3000" height="2002" >}}
 EVKX.net seeks to have the most complete specifications for BMW iX M60. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW iX M60, visit the [chargeinfo](../chargecurve/) for BMW iX M60 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -67,8 +68,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4953 mm</td></tr>
-<tr><td>Height</td><td>1696 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4953 mm (195,0 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1696 mm (66,8 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1967 mm</td></tr>
 <tr><td>Wheelbase</td><td>3000 mm</td></tr>
 <tr><td>Track width front</td><td>1661 mm</td></tr>

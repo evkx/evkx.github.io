@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" title="BYD Dolphin 60.4kWh" width="3000" height="2116" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Dolphin 60.4kWh. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av BYD Dolphin 60.4kWh, gå til [chargeinfo](../chargecurve/) for BYD Dolphin 60.4kWh med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -67,11 +68,25 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4290 mm</td></tr>
-<tr><td>Høyde</td><td>1570 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			4290 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1570 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1770 mm</td></tr>
 <tr><td>Bredde inkludert speil</td><td>2012 mm</td></tr>
-<tr><td>Wheelbase</td><td>2700 mm</td></tr>
+<tr><td>Akselavstand</td><td>2700 mm</td></tr>
 <tr><td>Vendesirkel</td><td>10,5 meters</td></tr>
 </tbody>
 </table>
@@ -121,7 +136,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Standardfunksjon</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
@@ -146,7 +161,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>

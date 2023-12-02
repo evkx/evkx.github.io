@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/smart/hash1/hash1/main_1_st.jpg" title="Smart #1" width="1600" height="1200" >}}
 EVKX.net seeks to have the most complete specifications for Smart #1. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Smart #1, visit the [chargeinfo](../chargecurve/) for Smart #1 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -68,8 +69,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4270 mm</td></tr>
-<tr><td>Height</td><td>1636 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4270 mm (168,1 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1636 mm (64,4 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1822 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2025 mm</td></tr>
 <tr><td>Wheelbase</td><td>2750 mm</td></tr>

@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/main_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for Polestar 2 Long Range Single Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Polestar 2 Long Range Single Motor, visit the [chargeinfo](../chargecurve/) for Polestar 2 Long Range Single Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -71,8 +72,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4606 mm</td></tr>
-<tr><td>Height</td><td>1652 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4606 mm (181,3 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1652 mm (65,0 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1859 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>1985 mm</td></tr>
 <tr><td>Wheelbase</td><td>2735 mm</td></tr>

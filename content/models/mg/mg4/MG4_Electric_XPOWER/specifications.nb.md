@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/main_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2172" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG4 Electric XPOWER. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av MG MG4 Electric XPOWER, gå til [chargeinfo](../chargecurve/) for MG MG4 Electric XPOWER med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -66,11 +67,25 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4287 mm</td></tr>
-<tr><td>Høyde</td><td>1504 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			4287 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1504 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1836 mm</td></tr>
 <tr><td>Bredde inkludert speil</td><td>2060 mm</td></tr>
-<tr><td>Wheelbase</td><td>2705 mm</td></tr>
+<tr><td>Akselavstand</td><td>2705 mm</td></tr>
 </tbody>
 </table>
 
@@ -120,7 +135,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ukjent</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ukjent</td></tr>
 <tr><td>Seteventilasjon</td><td>Ukjent</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
 </tbody>
@@ -145,7 +160,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ukjent</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ukjent</td></tr>
 <tr><td>Seteventilasjon</td><td>Ukjent</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
 </tbody>

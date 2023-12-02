@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2249" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac LYRIQ AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Cadillac LYRIQ AWD, gå til [chargeinfo](../chargecurve/) for Cadillac LYRIQ AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -59,10 +60,24 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4996 mm</td></tr>
-<tr><td>Høyde</td><td>1623 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			4996 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1623 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1977 mm</td></tr>
-<tr><td>Wheelbase</td><td>3094 mm</td></tr>
+<tr><td>Akselavstand</td><td>3094 mm</td></tr>
 <tr><td>Vendesirkel</td><td>12,1 meters</td></tr>
 </tbody>
 </table>
@@ -110,7 +125,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Standardfunksjon</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Standardfunksjon</td></tr>
 </tbody>
@@ -132,7 +147,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ukjent</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ukjent</td></tr>
 <tr><td>Seteventilasjon</td><td>Ukjent</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
 </tbody>

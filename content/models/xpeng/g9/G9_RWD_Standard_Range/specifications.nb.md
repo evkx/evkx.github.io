@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/main_1_st.jpg" title="XPENG G9 RWD Standard Range" width="3000" height="1999" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G9 RWD Standard Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av XPENG G9 RWD Standard Range, gå til [chargeinfo](../chargecurve/) for XPENG G9 RWD Standard Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -65,10 +66,24 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4891 mm</td></tr>
-<tr><td>Høyde</td><td>1670 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			4891 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1670 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1937 mm</td></tr>
-<tr><td>Wheelbase</td><td>2998 mm</td></tr>
+<tr><td>Akselavstand</td><td>2998 mm</td></tr>
 </tbody>
 </table>
 
@@ -116,7 +131,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Standardfunksjon</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Standardfunksjon</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Standardfunksjon</td></tr>
 </tbody>
@@ -138,7 +153,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ukjent</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ukjent</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Standardfunksjon</td></tr>
 </tbody>

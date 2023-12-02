@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/main_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for DS 3 E-Tense. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av DS 3 E-Tense, gå til [chargeinfo](../chargecurve/) for DS 3 E-Tense med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -70,11 +71,25 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4118 mm</td></tr>
-<tr><td>Høyde</td><td>1534 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			4118 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1534 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1802 mm</td></tr>
 <tr><td>Bredde inkludert speil</td><td>1988 mm</td></tr>
-<tr><td>Wheelbase</td><td>2558 mm</td></tr>
+<tr><td>Akselavstand</td><td>2558 mm</td></tr>
 </tbody>
 </table>
 
@@ -125,7 +140,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Valgfri funksjon</td></tr>
 </tbody>
@@ -150,7 +165,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ukjent</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ukjent</td></tr>
 <tr><td>Seteventilasjon</td><td>Ukjent</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
 </tbody>

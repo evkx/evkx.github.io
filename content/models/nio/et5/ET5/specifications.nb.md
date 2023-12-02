@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/nio/et5/et5/main_1_st.jpg" title="Nio ET5" width="2880" height="1792" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Nio ET5. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Nio ET5, gå til [chargeinfo](../chargecurve/) for Nio ET5 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -98,11 +99,25 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4790 mm</td></tr>
-<tr><td>Høyde</td><td>1499 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			4790 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1499 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1960 mm</td></tr>
 <tr><td>Bredde inkludert speil</td><td>2202 mm</td></tr>
-<tr><td>Wheelbase</td><td>2888 mm</td></tr>
+<tr><td>Akselavstand</td><td>2888 mm</td></tr>
 <tr><td>Drag-koeffisient</td><td>0,208</td></tr>
 <tr><td>Vendesirkel</td><td>12,4 meters</td></tr>
 </tbody>
@@ -155,7 +170,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Standardfunksjon</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Standardfunksjon</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Standardfunksjon</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Standardfunksjon</td></tr>
 </tbody>
@@ -180,7 +195,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>

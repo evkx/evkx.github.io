@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1571" >}}
 EVKX.net seeks to have the most complete specifications for Ford F150 Lightning Extended Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Ford F150 Lightning Extended Range, visit the [chargeinfo](../chargecurve/) for Ford F150 Lightning Extended Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -63,8 +64,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>5915 mm</td></tr>
-<tr><td>Height</td><td>2004 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			5915 mm (232,9 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			2004 mm (78,9 inch)
+		</td>
+	</tr>
 <tr><td>Widht including mirrors</td><td>2032 mm</td></tr>
 <tr><td>Wheelbase</td><td>3683 mm</td></tr>
 <tr><td>Track width front</td><td>1730 mm</td></tr>

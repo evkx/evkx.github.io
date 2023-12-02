@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2007" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Gravity Dream Edition. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Lucid Gravity Dream Edition, gå til [chargeinfo](../chargecurve/) for Lucid Gravity Dream Edition med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -63,11 +64,25 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>5034 mm</td></tr>
-<tr><td>Høyde</td><td>1656 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			5034 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1656 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1999 mm</td></tr>
 <tr><td>Bredde inkludert speil</td><td>2198 mm</td></tr>
-<tr><td>Wheelbase</td><td>3035 mm</td></tr>
+<tr><td>Akselavstand</td><td>3035 mm</td></tr>
 <tr><td>Drag-koeffisient</td><td>0,24</td></tr>
 </tbody>
 </table>
@@ -138,7 +153,7 @@ Interior.Seatlayout.OnlySix
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Standardfunksjon</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Standardfunksjon</td></tr>
 </tbody>
@@ -160,7 +175,7 @@ Interior.Seatlayout.OnlySix
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>

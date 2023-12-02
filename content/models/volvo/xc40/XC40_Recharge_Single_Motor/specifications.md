@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/main_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1920" height="1080" >}}
 EVKX.net seeks to have the most complete specifications for Volvo XC40 Recharge Single Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo XC40 Recharge Single Motor, visit the [chargeinfo](../chargecurve/) for Volvo XC40 Recharge Single Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -69,8 +70,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4425 mm</td></tr>
-<tr><td>Height</td><td>1652 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4425 mm (174,2 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1652 mm (65,0 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1873 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2034 mm</td></tr>
 <tr><td>Wheelbase</td><td>2702 mm</td></tr>

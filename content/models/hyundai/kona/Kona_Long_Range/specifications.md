@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/main_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for Hyundai Kona Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Kona Long Range, visit the [chargeinfo](../chargecurve/) for Hyundai Kona Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -67,8 +68,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4355 mm</td></tr>
-<tr><td>Height</td><td>1575 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4355 mm (171,5 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1575 mm (62,0 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1825 mm</td></tr>
 <tr><td>Wheelbase</td><td>2660 mm</td></tr>
 <tr><td>Drag coefficient</td><td>0,27</td></tr>

@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 N. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Ioniq 5 N, visit the [chargeinfo](../chargecurve/) for Hyundai Ioniq 5 N with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -69,8 +70,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4715 mm</td></tr>
-<tr><td>Height</td><td>1585 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4715 mm (185,6 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1585 mm (62,4 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1940 mm</td></tr>
 <tr><td>Wheelbase</td><td>3000 mm</td></tr>
 <tr><td>Track width front</td><td>1628 mm</td></tr>

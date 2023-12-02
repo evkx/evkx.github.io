@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/main_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="1875" >}}
 EVKX.net seeks to have the most complete specifications for Peugot E-3008 Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Peugot E-3008 Long Range, visit the [chargeinfo](../chargecurve/) for Peugot E-3008 Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -67,8 +68,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4540 mm</td></tr>
-<tr><td>Height</td><td>1640 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4540 mm (178,7 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1640 mm (64,6 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1890 mm</td></tr>
 <tr><td>Wheelbase</td><td>2730 mm</td></tr>
 <tr><td>Drag coefficient</td><td>0,28</td></tr>

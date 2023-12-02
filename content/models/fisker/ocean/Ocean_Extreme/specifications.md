@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/main_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Fisker Ocean Extreme. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Fisker Ocean Extreme, visit the [chargeinfo](../chargecurve/) for Fisker Ocean Extreme with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -69,8 +70,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4774 mm</td></tr>
-<tr><td>Height</td><td>1631 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4774 mm (188,0 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1631 mm (64,2 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1982 mm</td></tr>
 <tr><td>Wheelbase</td><td>2921 mm</td></tr>
 <tr><td>Track width front</td><td>1696 mm</td></tr>

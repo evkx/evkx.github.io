@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/main_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="1689" >}}
 EVKX.net seeks to have the most complete specifications for Renault Scenic E-Tech electric High Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Renault Scenic E-Tech electric High Range, visit the [chargeinfo](../chargecurve/) for Renault Scenic E-Tech electric High Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -65,8 +66,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4470 mm</td></tr>
-<tr><td>Height</td><td>1571 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4470 mm (176,0 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1571 mm (61,9 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1864 mm</td></tr>
 <tr><td>Wheelbase</td><td>2785 mm</td></tr>
 <tr><td>Track width front</td><td>1587 mm</td></tr>

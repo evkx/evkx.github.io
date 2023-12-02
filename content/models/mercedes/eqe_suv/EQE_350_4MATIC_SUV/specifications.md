@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/main_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2002" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 350 4MATIC SUV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQE 350 4MATIC SUV, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQE 350 4MATIC SUV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -70,8 +71,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4863 mm</td></tr>
-<tr><td>Height</td><td>1685 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4863 mm (191,5 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1685 mm (66,3 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1931 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2141 mm</td></tr>
 <tr><td>Wheelbase</td><td>3030 mm</td></tr>

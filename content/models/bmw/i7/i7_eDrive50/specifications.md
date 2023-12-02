@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/main_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for BMW i7 eDrive50. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i7 eDrive50, visit the [chargeinfo](../chargecurve/) for BMW i7 eDrive50 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -68,8 +69,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>5391 mm</td></tr>
-<tr><td>Height</td><td>1544 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			5391 mm (212,2 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1544 mm (60,8 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1950 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2192 mm</td></tr>
 <tr><td>Wheelbase</td><td>3215 mm</td></tr>

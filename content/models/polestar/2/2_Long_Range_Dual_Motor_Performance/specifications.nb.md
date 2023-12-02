@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/main_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 2 Long Range Dual Motor Performance. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Polestar 2 Long Range Dual Motor Performance, gå til [chargeinfo](../chargecurve/) for Polestar 2 Long Range Dual Motor Performance med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -71,11 +72,25 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4606 mm</td></tr>
-<tr><td>Høyde</td><td>1652 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			4606 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1652 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1859 mm</td></tr>
 <tr><td>Bredde inkludert speil</td><td>1985 mm</td></tr>
-<tr><td>Wheelbase</td><td>2735 mm</td></tr>
+<tr><td>Akselavstand</td><td>2735 mm</td></tr>
 <tr><td>Sporbredde foran</td><td>1602 mm</td></tr>
 <tr><td>Sporbredde bak</td><td>1601 mm</td></tr>
 <tr><td>Vendesirkel</td><td>11,4 meters</td></tr>
@@ -127,7 +142,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Standardfunksjon</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Seteventilasjon</td><td>Ukjent</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
 </tbody>
@@ -149,7 +164,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>

@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/main_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="2050" >}}
 EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Exclusive+. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hongqi E-HS9 Exclusive+, visit the [chargeinfo](../chargecurve/) for Hongqi E-HS9 Exclusive+ with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -64,8 +65,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>5209 mm</td></tr>
-<tr><td>Height</td><td>1713 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			5209 mm (205,1 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1713 mm (67,4 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>2010 mm</td></tr>
 <tr><td>Wheelbase</td><td>3110 mm</td></tr>
 <tr><td>Track width front</td><td>1708 mm</td></tr>

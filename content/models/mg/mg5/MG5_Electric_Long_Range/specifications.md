@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" title="MG MG5 Electric Long Range" width="2560" height="1639" >}}
 EVKX.net seeks to have the most complete specifications for MG MG5 Electric Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG5 Electric Long Range, visit the [chargeinfo](../chargecurve/) for MG MG5 Electric Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -68,8 +69,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4600 mm</td></tr>
-<tr><td>Height</td><td>1543 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4600 mm (181,1 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1543 mm (60,7 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1818 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2059 mm</td></tr>
 <tr><td>Wheelbase</td><td>2659 mm</td></tr>

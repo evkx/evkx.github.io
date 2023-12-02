@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/main_1_st.jpg" title="BYD Atto 3" width="1600" height="1155" >}}
 EVKX.net seeks to have the most complete specifications for BYD Atto 3. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BYD Atto 3, visit the [chargeinfo](../chargecurve/) for BYD Atto 3 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -67,8 +68,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4455 mm</td></tr>
-<tr><td>Height</td><td>1875 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4455 mm (175,4 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1875 mm (73,8 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1875 mm</td></tr>
 <tr><td>Wheelbase</td><td>2720 mm</td></tr>
 <tr><td>Turning circle</td><td>11,8 meters</td></tr>

@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/main_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2032" >}}
 EVKX.net seeks to have the most complete specifications for Chevrolet Blazer EV RS AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Chevrolet Blazer EV RS AWD, visit the [chargeinfo](../chargecurve/) for Chevrolet Blazer EV RS AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -60,8 +61,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>5067 mm</td></tr>
-<tr><td>Height</td><td>1725 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			5067 mm (199,5 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1725 mm (67,9 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1963 mm</td></tr>
 <tr><td>Wheelbase</td><td>3094 mm</td></tr>
 <tr><td>Turning circle</td><td>12,1 meters</td></tr>

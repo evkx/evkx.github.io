@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/main_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for BMW i4 eDrive35. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i4 eDrive35, visit the [chargeinfo](../chargecurve/) for BMW i4 eDrive35 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -67,8 +68,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4783 mm</td></tr>
-<tr><td>Height</td><td>1448 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4783 mm (188,3 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1448 mm (57,0 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1852 mm</td></tr>
 <tr><td>Wheelbase</td><td>2856 mm</td></tr>
 <tr><td>Track width front</td><td>1589 mm</td></tr>

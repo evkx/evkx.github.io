@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for Tesla Cybertruck Cyberbeast. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Cybertruck Cyberbeast, visit the [chargeinfo](../chargecurve/) for Tesla Cybertruck Cyberbeast with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -49,7 +50,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><td>Battery gross</td><td>130 kWh</td></tr>
 <tr><td>Battery net</td><td>123 kWh</td></tr>
 <tr><td>Max DC charging</td><td>250 kW</td></tr>
-<tr><td>Pack Configuration</td><td>194s7p</td></tr>
+<tr><td>Pack Configuration</td><td>192s7p</td></tr>
 <tr><td>Nominal voltage</td><td>698</td></tr>
 <tr><td>Cathode Materials</td><td>NCM811</td></tr>
 </tbody>
@@ -64,8 +65,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>5682 mm</td></tr>
-<tr><td>Height</td><td>1790 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			5682 mm (223,7 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1790 mm (70,5 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>2199 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2413 mm</td></tr>
 <tr><td>Wheelbase</td><td>4358 mm</td></tr>

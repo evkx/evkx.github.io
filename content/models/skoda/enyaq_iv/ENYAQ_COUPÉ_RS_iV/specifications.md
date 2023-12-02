@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="1999" >}}
 EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ RS iV. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of SKODA ENYAQ COUPÉ RS iV, visit the [chargeinfo](../chargecurve/) for SKODA ENYAQ COUPÉ RS iV with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -72,8 +73,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4653 mm</td></tr>
-<tr><td>Height</td><td>1607 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4653 mm (183,2 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1607 mm (63,3 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1879 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2148 mm</td></tr>
 <tr><td>Wheelbase</td><td>2768 mm</td></tr>

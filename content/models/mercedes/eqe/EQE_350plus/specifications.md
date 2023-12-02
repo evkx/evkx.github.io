@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/main_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="1687" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 350+. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQE 350+, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQE 350+ with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -70,8 +71,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4946 mm</td></tr>
-<tr><td>Height</td><td>1510 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4946 mm (194,7 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1510 mm (59,4 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1961 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2103 mm</td></tr>
 <tr><td>Wheelbase</td><td>3120 mm</td></tr>

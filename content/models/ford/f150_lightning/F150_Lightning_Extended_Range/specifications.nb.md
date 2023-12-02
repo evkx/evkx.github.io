@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1571" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Ford F150 Lightning Extended Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Ford F150 Lightning Extended Range, gå til [chargeinfo](../chargecurve/) for Ford F150 Lightning Extended Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -63,10 +64,24 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>5915 mm</td></tr>
-<tr><td>Høyde</td><td>2004 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			5915 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			2004 mm
+		</td>
+	</tr>
 <tr><td>Bredde inkludert speil</td><td>2032 mm</td></tr>
-<tr><td>Wheelbase</td><td>3683 mm</td></tr>
+<tr><td>Akselavstand</td><td>3683 mm</td></tr>
 <tr><td>Sporbredde foran</td><td>1730 mm</td></tr>
 <tr><td>Sporbredde bak</td><td>1735 mm</td></tr>
 <tr><td>Vendesirkel</td><td>14,5 meters</td></tr>
@@ -117,7 +132,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Valgfri funksjon</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Valgfri funksjon</td></tr>
 <tr><td>Seteventilasjon</td><td>Valgfri funksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
@@ -139,7 +154,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>

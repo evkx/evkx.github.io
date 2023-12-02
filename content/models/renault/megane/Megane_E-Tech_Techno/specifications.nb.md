@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Renault Megane E-Tech Techno. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Renault Megane E-Tech Techno, gå til [chargeinfo](../chargecurve/) for Renault Megane E-Tech Techno med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -69,11 +70,25 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4200 mm</td></tr>
-<tr><td>Høyde</td><td>1860 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			4200 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1860 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1860 mm</td></tr>
 <tr><td>Bredde inkludert speil</td><td>2055 mm</td></tr>
-<tr><td>Wheelbase</td><td>2685 mm</td></tr>
+<tr><td>Akselavstand</td><td>2685 mm</td></tr>
 <tr><td>Vendesirkel</td><td>10,4 meters</td></tr>
 </tbody>
 </table>
@@ -123,7 +138,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Valgfri funksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Valgfri funksjon</td></tr>
 </tbody>
@@ -148,7 +163,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ukjent</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ukjent</td></tr>
 <tr><td>Seteventilasjon</td><td>Ukjent</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
 </tbody>

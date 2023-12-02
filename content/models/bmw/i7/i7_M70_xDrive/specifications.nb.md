@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/main_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2000" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i7 M70 xDrive. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av BMW i7 M70 xDrive, gå til [chargeinfo](../chargecurve/) for BMW i7 M70 xDrive med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -68,10 +69,24 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>5391 mm</td></tr>
-<tr><td>Høyde</td><td>1544 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			5391 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1544 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>1950 mm</td></tr>
-<tr><td>Wheelbase</td><td>3215 mm</td></tr>
+<tr><td>Akselavstand</td><td>3215 mm</td></tr>
 <tr><td>Sporbredde foran</td><td>1714 mm</td></tr>
 <tr><td>Sporbredde bak</td><td>1735 mm</td></tr>
 <tr><td>Drag-koeffisient</td><td>0,26</td></tr>
@@ -127,7 +142,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ukjent</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ukjent</td></tr>
 <tr><td>Seteventilasjon</td><td>Valgfri funksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Valgfri funksjon</td></tr>
 </tbody>
@@ -152,7 +167,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
@@ -174,7 +189,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Standardfunksjon</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Standardfunksjon</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Standardfunksjon</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Standardfunksjon</td></tr>
 </tbody>

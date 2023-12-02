@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQC 400 4MATIC. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Mercedes-EQ EQC 400 4MATIC, visit the [chargeinfo](../chargecurve/) for Mercedes-EQ EQC 400 4MATIC with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -71,8 +72,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4762 mm</td></tr>
-<tr><td>Height</td><td>1624 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4762 mm (187,5 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1624 mm (63,9 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1884 mm</td></tr>
 <tr><td>Wheelbase</td><td>2873 mm</td></tr>
 <tr><td>Track width front</td><td>1624 mm</td></tr>

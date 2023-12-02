@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/main_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for Volvo EX30 Single Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo EX30 Single Motor, visit the [chargeinfo](../chargecurve/) for Volvo EX30 Single Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -65,8 +66,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4233 mm</td></tr>
-<tr><td>Height</td><td>1549 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4233 mm (166,7 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1549 mm (61,0 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1837 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2032 mm</td></tr>
 <tr><td>Wheelbase</td><td>2650 mm</td></tr>

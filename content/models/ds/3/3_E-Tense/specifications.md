@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/main_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000" >}}
 EVKX.net seeks to have the most complete specifications for DS 3 E-Tense. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of DS 3 E-Tense, visit the [chargeinfo](../chargecurve/) for DS 3 E-Tense with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -70,8 +71,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4118 mm</td></tr>
-<tr><td>Height</td><td>1534 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4118 mm (162,1 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1534 mm (60,4 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1802 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>1988 mm</td></tr>
 <tr><td>Wheelbase</td><td>2558 mm</td></tr>

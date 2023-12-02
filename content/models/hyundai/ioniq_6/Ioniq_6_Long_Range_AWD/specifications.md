@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2001" >}}
 EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 6 Long Range AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Ioniq 6 Long Range AWD, visit the [chargeinfo](../chargecurve/) for Hyundai Ioniq 6 Long Range AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -69,8 +70,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4855 mm</td></tr>
-<tr><td>Height</td><td>1495 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4855 mm (191,1 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1495 mm (58,9 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1880 mm</td></tr>
 <tr><td>Widht including mirrors</td><td>2073 mm</td></tr>
 <tr><td>Wheelbase</td><td>2950 mm</td></tr>

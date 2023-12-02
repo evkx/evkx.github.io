@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/voyah/free/free/main_1_st.jpg" title="VOYAH FREE" width="3000" height="2250" >}}
 EVKX.net seeks to have the most complete specifications for VOYAH FREE. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of VOYAH FREE, visit the [chargeinfo](../chargecurve/) for VOYAH FREE with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -64,8 +65,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><th>Spec</th><th>Value</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>4905 mm</td></tr>
-<tr><td>Height</td><td>1645 mm</td></tr>
+	<tr>
+		<td>
+			Length
+		</td>
+		<td>
+			4905 mm (193,1 inch)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Height
+		</td>
+		<td>
+			1645 mm (64,8 inch)
+		</td>
+	</tr>
 <tr><td>Width excluding mirrors</td><td>1950 mm</td></tr>
 <tr><td>Wheelbase</td><td>2960 mm</td></tr>
 <tr><td>Turning circle</td><td>11,5 meters</td></tr>

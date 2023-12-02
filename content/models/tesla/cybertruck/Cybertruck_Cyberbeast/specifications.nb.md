@@ -6,6 +6,7 @@ weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
+<!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Cybertruck Cyberbeast. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Tesla Cybertruck Cyberbeast, gå til [chargeinfo](../chargecurve/) for Tesla Cybertruck Cyberbeast med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
@@ -49,7 +50,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Brutto batteristørrelse</td><td>130 kWh</td></tr>
 <tr><td>Netto batteristørrelse</td><td>123 kWh</td></tr>
 <tr><td>Maks DC-lading</td><td>250 kW</td></tr>
-<tr><td>Pakkekonfigurasjon</td><td>194s7p</td></tr>
+<tr><td>Pakkekonfigurasjon</td><td>192s7p</td></tr>
 <tr><td>Nominell spenning</td><td>698</td></tr>
 <tr><td>Katodematerialer</td><td>NCM811</td></tr>
 </tbody>
@@ -64,11 +65,25 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><th>Spesifikasjon</th><th>Verdi</th></tr>
 </thead>
 <tbody>
-<tr><td>Length</td><td>5682 mm</td></tr>
-<tr><td>Høyde</td><td>1790 mm</td></tr>
+	<tr>
+		<td>
+			Lengde
+		</td>
+		<td>
+			5682 mm
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Høyde
+		</td>
+		<td>
+			1790 mm
+		</td>
+	</tr>
 <tr><td>Bredde uten speil</td><td>2199 mm</td></tr>
 <tr><td>Bredde inkludert speil</td><td>2413 mm</td></tr>
-<tr><td>Wheelbase</td><td>4358 mm</td></tr>
+<tr><td>Akselavstand</td><td>4358 mm</td></tr>
 <tr><td>Drag-koeffisient</td><td>0,335</td></tr>
 <tr><td>Vendesirkel</td><td>12,1 meters</td></tr>
 </tbody>
@@ -121,7 +136,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ikke tilgjengelig</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
 </tbody>
@@ -146,7 +161,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 <tr><td>Elektrisk justerbar lårstøtte</td><td>Ukjent</td></tr>
 <tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
 <tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk lumbaljustering</td><td>Ukjent</td></tr>
+<tr><td>Elektrisk korsryggstøtte</td><td>Ukjent</td></tr>
 <tr><td>Seteventilasjon</td><td>Ukjent</td></tr>
 <tr><td>Massasjefunksjon</td><td>Ukjent</td></tr>
 </tbody>
