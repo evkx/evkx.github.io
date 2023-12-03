@@ -78,6 +78,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				EPA range
+			</td>
+			<td>
+				329 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA consumption
+			</td>
+			<td>
+				1,5 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 

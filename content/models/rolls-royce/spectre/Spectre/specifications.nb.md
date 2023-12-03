@@ -102,6 +102,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				20,8 kWh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				WLTP-rekkevidde
+			</td>
+			<td>
+				266 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk
+			</td>
+			<td>
+				2,6 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 
