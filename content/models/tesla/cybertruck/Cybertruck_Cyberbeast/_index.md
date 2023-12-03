@@ -33,7 +33,7 @@ The Tesla Cybertruck Cyberbeast has a maximum power of 630 KW (857 hp/845 bhp). 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 130kWh and a net capacity of 123kWh, meaning you have a 7kWh buffer for protection. (5,4%). 
+The battery has a gross capacity of 127,7kWh and a net capacity of 123kWh, meaning you have a 4,7kWh buffer for protection. (3,7%). 
 
  The [EPA range](../../../../guides/understandingrange/epa/) is 320 miles (515 km).   The consumption is 2.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 

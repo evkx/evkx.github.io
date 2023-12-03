@@ -118,7 +118,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Battery gross
 			</td>
 			<td>
-				130 kWh
+				127,7 kWh
 			</td>
 		</tr>
 		<tr>

@@ -118,7 +118,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				130 kWh
+				127,7 kWh
 			</td>
 		</tr>
 		<tr>

@@ -33,7 +33,7 @@ Tesla Cybertruck Cyberbeast har en maksimal effekt på 630KW (857hk).Totalt drei
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 130kWh og en nettokapasitet på 123kWh, noe som betyr at du har et 7kWh-buffer for beskyttelse. (5,4%).
+Batteriet har en bruttokapasitet på 127,7kWh og en nettokapasitet på 123kWh, noe som betyr at du har et 4,7kWh-buffer for beskyttelse. (3,7%).
 
  [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 320 miles (515 km). Forbruket er 2.6mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
