@@ -496,7 +496,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-### Forseter
+### Seter på andre rad
 
 
 #### standard

@@ -480,7 +480,7 @@ This model is available with a seat configuration with six seats.
 	</tbody>
 </table>
 
-### Front seats
+### Second row seats
 
 
 #### standard

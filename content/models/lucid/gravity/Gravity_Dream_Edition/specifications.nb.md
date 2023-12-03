@@ -559,7 +559,7 @@ Interior.Seatlayout.OnlySix
 	</tbody>
 </table>
 
-### Forseter
+### Seter på andre rad
 
 <table class="table table-striped">
 	<thead>

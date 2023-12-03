@@ -480,7 +480,7 @@ Interior.Seatlayout.OnlySix
 	</tbody>
 </table>
 
-### Front seats
+### Second row seats
 
 
 #### standard

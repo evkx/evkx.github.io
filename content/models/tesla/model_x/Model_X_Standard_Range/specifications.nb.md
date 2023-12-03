@@ -520,7 +520,7 @@ Interior.Seatlayout.OnlySix
 	</tbody>
 </table>
 
-### Forseter
+### Seter på andre rad
 
 
 #### standard

@@ -428,7 +428,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	</tbody>
 </table>
 
-### Front seats
+### Second row seats
 
 <table class="table table-striped">
 	<thead>

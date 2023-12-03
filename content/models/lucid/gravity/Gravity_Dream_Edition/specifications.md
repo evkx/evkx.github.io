@@ -559,7 +559,7 @@ Interior.Seatlayout.OnlySix
 	</tbody>
 </table>
 
-### Front seats
+### Second row seats
 
 <table class="table table-striped">
 	<thead>

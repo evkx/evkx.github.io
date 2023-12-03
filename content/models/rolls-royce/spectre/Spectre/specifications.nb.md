@@ -472,7 +472,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 	</tbody>
 </table>
 
-### Forseter
+### Seter på andre rad
 
 
 #### Executive Lounge

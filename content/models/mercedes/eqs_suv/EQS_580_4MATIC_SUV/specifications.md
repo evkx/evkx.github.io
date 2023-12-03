@@ -665,7 +665,7 @@ This model is available with a seat configuration with six or seven seats.
 	</tbody>
 </table>
 
-### Front seats
+### Second row seats
 
 
 #### standard

@@ -420,7 +420,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	</tbody>
 </table>
 
-### Forseter
+### Seter på andre rad
 
 <table class="table table-striped">
 	<thead>
