@@ -389,6 +389,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				310 liter
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Størrelse med alle bakster lagt ned
+			</td>
+			<td>
+				1901 liter
+			</td>
+		</tr>
 	</tbody>
 </table>
 

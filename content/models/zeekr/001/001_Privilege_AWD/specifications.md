@@ -317,6 +317,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				539 liter (19 cu-ft)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Trunk capacity with all rear seats folded
+			</td>
+			<td>
+				1411 liter (50 cu-ft)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
