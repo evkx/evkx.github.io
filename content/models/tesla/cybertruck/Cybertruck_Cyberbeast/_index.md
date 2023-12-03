@@ -219,7 +219,7 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 ## Cargo Capacity and Towing Ability
 
-On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 201 liters (7,1 CU FT). The maxium weight of the car is 4238 kg (9343 lbs), and with the base weight of 3104 kg (6843 lbs), you can max load 1134 kg (2500 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the truck bed is 1897,23 liters. The bed width is 1295 mm, and length is 1849 mm. The max load weight in bed is 1134 kg.  On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 201 liters (7,1 CU FT). The maxium weight of the car is 4238 kg (9343 lbs), and with the base weight of 3104 kg (6843 lbs), you can max load 1134 kg (2500 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 4990, and on unbraked, it is 750 kg (11000/1653 lbs).
 

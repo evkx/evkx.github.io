@@ -219,7 +219,7 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 ## Lastekapasitet og slepeevne
 
-På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4238 kg, og med basisvekten på 3104 kg kan du maksimalt laste 1134 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i lastebilen er 1897,23 liter. Sengebredden er 1295 mm, og lengden er 1849 mm. Maksimal lastevekt i lasteplanet er 1134 kg. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4238 kg, og med basisvekten på 3104 kg kan du maksimalt laste 1134 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 4990, og på ubremset er den 750 kg.
 

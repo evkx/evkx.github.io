@@ -271,6 +271,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Max weight cargo bed
+			</td>
+			<td>
+				800 kg (1764 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Max trailer weight braked
 			</td>
 			<td>

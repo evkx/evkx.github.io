@@ -301,6 +301,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				1495 liter (53 cu-ft)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Max weight cargo bed
+			</td>
+			<td>
+				907 kg (2000 lbs)
+			</td>
+		</tr>
 	</tbody>
 </table>
 

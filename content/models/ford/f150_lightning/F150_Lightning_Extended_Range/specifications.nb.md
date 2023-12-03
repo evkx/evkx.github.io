@@ -301,6 +301,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				1495 liter
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Max weight cargo bed
+			</td>
+			<td>
+				907 kg
+			</td>
+		</tr>
 	</tbody>
 </table>
 

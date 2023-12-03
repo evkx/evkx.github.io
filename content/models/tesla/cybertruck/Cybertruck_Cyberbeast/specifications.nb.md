@@ -303,6 +303,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Max weight cargo bed
+			</td>
+			<td>
+				1134 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>
