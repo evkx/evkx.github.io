@@ -357,6 +357,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				2520 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Tillatt totalvekt
+			</td>
+			<td>
+				3170 kg
+			</td>
+		</tr>
 	</tbody>
 </table>
 

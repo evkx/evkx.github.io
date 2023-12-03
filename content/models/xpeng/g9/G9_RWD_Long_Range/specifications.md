@@ -229,6 +229,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				2230 kg (4916 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Maximum total weight
+			</td>
+			<td>
+				2680 kg (5908 lbs)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
