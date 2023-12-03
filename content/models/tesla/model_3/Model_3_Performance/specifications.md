@@ -317,6 +317,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				750 kg (1653 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Maximum tow ball weight
+			</td>
+			<td>
+				55 kg (121 lbs)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
