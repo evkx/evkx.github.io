@@ -352,7 +352,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	</tbody>
 </table>
 
-## Suspensjon
+## Hjuloppheng
 
 Modellen tilbyr 2 fjæringsvarianter
 

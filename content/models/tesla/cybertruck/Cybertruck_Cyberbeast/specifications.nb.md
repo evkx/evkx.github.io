@@ -264,7 +264,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	</tbody>
 </table>
 
-## Suspensjon
+## Hjuloppheng
 
 <table class="table table-striped">
 	<thead>
