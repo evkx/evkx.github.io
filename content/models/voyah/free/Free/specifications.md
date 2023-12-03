@@ -269,6 +269,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				1320 liter (47 cu-ft)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Max trailer weight braked
+			</td>
+			<td>
+				2000 kg (4409 lbs)
+			</td>
+		</tr>
 	</tbody>
 </table>
 

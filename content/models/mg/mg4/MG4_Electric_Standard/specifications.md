@@ -269,6 +269,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				0 kg (0 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Max trailer weight braked
+			</td>
+			<td>
+				500 kg (1102 lbs)
+			</td>
+		</tr>
 	</tbody>
 </table>
 

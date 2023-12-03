@@ -357,6 +357,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				1290 liter
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Max trailer weight braked
+			</td>
+			<td>
+				2000 kg
+			</td>
+		</tr>
 	</tbody>
 </table>
 

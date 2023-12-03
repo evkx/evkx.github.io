@@ -261,6 +261,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				649 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Max trailer weight braked
+			</td>
+			<td>
+				4536 kg
+			</td>
+		</tr>
 	</tbody>
 </table>
 
