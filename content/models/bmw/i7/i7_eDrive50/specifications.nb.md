@@ -351,10 +351,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Max trailer weight braked
+				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>
 				2000 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimum vekt tilhenger med bremse
+			</td>
+			<td>
+				750 kg
 			</td>
 		</tr>
 	</tbody>

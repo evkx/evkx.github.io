@@ -311,7 +311,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Max trailer weight braked
+				Maksimum vekt tilhenger med bremse
+			</td>
+			<td>
+				0 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>
 				0 kg
