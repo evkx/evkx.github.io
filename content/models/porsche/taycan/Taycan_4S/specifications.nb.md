@@ -519,6 +519,31 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	</tbody>
 </table>
 
+## Lastekapasitet og slepeevne
+
+<table class="table table-striped">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Egenvekt
+			</td>
+			<td>
+				2075 kg
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Suspensjon
 
 Modellen tilbyr 2 fjæringsvarianter

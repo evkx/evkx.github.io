@@ -335,6 +335,31 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	</tbody>
 </table>
 
+## Cargo Capacity and Towing Ability
+
+<table class="table table-striped">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Curb weight
+			</td>
+			<td>
+				2160 kg (4762 lbs)
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Suspension
 
 The model offers 2 suspension variants

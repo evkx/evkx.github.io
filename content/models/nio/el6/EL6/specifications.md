@@ -399,6 +399,31 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	</tbody>
 </table>
 
+## Cargo Capacity and Towing Ability
+
+<table class="table table-striped">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Curb weight
+			</td>
+			<td>
+				2366 kg (5216 lbs)
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Suspension
 
 <table class="table table-striped">

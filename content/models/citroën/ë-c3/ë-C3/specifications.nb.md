@@ -183,6 +183,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	</tbody>
 </table>
 
+## Lastekapasitet og slepeevne
+
+<table class="table table-striped">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
+
 ## Suspensjon
 
 <table class="table table-striped">
