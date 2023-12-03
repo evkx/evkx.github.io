@@ -60,7 +60,7 @@ Ford Mustang Mach-E Standard Range AWD is an all-electric coupe SUV with a WLTP 
 
 <a href="mustang_mach-e_standard_range_rwd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/main_1_st.jpg" class="img-fluid" alt="Mustang Mach-E Standard Range RWD" ></a>
 
-Ford Mustang Mach-E Standard Range RWD is an all-electric coupe SUV with a WLTP range of up to 440 km (273 miles). EVKX.net has all the details. 
+Ford Mustang Mach-E Standard Range RWD is an all-electric coupe SUV with a WLTP range of up to 440 km (274 miles). EVKX.net has all the details. 
 
 - [Ford Mustang Mach-E Standard Range RWD full article](mustang_mach-e_standard_range_rwd/)
 - [Ford Mustang Mach-E Standard Range RWD range & consumption](mustang_mach-e_standard_range_rwd/rangeandconsumption/)

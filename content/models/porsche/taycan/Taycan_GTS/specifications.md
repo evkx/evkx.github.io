@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan GTS. 
 				Top speed
 			</td>
 			<td>
-				250 km/h
+				250 kph (155 mph)
 			</td>
 		</tr>
 		<tr>

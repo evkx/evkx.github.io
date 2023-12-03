@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo XC40 Recharge
 				Topphastighet
 			</td>
 			<td>
-				180 km/h
+				180 km/t
 			</td>
 		</tr>
 		<tr>

@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Renault Scenic E-Te
 				Topphastighet
 			</td>
 			<td>
-				170 km/h
+				170 km/t
 			</td>
 		</tr>
 		<tr>

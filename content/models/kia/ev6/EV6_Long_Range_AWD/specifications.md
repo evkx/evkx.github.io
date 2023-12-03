@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Kia EV6 Long Range A
 				Top speed
 			</td>
 			<td>
-				185 km/h
+				185 kph (115 mph)
 			</td>
 		</tr>
 		<tr>

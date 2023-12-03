@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lexus RZ 450e. Klik
 				Topphastighet
 			</td>
 			<td>
-				160 km/h
+				160 km/t
 			</td>
 		</tr>
 		<tr>

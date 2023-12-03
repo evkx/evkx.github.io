@@ -63,7 +63,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron GT. Kli
 				Topphastighet
 			</td>
 			<td>
-				245 km/h
+				245 km/t
 			</td>
 		</tr>
 		<tr>

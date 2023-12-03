@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G9 RWD Standa
 				Topphastighet
 			</td>
 			<td>
-				200 km/h
+				200 km/t
 			</td>
 		</tr>
 		<tr>

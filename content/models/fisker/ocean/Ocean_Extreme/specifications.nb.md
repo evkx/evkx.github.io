@@ -63,7 +63,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Fisker Ocean Extrem
 				Topphastighet
 			</td>
 			<td>
-				205 km/h
+				205 km/t
 			</td>
 		</tr>
 		<tr>

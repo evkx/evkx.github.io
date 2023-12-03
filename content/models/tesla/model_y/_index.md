@@ -21,7 +21,7 @@ Tesla Model Y Long Range is an all-electric coupe SUV with a WLTP range of up to
 
 <a href="model_y_performance/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_st.jpg" class="img-fluid" alt="Model Y Performance" ></a>
 
-Tesla Model Y Performance is an all-electric coupe SUV with a WLTP range of up to 514 km (319 miles). EVKX.net has all the details. 
+Tesla Model Y Performance is an all-electric coupe SUV with a WLTP range of up to 514 km (320 miles). EVKX.net has all the details. 
 
 - [Tesla Model Y Performance full article](model_y_performance/)
 - [Tesla Model Y Performance range & consumption](model_y_performance/rangeandconsumption/)

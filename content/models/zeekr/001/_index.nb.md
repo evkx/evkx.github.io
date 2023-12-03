@@ -8,7 +8,7 @@ weight: 30
 
 <a href="001_fr/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_st.jpeg" class="img-fluid" alt="001 FR" ></a>
 
-Zeekr 001 FR er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 580 km (360 miles). EVKX.net har alle detaljene. 
+Zeekr 001 FR er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 580 km (361 miles). EVKX.net har alle detaljene. 
 
 - [Zeekr 001 FR full beskrivelse](001_fr/)
 - [Zeekr 001 FR rekkevidde & forbruk](001_fr/rangeandconsumption/)
@@ -47,7 +47,7 @@ Zeekr 001 Performance AWD er en helelektrisk stasjonsvogn med en WLTP rekkevidde
 
 <a href="001_privilege_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/main_1_st.jpg" class="img-fluid" alt="001 Privilege AWD" ></a>
 
-Zeekr 001 Privilege AWD er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 580 km (360 miles). EVKX.net har alle detaljene. 
+Zeekr 001 Privilege AWD er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 580 km (361 miles). EVKX.net har alle detaljene. 
 
 - [Zeekr 001 Privilege AWD full beskrivelse](001_privilege_awd/)
 - [Zeekr 001 Privilege AWD rekkevidde & forbruk](001_privilege_awd/rangeandconsumption/)

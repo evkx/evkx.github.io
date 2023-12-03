@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan 4S C
 				Topphastighet
 			</td>
 			<td>
-				240 km/h
+				240 km/t
 			</td>
 		</tr>
 		<tr>

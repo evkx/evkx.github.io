@@ -1,7 +1,7 @@
 ---
 title: Smart #1
 linktitle: "#1"
-description: "Smart #1 is an all-electric crossover with a WLTP range of up to 440 km (273 miles). EVKX.net has all the details. "
+description: "Smart #1 is an all-electric crossover with a WLTP range of up to 440 km (274 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Smart #1 has a maximum power of 315 KW (428 hp/422 bhp). The total torque is
 
 The battery has a gross capacity of 66kWh and a net capacity of 62kWh, meaning you have a 4kWh buffer for protection. (6,1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 440 to 420 km (273-261 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14.1kWh/100km for the basic version and 14.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 440 to 420 km (274-261 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14.1kWh/100km for the basic version and 14.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 80 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 54%, resulting in an actual charge speed, including time loss, of 89kW. Each charge session would take 20 minutes and 29 seconds. 
 

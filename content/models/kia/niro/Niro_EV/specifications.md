@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Kia Niro EV. Click o
 				Top speed
 			</td>
 			<td>
-				167 km/h
+				167 kph (104 mph)
 			</td>
 		</tr>
 		<tr>

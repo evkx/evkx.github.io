@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for CUPRA Tavascan Endu
 				Topphastighet
 			</td>
 			<td>
-				180 km/h
+				180 km/t
 			</td>
 		</tr>
 		<tr>

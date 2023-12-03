@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Lotus Eletre R. Clic
 				Top speed
 			</td>
 			<td>
-				265 km/h
+				265 kph (165 mph)
 			</td>
 		</tr>
 		<tr>

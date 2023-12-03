@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for BMW iX1 eDrive20. Cl
 				Top speed
 			</td>
 			<td>
-				170 km/h
+				170 kph (106 mph)
 			</td>
 		</tr>
 		<tr>

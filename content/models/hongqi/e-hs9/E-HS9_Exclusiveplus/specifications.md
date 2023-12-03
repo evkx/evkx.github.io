@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Exclusi
 				Top speed
 			</td>
 			<td>
-				200 km/h
+				200 kph (124 mph)
 			</td>
 		</tr>
 		<tr>

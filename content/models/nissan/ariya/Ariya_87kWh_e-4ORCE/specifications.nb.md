@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nissan Ariya 87kWh 
 				Topphastighet
 			</td>
 			<td>
-				200 km/h
+				200 km/t
 			</td>
 		</tr>
 		<tr>

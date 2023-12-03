@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 FR. Click 
 				Top speed
 			</td>
 			<td>
-				280 km/h
+				280 kph (174 mph)
 			</td>
 		</tr>
 		<tr>

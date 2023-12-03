@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model X. Klik
 				Topphastighet
 			</td>
 			<td>
-				250 km/h
+				250 km/t
 			</td>
 		</tr>
 		<tr>

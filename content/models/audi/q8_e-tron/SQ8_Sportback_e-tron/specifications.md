@@ -63,7 +63,7 @@ EVKX.net seeks to have the most complete specifications for Audi SQ8 Sportback e
 				Top speed
 			</td>
 			<td>
-				200 km/h
+				200 kph (124 mph)
 			</td>
 		</tr>
 		<tr>

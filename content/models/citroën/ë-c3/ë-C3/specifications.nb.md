@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Citroën ë-C3. Kli
 				Topphastighet
 			</td>
 			<td>
-				135 km/h
+				135 km/t
 			</td>
 		</tr>
 		<tr>

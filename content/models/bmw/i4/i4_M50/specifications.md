@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for BMW i4 M50. Click on
 				Top speed
 			</td>
 			<td>
-				225 km/h
+				225 kph (140 mph)
 			</td>
 		</tr>
 		<tr>

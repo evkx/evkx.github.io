@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 GT. Klikk p
 				Topphastighet
 			</td>
 			<td>
-				260 km/h
+				260 km/t
 			</td>
 		</tr>
 		<tr>

@@ -1,7 +1,7 @@
 ---
 title: Tesla Model X Standard Range
 linktitle: "Model X Standard Range"
-description: "Tesla Model X Standard Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 543 km (337 miles). EVKX.net har alle detaljene. "
+description: "Tesla Model X Standard Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 543 km (338 miles). EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Tesla Model X Standard Range har en maksimal effekt på 381KW (518hk).Totalt dre
 
 Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 25kWh-buffer for beskyttelse. (25,0%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 543 til 528 km (337-328 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.8kWh/100 km for basisversjonen og 14.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 543 til 528 km (338-328 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.8kWh/100 km for basisversjonen og 14.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 50%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 132kW. Hver ladeøkt vil ta 15 minutter og 20 sekunder. 
 

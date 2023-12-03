@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i4 eDrive35. Kl
 				Topphastighet
 			</td>
 			<td>
-				190 km/h
+				190 km/t
 			</td>
 		</tr>
 		<tr>

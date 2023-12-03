@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model 3 Long 
 				Topphastighet
 			</td>
 			<td>
-				233 km/h
+				233 km/t
 			</td>
 		</tr>
 		<tr>

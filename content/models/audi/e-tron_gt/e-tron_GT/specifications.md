@@ -63,7 +63,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron GT. Clic
 				Top speed
 			</td>
 			<td>
-				245 km/h
+				245 kph (152 mph)
 			</td>
 		</tr>
 		<tr>

@@ -1,7 +1,7 @@
 ---
 title: BMW iX1 xDrive30
 linktitle: "iX1 xDrive30"
-description: "BMW iX1 xDrive30 is an all-electric premium SUV with a WLTP range of up to 440 km (273 miles). EVKX.net has all the details. "
+description: "BMW iX1 xDrive30 is an all-electric premium SUV with a WLTP range of up to 440 km (274 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The BMW iX1 xDrive30 has a maximum power of 230 KW (313 hp/308 bhp). The total t
 
 The battery has a gross capacity of 68kWh and a net capacity of 64,7kWh, meaning you have a 3,3kWh buffer for protection. (4,9%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 440 to 417 km (273-259 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14.7kWh/100km for the basic version and 15.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 440 to 417 km (274-259 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 14.7kWh/100km for the basic version and 15.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 51%, resulting in an actual charge speed, including time loss, of 85kW. Each charge session would take 23 minutes and 55 seconds. 
 

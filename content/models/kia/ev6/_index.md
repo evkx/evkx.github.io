@@ -47,7 +47,7 @@ Kia EV6 Long Range 2WD is an all-electric coupe SUV with a WLTP range of up to 5
 
 <a href="ev6_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/main_1_st.jpg" class="img-fluid" alt="EV6 Long Range AWD" ></a>
 
-Kia EV6 Long Range AWD is an all-electric coupe SUV with a WLTP range of up to 506 km (314 miles). EVKX.net has all the details. 
+Kia EV6 Long Range AWD is an all-electric coupe SUV with a WLTP range of up to 506 km (315 miles). EVKX.net has all the details. 
 
 - [Kia EV6 Long Range AWD full article](ev6_long_range_awd/)
 - [Kia EV6 Long Range AWD range & consumption](ev6_long_range_awd/rangeandconsumption/)

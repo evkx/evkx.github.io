@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001 Privilege AWD
 linktitle: "001 Privilege AWD"
-description: "Zeekr 001 Privilege AWD is an all-electric station wagon with a WLTP range of up to 580 km (360 miles). EVKX.net has all the details. "
+description: "Zeekr 001 Privilege AWD is an all-electric station wagon with a WLTP range of up to 580 km (361 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Zeekr 001 Privilege AWD has a maximum power of 400 KW (544 hp/536 bhp). The 
 
 The battery has a gross capacity of 100kWh and a net capacity of 95kWh, meaning you have a 5kWh buffer for protection. (5,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
 
- The [WLTP range](../../../../guides/understandingrange/wltp/) is 580 km (360 mi).   The consumption is 16.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 580 km (361 mi).   The consumption is 16.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 58%, resulting in an actual charge speed, including time loss, of 134kW. Each charge session would take 23 minutes and 54 seconds. 
 

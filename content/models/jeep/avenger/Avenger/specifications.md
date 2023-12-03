@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Jeep Avenger. Click 
 				Top speed
 			</td>
 			<td>
-				150 km/h
+				150 kph (93 mph)
 			</td>
 		</tr>
 		<tr>

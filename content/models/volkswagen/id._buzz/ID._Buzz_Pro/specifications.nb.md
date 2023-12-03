@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID. Buzz
 				Topphastighet
 			</td>
 			<td>
-				145 km/h
+				145 km/t
 			</td>
 		</tr>
 		<tr>

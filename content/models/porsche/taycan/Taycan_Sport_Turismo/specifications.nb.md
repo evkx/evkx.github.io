@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Spor
 				Topphastighet
 			</td>
 			<td>
-				230 km/h
+				230 km/t
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Spor
 				Topphastighet
 			</td>
 			<td>
-				230 km/h
+				230 km/t
 			</td>
 		</tr>
 		<tr>

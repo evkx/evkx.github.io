@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Kona Long R
 				Topphastighet
 			</td>
 			<td>
-				185 km/h
+				185 km/t
 			</td>
 		</tr>
 		<tr>

@@ -1,7 +1,7 @@
 ---
 title: Tesla Model X Plaid
 linktitle: "Model X Plaid"
-description: "Tesla Model X Plaid er en helelektrisk SUV med en WLTP rekkevidde på opptil 543 km (337 miles). EVKX.net har alle detaljene. "
+description: "Tesla Model X Plaid er en helelektrisk SUV med en WLTP rekkevidde på opptil 543 km (338 miles). EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Tesla Model X Plaid har en maksimal effekt på 760KW (1033hk).Totalt dreiemoment
 
 Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 96kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (4,0%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 543 til 528 km (337-328 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17.7kWh/100 km for basisversjonen og 18.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 543 til 528 km (338-328 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17.7kWh/100 km for basisversjonen og 18.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 80 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 47%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 143kW. Hver ladeøkt vil ta 16 minutter og 9 sekunder. 
 

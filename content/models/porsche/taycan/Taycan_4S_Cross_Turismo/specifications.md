@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Cr
 				Top speed
 			</td>
 			<td>
-				240 km/h
+				240 kph (149 mph)
 			</td>
 		</tr>
 		<tr>

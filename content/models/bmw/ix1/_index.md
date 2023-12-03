@@ -21,7 +21,7 @@ BMW iX1 eDrive20 is an all-electric premium SUV with a WLTP range of up to 475 k
 
 <a href="ix1_xdrive30/"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg" class="img-fluid" alt="iX1 xDrive30" ></a>
 
-BMW iX1 xDrive30 is an all-electric premium SUV with a WLTP range of up to 440 km (273 miles). EVKX.net has all the details. 
+BMW iX1 xDrive30 is an all-electric premium SUV with a WLTP range of up to 440 km (274 miles). EVKX.net has all the details. 
 
 - [BMW iX1 xDrive30 full article](ix1_xdrive30/)
 - [BMW iX1 xDrive30 range & consumption](ix1_xdrive30/rangeandconsumption/)

@@ -63,7 +63,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Ioniq 5 N. 
 				Topphastighet
 			</td>
 			<td>
-				260 km/h
+				260 km/t
 			</td>
 		</tr>
 		<tr>

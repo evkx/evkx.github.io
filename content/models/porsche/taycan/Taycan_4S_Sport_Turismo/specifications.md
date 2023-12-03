@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Sp
 				Top speed
 			</td>
 			<td>
-				230 km/h
+				230 kph (143 mph)
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Sp
 				Top speed
 			</td>
 			<td>
-				250 km/h
+				250 kph (155 mph)
 			</td>
 		</tr>
 		<tr>

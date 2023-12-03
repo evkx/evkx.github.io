@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i7 M70 xDrive. 
 				Topphastighet
 			</td>
 			<td>
-				250 km/h
+				250 km/t
 			</td>
 		</tr>
 		<tr>

@@ -1,7 +1,7 @@
 ---
 title: Nio ET7
 linktitle: "ET7"
-description: "Nio ET7 is an all-electric sedan with a WLTP range of up to 580 km (360 miles). EVKX.net has all the details. "
+description: "Nio ET7 is an all-electric sedan with a WLTP range of up to 580 km (361 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -38,7 +38,7 @@ Nio ET7 has two battery options with different specifications. Below you see how
 
 The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 580 to 505 km (360-314 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15.5kWh/100km for the basic version and 17.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 580 to 505 km (361-314 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15.5kWh/100km for the basic version and 17.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 75 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 44%, resulting in an actual charge speed, including time loss, of 86kW. Each charge session would take 27 minutes and 2 seconds. 
 

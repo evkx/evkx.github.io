@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQE 53
 				Topphastighet
 			</td>
 			<td>
-				220 km/h
+				220 km/t
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQE 53
 				Topphastighet
 			</td>
 			<td>
-				240 km/h
+				240 km/t
 			</td>
 		</tr>
 		<tr>

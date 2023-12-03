@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Grand Tou
 				Topphastighet
 			</td>
 			<td>
-				270 km/h
+				270 km/t
 			</td>
 		</tr>
 		<tr>

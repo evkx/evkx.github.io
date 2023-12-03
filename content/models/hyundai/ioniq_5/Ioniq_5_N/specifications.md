@@ -63,7 +63,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 N. C
 				Top speed
 			</td>
 			<td>
-				260 km/h
+				260 kph (162 mph)
 			</td>
 		</tr>
 		<tr>

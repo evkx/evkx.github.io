@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Grand Tour
 				Top speed
 			</td>
 			<td>
-				270 km/h
+				270 kph (168 mph)
 			</td>
 		</tr>
 		<tr>

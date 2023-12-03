@@ -63,7 +63,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for CUPRA BORN 77 e-BOO
 				Topphastighet
 			</td>
 			<td>
-				160 km/h
+				160 km/t
 			</td>
 		</tr>
 		<tr>

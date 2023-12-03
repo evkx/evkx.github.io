@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Toyota bZ4X FWD. Kl
 				Topphastighet
 			</td>
 			<td>
-				160 km/h
+				160 km/t
 			</td>
 		</tr>
 		<tr>

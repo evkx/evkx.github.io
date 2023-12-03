@@ -63,7 +63,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for SKODA ENYAQ RS iV. 
 				Topphastighet
 			</td>
 			<td>
-				180 km/h
+				180 km/t
 			</td>
 		</tr>
 		<tr>

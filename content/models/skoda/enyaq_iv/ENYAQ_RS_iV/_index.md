@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ RS iV
 linktitle: "ENYAQ RS iV"
-description: "SKODA ENYAQ RS iV is an all-electric SUV with a WLTP range of up to 514 km (319 miles). EVKX.net has all the details. "
+description: "SKODA ENYAQ RS iV is an all-electric SUV with a WLTP range of up to 514 km (320 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ With overboost, the SKODA ENYAQ RS iV has a maximum power of 220 KW (299 hp / 26
 
 The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 514 to 496 km (319-308 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15.0kWh/100km for the basic version and 15.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 514 to 496 km (320-308 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15.0kWh/100km for the basic version and 15.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43%, resulting in an actual charge speed, including time loss, of 101kW. Each charge session would take 19 minutes and 43 seconds. 
 

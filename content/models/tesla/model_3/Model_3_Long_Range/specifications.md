@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Long R
 				Top speed
 			</td>
 			<td>
-				201 km/h
+				201 kph (125 mph)
 			</td>
 		</tr>
 		<tr>

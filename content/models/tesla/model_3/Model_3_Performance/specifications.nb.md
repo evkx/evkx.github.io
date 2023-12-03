@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model 3 Perfo
 				Topphastighet
 			</td>
 			<td>
-				261 km/h
+				261 km/t
 			</td>
 		</tr>
 		<tr>

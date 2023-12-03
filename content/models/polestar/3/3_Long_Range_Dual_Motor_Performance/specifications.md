@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Polestar 3 Long Rang
 				Top speed
 			</td>
 			<td>
-				210 km/h
+				210 kph (131 mph)
 			</td>
 		</tr>
 		<tr>

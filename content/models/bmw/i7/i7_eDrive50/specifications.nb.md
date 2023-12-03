@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i7 eDrive50. Kl
 				Topphastighet
 			</td>
 			<td>
-				205 km/h
+				205 km/t
 			</td>
 		</tr>
 		<tr>

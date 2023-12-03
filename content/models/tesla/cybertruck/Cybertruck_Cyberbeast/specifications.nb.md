@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Cybertruck Cy
 				Topphastighet
 			</td>
 			<td>
-				210 km/h
+				210 km/t
 			</td>
 		</tr>
 		<tr>

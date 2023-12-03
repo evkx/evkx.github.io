@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for BMW i4 eDrive40. Cli
 				Top speed
 			</td>
 			<td>
-				190 km/h
+				190 kph (118 mph)
 			</td>
 		</tr>
 		<tr>

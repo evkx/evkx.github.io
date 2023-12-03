@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E Standard Range RWD
 linktitle: "Mustang Mach-E Standard Range RWD"
-description: "Ford Mustang Mach-E Standard Range RWD er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 440 km (273 miles). EVKX.net har alle detaljene. "
+description: "Ford Mustang Mach-E Standard Range RWD er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 440 km (274 miles). EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Ford Mustang Mach-E Standard Range RWD har en maksimal effekt på 258KW (351hk).
 
 Batteriet har en bruttokapasitet på 75,7kWh og en nettokapasitet på 70kWh, noe som betyr at du har et 5,7kWh-buffer for beskyttelse. (7,5%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 440 km (273 mi). Forbruket er 15.9kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 440 km (274 mi). Forbruket er 15.9kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 150kW. En full lading fra 0 - 100 % vil ta 117 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 80kW. Hver ladeøkt vil ta 22 minutter og 3 sekunder. 
 

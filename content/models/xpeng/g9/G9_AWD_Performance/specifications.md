@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for XPENG G9 AWD Perform
 				Top speed
 			</td>
 			<td>
-				205 km/h
+				205 kph (127 mph)
 			</td>
 		</tr>
 		<tr>

@@ -8,7 +8,7 @@ weight: 30
 
 <a href="ariya_63kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" class="img-fluid" alt="Ariya 63kWh" ></a>
 
-Nissan Ariya 63kWh is an all-electric coupe SUV with a WLTP range of up to 403 km (250 miles). EVKX.net has all the details. 
+Nissan Ariya 63kWh is an all-electric coupe SUV with a WLTP range of up to 403 km (251 miles). EVKX.net has all the details. 
 
 - [Nissan Ariya 63kWh full article](ariya_63kwh/)
 - [Nissan Ariya 63kWh range & consumption](ariya_63kwh/rangeandconsumption/)

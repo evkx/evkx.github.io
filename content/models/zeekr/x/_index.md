@@ -8,7 +8,7 @@ weight: 30
 
 <a href="x_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/main_1_st.jpg" class="img-fluid" alt="X Long Range RWD" ></a>
 
-Zeekr X Long Range RWD is an all-electric crossover with a WLTP range of up to 440 km (273 miles). EVKX.net has all the details. 
+Zeekr X Long Range RWD is an all-electric crossover with a WLTP range of up to 440 km (274 miles). EVKX.net has all the details. 
 
 - [Zeekr X Long Range RWD full article](x_long_range_rwd/)
 - [Zeekr X Long Range RWD range & consumption](x_long_range_rwd/rangeandconsumption/)

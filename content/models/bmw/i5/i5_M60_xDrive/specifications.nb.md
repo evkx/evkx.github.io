@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 M60 xDrive. 
 				Topphastighet
 			</td>
 			<td>
-				230 km/h
+				230 km/t
 			</td>
 		</tr>
 		<tr>

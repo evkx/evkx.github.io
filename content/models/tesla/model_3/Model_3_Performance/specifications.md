@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Perfor
 				Top speed
 			</td>
 			<td>
-				261 km/h
+				261 kph (162 mph)
 			</td>
 		</tr>
 		<tr>

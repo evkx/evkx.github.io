@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4 Cro
 				Top speed
 			</td>
 			<td>
-				220 km/h
+				220 kph (137 mph)
 			</td>
 		</tr>
 		<tr>

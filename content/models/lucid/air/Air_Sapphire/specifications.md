@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Sapphire. 
 				Top speed
 			</td>
 			<td>
-				330 km/h
+				330 kph (205 mph)
 			</td>
 		</tr>
 		<tr>

@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model S Plaid
 				Topphastighet
 			</td>
 			<td>
-				322 km/h
+				322 km/t
 			</td>
 		</tr>
 		<tr>

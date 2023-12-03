@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Smart #1 Pulse. Kli
 				Topphastighet
 			</td>
 			<td>
-				180 km/h
+				180 km/t
 			</td>
 		</tr>
 		<tr>

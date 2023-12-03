@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1S Performa
 				Topphastighet
 			</td>
 			<td>
-				201 km/h
+				201 km/t
 			</td>
 		</tr>
 		<tr>

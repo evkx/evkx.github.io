@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Citroën ë-C3. Clic
 				Top speed
 			</td>
 			<td>
-				135 km/h
+				135 kph (84 mph)
 			</td>
 		</tr>
 		<tr>

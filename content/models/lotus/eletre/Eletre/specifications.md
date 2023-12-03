@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Lotus Eletre. Click 
 				Top speed
 			</td>
 			<td>
-				258 km/h
+				258 kph (160 mph)
 			</td>
 		</tr>
 		<tr>

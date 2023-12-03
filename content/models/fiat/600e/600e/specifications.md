@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Fiat 600e. Click on 
 				Top speed
 			</td>
 			<td>
-				150 km/h
+				150 kph (93 mph)
 			</td>
 		</tr>
 		<tr>

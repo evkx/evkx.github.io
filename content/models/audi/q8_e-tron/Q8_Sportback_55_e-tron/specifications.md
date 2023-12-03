@@ -63,7 +63,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q8 Sportback 55
 				Top speed
 			</td>
 			<td>
-				200 km/h
+				200 kph (124 mph)
 			</td>
 		</tr>
 		<tr>

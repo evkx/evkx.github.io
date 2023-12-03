@@ -8,7 +8,7 @@ weight: 30
 
 <a href="ariya_63kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" class="img-fluid" alt="Ariya 63kWh" ></a>
 
-Nissan Ariya 63kWh er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 403 km (250 miles). EVKX.net har alle detaljene. 
+Nissan Ariya 63kWh er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 403 km (251 miles). EVKX.net har alle detaljene. 
 
 - [Nissan Ariya 63kWh full beskrivelse](ariya_63kwh/)
 - [Nissan Ariya 63kWh rekkevidde & forbruk](ariya_63kwh/rangeandconsumption/)

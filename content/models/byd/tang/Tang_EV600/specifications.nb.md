@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Tang EV600. Kli
 				Topphastighet
 			</td>
 			<td>
-				180 km/h
+				180 km/t
 			</td>
 		</tr>
 		<tr>

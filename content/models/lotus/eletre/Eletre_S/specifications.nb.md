@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lotus Eletre S. Kli
 				Topphastighet
 			</td>
 			<td>
-				258 km/h
+				258 km/t
 			</td>
 		</tr>
 		<tr>

@@ -21,7 +21,7 @@ Tesla Model Y Long Range er en helelektrisk coupe-SUV med en WLTP rekkevidde på
 
 <a href="model_y_performance/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_st.jpg" class="img-fluid" alt="Model Y Performance" ></a>
 
-Tesla Model Y Performance er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 514 km (319 miles). EVKX.net har alle detaljene. 
+Tesla Model Y Performance er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 514 km (320 miles). EVKX.net har alle detaljene. 
 
 - [Tesla Model Y Performance full beskrivelse](model_y_performance/)
 - [Tesla Model Y Performance rekkevidde & forbruk](model_y_performance/rangeandconsumption/)

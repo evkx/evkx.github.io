@@ -8,7 +8,7 @@ weight: 30
 
 <a href="hash1/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/main_1_st.jpg" class="img-fluid" alt="#1" ></a>
 
-Smart #1 is an all-electric crossover with a WLTP range of up to 440 km (273 miles). EVKX.net has all the details. 
+Smart #1 is an all-electric crossover with a WLTP range of up to 440 km (274 miles). EVKX.net has all the details. 
 
 - [Smart #1 full article](hash1/)
 - [Smart #1 range & consumption](hash1/rangeandconsumption/)

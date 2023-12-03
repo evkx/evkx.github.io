@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for GMC Hummer EV Editi
 				Topphastighet
 			</td>
 			<td>
-				170 km/h
+				170 km/t
 			</td>
 		</tr>
 		<tr>

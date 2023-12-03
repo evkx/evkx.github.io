@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Turb
 				Topphastighet
 			</td>
 			<td>
-				260 km/h
+				260 km/t
 			</td>
 		</tr>
 		<tr>

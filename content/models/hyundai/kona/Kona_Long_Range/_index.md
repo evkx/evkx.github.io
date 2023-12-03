@@ -1,7 +1,7 @@
 ---
 title: Hyundai Kona Long Range
 linktitle: "Kona Long Range"
-description: "Hyundai Kona Long Range is an all-electric crossover with a WLTP range of up to 514 km (319 miles). EVKX.net has all the details. "
+description: "Hyundai Kona Long Range is an all-electric crossover with a WLTP range of up to 514 km (320 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Hyundai Kona Long Range has a maximum power of 160 KW (218 hp/215 bhp). The 
 
 The battery has a gross capacity of 68,5kWh and a net capacity of 65,4kWh, meaning you have a 3,1kWh buffer for protection. (4,5%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 514 to 454 km (319-282 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 12.7kWh/100km for the basic version and 14.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 514 to 454 km (320-282 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 12.7kWh/100km for the basic version and 14.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 84 minutes, while a more common scenario of 10-80% would take 38 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 62%, resulting in an actual charge speed, including time loss, of 74kW. Each charge session would take 30 minutes and 34 seconds. 
 

@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001 Privilege AWD
 linktitle: "001 Privilege AWD"
-description: "Zeekr 001 Privilege AWD er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 580 km (360 miles). EVKX.net har alle detaljene. "
+description: "Zeekr 001 Privilege AWD er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 580 km (361 miles). EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Zeekr 001 Privilege AWD har en maksimal effekt på 400KW (544hk).Totalt dreiemom
 
 Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 95kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (5,0%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 580 km (360 mi). Forbruket er 16.4kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 580 km (361 mi). Forbruket er 16.4kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 200kW. En full lading fra 0 - 100 % vil ta 57 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 134kW. Hver ladeøkt vil ta 23 minutter og 54 sekunder. 
 

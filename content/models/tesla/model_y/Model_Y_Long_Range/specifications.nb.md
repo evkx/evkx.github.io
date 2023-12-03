@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model Y Long 
 				Topphastighet
 			</td>
 			<td>
-				217 km/h
+				217 km/t
 			</td>
 		</tr>
 		<tr>

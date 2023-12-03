@@ -8,7 +8,7 @@ weight: 30
 
 <a href="kona_long_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg" class="img-fluid" alt="Kona Long Range" ></a>
 
-Hyundai Kona Long Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 514 km (319 miles). EVKX.net har alle detaljene. 
+Hyundai Kona Long Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 514 km (320 miles). EVKX.net har alle detaljene. 
 
 - [Hyundai Kona Long Range full beskrivelse](kona_long_range/)
 - [Hyundai Kona Long Range rekkevidde & forbruk](kona_long_range/rangeandconsumption/)

@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan 4 Cr
 				Topphastighet
 			</td>
 			<td>
-				220 km/h
+				220 km/t
 			</td>
 		</tr>
 		<tr>

@@ -63,7 +63,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 55 e-tron qu
 				Top speed
 			</td>
 			<td>
-				180 km/h
+				180 kph (112 mph)
 			</td>
 		</tr>
 		<tr>

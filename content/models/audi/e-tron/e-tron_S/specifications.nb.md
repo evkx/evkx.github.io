@@ -63,7 +63,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron S. Klik
 				Topphastighet
 			</td>
 			<td>
-				200 km/h
+				200 km/t
 			</td>
 		</tr>
 		<tr>

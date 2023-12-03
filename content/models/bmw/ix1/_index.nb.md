@@ -21,7 +21,7 @@ BMW iX1 eDrive20 er en helelektrisk premium-SUV med en WLTP rekkevidde på oppti
 
 <a href="ix1_xdrive30/"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg" class="img-fluid" alt="iX1 xDrive30" ></a>
 
-BMW iX1 xDrive30 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 440 km (273 miles). EVKX.net har alle detaljene. 
+BMW iX1 xDrive30 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 440 km (274 miles). EVKX.net har alle detaljene. 
 
 - [BMW iX1 xDrive30 full beskrivelse](ix1_xdrive30/)
 - [BMW iX1 xDrive30 rekkevidde & forbruk](ix1_xdrive30/rangeandconsumption/)

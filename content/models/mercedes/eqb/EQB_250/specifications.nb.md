@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQB 250
 				Topphastighet
 			</td>
 			<td>
-				160 km/h
+				160 km/t
 			</td>
 		</tr>
 		<tr>

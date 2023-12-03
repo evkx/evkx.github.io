@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Citroën ë-C4 X. K
 				Topphastighet
 			</td>
 			<td>
-				150 km/h
+				150 km/t
 			</td>
 		</tr>
 		<tr>

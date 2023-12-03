@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model Y Standa
 				Top speed
 			</td>
 			<td>
-				217 km/h
+				217 kph (135 mph)
 			</td>
 		</tr>
 		<tr>

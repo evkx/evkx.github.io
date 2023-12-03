@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 500 
 				Top speed
 			</td>
 			<td>
-				210 km/h
+				210 kph (131 mph)
 			</td>
 		</tr>
 		<tr>

@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr X Privilege AW
 				Top speed
 			</td>
 			<td>
-				180 km/h
+				180 kph (112 mph)
 			</td>
 		</tr>
 		<tr>

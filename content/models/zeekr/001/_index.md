@@ -8,7 +8,7 @@ weight: 30
 
 <a href="001_fr/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_st.jpeg" class="img-fluid" alt="001 FR" ></a>
 
-Zeekr 001 FR is an all-electric station wagon with a WLTP range of up to 580 km (360 miles). EVKX.net has all the details. 
+Zeekr 001 FR is an all-electric station wagon with a WLTP range of up to 580 km (361 miles). EVKX.net has all the details. 
 
 - [Zeekr 001 FR full article](001_fr/)
 - [Zeekr 001 FR range & consumption](001_fr/rangeandconsumption/)
@@ -47,7 +47,7 @@ Zeekr 001 Performance AWD is an all-electric station wagon with a WLTP range of 
 
 <a href="001_privilege_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/main_1_st.jpg" class="img-fluid" alt="001 Privilege AWD" ></a>
 
-Zeekr 001 Privilege AWD is an all-electric station wagon with a WLTP range of up to 580 km (360 miles). EVKX.net has all the details. 
+Zeekr 001 Privilege AWD is an all-electric station wagon with a WLTP range of up to 580 km (361 miles). EVKX.net has all the details. 
 
 - [Zeekr 001 Privilege AWD full article](001_privilege_awd/)
 - [Zeekr 001 Privilege AWD range & consumption](001_privilege_awd/rangeandconsumption/)

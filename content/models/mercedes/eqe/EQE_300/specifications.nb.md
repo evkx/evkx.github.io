@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQE 300
 				Topphastighet
 			</td>
 			<td>
-				210 km/h
+				210 km/t
 			</td>
 		</tr>
 		<tr>

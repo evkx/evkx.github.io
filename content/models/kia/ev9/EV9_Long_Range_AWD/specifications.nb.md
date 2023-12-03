@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV9 Long Range 
 				Topphastighet
 			</td>
 			<td>
-				200 km/h
+				200 km/t
 			</td>
 		</tr>
 		<tr>

@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for BMW i7 xDrive60. Cli
 				Top speed
 			</td>
 			<td>
-				240 km/h
+				240 kph (149 mph)
 			</td>
 		</tr>
 		<tr>

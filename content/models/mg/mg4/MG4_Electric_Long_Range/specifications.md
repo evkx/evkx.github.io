@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for MG MG4 Electric Long
 				Top speed
 			</td>
 			<td>
-				160 km/h
+				160 kph (99 mph)
 			</td>
 		</tr>
 		<tr>

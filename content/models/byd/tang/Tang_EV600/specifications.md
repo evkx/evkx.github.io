@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for BYD Tang EV600. Clic
 				Top speed
 			</td>
 			<td>
-				180 km/h
+				180 kph (112 mph)
 			</td>
 		</tr>
 		<tr>

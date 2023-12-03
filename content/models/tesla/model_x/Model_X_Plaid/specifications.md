@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model X Plaid.
 				Top speed
 			</td>
 			<td>
-				262 km/h
+				262 kph (163 mph)
 			</td>
 		</tr>
 		<tr>

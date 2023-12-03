@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i7 xDrive60. Kl
 				Topphastighet
 			</td>
 			<td>
-				240 km/h
+				240 km/t
 			</td>
 		</tr>
 		<tr>

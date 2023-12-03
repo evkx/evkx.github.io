@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-208. Klikk
 				Topphastighet
 			</td>
 			<td>
-				150 km/h
+				150 km/t
 			</td>
 		</tr>
 		<tr>
