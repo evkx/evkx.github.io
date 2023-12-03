@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model Y Long 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				493 Nm
+				493 nm
 			</td>
 		</tr>
 		<tr>

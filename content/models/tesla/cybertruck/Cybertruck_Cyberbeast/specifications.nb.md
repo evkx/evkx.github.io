@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Cybertruck Cy
 				Dreiemoment i Nm
 			</td>
 			<td>
-				930 Nm
+				930 nm
 			</td>
 		</tr>
 		<tr>

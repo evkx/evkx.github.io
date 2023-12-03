@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1T Quad-Mot
 				Dreiemoment i Nm
 			</td>
 			<td>
-				1231 Nm
+				1231 nm
 			</td>
 		</tr>
 		<tr>

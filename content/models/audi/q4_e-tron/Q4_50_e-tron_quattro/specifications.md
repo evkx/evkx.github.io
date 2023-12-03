@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 50 e-tron qu
 				Electrical torque output in Nm
 			</td>
 			<td>
-				425 Nm
+				425 nm (314 ft-lb)
 			</td>
 		</tr>
 		<tr>

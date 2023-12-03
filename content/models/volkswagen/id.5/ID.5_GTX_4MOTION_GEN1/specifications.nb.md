@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.5 GTX
 				Dreiemoment i Nm
 			</td>
 			<td>
-				425 Nm
+				425 nm
 			</td>
 		</tr>
 		<tr>

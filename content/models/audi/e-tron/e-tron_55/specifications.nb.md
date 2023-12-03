@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron 55. Kli
 				Dreiemoment i Nm
 			</td>
 			<td>
-				561 Nm
+				561 nm
 			</td>
 		</tr>
 		<tr>

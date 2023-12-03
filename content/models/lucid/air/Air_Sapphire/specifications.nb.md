@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Sapphire.
 				Dreiemoment i Nm
 			</td>
 			<td>
-				1390 Nm
+				1390 nm
 			</td>
 		</tr>
 		<tr>

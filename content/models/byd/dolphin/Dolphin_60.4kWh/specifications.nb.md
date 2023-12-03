@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Dolphin 60.4kWh
 				Dreiemoment i Nm
 			</td>
 			<td>
-				310 Nm
+				310 nm
 			</td>
 		</tr>
 		<tr>

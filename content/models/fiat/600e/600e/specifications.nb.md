@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Fiat 600e. Klikk p�
 				Dreiemoment i Nm
 			</td>
 			<td>
-				260 Nm
+				260 nm
 			</td>
 		</tr>
 		<tr>

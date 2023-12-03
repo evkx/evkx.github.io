@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Tang EV600. Kli
 				Dreiemoment i Nm
 			</td>
 			<td>
-				680 Nm
+				680 nm
 			</td>
 		</tr>
 		<tr>

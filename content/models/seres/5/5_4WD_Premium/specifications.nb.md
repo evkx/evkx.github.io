@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Seres 5 4WD Premium
 				Dreiemoment i Nm
 			</td>
 			<td>
-				940 Nm
+				940 nm
 			</td>
 		</tr>
 		<tr>

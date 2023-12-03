@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Chevrolet Blazer EV 
 				Electrical torque output in Nm
 			</td>
 			<td>
-				451 Nm
+				451 nm (333 ft-lb)
 			</td>
 		</tr>
 		<tr>

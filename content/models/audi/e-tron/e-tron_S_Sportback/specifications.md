@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron S Sportb
 				Electrical torque output in Nm
 			</td>
 			<td>
-				561 Nm
+				561 nm (414 ft-lb)
 			</td>
 		</tr>
 		<tr>

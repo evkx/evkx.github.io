@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for CUPRA Tavascan Endu
 				Dreiemoment i Nm
 			</td>
 			<td>
-				545 Nm
+				545 nm
 			</td>
 		</tr>
 		<tr>

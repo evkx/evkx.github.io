@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Smart #1 Pulse. Kli
 				Dreiemoment i Nm
 			</td>
 			<td>
-				584 Nm
+				584 nm
 			</td>
 		</tr>
 		<tr>

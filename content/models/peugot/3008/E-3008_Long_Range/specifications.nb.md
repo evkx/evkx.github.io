@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-3008 Long 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				343 Nm
+				343 nm
 			</td>
 		</tr>
 		<tr>

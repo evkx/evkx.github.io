@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW iX xDrive40. Kl
 				Dreiemoment i Nm
 			</td>
 			<td>
-				630 Nm
+				630 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for DS 3 E-Tense. Click 
 				Electrical torque output in Nm
 			</td>
 			<td>
-				260 Nm
+				260 nm (192 ft-lb)
 			</td>
 		</tr>
 		<tr>

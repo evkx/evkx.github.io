@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG5 Electric Lon
 				Dreiemoment i Nm
 			</td>
 			<td>
-				280 Nm
+				280 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Rolls-Royce Spectre.
 				Electrical torque output in Nm
 			</td>
 			<td>
-				900 Nm
+				900 nm (664 ft-lb)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQB 300 
 				Electrical torque output in Nm
 			</td>
 			<td>
-				390 Nm
+				390 nm (288 ft-lb)
 			</td>
 		</tr>
 		<tr>

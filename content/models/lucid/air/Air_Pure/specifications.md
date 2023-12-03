@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Pure. Clic
 				Electrical torque output in Nm
 			</td>
 			<td>
-				400 Nm
+				400 nm (295 ft-lb)
 			</td>
 		</tr>
 		<tr>

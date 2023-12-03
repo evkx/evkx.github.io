@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for MG MG4 Electric XPOW
 				Electrical torque output in Nm
 			</td>
 			<td>
-				600 Nm
+				600 nm (443 ft-lb)
 			</td>
 		</tr>
 		<tr>

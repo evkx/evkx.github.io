@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rolls-Royce Spectre
 				Dreiemoment i Nm
 			</td>
 			<td>
-				900 Nm
+				900 nm
 			</td>
 		</tr>
 		<tr>

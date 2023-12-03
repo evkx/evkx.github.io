@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW iX3. Klikk på 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				400 Nm
+				400 nm
 			</td>
 		</tr>
 		<tr>

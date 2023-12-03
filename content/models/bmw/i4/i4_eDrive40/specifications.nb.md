@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i4 eDrive40. Kl
 				Dreiemoment i Nm
 			</td>
 			<td>
-				430 Nm
+				430 nm
 			</td>
 		</tr>
 		<tr>

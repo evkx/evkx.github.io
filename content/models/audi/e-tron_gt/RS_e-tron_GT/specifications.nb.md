@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi RS e-tron GT. 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				830 Nm
+				830 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW iX1 eDrive20. K
 				Dreiemoment i Nm
 			</td>
 			<td>
-				250 Nm
+				250 nm
 			</td>
 		</tr>
 		<tr>

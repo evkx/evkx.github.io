@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i7 M70 xDrive. 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				1015 Nm
+				1015 nm
 			</td>
 		</tr>
 		<tr>

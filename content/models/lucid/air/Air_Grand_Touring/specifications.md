@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Grand Tour
 				Electrical torque output in Nm
 			</td>
 			<td>
-				1200 Nm
+				1200 nm (886 ft-lb)
 			</td>
 		</tr>
 		<tr>

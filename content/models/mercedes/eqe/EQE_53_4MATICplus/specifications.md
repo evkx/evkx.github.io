@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 53 
 				Electrical torque output in Nm
 			</td>
 			<td>
-				950 Nm
+				950 nm (701 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 53 
 				Electrical torque output in Nm
 			</td>
 			<td>
-				1000 Nm
+				1000 nm (738 ft-lb)
 			</td>
 		</tr>
 		<tr>

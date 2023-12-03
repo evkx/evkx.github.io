@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for XPENG P7 AWD Perform
 				Electrical torque output in Nm
 			</td>
 			<td>
-				717 Nm
+				717 nm (529 ft-lb)
 			</td>
 		</tr>
 		<tr>

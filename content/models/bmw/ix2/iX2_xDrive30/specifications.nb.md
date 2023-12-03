@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW iX2 xDrive30. K
 				Dreiemoment i Nm
 			</td>
 			<td>
-				494 Nm
+				494 nm
 			</td>
 		</tr>
 		<tr>

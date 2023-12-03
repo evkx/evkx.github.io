@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 55 e-tron q
 				Dreiemoment i Nm
 			</td>
 			<td>
-				679 Nm
+				679 nm
 			</td>
 		</tr>
 		<tr>

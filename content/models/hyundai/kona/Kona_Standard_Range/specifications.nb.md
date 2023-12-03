@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Kona Standa
 				Dreiemoment i Nm
 			</td>
 			<td>
-				255 Nm
+				255 nm
 			</td>
 		</tr>
 		<tr>

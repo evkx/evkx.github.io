@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 001 Performan
 				Dreiemoment i Nm
 			</td>
 			<td>
-				686 Nm
+				686 nm
 			</td>
 		</tr>
 		<tr>

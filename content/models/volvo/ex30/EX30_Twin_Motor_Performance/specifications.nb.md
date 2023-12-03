@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EX30 Twin Mot
 				Dreiemoment i Nm
 			</td>
 			<td>
-				543 Nm
+				543 nm
 			</td>
 		</tr>
 		<tr>

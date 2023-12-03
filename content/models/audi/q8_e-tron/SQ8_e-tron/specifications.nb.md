@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi SQ8 e-tron. Kl
 				Dreiemoment i Nm
 			</td>
 			<td>
-				561 Nm
+				561 nm
 			</td>
 		</tr>
 		<tr>

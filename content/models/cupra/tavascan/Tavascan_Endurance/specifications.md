@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for CUPRA Tavascan Endur
 				Electrical torque output in Nm
 			</td>
 			<td>
-				545 Nm
+				545 nm (402 ft-lb)
 			</td>
 		</tr>
 		<tr>

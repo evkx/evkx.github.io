@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQS 580
 				Dreiemoment i Nm
 			</td>
 			<td>
-				858 Nm
+				858 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Lexus RZ 450e. Click
 				Electrical torque output in Nm
 			</td>
 			<td>
-				435 Nm
+				435 nm (321 ft-lb)
 			</td>
 		</tr>
 		<tr>

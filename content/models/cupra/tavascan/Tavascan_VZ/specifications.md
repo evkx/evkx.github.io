@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for CUPRA Tavascan VZ. C
 				Electrical torque output in Nm
 			</td>
 			<td>
-				679 Nm
+				679 nm (501 ft-lb)
 			</td>
 		</tr>
 		<tr>

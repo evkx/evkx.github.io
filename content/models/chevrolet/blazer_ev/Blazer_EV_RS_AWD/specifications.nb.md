@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Chevrolet Blazer EV
 				Dreiemoment i Nm
 			</td>
 			<td>
-				451 Nm
+				451 nm
 			</td>
 		</tr>
 		<tr>

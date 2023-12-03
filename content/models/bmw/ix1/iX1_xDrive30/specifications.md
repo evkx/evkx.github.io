@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BMW iX1 xDrive30. Cl
 				Electrical torque output in Nm
 			</td>
 			<td>
-				494 Nm
+				494 nm (365 ft-lb)
 			</td>
 		</tr>
 		<tr>

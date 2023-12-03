@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BMW i7 xDrive60. Cli
 				Electrical torque output in Nm
 			</td>
 			<td>
-				745 Nm
+				745 nm (550 ft-lb)
 			</td>
 		</tr>
 		<tr>

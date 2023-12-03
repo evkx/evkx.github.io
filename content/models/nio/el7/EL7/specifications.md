@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Nio EL7. Click on im
 				Electrical torque output in Nm
 			</td>
 			<td>
-				850 Nm
+				850 nm (627 ft-lb)
 			</td>
 		</tr>
 		<tr>

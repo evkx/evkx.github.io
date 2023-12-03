@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3. Click
 				Electrical torque output in Nm
 			</td>
 			<td>
-				420 Nm
+				420 nm (310 ft-lb)
 			</td>
 		</tr>
 		<tr>

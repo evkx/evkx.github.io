@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lotus Eletre R. Kli
 				Dreiemoment i Nm
 			</td>
 			<td>
-				985 Nm
+				985 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Polestar 2 Long Rang
 				Electrical torque output in Nm
 			</td>
 			<td>
-				490 Nm
+				490 nm (362 ft-lb)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Lotus Eletre S. Clic
 				Electrical torque output in Nm
 			</td>
 			<td>
-				710 Nm
+				710 nm (524 ft-lb)
 			</td>
 		</tr>
 		<tr>

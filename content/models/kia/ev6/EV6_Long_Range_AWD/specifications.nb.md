@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 Long Range 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				605 Nm
+				605 nm
 			</td>
 		</tr>
 		<tr>

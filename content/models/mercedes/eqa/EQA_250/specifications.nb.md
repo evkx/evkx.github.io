@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQA 250
 				Dreiemoment i Nm
 			</td>
 			<td>
-				390 Nm
+				390 nm
 			</td>
 		</tr>
 		<tr>

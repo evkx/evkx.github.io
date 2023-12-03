@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for VOYAH FREE. Klikk p
 				Dreiemoment i Nm
 			</td>
 			<td>
-				720 Nm
+				720 nm
 			</td>
 		</tr>
 		<tr>

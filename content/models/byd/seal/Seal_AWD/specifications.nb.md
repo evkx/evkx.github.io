@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Seal AWD. Klikk
 				Dreiemoment i Nm
 			</td>
 			<td>
-				670 Nm
+				670 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQS 450
 				Dreiemoment i Nm
 			</td>
 			<td>
-				800 Nm
+				800 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 3 Long Ran
 				Dreiemoment i Nm
 			</td>
 			<td>
-				910 Nm
+				910 nm
 			</td>
 		</tr>
 		<tr>

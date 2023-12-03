@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model X Standa
 				Electrical torque output in Nm
 			</td>
 			<td>
-				700 Nm
+				700 nm (517 ft-lb)
 			</td>
 		</tr>
 		<tr>

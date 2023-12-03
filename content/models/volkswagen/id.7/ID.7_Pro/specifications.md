@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.7 Pro.
 				Electrical torque output in Nm
 			</td>
 			<td>
-				550 Nm
+				550 nm (406 ft-lb)
 			</td>
 		</tr>
 		<tr>

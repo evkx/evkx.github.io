@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i4 eDrive35. Kl
 				Dreiemoment i Nm
 			</td>
 			<td>
-				400 Nm
+				400 nm
 			</td>
 		</tr>
 		<tr>

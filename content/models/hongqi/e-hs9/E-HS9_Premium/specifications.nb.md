@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hongqi E-HS9 Premiu
 				Dreiemoment i Nm
 			</td>
 			<td>
-				670 Nm
+				670 nm
 			</td>
 		</tr>
 		<tr>

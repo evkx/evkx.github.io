@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model X Plaid
 				Dreiemoment i Nm
 			</td>
 			<td>
-				1020 Nm
+				1020 nm
 			</td>
 		</tr>
 		<tr>

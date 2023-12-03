@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQC 400
 				Dreiemoment i Nm
 			</td>
 			<td>
-				760 Nm
+				760 nm
 			</td>
 		</tr>
 		<tr>

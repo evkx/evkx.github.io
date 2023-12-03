@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model 3. Klik
 				Dreiemoment i Nm
 			</td>
 			<td>
-				420 Nm
+				420 nm
 			</td>
 		</tr>
 		<tr>

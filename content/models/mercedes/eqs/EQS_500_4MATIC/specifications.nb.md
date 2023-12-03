@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQS 500
 				Dreiemoment i Nm
 			</td>
 			<td>
-				828 Nm
+				828 nm
 			</td>
 		</tr>
 		<tr>

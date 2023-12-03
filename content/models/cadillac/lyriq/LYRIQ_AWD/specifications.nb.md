@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac LYRIQ AWD.
 				Dreiemoment i Nm
 			</td>
 			<td>
-				610 Nm
+				610 nm
 			</td>
 		</tr>
 		<tr>

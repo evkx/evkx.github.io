@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nio EL6. Klikk på 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				850 Nm
+				850 nm
 			</td>
 		</tr>
 		<tr>

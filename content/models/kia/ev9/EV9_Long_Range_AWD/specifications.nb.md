@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV9 Long Range 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				700 Nm
+				700 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volvo C40 Recharge T
 				Electrical torque output in Nm
 			</td>
 			<td>
-				670 Nm
+				670 nm (494 ft-lb)
 			</td>
 		</tr>
 		<tr>

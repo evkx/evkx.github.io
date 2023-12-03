@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 43 
 				Electrical torque output in Nm
 			</td>
 			<td>
-				858 Nm
+				858 nm (633 ft-lb)
 			</td>
 		</tr>
 		<tr>

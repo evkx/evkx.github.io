@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G9 RWD Long R
 				Dreiemoment i Nm
 			</td>
 			<td>
-				430 Nm
+				430 nm
 			</td>
 		</tr>
 		<tr>

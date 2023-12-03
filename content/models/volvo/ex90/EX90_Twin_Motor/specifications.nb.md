@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EX90 Twin Mot
 				Dreiemoment i Nm
 			</td>
 			<td>
-				770 Nm
+				770 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-2008. Klik
 				Dreiemoment i Nm
 			</td>
 			<td>
-				260 Nm
+				260 nm
 			</td>
 		</tr>
 		<tr>

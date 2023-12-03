@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for CUPRA BORN 77 e-BOO
 				Dreiemoment i Nm
 			</td>
 			<td>
-				310 Nm
+				310 nm
 			</td>
 		</tr>
 		<tr>

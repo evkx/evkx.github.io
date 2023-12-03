@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for GMC Hummer EV Editio
 				Electrical torque output in Nm
 			</td>
 			<td>
-				1485 Nm
+				1485 nm (1096 ft-lb)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Kia Niro EV. Click o
 				Electrical torque output in Nm
 			</td>
 			<td>
-				255 Nm
+				255 nm (188 ft-lb)
 			</td>
 		</tr>
 		<tr>

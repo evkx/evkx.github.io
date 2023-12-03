@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Nio ES8. Click on im
 				Electrical torque output in Nm
 			</td>
 			<td>
-				725 Nm
+				725 nm (535 ft-lb)
 			</td>
 		</tr>
 		<tr>

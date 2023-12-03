@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for HiPhi Y Performance.
 				Electrical torque output in Nm
 			</td>
 			<td>
-				620 Nm
+				620 nm (458 ft-lb)
 			</td>
 		</tr>
 		<tr>

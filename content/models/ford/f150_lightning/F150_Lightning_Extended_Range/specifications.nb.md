@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Ford F150 Lightning
 				Dreiemoment i Nm
 			</td>
 			<td>
-				1050 Nm
+				1050 nm
 			</td>
 		</tr>
 		<tr>

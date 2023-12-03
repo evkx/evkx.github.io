@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 GT. Klikk p
 				Dreiemoment i Nm
 			</td>
 			<td>
-				740 Nm
+				740 nm
 			</td>
 		</tr>
 		<tr>

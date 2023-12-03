@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 35 e-tron. C
 				Electrical torque output in Nm
 			</td>
 			<td>
-				310 Nm
+				310 nm (229 ft-lb)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-Maybach EQ
 				Dreiemoment i Nm
 			</td>
 			<td>
-				950 Nm
+				950 nm
 			</td>
 		</tr>
 		<tr>

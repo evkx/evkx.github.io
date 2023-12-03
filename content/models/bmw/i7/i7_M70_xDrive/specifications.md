@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BMW i7 M70 xDrive. C
 				Electrical torque output in Nm
 			</td>
 			<td>
-				1015 Nm
+				1015 nm (749 ft-lb)
 			</td>
 		</tr>
 		<tr>

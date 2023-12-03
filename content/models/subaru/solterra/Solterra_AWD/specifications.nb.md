@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Subaru Solterra AWD
 				Dreiemoment i Nm
 			</td>
 			<td>
-				337 Nm
+				337 nm
 			</td>
 		</tr>
 		<tr>

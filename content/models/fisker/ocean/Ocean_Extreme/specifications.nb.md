@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Fisker Ocean Extrem
 				Dreiemoment i Nm
 			</td>
 			<td>
-				696 Nm
+				696 nm
 			</td>
 		</tr>
 		<tr>

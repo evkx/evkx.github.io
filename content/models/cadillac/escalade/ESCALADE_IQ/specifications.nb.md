@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac ESCALADE I
 				Dreiemoment i Nm
 			</td>
 			<td>
-				1064 Nm
+				1064 nm
 			</td>
 		</tr>
 		<tr>

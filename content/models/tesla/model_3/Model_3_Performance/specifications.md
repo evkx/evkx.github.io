@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Perfor
 				Electrical torque output in Nm
 			</td>
 			<td>
-				660 Nm
+				660 nm (487 ft-lb)
 			</td>
 		</tr>
 		<tr>

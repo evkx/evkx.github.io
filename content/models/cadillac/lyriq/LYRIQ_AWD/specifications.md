@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Cadillac LYRIQ AWD. 
 				Electrical torque output in Nm
 			</td>
 			<td>
-				610 Nm
+				610 nm (450 ft-lb)
 			</td>
 		</tr>
 		<tr>

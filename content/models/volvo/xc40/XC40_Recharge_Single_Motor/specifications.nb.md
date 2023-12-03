@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo XC40 Recharge
 				Dreiemoment i Nm
 			</td>
 			<td>
-				420 Nm
+				420 nm
 			</td>
 		</tr>
 		<tr>

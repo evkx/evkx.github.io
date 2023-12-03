@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Chevrolet Silverado
 				Dreiemoment i Nm
 			</td>
 			<td>
-				834 Nm
+				834 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQE 300
 				Dreiemoment i Nm
 			</td>
 			<td>
-				565 Nm
+				565 nm
 			</td>
 		</tr>
 		<tr>

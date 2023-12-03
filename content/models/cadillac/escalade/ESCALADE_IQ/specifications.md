@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Cadillac ESCALADE IQ
 				Electrical torque output in Nm
 			</td>
 			<td>
-				1064 Nm
+				1064 nm (785 ft-lb)
 			</td>
 		</tr>
 		<tr>

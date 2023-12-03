@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr X Privilege AW
 				Electrical torque output in Nm
 			</td>
 			<td>
-				543 Nm
+				543 nm (401 ft-lb)
 			</td>
 		</tr>
 		<tr>

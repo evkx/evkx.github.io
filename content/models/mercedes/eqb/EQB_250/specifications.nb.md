@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQB 250
 				Dreiemoment i Nm
 			</td>
 			<td>
-				385 Nm
+				385 nm
 			</td>
 		</tr>
 		<tr>

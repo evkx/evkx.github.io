@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.4 GTX
 				Dreiemoment i Nm
 			</td>
 			<td>
-				545 Nm
+				545 nm
 			</td>
 		</tr>
 		<tr>

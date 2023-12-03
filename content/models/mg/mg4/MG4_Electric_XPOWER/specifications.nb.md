@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG4 Electric XPO
 				Dreiemoment i Nm
 			</td>
 			<td>
-				600 Nm
+				600 nm
 			</td>
 		</tr>
 		<tr>

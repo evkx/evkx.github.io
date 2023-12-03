@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i7 eDrive50. Kl
 				Dreiemoment i Nm
 			</td>
 			<td>
-				650 Nm
+				650 nm
 			</td>
 		</tr>
 		<tr>

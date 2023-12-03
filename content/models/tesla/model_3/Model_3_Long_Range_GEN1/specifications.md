@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Long R
 				Electrical torque output in Nm
 			</td>
 			<td>
-				493 Nm
+				493 nm (364 ft-lb)
 			</td>
 		</tr>
 		<tr>

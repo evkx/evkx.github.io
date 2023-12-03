@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40. Cli
 				Electrical torque output in Nm
 			</td>
 			<td>
-				795 Nm
+				795 nm (587 ft-lb)
 			</td>
 		</tr>
 		<tr>

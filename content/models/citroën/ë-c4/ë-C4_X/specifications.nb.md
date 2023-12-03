@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Citroën ë-C4 X. K
 				Dreiemoment i Nm
 			</td>
 			<td>
-				260 Nm
+				260 nm
 			</td>
 		</tr>
 		<tr>

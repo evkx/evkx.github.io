@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Nissan Ariya 63kWh. 
 				Electrical torque output in Nm
 			</td>
 			<td>
-				300 Nm
+				300 nm (221 ft-lb)
 			</td>
 		</tr>
 		<tr>

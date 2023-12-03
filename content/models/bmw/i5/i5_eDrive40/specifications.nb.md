@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 eDrive40. Kl
 				Dreiemoment i Nm
 			</td>
 			<td>
-				795 Nm
+				795 nm
 			</td>
 		</tr>
 		<tr>

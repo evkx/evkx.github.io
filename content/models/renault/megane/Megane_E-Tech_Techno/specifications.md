@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Renault Megane E-Tec
 				Electrical torque output in Nm
 			</td>
 			<td>
-				300 Nm
+				300 nm (221 ft-lb)
 			</td>
 		</tr>
 		<tr>

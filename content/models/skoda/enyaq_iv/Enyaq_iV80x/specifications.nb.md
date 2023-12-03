@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for SKODA Enyaq iV80x. 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				425 Nm
+				425 nm
 			</td>
 		</tr>
 		<tr>

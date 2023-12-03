@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lexus RZ 450e. Klik
 				Dreiemoment i Nm
 			</td>
 			<td>
-				435 Nm
+				435 nm
 			</td>
 		</tr>
 		<tr>

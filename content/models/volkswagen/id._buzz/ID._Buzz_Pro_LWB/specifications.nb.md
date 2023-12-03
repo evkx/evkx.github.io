@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID. Buzz
 				Dreiemoment i Nm
 			</td>
 			<td>
-				550 Nm
+				550 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 001 FR. Klikk
 				Dreiemoment i Nm
 			</td>
 			<td>
-				1200 Nm
+				1200 nm
 			</td>
 		</tr>
 		<tr>

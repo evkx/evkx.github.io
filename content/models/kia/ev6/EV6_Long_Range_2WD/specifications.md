@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Kia EV6 Long Range 2
 				Electrical torque output in Nm
 			</td>
 			<td>
-				350 Nm
+				350 nm (258 ft-lb)
 			</td>
 		</tr>
 		<tr>

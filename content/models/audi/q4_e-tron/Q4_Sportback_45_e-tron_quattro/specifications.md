@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 Sportback 45
 				Electrical torque output in Nm
 			</td>
 			<td>
-				679 Nm
+				679 nm (501 ft-lb)
 			</td>
 		</tr>
 		<tr>

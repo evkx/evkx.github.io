@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BMW i7 eDrive50. Cli
 				Electrical torque output in Nm
 			</td>
 			<td>
-				650 Nm
+				650 nm (480 ft-lb)
 			</td>
 		</tr>
 		<tr>

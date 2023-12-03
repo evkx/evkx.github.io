@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i7 xDrive60. Kl
 				Dreiemoment i Nm
 			</td>
 			<td>
-				745 Nm
+				745 nm
 			</td>
 		</tr>
 		<tr>

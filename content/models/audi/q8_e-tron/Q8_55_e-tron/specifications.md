@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q8 55 e-tron. C
 				Electrical torque output in Nm
 			</td>
 			<td>
-				561 Nm
+				561 nm (414 ft-lb)
 			</td>
 		</tr>
 		<tr>

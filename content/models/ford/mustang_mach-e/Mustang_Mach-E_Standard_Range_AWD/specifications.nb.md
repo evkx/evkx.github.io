@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Ford Mustang Mach-E
 				Dreiemoment i Nm
 			</td>
 			<td>
-				580 Nm
+				580 nm
 			</td>
 		</tr>
 		<tr>

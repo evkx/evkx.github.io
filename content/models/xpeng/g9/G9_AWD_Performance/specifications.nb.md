@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G9 AWD Perfor
 				Dreiemoment i Nm
 			</td>
 			<td>
-				717 Nm
+				717 nm
 			</td>
 		</tr>
 		<tr>

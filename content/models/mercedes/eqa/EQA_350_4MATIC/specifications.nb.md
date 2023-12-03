@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQA 350
 				Dreiemoment i Nm
 			</td>
 			<td>
-				520 Nm
+				520 nm
 			</td>
 		</tr>
 		<tr>

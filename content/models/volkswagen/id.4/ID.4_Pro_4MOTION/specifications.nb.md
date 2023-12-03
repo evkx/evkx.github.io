@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.4 Pro
 				Dreiemoment i Nm
 			</td>
 			<td>
-				425 Nm
+				425 nm
 			</td>
 		</tr>
 		<tr>

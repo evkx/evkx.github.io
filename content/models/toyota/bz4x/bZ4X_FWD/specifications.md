@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Toyota bZ4X FWD. Cli
 				Electrical torque output in Nm
 			</td>
 			<td>
-				337 Nm
+				337 nm (249 ft-lb)
 			</td>
 		</tr>
 		<tr>

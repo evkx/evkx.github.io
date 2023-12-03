@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volvo XC40 Recharge 
 				Electrical torque output in Nm
 			</td>
 			<td>
-				420 Nm
+				420 nm (310 ft-lb)
 			</td>
 		</tr>
 		<tr>

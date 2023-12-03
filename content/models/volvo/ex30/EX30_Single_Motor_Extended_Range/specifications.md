@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volvo EX30 Single Mo
 				Electrical torque output in Nm
 			</td>
 			<td>
-				343 Nm
+				343 nm (253 ft-lb)
 			</td>
 		</tr>
 		<tr>

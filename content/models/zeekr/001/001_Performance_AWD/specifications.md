@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 Performanc
 				Electrical torque output in Nm
 			</td>
 			<td>
-				686 Nm
+				686 nm (506 ft-lb)
 			</td>
 		</tr>
 		<tr>

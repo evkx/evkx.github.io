@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Dream Edit
 				Electrical torque output in Nm
 			</td>
 			<td>
-				1390 Nm
+				1390 nm (1026 ft-lb)
 			</td>
 		</tr>
 		<tr>

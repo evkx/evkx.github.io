@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for MG MG5 Electric Long
 				Electrical torque output in Nm
 			</td>
 			<td>
-				280 Nm
+				280 nm (207 ft-lb)
 			</td>
 		</tr>
 		<tr>

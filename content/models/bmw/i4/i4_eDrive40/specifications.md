@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BMW i4 eDrive40. Cli
 				Electrical torque output in Nm
 			</td>
 			<td>
-				430 Nm
+				430 nm (317 ft-lb)
 			</td>
 		</tr>
 		<tr>

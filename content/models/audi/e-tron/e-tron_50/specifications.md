@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron 50. Clic
 				Electrical torque output in Nm
 			</td>
 			<td>
-				540 Nm
+				540 nm (399 ft-lb)
 			</td>
 		</tr>
 		<tr>

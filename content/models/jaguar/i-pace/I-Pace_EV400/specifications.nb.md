@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Jaguar I-Pace EV400
 				Dreiemoment i Nm
 			</td>
 			<td>
-				696 Nm
+				696 nm
 			</td>
 		</tr>
 		<tr>

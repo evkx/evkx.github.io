@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Kona Long Ra
 				Electrical torque output in Nm
 			</td>
 			<td>
-				255 Nm
+				255 nm (188 ft-lb)
 			</td>
 		</tr>
 		<tr>

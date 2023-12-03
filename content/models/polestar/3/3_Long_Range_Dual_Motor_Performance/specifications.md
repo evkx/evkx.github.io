@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Polestar 3 Long Rang
 				Electrical torque output in Nm
 			</td>
 			<td>
-				910 Nm
+				910 nm (672 ft-lb)
 			</td>
 		</tr>
 		<tr>

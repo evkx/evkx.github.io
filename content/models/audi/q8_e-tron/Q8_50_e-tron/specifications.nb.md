@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q8 50 e-tron. 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				540 Nm
+				540 nm
 			</td>
 		</tr>
 		<tr>

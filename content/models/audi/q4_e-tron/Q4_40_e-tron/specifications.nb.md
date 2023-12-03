@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 40 e-tron. 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				310 Nm
+				310 nm
 			</td>
 		</tr>
 		<tr>

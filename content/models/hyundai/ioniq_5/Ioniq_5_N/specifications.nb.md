@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Ioniq 5 N. 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				714 Nm
+				714 nm
 			</td>
 		</tr>
 		<tr>

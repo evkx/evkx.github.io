@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQC 400 
 				Electrical torque output in Nm
 			</td>
 			<td>
-				760 Nm
+				760 nm (561 ft-lb)
 			</td>
 		</tr>
 		<tr>

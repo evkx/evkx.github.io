@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Gravity Dream
 				Dreiemoment i Nm
 			</td>
 			<td>
-				1000 Nm
+				1000 nm
 			</td>
 		</tr>
 		<tr>

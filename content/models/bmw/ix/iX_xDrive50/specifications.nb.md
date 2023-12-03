@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW iX xDrive50. Kl
 				Dreiemoment i Nm
 			</td>
 			<td>
-				765 Nm
+				765 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi Y Performance
 				Dreiemoment i Nm
 			</td>
 			<td>
-				620 Nm
+				620 nm
 			</td>
 		</tr>
 		<tr>

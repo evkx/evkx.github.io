@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model X Plaid.
 				Electrical torque output in Nm
 			</td>
 			<td>
-				1020 Nm
+				1020 nm (753 ft-lb)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 2 Long Ran
 				Dreiemoment i Nm
 			</td>
 			<td>
-				490 Nm
+				490 nm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1S Performa
 				Dreiemoment i Nm
 			</td>
 			<td>
-				1123 Nm
+				1123 nm
 			</td>
 		</tr>
 		<tr>

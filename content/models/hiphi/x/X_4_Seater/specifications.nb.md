@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi X 4 Seater. K
 				Dreiemoment i Nm
 			</td>
 			<td>
-				820 Nm
+				820 nm
 			</td>
 		</tr>
 		<tr>

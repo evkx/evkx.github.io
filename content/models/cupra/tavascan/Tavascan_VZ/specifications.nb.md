@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for CUPRA Tavascan VZ. 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				679 Nm
+				679 nm
 			</td>
 		</tr>
 		<tr>

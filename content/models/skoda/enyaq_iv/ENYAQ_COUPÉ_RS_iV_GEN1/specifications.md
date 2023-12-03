@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ R
 				Electrical torque output in Nm
 			</td>
 			<td>
-				425 Nm
+				425 nm (314 ft-lb)
 			</td>
 		</tr>
 		<tr>

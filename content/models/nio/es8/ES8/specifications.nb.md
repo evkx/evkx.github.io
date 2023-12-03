@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nio ES8. Klikk på 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				725 Nm
+				725 nm
 			</td>
 		</tr>
 		<tr>

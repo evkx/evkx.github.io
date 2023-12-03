@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Cybertruck Cyb
 				Electrical torque output in Nm
 			</td>
 			<td>
-				930 Nm
+				930 nm (686 ft-lb)
 			</td>
 		</tr>
 		<tr>

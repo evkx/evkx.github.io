@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nissan Ariya 63kWh.
 				Dreiemoment i Nm
 			</td>
 			<td>
-				300 Nm
+				300 nm
 			</td>
 		</tr>
 		<tr>

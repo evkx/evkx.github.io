@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron GT. Kli
 				Dreiemoment i Nm
 			</td>
 			<td>
-				630 Nm
+				630 nm
 			</td>
 		</tr>
 		<tr>

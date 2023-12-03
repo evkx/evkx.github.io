@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQE 53
 				Dreiemoment i Nm
 			</td>
 			<td>
-				950 Nm
+				950 nm
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQE 53
 				Dreiemoment i Nm
 			</td>
 			<td>
-				1000 Nm
+				1000 nm
 			</td>
 		</tr>
 		<tr>

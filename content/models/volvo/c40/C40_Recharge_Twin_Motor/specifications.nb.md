@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo C40 Recharge 
 				Dreiemoment i Nm
 			</td>
 			<td>
-				670 Nm
+				670 nm
 			</td>
 		</tr>
 		<tr>

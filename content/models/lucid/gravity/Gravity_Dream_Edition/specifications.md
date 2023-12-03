@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Gravity Dream 
 				Electrical torque output in Nm
 			</td>
 			<td>
-				1000 Nm
+				1000 nm (738 ft-lb)
 			</td>
 		</tr>
 		<tr>
