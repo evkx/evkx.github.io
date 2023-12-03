@@ -317,6 +317,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				1704 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Bed width
+			</td>
+			<td>
+				1285 mm
+			</td>
+		</tr>
 	</tbody>
 </table>
 

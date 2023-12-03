@@ -317,6 +317,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				1704 mm (67,1")
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Bed width
+			</td>
+			<td>
+				1285 mm (50,6")
+			</td>
+		</tr>
 	</tbody>
 </table>
 

@@ -303,6 +303,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Bed width
+			</td>
+			<td>
+				1272 mm (50,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Max trailer weight braked
 			</td>
 			<td>
