@@ -263,10 +263,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Størrelse med alle bakster lagt ned
+				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
 				3170 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Størrelse med tredje rad lagt ned
+			</td>
+			<td>
+				1200 liter
 			</td>
 		</tr>
 	</tbody>

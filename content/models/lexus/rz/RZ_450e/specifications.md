@@ -333,6 +333,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				522 liter (18 cu-ft)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Trunk capacity with third row seats folded
+			</td>
+			<td>
+				1451 liter (51 cu-ft)
+			</td>
+		</tr>
 	</tbody>
 </table>
 

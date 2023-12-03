@@ -221,6 +221,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				204 liter
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Størrelse med tredje rad lagt ned
+			</td>
+			<td>
+				587 liter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
