@@ -29,7 +29,7 @@ Vi har delt vår CUPRA Tavascan VZ-artikkel i seksjoner. Hvis du vil vente med �
 
 ## Ytelse
 
-CUPRA Tavascan VZ har en maksimal effekt på 250KW (340hk).Totalt dreiemoment er 679nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder. Topphastigheten er 180 km/t. 
+CUPRA Tavascan VZ har en maksimal effekt på 250KW (340hk).Totalt dreiemoment er 679nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

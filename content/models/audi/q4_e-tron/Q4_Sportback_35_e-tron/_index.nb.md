@@ -29,7 +29,7 @@ Vi har delt vår Audi Q4 Sportback 35 e-tron-artikkel i seksjoner. Hvis du vil v
 
 ## Ytelse
 
-Audi Q4 Sportback 35 e-tron har en maksimal effekt på 125KW (170hk).Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9 sekunder. Topphastigheten er 160 km/t. 
+Audi Q4 Sportback 35 e-tron har en maksimal effekt på 125KW (170hk).Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 

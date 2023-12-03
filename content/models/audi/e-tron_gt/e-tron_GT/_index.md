@@ -29,7 +29,7 @@ We have separated our Audi e-tron GT article into sections. If you want to wait 
 
 ## Performance
 
-With overboost, the Audi e-tron GT has a maximum power of 390KW (530hp). Without overboost, it is 350KW (476hp). The torque is 640nm with overboost and 630 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4,1 seconds with overboost and 4,5 seconds without overboost. The top speed is 245 km/h. 
+With overboost, the Audi e-tron GT has a maximum power of 390 KW (530 hp / 476 bhp). Without overboost, it is 350 KW (476 hp / 523 bhp). The torque is 640 nm with overboost and 630 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4,1 seconds with overboost and 4,5 seconds without overboost. The top speed is 245 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
 
 ### Charge port
 

@@ -29,7 +29,7 @@ We have separated our Nissan Ariya 87kWh article into sections. If you want to w
 
 ## Performance
 
-The Nissan Ariya 87kWh has a maximum power of 178KW (242hp). The total torque is 300nm. It performs the 0-100km/h sprint (0-62mph) in 7,5 seconds. The top speed is 160 km/h. 
+The Nissan Ariya 87kWh has a maximum power of 178 KW (242 hp/239 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,5 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 7,2KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 4 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 7,2 KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 4 minutes. 
 
 ### Charge port
 

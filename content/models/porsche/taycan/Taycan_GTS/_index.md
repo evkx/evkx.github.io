@@ -31,7 +31,7 @@ We have separated our Porsche Taycan GTS article into sections. If you want to w
 
 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan GTS has a maximum power of 440KW (598hp). Without overboost, it is 320KW (435hp). The torque is 850nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 3,7 seconds. The top speed is 250 km/h. 
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan GTS has a maximum power of 440 KW (598 hp / 435 bhp). Without overboost, it is 320 KW (435 hp / 590 bhp). The torque is 850 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 3,7 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
 
 ### Charge port
 

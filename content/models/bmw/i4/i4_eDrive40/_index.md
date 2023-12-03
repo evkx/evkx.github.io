@@ -29,7 +29,7 @@ We have separated our BMW i4 eDrive40 article into sections. If you want to wait
 
 ## Performance
 
-The BMW i4 eDrive40 has a maximum power of 250KW (340hp). The total torque is 430nm. It performs the 0-100km/h sprint (0-62mph) in 5,7 seconds. The top speed is 190 km/h. 
+The BMW i4 eDrive40 has a maximum power of 250 KW (340 hp/335 bhp). The total torque is 430 nm (317 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,7 seconds. The top speed is 190 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 20 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 20 minutes. 
 
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/charging_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2001"  >}}

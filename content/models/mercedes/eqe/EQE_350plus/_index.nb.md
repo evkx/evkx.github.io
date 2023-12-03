@@ -29,7 +29,7 @@ Vi har delt vår Mercedes-EQ EQE 350+-artikkel i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Mercedes-EQ EQE 350+ har en maksimal effekt på 215KW (292hk).Totalt dreiemoment er 565nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,4 sekunder. Topphastigheten er 210 km/t. 
+Mercedes-EQ EQE 350+ har en maksimal effekt på 215KW (292hk).Totalt dreiemoment er 565nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,4 sekunder. Topphastigheten er 210 km/t.
 
 ## Batteri, rekkevidde og lading
 

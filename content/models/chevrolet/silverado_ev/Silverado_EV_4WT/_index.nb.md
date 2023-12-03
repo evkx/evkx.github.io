@@ -29,7 +29,7 @@ Vi har delt vår Chevrolet Silverado EV 4WT-artikkel i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Chevrolet Silverado EV 4WT har en maksimal effekt på 380KW (517hk).Totalt dreiemoment er 834nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Topphastigheten er 170 km/t. 
+Chevrolet Silverado EV 4WT har en maksimal effekt på 380KW (517hk).Totalt dreiemoment er 834nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 

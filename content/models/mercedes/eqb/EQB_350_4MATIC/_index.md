@@ -29,7 +29,7 @@ We have separated our Mercedes-EQ EQB 350 4MATIC article into sections. If you w
 
 ## Performance
 
-The Mercedes-EQ EQB 350 4MATIC has a maximum power of 215KW (292hp). The total torque is 520nm. It performs the 0-100km/h sprint (0-62mph) in 6,2 seconds. The top speed is 160 km/h. 
+The Mercedes-EQ EQB 350 4MATIC has a maximum power of 215 KW (292 hp/288 bhp). The total torque is 520 nm (384 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,2 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 2 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 2 minutes. 
 
 ### Charge port
 

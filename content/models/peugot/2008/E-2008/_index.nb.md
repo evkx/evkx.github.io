@@ -29,7 +29,7 @@ Vi har delt vår Peugot E-2008-artikkel i seksjoner. Hvis du vil vente med å le
 
 ## Ytelse
 
-Peugot E-2008 har en maksimal effekt på 115KW (156hk).Totalt dreiemoment er 260nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9,1 sekunder. Topphastigheten er 150 km/t. 
+Peugot E-2008 har en maksimal effekt på 115KW (156hk).Totalt dreiemoment er 260nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9,1 sekunder. Topphastigheten er 150 km/t.
 
 ## Batteri, rekkevidde og lading
 

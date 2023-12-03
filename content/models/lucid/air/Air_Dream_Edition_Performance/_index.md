@@ -29,7 +29,7 @@ We have separated our Lucid Air Dream Edition Performance article into sections.
 
 ## Performance
 
-The Lucid Air Dream Edition Performance has a maximum power of 828KW (1126hp). The total torque is 1390nm. It performs the 0-100km/h sprint (0-62mph) in 2,7 seconds. The top speed is 270 km/h. 
+The Lucid Air Dream Edition Performance has a maximum power of 828 KW (1126 hp/1110 bhp). The total torque is 1390 nm (1026 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 2,7 seconds. The top speed is 270 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 19 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 19 minutes. 
 
 ### Charge port
 

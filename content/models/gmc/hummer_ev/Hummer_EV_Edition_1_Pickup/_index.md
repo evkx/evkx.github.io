@@ -29,7 +29,7 @@ We have separated our GMC Hummer EV Edition 1 Pickup article into sections. If y
 
 ## Performance
 
-The GMC Hummer EV Edition 1 Pickup has a maximum power of 746KW (1014hp). The total torque is 1485nm. It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 170 km/h. 
+The GMC Hummer EV Edition 1 Pickup has a maximum power of 746 KW (1014 hp/1000 bhp). The total torque is 1485 nm (1096 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 170 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 19 hours and 21 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 19 hours and 21 minutes. 
 
 ### Charge port
 

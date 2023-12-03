@@ -29,7 +29,7 @@ We have separated our BMW i7 eDrive50 article into sections. If you want to wait
 
 ## Performance
 
-The BMW i7 eDrive50 has a maximum power of 335KW (455hp). The total torque is 650nm. It performs the 0-100km/h sprint (0-62mph) in 5,5 seconds. The top speed is 205 km/h. 
+The BMW i7 eDrive50 has a maximum power of 335 KW (455 hp/449 bhp). The total torque is 650 nm (480 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,5 seconds. The top speed is 205 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 14 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 14 minutes. 
 
 ### Charge port
 

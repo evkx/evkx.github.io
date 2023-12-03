@@ -29,7 +29,7 @@ We have separated our Audi Q4 Sportback 40 e-tron article into sections. If you 
 
 ## Performance
 
-The Audi Q4 Sportback 40 e-tron has a maximum power of 160KW (218hp). The total torque is 310nm. It performs the 0-100km/h sprint (0-62mph) in 8,5 seconds. The top speed is 160 km/h. 
+The Audi Q4 Sportback 40 e-tron has a maximum power of 160 KW (218 hp/215 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8,5 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 57 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 57 minutes. 
 
 ### Charge port
 

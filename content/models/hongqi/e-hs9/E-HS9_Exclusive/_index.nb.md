@@ -29,7 +29,7 @@ Vi har delt vår Hongqi E-HS9 Exclusive-artikkel i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Hongqi E-HS9 Exclusive har en maksimal effekt på 405KW (551hk).Totalt dreiemoment er 670nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,9 sekunder. Topphastigheten er 200 km/t. 
+Hongqi E-HS9 Exclusive har en maksimal effekt på 405KW (551hk).Totalt dreiemoment er 670nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,9 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ We have separated our BYD Tang EV600 article into sections. If you want to wait 
 
 ## Performance
 
-The BYD Tang EV600 has a maximum power of 380KW (517hp). The total torque is 680nm. It performs the 0-100km/h sprint (0-62mph) in 4,6 seconds. The top speed is 180 km/h. 
+The BYD Tang EV600 has a maximum power of 380 KW (517 hp/510 bhp). The total torque is 680 nm (502 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,6 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 20 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 7 KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 20 minutes. 
 
 ### Charge port
 

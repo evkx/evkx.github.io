@@ -29,7 +29,7 @@ Vi har delt vår Volvo C40 Recharge Single Motor-artikkel i seksjoner. Hvis du v
 
 ## Ytelse
 
-Volvo C40 Recharge Single Motor har en maksimal effekt på 175KW (238hk).Totalt dreiemoment er 420nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Topphastigheten er 180 km/t. 
+Volvo C40 Recharge Single Motor har en maksimal effekt på 175KW (238hk).Totalt dreiemoment er 420nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

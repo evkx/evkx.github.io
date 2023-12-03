@@ -29,7 +29,7 @@ We have separated our SKODA ENYAQ RS iV article into sections. If you want to wa
 
 ## Performance
 
-With overboost, the SKODA ENYAQ RS iV has a maximum power of 220KW (299hp). Without overboost, it is 195KW (265hp). The torque is 460nm with overboost and 425 without overboost. It performs the 0-100km/h sprint (0-62mph) in 6,5 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h. 
+With overboost, the SKODA ENYAQ RS iV has a maximum power of 220 KW (299 hp / 265 bhp). Without overboost, it is 195 KW (265 hp / 295 bhp). The torque is 460 nm with overboost and 425 without overboost. It performs the 0-100km/h sprint (0-62mph) in 6,5 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
 
 ### Charge port
 

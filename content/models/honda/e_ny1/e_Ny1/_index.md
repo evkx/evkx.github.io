@@ -29,7 +29,7 @@ We have separated our Honda e:Ny1 article into sections. If you want to wait to 
 
 ## Performance
 
-The Honda e:Ny1 has a maximum power of 150KW (204hp). The total torque is 310nm. It performs the 0-100km/h sprint (0-62mph) in 7,7 seconds. The top speed is 160 km/h. 
+The Honda e:Ny1 has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,7 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 

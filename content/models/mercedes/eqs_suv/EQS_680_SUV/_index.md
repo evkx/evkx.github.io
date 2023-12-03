@@ -29,7 +29,7 @@ We have separated our Mercedes-Maybach EQS 680 SUV article into sections. If you
 
 ## Performance
 
-The Mercedes-Maybach EQS 680 SUV has a maximum power of 484KW (658hp). The total torque is 950nm. It performs the 0-100km/h sprint (0-62mph) in 4,4 seconds. The top speed is 210 km/h. 
+The Mercedes-Maybach EQS 680 SUV has a maximum power of 484 KW (658 hp/649 bhp). The total torque is 950 nm (701 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,4 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 51 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 51 minutes. 
 
 ### Charge port
 

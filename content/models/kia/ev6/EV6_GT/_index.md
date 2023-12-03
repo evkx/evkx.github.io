@@ -29,7 +29,7 @@ We have separated our Kia EV6 GT article into sections. If you want to wait to r
 
 ## Performance
 
-The Kia EV6 GT has a maximum power of 430KW (585hp). The total torque is 740nm. It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 260 km/h. 
+The Kia EV6 GT has a maximum power of 430 KW (585 hp/577 bhp). The total torque is 740 nm (546 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 260 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 43 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 43 minutes. 
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/charging_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}

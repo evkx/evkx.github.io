@@ -29,7 +29,7 @@ We have separated our Renault Scenic E-Tech electric High Range article into sec
 
 ## Performance
 
-The Renault Scenic E-Tech electric High Range has a maximum power of 160KW (218hp). The total torque is 300nm. It performs the 0-100km/h sprint (0-62mph) in 8,4 seconds. The top speed is 170 km/h. 
+The Renault Scenic E-Tech electric High Range has a maximum power of 160 KW (218 hp/215 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8,4 seconds. The top speed is 170 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 7,2KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 4 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 7,2 KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 4 minutes. 
 
 ### Charge port
 

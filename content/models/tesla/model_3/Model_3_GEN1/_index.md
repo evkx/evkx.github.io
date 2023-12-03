@@ -29,7 +29,7 @@ We have separated our Tesla Model 3 (GEN1) article into sections. If you want to
 
 ## Performance
 
-The Tesla Model 3 (GEN1) has a maximum power of 208KW (283hp). The total torque is 420nm. It performs the 0-100km/h sprint (0-62mph) in 6,1 seconds. The top speed is 225 km/h. 
+The Tesla Model 3 (GEN1) has a maximum power of 208 KW (283 hp/279 bhp). The total torque is 420 nm (310 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,1 seconds. The top speed is 225 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 21 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 21 minutes. 
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/charging_1_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}

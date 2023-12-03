@@ -35,7 +35,7 @@ Denne modellen er erstattet av [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tro
 
 ## Ytelse
 
-Med overboost har Audi e-tron S Sportback en maksimal effekt på 370KW (503hk). Uten overboost er den 320KW (435hk). Dreemomentet er 973nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder med overboost og 6,6 sekunder uten overboost. Topphastigheten er 200 km/t. 
+Med overboost har Audi e-tron S Sportback en maksimal effekt på 370KW (503hk). Uten overboost er den 320KW (435hk). Dreemomentet er 973nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder med overboost og 6,6 sekunder uten overboost. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

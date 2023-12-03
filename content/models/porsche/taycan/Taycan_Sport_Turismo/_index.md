@@ -29,9 +29,9 @@ We have separated our Porsche Taycan Sport Turismo article into sections. If you
 
 ## Performance
 
-With overboost, the Porsche Taycan Sport Turismo has a maximum power of 300KW (408hp). Without overboost, it is 240KW (326hp). The torque is 345nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,4 seconds. The top speed is 230 km/h. 
+With overboost, the Porsche Taycan Sport Turismo has a maximum power of 300 KW (408 hp / 326 bhp). Without overboost, it is 240 KW (326 hp / 402 bhp). The torque is 345 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,4 seconds. The top speed is 230 km/h.
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan Sport Turismo has a maximum power of 350KW (476hp). Without overboost, it is 280KW (381hp). The torque is 357nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,4 seconds. The top speed is 230 km/h. 
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan Sport Turismo has a maximum power of 350 KW (476 hp / 381 bhp). Without overboost, it is 280 KW (381 hp / 469 bhp). The torque is 357 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,4 seconds. The top speed is 230 km/h.
 
 ## Battery, range, and charging
 
@@ -57,7 +57,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 27 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 13 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 27 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 13 minutes. 
 
 ### Charge port
 

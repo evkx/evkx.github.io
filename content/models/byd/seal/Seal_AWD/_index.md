@@ -29,7 +29,7 @@ We have separated our BYD Seal AWD article into sections. If you want to wait to
 
 ## Performance
 
-The BYD Seal AWD has a maximum power of 390KW (530hp). The total torque is 670nm. It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 180 km/h. 
+The BYD Seal AWD has a maximum power of 390 KW (530 hp/523 bhp). The total torque is 670 nm (494 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 30 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 30 minutes. 
 
 ### Charge port
 

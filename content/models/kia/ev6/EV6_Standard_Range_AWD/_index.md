@@ -29,7 +29,7 @@ We have separated our Kia EV6 Standard Range AWD article into sections. If you w
 
 ## Performance
 
-The Kia EV6 Standard Range AWD has a maximum power of 173KW (235hp). The total torque is 605nm. It performs the 0-100km/h sprint (0-62mph) in 6,2 seconds. The top speed is 185 km/h. 
+The Kia EV6 Standard Range AWD has a maximum power of 173 KW (235 hp/232 bhp). The total torque is 605 nm (446 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,2 seconds. The top speed is 185 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 54 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 54 minutes. 
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/charging_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="2000"  >}}

@@ -29,7 +29,7 @@ We have separated our MG MG4 Electric Long Range article into sections. If you w
 
 ## Performance
 
-The MG MG4 Electric Long Range has a maximum power of 150KW (204hp). The total torque is 250nm. It performs the 0-100km/h sprint (0-62mph) in 7,9 seconds. The top speed is 160 km/h. 
+The MG MG4 Electric Long Range has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 250 nm (184 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,9 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 36 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 36 minutes. 
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/charging_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2249"  >}}

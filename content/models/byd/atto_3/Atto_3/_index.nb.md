@@ -29,7 +29,7 @@ Vi har delt vår BYD Atto 3-artikkel i seksjoner. Hvis du vil vente med å lese 
 
 ## Ytelse
 
-BYD Atto 3 har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Topphastigheten er 160 km/t. 
+BYD Atto 3 har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 

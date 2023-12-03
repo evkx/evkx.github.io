@@ -29,7 +29,7 @@ Vi har delt vår Fisker Ocean Extreme-artikkel i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Med overboost har Fisker Ocean Extreme en maksimal effekt på 415KW (564hk). Uten overboost er den 344KW (468hk). Dreemomentet er 737nm med overboost og 696 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 4 sekunder. Topphastigheten er 205 km/t. 
+Med overboost har Fisker Ocean Extreme en maksimal effekt på 415KW (564hk). Uten overboost er den 344KW (468hk). Dreemomentet er 737nm med overboost og 696 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 4 sekunder. Topphastigheten er 205 km/t.
 
 ## Batteri, rekkevidde og lading
 

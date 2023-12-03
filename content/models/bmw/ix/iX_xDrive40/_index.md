@@ -29,7 +29,7 @@ We have separated our BMW iX xDrive40 article into sections. If you want to wait
 
 ## Performance
 
-The BMW iX xDrive40 has a maximum power of 240KW (326hp). The total torque is 630nm. It performs the 0-100km/h sprint (0-62mph) in 6,1 seconds. The top speed is 200 km/h. 
+The BMW iX xDrive40 has a maximum power of 240 KW (326 hp/322 bhp). The total torque is 630 nm (465 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,1 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 27 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 27 minutes. 
 
 ### Charge port
 

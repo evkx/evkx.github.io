@@ -29,7 +29,7 @@ We have separated our VOYAH FREE article into sections. If you want to wait to r
 
 ## Performance
 
-The VOYAH FREE has a maximum power of 360KW (489hp). The total torque is 720nm. It performs the 0-100km/h sprint (0-62mph) in 4,4 seconds. The top speed is 200 km/h. 
+The VOYAH FREE has a maximum power of 360 KW (489 hp/483 bhp). The total torque is 720 nm (531 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,4 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -41,7 +41,7 @@ The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 9
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 5 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 5 minutes. 
 
 ### Charge port
 

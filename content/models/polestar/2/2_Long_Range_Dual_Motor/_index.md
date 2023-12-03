@@ -29,7 +29,7 @@ We have separated our Polestar 2 Long Range Dual Motor article into sections. If
 
 ## Performance
 
-The Polestar 2 Long Range Dual Motor has a maximum power of 310KW (421hp). The total torque is 740nm. It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 205 km/h. 
+The Polestar 2 Long Range Dual Motor has a maximum power of 310 KW (421 hp/416 bhp). The total torque is 740 nm (546 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 205 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 10 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 10 minutes. 
 
 ### Charge port
 

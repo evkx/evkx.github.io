@@ -29,7 +29,7 @@ Vi har delt vår Citroën ë-C4 X-artikkel i seksjoner. Hvis du vil vente med å
 
 ## Ytelse
 
-Citroën ë-C4 X har en maksimal effekt på 115KW (156hk).Totalt dreiemoment er 260nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9 sekunder. Topphastigheten er 150 km/t. 
+Citroën ë-C4 X har en maksimal effekt på 115KW (156hk).Totalt dreiemoment er 260nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9 sekunder. Topphastigheten er 150 km/t.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ We have separated our Volvo EX30 Twin Motor Performance article into sections. I
 
 ## Performance
 
-The Volvo EX30 Twin Motor Performance has a maximum power of 315KW (428hp). The total torque is 543nm. It performs the 0-100km/h sprint (0-62mph) in 3,6 seconds. The top speed is 180 km/h. 
+The Volvo EX30 Twin Motor Performance has a maximum power of 315 KW (428 hp/422 bhp). The total torque is 543 nm (401 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,6 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes. 
 
 ### Charge port
 

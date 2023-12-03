@@ -29,7 +29,7 @@ Vi har delt vår Renault Megane E-Tech Techno-artikkel i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-Renault Megane E-Tech Techno har en maksimal effekt på 160KW (218hk).Totalt dreiemoment er 300nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,4 sekunder. Topphastigheten er 170 km/t. 
+Renault Megane E-Tech Techno har en maksimal effekt på 160KW (218hk).Totalt dreiemoment er 300nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,4 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 

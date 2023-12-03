@@ -29,7 +29,7 @@ Vi har delt vår MG MG5 Electric Long Range-artikkel i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-MG MG5 Electric Long Range har en maksimal effekt på 115KW (156hk).Totalt dreiemoment er 280nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,3 sekunder. Topphastigheten er 185 km/t. 
+MG MG5 Electric Long Range har en maksimal effekt på 115KW (156hk).Totalt dreiemoment er 280nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,3 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 

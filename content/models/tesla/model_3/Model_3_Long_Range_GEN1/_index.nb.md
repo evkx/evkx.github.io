@@ -29,7 +29,7 @@ Vi har delt vår Tesla Model 3 Long Range (GEN1)-artikkel i seksjoner. Hvis du v
 
 ## Ytelse
 
-Tesla Model 3 Long Range (GEN1) har en maksimal effekt på 324KW (441hk).Totalt dreiemoment er 493nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,4 sekunder. Topphastigheten er 233 km/t. 
+Tesla Model 3 Long Range (GEN1) har en maksimal effekt på 324KW (441hk).Totalt dreiemoment er 493nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,4 sekunder. Topphastigheten er 233 km/t.
 
 ## Batteri, rekkevidde og lading
 

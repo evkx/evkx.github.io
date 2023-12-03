@@ -29,7 +29,7 @@ We have separated our Kia Niro EV article into sections. If you want to wait to 
 
 ## Performance
 
-The Kia Niro EV has a maximum power of 150KW (204hp). The total torque is 255nm. It performs the 0-100km/h sprint (0-62mph) in 7,8 seconds. The top speed is 167 km/h. 
+The Kia Niro EV has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 255 nm (188 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,8 seconds. The top speed is 167 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 53 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 53 minutes. 
 
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/charging_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}

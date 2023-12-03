@@ -29,7 +29,7 @@ Vi har delt vår VOYAH FREE-artikkel i seksjoner. Hvis du vil vente med å lese 
 
 ## Ytelse
 
-VOYAH FREE har en maksimal effekt på 360KW (489hk).Totalt dreiemoment er 720nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,4 sekunder. Topphastigheten er 200 km/t. 
+VOYAH FREE har en maksimal effekt på 360KW (489hk).Totalt dreiemoment er 720nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,4 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ We have separated our XPENG G9 AWD Performance article into sections. If you wan
 
 ## Performance
 
-The XPENG G9 AWD Performance has a maximum power of 405KW (551hp). The total torque is 717nm. It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. The top speed is 205 km/h. 
+The XPENG G9 AWD Performance has a maximum power of 405 KW (551 hp/543 bhp). The total torque is 717 nm (529 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. The top speed is 205 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 30 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 30 minutes. 
 
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" title="XPENG G9 AWD Performance" width="1600" height="1040"  >}}

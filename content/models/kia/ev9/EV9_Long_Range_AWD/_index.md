@@ -29,7 +29,7 @@ We have separated our Kia EV9 Long Range AWD article into sections. If you want 
 
 ## Performance
 
-The Kia EV9 Long Range AWD has a maximum power of 283KW (385hp). The total torque is 700nm. It performs the 0-100km/h sprint (0-62mph) in 5,3 seconds. The top speed is 200 km/h. 
+The Kia EV9 Long Range AWD has a maximum power of 283 KW (385 hp/380 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,3 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 32 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 32 minutes. 
 
 ### Charge port
 

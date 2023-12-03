@@ -29,7 +29,7 @@ We have separated our Cadillac LYRIQ RWD article into sections. If you want to w
 
 ## Performance
 
-The Cadillac LYRIQ RWD has a maximum power of 255KW (347hp). The total torque is 450nm. It performs the 0-100km/h sprint (0-62mph) in 5,7 seconds. 
+The Cadillac LYRIQ RWD has a maximum power of 255 KW (347 hp/342 bhp). The total torque is 450 nm (332 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,7 seconds.
 
 ## Battery, range, and charging
 
@@ -41,7 +41,7 @@ The maximum DC charging speed is kW. A full charge from 0 - 100% would take 176 
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11,5KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 52 minutes. You can also select an optional onboard charger that supports up to 19,2KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 18 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 52 minutes. You can also select an optional onboard charger that supports up to 19,2 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 18 minutes. 
 
 ### Charge port
 

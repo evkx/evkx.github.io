@@ -29,7 +29,7 @@ We have separated our BMW iX M60 article into sections. If you want to wait to r
 
 ## Performance
 
-The BMW iX M60 has a maximum power of 455KW (619hp). The total torque is 765nm. It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 250 km/h. 
+The BMW iX M60 has a maximum power of 455 KW (619 hp/610 bhp). The total torque is 765 nm (565 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 33 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 33 minutes. 
 
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/charging_1_st.jpg" title="BMW iX M60" width="3000" height="2002"  >}}

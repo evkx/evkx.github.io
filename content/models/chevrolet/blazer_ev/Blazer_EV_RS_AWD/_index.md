@@ -29,7 +29,7 @@ We have separated our Chevrolet Blazer EV RS AWD article into sections. If you w
 
 ## Performance
 
-The Chevrolet Blazer EV RS AWD has a maximum power of 214KW (291hp). The total torque is 451nm. It performs the 0-100km/h sprint (0-62mph) in 6 seconds. 
+The Chevrolet Blazer EV RS AWD has a maximum power of 214 KW (291 hp/287 bhp). The total torque is 451 nm (333 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6 seconds.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 57 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 57 minutes. 
 
 ### Charge port
 

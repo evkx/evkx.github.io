@@ -29,7 +29,7 @@ We have separated our Volkswagen ID. Buzz Pro LWB article into sections. If you 
 
 ## Performance
 
-The Volkswagen ID. Buzz Pro LWB has a maximum power of 210KW (286hp). The total torque is 550nm. It performs the 0-100km/h sprint (0-62mph) in 7,9 seconds. The top speed is 160 km/h. 
+The Volkswagen ID. Buzz Pro LWB has a maximum power of 210 KW (286 hp/282 bhp). The total torque is 550 nm (406 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,9 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 43 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 43 minutes. 
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}

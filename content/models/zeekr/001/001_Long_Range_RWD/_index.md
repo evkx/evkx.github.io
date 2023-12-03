@@ -29,7 +29,7 @@ We have separated our Zeekr 001 Long Range RWD article into sections. If you wan
 
 ## Performance
 
-The Zeekr 001 Long Range RWD has a maximum power of 200KW (272hp). The total torque is 343nm. It performs the 0-100km/h sprint (0-62mph) in 7,2 seconds. The top speed is 200 km/h. 
+The Zeekr 001 Long Range RWD has a maximum power of 200 KW (272 hp/268 bhp). The total torque is 343 nm (253 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,2 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 38 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 38 minutes. 
 
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/charging_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2250"  >}}

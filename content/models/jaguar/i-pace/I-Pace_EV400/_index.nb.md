@@ -29,7 +29,7 @@ Vi har delt vår Jaguar I-Pace EV400-artikkel i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Jaguar I-Pace EV400 har en maksimal effekt på 294KW (400hk).Totalt dreiemoment er 696nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,8 sekunder. Topphastigheten er 200 km/t. 
+Jaguar I-Pace EV400 har en maksimal effekt på 294KW (400hk).Totalt dreiemoment er 696nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,8 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

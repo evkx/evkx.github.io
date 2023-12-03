@@ -29,7 +29,7 @@ Vi har delt vår Hyundai Ioniq 6 Long Range RWD-artikkel i seksjoner. Hvis du vi
 
 ## Ytelse
 
-Hyundai Ioniq 6 Long Range RWD har en maksimal effekt på 168KW (228hk).Totalt dreiemoment er 350nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,4 sekunder. Topphastigheten er 185 km/t. 
+Hyundai Ioniq 6 Long Range RWD har en maksimal effekt på 168KW (228hk).Totalt dreiemoment er 350nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,4 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 

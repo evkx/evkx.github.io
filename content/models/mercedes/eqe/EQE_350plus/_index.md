@@ -29,7 +29,7 @@ We have separated our Mercedes-EQ EQE 350+ article into sections. If you want to
 
 ## Performance
 
-The Mercedes-EQ EQE 350+ has a maximum power of 215KW (292hp). The total torque is 565nm. It performs the 0-100km/h sprint (0-62mph) in 6,4 seconds. The top speed is 210 km/h. 
+The Mercedes-EQ EQE 350+ has a maximum power of 215 KW (292 hp/288 bhp). The total torque is 565 nm (417 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,4 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/charging_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="2000"  >}}

@@ -29,7 +29,7 @@ We have separated our BMW i7 M70 xDrive article into sections. If you want to wa
 
 ## Performance
 
-The BMW i7 M70 xDrive has a maximum power of 485KW (659hp). The total torque is 1015nm. It performs the 0-100km/h sprint (0-62mph) in 3,7 seconds. The top speed is 250 km/h. 
+The BMW i7 M70 xDrive has a maximum power of 485 KW (659 hp/650 bhp). The total torque is 1015 nm (749 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,7 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 14 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 14 minutes. 
 
 ### Charge port
 

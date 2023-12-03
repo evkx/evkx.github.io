@@ -29,7 +29,7 @@ Vi har delt vår Volkswagen ID.3 Pro-artikkel i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Volkswagen ID.3 Pro har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Topphastigheten er 160 km/t. 
+Volkswagen ID.3 Pro har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 

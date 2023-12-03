@@ -29,7 +29,7 @@ We have separated our Chevrolet Silverado EV 4WT article into sections. If you w
 
 ## Performance
 
-The Chevrolet Silverado EV 4WT has a maximum power of 380KW (517hp). The total torque is 834nm. It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 170 km/h. 
+The Chevrolet Silverado EV 4WT has a maximum power of 380 KW (517 hp/510 bhp). The total torque is 834 nm (615 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 170 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 19 hours and 21 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 19 hours and 21 minutes. 
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}

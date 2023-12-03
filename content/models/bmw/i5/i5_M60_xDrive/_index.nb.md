@@ -29,7 +29,7 @@ Vi har delt vår BMW i5 M60 xDrive-artikkel i seksjoner. Hvis du vil vente med �
 
 ## Ytelse
 
-BMW i5 M60 xDrive har en maksimal effekt på 442KW (601hk).Totalt dreiemoment er 795nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Topphastigheten er 230 km/t. 
+BMW i5 M60 xDrive har en maksimal effekt på 442KW (601hk).Totalt dreiemoment er 795nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Topphastigheten er 230 km/t.
 
 ## Batteri, rekkevidde og lading
 

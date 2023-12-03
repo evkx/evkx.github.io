@@ -29,7 +29,7 @@ Vi har delt vår Smart #1 Pulse-artikkel i seksjoner. Hvis du vil vente med å l
 
 ## Ytelse
 
-Smart #1 Pulse har en maksimal effekt på 315KW (428hk).Totalt dreiemoment er 584nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Topphastigheten er 180 km/t. 
+Smart #1 Pulse har en maksimal effekt på 315KW (428hk).Totalt dreiemoment er 584nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ We have separated our BMW i5 M60 xDrive article into sections. If you want to wa
 
 ## Performance
 
-The BMW i5 M60 xDrive has a maximum power of 442KW (601hp). The total torque is 795nm. It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 230 km/h. 
+The BMW i5 M60 xDrive has a maximum power of 442 KW (601 hp/593 bhp). The total torque is 795 nm (587 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 230 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 22 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 22 minutes. 
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/charging_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="3000"  >}}

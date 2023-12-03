@@ -29,7 +29,7 @@ We have separated our Peugot E-2008 article into sections. If you want to wait t
 
 ## Performance
 
-The Peugot E-2008 has a maximum power of 115KW (156hp). The total torque is 260nm. It performs the 0-100km/h sprint (0-62mph) in 9,1 seconds. The top speed is 150 km/h. 
+The Peugot E-2008 has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 260 nm (192 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 9,1 seconds. The top speed is 150 km/h.
 
 ## Battery, range, and charging
 
@@ -41,7 +41,7 @@ The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 5
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 37 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 37 minutes. 
 
 ### Charge port
 

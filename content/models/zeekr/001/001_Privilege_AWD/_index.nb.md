@@ -29,7 +29,7 @@ Vi har delt vår Zeekr 001 Privilege AWD-artikkel i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Zeekr 001 Privilege AWD har en maksimal effekt på 400KW (544hk).Totalt dreiemoment er 686nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Topphastigheten er 200 km/t. 
+Zeekr 001 Privilege AWD har en maksimal effekt på 400KW (544hk).Totalt dreiemoment er 686nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

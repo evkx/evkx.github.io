@@ -29,7 +29,7 @@ We have separated our Audi RS e-tron GT article into sections. If you want to wa
 
 ## Performance
 
-With overboost, the Audi RS e-tron GT has a maximum power of 475KW (646hp). Without overboost, it is 440KW (598hp). The torque is 830nm with overboost and 830 without overboost. It performs the 0-100km/h sprint (0-62mph) in 3,3 seconds with overboost and 4,5 seconds without overboost. The top speed is 250 km/h. 
+With overboost, the Audi RS e-tron GT has a maximum power of 475 KW (646 hp / 598 bhp). Without overboost, it is 440 KW (598 hp / 637 bhp). The torque is 830 nm with overboost and 830 without overboost. It performs the 0-100km/h sprint (0-62mph) in 3,3 seconds with overboost and 4,5 seconds without overboost. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes. 
 
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/charging_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2249"  >}}

@@ -29,7 +29,7 @@ We have separated our CUPRA BORN 77 e-BOOST article into sections. If you want t
 
 ## Performance
 
-With overboost, the CUPRA BORN 77 e-BOOST has a maximum power of 170KW (231hp). Without overboost, it is 150KW (204hp). The torque is 310nm with overboost and 310 without overboost. It performs the 0-100km/h sprint (0-62mph) in 7 seconds with overboost and 7,9 seconds without overboost. The top speed is 160 km/h. 
+With overboost, the CUPRA BORN 77 e-BOOST has a maximum power of 170 KW (231 hp / 204 bhp). Without overboost, it is 150 KW (204 hp / 228 bhp). The torque is 310 nm with overboost and 310 without overboost. It performs the 0-100km/h sprint (0-62mph) in 7 seconds with overboost and 7,9 seconds without overboost. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
 
 ### Charge port
 

@@ -29,7 +29,7 @@ We have separated our Tesla Cybertruck Cyberbeast article into sections. If you 
 
 ## Performance
 
-The Tesla Cybertruck Cyberbeast has a maximum power of 630KW (857hp). The total torque is 930nm. It performs the 0-100km/h sprint (0-62mph) in 2,7 seconds. The top speed is 210 km/h. 
+The Tesla Cybertruck Cyberbeast has a maximum power of 630 KW (857 hp/845 bhp). The total torque is 930 nm (686 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 2,7 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 10 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 10 minutes. 
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/charging_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}

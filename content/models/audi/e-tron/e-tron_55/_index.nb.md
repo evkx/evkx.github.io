@@ -35,7 +35,7 @@ Denne modellen er erstattet av [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_
 
 ## Ytelse
 
-Med overboost har Audi e-tron 55 en maksimal effekt på 300KW (408hk). Uten overboost er den 265KW (360hk). Dreemomentet er 664nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder med overboost og 6,6 sekunder uten overboost. Topphastigheten er 200 km/t. 
+Med overboost har Audi e-tron 55 en maksimal effekt på 300KW (408hk). Uten overboost er den 265KW (360hk). Dreemomentet er 664nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder med overboost og 6,6 sekunder uten overboost. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

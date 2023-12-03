@@ -29,7 +29,7 @@ We have separated our Smart #1 Pulse article into sections. If you want to wait 
 
 ## Performance
 
-The Smart #1 Pulse has a maximum power of 315KW (428hp). The total torque is 584nm. It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 180 km/h. 
+The Smart #1 Pulse has a maximum power of 315 KW (428 hp/422 bhp). The total torque is 584 nm (431 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 2 hours and 49 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 2 hours and 49 minutes. 
 
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/charging_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}

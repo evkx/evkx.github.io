@@ -29,7 +29,7 @@ We have separated our Rivian R1S Performance Dual-Motor AWD MP article into sect
 
 ## Performance
 
-The Rivian R1S Performance Dual-Motor AWD MP has a maximum power of 489KW (665hp). The total torque is 1123nm. It performs the 0-100km/h sprint (0-62mph) in 3,6 seconds. The top speed is 201 km/h. 
+The Rivian R1S Performance Dual-Motor AWD MP has a maximum power of 489 KW (665 hp/656 bhp). The total torque is 1123 nm (829 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,6 seconds. The top speed is 201 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 22 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 22 minutes. 
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_mp/charging_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD MP" width="2880" height="1920"  >}}

@@ -29,7 +29,7 @@ We have separated our Tesla Model S article into sections. If you want to wait t
 
 ## Performance
 
-The Tesla Model S has a maximum power of 493KW (670hp). The total torque is 800nm. It performs the 0-100km/h sprint (0-62mph) in 3,2 seconds. The top speed is 250 km/h. 
+The Tesla Model S has a maximum power of 493 KW (670 hp/661 bhp). The total torque is 800 nm (590 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,2 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 43 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 43 minutes. 
 
 ### Charge port
 

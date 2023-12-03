@@ -29,7 +29,7 @@ Vi har delt vår BMW iX xDrive40-artikkel i seksjoner. Hvis du vil vente med å 
 
 ## Ytelse
 
-BMW iX xDrive40 har en maksimal effekt på 240KW (326hk).Totalt dreiemoment er 630nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,1 sekunder. Topphastigheten er 200 km/t. 
+BMW iX xDrive40 har en maksimal effekt på 240KW (326hk).Totalt dreiemoment er 630nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,1 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

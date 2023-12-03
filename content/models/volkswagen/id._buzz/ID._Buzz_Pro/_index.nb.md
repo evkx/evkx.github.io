@@ -29,7 +29,7 @@ Vi har delt vår Volkswagen ID. Buzz Pro-artikkel i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Volkswagen ID. Buzz Pro har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 10,2 sekunder. Topphastigheten er 145 km/t. 
+Volkswagen ID. Buzz Pro har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 10,2 sekunder. Topphastigheten er 145 km/t.
 
 ## Batteri, rekkevidde og lading
 

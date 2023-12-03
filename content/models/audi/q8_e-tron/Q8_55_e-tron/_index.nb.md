@@ -29,7 +29,7 @@ Vi har delt vår Audi Q8 55 e-tron-artikkel i seksjoner. Hvis du vil vente med �
 
 ## Ytelse
 
-Med overboost har Audi Q8 55 e-tron en maksimal effekt på 300KW (408hk). Uten overboost er den 265KW (360hk). Dreemomentet er 664nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder med overboost og 6,6 sekunder uten overboost. Topphastigheten er 200 km/t. 
+Med overboost har Audi Q8 55 e-tron en maksimal effekt på 300KW (408hk). Uten overboost er den 265KW (360hk). Dreemomentet er 664nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder med overboost og 6,6 sekunder uten overboost. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

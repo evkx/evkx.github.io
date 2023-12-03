@@ -29,7 +29,7 @@ Vi har delt vår Volkswagen ID.4 Pro 4MOTION-artikkel i seksjoner. Hvis du vil v
 
 ## Ytelse
 
-Volkswagen ID.4 Pro 4MOTION har en maksimal effekt på 195KW (265hk).Totalt dreiemoment er 425nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,9 sekunder. Topphastigheten er 180 km/t. 
+Volkswagen ID.4 Pro 4MOTION har en maksimal effekt på 195KW (265hk).Totalt dreiemoment er 425nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,9 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

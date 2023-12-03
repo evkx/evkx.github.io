@@ -29,7 +29,7 @@ We have separated our Fisker Ocean Extreme article into sections. If you want to
 
 ## Performance
 
-With overboost, the Fisker Ocean Extreme has a maximum power of 415KW (564hp). Without overboost, it is 344KW (468hp). The torque is 737nm with overboost and 696 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4 seconds. The top speed is 205 km/h. 
+With overboost, the Fisker Ocean Extreme has a maximum power of 415 KW (564 hp / 468 bhp). Without overboost, it is 344 KW (468 hp / 557 bhp). The torque is 737 nm with overboost and 696 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4 seconds. The top speed is 205 km/h.
 
 ## Battery, range, and charging
 
@@ -41,7 +41,7 @@ The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 7
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 40 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 40 minutes. 
 
 ### Charge port
 

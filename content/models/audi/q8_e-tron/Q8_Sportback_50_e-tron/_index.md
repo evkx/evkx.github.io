@@ -29,7 +29,7 @@ We have separated our Audi Q8 Sportback 50 e-tron article into sections. If you 
 
 ## Performance
 
-The Audi Q8 Sportback 50 e-tron has a maximum power of 230KW (313hp). The total torque is 540nm. It performs the 0-100km/h sprint (0-62mph) in 6,8 seconds. The top speed is 200 km/h. 
+The Audi Q8 Sportback 50 e-tron has a maximum power of 230 KW (313 hp/308 bhp). The total torque is 540 nm (399 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,8 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 5 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 2 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 5 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 2 minutes. 
 
 ### Charge port
 

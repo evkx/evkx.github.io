@@ -29,9 +29,9 @@ We have separated our Mercedes-AMG EQE 53 4MATIC+ article into sections. If you 
 
 ## Performance
 
-The Mercedes-AMG EQE 53 4MATIC+ has a maximum power of 460KW (625hp). The total torque is 950nm. It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 220 km/h. 
+The Mercedes-AMG EQE 53 4MATIC+ has a maximum power of 460 KW (625 hp/617 bhp). The total torque is 950 nm (701 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 220 km/h.
 
-If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE 53 4MATIC+ has a maximum power of 505KW (687hp). The total torque is 1000nm. It performs the 0-100km/h sprint (0-62mph) in 3,3 seconds. The top speed is 240 km/h. 
+If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE 53 4MATIC+ has a maximum power of 505 KW (687 hp/677 bhp). The total torque is 1000 nm (738 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,3 seconds. The top speed is 240 km/h.
 
 ## Battery, range, and charging
 
@@ -45,7 +45,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/charging_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2002"  >}}

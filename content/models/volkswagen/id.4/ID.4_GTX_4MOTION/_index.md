@@ -29,7 +29,7 @@ We have separated our Volkswagen ID.4 GTX 4MOTION article into sections. If you 
 
 ## Performance
 
-With overboost, the Volkswagen ID.4 GTX 4MOTION has a maximum power of 250KW (340hp). Without overboost, it is 210KW (286hp). The torque is 679nm with overboost and 545 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,5 seconds with overboost and 6,7 seconds without overboost. The top speed is 180 km/h. 
+With overboost, the Volkswagen ID.4 GTX 4MOTION has a maximum power of 250 KW (340 hp / 286 bhp). Without overboost, it is 210 KW (286 hp / 335 bhp). The torque is 679 nm with overboost and 545 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,5 seconds with overboost and 6,7 seconds without overboost. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 0 minutes. 
 
 ### Charge port
 

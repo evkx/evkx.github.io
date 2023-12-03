@@ -29,7 +29,7 @@ We have separated our HiPhi Z 5 Seater article into sections. If you want to wai
 
 ## Performance
 
-The HiPhi Z 5 Seater has a maximum power of 494KW (672hp). The total torque is 820nm. It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. 
+The HiPhi Z 5 Seater has a maximum power of 494 KW (672 hp/662 bhp). The total torque is 820 nm (605 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 54 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 54 minutes. 
 
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/charging_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2032"  >}}

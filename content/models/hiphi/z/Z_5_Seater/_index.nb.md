@@ -29,7 +29,7 @@ Vi har delt vår HiPhi Z 5 Seater-artikkel i seksjoner. Hvis du vil vente med å
 
 ## Ytelse
 
-HiPhi Z 5 Seater har en maksimal effekt på 494KW (672hk).Totalt dreiemoment er 820nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. 
+HiPhi Z 5 Seater har en maksimal effekt på 494KW (672hk).Totalt dreiemoment er 820nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder.
 
 ## Batteri, rekkevidde og lading
 

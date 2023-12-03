@@ -29,7 +29,7 @@ We have separated our Tesla Model S Plaid article into sections. If you want to 
 
 ## Performance
 
-The Tesla Model S Plaid has a maximum power of 760KW (1033hp). The total torque is 1420nm. It performs the 0-100km/h sprint (0-62mph) in 2,1 seconds. The top speed is 322 km/h. 
+The Tesla Model S Plaid has a maximum power of 760 KW (1033 hp/1019 bhp). The total torque is 1420 nm (1048 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 2,1 seconds. The top speed is 322 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 43 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 43 minutes. 
 
 ### Charge port
 

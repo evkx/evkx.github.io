@@ -29,7 +29,7 @@ We have separated our Lucid Air Grand Touring article into sections. If you want
 
 ## Performance
 
-The Lucid Air Grand Touring has a maximum power of 597KW (812hp). The total torque is 1200nm. It performs the 0-100km/h sprint (0-62mph) in 3 seconds. The top speed is 270 km/h. 
+The Lucid Air Grand Touring has a maximum power of 597 KW (812 hp/801 bhp). The total torque is 1200 nm (886 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3 seconds. The top speed is 270 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 5 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 5 minutes. 
 
 ### Charge port
 

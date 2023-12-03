@@ -29,7 +29,7 @@ We have separated our Rivian R1T Performance Dual-Motor AWD LP article into sect
 
 ## Performance
 
-The Rivian R1T Performance Dual-Motor AWD LP has a maximum power of 495KW (673hp). The total torque is 1124nm. It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 201 km/h. 
+The Rivian R1T Performance Dual-Motor AWD LP has a maximum power of 495 KW (673 hp/664 bhp). The total torque is 1124 nm (830 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 201 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 52 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 52 minutes. 
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2048" height="1280"  >}}

@@ -29,7 +29,7 @@ Vi har delt vår Volvo XC40 Recharge Twin Motor-artikkel i seksjoner. Hvis du vi
 
 ## Ytelse
 
-Volvo XC40 Recharge Twin Motor har en maksimal effekt på 300KW (408hk).Totalt dreiemoment er 670nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,8 sekunder. Topphastigheten er 180 km/t. 
+Volvo XC40 Recharge Twin Motor har en maksimal effekt på 300KW (408hk).Totalt dreiemoment er 670nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,8 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

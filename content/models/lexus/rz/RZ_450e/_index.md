@@ -29,7 +29,7 @@ We have separated our Lexus RZ 450e article into sections. If you want to wait t
 
 ## Performance
 
-The Lexus RZ 450e has a maximum power of 230KW (313hp). The total torque is 435nm. It performs the 0-100km/h sprint (0-62mph) in 5,3 seconds. The top speed is 160 km/h. 
+The Lexus RZ 450e has a maximum power of 230 KW (313 hp/308 bhp). The total torque is 435 nm (321 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,3 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 6,6KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 41 minutes. You can also select an optional onboard charger that supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 6,6 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 41 minutes. You can also select an optional onboard charger that supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes. 
 
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/charging_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}

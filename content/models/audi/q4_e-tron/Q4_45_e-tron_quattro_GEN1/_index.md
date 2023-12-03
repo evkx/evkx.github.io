@@ -35,7 +35,7 @@ This model has been replaced by [Audi Q4 45 e-tron quattro](/models/audi/q4_e-tr
 
 ## Performance
 
-The Audi Q4 45 e-tron quattro (GEN1) has a maximum power of 195KW (265hp). The total torque is 425nm. It performs the 0-100km/h sprint (0-62mph) in 6,9 seconds. The top speed is 180 km/h. 
+The Audi Q4 45 e-tron quattro (GEN1) has a maximum power of 195 KW (265 hp/261 bhp). The total torque is 425 nm (314 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,9 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -49,7 +49,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 57 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 57 minutes. 
 
 ### Charge port
 

@@ -29,7 +29,7 @@ Vi har delt vår Volkswagen ID.5 Pro-artikkel i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Volkswagen ID.5 Pro har en maksimal effekt på 210KW (286hk).Totalt dreiemoment er 545nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,7 sekunder. Topphastigheten er 180 km/t. 
+Volkswagen ID.5 Pro har en maksimal effekt på 210KW (286hk).Totalt dreiemoment er 545nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,7 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

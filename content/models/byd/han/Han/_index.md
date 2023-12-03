@@ -29,7 +29,7 @@ We have separated our BYD Han article into sections. If you want to wait to read
 
 ## Performance
 
-The BYD Han has a maximum power of 380KW (517hp). The total torque is 700nm. It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. The top speed is 180 km/h. 
+The BYD Han has a maximum power of 380 KW (517 hp/510 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 7KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 51 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 7 KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 51 minutes. 
 
 ### Charge port
 

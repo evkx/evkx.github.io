@@ -29,7 +29,7 @@ We have separated our Volvo XC40 Recharge Single Motor article into sections. If
 
 ## Performance
 
-The Volvo XC40 Recharge Single Motor has a maximum power of 175KW (238hp). The total torque is 420nm. It performs the 0-100km/h sprint (0-62mph) in 7,3 seconds. The top speed is 180 km/h. 
+The Volvo XC40 Recharge Single Motor has a maximum power of 175 KW (238 hp/235 bhp). The total torque is 420 nm (310 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,3 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 0 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 0 minutes. 
 
 ### Charge port
 

@@ -29,7 +29,7 @@ Vi har delt vår Jeep Avenger-artikkel i seksjoner. Hvis du vil vente med å les
 
 ## Ytelse
 
-Jeep Avenger har en maksimal effekt på 115KW (156hk).Totalt dreiemoment er 260nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9 sekunder. Topphastigheten er 150 km/t. 
+Jeep Avenger har en maksimal effekt på 115KW (156hk).Totalt dreiemoment er 260nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9 sekunder. Topphastigheten er 150 km/t.
 
 ## Batteri, rekkevidde og lading
 

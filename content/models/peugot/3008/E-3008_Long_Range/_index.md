@@ -29,7 +29,7 @@ We have separated our Peugot E-3008 Long Range article into sections. If you wan
 
 ## Performance
 
-The Peugot E-3008 Long Range has a maximum power of 170KW (231hp). The total torque is 343nm. It performs the 0-100km/h sprint (0-62mph) in 9,1 seconds. The top speed is 150 km/h. 
+The Peugot E-3008 Long Range has a maximum power of 170 KW (231 hp/228 bhp). The total torque is 343 nm (253 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 9,1 seconds. The top speed is 150 km/h.
 
 ## Battery, range, and charging
 
@@ -41,7 +41,7 @@ The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 1
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 54 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 54 minutes. 
 
 ### Charge port
 

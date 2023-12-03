@@ -29,7 +29,7 @@ We have separated our Mercedes-AMG EQE 43 4MATIC article into sections. If you w
 
 ## Performance
 
-The Mercedes-AMG EQE 43 4MATIC has a maximum power of 350KW (476hp). The total torque is 858nm. It performs the 0-100km/h sprint (0-62mph) in 4,2 seconds. The top speed is 210 km/h. 
+The Mercedes-AMG EQE 43 4MATIC has a maximum power of 350 KW (476 hp/469 bhp). The total torque is 858 nm (633 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,2 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/charging_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="2000"  >}}

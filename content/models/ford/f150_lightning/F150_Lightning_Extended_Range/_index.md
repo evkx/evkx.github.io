@@ -29,7 +29,7 @@ We have separated our Ford F150 Lightning Extended Range article into sections. 
 
 ## Performance
 
-The Ford F150 Lightning Extended Range has a maximum power of 433KW (589hp). The total torque is 1050nm. It performs the 0-100km/h sprint (0-62mph) in 4,2 seconds. The top speed is 180 km/h. 
+The Ford F150 Lightning Extended Range has a maximum power of 433 KW (589 hp/581 bhp). The total torque is 1050 nm (775 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,2 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 19,2KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 19,2 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes. 
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1506"  >}}

@@ -29,7 +29,7 @@ We have separated our Tesla Model Y Performance article into sections. If you wa
 
 ## Performance
 
-The Tesla Model Y Performance has a maximum power of 393KW (534hp). The total torque is 660nm. It performs the 0-100km/h sprint (0-62mph) in 3,7 seconds. The top speed is 250 km/h. 
+The Tesla Model Y Performance has a maximum power of 393 KW (534 hp/527 bhp). The total torque is 660 nm (487 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,7 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes. 
 
 ### Charge port
 

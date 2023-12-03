@@ -29,7 +29,7 @@ Vi har delt vår Mercedes-AMG EQE 43 4MATIC-artikkel i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Mercedes-AMG EQE 43 4MATIC har en maksimal effekt på 350KW (476hk).Totalt dreiemoment er 858nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Topphastigheten er 210 km/t. 
+Mercedes-AMG EQE 43 4MATIC har en maksimal effekt på 350KW (476hk).Totalt dreiemoment er 858nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Topphastigheten er 210 km/t.
 
 ## Batteri, rekkevidde og lading
 

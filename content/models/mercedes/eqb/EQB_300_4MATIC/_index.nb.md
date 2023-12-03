@@ -29,7 +29,7 @@ Vi har delt vår Mercedes-EQ EQB 300 4MATIC-artikkel i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Mercedes-EQ EQB 300 4MATIC har en maksimal effekt på 168KW (228hk).Totalt dreiemoment er 390nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8 sekunder. Topphastigheten er 160 km/t. 
+Mercedes-EQ EQB 300 4MATIC har en maksimal effekt på 168KW (228hk).Totalt dreiemoment er 390nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 

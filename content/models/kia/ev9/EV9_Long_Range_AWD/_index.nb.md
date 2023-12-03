@@ -29,7 +29,7 @@ Vi har delt vår Kia EV9 Long Range AWD-artikkel i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Kia EV9 Long Range AWD har en maksimal effekt på 283KW (385hk).Totalt dreiemoment er 700nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,3 sekunder. Topphastigheten er 200 km/t. 
+Kia EV9 Long Range AWD har en maksimal effekt på 283KW (385hk).Totalt dreiemoment er 700nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,3 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

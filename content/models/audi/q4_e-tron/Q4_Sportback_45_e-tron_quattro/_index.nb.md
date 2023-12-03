@@ -29,7 +29,7 @@ Vi har delt vår Audi Q4 Sportback 45 e-tron quattro-artikkel i seksjoner. Hvis 
 
 ## Ytelse
 
-Audi Q4 Sportback 45 e-tron quattro har en maksimal effekt på 210KW (286hk).Totalt dreiemoment er 679nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,6 sekunder. Topphastigheten er 180 km/t. 
+Audi Q4 Sportback 45 e-tron quattro har en maksimal effekt på 210KW (286hk).Totalt dreiemoment er 679nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,6 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

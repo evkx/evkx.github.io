@@ -29,7 +29,7 @@ We have separated our Mercedes-EQ EQC 400 4MATIC article into sections. If you w
 
 ## Performance
 
-The Mercedes-EQ EQC 400 4MATIC has a maximum power of 300KW (408hp). The total torque is 760nm. It performs the 0-100km/h sprint (0-62mph) in 5,1 seconds. The top speed is 180 km/h. 
+The Mercedes-EQ EQC 400 4MATIC has a maximum power of 300 KW (408 hp/402 bhp). The total torque is 760 nm (561 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,1 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 16 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 16 minutes. 
 
 ### Charge port
 

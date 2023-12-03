@@ -29,7 +29,7 @@ Vi har delt vår Lotus Eletre S-artikkel i seksjoner. Hvis du vil vente med å l
 
 ## Ytelse
 
-Lotus Eletre S har en maksimal effekt på 450KW (612hk).Totalt dreiemoment er 710nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Topphastigheten er 258 km/t. 
+Lotus Eletre S har en maksimal effekt på 450KW (612hk).Totalt dreiemoment er 710nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Topphastigheten er 258 km/t.
 
 ## Batteri, rekkevidde og lading
 

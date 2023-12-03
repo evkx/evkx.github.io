@@ -29,7 +29,7 @@ We have separated our Lucid Gravity Dream Edition article into sections. If you 
 
 ## Performance
 
-The Lucid Gravity Dream Edition has a maximum power of 600KW (816hp). The total torque is 1000nm. It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 250 km/h. 
+The Lucid Gravity Dream Edition has a maximum power of 600 KW (816 hp/805 bhp). The total torque is 1000 nm (738 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 32 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 32 minutes. 
 
 ### Charge port
 

@@ -29,7 +29,7 @@ We have separated our BMW i4 M50 article into sections. If you want to wait to r
 
 ## Performance
 
-The BMW i4 M50 has a maximum power of 400KW (544hp). The total torque is 795nm. It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. The top speed is 225 km/h. 
+The BMW i4 M50 has a maximum power of 400 KW (544 hp/536 bhp). The total torque is 795 nm (587 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. The top speed is 225 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 20 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 20 minutes. 
 
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/charging_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}

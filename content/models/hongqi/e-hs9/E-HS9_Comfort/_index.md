@@ -29,7 +29,7 @@ We have separated our Hongqi E-HS9 Comfort article into sections. If you want to
 
 ## Performance
 
-The Hongqi E-HS9 Comfort has a maximum power of 320KW (435hp). The total torque is 300nm. It performs the 0-100km/h sprint (0-62mph) in 6,5 seconds. The top speed is 200 km/h. 
+The Hongqi E-HS9 Comfort has a maximum power of 320 KW (435 hp/429 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,5 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 25 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 25 minutes. 
 
 ### Charge port
 

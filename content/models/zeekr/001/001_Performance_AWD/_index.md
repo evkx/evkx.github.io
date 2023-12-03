@@ -29,7 +29,7 @@ We have separated our Zeekr 001 Performance AWD article into sections. If you wa
 
 ## Performance
 
-The Zeekr 001 Performance AWD has a maximum power of 400KW (544hp). The total torque is 686nm. It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 200 km/h. 
+The Zeekr 001 Performance AWD has a maximum power of 400 KW (544 hp/536 bhp). The total torque is 686 nm (506 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 38 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 38 minutes. 
 
 
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/charging_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2250"  >}}

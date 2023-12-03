@@ -29,7 +29,7 @@ Vi har delt vår MG MG4 Electric Standard-artikkel i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-MG MG4 Electric Standard har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 250nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,9 sekunder. Topphastigheten er 160 km/t. 
+MG MG4 Electric Standard har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 250nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,9 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 

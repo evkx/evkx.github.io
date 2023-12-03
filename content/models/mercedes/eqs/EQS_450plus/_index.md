@@ -29,7 +29,7 @@ We have separated our Mercedes-EQ EQS 450+ article into sections. If you want to
 
 ## Performance
 
-The Mercedes-EQ EQS 450+ has a maximum power of 265KW (360hp). The total torque is 800nm. It performs the 0-100km/h sprint (0-62mph) in 5,6 seconds. The top speed is 210 km/h. 
+The Mercedes-EQ EQS 450+ has a maximum power of 265 KW (360 hp/355 bhp). The total torque is 800 nm (590 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,6 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 55 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 55 minutes. 
 
 ### Charge port
 

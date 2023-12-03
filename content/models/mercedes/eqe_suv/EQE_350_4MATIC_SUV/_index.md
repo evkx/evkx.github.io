@@ -29,7 +29,7 @@ We have separated our Mercedes-EQ EQE 350 4MATIC SUV article into sections. If y
 
 ## Performance
 
-The Mercedes-EQ EQE 350 4MATIC SUV has a maximum power of 215KW (292hp). The total torque is 765nm. It performs the 0-100km/h sprint (0-62mph) in 6,6 seconds. The top speed is 210 km/h. 
+The Mercedes-EQ EQE 350 4MATIC SUV has a maximum power of 215 KW (292 hp/288 bhp). The total torque is 765 nm (565 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,6 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 14 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 14 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes. 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/charging_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2001"  >}}

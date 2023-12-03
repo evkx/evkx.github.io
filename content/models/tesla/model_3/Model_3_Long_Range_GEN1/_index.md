@@ -29,7 +29,7 @@ We have separated our Tesla Model 3 Long Range (GEN1) article into sections. If 
 
 ## Performance
 
-The Tesla Model 3 Long Range (GEN1) has a maximum power of 324KW (441hp). The total torque is 493nm. It performs the 0-100km/h sprint (0-62mph) in 4,4 seconds. The top speed is 233 km/h. 
+The Tesla Model 3 Long Range (GEN1) has a maximum power of 324 KW (441 hp/434 bhp). The total torque is 493 nm (364 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,4 seconds. The top speed is 233 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes. 
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/charging_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}

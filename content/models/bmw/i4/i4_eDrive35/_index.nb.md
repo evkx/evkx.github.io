@@ -29,7 +29,7 @@ Vi har delt vår BMW i4 eDrive35-artikkel i seksjoner. Hvis du vil vente med å 
 
 ## Ytelse
 
-BMW i4 eDrive35 har en maksimal effekt på 250KW (340hk).Totalt dreiemoment er 400nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6 sekunder. Topphastigheten er 190 km/t. 
+BMW i4 eDrive35 har en maksimal effekt på 250KW (340hk).Totalt dreiemoment er 400nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6 sekunder. Topphastigheten er 190 km/t.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ Vi har delt vår Mercedes-EQ EQB 250-artikkel i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Mercedes-EQ EQB 250 har en maksimal effekt på 140KW (190hk).Totalt dreiemoment er 385nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,9 sekunder. Topphastigheten er 160 km/t. 
+Mercedes-EQ EQB 250 har en maksimal effekt på 140KW (190hk).Totalt dreiemoment er 385nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,9 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 

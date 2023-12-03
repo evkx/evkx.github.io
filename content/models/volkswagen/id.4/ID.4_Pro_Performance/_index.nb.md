@@ -29,7 +29,7 @@ Vi har delt vår Volkswagen ID.4 Pro Performance-artikkel i seksjoner. Hvis du v
 
 ## Ytelse
 
-Volkswagen ID.4 Pro Performance har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,5 sekunder. Topphastigheten er 160 km/t. 
+Volkswagen ID.4 Pro Performance har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,5 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 

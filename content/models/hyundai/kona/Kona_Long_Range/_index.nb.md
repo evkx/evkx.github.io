@@ -29,7 +29,7 @@ Vi har delt vår Hyundai Kona Long Range-artikkel i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Hyundai Kona Long Range har en maksimal effekt på 160KW (218hk).Totalt dreiemoment er 255nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Topphastigheten er 185 km/t. 
+Hyundai Kona Long Range har en maksimal effekt på 160KW (218hk).Totalt dreiemoment er 255nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 

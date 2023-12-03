@@ -29,7 +29,7 @@ Vi har delt vår Peugot E-3008 Long Range-artikkel i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-Peugot E-3008 Long Range har en maksimal effekt på 170KW (231hk).Totalt dreiemoment er 343nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9,1 sekunder. Topphastigheten er 150 km/t. 
+Peugot E-3008 Long Range har en maksimal effekt på 170KW (231hk).Totalt dreiemoment er 343nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9,1 sekunder. Topphastigheten er 150 km/t.
 
 ## Batteri, rekkevidde og lading
 

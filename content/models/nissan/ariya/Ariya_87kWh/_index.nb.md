@@ -29,7 +29,7 @@ Vi har delt vår Nissan Ariya 87kWh-artikkel i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-Nissan Ariya 87kWh har en maksimal effekt på 178KW (242hk).Totalt dreiemoment er 300nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,5 sekunder. Topphastigheten er 160 km/t. 
+Nissan Ariya 87kWh har en maksimal effekt på 178KW (242hk).Totalt dreiemoment er 300nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,5 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 

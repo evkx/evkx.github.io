@@ -29,7 +29,7 @@ We have separated our Seres 5 4WD Premium article into sections. If you want to 
 
 ## Performance
 
-The Seres 5 4WD Premium has a maximum power of 430KW (585hp). The total torque is 940nm. It performs the 0-100km/h sprint (0-62mph) in 4 seconds. The top speed is 200 km/h. 
+The Seres 5 4WD Premium has a maximum power of 430 KW (585 hp/577 bhp). The total torque is 940 nm (694 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -41,7 +41,7 @@ The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 9
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 5 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 5 minutes. 
 
 ### Charge port
 

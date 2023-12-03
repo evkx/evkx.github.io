@@ -29,7 +29,7 @@ Vi har delt vår Porsche Taycan 4 Cross Turismo-artikkel i seksjoner. Hvis du vi
 
 ## Ytelse
 
-Med overboost har Porsche Taycan 4 Cross Turismo en maksimal effekt på 350KW (476hk). Uten overboost er den 280KW (381hk). Dreemomentet er 500nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,1 sekunder. Topphastigheten er 220 km/t. 
+Med overboost har Porsche Taycan 4 Cross Turismo en maksimal effekt på 350KW (476hk). Uten overboost er den 280KW (381hk). Dreemomentet er 500nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,1 sekunder. Topphastigheten er 220 km/t.
 
 ## Batteri, rekkevidde og lading
 

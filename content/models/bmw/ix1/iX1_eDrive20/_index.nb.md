@@ -29,7 +29,7 @@ Vi har delt vår BMW iX1 eDrive20-artikkel i seksjoner. Hvis du vil vente med å
 
 ## Ytelse
 
-BMW iX1 eDrive20 har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 250nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,6 sekunder. Topphastigheten er 170 km/t. 
+BMW iX1 eDrive20 har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 250nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,6 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 

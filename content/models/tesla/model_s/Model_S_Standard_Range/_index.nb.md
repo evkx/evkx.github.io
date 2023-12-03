@@ -29,7 +29,7 @@ Vi har delt vår Tesla Model S Standard Range-artikkel i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-Tesla Model S Standard Range har en maksimal effekt på 381KW (518hk).Totalt dreiemoment er 700nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Topphastigheten er 250 km/t. 
+Tesla Model S Standard Range har en maksimal effekt på 381KW (518hk).Totalt dreiemoment er 700nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 

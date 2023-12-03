@@ -29,7 +29,7 @@ Vi har delt vår Volvo EX30 Twin Motor Performance-artikkel i seksjoner. Hvis du
 
 ## Ytelse
 
-Volvo EX30 Twin Motor Performance har en maksimal effekt på 315KW (428hk).Totalt dreiemoment er 543nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,6 sekunder. Topphastigheten er 180 km/t. 
+Volvo EX30 Twin Motor Performance har en maksimal effekt på 315KW (428hk).Totalt dreiemoment er 543nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,6 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

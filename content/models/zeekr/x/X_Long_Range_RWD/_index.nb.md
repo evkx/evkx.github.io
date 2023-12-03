@@ -29,7 +29,7 @@ Vi har delt vår Zeekr X Long Range RWD-artikkel i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Zeekr X Long Range RWD har en maksimal effekt på 200KW (272hk).Totalt dreiemoment er 343nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder. Topphastigheten er 180 km/t. 
+Zeekr X Long Range RWD har en maksimal effekt på 200KW (272hk).Totalt dreiemoment er 343nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

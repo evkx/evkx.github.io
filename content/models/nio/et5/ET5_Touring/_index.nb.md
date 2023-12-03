@@ -29,7 +29,7 @@ Vi har delt vår Nio ET5 Touring-artikkel i seksjoner. Hvis du vil vente med å 
 
 ## Ytelse
 
-Nio ET5 Touring har en maksimal effekt på 480KW (653hk).Totalt dreiemoment er 850nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Topphastigheten er 200 km/t. 
+Nio ET5 Touring har en maksimal effekt på 480KW (653hk).Totalt dreiemoment er 850nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

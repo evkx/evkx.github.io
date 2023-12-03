@@ -29,7 +29,7 @@ We have separated our Citroën ë-C3 article into sections. If you want to wait 
 
 ## Performance
 
-The Citroën ë-C3 has a maximum power of 83KW (113hp). The total torque is nm. It performs the 0-100km/h sprint (0-62mph) in 11 seconds. The top speed is 135 km/h. 
+The Citroën ë-C3 has a maximum power of 83 KW (113 hp/111 bhp). The total torque is  nm ( ft-lb). It performs the 0-100km/h sprint (0-62mph) in 11 seconds. The top speed is 135 km/h.
 
 ## Battery, range, and charging
 
@@ -41,7 +41,7 @@ The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 6
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 54 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 54 minutes. 
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/charging_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}

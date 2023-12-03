@@ -29,7 +29,7 @@ We have separated our HiPhi X 4 Seater article into sections. If you want to wai
 
 ## Performance
 
-The HiPhi X 4 Seater has a maximum power of 433KW (589hp). The total torque is 820nm. It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. 
+The HiPhi X 4 Seater has a maximum power of 433 KW (589 hp/581 bhp). The total torque is 820 nm (605 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 49 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 49 minutes. 
 
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/charging_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}

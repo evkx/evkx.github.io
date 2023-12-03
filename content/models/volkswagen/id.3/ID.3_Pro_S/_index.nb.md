@@ -29,7 +29,7 @@ Vi har delt vår Volkswagen ID.3 Pro S-artikkel i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-Volkswagen ID.3 Pro S har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,9 sekunder. Topphastigheten er 160 km/t. 
+Volkswagen ID.3 Pro S har en maksimal effekt på 150KW (204hk).Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,9 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 

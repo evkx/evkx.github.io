@@ -29,7 +29,7 @@ We have separated our Hongqi E-HS9 Exclusive+ article into sections. If you want
 
 ## Performance
 
-The Hongqi E-HS9 Exclusive+ has a maximum power of 405KW (551hp). The total torque is 670nm. It performs the 0-100km/h sprint (0-62mph) in 4,9 seconds. The top speed is 200 km/h. 
+The Hongqi E-HS9 Exclusive+ has a maximum power of 405 KW (551 hp/543 bhp). The total torque is 670 nm (494 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,9 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 0 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 0 minutes. 
 
 ### Charge port
 

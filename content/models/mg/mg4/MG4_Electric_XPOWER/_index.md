@@ -29,7 +29,7 @@ We have separated our MG MG4 Electric XPOWER article into sections. If you want 
 
 ## Performance
 
-The MG MG4 Electric XPOWER has a maximum power of 320KW (435hp). The total torque is 600nm. It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 160 km/h. 
+The MG MG4 Electric XPOWER has a maximum power of 320 KW (435 hp/429 bhp). The total torque is 600 nm (443 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 36 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 36 minutes. 
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/charging_2_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}

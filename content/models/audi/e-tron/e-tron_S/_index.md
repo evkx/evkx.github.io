@@ -35,7 +35,7 @@ This model has been replaced by [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-t
 
 ## Performance
 
-With overboost, the Audi e-tron S has a maximum power of 370KW (503hp). Without overboost, it is 320KW (435hp). The torque is 973nm with overboost and 561 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h. 
+With overboost, the Audi e-tron S has a maximum power of 370 KW (503 hp / 435 bhp). Without overboost, it is 320 KW (435 hp / 496 bhp). The torque is 973 nm with overboost and 561 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -49,7 +49,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 49 minutes. You can also select an optional onboard charger that supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 54 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 49 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 54 minutes. 
 
 ### Charge port
 

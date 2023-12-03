@@ -29,7 +29,7 @@ Vi har delt vår SKODA ENYAQ RS iV-artikkel i seksjoner. Hvis du vil vente med �
 
 ## Ytelse
 
-Med overboost har SKODA ENYAQ RS iV en maksimal effekt på 220KW (299hk). Uten overboost er den 195KW (265hk). Dreemomentet er 460nm med overboost og 425 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,5 sekunder med overboost og 6,9 sekunder uten overboost. Topphastigheten er 180 km/t. 
+Med overboost har SKODA ENYAQ RS iV en maksimal effekt på 220KW (299hk). Uten overboost er den 195KW (265hk). Dreemomentet er 460nm med overboost og 425 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,5 sekunder med overboost og 6,9 sekunder uten overboost. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

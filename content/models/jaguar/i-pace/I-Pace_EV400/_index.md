@@ -29,7 +29,7 @@ We have separated our Jaguar I-Pace EV400 article into sections. If you want to 
 
 ## Performance
 
-The Jaguar I-Pace EV400 has a maximum power of 294KW (400hp). The total torque is 696nm. It performs the 0-100km/h sprint (0-62mph) in 4,8 seconds. The top speed is 200 km/h. 
+The Jaguar I-Pace EV400 has a maximum power of 294 KW (400 hp/394 bhp). The total torque is 696 nm (514 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,8 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 42 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 42 minutes. 
 
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/charging_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}

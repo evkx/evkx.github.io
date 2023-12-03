@@ -29,7 +29,7 @@ Vi har delt vår Ford Mustang Mach-E GT-artikkel i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Ford Mustang Mach-E GT har en maksimal effekt på 358KW (487hk).Totalt dreiemoment er 860nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,7 sekunder. Topphastigheten er 200 km/t. 
+Ford Mustang Mach-E GT har en maksimal effekt på 358KW (487hk).Totalt dreiemoment er 860nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,7 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

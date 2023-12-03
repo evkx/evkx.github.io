@@ -29,7 +29,7 @@ We have separated our Lucid Air Sapphire article into sections. If you want to w
 
 ## Performance
 
-The Lucid Air Sapphire has a maximum power of 920KW (1251hp). The total torque is 1390nm. It performs the 0-100km/h sprint (0-62mph) in 1,95 seconds. The top speed is 330 km/h. 
+The Lucid Air Sapphire has a maximum power of 920 KW (1251 hp/1234 bhp). The total torque is 1390 nm (1026 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 1,95 seconds. The top speed is 330 km/h.
 
 ## Battery, range, and charging
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 19 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 19 minutes. 
 
 ### Charge port
 

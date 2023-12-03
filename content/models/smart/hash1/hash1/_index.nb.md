@@ -29,7 +29,7 @@ Vi har delt vår Smart #1-artikkel i seksjoner. Hvis du vil vente med å lese he
 
 ## Ytelse
 
-Smart #1 har en maksimal effekt på 315KW (428hk).Totalt dreiemoment er 584nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Topphastigheten er 180 km/t. 
+Smart #1 har en maksimal effekt på 315KW (428hk).Totalt dreiemoment er 584nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
