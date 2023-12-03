@@ -15,15 +15,50 @@ EVKX.net seeks to have the most complete specifications for Nissan Ariya 63kWh. 
 ## Performance
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Peak electrical output in kW</td><td>160 Kw</td></tr>
-<tr><td>Electrical torque output in Nm</td><td>300 Nm</td></tr>
-<tr><td>Top speed</td><td>160 km/h</td></tr>
-<tr><td>0-100km/h (0-62 mph)</td><td>7,5 s</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Peak electrical output in kW
+			</td>
+			<td>
+				160 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output in Nm
+			</td>
+			<td>
+				300 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top speed
+			</td>
+			<td>
+				160 km/h
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				7,5 s
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -32,17 +67,66 @@ EVKX.net seeks to have the most complete specifications for Nissan Ariya 63kWh. 
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Basic trim WLTP range</td><td>403 km</td></tr>
-<tr><td>Basic trim WLTP consumption</td><td>15,6 kWh/100km</td></tr>
-<tr><td>Basic trim WLTP consumption with charging loss</td><td>17,6 kWh/100km</td></tr>
-<tr><td>Top trim WLTP range</td><td>359 km</td></tr>
-<tr><td>Top trim WLTP consumption</td><td>17,5 kWh/100km</td></tr>
-<tr><td>Top trim WLTP consumption with charging loss</td><td>18,5 kwh/100km</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Basic trim WLTP range
+			</td>
+			<td>
+				403 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim WLTP consumption
+			</td>
+			<td>
+				15,6 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim WLTP consumption with charging loss
+			</td>
+			<td>
+				17,6 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top trim WLTP range
+			</td>
+			<td>
+				359 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top trim WLTP consumption
+			</td>
+			<td>
+				17,5 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top trim WLTP consumption with charging loss
+			</td>
+			<td>
+				18,5 kwh/100km
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -50,15 +134,50 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 ## Battery & Charging
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Battery gross</td><td>66 kWh</td></tr>
-<tr><td>Battery net</td><td>63 kWh</td></tr>
-<tr><td>Max DC charging</td><td>130 kW</td></tr>
-<tr><td>Pack Configuration</td><td>96S2P</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Battery gross
+			</td>
+			<td>
+				66 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Battery net
+			</td>
+			<td>
+				63 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max DC charging
+			</td>
+			<td>
+				130 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pack Configuration
+			</td>
+			<td>
+				96S2P
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -66,53 +185,187 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 ## Dimensions
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-	<tr>
-		<td>
-			Length
-		</td>
-		<td>
-			4595 mm (180,9")
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Height
-		</td>
-		<td>
-			1660 mm (65,4")
-		</td>
-	</tr>
-<tr><td>Width excluding mirrors</td><td>1850 mm</td></tr>
-<tr><td>Widht including mirrors</td><td>2172 mm</td></tr>
-<tr><td>Wheelbase</td><td>2775 mm</td></tr>
-<tr><td>Track width front</td><td>1587 mm</td></tr>
-<tr><td>Track width rear</td><td>165 mm</td></tr>
-<tr><td>Drag coefficient</td><td>0,297</td></tr>
-<tr><td>Turning circle</td><td>10,8 meters</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Length
+			</td>
+			<td>
+				4595 mm (180,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height
+			</td>
+			<td>
+				1660 mm (65,4")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Width excluding mirrors
+			</td>
+			<td>
+				1850 mm (72,8")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Width including mirrors
+			</td>
+			<td>
+				2172 mm (85,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wheelbase
+			</td>
+			<td>
+				2775 mm (109,3")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width front
+			</td>
+			<td>
+				1587 mm (62,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				165 mm (6,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Drag coefficient
+			</td>
+			<td>
+				0,297
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				10,8 meters
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				10,8 mm (0,4")
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Suspension
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Adaptive suspension</td><td>Not available</td></tr>
-<tr><td>Adjustable damping front</td><td>Not available</td></tr>
-<tr><td>Adjustable damping rear</td><td>Not available</td></tr>
-<tr><td>Adjustable height front</td><td>Not available</td></tr>
-<tr><td>Adjustable height rear</td><td>Not available</td></tr>
-<tr><td>Max ground clearance</td><td>185</td></tr>
-<tr><td>Minimum ground clearance</td><td>185</td></tr>
-<tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
-<tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptive suspension
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping front
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping rear
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height front
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height rear
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max ground clearance
+			</td>
+			<td>
+				185
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum ground clearance
+			</td>
+			<td>
+				185
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type front
+			</td>
+			<td>
+				SteelSpringsWithOilDampers
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type rear
+			</td>
+			<td>
+				SteelSpringsWithOilDampers
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Interior
@@ -125,26 +378,138 @@ This model is available with a seat configuration with five seats.
 #### standard
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
-<tr><td>Electric adjustment of height, recline and angle</td><td>Optional feature</td></tr>
-<tr><td>Memory driver seat</td><td>Optional feature</td></tr>
-<tr><td>Memory passenger seat</td><td>Optional feature</td></tr>
-<tr><td>Height adjustable headrest</td><td>Standard feature</td></tr>
-<tr><td>Length adjustable headrest</td><td>Not Available</td></tr>
-<tr><td>Adjustable thigh support</td><td>Not Available</td></tr>
-<tr><td>Backrest side bolster adjustment</td><td>Not Available</td></tr>
-<tr><td>Seat cushion side bolster adjustement</td><td>Not Available</td></tr>
-<tr><td>Electric adjustable thigh support</td><td>Not Available</td></tr>
-<tr><td>Footrest passengers</td><td>Unknown</td></tr>
-<tr><td>Leg support passenger</td><td>Unknown</td></tr>
-<tr><td>Electric lumbar adjustment</td><td>Not Available</td></tr>
-<tr><td>Seat ventilation</td><td>Optional feature</td></tr>
-<tr><td>Massage function</td><td>Not Available</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Seat type
+			</td>
+			<td>
+				PassengerAndDriver
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric adjustment of height, recline and angle
+			</td>
+			<td>
+			Optional feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory driver seat
+			</td>
+			<td>
+			Optional feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory passenger seat
+			</td>
+			<td>
+			Optional feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height adjustable headrest
+			</td>
+			<td>
+			Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Length adjustable headrest
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable thigh support
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest side bolster adjustment
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion side bolster adjustement
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric adjustable thigh support
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Footrest passengers
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Leg support passenger
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric lumbar adjustment
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat ventilation
+			</td>
+			<td>
+			Optional feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massage function
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ### Front seats
@@ -153,32 +518,130 @@ This model is available with a seat configuration with five seats.
 #### standard
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Seat type</td><td>ThreeSeatBench</td></tr>
-<tr><td>Height adjustable headrest</td><td>Unknown</td></tr>
-<tr><td>Length adjustable headrest</td><td>Unknown</td></tr>
-<tr><td>Adjustable thigh support</td><td>Unknown</td></tr>
-<tr><td>Backrest side bolster adjustment</td><td>Unknown</td></tr>
-<tr><td>Seat cushion side bolster adjustement</td><td>Unknown</td></tr>
-<tr><td>Electric adjustable thigh support</td><td>Unknown</td></tr>
-<tr><td>Footrest passengers</td><td>Unknown</td></tr>
-<tr><td>Leg support passenger</td><td>Unknown</td></tr>
-<tr><td>Electric lumbar adjustment</td><td>Unknown</td></tr>
-<tr><td>Seat ventilation</td><td>Unknown</td></tr>
-<tr><td>Massage function</td><td>Unknown</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Seat type
+			</td>
+			<td>
+				ThreeSeatBench
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height adjustable headrest
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Length adjustable headrest
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable thigh support
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest side bolster adjustment
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion side bolster adjustement
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric adjustable thigh support
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Footrest passengers
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Leg support passenger
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric lumbar adjustment
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat ventilation
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massage function
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Driver Assistance
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
 <tr><td>Lane keeping</td><td>Yes, standard equipment</td></tr>
 <tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
 <tr><td>Drowsiness Alert</td><td>Yes, standard equipment</td></tr>
@@ -204,43 +667,99 @@ This model is available with a seat configuration with five seats.
 <tr><td>Automatic Emergency Steering</td><td>Not available</td></tr>
 <tr><td>Traffic Sign Recognition</td><td>Yes (Traffic sign assist), standard equipment</td></tr>
 <tr><td>Night Vision</td><td>Not available</td></tr>
-</tbody>
+	</tbody>
 </table>
 
 ## Infotainment
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
 <tr><td>Android Auto support</td><td>Yes, standard equipment</td></tr>
 <tr><td>Apple Carplay support</td><td>Yes, standard equipment</td></tr>
 <tr><td>In Car navigation</td><td>Yes, standard equipment</td></tr>
-</tbody>
+	</tbody>
 </table>
-<tr><td>Number of avaiable sound systems</td><td>2</td></tr>
+		<tr>
+			<td>
+				Number of avaiable sound systems
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
 
 ### DAB Audiosystem
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Number of speakers</td><td>6</td></tr>
-<tr><td>Channels</td><td>4</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				6
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Channels
+			</td>
+			<td>
+				4
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ### BOSE Premium Sound System
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Number of speakers</td><td>10</td></tr>
-<tr><td>Channels</td><td>6</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				10
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Channels
+			</td>
+			<td>
+				6
+			</td>
+		</tr>
+	</tbody>
 </table>

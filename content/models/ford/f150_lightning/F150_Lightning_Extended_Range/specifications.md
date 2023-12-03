@@ -15,15 +15,50 @@ EVKX.net seeks to have the most complete specifications for Ford F150 Lightning 
 ## Performance
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Peak electrical output in kW</td><td>433 Kw</td></tr>
-<tr><td>Electrical torque output in Nm</td><td>1050 Nm</td></tr>
-<tr><td>Top speed</td><td>180 km/h</td></tr>
-<tr><td>0-100km/h (0-62 mph)</td><td>4,2 s</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Peak electrical output in kW
+			</td>
+			<td>
+				433 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output in Nm
+			</td>
+			<td>
+				1050 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top speed
+			</td>
+			<td>
+				180 km/h
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				4,2 s
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -32,11 +67,18 @@ EVKX.net seeks to have the most complete specifications for Ford F150 Lightning 
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+	</tbody>
 </table>
 
 
@@ -44,16 +86,58 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 ## Battery & Charging
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Battery gross</td><td>150 kWh</td></tr>
-<tr><td>Battery net</td><td>131 kWh</td></tr>
-<tr><td>Max DC charging</td><td>155 kW</td></tr>
-<tr><td>Pack Configuration</td><td>96s2p</td></tr>
-<tr><td>Cathode Materials</td><td>NMC</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Battery gross
+			</td>
+			<td>
+				150 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Battery net
+			</td>
+			<td>
+				131 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max DC charging
+			</td>
+			<td>
+				155 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pack Configuration
+			</td>
+			<td>
+				96s2p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cathode Materials
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -61,53 +145,187 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 ## Dimensions
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-	<tr>
-		<td>
-			Length
-		</td>
-		<td>
-			5915 mm (232,9")
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Height
-		</td>
-		<td>
-			2004 mm (78,9")
-		</td>
-	</tr>
-<tr><td>Widht including mirrors</td><td>2032 mm</td></tr>
-<tr><td>Wheelbase</td><td>3683 mm</td></tr>
-<tr><td>Track width front</td><td>1730 mm</td></tr>
-<tr><td>Track width rear</td><td>1735 mm</td></tr>
-<tr><td>Turning circle</td><td>14,5 meters</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Length
+			</td>
+			<td>
+				5915 mm (232,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height
+			</td>
+			<td>
+				2004 mm (78,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Width including mirrors
+			</td>
+			<td>
+				2032 mm (80,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wheelbase
+			</td>
+			<td>
+				3683 mm (145,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width front
+			</td>
+			<td>
+				1730 mm (68,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1735 mm (68,3")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				14,5 meters
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				14,5 mm (0,6")
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Suspension
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Adaptive suspension</td><td>Not available</td></tr>
-<tr><td>Adjustable damping front</td><td>Not available</td></tr>
-<tr><td>Adjustable damping rear</td><td>Not available</td></tr>
-<tr><td>Adjustable height front</td><td>Not available</td></tr>
-<tr><td>Adjustable height rear</td><td>Not available</td></tr>
-<tr><td>Max ground clearance</td><td>226</td></tr>
-<tr><td>Minimum ground clearance</td><td>226</td></tr>
-<tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
-<tr><td>Suspension construction front</td><td>DoubleWishbone</td></tr>
-<tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
-<tr><td>Suspension construction rear</td><td>Multilink</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptive suspension
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping front
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping rear
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height front
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height rear
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max ground clearance
+			</td>
+			<td>
+				226
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum ground clearance
+			</td>
+			<td>
+				226
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type front
+			</td>
+			<td>
+				SteelSpringsWithOilDampers
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension construction front
+			</td>
+			<td>
+				DoubleWishbone
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type rear
+			</td>
+			<td>
+				SteelSpringsWithOilDampers
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension construction rear
+			</td>
+			<td>
+				Multilink
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Interior
@@ -117,57 +335,267 @@ This model is available with a seat configuration with five seats.
 ### Front seats
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
-<tr><td>Electric adjustment of height, recline and angle</td><td>Optional feature</td></tr>
-<tr><td>Memory driver seat</td><td>Optional feature</td></tr>
-<tr><td>Memory passenger seat</td><td>Not Available</td></tr>
-<tr><td>Height adjustable headrest</td><td>Unknown</td></tr>
-<tr><td>Length adjustable headrest</td><td>Unknown</td></tr>
-<tr><td>Adjustable thigh support</td><td>Unknown</td></tr>
-<tr><td>Backrest side bolster adjustment</td><td>Unknown</td></tr>
-<tr><td>Seat cushion side bolster adjustement</td><td>Unknown</td></tr>
-<tr><td>Electric adjustable thigh support</td><td>Unknown</td></tr>
-<tr><td>Footrest passengers</td><td>Unknown</td></tr>
-<tr><td>Leg support passenger</td><td>Unknown</td></tr>
-<tr><td>Electric lumbar adjustment</td><td>Optional feature</td></tr>
-<tr><td>Seat ventilation</td><td>Optional feature</td></tr>
-<tr><td>Massage function</td><td>Not Available</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Seat type
+			</td>
+			<td>
+				PassengerAndDriver
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric adjustment of height, recline and angle
+			</td>
+			<td>
+			Optional feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory driver seat
+			</td>
+			<td>
+			Optional feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory passenger seat
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height adjustable headrest
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Length adjustable headrest
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable thigh support
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest side bolster adjustment
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion side bolster adjustement
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric adjustable thigh support
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Footrest passengers
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Leg support passenger
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric lumbar adjustment
+			</td>
+			<td>
+			Optional feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat ventilation
+			</td>
+			<td>
+			Optional feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massage function
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ### Front seats
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Seat type</td><td>ThreeSeatBench</td></tr>
-<tr><td>Height adjustable headrest</td><td>Unknown</td></tr>
-<tr><td>Length adjustable headrest</td><td>Not Available</td></tr>
-<tr><td>Adjustable thigh support</td><td>Not Available</td></tr>
-<tr><td>Backrest side bolster adjustment</td><td>Not Available</td></tr>
-<tr><td>Seat cushion side bolster adjustement</td><td>Not Available</td></tr>
-<tr><td>Electric adjustable thigh support</td><td>Not Available</td></tr>
-<tr><td>Footrest passengers</td><td>Not Available</td></tr>
-<tr><td>Leg support passenger</td><td>Not Available</td></tr>
-<tr><td>Electric lumbar adjustment</td><td>Not Available</td></tr>
-<tr><td>Seat ventilation</td><td>Not Available</td></tr>
-<tr><td>Massage function</td><td>Not Available</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Seat type
+			</td>
+			<td>
+				ThreeSeatBench
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height adjustable headrest
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Length adjustable headrest
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable thigh support
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest side bolster adjustment
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion side bolster adjustement
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric adjustable thigh support
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Footrest passengers
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Leg support passenger
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric lumbar adjustment
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat ventilation
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massage function
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Driver Assistance
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
 <tr><td>Lane keeping</td><td>Yes, standard equipment</td></tr>
 <tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
 <tr><td>Drowsiness Alert</td><td></td></tr>
@@ -193,58 +621,156 @@ This model is available with a seat configuration with five seats.
 <tr><td>Automatic Emergency Steering</td><td>Yes, optional equipment</td></tr>
 <tr><td>Traffic Sign Recognition</td><td>Yes, standard equipment</td></tr>
 <tr><td>Night Vision</td><td>Not available</td></tr>
-</tbody>
+	</tbody>
 </table>
 
 ## Infotainment
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
 <tr><td>Android Auto support</td><td>Yes, standard equipment</td></tr>
 <tr><td>Apple Carplay support</td><td>Yes, standard equipment</td></tr>
 <tr><td>In Car navigation</td><td>Yes, standard equipment</td></tr>
-</tbody>
+	</tbody>
 </table>
-<tr><td>Number of avaiable sound systems</td><td>3</td></tr>
+		<tr>
+			<td>
+				Number of avaiable sound systems
+			</td>
+			<td>
+				3
+			</td>
+		</tr>
 
 ### Ford
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Number of speakers</td><td>4</td></tr>
-<tr><td>Channels</td><td>2</td></tr>
-<tr><td>Total effect</td><td>80</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				4
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Channels
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effect
+			</td>
+			<td>
+				80
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ### B&O Sound System
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Number of speakers</td><td>8</td></tr>
-<tr><td>Channels</td><td>4</td></tr>
-<tr><td>Total effect</td><td>640</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Channels
+			</td>
+			<td>
+				4
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effect
+			</td>
+			<td>
+				640
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ### B&O Unleashed Sound System
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Number of speakers</td><td>18</td></tr>
-<tr><td>Channels</td><td>4</td></tr>
-<tr><td>Total effect</td><td>1080</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				18
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Channels
+			</td>
+			<td>
+				4
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effect
+			</td>
+			<td>
+				1080
+			</td>
+		</tr>
+	</tbody>
 </table>

@@ -15,15 +15,50 @@ EVKX.net seeks to have the most complete specifications for BYD Tang EV600. Clic
 ## Performance
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Peak electrical output in kW</td><td>380 Kw</td></tr>
-<tr><td>Electrical torque output in Nm</td><td>680 Nm</td></tr>
-<tr><td>Top speed</td><td>180 km/h</td></tr>
-<tr><td>0-100km/h (0-62 mph)</td><td>4,6 s</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Peak electrical output in kW
+			</td>
+			<td>
+				380 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output in Nm
+			</td>
+			<td>
+				680 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top speed
+			</td>
+			<td>
+				180 km/h
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				4,6 s
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -32,14 +67,42 @@ EVKX.net seeks to have the most complete specifications for BYD Tang EV600. Clic
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>WLTP range</td><td>400 km</td></tr>
-<tr><td>WLTP consumption</td><td>21,6 kWh/100km</td></tr>
-<tr><td>WLTP consumption with charging loss</td><td>24 kWh/100km</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				WLTP range
+			</td>
+			<td>
+				400 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP consumption
+			</td>
+			<td>
+				21,6 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP consumption with charging loss
+			</td>
+			<td>
+				24 kWh/100km
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -47,16 +110,58 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 ## Battery & Charging
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Battery gross</td><td>90 kWh</td></tr>
-<tr><td>Battery net</td><td>86,4 kWh</td></tr>
-<tr><td>Max DC charging</td><td>110 kW</td></tr>
-<tr><td>Pack Configuration</td><td>200s1p</td></tr>
-<tr><td>Nominal voltage</td><td>640</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Battery gross
+			</td>
+			<td>
+				90 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Battery net
+			</td>
+			<td>
+				86,4 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max DC charging
+			</td>
+			<td>
+				110 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pack Configuration
+			</td>
+			<td>
+				200s1p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominal voltage
+			</td>
+			<td>
+				640
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -64,49 +169,155 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 ## Dimensions
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-	<tr>
-		<td>
-			Length
-		</td>
-		<td>
-			4870 mm (191,7")
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Height
-		</td>
-		<td>
-			1725 mm (67,9")
-		</td>
-	</tr>
-<tr><td>Width excluding mirrors</td><td>1950 mm</td></tr>
-<tr><td>Wheelbase</td><td>2820 mm</td></tr>
-<tr><td>Turning circle</td><td>11,8 meters</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Length
+			</td>
+			<td>
+				4870 mm (191,7")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height
+			</td>
+			<td>
+				1725 mm (67,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Width excluding mirrors
+			</td>
+			<td>
+				1950 mm (76,8")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wheelbase
+			</td>
+			<td>
+				2820 mm (111,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				11,8 meters
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				11,8 mm (0,5")
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Suspension
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Adaptive suspension</td><td>Not available</td></tr>
-<tr><td>Adjustable damping front</td><td>Not available</td></tr>
-<tr><td>Adjustable damping rear</td><td>Not available</td></tr>
-<tr><td>Adjustable height front</td><td>Not available</td></tr>
-<tr><td>Adjustable height rear</td><td>Not available</td></tr>
-<tr><td>Max ground clearance</td><td>190</td></tr>
-<tr><td>Minimum ground clearance</td><td>190</td></tr>
-<tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
-<tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptive suspension
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping front
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping rear
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height front
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height rear
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max ground clearance
+			</td>
+			<td>
+				190
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum ground clearance
+			</td>
+			<td>
+				190
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type front
+			</td>
+			<td>
+				SteelSpringsWithOilDampers
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type rear
+			</td>
+			<td>
+				SteelSpringsWithOilDampers
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Interior
@@ -119,26 +330,138 @@ Interior.Seatlayout.OnlySix
 #### standard
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
-<tr><td>Electric adjustment of height, recline and angle</td><td>Standard feature</td></tr>
-<tr><td>Memory driver seat</td><td>Standard feature</td></tr>
-<tr><td>Memory passenger seat</td><td>Standard feature</td></tr>
-<tr><td>Height adjustable headrest</td><td>Standard feature</td></tr>
-<tr><td>Length adjustable headrest</td><td>Standard feature</td></tr>
-<tr><td>Adjustable thigh support</td><td>Standard feature</td></tr>
-<tr><td>Backrest side bolster adjustment</td><td>Not Available</td></tr>
-<tr><td>Seat cushion side bolster adjustement</td><td>Not Available</td></tr>
-<tr><td>Electric adjustable thigh support</td><td>Not Available</td></tr>
-<tr><td>Footrest passengers</td><td>Not Available</td></tr>
-<tr><td>Leg support passenger</td><td>Not Available</td></tr>
-<tr><td>Electric lumbar adjustment</td><td>Standard feature</td></tr>
-<tr><td>Seat ventilation</td><td>Standard feature</td></tr>
-<tr><td>Massage function</td><td>Not Available</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Seat type
+			</td>
+			<td>
+				PassengerAndDriver
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric adjustment of height, recline and angle
+			</td>
+			<td>
+			Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory driver seat
+			</td>
+			<td>
+			Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory passenger seat
+			</td>
+			<td>
+			Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height adjustable headrest
+			</td>
+			<td>
+			Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Length adjustable headrest
+			</td>
+			<td>
+			Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable thigh support
+			</td>
+			<td>
+			Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest side bolster adjustment
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion side bolster adjustement
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric adjustable thigh support
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Footrest passengers
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Leg support passenger
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric lumbar adjustment
+			</td>
+			<td>
+			Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat ventilation
+			</td>
+			<td>
+			Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massage function
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ### Front seats
@@ -147,32 +470,130 @@ Interior.Seatlayout.OnlySix
 #### standard
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Seat type</td><td>ThreeSeatBench</td></tr>
-<tr><td>Height adjustable headrest</td><td>Not Available</td></tr>
-<tr><td>Length adjustable headrest</td><td>Not Available</td></tr>
-<tr><td>Adjustable thigh support</td><td>Not Available</td></tr>
-<tr><td>Backrest side bolster adjustment</td><td>Not Available</td></tr>
-<tr><td>Seat cushion side bolster adjustement</td><td>Not Available</td></tr>
-<tr><td>Electric adjustable thigh support</td><td>Not Available</td></tr>
-<tr><td>Footrest passengers</td><td>Unknown</td></tr>
-<tr><td>Leg support passenger</td><td>Unknown</td></tr>
-<tr><td>Electric lumbar adjustment</td><td>Not Available</td></tr>
-<tr><td>Seat ventilation</td><td>Not Available</td></tr>
-<tr><td>Massage function</td><td>Not Available</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Seat type
+			</td>
+			<td>
+				ThreeSeatBench
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height adjustable headrest
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Length adjustable headrest
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable thigh support
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest side bolster adjustment
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion side bolster adjustement
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric adjustable thigh support
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Footrest passengers
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Leg support passenger
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric lumbar adjustment
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat ventilation
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massage function
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Driver Assistance
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
 <tr><td>Lane keeping</td><td>Yes, standard equipment</td></tr>
 <tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
 <tr><td>Drowsiness Alert</td><td>Yes, standard equipment</td></tr>
@@ -198,43 +619,99 @@ Interior.Seatlayout.OnlySix
 <tr><td>Automatic Emergency Steering</td><td>Yes, optional equipment</td></tr>
 <tr><td>Traffic Sign Recognition</td><td>Yes, optional equipment</td></tr>
 <tr><td>Night Vision</td><td>Not available</td></tr>
-</tbody>
+	</tbody>
 </table>
 
 ## Infotainment
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
 <tr><td>Android Auto support</td><td>Not available</td></tr>
 <tr><td>Apple Carplay support</td><td>Not available</td></tr>
 <tr><td>In Car navigation</td><td>Yes, standard equipment</td></tr>
-</tbody>
+	</tbody>
 </table>
-<tr><td>Number of avaiable sound systems</td><td>2</td></tr>
+		<tr>
+			<td>
+				Number of avaiable sound systems
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
 
 ### Surroundsystem
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Number of speakers</td><td>7</td></tr>
-<tr><td>Channels</td><td>7</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Channels
+			</td>
+			<td>
+				7
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ### Premium sound system
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Number of speakers</td><td>12</td></tr>
-<tr><td>Channels</td><td>7</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				12
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Channels
+			</td>
+			<td>
+				7
+			</td>
+		</tr>
+	</tbody>
 </table>

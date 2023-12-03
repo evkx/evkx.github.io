@@ -15,15 +15,50 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nio ES8. Klikk på 
 ## Ytelse
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-<tr><td>Maks effekt i kW</td><td>400 Kw</td></tr>
-<tr><td>Dreiemoment i Nm</td><td>725 Nm</td></tr>
-<tr><td>Topphastighet</td><td>200 km/h</td></tr>
-<tr><td>0-100 km/t (0-62 mph)</td><td>4,9 s</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Maks effekt i kW
+			</td>
+			<td>
+				400 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dreiemoment i Nm
+			</td>
+			<td>
+				725 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topphastighet
+			</td>
+			<td>
+				200 km/h
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				4,9 s
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -32,26 +67,82 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nio ES8. Klikk på 
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-<tr><td>WLTP-rekkevidde</td><td>460 km</td></tr>
-<tr><td>WLTP-forbruk</td><td>19,6 kWh/100km</td></tr>
-<tr><td>WLTP-forbruk med ladetap</td><td>23 kWh/100km</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				WLTP-rekkevidde
+			</td>
+			<td>
+				460 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk
+			</td>
+			<td>
+				19,6 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk med ladetap
+			</td>
+			<td>
+				23 kWh/100km
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-<tr><td>WLTP-rekkevidde</td><td>350 km</td></tr>
-<tr><td>WLTP-forbruk</td><td>19,6 kWh/100km</td></tr>
-<tr><td>WLTP-forbruk med ladetap</td><td>23 kWh/100km</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				WLTP-rekkevidde
+			</td>
+			<td>
+				350 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk
+			</td>
+			<td>
+				19,6 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk med ladetap
+			</td>
+			<td>
+				23 kWh/100km
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -59,30 +150,114 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 ## Batteri og lading
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-<tr><td>Brutto batteristørrelse</td><td>100 kWh</td></tr>
-<tr><td>Netto batteristørrelse</td><td>90 kWh</td></tr>
-<tr><td>Maks DC-lading</td><td>126 kW</td></tr>
-<tr><td>Pakkekonfigurasjon</td><td>96s1p</td></tr>
-<tr><td>Nominell spenning</td><td>358</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Brutto batteristørrelse
+			</td>
+			<td>
+				100 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Netto batteristørrelse
+			</td>
+			<td>
+				90 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks DC-lading
+			</td>
+			<td>
+				126 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pakkekonfigurasjon
+			</td>
+			<td>
+				96s1p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spenning
+			</td>
+			<td>
+				358
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-<tr><td>Brutto batteristørrelse</td><td>75 kWh</td></tr>
-<tr><td>Netto batteristørrelse</td><td>70,5 kWh</td></tr>
-<tr><td>Maks DC-lading</td><td>140 kW</td></tr>
-<tr><td>Pakkekonfigurasjon</td><td>118s1p</td></tr>
-<tr><td>Nominell spenning</td><td>386</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Brutto batteristørrelse
+			</td>
+			<td>
+				75 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Netto batteristørrelse
+			</td>
+			<td>
+				70,5 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks DC-lading
+			</td>
+			<td>
+				140 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pakkekonfigurasjon
+			</td>
+			<td>
+				118s1p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spenning
+			</td>
+			<td>
+				386
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -90,53 +265,179 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 ## Dimensjoner
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-	<tr>
-		<td>
-			Lengde
-		</td>
-		<td>
-			5022 mm
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Høyde
-		</td>
-		<td>
-			1756 mm
-		</td>
-	</tr>
-<tr><td>Bredde uten speil</td><td>1962 mm</td></tr>
-<tr><td>Akselavstand</td><td>3010 mm</td></tr>
-<tr><td>Sporbredde foran</td><td>1668 mm</td></tr>
-<tr><td>Sporbredde bak</td><td>1672 mm</td></tr>
-<tr><td>Drag-koeffisient</td><td>0,29</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lengde
+			</td>
+			<td>
+				5022 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høyde
+			</td>
+			<td>
+				1756 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bredde uten speil
+			</td>
+			<td>
+				1962 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Akselavstand
+			</td>
+			<td>
+				3010 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1668 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bak
+			</td>
+			<td>
+				1672 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Drag-koeffisient
+			</td>
+			<td>
+				0,29
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Suspensjon
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-<tr><td>Adaptiv fjæring</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Justerbar demping foran</td><td>Ja, tileggsutstyr</td></tr>
-<tr><td>Justerbar demping bak</td><td>Ja, tileggsutstyr</td></tr>
-<tr><td>Justerbar høyde foran</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Justerbar høyde bak</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Maks bakkeklaring</td><td>161</td></tr>
-<tr><td>Minimum bakkeklaring</td><td>111</td></tr>
-<tr><td>Fjæringstype foran</td><td>AirSuspension</td></tr>
-<tr><td>Fjæringskonstruksjon foran</td><td>DoubleWishbone</td></tr>
-<tr><td>Fjæringstype bak</td><td>AirSuspension</td></tr>
-<tr><td>Fjæringskonstruksjon bak</td><td>Multilink</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptiv fjæring
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar demping foran
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar demping bak
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar høyde foran
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar høyde bak
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks bakkeklaring
+			</td>
+			<td>
+				161
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum bakkeklaring
+			</td>
+			<td>
+				111
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fjæringstype foran
+			</td>
+			<td>
+				AirSuspension
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fjæringskonstruksjon foran
+			</td>
+			<td>
+				DoubleWishbone
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fjæringstype bak
+			</td>
+			<td>
+				AirSuspension
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fjæringskonstruksjon bak
+			</td>
+			<td>
+				Multilink
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Interiør
@@ -148,26 +449,138 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 #### standard
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-<tr><td>Setetype</td><td>PassengerAndDriver</td></tr>
-<tr><td>Elektrisk justering av høyde, hvile og vinkel</td><td>Standardfunksjon</td></tr>
-<tr><td>Minne førersete</td><td>Standardfunksjon</td></tr>
-<tr><td>Minne passasjersete</td><td>Standardfunksjon</td></tr>
-<tr><td>Høydejusterbar nakkestøtte</td><td>Standardfunksjon</td></tr>
-<tr><td>Lengdejusterbar hodestøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Justering av ryggstøtten</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Justering av setepute, sidestøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Fotstøttepassasjerer</td><td>Standardfunksjon</td></tr>
-<tr><td>Benstøttepassasjer</td><td>Standardfunksjon</td></tr>
-<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Seteventilasjon</td><td>Standardfunksjon</td></tr>
-<tr><td>Massasjefunksjon</td><td>Standardfunksjon</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Setetype
+			</td>
+			<td>
+				PassengerAndDriver
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk justering av høyde, hvile og vinkel
+			</td>
+			<td>
+			Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minne førersete
+			</td>
+			<td>
+			Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minne passasjersete
+			</td>
+			<td>
+			Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høydejusterbar nakkestøtte
+			</td>
+			<td>
+			Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lengdejusterbar hodestøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøtten
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setepute, sidestøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk justerbar lårstøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstøttepassasjerer
+			</td>
+			<td>
+			Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassasjer
+			</td>
+			<td>
+			Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggstøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seteventilasjon
+			</td>
+			<td>
+			Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massasjefunksjon
+			</td>
+			<td>
+			Standardfunksjon
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ### Forseter
@@ -176,54 +589,243 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 #### standard
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-<tr><td>Setetype</td><td>ThreeSeatBench</td></tr>
-<tr><td>Høydejusterbar nakkestøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Lengdejusterbar hodestøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Justering av ryggstøtten</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Justering av setepute, sidestøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
-<tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Setetype
+			</td>
+			<td>
+				ThreeSeatBench
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høydejusterbar nakkestøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lengdejusterbar hodestøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøtten
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setepute, sidestøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk justerbar lårstøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstøttepassasjerer
+			</td>
+			<td>
+			Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassasjer
+			</td>
+			<td>
+			Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggstøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seteventilasjon
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massasjefunksjon
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 #### standard
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-<tr><td>Setetype</td><td>TwoCaptainChairs</td></tr>
-<tr><td>Høydejusterbar nakkestøtte</td><td>Standardfunksjon</td></tr>
-<tr><td>Lengdejusterbar hodestøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Justering av ryggstøtten</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Justering av setepute, sidestøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Elektrisk justerbar lårstøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Fotstøttepassasjerer</td><td>Ukjent</td></tr>
-<tr><td>Benstøttepassasjer</td><td>Ukjent</td></tr>
-<tr><td>Elektrisk korsryggstøtte</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Seteventilasjon</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Massasjefunksjon</td><td>Ikke tilgjengelig</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Setetype
+			</td>
+			<td>
+				TwoCaptainChairs
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høydejusterbar nakkestøtte
+			</td>
+			<td>
+			Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lengdejusterbar hodestøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøtten
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setepute, sidestøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk justerbar lårstøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstøttepassasjerer
+			</td>
+			<td>
+			Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassasjer
+			</td>
+			<td>
+			Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggstøtte
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seteventilasjon
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massasjefunksjon
+			</td>
+			<td>
+			Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Sjåførassistanse
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
 <tr><td>Lane keeping</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
 <tr><td>Døsighetsvarsel</td><td>Ja, standardutstyr</td></tr>
@@ -249,43 +851,99 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 <tr><td>Automatisk nødstyring</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Trafikkskiltgjenkjenning</td><td>Ja, tileggsutstyr</td></tr>
 <tr><td>Nattsyn</td><td>Ikke tilgjengelig</td></tr>
-</tbody>
+	</tbody>
 </table>
 
 ## Infotainment
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
 <tr><td>Android Auto-støtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>Apple Carplay-støtte</td><td>Ikke tilgjengelig</td></tr>
 <tr><td>I bilnavigasjon</td><td>Ja, standardutstyr</td></tr>
-</tbody>
+	</tbody>
 </table>
-<tr><td>Antall tilgjengelige lydsystemer</td><td>2</td></tr>
+		<tr>
+			<td>
+				Antall tilgjengelige lydsystemer
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
 
 ### Surroundsystem
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-<tr><td>Antall høyttalere</td><td>7</td></tr>
-<tr><td>Kanaler</td><td>7</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antall høyttalere
+			</td>
+			<td>
+				7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kanaler
+			</td>
+			<td>
+				7
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ### Premium sound system
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spesifikasjon</th><th>Verdi</th></tr>
-</thead>
-<tbody>
-<tr><td>Antall høyttalere</td><td>12</td></tr>
-<tr><td>Kanaler</td><td>7</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antall høyttalere
+			</td>
+			<td>
+				12
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kanaler
+			</td>
+			<td>
+				7
+			</td>
+		</tr>
+	</tbody>
 </table>

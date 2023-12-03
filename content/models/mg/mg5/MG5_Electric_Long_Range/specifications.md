@@ -15,15 +15,50 @@ EVKX.net seeks to have the most complete specifications for MG MG5 Electric Long
 ## Performance
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Peak electrical output in kW</td><td>115 Kw</td></tr>
-<tr><td>Electrical torque output in Nm</td><td>280 Nm</td></tr>
-<tr><td>Top speed</td><td>185 km/h</td></tr>
-<tr><td>0-100km/h (0-62 mph)</td><td>8,3 s</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Peak electrical output in kW
+			</td>
+			<td>
+				115 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output in Nm
+			</td>
+			<td>
+				280 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top speed
+			</td>
+			<td>
+				185 km/h
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				8,3 s
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -32,17 +67,66 @@ EVKX.net seeks to have the most complete specifications for MG MG5 Electric Long
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Basic trim WLTP range</td><td>400 km</td></tr>
-<tr><td>Basic trim WLTP consumption</td><td>14,4 kWh/100km</td></tr>
-<tr><td>Basic trim WLTP consumption with charging loss</td><td>175 kWh/100km</td></tr>
-<tr><td>Top trim WLTP range</td><td>380 km</td></tr>
-<tr><td>Top trim WLTP consumption</td><td>15,1 kWh/100km</td></tr>
-<tr><td>Top trim WLTP consumption with charging loss</td><td>179 kwh/100km</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Basic trim WLTP range
+			</td>
+			<td>
+				400 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim WLTP consumption
+			</td>
+			<td>
+				14,4 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim WLTP consumption with charging loss
+			</td>
+			<td>
+				175 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top trim WLTP range
+			</td>
+			<td>
+				380 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top trim WLTP consumption
+			</td>
+			<td>
+				15,1 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top trim WLTP consumption with charging loss
+			</td>
+			<td>
+				179 kwh/100km
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -50,15 +134,50 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 ## Battery & Charging
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Battery gross</td><td>61,1 kWh</td></tr>
-<tr><td>Battery net</td><td>57,4 kWh</td></tr>
-<tr><td>Max DC charging</td><td>87 kW</td></tr>
-<tr><td>Cathode Materials</td><td>NMC</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Battery gross
+			</td>
+			<td>
+				61,1 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Battery net
+			</td>
+			<td>
+				57,4 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max DC charging
+			</td>
+			<td>
+				87 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cathode Materials
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -66,51 +185,163 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 ## Dimensions
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-	<tr>
-		<td>
-			Length
-		</td>
-		<td>
-			4600 mm (181,1")
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Height
-		</td>
-		<td>
-			1543 mm (60,7")
-		</td>
-	</tr>
-<tr><td>Width excluding mirrors</td><td>1818 mm</td></tr>
-<tr><td>Widht including mirrors</td><td>2059 mm</td></tr>
-<tr><td>Wheelbase</td><td>2659 mm</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Length
+			</td>
+			<td>
+				4600 mm (181,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height
+			</td>
+			<td>
+				1543 mm (60,7")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Width excluding mirrors
+			</td>
+			<td>
+				1818 mm (71,6")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Width including mirrors
+			</td>
+			<td>
+				2059 mm (81,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wheelbase
+			</td>
+			<td>
+				2659 mm (104,7")
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Suspension
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Adaptive suspension</td><td>Not available</td></tr>
-<tr><td>Adjustable damping front</td><td>Not available</td></tr>
-<tr><td>Adjustable damping rear</td><td>Not available</td></tr>
-<tr><td>Adjustable height front</td><td>Not available</td></tr>
-<tr><td>Adjustable height rear</td><td>Not available</td></tr>
-<tr><td>Max ground clearance</td><td>115</td></tr>
-<tr><td>Minimum ground clearance</td><td>115</td></tr>
-<tr><td>Suspension type front</td><td>SteelSpringsWithOilDampers</td></tr>
-<tr><td>Suspension construction front</td><td>MacPhersonStrut</td></tr>
-<tr><td>Suspension type rear</td><td>SteelSpringsWithOilDampers</td></tr>
-<tr><td>Suspension construction rear</td><td>Multilink</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptive suspension
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping front
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping rear
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height front
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height rear
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max ground clearance
+			</td>
+			<td>
+				115
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum ground clearance
+			</td>
+			<td>
+				115
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type front
+			</td>
+			<td>
+				SteelSpringsWithOilDampers
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension construction front
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type rear
+			</td>
+			<td>
+				SteelSpringsWithOilDampers
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension construction rear
+			</td>
+			<td>
+				Multilink
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Interior
@@ -122,26 +353,138 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 #### standard
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Seat type</td><td>PassengerAndDriver</td></tr>
-<tr><td>Electric adjustment of height, recline and angle</td><td>Standard feature</td></tr>
-<tr><td>Memory driver seat</td><td>Not Available</td></tr>
-<tr><td>Memory passenger seat</td><td>Not Available</td></tr>
-<tr><td>Height adjustable headrest</td><td>Unknown</td></tr>
-<tr><td>Length adjustable headrest</td><td>Unknown</td></tr>
-<tr><td>Adjustable thigh support</td><td>Not Available</td></tr>
-<tr><td>Backrest side bolster adjustment</td><td>Not Available</td></tr>
-<tr><td>Seat cushion side bolster adjustement</td><td>Not Available</td></tr>
-<tr><td>Electric adjustable thigh support</td><td>Not Available</td></tr>
-<tr><td>Footrest passengers</td><td>Not Available</td></tr>
-<tr><td>Leg support passenger</td><td>Not Available</td></tr>
-<tr><td>Electric lumbar adjustment</td><td>Unknown</td></tr>
-<tr><td>Seat ventilation</td><td>Not Available</td></tr>
-<tr><td>Massage function</td><td>Not Available</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Seat type
+			</td>
+			<td>
+				PassengerAndDriver
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric adjustment of height, recline and angle
+			</td>
+			<td>
+			Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory driver seat
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory passenger seat
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height adjustable headrest
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Length adjustable headrest
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable thigh support
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest side bolster adjustment
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion side bolster adjustement
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric adjustable thigh support
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Footrest passengers
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Leg support passenger
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric lumbar adjustment
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat ventilation
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massage function
+			</td>
+			<td>
+			Not Available
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ### Front seats
@@ -150,32 +493,130 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 #### standard
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
-<tr><td>Seat type</td><td>ThreeSeatBench</td></tr>
-<tr><td>Height adjustable headrest</td><td>Unknown</td></tr>
-<tr><td>Length adjustable headrest</td><td>Unknown</td></tr>
-<tr><td>Adjustable thigh support</td><td>Unknown</td></tr>
-<tr><td>Backrest side bolster adjustment</td><td>Unknown</td></tr>
-<tr><td>Seat cushion side bolster adjustement</td><td>Unknown</td></tr>
-<tr><td>Electric adjustable thigh support</td><td>Unknown</td></tr>
-<tr><td>Footrest passengers</td><td>Unknown</td></tr>
-<tr><td>Leg support passenger</td><td>Unknown</td></tr>
-<tr><td>Electric lumbar adjustment</td><td>Unknown</td></tr>
-<tr><td>Seat ventilation</td><td>Unknown</td></tr>
-<tr><td>Massage function</td><td>Unknown</td></tr>
-</tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Seat type
+			</td>
+			<td>
+				ThreeSeatBench
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height adjustable headrest
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Length adjustable headrest
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable thigh support
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest side bolster adjustment
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion side bolster adjustement
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric adjustable thigh support
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Footrest passengers
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Leg support passenger
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric lumbar adjustment
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat ventilation
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massage function
+			</td>
+			<td>
+			Unknown
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 ## Driver Assistance
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
 <tr><td>Lane keeping</td><td>Yes, standard equipment</td></tr>
 <tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
 <tr><td>Drowsiness Alert</td><td></td></tr>
@@ -201,18 +642,25 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 <tr><td>Automatic Emergency Steering</td><td></td></tr>
 <tr><td>Traffic Sign Recognition</td><td></td></tr>
 <tr><td>Night Vision</td><td>Not available</td></tr>
-</tbody>
+	</tbody>
 </table>
 
 ## Infotainment
 
 <table class="table table-striped">
-<thead>
-<tr><th>Spec</th><th>Value</th></tr>
-</thead>
-<tbody>
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
 <tr><td>Android Auto support</td><td>Yes, standard equipment</td></tr>
 <tr><td>Apple Carplay support</td><td>Yes, standard equipment</td></tr>
 <tr><td>In Car navigation</td><td>Yes, standard equipment</td></tr>
-</tbody>
+	</tbody>
 </table>
