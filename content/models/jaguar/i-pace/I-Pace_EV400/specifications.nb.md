@@ -311,6 +311,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Størrelse frunk
+			</td>
+			<td>
+				27 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>

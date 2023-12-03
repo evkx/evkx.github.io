@@ -341,6 +341,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				627 liter
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Størrelse frunk
+			</td>
+			<td>
+				283 liter
+			</td>
+		</tr>
 	</tbody>
 </table>
 

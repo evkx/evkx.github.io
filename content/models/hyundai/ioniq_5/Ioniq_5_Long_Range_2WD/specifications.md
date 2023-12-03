@@ -335,6 +335,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Size frunk
+			</td>
+			<td>
+				57 liter (2 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Max trailer weight braked
 			</td>
 			<td>

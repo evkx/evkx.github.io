@@ -381,6 +381,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				366 liter (13 cu-ft)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Size frunk
+			</td>
+			<td>
+				84 liter (3 cu-ft)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
