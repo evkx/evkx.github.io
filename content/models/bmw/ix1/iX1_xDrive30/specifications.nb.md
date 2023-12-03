@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW iX1 xDrive30. K
 				Maks effekt i kW
 			</td>
 			<td>
-				230 Kw
+				230 KW (313 hk)
 			</td>
 		</tr>
 		<tr>

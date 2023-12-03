@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for GMC Hummer EV Editi
 				Maks effekt i kW
 			</td>
 			<td>
-				746 Kw
+				746 KW (1014 hk)
 			</td>
 		</tr>
 		<tr>

@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Rolls-Royce Spectre.
 				Peak electrical output in kW
 			</td>
 			<td>
-				430 Kw
+				430 KW (585 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				900 nm (664 ft-lb)

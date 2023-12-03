@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 001 FR. Klikk
 				Maks effekt i kW
 			</td>
 			<td>
-				930 Kw
+				930 KW (1264 hk)
 			</td>
 		</tr>
 		<tr>

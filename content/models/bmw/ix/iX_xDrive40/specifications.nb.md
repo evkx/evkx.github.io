@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW iX xDrive40. Kl
 				Maks effekt i kW
 			</td>
 			<td>
-				240 Kw
+				240 KW (326 hk)
 			</td>
 		</tr>
 		<tr>

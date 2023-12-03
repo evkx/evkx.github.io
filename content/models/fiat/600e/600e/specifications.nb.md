@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Fiat 600e. Klikk p�
 				Maks effekt i kW
 			</td>
 			<td>
-				115 Kw
+				115 KW (156 hk)
 			</td>
 		</tr>
 		<tr>

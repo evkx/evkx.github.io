@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Ioniq 5 N. 
 				Maks effekt i kW
 			</td>
 			<td>
-				448 Kw
+				448 KW (609 hk)
 			</td>
 		</tr>
 		<tr>

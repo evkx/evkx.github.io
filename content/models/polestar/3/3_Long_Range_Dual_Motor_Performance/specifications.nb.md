@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 3 Long Ran
 				Maks effekt i kW
 			</td>
 			<td>
-				380 Kw
+				380 KW (517 hk)
 			</td>
 		</tr>
 		<tr>

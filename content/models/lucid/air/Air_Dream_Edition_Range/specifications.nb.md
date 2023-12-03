@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Dream Edi
 				Maks effekt i kW
 			</td>
 			<td>
-				696 Kw
+				696 KW (946 hk)
 			</td>
 		</tr>
 		<tr>

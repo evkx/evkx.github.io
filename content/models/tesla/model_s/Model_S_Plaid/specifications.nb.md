@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model S Plaid
 				Maks effekt i kW
 			</td>
 			<td>
-				760 Kw
+				760 KW (1033 hk)
 			</td>
 		</tr>
 		<tr>

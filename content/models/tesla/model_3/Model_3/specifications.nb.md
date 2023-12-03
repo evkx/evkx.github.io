@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model 3. Klik
 				Maks effekt i kW
 			</td>
 			<td>
-				208 Kw
+				208 KW (283 hk)
 			</td>
 		</tr>
 		<tr>

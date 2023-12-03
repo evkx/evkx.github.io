@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG4 Electric Ext
 				Maks effekt i kW
 			</td>
 			<td>
-				150 Kw
+				150 KW (204 hk)
 			</td>
 		</tr>
 		<tr>

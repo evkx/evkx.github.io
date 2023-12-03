@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr X Privilege A
 				Maks effekt i kW
 			</td>
 			<td>
-				315 Kw
+				315 KW (428 hk)
 			</td>
 		</tr>
 		<tr>

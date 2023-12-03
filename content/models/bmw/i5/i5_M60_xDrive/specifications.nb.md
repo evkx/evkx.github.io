@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 M60 xDrive. 
 				Maks effekt i kW
 			</td>
 			<td>
-				442 Kw
+				442 KW (601 hk)
 			</td>
 		</tr>
 		<tr>

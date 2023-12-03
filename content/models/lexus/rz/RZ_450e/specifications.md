@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Lexus RZ 450e. Click
 				Peak electrical output in kW
 			</td>
 			<td>
-				230 Kw
+				230 KW (313 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				435 nm (321 ft-lb)

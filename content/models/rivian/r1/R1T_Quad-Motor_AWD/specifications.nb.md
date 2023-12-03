@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1T Quad-Mot
 				Maks effekt i kW
 			</td>
 			<td>
-				620 Kw
+				620 KW (843 hk)
 			</td>
 		</tr>
 		<tr>

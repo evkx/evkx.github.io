@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for CUPRA Tavascan VZ. 
 				Maks effekt i kW
 			</td>
 			<td>
-				250 Kw
+				250 KW (340 hk)
 			</td>
 		</tr>
 		<tr>

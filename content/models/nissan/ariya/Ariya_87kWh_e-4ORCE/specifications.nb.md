@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nissan Ariya 87kWh 
 				Maks effekt i kW
 			</td>
 			<td>
-				225 Kw
+				225 KW (306 hk)
 			</td>
 		</tr>
 		<tr>

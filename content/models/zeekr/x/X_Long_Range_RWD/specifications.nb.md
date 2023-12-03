@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr X Long Range 
 				Maks effekt i kW
 			</td>
 			<td>
-				200 Kw
+				200 KW (272 hk)
 			</td>
 		</tr>
 		<tr>

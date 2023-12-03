@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 55 e-tron qu
 				Peak electrical output in kW
 			</td>
 			<td>
-				210 Kw
+				210 KW (286 hp)
 			</td>
 		</tr>
 		<tr>
@@ -44,7 +44,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 55 e-tron qu
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				679 nm (501 ft-lb)
@@ -52,7 +52,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 55 e-tron qu
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output boost in Nm
+				Electrical torque output boost
 			</td>
 			<td>
 				679 Nm

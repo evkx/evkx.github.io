@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hongqi E-HS9 Exclus
 				Maks effekt i kW
 			</td>
 			<td>
-				405 Kw
+				405 KW (551 hk)
 			</td>
 		</tr>
 		<tr>

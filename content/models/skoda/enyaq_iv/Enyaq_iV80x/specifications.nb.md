@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for SKODA Enyaq iV80x. 
 				Maks effekt i kW
 			</td>
 			<td>
-				195 Kw
+				195 KW (265 hk)
 			</td>
 		</tr>
 		<tr>

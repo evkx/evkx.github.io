@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Nio ET7. Click on im
 				Peak electrical output in kW
 			</td>
 			<td>
-				360 Kw
+				360 KW (489 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				700 nm (517 ft-lb)

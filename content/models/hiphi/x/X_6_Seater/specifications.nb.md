@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi X 6 Seater. K
 				Maks effekt i kW
 			</td>
 			<td>
-				433 Kw
+				433 KW (589 hk)
 			</td>
 		</tr>
 		<tr>

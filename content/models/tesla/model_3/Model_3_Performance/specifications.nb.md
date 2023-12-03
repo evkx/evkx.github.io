@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model 3 Perfo
 				Maks effekt i kW
 			</td>
 			<td>
-				393 Kw
+				393 KW (534 hk)
 			</td>
 		</tr>
 		<tr>

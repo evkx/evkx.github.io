@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Peugot E-3008 Long R
 				Peak electrical output in kW
 			</td>
 			<td>
-				170 Kw
+				170 KW (231 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				343 nm (253 ft-lb)

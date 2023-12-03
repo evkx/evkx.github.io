@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 40 e-tron. 
 				Maks effekt i kW
 			</td>
 			<td>
-				160 Kw
+				160 KW (218 hk)
 			</td>
 		</tr>
 		<tr>

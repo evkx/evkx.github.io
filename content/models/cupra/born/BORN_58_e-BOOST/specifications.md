@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for CUPRA BORN 58 e-BOOS
 				Peak electrical output in kW
 			</td>
 			<td>
-				150 Kw
+				150 KW (204 hp)
 			</td>
 		</tr>
 		<tr>
@@ -44,7 +44,7 @@ EVKX.net seeks to have the most complete specifications for CUPRA BORN 58 e-BOOS
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				310 nm (229 ft-lb)
@@ -52,7 +52,7 @@ EVKX.net seeks to have the most complete specifications for CUPRA BORN 58 e-BOOS
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output boost in Nm
+				Electrical torque output boost
 			</td>
 			<td>
 				310 Nm

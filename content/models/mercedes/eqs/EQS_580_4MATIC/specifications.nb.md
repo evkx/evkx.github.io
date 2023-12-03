@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQS 580
 				Maks effekt i kW
 			</td>
 			<td>
-				385 Kw
+				385 KW (523 hk)
 			</td>
 		</tr>
 		<tr>

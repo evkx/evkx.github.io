@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 001 Privilege
 				Maks effekt i kW
 			</td>
 			<td>
-				400 Kw
+				400 KW (544 hk)
 			</td>
 		</tr>
 		<tr>

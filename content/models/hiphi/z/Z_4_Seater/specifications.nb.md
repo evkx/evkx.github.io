@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi Z 4 Seater. K
 				Maks effekt i kW
 			</td>
 			<td>
-				494 Kw
+				494 KW (672 hk)
 			</td>
 		</tr>
 		<tr>

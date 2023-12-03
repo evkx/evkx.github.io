@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQE 300
 				Maks effekt i kW
 			</td>
 			<td>
-				180 Kw
+				180 KW (245 hk)
 			</td>
 		</tr>
 		<tr>

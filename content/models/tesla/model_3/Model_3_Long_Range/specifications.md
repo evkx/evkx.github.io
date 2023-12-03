@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Long R
 				Peak electrical output in kW
 			</td>
 			<td>
-				324 Kw
+				324 KW (441 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				493 nm (364 ft-lb)

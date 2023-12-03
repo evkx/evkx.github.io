@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Tesla Model X Standa
 				Peak electrical output in kW
 			</td>
 			<td>
-				381 Kw
+				381 KW (518 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				700 nm (517 ft-lb)

@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Dolphin 60.4kWh
 				Maks effekt i kW
 			</td>
 			<td>
-				150 Kw
+				150 KW (204 hk)
 			</td>
 		</tr>
 		<tr>

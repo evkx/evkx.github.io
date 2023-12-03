@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for HiPhi Z 4 Seater. Cl
 				Peak electrical output in kW
 			</td>
 			<td>
-				494 Kw
+				494 KW (672 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				820 nm (605 ft-lb)

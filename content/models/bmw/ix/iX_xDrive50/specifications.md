@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for BMW iX xDrive50. Cli
 				Peak electrical output in kW
 			</td>
 			<td>
-				385 Kw
+				385 KW (523 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				765 nm (565 ft-lb)

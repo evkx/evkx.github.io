@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Cybertruck Cy
 				Maks effekt i kW
 			</td>
 			<td>
-				630 Kw
+				630 KW (857 hk)
 			</td>
 		</tr>
 		<tr>

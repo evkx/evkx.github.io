@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Mercedes-Maybach EQS
 				Peak electrical output in kW
 			</td>
 			<td>
-				484 Kw
+				484 KW (658 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				950 nm (701 ft-lb)

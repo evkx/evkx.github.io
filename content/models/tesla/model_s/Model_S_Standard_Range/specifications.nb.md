@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model S Stand
 				Maks effekt i kW
 			</td>
 			<td>
-				381 Kw
+				381 KW (518 hk)
 			</td>
 		</tr>
 		<tr>

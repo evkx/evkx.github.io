@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for CUPRA Tavascan Endu
 				Maks effekt i kW
 			</td>
 			<td>
-				210 Kw
+				210 KW (286 hk)
 			</td>
 		</tr>
 		<tr>

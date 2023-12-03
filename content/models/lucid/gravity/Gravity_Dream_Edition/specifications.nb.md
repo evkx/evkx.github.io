@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Gravity Dream
 				Maks effekt i kW
 			</td>
 			<td>
-				600 Kw
+				600 KW (816 hk)
 			</td>
 		</tr>
 		<tr>

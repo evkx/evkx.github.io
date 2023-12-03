@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.3 Pro 
 				Peak electrical output in kW
 			</td>
 			<td>
-				150 Kw
+				150 KW (204 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				310 nm (229 ft-lb)

@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi RS e-tron GT. 
 				Maks effekt i kW
 			</td>
 			<td>
-				440 Kw
+				440 KW (598 hk)
 			</td>
 		</tr>
 		<tr>

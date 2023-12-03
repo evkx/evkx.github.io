@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.4 Pro
 				Maks effekt i kW
 			</td>
 			<td>
-				128 Kw
+				128 KW (174 hk)
 			</td>
 		</tr>
 		<tr>

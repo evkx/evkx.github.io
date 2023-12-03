@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQS 53 
 				Peak electrical output in kW
 			</td>
 			<td>
-				484 Kw
+				484 KW (658 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				858 nm (633 ft-lb)
@@ -79,12 +79,12 @@ EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQS 53 
 				Peak electrical output in kW
 			</td>
 			<td>
-				560 Kw
+				560 KW (761 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				1020 nm (753 ft-lb)

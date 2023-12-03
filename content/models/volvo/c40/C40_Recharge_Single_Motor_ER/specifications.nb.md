@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo C40 Recharge 
 				Maks effekt i kW
 			</td>
 			<td>
-				185 Kw
+				185 KW (252 hk)
 			</td>
 		</tr>
 		<tr>

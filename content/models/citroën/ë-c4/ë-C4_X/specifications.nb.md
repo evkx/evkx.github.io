@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Citroën ë-C4 X. K
 				Maks effekt i kW
 			</td>
 			<td>
-				115 Kw
+				115 KW (156 hk)
 			</td>
 		</tr>
 		<tr>

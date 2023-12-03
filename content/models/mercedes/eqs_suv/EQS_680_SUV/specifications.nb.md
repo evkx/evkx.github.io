@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-Maybach EQ
 				Maks effekt i kW
 			</td>
 			<td>
-				484 Kw
+				484 KW (658 hk)
 			</td>
 		</tr>
 		<tr>

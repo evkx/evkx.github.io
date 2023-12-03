@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 Standard Ra
 				Maks effekt i kW
 			</td>
 			<td>
-				173 Kw
+				173 KW (235 hk)
 			</td>
 		</tr>
 		<tr>

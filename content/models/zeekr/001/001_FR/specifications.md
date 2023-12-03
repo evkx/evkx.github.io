@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 FR. Click 
 				Peak electrical output in kW
 			</td>
 			<td>
-				930 Kw
+				930 KW (1264 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				1200 nm (886 ft-lb)

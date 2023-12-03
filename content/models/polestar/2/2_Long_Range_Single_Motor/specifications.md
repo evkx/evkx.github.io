@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Polestar 2 Long Rang
 				Peak electrical output in kW
 			</td>
 			<td>
-				220 Kw
+				220 KW (299 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				490 nm (362 ft-lb)

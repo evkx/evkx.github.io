@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lotus Eletre. Klikk
 				Maks effekt i kW
 			</td>
 			<td>
-				450 Kw
+				450 KW (612 hk)
 			</td>
 		</tr>
 		<tr>

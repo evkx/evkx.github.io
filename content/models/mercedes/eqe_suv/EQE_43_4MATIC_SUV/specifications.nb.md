@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQE 43
 				Maks effekt i kW
 			</td>
 			<td>
-				350 Kw
+				350 KW (476 hk)
 			</td>
 		</tr>
 		<tr>

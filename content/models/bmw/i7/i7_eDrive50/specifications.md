@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for BMW i7 eDrive50. Cli
 				Peak electrical output in kW
 			</td>
 			<td>
-				335 Kw
+				335 KW (455 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				650 nm (480 ft-lb)

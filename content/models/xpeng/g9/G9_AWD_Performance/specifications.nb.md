@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G9 AWD Perfor
 				Maks effekt i kW
 			</td>
 			<td>
-				405 Kw
+				405 KW (551 hk)
 			</td>
 		</tr>
 		<tr>

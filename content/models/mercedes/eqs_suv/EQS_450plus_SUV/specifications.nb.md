@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQS 450
 				Maks effekt i kW
 			</td>
 			<td>
-				265 Kw
+				265 KW (360 hk)
 			</td>
 		</tr>
 		<tr>

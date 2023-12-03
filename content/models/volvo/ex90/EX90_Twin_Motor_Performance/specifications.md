@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Volvo EX90 Twin Moto
 				Peak electrical output in kW
 			</td>
 			<td>
-				380 Kw
+				380 KW (517 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				910 nm (672 ft-lb)

@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Volvo C40 Recharge S
 				Peak electrical output in kW
 			</td>
 			<td>
-				185 Kw
+				185 KW (252 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				420 nm (310 ft-lb)

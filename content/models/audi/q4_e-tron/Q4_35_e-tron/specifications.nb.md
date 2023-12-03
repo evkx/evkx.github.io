@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 35 e-tron. 
 				Maks effekt i kW
 			</td>
 			<td>
-				125 Kw
+				125 KW (170 hk)
 			</td>
 		</tr>
 		<tr>

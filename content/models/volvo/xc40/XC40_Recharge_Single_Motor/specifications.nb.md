@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo XC40 Recharge
 				Maks effekt i kW
 			</td>
 			<td>
-				175 Kw
+				175 KW (238 hk)
 			</td>
 		</tr>
 		<tr>

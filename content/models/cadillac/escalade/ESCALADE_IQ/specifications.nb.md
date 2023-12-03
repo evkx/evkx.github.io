@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac ESCALADE I
 				Maks effekt i kW
 			</td>
 			<td>
-				560 Kw
+				560 KW (761 hk)
 			</td>
 		</tr>
 		<tr>

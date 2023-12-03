@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for MG MG5 Electric Long
 				Peak electrical output in kW
 			</td>
 			<td>
-				115 Kw
+				115 KW (156 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				280 nm (207 ft-lb)

@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model Y Long 
 				Maks effekt i kW
 			</td>
 			<td>
-				324 Kw
+				324 KW (441 hk)
 			</td>
 		</tr>
 		<tr>

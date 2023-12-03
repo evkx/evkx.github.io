@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 40 e-tron. C
 				Peak electrical output in kW
 			</td>
 			<td>
-				160 Kw
+				160 KW (218 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				310 nm (229 ft-lb)

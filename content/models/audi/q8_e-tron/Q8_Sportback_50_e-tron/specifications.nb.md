@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q8 Sportback 5
 				Maks effekt i kW
 			</td>
 			<td>
-				230 Kw
+				230 KW (313 hk)
 			</td>
 		</tr>
 		<tr>

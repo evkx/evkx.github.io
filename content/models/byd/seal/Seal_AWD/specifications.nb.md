@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Seal AWD. Klikk
 				Maks effekt i kW
 			</td>
 			<td>
-				390 Kw
+				390 KW (530 hk)
 			</td>
 		</tr>
 		<tr>

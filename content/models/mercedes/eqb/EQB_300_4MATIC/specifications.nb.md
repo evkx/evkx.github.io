@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQB 300
 				Maks effekt i kW
 			</td>
 			<td>
-				168 Kw
+				168 KW (228 hk)
 			</td>
 		</tr>
 		<tr>

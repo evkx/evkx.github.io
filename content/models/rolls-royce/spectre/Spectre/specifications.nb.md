@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rolls-Royce Spectre
 				Maks effekt i kW
 			</td>
 			<td>
-				430 Kw
+				430 KW (585 hk)
 			</td>
 		</tr>
 		<tr>

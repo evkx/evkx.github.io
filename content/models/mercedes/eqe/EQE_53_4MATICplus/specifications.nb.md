@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQE 53
 				Maks effekt i kW
 			</td>
 			<td>
-				460 Kw
+				460 KW (625 hk)
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQE 53
 				Maks effekt i kW
 			</td>
 			<td>
-				505 Kw
+				505 KW (687 hk)
 			</td>
 		</tr>
 		<tr>

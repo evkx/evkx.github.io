@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nio ET7. Klikk på 
 				Maks effekt i kW
 			</td>
 			<td>
-				360 Kw
+				360 KW (489 hk)
 			</td>
 		</tr>
 		<tr>

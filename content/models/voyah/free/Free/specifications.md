@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for VOYAH FREE. Click on
 				Peak electrical output in kW
 			</td>
 			<td>
-				360 Kw
+				360 KW (489 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				720 nm (531 ft-lb)

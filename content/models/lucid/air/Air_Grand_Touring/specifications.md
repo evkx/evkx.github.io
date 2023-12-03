@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Grand Tour
 				Peak electrical output in kW
 			</td>
 			<td>
-				597 Kw
+				597 KW (812 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				1200 nm (886 ft-lb)

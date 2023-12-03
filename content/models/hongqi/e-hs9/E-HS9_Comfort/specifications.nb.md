@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hongqi E-HS9 Comfor
 				Maks effekt i kW
 			</td>
 			<td>
-				320 Kw
+				320 KW (435 hk)
 			</td>
 		</tr>
 		<tr>

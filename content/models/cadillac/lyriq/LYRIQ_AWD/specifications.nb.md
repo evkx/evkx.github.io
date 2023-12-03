@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac LYRIQ AWD.
 				Maks effekt i kW
 			</td>
 			<td>
-				373 Kw
+				373 KW (507 hk)
 			</td>
 		</tr>
 		<tr>

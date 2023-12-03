@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Fisker Ocean Extreme
 				Peak electrical output in kW
 			</td>
 			<td>
-				344 Kw
+				344 KW (468 hp)
 			</td>
 		</tr>
 		<tr>
@@ -44,7 +44,7 @@ EVKX.net seeks to have the most complete specifications for Fisker Ocean Extreme
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				696 nm (514 ft-lb)
@@ -52,7 +52,7 @@ EVKX.net seeks to have the most complete specifications for Fisker Ocean Extreme
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output boost in Nm
+				Electrical torque output boost
 			</td>
 			<td>
 				737 Nm

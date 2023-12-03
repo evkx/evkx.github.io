@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for XPENG G9 RWD Long Ra
 				Peak electrical output in kW
 			</td>
 			<td>
-				230 Kw
+				230 KW (313 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				430 nm (317 ft-lb)

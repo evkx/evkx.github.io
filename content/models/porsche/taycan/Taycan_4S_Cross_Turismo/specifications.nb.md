@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan 4S C
 				Maks effekt i kW
 			</td>
 			<td>
-				360 Kw
+				360 KW (489 hk)
 			</td>
 		</tr>
 		<tr>

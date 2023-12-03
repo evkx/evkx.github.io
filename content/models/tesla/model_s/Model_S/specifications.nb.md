@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model S. Klik
 				Maks effekt i kW
 			</td>
 			<td>
-				493 Kw
+				493 KW (670 hk)
 			</td>
 		</tr>
 		<tr>

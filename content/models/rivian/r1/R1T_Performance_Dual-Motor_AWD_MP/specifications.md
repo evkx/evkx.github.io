@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Rivian R1T Performan
 				Peak electrical output in kW
 			</td>
 			<td>
-				495 Kw
+				495 KW (673 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				1124 nm (830 ft-lb)

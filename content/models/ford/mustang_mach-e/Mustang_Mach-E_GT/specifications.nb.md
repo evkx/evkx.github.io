@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Ford Mustang Mach-E
 				Maks effekt i kW
 			</td>
 			<td>
-				358 Kw
+				358 KW (487 hk)
 			</td>
 		</tr>
 		<tr>

@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3. Click
 				Peak electrical output in kW
 			</td>
 			<td>
-				208 Kw
+				208 KW (283 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				420 nm (310 ft-lb)

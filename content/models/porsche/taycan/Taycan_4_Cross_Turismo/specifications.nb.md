@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan 4 Cr
 				Maks effekt i kW
 			</td>
 			<td>
-				280 Kw
+				280 KW (381 hk)
 			</td>
 		</tr>
 		<tr>

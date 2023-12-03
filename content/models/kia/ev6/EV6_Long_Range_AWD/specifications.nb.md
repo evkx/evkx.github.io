@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 Long Range 
 				Maks effekt i kW
 			</td>
 			<td>
-				239 Kw
+				239 KW (325 hk)
 			</td>
 		</tr>
 		<tr>

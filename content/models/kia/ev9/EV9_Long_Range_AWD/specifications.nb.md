@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV9 Long Range 
 				Maks effekt i kW
 			</td>
 			<td>
-				283 Kw
+				283 KW (385 hk)
 			</td>
 		</tr>
 		<tr>

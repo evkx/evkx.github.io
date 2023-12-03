@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i7 eDrive50. Kl
 				Maks effekt i kW
 			</td>
 			<td>
-				335 Kw
+				335 KW (455 hk)
 			</td>
 		</tr>
 		<tr>

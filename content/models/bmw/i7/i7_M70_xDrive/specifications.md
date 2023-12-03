@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for BMW i7 M70 xDrive. C
 				Peak electrical output in kW
 			</td>
 			<td>
-				485 Kw
+				485 KW (659 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				1015 nm (749 ft-lb)

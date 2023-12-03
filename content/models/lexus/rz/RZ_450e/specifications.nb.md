@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lexus RZ 450e. Klik
 				Maks effekt i kW
 			</td>
 			<td>
-				230 Kw
+				230 KW (313 hk)
 			</td>
 		</tr>
 		<tr>

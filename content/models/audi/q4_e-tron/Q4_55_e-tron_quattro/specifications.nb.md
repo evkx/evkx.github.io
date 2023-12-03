@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 55 e-tron q
 				Maks effekt i kW
 			</td>
 			<td>
-				210 Kw
+				210 KW (286 hk)
 			</td>
 		</tr>
 		<tr>

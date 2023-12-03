@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1T Performa
 				Maks effekt i kW
 			</td>
 			<td>
-				495 Kw
+				495 KW (673 hk)
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW iX xDrive50. Kl
 				Maks effekt i kW
 			</td>
 			<td>
-				385 Kw
+				385 KW (523 hk)
 			</td>
 		</tr>
 		<tr>

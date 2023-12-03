@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EX90 Twin Mot
 				Maks effekt i kW
 			</td>
 			<td>
-				300 Kw
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>

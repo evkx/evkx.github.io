@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW iX M60. Klikk p
 				Maks effekt i kW
 			</td>
 			<td>
-				455 Kw
+				455 KW (619 hk)
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nio ET5 Touring. Kl
 				Maks effekt i kW
 			</td>
 			<td>
-				480 Kw
+				480 KW (653 hk)
 			</td>
 		</tr>
 		<tr>

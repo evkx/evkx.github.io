@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQB 350
 				Maks effekt i kW
 			</td>
 			<td>
-				215 Kw
+				215 KW (292 hk)
 			</td>
 		</tr>
 		<tr>

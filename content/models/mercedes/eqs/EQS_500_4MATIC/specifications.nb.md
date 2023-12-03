@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQS 500
 				Maks effekt i kW
 			</td>
 			<td>
-				330 Kw
+				330 KW (449 hk)
 			</td>
 		</tr>
 		<tr>

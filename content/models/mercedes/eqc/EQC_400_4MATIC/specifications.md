@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQC 400 
 				Peak electrical output in kW
 			</td>
 			<td>
-				300 Kw
+				300 KW (408 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				760 nm (561 ft-lb)

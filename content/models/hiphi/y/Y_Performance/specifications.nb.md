@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi Y Performance
 				Maks effekt i kW
 			</td>
 			<td>
-				371 Kw
+				371 KW (504 hk)
 			</td>
 		</tr>
 		<tr>

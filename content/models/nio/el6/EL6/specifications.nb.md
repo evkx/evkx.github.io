@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nio EL6. Klikk på 
 				Maks effekt i kW
 			</td>
 			<td>
-				480 Kw
+				480 KW (653 hk)
 			</td>
 		</tr>
 		<tr>

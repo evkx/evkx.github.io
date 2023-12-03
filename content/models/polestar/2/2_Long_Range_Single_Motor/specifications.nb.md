@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 2 Long Ran
 				Maks effekt i kW
 			</td>
 			<td>
-				220 Kw
+				220 KW (299 hk)
 			</td>
 		</tr>
 		<tr>

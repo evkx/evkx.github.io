@@ -29,7 +29,7 @@ We have separated our Mercedes-EQ EQS 580 4MATIC article into sections. If you w
 
 ## Performance
 
-The Mercedes-EQ EQS 580 4MATIC has a maximum power of 385 KW (523 hp/516 bhp). The total torque is 858 nm (633 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,3 seconds. The top speed is 210 km/h.
+The Mercedes-EQ EQS 580 4MATIC has a maximum power of 385 KW (524 hp/516 bhp). The total torque is 858 nm (633 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,3 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 

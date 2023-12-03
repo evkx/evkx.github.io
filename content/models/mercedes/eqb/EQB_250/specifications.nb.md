@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQB 250
 				Maks effekt i kW
 			</td>
 			<td>
-				140 Kw
+				140 KW (190 hk)
 			</td>
 		</tr>
 		<tr>

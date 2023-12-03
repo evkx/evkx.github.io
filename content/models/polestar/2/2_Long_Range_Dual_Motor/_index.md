@@ -29,7 +29,7 @@ We have separated our Polestar 2 Long Range Dual Motor article into sections. If
 
 ## Performance
 
-The Polestar 2 Long Range Dual Motor has a maximum power of 310 KW (421 hp/416 bhp). The total torque is 740 nm (546 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 205 km/h.
+The Polestar 2 Long Range Dual Motor has a maximum power of 310 KW (422 hp/416 bhp). The total torque is 740 nm (546 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 205 km/h.
 
 ## Battery, range, and charging
 

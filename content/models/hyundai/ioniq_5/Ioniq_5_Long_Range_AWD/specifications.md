@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 Long
 				Peak electrical output in kW
 			</td>
 			<td>
-				239 Kw
+				239 KW (325 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				605 nm (446 ft-lb)

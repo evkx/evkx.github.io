@@ -31,12 +31,12 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 Sportback 35
 				Peak electrical output in kW
 			</td>
 			<td>
-				125 Kw
+				125 KW (170 hp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output in Nm
+				Electrical torque output
 			</td>
 			<td>
 				310 nm (229 ft-lb)

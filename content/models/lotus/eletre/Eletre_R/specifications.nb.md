@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lotus Eletre R. Kli
 				Maks effekt i kW
 			</td>
 			<td>
-				675 Kw
+				675 KW (918 hk)
 			</td>
 		</tr>
 		<tr>
