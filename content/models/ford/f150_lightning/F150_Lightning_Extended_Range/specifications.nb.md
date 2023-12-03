@@ -293,6 +293,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				399 liter
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Bed volume
+			</td>
+			<td>
+				1495 liter
+			</td>
+		</tr>
 	</tbody>
 </table>
 

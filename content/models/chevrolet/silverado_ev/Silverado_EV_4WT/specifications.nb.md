@@ -287,6 +287,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Bed volume
+			</td>
+			<td>
+				1039 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>

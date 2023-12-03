@@ -293,6 +293,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				399 liter (14 cu-ft)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Bed volume
+			</td>
+			<td>
+				1495 liter (53 cu-ft)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
