@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Cybertruck Cyb
 				Top speed
 			</td>
 			<td>
-				210 kph (131 mph)
+				209 kph (130 mph)
 			</td>
 		</tr>
 		<tr>
