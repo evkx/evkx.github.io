@@ -277,6 +277,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				3100 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Maks nyttelast inkludert vekt fører
+			</td>
+			<td>
+				460 kg
+			</td>
+		</tr>
 	</tbody>
 </table>
 

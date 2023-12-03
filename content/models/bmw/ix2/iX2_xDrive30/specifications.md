@@ -301,6 +301,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				2605 kg (5743 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Maximum load including weight driver
+			</td>
+			<td>
+				585 kg (1290 lbs)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
