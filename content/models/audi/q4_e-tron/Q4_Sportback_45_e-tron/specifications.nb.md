@@ -351,10 +351,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WeightAndTransport.RoofLoad
+				Maks taklast
 			</td>
 			<td>
 				75 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Størrelse bagasjerom
+			</td>
+			<td>
+				535 liter
 			</td>
 		</tr>
 	</tbody>

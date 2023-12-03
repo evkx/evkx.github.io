@@ -333,6 +333,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				100 kg (220 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Trunk capacity
+			</td>
+			<td>
+				430 liter (15 cu-ft)
+			</td>
+		</tr>
 	</tbody>
 </table>
 

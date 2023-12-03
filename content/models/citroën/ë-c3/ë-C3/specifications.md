@@ -197,6 +197,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Trunk capacity
+			</td>
+			<td>
+				310 liter (11 cu-ft)
+			</td>
+		</tr>
 	</tbody>
 </table>
 

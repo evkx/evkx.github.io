@@ -189,6 +189,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				2626 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Størrelse bagasjerom
+			</td>
+			<td>
+				793 liter
+			</td>
+		</tr>
 	</tbody>
 </table>
 

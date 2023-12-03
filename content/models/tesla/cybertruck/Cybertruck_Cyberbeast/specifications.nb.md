@@ -263,7 +263,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WeightAndTransport.RoofLoad
+				Maks taklast
 			</td>
 			<td>
 				100 kg

@@ -285,6 +285,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				50 kg (110 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Trunk capacity
+			</td>
+			<td>
+				345 liter (12 cu-ft)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
