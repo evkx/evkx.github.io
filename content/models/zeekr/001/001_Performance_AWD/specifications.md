@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 Performanc
 				Peak electrical output in kW
 			</td>
 			<td>
-				400 KW (544 hp)
+				400 KW (544 hp /536 bhp)
 			</td>
 		</tr>
 		<tr>

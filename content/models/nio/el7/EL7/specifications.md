@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Nio EL7. Click on im
 				Peak electrical output in kW
 			</td>
 			<td>
-				480 KW (653 hp)
+				480 KW (653 hp /644 bhp)
 			</td>
 		</tr>
 		<tr>

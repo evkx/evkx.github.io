@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 GTX 
 				Peak electrical output in kW
 			</td>
 			<td>
-				195 KW (265 hp)
+				195 KW (265 hp /261 bhp)
 			</td>
 		</tr>
 		<tr>

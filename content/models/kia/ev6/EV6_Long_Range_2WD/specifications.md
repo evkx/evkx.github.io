@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Kia EV6 Long Range 2
 				Peak electrical output in kW
 			</td>
 			<td>
-				168 KW (228 hp)
+				168 KW (228 hp /225 bhp)
 			</td>
 		</tr>
 		<tr>

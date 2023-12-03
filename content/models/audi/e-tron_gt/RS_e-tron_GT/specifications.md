@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Audi RS e-tron GT. C
 				Peak electrical output in kW
 			</td>
 			<td>
-				440 KW (598 hp)
+				440 KW (598 hp /590 bhp)
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Volvo EX30 Single Mo
 				Peak electrical output in kW
 			</td>
 			<td>
-				200 KW (272 hp)
+				200 KW (272 hp /268 bhp)
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E 
 				Peak electrical output in kW
 			</td>
 			<td>
-				216 KW (294 hp)
+				216 KW (294 hp /290 bhp)
 			</td>
 		</tr>
 		<tr>

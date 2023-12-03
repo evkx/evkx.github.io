@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Gravity Dream 
 				Peak electrical output in kW
 			</td>
 			<td>
-				600 KW (816 hp)
+				600 KW (816 hp /805 bhp)
 			</td>
 		</tr>
 		<tr>

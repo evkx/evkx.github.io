@@ -29,7 +29,7 @@ We have separated our Lotus Eletre S article into sections. If you want to wait 
 
 ## Performance
 
-The Lotus Eletre S has a maximum power of 450 KW (612 hp/603 bhp). The total torque is 710 nm (524 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 258 km/h.
+The Lotus Eletre S has a maximum power of 450 KW (612 hp/604 bhp). The total torque is 710 nm (524 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 258 km/h.
 
 ## Battery, range, and charging
 

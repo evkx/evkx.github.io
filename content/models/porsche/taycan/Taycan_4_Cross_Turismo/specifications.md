@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4 Cro
 				Peak electrical output in kW
 			</td>
 			<td>
-				280 KW (381 hp)
+				280 KW (381 hp /375 bhp)
 			</td>
 		</tr>
 		<tr>

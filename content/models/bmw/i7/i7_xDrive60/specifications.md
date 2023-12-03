@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for BMW i7 xDrive60. Cli
 				Peak electrical output in kW
 			</td>
 			<td>
-				400 KW (544 hp)
+				400 KW (544 hp /536 bhp)
 			</td>
 		</tr>
 		<tr>

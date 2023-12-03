@@ -29,7 +29,7 @@ We have separated our Volkswagen ID.4 Pro 4MOTION article into sections. If you 
 
 ## Performance
 
-The Volkswagen ID.4 Pro 4MOTION has a maximum power of 195 KW (265 hp/261 bhp). The total torque is 425 nm (314 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,9 seconds. The top speed is 180 km/h.
+The Volkswagen ID.4 Pro 4MOTION has a maximum power of 195 KW (265 hp/262 bhp). The total torque is 425 nm (314 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,9 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 

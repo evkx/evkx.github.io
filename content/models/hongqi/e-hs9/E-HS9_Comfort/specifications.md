@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Comfort
 				Peak electrical output in kW
 			</td>
 			<td>
-				320 KW (435 hp)
+				320 KW (435 hp /429 bhp)
 			</td>
 		</tr>
 		<tr>

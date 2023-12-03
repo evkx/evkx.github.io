@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for HiPhi X 4 Seater. Cl
 				Peak electrical output in kW
 			</td>
 			<td>
-				433 KW (589 hp)
+				433 KW (589 hp /581 bhp)
 			</td>
 		</tr>
 		<tr>

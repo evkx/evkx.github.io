@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for DS 3 E-Tense. Click 
 				Peak electrical output in kW
 			</td>
 			<td>
-				115 KW (156 hp)
+				115 KW (156 hp /154 bhp)
 			</td>
 		</tr>
 		<tr>

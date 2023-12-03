@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 300.
 				Peak electrical output in kW
 			</td>
 			<td>
-				180 KW (245 hp)
+				180 KW (245 hp /241 bhp)
 			</td>
 		</tr>
 		<tr>

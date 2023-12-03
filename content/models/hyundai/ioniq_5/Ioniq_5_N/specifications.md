@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 N. C
 				Peak electrical output in kW
 			</td>
 			<td>
-				448 KW (609 hp)
+				448 KW (609 hp /601 bhp)
 			</td>
 		</tr>
 		<tr>

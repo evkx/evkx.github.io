@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Exclusi
 				Peak electrical output in kW
 			</td>
 			<td>
-				405 KW (551 hp)
+				405 KW (551 hp /543 bhp)
 			</td>
 		</tr>
 		<tr>

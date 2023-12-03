@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 (GEN1)
 				Peak electrical output in kW
 			</td>
 			<td>
-				208 KW (283 hp)
+				208 KW (283 hp /279 bhp)
 			</td>
 		</tr>
 		<tr>

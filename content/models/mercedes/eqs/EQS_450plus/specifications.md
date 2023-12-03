@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQS 450+
 				Peak electrical output in kW
 			</td>
 			<td>
-				265 KW (360 hp)
+				265 KW (360 hp /355 bhp)
 			</td>
 		</tr>
 		<tr>

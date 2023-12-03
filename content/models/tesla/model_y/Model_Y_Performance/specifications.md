@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model Y Perfor
 				Peak electrical output in kW
 			</td>
 			<td>
-				393 KW (534 hp)
+				393 KW (534 hp /527 bhp)
 			</td>
 		</tr>
 		<tr>

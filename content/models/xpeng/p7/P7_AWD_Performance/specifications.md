@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for XPENG P7 AWD Perform
 				Peak electrical output in kW
 			</td>
 			<td>
-				405 KW (551 hp)
+				405 KW (551 hp /543 bhp)
 			</td>
 		</tr>
 		<tr>

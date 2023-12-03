@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Volvo XC40 Recharge 
 				Peak electrical output in kW
 			</td>
 			<td>
-				185 KW (252 hp)
+				185 KW (252 hp /248 bhp)
 			</td>
 		</tr>
 		<tr>

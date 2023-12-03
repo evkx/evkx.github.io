@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Kia EV9 Long Range A
 				Peak electrical output in kW
 			</td>
 			<td>
-				283 KW (385 hp)
+				283 KW (385 hp /380 bhp)
 			</td>
 		</tr>
 		<tr>

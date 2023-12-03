@@ -29,7 +29,7 @@ We have separated our HiPhi Z 5 Seater article into sections. If you want to wai
 
 ## Performance
 
-The HiPhi Z 5 Seater has a maximum power of 494 KW (672 hp/662 bhp). The total torque is 820 nm (605 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds.
+The HiPhi Z 5 Seater has a maximum power of 494 KW (672 hp/663 bhp). The total torque is 820 nm (605 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds.
 
 ## Battery, range, and charging
 

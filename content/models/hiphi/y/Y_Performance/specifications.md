@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for HiPhi Y Performance.
 				Peak electrical output in kW
 			</td>
 			<td>
-				371 KW (504 hp)
+				371 KW (504 hp /498 bhp)
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Lotus Eletre S. Clic
 				Peak electrical output in kW
 			</td>
 			<td>
-				450 KW (612 hp)
+				450 KW (612 hp /603 bhp)
 			</td>
 		</tr>
 		<tr>

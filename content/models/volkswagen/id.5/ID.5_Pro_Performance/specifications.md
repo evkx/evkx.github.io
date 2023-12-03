@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 Pro 
 				Peak electrical output in kW
 			</td>
 			<td>
-				150 KW (204 hp)
+				150 KW (204 hp /201 bhp)
 			</td>
 		</tr>
 		<tr>

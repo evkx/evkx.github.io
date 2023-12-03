@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Nissan Ariya 87kWh. 
 				Peak electrical output in kW
 			</td>
 			<td>
-				178 KW (242 hp)
+				178 KW (242 hp /239 bhp)
 			</td>
 		</tr>
 		<tr>

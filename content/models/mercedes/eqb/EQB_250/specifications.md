@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQB 250.
 				Peak electrical output in kW
 			</td>
 			<td>
-				140 KW (190 hp)
+				140 KW (190 hp /188 bhp)
 			</td>
 		</tr>
 		<tr>

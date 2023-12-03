@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Jaguar I-Pace EV400.
 				Peak electrical output in kW
 			</td>
 			<td>
-				294 KW (400 hp)
+				294 KW (400 hp /394 bhp)
 			</td>
 		</tr>
 		<tr>

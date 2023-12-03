@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 45 e-tron qu
 				Peak electrical output in kW
 			</td>
 			<td>
-				210 KW (286 hp)
+				210 KW (286 hp /282 bhp)
 			</td>
 		</tr>
 		<tr>

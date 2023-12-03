@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Dream Edit
 				Peak electrical output in kW
 			</td>
 			<td>
-				828 KW (1126 hp)
+				828 KW (1126 hp /1110 bhp)
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for BMW i5 M60 xDrive. C
 				Peak electrical output in kW
 			</td>
 			<td>
-				442 KW (601 hp)
+				442 KW (601 hp /593 bhp)
 			</td>
 		</tr>
 		<tr>

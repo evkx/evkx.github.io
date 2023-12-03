@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQS 580 
 				Peak electrical output in kW
 			</td>
 			<td>
-				385 KW (523 hp)
+				385 KW (523 hp /516 bhp)
 			</td>
 		</tr>
 		<tr>

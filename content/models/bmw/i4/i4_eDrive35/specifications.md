@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for BMW i4 eDrive35. Cli
 				Peak electrical output in kW
 			</td>
 			<td>
-				250 KW (340 hp)
+				250 KW (340 hp /335 bhp)
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro.
 				Peak electrical output in kW
 			</td>
 			<td>
-				128 KW (174 hp)
+				128 KW (174 hp /172 bhp)
 			</td>
 		</tr>
 		<tr>

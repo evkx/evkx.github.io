@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 35 e-tron. C
 				Peak electrical output in kW
 			</td>
 			<td>
-				125 KW (170 hp)
+				125 KW (170 hp /168 bhp)
 			</td>
 		</tr>
 		<tr>

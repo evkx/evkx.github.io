@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Sapphire. 
 				Peak electrical output in kW
 			</td>
 			<td>
-				920 KW (1251 hp)
+				920 KW (1251 hp /1234 bhp)
 			</td>
 		</tr>
 		<tr>

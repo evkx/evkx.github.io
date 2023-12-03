@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 6 Long
 				Peak electrical output in kW
 			</td>
 			<td>
-				239 KW (325 hp)
+				239 KW (325 hp /321 bhp)
 			</td>
 		</tr>
 		<tr>

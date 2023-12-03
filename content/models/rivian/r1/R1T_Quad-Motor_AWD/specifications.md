@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Rivian R1T Quad-Moto
 				Peak electrical output in kW
 			</td>
 			<td>
-				620 KW (843 hp)
+				620 KW (843 hp /831 bhp)
 			</td>
 		</tr>
 		<tr>

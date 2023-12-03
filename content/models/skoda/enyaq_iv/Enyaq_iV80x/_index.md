@@ -29,7 +29,7 @@ We have separated our SKODA Enyaq iV80x article into sections. If you want to wa
 
 ## Performance
 
-The SKODA Enyaq iV80x has a maximum power of 195 KW (265 hp/261 bhp). The total torque is 425 nm (314 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,9 seconds. The top speed is 160 km/h.
+The SKODA Enyaq iV80x has a maximum power of 195 KW (265 hp/262 bhp). The total torque is 425 nm (314 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,9 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 

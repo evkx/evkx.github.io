@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model S. Click
 				Peak electrical output in kW
 			</td>
 			<td>
-				493 KW (670 hp)
+				493 KW (670 hp /661 bhp)
 			</td>
 		</tr>
 		<tr>

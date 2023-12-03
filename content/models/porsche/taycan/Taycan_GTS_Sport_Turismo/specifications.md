@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan GTS S
 				Peak electrical output in kW
 			</td>
 			<td>
-				420 KW (571 hp)
+				420 KW (571 hp /563 bhp)
 			</td>
 		</tr>
 		<tr>

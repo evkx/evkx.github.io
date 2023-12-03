@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport
 				Peak electrical output in kW
 			</td>
 			<td>
-				240 KW (326 hp)
+				240 KW (326 hp /322 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport
 				Peak electrical output in kW
 			</td>
 			<td>
-				280 KW (381 hp)
+				280 KW (381 hp /375 bhp)
 			</td>
 		</tr>
 		<tr>
