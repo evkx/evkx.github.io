@@ -289,15 +289,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				10,15 meters
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vendesirkel
-			</td>
-			<td>
-				10,15 mm
+				10,15 meter
 			</td>
 		</tr>
 	</tbody>
