@@ -325,6 +325,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				570 kg (1257 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Maks roof cargo
+			</td>
+			<td>
+				100 kg (220 lbs)
+			</td>
+		</tr>
 	</tbody>
 </table>
 

@@ -181,6 +181,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WeightAndTransport.RoofLoad
+			</td>
+			<td>
+				113 kg
+			</td>
+		</tr>
 	</tbody>
 </table>
 
