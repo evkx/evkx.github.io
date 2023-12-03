@@ -309,6 +309,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				907 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Bed length
+			</td>
+			<td>
+				1704 mm
+			</td>
+		</tr>
 	</tbody>
 </table>
 

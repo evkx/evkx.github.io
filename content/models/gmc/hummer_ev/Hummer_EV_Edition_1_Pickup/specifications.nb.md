@@ -295,6 +295,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Bed length
+			</td>
+			<td>
+				1524 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>

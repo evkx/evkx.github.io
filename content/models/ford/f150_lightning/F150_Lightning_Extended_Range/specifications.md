@@ -309,6 +309,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				907 kg (2000 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Bed length
+			</td>
+			<td>
+				1704 mm (67,1")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
