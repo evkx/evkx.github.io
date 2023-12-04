@@ -91,6 +91,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-7a7eff1d
+  translation: Tesla Cybertruck AWD is an all-electric Pickup Truck with a EPA range of up to 547 km (340 miles). EVKX.net has all the details. 
+
 - id: frontpage-description-ab420833
   translation: Tesla Cybertruck Cyberbeast is an all-electric Pickup Truck with a EPA range of up to 515 km (320 miles). EVKX.net has all the details. 
 
@@ -102,7 +105,4 @@
 
 - id: frontpage-description-4fa87843
   translation: Subaru Solterra AWD is an all-electric SUV with a WLTP range of up to 466 km (290 miles). EVKX.net has all the details. 
-
-- id: frontpage-description-95baf292
-  translation: Seres 5 4WD Premium is an all-electric coupe SUV with a WLTP range of up to 483 km (300 miles). EVKX.net has all the details. 
 

@@ -11,7 +11,7 @@ weight: 30
 
 <a href="cybertruck"><img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" class="img-fluid" alt="Cybertruck" ></a>
 
-Denne modellen er tilgjengelig i 1 variant(er).
+Denne modellen er tilgjengelig i 2 variant(er).
 [Read full details](cybertruck/)
 
 ## Tesla Model 3
