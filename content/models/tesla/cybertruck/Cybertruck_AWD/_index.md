@@ -29,7 +29,7 @@ We have separated our Tesla Cybertruck AWD article into sections. If you want to
 
 ## Performance
 
-The Tesla Cybertruck AWD has a maximum power of 447 KW (608 hp/599 bhp). The total torque is 671 nm (495 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,1 seconds. The top speed is 180 km/h.
+The Tesla Cybertruck AWD has a maximum power of 448 KW (609 hp/601 bhp). The total torque is 671 nm (495 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,1 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 

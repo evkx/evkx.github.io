@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Cybertruck AWD
 				Peak electrical output in kW
 			</td>
 			<td>
-				447 KW (608 hp /599 bhp)
+				448 KW (609 hp /601 bhp)
 			</td>
 		</tr>
 		<tr>

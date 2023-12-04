@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Cybertruck AW
 				Maks effekt i kW
 			</td>
 			<td>
-				447 KW (608 hk)
+				448 KW (609 hk)
 			</td>
 		</tr>
 		<tr>
