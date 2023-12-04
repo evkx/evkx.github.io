@@ -122,6 +122,8 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. <br />
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
 
+- [oppvarming](../../../../technology/seats/adjustment/#heating) 
+- integrert hodestøtte 
 
 Det er bare én type ratt tilgjengelig. 
 

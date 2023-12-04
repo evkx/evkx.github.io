@@ -563,7 +563,7 @@ This model is available with a seat configuration with five seats.
 				Footrest passengers
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 		<tr>
@@ -571,7 +571,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 		<tr>
@@ -631,7 +631,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 		<tr>
@@ -639,7 +639,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 		<tr>
@@ -647,7 +647,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 		<tr>
@@ -655,7 +655,7 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 		<tr>
@@ -663,7 +663,7 @@ This model is available with a seat configuration with five seats.
 				Seat cushion side bolster adjustement
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 		<tr>
@@ -671,7 +671,7 @@ This model is available with a seat configuration with five seats.
 				Electric adjustable thigh support
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 		<tr>
@@ -679,7 +679,7 @@ This model is available with a seat configuration with five seats.
 				Footrest passengers
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 		<tr>
@@ -687,7 +687,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 		<tr>
@@ -695,7 +695,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 		<tr>
@@ -703,7 +703,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 		<tr>
@@ -711,7 +711,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-			Unknown
+			Not Available
 			</td>
 		</tr>
 	</tbody>
