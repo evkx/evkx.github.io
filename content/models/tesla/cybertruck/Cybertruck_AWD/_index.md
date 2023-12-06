@@ -33,17 +33,17 @@ The Tesla Cybertruck AWD has a maximum power of 448 KW (609 hp/601 bhp). The tot
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 127,7kWh and a net capacity of 123kWh, meaning you have a 4,7kWh buffer for protection. (3,7%). 
+The battery has a gross capacity of 122,4kWh and a net capacity of 120kWh, meaning you have a 2,4kWh buffer for protection. (2,0%). 
 
  The [EPA range](../../../../guides/understandingrange/epa/) is 340 miles (547 km).   The consumption is 2.8mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
-The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 102 minutes, while a more common scenario of 10-80% would take 39 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 45%, resulting in an actual charge speed, including time loss, of 154kW. Each charge session would take 18 minutes and 47 seconds. 
+The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 99 minutes, while a more common scenario of 10-80% would take 38 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 45%, resulting in an actual charge speed, including time loss, of 152kW. Each charge session would take 17 minutes and 28 seconds. 
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 9 hours and 17 minutes. This trip will require three charge session(s) charging from 7% to 47%. The total time lost for charging up the battery will be 58 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 9 hours and 19 minutes. This trip will require three charge session(s) charging from 6% to 48%. The total time lost for charging up the battery will be 60 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 10 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 54 minutes. 
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/charging_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
@@ -221,7 +221,7 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1897,23 liters. The bed width is 1295 mm, and length is 1849 mm. The max load weight in bed is 1134 kg.  On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 201 liters (7,1 CU FT). The maxium weight of the car is 4238 kg (9343 lbs), and with the base weight of 3104 kg (6843 lbs), you can max load 1134 kg (2500 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the truck bed is 1897,23 liters. The bed width is 1295 mm, and length is 1849 mm. The max load weight in bed is 1134 kg.  On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 201 liters (7,1 CU FT). The maxium weight of the car is 4159 kg (9169 lbs), and with the base weight of 3025 kg (6669 lbs), you can max load 1134 kg (2500 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 4990, and on unbraked, it is 750 kg (11000/1653 lbs).
 

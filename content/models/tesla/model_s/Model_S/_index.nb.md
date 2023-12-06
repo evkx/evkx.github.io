@@ -33,7 +33,7 @@ Tesla Model S har en maksimal effekt på 493KW (670hk).Totalt dreiemoment er 800
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 96kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (4,0%).
+Batteriet har en bruttokapasitet på 104,96kWh og en nettokapasitet på 96kWh, noe som betyr at du har et 8,96kWh-buffer for beskyttelse. (8,5%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 649 til 634 km (403-394 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.8kWh/100 km for basisversjonen og 15.1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 

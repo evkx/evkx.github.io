@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Battery net
 			</td>
 			<td>
-				123 kWh
+				122,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Nominal voltage
 			</td>
 			<td>
-				698
+				816
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum total weight
 			</td>
 			<td>
-				4238 kg (9343 lbs)
+				4159 kg (9169 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum load including weight driver
 			</td>
 			<td>
-				1134 kg (2500 lbs)
+				1055 kg (2326 lbs)
 			</td>
 		</tr>
 		<tr>

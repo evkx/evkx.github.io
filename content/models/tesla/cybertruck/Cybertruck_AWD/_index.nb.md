@@ -33,17 +33,17 @@ Tesla Cybertruck AWD har en maksimal effekt på 448KW (609hk).Totalt dreiemoment
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 127,7kWh og en nettokapasitet på 123kWh, noe som betyr at du har et 4,7kWh-buffer for beskyttelse. (3,7%).
+Batteriet har en bruttokapasitet på 122,4kWh og en nettokapasitet på 120kWh, noe som betyr at du har et 2,4kWh-buffer for beskyttelse. (2,0%).
 
  [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 340 miles (547 km). Forbruket er 2.8mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
-Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 102 minutter, mens et mer vanlig scenario på 10-80 % vil ta 39 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 154kW. Hver ladeøkt vil ta 18 minutter og 47 sekunder. 
+Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 99 minutter, mens et mer vanlig scenario på 10-80 % vil ta 38 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 152kW. Hver ladeøkt vil ta 17 minutter og 28 sekunder. 
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 27kWh/100km, vil 1000km ta 9 timer og 17 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 7% til 47%. Totalt tapt tid for å lade opp batteriet vil være 58 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 27kWh/100km, vil 1000km ta 9 timer og 19 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 6% til 48%. Totalt tapt tid for å lade opp batteriet vil være 60 minutter.
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 11 timer og 10 minutter. 
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 10 timer og 54 minutter. 
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/charging_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
@@ -221,7 +221,7 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i lastebilen er 1897,23 liter. Sengebredden er 1295 mm, og lengden er 1849 mm. Maksimal lastevekt i lasteplanet er 1134 kg. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4238 kg, og med basisvekten på 3104 kg kan du maksimalt laste 1134 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i lastebilen er 1897,23 liter. Sengebredden er 1295 mm, og lengden er 1849 mm. Maksimal lastevekt i lasteplanet er 1134 kg. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4159 kg, og med basisvekten på 3025 kg kan du maksimalt laste 1134 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 4990, og på ubremset er den 750 kg.
 
