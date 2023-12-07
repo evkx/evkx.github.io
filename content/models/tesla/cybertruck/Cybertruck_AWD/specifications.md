@@ -142,7 +142,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Pack Configuration
 			</td>
 			<td>
-				192s7p
+				220s6p
 			</td>
 		</tr>
 		<tr>

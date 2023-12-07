@@ -33,7 +33,7 @@ The Tesla Model S Plaid has a maximum power of 760 KW (1033 hp/1019 bhp). The to
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 100kWh and a net capacity of 96kWh, meaning you have a 4kWh buffer for protection. (4,0%). 
+The battery has a gross capacity of 104,96kWh and a net capacity of 96kWh, meaning you have a 8,96kWh buffer for protection. (8,5%). 
 
  The [WLTP range](../../../../guides/understandingrange/wltp/) is 600 km (373 mi).   The consumption is 16.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 

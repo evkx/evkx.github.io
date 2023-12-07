@@ -33,7 +33,7 @@ Tesla Model S Plaid har en maksimal effekt på 760KW (1033hk).Totalt dreiemoment
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 96kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (4,0%).
+Batteriet har en bruttokapasitet på 104,96kWh og en nettokapasitet på 96kWh, noe som betyr at du har et 8,96kWh-buffer for beskyttelse. (8,5%).
 
  [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 600 km (373 mi). Forbruket er 16.0kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
