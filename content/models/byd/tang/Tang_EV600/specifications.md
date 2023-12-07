@@ -379,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Max ground clearance
 			</td>
 			<td>
-				190
+				190 mm (7,5")
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Minimum ground clearance
 			</td>
 			<td>
-				190
+				190 mm (7,5")
 			</td>
 		</tr>
 		<tr>

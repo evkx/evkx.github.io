@@ -463,7 +463,7 @@ The model offers 2 suspension variants
 				Max ground clearance
 			</td>
 			<td>
-				176
+				176 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -471,7 +471,7 @@ The model offers 2 suspension variants
 				Minimum ground clearance
 			</td>
 			<td>
-				126
+				126 mm (5,0")
 			</td>
 		</tr>
 		<tr>
@@ -568,7 +568,7 @@ The model offers 2 suspension variants
 				Max ground clearance
 			</td>
 			<td>
-				186
+				186 mm (7,3")
 			</td>
 		</tr>
 		<tr>
@@ -576,7 +576,7 @@ The model offers 2 suspension variants
 				Minimum ground clearance
 			</td>
 			<td>
-				136
+				136 mm (5,4")
 			</td>
 		</tr>
 		<tr>

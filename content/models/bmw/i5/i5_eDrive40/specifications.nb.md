@@ -447,7 +447,7 @@ Modellen tilbyr 3 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				144
+				144 mm
 			</td>
 		</tr>
 		<tr>
@@ -455,7 +455,7 @@ Modellen tilbyr 3 fjæringsvarianter
 				Minimum bakkeklaring
 			</td>
 			<td>
-				144
+				144 mm
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +552,7 @@ Modellen tilbyr 3 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				136
+				136 mm
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +560,7 @@ Modellen tilbyr 3 fjæringsvarianter
 				Minimum bakkeklaring
 			</td>
 			<td>
-				136
+				136 mm
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +657,7 @@ Modellen tilbyr 3 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				140
+				140 mm
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +665,7 @@ Modellen tilbyr 3 fjæringsvarianter
 				Minimum bakkeklaring
 			</td>
 			<td>
-				140
+				140 mm
 			</td>
 		</tr>
 		<tr>

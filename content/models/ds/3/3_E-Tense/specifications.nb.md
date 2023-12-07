@@ -371,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				170
+				170 mm
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				170
+				170 mm
 			</td>
 		</tr>
 		<tr>
