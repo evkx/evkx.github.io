@@ -104,7 +104,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				Basic trim WLTP range
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
 				600 km
@@ -112,7 +112,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP consumption
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
 				17,3 kWh/100km
@@ -120,7 +120,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP consumption with charging loss
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
 				19,9 kWh/100km
@@ -128,7 +128,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Top trim WLTP range
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
 				495 km
@@ -136,7 +136,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Top trim WLTP consumption
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
 				21,0 kWh/100km
@@ -144,7 +144,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Top trim WLTP consumption with charging loss
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
 				24,1 kwh/100km
@@ -152,7 +152,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				EPA range
+				<a href="/guides/understandingrange/epa/">EPA range</a>
 			</td>
 			<td>
 				300 mi
@@ -160,7 +160,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				EPA consumption
+				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
 				2,9 mi/kWh
@@ -227,7 +227,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Nominal voltage
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
 				396
@@ -235,7 +235,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Cathode Materials
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>
 				NMC

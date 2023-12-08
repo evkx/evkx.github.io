@@ -72,7 +72,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				WLTP range
+				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
 				320 km
@@ -80,7 +80,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				WLTP consumption
+				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
 				13,4 kWh/100km
@@ -131,7 +131,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Cathode Materials
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>
 				LFP

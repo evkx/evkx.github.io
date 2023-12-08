@@ -80,7 +80,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				WLTP range
+				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
 				412 km
@@ -88,7 +88,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				WLTP consumption
+				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
 				15,0 kWh/100km

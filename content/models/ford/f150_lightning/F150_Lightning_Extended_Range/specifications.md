@@ -80,7 +80,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				Basic trim EPA range
+				<a href="/guides/understandingrange/epa/">Basic trim EPA range</a>
 			</td>
 			<td>
 				320 mi
@@ -88,7 +88,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Basic trim EPA consumption
+				<a href="/guides/understandingrange/epa/">Basic trim EPA consumption</a>
 			</td>
 			<td>
 				2,4 mi/kWh
@@ -96,7 +96,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Top trim EPA range
+				<a href="/guides/understandingrange/epa/">Top trim EPA range</a>
 			</td>
 			<td>
 				300 mi
@@ -104,7 +104,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Top trim EPA consumption
+				<a href="/guides/understandingrange/epa/">Top trim EPA consumption</a>
 			</td>
 			<td>
 				2,3 mi/kWh
@@ -163,7 +163,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Cathode Materials
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>
 				NMC

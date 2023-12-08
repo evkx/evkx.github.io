@@ -88,7 +88,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				Basic trim WLTP range
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
 				504 km
@@ -96,7 +96,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP consumption
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
 				16,6 kWh/100km
@@ -104,7 +104,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP consumption with charging loss
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
 				20,3 kWh/100km
@@ -112,7 +112,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Top trim WLTP range
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
 				439 km
@@ -120,7 +120,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Top trim WLTP consumption
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
 				19,1 kWh/100km
@@ -128,7 +128,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Top trim WLTP consumption with charging loss
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
 				23,3 kwh/100km
@@ -195,7 +195,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Nominal voltage
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
 				725
@@ -203,7 +203,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Cathode Materials
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>
 				NMC

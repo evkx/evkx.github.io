@@ -80,7 +80,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				WLTP range
+				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
 				415 km
@@ -88,7 +88,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				WLTP consumption
+				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
 				14,9 kWh/100km
@@ -96,7 +96,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				WLTP consumption with charging loss
+				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
 				18,3 kWh/100km
@@ -104,7 +104,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				EPA range
+				<a href="/guides/understandingrange/epa/">EPA range</a>
 			</td>
 			<td>
 				265 mi
@@ -112,7 +112,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				EPA consumption
+				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
 				4,3 mi/kWh
@@ -163,7 +163,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Cathode Materials
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>
 				NMC
