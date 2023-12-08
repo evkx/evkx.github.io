@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				Battery gross
+				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
 				110 kWh

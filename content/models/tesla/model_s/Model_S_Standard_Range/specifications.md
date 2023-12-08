@@ -179,7 +179,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				Battery gross
+				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
 				100 kWh
@@ -195,7 +195,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max DC charging
+				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
 				250 kW
@@ -203,7 +203,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Pack Configuration
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
 			</td>
 			<td>
 				110s72p

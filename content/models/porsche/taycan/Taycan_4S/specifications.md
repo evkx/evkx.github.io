@@ -275,7 +275,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				Battery gross
+				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
 				79,2 kWh
@@ -291,7 +291,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max DC charging
+				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
 				225 kW
@@ -307,7 +307,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Pack Configuration
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
 			</td>
 			<td>
 				168s2p
@@ -347,7 +347,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				Battery gross
+				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
 				93,4 kWh
@@ -363,7 +363,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max DC charging
+				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
 				270 kW
@@ -379,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Pack Configuration
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
 			</td>
 			<td>
 				198s2p
