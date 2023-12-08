@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Lotus Eletre. Click 
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				450 KW (612 hp /603 bhp)

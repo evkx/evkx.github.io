@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi SQ8 Sportback 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				320 KW (435 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi SQ8 Sportback 
 		</tr>
 		<tr>
 			<td>
-				Maks effekt med over boost i kW
+				Maks effekt med boost
 			</td>
 			<td>
 				370 Kw
@@ -44,7 +44,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi SQ8 Sportback 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				561 nm
@@ -52,7 +52,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi SQ8 Sportback 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment med boost i Nm
+				Dreiemoment med boost
 			</td>
 			<td>
 				973 Nm

@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for SKODA Enyaq iV80x. C
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				195 KW (265 hp /261 bhp)

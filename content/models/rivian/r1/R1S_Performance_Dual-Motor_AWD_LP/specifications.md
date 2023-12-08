@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Rivian R1S Performan
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				489 KW (665 hp /656 bhp)

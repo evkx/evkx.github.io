@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Cadillac ESCALADE IQ
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				560 KW (761 hp /751 bhp)

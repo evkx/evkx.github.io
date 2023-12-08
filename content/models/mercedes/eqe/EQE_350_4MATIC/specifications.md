@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 350 
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				215 KW (292 hp /288 bhp)

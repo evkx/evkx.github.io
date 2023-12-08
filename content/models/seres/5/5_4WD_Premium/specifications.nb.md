@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Seres 5 4WD Premium
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				430 KW (585 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Seres 5 4WD Premium
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				940 nm

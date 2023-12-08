@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EX30 Twin Mot
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				315 KW (428 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EX30 Twin Mot
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				543 nm

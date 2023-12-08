@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for SKODA Enyaq iV80x. 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				195 KW (265 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for SKODA Enyaq iV80x. 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				425 nm

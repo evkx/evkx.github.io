@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i4 eDrive40. Kl
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				250 KW (340 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i4 eDrive40. Kl
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				430 nm

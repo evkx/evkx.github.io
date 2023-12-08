@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for XPENG G9 RWD Standar
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				230 KW (313 hp /308 bhp)

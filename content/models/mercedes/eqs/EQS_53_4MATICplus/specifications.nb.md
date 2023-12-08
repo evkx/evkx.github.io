@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQS 53
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				484 KW (658 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQS 53
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				858 nm
@@ -76,7 +76,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQS 53
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				560 KW (761 hk)
@@ -84,7 +84,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQS 53
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				1020 nm

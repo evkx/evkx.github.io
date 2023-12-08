@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model S. Klik
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				493 KW (670 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model S. Klik
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				800 nm

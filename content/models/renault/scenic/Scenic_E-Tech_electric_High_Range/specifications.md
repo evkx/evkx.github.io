@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Renault Scenic E-Tec
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				160 KW (218 hp /215 bhp)

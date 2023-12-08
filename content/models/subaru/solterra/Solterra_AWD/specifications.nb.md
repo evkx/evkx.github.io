@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Subaru Solterra AWD
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				160 KW (218 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Subaru Solterra AWD
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				337 nm

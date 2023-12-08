@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for HiPhi Z 5 Seater. Cl
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				494 KW (672 hp /662 bhp)

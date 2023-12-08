@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Ioniq 5 N. 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				448 KW (609 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Ioniq 5 N. 
 		</tr>
 		<tr>
 			<td>
-				Maks effekt med over boost i kW
+				Maks effekt med boost
 			</td>
 			<td>
 				478 Kw
@@ -44,7 +44,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Ioniq 5 N. 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				714 nm
@@ -52,7 +52,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Ioniq 5 N. 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment med boost i Nm
+				Dreiemoment med boost
 			</td>
 			<td>
 				770 Nm

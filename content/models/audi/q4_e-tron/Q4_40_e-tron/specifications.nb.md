@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 40 e-tron. 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				160 KW (218 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 40 e-tron. 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				310 nm

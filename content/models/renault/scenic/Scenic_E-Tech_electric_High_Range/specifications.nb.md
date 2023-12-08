@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Renault Scenic E-Te
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				160 KW (218 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Renault Scenic E-Te
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				300 nm

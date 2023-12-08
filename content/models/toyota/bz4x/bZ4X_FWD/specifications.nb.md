@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Toyota bZ4X FWD. Kl
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				160 KW (218 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Toyota bZ4X FWD. Kl
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				337 nm

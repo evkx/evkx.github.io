@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr X Long Range R
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				200 KW (272 hp /268 bhp)

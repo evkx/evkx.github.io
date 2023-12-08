@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for BMW i4 M50. Click on
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				400 KW (544 hp /536 bhp)

@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for VOYAH FREE. Klikk p
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				360 KW (489 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for VOYAH FREE. Klikk p
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				720 nm

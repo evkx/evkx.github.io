@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for XPENG G9 AWD Perform
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				405 KW (551 hp /543 bhp)

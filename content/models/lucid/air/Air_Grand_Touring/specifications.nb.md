@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Grand Tou
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				597 KW (812 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Grand Tou
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				1200 nm

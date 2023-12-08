@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Audi SQ8 Sportback e
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				320 KW (435 hp /429 bhp)
@@ -36,7 +36,7 @@ EVKX.net seeks to have the most complete specifications for Audi SQ8 Sportback e
 		</tr>
 		<tr>
 			<td>
-				Peak electrical output boost in kW
+				Peak power with  boost
 			</td>
 			<td>
 				370 Kw

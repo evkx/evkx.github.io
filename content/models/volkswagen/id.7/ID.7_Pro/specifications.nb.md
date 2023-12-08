@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.7 Pro
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				210 KW (286 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.7 Pro
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				550 nm

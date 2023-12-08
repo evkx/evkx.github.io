@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 50 e-tron q
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				195 KW (265 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 50 e-tron q
 		</tr>
 		<tr>
 			<td>
-				Maks effekt med over boost i kW
+				Maks effekt med boost
 			</td>
 			<td>
 				220 Kw
@@ -44,7 +44,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 50 e-tron q
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				425 nm
@@ -52,7 +52,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 50 e-tron q
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment med boost i Nm
+				Dreiemoment med boost
 			</td>
 			<td>
 				460 Nm

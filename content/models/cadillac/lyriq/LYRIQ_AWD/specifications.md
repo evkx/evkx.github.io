@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Cadillac LYRIQ AWD. 
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				373 KW (507 hp /500 bhp)

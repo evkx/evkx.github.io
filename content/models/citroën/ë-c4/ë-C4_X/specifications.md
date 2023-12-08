@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Citroën ë-C4 X. Cl
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				115 KW (156 hp /154 bhp)

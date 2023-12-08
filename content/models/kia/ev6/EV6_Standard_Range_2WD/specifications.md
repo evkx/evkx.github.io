@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Kia EV6 Standard Ran
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				125 KW (170 hp /168 bhp)

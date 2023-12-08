@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nio ES8. Klikk på 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				400 KW (544 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nio ES8. Klikk på 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				725 nm

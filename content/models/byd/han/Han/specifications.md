@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for BYD Han. Click on im
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				380 KW (517 hp /510 bhp)

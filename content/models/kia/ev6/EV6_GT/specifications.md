@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Kia EV6 GT. Click on
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				430 KW (585 hp /577 bhp)

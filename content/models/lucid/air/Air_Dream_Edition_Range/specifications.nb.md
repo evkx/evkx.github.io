@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Dream Edi
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				696 KW (946 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Dream Edi
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				1390 nm

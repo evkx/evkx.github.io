@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model 3. Klik
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				208 KW (283 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model 3. Klik
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				420 nm

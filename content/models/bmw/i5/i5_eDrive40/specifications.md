@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40. Cli
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				250 KW (340 hp /335 bhp)

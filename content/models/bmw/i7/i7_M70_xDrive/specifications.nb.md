@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i7 M70 xDrive. 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				485 KW (659 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i7 M70 xDrive. 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				1015 nm

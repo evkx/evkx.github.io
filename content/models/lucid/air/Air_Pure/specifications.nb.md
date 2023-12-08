@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Pure. Kli
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				320 KW (435 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Pure. Kli
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				400 nm

@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model 3 Long 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				324 KW (441 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model 3 Long 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				493 nm

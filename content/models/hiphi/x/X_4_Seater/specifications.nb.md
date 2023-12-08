@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi X 4 Seater. K
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				433 KW (589 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi X 4 Seater. K
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				820 nm

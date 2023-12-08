@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for BMW iX1 eDrive20. Cl
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				150 KW (204 hp /201 bhp)

@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-3008 Long 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				170 KW (231 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-3008 Long 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				343 nm

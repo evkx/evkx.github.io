@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron GT. Kli
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				350 KW (476 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron GT. Kli
 		</tr>
 		<tr>
 			<td>
-				Maks effekt med over boost i kW
+				Maks effekt med boost
 			</td>
 			<td>
 				390 Kw
@@ -44,7 +44,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron GT. Kli
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				630 nm
@@ -52,7 +52,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron GT. Kli
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment med boost i Nm
+				Dreiemoment med boost
 			</td>
 			<td>
 				640 Nm

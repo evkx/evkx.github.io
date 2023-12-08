@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 Long Range 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				239 KW (325 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 Long Range 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				605 nm

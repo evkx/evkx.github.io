@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 FR. Click 
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				930 KW (1264 hp /1247 bhp)

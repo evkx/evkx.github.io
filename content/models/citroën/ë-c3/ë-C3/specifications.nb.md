@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Citroën ë-C3. Kli
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				83 KW (113 hk)

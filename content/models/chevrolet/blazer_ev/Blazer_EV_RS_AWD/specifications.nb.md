@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Chevrolet Blazer EV
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				214 KW (291 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Chevrolet Blazer EV
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				451 nm

@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan. Clic
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				240 KW (326 hp /322 bhp)
@@ -36,7 +36,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan. Clic
 		</tr>
 		<tr>
 			<td>
-				Peak electrical output boost in kW
+				Peak power with  boost
 			</td>
 			<td>
 				300 Kw
@@ -84,7 +84,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan. Clic
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				280 KW (381 hp /375 bhp)
@@ -92,7 +92,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan. Clic
 		</tr>
 		<tr>
 			<td>
-				Peak electrical output boost in kW
+				Peak power with  boost
 			</td>
 			<td>
 				350 Kw

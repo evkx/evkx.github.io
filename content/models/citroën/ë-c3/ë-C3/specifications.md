@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Citroën ë-C3. Clic
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				83 KW (113 hp /111 bhp)

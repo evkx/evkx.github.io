@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Perfor
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				393 KW (534 hp /527 bhp)

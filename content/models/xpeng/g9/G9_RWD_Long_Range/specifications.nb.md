@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G9 RWD Long R
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				230 KW (313 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G9 RWD Long R
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				430 nm

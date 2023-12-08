@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 Long
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				239 KW (325 hp /321 bhp)

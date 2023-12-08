@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Grand Tour
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				597 KW (812 hp /801 bhp)

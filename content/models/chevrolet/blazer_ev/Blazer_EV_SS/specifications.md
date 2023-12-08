@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Chevrolet Blazer EV 
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				410 KW (557 hp /550 bhp)

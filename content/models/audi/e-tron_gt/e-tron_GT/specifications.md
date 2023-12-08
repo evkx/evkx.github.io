@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron GT. Clic
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				350 KW (476 hp /469 bhp)
@@ -36,7 +36,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron GT. Clic
 		</tr>
 		<tr>
 			<td>
-				Peak electrical output boost in kW
+				Peak power with  boost
 			</td>
 			<td>
 				390 Kw

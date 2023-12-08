@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Spor
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				240 KW (326 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Spor
 		</tr>
 		<tr>
 			<td>
-				Maks effekt med over boost i kW
+				Maks effekt med boost
 			</td>
 			<td>
 				300 Kw
@@ -44,7 +44,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Spor
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment med boost i Nm
+				Dreiemoment med boost
 			</td>
 			<td>
 				345 Nm
@@ -84,7 +84,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Spor
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				280 KW (381 hk)
@@ -92,7 +92,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Spor
 		</tr>
 		<tr>
 			<td>
-				Maks effekt med over boost i kW
+				Maks effekt med boost
 			</td>
 			<td>
 				350 Kw
@@ -100,7 +100,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Spor
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment med boost i Nm
+				Dreiemoment med boost
 			</td>
 			<td>
 				357 Nm

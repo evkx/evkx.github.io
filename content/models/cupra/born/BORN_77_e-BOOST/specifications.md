@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for CUPRA BORN 77 e-BOOS
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				150 KW (204 hp /201 bhp)
@@ -36,7 +36,7 @@ EVKX.net seeks to have the most complete specifications for CUPRA BORN 77 e-BOOS
 		</tr>
 		<tr>
 			<td>
-				Peak electrical output boost in kW
+				Peak power with  boost
 			</td>
 			<td>
 				170 Kw

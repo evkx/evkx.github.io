@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Cr
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				360 KW (489 hp /483 bhp)
@@ -36,7 +36,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Cr
 		</tr>
 		<tr>
 			<td>
-				Peak electrical output boost in kW
+				Peak power with  boost
 			</td>
 			<td>
 				420 Kw

@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1S Quad-Mot
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				620 KW (843 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1S Quad-Mot
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				1231 nm

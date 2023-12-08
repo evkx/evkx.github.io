@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Sapphire.
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				920 KW (1251 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Sapphire.
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				1390 nm

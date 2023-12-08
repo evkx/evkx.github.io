@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 Sportback 40
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				160 KW (218 hp /215 bhp)

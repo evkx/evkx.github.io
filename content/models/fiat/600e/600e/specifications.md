@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Fiat 600e. Click on 
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				115 KW (156 hp /154 bhp)

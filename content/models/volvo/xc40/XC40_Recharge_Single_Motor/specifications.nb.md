@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo XC40 Recharge
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				175 KW (238 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo XC40 Recharge
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				420 nm

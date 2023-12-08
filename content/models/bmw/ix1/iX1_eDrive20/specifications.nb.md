@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW iX1 eDrive20. K
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				150 KW (204 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW iX1 eDrive20. K
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				250 nm

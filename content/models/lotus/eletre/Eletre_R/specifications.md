@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Lotus Eletre R. Clic
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				675 KW (918 hp /905 bhp)

@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV9 Long Range 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				283 KW (385 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV9 Long Range 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				700 nm

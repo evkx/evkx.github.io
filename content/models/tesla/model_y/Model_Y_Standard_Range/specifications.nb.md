@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model Y Stand
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				255 KW (347 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model Y Stand
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				420 nm

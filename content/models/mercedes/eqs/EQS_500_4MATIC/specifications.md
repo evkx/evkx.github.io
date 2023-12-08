@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQS 500 
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				330 KW (449 hp /443 bhp)

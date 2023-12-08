@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model X Plaid.
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				760 KW (1033 hp /1019 bhp)

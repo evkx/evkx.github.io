@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nio EL6. Klikk på 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				480 KW (653 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nio EL6. Klikk på 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				850 nm

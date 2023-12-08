@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Tang EV600. Kli
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				380 KW (517 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Tang EV600. Kli
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				680 nm

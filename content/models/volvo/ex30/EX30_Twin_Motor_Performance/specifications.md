@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Volvo EX30 Twin Moto
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				315 KW (428 hp /422 bhp)

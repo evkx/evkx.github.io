@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 Privilege 
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				400 KW (544 hp /536 bhp)

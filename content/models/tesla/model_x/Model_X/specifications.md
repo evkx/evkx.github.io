@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model X. Click
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				493 KW (670 hp /661 bhp)

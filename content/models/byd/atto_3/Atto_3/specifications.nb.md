@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Atto 3. Klikk p
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				150 KW (204 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Atto 3. Klikk p
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				310 nm

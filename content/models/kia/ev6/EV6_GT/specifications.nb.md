@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 GT. Klikk p
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				430 KW (585 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia EV6 GT. Klikk p
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				740 nm

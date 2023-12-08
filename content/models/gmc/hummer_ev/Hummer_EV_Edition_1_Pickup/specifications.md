@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for GMC Hummer EV Editio
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				746 KW (1014 hp /1000 bhp)

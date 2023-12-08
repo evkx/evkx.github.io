@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for BYD Atto 3. Click on
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				150 KW (204 hp /201 bhp)

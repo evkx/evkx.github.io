@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Cybertruck Cyb
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				630 KW (857 hp /845 bhp)

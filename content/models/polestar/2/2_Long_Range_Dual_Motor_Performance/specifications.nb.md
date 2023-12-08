@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 2 Long Ran
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				350 KW (476 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 2 Long Ran
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				740 nm

@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EX90 Twin Mot
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				380 KW (517 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EX90 Twin Mot
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				910 nm

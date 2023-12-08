@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo C40 Recharge 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				300 KW (408 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo C40 Recharge 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				670 nm

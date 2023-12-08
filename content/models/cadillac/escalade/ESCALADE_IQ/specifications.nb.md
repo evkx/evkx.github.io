@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac ESCALADE I
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				560 KW (761 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac ESCALADE I
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				1064 nm

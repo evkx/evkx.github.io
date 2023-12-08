@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Ford F150 Lightning 
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				433 KW (589 hp /581 bhp)

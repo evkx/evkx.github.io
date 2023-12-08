@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Nio ET5 Touring. Cli
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				480 KW (653 hp /644 bhp)

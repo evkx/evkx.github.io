@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi Y Performance
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				371 KW (504 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi Y Performance
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				620 nm

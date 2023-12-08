@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for CUPRA Tavascan VZ. C
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				250 KW (340 hp /335 bhp)

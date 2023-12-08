@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr X Long Range 
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				200 KW (272 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr X Long Range 
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				343 nm

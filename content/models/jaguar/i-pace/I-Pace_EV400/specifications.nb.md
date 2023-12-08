@@ -28,7 +28,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Jaguar I-Pace EV400
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt i kW
+				Maks effekt
 			</td>
 			<td>
 				294 KW (400 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Jaguar I-Pace EV400
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment i Nm
+				Dreiemoment
 			</td>
 			<td>
 				696 nm

@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for BYD Seal AWD. Click 
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				390 KW (530 hp /523 bhp)

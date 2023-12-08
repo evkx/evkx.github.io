@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Sp
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				320 KW (435 hp /429 bhp)
@@ -36,7 +36,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Sp
 		</tr>
 		<tr>
 			<td>
-				Peak electrical output boost in kW
+				Peak power with  boost
 			</td>
 			<td>
 				390 Kw
@@ -84,7 +84,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Sp
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				320 KW (435 hp /429 bhp)
@@ -92,7 +92,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Sp
 		</tr>
 		<tr>
 			<td>
-				Peak electrical output boost in kW
+				Peak power with  boost
 			</td>
 			<td>
 				420 Kw

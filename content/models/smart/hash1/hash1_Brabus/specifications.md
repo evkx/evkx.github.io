@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Smart #1 Brabus. Cli
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				315 KW (428 hp /422 bhp)

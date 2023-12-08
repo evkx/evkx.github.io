@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for BMW iX M60. Click on
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				455 KW (619 hp /610 bhp)

@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for BMW iX2 xDrive30. Cl
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				230 KW (313 hp /308 bhp)

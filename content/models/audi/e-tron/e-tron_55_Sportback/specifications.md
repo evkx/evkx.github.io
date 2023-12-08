@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron 55 Sport
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				265 KW (360 hp /355 bhp)
@@ -36,7 +36,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron 55 Sport
 		</tr>
 		<tr>
 			<td>
-				Peak electrical output boost in kW
+				Peak power with  boost
 			</td>
 			<td>
 				300 Kw

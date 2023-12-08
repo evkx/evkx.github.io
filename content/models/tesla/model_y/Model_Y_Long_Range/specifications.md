@@ -28,7 +28,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model Y Long R
 	<tbody>
 		<tr>
 			<td>
-				Peak electrical output in kW
+				Peak power
 			</td>
 			<td>
 				324 KW (441 hp /434 bhp)
