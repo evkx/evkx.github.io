@@ -22,6 +22,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
 <tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>529km / 329 mi</td><td> 40,3 kWh/100km / 1,5 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>529km /329mi</td><td> 40,3 kWh/100km / 1,5 mi/kWh  </td></tr> 
 </tbody></table>
 
 ### Official test cycle results with added heating
@@ -33,6 +34,7 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 <tr><th></th><th>  Range </th><th>Change </th></tr>
 <tbody>
 <tr><td>  EPA-combined basic trim with 2KW AC </td><td> 297km /185 mi </td><td> -9,7%</td></tr>
+<tr><td>  EPA-combined top trim with 2KW AC </td><td> 297km /185 mi </td><td> -9,7%</td></tr>
 </tbody></table>
 
 ### Real world range estimates

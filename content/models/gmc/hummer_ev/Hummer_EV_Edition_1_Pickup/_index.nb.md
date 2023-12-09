@@ -29,7 +29,7 @@ Vi har delt vår GMC Hummer EV Edition 1 Pickup-artikkel i seksjoner. Hvis du vi
 
 ## Ytelse
 
-GMC Hummer EV Edition 1 Pickup har en maksimal effekt på 746KW (1014hk).Totalt dreiemoment er 1485nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,5 sekunder. Topphastigheten er 170 km/t.
+GMC Hummer EV Edition 1 Pickup har en maksimal effekt på 746KW (1014hk).Totalt dreiemoment er 1150nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,5 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -185,3 +185,6 @@ Med Super Cruise  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 Lastkapasiteten i lastebilen er 1039 liter. Sengebredden er 1272 mm, og lengden er 1524 mm. Maksimal lastevekt i lasteplanet er 614 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 320 liter. Maksimumsvekten til bilen er 4717 kg, og med basisvekten på 4103 kg kan du maksimalt laste 614 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3402, og på ubremset er den 750 kg.
+### Tilgjengelighet & pris
+
+Denne modellen hadde verdenspremiere 20.10.2020, og leveringene startet i December 2021.

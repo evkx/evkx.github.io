@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for GMC Hummer EV Editi
 				Dreiemoment
 			</td>
 			<td>
-				1485 nm
+				1150 nm
 			</td>
 		</tr>
 		<tr>
