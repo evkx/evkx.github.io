@@ -400,7 +400,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Damper type front
+				<a href="/technology/suspension/">Damper type front</a>
 			</td>
 			<td>
 				Monotube
@@ -408,7 +408,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Damper type rear
+				<a href="/technology/suspension/">Damper type rear</a>
 			</td>
 			<td>
 				Monotube
@@ -416,7 +416,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Spring type front
+				<a href="/technology/suspension/">Spring type front</a>
 			</td>
 			<td>
 				Coil
@@ -424,7 +424,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Spring type rear
+				<a href="/technology/suspension/">Spring type rear</a>
 			</td>
 			<td>
 				Coil
@@ -432,7 +432,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Suspension type front
+				<a href="/technology/suspension/">Suspension type front</a>
 			</td>
 			<td>
 				MacPhersonStrut
@@ -440,7 +440,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Suspension type rear
+				<a href="/technology/suspension/">Suspension type rear</a>
 			</td>
 			<td>
 				Multilink
