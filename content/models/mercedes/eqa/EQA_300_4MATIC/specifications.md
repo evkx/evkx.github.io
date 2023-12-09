@@ -295,7 +295,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				Curb weight
+				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
 				2030 kg (4475 lbs)
@@ -303,7 +303,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maximum total weight
+				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
 				2535 kg (5589 lbs)
@@ -311,7 +311,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maximum load including weight driver
+				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
 				505 kg (1113 lbs)
@@ -319,7 +319,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -327,7 +327,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Trunk capacity
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
 				340 liter (12 cu-ft)
@@ -335,7 +335,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Trunk capacity with all rear seats folded
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
 				1320 liter (47 cu-ft)
@@ -343,7 +343,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max trailer weight braked
+				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
 				1800 kg (3968 lbs)
@@ -351,7 +351,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max trailer weight Un braked
+				<a href="/technology/cargoandtowing/towing/">Max trailer weight Un braked</a>
 			</td>
 			<td>
 				750 kg (1653 lbs)
@@ -359,7 +359,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maximum tow ball weight
+				<a href="/technology/cargoandtowing/hitchcargo/">Maximum tow ball weight</a>
 			</td>
 			<td>
 				80 kg (176 lbs)

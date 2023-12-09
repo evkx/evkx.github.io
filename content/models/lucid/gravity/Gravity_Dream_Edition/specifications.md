@@ -239,7 +239,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				Curb weight
+				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
 				2500 kg (5512 lbs)
@@ -247,7 +247,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maximum total weight
+				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
 				3280 kg (7231 lbs)
@@ -255,7 +255,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maximum load including weight driver
+				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
 				780 kg (1720 lbs)
@@ -263,7 +263,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -271,7 +271,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Trunk capacity
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
 				700 liter (25 cu-ft)
@@ -279,7 +279,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Trunk capacity with all rear seats folded
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
 				3170 liter (112 cu-ft)
@@ -287,7 +287,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Trunk capacity with third row seats folded
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with third row seats folded</a>
 			</td>
 			<td>
 				1200 liter (42 cu-ft)
@@ -295,7 +295,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Size frunk
+				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
 			</td>
 			<td>
 				226 liter (8 cu-ft)
@@ -303,7 +303,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max trailer weight braked
+				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
 				2700 kg (5952 lbs)
@@ -311,7 +311,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max trailer weight Un braked
+				<a href="/technology/cargoandtowing/towing/">Max trailer weight Un braked</a>
 			</td>
 			<td>
 				750 kg (1653 lbs)

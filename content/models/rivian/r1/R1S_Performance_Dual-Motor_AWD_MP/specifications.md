@@ -199,7 +199,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				Maks roof cargo
+				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
 			</td>
 			<td>
 				113 kg (249 lbs)
@@ -207,7 +207,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Trunk capacity
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
 				498 liter (18 cu-ft)
@@ -215,7 +215,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Trunk capacity with all rear seats folded
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
 				2965 liter (105 cu-ft)
@@ -223,7 +223,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Trunk capacity with third row seats folded
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with third row seats folded</a>
 			</td>
 			<td>
 				1132 liter (40 cu-ft)
@@ -231,7 +231,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Size frunk
+				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
 			</td>
 			<td>
 				314 liter (11 cu-ft)
@@ -239,7 +239,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max trailer weight braked
+				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
 				3500 kg (7716 lbs)
@@ -247,7 +247,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max trailer weight Un braked
+				<a href="/technology/cargoandtowing/towing/">Max trailer weight Un braked</a>
 			</td>
 			<td>
 				750 kg (1653 lbs)
@@ -255,7 +255,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maximum tow ball weight
+				<a href="/technology/cargoandtowing/hitchcargo/">Maximum tow ball weight</a>
 			</td>
 			<td>
 				100 kg (220 lbs)

@@ -215,7 +215,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				Curb weight
+				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
 				2858 kg (6301 lbs)
@@ -223,7 +223,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maximum total weight
+				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
 				3870 kg (8532 lbs)
@@ -231,7 +231,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maximum load including weight driver
+				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
 				1012 kg (2231 lbs)
@@ -239,7 +239,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
 			</td>
 			<td>
 				113 kg (249 lbs)
@@ -247,7 +247,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Trunk capacity
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
 				498 liter (18 cu-ft)
@@ -255,7 +255,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Trunk capacity with all rear seats folded
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
 				2965 liter (105 cu-ft)
@@ -263,7 +263,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Trunk capacity with third row seats folded
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with third row seats folded</a>
 			</td>
 			<td>
 				1132 liter (40 cu-ft)
@@ -271,7 +271,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Size frunk
+				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
 			</td>
 			<td>
 				314 liter (11 cu-ft)
@@ -279,7 +279,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Bed volume
+				<a href="/technology/cargoandtowing/bedcargo/">Bed volume</a>
 			</td>
 			<td>
 				1925 liter (68 cu-ft)
@@ -287,7 +287,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max weight cargo bed
+				<a href="/technology/cargoandtowing/bedcargo/">Max weight cargo bed</a>
 			</td>
 			<td>
 				800 kg (1764 lbs)
@@ -295,7 +295,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Bed length
+				<a href="/technology/cargoandtowing/bedcargo/">Bed length</a>
 			</td>
 			<td>
 				1371 mm (54,0")
@@ -303,7 +303,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Bed width
+				<a href="/technology/cargoandtowing/bedcargo/">Bed width</a>
 			</td>
 			<td>
 				1275 mm (50,2")
@@ -311,7 +311,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max trailer weight braked
+				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
 				5000 kg (11023 lbs)
@@ -319,7 +319,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max trailer weight Un braked
+				<a href="/technology/cargoandtowing/towing/">Max trailer weight Un braked</a>
 			</td>
 			<td>
 				750 kg (1653 lbs)
@@ -327,7 +327,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maximum tow ball weight
+				<a href="/technology/cargoandtowing/hitchcargo/">Maximum tow ball weight</a>
 			</td>
 			<td>
 				100 kg (220 lbs)
