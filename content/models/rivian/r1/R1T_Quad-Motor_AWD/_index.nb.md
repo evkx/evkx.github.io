@@ -210,3 +210,6 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2880" height="1920"  >}}
 
+### Tilgjengelighet & pris
+
+Denne modellen hadde verdenspremiere 26.11.2018, og leveringene startet i September 2021.

@@ -212,3 +212,6 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD MP" width="1920" height="1080"  >}}
 
+### Tilgjengelighet & pris
+
+Denne modellen hadde verdenspremiere 26.11.2018, og leveringene startet i December 2021.

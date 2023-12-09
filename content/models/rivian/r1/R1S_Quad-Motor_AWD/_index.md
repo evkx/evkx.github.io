@@ -212,3 +212,6 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="1920" height="1080"  >}}
 
+### Availability & Pricing
+
+This model had a world premiere on 26.11.2018, and deliveries started in December 2021.
