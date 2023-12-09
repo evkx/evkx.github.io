@@ -892,31 +892,206 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</tr>
 	</thead>
 	<tbody>
-<tr><td>Lane keeping</td><td>Ja (Active Lane keeping Assist), standardutstyr</td></tr>
-<tr><td>Lane departure warning</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Døsighetsvarsel</td><td>Ja (Attention Assist), standardutstyr</td></tr>
-<tr><td>Bryggekamera</td><td>Ja, tileggsutstyr</td></tr>
-<tr><td>360-kamera</td><td>Ja, tileggsutstyr</td></tr>
-<tr><td>Alarm for kryssende trafikk bak</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Parkeringssensorer bak</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Parkeringssensorer foran</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Parkeringssensorer på siden</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Hill nedstigningshjelp</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Hill start assist</td><td>Ja, standardutstyr</td></tr>
-<tr><td>AntiLock Braking System</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Automatisk nødbremsing</td><td>Ja (Active Brake Assist), standardutstyr</td></tr>
-<tr><td>Bremseassistent</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Traksjonskontroll</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Unngå krasj i venstresving</td><td>Ja, tileggsutstyr</td></tr>
-<tr><td>Forward Collision Warning</td><td>Ja (Active Emergency Stop Assist), tileggsutstyr</td></tr>
-<tr><td>Elektronisk stabilitetskontroll</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Temperaturadvarsel</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Cross traffic assist</td><td>Ja, tileggsutstyr</td></tr>
-<tr><td>Fartsbegrenser</td><td>Ja (Speed limit assist), standardutstyr</td></tr>
-<tr><td>Effektivitetsassistent</td><td>Ikke tilgjengelig</td></tr>
-<tr><td>Automatisk nødstyring</td><td>Ja (Evasive Steering Assist), tileggsutstyr</td></tr>
-<tr><td>Trafikkskiltgjenkjenning</td><td>Ja (Traffic sign assist), tileggsutstyr</td></tr>
-<tr><td>Nattsyn</td><td>Ikke tilgjengelig</td></tr>
+		<tr>
+			<td>
+				Lane keeping
+			</td>
+			<td>
+				Ja (Active Lane keeping Assist), standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lane departure warning
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Døsighetsvarsel
+			</td>
+			<td>
+				Ja (Attention Assist), standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bryggekamera
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				360-kamera
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Alarm for kryssende trafikk bak
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Parkeringssensorer bak
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Parkeringssensorer foran
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Parkeringssensorer på siden
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hill nedstigningshjelp
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hill start assist
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				AntiLock Braking System
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Automatisk nødbremsing
+			</td>
+			<td>
+				Ja (Active Brake Assist), standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bremseassistent
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Traksjonskontroll
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Unngå krasj i venstresving
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Forward Collision Warning
+			</td>
+			<td>
+				Ja (Active Emergency Stop Assist), tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektronisk stabilitetskontroll
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temperaturadvarsel
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cross traffic assist
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fartsbegrenser
+			</td>
+			<td>
+				Ja (Speed limit assist), standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Effektivitetsassistent
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Automatisk nødstyring
+			</td>
+			<td>
+				Ja (Evasive Steering Assist), tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Trafikkskiltgjenkjenning
+			</td>
+			<td>
+				Ja (Traffic sign assist), tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nattsyn
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -934,9 +1109,30 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</tr>
 	</thead>
 	<tbody>
-<tr><td>Android Auto-støtte</td><td>Ja, tileggsutstyr</td></tr>
-<tr><td>Apple Carplay-støtte</td><td>Ja, tileggsutstyr</td></tr>
-<tr><td>I bilnavigasjon</td><td>Ja, standardutstyr</td></tr>
+		<tr>
+			<td>
+				Android Auto-støtte
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Apple Carplay-støtte
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				I bilnavigasjon
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>

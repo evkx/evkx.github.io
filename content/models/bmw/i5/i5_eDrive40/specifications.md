@@ -774,7 +774,7 @@ This model is available with a seat configuration with five seats.
 	<tbody>
 		<tr>
 			<td>
-				Seat type
+				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
 				PassengerAndDriver
@@ -782,7 +782,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
 			</td>
 			<td>
 			Optional feature
@@ -790,7 +790,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Memory driver seat
+				<a href="/technology/seats/adjustment/#features">Memory driver seat</a>
 			</td>
 			<td>
 			Optional feature
@@ -798,7 +798,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Memory passenger seat
+				<a href="/technology/seats/adjustment/#features">Memory passenger seat</a>
 			</td>
 			<td>
 			Optional feature
@@ -806,7 +806,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Height adjustable headrest
+				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
 			Standard feature
@@ -814,7 +814,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Length adjustable headrest
+				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
 			Not Available
@@ -822,7 +822,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Adjustable thigh support
+				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
 			Not Available
@@ -830,7 +830,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Backrest side bolster adjustment
+				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
 			Optional feature
@@ -838,7 +838,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
 			Not Available
@@ -846,7 +846,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustable thigh support
+				<a href="/technology/seats/adjustment/#adjustment">Electric adjustable thigh support</a>
 			</td>
 			<td>
 			Not Available
@@ -854,7 +854,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
 			Unknown
@@ -862,7 +862,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Leg support passenger
+				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
 			Unknown
@@ -870,7 +870,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric lumbar adjustment
+				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
 			Optional feature
@@ -878,7 +878,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat ventilation
+				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
 			Optional feature
@@ -886,7 +886,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Massage function
+				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
 			Not Available
@@ -911,7 +911,7 @@ This model is available with a seat configuration with five seats.
 	<tbody>
 		<tr>
 			<td>
-				Seat type
+				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
 				PassengerAndDriver
@@ -919,7 +919,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
 			</td>
 			<td>
 			Standard feature
@@ -927,7 +927,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Memory driver seat
+				<a href="/technology/seats/adjustment/#features">Memory driver seat</a>
 			</td>
 			<td>
 			Optional feature
@@ -935,7 +935,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Memory passenger seat
+				<a href="/technology/seats/adjustment/#features">Memory passenger seat</a>
 			</td>
 			<td>
 			Optional feature
@@ -943,7 +943,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Height adjustable headrest
+				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
 			Standard feature
@@ -951,7 +951,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Length adjustable headrest
+				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
 			Not Available
@@ -959,7 +959,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Adjustable thigh support
+				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
 			Not Available
@@ -967,7 +967,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Backrest side bolster adjustment
+				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
 			Standard feature
@@ -975,7 +975,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
 			Not Available
@@ -983,7 +983,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustable thigh support
+				<a href="/technology/seats/adjustment/#adjustment">Electric adjustable thigh support</a>
 			</td>
 			<td>
 			Not Available
@@ -991,7 +991,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
 			Unknown
@@ -999,7 +999,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Leg support passenger
+				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
 			Unknown
@@ -1007,7 +1007,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric lumbar adjustment
+				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
 			Optional feature
@@ -1015,7 +1015,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat ventilation
+				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
 			Not Available
@@ -1023,7 +1023,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Massage function
+				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
 			Not Available
@@ -1051,7 +1051,7 @@ This model is available with a seat configuration with five seats.
 	<tbody>
 		<tr>
 			<td>
-				Seat type
+				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
 				ThreeSeatBench
@@ -1059,7 +1059,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Height adjustable headrest
+				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
 			Not Available
@@ -1067,7 +1067,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Length adjustable headrest
+				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
 			Not Available
@@ -1075,7 +1075,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Adjustable thigh support
+				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
 			Not Available
@@ -1083,7 +1083,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Backrest side bolster adjustment
+				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
 			Not Available
@@ -1091,7 +1091,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
 			Not Available
@@ -1099,7 +1099,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustable thigh support
+				<a href="/technology/seats/adjustment/#adjustment">Electric adjustable thigh support</a>
 			</td>
 			<td>
 			Not Available
@@ -1107,7 +1107,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
 			Unknown
@@ -1115,7 +1115,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Leg support passenger
+				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
 			Unknown
@@ -1123,7 +1123,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric lumbar adjustment
+				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
 			Not Available
@@ -1131,7 +1131,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat ventilation
+				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
 			Not Available
@@ -1139,7 +1139,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Massage function
+				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
 			Not Available
@@ -1162,31 +1162,206 @@ This model is available with a seat configuration with five seats.
 			</tr>
 	</thead>
 	<tbody>
-<tr><td>Lane keeping</td><td>Yes, standard equipment</td></tr>
-<tr><td>Lane departure warning</td><td>Yes, standard equipment</td></tr>
-<tr><td>Drowsiness Alert</td><td>Yes, standard equipment</td></tr>
-<tr><td>Reversing camera</td><td>Yes, optional equipment</td></tr>
-<tr><td>360 camera</td><td>Yes, optional equipment</td></tr>
-<tr><td>Rear cross traffic alert</td><td>Yes, optional equipment</td></tr>
-<tr><td>Rear parking sensors</td><td>Yes, standard equipment</td></tr>
-<tr><td>Front parking sensors</td><td>Yes, standard equipment</td></tr>
-<tr><td>Side parking sensors</td><td>Yes, standard equipment</td></tr>
-<tr><td>Hill descent assist</td><td>Yes, standard equipment</td></tr>
-<tr><td>Hill start assist</td><td>Yes, standard equipment</td></tr>
-<tr><td>AntiLock Braking System</td><td>Yes, standard equipment</td></tr>
-<tr><td>Automatic emergency braking</td><td>Yes, standard equipment</td></tr>
-<tr><td>Brake assist</td><td>Yes, standard equipment</td></tr>
-<tr><td>Traction control</td><td>Yes, standard equipment</td></tr>
-<tr><td>Left turn crash avoidance</td><td>Not available</td></tr>
-<tr><td>Forward Collision Warning</td><td>Yes, optional equipment</td></tr>
-<tr><td>Electronic stability control</td><td>Yes, standard equipment</td></tr>
-<tr><td>Temperature warning</td><td>Yes, standard equipment</td></tr>
-<tr><td>Cross traffic assist</td><td>Not available</td></tr>
-<tr><td>Speed limiter</td><td>Yes, standard equipment</td></tr>
-<tr><td>Efficiency assist</td><td>Not available</td></tr>
-<tr><td>Automatic Emergency Steering</td><td>Yes (Driving Assistant Professional), optional equipment</td></tr>
-<tr><td>Traffic Sign Recognition</td><td>Yes, optional equipment</td></tr>
-<tr><td>Night Vision</td><td>Not available</td></tr>
+		<tr>
+			<td>
+				<a href="/technology/driverassistance/lanekeepingassist/">Lane keeping</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/driverassistance/lanedeparturewarning/">Lane departure warning</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/cameras/">Reversing camera</a>
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/cameras/">360 camera</a>
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/driverassistance/rearcrosstrafficalert/">Rear cross traffic alert</a>
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hill descent assist
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hill start assist
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/driverassistance/antilockbrakingsystem/">AntiLock Braking System</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/driverassistance/automaticemergencybraking/">Automatic emergency braking</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Brake assist
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Traction control
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Left turn crash avoidance
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="Electronic stability control">Electronic stability control</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="Temperature warning">Temperature warning</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Speed limiter
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
+			</td>
+			<td>
+				Yes (Driving Assistant Professional), optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/sensorsandcameras/infrared/">Night Vision</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1204,9 +1379,30 @@ This model is available with a seat configuration with five seats.
 			</tr>
 	</thead>
 	<tbody>
-<tr><td>Android Auto support</td><td>Yes, standard equipment</td></tr>
-<tr><td>Apple Carplay support</td><td>Yes, standard equipment</td></tr>
-<tr><td>In Car navigation</td><td>Yes, standard equipment</td></tr>
+		<tr>
+			<td>
+				<a href="/technology/infotainment/smartphoneintegration/">Android Auto support</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/infotainment/smartphoneintegration/">Apple Carplay support</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/infotainment/navigation/">In Car navigation</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>

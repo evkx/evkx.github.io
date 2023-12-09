@@ -759,31 +759,206 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</tr>
 	</thead>
 	<tbody>
-<tr><td>Lane keeping</td><td></td></tr>
-<tr><td>Lane departure warning</td><td></td></tr>
-<tr><td>Døsighetsvarsel</td><td></td></tr>
-<tr><td>Bryggekamera</td><td>Ja, standardutstyr</td></tr>
-<tr><td>360-kamera</td><td>Ja, tileggsutstyr</td></tr>
-<tr><td>Alarm for kryssende trafikk bak</td><td></td></tr>
-<tr><td>Parkeringssensorer bak</td><td>Ja, tileggsutstyr</td></tr>
-<tr><td>Parkeringssensorer foran</td><td>Ja, tileggsutstyr</td></tr>
-<tr><td>Parkeringssensorer på siden</td><td></td></tr>
-<tr><td>Hill nedstigningshjelp</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Hill start assist</td><td></td></tr>
-<tr><td>AntiLock Braking System</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Automatisk nødbremsing</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Bremseassistent</td><td></td></tr>
-<tr><td>Traksjonskontroll</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Unngå krasj i venstresving</td><td></td></tr>
-<tr><td>Forward Collision Warning</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Elektronisk stabilitetskontroll</td><td></td></tr>
-<tr><td>Temperaturadvarsel</td><td></td></tr>
-<tr><td>Cross traffic assist</td><td></td></tr>
-<tr><td>Fartsbegrenser</td><td></td></tr>
-<tr><td>Effektivitetsassistent</td><td></td></tr>
-<tr><td>Automatisk nødstyring</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Trafikkskiltgjenkjenning</td><td>Ja, tileggsutstyr</td></tr>
-<tr><td>Nattsyn</td><td></td></tr>
+		<tr>
+			<td>
+				Lane keeping
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lane departure warning
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Døsighetsvarsel
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bryggekamera
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				360-kamera
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Alarm for kryssende trafikk bak
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Parkeringssensorer bak
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Parkeringssensorer foran
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Parkeringssensorer på siden
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hill nedstigningshjelp
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hill start assist
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				AntiLock Braking System
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Automatisk nødbremsing
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bremseassistent
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Traksjonskontroll
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Unngå krasj i venstresving
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Forward Collision Warning
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektronisk stabilitetskontroll
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temperaturadvarsel
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cross traffic assist
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fartsbegrenser
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Effektivitetsassistent
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Automatisk nødstyring
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Trafikkskiltgjenkjenning
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nattsyn
+			</td>
+			<td>
+				
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -801,9 +976,30 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</tr>
 	</thead>
 	<tbody>
-<tr><td>Android Auto-støtte</td><td>Ja, standardutstyr</td></tr>
-<tr><td>Apple Carplay-støtte</td><td>Ja, standardutstyr</td></tr>
-<tr><td>I bilnavigasjon</td><td>Ja, tileggsutstyr</td></tr>
+		<tr>
+			<td>
+				Android Auto-støtte
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Apple Carplay-støtte
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				I bilnavigasjon
+			</td>
+			<td>
+				Ja, tileggsutstyr
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>
