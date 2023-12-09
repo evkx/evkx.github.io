@@ -361,7 +361,7 @@ The model offers 2 suspension variants
 	<tbody>
 		<tr>
 			<td>
-				Adjustable height front
+				<a href="/technology/suspension/">Adjustable height front</a>
 			</td>
 			<td>
 				Not available
@@ -369,7 +369,7 @@ The model offers 2 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable height rear
+				<a href="/technology/suspension/">Adjustable height rear</a>
 			</td>
 			<td>
 				Not available
@@ -377,7 +377,7 @@ The model offers 2 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Max ground clearance
+				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
 				174 mm (6,9")
@@ -385,7 +385,7 @@ The model offers 2 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Minimum ground clearance
+				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
 				174 mm (6,9")
@@ -455,7 +455,7 @@ The model offers 2 suspension variants
 	<tbody>
 		<tr>
 			<td>
-				Adjustable height front
+				<a href="/technology/suspension/">Adjustable height front</a>
 			</td>
 			<td>
 				Not available
@@ -463,7 +463,7 @@ The model offers 2 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable height rear
+				<a href="/technology/suspension/">Adjustable height rear</a>
 			</td>
 			<td>
 				Not available
@@ -471,7 +471,7 @@ The model offers 2 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Max ground clearance
+				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
 				174 mm (6,9")
@@ -479,7 +479,7 @@ The model offers 2 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Minimum ground clearance
+				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
 				230 mm (9,1")

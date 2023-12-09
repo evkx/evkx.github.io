@@ -480,7 +480,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				Adaptive suspension
+				<a href="/technology/suspension/">Adaptive suspension</a>
 			</td>
 			<td>
 				Yes, standard equipment
@@ -488,7 +488,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Adjustable damping front
+				<a href="/technology/suspension/">Adjustable damping front</a>
 			</td>
 			<td>
 				Not available
@@ -496,7 +496,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Adjustable damping rear
+				<a href="/technology/suspension/">Adjustable damping rear</a>
 			</td>
 			<td>
 				Not available
@@ -504,7 +504,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Adjustable height front
+				<a href="/technology/suspension/">Adjustable height front</a>
 			</td>
 			<td>
 				Yes, standard equipment
@@ -512,7 +512,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Adjustable height rear
+				<a href="/technology/suspension/">Adjustable height rear</a>
 			</td>
 			<td>
 				Yes, standard equipment
@@ -520,7 +520,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Max ground clearance
+				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
 				150 mm (5,9")
@@ -528,7 +528,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Minimum ground clearance
+				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
 				150 mm (5,9")

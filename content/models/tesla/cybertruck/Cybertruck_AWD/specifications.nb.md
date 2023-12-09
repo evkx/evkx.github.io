@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Cybertruck AW
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				6,1 s
+				4,1 s
 			</td>
 		</tr>
 	</tbody>

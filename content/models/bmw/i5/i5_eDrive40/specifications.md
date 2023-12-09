@@ -404,7 +404,7 @@ The model offers 3 suspension variants
 	<tbody>
 		<tr>
 			<td>
-				Adaptive suspension
+				<a href="/technology/suspension/">Adaptive suspension</a>
 			</td>
 			<td>
 				Not available
@@ -412,7 +412,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable damping front
+				<a href="/technology/suspension/">Adjustable damping front</a>
 			</td>
 			<td>
 				Not available
@@ -420,7 +420,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable damping rear
+				<a href="/technology/suspension/">Adjustable damping rear</a>
 			</td>
 			<td>
 				Not available
@@ -428,7 +428,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable height front
+				<a href="/technology/suspension/">Adjustable height front</a>
 			</td>
 			<td>
 				Not available
@@ -436,7 +436,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable height rear
+				<a href="/technology/suspension/">Adjustable height rear</a>
 			</td>
 			<td>
 				Not available
@@ -444,7 +444,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Max ground clearance
+				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
 				144 mm (5,7")
@@ -452,7 +452,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Minimum ground clearance
+				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
 				144 mm (5,7")
@@ -525,7 +525,7 @@ The model offers 3 suspension variants
 	<tbody>
 		<tr>
 			<td>
-				Adaptive suspension
+				<a href="/technology/suspension/">Adaptive suspension</a>
 			</td>
 			<td>
 				Not available
@@ -533,7 +533,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable damping front
+				<a href="/technology/suspension/">Adjustable damping front</a>
 			</td>
 			<td>
 				Not available
@@ -541,7 +541,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable damping rear
+				<a href="/technology/suspension/">Adjustable damping rear</a>
 			</td>
 			<td>
 				Not available
@@ -549,7 +549,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable height front
+				<a href="/technology/suspension/">Adjustable height front</a>
 			</td>
 			<td>
 				Not available
@@ -557,7 +557,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable height rear
+				<a href="/technology/suspension/">Adjustable height rear</a>
 			</td>
 			<td>
 				Yes, standard equipment
@@ -565,7 +565,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Max ground clearance
+				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
 				136 mm (5,4")
@@ -573,7 +573,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Minimum ground clearance
+				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
 				136 mm (5,4")
@@ -646,7 +646,7 @@ The model offers 3 suspension variants
 	<tbody>
 		<tr>
 			<td>
-				Adaptive suspension
+				<a href="/technology/suspension/">Adaptive suspension</a>
 			</td>
 			<td>
 				Yes, standard equipment
@@ -654,7 +654,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable damping front
+				<a href="/technology/suspension/">Adjustable damping front</a>
 			</td>
 			<td>
 				Yes, standard equipment
@@ -662,7 +662,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable damping rear
+				<a href="/technology/suspension/">Adjustable damping rear</a>
 			</td>
 			<td>
 				Yes, standard equipment
@@ -670,7 +670,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable height front
+				<a href="/technology/suspension/">Adjustable height front</a>
 			</td>
 			<td>
 				Not available
@@ -678,7 +678,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Adjustable height rear
+				<a href="/technology/suspension/">Adjustable height rear</a>
 			</td>
 			<td>
 				Yes, standard equipment
@@ -686,7 +686,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Max ground clearance
+				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
 				140 mm (5,5")
@@ -694,7 +694,7 @@ The model offers 3 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Minimum ground clearance
+				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
 				140 mm (5,5")
