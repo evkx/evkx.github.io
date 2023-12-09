@@ -231,30 +231,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Størrelse bagasjerom
-			</td>
-			<td>
-				498 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Størrelse med alle bakseter lagt ned
-			</td>
-			<td>
-				2965 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Størrelse med tredje rad lagt ned
-			</td>
-			<td>
-				1132 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Størrelse frunk
 			</td>
 			<td>

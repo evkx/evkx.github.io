@@ -211,4 +211,4 @@ Lastkapasiteten i lastebilen er 1495 liter. Sengebredden er 1285 mm, og lengden 
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 20.05.2021, og leveringene startet i December 2021.
+Denne modellen hadde verdenspremiere 19.05.2021, og leveringene startet i December 2021.

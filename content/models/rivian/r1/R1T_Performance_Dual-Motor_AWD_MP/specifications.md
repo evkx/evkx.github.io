@@ -231,30 +231,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
-			</td>
-			<td>
-				498 liter (18 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
-			</td>
-			<td>
-				2965 liter (105 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with third row seats folded</a>
-			</td>
-			<td>
-				1132 liter (40 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
 			</td>
 			<td>

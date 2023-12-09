@@ -211,4 +211,4 @@ The cargo capacity in the truck bed is 1495 liters. The bed width is 1285 mm, an
 
 ### Availability & Pricing
 
-This model had a world premiere on 20.05.2021, and deliveries started in December 2021.
+This model had a world premiere on 19.05.2021, and deliveries started in December 2021.
