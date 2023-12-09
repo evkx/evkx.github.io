@@ -416,15 +416,39 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Fjæringstype foran
+				Type demper foran
 			</td>
 			<td>
-				SteelSpringsWithOilDampers
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fjæringskonstruksjon foran
+				Type demper bak
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring foran
+			</td>
+			<td>
+				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring bak
+			</td>
+			<td>
+				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
 			</td>
 			<td>
 				DoubleWishbone
@@ -432,15 +456,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Fjæringstype bak
-			</td>
-			<td>
-				SteelSpringsWithOilDampers
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fjæringskonstruksjon bak
+				Hjuloppheng bak
 			</td>
 			<td>
 				Multilink

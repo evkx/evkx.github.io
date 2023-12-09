@@ -476,15 +476,39 @@ The model offers 2 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Suspension type front
+				Damper type front
 			</td>
 			<td>
-				AirSuspension
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Suspension construction front
+				Damper type rear
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type front
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type rear
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type front
 			</td>
 			<td>
 				DoubleWishbone
@@ -493,14 +517,6 @@ The model offers 2 suspension variants
 		<tr>
 			<td>
 				Suspension type rear
-			</td>
-			<td>
-				AirSuspension
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Suspension construction rear
 			</td>
 			<td>
 				Multilink
@@ -581,15 +597,39 @@ The model offers 2 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Suspension type front
+				Damper type front
 			</td>
 			<td>
-				AirSuspension
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Suspension construction front
+				Damper type rear
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type front
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type rear
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type front
 			</td>
 			<td>
 				DoubleWishbone
@@ -598,14 +638,6 @@ The model offers 2 suspension variants
 		<tr>
 			<td>
 				Suspension type rear
-			</td>
-			<td>
-				AirSuspension
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Suspension construction rear
 			</td>
 			<td>
 				Multilink

@@ -544,15 +544,39 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Fjæringstype foran
+				Type demper foran
 			</td>
 			<td>
-				SteelSpringsWithOilDampers
+				Monotube
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fjæringskonstruksjon foran
+				Type demper bak
+			</td>
+			<td>
+				Monotube
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring foran
+			</td>
+			<td>
+				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring bak
+			</td>
+			<td>
+				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
 			</td>
 			<td>
 				Multilink
@@ -560,15 +584,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Fjæringstype bak
-			</td>
-			<td>
-				SteelSpringsWithOilDampers
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fjæringskonstruksjon bak
+				Hjuloppheng bak
 			</td>
 			<td>
 				Multilink

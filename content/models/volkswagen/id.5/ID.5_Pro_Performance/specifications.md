@@ -452,15 +452,39 @@ The model offers 2 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Suspension type front
+				Damper type front
 			</td>
 			<td>
-				SteelSpringsWithOilDampers
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Suspension construction front
+				Damper type rear
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type front
+			</td>
+			<td>
+				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type rear
+			</td>
+			<td>
+				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type front
 			</td>
 			<td>
 				MacPhersonStrut
@@ -469,14 +493,6 @@ The model offers 2 suspension variants
 		<tr>
 			<td>
 				Suspension type rear
-			</td>
-			<td>
-				SteelSpringsWithOilDampers
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Suspension construction rear
 			</td>
 			<td>
 				Multilink
@@ -557,15 +573,39 @@ The model offers 2 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Suspension type front
+				Damper type front
 			</td>
 			<td>
-				SteelSpringsWithOilDampers
+				Monotube
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Suspension construction front
+				Damper type rear
+			</td>
+			<td>
+				Monotube
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type front
+			</td>
+			<td>
+				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type rear
+			</td>
+			<td>
+				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type front
 			</td>
 			<td>
 				MacPhersonStrut
@@ -574,14 +614,6 @@ The model offers 2 suspension variants
 		<tr>
 			<td>
 				Suspension type rear
-			</td>
-			<td>
-				SteelSpringsWithOilDampers
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Suspension construction rear
 			</td>
 			<td>
 				Multilink

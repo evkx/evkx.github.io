@@ -440,18 +440,34 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Fjæringstype foran
+				Type demper foran
 			</td>
 			<td>
-				SteelSpringsWithOilDampers
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fjæringstype bak
+				Type demper bak
 			</td>
 			<td>
-				SteelSpringsWithOilDampers
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring foran
+			</td>
+			<td>
+				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring bak
+			</td>
+			<td>
+				Coil
 			</td>
 		</tr>
 	</tbody>

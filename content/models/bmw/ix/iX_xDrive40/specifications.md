@@ -444,18 +444,34 @@ The model offers 2 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Suspension type front
+				Damper type front
 			</td>
 			<td>
-				SteelSpringsWithOilDampers
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Suspension type rear
+				Damper type rear
 			</td>
 			<td>
-				SteelSpringsWithOilDampers
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type front
+			</td>
+			<td>
+				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type rear
+			</td>
+			<td>
+				Coil
 			</td>
 		</tr>
 	</tbody>
@@ -533,18 +549,34 @@ The model offers 2 suspension variants
 		</tr>
 		<tr>
 			<td>
-				Suspension type front
+				Damper type front
 			</td>
 			<td>
-				AirSuspension
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Suspension type rear
+				Damper type rear
 			</td>
 			<td>
-				AirSuspension
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type front
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type rear
+			</td>
+			<td>
+				Air
 			</td>
 		</tr>
 	</tbody>

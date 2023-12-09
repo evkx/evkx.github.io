@@ -440,18 +440,34 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Fjæringstype foran
+				Type demper foran
 			</td>
 			<td>
-				AirSuspension
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fjæringstype bak
+				Type demper bak
 			</td>
 			<td>
-				AirSuspension
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring foran
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring bak
+			</td>
+			<td>
+				Air
 			</td>
 		</tr>
 	</tbody>

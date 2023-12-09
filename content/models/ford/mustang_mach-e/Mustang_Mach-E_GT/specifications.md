@@ -432,15 +432,39 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Suspension type front
+				Damper type front
 			</td>
 			<td>
-				SteelSpringsWithOilDampers
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Suspension construction front
+				Damper type rear
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type front
+			</td>
+			<td>
+				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type rear
+			</td>
+			<td>
+				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type front
 			</td>
 			<td>
 				MacPhersonStrut
@@ -449,14 +473,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		<tr>
 			<td>
 				Suspension type rear
-			</td>
-			<td>
-				SteelSpringsWithOilDampers
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Suspension construction rear
 			</td>
 			<td>
 				Multilink

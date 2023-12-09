@@ -516,15 +516,39 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Fjæringstype foran
+				Type demper foran
 			</td>
 			<td>
-				AirSuspension
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fjæringskonstruksjon foran
+				Type demper bak
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring foran
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring bak
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
 			</td>
 			<td>
 				DoubleWishbone
@@ -532,15 +556,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Fjæringstype bak
-			</td>
-			<td>
-				AirSuspension
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fjæringskonstruksjon bak
+				Hjuloppheng bak
 			</td>
 			<td>
 				Multilink
@@ -621,15 +637,39 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Fjæringstype foran
+				Type demper foran
 			</td>
 			<td>
-				AirSuspension
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fjæringskonstruksjon foran
+				Type demper bak
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring foran
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring bak
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
 			</td>
 			<td>
 				DoubleWishbone
@@ -637,15 +677,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Fjæringstype bak
-			</td>
-			<td>
-				AirSuspension
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fjæringskonstruksjon bak
+				Hjuloppheng bak
 			</td>
 			<td>
 				Multilink
