@@ -209,3 +209,6 @@ The cargo capacity in the truck bed is 1495 liters. The bed width is 1285 mm, an
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1264"  >}}
 
+### Availability & Pricing
+
+This model had a world premiere on 20.05.2021, and deliveries started in December 2021.

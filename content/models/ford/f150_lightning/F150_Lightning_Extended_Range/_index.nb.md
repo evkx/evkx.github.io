@@ -209,3 +209,6 @@ Lastkapasiteten i lastebilen er 1495 liter. Sengebredden er 1285 mm, og lengden 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1264"  >}}
 
+### Tilgjengelighet & pris
+
+Denne modellen hadde verdenspremiere 20.05.2021, og leveringene startet i December 2021.
