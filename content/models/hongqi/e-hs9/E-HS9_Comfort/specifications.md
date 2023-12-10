@@ -918,6 +918,47 @@ Interior.Seatlayout.OnlySix
 	</tbody>
 </table>
 
+## UI and controls
+
+<table class="table table-striped">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Head-up display
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Voice control
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Gesture control
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Infotainment
 
 <table class="table table-striped">

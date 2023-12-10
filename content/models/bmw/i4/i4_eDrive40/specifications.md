@@ -1180,6 +1180,47 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 
+## UI and controls
+
+<table class="table table-striped">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Head-up display
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Voice control
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Gesture control
+			</td>
+			<td>
+				
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Infotainment
 
 <table class="table table-striped">
