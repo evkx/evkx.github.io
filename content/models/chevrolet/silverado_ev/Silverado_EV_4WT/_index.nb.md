@@ -197,3 +197,6 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/trunk_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
+### Tilgjengelighet & pris
+
+Denne modellen hadde verdenspremiere 05.01.2022, og leveringene startet i September 2023.

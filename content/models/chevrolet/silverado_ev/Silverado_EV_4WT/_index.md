@@ -197,3 +197,6 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/trunk_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
+### Availability & Pricing
+
+This model had a world premiere on 05.01.2022, and deliveries started in September 2023.
