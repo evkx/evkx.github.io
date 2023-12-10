@@ -996,5 +996,13 @@ This model is available with a seat configuration with six seats.
 				Yes, 16,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infoainment screens
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>

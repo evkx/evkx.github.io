@@ -848,10 +848,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				UIAndControls.ScreenLayout.DigitalDriverDisplay
+			</td>
+			<td>
+				UIAndControls.ScreenLayout.DigitalDriverDisplay.WithSize
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Digital driver display
 			</td>
 			<td>
-				Ja, 9
+				Ja, 15,2
 			</td>
 		</tr>
 	</tbody>

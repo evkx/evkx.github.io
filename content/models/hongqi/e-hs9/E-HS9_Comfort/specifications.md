@@ -996,5 +996,13 @@ Interior.Seatlayout.OnlySix
 				Yes, 16,2
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infoainment screens
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>

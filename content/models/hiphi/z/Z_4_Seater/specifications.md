@@ -903,5 +903,13 @@ This model is available with a seat configuration with four seats.
 				Not available
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infoainment screens
+			</td>
+			<td>
+				Yes, 15
+			</td>
+		</tr>
 	</tbody>
 </table>

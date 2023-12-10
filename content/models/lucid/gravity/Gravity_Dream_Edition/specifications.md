@@ -1102,5 +1102,13 @@ Interior.Seatlayout.OnlySix
 				Not available
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infoainment screens
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>

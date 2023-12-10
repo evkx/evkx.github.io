@@ -853,5 +853,13 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Yes, 5
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infoainment screens
+			</td>
+			<td>
+				Yes, 10,25
+			</td>
+		</tr>
 	</tbody>
 </table>

@@ -990,10 +990,18 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
+				UIAndControls.ScreenLayout.DigitalDriverDisplay
+			</td>
+			<td>
+				UIAndControls.ScreenLayout.DigitalDriverDisplay.WithSize
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Digital driver display
 			</td>
 			<td>
-				Ja, 16,2
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>

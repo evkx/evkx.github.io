@@ -996,10 +996,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				UIAndControls.ScreenLayout.DigitalDriverDisplay
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Ja, 15
 			</td>
 		</tr>
 	</tbody>

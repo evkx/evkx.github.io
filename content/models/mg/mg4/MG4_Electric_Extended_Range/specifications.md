@@ -951,5 +951,13 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Yes, 7
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infoainment screens
+			</td>
+			<td>
+				Yes, 10,2
+			</td>
+		</tr>
 	</tbody>
 </table>

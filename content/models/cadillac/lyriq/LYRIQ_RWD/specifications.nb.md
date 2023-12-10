@@ -886,10 +886,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				UIAndControls.ScreenLayout.DigitalDriverDisplay
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Ja, 33
 			</td>
 		</tr>
 	</tbody>

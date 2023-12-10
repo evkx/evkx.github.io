@@ -895,6 +895,14 @@ This model is available with a seat configuration with four seats.
 				Yes, 14
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infoainment screens
+			</td>
+			<td>
+				Yes, 16,9
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>
