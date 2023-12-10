@@ -1013,15 +1013,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				UIAndControls.ScreenLayout.DigitalDriverDisplay
+				Digital driver display
 			</td>
 			<td>
-				UIAndControls.ScreenLayout.DigitalDriverDisplay.WithSize
+				Ja, 10,2
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				Infotainment skjerm
 			</td>
 			<td>
 				Ja, 15,5

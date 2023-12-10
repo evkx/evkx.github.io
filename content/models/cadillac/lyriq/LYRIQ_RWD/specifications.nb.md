@@ -886,7 +886,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				UIAndControls.ScreenLayout.DigitalDriverDisplay
+				Digital driver display
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -894,7 +894,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				Infotainment skjerm
 			</td>
 			<td>
 				Ja, 33

@@ -1004,7 +1004,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 		</tr>
 		<tr>
 			<td>
-				UIAndControls.ScreenLayout.DigitalDriverDisplay
+				Digital driver display
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1012,7 +1012,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				Infotainment skjerm
 			</td>
 			<td>
 				Ja, 15

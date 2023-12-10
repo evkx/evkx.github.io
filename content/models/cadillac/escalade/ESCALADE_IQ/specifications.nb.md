@@ -997,7 +997,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				UIAndControls.ScreenLayout.DigitalDriverDisplay
+				Digital driver display
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1005,7 +1005,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				Infotainment skjerm
 			</td>
 			<td>
 				Ja, to 35" og 11"

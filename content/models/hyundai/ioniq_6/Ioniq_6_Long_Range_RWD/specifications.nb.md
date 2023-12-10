@@ -1011,15 +1011,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				UIAndControls.ScreenLayout.DigitalDriverDisplay
+				Digital driver display
 			</td>
 			<td>
-				UIAndControls.ScreenLayout.DigitalDriverDisplay.WithSize
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				Infotainment skjerm
 			</td>
 			<td>
 				Ja, 12,3

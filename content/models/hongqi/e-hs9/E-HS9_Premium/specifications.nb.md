@@ -990,15 +990,15 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				UIAndControls.ScreenLayout.DigitalDriverDisplay
+				Digital driver display
 			</td>
 			<td>
-				UIAndControls.ScreenLayout.DigitalDriverDisplay.WithSize
+				Ja, 16,2
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				Infotainment skjerm
 			</td>
 			<td>
 				Ja, to 16,2" og 10,2"
