@@ -41,7 +41,7 @@ Med overboost har Volkswagen ID.4 GTX 4MOTION (GEN1) en maksimal effekt på 220K
 
 Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 496 til 409 km (308-254 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.5kWh/100 km for basisversjonen og 18.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 496 til 409 km (308-254 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.5kWh/100 km for basisversjonen og 18.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder. 
 

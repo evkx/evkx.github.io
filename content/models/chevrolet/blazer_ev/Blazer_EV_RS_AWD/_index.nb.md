@@ -35,7 +35,7 @@ Chevrolet Blazer EV RS AWD har en maksimal effekt på 214KW (291hk).Totalt dreie
 
 Batteriet har en bruttokapasitet på 85kWh og en nettokapasitet på 80kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (5,9%).
 
- [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 279 miles (449 km). Forbruket er 3.5mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 279 miles (449 km). Forbruket er 3.5mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 190kW. En full lading fra 0 - 100 % vil ta 138 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 68%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 115kW. Hver ladeøkt vil ta 25 minutter og 26 sekunder. 
 

@@ -35,7 +35,7 @@ Tesla Cybertruck Cyberbeast har en maksimal effekt på 630KW (857hk).Totalt drei
 
 Batteriet har en bruttokapasitet på 122,4kWh og en nettokapasitet på 120kWh, noe som betyr at du har et 2,4kWh-buffer for beskyttelse. (2,0%).
 
- [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 320 miles (515 km). Forbruket er 2.7mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 320 miles (515 km). Forbruket er 2.7mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 99 minutter, mens et mer vanlig scenario på 10-80 % vil ta 38 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 152kW. Hver ladeøkt vil ta 17 minutter og 28 sekunder. 
 
@@ -65,7 +65,7 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Tesla Cybertruck Cyberbeast. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
+Dynamisk styring er standard-funksjonen på Tesla Cybertruck Cyberbeast. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte. 
 
 ### Bremser
 
@@ -221,7 +221,7 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i lastebilen er 1897,23 liter. Sengebredden er 1295 mm, og lengden er 1849 mm. Maksimal lastevekt i lasteplanet er 1134 kg. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4159 kg, og med basisvekten på 3104 kg kan du maksimalt laste 1055 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i lastebilen er 1897,23 liter. Bredden på lasteplanet er 1295 mm, og lengden er 1849 mm. Maksimal lastevekt i lasteplanet er 1134 kg. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4159 kg, og med basisvekten på 3104 kg kan du maksimalt laste 1055 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 4990, og på ubremset er den 750 kg.
 

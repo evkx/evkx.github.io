@@ -35,7 +35,7 @@ MG MG4 Electric Extended Range har en maksimal effekt på 150KW (204hk).Totalt d
 
 Batteriet har en bruttokapasitet på 77kWh og en nettokapasitet på 74,4kWh, noe som betyr at du har et 2,6kWh-buffer for beskyttelse. (3,4%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 520 km (323 mi). Forbruket er 14.3kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 520 km (323 mi). Forbruket er 14.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 101 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 100kW. Hver ladeøkt vil ta 25 minutter og 33 sekunder. 
 

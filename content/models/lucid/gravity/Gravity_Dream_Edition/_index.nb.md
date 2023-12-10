@@ -35,7 +35,7 @@ Lucid Gravity Dream Edition har en maksimal effekt på 600KW (816hk).Totalt drei
 
 Batteriet har en bruttokapasitet på 124kWh og en nettokapasitet på 122kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (1,6%).
 
- [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 440 miles (708 km). Forbruket er 3.6mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 440 miles (708 km). Forbruket er 3.6mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 81 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 176kW. Hver ladeøkt vil ta 18 minutter og 16 sekunder. 
 

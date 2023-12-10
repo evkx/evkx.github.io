@@ -40,7 +40,7 @@ Porsche Taycan 4S Sport Turismo har to batterialternativer med forskjellige spes
 
 Batteriet har en bruttokapasitet på 79,2kWh og en nettokapasitet på 71kWh, noe som betyr at du har et 8,2kWh-buffer for beskyttelse. (10,4%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 441 til 358 km (274-223 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.1kWh/100 km for basisversjonen og 19.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 441 til 358 km (274-223 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.1kWh/100 km for basisversjonen og 19.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 225kW. En full lading fra 0 - 100 % vil ta 45 minutter, mens et mer vanlig scenario på 10-80 % vil ta 19 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 67%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 136kW. Hver ladeøkt vil ta 21 minutter og 2 sekunder. 
 
@@ -49,7 +49,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 Batteriet har en bruttokapasitet på 93,4kWh og en nettokapasitet på 83,7kWh, noe som betyr at du har et 9,7kWh-buffer for beskyttelse. (10,4%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 498 til 417 km (310-259 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.1kWh/100 km for basisversjonen og 19.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 498 til 417 km (310-259 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.1kWh/100 km for basisversjonen og 19.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 270kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 165kW. Hver ladeøkt vil ta 19 minutter og 53 sekunder. 
 
@@ -77,7 +77,7 @@ Du kan bestille Porsche Taycan 4S Sport Turismo med en alternativ Adaptive Air S
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Porsche Taycan 4S Sport Turismo. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som tilvalg-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
+Dynamisk styring er standard-funksjonen på Porsche Taycan 4S Sport Turismo. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som tilvalg-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte. 
 
 ### Bremser
 

@@ -35,7 +35,7 @@ Mercedes-EQ EQE 500 4MATIC har en maksimal effekt på 300KW (408hk).Totalt dreie
 
 Batteriet har en bruttokapasitet på 96,12kWh og en nettokapasitet på 90,6kWh, noe som betyr at du har et 5,52kWh-buffer for beskyttelse. (5,7%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 596 til 505 km (370-314 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.2kWh/100 km for basisversjonen og 17.9kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 596 til 505 km (370-314 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.2kWh/100 km for basisversjonen og 17.9kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 170kW. En full lading fra 0 - 100 % vil ta 55 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 64%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 121kW. Hver ladeøkt vil ta 28 minutter og 48 sekunder. 
 
@@ -65,7 +65,7 @@ standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempings
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Mercedes-EQ EQE 500 4MATIC. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
+Dynamisk styring er standard-funksjonen på Mercedes-EQ EQE 500 4MATIC. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte. 
 
 ### Bremser
 

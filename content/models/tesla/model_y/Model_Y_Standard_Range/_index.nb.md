@@ -38,7 +38,7 @@ Tesla Model Y Standard Range har tre batterialternativer med forskjellige spesif
 
 Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 55kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (8,3%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 430 km (267 mi). Forbruket er 12.8kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 430 km (267 mi). Forbruket er 12.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 52 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 47%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 89kW. Hver ladeøkt vil ta 17 minutter og 30 sekunder. 
 
@@ -47,7 +47,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 55kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (8,3%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 430 km (267 mi). Forbruket er 12.8kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 430 km (267 mi). Forbruket er 12.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 37 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 113kW. Hver ladeøkt vil ta 18 minutter og 28 sekunder. 
 
@@ -56,7 +56,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 Batteriet har en bruttokapasitet på 70kWh og en nettokapasitet på 68,5kWh, noe som betyr at du har et 1,5kWh-buffer for beskyttelse. (2,1%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 430 km (267 mi). Forbruket er 12.8kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 430 km (267 mi). Forbruket er 12.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 84 minutter, mens et mer vanlig scenario på 10-80 % vil ta 41 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 36%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 82kW. Hver ladeøkt vil ta 18 minutter og 60 sekunder. 
 

@@ -35,7 +35,7 @@ Chevrolet Silverado EV 4WT har en maksimal effekt på 380KW (517hk).Totalt dreie
 
 Batteriet har en bruttokapasitet på 220kWh og en nettokapasitet på 213kWh, noe som betyr at du har et 7kWh-buffer for beskyttelse. (3,2%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
- [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruket er 2.1mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruket er 2.1mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 350kW. En full lading fra 0 - 100 % vil ta 139 minutter, mens et mer vanlig scenario på 10-80 % vil ta 48 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 52%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 245kW. Hver ladeøkt vil ta 27 minutter og 39 sekunder. 
 
@@ -190,7 +190,7 @@ Med Super Cruise  nivå 1-systemet får du følgende kjøreautomatiseringsfunksj
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i lastebilen er 1039 liter. Sengebredden er 1286 mm, og lengden er 1803 mm. Maksimal lastevekt i lasteplanet er 614 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 303 liter. Maksimumsvekten til bilen er 4531 kg, og med basisvekten på 3882 kg kan du maksimalt laste 649 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i lastebilen er 1039 liter. Bredden på lasteplanet er 1286 mm, og lengden er 1803 mm. Maksimal lastevekt i lasteplanet er 614 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 303 liter. Maksimumsvekten til bilen er 4531 kg, og med basisvekten på 3882 kg kan du maksimalt laste 649 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 4536, og på ubremset er den 750 kg.
 

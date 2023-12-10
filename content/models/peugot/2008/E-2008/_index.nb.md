@@ -35,7 +35,7 @@ Peugot E-2008 har en maksimal effekt på 115KW (156hk).Totalt dreiemoment er 260
 
 Batteriet har en bruttokapasitet på 54kWh og en nettokapasitet på 50,8kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (5,9%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 406 km (252 mi). Forbruket er 12.5kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 406 km (252 mi). Forbruket er 12.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 100kW. En full lading fra 0 - 100 % vil ta 57 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 66kW. Hver ladeøkt vil ta 24 minutter og 25 sekunder. 
 

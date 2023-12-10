@@ -35,7 +35,7 @@ GMC Hummer EV Edition 1 Pickup har en maksimal effekt på 746KW (1014hk).Totalt 
 
 Batteriet har en bruttokapasitet på 220kWh og en nettokapasitet på 213kWh, noe som betyr at du har et 7kWh-buffer for beskyttelse. (3,2%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
- [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 329 miles (529 km). Forbruket er 1.5mi/kWh for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 329 miles (529 km). Forbruket er 1.5mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 350kW. En full lading fra 0 - 100 % vil ta 139 minutter, mens et mer vanlig scenario på 10-80 % vil ta 48 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 52%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 245kW. Hver ladeøkt vil ta 27 minutter og 39 sekunder. 
 
@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 GMC Hummer EV Edition 1 Pickup har et firehjulsdriftssystem støttet av tre motorer. En på forakselen og to på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 257 mm, og maksimum er 406 mm. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 257 mm, og maksimum er 406 mm. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte. 
 
 ### Bremser
 
@@ -182,7 +182,7 @@ Med Super Cruise  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i lastebilen er 1039 liter. Sengebredden er 1272 mm, og lengden er 1524 mm. Maksimal lastevekt i lasteplanet er 614 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 320 liter. Maksimumsvekten til bilen er 4717 kg, og med basisvekten på 4103 kg kan du maksimalt laste 614 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i lastebilen er 1039 liter. Bredden på lasteplanet er 1272 mm, og lengden er 1524 mm. Maksimal lastevekt i lasteplanet er 614 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 320 liter. Maksimumsvekten til bilen er 4717 kg, og med basisvekten på 4103 kg kan du maksimalt laste 614 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3402, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris

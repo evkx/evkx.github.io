@@ -35,7 +35,7 @@ HiPhi Y Performance har en maksimal effekt på 371KW (504hk).Totalt dreiemoment 
 
 Batteriet har en bruttokapasitet på 115kWh og en nettokapasitet på 109kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (5,2%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 620 km (385 mi). Forbruket er 17.6kWh/100 km for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 620 km (385 mi). Forbruket er 17.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 91 minutter, mens et mer vanlig scenario på 10-80 % vil ta 47 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 98kW. Hver ladeøkt vil ta 30 minutter og 56 sekunder. 
 
@@ -61,7 +61,7 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på HiPhi Y Performance. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
+Dynamisk styring er standard-funksjonen på HiPhi Y Performance. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte. 
 
 ### Bremser
 

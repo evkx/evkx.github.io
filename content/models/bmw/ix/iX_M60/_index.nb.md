@@ -35,7 +35,7 @@ BMW iX M60 har en maksimal effekt på 455KW (619hk).Totalt dreiemoment er 765nm.
 
 Batteriet har en bruttokapasitet på 111kWh og en nettokapasitet på 105,2kWh, noe som betyr at du har et 5,8kWh-buffer for beskyttelse. (5,2%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 561 til 502 km (349-312 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.8kWh/100 km for basisversjonen og 21.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 561 til 502 km (349-312 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.8kWh/100 km for basisversjonen og 21.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 58 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 135kW. Hver ladeøkt vil ta 23 minutter og 25 sekunder. 
 
@@ -65,7 +65,7 @@ Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på BMW iX M60. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du går sakte. 
+Dynamisk styring er standard-funksjonen på BMW iX M60. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte. 
 
 ### Bremser
 

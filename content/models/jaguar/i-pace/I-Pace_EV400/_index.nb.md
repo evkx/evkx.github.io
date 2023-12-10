@@ -35,7 +35,7 @@ Jaguar I-Pace EV400 har en maksimal effekt på 294KW (400hk).Totalt dreiemoment 
 
 Batteriet har en bruttokapasitet på 90kWh og en nettokapasitet på 84,7kWh, noe som betyr at du har et 5,3kWh-buffer for beskyttelse. (5,9%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 470 til 408 km (292-254 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.0kWh/100 km for basisversjonen og 20.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 470 til 408 km (292-254 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.0kWh/100 km for basisversjonen og 20.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 104kW. En full lading fra 0 - 100 % vil ta 105 minutter, mens et mer vanlig scenario på 10-80 % vil ta 49 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 76kW. Hver ladeøkt vil ta 26 minutter og 2 sekunder. 
 

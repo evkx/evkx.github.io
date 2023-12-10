@@ -35,7 +35,7 @@ Ford F150 Lightning Extended Range har en maksimal effekt på 433KW (589hk).Tota
 
 Batteriet har en bruttokapasitet på 150kWh og en nettokapasitet på 131kWh, noe som betyr at du har et 19kWh-buffer for beskyttelse. (12,7%).Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) varierer fra 320 til 300 miles (515–483 km) ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 2.4mi/kWh for basisversjonen og 2.3mi/kWh for topputstyrt versjon for EPA-standardtesten. For flere detaljer om utvalget, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[EPA-rekkevidden](../../../../guides/understandingrange/epa/) varierer fra 320 til 300 miles (515–483 km) ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 2.4mi/kWh for basisversjonen og 2.3mi/kWh for topputstyrt versjon for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 155kW. En full lading fra 0 - 100 % vil ta 130 minutter, mens et mer vanlig scenario på 10-80 % vil ta 49 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 62%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 106kW. Hver ladeøkt vil ta 46 minutter og 54 sekunder. 
 
@@ -204,7 +204,7 @@ Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du flere kjøreautomat
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i lastebilen er 1495 liter. Sengebredden er 1285 mm, og lengden er 1704 mm. Maksimal lastevekt i lasteplanet er 907 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 399 liter. Maksimumsvekten til bilen er 3878 kg, og med basisvekten på 2988 kg kan du maksimalt laste 890 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i lastebilen er 1495 liter. Bredden på lasteplanet er 1285 mm, og lengden er 1704 mm. Maksimal lastevekt i lasteplanet er 907 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 399 liter. Maksimumsvekten til bilen er 3878 kg, og med basisvekten på 2988 kg kan du maksimalt laste 890 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1264"  >}}
