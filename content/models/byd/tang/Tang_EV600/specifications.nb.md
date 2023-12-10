@@ -988,6 +988,14 @@ Interior.Seatlayout.OnlySix
 				Ja, 12,8
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infotainment skjerm fremre passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>

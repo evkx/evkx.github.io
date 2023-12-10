@@ -1042,5 +1042,13 @@ Interior.Seatlayout.OnlySix
 				Ja, 17
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infotainment skjerm fremre passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
 	</tbody>
 </table>

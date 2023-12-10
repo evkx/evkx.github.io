@@ -903,6 +903,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Ja, 16,9
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infotainment skjerm fremre passasjer
+			</td>
+			<td>
+				Ja, 19,9"
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>

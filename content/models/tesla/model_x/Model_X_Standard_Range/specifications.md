@@ -1042,5 +1042,13 @@ Interior.Seatlayout.OnlySix
 				Yes, 17"
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Front passenger Infotainment screen
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>

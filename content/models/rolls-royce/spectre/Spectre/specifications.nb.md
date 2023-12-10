@@ -970,6 +970,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Ja, 10,1
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infotainment skjerm fremre passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>

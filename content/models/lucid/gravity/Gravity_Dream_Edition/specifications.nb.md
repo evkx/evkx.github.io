@@ -1110,5 +1110,13 @@ Interior.Seatlayout.OnlySix
 				Ja, to 34" og 12"
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infotainment skjerm fremre passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
 	</tbody>
 </table>

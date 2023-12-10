@@ -1346,6 +1346,14 @@ This model is available with a seat configuration with five seats.
 				Yes, 12,9"
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Front passenger Infotainment screen
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>

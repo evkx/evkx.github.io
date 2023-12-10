@@ -953,5 +953,13 @@ Interior.Seatlayout.OnlySix
 				Yes, 15,3"
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Front passenger Infotainment screen
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>

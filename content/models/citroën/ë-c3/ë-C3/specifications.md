@@ -861,5 +861,13 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Yes, 10,25"
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Front passenger Infotainment screen
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>

@@ -1110,5 +1110,13 @@ Interior.Seatlayout.OnlySix
 				Yes, two 34" and 12"
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Front passenger Infotainment screen
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>

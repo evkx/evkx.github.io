@@ -1329,6 +1329,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ja, to 10" og 5,5"
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infotainment skjerm fremre passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>

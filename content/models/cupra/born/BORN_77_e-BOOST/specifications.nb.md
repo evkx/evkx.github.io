@@ -1052,6 +1052,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ja, 12
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infotainment skjerm fremre passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>
