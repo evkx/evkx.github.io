@@ -640,7 +640,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-			Valgfri funksjon
+				Valgfri funksjon
 			</td>
 		</tr>
 		<tr>
@@ -648,7 +648,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Minne førersete
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -656,7 +656,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Minne passasjersete
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -664,7 +664,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -672,7 +672,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -680,7 +680,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -688,7 +688,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -696,7 +696,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -704,7 +704,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -712,7 +712,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -720,7 +720,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -728,7 +728,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-			Valgfri funksjon
+				Valgfri funksjon
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +736,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +744,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-			Valgfri funksjon
+				Valgfri funksjon
 			</td>
 		</tr>
 	</tbody>
@@ -777,7 +777,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-			Valgfri funksjon
+				Valgfri funksjon
 			</td>
 		</tr>
 		<tr>
@@ -785,7 +785,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Minne førersete
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -793,7 +793,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Minne passasjersete
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -801,7 +801,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -809,7 +809,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -817,7 +817,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -825,7 +825,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -833,7 +833,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -841,7 +841,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -849,7 +849,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -857,7 +857,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -865,7 +865,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -873,7 +873,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -881,7 +881,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 	</tbody>
@@ -917,7 +917,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -925,7 +925,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -933,7 +933,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -941,7 +941,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -949,7 +949,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -957,7 +957,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -965,7 +965,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -973,7 +973,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -981,7 +981,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -989,7 +989,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -997,7 +997,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 	</tbody>

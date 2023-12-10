@@ -399,7 +399,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -407,7 +407,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minne førersete
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +415,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minne passasjersete
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +423,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +431,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +439,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar lårstøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -447,7 +447,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justering av ryggstøtten
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -455,7 +455,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -463,7 +463,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -471,7 +471,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Fotstøttepassasjerer
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -479,7 +479,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Benstøttepassasjer
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -487,7 +487,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -495,7 +495,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Seteventilasjon
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -503,7 +503,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Massasjefunksjon
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 	</tbody>
@@ -536,7 +536,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +544,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +552,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar lårstøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +560,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justering av ryggstøtten
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -568,7 +568,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -576,7 +576,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -584,7 +584,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Fotstøttepassasjerer
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -592,7 +592,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Benstøttepassasjer
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -600,7 +600,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -608,7 +608,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Seteventilasjon
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -616,7 +616,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Massasjefunksjon
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 	</tbody>

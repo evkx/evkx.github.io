@@ -395,7 +395,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Minne førersete
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Minne passasjersete
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -451,7 +451,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +459,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -467,7 +467,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -475,7 +475,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -491,7 +491,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Seteventilasjon
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -499,7 +499,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Massasjefunksjon
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 	</tbody>
@@ -532,7 +532,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -540,7 +540,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -548,7 +548,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -556,7 +556,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +564,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +572,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +580,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -588,7 +588,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +596,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -604,7 +604,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Seteventilasjon
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +612,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Massasjefunksjon
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>

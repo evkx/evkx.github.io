@@ -416,7 +416,7 @@ Interior.Seatlayout.OnlySix
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ Interior.Seatlayout.OnlySix
 				Minne førersete
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +432,7 @@ Interior.Seatlayout.OnlySix
 				Minne passasjersete
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Interior.Seatlayout.OnlySix
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -448,7 +448,7 @@ Interior.Seatlayout.OnlySix
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -456,7 +456,7 @@ Interior.Seatlayout.OnlySix
 				Justerbar lårstøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -464,7 +464,7 @@ Interior.Seatlayout.OnlySix
 				Justering av ryggstøtten
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -472,7 +472,7 @@ Interior.Seatlayout.OnlySix
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -480,7 +480,7 @@ Interior.Seatlayout.OnlySix
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +488,7 @@ Interior.Seatlayout.OnlySix
 				Fotstøttepassasjerer
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -496,7 +496,7 @@ Interior.Seatlayout.OnlySix
 				Benstøttepassasjer
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +504,7 @@ Interior.Seatlayout.OnlySix
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +512,7 @@ Interior.Seatlayout.OnlySix
 				Seteventilasjon
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +520,7 @@ Interior.Seatlayout.OnlySix
 				Massasjefunksjon
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -553,7 +553,7 @@ Interior.Seatlayout.OnlySix
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +561,7 @@ Interior.Seatlayout.OnlySix
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +569,7 @@ Interior.Seatlayout.OnlySix
 				Justerbar lårstøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +577,7 @@ Interior.Seatlayout.OnlySix
 				Justering av ryggstøtten
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +585,7 @@ Interior.Seatlayout.OnlySix
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +593,7 @@ Interior.Seatlayout.OnlySix
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -601,7 +601,7 @@ Interior.Seatlayout.OnlySix
 				Fotstøttepassasjerer
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +609,7 @@ Interior.Seatlayout.OnlySix
 				Benstøttepassasjer
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -617,7 +617,7 @@ Interior.Seatlayout.OnlySix
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-			Ukjent
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +625,7 @@ Interior.Seatlayout.OnlySix
 				Seteventilasjon
 			</td>
 			<td>
-			Standardfunksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -633,7 +633,7 @@ Interior.Seatlayout.OnlySix
 				Massasjefunksjon
 			</td>
 			<td>
-			Ikke tilgjengelig
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
