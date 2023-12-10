@@ -859,7 +859,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Infoainment screens
 			</td>
 			<td>
-				Yes, 15,2
+				Yes, 15,2"
 			</td>
 		</tr>
 	</tbody>

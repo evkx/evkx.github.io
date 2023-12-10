@@ -956,7 +956,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Infoainment screens
 			</td>
 			<td>
-				Yes, 10,2
+				Yes, 10,2"
 			</td>
 		</tr>
 	</tbody>

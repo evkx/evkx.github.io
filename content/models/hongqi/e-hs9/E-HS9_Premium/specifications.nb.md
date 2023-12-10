@@ -1001,7 +1001,7 @@ Interior.Seatlayout.OnlySix
 				Digital driver display
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, to 16,2" og 10,2"
 			</td>
 		</tr>
 	</tbody>

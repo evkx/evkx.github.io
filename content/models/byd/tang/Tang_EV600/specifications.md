@@ -985,7 +985,7 @@ Interior.Seatlayout.OnlySix
 				Infoainment screens
 			</td>
 			<td>
-				Yes, 12,8
+				Yes, 12,8"
 			</td>
 		</tr>
 	</tbody>

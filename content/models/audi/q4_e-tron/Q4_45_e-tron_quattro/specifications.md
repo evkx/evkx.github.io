@@ -1464,7 +1464,7 @@ This model is available with a seat configuration with five seats.
 				Infoainment screens
 			</td>
 			<td>
-				Yes, 11,6
+				Yes, 11,6"
 			</td>
 		</tr>
 	</tbody>

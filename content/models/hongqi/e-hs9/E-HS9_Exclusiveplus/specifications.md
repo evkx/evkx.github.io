@@ -993,7 +993,7 @@ This model is available with a seat configuration with six seats.
 				Infoainment screens
 			</td>
 			<td>
-				Not available
+				Yes, two 16,2" and 10,2"
 			</td>
 		</tr>
 	</tbody>

@@ -990,7 +990,7 @@ This model is available with a seat configuration with five seats.
 				Infoainment screens
 			</td>
 			<td>
-				Yes, 10,25
+				Yes, 10,25"
 			</td>
 		</tr>
 	</tbody>

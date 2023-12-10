@@ -1107,7 +1107,7 @@ Interior.Seatlayout.OnlySix
 				Infoainment screens
 			</td>
 			<td>
-				Not available
+				Yes, two 34" and 12"
 			</td>
 		</tr>
 	</tbody>

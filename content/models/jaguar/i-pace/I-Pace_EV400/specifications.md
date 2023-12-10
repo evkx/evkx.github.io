@@ -1326,7 +1326,7 @@ This model is available with a seat configuration with five seats.
 				Infoainment screens
 			</td>
 			<td>
-				Not available
+				Yes, two 10" and 5,5"
 			</td>
 		</tr>
 	</tbody>

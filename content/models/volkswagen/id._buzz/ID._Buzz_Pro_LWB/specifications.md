@@ -1295,7 +1295,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Infoainment screens
 			</td>
 			<td>
-				Yes, 12,9
+				Yes, 12,9"
 			</td>
 		</tr>
 	</tbody>

@@ -1736,7 +1736,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, to 10,1" og 8,6"
 			</td>
 		</tr>
 	</tbody>
