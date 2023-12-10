@@ -860,6 +860,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				1
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>
 

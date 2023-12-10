@@ -1130,6 +1130,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				1
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
 	</tbody>
 </table>
 

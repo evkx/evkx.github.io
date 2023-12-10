@@ -978,6 +978,14 @@ This model is available with a seat configuration with six or seven seats.
 				1
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>
 

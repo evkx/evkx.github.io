@@ -1070,6 +1070,14 @@ Interior.Seatlayout.OnlySix
 				1
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
 	</tbody>
 </table>
 
