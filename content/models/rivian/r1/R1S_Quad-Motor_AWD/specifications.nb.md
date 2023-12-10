@@ -88,7 +88,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				Basic trim EPA-forbruk
 			</td>
 			<td>
 				2,6 mi/kWh
@@ -104,7 +104,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk
+				Topputstyrt EPA-forbruk
 			</td>
 			<td>
 				2,3 mi/kWh

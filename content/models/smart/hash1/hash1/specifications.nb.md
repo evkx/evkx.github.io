@@ -128,7 +128,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-rekkevidde
+				EPA-rekkevidde
 			</td>
 			<td>
 				265 mi
@@ -136,7 +136,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk
+				EPA-forbruk
 			</td>
 			<td>
 				4,3 mi/kWh
