@@ -714,7 +714,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Døsighetsvarsel
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -722,7 +721,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Bryggekamera
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -730,7 +728,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				360-kamera
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -738,7 +735,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Alarm for kryssende trafikk bak
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -746,7 +742,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer bak
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -754,7 +749,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer foran
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +756,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer på siden
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -770,7 +763,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill nedstigningshjelp
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -778,7 +770,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill start assist
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -794,7 +785,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødbremsing
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -802,7 +792,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Bremseassistent
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -818,7 +807,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Unngå krasj i venstresving
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -826,7 +814,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Forward Collision Warning
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -842,7 +829,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Temperaturadvarsel
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -850,7 +836,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Cross traffic assist
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -858,7 +843,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fartsbegrenser
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -866,7 +850,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Effektivitetsassistent
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -874,7 +857,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -882,7 +864,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -915,7 +896,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -923,7 +903,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Voice control
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -931,7 +910,22 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
 			</td>
 		</tr>
 	</tbody>
@@ -956,7 +950,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Android Auto-støtte
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -964,7 +957,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Apple Carplay-støtte
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>

@@ -704,7 +704,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/lanedeparturewarning/">Lane departure warning</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -712,7 +711,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +734,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/rearcrosstrafficalert/">Rear cross traffic alert</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +741,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -752,7 +748,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -760,7 +755,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -776,7 +770,6 @@ This model is available with a seat configuration with five seats.
 				Hill start assist
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -808,7 +801,6 @@ This model is available with a seat configuration with five seats.
 				Traction control
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -816,7 +808,6 @@ This model is available with a seat configuration with five seats.
 				Left turn crash avoidance
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -824,7 +815,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -832,7 +822,6 @@ This model is available with a seat configuration with five seats.
 				<a href="Electronic stability control">Electronic stability control</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -840,7 +829,6 @@ This model is available with a seat configuration with five seats.
 				<a href="Temperature warning">Temperature warning</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -848,7 +836,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -856,7 +843,6 @@ This model is available with a seat configuration with five seats.
 				Speed limiter
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -864,7 +850,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -872,7 +857,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -880,7 +864,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -921,7 +904,6 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -929,7 +911,22 @@ This model is available with a seat configuration with five seats.
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
 			</td>
 		</tr>
 	</tbody>

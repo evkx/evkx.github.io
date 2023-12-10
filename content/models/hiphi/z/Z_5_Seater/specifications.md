@@ -677,7 +677,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/rearcrosstrafficalert/">Rear cross traffic alert</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -701,7 +700,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -757,7 +755,6 @@ This model is available with a seat configuration with five seats.
 				Left turn crash avoidance
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +778,6 @@ This model is available with a seat configuration with five seats.
 				<a href="Temperature warning">Temperature warning</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -805,7 +801,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -813,7 +808,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -821,7 +815,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -870,7 +863,14 @@ This model is available with a seat configuration with five seats.
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
 			</td>
 		</tr>
 	</tbody>
@@ -895,7 +895,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/infotainment/smartphoneintegration/">Android Auto support</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -903,7 +902,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/infotainment/smartphoneintegration/">Apple Carplay support</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>

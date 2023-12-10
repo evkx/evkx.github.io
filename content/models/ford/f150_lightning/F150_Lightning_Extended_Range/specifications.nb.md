@@ -738,7 +738,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Døsighetsvarsel
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +761,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Alarm for kryssende trafikk bak
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -770,7 +768,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer bak
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -778,7 +775,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer foran
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -786,7 +782,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer på siden
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -794,7 +789,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill nedstigningshjelp
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -802,7 +796,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill start assist
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -842,7 +835,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Unngå krasj i venstresving
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -858,7 +850,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -866,7 +857,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Temperaturadvarsel
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -874,7 +864,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Cross traffic assist
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -882,7 +871,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fartsbegrenser
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -890,7 +878,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Effektivitetsassistent
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -939,7 +926,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -947,7 +933,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Voice control
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -955,7 +940,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				2
 			</td>
 		</tr>
 	</tbody>

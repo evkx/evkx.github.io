@@ -876,7 +876,6 @@ Interior.Seatlayout.OnlySix
 				Alarm for kryssende trafikk bak
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -892,7 +891,6 @@ Interior.Seatlayout.OnlySix
 				Parkeringssensorer foran
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -900,7 +898,6 @@ Interior.Seatlayout.OnlySix
 				Parkeringssensorer på siden
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -908,7 +905,6 @@ Interior.Seatlayout.OnlySix
 				Hill nedstigningshjelp
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -932,7 +928,6 @@ Interior.Seatlayout.OnlySix
 				Automatisk nødbremsing
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -956,7 +951,6 @@ Interior.Seatlayout.OnlySix
 				Unngå krasj i venstresving
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -964,7 +958,6 @@ Interior.Seatlayout.OnlySix
 				Forward Collision Warning
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -980,7 +973,6 @@ Interior.Seatlayout.OnlySix
 				Temperaturadvarsel
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -996,7 +988,6 @@ Interior.Seatlayout.OnlySix
 				Fartsbegrenser
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -1004,7 +995,6 @@ Interior.Seatlayout.OnlySix
 				Effektivitetsassistent
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -1070,6 +1060,14 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
 			</td>
 		</tr>
 	</tbody>

@@ -980,6 +980,14 @@ This model is available with a seat configuration with five seats.
 				Not available
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
 	</tbody>
 </table>
 

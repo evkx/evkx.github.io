@@ -980,6 +980,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ikke tilgjengelig
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
 	</tbody>
 </table>
 

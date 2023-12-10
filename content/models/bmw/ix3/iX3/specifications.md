@@ -1070,7 +1070,6 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -1078,7 +1077,22 @@ This model is available with a seat configuration with five seats.
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
 			</td>
 		</tr>
 	</tbody>

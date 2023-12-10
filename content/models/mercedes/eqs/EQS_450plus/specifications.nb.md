@@ -1246,6 +1246,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ja, tileggsutstyr
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
 	</tbody>
 </table>
 

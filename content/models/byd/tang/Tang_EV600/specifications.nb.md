@@ -940,6 +940,22 @@ Interior.Seatlayout.OnlySix
 				Ikke tilgjengelig
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
+			</td>
+		</tr>
 	</tbody>
 </table>
 

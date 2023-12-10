@@ -1101,6 +1101,22 @@ This model is available with a seat configuration with six or seven seats.
 				Yes, optional equipment
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
+			</td>
+		</tr>
 	</tbody>
 </table>
 

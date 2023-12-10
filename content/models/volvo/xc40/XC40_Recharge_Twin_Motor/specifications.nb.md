@@ -770,7 +770,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lane departure warning
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -778,7 +777,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Døsighetsvarsel
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -850,7 +848,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				AntiLock Braking System
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -882,7 +879,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Unngå krasj i venstresving
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -914,7 +910,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Cross traffic assist
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -922,7 +917,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fartsbegrenser
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -938,7 +932,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -946,7 +939,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -954,7 +946,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Nattsyn
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 	</tbody>
@@ -979,7 +970,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -987,7 +977,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Voice control
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -995,7 +984,22 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
 			</td>
 		</tr>
 	</tbody>
@@ -1036,7 +1040,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				I bilnavigasjon
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 	</tbody>

@@ -816,7 +816,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill nedstigningshjelp
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -824,7 +823,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill start assist
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -864,7 +862,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Unngå krasj i venstresving
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -904,7 +901,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fartsbegrenser
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -912,7 +908,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Effektivitetsassistent
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +972,22 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
 			</td>
 		</tr>
 	</tbody>

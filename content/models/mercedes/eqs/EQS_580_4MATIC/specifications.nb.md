@@ -1246,6 +1246,22 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ja, tileggsutstyr
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
+			</td>
+		</tr>
 	</tbody>
 </table>
 

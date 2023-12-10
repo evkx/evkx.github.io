@@ -674,7 +674,6 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -698,7 +697,6 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/rearcrosstrafficalert/">Rear cross traffic alert</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -778,7 +776,6 @@ Interior.Seatlayout.OnlySix
 				Left turn crash avoidance
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -826,7 +823,6 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -834,7 +830,6 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -892,6 +887,22 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
 			</td>
 		</tr>
 	</tbody>

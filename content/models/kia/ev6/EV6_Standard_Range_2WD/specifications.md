@@ -737,7 +737,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -769,7 +768,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -777,7 +775,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -785,7 +782,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -793,7 +789,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Hill descent assist
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -841,7 +836,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Left turn crash avoidance
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -849,7 +843,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -865,7 +858,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="Temperature warning">Temperature warning</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -881,7 +873,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Speed limiter
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -889,7 +880,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -946,7 +936,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Voice control
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -954,7 +943,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
 			</td>
 		</tr>
 	</tbody>

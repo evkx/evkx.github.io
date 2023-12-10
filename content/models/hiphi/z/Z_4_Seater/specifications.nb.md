@@ -677,7 +677,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Alarm for kryssende trafikk bak
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -701,7 +700,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Parkeringssensorer på siden
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -757,7 +755,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Unngå krasj i venstresving
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +778,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Temperaturadvarsel
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -805,7 +801,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Effektivitetsassistent
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -813,7 +808,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -821,7 +815,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -870,7 +863,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
 			</td>
 		</tr>
 	</tbody>
@@ -895,7 +895,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Android Auto-støtte
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -903,7 +902,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Apple Carplay-støtte
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>

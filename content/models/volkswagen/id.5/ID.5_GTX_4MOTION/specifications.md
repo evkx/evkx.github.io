@@ -1290,6 +1290,22 @@ This model is available with a seat configuration with five seats.
 				Not available
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
+			</td>
+		</tr>
 	</tbody>
 </table>
 

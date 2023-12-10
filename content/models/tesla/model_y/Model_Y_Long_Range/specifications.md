@@ -1001,7 +1001,6 @@ This model is available with a seat configuration with six or seven seats.
 				Voice control
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -1009,7 +1008,14 @@ This model is available with a seat configuration with six or seven seats.
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
 			</td>
 		</tr>
 	</tbody>

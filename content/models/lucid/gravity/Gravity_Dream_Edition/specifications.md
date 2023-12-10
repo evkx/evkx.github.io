@@ -876,7 +876,6 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/rearcrosstrafficalert/">Rear cross traffic alert</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -892,7 +891,6 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -900,7 +898,6 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -908,7 +905,6 @@ Interior.Seatlayout.OnlySix
 				Hill descent assist
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -932,7 +928,6 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/automaticemergencybraking/">Automatic emergency braking</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -956,7 +951,6 @@ Interior.Seatlayout.OnlySix
 				Left turn crash avoidance
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -964,7 +958,6 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -980,7 +973,6 @@ Interior.Seatlayout.OnlySix
 				<a href="Temperature warning">Temperature warning</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -996,7 +988,6 @@ Interior.Seatlayout.OnlySix
 				Speed limiter
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -1004,7 +995,6 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -1070,6 +1060,14 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
 			</td>
 		</tr>
 	</tbody>

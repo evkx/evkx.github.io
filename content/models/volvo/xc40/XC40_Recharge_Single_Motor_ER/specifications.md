@@ -770,7 +770,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/lanedeparturewarning/">Lane departure warning</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -778,7 +777,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -850,7 +848,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/antilockbrakingsystem/">AntiLock Braking System</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -882,7 +879,6 @@ This model is available with a seat configuration with five seats.
 				Left turn crash avoidance
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -914,7 +910,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -922,7 +917,6 @@ This model is available with a seat configuration with five seats.
 				Speed limiter
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -938,7 +932,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -946,7 +939,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -954,7 +946,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/infrared/">Night Vision</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 	</tbody>
@@ -979,7 +970,6 @@ This model is available with a seat configuration with five seats.
 				Head-up display
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -987,7 +977,6 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -995,7 +984,22 @@ This model is available with a seat configuration with five seats.
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
 			</td>
 		</tr>
 	</tbody>
@@ -1036,7 +1040,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/infotainment/navigation/">In Car navigation</a>
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 	</tbody>

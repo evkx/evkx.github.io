@@ -669,7 +669,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Alarm for kryssende trafikk bak
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -693,7 +692,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Parkeringssensorer på siden
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -749,7 +747,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Unngå krasj i venstresving
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +770,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Temperaturadvarsel
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -797,7 +793,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Effektivitetsassistent
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -805,7 +800,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -813,7 +807,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -862,7 +855,22 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes
 			</td>
 		</tr>
 	</tbody>
@@ -887,7 +895,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Android Auto-støtte
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -895,7 +902,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Apple Carplay-støtte
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>

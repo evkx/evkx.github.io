@@ -961,7 +961,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Voice control
 			</td>
 			<td>
-				
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +968,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Gesture control
 			</td>
 			<td>
-				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
 			</td>
 		</tr>
 	</tbody>
