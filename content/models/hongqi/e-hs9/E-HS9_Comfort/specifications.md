@@ -998,7 +998,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Infoainment screens
+				Infotainment screen
 			</td>
 			<td>
 				Yes, two 16,2" and 10,2"

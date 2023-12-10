@@ -1230,7 +1230,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Infoainment screens
+				Infotainment screen
 			</td>
 			<td>
 				Yes, 12,3"

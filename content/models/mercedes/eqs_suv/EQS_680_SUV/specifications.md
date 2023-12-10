@@ -1030,7 +1030,7 @@ This model is available with a seat configuration with six or seven seats.
 		</tr>
 		<tr>
 			<td>
-				Infoainment screens
+				Infotainment screen
 			</td>
 			<td>
 				Yes, 17,7"
