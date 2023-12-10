@@ -986,31 +986,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Available screen layouts
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-## Infotainment
-
-<table class="table table-striped">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
 				Android Auto-støtte
 			</td>
 			<td>
@@ -1031,6 +1006,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				Ja, tileggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				2
 			</td>
 		</tr>
 	</tbody>

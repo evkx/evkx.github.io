@@ -958,39 +958,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Available screen layouts
-			</td>
-			<td>
-				1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Digital driver display
-			</td>
-			<td>
-				Yes
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-## Infotainment
-
-<table class="table table-striped">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
 				<a href="/technology/infotainment/smartphoneintegration/">Android Auto support</a>
 			</td>
 			<td>
@@ -1011,6 +978,22 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes, 16,2
 			</td>
 		</tr>
 	</tbody>
