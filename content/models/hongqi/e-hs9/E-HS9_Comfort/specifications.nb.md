@@ -1017,7 +1017,7 @@ Interior.Seatlayout.OnlySix
 				Infotainment skjerm bak
 			</td>
 			<td>
-				Ja, 16,2"
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>

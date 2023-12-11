@@ -986,7 +986,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Rear passenger Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 14,96"
+				Not available
 			</td>
 		</tr>
 	</tbody>

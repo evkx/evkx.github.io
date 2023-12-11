@@ -1024,7 +1024,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/userinterface/screens/">Rear passenger Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 20"
+				Not available
 			</td>
 		</tr>
 	</tbody>

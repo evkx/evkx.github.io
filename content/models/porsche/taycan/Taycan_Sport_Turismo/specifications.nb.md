@@ -1799,7 +1799,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm bak
 			</td>
 			<td>
-				Ja, 10,9"
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
