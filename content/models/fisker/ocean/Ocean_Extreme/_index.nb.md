@@ -61,7 +61,7 @@ Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#mac
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. Du kan justere hvor sterk regen du får når du løfter foten. Det er tre nivåer.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedal kjøring](../../../../technology/regen/#one-pedal-driving) kombinert med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [Adaptiv regen](../../../../technology/regen/#adaptiv-regen) er ikke tilgjengelig i denne modellen. Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. Du kan justere hvor sterk regen du får når du løfter foten. Det er tre nivåer.
 
 ## Eksteriør
 
