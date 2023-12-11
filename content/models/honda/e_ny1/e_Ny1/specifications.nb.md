@@ -870,5 +870,13 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Ikke tilgjengelig
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infotainment skjerm bak
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
 	</tbody>
 </table>

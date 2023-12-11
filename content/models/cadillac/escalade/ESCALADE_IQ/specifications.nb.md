@@ -1019,6 +1019,14 @@ Interior.Seatlayout.OnlySix
 				Ja, 20"
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infotainment skjerm bak
+			</td>
+			<td>
+				Ja, 20"
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>

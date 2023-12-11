@@ -911,6 +911,14 @@ This model is available with a seat configuration with six seats.
 				Yes, 19,9"
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Rear passenger Infotainment screen
+			</td>
+			<td>
+				Yes, 19,9"
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>

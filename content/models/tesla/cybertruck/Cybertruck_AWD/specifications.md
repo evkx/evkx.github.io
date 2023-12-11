@@ -1042,5 +1042,13 @@ This model is available with a seat configuration with five seats.
 				Not available
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Rear passenger Infotainment screen
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>

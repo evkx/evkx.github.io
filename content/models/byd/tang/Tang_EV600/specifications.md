@@ -996,6 +996,14 @@ Interior.Seatlayout.OnlySix
 				Not available
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Rear passenger Infotainment screen
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>

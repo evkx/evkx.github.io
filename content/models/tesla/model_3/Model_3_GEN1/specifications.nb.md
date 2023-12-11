@@ -1034,5 +1034,13 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ikke tilgjengelig
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infotainment skjerm bak
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
 	</tbody>
 </table>

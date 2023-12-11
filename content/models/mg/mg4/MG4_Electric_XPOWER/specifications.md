@@ -959,5 +959,13 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Not available
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Rear passenger Infotainment screen
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
 	</tbody>
 </table>

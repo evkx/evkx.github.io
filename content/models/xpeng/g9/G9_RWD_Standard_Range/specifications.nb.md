@@ -981,5 +981,13 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Ja, 14,96"
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Infotainment skjerm bak
+			</td>
+			<td>
+				Ja, 14,96"
+			</td>
+		</tr>
 	</tbody>
 </table>

@@ -1019,6 +1019,14 @@ Interior.Seatlayout.OnlySix
 				Yes, 20"
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Rear passenger Infotainment screen
+			</td>
+			<td>
+				Yes, 20"
+			</td>
+		</tr>
 	</tbody>
 </table>
 		<tr>
