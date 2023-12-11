@@ -997,7 +997,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
 				Not available
@@ -1005,7 +1005,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Infotainment screen
+				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
 				Yes, two 35" and 11"
@@ -1013,7 +1013,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Front passenger Infotainment screen
+				<a href="/technology/userinterface/screens/">Front passenger Infotainment screen</a>
 			</td>
 			<td>
 				Yes, 20"
@@ -1021,7 +1021,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Rear passenger Infotainment screen
+				<a href="/technology/userinterface/screens/">Rear passenger Infotainment screen</a>
 			</td>
 			<td>
 				Yes, 20"

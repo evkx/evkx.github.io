@@ -1042,7 +1042,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
 				Yes, 10
@@ -1050,7 +1050,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Infotainment screen
+				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
 				Yes, 12,8"
@@ -1058,7 +1058,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Front passenger Infotainment screen
+				<a href="/technology/userinterface/screens/">Front passenger Infotainment screen</a>
 			</td>
 			<td>
 				Not available
@@ -1066,7 +1066,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear passenger Infotainment screen
+				<a href="/technology/userinterface/screens/">Rear passenger Infotainment screen</a>
 			</td>
 			<td>
 				Not available

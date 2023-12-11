@@ -971,7 +971,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
 				Yes, 10,25
@@ -979,7 +979,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Infotainment screen
+				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
 				Yes, 10,25"
@@ -987,7 +987,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Front passenger Infotainment screen
+				<a href="/technology/userinterface/screens/">Front passenger Infotainment screen</a>
 			</td>
 			<td>
 				Not available
@@ -995,7 +995,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Rear passenger Infotainment screen
+				<a href="/technology/userinterface/screens/">Rear passenger Infotainment screen</a>
 			</td>
 			<td>
 				Not available
