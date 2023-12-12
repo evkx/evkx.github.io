@@ -269,6 +269,13 @@ Tabellen nedenfor viser hvordan pakketettheten har variert over tid mellom noen 
             <td>575kg</td>
             <td>260Wh/kg</td>
         </tr>
+        <tr>
+            <td>Audi Q6 e-tron / Porsche Macan EV</td>
+            <td>2024</td>
+            <td>100kWh</td>
+            <td>570kg</td>
+            <td>175Wh/kg</td>
+        </tr>
     </tbody>
 </table>
 
