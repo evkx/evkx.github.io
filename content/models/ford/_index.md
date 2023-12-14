@@ -11,7 +11,7 @@ Ford is investing $22 billion in electrification through 2025 as part of its pla
 
 <a href="f150_lightning"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning" ></a>
 
-This model is available in 1 variant(s). 
+This model is available in 2 variant(s). 
 [Read full details](f150_lightning/)
 
 ## Ford Mustang Mach-E

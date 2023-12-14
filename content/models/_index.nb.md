@@ -126,7 +126,7 @@ Fisker has 1 models with total 1 variants. [Read all about them](fisker/)
 <a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid" alt="Ford" ></a>
 
 
-Ford has 2 models with total 6 variants. [Read all about them](ford/)
+Ford has 2 models with total 7 variants. [Read all about them](ford/)
 
 ## GMC
 

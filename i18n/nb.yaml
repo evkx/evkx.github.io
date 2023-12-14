@@ -91,6 +91,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-a3f6e28c
+  translation: Ford F150 Lightning Standard Range er en helelektrisk pickup med en WLTP rekkevidde på opptil 427 km (265 miles). EVKX.net har alle detaljene. 
+
 - id: frontpage-description-7a7eff1d
   translation: Tesla Cybertruck AWD er en helelektrisk pickup med en EPA rekkevidde på opptil 547 km (340 miles). EVKX.net har alle detaljene. 
 
@@ -102,7 +105,4 @@
 
 - id: frontpage-description-2d822625
   translation: Chevrolet Blazer EV RS AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 449 km (279 miles). EVKX.net har alle detaljene. 
-
-- id: frontpage-description-4fa87843
-  translation: Subaru Solterra AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 466 km (290 miles). EVKX.net har alle detaljene. 
 

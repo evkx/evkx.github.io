@@ -11,7 +11,7 @@ weight: 30
 
 <a href="f150_lightning"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning" ></a>
 
-Denne modellen er tilgjengelig i 1 variant(er).
+Denne modellen er tilgjengelig i 2 variant(er).
 [Read full details](f150_lightning/)
 
 ## Ford Mustang Mach-E
