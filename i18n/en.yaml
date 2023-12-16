@@ -91,6 +91,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-d1af0b8c
+  translation: Genesis GV60 Sport is an all-electric SUV with a WLTP range of up to 481 km (299 miles). EVKX.net has all the details. 
+
 - id: frontpage-description-a3f6e28c
   translation: Ford F150 Lightning Standard Range is an all-electric Pickup Truck with a WLTP range of up to 427 km (265 miles). EVKX.net has all the details. 
 
@@ -102,7 +105,4 @@
 
 - id: frontpage-description-787a8d37
   translation: Lucid Gravity Dream Edition is an all-electric SUV with a EPA range of up to 708 km (440 miles). EVKX.net has all the details. 
-
-- id: frontpage-description-2d822625
-  translation: Chevrolet Blazer EV RS AWD is an all-electric SUV with a EPA range of up to 449 km (279 miles). EVKX.net has all the details. 
 

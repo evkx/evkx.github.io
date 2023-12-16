@@ -65,7 +65,7 @@ Dynamisk styring er standard-funksjonen på Lucid Air Grand Touring. Dynamisk st
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 386mm, og de bakre skivene er 381mm. 
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 380mm, og de bakre skivene er 375mm. 
 
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Adaptiv regen](../../../../technology/regen/#adaptive-regen) eller coasting er ikke tilgjengelig på denne modellen. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. 
 
