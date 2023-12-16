@@ -1,5 +1,5 @@
 ---
-title: Genesis GV60 Sport tester
+title: Genesis GV60 AWD tester
 linktitle: "Tester"
 description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen. "
 weight: 80

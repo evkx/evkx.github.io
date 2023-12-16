@@ -1,15 +1,15 @@
 ---
-title: Genesis GV60 Sport spesifikasjoner
+title: Genesis GV60 AWD spesifikasjoner
 linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for Genesis GV60 Sport."
+description: "EVKX.net gir deg alle spesifikasjonene for Genesis GV60 AWD."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/genesis/gv60/gv60_sport/main_1_st.jpg" title="Genesis GV60 Sport" width="3000" height="1688" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Genesis GV60 Sport. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Genesis GV60 Sport, gå til [chargeinfo](../chargecurve/) for Genesis GV60 Sport med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/main_1_st.jpg" title="Genesis GV60 AWD" width="3000" height="1688" >}}
+EVKX.net søker å ha de mest komplette spesifikasjonene for Genesis GV60 AWD. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Genesis GV60 AWD, gå til [chargeinfo](../chargecurve/) for Genesis GV60 AWD med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Ytelse

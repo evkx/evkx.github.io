@@ -1,7 +1,7 @@
 ---
-title: Genesis GV60 Sport charging curve & performance
-linktitle: "Chargingcurve"
-description: "Here you find the charging curve for Genesis GV60 Sport. "
+title: Genesis GV60 AWD ladekurve og ladeytelse
+linktitle: "Ladekurve"
+description: "Her finner du ladekurven for Genesis GV60 AWD. "
 weight: 10
 hidden: true
 navicon: bi-battery-charging
@@ -15,46 +15,46 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>117,1 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>117,1 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100%</td><td>112,3 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>112,3 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90%</td><td>170,1 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>170,1 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80%</td><td>191,6 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>191,6 kW</td>
 </tr>
 <tr>
-<td>Max C-Rate</td><td>3,02</td>
+<td>Maksimum C-Rate</td><td>3,02</td>
 </tr>
 <tr>
-<td>Average C-Rate</td><td>2,29</td>
+<td>Gjennomsnitt C-Rate</td><td>2,29</td>
 </tr>
 <tr>
-<td>Optimum charging area</td><td>1% - 76%</td>
+<td>Optimalt ladeområde</td><td>1% - 76%</td>
 </tr>
 <tr>
-<td>Optimum charging speed included 5 minutes loss</td><td>151,5kW</td>
+<td>Optimal ladehastighet inkludert 5 minutters tap</td><td>151,5kW</td>
 </tr>
 <tr>
-<td>Optimum charge stop time</td><td>22m59s</td>
+<td>Optimal ladestopptid</td><td>22m59s</td>
 </tr>
 </tbody>
 </table>
 
 
-The above charging curve is at optimum conditions. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/) 
+Ladekurven ovenfor er under optimale forhold. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/) 
 
 
-Genesis GV60 Sport have battery heating, making charging at an optimum battery temperature easier. 
+Genesis GV60 AWD har batterioppvarming, noe som gjør lading ved en optimal batteritemperatur enklere. 
 
 
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped">
 <thead>
-<tr><th>SOC</th><th>Speed</th><th>Time</th><th>Energy charged</th></tr>
+<tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
 <tbody>
 <tr>

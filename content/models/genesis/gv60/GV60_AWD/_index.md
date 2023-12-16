@@ -1,7 +1,7 @@
 ---
-title: Genesis GV60 Sport
-linktitle: "GV60 Sport"
-description: "Genesis GV60 Sport is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. "
+title: Genesis GV60 AWD
+linktitle: "GV60 AWD"
+description: "Genesis GV60 AWD is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/genesis/gv60/gv60_sport/main_1_st.jpg" title="Genesis GV60 Sport" width="3000" height="1688"  >}}
+{{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/main_1_st.jpg" title="Genesis GV60 AWD" width="3000" height="1688"  >}}
 
-We have separated our Genesis GV60 Sport article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We have separated our Genesis GV60 AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -29,7 +29,7 @@ We have separated our Genesis GV60 Sport article into sections. If you want to w
 
 ## Performance
 
-The Genesis GV60 Sport has a maximum power of 234 KW (318 hp/314 bhp). The total torque is 605 nm (446 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,5 seconds. The top speed is 185 km/h.
+The Genesis GV60 AWD has a maximum power of 234 KW (318 hp/314 bhp). The total torque is 605 nm (446 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,5 seconds. The top speed is 185 km/h.
 
 ## Battery, range, and charging
 
@@ -55,7 +55,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Genesis GV60 Sport has an all-wheel drive system supported by two motors, one on each axle. 
+Genesis GV60 AWD has an all-wheel drive system supported by two motors, one on each axle. 
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm. 
 
@@ -77,7 +77,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back. 
 
 
-{{< sitefiguresized thumb="models/genesis/gv60/gv60_sport/exterior_1_st.jpg" title="Genesis GV60 Sport" width="3000" height="2121"  >}}
+{{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/exterior_1_st.jpg" title="Genesis GV60 AWD" width="3000" height="2121"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -90,7 +90,7 @@ You can choose between different types of seat materials and interior styling.
 
 ### First row seats
 
-Only one front seat type is available in the Genesis GV60 Sport. 
+Only one front seat type is available in the Genesis GV60 AWD. 
 
 The following functionalities are available on the **** seat. 
 
@@ -106,7 +106,7 @@ You can choose from 6 different materials/colors for this seat type. <br />
 
 
 
-{{< sitefiguresized thumb="models/genesis/gv60/gv60_sport/frontseats_1_st.jpg" title="Genesis GV60 Sport" width="1500" height="1090"  >}}
+{{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/frontseats_1_st.jpg" title="Genesis GV60 AWD" width="1500" height="1090"  >}}
 
 
 ### Second-row seat
@@ -125,7 +125,7 @@ There is one climate system available. The 2-zone climate system supports differ
 
 ## Comfort
 
-Genesis GV60 Sport has several features to make your life as a driver or passenger more comfortable. 
+Genesis GV60 AWD has several features to make your life as a driver or passenger more comfortable. 
 
 You have wireless charging for your phone.  
 
@@ -135,18 +135,18 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Genesis GV60 Sport has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 12.3 inches large and has a 2880 x 1080 pixels resolution. 
+The Genesis GV60 AWD has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 12.3 inches large and has a 2880 x 1080 pixels resolution. 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
-{{< sitefiguresized thumb="models/genesis/gv60/gv60_sport/screens_1_st.jpg" title="Genesis GV60 Sport" width="3000" height="1796"  >}}
+{{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/screens_1_st.jpg" title="Genesis GV60 AWD" width="3000" height="1796"  >}}
 
 
 ## Infotainment
 
-One type of sound system is available for the Genesis GV60 Sport. With the Bose Premium Sound System, you get eight speakers with a max system output of  watts. 
+One type of sound system is available for the Genesis GV60 AWD. With the Bose Premium Sound System, you get eight speakers with a max system output of  watts. 
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Genesis GV60 Sport supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Genesis GV60 AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard. 
 ## Lights
@@ -154,26 +154,26 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 
 
 
-{{< sitefiguresized thumb="models/genesis/gv60/gv60_sport/headlights_1_st.jpg" title="Genesis GV60 Sport" width="1387" height="780"  >}}
+{{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/headlights_1_st.jpg" title="Genesis GV60 AWD" width="1387" height="780"  >}}
 
 ## Advanced driver assistance systems
 
-The Genesis GV60 Sport has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Genesis GV60 AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
 
-The Genesis GV60 Sport has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Genesis GV60 AWD has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Genesis GV60 Sport has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Genesis GV60 AWD has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
 
-The Genesis GV60 Sport has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Genesis GV60 AWD has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
 
-The Genesis GV60 Sport has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Genesis GV60 AWD has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
 

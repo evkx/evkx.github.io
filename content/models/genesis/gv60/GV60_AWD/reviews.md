@@ -1,5 +1,5 @@
 ---
-title: Genesis GV60 Sport reviews
+title: Genesis GV60 AWD reviews
 linktitle: "Reviews"
 description: "EVKX.net helps you find the best review for this model. "
 weight: 80

@@ -1,15 +1,15 @@
 ---
-title: Genesis GV60 Sport specifications
+title: Genesis GV60 AWD specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Genesis GV60 Sport."
+description: "EVKX.net gives you the full specifications for Genesis GV60 AWD."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/genesis/gv60/gv60_sport/main_1_st.jpg" title="Genesis GV60 Sport" width="3000" height="1688" >}}
-EVKX.net seeks to have the most complete specifications for Genesis GV60 Sport. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Genesis GV60 Sport, visit the [chargeinfo](../chargecurve/) for Genesis GV60 Sport with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/main_1_st.jpg" title="Genesis GV60 AWD" width="3000" height="1688" >}}
+EVKX.net seeks to have the most complete specifications for Genesis GV60 AWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Genesis GV60 AWD, visit the [chargeinfo](../chargecurve/) for Genesis GV60 AWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance

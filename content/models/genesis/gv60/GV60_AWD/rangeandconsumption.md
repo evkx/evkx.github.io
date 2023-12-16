@@ -1,7 +1,7 @@
 ---
-title: Genesis GV60 Sport range & consumption
+title: Genesis GV60 AWD range & consumption
 linktitle: "Range"
-description: "Here you find all details about range and consumption for Genesis GV60 Sport."
+description: "Here you find all details about range and consumption for Genesis GV60 AWD."
 weight: 9
 hidden: true
 navicon: bi-file-earmark-bar-graph

@@ -1,7 +1,7 @@
 ---
-title: Genesis GV60 Sport rekkevidde & forbruk
+title: Genesis GV60 AWD rekkevidde & forbruk
 linktitle: "Rekkevidde"
-description: "Her finner du alle detaljer om rekkevidde og forbruk for Genesis GV60 Sport."
+description: "Her finner du alle detaljer om rekkevidde og forbruk for Genesis GV60 AWD."
 weight: 9
 hidden: true
 navicon: bi-file-earmark-bar-graph
