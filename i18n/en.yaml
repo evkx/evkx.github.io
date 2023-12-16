@@ -94,9 +94,6 @@
 - id: frontpage-description-eb441ebe
   translation: Genesis GV60 AWD is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. 
 
-- id: frontpage-description-d1af0b8c
-  translation: Genesis GV60 Sport is an all-electric SUV with a WLTP range of up to 481 km (299 miles). EVKX.net has all the details. 
-
 - id: frontpage-description-a3f6e28c
   translation: Ford F150 Lightning Standard Range is an all-electric Pickup Truck with a WLTP range of up to 427 km (265 miles). EVKX.net has all the details. 
 
@@ -105,4 +102,7 @@
 
 - id: frontpage-description-ab420833
   translation: Tesla Cybertruck Cyberbeast is an all-electric Pickup Truck with a EPA range of up to 515 km (320 miles). EVKX.net has all the details. 
+
+- id: frontpage-description-787a8d37
+  translation: Lucid Gravity Dream Edition is an all-electric SUV with a EPA range of up to 708 km (440 miles). EVKX.net has all the details. 
 
