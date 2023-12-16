@@ -1,7 +1,7 @@
 ---
 title: Genesis GV60 Sport
 linktitle: "GV60 Sport"
-description: "Genesis GV60 Sport is an all-electric SUV with a WLTP range of up to 481 km (299 miles). EVKX.net has all the details. "
+description: "Genesis GV60 Sport is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Genesis GV60 Sport has a maximum power of 234 KW (318 hp/314 bhp). The total
 
 The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4,4%). 
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 481 to 454 km (299-282 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 15.4kWh/100km for the basic version and 16.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 470 km (292 mi).   The consumption is 15.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 38 minutes, while a more common scenario of 10-80% would take 16 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 76%, resulting in an actual charge speed, including time loss, of 152kW. Each charge session would take 22 minutes and 59 seconds. 
 
