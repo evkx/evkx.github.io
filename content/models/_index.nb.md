@@ -17,6 +17,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 <a href="fiat"><img src="https://media.evkx.net/multimedia/models/fiat/logo_xst.png" alt="Fiat" title="Fiat" width="130px" class="img-fluid" /></a>
 <a href="fisker"><img src="https://media.evkx.net/multimedia/models/fisker/logo_xst.png" alt="Fisker" title="Fisker" width="130px" class="img-fluid" /></a>
 <a href="ford"><img src="https://media.evkx.net/multimedia/models/ford/logo_xst.png" alt="Ford" title="Ford" width="130px" class="img-fluid" /></a>
+<a href="genesis"><img src="https://media.evkx.net/multimedia/models/genesis/logo_xst.png" alt="Genesis" title="Genesis" width="130px" class="img-fluid" /></a>
 <a href="gmc"><img src="https://media.evkx.net/multimedia/models/gmc/logo_xst.png" alt="GMC" title="GMC" width="130px" class="img-fluid" /></a>
 <a href="hiphi"><img src="https://media.evkx.net/multimedia/models/hiphi/logo_xst.png" alt="HiPhi" title="HiPhi" width="130px" class="img-fluid" /></a>
 <a href="honda"><img src="https://media.evkx.net/multimedia/models/honda/logo_xst.png" alt="Honda" title="Honda" width="130px" class="img-fluid" /></a>
@@ -127,6 +128,11 @@ Fisker has 1 models with total 1 variants. [Read all about them](fisker/)
 
 
 Ford has 2 models with total 7 variants. [Read all about them](ford/)
+
+## Genesis
+
+
+Genesis has 1 models with total 1 variants. [Read all about them](genesis/)
 
 ## GMC
 
