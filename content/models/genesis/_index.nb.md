@@ -11,5 +11,5 @@ weight: 30
 
 <a href="gv60"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_sport/main_1_st.jpg" class="img-fluid" alt="GV60" ></a>
 
-Denne modellen er tilgjengelig i 1 variant(er).
+Denne modellen er tilgjengelig i 2 variant(er).
 [Read full details](gv60/)

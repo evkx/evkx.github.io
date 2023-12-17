@@ -17,3 +17,16 @@ Genesis GV60 AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 470 km
 - [Genesis GV60 AWD galleri](gv60_awd/gallery/)
 - [Genesis GV60 AWD tester](gv60_awd/reviews/)
 
+### Genesis GV60 AWD Performance
+
+<a href="gv60_awd_performance/"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd_performance/main_1_st.jpg" class="img-fluid" alt="GV60 AWD Performance" ></a>
+
+Genesis GV60 AWD Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 470 km (292 miles). EVKX.net har alle detaljene. 
+
+- [Genesis GV60 AWD Performance full beskrivelse](gv60_awd_performance/)
+- [Genesis GV60 AWD Performance rekkevidde & forbruk](gv60_awd_performance/rangeandconsumption/)
+- [Genesis GV60 AWD Performance ladekurve og ladeytelse](gv60_awd_performance/chargingcurve/)
+- [Genesis GV60 AWD Performance spesifikasjoners](gv60_awd_performance/specifications/)
+- [Genesis GV60 AWD Performance galleri](gv60_awd_performance/gallery/)
+- [Genesis GV60 AWD Performance tester](gv60_awd_performance/reviews/)
+

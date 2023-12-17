@@ -134,7 +134,7 @@ Ford has 2 models with total 7 variants. [Read all about them](ford/)
 <a href="genesis/"><img src="https://media.evkx.net/multimedia/models/genesis/brandevs_st.jpg" class="img-fluid" alt="Genesis" ></a>
 
 
-Genesis has 1 models with total 1 variants. [Read all about them](genesis/)
+Genesis has 1 models with total 2 variants. [Read all about them](genesis/)
 
 ## GMC
 
