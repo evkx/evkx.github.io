@@ -142,6 +142,8 @@ Ford has 2 models with total 7 variants. [Read all about them](ford/)
 
 ## Genesis
 
+<a href="genesis/"><img src="https://media.evkx.net/multimedia/models/genesis/brandevs_st.jpg" class="img-fluid" alt="Genesis" ></a>
+
 Genesis is a luxury car brand that was launched by Hyundai Motor Group in 2015. It aims to provide positive and innovative experiences for its customers through its design, performance, and service.
 
 Genesis has 1 models with total 1 variants. [Read all about them](genesis/)
