@@ -67,7 +67,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ## Exterior
 
-You can choose between 6 different paint colors when ordering this model. 
+You can choose between 10 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). 
