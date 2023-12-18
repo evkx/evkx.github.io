@@ -34,6 +34,9 @@
 - id: common-section-technology-description
   translation: EVKX.net offers the most extensive collection of in-depth articles about EV technology.
 
+- id: common-section-technology-link
+  translation: Go to the article overview
+
 - id: common-section-technology-section-battery
   translation: Battery
 
@@ -70,6 +73,9 @@
 - id: common-section-guides-description
   translation: Below, you find different guides for owning an EV and for using this site.
 
+- id: common-section-guides-link
+  translation: Go to our guides
+
 - id: common-section-guides-section-search
   translation: How to use EV Search
 
@@ -87,6 +93,9 @@
 
 - id: common-section-models-description
   translation: Please read about the different Brands, their EV strategies, and the most complete info on all models below.
+
+- id: common-section-models-link
+  translation: Go to the full model overview.
 
 - id: common-section-latest-reviews
   translation: Latest online reviews

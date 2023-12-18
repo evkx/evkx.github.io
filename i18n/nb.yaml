@@ -34,6 +34,9 @@
 - id: common-section-technology-description
   translation: EVKX tilbyr den mest omfattende samlingen av dybdeartikler om elbil-teknologi.
 
+- id: common-section-technology-link
+  translation: Gå til artikkeloversikt
+
 - id: common-section-technology-section-battery
   translation: Batteri
 
@@ -73,6 +76,9 @@
 - id: common-section-guides-section-search
   translation: Hvordan bruke elbilsøket
 
+- id: common-section-guides-link
+  translation: Gå til guidene
+
 - id: common-section-guides-section-preservebattery
   translation: Bevaring av batteri
 
@@ -87,6 +93,9 @@
 
 - id: common-section-models-description
   translation: Les om de forskjellige merkene, deres EV-strategier og den mest komplette informasjonen om alle modellene nedenfor.
+
+- id: common-section-models-link
+  translation: Gå til full merke- og modelloversikt.
 
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
