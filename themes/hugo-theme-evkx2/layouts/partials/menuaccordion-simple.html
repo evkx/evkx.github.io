@@ -8,21 +8,21 @@
 
 
       <ul class="list-group list-group-flush">
-        <li class="list-group-item"><a href="{{ with .Site.GetPage `/evsearch/`}}{{.RelPermalink}}{{end}}">
+        <li class="list-group-item list-group-item-action"><a href="{{ with .Site.GetPage `/evsearch/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
           <i class="bi-search me-2"></i>{{ T "common-section-search-title"}}</a>
         </li>
         
-        <li class="list-group-item"> <a href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}">
+        <li class="list-group-item list-group-item-action"> <a href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
           <i class="bi-car-front me-2"></i>{{ T "common-section-models-title"}}
         </a>
         </li>
-        <li class="list-group-item">
-          <a href="{{ with .Site.GetPage `/technology/`}}{{.RelPermalink}}{{end}}">
+        <li class="list-group-item list-group-item-action">
+          <a href="{{ with .Site.GetPage `/technology/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
             <i class="bi-info-square me-2"></i>{{ T "common-section-technology-title"}}
           </a>
         </li>
-        <li class="list-group-item">
-          <a href="{{ with .Site.GetPage `/guides/`}}{{.RelPermalink}}{{end}}">
+        <li class="list-group-item list-group-item-action">
+          <a href="{{ with .Site.GetPage `/guides/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
             <i class="bi-question-square me-2"></i>{{ T "common-section-guides-title"}}
           </a>
         </li>
