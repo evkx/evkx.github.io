@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Rolls-Royce Spectre
-
-<a href="spectre"><img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" class="img-fluid" alt="Spectre" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Rolls-Royce Spectre</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="spectre"><img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" class="img-fluid" alt="Rolls-Royce Spectre" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](spectre/)
+<a href="spectre">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Fiat 600e
-
-<a href="600e"><img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" class="img-fluid" alt="600e" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Fiat 600e</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="600e"><img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" class="img-fluid" alt="Fiat 600e" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](600e/)
+<a href="600e">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

@@ -8,24 +8,39 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Peugot 2008
-
-<a href="2008"><img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_1_st.jpg" class="img-fluid" alt="2008" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Peugot 2008</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="2008"><img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_1_st.jpg" class="img-fluid" alt="Peugot 2008" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](2008/)
-
-## Peugot 208
-
-<a href="208"><img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1_st.jpg" class="img-fluid" alt="208" ></a>
-
+<a href="2008">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Peugot 208</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="208"><img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1_st.jpg" class="img-fluid" alt="Peugot 208" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](208/)
-
-## Peugot 3008
-
-<a href="3008"><img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_st.jpg" class="img-fluid" alt="3008" ></a>
-
+<a href="208">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Peugot 3008</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="3008"><img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_st.jpg" class="img-fluid" alt="Peugot 3008" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](3008/)
+<a href="3008">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

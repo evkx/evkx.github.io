@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## VOYAH FREE
-
-<a href="free"><img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_st.jpg" class="img-fluid" alt="FREE" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> VOYAH FREE</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="free"><img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_st.jpg" class="img-fluid" alt="VOYAH FREE" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](free/)
+<a href="free">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

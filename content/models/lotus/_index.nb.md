@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Lotus Eletre
-
-<a href="eletre"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" class="img-fluid" alt="Eletre" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Lotus Eletre</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eletre"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" class="img-fluid" alt="Lotus Eletre" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 3 variant(er).
-[Read full details](eletre/)
+<a href="eletre">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

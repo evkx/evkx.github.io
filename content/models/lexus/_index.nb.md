@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Lexus RZ
-
-<a href="rz"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" class="img-fluid" alt="RZ" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Lexus RZ</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="rz"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" class="img-fluid" alt="Lexus RZ" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](rz/)
+<a href="rz">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

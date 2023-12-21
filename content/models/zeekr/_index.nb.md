@@ -8,17 +8,27 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Zeekr 001
-
-<a href="001"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_st.jpg" class="img-fluid" alt="001" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Zeekr 001</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="001"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_st.jpg" class="img-fluid" alt="Zeekr 001" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 4 variant(er).
-[Read full details](001/)
-
-## Zeekr X
-
-<a href="x"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privelige_awd/main_1_st.jpg" class="img-fluid" alt="X" ></a>
-
+<a href="001">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Zeekr X</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="x"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privelige_awd/main_1_st.jpg" class="img-fluid" alt="Zeekr X" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 2 variant(er).
-[Read full details](x/)
+<a href="x">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

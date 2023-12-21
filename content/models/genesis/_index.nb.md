@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Genesis GV60
-
-<a href="gv60"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_sport/main_1_st.jpg" class="img-fluid" alt="GV60" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Genesis GV60</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="gv60"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_sport/main_1_st.jpg" class="img-fluid" alt="Genesis GV60" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 2 variant(er).
-[Read full details](gv60/)
+<a href="gv60">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

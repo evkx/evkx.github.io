@@ -8,17 +8,27 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## CUPRA BORN
-
-<a href="born"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" class="img-fluid" alt="BORN" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> CUPRA BORN</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="born"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" class="img-fluid" alt="CUPRA BORN" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 3 variant(er).
-[Read full details](born/)
-
-## CUPRA Tavascan
-
-<a href="tavascan"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" class="img-fluid" alt="Tavascan" ></a>
-
+<a href="born">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> CUPRA Tavascan</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="tavascan"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" class="img-fluid" alt="CUPRA Tavascan" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 2 variant(er).
-[Read full details](tavascan/)
+<a href="tavascan">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

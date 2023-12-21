@@ -8,17 +8,27 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## MG MG4
-
-<a href="mg4"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/main_1_st.jpg" class="img-fluid" alt="MG4" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> MG MG4</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="mg4"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/main_1_st.jpg" class="img-fluid" alt="MG MG4" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 4 variant(er).
-[Read full details](mg4/)
-
-## MG MG5
-
-<a href="mg5"><img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" class="img-fluid" alt="MG5" ></a>
-
+<a href="mg4">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> MG MG5</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="mg5"><img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" class="img-fluid" alt="MG MG5" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](mg5/)
+<a href="mg5">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

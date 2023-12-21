@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Porsche Taycan
-
-<a href="taycan"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_st.jpg" class="img-fluid" alt="Taycan" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Porsche Taycan</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="taycan"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_st.jpg" class="img-fluid" alt="Porsche Taycan" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 14 variant(er).
-[Read full details](taycan/)
+<a href="taycan">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

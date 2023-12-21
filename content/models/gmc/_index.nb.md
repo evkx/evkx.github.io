@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## GMC Hummer EV
-
-<a href="hummer_ev"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_pickup/main_1_st.jpg" class="img-fluid" alt="Hummer EV" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> GMC Hummer EV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="hummer_ev"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_pickup/main_1_st.jpg" class="img-fluid" alt="GMC Hummer EV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](hummer_ev/)
+<a href="hummer_ev">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

@@ -8,17 +8,27 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## XPENG G9
-
-<a href="g9"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg" class="img-fluid" alt="G9" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> XPENG G9</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="g9"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg" class="img-fluid" alt="XPENG G9" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 3 variant(er).
-[Read full details](g9/)
-
-## XPENG P7
-
-<a href="p7"><img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_st.jpg" class="img-fluid" alt="P7" ></a>
-
+<a href="g9">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> XPENG P7</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="p7"><img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_st.jpg" class="img-fluid" alt="XPENG P7" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](p7/)
+<a href="p7">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

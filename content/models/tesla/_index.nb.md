@@ -8,38 +8,63 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Tesla Cybertruck
-
-<a href="cybertruck"><img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" class="img-fluid" alt="Cybertruck" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Tesla Cybertruck</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="cybertruck"><img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" class="img-fluid" alt="Tesla Cybertruck" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 2 variant(er).
-[Read full details](cybertruck/)
-
-## Tesla Model 3
-
-<a href="model_3"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg" class="img-fluid" alt="Model 3" ></a>
-
+<a href="cybertruck">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Tesla Model 3</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_3"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg" class="img-fluid" alt="Tesla Model 3" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 5 variant(er).
-[Read full details](model_3/)
-
-## Tesla Model S
-
-<a href="model_s"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" class="img-fluid" alt="Model S" ></a>
-
+<a href="model_3">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Tesla Model S</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_s"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" class="img-fluid" alt="Tesla Model S" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 3 variant(er).
-[Read full details](model_s/)
-
-## Tesla Model X
-
-<a href="model_x"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" class="img-fluid" alt="Model X" ></a>
-
+<a href="model_s">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Tesla Model X</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_x"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" class="img-fluid" alt="Tesla Model X" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 3 variant(er).
-[Read full details](model_x/)
-
-## Tesla Model Y
-
-<a href="model_y"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" class="img-fluid" alt="Model Y" ></a>
-
+<a href="model_x">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Tesla Model Y</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_y"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" class="img-fluid" alt="Tesla Model Y" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 3 variant(er).
-[Read full details](model_y/)
+<a href="model_y">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

@@ -8,17 +8,27 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Polestar 2
-
-<a href="2"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg" class="img-fluid" alt="2" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Polestar 2</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="2"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg" class="img-fluid" alt="Polestar 2" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 3 variant(er).
-[Read full details](2/)
-
-## Polestar 3
-
-<a href="3"><img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" class="img-fluid" alt="3" ></a>
-
+<a href="2">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Polestar 3</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="3"><img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" class="img-fluid" alt="Polestar 3" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](3/)
+<a href="3">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

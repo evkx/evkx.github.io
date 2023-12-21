@@ -8,38 +8,63 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Nio has currently 5 all electric models with total 6 variants in the market. Below you find links for each model page.  
 
-
-## Nio EL6
-
-<a href="el6"><img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_2_st.jpg" class="img-fluid" alt="EL6" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Nio EL6</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="el6"><img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_2_st.jpg" class="img-fluid" alt="Nio EL6" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 1 variant(s). 
-[Read full details](el6/)
-
-## Nio EL7
-
-<a href="el7"><img src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_st.jpg" class="img-fluid" alt="EL7" ></a>
-
+<a href="el6">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Nio EL7</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="el7"><img src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_st.jpg" class="img-fluid" alt="Nio EL7" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 1 variant(s). 
-[Read full details](el7/)
-
-## Nio ES8
-
-<a href="es8"><img src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg" class="img-fluid" alt="ES8" ></a>
-
+<a href="el7">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Nio ES8</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="es8"><img src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg" class="img-fluid" alt="Nio ES8" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 1 variant(s). 
-[Read full details](es8/)
-
-## Nio ET5
-
-<a href="et5"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_st.jpg" class="img-fluid" alt="ET5" ></a>
-
+<a href="es8">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Nio ET5</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="et5"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_st.jpg" class="img-fluid" alt="Nio ET5" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 2 variant(s). 
-[Read full details](et5/)
-
-## Nio ET7
-
-<a href="et7"><img src="https://media.evkx.net/multimedia/models/nio/et7/et7/main_1_st.jpg" class="img-fluid" alt="ET7" ></a>
-
+<a href="et5">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Nio ET7</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="et7"><img src="https://media.evkx.net/multimedia/models/nio/et7/et7/main_1_st.jpg" class="img-fluid" alt="Nio ET7" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 1 variant(s). 
-[Read full details](et7/)
+<a href="et7">Go to model info</a>
+		</div>
+	</div>
+</div>

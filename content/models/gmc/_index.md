@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 GMC is also committed to an all-electric future as part of GM's vision to create a world with zero crashes, zero emissions and zero congestion. GMC aims to provide EVs for everyone by offering a wide range of electric vehicles that cater to different styles, needs and budgets.
 
-
-## GMC Hummer EV
-
-<a href="hummer_ev"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_pickup/main_1_st.jpg" class="img-fluid" alt="Hummer EV" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> GMC Hummer EV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="hummer_ev"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_pickup/main_1_st.jpg" class="img-fluid" alt="GMC Hummer EV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 1 variant(s). 
-[Read full details](hummer_ev/)
+<a href="hummer_ev">Go to model info</a>
+		</div>
+	</div>
+</div>

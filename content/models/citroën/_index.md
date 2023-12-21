@@ -8,17 +8,27 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Citroën's EV strategy is to offer electrified versions of all its models by 2025, and to become a leader in low-emission mobility. Citroën aims to provide electric vehicles that are affordable, practical, and comfortable, while retaining the brand's unique style and personality.
 
-
-## Citroën ë-C3
-
-<a href="ë-c3"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c3/ë-c3/main_1_st.jpg" class="img-fluid" alt="ë-C3" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Citroën ë-C3</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ë-c3"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c3/ë-c3/main_1_st.jpg" class="img-fluid" alt="Citroën ë-C3" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 1 variant(s). 
-[Read full details](ë-c3/)
-
-## Citroën ë-C4
-
-<a href="ë-c4"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" class="img-fluid" alt="ë-C4" ></a>
-
+<a href="ë-c3">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Citroën ë-C4</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ë-c4"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" class="img-fluid" alt="Citroën ë-C4" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 1 variant(s). 
-[Read full details](ë-c4/)
+<a href="ë-c4">Go to model info</a>
+		</div>
+	</div>
+</div>

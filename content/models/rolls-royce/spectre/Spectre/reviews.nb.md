@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Doug DeMuro: 2024 Rolls-Royce Spectre Review: $450,000 Ultra-Luxury Electric Car 19.12.2023
+
+{{< youtube 4E5Qo_slJhU >}}
+
 ### Out of Spec Reviews: I Drive The Electric Rolls Royce Spectre For The First Time! Testing Charging, Efficiency, & Comfort 10.11.2023
 
 {{< youtube jLfsGg-Q3zw >}}

@@ -8,17 +8,27 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Chevrolet Blazer EV
-
-<a href="blazer_ev"><img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" class="img-fluid" alt="Blazer EV" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Chevrolet Blazer EV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="blazer_ev"><img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" class="img-fluid" alt="Chevrolet Blazer EV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 2 variant(er).
-[Read full details](blazer_ev/)
-
-## Chevrolet Silverado EV
-
-<a href="silverado_ev"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" class="img-fluid" alt="Silverado EV" ></a>
-
+<a href="blazer_ev">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Chevrolet Silverado EV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="silverado_ev"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" class="img-fluid" alt="Chevrolet Silverado EV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](silverado_ev/)
+<a href="silverado_ev">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

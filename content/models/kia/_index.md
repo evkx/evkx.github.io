@@ -8,24 +8,39 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Kia has currently 3 model with total 7 variants in the market. 
 
-
-## Kia EV6
-
-<a href="ev6"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg" class="img-fluid" alt="EV6" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Kia EV6</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ev6"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg" class="img-fluid" alt="Kia EV6" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 5 variant(s). 
-[Read full details](ev6/)
-
-## Kia EV9
-
-<a href="ev9"><img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/main_1_st.jpg" class="img-fluid" alt="EV9" ></a>
-
+<a href="ev6">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Kia EV9</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ev9"><img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Kia EV9" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 1 variant(s). 
-[Read full details](ev9/)
-
-## Kia Niro
-
-<a href="niro"><img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg" class="img-fluid" alt="Niro" ></a>
-
+<a href="ev9">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Kia Niro</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="niro"><img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg" class="img-fluid" alt="Kia Niro" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 1 variant(s). 
-[Read full details](niro/)
+<a href="niro">Go to model info</a>
+		</div>
+	</div>
+</div>

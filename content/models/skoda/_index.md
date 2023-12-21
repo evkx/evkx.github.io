@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
  Skoda has currently 1 all electric models with total 6 variants in the market. Below you find links for each model page.
 
-
-## SKODA Enyaq iV
-
-<a href="enyaq_iv"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" class="img-fluid" alt="Enyaq iV" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> SKODA Enyaq iV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="enyaq_iv"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" class="img-fluid" alt="SKODA Enyaq iV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 6 variant(s). 
-[Read full details](enyaq_iv/)
+<a href="enyaq_iv">Go to model info</a>
+		</div>
+	</div>
+</div>

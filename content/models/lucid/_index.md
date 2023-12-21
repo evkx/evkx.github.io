@@ -8,17 +8,27 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Lucid has currently 2 all electric models with total 6 variants in the market. Below you find links for each model page.  
 
-
-## Lucid Air
-
-<a href="air"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg" class="img-fluid" alt="Air" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Lucid Air</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="air"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg" class="img-fluid" alt="Lucid Air" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 5 variant(s). 
-[Read full details](air/)
-
-## Lucid Gravity
-
-<a href="gravity"><img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" class="img-fluid" alt="Gravity" ></a>
-
+<a href="air">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Lucid Gravity</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="gravity"><img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" class="img-fluid" alt="Lucid Gravity" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 1 variant(s). 
-[Read full details](gravity/)
+<a href="gravity">Go to model info</a>
+		</div>
+	</div>
+</div>

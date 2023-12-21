@@ -8,17 +8,27 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Renault Megane
-
-<a href="megane"><img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" class="img-fluid" alt="Megane" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Renault Megane</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="megane"><img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" class="img-fluid" alt="Renault Megane" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](megane/)
-
-## Renault Scenic
-
-<a href="scenic"><img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/main_1_st.jpg" class="img-fluid" alt="Scenic" ></a>
-
+<a href="megane">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Renault Scenic</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="scenic"><img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/main_1_st.jpg" class="img-fluid" alt="Renault Scenic" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](scenic/)
+<a href="scenic">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

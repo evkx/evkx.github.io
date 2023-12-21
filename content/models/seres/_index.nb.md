@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Seres 5
-
-<a href="5"><img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/main_1_st.jpg" class="img-fluid" alt="5" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Seres 5</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="5"><img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/main_1_st.jpg" class="img-fluid" alt="Seres 5" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](5/)
+<a href="5">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

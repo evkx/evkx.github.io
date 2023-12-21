@@ -8,17 +8,27 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Smart #1
-
-<a href="hash1"><img src="https://media.evkx.net/multimedia/models/smart/#1/#1_brabus/main_1_st.jpg" class="img-fluid" alt="#1" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Smart #1</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="hash1"><img src="https://media.evkx.net/multimedia/models/smart/#1/#1_brabus/main_1_st.jpg" class="img-fluid" alt="Smart #1" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 3 variant(er).
-[Read full details](hash1/)
-
-## Smart #3
-
-<a href="hash3"><img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" class="img-fluid" alt="#3" ></a>
-
+<a href="hash1">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Smart #3</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="hash3"><img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" class="img-fluid" alt="Smart #3" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](hash3/)
+<a href="hash3">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

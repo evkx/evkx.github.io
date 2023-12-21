@@ -8,17 +8,27 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Cadillac ESCALADE
-
-<a href="escalade"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" class="img-fluid" alt="ESCALADE" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Cadillac ESCALADE</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="escalade"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" class="img-fluid" alt="Cadillac ESCALADE" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](escalade/)
-
-## Cadillac LYRIQ
-
-<a href="lyriq"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" class="img-fluid" alt="LYRIQ" ></a>
-
+<a href="escalade">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Cadillac LYRIQ</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="lyriq"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" class="img-fluid" alt="Cadillac LYRIQ" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 2 variant(er).
-[Read full details](lyriq/)
+<a href="lyriq">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

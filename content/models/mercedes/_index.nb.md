@@ -8,52 +8,87 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Mercedes EQA
-
-<a href="eqa"><img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_st.jpg" class="img-fluid" alt="EQA" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Mercedes EQA</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eqa"><img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_st.jpg" class="img-fluid" alt="Mercedes EQA" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 3 variant(er).
-[Read full details](eqa/)
-
-## Mercedes EQB
-
-<a href="eqb"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_st.jpg" class="img-fluid" alt="EQB" ></a>
-
+<a href="eqa">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Mercedes EQB</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eqb"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_st.jpg" class="img-fluid" alt="Mercedes EQB" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 3 variant(er).
-[Read full details](eqb/)
-
-## Mercedes EQC
-
-<a href="eqc"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" class="img-fluid" alt="EQC" ></a>
-
+<a href="eqb">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Mercedes EQC</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eqc"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" class="img-fluid" alt="Mercedes EQC" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](eqc/)
-
-## Mercedes EQE
-
-<a href="eqe"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1_st.jpg" class="img-fluid" alt="EQE" ></a>
-
+<a href="eqc">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Mercedes EQE</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eqe"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1_st.jpg" class="img-fluid" alt="Mercedes EQE" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 6 variant(er).
-[Read full details](eqe/)
-
-## Mercedes EQE SUV
-
-<a href="eqe_suv"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" class="img-fluid" alt="EQE SUV" ></a>
-
+<a href="eqe">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Mercedes EQE SUV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eqe_suv"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" class="img-fluid" alt="Mercedes EQE SUV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 4 variant(er).
-[Read full details](eqe_suv/)
-
-## Mercedes EQS
-
-<a href="eqs"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" class="img-fluid" alt="EQS" ></a>
-
+<a href="eqe_suv">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Mercedes EQS</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eqs"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" class="img-fluid" alt="Mercedes EQS" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 5 variant(er).
-[Read full details](eqs/)
-
-## Mercedes EQS SUV
-
-<a href="eqs_suv"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450plus_suv/main_1_st.jpg" class="img-fluid" alt="EQS SUV" ></a>
-
+<a href="eqs">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Mercedes EQS SUV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eqs_suv"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450plus_suv/main_1_st.jpg" class="img-fluid" alt="Mercedes EQS SUV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 4 variant(er).
-[Read full details](eqs_suv/)
+<a href="eqs_suv">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

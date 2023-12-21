@@ -8,24 +8,39 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Hyundai Ioniq 5
-
-<a href="ioniq_5"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_st.jpg" class="img-fluid" alt="Ioniq 5" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Hyundai Ioniq 5</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ioniq_5"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_st.jpg" class="img-fluid" alt="Hyundai Ioniq 5" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 3 variant(er).
-[Read full details](ioniq_5/)
-
-## Hyundai Ioniq 6
-
-<a href="ioniq_6"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Ioniq 6" ></a>
-
+<a href="ioniq_5">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Hyundai Ioniq 6</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ioniq_6"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Hyundai Ioniq 6" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 2 variant(er).
-[Read full details](ioniq_6/)
-
-## Hyundai Kona
-
-<a href="kona"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg" class="img-fluid" alt="Kona" ></a>
-
+<a href="ioniq_6">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Hyundai Kona</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="kona"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg" class="img-fluid" alt="Hyundai Kona" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 2 variant(er).
-[Read full details](kona/)
+<a href="kona">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

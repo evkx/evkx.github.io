@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Genesis has recently announced its vision for a sustainable future with electrification as its core strategy. According to its official statement, Genesis plans to launch eight electric models by 2030 and become a 100% zero-emission vehicle brand by then. It also aims to achieve carbon neutrality by 2035. Genesis will focus on two types of electric vehicles: battery electric vehicles (BEVs) and fuel cell electric vehicles (FCEVs). It will develop advanced technologies to improve the efficiency and power output of both systems. Genesis claims that its electric vehicles will offer superior driving performance, intelligent features, and emotional design.
 
-
-## Genesis GV60
-
-<a href="gv60"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_sport/main_1_st.jpg" class="img-fluid" alt="GV60" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Genesis GV60</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="gv60"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_sport/main_1_st.jpg" class="img-fluid" alt="Genesis GV60" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 This model is available in 2 variant(s). 
-[Read full details](gv60/)
+<a href="gv60">Go to model info</a>
+		</div>
+	</div>
+</div>

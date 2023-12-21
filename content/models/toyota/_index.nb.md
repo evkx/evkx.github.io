@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Toyota bZ4X
-
-<a href="bz4x"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" class="img-fluid" alt="bZ4X" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Toyota bZ4X</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="bz4x"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" class="img-fluid" alt="Toyota bZ4X" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 2 variant(er).
-[Read full details](bz4x/)
+<a href="bz4x">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

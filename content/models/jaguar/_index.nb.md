@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Jaguar I-Pace
-
-<a href="i-pace"><img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/main_1_st.jpg" class="img-fluid" alt="I-Pace" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Jaguar I-Pace</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="i-pace"><img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/main_1_st.jpg" class="img-fluid" alt="Jaguar I-Pace" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](i-pace/)
+<a href="i-pace">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

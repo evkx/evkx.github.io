@@ -8,10 +8,15 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Jeep Avenger
-
-<a href="avenger"><img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1_st.jpg" class="img-fluid" alt="Avenger" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Jeep Avenger</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="avenger"><img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1_st.jpg" class="img-fluid" alt="Jeep Avenger" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](avenger/)
+<a href="avenger">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

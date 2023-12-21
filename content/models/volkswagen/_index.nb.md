@@ -8,38 +8,63 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-
-## Volkswagen ID. Buzz
-
-<a href="id._buzz"><img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg" class="img-fluid" alt="ID. Buzz" ></a>
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Volkswagen ID. Buzz</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id._buzz"><img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID. Buzz" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 2 variant(er).
-[Read full details](id._buzz/)
-
-## Volkswagen ID.3
-
-<a href="id.3"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro/main_1_st.jpg" class="img-fluid" alt="ID.3" ></a>
-
+<a href="id._buzz">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Volkswagen ID.3</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.3"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID.3" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 2 variant(er).
-[Read full details](id.3/)
-
-## Volkswagen ID.4
-
-<a href="id.4"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.4" ></a>
-
+<a href="id.3">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Volkswagen ID.4</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.4"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID.4" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 5 variant(er).
-[Read full details](id.4/)
-
-## Volkswagen ID.5
-
-<a href="id.5"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.5" ></a>
-
+<a href="id.4">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Volkswagen ID.5</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.5"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID.5" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 4 variant(er).
-[Read full details](id.5/)
-
-## Volkswagen ID.7
-
-<a href="id.7"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_st.jpg" class="img-fluid" alt="ID.7" ></a>
-
+<a href="id.5">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Volkswagen ID.7</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.7"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID.7" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
 Denne modellen er tilgjengelig i 1 variant(er).
-[Read full details](id.7/)
+<a href="id.7">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
