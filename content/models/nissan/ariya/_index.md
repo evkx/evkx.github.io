@@ -10,7 +10,7 @@ weight: 30
 <h3>Nissan Ariya 63kWh</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ariya_63kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" class="img-fluid" alt="Ariya 63kWh" ></a>
+			<a href="ariya_63kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_xst.jpg" class="img-fluid" width="400px" height="251px" alt="Ariya 63kWh" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Nissan Ariya 87kWh</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ariya_87kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/main_1_st.jpg" class="img-fluid" alt="Ariya 87kWh" ></a>
+			<a href="ariya_87kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/main_1_xst.jpg" class="img-fluid" width="400px" height="251px" alt="Ariya 87kWh" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Nissan Ariya 87kWh e-4ORCE</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ariya_87kwh_e-4orce/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" class="img-fluid" alt="Ariya 87kWh e-4ORCE" ></a>
+			<a href="ariya_87kwh_e-4orce/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_xst.jpg" class="img-fluid" width="400px" height="251px" alt="Ariya 87kWh e-4ORCE" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

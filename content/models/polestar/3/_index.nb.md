@@ -10,7 +10,7 @@ weight: 30
 <h3>Polestar 3 Long Range Dual Motor Performance</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="3_long_range_dual_motor_performance/"><img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" class="img-fluid" alt="3 Long Range Dual Motor Performance" ></a>
+			<a href="3_long_range_dual_motor_performance/"><img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="3 Long Range Dual Motor Performance" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

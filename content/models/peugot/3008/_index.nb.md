@@ -10,7 +10,7 @@ weight: 30
 <h3>Peugot E-3008 Long Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="e-3008_long_range/"><img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_st.jpg" class="img-fluid" alt="E-3008 Long Range" ></a>
+			<a href="e-3008_long_range/"><img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="250px" alt="E-3008 Long Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

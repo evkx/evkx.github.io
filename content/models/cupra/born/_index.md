@@ -10,7 +10,7 @@ weight: 30
 <h3>CUPRA BORN 58</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="born_58/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" class="img-fluid" alt="BORN 58" ></a>
+			<a href="born_58/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="BORN 58" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>CUPRA BORN 58 e-BOOST</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="born_58_e-boost/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/main_1_st.jpg" class="img-fluid" alt="BORN 58 e-BOOST" ></a>
+			<a href="born_58_e-boost/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="BORN 58 e-BOOST" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>CUPRA BORN 77 e-BOOST</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="born_77_e-boost/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_77_e-boost/main_1_st.jpg" class="img-fluid" alt="BORN 77 e-BOOST" ></a>
+			<a href="born_77_e-boost/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_77_e-boost/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="BORN 77 e-BOOST" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

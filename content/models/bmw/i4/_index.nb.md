@@ -10,7 +10,7 @@ weight: 30
 <h3>BMW i4 eDrive35</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="i4_edrive35/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/main_1_st.jpg" class="img-fluid" alt="i4 eDrive35" ></a>
+			<a href="i4_edrive35/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i4 eDrive35" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>BMW i4 eDrive40</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="i4_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg" class="img-fluid" alt="i4 eDrive40" ></a>
+			<a href="i4_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i4 eDrive40" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>BMW i4 M50</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="i4_m50/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg" class="img-fluid" alt="i4 M50" ></a>
+			<a href="i4_m50/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_xst.jpg" class="img-fluid" width="400px" height="333px" alt="i4 M50" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

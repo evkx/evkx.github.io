@@ -10,7 +10,7 @@ weight: 30
 <h3>Hyundai Kona Long Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="kona_long_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg" class="img-fluid" alt="Kona Long Range" ></a>
+			<a href="kona_long_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Kona Long Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Hyundai Kona Standard Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="kona_standard_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1_st.jpg" class="img-fluid" alt="Kona Standard Range" ></a>
+			<a href="kona_standard_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Kona Standard Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

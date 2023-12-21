@@ -10,7 +10,7 @@ weight: 30
 <h3>Renault Scenic E-Tech electric High Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="scenic_e-tech_electric_high_range/"><img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/main_1_st.jpg" class="img-fluid" alt="Scenic E-Tech electric High Range" ></a>
+			<a href="scenic_e-tech_electric_high_range/"><img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="Scenic E-Tech electric High Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -10,7 +10,7 @@ weight: 30
 <h3>Kia Niro EV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="niro_ev/"><img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg" class="img-fluid" alt="Niro EV" ></a>
+			<a href="niro_ev/"><img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Niro EV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

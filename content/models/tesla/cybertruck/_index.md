@@ -10,7 +10,7 @@ weight: 30
 <h3>Tesla Cybertruck AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="cybertruck_awd/"><img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_awd/main_1_st.jpg" class="img-fluid" alt="Cybertruck AWD" ></a>
+			<a href="cybertruck_awd/"><img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Cybertruck AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Tesla Cybertruck Cyberbeast</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="cybertruck_cyberbeast/"><img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" class="img-fluid" alt="Cybertruck Cyberbeast" ></a>
+			<a href="cybertruck_cyberbeast/"><img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Cybertruck Cyberbeast" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

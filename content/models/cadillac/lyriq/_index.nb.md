@@ -10,7 +10,7 @@ weight: 30
 <h3>Cadillac LYRIQ AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="lyriq_awd/"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" class="img-fluid" alt="LYRIQ AWD" ></a>
+			<a href="lyriq_awd/"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="LYRIQ AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Cadillac LYRIQ RWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="lyriq_rwd/"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/main_1_st.jpg" class="img-fluid" alt="LYRIQ RWD" ></a>
+			<a href="lyriq_rwd/"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="LYRIQ RWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

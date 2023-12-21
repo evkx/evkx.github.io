@@ -10,7 +10,7 @@ weight: 30
 <h3>BMW iX3</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ix3/"><img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg" class="img-fluid" alt="iX3" ></a>
+			<a href="ix3/"><img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="iX3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

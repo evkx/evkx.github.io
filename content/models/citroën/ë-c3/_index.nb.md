@@ -10,7 +10,7 @@ weight: 30
 <h3>Citroën ë-C3</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ë-c3/"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c3/ë-c3/main_1_st.jpg" class="img-fluid" alt="ë-C3" ></a>
+			<a href="ë-c3/"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c3/ë-c3/main_1_xst.jpg" class="img-fluid" width="400px" height="200px" alt="ë-C3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

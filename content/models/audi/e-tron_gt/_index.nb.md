@@ -10,7 +10,7 @@ weight: 30
 <h3>Audi e-tron GT</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="e-tron_gt/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg" class="img-fluid" alt="e-tron GT" ></a>
+			<a href="e-tron_gt/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="e-tron GT" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Audi RS e-tron GT</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="rs_e-tron_gt/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" class="img-fluid" alt="RS e-tron GT" ></a>
+			<a href="rs_e-tron_gt/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/rs_e-tron_gt/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="RS e-tron GT" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

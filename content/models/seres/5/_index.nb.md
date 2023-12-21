@@ -10,7 +10,7 @@ weight: 30
 <h3>Seres 5 4WD Premium</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="5_4wd_premium/"><img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/main_1_st.jpg" class="img-fluid" alt="5 4WD Premium" ></a>
+			<a href="5_4wd_premium/"><img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="5 4WD Premium" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

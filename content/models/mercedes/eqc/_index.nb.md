@@ -10,7 +10,7 @@ weight: 30
 <h3>Mercedes-EQ EQC 400 4MATIC</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqc_400_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" class="img-fluid" alt="EQC 400 4MATIC" ></a>
+			<a href="eqc_400_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQC 400 4MATIC" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

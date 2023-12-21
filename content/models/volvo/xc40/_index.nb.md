@@ -10,7 +10,7 @@ weight: 30
 <h3>Volvo XC40 Recharge Single Motor</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="xc40_recharge_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/main_1_st.jpg" class="img-fluid" alt="XC40 Recharge Single Motor" ></a>
+			<a href="xc40_recharge_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="XC40 Recharge Single Motor" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Volvo XC40 Recharge Single Motor ER</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="xc40_recharge_single_motor_er/"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" class="img-fluid" alt="XC40 Recharge Single Motor ER" ></a>
+			<a href="xc40_recharge_single_motor_er/"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="XC40 Recharge Single Motor ER" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Volvo XC40 Recharge Twin Motor</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="xc40_recharge_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_twin_motor/main_1_st.jpg" class="img-fluid" alt="XC40 Recharge Twin Motor" ></a>
+			<a href="xc40_recharge_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_twin_motor/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="XC40 Recharge Twin Motor" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

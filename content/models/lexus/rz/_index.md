@@ -10,7 +10,7 @@ weight: 30
 <h3>Lexus RZ 450e</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="rz_450e/"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" class="img-fluid" alt="RZ 450e" ></a>
+			<a href="rz_450e/"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="RZ 450e" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

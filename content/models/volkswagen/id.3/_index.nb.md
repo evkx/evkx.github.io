@@ -10,7 +10,7 @@ weight: 30
 <h3>Volkswagen ID.3 Pro</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="id.3_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro/main_1_st.jpg" class="img-fluid" alt="ID.3 Pro" ></a>
+			<a href="id.3_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.3 Pro" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Volkswagen ID.3 Pro S</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="id.3_pro_s/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" class="img-fluid" alt="ID.3 Pro S" ></a>
+			<a href="id.3_pro_s/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.3 Pro S" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

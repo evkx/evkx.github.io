@@ -10,7 +10,7 @@ weight: 30
 <h3>Ford Mustang Mach-E Long Range AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="mustang_mach-e_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Mustang Mach-E Long Range AWD" ></a>
+			<a href="mustang_mach-e_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="223px" alt="Mustang Mach-E Long Range AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Ford Mustang Mach-E Long Range RWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="mustang_mach-e_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/main_1_st.jpg" class="img-fluid" alt="Mustang Mach-E Long Range RWD" ></a>
+			<a href="mustang_mach-e_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="223px" alt="Mustang Mach-E Long Range RWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Ford Mustang Mach-E GT</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="mustang_mach-e_gt/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/main_1_st.jpg" class="img-fluid" alt="Mustang Mach-E GT" ></a>
+			<a href="mustang_mach-e_gt/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Mustang Mach-E GT" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -64,7 +64,7 @@ weight: 30
 <h3>Ford Mustang Mach-E Standard Range AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="mustang_mach-e_standard_range_awd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/main_1_st.jpg" class="img-fluid" alt="Mustang Mach-E Standard Range AWD" ></a>
+			<a href="mustang_mach-e_standard_range_awd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="223px" alt="Mustang Mach-E Standard Range AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -82,7 +82,7 @@ weight: 30
 <h3>Ford Mustang Mach-E Standard Range RWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="mustang_mach-e_standard_range_rwd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/main_1_st.jpg" class="img-fluid" alt="Mustang Mach-E Standard Range RWD" ></a>
+			<a href="mustang_mach-e_standard_range_rwd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="223px" alt="Mustang Mach-E Standard Range RWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

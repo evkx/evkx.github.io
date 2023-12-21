@@ -10,7 +10,7 @@ weight: 30
 <h3>Rivian R1S Performance Dual-Motor AWD LP</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="r1s_performance_dual-motor_awd_lp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/main_1_st.jpg" class="img-fluid" alt="R1S Performance Dual-Motor AWD LP" ></a>
+			<a href="r1s_performance_dual-motor_awd_lp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1S Performance Dual-Motor AWD LP" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Rivian R1S Performance Dual-Motor AWD MP</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="r1s_performance_dual-motor_awd_mp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_mp/main_1_st.jpg" class="img-fluid" alt="R1S Performance Dual-Motor AWD MP" ></a>
+			<a href="r1s_performance_dual-motor_awd_mp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_mp/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1S Performance Dual-Motor AWD MP" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Rivian R1S Quad-Motor AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="r1s_quad-motor_awd/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg" class="img-fluid" alt="R1S Quad-Motor AWD" ></a>
+			<a href="r1s_quad-motor_awd/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1S Quad-Motor AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -64,7 +64,7 @@ weight: 30
 <h3>Rivian R1T Performance Dual-Motor AWD LP</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="r1t_performance_dual-motor_awd_lp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_performance_dual-motor_awd_lp/main_1_st.jpg" class="img-fluid" alt="R1T Performance Dual-Motor AWD LP" ></a>
+			<a href="r1t_performance_dual-motor_awd_lp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_performance_dual-motor_awd_lp/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1T Performance Dual-Motor AWD LP" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -82,7 +82,7 @@ weight: 30
 <h3>Rivian R1T Performance Dual-Motor AWD MP</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="r1t_performance_dual-motor_awd_mp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_performance_dual-motor_awd_mp/main_1_st.jpg" class="img-fluid" alt="R1T Performance Dual-Motor AWD MP" ></a>
+			<a href="r1t_performance_dual-motor_awd_mp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_performance_dual-motor_awd_mp/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1T Performance Dual-Motor AWD MP" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -100,7 +100,7 @@ weight: 30
 <h3>Rivian R1T Quad-Motor AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="r1t_quad-motor_awd/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" class="img-fluid" alt="R1T Quad-Motor AWD" ></a>
+			<a href="r1t_quad-motor_awd/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1T Quad-Motor AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

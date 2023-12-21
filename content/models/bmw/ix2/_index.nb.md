@@ -10,7 +10,7 @@ weight: 30
 <h3>BMW iX2 xDrive30</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ix2_xdrive30/"><img src="https://media.evkx.net/multimedia/models/bmw/ix2/ix2_xdrive30/main_1_st.jpg" class="img-fluid" alt="iX2 xDrive30" ></a>
+			<a href="ix2_xdrive30/"><img src="https://media.evkx.net/multimedia/models/bmw/ix2/ix2_xdrive30/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="iX2 xDrive30" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

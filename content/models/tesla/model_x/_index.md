@@ -10,7 +10,7 @@ weight: 30
 <h3>Tesla Model X</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="model_x/"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1_st.jpg" class="img-fluid" alt="Model X" ></a>
+			<a href="model_x/"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Model X" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Tesla Model X Plaid</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="model_x_plaid/"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" class="img-fluid" alt="Model X Plaid" ></a>
+			<a href="model_x_plaid/"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Model X Plaid" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Tesla Model X Standard Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="model_x_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_standard_range/main_1_st.jpg" class="img-fluid" alt="Model X Standard Range" ></a>
+			<a href="model_x_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_standard_range/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Model X Standard Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

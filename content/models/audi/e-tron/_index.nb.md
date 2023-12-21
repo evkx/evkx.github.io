@@ -6,13 +6,13 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-## Discontinued variants
+<h2>Discontinued variants</h2>
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
 <h3>Audi e-tron 50</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="e-tron_50/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50/main_1_st.jpg" class="img-fluid" alt="e-tron 50" ></a>
+			<a href="e-tron_50/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="e-tron 50" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 <h3>Audi e-tron 50 Sportback</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="e-tron_50_sportback/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/main_1_st.jpg" class="img-fluid" alt="e-tron 50 Sportback" ></a>
+			<a href="e-tron_50_sportback/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/main_1_xst.jpg" class="img-fluid" width="400px" height="265px" alt="e-tron 50 Sportback" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -48,7 +48,7 @@ weight: 30
 <h3>Audi e-tron 55</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="e-tron_55/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/main_1_st.jpg" class="img-fluid" alt="e-tron 55" ></a>
+			<a href="e-tron_55/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="e-tron 55" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -66,7 +66,7 @@ weight: 30
 <h3>Audi e-tron 55 Sportback</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="e-tron_55_sportback/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/main_1_st.jpg" class="img-fluid" alt="e-tron 55 Sportback" ></a>
+			<a href="e-tron_55_sportback/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/main_1_xst.jpg" class="img-fluid" width="400px" height="265px" alt="e-tron 55 Sportback" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -84,7 +84,7 @@ weight: 30
 <h3>Audi e-tron S</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="e-tron_s/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/main_1_st.jpg" class="img-fluid" alt="e-tron S" ></a>
+			<a href="e-tron_s/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="e-tron S" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -102,7 +102,7 @@ weight: 30
 <h3>Audi e-tron S Sportback</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="e-tron_s_sportback/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/main_1_st.jpg" class="img-fluid" alt="e-tron S Sportback" ></a>
+			<a href="e-tron_s_sportback/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="e-tron S Sportback" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

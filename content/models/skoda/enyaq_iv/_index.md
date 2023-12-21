@@ -10,7 +10,7 @@ weight: 30
 <h3>SKODA ENYAQ COUPÉ 85x</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="enyaq_coupé_85x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_85x/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ 85x" ></a>
+			<a href="enyaq_coupé_85x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_85x/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ENYAQ COUPÉ 85x" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>SKODA ENYAQ COUPÉ RS iV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="enyaq_coupé_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ RS iV" ></a>
+			<a href="enyaq_coupé_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ENYAQ COUPÉ RS iV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -42,13 +42,13 @@ weight: 30
 		</div>
 	</div>
 </div>
-## Discontinued variants
+<h2>Discontinued variants</h2>
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
 <h3>SKODA ENYAQ COUPÉ RS iV (GEN1)</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="enyaq_coupé_rs_iv_gen1/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ RS iV" ></a>
+			<a href="enyaq_coupé_rs_iv_gen1/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ENYAQ COUPÉ RS iV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -66,7 +66,7 @@ weight: 30
 <h3>SKODA Enyaq iV80</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="enyaq_iv80/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80/main_1_st.jpg" class="img-fluid" alt="Enyaq iV80" ></a>
+			<a href="enyaq_iv80/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Enyaq iV80" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -84,7 +84,7 @@ weight: 30
 <h3>SKODA Enyaq iV80x</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="enyaq_iv80x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_st.jpg" class="img-fluid" alt="Enyaq iV80x" ></a>
+			<a href="enyaq_iv80x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Enyaq iV80x" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -102,7 +102,7 @@ weight: 30
 <h3>SKODA ENYAQ RS iV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="enyaq_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_st.jpg" class="img-fluid" alt="ENYAQ RS iV" ></a>
+			<a href="enyaq_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ENYAQ RS iV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

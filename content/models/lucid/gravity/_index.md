@@ -10,7 +10,7 @@ weight: 30
 <h3>Lucid Gravity Dream Edition</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="gravity_dream_edition/"><img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" class="img-fluid" alt="Gravity Dream Edition" ></a>
+			<a href="gravity_dream_edition/"><img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/main_1_xst.jpeg" class="img-fluid" width="400px" height="267px" alt="Gravity Dream Edition" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

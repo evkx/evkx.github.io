@@ -10,7 +10,7 @@ weight: 30
 <h3>Cadillac ESCALADE IQ</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="escalade_iq/"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" class="img-fluid" alt="ESCALADE IQ" ></a>
+			<a href="escalade_iq/"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_xst.jpg" class="img-fluid" width="400px" height="184px" alt="ESCALADE IQ" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

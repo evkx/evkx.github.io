@@ -10,7 +10,7 @@ weight: 30
 <h3>BMW i5 eDrive40</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="i5_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1_st.jpg" class="img-fluid" alt="i5 eDrive40" ></a>
+			<a href="i5_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="i5 eDrive40" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>BMW i5 M60 xDrive</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="i5_m60_xdrive/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_st.jpg" class="img-fluid" alt="i5 M60 xDrive" ></a>
+			<a href="i5_m60_xdrive/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="i5 M60 xDrive" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -10,7 +10,7 @@ weight: 30
 <h3>Genesis GV60 AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="gv60_awd/"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/main_1_st.jpg" class="img-fluid" alt="GV60 AWD" ></a>
+			<a href="gv60_awd/"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="GV60 AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Genesis GV60 AWD Performance</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="gv60_awd_performance/"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd_performance/main_1_st.jpg" class="img-fluid" alt="GV60 AWD Performance" ></a>
+			<a href="gv60_awd_performance/"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="GV60 AWD Performance" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

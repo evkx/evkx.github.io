@@ -10,7 +10,7 @@ weight: 30
 <h3>Volvo EX90 Twin Motor</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ex90_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/main_1_st.jpg" class="img-fluid" alt="EX90 Twin Motor" ></a>
+			<a href="ex90_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EX90 Twin Motor" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Volvo EX90 Twin Motor Performance</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ex90_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" class="img-fluid" alt="EX90 Twin Motor Performance" ></a>
+			<a href="ex90_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EX90 Twin Motor Performance" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -10,7 +10,7 @@ weight: 30
 <h3>XPENG P7 AWD Performance</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="p7_awd_performance/"><img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_st.jpg" class="img-fluid" alt="P7 AWD Performance" ></a>
+			<a href="p7_awd_performance/"><img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="P7 AWD Performance" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

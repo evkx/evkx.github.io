@@ -10,7 +10,7 @@ weight: 30
 <h3>Ford F150 Lightning Extended Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="f150_lightning_extended_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning Extended Range" ></a>
+			<a href="f150_lightning_extended_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_xst.jpg" class="img-fluid" width="400px" height="209px" alt="F150 Lightning Extended Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Ford F150 Lightning Standard Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="f150_lightning_standard_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_standard_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning Standard Range" ></a>
+			<a href="f150_lightning_standard_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_standard_range/main_1_xst.jpg" class="img-fluid" width="400px" height="209px" alt="F150 Lightning Standard Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

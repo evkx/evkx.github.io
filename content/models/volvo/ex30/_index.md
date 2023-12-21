@@ -10,7 +10,7 @@ weight: 30
 <h3>Volvo EX30 Twin Motor Performance</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ex30_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" class="img-fluid" alt="EX30 Twin Motor Performance" ></a>
+			<a href="ex30_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="EX30 Twin Motor Performance" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Volvo EX30 Single Motor</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ex30_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1_st.jpg" class="img-fluid" alt="EX30 Single Motor" ></a>
+			<a href="ex30_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="EX30 Single Motor" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Volvo EX30 Single Motor Extended Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ex30_single_motor_extended_range/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1_st.jpg" class="img-fluid" alt="EX30 Single Motor Extended Range" ></a>
+			<a href="ex30_single_motor_extended_range/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="EX30 Single Motor Extended Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

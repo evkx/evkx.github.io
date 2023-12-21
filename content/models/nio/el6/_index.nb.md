@@ -10,7 +10,7 @@ weight: 30
 <h3>Nio EL6</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="el6/"><img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_2_st.jpg" class="img-fluid" alt="EL6" ></a>
+			<a href="el6/"><img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_2_xst.jpg" class="img-fluid" width="400px" height="236px" alt="EL6" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

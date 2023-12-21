@@ -10,7 +10,7 @@ weight: 30
 <h3>Subaru Solterra AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="solterra_awd/"><img src="https://media.evkx.net/multimedia/models/subaru/solterra/solterra_awd/main_1_st.jpeg" class="img-fluid" alt="Solterra AWD" ></a>
+			<a href="solterra_awd/"><img src="https://media.evkx.net/multimedia/models/subaru/solterra/solterra_awd/main_1_xst.jpeg" class="img-fluid" width="400px" height="232px" alt="Solterra AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

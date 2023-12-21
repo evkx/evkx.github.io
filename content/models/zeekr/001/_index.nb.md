@@ -10,7 +10,7 @@ weight: 30
 <h3>Zeekr 001 FR</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="001_fr/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_st.jpeg" class="img-fluid" alt="001 FR" ></a>
+			<a href="001_fr/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_xst.jpeg" class="img-fluid" width="400px" height="266px" alt="001 FR" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Zeekr 001 Long Range RWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="001_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/main_1_st.jpg" class="img-fluid" alt="001 Long Range RWD" ></a>
+			<a href="001_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="001 Long Range RWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Zeekr 001 Performance AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="001_performance_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_st.jpg" class="img-fluid" alt="001 Performance AWD" ></a>
+			<a href="001_performance_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="001 Performance AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -64,7 +64,7 @@ weight: 30
 <h3>Zeekr 001 Privilege AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="001_privilege_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/main_1_st.jpg" class="img-fluid" alt="001 Privilege AWD" ></a>
+			<a href="001_privilege_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="001 Privilege AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -10,7 +10,7 @@ weight: 30
 <h3>Polestar 2 Long Range Dual Motor</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="2_long_range_dual_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" class="img-fluid" alt="2 Long Range Dual Motor" ></a>
+			<a href="2_long_range_dual_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="2 Long Range Dual Motor" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Polestar 2 Long Range Dual Motor Performance</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="2_long_range_dual_motor_performance/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/main_1_st.jpg" class="img-fluid" alt="2 Long Range Dual Motor Performance" ></a>
+			<a href="2_long_range_dual_motor_performance/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="2 Long Range Dual Motor Performance" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Polestar 2 Long Range Single Motor</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="2_long_range_single_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg" class="img-fluid" alt="2 Long Range Single Motor" ></a>
+			<a href="2_long_range_single_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="2 Long Range Single Motor" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

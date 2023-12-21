@@ -10,7 +10,7 @@ weight: 30
 <h3>BMW iX xDrive40</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ix_xdrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg" class="img-fluid" alt="iX xDrive40" ></a>
+			<a href="ix_xdrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="iX xDrive40" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>BMW iX xDrive50</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ix_xdrive50/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/main_1_st.jpg" class="img-fluid" alt="iX xDrive50" ></a>
+			<a href="ix_xdrive50/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="iX xDrive50" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>BMW iX M60</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ix_m60/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/main_1_st.jpg" class="img-fluid" alt="iX M60" ></a>
+			<a href="ix_m60/"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_m60/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="iX M60" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

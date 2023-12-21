@@ -10,7 +10,7 @@ weight: 30
 <h3>Tesla Model 3 Long Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="model_3_long_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpeg" class="img-fluid" alt="Model 3 Long Range" ></a>
+			<a href="model_3_long_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_xst.jpeg" class="img-fluid" width="400px" height="266px" alt="Model 3 Long Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Tesla Model 3 Performance</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="model_3_performance/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/main_1_st.jpg" class="img-fluid" alt="Model 3 Performance" ></a>
+			<a href="model_3_performance/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Model 3 Performance" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Tesla Model 3</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="model_3/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1_st.jpeg" class="img-fluid" alt="Model 3" ></a>
+			<a href="model_3/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1_xst.jpeg" class="img-fluid" width="400px" height="266px" alt="Model 3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -60,13 +60,13 @@ weight: 30
 		</div>
 	</div>
 </div>
-## Discontinued variants
+<h2>Discontinued variants</h2>
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
 <h3>Tesla Model 3 Long Range (GEN1)</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="model_3_long_range_gen1/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/main_1_st.jpg" class="img-fluid" alt="Model 3 Long Range" ></a>
+			<a href="model_3_long_range_gen1/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Model 3 Long Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -84,7 +84,7 @@ weight: 30
 <h3>Tesla Model 3 (GEN1)</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="model_3_gen1/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/main_1_st.jpg" class="img-fluid" alt="Model 3" ></a>
+			<a href="model_3_gen1/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Model 3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

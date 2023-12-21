@@ -10,7 +10,7 @@ weight: 30
 <h3>Hyundai Ioniq 5 Long Range 2WD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ioniq_5_long_range_2wd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_st.jpg" class="img-fluid" alt="Ioniq 5 Long Range 2WD" ></a>
+			<a href="ioniq_5_long_range_2wd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Ioniq 5 Long Range 2WD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Hyundai Ioniq 5 Long Range AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ioniq_5_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Ioniq 5 Long Range AWD" ></a>
+			<a href="ioniq_5_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Ioniq 5 Long Range AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Hyundai Ioniq 5 N</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ioniq_5_n/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" class="img-fluid" alt="Ioniq 5 N" ></a>
+			<a href="ioniq_5_n/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_n/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Ioniq 5 N" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

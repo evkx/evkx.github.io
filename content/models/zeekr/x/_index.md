@@ -10,7 +10,7 @@ weight: 30
 <h3>Zeekr X Long Range RWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="x_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/main_1_st.jpg" class="img-fluid" alt="X Long Range RWD" ></a>
+			<a href="x_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="X Long Range RWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Zeekr X Privilege AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="x_privilege_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/main_1_st.jpg" class="img-fluid" alt="X Privilege AWD" ></a>
+			<a href="x_privilege_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="X Privilege AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

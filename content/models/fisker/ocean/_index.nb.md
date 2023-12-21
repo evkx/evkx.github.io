@@ -10,7 +10,7 @@ weight: 30
 <h3>Fisker Ocean Extreme</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ocean_extreme/"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" class="img-fluid" alt="Ocean Extreme" ></a>
+			<a href="ocean_extreme/"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Ocean Extreme" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

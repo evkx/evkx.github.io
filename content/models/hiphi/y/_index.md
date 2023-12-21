@@ -10,7 +10,7 @@ weight: 30
 <h3>HiPhi Y Performance</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="y_performance/"><img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/main_1_st.jpg" class="img-fluid" alt="Y Performance" ></a>
+			<a href="y_performance/"><img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="257px" alt="Y Performance" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

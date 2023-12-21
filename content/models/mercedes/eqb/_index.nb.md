@@ -10,7 +10,7 @@ weight: 30
 <h3>Mercedes-EQ EQB 250</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqb_250/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_st.jpg" class="img-fluid" alt="EQB 250" ></a>
+			<a href="eqb_250/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQB 250" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Mercedes-EQ EQB 300 4MATIC</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqb_300_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/main_1_st.jpg" class="img-fluid" alt="EQB 300 4MATIC" ></a>
+			<a href="eqb_300_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQB 300 4MATIC" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Mercedes-EQ EQB 350 4MATIC</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqb_350_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/main_1_st.jpg" class="img-fluid" alt="EQB 350 4MATIC" ></a>
+			<a href="eqb_350_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQB 350 4MATIC" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

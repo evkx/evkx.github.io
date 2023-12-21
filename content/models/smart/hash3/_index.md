@@ -10,7 +10,7 @@ weight: 30
 <h3>Smart #3 Brabus</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="hash3_brabus/"><img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" class="img-fluid" alt="#3 Brabus" ></a>
+			<a href="hash3_brabus/"><img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="#3 Brabus" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

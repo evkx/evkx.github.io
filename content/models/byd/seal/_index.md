@@ -10,7 +10,7 @@ weight: 30
 <h3>BYD Seal AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="seal_awd/"><img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_st.jpg" class="img-fluid" alt="Seal AWD" ></a>
+			<a href="seal_awd/"><img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Seal AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -10,7 +10,7 @@ weight: 30
 <h3>Renault Megane E-Tech Techno</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="megane_e-tech_techno/"><img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" class="img-fluid" alt="Megane E-Tech Techno" ></a>
+			<a href="megane_e-tech_techno/"><img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_xst.jpeg" class="img-fluid" width="400px" height="266px" alt="Megane E-Tech Techno" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

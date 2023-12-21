@@ -10,7 +10,7 @@ weight: 30
 <h3>Lotus Eletre</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eletre/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/main_1_st.jpg" class="img-fluid" alt="Eletre" ></a>
+			<a href="eletre/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Eletre" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Lotus Eletre R</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eletre_r/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" class="img-fluid" alt="Eletre R" ></a>
+			<a href="eletre_r/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Eletre R" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Lotus Eletre S</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eletre_s/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/main_1_st.jpg" class="img-fluid" alt="Eletre S" ></a>
+			<a href="eletre_s/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/main_1_xst.jpg" class="img-fluid" width="400px" height="245px" alt="Eletre S" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

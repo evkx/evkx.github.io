@@ -10,7 +10,7 @@ weight: 30
 <h3>MG MG5 Electric Long Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="mg5_electric_long_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" class="img-fluid" alt="MG5 Electric Long Range" ></a>
+			<a href="mg5_electric_long_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="256px" alt="MG5 Electric Long Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

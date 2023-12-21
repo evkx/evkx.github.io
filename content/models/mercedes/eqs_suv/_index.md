@@ -10,7 +10,7 @@ weight: 30
 <h3>Mercedes-EQ EQS 450+ SUV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqs_450plus_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450plus_suv/main_1_st.jpg" class="img-fluid" alt="EQS 450+ SUV" ></a>
+			<a href="eqs_450plus_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450plus_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 450+ SUV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Mercedes-EQ EQS 450 4MATIC SUV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqs_450_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/main_1_st.jpg" class="img-fluid" alt="EQS 450 4MATIC SUV" ></a>
+			<a href="eqs_450_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 450 4MATIC SUV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Mercedes-EQ EQS 580 4MATIC SUV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqs_580_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/main_1_st.jpg" class="img-fluid" alt="EQS 580 4MATIC SUV" ></a>
+			<a href="eqs_580_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 580 4MATIC SUV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -64,7 +64,7 @@ weight: 30
 <h3>Mercedes-Maybach EQS 680 SUV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqs_680_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg" class="img-fluid" alt="EQS 680 SUV" ></a>
+			<a href="eqs_680_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="282px" alt="EQS 680 SUV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

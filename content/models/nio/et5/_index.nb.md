@@ -10,7 +10,7 @@ weight: 30
 <h3>Nio ET5</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="et5/"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_st.jpg" class="img-fluid" alt="ET5" ></a>
+			<a href="et5/"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_xst.jpg" class="img-fluid" width="400px" height="248px" alt="ET5" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Nio ET5 Touring</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="et5_touring/"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_st.jpg" class="img-fluid" alt="ET5 Touring" ></a>
+			<a href="et5_touring/"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_xst.jpg" class="img-fluid" width="400px" height="246px" alt="ET5 Touring" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

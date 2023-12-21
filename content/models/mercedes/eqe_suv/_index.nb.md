@@ -10,7 +10,7 @@ weight: 30
 <h3>Mercedes-EQ EQE 350 4MATIC SUV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqe_350_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_350_4matic_suv/main_1_st.jpg" class="img-fluid" alt="EQE 350 4MATIC SUV" ></a>
+			<a href="eqe_350_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_350_4matic_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQE 350 4MATIC SUV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Mercedes-AMG EQE 43 4MATIC SUV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqe_43_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" class="img-fluid" alt="EQE 43 4MATIC SUV" ></a>
+			<a href="eqe_43_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQE 43 4MATIC SUV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Mercedes-EQ EQE 500 4MATIC SUV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqe_500_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/main_1_st.jpg" class="img-fluid" alt="EQE 500 4MATIC SUV" ></a>
+			<a href="eqe_500_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_500_4matic_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQE 500 4MATIC SUV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -64,7 +64,7 @@ weight: 30
 <h3>Mercedes-AMG EQE 53 4MATIC+ SUV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqe_53_4maticplus_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/main_1_st.jpg" class="img-fluid" alt="EQE 53 4MATIC+ SUV" ></a>
+			<a href="eqe_53_4maticplus_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_53_4maticplus_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQE 53 4MATIC+ SUV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

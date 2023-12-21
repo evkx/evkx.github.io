@@ -10,7 +10,7 @@ weight: 30
 <h3>Volkswagen ID. Buzz Pro</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="id._buzz_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg" class="img-fluid" alt="ID. Buzz Pro" ></a>
+			<a href="id._buzz_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID. Buzz Pro" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Volkswagen ID. Buzz Pro LWB</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="id._buzz_pro_lwb/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" class="img-fluid" alt="ID. Buzz Pro LWB" ></a>
+			<a href="id._buzz_pro_lwb/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID. Buzz Pro LWB" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

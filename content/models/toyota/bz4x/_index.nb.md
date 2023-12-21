@@ -10,7 +10,7 @@ weight: 30
 <h3>Toyota bZ4X AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="bz4x_awd/"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" class="img-fluid" alt="bZ4X AWD" ></a>
+			<a href="bz4x_awd/"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="bZ4X AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Toyota bZ4X FWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="bz4x_fwd/"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/main_1_st.jpg" class="img-fluid" alt="bZ4X FWD" ></a>
+			<a href="bz4x_fwd/"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_fwd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="bZ4X FWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

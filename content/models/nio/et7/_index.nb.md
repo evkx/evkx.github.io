@@ -10,7 +10,7 @@ weight: 30
 <h3>Nio ET7</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="et7/"><img src="https://media.evkx.net/multimedia/models/nio/et7/et7/main_1_st.jpg" class="img-fluid" alt="ET7" ></a>
+			<a href="et7/"><img src="https://media.evkx.net/multimedia/models/nio/et7/et7/main_1_xst.jpg" class="img-fluid" width="400px" height="248px" alt="ET7" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

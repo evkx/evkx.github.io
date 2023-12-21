@@ -10,7 +10,7 @@ weight: 30
 <h3>MG MG4 Electric Long Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="mg4_electric_long_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/main_1_st.jpg" class="img-fluid" alt="MG4 Electric Long Range" ></a>
+			<a href="mg4_electric_long_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="MG4 Electric Long Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>MG MG4 Electric Extended Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="mg4_electric_extended_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_extended_range/main_1_st.jpg" class="img-fluid" alt="MG4 Electric Extended Range" ></a>
+			<a href="mg4_electric_extended_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_extended_range/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="MG4 Electric Extended Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>MG MG4 Electric Standard</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="mg4_electric_standard/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/main_1_st.jpg" class="img-fluid" alt="MG4 Electric Standard" ></a>
+			<a href="mg4_electric_standard/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="MG4 Electric Standard" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -64,7 +64,7 @@ weight: 30
 <h3>MG MG4 Electric XPOWER</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="mg4_electric_xpower/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_xpower/main_1_st.jpg" class="img-fluid" alt="MG4 Electric XPOWER" ></a>
+			<a href="mg4_electric_xpower/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_xpower/main_1_xst.jpg" class="img-fluid" width="400px" height="289px" alt="MG4 Electric XPOWER" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

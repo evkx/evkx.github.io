@@ -10,7 +10,7 @@ weight: 30
 <h3>GMC Hummer EV Edition 1 Pickup</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="hummer_ev_edition_1_pickup/"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" class="img-fluid" alt="Hummer EV Edition 1 Pickup" ></a>
+			<a href="hummer_ev_edition_1_pickup/"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Hummer EV Edition 1 Pickup" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

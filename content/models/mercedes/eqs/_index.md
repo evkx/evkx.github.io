@@ -10,7 +10,7 @@ weight: 30
 <h3>Mercedes-EQ EQS 450+</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqs_450plus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" class="img-fluid" alt="EQS 450+" ></a>
+			<a href="eqs_450plus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="EQS 450+" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Mercedes-EQ EQS 450 4MATIC</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqs_450_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450_4matic/main_1_st.jpg" class="img-fluid" alt="EQS 450 4MATIC" ></a>
+			<a href="eqs_450_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 450 4MATIC" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Mercedes-EQ EQS 500 4MATIC</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqs_500_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_500_4matic/main_1_st.jpg" class="img-fluid" alt="EQS 500 4MATIC" ></a>
+			<a href="eqs_500_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_500_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 500 4MATIC" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -64,7 +64,7 @@ weight: 30
 <h3>Mercedes-AMG EQS 53 4MATIC+</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqs_53_4maticplus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/main_1_st.jpg" class="img-fluid" alt="EQS 53 4MATIC+" ></a>
+			<a href="eqs_53_4maticplus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 53 4MATIC+" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -82,7 +82,7 @@ weight: 30
 <h3>Mercedes-EQ EQS 580 4MATIC</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="eqs_580_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/main_1_st.jpg" class="img-fluid" alt="EQS 580 4MATIC" ></a>
+			<a href="eqs_580_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 580 4MATIC" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

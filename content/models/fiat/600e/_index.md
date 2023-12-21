@@ -10,7 +10,7 @@ weight: 30
 <h3>Fiat 600e</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="600e/"><img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" class="img-fluid" alt="600e" ></a>
+			<a href="600e/"><img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="600e" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

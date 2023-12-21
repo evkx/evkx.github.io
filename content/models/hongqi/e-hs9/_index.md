@@ -10,7 +10,7 @@ weight: 30
 <h3>Hongqi E-HS9 Comfort</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="e-hs9_comfort/"><img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/main_1_st.jpg" class="img-fluid" alt="E-HS9 Comfort" ></a>
+			<a href="e-hs9_comfort/"><img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/main_1_xst.jpg" class="img-fluid" width="400px" height="273px" alt="E-HS9 Comfort" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Hongqi E-HS9 Exclusive</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="e-hs9_exclusive/"><img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/main_1_st.jpg" class="img-fluid" alt="E-HS9 Exclusive" ></a>
+			<a href="e-hs9_exclusive/"><img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusive/main_1_xst.jpg" class="img-fluid" width="400px" height="273px" alt="E-HS9 Exclusive" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Hongqi E-HS9 Exclusive+</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="e-hs9_exclusiveplus/"><img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusiveplus/main_1_st.jpg" class="img-fluid" alt="E-HS9 Exclusive+" ></a>
+			<a href="e-hs9_exclusiveplus/"><img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_exclusiveplus/main_1_xst.jpg" class="img-fluid" width="400px" height="273px" alt="E-HS9 Exclusive+" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -64,7 +64,7 @@ weight: 30
 <h3>Hongqi E-HS9 Premium</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="e-hs9_premium/"><img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg" class="img-fluid" alt="E-HS9 Premium" ></a>
+			<a href="e-hs9_premium/"><img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_premium/main_1_xst.jpg" class="img-fluid" width="400px" height="273px" alt="E-HS9 Premium" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

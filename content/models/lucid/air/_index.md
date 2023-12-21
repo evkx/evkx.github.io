@@ -10,7 +10,7 @@ weight: 30
 <h3>Lucid Air Dream Edition Performance</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="air_dream_edition_performance/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg" class="img-fluid" alt="Air Dream Edition Performance" ></a>
+			<a href="air_dream_edition_performance/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Air Dream Edition Performance" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Lucid Air Dream Edition Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="air_dream_edition_range/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_st.jpg" class="img-fluid" alt="Air Dream Edition Range" ></a>
+			<a href="air_dream_edition_range/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Air Dream Edition Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Lucid Air Grand Touring</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="air_grand_touring/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/main_1_st.jpg" class="img-fluid" alt="Air Grand Touring" ></a>
+			<a href="air_grand_touring/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Air Grand Touring" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -64,7 +64,7 @@ weight: 30
 <h3>Lucid Air Pure</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="air_pure/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/main_1_st.jpg" class="img-fluid" alt="Air Pure" ></a>
+			<a href="air_pure/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Air Pure" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -82,7 +82,7 @@ weight: 30
 <h3>Lucid Air Sapphire</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="air_sapphire/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/main_1_st.jpg" class="img-fluid" alt="Air Sapphire" ></a>
+			<a href="air_sapphire/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Air Sapphire" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

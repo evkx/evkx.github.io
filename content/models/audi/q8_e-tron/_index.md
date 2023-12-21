@@ -10,7 +10,7 @@ weight: 30
 <h3>Audi Q8 50 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="q8_50_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_50_e-tron/main_1_st.jpg" class="img-fluid" alt="Q8 50 e-tron" ></a>
+			<a href="q8_50_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_50_e-tron/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="Q8 50 e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Audi Q8 Sportback 50 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="q8_sportback_50_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1_st.jpeg" class="img-fluid" alt="Q8 Sportback 50 e-tron" ></a>
+			<a href="q8_sportback_50_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_50_e-tron/main_1_xst.jpeg" class="img-fluid" width="400px" height="266px" alt="Q8 Sportback 50 e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Audi Q8 55 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="q8_55_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/main_1_st.jpg" class="img-fluid" alt="Q8 55 e-tron" ></a>
+			<a href="q8_55_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="Q8 55 e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -64,7 +64,7 @@ weight: 30
 <h3>Audi Q8 Sportback 55 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="q8_sportback_55_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_55_e-tron/main_1_st.jpeg" class="img-fluid" alt="Q8 Sportback 55 e-tron" ></a>
+			<a href="q8_sportback_55_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_sportback_55_e-tron/main_1_xst.jpeg" class="img-fluid" width="400px" height="266px" alt="Q8 Sportback 55 e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -82,7 +82,7 @@ weight: 30
 <h3>Audi SQ8 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="sq8_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1_st.jpeg" class="img-fluid" alt="SQ8 e-tron" ></a>
+			<a href="sq8_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/main_1_xst.jpeg" class="img-fluid" width="400px" height="266px" alt="SQ8 e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -100,7 +100,7 @@ weight: 30
 <h3>Audi SQ8 Sportback e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="sq8_sportback_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1_st.jpg" class="img-fluid" alt="SQ8 Sportback e-tron" ></a>
+			<a href="sq8_sportback_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_sportback_e-tron/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="SQ8 Sportback e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

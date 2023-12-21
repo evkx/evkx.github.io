@@ -10,7 +10,7 @@ weight: 30
 <h3>Volkswagen ID.5 GTX 4MOTION</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="id.5_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.5 GTX 4MOTION" ></a>
+			<a href="id.5_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.5 GTX 4MOTION" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Volkswagen ID.5 Pro Performance</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="id.5_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro_performance/main_1_st.jpg" class="img-fluid" alt="ID.5 Pro Performance" ></a>
+			<a href="id.5_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.5 Pro Performance" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>Volkswagen ID.5 Pro</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="id.5_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro/main_1_st.jpg" class="img-fluid" alt="ID.5 Pro" ></a>
+			<a href="id.5_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.5 Pro" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -60,13 +60,13 @@ weight: 30
 		</div>
 	</div>
 </div>
-## Discontinued variants
+<h2>Discontinued variants</h2>
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
 <h3>Volkswagen ID.5 GTX 4MOTION (GEN1)</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="id.5_gtx_4motion_gen1/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion_gen1/main_1_st.jpg" class="img-fluid" alt="ID.5 GTX 4MOTION" ></a>
+			<a href="id.5_gtx_4motion_gen1/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.5 GTX 4MOTION" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

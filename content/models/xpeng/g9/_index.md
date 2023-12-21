@@ -10,7 +10,7 @@ weight: 30
 <h3>XPENG G9 AWD Performance</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="g9_awd_performance/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg" class="img-fluid" alt="G9 AWD Performance" ></a>
+			<a href="g9_awd_performance/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="G9 AWD Performance" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>XPENG G9 RWD Long Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="g9_rwd_long_range/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/main_1_st.jpg" class="img-fluid" alt="G9 RWD Long Range" ></a>
+			<a href="g9_rwd_long_range/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="G9 RWD Long Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@ weight: 30
 <h3>XPENG G9 RWD Standard Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="g9_rwd_standard_range/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_standard_range/main_1_st.jpg" class="img-fluid" alt="G9 RWD Standard Range" ></a>
+			<a href="g9_rwd_standard_range/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_standard_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="G9 RWD Standard Range" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

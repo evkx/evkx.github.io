@@ -10,7 +10,7 @@ weight: 30
 <h3>BYD Dolphin 60.4kWh</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="dolphin_60.4kwh/"><img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" class="img-fluid" alt="Dolphin 60.4kWh" ></a>
+			<a href="dolphin_60.4kwh/"><img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_xst.jpg" class="img-fluid" width="400px" height="282px" alt="Dolphin 60.4kWh" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

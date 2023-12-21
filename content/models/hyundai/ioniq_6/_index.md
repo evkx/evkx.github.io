@@ -10,7 +10,7 @@ weight: 30
 <h3>Hyundai Ioniq 6 Long Range AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ioniq_6_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Ioniq 6 Long Range AWD" ></a>
+			<a href="ioniq_6_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Ioniq 6 Long Range AWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>Hyundai Ioniq 6 Long Range RWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="ioniq_6_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" class="img-fluid" alt="Ioniq 6 Long Range RWD" ></a>
+			<a href="ioniq_6_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Ioniq 6 Long Range RWD" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

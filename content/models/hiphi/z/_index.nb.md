@@ -10,7 +10,7 @@ weight: 30
 <h3>HiPhi Z 4 Seater</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="z_4_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg" class="img-fluid" alt="Z 4 Seater" ></a>
+			<a href="z_4_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_xst.jpg" class="img-fluid" width="400px" height="198px" alt="Z 4 Seater" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -28,7 +28,7 @@ weight: 30
 <h3>HiPhi Z 5 Seater</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="z_5_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_st.jpg" class="img-fluid" alt="Z 5 Seater" ></a>
+			<a href="z_5_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_xst.jpg" class="img-fluid" width="400px" height="198px" alt="Z 5 Seater" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
