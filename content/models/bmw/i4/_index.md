@@ -4,42 +4,59 @@ linktitle: "i4"
 description: "See below for details of the different variants of BMW i4"
 weight: 30
 ---
-### BMW i4 eDrive35
-
-<a href="i4_edrive35/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/main_1_st.jpg" class="img-fluid" alt="i4 eDrive35" ></a>
-
-BMW i4 eDrive35 is an all-electric premium sedan with a WLTP range of up to 490 km (305 miles). EVKX.net has all the details. 
-
-- [BMW i4 eDrive35 full article](i4_edrive35/)
-- [BMW i4 eDrive35 range & consumption](i4_edrive35/rangeandconsumption/)
-- [BMW i4 eDrive35 charging curve & performance](i4_edrive35/chargingcurve/)
-- [BMW i4 eDrive35 full specificationss](i4_edrive35/specifications/)
-- [BMW i4 eDrive35 gallery](i4_edrive35/gallery/)
-- [BMW i4 eDrive35 reviews](i4_edrive35/reviews/)
-
-### BMW i4 eDrive40
-
-<a href="i4_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg" class="img-fluid" alt="i4 eDrive40" ></a>
-
-BMW i4 eDrive40 is an all-electric premium sedan with a WLTP range of up to 590 km (367 miles). EVKX.net has all the details. 
-
-- [BMW i4 eDrive40 full article](i4_edrive40/)
-- [BMW i4 eDrive40 range & consumption](i4_edrive40/rangeandconsumption/)
-- [BMW i4 eDrive40 charging curve & performance](i4_edrive40/chargingcurve/)
-- [BMW i4 eDrive40 full specificationss](i4_edrive40/specifications/)
-- [BMW i4 eDrive40 gallery](i4_edrive40/gallery/)
-- [BMW i4 eDrive40 reviews](i4_edrive40/reviews/)
-
-### BMW i4 M50
-
-<a href="i4_m50/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg" class="img-fluid" alt="i4 M50" ></a>
-
-BMW i4 M50 is an all-electric premium sedan with a WLTP range of up to 521 km (324 miles). EVKX.net has all the details. 
-
-- [BMW i4 M50 full article](i4_m50/)
-- [BMW i4 M50 range & consumption](i4_m50/rangeandconsumption/)
-- [BMW i4 M50 charging curve & performance](i4_m50/chargingcurve/)
-- [BMW i4 M50 full specificationss](i4_m50/specifications/)
-- [BMW i4 M50 gallery](i4_m50/gallery/)
-- [BMW i4 M50 reviews](i4_m50/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>BMW i4 eDrive35</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="i4_edrive35/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/main_1_st.jpg" class="img-fluid" alt="i4 eDrive35" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="i4_edrive35/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_edrive35/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_edrive35/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_edrive35/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_edrive35/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_edrive35/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>BMW i4 eDrive40</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="i4_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg" class="img-fluid" alt="i4 eDrive40" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="i4_edrive40/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_edrive40/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_edrive40/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_edrive40/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_edrive40/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_edrive40/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>BMW i4 M50</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="i4_m50/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_st.jpg" class="img-fluid" alt="i4 M50" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="i4_m50/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_m50/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_m50/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_m50/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_m50/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="i4_m50/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

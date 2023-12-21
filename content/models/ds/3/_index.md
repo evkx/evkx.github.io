@@ -4,16 +4,23 @@ linktitle: "3"
 description: "See below for details of the different variants of DS 3"
 weight: 30
 ---
-### DS 3 E-Tense
-
-<a href="3_e-tense/"><img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1_st.jpg" class="img-fluid" alt="3 E-Tense" ></a>
-
-DS 3 E-Tense is an all-electric crossover with a WLTP range of up to 402 km (250 miles). EVKX.net has all the details. 
-
-- [DS 3 E-Tense full article](3_e-tense/)
-- [DS 3 E-Tense range & consumption](3_e-tense/rangeandconsumption/)
-- [DS 3 E-Tense charging curve & performance](3_e-tense/chargingcurve/)
-- [DS 3 E-Tense full specificationss](3_e-tense/specifications/)
-- [DS 3 E-Tense gallery](3_e-tense/gallery/)
-- [DS 3 E-Tense reviews](3_e-tense/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>DS 3 E-Tense</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="3_e-tense/"><img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1_st.jpg" class="img-fluid" alt="3 E-Tense" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="3_e-tense/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="3_e-tense/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="3_e-tense/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="3_e-tense/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="3_e-tense/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="3_e-tense/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

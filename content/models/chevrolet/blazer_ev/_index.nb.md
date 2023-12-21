@@ -4,29 +4,41 @@ linktitle: "Blazer EV"
 description: "Se nedenfor for alle varianter av Chevrolet Blazer EV"
 weight: 30
 ---
-### Chevrolet Blazer EV RS AWD
-
-<a href="blazer_ev_rs_awd/"><img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_rs_awd/main_1_st.jpg" class="img-fluid" alt="Blazer EV RS AWD" ></a>
-
-Chevrolet Blazer EV RS AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 449 km (279 miles). EVKX.net har alle detaljene. 
-
-- [Chevrolet Blazer EV RS AWD full beskrivelse](blazer_ev_rs_awd/)
-- [Chevrolet Blazer EV RS AWD rekkevidde & forbruk](blazer_ev_rs_awd/rangeandconsumption/)
-- [Chevrolet Blazer EV RS AWD ladekurve og ladeytelse](blazer_ev_rs_awd/chargingcurve/)
-- [Chevrolet Blazer EV RS AWD spesifikasjoners](blazer_ev_rs_awd/specifications/)
-- [Chevrolet Blazer EV RS AWD galleri](blazer_ev_rs_awd/gallery/)
-- [Chevrolet Blazer EV RS AWD tester](blazer_ev_rs_awd/reviews/)
-
-### Chevrolet Blazer EV SS
-
-<a href="blazer_ev_ss/"><img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" class="img-fluid" alt="Blazer EV SS" ></a>
-
-Chevrolet Blazer EV SS er en helelektrisk SUV med en EPA rekkevidde på opptil 467 km (290 miles). EVKX.net har alle detaljene. 
-
-- [Chevrolet Blazer EV SS full beskrivelse](blazer_ev_ss/)
-- [Chevrolet Blazer EV SS rekkevidde & forbruk](blazer_ev_ss/rangeandconsumption/)
-- [Chevrolet Blazer EV SS ladekurve og ladeytelse](blazer_ev_ss/chargingcurve/)
-- [Chevrolet Blazer EV SS spesifikasjoners](blazer_ev_ss/specifications/)
-- [Chevrolet Blazer EV SS galleri](blazer_ev_ss/gallery/)
-- [Chevrolet Blazer EV SS tester](blazer_ev_ss/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Chevrolet Blazer EV RS AWD</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="blazer_ev_rs_awd/"><img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_rs_awd/main_1_st.jpg" class="img-fluid" alt="Blazer EV RS AWD" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="blazer_ev_rs_awd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="blazer_ev_rs_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="blazer_ev_rs_awd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="blazer_ev_rs_awd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="blazer_ev_rs_awd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="blazer_ev_rs_awd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Chevrolet Blazer EV SS</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="blazer_ev_ss/"><img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" class="img-fluid" alt="Blazer EV SS" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="blazer_ev_ss/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="blazer_ev_ss/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="blazer_ev_ss/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="blazer_ev_ss/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="blazer_ev_ss/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="blazer_ev_ss/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

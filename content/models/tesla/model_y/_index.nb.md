@@ -4,42 +4,59 @@ linktitle: "Model Y"
 description: "Se nedenfor for alle varianter av Tesla Model Y"
 weight: 30
 ---
-### Tesla Model Y Long Range
-
-<a href="model_y_long_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" class="img-fluid" alt="Model Y Long Range" ></a>
-
-Tesla Model Y Long Range er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 542 km (337 miles). EVKX.net har alle detaljene. 
-
-- [Tesla Model Y Long Range full beskrivelse](model_y_long_range/)
-- [Tesla Model Y Long Range rekkevidde & forbruk](model_y_long_range/rangeandconsumption/)
-- [Tesla Model Y Long Range ladekurve og ladeytelse](model_y_long_range/chargingcurve/)
-- [Tesla Model Y Long Range spesifikasjoners](model_y_long_range/specifications/)
-- [Tesla Model Y Long Range galleri](model_y_long_range/gallery/)
-- [Tesla Model Y Long Range tester](model_y_long_range/reviews/)
-
-### Tesla Model Y Performance
-
-<a href="model_y_performance/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_st.jpg" class="img-fluid" alt="Model Y Performance" ></a>
-
-Tesla Model Y Performance er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 514 km (320 miles). EVKX.net har alle detaljene. 
-
-- [Tesla Model Y Performance full beskrivelse](model_y_performance/)
-- [Tesla Model Y Performance rekkevidde & forbruk](model_y_performance/rangeandconsumption/)
-- [Tesla Model Y Performance ladekurve og ladeytelse](model_y_performance/chargingcurve/)
-- [Tesla Model Y Performance spesifikasjoners](model_y_performance/specifications/)
-- [Tesla Model Y Performance galleri](model_y_performance/gallery/)
-- [Tesla Model Y Performance tester](model_y_performance/reviews/)
-
-### Tesla Model Y Standard Range
-
-<a href="model_y_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_standard_range/main_1_st.jpg" class="img-fluid" alt="Model Y Standard Range" ></a>
-
-Tesla Model Y Standard Range er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 430 km (267 miles). EVKX.net har alle detaljene. 
-
-- [Tesla Model Y Standard Range full beskrivelse](model_y_standard_range/)
-- [Tesla Model Y Standard Range rekkevidde & forbruk](model_y_standard_range/rangeandconsumption/)
-- [Tesla Model Y Standard Range ladekurve og ladeytelse](model_y_standard_range/chargingcurve/)
-- [Tesla Model Y Standard Range spesifikasjoners](model_y_standard_range/specifications/)
-- [Tesla Model Y Standard Range galleri](model_y_standard_range/gallery/)
-- [Tesla Model Y Standard Range tester](model_y_standard_range/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Tesla Model Y Long Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_y_long_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" class="img-fluid" alt="Model Y Long Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="model_y_long_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_long_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_long_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_long_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_long_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_long_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Tesla Model Y Performance</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_y_performance/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_st.jpg" class="img-fluid" alt="Model Y Performance" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="model_y_performance/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_performance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_performance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_performance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Tesla Model Y Standard Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_y_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_standard_range/main_1_st.jpg" class="img-fluid" alt="Model Y Standard Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="model_y_standard_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_standard_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_standard_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_standard_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_standard_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_y_standard_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

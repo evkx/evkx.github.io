@@ -4,42 +4,59 @@ linktitle: "#1"
 description: "Se nedenfor for alle varianter av Smart #1"
 weight: 30
 ---
-### Smart #1
-
-<a href="hash1/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/main_1_st.jpg" class="img-fluid" alt="#1" ></a>
-
-Smart #1 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 440 km (274 miles). EVKX.net har alle detaljene. 
-
-- [Smart #1 full beskrivelse](hash1/)
-- [Smart #1 rekkevidde & forbruk](hash1/rangeandconsumption/)
-- [Smart #1 ladekurve og ladeytelse](hash1/chargingcurve/)
-- [Smart #1 spesifikasjoners](hash1/specifications/)
-- [Smart #1 galleri](hash1/gallery/)
-- [Smart #1 tester](hash1/reviews/)
-
-### Smart #1 Brabus
-
-<a href="hash1_brabus/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/main_1_st.jpg" class="img-fluid" alt="#1 Brabus" ></a>
-
-Smart #1 Brabus er en helelektrisk delefilter med en WLTP rekkevidde på opptil 400 km (249 miles). EVKX.net har alle detaljene. 
-
-- [Smart #1 Brabus full beskrivelse](hash1_brabus/)
-- [Smart #1 Brabus rekkevidde & forbruk](hash1_brabus/rangeandconsumption/)
-- [Smart #1 Brabus ladekurve og ladeytelse](hash1_brabus/chargingcurve/)
-- [Smart #1 Brabus spesifikasjoners](hash1_brabus/specifications/)
-- [Smart #1 Brabus galleri](hash1_brabus/gallery/)
-- [Smart #1 Brabus tester](hash1_brabus/reviews/)
-
-### Smart #1 Pulse
-
-<a href="hash1_pulse/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1_st.jpg" class="img-fluid" alt="#1 Pulse" ></a>
-
-Smart #1 Pulse er en helelektrisk delefilter med en WLTP rekkevidde på opptil 400 km (249 miles). EVKX.net har alle detaljene. 
-
-- [Smart #1 Pulse full beskrivelse](hash1_pulse/)
-- [Smart #1 Pulse rekkevidde & forbruk](hash1_pulse/rangeandconsumption/)
-- [Smart #1 Pulse ladekurve og ladeytelse](hash1_pulse/chargingcurve/)
-- [Smart #1 Pulse spesifikasjoners](hash1_pulse/specifications/)
-- [Smart #1 Pulse galleri](hash1_pulse/gallery/)
-- [Smart #1 Pulse tester](hash1_pulse/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Smart #1</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="hash1/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/main_1_st.jpg" class="img-fluid" alt="#1" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="hash1/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Smart #1 Brabus</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="hash1_brabus/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/main_1_st.jpg" class="img-fluid" alt="#1 Brabus" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="hash1_brabus/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1_brabus/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1_brabus/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1_brabus/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1_brabus/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1_brabus/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Smart #1 Pulse</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="hash1_pulse/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1_st.jpg" class="img-fluid" alt="#1 Pulse" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="hash1_pulse/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1_pulse/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1_pulse/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1_pulse/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1_pulse/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="hash1_pulse/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

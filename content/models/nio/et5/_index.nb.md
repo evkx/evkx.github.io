@@ -4,29 +4,41 @@ linktitle: "ET5"
 description: "Se nedenfor for alle varianter av Nio ET5"
 weight: 30
 ---
-### Nio ET5
-
-<a href="et5/"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_st.jpg" class="img-fluid" alt="ET5" ></a>
-
-Nio ET5 er en helelektrisk sedan med en WLTP rekkevidde på opptil 590 km (367 miles). EVKX.net har alle detaljene. 
-
-- [Nio ET5 full beskrivelse](et5/)
-- [Nio ET5 rekkevidde & forbruk](et5/rangeandconsumption/)
-- [Nio ET5 ladekurve og ladeytelse](et5/chargingcurve/)
-- [Nio ET5 spesifikasjoners](et5/specifications/)
-- [Nio ET5 galleri](et5/gallery/)
-- [Nio ET5 tester](et5/reviews/)
-
-### Nio ET5 Touring
-
-<a href="et5_touring/"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_st.jpg" class="img-fluid" alt="ET5 Touring" ></a>
-
-Nio ET5 Touring er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 560 km (348 miles). EVKX.net har alle detaljene. 
-
-- [Nio ET5 Touring full beskrivelse](et5_touring/)
-- [Nio ET5 Touring rekkevidde & forbruk](et5_touring/rangeandconsumption/)
-- [Nio ET5 Touring ladekurve og ladeytelse](et5_touring/chargingcurve/)
-- [Nio ET5 Touring spesifikasjoners](et5_touring/specifications/)
-- [Nio ET5 Touring galleri](et5_touring/gallery/)
-- [Nio ET5 Touring tester](et5_touring/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Nio ET5</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="et5/"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_st.jpg" class="img-fluid" alt="ET5" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="et5/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="et5/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="et5/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="et5/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="et5/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="et5/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Nio ET5 Touring</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="et5_touring/"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_st.jpg" class="img-fluid" alt="ET5 Touring" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="et5_touring/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="et5_touring/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="et5_touring/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="et5_touring/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="et5_touring/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="et5_touring/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

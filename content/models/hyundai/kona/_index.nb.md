@@ -4,29 +4,41 @@ linktitle: "Kona"
 description: "Se nedenfor for alle varianter av Hyundai Kona"
 weight: 30
 ---
-### Hyundai Kona Long Range
-
-<a href="kona_long_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg" class="img-fluid" alt="Kona Long Range" ></a>
-
-Hyundai Kona Long Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 514 km (320 miles). EVKX.net har alle detaljene. 
-
-- [Hyundai Kona Long Range full beskrivelse](kona_long_range/)
-- [Hyundai Kona Long Range rekkevidde & forbruk](kona_long_range/rangeandconsumption/)
-- [Hyundai Kona Long Range ladekurve og ladeytelse](kona_long_range/chargingcurve/)
-- [Hyundai Kona Long Range spesifikasjoners](kona_long_range/specifications/)
-- [Hyundai Kona Long Range galleri](kona_long_range/gallery/)
-- [Hyundai Kona Long Range tester](kona_long_range/reviews/)
-
-### Hyundai Kona Standard Range
-
-<a href="kona_standard_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1_st.jpg" class="img-fluid" alt="Kona Standard Range" ></a>
-
-Hyundai Kona Standard Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 377 km (234 miles). EVKX.net har alle detaljene. 
-
-- [Hyundai Kona Standard Range full beskrivelse](kona_standard_range/)
-- [Hyundai Kona Standard Range rekkevidde & forbruk](kona_standard_range/rangeandconsumption/)
-- [Hyundai Kona Standard Range ladekurve og ladeytelse](kona_standard_range/chargingcurve/)
-- [Hyundai Kona Standard Range spesifikasjoners](kona_standard_range/specifications/)
-- [Hyundai Kona Standard Range galleri](kona_standard_range/gallery/)
-- [Hyundai Kona Standard Range tester](kona_standard_range/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Hyundai Kona Long Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="kona_long_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_st.jpg" class="img-fluid" alt="Kona Long Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="kona_long_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="kona_long_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="kona_long_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="kona_long_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="kona_long_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="kona_long_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Hyundai Kona Standard Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="kona_standard_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_standard_range/main_1_st.jpg" class="img-fluid" alt="Kona Standard Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="kona_standard_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="kona_standard_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="kona_standard_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="kona_standard_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="kona_standard_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="kona_standard_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

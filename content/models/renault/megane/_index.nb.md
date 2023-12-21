@@ -4,16 +4,23 @@ linktitle: "Megane"
 description: "Se nedenfor for alle varianter av Renault Megane"
 weight: 30
 ---
-### Renault Megane E-Tech Techno
-
-<a href="megane_e-tech_techno/"><img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" class="img-fluid" alt="Megane E-Tech Techno" ></a>
-
-Renault Megane E-Tech Techno er en helelektrisk delefilter med en WLTP rekkevidde på opptil 450 km (280 miles). EVKX.net har alle detaljene. 
-
-- [Renault Megane E-Tech Techno full beskrivelse](megane_e-tech_techno/)
-- [Renault Megane E-Tech Techno rekkevidde & forbruk](megane_e-tech_techno/rangeandconsumption/)
-- [Renault Megane E-Tech Techno ladekurve og ladeytelse](megane_e-tech_techno/chargingcurve/)
-- [Renault Megane E-Tech Techno spesifikasjoners](megane_e-tech_techno/specifications/)
-- [Renault Megane E-Tech Techno galleri](megane_e-tech_techno/gallery/)
-- [Renault Megane E-Tech Techno tester](megane_e-tech_techno/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Renault Megane E-Tech Techno</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="megane_e-tech_techno/"><img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" class="img-fluid" alt="Megane E-Tech Techno" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="megane_e-tech_techno/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="megane_e-tech_techno/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="megane_e-tech_techno/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="megane_e-tech_techno/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="megane_e-tech_techno/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="megane_e-tech_techno/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

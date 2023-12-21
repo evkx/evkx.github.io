@@ -4,16 +4,23 @@ linktitle: "ID.7"
 description: "Se nedenfor for alle varianter av Volkswagen ID.7"
 weight: 30
 ---
-### Volkswagen ID.7 Pro
-
-<a href="id.7_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_st.jpg" class="img-fluid" alt="ID.7 Pro" ></a>
-
-Volkswagen ID.7 Pro er en helelektrisk sedan med en WLTP rekkevidde på opptil 615 km (382 miles). EVKX.net har alle detaljene. 
-
-- [Volkswagen ID.7 Pro full beskrivelse](id.7_pro/)
-- [Volkswagen ID.7 Pro rekkevidde & forbruk](id.7_pro/rangeandconsumption/)
-- [Volkswagen ID.7 Pro ladekurve og ladeytelse](id.7_pro/chargingcurve/)
-- [Volkswagen ID.7 Pro spesifikasjoners](id.7_pro/specifications/)
-- [Volkswagen ID.7 Pro galleri](id.7_pro/gallery/)
-- [Volkswagen ID.7 Pro tester](id.7_pro/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volkswagen ID.7 Pro</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.7_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_st.jpg" class="img-fluid" alt="ID.7 Pro" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.7_pro/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.7_pro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.7_pro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.7_pro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.7_pro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.7_pro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

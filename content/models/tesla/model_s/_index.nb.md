@@ -4,42 +4,59 @@ linktitle: "Model S"
 description: "Se nedenfor for alle varianter av Tesla Model S"
 weight: 30
 ---
-### Tesla Model S
-
-<a href="model_s/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" class="img-fluid" alt="Model S" ></a>
-
-Tesla Model S er en helelektrisk sedan med en WLTP rekkevidde på opptil 649 km (403 miles). EVKX.net har alle detaljene. 
-
-- [Tesla Model S full beskrivelse](model_s/)
-- [Tesla Model S rekkevidde & forbruk](model_s/rangeandconsumption/)
-- [Tesla Model S ladekurve og ladeytelse](model_s/chargingcurve/)
-- [Tesla Model S spesifikasjoners](model_s/specifications/)
-- [Tesla Model S galleri](model_s/gallery/)
-- [Tesla Model S tester](model_s/reviews/)
-
-### Tesla Model S Plaid
-
-<a href="model_s_plaid/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/main_1_st.jpg" class="img-fluid" alt="Model S Plaid" ></a>
-
-Tesla Model S Plaid er en helelektrisk sedan med en WLTP rekkevidde på opptil 600 km (373 miles). EVKX.net har alle detaljene. 
-
-- [Tesla Model S Plaid full beskrivelse](model_s_plaid/)
-- [Tesla Model S Plaid rekkevidde & forbruk](model_s_plaid/rangeandconsumption/)
-- [Tesla Model S Plaid ladekurve og ladeytelse](model_s_plaid/chargingcurve/)
-- [Tesla Model S Plaid spesifikasjoners](model_s_plaid/specifications/)
-- [Tesla Model S Plaid galleri](model_s_plaid/gallery/)
-- [Tesla Model S Plaid tester](model_s_plaid/reviews/)
-
-### Tesla Model S Standard Range
-
-<a href="model_s_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/main_1_st.jpg" class="img-fluid" alt="Model S Standard Range" ></a>
-
-Tesla Model S Standard Range er en helelektrisk sedan med en WLTP rekkevidde på opptil 512 km (318 miles). EVKX.net har alle detaljene. 
-
-- [Tesla Model S Standard Range full beskrivelse](model_s_standard_range/)
-- [Tesla Model S Standard Range rekkevidde & forbruk](model_s_standard_range/rangeandconsumption/)
-- [Tesla Model S Standard Range ladekurve og ladeytelse](model_s_standard_range/chargingcurve/)
-- [Tesla Model S Standard Range spesifikasjoners](model_s_standard_range/specifications/)
-- [Tesla Model S Standard Range galleri](model_s_standard_range/gallery/)
-- [Tesla Model S Standard Range tester](model_s_standard_range/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Tesla Model S</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_s/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" class="img-fluid" alt="Model S" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="model_s/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Tesla Model S Plaid</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_s_plaid/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/main_1_st.jpg" class="img-fluid" alt="Model S Plaid" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="model_s_plaid/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_plaid/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_plaid/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_plaid/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_plaid/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_plaid/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Tesla Model S Standard Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_s_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/main_1_st.jpg" class="img-fluid" alt="Model S Standard Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="model_s_standard_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_standard_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_standard_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_standard_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_standard_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_standard_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

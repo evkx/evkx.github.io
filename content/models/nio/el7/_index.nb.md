@@ -4,16 +4,23 @@ linktitle: "EL7"
 description: "Se nedenfor for alle varianter av Nio EL7"
 weight: 30
 ---
-### Nio EL7
-
-<a href="el7/"><img src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_st.jpg" class="img-fluid" alt="EL7" ></a>
-
-Nio EL7 er en helelektrisk SUV med en WLTP rekkevidde på opptil 513 km (319 miles). EVKX.net har alle detaljene. 
-
-- [Nio EL7 full beskrivelse](el7/)
-- [Nio EL7 rekkevidde & forbruk](el7/rangeandconsumption/)
-- [Nio EL7 ladekurve og ladeytelse](el7/chargingcurve/)
-- [Nio EL7 spesifikasjoners](el7/specifications/)
-- [Nio EL7 galleri](el7/gallery/)
-- [Nio EL7 tester](el7/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Nio EL7</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="el7/"><img src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_st.jpg" class="img-fluid" alt="EL7" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="el7/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="el7/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="el7/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="el7/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="el7/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="el7/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

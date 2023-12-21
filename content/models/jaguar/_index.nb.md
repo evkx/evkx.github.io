@@ -4,6 +4,8 @@ linktitle: "Jaguar"
 description: "Jaguar is a luxury vehicle brand of Jaguar Land Rover, a British multinational car manufacturer with its headquarters in Coventry, England. Jaguar Cars was founded in 1922 as the Swallow Sidecar Company, originally making motorcycle sidecars before developing bodies for passenger cars. The company's name was changed from SS Cars to Jaguar Cars in 1945."
 weight: 30
 ---
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 
 
 

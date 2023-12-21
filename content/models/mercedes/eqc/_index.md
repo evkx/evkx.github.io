@@ -4,16 +4,23 @@ linktitle: "EQC"
 description: "See below for details of the different variants of Mercedes EQC"
 weight: 30
 ---
-### Mercedes-EQ EQC 400 4MATIC
-
-<a href="eqc_400_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" class="img-fluid" alt="EQC 400 4MATIC" ></a>
-
-Mercedes-EQ EQC 400 4MATIC is an all-electric luxury SUV with a WLTP range of up to 432 km (269 miles). EVKX.net has all the details. 
-
-- [Mercedes-EQ EQC 400 4MATIC full article](eqc_400_4matic/)
-- [Mercedes-EQ EQC 400 4MATIC range & consumption](eqc_400_4matic/rangeandconsumption/)
-- [Mercedes-EQ EQC 400 4MATIC charging curve & performance](eqc_400_4matic/chargingcurve/)
-- [Mercedes-EQ EQC 400 4MATIC full specificationss](eqc_400_4matic/specifications/)
-- [Mercedes-EQ EQC 400 4MATIC gallery](eqc_400_4matic/gallery/)
-- [Mercedes-EQ EQC 400 4MATIC reviews](eqc_400_4matic/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Mercedes-EQ EQC 400 4MATIC</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eqc_400_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" class="img-fluid" alt="EQC 400 4MATIC" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="eqc_400_4matic/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqc_400_4matic/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqc_400_4matic/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqc_400_4matic/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqc_400_4matic/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqc_400_4matic/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

@@ -4,6 +4,8 @@ linktitle: "Seres"
 description: "Seres is a global electric vehicle manufacturer that was established by the Sokon Group in Silicon Valley, USA. Seres produces electric vehicles with advanced technology, impressive performance, and intelligent features. "
 weight: 30
 ---
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 Seres has production, research, and development facilities in the USA, China, and Japan. Seres offers three types of products: electric vehicle powertrain systems, complete passenger and commercial EV platforms, and manufacture capability in China. 
 
 

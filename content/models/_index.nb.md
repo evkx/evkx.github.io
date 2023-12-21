@@ -4,6 +4,8 @@ linktitle: "Modeller"
 description: "Fremtiden er elektrisk, og EVKX.net gir deg en fullstendig oversikt over elbilmarkedets merker, modeller og varianter."
 weight: 2
 ---
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll ned for å lese introduksjonen for hvert merke.
 <p>
 <a href="audi"><img src="https://media.evkx.net/multimedia/models/audi/logo_xst.png" alt="Audi" title="Audi" width="130px" class="img-fluid img-thumbnail" /></a>

@@ -4,16 +4,23 @@ linktitle: "RZ"
 description: "Se nedenfor for alle varianter av Lexus RZ"
 weight: 30
 ---
-### Lexus RZ 450e
-
-<a href="rz_450e/"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" class="img-fluid" alt="RZ 450e" ></a>
-
-Lexus RZ 450e er en helelektrisk SUV med en WLTP rekkevidde på opptil 440 km (274 miles). EVKX.net har alle detaljene. 
-
-- [Lexus RZ 450e full beskrivelse](rz_450e/)
-- [Lexus RZ 450e rekkevidde & forbruk](rz_450e/rangeandconsumption/)
-- [Lexus RZ 450e ladekurve og ladeytelse](rz_450e/chargingcurve/)
-- [Lexus RZ 450e spesifikasjoners](rz_450e/specifications/)
-- [Lexus RZ 450e galleri](rz_450e/gallery/)
-- [Lexus RZ 450e tester](rz_450e/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Lexus RZ 450e</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="rz_450e/"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" class="img-fluid" alt="RZ 450e" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

@@ -4,55 +4,77 @@ linktitle: "MG4"
 description: "Se nedenfor for alle varianter av MG MG4"
 weight: 30
 ---
-### MG MG4 Electric Long Range
-
-<a href="mg4_electric_long_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/main_1_st.jpg" class="img-fluid" alt="MG4 Electric Long Range" ></a>
-
-MG MG4 Electric Long Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 435 km (270 miles). EVKX.net har alle detaljene. 
-
-- [MG MG4 Electric Long Range full beskrivelse](mg4_electric_long_range/)
-- [MG MG4 Electric Long Range rekkevidde & forbruk](mg4_electric_long_range/rangeandconsumption/)
-- [MG MG4 Electric Long Range ladekurve og ladeytelse](mg4_electric_long_range/chargingcurve/)
-- [MG MG4 Electric Long Range spesifikasjoners](mg4_electric_long_range/specifications/)
-- [MG MG4 Electric Long Range galleri](mg4_electric_long_range/gallery/)
-- [MG MG4 Electric Long Range tester](mg4_electric_long_range/reviews/)
-
-### MG MG4 Electric Extended Range
-
-<a href="mg4_electric_extended_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_extended_range/main_1_st.jpg" class="img-fluid" alt="MG4 Electric Extended Range" ></a>
-
-MG MG4 Electric Extended Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 520 km (323 miles). EVKX.net har alle detaljene. 
-
-- [MG MG4 Electric Extended Range full beskrivelse](mg4_electric_extended_range/)
-- [MG MG4 Electric Extended Range rekkevidde & forbruk](mg4_electric_extended_range/rangeandconsumption/)
-- [MG MG4 Electric Extended Range ladekurve og ladeytelse](mg4_electric_extended_range/chargingcurve/)
-- [MG MG4 Electric Extended Range spesifikasjoners](mg4_electric_extended_range/specifications/)
-- [MG MG4 Electric Extended Range galleri](mg4_electric_extended_range/gallery/)
-- [MG MG4 Electric Extended Range tester](mg4_electric_extended_range/reviews/)
-
-### MG MG4 Electric Standard
-
-<a href="mg4_electric_standard/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/main_1_st.jpg" class="img-fluid" alt="MG4 Electric Standard" ></a>
-
-MG MG4 Electric Standard er en helelektrisk delefilter med en WLTP rekkevidde på opptil 350 km (218 miles). EVKX.net har alle detaljene. 
-
-- [MG MG4 Electric Standard full beskrivelse](mg4_electric_standard/)
-- [MG MG4 Electric Standard rekkevidde & forbruk](mg4_electric_standard/rangeandconsumption/)
-- [MG MG4 Electric Standard ladekurve og ladeytelse](mg4_electric_standard/chargingcurve/)
-- [MG MG4 Electric Standard spesifikasjoners](mg4_electric_standard/specifications/)
-- [MG MG4 Electric Standard galleri](mg4_electric_standard/gallery/)
-- [MG MG4 Electric Standard tester](mg4_electric_standard/reviews/)
-
-### MG MG4 Electric XPOWER
-
-<a href="mg4_electric_xpower/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_xpower/main_1_st.jpg" class="img-fluid" alt="MG4 Electric XPOWER" ></a>
-
-MG MG4 Electric XPOWER er en helelektrisk delefilter med en WLTP rekkevidde på opptil 435 km (270 miles). EVKX.net har alle detaljene. 
-
-- [MG MG4 Electric XPOWER full beskrivelse](mg4_electric_xpower/)
-- [MG MG4 Electric XPOWER rekkevidde & forbruk](mg4_electric_xpower/rangeandconsumption/)
-- [MG MG4 Electric XPOWER ladekurve og ladeytelse](mg4_electric_xpower/chargingcurve/)
-- [MG MG4 Electric XPOWER spesifikasjoners](mg4_electric_xpower/specifications/)
-- [MG MG4 Electric XPOWER galleri](mg4_electric_xpower/gallery/)
-- [MG MG4 Electric XPOWER tester](mg4_electric_xpower/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>MG MG4 Electric Long Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="mg4_electric_long_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_long_range/main_1_st.jpg" class="img-fluid" alt="MG4 Electric Long Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_long_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_long_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_long_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_long_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_long_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_long_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>MG MG4 Electric Extended Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="mg4_electric_extended_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_extended_range/main_1_st.jpg" class="img-fluid" alt="MG4 Electric Extended Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_extended_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_extended_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_extended_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_extended_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_extended_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_extended_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>MG MG4 Electric Standard</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="mg4_electric_standard/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_standard/main_1_st.jpg" class="img-fluid" alt="MG4 Electric Standard" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_standard/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_standard/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_standard/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_standard/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_standard/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_standard/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>MG MG4 Electric XPOWER</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="mg4_electric_xpower/"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_xpower/main_1_st.jpg" class="img-fluid" alt="MG4 Electric XPOWER" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_xpower/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_xpower/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_xpower/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_xpower/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_xpower/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="mg4_electric_xpower/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

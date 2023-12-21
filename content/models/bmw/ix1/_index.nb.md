@@ -4,29 +4,41 @@ linktitle: "iX1"
 description: "Se nedenfor for alle varianter av BMW iX1"
 weight: 30
 ---
-### BMW iX1 eDrive20
-
-<a href="ix1_edrive20/"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/main_1_st.jpg" class="img-fluid" alt="iX1 eDrive20" ></a>
-
-BMW iX1 eDrive20 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 475 km (295 miles). EVKX.net har alle detaljene. 
-
-- [BMW iX1 eDrive20 full beskrivelse](ix1_edrive20/)
-- [BMW iX1 eDrive20 rekkevidde & forbruk](ix1_edrive20/rangeandconsumption/)
-- [BMW iX1 eDrive20 ladekurve og ladeytelse](ix1_edrive20/chargingcurve/)
-- [BMW iX1 eDrive20 spesifikasjoners](ix1_edrive20/specifications/)
-- [BMW iX1 eDrive20 galleri](ix1_edrive20/gallery/)
-- [BMW iX1 eDrive20 tester](ix1_edrive20/reviews/)
-
-### BMW iX1 xDrive30
-
-<a href="ix1_xdrive30/"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg" class="img-fluid" alt="iX1 xDrive30" ></a>
-
-BMW iX1 xDrive30 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 440 km (274 miles). EVKX.net har alle detaljene. 
-
-- [BMW iX1 xDrive30 full beskrivelse](ix1_xdrive30/)
-- [BMW iX1 xDrive30 rekkevidde & forbruk](ix1_xdrive30/rangeandconsumption/)
-- [BMW iX1 xDrive30 ladekurve og ladeytelse](ix1_xdrive30/chargingcurve/)
-- [BMW iX1 xDrive30 spesifikasjoners](ix1_xdrive30/specifications/)
-- [BMW iX1 xDrive30 galleri](ix1_xdrive30/gallery/)
-- [BMW iX1 xDrive30 tester](ix1_xdrive30/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>BMW iX1 eDrive20</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ix1_edrive20/"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/main_1_st.jpg" class="img-fluid" alt="iX1 eDrive20" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ix1_edrive20/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ix1_edrive20/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ix1_edrive20/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ix1_edrive20/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ix1_edrive20/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ix1_edrive20/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>BMW iX1 xDrive30</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ix1_xdrive30/"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg" class="img-fluid" alt="iX1 xDrive30" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ix1_xdrive30/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ix1_xdrive30/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ix1_xdrive30/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ix1_xdrive30/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ix1_xdrive30/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ix1_xdrive30/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

@@ -4,29 +4,41 @@ linktitle: "X"
 description: "See below for details of the different variants of HiPhi X"
 weight: 30
 ---
-### HiPhi X 4 Seater
-
-<a href="x_4_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/main_1_st.jpg" class="img-fluid" alt="X 4 Seater" ></a>
-
-HiPhi X 4 Seater is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. 
-
-- [HiPhi X 4 Seater full article](x_4_seater/)
-- [HiPhi X 4 Seater range & consumption](x_4_seater/rangeandconsumption/)
-- [HiPhi X 4 Seater charging curve & performance](x_4_seater/chargingcurve/)
-- [HiPhi X 4 Seater full specificationss](x_4_seater/specifications/)
-- [HiPhi X 4 Seater gallery](x_4_seater/gallery/)
-- [HiPhi X 4 Seater reviews](x_4_seater/reviews/)
-
-### HiPhi X 6 Seater
-
-<a href="x_6_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_st.jpg" class="img-fluid" alt="X 6 Seater" ></a>
-
-HiPhi X 6 Seater is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. 
-
-- [HiPhi X 6 Seater full article](x_6_seater/)
-- [HiPhi X 6 Seater range & consumption](x_6_seater/rangeandconsumption/)
-- [HiPhi X 6 Seater charging curve & performance](x_6_seater/chargingcurve/)
-- [HiPhi X 6 Seater full specificationss](x_6_seater/specifications/)
-- [HiPhi X 6 Seater gallery](x_6_seater/gallery/)
-- [HiPhi X 6 Seater reviews](x_6_seater/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>HiPhi X 4 Seater</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="x_4_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/main_1_st.jpg" class="img-fluid" alt="X 4 Seater" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="x_4_seater/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="x_4_seater/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="x_4_seater/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="x_4_seater/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="x_4_seater/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="x_4_seater/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>HiPhi X 6 Seater</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="x_6_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_st.jpg" class="img-fluid" alt="X 6 Seater" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="x_6_seater/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="x_6_seater/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="x_6_seater/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="x_6_seater/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="x_6_seater/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="x_6_seater/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

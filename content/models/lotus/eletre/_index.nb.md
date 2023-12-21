@@ -4,42 +4,59 @@ linktitle: "Eletre"
 description: "Se nedenfor for alle varianter av Lotus Eletre"
 weight: 30
 ---
-### Lotus Eletre
-
-<a href="eletre/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/main_1_st.jpg" class="img-fluid" alt="Eletre" ></a>
-
-Lotus Eletre er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 600 km (373 miles). EVKX.net har alle detaljene. 
-
-- [Lotus Eletre full beskrivelse](eletre/)
-- [Lotus Eletre rekkevidde & forbruk](eletre/rangeandconsumption/)
-- [Lotus Eletre ladekurve og ladeytelse](eletre/chargingcurve/)
-- [Lotus Eletre spesifikasjoners](eletre/specifications/)
-- [Lotus Eletre galleri](eletre/gallery/)
-- [Lotus Eletre tester](eletre/reviews/)
-
-### Lotus Eletre R
-
-<a href="eletre_r/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" class="img-fluid" alt="Eletre R" ></a>
-
-Lotus Eletre R er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 460 km (286 miles). EVKX.net har alle detaljene. 
-
-- [Lotus Eletre R full beskrivelse](eletre_r/)
-- [Lotus Eletre R rekkevidde & forbruk](eletre_r/rangeandconsumption/)
-- [Lotus Eletre R ladekurve og ladeytelse](eletre_r/chargingcurve/)
-- [Lotus Eletre R spesifikasjoners](eletre_r/specifications/)
-- [Lotus Eletre R galleri](eletre_r/gallery/)
-- [Lotus Eletre R tester](eletre_r/reviews/)
-
-### Lotus Eletre S
-
-<a href="eletre_s/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/main_1_st.jpg" class="img-fluid" alt="Eletre S" ></a>
-
-Lotus Eletre S er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 535 km (333 miles). EVKX.net har alle detaljene. 
-
-- [Lotus Eletre S full beskrivelse](eletre_s/)
-- [Lotus Eletre S rekkevidde & forbruk](eletre_s/rangeandconsumption/)
-- [Lotus Eletre S ladekurve og ladeytelse](eletre_s/chargingcurve/)
-- [Lotus Eletre S spesifikasjoners](eletre_s/specifications/)
-- [Lotus Eletre S galleri](eletre_s/gallery/)
-- [Lotus Eletre S tester](eletre_s/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Lotus Eletre</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eletre/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/main_1_st.jpg" class="img-fluid" alt="Eletre" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="eletre/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Lotus Eletre R</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eletre_r/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" class="img-fluid" alt="Eletre R" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="eletre_r/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre_r/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre_r/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre_r/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre_r/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre_r/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Lotus Eletre S</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eletre_s/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/main_1_st.jpg" class="img-fluid" alt="Eletre S" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="eletre_s/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre_s/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre_s/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre_s/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre_s/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre_s/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

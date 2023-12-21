@@ -4,42 +4,59 @@ linktitle: "BORN"
 description: "Se nedenfor for alle varianter av CUPRA BORN"
 weight: 30
 ---
-### CUPRA BORN 58
-
-<a href="born_58/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" class="img-fluid" alt="BORN 58" ></a>
-
-CUPRA BORN 58 er en helelektrisk kombi med en WLTP rekkevidde på opptil 424 km (264 miles). EVKX.net har alle detaljene. 
-
-- [CUPRA BORN 58 full beskrivelse](born_58/)
-- [CUPRA BORN 58 rekkevidde & forbruk](born_58/rangeandconsumption/)
-- [CUPRA BORN 58 ladekurve og ladeytelse](born_58/chargingcurve/)
-- [CUPRA BORN 58 spesifikasjoners](born_58/specifications/)
-- [CUPRA BORN 58 galleri](born_58/gallery/)
-- [CUPRA BORN 58 tester](born_58/reviews/)
-
-### CUPRA BORN 58 e-BOOST
-
-<a href="born_58_e-boost/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/main_1_st.jpg" class="img-fluid" alt="BORN 58 e-BOOST" ></a>
-
-CUPRA BORN 58 e-BOOST er en helelektrisk kombi med en WLTP rekkevidde på opptil 420 km (261 miles). EVKX.net har alle detaljene. 
-
-- [CUPRA BORN 58 e-BOOST full beskrivelse](born_58_e-boost/)
-- [CUPRA BORN 58 e-BOOST rekkevidde & forbruk](born_58_e-boost/rangeandconsumption/)
-- [CUPRA BORN 58 e-BOOST ladekurve og ladeytelse](born_58_e-boost/chargingcurve/)
-- [CUPRA BORN 58 e-BOOST spesifikasjoners](born_58_e-boost/specifications/)
-- [CUPRA BORN 58 e-BOOST galleri](born_58_e-boost/gallery/)
-- [CUPRA BORN 58 e-BOOST tester](born_58_e-boost/reviews/)
-
-### CUPRA BORN 77 e-BOOST
-
-<a href="born_77_e-boost/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_77_e-boost/main_1_st.jpg" class="img-fluid" alt="BORN 77 e-BOOST" ></a>
-
-CUPRA BORN 77 e-BOOST er en helelektrisk kombi med en WLTP rekkevidde på opptil 548 km (341 miles). EVKX.net har alle detaljene. 
-
-- [CUPRA BORN 77 e-BOOST full beskrivelse](born_77_e-boost/)
-- [CUPRA BORN 77 e-BOOST rekkevidde & forbruk](born_77_e-boost/rangeandconsumption/)
-- [CUPRA BORN 77 e-BOOST ladekurve og ladeytelse](born_77_e-boost/chargingcurve/)
-- [CUPRA BORN 77 e-BOOST spesifikasjoners](born_77_e-boost/specifications/)
-- [CUPRA BORN 77 e-BOOST galleri](born_77_e-boost/gallery/)
-- [CUPRA BORN 77 e-BOOST tester](born_77_e-boost/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>CUPRA BORN 58</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="born_58/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" class="img-fluid" alt="BORN 58" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="born_58/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_58/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_58/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_58/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_58/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_58/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>CUPRA BORN 58 e-BOOST</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="born_58_e-boost/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/main_1_st.jpg" class="img-fluid" alt="BORN 58 e-BOOST" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="born_58_e-boost/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_58_e-boost/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_58_e-boost/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_58_e-boost/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_58_e-boost/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_58_e-boost/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>CUPRA BORN 77 e-BOOST</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="born_77_e-boost/"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_77_e-boost/main_1_st.jpg" class="img-fluid" alt="BORN 77 e-BOOST" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="born_77_e-boost/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_77_e-boost/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_77_e-boost/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_77_e-boost/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_77_e-boost/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="born_77_e-boost/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

@@ -4,57 +4,79 @@ linktitle: "ID.5"
 description: "See below for details of the different variants of Volkswagen ID.5"
 weight: 30
 ---
-### Volkswagen ID.5 GTX 4MOTION
-
-<a href="id.5_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.5 GTX 4MOTION" ></a>
-
-Volkswagen ID.5 GTX 4MOTION is an all-electric coupe SUV with a WLTP range of up to 533 km (331 miles). EVKX.net has all the details. 
-
-- [Volkswagen ID.5 GTX 4MOTION full article](id.5_gtx_4motion/)
-- [Volkswagen ID.5 GTX 4MOTION range & consumption](id.5_gtx_4motion/rangeandconsumption/)
-- [Volkswagen ID.5 GTX 4MOTION charging curve & performance](id.5_gtx_4motion/chargingcurve/)
-- [Volkswagen ID.5 GTX 4MOTION full specificationss](id.5_gtx_4motion/specifications/)
-- [Volkswagen ID.5 GTX 4MOTION gallery](id.5_gtx_4motion/gallery/)
-- [Volkswagen ID.5 GTX 4MOTION reviews](id.5_gtx_4motion/reviews/)
-
-### Volkswagen ID.5 Pro Performance
-
-<a href="id.5_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro_performance/main_1_st.jpg" class="img-fluid" alt="ID.5 Pro Performance" ></a>
-
-Volkswagen ID.5 Pro Performance is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net has all the details. 
-
-- [Volkswagen ID.5 Pro Performance full article](id.5_pro_performance/)
-- [Volkswagen ID.5 Pro Performance range & consumption](id.5_pro_performance/rangeandconsumption/)
-- [Volkswagen ID.5 Pro Performance charging curve & performance](id.5_pro_performance/chargingcurve/)
-- [Volkswagen ID.5 Pro Performance full specificationss](id.5_pro_performance/specifications/)
-- [Volkswagen ID.5 Pro Performance gallery](id.5_pro_performance/gallery/)
-- [Volkswagen ID.5 Pro Performance reviews](id.5_pro_performance/reviews/)
-
-### Volkswagen ID.5 Pro
-
-<a href="id.5_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro/main_1_st.jpg" class="img-fluid" alt="ID.5 Pro" ></a>
-
-Volkswagen ID.5 Pro is an all-electric SUV with a WLTP range of up to 556 km (346 miles). EVKX.net has all the details. 
-
-- [Volkswagen ID.5 Pro full article](id.5_pro/)
-- [Volkswagen ID.5 Pro range & consumption](id.5_pro/rangeandconsumption/)
-- [Volkswagen ID.5 Pro charging curve & performance](id.5_pro/chargingcurve/)
-- [Volkswagen ID.5 Pro full specificationss](id.5_pro/specifications/)
-- [Volkswagen ID.5 Pro gallery](id.5_pro/gallery/)
-- [Volkswagen ID.5 Pro reviews](id.5_pro/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volkswagen ID.5 GTX 4MOTION</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.5_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.5 GTX 4MOTION" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volkswagen ID.5 Pro Performance</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.5_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro_performance/main_1_st.jpg" class="img-fluid" alt="ID.5 Pro Performance" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volkswagen ID.5 Pro</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.5_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro/main_1_st.jpg" class="img-fluid" alt="ID.5 Pro" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
 ## Discontinued variants
 
-### Volkswagen ID.5 GTX 4MOTION (GEN1)
-
-<a href="id.5_gtx_4motion_gen1/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion_gen1/main_1_st.jpg" class="img-fluid" alt="ID.5 GTX 4MOTION" ></a>
-
-Volkswagen ID.5 GTX 4MOTION (GEN1) is an all-electric coupe SUV with a WLTP range of up to 496 km (308 miles). EVKX.net has all the details. 
-
-- [Volkswagen ID.5 GTX 4MOTION (GEN1) full article](id.5_gtx_4motion_gen1/)
-- [Volkswagen ID.5 GTX 4MOTION (GEN1) range & consumption](id.5_gtx_4motion_gen1/rangeandconsumption/)
-- [Volkswagen ID.5 GTX 4MOTION (GEN1) charging curve & performance](id.5_gtx_4motion_gen1/chargingcurve/)
-- [Volkswagen ID.5 GTX 4MOTION (GEN1) full specificationss](id.5_gtx_4motion_gen1/specifications/)
-- [Volkswagen ID.5 GTX 4MOTION (GEN1) gallery](id.5_gtx_4motion_gen1/gallery/)
-- [Volkswagen ID.5 GTX 4MOTION (GEN1) reviews](id.5_gtx_4motion_gen1/reviews/)
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volkswagen ID.5 GTX 4MOTION (GEN1)</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.5_gtx_4motion_gen1/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion_gen1/main_1_st.jpg" class="img-fluid" alt="ID.5 GTX 4MOTION" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

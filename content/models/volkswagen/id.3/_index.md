@@ -4,29 +4,41 @@ linktitle: "ID.3"
 description: "See below for details of the different variants of Volkswagen ID.3"
 weight: 30
 ---
-### Volkswagen ID.3 Pro
-
-<a href="id.3_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro/main_1_st.jpg" class="img-fluid" alt="ID.3 Pro" ></a>
-
-Volkswagen ID.3 Pro is an all-electric hatchback with a WLTP range of up to 427 km (265 miles). EVKX.net has all the details. 
-
-- [Volkswagen ID.3 Pro full article](id.3_pro/)
-- [Volkswagen ID.3 Pro range & consumption](id.3_pro/rangeandconsumption/)
-- [Volkswagen ID.3 Pro charging curve & performance](id.3_pro/chargingcurve/)
-- [Volkswagen ID.3 Pro full specificationss](id.3_pro/specifications/)
-- [Volkswagen ID.3 Pro gallery](id.3_pro/gallery/)
-- [Volkswagen ID.3 Pro reviews](id.3_pro/reviews/)
-
-### Volkswagen ID.3 Pro S
-
-<a href="id.3_pro_s/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" class="img-fluid" alt="ID.3 Pro S" ></a>
-
-Volkswagen ID.3 Pro S is an all-electric hatchback with a WLTP range of up to 553 km (344 miles). EVKX.net has all the details. 
-
-- [Volkswagen ID.3 Pro S full article](id.3_pro_s/)
-- [Volkswagen ID.3 Pro S range & consumption](id.3_pro_s/rangeandconsumption/)
-- [Volkswagen ID.3 Pro S charging curve & performance](id.3_pro_s/chargingcurve/)
-- [Volkswagen ID.3 Pro S full specificationss](id.3_pro_s/specifications/)
-- [Volkswagen ID.3 Pro S gallery](id.3_pro_s/gallery/)
-- [Volkswagen ID.3 Pro S reviews](id.3_pro_s/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volkswagen ID.3 Pro</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.3_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro/main_1_st.jpg" class="img-fluid" alt="ID.3 Pro" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.3_pro/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_pro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_pro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_pro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_pro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_pro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volkswagen ID.3 Pro S</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.3_pro_s/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" class="img-fluid" alt="ID.3 Pro S" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.3_pro_s/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_pro_s/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_pro_s/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_pro_s/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_pro_s/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_pro_s/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

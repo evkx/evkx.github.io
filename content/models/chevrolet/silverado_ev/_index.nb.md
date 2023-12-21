@@ -4,16 +4,23 @@ linktitle: "Silverado EV"
 description: "Se nedenfor for alle varianter av Chevrolet Silverado EV"
 weight: 30
 ---
-### Chevrolet Silverado EV 4WT
-
-<a href="silverado_ev_4wt/"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" class="img-fluid" alt="Silverado EV 4WT" ></a>
-
-Chevrolet Silverado EV 4WT er en helelektrisk pickup med en EPA rekkevidde på opptil 724 km (450 miles). EVKX.net har alle detaljene. 
-
-- [Chevrolet Silverado EV 4WT full beskrivelse](silverado_ev_4wt/)
-- [Chevrolet Silverado EV 4WT rekkevidde & forbruk](silverado_ev_4wt/rangeandconsumption/)
-- [Chevrolet Silverado EV 4WT ladekurve og ladeytelse](silverado_ev_4wt/chargingcurve/)
-- [Chevrolet Silverado EV 4WT spesifikasjoners](silverado_ev_4wt/specifications/)
-- [Chevrolet Silverado EV 4WT galleri](silverado_ev_4wt/gallery/)
-- [Chevrolet Silverado EV 4WT tester](silverado_ev_4wt/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Chevrolet Silverado EV 4WT</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="silverado_ev_4wt/"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" class="img-fluid" alt="Silverado EV 4WT" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

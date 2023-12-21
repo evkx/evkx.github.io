@@ -4,16 +4,23 @@ linktitle: "2008"
 description: "Se nedenfor for alle varianter av Peugot 2008"
 weight: 30
 ---
-### Peugot E-2008
-
-<a href="e-2008/"><img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_1_st.jpg" class="img-fluid" alt="E-2008" ></a>
-
-Peugot E-2008 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 406 km (252 miles). EVKX.net har alle detaljene. 
-
-- [Peugot E-2008 full beskrivelse](e-2008/)
-- [Peugot E-2008 rekkevidde & forbruk](e-2008/rangeandconsumption/)
-- [Peugot E-2008 ladekurve og ladeytelse](e-2008/chargingcurve/)
-- [Peugot E-2008 spesifikasjoners](e-2008/specifications/)
-- [Peugot E-2008 galleri](e-2008/gallery/)
-- [Peugot E-2008 tester](e-2008/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Peugot E-2008</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="e-2008/"><img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_1_st.jpg" class="img-fluid" alt="E-2008" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="e-2008/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="e-2008/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="e-2008/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="e-2008/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="e-2008/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="e-2008/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

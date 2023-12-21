@@ -4,42 +4,59 @@ linktitle: "EX30"
 description: "See below for details of the different variants of Volvo EX30"
 weight: 30
 ---
-### Volvo EX30 Twin Motor Performance
-
-<a href="ex30_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" class="img-fluid" alt="EX30 Twin Motor Performance" ></a>
-
-Volvo EX30 Twin Motor Performance is an all-electric crossover with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. 
-
-- [Volvo EX30 Twin Motor Performance full article](ex30_twin_motor_performance/)
-- [Volvo EX30 Twin Motor Performance range & consumption](ex30_twin_motor_performance/rangeandconsumption/)
-- [Volvo EX30 Twin Motor Performance charging curve & performance](ex30_twin_motor_performance/chargingcurve/)
-- [Volvo EX30 Twin Motor Performance full specificationss](ex30_twin_motor_performance/specifications/)
-- [Volvo EX30 Twin Motor Performance gallery](ex30_twin_motor_performance/gallery/)
-- [Volvo EX30 Twin Motor Performance reviews](ex30_twin_motor_performance/reviews/)
-
-### Volvo EX30 Single Motor
-
-<a href="ex30_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1_st.jpg" class="img-fluid" alt="EX30 Single Motor" ></a>
-
-Volvo EX30 Single Motor is an all-electric crossover with a WLTP range of up to 344 km (214 miles). EVKX.net has all the details. 
-
-- [Volvo EX30 Single Motor full article](ex30_single_motor/)
-- [Volvo EX30 Single Motor range & consumption](ex30_single_motor/rangeandconsumption/)
-- [Volvo EX30 Single Motor charging curve & performance](ex30_single_motor/chargingcurve/)
-- [Volvo EX30 Single Motor full specificationss](ex30_single_motor/specifications/)
-- [Volvo EX30 Single Motor gallery](ex30_single_motor/gallery/)
-- [Volvo EX30 Single Motor reviews](ex30_single_motor/reviews/)
-
-### Volvo EX30 Single Motor Extended Range
-
-<a href="ex30_single_motor_extended_range/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1_st.jpg" class="img-fluid" alt="EX30 Single Motor Extended Range" ></a>
-
-Volvo EX30 Single Motor Extended Range is an all-electric crossover with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. 
-
-- [Volvo EX30 Single Motor Extended Range full article](ex30_single_motor_extended_range/)
-- [Volvo EX30 Single Motor Extended Range range & consumption](ex30_single_motor_extended_range/rangeandconsumption/)
-- [Volvo EX30 Single Motor Extended Range charging curve & performance](ex30_single_motor_extended_range/chargingcurve/)
-- [Volvo EX30 Single Motor Extended Range full specificationss](ex30_single_motor_extended_range/specifications/)
-- [Volvo EX30 Single Motor Extended Range gallery](ex30_single_motor_extended_range/gallery/)
-- [Volvo EX30 Single Motor Extended Range reviews](ex30_single_motor_extended_range/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volvo EX30 Twin Motor Performance</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ex30_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" class="img-fluid" alt="EX30 Twin Motor Performance" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ex30_twin_motor_performance/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_twin_motor_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_twin_motor_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_twin_motor_performance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_twin_motor_performance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_twin_motor_performance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volvo EX30 Single Motor</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ex30_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1_st.jpg" class="img-fluid" alt="EX30 Single Motor" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ex30_single_motor/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_single_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_single_motor/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_single_motor/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_single_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_single_motor/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volvo EX30 Single Motor Extended Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ex30_single_motor_extended_range/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1_st.jpg" class="img-fluid" alt="EX30 Single Motor Extended Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ex30_single_motor_extended_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_single_motor_extended_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_single_motor_extended_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_single_motor_extended_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_single_motor_extended_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex30_single_motor_extended_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

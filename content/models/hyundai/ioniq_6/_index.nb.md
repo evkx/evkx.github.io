@@ -4,29 +4,41 @@ linktitle: "Ioniq 6"
 description: "Se nedenfor for alle varianter av Hyundai Ioniq 6"
 weight: 30
 ---
-### Hyundai Ioniq 6 Long Range AWD
-
-<a href="ioniq_6_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Ioniq 6 Long Range AWD" ></a>
-
-Hyundai Ioniq 6 Long Range AWD er en helelektrisk sedan med en WLTP rekkevidde på opptil 583 km (362 miles). EVKX.net har alle detaljene. 
-
-- [Hyundai Ioniq 6 Long Range AWD full beskrivelse](ioniq_6_long_range_awd/)
-- [Hyundai Ioniq 6 Long Range AWD rekkevidde & forbruk](ioniq_6_long_range_awd/rangeandconsumption/)
-- [Hyundai Ioniq 6 Long Range AWD ladekurve og ladeytelse](ioniq_6_long_range_awd/chargingcurve/)
-- [Hyundai Ioniq 6 Long Range AWD spesifikasjoners](ioniq_6_long_range_awd/specifications/)
-- [Hyundai Ioniq 6 Long Range AWD galleri](ioniq_6_long_range_awd/gallery/)
-- [Hyundai Ioniq 6 Long Range AWD tester](ioniq_6_long_range_awd/reviews/)
-
-### Hyundai Ioniq 6 Long Range RWD
-
-<a href="ioniq_6_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" class="img-fluid" alt="Ioniq 6 Long Range RWD" ></a>
-
-Hyundai Ioniq 6 Long Range RWD er en helelektrisk sedan med en WLTP rekkevidde på opptil 614 km (382 miles). EVKX.net har alle detaljene. 
-
-- [Hyundai Ioniq 6 Long Range RWD full beskrivelse](ioniq_6_long_range_rwd/)
-- [Hyundai Ioniq 6 Long Range RWD rekkevidde & forbruk](ioniq_6_long_range_rwd/rangeandconsumption/)
-- [Hyundai Ioniq 6 Long Range RWD ladekurve og ladeytelse](ioniq_6_long_range_rwd/chargingcurve/)
-- [Hyundai Ioniq 6 Long Range RWD spesifikasjoners](ioniq_6_long_range_rwd/specifications/)
-- [Hyundai Ioniq 6 Long Range RWD galleri](ioniq_6_long_range_rwd/gallery/)
-- [Hyundai Ioniq 6 Long Range RWD tester](ioniq_6_long_range_rwd/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Hyundai Ioniq 6 Long Range AWD</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ioniq_6_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Ioniq 6 Long Range AWD" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ioniq_6_long_range_awd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_6_long_range_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_6_long_range_awd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_6_long_range_awd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_6_long_range_awd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_6_long_range_awd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Hyundai Ioniq 6 Long Range RWD</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ioniq_6_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/main_1_st.jpg" class="img-fluid" alt="Ioniq 6 Long Range RWD" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ioniq_6_long_range_rwd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_6_long_range_rwd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_6_long_range_rwd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_6_long_range_rwd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_6_long_range_rwd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ioniq_6_long_range_rwd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

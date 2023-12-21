@@ -4,6 +4,8 @@ linktitle: "Lucid"
 description: "Lucid Group, Inc. is an American electric vehicle manufacturer headquartered in Newark, California. The company was founded in 2007. Deliveries of the Dream Edition launch versions were made available to the first group of 520 reservation holders on October 30, 2021  "
 weight: 30
 ---
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 Lucid has currently 2 all electric models with total 6 variants in the market. Below you find links for each model page.  
 
 

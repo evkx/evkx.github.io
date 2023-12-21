@@ -4,16 +4,23 @@ linktitle: "ë-C3"
 description: "See below for details of the different variants of Citroën ë-C3"
 weight: 30
 ---
-### Citroën ë-C3
-
-<a href="ë-c3/"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c3/ë-c3/main_1_st.jpg" class="img-fluid" alt="ë-C3" ></a>
-
-Citroën ë-C3 is an all-electric crossover with a WLTP range of up to 320 km (199 miles). EVKX.net has all the details. 
-
-- [Citroën ë-C3 full article](ë-c3/)
-- [Citroën ë-C3 range & consumption](ë-c3/rangeandconsumption/)
-- [Citroën ë-C3 charging curve & performance](ë-c3/chargingcurve/)
-- [Citroën ë-C3 full specificationss](ë-c3/specifications/)
-- [Citroën ë-C3 gallery](ë-c3/gallery/)
-- [Citroën ë-C3 reviews](ë-c3/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Citroën ë-C3</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ë-c3/"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c3/ë-c3/main_1_st.jpg" class="img-fluid" alt="ë-C3" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ë-c3/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ë-c3/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ë-c3/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ë-c3/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ë-c3/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ë-c3/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

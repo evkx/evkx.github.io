@@ -4,29 +4,41 @@ linktitle: "F150 Lightning"
 description: "See below for details of the different variants of Ford F150 Lightning"
 weight: 30
 ---
-### Ford F150 Lightning Extended Range
-
-<a href="f150_lightning_extended_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning Extended Range" ></a>
-
-Ford F150 Lightning Extended Range is an all-electric Pickup Truck with a EPA range of up to 515 km (320 miles). EVKX.net has all the details. 
-
-- [Ford F150 Lightning Extended Range full article](f150_lightning_extended_range/)
-- [Ford F150 Lightning Extended Range range & consumption](f150_lightning_extended_range/rangeandconsumption/)
-- [Ford F150 Lightning Extended Range charging curve & performance](f150_lightning_extended_range/chargingcurve/)
-- [Ford F150 Lightning Extended Range full specificationss](f150_lightning_extended_range/specifications/)
-- [Ford F150 Lightning Extended Range gallery](f150_lightning_extended_range/gallery/)
-- [Ford F150 Lightning Extended Range reviews](f150_lightning_extended_range/reviews/)
-
-### Ford F150 Lightning Standard Range
-
-<a href="f150_lightning_standard_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_standard_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning Standard Range" ></a>
-
-Ford F150 Lightning Standard Range is an all-electric Pickup Truck with a WLTP range of up to 427 km (265 miles). EVKX.net has all the details. 
-
-- [Ford F150 Lightning Standard Range full article](f150_lightning_standard_range/)
-- [Ford F150 Lightning Standard Range range & consumption](f150_lightning_standard_range/rangeandconsumption/)
-- [Ford F150 Lightning Standard Range charging curve & performance](f150_lightning_standard_range/chargingcurve/)
-- [Ford F150 Lightning Standard Range full specificationss](f150_lightning_standard_range/specifications/)
-- [Ford F150 Lightning Standard Range gallery](f150_lightning_standard_range/gallery/)
-- [Ford F150 Lightning Standard Range reviews](f150_lightning_standard_range/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Ford F150 Lightning Extended Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="f150_lightning_extended_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning Extended Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_extended_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_extended_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_extended_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_extended_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_extended_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_extended_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Ford F150 Lightning Standard Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="f150_lightning_standard_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_standard_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning Standard Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_standard_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_standard_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_standard_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_standard_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_standard_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_standard_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

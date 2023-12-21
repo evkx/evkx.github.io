@@ -4,68 +4,95 @@ linktitle: "ID.4"
 description: "See below for details of the different variants of Volkswagen ID.4"
 weight: 30
 ---
-### Volkswagen ID.4 GTX 4MOTION (GEN1)
-
-<a href="id.4_gtx_4motion_gen1/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion_gen1/main_1_st.jpg" class="img-fluid" alt="ID.4 GTX 4MOTION" ></a>
-
-Volkswagen ID.4 GTX 4MOTION (GEN1) is an all-electric SUV with a WLTP range of up to 496 km (308 miles). EVKX.net has all the details. 
-
-- [Volkswagen ID.4 GTX 4MOTION (GEN1) full article](id.4_gtx_4motion_gen1/)
-- [Volkswagen ID.4 GTX 4MOTION (GEN1) range & consumption](id.4_gtx_4motion_gen1/rangeandconsumption/)
-- [Volkswagen ID.4 GTX 4MOTION (GEN1) charging curve & performance](id.4_gtx_4motion_gen1/chargingcurve/)
-- [Volkswagen ID.4 GTX 4MOTION (GEN1) full specificationss](id.4_gtx_4motion_gen1/specifications/)
-- [Volkswagen ID.4 GTX 4MOTION (GEN1) gallery](id.4_gtx_4motion_gen1/gallery/)
-- [Volkswagen ID.4 GTX 4MOTION (GEN1) reviews](id.4_gtx_4motion_gen1/reviews/)
-
-### Volkswagen ID.4 GTX 4MOTION
-
-<a href="id.4_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.4 GTX 4MOTION" ></a>
-
-Volkswagen ID.4 GTX 4MOTION is an all-electric SUV with a WLTP range of up to 515 km (320 miles). EVKX.net has all the details. 
-
-- [Volkswagen ID.4 GTX 4MOTION full article](id.4_gtx_4motion/)
-- [Volkswagen ID.4 GTX 4MOTION range & consumption](id.4_gtx_4motion/rangeandconsumption/)
-- [Volkswagen ID.4 GTX 4MOTION charging curve & performance](id.4_gtx_4motion/chargingcurve/)
-- [Volkswagen ID.4 GTX 4MOTION full specificationss](id.4_gtx_4motion/specifications/)
-- [Volkswagen ID.4 GTX 4MOTION gallery](id.4_gtx_4motion/gallery/)
-- [Volkswagen ID.4 GTX 4MOTION reviews](id.4_gtx_4motion/reviews/)
-
-### Volkswagen ID.4 Pro
-
-<a href="id.4_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/main_1_st.jpg" class="img-fluid" alt="ID.4 Pro" ></a>
-
-Volkswagen ID.4 Pro is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net has all the details. 
-
-- [Volkswagen ID.4 Pro full article](id.4_pro/)
-- [Volkswagen ID.4 Pro range & consumption](id.4_pro/rangeandconsumption/)
-- [Volkswagen ID.4 Pro charging curve & performance](id.4_pro/chargingcurve/)
-- [Volkswagen ID.4 Pro full specificationss](id.4_pro/specifications/)
-- [Volkswagen ID.4 Pro gallery](id.4_pro/gallery/)
-- [Volkswagen ID.4 Pro reviews](id.4_pro/reviews/)
-
-### Volkswagen ID.4 Pro 4MOTION
-
-<a href="id.4_pro_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" class="img-fluid" alt="ID.4 Pro 4MOTION" ></a>
-
-Volkswagen ID.4 Pro 4MOTION is an all-electric SUV with a WLTP range of up to 510 km (317 miles). EVKX.net has all the details. 
-
-- [Volkswagen ID.4 Pro 4MOTION full article](id.4_pro_4motion/)
-- [Volkswagen ID.4 Pro 4MOTION range & consumption](id.4_pro_4motion/rangeandconsumption/)
-- [Volkswagen ID.4 Pro 4MOTION charging curve & performance](id.4_pro_4motion/chargingcurve/)
-- [Volkswagen ID.4 Pro 4MOTION full specificationss](id.4_pro_4motion/specifications/)
-- [Volkswagen ID.4 Pro 4MOTION gallery](id.4_pro_4motion/gallery/)
-- [Volkswagen ID.4 Pro 4MOTION reviews](id.4_pro_4motion/reviews/)
-
-### Volkswagen ID.4 Pro Performance
-
-<a href="id.4_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/main_1_st.jpg" class="img-fluid" alt="ID.4 Pro Performance" ></a>
-
-Volkswagen ID.4 Pro Performance is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net has all the details. 
-
-- [Volkswagen ID.4 Pro Performance full article](id.4_pro_performance/)
-- [Volkswagen ID.4 Pro Performance range & consumption](id.4_pro_performance/rangeandconsumption/)
-- [Volkswagen ID.4 Pro Performance charging curve & performance](id.4_pro_performance/chargingcurve/)
-- [Volkswagen ID.4 Pro Performance full specificationss](id.4_pro_performance/specifications/)
-- [Volkswagen ID.4 Pro Performance gallery](id.4_pro_performance/gallery/)
-- [Volkswagen ID.4 Pro Performance reviews](id.4_pro_performance/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volkswagen ID.4 GTX 4MOTION (GEN1)</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.4_gtx_4motion_gen1/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion_gen1/main_1_st.jpg" class="img-fluid" alt="ID.4 GTX 4MOTION" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volkswagen ID.4 GTX 4MOTION</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.4_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="ID.4 GTX 4MOTION" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_gtx_4motion/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volkswagen ID.4 Pro</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.4_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/main_1_st.jpg" class="img-fluid" alt="ID.4 Pro" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volkswagen ID.4 Pro 4MOTION</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.4_pro_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" class="img-fluid" alt="ID.4 Pro 4MOTION" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_4motion/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volkswagen ID.4 Pro Performance</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.4_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/main_1_st.jpg" class="img-fluid" alt="ID.4 Pro Performance" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pro_performance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

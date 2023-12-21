@@ -4,16 +4,23 @@ linktitle: "Atto 3"
 description: "Se nedenfor for alle varianter av BYD Atto 3"
 weight: 30
 ---
-### BYD Atto 3
-
-<a href="atto_3/"><img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1_st.jpg" class="img-fluid" alt="Atto 3" ></a>
-
-BYD Atto 3 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 420 km (261 miles). EVKX.net har alle detaljene. 
-
-- [BYD Atto 3 full beskrivelse](atto_3/)
-- [BYD Atto 3 rekkevidde & forbruk](atto_3/rangeandconsumption/)
-- [BYD Atto 3 ladekurve og ladeytelse](atto_3/chargingcurve/)
-- [BYD Atto 3 spesifikasjoners](atto_3/specifications/)
-- [BYD Atto 3 galleri](atto_3/gallery/)
-- [BYD Atto 3 tester](atto_3/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>BYD Atto 3</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="atto_3/"><img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1_st.jpg" class="img-fluid" alt="Atto 3" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="atto_3/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="atto_3/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="atto_3/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="atto_3/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="atto_3/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="atto_3/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

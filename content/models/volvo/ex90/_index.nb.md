@@ -4,29 +4,41 @@ linktitle: "EX90"
 description: "Se nedenfor for alle varianter av Volvo EX90"
 weight: 30
 ---
-### Volvo EX90 Twin Motor
-
-<a href="ex90_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/main_1_st.jpg" class="img-fluid" alt="EX90 Twin Motor" ></a>
-
-Volvo EX90 Twin Motor er en helelektrisk SUV med en WLTP rekkevidde på opptil 580 km (361 miles). EVKX.net har alle detaljene. 
-
-- [Volvo EX90 Twin Motor full beskrivelse](ex90_twin_motor/)
-- [Volvo EX90 Twin Motor rekkevidde & forbruk](ex90_twin_motor/rangeandconsumption/)
-- [Volvo EX90 Twin Motor ladekurve og ladeytelse](ex90_twin_motor/chargingcurve/)
-- [Volvo EX90 Twin Motor spesifikasjoners](ex90_twin_motor/specifications/)
-- [Volvo EX90 Twin Motor galleri](ex90_twin_motor/gallery/)
-- [Volvo EX90 Twin Motor tester](ex90_twin_motor/reviews/)
-
-### Volvo EX90 Twin Motor Performance
-
-<a href="ex90_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" class="img-fluid" alt="EX90 Twin Motor Performance" ></a>
-
-Volvo EX90 Twin Motor Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 580 km (361 miles). EVKX.net har alle detaljene. 
-
-- [Volvo EX90 Twin Motor Performance full beskrivelse](ex90_twin_motor_performance/)
-- [Volvo EX90 Twin Motor Performance rekkevidde & forbruk](ex90_twin_motor_performance/rangeandconsumption/)
-- [Volvo EX90 Twin Motor Performance ladekurve og ladeytelse](ex90_twin_motor_performance/chargingcurve/)
-- [Volvo EX90 Twin Motor Performance spesifikasjoners](ex90_twin_motor_performance/specifications/)
-- [Volvo EX90 Twin Motor Performance galleri](ex90_twin_motor_performance/gallery/)
-- [Volvo EX90 Twin Motor Performance tester](ex90_twin_motor_performance/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volvo EX90 Twin Motor</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ex90_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/main_1_st.jpg" class="img-fluid" alt="EX90 Twin Motor" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ex90_twin_motor/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex90_twin_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex90_twin_motor/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex90_twin_motor/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex90_twin_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex90_twin_motor/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Volvo EX90 Twin Motor Performance</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ex90_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" class="img-fluid" alt="EX90 Twin Motor Performance" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ex90_twin_motor_performance/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex90_twin_motor_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex90_twin_motor_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex90_twin_motor_performance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex90_twin_motor_performance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ex90_twin_motor_performance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

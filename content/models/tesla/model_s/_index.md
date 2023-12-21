@@ -4,42 +4,59 @@ linktitle: "Model S"
 description: "See below for details of the different variants of Tesla Model S"
 weight: 30
 ---
-### Tesla Model S
-
-<a href="model_s/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" class="img-fluid" alt="Model S" ></a>
-
-Tesla Model S is an all-electric sedan with a WLTP range of up to 649 km (403 miles). EVKX.net has all the details. 
-
-- [Tesla Model S full article](model_s/)
-- [Tesla Model S range & consumption](model_s/rangeandconsumption/)
-- [Tesla Model S charging curve & performance](model_s/chargingcurve/)
-- [Tesla Model S full specificationss](model_s/specifications/)
-- [Tesla Model S gallery](model_s/gallery/)
-- [Tesla Model S reviews](model_s/reviews/)
-
-### Tesla Model S Plaid
-
-<a href="model_s_plaid/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/main_1_st.jpg" class="img-fluid" alt="Model S Plaid" ></a>
-
-Tesla Model S Plaid is an all-electric sedan with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details. 
-
-- [Tesla Model S Plaid full article](model_s_plaid/)
-- [Tesla Model S Plaid range & consumption](model_s_plaid/rangeandconsumption/)
-- [Tesla Model S Plaid charging curve & performance](model_s_plaid/chargingcurve/)
-- [Tesla Model S Plaid full specificationss](model_s_plaid/specifications/)
-- [Tesla Model S Plaid gallery](model_s_plaid/gallery/)
-- [Tesla Model S Plaid reviews](model_s_plaid/reviews/)
-
-### Tesla Model S Standard Range
-
-<a href="model_s_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/main_1_st.jpg" class="img-fluid" alt="Model S Standard Range" ></a>
-
-Tesla Model S Standard Range is an all-electric sedan with a WLTP range of up to 512 km (318 miles). EVKX.net has all the details. 
-
-- [Tesla Model S Standard Range full article](model_s_standard_range/)
-- [Tesla Model S Standard Range range & consumption](model_s_standard_range/rangeandconsumption/)
-- [Tesla Model S Standard Range charging curve & performance](model_s_standard_range/chargingcurve/)
-- [Tesla Model S Standard Range full specificationss](model_s_standard_range/specifications/)
-- [Tesla Model S Standard Range gallery](model_s_standard_range/gallery/)
-- [Tesla Model S Standard Range reviews](model_s_standard_range/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Tesla Model S</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_s/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" class="img-fluid" alt="Model S" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="model_s/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Tesla Model S Plaid</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_s_plaid/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_plaid/main_1_st.jpg" class="img-fluid" alt="Model S Plaid" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="model_s_plaid/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_plaid/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_plaid/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_plaid/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_plaid/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_plaid/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Tesla Model S Standard Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="model_s_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s_standard_range/main_1_st.jpg" class="img-fluid" alt="Model S Standard Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="model_s_standard_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_standard_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_standard_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_standard_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_standard_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_s_standard_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

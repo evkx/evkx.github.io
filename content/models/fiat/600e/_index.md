@@ -4,16 +4,23 @@ linktitle: "600e"
 description: "See below for details of the different variants of Fiat 600e"
 weight: 30
 ---
-### Fiat 600e
-
-<a href="600e/"><img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" class="img-fluid" alt="600e" ></a>
-
-Fiat 600e is an all-electric crossover with a WLTP range of up to 409 km (254 miles). EVKX.net has all the details. 
-
-- [Fiat 600e full article](600e/)
-- [Fiat 600e range & consumption](600e/rangeandconsumption/)
-- [Fiat 600e charging curve & performance](600e/chargingcurve/)
-- [Fiat 600e full specificationss](600e/specifications/)
-- [Fiat 600e gallery](600e/gallery/)
-- [Fiat 600e reviews](600e/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Fiat 600e</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="600e/"><img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" class="img-fluid" alt="600e" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="600e/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="600e/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="600e/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="600e/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="600e/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="600e/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

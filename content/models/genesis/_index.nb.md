@@ -4,6 +4,8 @@ linktitle: "Genesis"
 description: "Genesis is a luxury car brand that was launched by Hyundai Motor Group in 2015. It aims to provide positive and innovative experiences for its customers through its design, performance, and service."
 weight: 30
 ---
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 
 
 

@@ -4,16 +4,23 @@ linktitle: "ESCALADE"
 description: "See below for details of the different variants of Cadillac ESCALADE"
 weight: 30
 ---
-### Cadillac ESCALADE IQ
-
-<a href="escalade_iq/"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" class="img-fluid" alt="ESCALADE IQ" ></a>
-
-Cadillac ESCALADE IQ is an all-electric SUV with a EPA range of up to 724 km (450 miles). EVKX.net has all the details. 
-
-- [Cadillac ESCALADE IQ full article](escalade_iq/)
-- [Cadillac ESCALADE IQ range & consumption](escalade_iq/rangeandconsumption/)
-- [Cadillac ESCALADE IQ charging curve & performance](escalade_iq/chargingcurve/)
-- [Cadillac ESCALADE IQ full specificationss](escalade_iq/specifications/)
-- [Cadillac ESCALADE IQ gallery](escalade_iq/gallery/)
-- [Cadillac ESCALADE IQ reviews](escalade_iq/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Cadillac ESCALADE IQ</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="escalade_iq/"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" class="img-fluid" alt="ESCALADE IQ" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="escalade_iq/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="escalade_iq/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="escalade_iq/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="escalade_iq/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="escalade_iq/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="escalade_iq/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

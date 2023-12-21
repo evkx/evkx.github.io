@@ -4,16 +4,23 @@ linktitle: "Gravity"
 description: "See below for details of the different variants of Lucid Gravity"
 weight: 30
 ---
-### Lucid Gravity Dream Edition
-
-<a href="gravity_dream_edition/"><img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" class="img-fluid" alt="Gravity Dream Edition" ></a>
-
-Lucid Gravity Dream Edition is an all-electric SUV with a EPA range of up to 708 km (440 miles). EVKX.net has all the details. 
-
-- [Lucid Gravity Dream Edition full article](gravity_dream_edition/)
-- [Lucid Gravity Dream Edition range & consumption](gravity_dream_edition/rangeandconsumption/)
-- [Lucid Gravity Dream Edition charging curve & performance](gravity_dream_edition/chargingcurve/)
-- [Lucid Gravity Dream Edition full specificationss](gravity_dream_edition/specifications/)
-- [Lucid Gravity Dream Edition gallery](gravity_dream_edition/gallery/)
-- [Lucid Gravity Dream Edition reviews](gravity_dream_edition/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Lucid Gravity Dream Edition</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="gravity_dream_edition/"><img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" class="img-fluid" alt="Gravity Dream Edition" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="gravity_dream_edition/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

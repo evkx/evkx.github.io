@@ -4,29 +4,41 @@ linktitle: "F150 Lightning"
 description: "Se nedenfor for alle varianter av Ford F150 Lightning"
 weight: 30
 ---
-### Ford F150 Lightning Extended Range
-
-<a href="f150_lightning_extended_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning Extended Range" ></a>
-
-Ford F150 Lightning Extended Range er en helelektrisk pickup med en EPA rekkevidde på opptil 515 km (320 miles). EVKX.net har alle detaljene. 
-
-- [Ford F150 Lightning Extended Range full beskrivelse](f150_lightning_extended_range/)
-- [Ford F150 Lightning Extended Range rekkevidde & forbruk](f150_lightning_extended_range/rangeandconsumption/)
-- [Ford F150 Lightning Extended Range ladekurve og ladeytelse](f150_lightning_extended_range/chargingcurve/)
-- [Ford F150 Lightning Extended Range spesifikasjoners](f150_lightning_extended_range/specifications/)
-- [Ford F150 Lightning Extended Range galleri](f150_lightning_extended_range/gallery/)
-- [Ford F150 Lightning Extended Range tester](f150_lightning_extended_range/reviews/)
-
-### Ford F150 Lightning Standard Range
-
-<a href="f150_lightning_standard_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_standard_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning Standard Range" ></a>
-
-Ford F150 Lightning Standard Range er en helelektrisk pickup med en WLTP rekkevidde på opptil 427 km (265 miles). EVKX.net har alle detaljene. 
-
-- [Ford F150 Lightning Standard Range full beskrivelse](f150_lightning_standard_range/)
-- [Ford F150 Lightning Standard Range rekkevidde & forbruk](f150_lightning_standard_range/rangeandconsumption/)
-- [Ford F150 Lightning Standard Range ladekurve og ladeytelse](f150_lightning_standard_range/chargingcurve/)
-- [Ford F150 Lightning Standard Range spesifikasjoners](f150_lightning_standard_range/specifications/)
-- [Ford F150 Lightning Standard Range galleri](f150_lightning_standard_range/gallery/)
-- [Ford F150 Lightning Standard Range tester](f150_lightning_standard_range/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Ford F150 Lightning Extended Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="f150_lightning_extended_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning Extended Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_extended_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_extended_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_extended_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_extended_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_extended_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_extended_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Ford F150 Lightning Standard Range</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="f150_lightning_standard_range/"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_standard_range/main_1_st.jpg" class="img-fluid" alt="F150 Lightning Standard Range" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_standard_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_standard_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_standard_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_standard_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_standard_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="f150_lightning_standard_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

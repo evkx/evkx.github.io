@@ -4,16 +4,23 @@ linktitle: "RZ"
 description: "See below for details of the different variants of Lexus RZ"
 weight: 30
 ---
-### Lexus RZ 450e
-
-<a href="rz_450e/"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" class="img-fluid" alt="RZ 450e" ></a>
-
-Lexus RZ 450e is an all-electric SUV with a WLTP range of up to 440 km (274 miles). EVKX.net has all the details. 
-
-- [Lexus RZ 450e full article](rz_450e/)
-- [Lexus RZ 450e range & consumption](rz_450e/rangeandconsumption/)
-- [Lexus RZ 450e charging curve & performance](rz_450e/chargingcurve/)
-- [Lexus RZ 450e full specificationss](rz_450e/specifications/)
-- [Lexus RZ 450e gallery](rz_450e/gallery/)
-- [Lexus RZ 450e reviews](rz_450e/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Lexus RZ 450e</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="rz_450e/"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" class="img-fluid" alt="RZ 450e" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="rz_450e/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

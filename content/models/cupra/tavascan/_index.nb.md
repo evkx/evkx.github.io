@@ -4,29 +4,41 @@ linktitle: "Tavascan"
 description: "Se nedenfor for alle varianter av CUPRA Tavascan"
 weight: 30
 ---
-### CUPRA Tavascan Endurance
-
-<a href="tavascan_endurance/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_endurance/main_1_st.JPG" class="img-fluid" alt="Tavascan Endurance" ></a>
-
-CUPRA Tavascan Endurance er en helelektrisk SUV med en WLTP rekkevidde på opptil 547 km (340 miles). EVKX.net har alle detaljene. 
-
-- [CUPRA Tavascan Endurance full beskrivelse](tavascan_endurance/)
-- [CUPRA Tavascan Endurance rekkevidde & forbruk](tavascan_endurance/rangeandconsumption/)
-- [CUPRA Tavascan Endurance ladekurve og ladeytelse](tavascan_endurance/chargingcurve/)
-- [CUPRA Tavascan Endurance spesifikasjoners](tavascan_endurance/specifications/)
-- [CUPRA Tavascan Endurance galleri](tavascan_endurance/gallery/)
-- [CUPRA Tavascan Endurance tester](tavascan_endurance/reviews/)
-
-### CUPRA Tavascan VZ
-
-<a href="tavascan_vz/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" class="img-fluid" alt="Tavascan VZ" ></a>
-
-CUPRA Tavascan VZ er en helelektrisk SUV med en WLTP rekkevidde på opptil 517 km (321 miles). EVKX.net har alle detaljene. 
-
-- [CUPRA Tavascan VZ full beskrivelse](tavascan_vz/)
-- [CUPRA Tavascan VZ rekkevidde & forbruk](tavascan_vz/rangeandconsumption/)
-- [CUPRA Tavascan VZ ladekurve og ladeytelse](tavascan_vz/chargingcurve/)
-- [CUPRA Tavascan VZ spesifikasjoners](tavascan_vz/specifications/)
-- [CUPRA Tavascan VZ galleri](tavascan_vz/gallery/)
-- [CUPRA Tavascan VZ tester](tavascan_vz/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>CUPRA Tavascan Endurance</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="tavascan_endurance/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_endurance/main_1_st.JPG" class="img-fluid" alt="Tavascan Endurance" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="tavascan_endurance/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_endurance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_endurance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_endurance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_endurance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_endurance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>CUPRA Tavascan VZ</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="tavascan_vz/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" class="img-fluid" alt="Tavascan VZ" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="tavascan_vz/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_vz/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_vz/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_vz/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_vz/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_vz/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

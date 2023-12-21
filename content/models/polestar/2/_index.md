@@ -4,42 +4,59 @@ linktitle: "2"
 description: "See below for details of the different variants of Polestar 2"
 weight: 30
 ---
-### Polestar 2 Long Range Dual Motor
-
-<a href="2_long_range_dual_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" class="img-fluid" alt="2 Long Range Dual Motor" ></a>
-
-Polestar 2 Long Range Dual Motor is an all-electric sedan with a WLTP range of up to 592 km (368 miles). EVKX.net has all the details. 
-
-- [Polestar 2 Long Range Dual Motor full article](2_long_range_dual_motor/)
-- [Polestar 2 Long Range Dual Motor range & consumption](2_long_range_dual_motor/rangeandconsumption/)
-- [Polestar 2 Long Range Dual Motor charging curve & performance](2_long_range_dual_motor/chargingcurve/)
-- [Polestar 2 Long Range Dual Motor full specificationss](2_long_range_dual_motor/specifications/)
-- [Polestar 2 Long Range Dual Motor gallery](2_long_range_dual_motor/gallery/)
-- [Polestar 2 Long Range Dual Motor reviews](2_long_range_dual_motor/reviews/)
-
-### Polestar 2 Long Range Dual Motor Performance
-
-<a href="2_long_range_dual_motor_performance/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/main_1_st.jpg" class="img-fluid" alt="2 Long Range Dual Motor Performance" ></a>
-
-Polestar 2 Long Range Dual Motor Performance is an all-electric sedan with a WLTP range of up to 592 km (368 miles). EVKX.net has all the details. 
-
-- [Polestar 2 Long Range Dual Motor Performance full article](2_long_range_dual_motor_performance/)
-- [Polestar 2 Long Range Dual Motor Performance range & consumption](2_long_range_dual_motor_performance/rangeandconsumption/)
-- [Polestar 2 Long Range Dual Motor Performance charging curve & performance](2_long_range_dual_motor_performance/chargingcurve/)
-- [Polestar 2 Long Range Dual Motor Performance full specificationss](2_long_range_dual_motor_performance/specifications/)
-- [Polestar 2 Long Range Dual Motor Performance gallery](2_long_range_dual_motor_performance/gallery/)
-- [Polestar 2 Long Range Dual Motor Performance reviews](2_long_range_dual_motor_performance/reviews/)
-
-### Polestar 2 Long Range Single Motor
-
-<a href="2_long_range_single_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg" class="img-fluid" alt="2 Long Range Single Motor" ></a>
-
-Polestar 2 Long Range Single Motor is an all-electric sedan with a WLTP range of up to 635 km (395 miles). EVKX.net has all the details. 
-
-- [Polestar 2 Long Range Single Motor full article](2_long_range_single_motor/)
-- [Polestar 2 Long Range Single Motor range & consumption](2_long_range_single_motor/rangeandconsumption/)
-- [Polestar 2 Long Range Single Motor charging curve & performance](2_long_range_single_motor/chargingcurve/)
-- [Polestar 2 Long Range Single Motor full specificationss](2_long_range_single_motor/specifications/)
-- [Polestar 2 Long Range Single Motor gallery](2_long_range_single_motor/gallery/)
-- [Polestar 2 Long Range Single Motor reviews](2_long_range_single_motor/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Polestar 2 Long Range Dual Motor</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="2_long_range_dual_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" class="img-fluid" alt="2 Long Range Dual Motor" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Polestar 2 Long Range Dual Motor Performance</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="2_long_range_dual_motor_performance/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_dual_motor_performance/main_1_st.jpg" class="img-fluid" alt="2 Long Range Dual Motor Performance" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor_performance/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor_performance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor_performance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_dual_motor_performance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Polestar 2 Long Range Single Motor</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="2_long_range_single_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg" class="img-fluid" alt="2 Long Range Single Motor" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_single_motor/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_single_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_single_motor/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_single_motor/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_single_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="2_long_range_single_motor/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

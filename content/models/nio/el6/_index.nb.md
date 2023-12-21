@@ -4,16 +4,23 @@ linktitle: "EL6"
 description: "Se nedenfor for alle varianter av Nio EL6"
 weight: 30
 ---
-### Nio EL6
-
-<a href="el6/"><img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_2_st.jpg" class="img-fluid" alt="EL6" ></a>
-
-Nio EL6 er en helelektrisk SUV med en WLTP rekkevidde på opptil 513 km (319 miles). EVKX.net har alle detaljene. 
-
-- [Nio EL6 full beskrivelse](el6/)
-- [Nio EL6 rekkevidde & forbruk](el6/rangeandconsumption/)
-- [Nio EL6 ladekurve og ladeytelse](el6/chargingcurve/)
-- [Nio EL6 spesifikasjoners](el6/specifications/)
-- [Nio EL6 galleri](el6/gallery/)
-- [Nio EL6 tester](el6/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Nio EL6</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="el6/"><img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_2_st.jpg" class="img-fluid" alt="EL6" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="el6/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="el6/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="el6/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="el6/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="el6/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="el6/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

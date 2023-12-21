@@ -4,83 +4,115 @@ linktitle: "Enyaq iV"
 description: "See below for details of the different variants of SKODA Enyaq iV"
 weight: 30
 ---
-### SKODA ENYAQ COUPÉ 85x
-
-<a href="enyaq_coupé_85x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_85x/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ 85x" ></a>
-
-SKODA ENYAQ COUPÉ 85x is an all-electric coupe SUV with a WLTP range of up to 545 km (339 miles). EVKX.net has all the details. 
-
-- [SKODA ENYAQ COUPÉ 85x full article](enyaq_coupé_85x/)
-- [SKODA ENYAQ COUPÉ 85x range & consumption](enyaq_coupé_85x/rangeandconsumption/)
-- [SKODA ENYAQ COUPÉ 85x charging curve & performance](enyaq_coupé_85x/chargingcurve/)
-- [SKODA ENYAQ COUPÉ 85x full specificationss](enyaq_coupé_85x/specifications/)
-- [SKODA ENYAQ COUPÉ 85x gallery](enyaq_coupé_85x/gallery/)
-- [SKODA ENYAQ COUPÉ 85x reviews](enyaq_coupé_85x/reviews/)
-
-### SKODA ENYAQ COUPÉ RS iV
-
-<a href="enyaq_coupé_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ RS iV" ></a>
-
-SKODA ENYAQ COUPÉ RS iV is an all-electric coupe SUV with a WLTP range of up to 547 km (340 miles). EVKX.net has all the details. 
-
-- [SKODA ENYAQ COUPÉ RS iV full article](enyaq_coupé_rs_iv/)
-- [SKODA ENYAQ COUPÉ RS iV range & consumption](enyaq_coupé_rs_iv/rangeandconsumption/)
-- [SKODA ENYAQ COUPÉ RS iV charging curve & performance](enyaq_coupé_rs_iv/chargingcurve/)
-- [SKODA ENYAQ COUPÉ RS iV full specificationss](enyaq_coupé_rs_iv/specifications/)
-- [SKODA ENYAQ COUPÉ RS iV gallery](enyaq_coupé_rs_iv/gallery/)
-- [SKODA ENYAQ COUPÉ RS iV reviews](enyaq_coupé_rs_iv/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>SKODA ENYAQ COUPÉ 85x</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="enyaq_coupé_85x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_85x/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ 85x" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_85x/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_85x/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_85x/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_85x/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_85x/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_85x/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>SKODA ENYAQ COUPÉ RS iV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="enyaq_coupé_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ RS iV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_rs_iv/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_rs_iv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_rs_iv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_rs_iv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_rs_iv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_rs_iv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
 ## Discontinued variants
 
-### SKODA ENYAQ COUPÉ RS iV (GEN1)
-
-<a href="enyaq_coupé_rs_iv_gen1/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ RS iV" ></a>
-
-SKODA ENYAQ COUPÉ RS iV (GEN1) is an all-electric coupe SUV with a WLTP range of up to 514 km (320 miles). EVKX.net has all the details. 
-
-- [SKODA ENYAQ COUPÉ RS iV (GEN1) full article](enyaq_coupé_rs_iv_gen1/)
-- [SKODA ENYAQ COUPÉ RS iV (GEN1) range & consumption](enyaq_coupé_rs_iv_gen1/rangeandconsumption/)
-- [SKODA ENYAQ COUPÉ RS iV (GEN1) charging curve & performance](enyaq_coupé_rs_iv_gen1/chargingcurve/)
-- [SKODA ENYAQ COUPÉ RS iV (GEN1) full specificationss](enyaq_coupé_rs_iv_gen1/specifications/)
-- [SKODA ENYAQ COUPÉ RS iV (GEN1) gallery](enyaq_coupé_rs_iv_gen1/gallery/)
-- [SKODA ENYAQ COUPÉ RS iV (GEN1) reviews](enyaq_coupé_rs_iv_gen1/reviews/)
-
-### SKODA Enyaq iV80
-
-<a href="enyaq_iv80/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80/main_1_st.jpg" class="img-fluid" alt="Enyaq iV80" ></a>
-
-SKODA Enyaq iV80 is an all-electric SUV with a WLTP range of up to 534 km (332 miles). EVKX.net has all the details. 
-
-- [SKODA Enyaq iV80 full article](enyaq_iv80/)
-- [SKODA Enyaq iV80 range & consumption](enyaq_iv80/rangeandconsumption/)
-- [SKODA Enyaq iV80 charging curve & performance](enyaq_iv80/chargingcurve/)
-- [SKODA Enyaq iV80 full specificationss](enyaq_iv80/specifications/)
-- [SKODA Enyaq iV80 gallery](enyaq_iv80/gallery/)
-- [SKODA Enyaq iV80 reviews](enyaq_iv80/reviews/)
-
-### SKODA Enyaq iV80x
-
-<a href="enyaq_iv80x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_st.jpg" class="img-fluid" alt="Enyaq iV80x" ></a>
-
-SKODA Enyaq iV80x is an all-electric SUV with a WLTP range of up to 504 km (313 miles). EVKX.net has all the details. 
-
-- [SKODA Enyaq iV80x full article](enyaq_iv80x/)
-- [SKODA Enyaq iV80x range & consumption](enyaq_iv80x/rangeandconsumption/)
-- [SKODA Enyaq iV80x charging curve & performance](enyaq_iv80x/chargingcurve/)
-- [SKODA Enyaq iV80x full specificationss](enyaq_iv80x/specifications/)
-- [SKODA Enyaq iV80x gallery](enyaq_iv80x/gallery/)
-- [SKODA Enyaq iV80x reviews](enyaq_iv80x/reviews/)
-
-### SKODA ENYAQ RS iV
-
-<a href="enyaq_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_st.jpg" class="img-fluid" alt="ENYAQ RS iV" ></a>
-
-SKODA ENYAQ RS iV is an all-electric SUV with a WLTP range of up to 514 km (320 miles). EVKX.net has all the details. 
-
-- [SKODA ENYAQ RS iV full article](enyaq_rs_iv/)
-- [SKODA ENYAQ RS iV range & consumption](enyaq_rs_iv/rangeandconsumption/)
-- [SKODA ENYAQ RS iV charging curve & performance](enyaq_rs_iv/chargingcurve/)
-- [SKODA ENYAQ RS iV full specificationss](enyaq_rs_iv/specifications/)
-- [SKODA ENYAQ RS iV gallery](enyaq_rs_iv/gallery/)
-- [SKODA ENYAQ RS iV reviews](enyaq_rs_iv/reviews/)
-
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>SKODA ENYAQ COUPÉ RS iV (GEN1)</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="enyaq_coupé_rs_iv_gen1/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_st.jpg" class="img-fluid" alt="ENYAQ COUPÉ RS iV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_rs_iv_gen1/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_rs_iv_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_rs_iv_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_rs_iv_gen1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_rs_iv_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_rs_iv_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>SKODA Enyaq iV80</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="enyaq_iv80/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80/main_1_st.jpg" class="img-fluid" alt="Enyaq iV80" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="enyaq_iv80/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_iv80/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_iv80/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_iv80/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_iv80/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_iv80/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>SKODA Enyaq iV80x</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="enyaq_iv80x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_st.jpg" class="img-fluid" alt="Enyaq iV80x" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="enyaq_iv80x/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_iv80x/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_iv80x/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_iv80x/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_iv80x/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_iv80x/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>SKODA ENYAQ RS iV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="enyaq_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_st.jpg" class="img-fluid" alt="ENYAQ RS iV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="enyaq_rs_iv/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_rs_iv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_rs_iv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_rs_iv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_rs_iv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_rs_iv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

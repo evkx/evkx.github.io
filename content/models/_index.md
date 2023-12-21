@@ -4,6 +4,8 @@ linktitle: "EV models"
 description: "The future is electric, and EVKX.net gives you a complete overview of the EV market's brands, models, and variants."
 weight: 2
 ---
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 Click on the logos below to go directly to the brand page, or scroll down to read the introduction for each brand.
 <p>
 <a href="audi"><img src="https://media.evkx.net/multimedia/models/audi/logo_xst.png" alt="Audi" title="Audi" width="130px" class="img-fluid img-thumbnail" /></a>

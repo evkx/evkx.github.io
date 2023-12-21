@@ -4,68 +4,95 @@ linktitle: "EV6"
 description: "See below for details of the different variants of Kia EV6"
 weight: 30
 ---
-### Kia EV6 Standard Range 2WD
-
-<a href="ev6_standard_range_2wd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg" class="img-fluid" alt="EV6 Standard Range 2WD" ></a>
-
-Kia EV6 Standard Range 2WD is an all-electric coupe SUV with a WLTP range of up to 394 km (245 miles). EVKX.net has all the details. 
-
-- [Kia EV6 Standard Range 2WD full article](ev6_standard_range_2wd/)
-- [Kia EV6 Standard Range 2WD range & consumption](ev6_standard_range_2wd/rangeandconsumption/)
-- [Kia EV6 Standard Range 2WD charging curve & performance](ev6_standard_range_2wd/chargingcurve/)
-- [Kia EV6 Standard Range 2WD full specificationss](ev6_standard_range_2wd/specifications/)
-- [Kia EV6 Standard Range 2WD gallery](ev6_standard_range_2wd/gallery/)
-- [Kia EV6 Standard Range 2WD reviews](ev6_standard_range_2wd/reviews/)
-
-### Kia EV6 Standard Range AWD
-
-<a href="ev6_standard_range_awd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_awd/main_1_st.jpg" class="img-fluid" alt="EV6 Standard Range AWD" ></a>
-
-Kia EV6 Standard Range AWD is an all-electric coupe SUV with a WLTP range of up to 371 km (231 miles). EVKX.net has all the details. 
-
-- [Kia EV6 Standard Range AWD full article](ev6_standard_range_awd/)
-- [Kia EV6 Standard Range AWD range & consumption](ev6_standard_range_awd/rangeandconsumption/)
-- [Kia EV6 Standard Range AWD charging curve & performance](ev6_standard_range_awd/chargingcurve/)
-- [Kia EV6 Standard Range AWD full specificationss](ev6_standard_range_awd/specifications/)
-- [Kia EV6 Standard Range AWD gallery](ev6_standard_range_awd/gallery/)
-- [Kia EV6 Standard Range AWD reviews](ev6_standard_range_awd/reviews/)
-
-### Kia EV6 Long Range 2WD
-
-<a href="ev6_long_range_2wd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_2wd/main_1_st.jpg" class="img-fluid" alt="EV6 Long Range 2WD" ></a>
-
-Kia EV6 Long Range 2WD is an all-electric coupe SUV with a WLTP range of up to 528 km (328 miles). EVKX.net has all the details. 
-
-- [Kia EV6 Long Range 2WD full article](ev6_long_range_2wd/)
-- [Kia EV6 Long Range 2WD range & consumption](ev6_long_range_2wd/rangeandconsumption/)
-- [Kia EV6 Long Range 2WD charging curve & performance](ev6_long_range_2wd/chargingcurve/)
-- [Kia EV6 Long Range 2WD full specificationss](ev6_long_range_2wd/specifications/)
-- [Kia EV6 Long Range 2WD gallery](ev6_long_range_2wd/gallery/)
-- [Kia EV6 Long Range 2WD reviews](ev6_long_range_2wd/reviews/)
-
-### Kia EV6 Long Range AWD
-
-<a href="ev6_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/main_1_st.jpg" class="img-fluid" alt="EV6 Long Range AWD" ></a>
-
-Kia EV6 Long Range AWD is an all-electric coupe SUV with a WLTP range of up to 506 km (315 miles). EVKX.net has all the details. 
-
-- [Kia EV6 Long Range AWD full article](ev6_long_range_awd/)
-- [Kia EV6 Long Range AWD range & consumption](ev6_long_range_awd/rangeandconsumption/)
-- [Kia EV6 Long Range AWD charging curve & performance](ev6_long_range_awd/chargingcurve/)
-- [Kia EV6 Long Range AWD full specificationss](ev6_long_range_awd/specifications/)
-- [Kia EV6 Long Range AWD gallery](ev6_long_range_awd/gallery/)
-- [Kia EV6 Long Range AWD reviews](ev6_long_range_awd/reviews/)
-
-### Kia EV6 GT
-
-<a href="ev6_gt/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_st.jpg" class="img-fluid" alt="EV6 GT" ></a>
-
-Kia EV6 GT is an all-electric coupe SUV with a WLTP range of up to 424 km (264 miles). EVKX.net has all the details. 
-
-- [Kia EV6 GT full article](ev6_gt/)
-- [Kia EV6 GT range & consumption](ev6_gt/rangeandconsumption/)
-- [Kia EV6 GT charging curve & performance](ev6_gt/chargingcurve/)
-- [Kia EV6 GT full specificationss](ev6_gt/specifications/)
-- [Kia EV6 GT gallery](ev6_gt/gallery/)
-- [Kia EV6 GT reviews](ev6_gt/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Kia EV6 Standard Range 2WD</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ev6_standard_range_2wd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg" class="img-fluid" alt="EV6 Standard Range 2WD" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ev6_standard_range_2wd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_standard_range_2wd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_standard_range_2wd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_standard_range_2wd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_standard_range_2wd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_standard_range_2wd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Kia EV6 Standard Range AWD</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ev6_standard_range_awd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_awd/main_1_st.jpg" class="img-fluid" alt="EV6 Standard Range AWD" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ev6_standard_range_awd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_standard_range_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_standard_range_awd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_standard_range_awd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_standard_range_awd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_standard_range_awd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Kia EV6 Long Range 2WD</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ev6_long_range_2wd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_2wd/main_1_st.jpg" class="img-fluid" alt="EV6 Long Range 2WD" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ev6_long_range_2wd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_long_range_2wd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_long_range_2wd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_long_range_2wd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_long_range_2wd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_long_range_2wd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Kia EV6 Long Range AWD</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ev6_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/main_1_st.jpg" class="img-fluid" alt="EV6 Long Range AWD" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ev6_long_range_awd/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_long_range_awd/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_long_range_awd/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_long_range_awd/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_long_range_awd/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_long_range_awd/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Kia EV6 GT</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ev6_gt/"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_st.jpg" class="img-fluid" alt="EV6 GT" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ev6_gt/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_gt/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_gt/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_gt/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_gt/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ev6_gt/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

@@ -4,29 +4,41 @@ linktitle: "Tavascan"
 description: "See below for details of the different variants of CUPRA Tavascan"
 weight: 30
 ---
-### CUPRA Tavascan Endurance
-
-<a href="tavascan_endurance/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_endurance/main_1_st.JPG" class="img-fluid" alt="Tavascan Endurance" ></a>
-
-CUPRA Tavascan Endurance is an all-electric SUV with a WLTP range of up to 547 km (340 miles). EVKX.net has all the details. 
-
-- [CUPRA Tavascan Endurance full article](tavascan_endurance/)
-- [CUPRA Tavascan Endurance range & consumption](tavascan_endurance/rangeandconsumption/)
-- [CUPRA Tavascan Endurance charging curve & performance](tavascan_endurance/chargingcurve/)
-- [CUPRA Tavascan Endurance full specificationss](tavascan_endurance/specifications/)
-- [CUPRA Tavascan Endurance gallery](tavascan_endurance/gallery/)
-- [CUPRA Tavascan Endurance reviews](tavascan_endurance/reviews/)
-
-### CUPRA Tavascan VZ
-
-<a href="tavascan_vz/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" class="img-fluid" alt="Tavascan VZ" ></a>
-
-CUPRA Tavascan VZ is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net has all the details. 
-
-- [CUPRA Tavascan VZ full article](tavascan_vz/)
-- [CUPRA Tavascan VZ range & consumption](tavascan_vz/rangeandconsumption/)
-- [CUPRA Tavascan VZ charging curve & performance](tavascan_vz/chargingcurve/)
-- [CUPRA Tavascan VZ full specificationss](tavascan_vz/specifications/)
-- [CUPRA Tavascan VZ gallery](tavascan_vz/gallery/)
-- [CUPRA Tavascan VZ reviews](tavascan_vz/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>CUPRA Tavascan Endurance</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="tavascan_endurance/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_endurance/main_1_st.JPG" class="img-fluid" alt="Tavascan Endurance" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="tavascan_endurance/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_endurance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_endurance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_endurance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_endurance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_endurance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>CUPRA Tavascan VZ</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="tavascan_vz/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" class="img-fluid" alt="Tavascan VZ" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="tavascan_vz/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_vz/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_vz/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_vz/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_vz/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="tavascan_vz/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

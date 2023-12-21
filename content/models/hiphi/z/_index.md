@@ -4,29 +4,41 @@ linktitle: "Z"
 description: "See below for details of the different variants of HiPhi Z"
 weight: 30
 ---
-### HiPhi Z 4 Seater
-
-<a href="z_4_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg" class="img-fluid" alt="Z 4 Seater" ></a>
-
-HiPhi Z 4 Seater is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net has all the details. 
-
-- [HiPhi Z 4 Seater full article](z_4_seater/)
-- [HiPhi Z 4 Seater range & consumption](z_4_seater/rangeandconsumption/)
-- [HiPhi Z 4 Seater charging curve & performance](z_4_seater/chargingcurve/)
-- [HiPhi Z 4 Seater full specificationss](z_4_seater/specifications/)
-- [HiPhi Z 4 Seater gallery](z_4_seater/gallery/)
-- [HiPhi Z 4 Seater reviews](z_4_seater/reviews/)
-
-### HiPhi Z 5 Seater
-
-<a href="z_5_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_st.jpg" class="img-fluid" alt="Z 5 Seater" ></a>
-
-HiPhi Z 5 Seater is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net has all the details. 
-
-- [HiPhi Z 5 Seater full article](z_5_seater/)
-- [HiPhi Z 5 Seater range & consumption](z_5_seater/rangeandconsumption/)
-- [HiPhi Z 5 Seater charging curve & performance](z_5_seater/chargingcurve/)
-- [HiPhi Z 5 Seater full specificationss](z_5_seater/specifications/)
-- [HiPhi Z 5 Seater gallery](z_5_seater/gallery/)
-- [HiPhi Z 5 Seater reviews](z_5_seater/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>HiPhi Z 4 Seater</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="z_4_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg" class="img-fluid" alt="Z 4 Seater" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="z_4_seater/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="z_4_seater/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="z_4_seater/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="z_4_seater/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="z_4_seater/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="z_4_seater/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>HiPhi Z 5 Seater</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="z_5_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_st.jpg" class="img-fluid" alt="Z 5 Seater" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="z_5_seater/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="z_5_seater/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="z_5_seater/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="z_5_seater/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="z_5_seater/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="z_5_seater/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

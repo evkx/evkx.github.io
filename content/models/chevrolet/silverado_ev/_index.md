@@ -4,16 +4,23 @@ linktitle: "Silverado EV"
 description: "See below for details of the different variants of Chevrolet Silverado EV"
 weight: 30
 ---
-### Chevrolet Silverado EV 4WT
-
-<a href="silverado_ev_4wt/"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" class="img-fluid" alt="Silverado EV 4WT" ></a>
-
-Chevrolet Silverado EV 4WT is an all-electric Pickup Truck with a EPA range of up to 724 km (450 miles). EVKX.net has all the details. 
-
-- [Chevrolet Silverado EV 4WT full article](silverado_ev_4wt/)
-- [Chevrolet Silverado EV 4WT range & consumption](silverado_ev_4wt/rangeandconsumption/)
-- [Chevrolet Silverado EV 4WT charging curve & performance](silverado_ev_4wt/chargingcurve/)
-- [Chevrolet Silverado EV 4WT full specificationss](silverado_ev_4wt/specifications/)
-- [Chevrolet Silverado EV 4WT gallery](silverado_ev_4wt/gallery/)
-- [Chevrolet Silverado EV 4WT reviews](silverado_ev_4wt/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Chevrolet Silverado EV 4WT</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="silverado_ev_4wt/"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" class="img-fluid" alt="Silverado EV 4WT" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="silverado_ev_4wt/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

@@ -4,55 +4,77 @@ linktitle: "EQS SUV"
 description: "See below for details of the different variants of Mercedes EQS SUV"
 weight: 30
 ---
-### Mercedes-EQ EQS 450+ SUV
-
-<a href="eqs_450plus_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450plus_suv/main_1_st.jpg" class="img-fluid" alt="EQS 450+ SUV" ></a>
-
-Mercedes-EQ EQS 450+ SUV is an all-electric luxury SUV with a WLTP range of up to 672 km (418 miles). EVKX.net has all the details. 
-
-- [Mercedes-EQ EQS 450+ SUV full article](eqs_450plus_suv/)
-- [Mercedes-EQ EQS 450+ SUV range & consumption](eqs_450plus_suv/rangeandconsumption/)
-- [Mercedes-EQ EQS 450+ SUV charging curve & performance](eqs_450plus_suv/chargingcurve/)
-- [Mercedes-EQ EQS 450+ SUV full specificationss](eqs_450plus_suv/specifications/)
-- [Mercedes-EQ EQS 450+ SUV gallery](eqs_450plus_suv/gallery/)
-- [Mercedes-EQ EQS 450+ SUV reviews](eqs_450plus_suv/reviews/)
-
-### Mercedes-EQ EQS 450 4MATIC SUV
-
-<a href="eqs_450_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/main_1_st.jpg" class="img-fluid" alt="EQS 450 4MATIC SUV" ></a>
-
-Mercedes-EQ EQS 450 4MATIC SUV is an all-electric luxury SUV with a WLTP range of up to 611 km (380 miles). EVKX.net has all the details. 
-
-- [Mercedes-EQ EQS 450 4MATIC SUV full article](eqs_450_4matic_suv/)
-- [Mercedes-EQ EQS 450 4MATIC SUV range & consumption](eqs_450_4matic_suv/rangeandconsumption/)
-- [Mercedes-EQ EQS 450 4MATIC SUV charging curve & performance](eqs_450_4matic_suv/chargingcurve/)
-- [Mercedes-EQ EQS 450 4MATIC SUV full specificationss](eqs_450_4matic_suv/specifications/)
-- [Mercedes-EQ EQS 450 4MATIC SUV gallery](eqs_450_4matic_suv/gallery/)
-- [Mercedes-EQ EQS 450 4MATIC SUV reviews](eqs_450_4matic_suv/reviews/)
-
-### Mercedes-EQ EQS 580 4MATIC SUV
-
-<a href="eqs_580_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/main_1_st.jpg" class="img-fluid" alt="EQS 580 4MATIC SUV" ></a>
-
-Mercedes-EQ EQS 580 4MATIC SUV is an all-electric luxury SUV with a WLTP range of up to 610 km (379 miles). EVKX.net has all the details. 
-
-- [Mercedes-EQ EQS 580 4MATIC SUV full article](eqs_580_4matic_suv/)
-- [Mercedes-EQ EQS 580 4MATIC SUV range & consumption](eqs_580_4matic_suv/rangeandconsumption/)
-- [Mercedes-EQ EQS 580 4MATIC SUV charging curve & performance](eqs_580_4matic_suv/chargingcurve/)
-- [Mercedes-EQ EQS 580 4MATIC SUV full specificationss](eqs_580_4matic_suv/specifications/)
-- [Mercedes-EQ EQS 580 4MATIC SUV gallery](eqs_580_4matic_suv/gallery/)
-- [Mercedes-EQ EQS 580 4MATIC SUV reviews](eqs_580_4matic_suv/reviews/)
-
-### Mercedes-Maybach EQS 680 SUV
-
-<a href="eqs_680_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg" class="img-fluid" alt="EQS 680 SUV" ></a>
-
-Mercedes-Maybach EQS 680 SUV is an all-electric luxury SUV with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details. 
-
-- [Mercedes-Maybach EQS 680 SUV full article](eqs_680_suv/)
-- [Mercedes-Maybach EQS 680 SUV range & consumption](eqs_680_suv/rangeandconsumption/)
-- [Mercedes-Maybach EQS 680 SUV charging curve & performance](eqs_680_suv/chargingcurve/)
-- [Mercedes-Maybach EQS 680 SUV full specificationss](eqs_680_suv/specifications/)
-- [Mercedes-Maybach EQS 680 SUV gallery](eqs_680_suv/gallery/)
-- [Mercedes-Maybach EQS 680 SUV reviews](eqs_680_suv/reviews/)
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Mercedes-EQ EQS 450+ SUV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eqs_450plus_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450plus_suv/main_1_st.jpg" class="img-fluid" alt="EQS 450+ SUV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Mercedes-EQ EQS 450 4MATIC SUV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eqs_450_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/main_1_st.jpg" class="img-fluid" alt="EQS 450 4MATIC SUV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Mercedes-EQ EQS 580 4MATIC SUV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eqs_580_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/main_1_st.jpg" class="img-fluid" alt="EQS 580 4MATIC SUV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3>Mercedes-Maybach EQS 680 SUV</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="eqs_680_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_st.jpg" class="img-fluid" alt="EQS 680 SUV" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
