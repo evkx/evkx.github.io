@@ -982,7 +982,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 12,3"
+				Yes, two 14,9" and 7,6"
 			</td>
 		</tr>
 		<tr>

@@ -8,4 +8,7 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+### Autogefühl: Genesis GV70 EV driving REVIEW - the fastest charging electrified mid-size SUV 03.10.2022
+
+{{< youtube iQSYzFSCYXQ >}}
+

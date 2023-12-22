@@ -55,7 +55,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-Genesis Electrified GV70 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
+Genesis Electrified GV70 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. 
 
@@ -131,7 +131,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Genesis Electrified GV70 har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 12.3 tommer stor og har en oppløsning på 2880 x 1080 piksler. 
+-skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. touch-skjermen i dashbordets sentrum  er 14.9 tommer stor. touch-skjermen nederst på midtkonsollen er 7.6 tommer stor og har en oppløsning på 1280 x 660 piksler. 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

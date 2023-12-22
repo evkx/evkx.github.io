@@ -55,7 +55,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Genesis GV60 2WD has a rear-wheel drive system supported by one motor on the rear axle. 
+Genesis GV60 2WD has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm. 
 
@@ -127,6 +127,14 @@ There is one climate system available. The 2-zone climate system supports differ
 
 Genesis GV60 2WD has several features to make your life as a driver or passenger more comfortable. 
 
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+
+Keyless go makes it possible to start the car without using the key. 
+
+The steering wheel is electrically adjustable. 
+
+You have easy entry for the driver seat that move the seat to make it more easy to enter the car. 
+
 You have wireless charging for your phone.  
 
 {{<evkxdisplayaddarticle />}}
@@ -135,7 +143,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Genesis GV60 2WD has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 12.3 inches large and has a 2880 x 1080 pixels resolution. 
+The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen on the dashboard's center  is 14.9 inches large. The touch screen at the bottom of the center console is 7.6 inches large and has a 1280 x 660 pixels resolution. 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

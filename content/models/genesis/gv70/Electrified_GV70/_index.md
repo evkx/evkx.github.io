@@ -55,7 +55,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Genesis Electrified GV70 has an all-wheel drive system supported by two motors, one on each axle. 
+Genesis Electrified GV70 has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. 
 
@@ -131,7 +131,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Genesis Electrified GV70 has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 12.3 inches large and has a 2880 x 1080 pixels resolution. 
+The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen on the dashboard's center  is 14.9 inches large. The touch screen at the bottom of the center console is 7.6 inches large and has a 1280 x 660 pixels resolution. 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

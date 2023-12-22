@@ -990,7 +990,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, to 14,9" og 7,6"
 			</td>
 		</tr>
 		<tr>

@@ -55,7 +55,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-Genesis GV60 2WD har et bakhjulsdriftssystem støttet av en motor på bakakselen. 
+Genesis GV60 2WD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm. 
 
@@ -127,6 +127,14 @@ Det er ett tilgjengelig klimasystem. Klimasystemet 2-zone støtter forskjellige 
 
 Genesis GV60 2WD har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt. 
 
+Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene. 
+
+Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen. 
+
+Rattet er elektrisk justerbart. 
+
+Du har enkel inngang for førersetet som flytter setet for å gjøre det lettere å komme inn i bilen. 
+
 Du har trådløs lading for telefonen din. 
 
 {{<evkxdisplayaddarticle />}}
@@ -135,7 +143,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Genesis GV60 2WD har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 12.3 tommer stor og har en oppløsning på 2880 x 1080 piksler. 
+-skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. touch-skjermen i dashbordets sentrum  er 14.9 tommer stor. touch-skjermen nederst på midtkonsollen er 7.6 tommer stor og har en oppløsning på 1280 x 660 piksler. 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
