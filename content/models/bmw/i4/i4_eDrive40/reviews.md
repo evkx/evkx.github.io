@@ -8,6 +8,14 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Kris Rifa: BMW i4 eDrive40 | Long Trip Test 22.12.2023
+
+{{< youtube Vl4BoTXoZgU >}}
+
+### Kris Rifa: BMW i4 eDrive40 | Range Test 19.12.2023
+
+{{< youtube SzLfo2zCYMs >}}
+
 ### Bjørn Nyland: BMW i4 eDrive40 driving impressions & summary 17.07.2022
 
 {{< youtube zdQcH33Q6tw >}}

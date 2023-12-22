@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-rekkevidde
 			</td>
 			<td>
-				470 km
+				517 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				15,7 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -428,6 +428,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng bak
+			</td>
+			<td>
+				Multilink
 			</td>
 		</tr>
 	</tbody>

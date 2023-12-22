@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
-				470 km
+				517 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				15,7 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -428,6 +428,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multilink
 			</td>
 		</tr>
 	</tbody>

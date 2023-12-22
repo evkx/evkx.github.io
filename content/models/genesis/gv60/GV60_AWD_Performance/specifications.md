@@ -355,7 +355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable damping front</a>
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable damping rear</a>
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -428,6 +428,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				Coil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multilink
 			</td>
 		</tr>
 	</tbody>

@@ -1,7 +1,7 @@
 ---
 title: Genesis GV60 2WD
 linktitle: "GV60 2WD"
-description: "Genesis GV60 2WD er en helelektrisk SUV med en WLTP rekkevidde på opptil 470 km (292 miles). EVKX.net har alle detaljene. "
+description: "Genesis GV60 2WD er en helelektrisk SUV med en WLTP rekkevidde på opptil 517 km (321 miles). EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Genesis GV60 2WD har en maksimal effekt på 168KW (228hk).Totalt dreiemoment er 
 
 Batteriet har en bruttokapasitet på 77,4kWh og en nettokapasitet på 74kWh, noe som betyr at du har et 3,4kWh-buffer for beskyttelse. (4,4%).
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 470 km (292 mi). Forbruket er 15.7kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+ [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 517 km (321 mi). Forbruket er 14.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
 
 Maksimal DC-ladehastighet er 233kW. En full lading fra 0 - 100 % vil ta 38 minutter, mens et mer vanlig scenario på 10-80 % vil ta 16 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 152kW. Hver ladeøkt vil ta 22 minutter og 59 sekunder. 
 
@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Genesis GV60 2WD har et bakhjulsdriftssystem støttet av en motor på bakakselen. 
 
--opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm. 
+Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm. 
 
 ### Bremser
 

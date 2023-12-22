@@ -430,6 +430,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Coil
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng bak
+			</td>
+			<td>
+				Multilink
+			</td>
+		</tr>
 	</tbody>
 </table>
 

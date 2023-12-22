@@ -430,6 +430,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Coil
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multilink
+			</td>
+		</tr>
 	</tbody>
 </table>
 

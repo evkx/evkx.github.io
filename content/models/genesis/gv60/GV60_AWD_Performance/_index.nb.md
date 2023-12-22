@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Genesis GV60 AWD Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
 
--opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm. 
+Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. 
 
 ### Bremser
 

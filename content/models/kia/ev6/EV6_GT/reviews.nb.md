@@ -8,6 +8,14 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Kris Rifa: Kia EV6 GT | Long Trip Test 17.12.2023
+
+{{< youtube CbCNMI2HyI4 >}}
+
+### Kris Rifa: Kia EV6 GT | Range Test 13.12.2023
+
+{{< youtube np5bk2lubS8 >}}
+
 ### It's Only Electric: Kia EV6 GT - Full Review: Need to know before you buy! 01.11.2023
 
 {{< youtube 0RLbR8l57aI >}}

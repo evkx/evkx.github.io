@@ -1,7 +1,7 @@
 ---
 title: Genesis GV60 2WD
 linktitle: "GV60 2WD"
-description: "Genesis GV60 2WD is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. "
+description: "Genesis GV60 2WD is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Genesis GV60 2WD has a maximum power of 168 KW (228 hp/225 bhp). The total t
 
 The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4,4%). 
 
- The [WLTP range](../../../../guides/understandingrange/wltp/) is 470 km (292 mi).   The consumption is 15.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+ The [WLTP range](../../../../guides/understandingrange/wltp/) is 517 km (321 mi).   The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 38 minutes, while a more common scenario of 10-80% would take 16 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 76%, resulting in an actual charge speed, including time loss, of 152kW. Each charge session would take 22 minutes and 59 seconds. 
 
@@ -57,7 +57,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Genesis GV60 2WD has a rear-wheel drive system supported by one motor on the rear axle. 
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm. 
 
 ### Brakes
 
