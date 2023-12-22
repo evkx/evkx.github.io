@@ -230,4 +230,4 @@ Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilh
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 30.11.2023, og leveringene startet i November 2023.
+Denne modellen hadde verdenspremiere 30.11.2023, og leveringene startet i November 2023.Denne modellen er kun tilgjengelig i Nord-Amerika. 

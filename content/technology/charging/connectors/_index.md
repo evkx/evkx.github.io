@@ -42,7 +42,7 @@ It has a round shape with two additional DC pins below the type 2 connector. It 
 
 {{< sitefiguresized thumb="technology/charging/connectors/ccscombo2_2_st.jpg" width="3000" height="2165" title="CCS Combo 2 port with Type 2 for AC charging" >}}
 
-### NACS (Tesla)
+### NACS/J3400 (Tesla)
 
 NACS, or The [North American Charging Standard](https://www.tesla.com/blog/opening-north-american-charging-standard), is the Tesla Connector that Tesla opened for others in 2022.
 
@@ -57,6 +57,8 @@ EVKX.net expect others to follow soon.
 NACS is smaller and lighter than CCS Combo 1, which makes it easier to handle and plug in.
 
 {{< sitefiguresized thumb="technology/charging/connectors/nacs_2_st.jpg" width="1996" height="874" title="NACS connector / Tesla connector compared with CCS Combo 1" >}}
+
+December 18. 2023 it became the [J3400 standard](https://www.sae.org/standards/content/j3400_202312/).
 
 ### CHAdeMO
 
