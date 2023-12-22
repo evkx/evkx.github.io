@@ -99,6 +99,7 @@ The following functionalities are available on the **** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 6 different materials/colors for this seat type. <br />
@@ -144,7 +145,7 @@ One type of sound system is available for the Genesis Electrified GV70. With the
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Genesis Electrified GV70 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
 
-The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard. 
+The model has 4 USB-A connections as standard. 
 ## Lights
 
 The standard headlights use LED technology.   In addition, the standard taillights use LED technology. 

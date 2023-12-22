@@ -99,6 +99,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating) 
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) 
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
+- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen. <br />
@@ -144,7 +145,7 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Genesis Electrified GV70 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
-Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard. 
+Modellen har 4 USB-A-tilkoblinger som standard. 
 ## Lys
 
 Standardlyktene bruker LED-teknologi.  I tillegg bruker standard baklykter LED-teknologi. 
