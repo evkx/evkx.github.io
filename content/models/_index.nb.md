@@ -191,6 +191,8 @@ Hyundai har 3 modell(er) med totalt 7 varianter.
 <a href="hyundai/" class="btn btn-primary" role="button">Gå til Hyundai modelloversikt</a>
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<a href="jaguar/"><img src="https://media.evkx.net/multimedia/models/jaguar/brandevs_st.jpg" class="img-fluid" alt="Jaguar" ></a>
+
 <h2>Jaguar</h2>
 Jaguar har 1 modell(er) med totalt 1 varianter. 
 
@@ -317,6 +319,8 @@ Rolls-Royce har 1 modell(er) med totalt 1 varianter.
 <a href="rolls-royce/" class="btn btn-primary" role="button">Gå til Rolls-Royce modelloversikt</a>
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<a href="seres/"><img src="https://media.evkx.net/multimedia/models/seres/brandevs_st.jpg" class="img-fluid" alt="Seres" ></a>
+
 <h2>Seres</h2>
 Seres har 1 modell(er) med totalt 1 varianter. 
 
@@ -339,6 +343,8 @@ Smart har 2 modell(er) med totalt 4 varianter.
 <a href="smart/" class="btn btn-primary" role="button">Gå til Smart modelloversikt</a>
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<a href="subaru/"><img src="https://media.evkx.net/multimedia/models/subaru/brandevs_st.jpeg" class="img-fluid" alt="Subaru" ></a>
+
 <h2>Subaru</h2>
 Subaru har 1 modell(er) med totalt 1 varianter. 
 

@@ -208,6 +208,8 @@ Hyundai has 3 models with total 7 variants.
 <a href="hyundai/" class="btn btn-primary" role="button">Go to Hyundai EV-model overview</a>
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<a href="jaguar/"><img src="https://media.evkx.net/multimedia/models/jaguar/brandevs_st.jpg" class="img-fluid" alt="Jaguar" ></a>
+
 <h2>Jaguar</h2>
 Jaguar is a luxury vehicle brand of Jaguar Land Rover, a British multinational car manufacturer with its headquarters in Coventry, England. Jaguar Cars was founded in 1922 as the Swallow Sidecar Company, originally making motorcycle sidecars before developing bodies for passenger cars. The company's name was changed from SS Cars to Jaguar Cars in 1945.
 Jaguar has 1 models with total 1 variants. 
@@ -254,7 +256,7 @@ Lotus has 1 models with total 3 variants.
 <a href="lucid/"><img src="https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg" class="img-fluid" alt="Lucid" ></a>
 
 <h2>Lucid</h2>
-Lucid Group, Inc. is an American electric vehicle manufacturer headquartered in Newark, California. The company was founded in 2007. Deliveries of the Dream Edition launch versions were made available to the first group of 520 reservation holders on October 30, 2021  
+Lucid is an American manufacturer of electric luxury vehicles that was founded in 2007 as a battery company. It rebranded as Lucid Motors in 2016 and announced its first model, the Lucid Air, a high-performance sedan with a range of up to 516 miles. Lucid also plans to launch an electric SUV, the Lucid Gravity, in 2024.
 Lucid has 2 models with total 6 variants. 
 
 <a href="lucid/" class="btn btn-primary" role="button">Go to Lucid EV-model overview</a>
@@ -350,6 +352,8 @@ Rolls-Royce has 1 models with total 1 variants.
 <a href="rolls-royce/" class="btn btn-primary" role="button">Go to Rolls-Royce EV-model overview</a>
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<a href="seres/"><img src="https://media.evkx.net/multimedia/models/seres/brandevs_st.jpg" class="img-fluid" alt="Seres" ></a>
+
 <h2>Seres</h2>
 Seres is a global electric vehicle manufacturer that was established by the Sokon Group in Silicon Valley, USA. Seres produces electric vehicles with advanced technology, impressive performance, and intelligent features. 
 Seres has 1 models with total 1 variants. 
@@ -375,6 +379,8 @@ Smart has 2 models with total 4 variants.
 <a href="smart/" class="btn btn-primary" role="button">Go to Smart EV-model overview</a>
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<a href="subaru/"><img src="https://media.evkx.net/multimedia/models/subaru/brandevs_st.jpeg" class="img-fluid" alt="Subaru" ></a>
+
 <h2>Subaru</h2>
 Subaru is a Japanese automaker that produces vehicles with advanced technology, impressive performance, and intelligent features. Subaru is known for its permanent all-wheel drive system, boxer engine, and EyeSight driver assistance system. Subaru also has a strong reputation for safety, reliability, and durability.
 Subaru has 1 models with total 1 variants. 

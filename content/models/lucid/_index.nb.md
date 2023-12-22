@@ -1,7 +1,7 @@
 ---
 title: Lucid elektriske modeller
 linktitle: "Lucid"
-description: "Lucid Group, Inc. is an American electric vehicle manufacturer headquartered in Newark, California. The company was founded in 2007. Deliveries of the Dream Edition launch versions were made available to the first group of 520 reservation holders on October 30, 2021  "
+description: "Lucid is an American manufacturer of electric luxury vehicles that was founded in 2007 as a battery company. It rebranded as Lucid Motors in 2016 and announced its first model, the Lucid Air, a high-performance sedan with a range of up to 516 miles. Lucid also plans to launch an electric SUV, the Lucid Gravity, in 2024."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
