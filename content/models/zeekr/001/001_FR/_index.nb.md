@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/zeekr/001/001_fr/main_1_st.jpeg" title="Zeekr 001 FR" width="1280" height="853"  >}}
+{{< sitefiguresized thumb="models/zeekr/001/001_fr/main_1_st.jpg" title="Zeekr 001 FR" width="3000" height="1999"  >}}
 
 Vi har delt vår Zeekr 001 FR-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
@@ -76,7 +76,7 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 Vutene fra B-stolpen og baksiden er tonet. 
 
 
-{{< sitefiguresized thumb="models/zeekr/001/001_fr/exterior_1_st.jpeg" title="Zeekr 001 FR" width="1280" height="853"  >}}
+{{< sitefiguresized thumb="models/zeekr/001/001_fr/exterior_1_st.jpg" title="Zeekr 001 FR" width="3000" height="1999"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -101,6 +101,10 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen. <br />
 <br />
+
+
+
+{{< sitefiguresized thumb="models/zeekr/001/001_fr/frontseats_1_st.jpg" title="Zeekr 001 FR" width="3000" height="2250"  >}}
 
 
 ### Seter på andre rad
@@ -138,6 +142,10 @@ Du har trådløs lading for telefonen din.
 
 Zeekr 001 FR har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 8.8 tommer stor. touch-skjermen øverst på midtkonsollen er 15.4 tommer stor. 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+
+
+{{< sitefiguresized thumb="models/zeekr/001/001_fr/screens_1_st.jpg" title="Zeekr 001 FR" width="3000" height="3000"  >}}
+
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer. 
 

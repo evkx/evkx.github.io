@@ -1,15 +1,15 @@
 ---
-title: Zeekr 001 FR spesifikasjoner
+title: Genesis Electrified GV70 spesifikasjoner
 linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for Zeekr 001 FR."
+description: "EVKX.net gir deg alle spesifikasjonene for Genesis Electrified GV70."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/zeekr/001/001_fr/main_1_st.jpg" title="Zeekr 001 FR" width="3000" height="1999" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 001 FR. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Zeekr 001 FR, gå til [chargeinfo](../chargecurve/) for Zeekr 001 FR med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/main_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1500" >}}
+EVKX.net søker å ha de mest komplette spesifikasjonene for Genesis Electrified GV70. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Genesis Electrified GV70, gå til [chargeinfo](../chargecurve/) for Genesis Electrified GV70 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Ytelse
@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 001 FR. Klikk
 				Maks effekt
 			</td>
 			<td>
-				930 KW (1264 hk)
+				360 KW (489 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 001 FR. Klikk
 				Dreiemoment
 			</td>
 			<td>
-				1200 nm
+				700 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 001 FR. Klikk
 				Topphastighet
 			</td>
 			<td>
-				280 km/t
+				235 km/t
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 001 FR. Klikk
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				2,02 s
+				4,2 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-rekkevidde
 			</td>
 			<td>
-				580 km
+				470 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				16,4 kWh/100km
+				15,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				18,5 kWh/100km
+				18,8 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				100 kWh
+				77,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				95 kWh
+				74 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,15 +142,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				200 kW
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Antall moduler
-			</td>
-			<td>
-				17
+				233 kW
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +150,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Pakkekonfigurasjon
 			</td>
 			<td>
-				102s2p
+				192s2p
 			</td>
 		</tr>
 		<tr>
@@ -166,15 +158,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Nominell spenning
 			</td>
 			<td>
-				370
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Katodematerialer
-			</td>
-			<td>
-				NMC811
+				697
 			</td>
 		</tr>
 	</tbody>
@@ -201,7 +185,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				4955 mm
+				4715 mm
 			</td>
 		</tr>
 		<tr>
@@ -209,7 +193,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1548 mm
+				1630 mm
 			</td>
 		</tr>
 		<tr>
@@ -217,7 +201,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde uten speil
 			</td>
 			<td>
-				1999 mm
+				1910 mm
 			</td>
 		</tr>
 		<tr>
@@ -225,7 +209,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde inkludert speil
 			</td>
 			<td>
-				2225 mm
+				2165 mm
 			</td>
 		</tr>
 		<tr>
@@ -233,23 +217,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Akselavstand
 			</td>
 			<td>
-				2999 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sporbredde foran
-			</td>
-			<td>
-				1602 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sporbredde bak
-			</td>
-			<td>
-				1601 mm
+				2875 mm
 			</td>
 		</tr>
 		<tr>
@@ -257,7 +225,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11,8 meter
+				11,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -282,7 +250,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2350 kg
+				2235 kg
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +258,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				3080 kg
+				2845 kg
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +266,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				730 kg
+				610 kg
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +282,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				539 liter
+				503 liter
 			</td>
 		</tr>
 		<tr>
@@ -322,15 +290,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1411 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Størrelse frunk
-			</td>
-			<td>
-				32 liter
+				1678 liter
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +298,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>
-				2000 kg
+				1800 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +355,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar demping bak
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +363,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar høyde foran
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar høyde bak
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +379,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				192 mm
+				178 mm
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +387,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				162 mm
+				178 mm
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +395,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Type demper foran
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +403,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Type demper bak
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>
@@ -451,7 +411,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Type fjæring foran
 			</td>
 			<td>
-				Air
+				Coil
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +419,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Type fjæring bak
 			</td>
 			<td>
-				Air
+				Coil
 			</td>
 		</tr>
 		<tr>
@@ -483,12 +443,8 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Interiør
 
-Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Forseter
-
-
-#### standard
 
 <table class="table table-striped">
 	<thead>
@@ -515,7 +471,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -523,7 +479,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Minne førersete
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -531,7 +487,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Minne passasjersete
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +495,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -547,7 +503,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -563,7 +519,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -571,7 +527,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -587,7 +543,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -595,7 +551,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -603,7 +559,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Valgfri funksjon
 			</td>
 		</tr>
 		<tr>
@@ -611,7 +567,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Standardfunksjon
+				Valgfri funksjon
 			</td>
 		</tr>
 		<tr>
@@ -619,7 +575,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 	</tbody>
@@ -652,7 +608,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +616,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -668,7 +624,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -724,7 +680,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -732,7 +688,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 	</tbody>
@@ -765,6 +721,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lane departure warning
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -787,7 +744,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				360-kamera
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja (Surround View Monitor), tileggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -795,7 +752,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Alarm for kryssende trafikk bak
 			</td>
 			<td>
-				Ja (BLIS Cross Traffic Alert), standardutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -803,7 +760,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer bak
 			</td>
 			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -811,7 +767,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer foran
 			</td>
 			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -819,7 +774,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer på siden
 			</td>
 			<td>
-				Ja, tileggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -827,7 +781,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill nedstigningshjelp
 			</td>
 			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -843,6 +796,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				AntiLock Braking System
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -881,7 +835,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Forward Collision Warning
 			</td>
 			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -897,7 +850,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Temperaturadvarsel
 			</td>
 			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -905,6 +857,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Cross traffic assist
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -919,7 +872,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Effektivitetsassistent
 			</td>
 			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -927,6 +879,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -934,6 +887,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -941,6 +895,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Nattsyn
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -965,7 +920,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ja, tileggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -973,7 +928,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Voice control
 			</td>
 			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1020,7 +974,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 8,8
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1028,7 +982,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 15,4
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>

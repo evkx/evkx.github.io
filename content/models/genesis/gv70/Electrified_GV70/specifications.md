@@ -1,15 +1,15 @@
 ---
-title: Zeekr 001 FR specifications
+title: Genesis Electrified GV70 specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Zeekr 001 FR."
+description: "EVKX.net gives you the full specifications for Genesis Electrified GV70."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/zeekr/001/001_fr/main_1_st.jpg" title="Zeekr 001 FR" width="3000" height="1999" >}}
-EVKX.net seeks to have the most complete specifications for Zeekr 001 FR. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 001 FR, visit the [chargeinfo](../chargecurve/) for Zeekr 001 FR with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/main_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1500" >}}
+EVKX.net seeks to have the most complete specifications for Genesis Electrified GV70. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Genesis Electrified GV70, visit the [chargeinfo](../chargecurve/) for Genesis Electrified GV70 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 FR. Click 
 				Peak power
 			</td>
 			<td>
-				930 KW (1264 hp /1247 bhp)
+				360 KW (489 hp /483 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 FR. Click 
 				Electrical torque output
 			</td>
 			<td>
-				1200 nm (886 ft-lb)
+				700 nm (517 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 FR. Click 
 				Top speed
 			</td>
 			<td>
-				280 kph (174 mph)
+				235 kph (146 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 001 FR. Click 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				2,02 s
+				4,2 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
-				580 km
+				470 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				16,4 kWh/100km
+				15,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				18,5 kWh/100km
+				18,8 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				100 kWh
+				77,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				95 kWh
+				74 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,15 +142,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				200 kW
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Number of modules
-			</td>
-			<td>
-				17
+				233 kW
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Pack Configuration</a>
 			</td>
 			<td>
-				102s2p
+				192s2p
 			</td>
 		</tr>
 		<tr>
@@ -166,15 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				370
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
-			</td>
-			<td>
-				NMC811
+				697
 			</td>
 		</tr>
 	</tbody>
@@ -201,7 +185,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4955 mm (195,1")
+				4715 mm (185,6")
 			</td>
 		</tr>
 		<tr>
@@ -209,7 +193,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1548 mm (60,9")
+				1630 mm (64,2")
 			</td>
 		</tr>
 		<tr>
@@ -217,7 +201,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1999 mm (78,7")
+				1910 mm (75,2")
 			</td>
 		</tr>
 		<tr>
@@ -225,7 +209,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2225 mm (87,6")
+				2165 mm (85,2")
 			</td>
 		</tr>
 		<tr>
@@ -233,23 +217,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2999 mm (118,1")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Track width front
-			</td>
-			<td>
-				1602 mm (63,1")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Track width rear
-			</td>
-			<td>
-				1601 mm (63,0")
+				2875 mm (113,2")
 			</td>
 		</tr>
 		<tr>
@@ -257,7 +225,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11,8 meter (464,6")
+				11,5 meter (452,8")
 			</td>
 		</tr>
 	</tbody>
@@ -282,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2235 kg (4927 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				3080 kg (6790 lbs)
+				2845 kg (6272 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				730 kg (1609 lbs)
+				610 kg (1345 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				539 liter (19 cu-ft)
+				503 liter (18 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -322,15 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1411 liter (50 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
-			</td>
-			<td>
-				32 liter (1 cu-ft)
+				1678 liter (59 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
-				2000 kg (4409 lbs)
+				1800 kg (3968 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable damping rear</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +363,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable height front</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable height rear</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				192 mm (7,6")
+				178 mm (7,0")
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				162 mm (6,4")
+				178 mm (7,0")
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +395,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Damper type front</a>
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +403,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Damper type rear</a>
 			</td>
 			<td>
-				ElectronicallyControlled
+				Monotube
 			</td>
 		</tr>
 		<tr>
@@ -451,7 +411,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Spring type front</a>
 			</td>
 			<td>
-				Air
+				Coil
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +419,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Spring type rear</a>
 			</td>
 			<td>
-				Air
+				Coil
 			</td>
 		</tr>
 		<tr>
@@ -483,12 +443,8 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
-This model is available with a seat configuration with five seats.
 
 ### Front seats
-
-
-#### standard
 
 <table class="table table-striped">
 	<thead>
@@ -515,7 +471,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -523,7 +479,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Memory driver seat</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -531,7 +487,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Memory passenger seat</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +495,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -547,7 +503,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -563,7 +519,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -571,7 +527,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -587,7 +543,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -595,7 +551,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -603,7 +559,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Standard feature
+				Optional feature
 			</td>
 		</tr>
 		<tr>
@@ -611,7 +567,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Standard feature
+				Optional feature
 			</td>
 		</tr>
 		<tr>
@@ -619,7 +575,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 	</tbody>
@@ -652,7 +608,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +616,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -668,7 +624,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -724,7 +680,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -732,7 +688,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 	</tbody>
@@ -765,6 +721,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/lanedeparturewarning/">Lane departure warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -787,7 +744,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">360 camera</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes (Surround View Monitor), optional equipment
 			</td>
 		</tr>
 		<tr>
@@ -795,7 +752,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/rearcrosstrafficalert/">Rear cross traffic alert</a>
 			</td>
 			<td>
-				Yes (BLIS Cross Traffic Alert), standard equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -803,7 +760,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -811,7 +767,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -819,7 +774,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
-				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
@@ -827,7 +781,6 @@ This model is available with a seat configuration with five seats.
 				Hill descent assist
 			</td>
 			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -843,6 +796,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/antilockbrakingsystem/">AntiLock Braking System</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -881,7 +835,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -897,7 +850,6 @@ This model is available with a seat configuration with five seats.
 				<a href="Temperature warning">Temperature warning</a>
 			</td>
 			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -905,6 +857,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -919,7 +872,6 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -927,6 +879,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -934,6 +887,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -941,6 +895,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/infrared/">Night Vision</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 	</tbody>
@@ -965,7 +920,7 @@ This model is available with a seat configuration with five seats.
 				Head-up display
 			</td>
 			<td>
-				Yes, standard equipment
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
@@ -973,7 +928,6 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1020,7 +974,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 8,8
+				Yes, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1028,7 +982,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 15,4"
+				Yes, 12,3"
 			</td>
 		</tr>
 		<tr>

@@ -20,3 +20,15 @@ Denne modellen er tilgjengelig i 3 variant(er).
 		</div>
 	</div>
 </div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Genesis GV70</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="gv70"><img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/main_1_st.jpg" class="img-fluid" alt="Genesis GV70" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+Denne modellen er tilgjengelig i 1 variant(er).
+<a href="gv70">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

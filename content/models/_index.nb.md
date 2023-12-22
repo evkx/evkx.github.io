@@ -147,7 +147,7 @@ Ford har 2 modell(er) med totalt 7 varianter.
 <a href="genesis/"><img src="https://media.evkx.net/multimedia/models/genesis/brandevs_st.jpg" class="img-fluid" alt="Genesis" ></a>
 
 <h2>Genesis</h2>
-Genesis har 1 modell(er) med totalt 3 varianter. 
+Genesis har 2 modell(er) med totalt 4 varianter. 
 
 <a href="genesis/" class="btn btn-primary" role="button">Gå til Genesis modelloversikt</a>
 </div>
