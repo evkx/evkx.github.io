@@ -31,7 +31,15 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Genesis Electrified
 				Maks effekt
 			</td>
 			<td>
-				360 KW (489 hk)
+				320 KW (435 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks effekt med boost
+			</td>
+			<td>
+				360 Kw
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +61,14 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Genesis Electrified
 		<tr>
 			<td>
 				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				4,8 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				4,2 s

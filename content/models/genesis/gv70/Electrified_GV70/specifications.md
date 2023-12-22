@@ -31,7 +31,15 @@ EVKX.net seeks to have the most complete specifications for Genesis Electrified 
 				Peak power
 			</td>
 			<td>
-				360 KW (489 hp /483 bhp)
+				320 KW (435 hp /429 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peak power with  boost
+			</td>
+			<td>
+				360 Kw
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +61,14 @@ EVKX.net seeks to have the most complete specifications for Genesis Electrified 
 		<tr>
 			<td>
 				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				4,8 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				4,2 s

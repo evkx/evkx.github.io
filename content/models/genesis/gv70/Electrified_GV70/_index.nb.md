@@ -29,7 +29,7 @@ Vi har delt vår Genesis Electrified GV70-artikkel i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-Genesis Electrified GV70 har en maksimal effekt på 360KW (490hk).Totalt dreiemoment er 700nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Topphastigheten er 235 km/t.
+Med overboost har Genesis Electrified GV70 en maksimal effekt på 360KW (490hk). Uten overboost er den 320KW (435hk). Totalt dreiemoment er 700nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder med overboost og 4,8 sekunder uten overboost. Topphastigheten er 235 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -103,8 +103,13 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. 
+Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen. 
 - Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Green [skinntrekk](../../../../technology/seats/materials/#leather)
+- BlackAndWhite [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Green [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- BlackAndWhite [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 
 

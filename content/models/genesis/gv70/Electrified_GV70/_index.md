@@ -29,7 +29,7 @@ We have separated our Genesis Electrified GV70 article into sections. If you wan
 
 ## Performance
 
-The Genesis Electrified GV70 has a maximum power of 360 KW (490 hp/483 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,2 seconds. The top speed is 235 km/h.
+With overboost, the Genesis Electrified GV70 has a maximum power of 360 KW (490 hp / 435 bhp). Without overboost, it is 320 KW (435 hp / 483 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,2 seconds with overboost and 4,8 seconds without overboost. The top speed is 235 km/h.
 
 ## Battery, range, and charging
 
@@ -103,8 +103,13 @@ The following functionalities are available on the **** seat.
 - [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 1 different materials/colors for this seat type. 
+You can choose from 6 different materials/colors for this seat type. 
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Green [leather upholstering](../../../../technology/seats/materials/#leather)
+- BlackAndWhite [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Green [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- BlackAndWhite [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 
 
