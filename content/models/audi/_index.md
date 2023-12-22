@@ -1,12 +1,12 @@
 ---
 title: Audi EV models
 linktitle: "Audi"
-description: "Audi is continuously expanding its electric vehicle fleet and will only launch all-electric models from 2026. The e-roadmap also stipulates the gradual phasing out of the production of vehicles with combustion engines by 2033. "
+description: "Audi is a German car manufacturer that is part of the Volkswagen Group. It is known for its premium and sporty vehicles, as well as its slogan 'Vorsprung durch Technik', which means 'Progress through Technology'. Audi has a history of innovation and excellence, dating back to its founding in 1909 by August Horch."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Audis first mass market EV was the Audi e-tron launched in 2018. Since then, Audi Q4 e-tron, Audi e-tron GT and Audi Q8 e-tron has been launched. Audi has currently 4 all electric models with total 28 variants in the market. Below you find links for each model page.
+<p>Audi has recently announced its vision for a sustainable future with electrification as its core strategy. According to its CEO Markus Duesmann, Audi will only launch new models with electric drive systems on the global market starting in 2026. The production of internal combustion engines will be gradually phased out until 2033. Audi aims to focus on software, upgradeable cars, and autonomous tech over the next few years, while developing its vehicles' distinct DNA. Audi expects a quicker end to the internal combustion era than other automakers.</p><p> Audi currently offers several electric models, such as the e-tron, the e-tron GT, and the Q4 e-tron. It also plans to introduce more electric models in the near future, such as the A6 e-tron, the Q6 e-tron, and the Project Artemis. Audi's electric vehicles offer high performance, elegant design, and advanced features. Audi also provides its customers with an ecosystem of services and solutions, such as charging options, digital platforms, and mobility offers</p>
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
 <h3> Audi e-tron</h3>

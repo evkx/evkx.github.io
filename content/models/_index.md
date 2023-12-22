@@ -58,7 +58,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 <a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid" alt="Audi" ></a>
 
 <h2>Audi</h2>
-Audi is continuously expanding its electric vehicle fleet and will only launch all-electric models from 2026. The e-roadmap also stipulates the gradual phasing out of the production of vehicles with combustion engines by 2033. 
+Audi is a German car manufacturer that is part of the Volkswagen Group. It is known for its premium and sporty vehicles, as well as its slogan 'Vorsprung durch Technik', which means 'Progress through Technology'. Audi has a history of innovation and excellence, dating back to its founding in 1909 by August Horch.
 Audi has 4 models with total 28 variants. 
 
 <a href="audi/" class="btn btn-primary" role="button">Go to Audi EV-model overview</a>

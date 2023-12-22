@@ -1,12 +1,12 @@
 ---
 title: Audi elektriske modeller
 linktitle: "Audi"
-description: "Audi is continuously expanding its electric vehicle fleet and will only launch all-electric models from 2026. The e-roadmap also stipulates the gradual phasing out of the production of vehicles with combustion engines by 2033. "
+description: "Audi er en tysk bilprodusent som er en del av Volkswagen Group. Den er kjent for sine førsteklasses og sporty kjøretøyer, samt slagordet 'Vorsprung durch Technik', som betyr 'Progress through Technology'. Audi har en historie med innovasjon og fortreffelighet, som går tilbake til grunnleggelsen i 1909 av August Horch."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-
+<p>Audi har nylig annonsert sin visjon for en bærekraftig fremtid med elektrifisering som kjernestrategi. Ifølge konsernsjef Markus Duesmann vil Audi kun lansere nye modeller med elektriske drivsystemer på det globale markedet fra og med 2026. Produksjonen av forbrenningsmotorer vil gradvis fases ut frem til 2033. Audi har som mål å fokusere på programvare, oppgraderbare biler, og autonom teknologi i løpet av de neste årene, mens de utvikler kjøretøyenes distinkte DNA. Audi forventer en raskere slutt på forbrenningstiden enn andre bilprodusenter.</p><p> Audi tilbyr for tiden flere elektriske modeller, som e-tron, e-tron GT og Q4 e-tron. Den planlegger også å introdusere flere elektriske modeller i nær fremtid, for eksempel A6 e-tron, Q6 e-tron og Project Artemis. Audis elektriske kjøretøy tilbyr høy ytelse, elegant design og avanserte funksjoner. Audi gir også kundene sine et økosystem av tjenester og løsninger, som lademuligheter, digitale plattformer og mobilitetstilbud</p>
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
 <h3> Audi e-tron</h3>
