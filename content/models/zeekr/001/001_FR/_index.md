@@ -190,4 +190,4 @@ The cargo capacity in the trunk is 539 liters. With the rear seat down, it is 14
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 14.04.2021, and deliveries started in October 2021.
+This model had a world premiere on 30.10.2023, and deliveries started in January 2024.

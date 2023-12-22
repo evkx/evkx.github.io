@@ -15,7 +15,7 @@ Genesis has recently announced its vision for a sustainable future with electrif
 			<a href="gv60"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_sport/main_1_st.jpg" class="img-fluid" alt="Genesis GV60" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 2 variant(s). 
+This model is available in 3 variant(s). 
 <a href="gv60">Go to model info</a>
 		</div>
 	</div>

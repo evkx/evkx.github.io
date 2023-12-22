@@ -190,4 +190,4 @@ Lastkapasiteten i bagasjerommet er 539 liter. Med baksetet nede er det 1411 lite
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i October 2021.
+Denne modellen hadde verdenspremiere 30.10.2023, og leveringene startet i January 2024.

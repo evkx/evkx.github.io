@@ -15,7 +15,7 @@ weight: 30
 			<a href="gv60"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_sport/main_1_st.jpg" class="img-fluid" alt="Genesis GV60" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 2 variant(er).
+Denne modellen er tilgjengelig i 3 variant(er).
 <a href="gv60">Gå til modellinfo</a>
 		</div>
 	</div>

@@ -1,7 +1,7 @@
 ---
-title: Genesis GV60 AWD
-linktitle: "GV60 AWD"
-description: "Genesis GV60 AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 470 km (292 miles). EVKX.net har alle detaljene. "
+title: Genesis GV60 2WD
+linktitle: "GV60 2WD"
+description: "Genesis GV60 2WD er en helelektrisk SUV med en WLTP rekkevidde på opptil 470 km (292 miles). EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/main_1_st.jpg" title="Genesis GV60 AWD" width="3000" height="1688"  >}}
+{{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/main_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="1688"  >}}
 
-Vi har delt vår Genesis GV60 AWD-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har delt vår Genesis GV60 2WD-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
@@ -29,7 +29,7 @@ Vi har delt vår Genesis GV60 AWD-artikkel i seksjoner. Hvis du vil vente med å
 
 ## Ytelse
 
-Genesis GV60 AWD har en maksimal effekt på 234KW (318hk).Totalt dreiemoment er 605nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,5 sekunder. Topphastigheten er 185 km/t.
+Genesis GV60 2WD har en maksimal effekt på 168KW (228hk).Totalt dreiemoment er 350nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,5 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -55,7 +55,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-Genesis GV60 AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
+Genesis GV60 2WD har et bakhjulsdriftssystem støttet av en motor på bakakselen. 
 
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm. 
 
@@ -77,7 +77,7 @@ Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanli
 Du kan bestille bilen med tonede vinduer fra B-stolpen og bak. 
 
 
-{{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/exterior_1_st.jpg" title="Genesis GV60 AWD" width="3000" height="2121"  >}}
+{{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/exterior_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="2121"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -90,7 +90,7 @@ Du kan velge mellom ulike typer setematerialer og interiørstil.
 
 ### Forseter
 
-Bare én type forsete er tilgjengelig i Genesis GV60 AWD. 
+Bare én type forsete er tilgjengelig i Genesis GV60 2WD. 
 
 Følgende funksjoner er tilgjengelige på **** setet. 
 
@@ -106,7 +106,7 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen. <br />
 
 
 
-{{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/frontseats_1_st.jpg" title="Genesis GV60 AWD" width="1500" height="1090"  >}}
+{{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/frontseats_1_st.jpg" title="Genesis GV60 2WD" width="1500" height="1090"  >}}
 
 
 ### Seter på andre rad
@@ -125,7 +125,7 @@ Det er ett tilgjengelig klimasystem. Klimasystemet 2-zone støtter forskjellige 
 
 ## Komfort
 
-Genesis GV60 AWD har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt. 
+Genesis GV60 2WD har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt. 
 
 Du har trådløs lading for telefonen din. 
 
@@ -135,18 +135,18 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Genesis GV60 AWD har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 12.3 tommer stor og har en oppløsning på 2880 x 1080 piksler. 
+Genesis GV60 2WD har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 12.3 tommer stor og har en oppløsning på 2880 x 1080 piksler. 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
-{{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/screens_1_st.jpg" title="Genesis GV60 AWD" width="3000" height="1796"  >}}
+{{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/screens_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="1796"  >}}
 
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Genesis GV60 AWD. Med Bose Premium Sound System får du åtte høyttalere med en maksimal systemeffekt på  watt. 
+Én type lydsystem er tilgjengelig for Genesis GV60 2WD. Med Bose Premium Sound System får du åtte høyttalere med en maksimal systemeffekt på  watt. 
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Genesis GV60 AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Genesis GV60 2WD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
 
 Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard. 
 ## Lys
@@ -154,26 +154,26 @@ Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 Standardlyktene bruker LED-teknologi.  I tillegg bruker standard baklykter LED-teknologi. 
 
 
-{{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/headlights_1_st.jpg" title="Genesis GV60 AWD" width="1387" height="780"  >}}
+{{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/headlights_1_st.jpg" title="Genesis GV60 2WD" width="1387" height="780"  >}}
 
 ## Avanserte førerassistentsystemer
 
-Genesis GV60 AWD har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+Genesis GV60 2WD har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 ### Sikkerhetssystemer
 
 
 
-Genesis GV60 AWD har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Genesis GV60 2WD har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-Genesis GV60 AWD har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
+Genesis GV60 2WD har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
 
-Genesis GV60 AWD har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+Genesis GV60 2WD har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er standard førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon. 
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er standard førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
-Genesis GV60 AWD har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+Genesis GV60 2WD har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
 [**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
 

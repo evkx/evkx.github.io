@@ -91,6 +91,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-65c52c8e
+  translation: Genesis GV60 2WD er en helelektrisk SUV med en WLTP rekkevidde på opptil 470 km (292 miles). EVKX.net har alle detaljene. 
+
 - id: frontpage-description-c3b21caf
   translation: Genesis GV60 AWD Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 470 km (292 miles). EVKX.net har alle detaljene. 
 
@@ -102,7 +105,4 @@
 
 - id: frontpage-description-7a7eff1d
   translation: Tesla Cybertruck AWD er en helelektrisk pickup med en EPA rekkevidde på opptil 547 km (340 miles). EVKX.net har alle detaljene. 
-
-- id: frontpage-description-ab420833
-  translation: Tesla Cybertruck Cyberbeast er en helelektrisk pickup med en EPA rekkevidde på opptil 515 km (320 miles). EVKX.net har alle detaljene. 
 
