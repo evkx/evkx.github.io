@@ -63,11 +63,11 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). You can choose between two stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes, and roll mode causes the vehicle to roll until it stops by itself. You can adjust how strong regen you get when you lift the foot. There are three levels.
 
 ## Exterior
 
-You can choose between 10 different paint colors when ordering this model. 
+You can choose between 8 different paint colors when ordering this model. 
 Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). 
@@ -100,10 +100,12 @@ The following functionalities are available on the **** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
+- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 6 different materials/colors for this seat type. <br />
-<br />
+You can choose from 1 different materials/colors for this seat type. 
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+
 
 
 ### Second-row seat
@@ -132,7 +134,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen on the dashboard's center  is 14.9 inches large. The touch screen at the bottom of the center console is 7.6 inches large and has a 1280 x 660 pixels resolution. 
+The  screen behind the steering wheel integrated into the dashboard is 8.0 inches large. The touch screen on the dashboard's center  is 14.9 inches large. The touch screen at the bottom of the center console is 5.0 inches large. 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -188,6 +190,6 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 503 liters. With the rear seat down, it is 1678 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 2845 kg (6272 lbs), and with the base weight of 2235 kg (4927 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 503 liters. With the rear seat down, it is 1678 liters. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 25 liters (0,9 CU FT). The maxium weight of the car is 2845 kg (6272 lbs), and with the base weight of 2235 kg (4927 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).

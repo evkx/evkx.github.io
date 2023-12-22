@@ -23,6 +23,8 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 <tbody>
 <tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 470 km / 292mi </td><td>15,74kWh/100km / 3,9 mi/kWh </td></tr> 
 <tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 470 km / 292mi </td><td> 15,74 kWh/100km / 3,9 mi/kWh </td></tr>  
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>380km / 236 mi</td><td> 19,5 kWh/100km / 3,2 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>380km /236mi</td><td> 19,5 kWh/100km / 3,2 mi/kWh  </td></tr> 
 </tbody></table>
 
 ### Offisielle testsyklusresultater med ekstra oppvarming
@@ -35,6 +37,8 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 <tbody>
 <tr><td> WLTP-combined basic trim with 2KW AC </td><td> 369km /229 mi </td><td> -21,5%</td></tr>
 <tr><td>  WLTP-combined top trim with 2KW AC </td><td> 369km /229 mi </td><td>-21,5%</td></tr>
+<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 193km /120 mi </td><td> -18,2%</td></tr>
+<tr><td>  EPA-combined top trim with 2KW AC </td><td> 193km /120 mi </td><td> -18,2%</td></tr>
 </tbody></table>
 
 ### Rekkeviddeanslag fra den virkelige verden

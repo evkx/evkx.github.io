@@ -63,11 +63,11 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen). I denne modusen ruller bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). Du kan velge mellom to stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser, og rullemodus får kjøretøyet til å rulle til det stopper av seg selv. Du kan justere hvor sterk regen du får når du løfter foten. Det er tre nivåer.
 
 ## Eksteriør
 
-Du kan velge mellom 10 forskjellige lakkfarger når du bestiller denne modellen. 
+Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen. 
 I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer. 
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate). 
@@ -100,10 +100,12 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) 
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
+- [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
-Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen. <br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. 
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+
 
 
 ### Seter på andre rad
@@ -132,7 +134,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. touch-skjermen i dashbordets sentrum  er 14.9 tommer stor. touch-skjermen nederst på midtkonsollen er 7.6 tommer stor og har en oppløsning på 1280 x 660 piksler. 
+-skjermen bak rattet integrert i dashbordet er 8.0 tommer stor. touch-skjermen i dashbordets sentrum  er 14.9 tommer stor. touch-skjermen nederst på midtkonsollen er 5.0 tommer stor. 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -188,6 +190,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 503 liter. Med baksetet nede er det 1678 liter. På taket kan du laste opptil 100 kg. Maksimumsvekten til bilen er 2845 kg, og med basisvekten på 2235 kg kan du maksimalt laste 610 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 503 liter. Med baksetet nede er det 1678 liter. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 25 liter. Maksimumsvekten til bilen er 2845 kg, og med basisvekten på 2235 kg kan du maksimalt laste 610 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.
