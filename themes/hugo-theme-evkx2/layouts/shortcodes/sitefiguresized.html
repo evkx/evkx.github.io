@@ -1,5 +1,5 @@
 <figure>
-    {{ $url := .Get "thumb" | replaceRE "_st" "" }}
+    {{ $url := .Get "thumb" | replaceRE "_st." "." }}
     {{ $random := delimit (shuffle (split (md5 $url) "" )) "" }}
     {{ $originalWidth := .Get "width" | float }}
     {{ $originalHeight := .Get "height" | float }}
